@@ -242,11 +242,20 @@ foreach ($countrys as $key => $value) {
             $res2          = curl_get($url, array());
             $hotel         = simplexml_load_string($res2);
             
-            $textoAgregado =  $item['giataId'].'|'.utf8_decode($hotel->item->city);
+            //$textoAgregado =  $item['giataId'].'|'.utf8_decode($hotel->item->city);
 
-            fputs($file,$textoAgregado);
-            fputs($file,"\n");
+            $citys[] = utf8_decode($hotel->item->city);
+
+            //fputs($file,$textoAgregado);
+            //fputs($file,"\n");
         //}    
+    }
+
+    $citys = array_unique($citys);
+
+    foreach ($citys as $value) {
+      fputs($file,$textoAgregado);
+      fputs($file,"\n");
     }
 
     fclose($file);
