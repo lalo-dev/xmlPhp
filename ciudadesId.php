@@ -219,7 +219,7 @@ $countrys =  array(
 $micontador = 0;
 
 foreach ($countrys as $key => $value) {
-    if ($micontador == 2) {
+    if ($micontador == 1) {
         exit();
     }
 
@@ -228,9 +228,9 @@ foreach ($countrys as $key => $value) {
     //obtener el xml usarndo curl y simplexml
     $res      = curl_get($url, array());
     $object   = simplexml_load_string($res);
-    $fileName = 'city'.$key.'.txt';
+    //$fileName = 'city'.$key.'.txt';
     
-    $file     =fopen($fileName,"a") or die("Problemas");
+    //$file     =fopen($fileName,"a") or die("Problemas");
 
     foreach ($object->items->item as $item) {
         //if ($item['giataId'] > 168409) {
@@ -244,21 +244,26 @@ foreach ($countrys as $key => $value) {
             
             //$textoAgregado =  $item['giataId'].'|'.utf8_decode($hotel->item->city);
 
-            $citys[] = utf8_decode($hotel->item->city);
+            echo $item['giataId'].'|'.$hotel->item->city;
+            echo '<br>';
+
+            //$citys[] = utf8_decode($hotel->item->city);
 
             //fputs($file,$textoAgregado);
             //fputs($file,"\n");
         //}    
     }
 
-    $citys = array_unique($citys);
+    //$citys = array_unique($citys);
 
-    foreach ($citys as $value) {
-      fputs($file,$textoAgregado);
-      fputs($file,"\n");
-    }
+    //print_r($citys);
 
-    fclose($file);
+    // foreach ($citys as $value) {
+    //   fputs($file,$value);
+    //   fputs($file,"\n");
+    // }
+
+    // fclose($file);
 
     $micontador++;
 }
