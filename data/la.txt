@@ -1,0 +1,65 @@
+15934|Lao Plaza
+18066|Mercure Vientiane
+19022|La Residence Phou Vao
+21448|Settha Palace
+24004|Villa Santi
+52358|Mouang Luang
+52359|The Grand
+62720|Don Chan Palace
+75309|Champa Residence
+77040|Inter City Boutique
+77350|Maison Souvannaphoum
+77351|Vansana
+77928|Villa Maydou
+77929|Green Park Boutique
+87472|Lao Spirit Resort
+132668|Chanthavinh Resort
+136101|Villa Maly
+139841|Villa Treasure
+139920|City Inn
+142225|Le Bel Air Boutique Resort
+159356|Nam Song
+159359|Beau Rivage Mekong
+182791|Amantaka
+202114|Sunset House
+226506|Rama
+227332|The Luang Say Residence
+229252|Ansara Boutique
+229260|Satri House
+230107|Villa Deux Rivieres
+232174|Le Palais Juliana
+232643|Elephant Crossing
+234470|Villa Chitdara
+234509|Sabaidee at Lao
+236810|Pakbeng Lodge
+236979|Senesothxeune Don Khong
+238192|Zen Namkhan Boutique Resort
+238596|Ban Lao
+238599|Santi Resort & Spa
+239190|Shinta Mani Luang Prabang
+241781|Hotel de la Paix Luang Prabang, Managed by Accor
+244151|Best Western Vientiane
+245803|My Dream Boutique Resort & Spa
+246196|Salana
+247844|Kiridara - Villa Ban Visoun/ Villa Ban Kili / Hotel Kiridara
+247845|Asian Pavilion
+247846|Samxay
+249553|Villa Pumalin
+259547|Champasak Grand Hotel
+259845|Sengtawan Riverside
+260092|Pon Arena
+260210|Lao Orchid
+260729|Xiengthong Palace
+261073|iHouse Residence
+261310|Vientiane Plaza
+261446|La Maison de Mouhot
+261680|Luang Prabang Paradise Resort
+295471|Vayakorn Inn
+295474|Sisouk Residence
+297722|Le Sen Boutique Hotel
+298664|Mekong Estate Residences
+301707|Ibis Vientiane Nam Phu
+302576|Burasari Heritage
+354512|Sanctuary Hotel Luang Prabang
+365559|The River Resort
+407172|3 Nagas Luang Prabang Managed by Accor

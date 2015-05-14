@@ -1,0 +1,93 @@
+139|Almond Beach Village
+141|Bougainvillea Beach Resort
+144|Sandals Barbados
+145|Cherry Tree Appartments
+146|Coconut Court Beach
+148|Colony Club by Elegant Hotels
+149|Crystal Cove by Elegant Hotels
+151|Dover Beach
+152|Golden Sands
+154|Mango Bay Beach Club
+156|Pirate's Inn
+158|Sandy Bay Beach Club
+160|Silver Sands - geschlossen
+161|Southern Palms Beach
+162|Sunset Crest
+163|Tamarind by Elegant Hotels
+7067|Accra Beach
+7439|The Club Barbados Resort & Spa
+8542|Hilton Barbados
+9381|Butterfly Beach
+10559|Cobblers Cove
+10781|The House by Elegant Hotels
+10784|Coral Reef
+10952|The Crane Residential Resort
+20710|The Fairmont Royal Pavilion
+20898|Sam Lord's Castle Resort
+21043|Sandy Lane
+21298|Sea Breeze Beach Hotel
+21765|Smuggler's Cove
+22086|St. Lawrence East & West
+22393|Tropical Sunset
+22997|Savannah Beach Hotel
+23152|Time Out at the Gap
+23307|Treasure Beach
+23969|Villa Nova
+26330|Blue Horizon
+26333|Barbados Beach Club
+32001|Turtle Beach by Elegant Hotels
+35255|Rostrevor Appartements
+38529|Amaryllis Beach Resort
+38530|Island Inn
+38748|Little Arches
+42356|Rainbow Beach
+47994|Healthy Horizons Appartements
+48507|Coral Mist Beach
+51763|Harlequin Barbados H Hotel - open 12/2014
+54646|Divi Southwinds Beach Resort
+54647|South Beach Resort & Vacation Club
+61837|Rockley Plumtree Club
+63182|Nautilus Beach Apartments
+63224|South Gap
+63306|All Seasons Resort Europa
+66217|Yellow Bird
+69365|Discovery Bay Rex Resorts
+73634|Divi Heritage Beach Resort
+76380|Radisson Aquatica Resort Barbados
+76393|Silver Point
+77029|Tropical Escape - geschlossen
+77030|Escape at the Gap
+77305|Homar Rentals - geschlossen
+77310|Coral Sands Resort
+77486|Angler
+91080|The Sandpiper
+95672|Worthing Court
+102429|Sugar Cane Club
+105466|Blue Orchids Beach
+124079|Tropical Winds
+126189|The Palms Resort - Travellers Palms / Halcyon Palms
+128037|New Edgewater Hotel - geschlossen
+144179|Port St Charles
+185346|Settlers' Beach
+187728|Little Good Harbour
+227399|Beach View
+227475|Shades Holiday Apartments
+235312|Ocean Two Resort & Residences
+236351|Lighthouse Resort
+236504|Ocean Spray Beach Apartments
+239103|The Atlantis
+240657|Meridian Inn
+245563|White Sands Beach Villas / WSB Villas
+250079|Villa Caprice
+250081|Fathom's End
+254914|Battaleys Mews
+254916|Courtyard Bridgetown
+261047|Waves Hotel & Spa
+363433|The Palms Resort - Travellers Palms
+363434|The Palms Resort - Halcyon Palms
+365364|Ocean 15
+407285|Infinity on the Beach
+407286|The SoCo Hotel
+407820|SoCo Hotel
+407839|Infinity on the Beach
+413474|Sunbay Hotel

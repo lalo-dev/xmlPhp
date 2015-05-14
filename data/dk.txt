@@ -1,0 +1,418 @@
+7047|Absalon City Hotel
+8126|Hotel Astoria
+10367|Christian IV
+10472|Neptun
+10748|Copenhagen Admiral
+10749|Copenhagen Crown
+10750|Richmond
+10752|Strand Copenhagen
+11046|D'Angleterre
+11111|Danland Ferienpark Blokhus
+11112|Danland Ferienpark Fano
+11113|Danland Ferienpark Hirtshals
+11775|Du Nord
+12388|Danland Ferienpark Faaborg
+12480|Feriencenter Lalandia Rodby
+13413|Grand Hotel
+14057|Danland Ferienpark Blåvand/Ho
+14728|Imperial
+15379|First Hotel Kong Frederik
+15470|Kommandørgården
+16197|Legoland Billund
+17267|Best Western Mercur
+17860|Nebo
+18135|Nyhavn 71
+18330|Opera
+18395|Oster Hurup
+18466|Scandic Palace Hotel
+19019|Phoenix Copenhagen
+19811|Radisson Blu Royal
+19815|Radisson Blu Scandinavia
+21173|Savoy
+25792|Omena Hotel Copenhagen
+28541|Aeblehaven
+28543|Griffen
+28544|Gjerrild Kro
+28546|Montra Odder Parkhotel
+28548|Hjerting Badehotel
+28556|Skallerup Klit
+28567|Danland Ferienpark Marielyst
+28570|Ferienpark Lojt
+29003|Hotel Scandic Webers
+29005|Comfort Hotel Vesterbro
+29681|Vejle Center Hotel
+29683|Hovborg Kro
+30491|Copenhagen Marriott Hotel
+31540|Danland Ferienpark Vigsö
+32218|Dayz Øer Maritime
+33160|Koldingfjord
+34101|Marienlyst
+34102|Norre Vinkel
+34104|Balka Strand
+34105|Friheden
+35236|Middelfart
+35690|Danland Ferienpark Lemvig
+36713|Skovly
+36714|Langebjerg Pension
+36715|Hammerso
+36716|Romantik
+36717|Byskrivergarden garni
+36719|Stammershalle Badehotel
+36720|Slätsgarden Pension
+36721|Abildgaard
+36722|Klintely
+36723|Snogebäk
+36724|Balka Söbad
+36725|Dueodde Badehotel
+37421|Alexandra
+37422|First Hotel Mayfair
+37750|Rodhus Klit
+39260|Radisson Blu Falconer Hotel & Conference Centre
+39982|The Square
+40477|First Hotel Skt. Petri
+40823|Danmark
+41415|Scandic Sydhavnen Hotel
+41610|Hotel Hirtshals
+41611|Lisboa
+46444|Ascot Hotel & Apartments - Ascot Hotel
+46446|First Hotel Copenhagen
+46447|First Hotel Atlantic
+46448|First Hotel Esplanaden
+46449|First Hotel Excelsior
+46450|Hotel Østerport
+46451|Hotel Rossini
+46452|First Hotel Aalborg
+46453|First Hotel Grand
+46454|Hilton Airport
+46465|Quality Airport Hotel Dan
+46466|Jutlandia
+46467|Radisson Blu i Papirfabrikken Silkeborg
+46469|Hotel Scandic Glostrup
+46470|Scandic Hvidovre Hotel
+46471|Hotel Scandic Regina
+46473|Profil Copenhagen Plaza
+47025|Brondy Park
+52003|Park Inn by Radisson Copenhagen Airport Hotel
+54471|Danland Ferienpark Fiskenaes
+56546|Dayz Grønhøj Strand
+57099|First Hotel Høje Taastrup
+57102|First Hotel Marina
+57167|Quality Australia
+57169|Clarion Plaza
+57171|Best Western Plus Hotel Kronjylland
+58008|Ansgar
+58010|Comfort Windsor
+58833|Zleep Centrum
+59046|Maritime
+60056|Glostrup Park
+60452|Pension Koch
+61147|First Hotel Europa
+61153|Scandic Roskilde Hotel
+62430|Avenue
+62505|Gentofte
+66397|Scandic Copenhagen Hotel
+66410|Scandic Olympic Hotel
+66412|Scandic Aalborg Hotel
+66413|Scandic Kolding Hotel
+66414|Scandic Aarhus Vest Hotel
+66415|Scandic Plaza Aarhus
+66416|Hotel Scandic Odense
+66417|Scandic Bygholm Park Hotel
+66418|Scandic Ringsted Hotel
+66419|Hotel Scandic The Reef
+66422|Scandic Eremitage Hotel
+66423|Scandic Silkeborg Hotel
+67643|Radisson Blu Fredensborg Bornholm, Ronne
+67662|Radisson Blu Limfjord Aalborg
+67663|Radisson Blu Scandinavia
+67664|Radisson Blu H.C. Andersen
+67805|Maribo Soepark
+68298|Chagall Aalborg
+69564|Danland Ferienpark Sondervig
+69567|Ribe Byferie Resort
+69568|Ferienpark Storlokke
+70612|First Hotel Kolding
+70945|Kong Arthur
+72200|Feriencenter Henne Strand
+73844|Adina Apartment Hotel Copenhagen
+74437|Copenhagen Star
+76210|Copenhagen Island
+77515|First Hotel Twentyseven
+79434|Hasle Ferienpark
+81509|Ibsens
+82730|Copenhagen Go
+82731|Zleep Hotel Ishoj
+84241|Best Western Bel Air
+84482|Cabinn City
+86863|Zleep Ballerup
+86865|Zleep Billund
+89291|Bertrams Guldsmeden
+91029|Scandic Front Hotel
+93024|Feriencenter Lalandia Billund
+94022|Zleep Aalborg
+95134|Axel Guldsmeden
+97075|Ansgar
+99964|Propellen
+99981|DGI-byen Hotel
+103160|Strandhotellet
+104684|Christie's Sdr. Hostrup Kro
+104741|Danica
+104817|Best Western Hotel Eyde
+104859|Best Western Gl. Skivehus
+104874|Best Western Golf Viborg
+104928|Hotel Comwell Køge Strand
+104929|Comwell Hvide Hus Aalborg
+104942|Hotel Jens Baggesen
+104957|Best Western Knudsens Gaard
+104965|Best Western Hotel Fredericia
+105102|Hotel Niels Juel
+105120|Best Western Palads
+105206|Ritz Aarhus City
+105245|Best Western Schaumburg
+105302|Best Western Taastrup Park
+105359|Best Western Torvehallerne
+105454|Billum Kro
+105537|Britannia
+105883|City Odense
+106388|Comwell Holte
+106389|Comwell Kolding
+106390|Comwell Sorø
+106553|Dagmar
+107086|Fjordgården
+107319|Randers
+107539|Hellerup Parkhotel
+108303|La Tour
+108696|Helnan Marselis Hotel
+109269|Norden
+109444|Best Western Odense
+109571|Park Hotel Frederikshavn
+109640|Petit
+110364|Royal
+110742|Saxildhus
+110746|Comwell Sonderborg
+111555|Villa Provence
+130812|Best Western Scheelsminde
+130813|Helnan Phoenix
+130816|Zleep Hotel Aarhus
+130818|Cabinn Esbjerg
+130819|Helnan Marina
+130820|Skandia
+130821|Hotel & Restaurant Madam Sprunck
+130822|Østergaards Hotel
+130823|Hillerød
+130824|Best Western Jorgensens Hotel
+130827|Guldsmeden Carlton
+134272|Enjoy Resorts || Römö
+136590|Schackenborg Slotskro
+137705|Stop'n Sleep
+145636|Benniksgaard Hotel & Konference Center A/S
+145654|Best Western Herman Bang
+145661|Best Western Kryb I Ly
+145716|Cabinn Aarhus
+145717|Cabinn Express
+145718|Cabinn Odense
+145719|Cabinn Scandinavia
+145796|Color Skagen
+145805|Copenhagen Airport Hotel
+146100|Grand Struer
+146481|Ansgar
+146484|Antvorskov
+146712|Comwell Borupgaard
+146713|Comwell Middelfart
+146714|Comwell Sport Rebild Bakker
+146737|Dania
+147391|Comwell Kongebrogaarden
+147609|Medi
+147708|Opus Horsens
+147974|Best Western Royal Holstebro
+148111|Sleep2Night
+148196|Strandtangen
+148203|Svanen Billund
+148204|Svendborg
+149303|Munkebjerg
+149559|Scandic Jacob Gade Hotel
+149642|Skovshoved
+149734|Teaterhotellet
+149764|Trinity & Conference Center
+149803|Vinhuset
+182322|Karlslunde Strand Feriecenter
+182723|Wakeup Copenhagen, Carsten Niebuhrs Gade
+182916|Scandic Sønderborg Hotel
+183057|Nørherredhus
+183086|Menstrup Kro
+185664|Dronninglund
+185666|Frederik d. II
+185668|Søparken
+185670|Vissenbjerg Storkro
+187444|Hedegaarden
+187456|Helnan Aarslev
+187490|Laasby Kro
+187689|Falster
+187699|Phoenix
+187705|Sofryd
+187707|Troense
+187712|Hundested Kro & Hotel
+187720|Kongensbro Kro
+187721|Korning Kro
+187729|Logstor Parkhotel
+187731|Svanen Grindsted
+187748|Nilles Kro
+187749|Montra Sabro Kro
+187755|Nymindegab Kro
+187769|Purhus Kro
+188333|Hjallerup Kro
+188336|Falken Videbæk
+188343|Vildbjerg
+201314|Cabinn Metro
+201776|Gudhjem Sopark
+203064|Dayz Søhøjlandet
+203171|Tivoli
+203747|Aalborg Sømandshjem
+204489|Amager
+205698|B&B Tiendegaarden Møn
+206169|Zleep Hotel Kolding
+206224|Billund Kro
+206685|Cabinn Aalborg
+207642|Comwell Campus Klarskovgaard
+207643|Comwell Roskilde
+207695|Copenhagen
+207824|CPH Apartment
+207825|CPH Living
+207895|Crowne Plaza Copenhagen Towers
+208429|Domir
+209074|Faaborg Fjord
+209413|Frederikshavn Sømandshjem
+209518|Garni
+210441|Hesselet
+210516|Hindsgavl Slot
+212149|Kirstine
+212188|Kokkedal Slotshotel
+212201|Konventum Conference
+212304|Kystvejens Hotel & Conference Centre
+213293|Limfjorden
+213961|Medio
+214302|Motel Nordsøen
+216389|Prinsen
+216456|Quality Hotel Park
+217877|Sct. Thomas
+217985|Severin Kursuscenter
+218066|Sinatur Frederiksdal
+218067|Sinatur Haraldskær
+218203|Sophiendal Manor
+221004|Aalbæk Gl. Kro
+221114|Amerika
+221200|Arnbjerg
+221364|Blommenslyst Kro
+221413|Bymose Hegn Hotel & Kursuscenter
+221603|Comwell Kellers Park
+221652|Danhostel Sæby Fritidscenter
+222073|Grindsted Aktiv Camping
+222148|Havreholm Slot
+222201|Hjorths & Kokholmshotel
+222236|Horning Kro
+222433|Kibæk
+222841|Munkebjerg Bed & Breakfast
+223055|Phønix Brønderslev
+223170|Randbøldal Camping & Cabins
+223302|Rødvig Inn & Seaside
+223305|Rold Gl. Kro
+223393|Sauntehus Castle
+223410|Sdr. Omme Kro & Hotel
+223442|Skjalm Hvide
+223511|Store Restup Slotshotel
+223536|Svanfolk Bed & Breakfast
+223702|Hotel Viking Aqua, Spa & Wellness Resort
+227255|Ydes
+227345|Marina Fiskenaes Ferienpark
+227501|First Hotel G & Suites
+229897|Scandic Aarhus City Hotel
+232257|Danland Ferienpark Bogense
+233468|Vejlefjord
+237666|AC Hotel Bella Sky Copenhagen
+240166|Faber
+240172|Legoland Village Hostel
+240175|Borglum Mejeri
+240185|Pejsegaarden
+240193|Generator Hostel Kopenhagen
+240194|Jorgensen
+240195|Windsor
+240200|Stay Copenhagen
+240485|Cottage Farm
+240487|Coco Bed & Breakfast
+240495|Fredericia Somandshjem
+240496|Postgaarden
+240500|Gilleleje Badehotel
+240516|DGI Huset Herning
+240517|Thorstedlund
+240534|Borbjerg Molle Kro
+240537|Hvalpsund Færgekro
+240545|Kolding Byferie
+240546|Kolding Sportel
+240549|Grand Park
+240552|Balka Strand Familiecamping
+240555|Sinatur Storebælt
+240560|Alberte Bed & Breakfast
+240574|Kirsebaerkroen
+240584|Hotel Ringkobing
+240590|Lakolk
+240601|Gl. Skovridergaard
+240603|Tollundgaard Golf Park
+240607|Strandly Skagen
+240608|Mirabel
+240609|Ruths
+240611|Strandvejen
+240612|Skanderborghus
+240617|Aero
+240619|Christiansminde
+240624|Danhostel Vejle
+240630|Viborg Byferie
+255930|Urups Bed and Breakfast
+256078|Danninghus - Guest House
+256385|Strandvejens Anneks Appartment
+256386|Feriecenter Skagen Strand Hulsig
+256387|Løkken Klit Camping & Cottage Village
+256472|Det Gamle Apotek
+256778|Fuglsangcentret
+258502|Hotel BramslevGaard
+258504|Bromølle Kro
+258511|Hotel Farum Park, Sports and Conference Center
+258926|Hotel Norrevang
+259087|Himmerland Golf & Country Club
+259100|Frøslev Kro
+259240|Hotel Thinggaard
+270862|Danroom Studio Apartment
+286149|Skodsborg Kurhotel & Spa
+287350|Bredal Kro
+287601|Højslev Kro
+288071|Motel Stege
+288072|Pension Elmehøj B&B
+288073|Tohoejgaard Guesthouse
+288074|H?jbys?
+288075|Sankt Helene - Hostel
+289349|Thyborøn Motel
+290103|Norre Vosborg Herregaard
+290907|Tyrstrup Kro
+290908|Rold StorKro
+291258|Hotel Pinenhus
+291259|Hotel Klim Bjerg
+291260|Bandholm Hotel
+291372|St Binderup Kro
+291373|Tannishus
+291374|S?g?rden Br?rup
+291375|CampWest
+291376|Hotel Baltic
+291377|Hotel Gudenaa
+291378|Vraa Slotshotel
+291980|Bed and Breakfast Tistrup
+294238|Sanden Bjerggaard Hotel
+294264|Sallingsund Faergekro
+299627|Dayz SeaWest Nymindegab
+299628|Dayz Rønbjerg
+299639|Danland Ferienpark Römö/Havneby
+371878|Hotel Blicher
+384365|Fugls Centret
+387669|Brundtland Golf Hotel
+404806|Wakeup Copenhagen i Borgergade
+404889|Comwell Aarhus
+406422|Annex Hotel Copenhagen
+413263|SP34

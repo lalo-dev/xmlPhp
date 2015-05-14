@@ -1,0 +1,514 @@
+7702|Evason Ana Mandara Resort - Nha Trang
+10262|Century Riverside
+10294|Chancery Saigon
+10561|Coco Beach Resort
+12156|Equatorial
+13057|Galaxy
+13744|Halong Plaza
+13777|Pullman Hanoi
+13998|Hilton Hanoi Opera
+15370|Kimdo Royal Hotel Saigon
+16700|Majestic
+17942|New World Saigon
+17965|Nha Trang Lodge Hotel
+18084|DuParc Phan Thiet Ocean Dunes & Golf Resort
+18311|Eastin Grand Hotel Saigon
+19635|Que Huong
+20686|Royal Danang
+21812|Sofitel Legend Metropole
+21817|Sofitel Plaza Saigon
+21852|Melia Hanoi
+22395|Sunway
+22769|The Furama Resort
+23685|Victoria Phan Thiet Beach Resort & Spa
+26319|Grand Saigon
+26321|Caravelle
+26322|Blue Ocean Resort Phan Thiet
+26323|Saigon Mui Ne Resort
+26326|Yasaka Saigon Nhatrang Resort Hotel & Spa
+26328|U Hoi An Beach
+26329|Victoria Hoi An Beach Resort & Spa
+26530|Renaissance Riverside
+26532|Bamboo Village Resort
+26533|Hoi An Riverside
+27298|Anoasis Beach Resort
+31773|Golden Key
+32659|Phu Hai Resort
+33082|MÃ¶venpick
+33083|Sofitel Plaza Hanoi
+37911|Saigon Phu Quoc Resort
+38152|Sheraton Saigon Hotel & Towers
+38240|Little Mui Ne Cottages
+38241|Avani Quy Nhon Resort & Spa
+38492|The Beach Resort
+39165|Tropicana Resort
+39395|Empress Hotel
+39396|Avani Hai Phong Harbour View
+39397|Saigon Morin
+39398|Mia Resort Mui Ne
+39477|Duxton Saigon
+47873|Vinpearl Resort Nha Trang
+48176|Six Senses Ninh Van Bay
+48471|Windsor Plaza Hotel Saigon
+48472|Pandanus Resort
+52468|Thien Thai
+52469|Lotus
+52907|Nikko Hanoi
+52908|River Beach Resort
+53047|Anantara Hoi An Resort
+53884|Legend Saigon
+55701|Palace Saigon
+58251|Vinh Hung Hotels & Resort - Vinh Hung 1/ Vinh Hung 2/ Riverside Resort
+58252|Phu Thinh Boutique Hotel
+58253|Thuy Duong III
+59178|Ngoc Huong
+59333|Rex
+59334|Liberty Hotel Saigon Greenview
+60849|Hoa Binh
+60903|Sunrise Nha Trang Beach Hotel & Spa
+60947|Swiss Village Resort & Spa
+61583|Sandy Beach Non Nuoc Resort Da Nang
+61762|Bong Sen Saigon
+61802|Glory Hoi An
+63579|Hoang Anh Quy Nhon Resort
+63580|White Sands Resort
+63583|The Pilgrimage Village
+63584|Palm Garden Resort
+63585|Swiss-Belhotel Golden Sand Resort & Spa
+63586|Ariva MS Salute Hanoi
+63596|Lang Co Beach Resort
+63779|Saigon Tourane
+63897|Le Domaine de Tam Hai
+64445|Cham Villas
+64486|Ancient House Resort
+64590|Parkroyal Saigon
+64591|Ana Mandara Villas Dalat
+64614|Bon Bien Resort
+66288|Sheraton Hanoi
+72046|Doc Let Resort
+72591|La Veranda Resort Phu Quoc
+72630|Cassia Cottages
+72631|Mango Bay Resort
+73140|Oscar
+76232|Hoang Ngoc Resort/Oriental Pearl Resort
+76716|The Nam Hai
+76734|Park Hyatt Saigon
+76735|Sofitel Dalat Palace
+77354|Romana Resort
+77424|Princess d'Annam Resort & Spa
+77502|Continental Saigon
+77503|Empress
+77506|Flower
+77507|Hanoi
+77925|Hoi An Trails Resort
+77926|Mercure Dalat du Parc
+77927|La Residence Hue Hotel & Spa - MGallery Collection
+80749|Terracotta Resort
+82512|Sasco Blue Lagoon Resort
+84323|Halong Dream
+84331|Fortuna
+85123|White Sand Doclet Resort & Spa
+85896|Long Beach Ancient Village Resort & Spa
+86571|Best Western Premier Indochine Palace
+86840|Victoria Sapa Resort & Spa
+88002|Victoria Can Tho Resort
+88010|Bao Son
+88011|Chain First Eden
+88012|Heritage Hanoi
+88017|Ramana
+88020|Que Huong - Liberty 2
+88021|Pullman Saigon Centre Hotel
+88022|Norfolk
+88024|Saigon
+88026|Vien Dong
+88027|Pacific Hoi An
+88029|Asia
+88031|Festival Hue
+88032|Huong Giang
+88042|Green Nha Trang
+88043|Seahorse Resort & Spa
+88354|Mithrin
+88385|Quoc Hoa Hanoi
+88396|Asia Paradise
+88399|Liberty Saigon Parkview
+90030|Sunny Beach Resort & Spa
+90200|Le Duy
+92410|Elios
+95642|Anise Hanoi
+95909|Daewoo
+95911|Intercontinental Hanoi Westlake
+95924|Saigon CanTho
+95989|Imperial
+98085|May
+100820|Somerset Chancellor Court
+100821|Somerset Ho Chi Minh
+101224|Ho Tram Beach Boutique Resort & Spa
+103428|Bonjour
+103434|Anantara Mui Ne Resort & Spa
+103444|Novotel Ha Long Bay
+103684|Amaryllis Resort
+103685|Sea Lion Beach Resort & Spa
+103699|Moon View 1
+124992|Somerset Grand Hanoi
+124993|Somerset West Lake Apartment
+125549|Aquarius Hotel
+136100|Northern
+136110|Harmony Saigon Hotel
+136206|Pho Hoi Riverside Resort
+136207|Alba Spa Hotel
+136835|Hoi An
+137275|Victoria Chau Doc
+137982|Asean International
+138324|Golf Hoi An
+138326|Green Field
+138858|Diamond Bay Resort & Golf
+139638|Hoang Anh Dalat Resort
+139900|Golf 3
+139902|Asian Ruby
+140028|Bamboo Green Riverside
+140098|Green Plaza Danang
+140099|Novotel Nha Trang
+140100|Ngoc Lan
+140226|Thien Hai Son Resort
+142132|Serenade
+142133|Camellia Hue
+142136|Green
+142137|Rosaliza
+142138|HAGL Plaza
+145183|Blue Moon Resort & Spa
+159536|Mai Chau Lodge
+159537|Sun Spa Resort
+159538|Phu Quy II
+159539|Lavender
+159541|Chen Sea Resort & Spa Phu Quoc, Centara Boutique Collection
+163135|Saigon Domaine
+163136|Hanoi City Palace
+163139|Hanoi Royal II
+163140|Vesna
+163143|Bamboo Green Central
+163147|Hanoi Posh
+163149|Gia Thinh
+163150|Dong Khanh
+163151|Gold Spring
+163152|Hanoi Golden Plaza
+163160|Hoabinh Palace
+163162|Hong Ngoc Dynastie
+163163|Hanoi Harmony Hotel
+163171|Seagull
+163174|Hanoi Luxor
+163175|Hanoi Pearl
+163178|Viet
+163180|Sunshine 3
+163183|Royal 1 Hotel
+163187|Sunrise Resort
+163188|Saigon Halong
+163192|MerPerle Hon Tam Resort
+163197|Hanoi Ciao
+163339|Astoria
+163340|Asia Paradise Hotel
+163351|Sunrise Hanoi - 09 Hang Mam
+182569|Saigon Quynhon
+182571|Saigon Dalat
+182572|Allezboo Resort
+182573|City Star
+182712|Maison d'Hanoi Boutique Hotel
+182718|Mercure La Gare
+182998|Indochina Legend
+183130|Flower Garden
+183917|Sheraton Nha Trang
+183918|Hanoi Value
+187848|Asian Ruby
+188118|Southern Hotel & Villa
+188119|New Star
+188120|Vietsovpetro
+188278|Mercure Hue Gerbera
+195931|Grand Vung Tau
+195932|Hoang Hai Long Hotel
+201641|Hoi An Lantern
+201642|La Dolce Vita Private Enterprise
+201644|Danang Riverside
+201645|Phuoc An River
+201646|Tam Giang Resort & Spa
+201647|Romance
+201648|Indochine
+201649|Sammy
+201650|Oriole Hotel & Spa
+201651|YK Home Luxury Villa
+201652|Sanouva
+201653|Palace
+201654|Kim Tho
+201773|Pullman Danang Beach Resort
+201869|Boss Hanoi
+202548|May de Ville Boutique Hotel
+202549|Vi Da Riverside
+202550|Victory
+202551|Violet
+202552|The Palms
+202553|Novela Resort & Spa
+202554|Kingston
+202555|Catina Saigon
+202557|Hong Ngoc Tonkin
+202558|Hong Ngoc 3 - geschlossen
+202559|Golden Wings 2
+202561|Hong Ngoc Cochinchine
+203119|Cherry II
+203120|Holidays Hanoi
+203250|Sammy
+203251|Hanoi View
+203252|Medallion Hanoi
+203253|Intercontinental Asiana Saigon
+203254|Sea Star Resort
+203255|Mifuki
+203256|Thuan Thien
+203291|Queen Ann
+203292|Ninh Kieu 2
+203293|Tan Hai Long 1
+203294|Tan Hai Long 3
+203295|Van Loi
+203296|Sunriver
+203297|Orient
+203298|The Imperial
+210245|Allura Hanoi
+213266|Liberty Central Saigon Riverside
+218024|Sherwood Residence
+226490|Thien Thao
+227633|Boutique Hoi An Resort
+228012|Fusion Maia
+228358|An Lam Pavillon
+228423|Blue Diamond
+228424|Golden Central Saigon
+228425|Best Western Muong Thanh
+228426|Le Belhamy Resort & Spa
+228696|Tourane
+228968|Conifer Boutique
+228970|Silk Path
+230166|Hanoi Dolphin
+230171|Hoang Gia Huy
+230172|Lan Lan 1
+230177|Bach Dang Hoi An Hotel
+230179|Starlet
+232340|Ideal
+232342|La Sapinette Dalat
+232343|New Pacific
+232344|Son Tra Resort & Villas
+232368|Six Senses Con Dao
+232369|Eden Resort
+232532|Lotus Mui Ne Resort & Spa
+232648|Magnolia
+232724|Sophia
+232726|Park View
+232728|Vina
+232729|Angella
+232732|Lazi Beach
+232966|Ana Mandara Hue
+233108|Victory
+233111|Star
+233113|Hanoi Grand View
+233590|The Light Hotel & Resort
+233591|Bana By Night Resort
+233592|Crowne Plaza Danang
+233593|Trendy
+233626|Hanoi Boutique 2
+233627|Hanoi Boutique 1
+233629|De l'Opera Hanoi - MGallery Collection
+233630|May de Ville City Centre
+233633|Prestige
+233634|Royal Palace
+233636|A25 Hotels 45 Phan Chu Trinh
+233639|Asian Ruby 2
+233641|Family Inn Saigon
+233642|Hoang Ngan
+233644|My Anh
+233649|Thanh Thuy Saigon
+233653|Hoang Lien
+233654|Hoang Phu Gia
+233663|Hai Long
+233665|Hoang Hai Long 2
+233804|Golden Lake
+233805|Golden Wings
+233806|Splendid Jupiter
+233807|Hanoi Eclipse
+233809|Hanoi Aurora
+233812|Hanoi Elegance Emerald Hotel
+233813|Hanoi Imperial
+233814|Hanoi Royal View
+233817|Hidden Charm
+233819|The Time
+233820|New Epoch
+234346|Hoi An Sapa
+234640|Splendid Star Grand
+234675|Hue Heritage
+235153|Vissai Saigon Hotel
+235154|Golden Rose
+235155|Sea & Sand
+235355|Nhat Thanh
+236061|Rainbow Hanoi
+236068|Calypso
+236580|Crowne Plaza West Hanoi Hotel
+236581|Grand Plaza Hanoi
+236582|Hanoi Silver Hotel
+236585|Cosiana
+236586|Dong Thanh
+236587|Gold Coast
+236589|Prime
+236590|Hana Beach Resort
+236591|Best Western Dalat Plaza
+236592|Ariva Nam Ngu
+236864|Royal Gate
+237139|Vedana Lagoon Resort & Spa
+237974|Marigold
+237978|Hyatt Regency Danang Resort & Spa
+237980|The Ocean Villas Danang
+237982|Bai Tram Hideout
+237983|An Lam Ninh Van Bay
+237984|Muine Bay Resort
+237985|Sandhills Beach Resort & Spa
+238276|An Lam Saigon River Private Residences
+238581|Graceful
+238582|Cherry III
+238583|Ariva Eden
+238584|Thaison Palace
+238585|Thaison Grand
+238588|Lucky 2
+238589|Lucky 3
+238592|Tirant
+238593|Hanoi Topaz
+238594|Hanoi View 2
+238597|Hanoi Spark
+238601|Tropicana Beach Resort & Spa
+238655|Sunflower Hotel
+238839|May de Ville Old Quarter
+238840|Hanoi Bao Khanh
+239109|Ancient House River Resort
+239387|Zen
+239388|Hanoi Asia
+239389|Gia Bao Hanoi
+239390|Hanoi Triumphal
+239392|Prince Hanoi - 41 Bat Su
+239393|Sunshine Suites Hanoi
+239405|Elegant
+239406|Hoang Chung
+239407|Huy Chuong
+239410|Hong Vy 1
+239411|Paradise Saigon Boutique Hotel
+240245|Sunrise - 24 Quan Su
+240248|White Lion
+240249|River Prince
+241905|Prince Hotel - 8 To Tich
+241906|Sapa View
+241907|Hanoi Emotion
+241908|New Vision
+241909|Sea Stars
+241910|Nouveau Happy Inn
+241911|Universe Central Saigon
+241913|Asian Ruby 3
+241914|Arc En Ciel
+241915|Bat Dat
+241916|Sweet Home
+241917|Gold Hue
+241918|Grand Mercure Danang
+242734|Fusion Alya Hoi An
+242914|Chez Carole Resort
+243707|Mia Resort Nha Trang
+243875|Barcelona
+243876|Song Thu
+243900|Ngoc Mai
+243903|Sunny 3
+243904|Hong Thien Loc 1
+245736|InterContinental Danang Sun Peninsula Resort
+245958|Celia Hanoi
+245960|Mondial Hue
+246021|Golden Lotus Hotel Sen VÃ ng
+246022|Hai Yen
+246023|Vinh Trung Plaza
+247061|Nikko Saigon
+247062|Jimmy
+247186|La Belle Vie
+247578|Vinh Hung Hotels & Resort - Riverside Resort
+247803|Lucky 1
+247804|Hanoi Rendezvous
+247807|Thao Ha
+247808|Canary
+249154|Unique Mui Ne Resort
+249236|Sunrise Hoi An Beach Resort
+249595|Ha Noi Century
+249597|Queen Da Nang
+249598|Vian Danang
+249599|Hue Queen 2
+249600|Thanh Lich
+249602|Truong Giang
+249603|Michelia
+249605|The Light 2
+259342|Sen Viet Hotel
+259343|Kelly Hotel
+259344|Hotel Nesta Hanoi
+259347|Splendid Star Suite
+259696|Classic Hoang Long
+259697|Valentine
+259699|Duy Anh Hanoi
+259700|Hanoi Amanda
+259703|Rising Dragon Palace
+259705|Maidza Hanoi
+259775|Santa Barbara
+259776|Mai Hotel
+259777|Emeralda Resort
+259778|Ho Sen 2 Hotel
+259784|Thanh BÃ¬nh 1
+259785|Thanh BÃ¬nh 2
+259787|Bel Ami (Thanh BÃ¬nh 4)
+259888|Vinpearl Luxury
+260102|Novotel Saigon Centre
+260195|Angsana Lang Co
+260315|The Landmark Hanoi
+260316|Hanoi Crystal Hotel
+260798|Nhat Ha 3
+260912|Eastin Easy GTC
+260914|Golden Silk
+261064|Banyan Tree Lang Co
+261094|Church Boutique Hotel - Hang Gai
+265490|Angel Palace
+265491|Grand Silverland Hotel & Spa
+265492|Aquari
+265493|Cap Town
+278320|Moonlight Hotel
+278328|Silverland Hotel & Spa
+278350|Ruby River Hotel
+278707|Villa Aria Muine
+278708|Villa Del Sol Beach Villas & Spa
+278712|Green Organic Villas
+278750|Church Boutique Hotel Hang Ca
+278752|Gia Bao Grand Hotel
+278770|Impressive Hotel
+278779|Hanoi A1 Hotel
+280226|Riverside Bamboo Resort
+285904|InterContinental Nha Trang
+296269|Authentic Hanoi Boutique Hotel
+299003|Botanic Garden Homestay
+301647|Novotel Danang Premier Han River
+301661|The Shells Resort & Spa
+311182|Signature
+311183|Lan Vien
+311212|Famiana Resort & Spa Phu Quoc
+335828|Amiana on the Bay
+359521|Pulchra Resort
+359537|Hilton Garden Inn
+359538|The Cliff Resort & Residences
+365143|Golden Cyclo
+367387|The Reverie Saigon
+367703|Jw Marriott Hotel Hanoi
+367706|Skylark Hotel
+374007|Hanoi First Choice Hotel
+374037|Tran Hotel
+391096|Amanoi
+391534|The Sailing Bay Beach Resort
+392351|Ancient House Village Resort & Spa
+400837|Au Lac Hotel 2
+403265|Liberty Central Saigon Centre
+405936|Alma Courtyard Hoi An
+407720|Larosa
+408617|Best Western Premier Havana Nha Trang Hotel
+409532|Hanoi Ancient Town Hotel
+409543|Hanoi Legacy Hoan Kiem
+410994|EdenStar Saigon Hotel
+413568|Kim An Hoi An Hotel & Spa
+419207|Maison d'Hanoi Hanova Hotel

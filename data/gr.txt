@@ -1,0 +1,6235 @@
+416|Danae
+417|Moondy Bay
+421|Brati & Arkoudi
+422|Acropolis View
+423|Amalia Athens
+424|Astir Palace - The Westin / Arion Resort & Spa / W Athens
+425|Astir Palace - The Westin Athens
+428|Attalos
+429|Acropolis Hill
+430|Divani Palace Acropolis
+431|Electra Palace
+432|Grande Bretagne
+433|Hermes
+434|Oscar Hotel
+435|Oscar Inn - geschlossen
+436|Radisson Blue Park
+437|Plaka
+438|Stanley
+439|Amalia Delphi
+441|Eretria Village
+444|Holidays in Evia
+446|Miramare
+448|Grand Resort Lagonissi
+449|Poseidon Resort
+450|Golden Coast
+451|Achaios
+452|Amalia Nafplio
+453|Amalia Olympia
+454|Flisvos
+455|King Minos
+456|Grecotel Lakopetra Beach
+457|Pavlina
+458|Romvi Holidays
+459|Soleil
+460|White Castle
+461|Aquis Mare Nostrum
+462|Stamos
+465|Akrathos Beach
+467|Eagles Palace
+468|Pyrgos
+474|Alevas Beach
+475|Gerakina Beach & Sithonia Village - Gerakina Beach
+476|Asteris Village
+477|Marthas House
+480|Sonia Village
+481|Ammon Zeus
+482|Athos Palace Hotel
+483|Iris
+484|Macedonian Sun
+485|Pallini Beach
+488|Afitis Hotel & Afitos Studios
+490|Alexander the Great Beach
+491|Aristoteles Beach
+492|Athena Pallas Village
+493|Chrousso Village
+494|Danai Beach Resort & Villas & Residence
+497|Eden
+498|Flegra Palace
+499|Geranion Village
+500|Grandhotel
+503|Mendi
+505|Philoxenia
+506|Pilalidis
+507|Porfi Beach
+508|Portes Beach
+509|Sani Resort - Porto Sani Village
+511|Possidi Holidays
+513|Across Golden Beach
+515|Sani Resort - Sani Beach Club
+516|Sani Resort - Sani Beach Hotel
+518|Club Calimera Simantro Beach
+520|Thea Beach
+521|Toroneos
+522|Zephyros
+524|Blue Bay
+526|Kassandra Palace Hotel & Spa
+527|Kriopigi Beach
+528|Palladium
+529|Pashos
+531|Lagomandra Beach Hotel
+533|Blue Dolphin
+534|Bianco Beach Olympico Resort
+538|Dolphin Beach Hotel
+539|Kassandra Mare
+540|Melissa
+542|Anthemus Sea Beach Hotel & Spa
+543|Nikiti Beach
+545|Virginia
+546|Xenios Zeus
+547|Avra
+548|Aethria
+549|Akti Pefkari
+550|Alexandra Beach
+551|Ariadni
+552|Coral
+553|Dionysos
+555|Emerald
+556|Esperia
+559|Ilio Mare
+560|Ioannis Golden Club
+562|Makryammos Bungalows
+563|Miramare
+565|Nefeli
+566|Pegasus
+567|Rachoni Bay
+569|Sylvia
+570|Tripiti
+571|Molos Villa
+572|Villa Nisteri
+573|Vassilis Haus
+574|Amalia Kalambaka
+575|Katerina
+577|Achilleas
+581|Valtos Beach
+583|Margarona Royal
+584|Giovanni
+585|Mikros Paradisos
+586|Vrachos Beach Hotel
+588|Kalamaki Beach
+589|Leto Hotel Hydra
+590|Mistral
+591|Nostos
+594|Amoopi Bay
+595|Helios
+596|Castelia Bay
+598|Finiki View
+600|Kyra Panagia
+601|Krinos
+602|Sunset
+603|Three Dolphins
+604|Alex
+605|Apollo
+607|Panorama
+608|Mouikis
+609|Karavados Beach
+610|Mouikis Sun Village
+611|Cephalonia Palace
+612|Lara
+613|White Rocks
+615|Sami Beach
+616|Panas
+617|Anastasia
+619|Bostonia Village
+620|Kormoranos Beach
+623|Mirabell Corfu
+624|Niki
+626|Aquis Agios Gordios Beach
+628|Brouskos
+630|Regina
+631|Belvedere
+632|Angela Beach Hotel
+634|Achilles Beach
+635|San Stefano
+636|Corfu Chandris / Dassia Chandris - Corfu Chandris
+637|Grecotel Daphnila Bay Thalasso
+638|Corfu Chandris / Dassia Chandris - Dassia Chandris
+639|Dimitra
+640|Elea Beach
+642|Grecotel Eva Palace
+643|La Calma
+644|Livadi Nafsika
+646|Nefeli
+647|Telemachos
+650|Rosa Bella Suites & Spa
+651|Philoxenia
+652|LTI Louis Grand
+655|Gouvia
+656|Iliada Beach
+657|Louis Corcyra Beach
+658|Aquis Park
+659|Popi Star
+660|Marilena
+662|Corfu Imperial
+663|Corfu Palace
+664|Kontokali Bay
+667|Sentido Apollo Palace
+669|Messonghi Beach
+671|Attika Corfu Beach Hotel
+672|Sunmarotel Miramare Beach
+675|Three Stars Village
+676|Amalia Complex Apartments
+677|Nissaki Beach
+678|Akrotiri Beach Hotel
+680|Odysseus
+681|Paleo ArtNouveau
+682|Paramonas
+683|Aeolos Beach Resort
+685|Ionian Princess
+687|Mitsis Roda Beach Resort & Spa
+688|Akis
+690|Belle Helene
+691|Blue Heaven
+695|Flora Beach
+696|Fondas
+698|Angeliki
+700|Ambiente Palace
+701|Niriides Beach
+702|The Aeolos Beach
+704|Sentido Carda Beach
+705|Mitsis Family Village
+706|Mitsis Norida Beach
+708|Mitsis Summer Palace
+712|Kipriotis Hippocrates & Maris Suites Hotel - Kipriotis Hippocrates - ab 29.03.2015 smartline Kipriotis Hippocrates
+713|Imperial
+714|International
+715|Kipriotis Village Resort
+716|SunConnect Kipriotis Panorama Aqualand
+717|Sun Palace
+718|Zephyros
+719|Apollon
+720|Athina Beach
+721|Atlantis
+722|Boheme
+724|Costa Angela
+726|Aslanis Village Hotel
+727|Hermes
+728|Holiday Village Kos by Atlantica
+729|TUI best FAMILY Atlantica Marmari Beach
+730|Nina Beach Hotel
+733|Pyli Bay
+734|Sandy Beach
+735|Stella Maris
+736|Achilleas Euro Village
+740|Mastichari Bay
+741|Neptune Hotels Resort, Convention Centre & Spa
+743|Archipelago
+744|Oceanis Beach
+745|Platanista
+746|Smartline More Meni Beach
+747|Oasis
+749|Sunset
+750|Tigaki Beach
+751|Areti
+752|Fevro
+753|Irini Mare
+754|Petra
+755|Alexander House
+756|Amalthia Beach Resort
+757|Atrion
+758|Best Western Plus Kalyves Beach
+759|Santa Marina Beach
+760|Theo
+761|Bella Vista Mare
+762|Village Panorama
+763|Peninsula
+766|Scala
+769|Candia Park Village
+770|Coral Hotel
+771|Dessole Hermes
+772|Lito
+773|Mare Olympus Apartments
+774|Sensimar Minos Palace
+775|Zorbas
+776|Agapi Beach
+777|Akti Corali
+778|Atlantica Akti Zeus
+779|Apollonia Resort & Spa
+780|Magic Life Candia Maris Imperial
+781|Creta Beach
+783|Lambi
+784|Marilena
+785|Santa Marina Beach
+786|Sun
+787|Tsagarakis Beach
+788|Europa Beach
+790|Aloi
+791|Anissa Beach Village
+793|Bella Beach
+794|Kosta Mare Palace
+796|Bali Beach & Village
+797|Bali Mare
+798|Bali Paradise Beach Hotel
+799|Bali Star
+801|Liza Mary Beach
+803|Sunset
+804|Talea Beach
+805|Xidas Garden
+807|Althea Village
+808|Casa Delfino
+809|Chrispy World - Chrispy Superior Wing / Chrispy Standard Wing / Chrispy Deluxe Wing
+810|Geraniotis Beach
+811|Haris
+812|Atlantica Caldera Creta Paradise
+813|Louis Creta Princess
+814|Kriti
+815|Porto Veneziano
+817|Sirios Village
+818|Agrabella
+819|Arco Baleno Apartments
+820|Blue Island
+821|Chersonissos Maris
+822|Hersonissos Palace Hotel
+823|Chrissi Amoudia Hotel & Bungalows
+824|Creta Maris Beach Resort
+826|Aldemar Cretan Village
+827|Dimitra
+828|Dimitrion Central
+829|Eden Rock
+830|Elma
+831|Evelyn Beach
+832|Flisvos Beach
+833|Galini
+834|Heronissos Hotel
+835|Iro
+836|Aldemar Knossos Royal
+838|Viva Island Hotel
+839|Miramare
+840|Nana Beach
+842|Oasis Beach
+843|Oceanis
+844|SunConnect Zorbas Village
+845|Pela Maria
+846|Porto Village
+847|Royal Belvedere
+848|Aldemar Royal Mare
+849|Semiramis Village
+850|Smartline Sergios
+851|Mitsis Serita Beach
+852|Silva Beach
+854|Stella Village
+858|SENTIDO Elounda Blue
+859|Elounda Beach Hotel & Villas
+860|Elounda Ilion
+861|Elounda Mare
+862|Aquila Elounda Village
+863|Porto Elounda Golf & Spa Resort
+864|Stavris
+865|Apollo
+866|Delfina Beach
+867|Eliros Mare Beach
+868|Fereniki Holiday Resort & Spa
+869|Fountoulis
+870|Happy Days
+871|Mari Beach
+875|Orpheas Resort
+876|Pilot Beach
+878|Vantaris Beach Hotel
+879|Vardis Olive Garden
+881|Hotel Erato
+883|Aphrodite Beach Club
+884|Astir Beach
+886|Despo
+887|Diogenis Palace
+889|Grecotel Amirandes
+890|Hara Ilios
+891|Roda Garden Village
+892|Kalia Beach
+894|Marina Beach
+895|The Island
+897|Aquila Atlantis
+898|Olympic
+900|Aldiana Kreta
+901|Arion Palace Hotel - ab 01.05.2015 smartline Arion Palace
+902|Astron
+904|Coriva Beach
+908|SunConnect Ostria Beach
+909|Petra Mare
+910|Porto Belissario
+911|Villa Irene 1+2
+912|Elpida Village
+914|Istron Bay
+916|Minos Bay
+918|Elena Beach
+919|Mitsis Rinela Beach Resort & Spa
+921|Chryssana Beach
+922|Dedalus Village
+923|Lentas
+925|Niki Apartments
+926|Panmar
+927|White River Cottages
+928|Albatros
+929|Paleokastro Beach
+930|Alexander Beach Hotel & Village
+932|Malia Resort
+933|Ikaros Beach Luxury Resort & Spa
+934|Kernos Beach
+935|Malia Beach
+936|Malia Holidays
+937|Cretan Malia Park
+938|Malia Prince Sarpidon
+941|Karolina Mare Hotel
+942|Sirens Hotels Beach & Village
+943|Vergas Hotel
+944|Villa Malia
+945|Matala Dimitris Villas & Hotel
+946|Princess Europa
+948|Fragiskos
+949|Matala Bay
+950|Minos Beach Art
+951|Orama
+952|Valley Village
+953|Zafiria
+955|Marina Village
+956|Aris
+959|Casteli
+960|Europa Resort Hotel
+961|Kirki Village
+962|Panormo Beach
+963|Villa Sorenia
+964|Damnoni Bay
+965|Horizon Beach
+967|Hotel Porto Plakias
+970|Sofia
+971|Nefeli
+973|Achillion Palace
+974|Alkion
+975|Anita Beach
+976|Atlantis Beach
+977|Atrium
+978|Brascos
+979|Grecotel Creta Palace
+980|Creta Royal
+981|Creta Star
+982|Delfini Beach
+983|Dias Solimar
+984|Smartline Dimitrios Beach
+985|White Palace Grecotel Luxury Resort
+986|Eva Bay
+987|Fortezza
+988|Galeana Beach
+989|Georgianna Beach
+990|Golden Beach
+991|Rethymno Sunset
+992|Aquila Porto Rethymno
+993|Aquila Rithymna Beach
+994|Kriti Beach
+995|Kyma Beach
+996|Macaris Beach
+998|Maravel Land
+999|Rethymno Residence - ab 01.05.2015 smartline Rethymno Residence
+1001|Marinos Beach
+1002|Minos
+1003|Minos Mare Beach
+1004|Mythos
+1005|Odyssia Beach
+1006|Olympic Palladium
+1007|Orion
+1008|Pantheon
+1009|Iberostar Creta Panorama & Creta Mare
+1011|Sentido Pearl Beach
+1012|Philoxenia Beach
+1013|Rethymno Mare Resort - Rethymno Mare / Rethymno Mare Royal
+1014|Rethymno Village
+1017|Seafront
+1019|Steris Beach
+1020|Bellavista
+1022|Robinson Club Kalimera Kriti
+1024|Maritimo Beach Hotel
+1025|Sissi Mare Apartments
+1028|Aktia Lounge Hotel & Spa
+1029|SENTIDO Blue Sea Beach
+1030|Cactus Beach & Village - Cactus Beach
+1031|Diamond Beach
+1032|Katrin Hotel & Bungalows
+1033|Residence Villas
+1034|Stalis Beach & Papas Beach
+1035|Sunny Beach
+1037|Lakki Village
+1038|Titika
+1039|Aneroussa Beach
+1042|Dionysos
+1045|Aegean
+1046|Anastasios Sevasti
+1047|Andronikos
+1048|Aphrodite Beach
+1049|Apollonia
+1050|Cavo Tagoo
+1051|Hotel Elena
+1052|Elysium
+1053|Golden Star
+1054|Myconian K Hotels & Thalasso Spa Center - Kohili, Korali, Kyma & Kalypso
+1056|Kamari
+1057|Kivotos
+1059|Manoulas Beach
+1060|Myconian Ambassador & Thalasso Spa Center
+1062|Grecotel Mykonos Blu
+1063|Pietra e Mare
+1064|Palladium
+1065|Paradise View
+1066|Petasos Beach
+1067|Petasos Town
+1068|Petinos Beach
+1069|Petinos Hotel
+1070|Poseidon
+1071|San Giorgio
+1073|Yiannaki
+1074|Zephyros
+1075|Argo
+1077|Dilino
+1078|Katherina
+1079|Kavos
+1080|Kavouras Village
+1081|Lianos Village
+1082|Matthiassos Village
+1083|Mikri Vigla
+1084|Naxos Beach 1
+1085|Naxos Magic Village
+1086|Naxos Holidays Hotel
+1087|Proteas
+1088|Semeli
+1089|Sergis
+1093|Castello
+1094|Contaratos Beach & Contaratos Bay
+1095|Kouros
+1096|Lefkes Village
+1097|Margarita's House
+1098|Nikolas
+1099|Nissiotiko
+1100|Porto Paros Hotel & Villas
+1101|Sea View
+1102|Svoronos
+1103|Yria
+1104|Nine Muses
+1105|Agali Houses
+1106|Akrotiri
+1107|Alexandra
+1108|Amaryllis
+1109|Andreas
+1110|Andromeda Villas
+1111|Artemis (ex. Artemis Beach)
+1112|Blue Sea
+1113|Chromata
+1114|Dolphins Apartments
+1115|El Greco Resort
+1116|Glaros
+1117|Hermes
+1118|Honeymoon Petra
+1119|Iliada
+1121|Kafieris
+1122|Kamari Beach
+1126|Santorini Kastelli Resort
+1127|Villas Kokkinos
+1129|Levante Beach
+1130|Manos
+1132|Nikos Villas
+1133|Nomikos Villas
+1134|Oia's Sunset
+1135|Whitedeck Hotel Santorini
+1136|Poseidon Beach
+1137|Remezzo Villas
+1138|Rivari Santorini
+1139|Rose Bay
+1140|Strogili
+1142|Alesahne Beach
+1143|Acqua Vatos
+1144|Zephyros
+1146|Benois
+1147|Dolphin Bay
+1148|Akrogiali
+1149|Golden Beach
+1150|Porto Tango
+1162|Benovias
+1163|Erytha Beach Resort
+1164|Golden Sand
+1165|Grecian Castle
+1167|Voulamandis House
+1169|Cavos Bay
+1172|Albatros
+1173|Anaxos Hill Village
+1174|Clara
+1175|Delfinia
+1177|Marianthi Paradise
+1178|Bella Vista
+1179|Olive Press
+1180|Sandy Bay
+1181|Sea Sun
+1183|Alekos
+1185|Andromeda
+1187|Anthemis Pension
+1188|Arion
+1189|Aspres
+1191|Kampos Village
+1192|Doryssa Seaside Resort / Village
+1195|Samian Blue
+1199|Kerkis Bay
+1200|Kerveli Village
+1201|Kouros Bay
+1202|Maria Studios & Appartements
+1203|Matina
+1205|Olympia Beach
+1206|Olympia Village
+1207|Paradise
+1208|Pegasus
+1211|Pigi
+1212|Posidonio / Possidonio
+1214|Princessa
+1215|Proteas Blu Resort
+1217|Saint Nicholas
+1218|Samos Sun
+1220|Sunrise Beach
+1221|Theo
+1223|Venus
+1225|Votsalakia
+1226|Patmos Paradise
+1227|Asteri Hotel Patmos
+1230|Lintzi
+1232|Niriides Villa
+1233|Messinian Bay
+1235|Kalogria Beach
+1237|Kalamitsi
+1238|Olympia Zerveas
+1241|Logga Beach
+1242|Helidonia
+1244|Itilo
+1245|Sunrise Village
+1246|Navarone
+1248|Argiros Village
+1249|Dessole Lippia Golf Resort
+1251|Afroditi
+1252|Porto Angeli
+1254|Karavos
+1256|Tsambika Sun
+1257|Achousa
+1258|Apollo Beach
+1260|Blue Sea Beach
+1261|Blue Star
+1262|Cyprotel Faliraki
+1263|Epsilon
+1264|Esperides Beach
+1265|Esperos Palace
+1266|Esperos Village Resort
+1267|Evi
+1268|Mitsis Faliraki Beach
+1269|Lymberia
+1270|Dessole Olympos Beach Resort
+1271|Pegasos Beach Resort Hotel - Pegasos Beach
+1272|Rodos Palladium
+1273|Grecotel Rhodos Royal
+1274|Medblue Gennadi
+1275|Belair Beach
+1276|Miramare Park Suites & Villas
+1277|Sheraton Rhodes Resort
+1278|Atrium Palace Thalasso Spa Resort & Villas
+1279|Lomeniz Blue
+1280|Kalithea Sun & Sky
+1281|Kresten Palace Hotel
+1282|Aldemar Paradise Village
+1283|Romanza
+1284|Virginia Beach
+1285|Princess Sun
+1286|Mitsis Rodos Maris Resort & Spa
+1287|Rodos Princess Beach
+1288|Mitsis Rodos Village Beach
+1290|Rodocypria
+1291|Golden Odyssey
+1292|Irene Palace
+1293|Koala
+1294|Kolymbia Beach
+1295|Kolymbia Star Hotel
+1296|Kolymbia Sun
+1297|Lutania Beach
+1298|Lydia Maris
+1299|Euroxenia Marathon
+1300|Marianna Palace
+1301|Mistral
+1302|Eden Village Myrina Beach
+1303|Tina Flora
+1304|Cathrin
+1305|Saint George Hotel - ab 30.04.2015 smartline Ellia
+1307|Lindos Mare
+1308|Filimon
+1309|Ilyssion
+1311|Thalia
+1312|Ambassador
+1313|Rhodos Horizon Resort
+1314|Continental
+1317|Mitsis Grand
+1318|Ibiscus
+1319|Lomeniz
+1320|Majestic
+1321|Mediterranean
+1322|Best Western Plaza
+1323|Rhodos Park Suites
+1324|S. Nikolis
+1325|Semiramis City
+1327|Avra Beach
+1328|Blue Horizon
+1330|Ialyssos Bay
+1332|Lito
+1333|Oceanis Beach
+1334|Rodos Palace
+1335|Capsis Rhodos
+1336|Sun Beach Resort Complex
+1339|Nereides
+1340|Paradise Alonissos
+1346|Astoria
+1347|Atrium
+1348|Caravos Beach
+1350|Esperides Beach
+1351|Kassandra Bay Resort & Spa
+1352|Rhenia Hotel & Bungalows
+1353|Mandraki
+1354|Muses
+1356|Panorama
+1357|Hotel Paradise
+1358|Plaza
+1359|Skiathos Palace
+1360|Skiathos Princess
+1361|Thymi's Home
+1362|Adrina Beach
+1363|Afrodite
+1364|Alkistis
+1365|Prince Stafilos
+1367|Taxiarchis
+1368|Niriides
+1369|Nireus
+1370|Porto Potha
+1371|Contessa
+1372|Diana Palace
+1373|Katerina Palace
+1374|Mirabelle
+1375|Palmyra
+1376|Zakantha Beach
+1377|Drosia Beach
+1378|Astir Palace
+1379|Bitzaro Palace
+1380|Golden Sun
+1381|Poseidon Beach
+1383|Louis Zante Beach
+1384|Villa Christina
+1386|Bozikis
+1387|Porto Koukla Beach
+1388|Caravel Zante
+1390|SENTIDO Louis Plagos Beach
+1391|Tsamis Zante
+1392|Aquarius
+1393|The Bay
+1394|Klelia
+1395|Zante Royal Resort
+5173|Eva Mare
+5706|Memphis Beach Hotel
+5780|Blue Bay Resort - Blue Bay / Sunland
+5877|Astron
+5878|Albatros
+5879|Elektra Beach
+5880|Venezia
+5882|Lymiatis Beach
+5891|Ionis
+5896|Marathon Beach
+5898|Nireus
+5901|John & George
+6006|Acharavi Beach
+6007|Marbella Corfu
+6008|Primasol Ionian Sun
+6009|Barbati Beach
+6012|Art Hotel Debono
+6013|Omiros Beach
+6016|Solimar Aquamarine
+6017|Theartemis Palace
+6285|Adonis
+6286|Ariadne
+6288|Ostria
+6289|Sunningdale
+6291|Dessole Mirabello Beach & Village
+6293|Minoa
+6294|Ntanelis
+6296|Golden Star
+6297|Anna Apartements
+6299|Palmera Beach
+6301|Cretan Garden
+6302|Elounda Residence
+6303|Elounda Princess
+6304|Fodele Beach
+6305|Mythos Palace
+6306|Porto Georgioupolis
+6308|Anatoli Beach
+6310|Corissia Beach
+6311|Nicolas
+6312|Lavris Hotel Bungalows & Lavris Paradise
+6313|Kaissa Beach
+6314|Gouves Maya Resort - Maya Beach
+6315|Blue Sky
+6316|Notos Beach
+6319|Alexandra Sunset
+6321|Acrogiali
+6322|Anemi
+6324|Triton
+6325|Kyknos Beach Hotel & Bungalows
+6328|Alianthos Garden
+6329|Costas & Chrysoula
+6331|Adele Beach Hotel
+6338|Forest Park
+6341|Castello Village
+6342|Heliotrope
+6343|Zephiros Beach
+6344|Marlena
+6345|Palm Beach
+6346|Stalis Beach & Papas Beach - Papas Beach
+6347|Idi
+6393|Tharroe of Mykonos
+6399|Dimitra Beach
+6400|Atlantica Porto Bello Beach
+6402|Continental Palace
+6403|Laura
+6405|Yannis
+6406|Caravia Beach
+6407|Roselands
+6409|Princess of Kos
+6618|Villa Marandi
+6810|Niriides
+6811|Tropical
+6812|Kamari Beach
+6814|Lindos Village
+6816|Esperia
+6819|Aquarium View Hotel
+6820|Atlantica Princess
+6835|Potidea Palace
+6836|Kassandra Inn
+6840|Trikorfo Villas
+6970|Eleana
+6972|Marelen
+6973|Zante Sun
+6974|Australia - Sirene
+6976|Gloria Maris Hotel Suites & Villas
+7069|Achilleas
+7081|Acrogiali
+7084|Acropolis Select
+7090|Adams
+7093|Grecotel Caramel Boutique Resort
+7112|Adonis
+7113|Adonis
+7117|Corfu Senses Resort
+7131|Aegean Sun
+7132|Aegean Sun
+7133|Aegean Village
+7134|Aegeon
+7136|Belvedere
+7137|Aeolos
+7139|Afandou Beach
+7142|Afoti Beach
+7143|Afroditi Venus Beach Hotel & Spa
+7150|Aghas
+7152|Agionissi Resort
+7154|Agios Nikitas
+7155|Domotel Agios Nikolaos
+7156|Agla
+7165|Agrilionas Beach
+7206|Akrotiri
+7207|Akti
+7208|Sandy Beach
+7209|Akti Olous
+7235|Alafuzos
+7255|Albatros
+7260|Albatros
+7298|Alcionides
+7311|Aldemar Olympian Village
+7313|Aldemar Paradise Mare - ab Sommer 2015 Aldemar Amilia Mar
+7320|TUI best FAMILY Alex Beach
+7325|Alexander
+7339|SENTIDO Alexandra Beach
+7341|Alexandros
+7342|Alexandros
+7344|Alexis
+7345|Alexis Villas
+7348|Alfa Hotel
+7349|Alfa
+7350|Alfa Beach Hotel & Resort
+7368|Alianthos Beach
+7383|Alkionis
+7384|Alkyon
+7385|Alkyon
+7386|Akti Alkyon
+7387|Alkyoni Beach
+7424|Alma Beach
+7437|Almyrida Resort - Almyrida Residence
+7438|Almyrida Resort - Almyrida Beach
+7440|Aloe
+7467|Alpha
+7484|Als
+7490|Alta Mare
+7583|Amalia
+7595|Amari
+7661|Amfipolis
+7662|Amfitriti
+7680|Amphitriti
+7704|Anagros
+7709|Anais
+7711|Anastasia
+7713|Alia Hotel
+7714|Anastasia
+7715|Anastasia Beach
+7719|Anatoli
+7739|Andromeda
+7740|Best Western Plus Embassy
+7742|Andros Holiday
+7745|Anema by the Sea
+7746|Anemones
+7747|Anemos
+7751|Angela
+7756|Angeliki
+7795|Anna Beach
+7796|Anna Maria
+7800|Aks Annabelle Beach Resort
+7816|Anthemis
+7818|Anthoula
+7825|Antinea
+7842|Apellis
+7843|Aperitton
+7846|Aphea Village
+7847|Aphrodite
+7849|Aphrodite
+7851|Aphrodite Beach
+7852|Sunprime Platanias Beach
+7855|Apollo
+7861|Apollo
+7865|Apollonia
+7867|Apostolis
+7875|Salvanos Appartements
+7887|Apraos Bay
+7890|Creta Aptera Beach
+7905|Aquis Aquamarina
+7915|Aquarius
+7948|Archangelos Village
+7950|Archipelagos Resort & Villas
+7952|Archontiko Villas
+7953|Arhontiko
+7967|Aressana Spa Hotel and Suites
+7968|Arethusa
+7969|Arethousa
+7973|Aretousa
+7974|Argassi Beach
+7977|Argo
+7978|Argo
+7984|Ariadne Beach
+7986|Bio Suites Hotel
+7994|Aquis Arina Sand
+8001|Aristea
+8006|Aristoteles
+8010|Arkesia
+8018|Armava
+8020|Arminda
+8022|Armonia
+8023|Armonia
+8024|Armonia
+8025|Armonia
+8026|Armonia Bay
+8038|Artemis
+8040|Artemis
+8078|Askamnia
+8083|Aspasia Maria
+8088|Aspro Spiti
+8090|Assa Maris
+8095|Asteras Villas
+8097|Asteria Pension
+8099|Astir Beach
+8112|Astor
+8119|Astoria
+8137|Capsis Astoria
+8145|Astra
+8148|Astra Village
+8155|Astris Sun
+8156|Astro
+8159|Astron
+8208|Atali Village
+8215|Athena
+8217|Athena
+8218|Athena Beach
+8220|Athenaeum Intercontinental
+8221|Acropol
+8222|Athens Gate
+8223|Cypria
+8224|Athina
+8225|Athina
+8226|Athina
+8227|Athina Palace
+8228|Athinea
+8271|Atlantis
+8288|Atrium
+8353|Averinos
+8362|Avra
+8363|Avra Beach
+8366|Axos
+8463|Bakos
+8469|Balaskas
+8619|Bayside Katsaras
+8672|Begeti Bay Hotel
+8706|Bell Air Village
+8713|Bella Vista
+8716|Bella Vista
+8726|Bella Mare
+8771|Bellonia Villas
+8781|Belvedere
+8782|Belvedere
+8998|Best Western Pythagorion
+9081|Black Sand
+9093|Blazer Suites
+9100|Blue & Sea
+9102|Blue Bay
+9106|Blue Beach
+9113|Blue Horizon
+9117|Blue Jay Beach
+9129|Blue Sea
+9130|Golden Beach & Blue Sea - Golden Beach Studios
+9132|Blue Sky Beach
+9144|Arion Bay
+9235|Bouradanis
+9253|Brati II Beach
+9265|Bretagne
+9380|Butterfly Boutique
+9422|Cactus
+9474|Caldera's Dolphin
+9485|California Beach
+9507|Calypso
+9508|Calypso Beach
+9509|Calypso Holidays
+9510|Calypso Palace
+9523|Camelot Royal Beds
+9639|Canaves Oia Hotel & Suites
+9645|Canea Mare
+9705|Capsis
+9708|Captain Nikolas
+9752|Carina
+10162|Castello di Rodi
+10180|Astro Palace
+10193|Cava D' Oro
+10195|Cavalieri
+10200|Cavo d'Oro
+10201|Cavo D'oro
+10218|Yria Celia
+10261|Century Resort Villas
+10296|Chios Chandris
+10299|Hanioti Palace
+10360|Chris Apartments
+10365|Chrissopetro
+10370|Christiana Beach
+10382|Chroma Paros
+10497|Clio
+10720|Contessina
+10766|Coral
+10773|Coral Hotel
+10793|Komplex Corali & Corali Village
+10813|Divani Corfu Palace
+10814|Corfu Holiday Palace
+10815|Corfu Maris
+10818|Corifo Village
+10819|Paloma Garden & Corina - Corina
+10860|Cosmopolitan - ab 29.04.2015 smartline More Meni Cosmopolitan
+10861|Zeus Hotels Cosmopolitan
+10904|Costas
+10958|Georgioupolis Resort
+10978|Crithoni's Paradise
+11016|Estelar Ormos Crystal
+11020|Crystal Beach
+11078|Daedalus
+11081|Daidalos
+11090|Imperial Med
+11130|Daphne Garden
+11131|Daphne Holiday Club
+11147|Dassia Beach Hotel
+11323|Delfinia
+11324|Delfinia Resort
+11425|Despina
+11426|Despina
+11427|Despotiko
+11463|Diana Beach
+11476|Dilino
+11480|Hersonissos Central
+11481|Dimitra
+11482|Dimitra
+11487|Dimitrios Village
+11488|Dina
+11492|Dion Palace Resort
+11494|Dionysos Village
+11496|Dionysos
+11497|Dioscouri
+11534|Divani Apollon Palace & Thalasso
+11535|Divani Caravel
+11594|Dessole Dolphin Bay Resort
+11669|Doreta Beach Resort & Spa
+11672|Dorian Inn
+11719|Dorion
+11859|Edem Holiday Club
+11873|Eden Beach Resort
+11883|Eden Roc Resort Hotel
+11904|Eftalou Beach
+11905|Efterpi Villas
+11906|Egnatia Palace
+11917|Ekaterini
+11918|Ekati
+11919|Ekavi Beach
+11965|El Greco
+12036|Electra
+12037|Electra Palace
+12039|Elefteria
+12041|Eleftheria
+12047|Elena Bungalows
+12048|Eleni's
+12053|Elia
+12055|Elies
+12058|Elioula
+12071|Miro Blue Princess Beach
+12074|Elmi
+12076|Elounda Bay Palace
+12077|Elounda Gulf Villas
+12078|Elounda Breeze Resort
+12079|Elounda Palm
+12080|Elpis
+12091|Elyros Village
+12112|Emilia
+12129|Emy
+12130|En Plo
+12160|Erato
+12167|Sun Rise Studios & Apartments
+12170|Eri Beach & Village
+12183|Ermioni Beach
+12185|Erofili
+12186|Erofili Beach
+12218|Esperia
+12219|Esperia Palace
+12296|Europa
+12335|Eva
+12339|Everest
+12407|Falassarna Beach
+12411|Faliraki Bay
+12422|Fanari Villas
+12426|Fantasy
+12431|Farout Village
+12457|Feakion
+12524|Fikas
+12527|Filerimos Village
+12532|Filoxenia
+12533|Filoxenia Villas
+12739|Finikia Place
+12769|Fito Bay
+12805|Flisvos Royal
+12846|Alonakia
+12883|Forum Beach & Residence - The Residence
+12884|Forum Suites
+12891|Forum Beach & Residence - Forum Beach
+13000|Frini
+13028|Fundana Villas
+13048|Gaia Garden
+13049|Gaia Royal
+13050|Gaia Village
+13054|Galaxy
+13055|Galaxy
+13058|Galaxy
+13060|Galaxy Villas
+13069|Galini Mare
+13163|Gelina Village - Gelina Mare / Gelina Villa Resort & Spa / Basilia Aparthotel
+13164|Gelina Village - Club Calimera Gelina Village Resort & Spa
+13167|Gemini
+13178|George
+13185|Georgioupolis Beach Hotel
+13187|Geranium
+13188|Gerekos
+13204|Giakalis
+13205|Gianna
+13223|Gioma
+13239|Glaros
+13240|Glaros Beach
+13243|Glavas Inn
+13248|Glicorisa Beach
+13271|Gogozotos Residence
+13274|Golden Age
+13277|Golden Beach
+13278|Golden Beach
+13289|Golden Sand
+13290|Golden Sand
+13295|Golden Star
+13296|Hotel Golden Star
+13298|Golden Sun
+13299|Golden Sun
+13300|Golden Sunset Villas
+13330|Rodos Blue Family Resort
+13341|Gorgona
+13344|Gorgona Villas
+13346|Hotel Gortyna
+13353|Gouves Maya Resort - Gouves Bay
+13354|Gouves Mare & Sea - Gouves Sea
+13472|Grand Holiday Resort
+13553|Great Alexander Beach
+13556|Grecotel Cape Sounio
+13557|Classical Makedonia Palace
+13558|Club Marine Palace & Marine Palace Suites
+13559|Grecotel Pella Beach
+13561|TUI best FAMILY Grecotel Royal Park
+13591|Gregory
+13595|Grekis
+13738|Halepa
+13786|Happy Days
+13788|Happy Cretan
+13804|Haris
+13894|Helen Yolanda
+13902|Heliotopos
+13922|Hera
+13925|Hercules
+13932|Hermes
+13943|Hesperia
+13961|High Beach
+13963|High Mill
+13972|Hilton
+14344|Holiday Sun
+14365|Homers Inn
+14374|Horizon Beach Hotel & Stelios Family Rooms
+14523|Hydrele Beach
+14545|Iberostar Creta Marine
+14629|Ideon
+14638|Ikaros Star
+14640|Ikies
+14687|Ilena
+14693|Ilianthos Village Luxury Hotel & Suite
+14696|Ilias Methoni
+14697|Iliessa Beach
+14698|Ilio Maris
+14699|K. Ilios
+14700|Ilios
+14701|Ilios
+14735|Imperial Belvedere
+14816|Ino
+14874|International
+14899|Iolkos
+14901|Ios Palace
+14906|Ipsos Beach
+14918|Iria Beach Art
+14919|Irida
+14921|Irilena
+14922|Irini
+14923|Irini
+14924|Irini Apartments
+15017|Janno Beach
+15061|Jenny
+15072|Jo An Beach
+15154|Kabanari Bay Beach
+15169|Kakkos Bay
+15175|Kalamaki
+15179|Kalidon
+15180|Kalidon Panorama
+15189|Kalydna Island
+15192|Kalithea
+15193|Kalithea Mare Palace
+15195|Kallisti Villas
+15196|Kalloni Bay
+15197|Kalogria - Annex Christina
+15205|Kalypso
+15209|Hotel Calypso Siviri
+15221|Kanale's
+15222|Kanapitsa Mare
+15252|Karteros
+15276|Katerina
+15277|Katerina
+15279|Katerini
+15282|Kathrin Beach
+15285|Villa Katikies
+15382|King Jason
+15384|King Minos Palace
+15399|Kipriotis Rhodes
+15411|Kissandros
+15432|Hotel Klonos
+15442|Koala
+15452|Kokkari Beach
+15462|Kolymbia Bay Art
+15463|Kolymbia Sky
+15492|Korifi
+15494|Korina
+15500|Kos Palace
+15502|Kosmoplaz
+15503|Kosta Palace
+15506|Koukla Mare
+15511|Kouros
+15512|Kouros Village
+15549|Krokos Villas
+15590|Kyllini Beach Resort
+15592|Kyma Villas
+15598|Kyriaki
+15835|Labito
+15840|Ladiko Hotel
+15843|Lady Anna
+15850|Lagas Aegean Village
+15862|Lagonas
+15892|Lambros
+15935|Laokasti Villas
+15943|Lardos Bay
+16019|Lato
+16189|Ledra Samos
+16191|Lefkorama
+16192|Roi
+16208|Lemon House
+16210|Hotel Lemonakia
+16212|Lemos
+16224|Leonidas
+16263|Les Moulins
+16284|Lesvos Inn
+16287|Leto
+16299|Liapades Beach
+16311|Liuba
+16335|Lido Star
+16354|Lily Ann Village
+16359|Limnionas Bay Village
+16375|Sentido MareBlue Lindos Bay Resort & Spa
+16376|Mitsis Lindos Memories Resort Beach
+16377|Lindos Royal
+16379|Lindos Sun
+16426|Lofos
+16427|Lofos Apartments Skaleta
+16453|Long Beach
+16533|Louis Colossos Beach Hotel
+16534|Asteras Resort
+16535|Palazzo di Zante
+16537|Louis Kerkyra Golf
+16543|Loutanis
+16608|Ma Tzi
+16622|Madalena
+16651|Magda
+16652|Magda
+16653|Magda's
+16708|Makarios
+16709|Makednos
+16718|Malia Bay
+16755|Mandy
+16764|Maniatiko Village
+16776|Manos
+16777|Manoussos
+16803|Maran
+16830|Marcos Beach
+16853|Margarita
+16854|Margarita Beach
+16859|Margi
+16863|Maria
+16880|Mariana
+16881|Marianna
+16888|Aquamare City & Beach Hotel
+16890|Mari Kristin
+16905|Marillia Village
+16912|Marina
+16927|Marina Beach
+16954|Marina Sands
+16956|Mykonos View Hotel
+17007|Maritime
+17010|Maritina
+17012|Maritsa Bay
+17095|Mary Studios & Apartments
+17100|Maryloujohn Villas
+17118|Matala Sun
+17123|Matilda
+17124|Mato
+17146|May
+17167|Meandros
+17181|Mediterranean
+17182|Mediterranean Beach & Royal - Mediterranean Beach
+17184|Mediterranean Resort
+17185|Azure Resort & Spa
+17192|Mediterraneo
+17201|Villa Medusa
+17209|Mega
+17212|Megim
+17236|Melina
+17238|Porto Carras Grand Resort - Meliton Thalasso & Spa
+17243|Meltemi Village
+17247|Memory
+17254|Menigos Resort & Glyfada Villas
+17391|Village Mare
+17412|Metropolitan
+17432|Michaelia
+17471|Miltos
+17474|Mimosa Suites
+17477|Mimoza
+17532|Miramare Hotels - Miramare Resort / Miramare Village / Miramare Deluxe Resort
+17533|Miramare
+17538|Miramare Bay
+17558|Mistral Mare
+17601|Molfetta Beach
+17614|Aquis Mon Repos Palace, Art Hotel
+17683|Montemar
+17684|Montemar
+17718|Moraitika Inn
+17778|Best Western The Museum Spa Wellness Hotel
+17783|Mykali
+17784|Mykonos Bay
+17785|Mykonos Beach
+17786|Mykonos Grand
+17787|Mykonos Palace
+17788|Secret Paradise Halkidiki Hotel & Spa
+17793|Myrtia
+17797|NJV Athens Plaza
+17808|Nakou Village & Traditional Cottages
+17810|Nama Apartments
+17825|Narges
+17828|Nasos & Daisy
+17832|Villa Natassa
+17846|Nautilus
+17856|Naxos Palace
+17861|Nefeli
+17871|Neon
+17899|Nereides
+17972|Nikolas
+17976|Niforeika Beach
+17978|Niki
+17979|Niki Studios
+17980|Nikis
+17986|Niko-Elen
+18002|Nirvana Beach
+18007|Nissaki Beach
+18063|Novotel Athenes
+18150|Oasis
+18151|Oasis
+18203|Oceanida Bay
+18205|Oceanis
+18206|Studios Oceanis Bay
+18244|Oia Mare Villas
+18290|Olympian Bay
+18292|Olympic
+18294|Olympic Kosma
+18295|Olympic Palace
+18297|Olympic Villas
+18319|The Dream Studios to Oniro
+18336|Opera House
+18362|Orion
+18377|Ormos Atalia Village
+18378|Ornos Beach
+18397|Ostraco
+18399|Ostria Studios
+18413|Ourania
+18414|Akti Ouranoupolis
+18437|Pachis Beach
+18461|Pal Beach
+18496|Palatia Village
+18500|Porto Platanias Beach Resort & Spa - Palazzo Di Porto / Plaza Di Porto / Casa Di Porto / Villa Di Porto / Palladium
+18501|Palazzo Rimondi
+18503|Palazzo Vecchio
+18511|Palladion
+18513|Palladium
+18520|Palm Beach
+18572|Paloma Garden & Corina - Paloma Garden
+18580|Pami
+18592|Pandora Suites
+18593|Pandrossos
+18606|Panorama Hotel
+18611|Naturist Panorama
+18616|Kipriotis Panorama Hotel & Suites
+18640|Panselinos
+18644|Pantheon de Luxe Villas
+18649|Papadakis
+18665|Paradise Studios
+18666|Paradise
+18667|Paradise
+18739|Parga Beach
+18748|Paris Beach
+18753|Paritsa
+18828|Paros
+18829|Paros Bay
+18847|Parthenon
+18858|Pasiphae
+18880|Pavilion
+18899|Pedi Beach
+18900|Hersonissos Village
+18905|Pegasus
+18907|Pela
+18908|Pelagia
+18910|Pelagos Suites
+18913|Aquis Pelekas Beach
+18915|Peli
+18923|Pelli
+18929|Penelope
+18954|Peristeridis
+18955|Perivolas
+18984|Nissaki Boutique
+18994|Petradi Beach
+18995|Petrino Suites
+19008|Philippion Beach
+19011|Philoxenia
+19014|Philoxenia Inn
+19017|Phoenix
+19133|Grand Platon
+19180|Plaza Vouliagmeni
+19181|Plaza
+19243|Polikandia
+19250|Polydefkis
+19251|Polyrizos (Polyrisos)
+19269|Popi
+19274|Poros
+19297|Pomegranate Spa
+19302|Porto Fira
+19303|AKS Porto Heli
+19304|Porto Loutro
+19308|Porto Naxos
+19315|Porto Skala
+19332|Poseidon
+19340|Poseidon Palace
+19342|Poseidon
+19343|Possidi Paradise
+19344|Possidona Beach
+19362|Potamaki Beach
+19398|President
+19462|Princess Flora
+19497|Psarou Beach
+19913|Ran Mari
+19926|Ranzo Ionio
+19960|Mistral Bay
+19964|Rebecca's Village
+20035|Regina
+20053|Regina Mare
+20098|Relax
+20127|Rena
+20186|Calergi Residence
+20288|Rethymno Resort
+20321|Makis
+20352|Rimida Villas
+20523|Robinson Club Daidalos
+20525|Lyttos Beach
+20531|Rocabella Santorini Deluxe Suites & Spa
+20549|Amathus Beach Hotel & Elite Suites - Amathus Beach Hotel
+20582|Romantic Palace
+20595|Romeos
+20641|RK Beach Hotel
+20642|Roussos Beach
+20645|Roxani Hotel
+20699|Royal Myconian Resort & Thalasso Spa Center
+20702|Royal Olympic Athens
+20834|Sabina
+20871|Saint Nicholas Beach
+20874|Sacallis Inn
+20900|Sama
+20902|Samaina Inn
+20909|Samel
+20916|Samos City
+20926|San Antonio Summerland
+20948|San Giorgio
+20955|San Giovanni Luxury Studios
+20971|San Marco
+20990|San Panteleimon
+21069|Santa Elena
+21086|Santa Marina
+21087|Santa Marina Resort & Villas
+21088|Santa Marina
+21109|Santorini Image
+21149|Sarris International Hotel
+21223|Shivas Village
+21312|Sea View
+21314|Sea View
+21319|Seabird
+21398|Studio Selana
+21402|Selini Suites
+21403|Sellada Beach
+21408|Semeli
+21409|Semeli The Hotel
+21431|Serena
+21449|Seven Stars
+21639|Sigalas
+21658|Silver Beach
+21696|Sirene Beach
+21706|Sirocco
+21708|Sissi Bay Hotel & SPA
+21731|Siviris Golden Beach
+21733|Skala Hotel Patmos
+21740|Skopelos Village
+21758|Smaragdi
+21775|Sofia Mythos Beach
+21795|Out of the Blue, Capsis Elite Resort - Eternal Oasis/ Ruby Red Regal/ Crystal Energy/ Divine Thalassa/ Oh! All-Suite
+21878|Solemar
+21970|Sophia
+21990|Sousouras
+21995|South Coast
+22013|Sphinx
+22019|Spiros
+22066|St. Constantin
+22068|St. George's Bay Country Club
+22073|St. George Lycabettus
+22099|St. Nicolas Bay
+22150|Notos Therme
+22151|Stavroula Palace
+22156|Stefanos Village
+22192|Stella Bay
+22210|Stellina
+22254|Strass
+22300|Summer Dream
+22305|Summerland Hotel & Bungalows
+22306|Hotel Summery
+22321|Sun Flower
+22329|Sun Palace
+22336|Sun Rise
+22337|Sun Rocks
+22340|Sun Village
+22342|Colindria Mare
+22355|Sunlight
+22359|Sunny Beach
+22361|Sunny Days
+22364|Sunny Villas
+22368|Smartline Sunrise
+22369|Sunrise
+22371|Sunrise
+22379|Sunset
+22380|Sunset Hotel
+22386|Sunset View
+22388|Sunshine
+22389|Atlantica Thalassa
+22394|Sunwaves
+22514|Talgo
+22652|Thalassies & Thalassies Nouveau
+22656|Thalia
+22660|Thassos
+23082|Themis Beach
+23083|Theo
+23084|Theodorou Beach
+23086|Theofilos Classic
+23088|Theoxenia
+23110|Thisvi
+23111|Thodorou
+23139|Tigaki's Star
+23160|Timotheos
+23172|Titania
+23193|Tolo 1 und 2
+23203|Tony's Beach
+23245|Toula
+23265|Arolithos Traditional Cretan Village
+23266|Milia Mountain Retreat
+23375|Tropical Sol
+23378|Tropicana
+23389|Troulis
+23416|Tselios
+23471|Tzekos Villas Zenos
+23585|Vanisko
+23587|Vantaris Palace Hotel
+23593|Vardia
+23594|Varelis
+23597|Vatera Beach
+23600|Vedema
+23602|Veggera
+23618|Vencia
+23622|Venetia
+23623|Veneto
+23636|Venus Beach
+23638|Venus Mare
+23653|Vergina
+23654|Sithonia Forest
+23681|Zorbas Beach
+23696|Vienoulas Garden
+23715|Vigla
+23722|Victoria Hill
+23799|Villa Bellevue
+23825|Villa Christa / Villa Chrissa
+23837|Villa Dafni
+23863|Villa Elia
+23865|Villa Elizabeth
+23869|Villa Esperus
+23901|Irene
+23905|Villa Jannis
+23908|Villa Kelly
+23919|Villa Lina
+23935|Bungalows Villa Maria
+23942|Villa Marilena
+23953|Medusa Resort
+23979|Villa Perdikaris
+23985|Villa Poseidon
+24010|Villa Silvia
+24021|Spiliotica on the Cliff Suites & Apartments
+24023|Villa Susanna
+24050|Villa Valia
+24052|Villa Vergina
+24054|Villa Violetta
+24144|Caldera Villas
+24148|Irini's Villas Resort
+24153|Villas on the Rocks
+24171|Uranos & Caldera
+24187|Virginia
+24240|Vlachakis
+24260|Vournelis Beach
+24263|Vrahos
+24266|The Volcano View Hotel & CELESTIA Grand Villas
+24551|Xenia
+24554|Xenios Zeus
+24601|Zacharakis
+24604|Zafolia
+24612|Zannos Melathron
+24614|Best Western Zante Park
+24623|Zefi
+24632|Zeus
+24633|Zeus
+24634|Zeus
+24659|Zorbas
+24660|Zorzis
+24712|Adamantia
+24716|Aegialis
+24717|Aeolis
+24718|Aeolos
+24722|Aigialos Luxury Traditional Houses
+24726|Akti Beach Club
+24733|Albatros
+24735|Albatros
+24743|Alexandra City
+24744|Alexandros Palace Hotel & Suites
+26650|City Hotel
+28029|Creta Palm Resort
+28031|Maravel
+28033|Dedalos Beach
+28036|Porto Agia Galini
+28039|Villa Sonia
+28040|Minos Imperial Luxury Beach Resort & Spa
+28042|Mitsis Petit Palais
+28045|Sandy Beach Resort
+28062|Kallisti Thera
+28063|Elixir Studios
+28064|Aegean Plaza
+28065|Mitsis Galini Wellness Resort
+28283|Creta Residence
+28284|Elpis
+28303|Poseidonia
+28315|Tsalos Beach
+28321|Danae
+28333|Smaragdine Beach
+28338|Karras
+28518|Lindos Princess Beach Hotel
+28575|Minos Village
+28583|Bella Casita
+28703|Atlantica Imperial Resort
+28705|Grecotel Kos Imperial Thalasso
+28716|Castro
+28717|Galaxy
+28730|Kri-Kri Village Holiday Apartments
+28733|Mantenia
+28745|Sgouros
+28767|Athina Cliff Side Suites
+28771|Mathios Village & Villa Mathios
+28774|Lefkoniko Beach
+28775|Panorama
+28776|Liberty
+28778|Marianna
+28782|Nicolas Villas
+28784|Nostos
+28791|Stafilia
+28793|Sunrise
+28798|Venus Melena
+28799|Villa Nancy
+28976|Classical 2 Fashion House
+29238|Ekies All Senses Resort
+29395|Manos Maria
+29397|Parthenis Beach
+29400|Villa Kostas
+29401|Robolla Beach
+29402|Akrogiali
+29403|Poseidon Beach
+29410|Best Western Galaxy
+29411|Ilaria
+29414|Liostasi Sun Club
+29436|Atlantica Porto Bello Royal
+29442|Orpheas Beach
+29555|Eri Sun Village
+29557|Yakinthos
+29558|Galini Beach & Eden
+29560|Zefiros Beach
+29622|Corfu Residence
+29623|Adriolos
+29624|Argo
+29626|Plaza
+29629|Villa Glyfada
+29630|Erato
+29652|Australia
+29959|Dryades
+29962|Agorastos
+30110|De Loulia
+30112|Thalassino Trifilli
+30114|Apostolata Island Resort & Spa
+30116|Sea View Village
+30122|Stavros Tou Notou
+30123|Akti Taygetos
+30125|Classical Filoxenia
+30135|Porto Assini
+30140|Tolon Holidays
+30159|Cosmopolitan Suites
+30163|Memories Beach
+30180|Kosmitis
+30183|Deliades
+30193|Aegean Suites
+30234|Giannis Marina
+30239|Casa Veneta
+30240|Vamos Palace
+30242|Villa Idillion
+30397|Golden Sunset
+30398|Riviera Barbati
+30816|Bitzaro Grande
+30862|Rosmari
+30863|Anthoula Sun
+30864|Manousos
+30865|Paradise
+30867|Kounenos
+30868|Mochlos Mare
+31075|Elina
+31126|Royal Marmin Bay Luxury Resort & Spa
+31731|Poseidon
+32273|Sun Beach
+32274|Villa Yannis
+32275|Helios Splendid
+32280|Eri
+32312|Thermae Sylla Spa
+32313|Spilia Village
+32320|Revera Traditional Villas
+32322|Villas Flisvos
+32332|Villa Enallaxis
+32335|Villa Pantheon
+32337|Liokambi Village
+32339|Villa Natalia's House
+32346|Villa Anastasia
+32347|Villas Stella & Manolia
+32349|Villas Lefkothea
+32358|Villa Artemis
+32360|Mavrikiano Traditional Houses
+32361|Sani Resort - Sani Asterias Suites
+32362|Maistrali Studios
+32363|Palatino
+32366|Amphitryon
+32368|Xenia Poros Image
+32370|Tamarix del Mar
+32371|Paros Agnanti
+32373|Archipelagos
+32382|Archontiko
+32385|Zephyros Beach
+32386|Horizon Beach
+32387|Kalloudis
+32388|Joanna
+32389|Blue Horizon Studios
+32390|Eliros Studios
+32391|Villa Enagron
+32636|Evripides
+32932|Hydramis Palace
+32933|Anthos Appartements
+32935|Loucas
+32936|Petros Place
+32937|Pygros Beach
+32939|Batistas
+32940|Artemis
+32943|Tavari Beach
+32945|Krinelos
+32946|Evilion Sea & Sun
+32947|Kronos
+32948|Olympic Star
+32950|Imperial Beach
+33184|Villa Kazaviti
+33186|Vontzos
+33188|Panorama Studios
+33189|Astir of Naxos
+33212|Apollon
+34309|Best Western Museum
+34310|Amarilia
+34535|Aegean Melathron
+34537|Villa Atlantis Beach
+34539|Limeni Village
+34955|Belmondo
+34956|Palazzino di Corina
+34957|Golden Sand
+34958|Grand Bay Resort
+34959|Harmony
+34961|Vassilikos Beach
+34962|Strofades Beach
+34963|Sunrise Inn
+34965|Plaza Beach
+34966|Acquamarina Resort
+35254|Pylea Beach
+35368|Iperion Beach
+35376|Dandolo
+35378|Atlas Houses
+35379|Bella Mare
+35380|Asterias Village
+35638|Blue Palace Resort & Spa
+35639|Kalimera Mare
+35659|Blue Bay
+35660|Gouves Water Park Holiday Resort
+35662|Almiros Beach
+35664|Maleme Mare
+35899|Angel Village
+35900|Sunrise
+35904|Kommeno Bella Vista
+35905|Coryfo
+35910|Areti
+36265|Perle Resort Health Spa
+36425|Solaris
+36587|Dimitra
+36591|Oceanis
+38101|Andromeda Hotel
+38141|King George
+38613|Amaryllis Hotel
+38615|Noufara
+38616|Stegna Mare
+38619|Tropical
+38635|Zante Village
+38688|Atlantis
+38734|Athenian Callirhoe
+38755|Golden Star
+38767|City Plaza
+38821|Esperia Beach Apart & Suites
+38823|Jo An Palace
+38824|Knossos Beach Bungalows & Suites
+38827|Nontas Hotel
+39078|Sovereign Beach
+39082|Kochili
+39087|Miraluna Resort Complex - PrimaSol Miraluna Seaside / Miraluna Village & Spa / Miraluna Garden
+39089|Elotis Suites
+39090|Mediterranean
+39223|Creta Blue
+39377|Kalypso Villas
+39378|Atrium
+39483|Mitsis La Vita
+39486|Kipriotis Hippocrates & Maris Suites Hotel - Kipriotis Maris Suites
+39487|Caldera's Lilium Villas
+39489|Turtle Beach
+39509|Asterion Beach Hotel & Suites
+39510|Meropi
+39511|Lindian Village
+39513|Magic Life Marmari Palace Imperial
+39515|Di Palais
+39517|TUI best FAMILY Grecotel Olympia Oasis
+39518|Grecotel Olympia Riviera Thalasso
+39519|Grecotel Mandola Rosa Suites & Villas
+39704|Tropical
+39707|Alia Palace
+40113|Aegean View Resort
+40114|San Marco Villas
+40116|Olympus Mediterranean
+40117|Anastasia Resort
+40118|Thera Mare
+40119|Diogenis Studios
+40131|Club Med Gregolimano
+40153|Sea Side Resort & Spa
+40156|Mikri Poli Rhodes
+40235|Arion Renaissance
+40237|Esperides
+40238|Filia
+40435|Nafplia Palace Hotel & Villas
+40767|Santikos Mansion
+40769|Gi-Ga-Mar Studios
+40771|Studios Kleopatra
+40772|Enetiko
+40773|Aristidis Garden
+40774|Ionian Blue Bungalows & Spa
+40775|Niver Plaza
+40777|Emelisse Art
+40781|Alonia Maisonettes & Studios
+40782|Negroponte Resort Eretria
+40784|Ammos
+40785|Pelican Bay Art
+40787|Lila Guesthouse
+40788|Aeolos
+40789|Triantafillies
+40793|Aegean View Studios
+40794|Kyveli Apartments
+40797|Saraya Resort
+40798|Anastasia Studios
+40800|Elia Landhaus
+40802|Nikos Spiti
+40958|Philippos
+40975|Latino Bay
+40976|Votsalakia Beach
+40977|Blue Swan
+40979|Villen Vafios
+40981|Argo
+40983|Renaissance Hanioti
+40984|Ocean Beach
+40986|Thassian Villas
+40988|La Piscine Art
+40990|Andreolas Luxury Suites
+41226|Corfu Village
+41228|Flisvos Beach
+41360|Lucy
+41365|Astir Egnatia
+41366|Alexander Beach
+41679|Golden Days
+42289|Cretan Royal Dream
+42290|Futura
+42293|Bella Pais
+42294|La Stella
+42299|Villas Porto Kalamitsi
+42303|Mitsis Ramira Beach
+42347|Rhodos Beach
+42478|Rodos Star
+42656|Sunny Bay
+46342|Zante Maris
+47459|Galeana Mare
+47542|Delfini Pension
+47713|Alexia
+47836|Blue Aegean
+47839|Santa Marina Plaza
+47880|Dimis
+48198|Roses Beach
+48291|Porto Zante De Luxe Villas
+48292|Elounda Peninsula
+48294|Mediterranean Palace
+48296|Porto Iliessa
+48361|Hyatt Regency Thessaloniki
+48533|Vasilia
+49517|Irinna
+49591|Meliton
+49617|Pleiades Luxury Villas
+49659|Rio Athens
+49931|Holiday Inn Thessaloniki
+49932|Divani Meteora
+50088|Fresh Hotel
+50089|Athens Ledra Hotel
+50091|Sofitel Athens Airport
+50185|Antoniadis
+50186|Famissi
+50242|Hotel Vouzas
+50243|Fedriades
+50379|Gazebo Inn
+50706|Edelweiss
+50740|Iniohos
+50741|Pythia Art
+50790|King Iniohos
+51082|Nikopolis
+51437|TUI best FAMILY Atlantica Aegean Blue
+51470|Meteora
+51867|Orfeas
+51879|Villa Apollonia
+51968|Arion
+51969|Marina
+51970|Olympia Palace
+51977|Santorini Palace
+51986|Best Western Europa
+52058|Oasis
+52272|Melia Athens
+52514|Jason Prime
+52641|Villas Duc
+52659|Egnatia
+52726|Sunshine Village
+52861|La Mirage
+53034|Old Windmill Studios
+53175|Triton
+53177|Anemoesa Studios
+53178|Titania
+53215|Ikos Oceania
+53217|Rentaki Villas
+53225|Pegasus Suites & Spa
+53226|Artemis Suites
+53227|Santellini
+53228|Santo MiraMare Resort
+53229|Saint George
+53230|Palace
+53341|Delfina Art
+53342|Icons
+53343|Naxos Resort
+53708|Star Beach Village
+54441|Vantaris Garden & Corner
+54446|Aqualand Resort
+54449|Stilvi
+54450|Alkyon
+54871|Aegean View
+54876|Herodion
+55657|Christinangela
+55658|Meltemi Suites
+55661|Almyros Villas Resort
+55662|Mediterranean Beach
+55696|Louloudis Boutique Hotel & Spa
+55997|Jason Inn
+56062|The Oasis
+56073|Stratos Vassilikos
+56082|Classical Athens Imperial
+56087|Best Western Fenix
+56091|Holiday Inn Athens - Attica Avenue - Airport
+56092|Holiday Suites
+56166|Avra
+56239|Ampelonas
+56240|Alitana Boutique Hotel
+56241|Okeanis Beach
+56242|Anastasia Princess
+56391|Aldemar Royal Olympian
+56907|Best Western Zinon
+56957|Panos
+56959|Aris
+56960|Dolfin
+56961|Apollon
+56962|Minoa
+57012|Vergina Sun Studios
+57014|Apollo
+57015|Seva's Studios
+57018|Fomithea
+57019|Kassimatis
+57020|Sagterra
+57021|Aghia Anna
+57023|Lilly Residence
+57029|Palm Bay
+57373|Palatino
+57374|St. John Villas
+57383|Zafira
+57386|Dallas
+57396|Penelope Suites
+57397|Astra Village
+57399|Olympia Golden Beach
+57400|Plaza Resort
+57401|Cabo Verde
+57402|La Maltese Estate
+57403|San Antonio
+57404|Asteras
+57405|Mykonos Theoxenia
+57406|Jason
+57407|Aglaida
+57408|Ostria
+57413|Liros
+57414|Kavoussi Resort
+57416|Ammoudi Beach
+57418|Maliatim Appartements
+57504|Paliokaliva
+57506|Marnei Mare
+57507|GDM Megaron
+57602|Lefkoniko Seaside
+57603|Lefkoniko Bay
+57966|Lefkoniko Corner
+57967|Lefkoniko Sands
+57993|Therianos Villa
+57994|Villa Elianthos
+57995|Villen Gerani
+57996|Kalimera Archanes Village
+58022|Emmantina
+58063|John & Joy
+58136|Villas Cavo Marathia
+58157|Studio & Appartement Evdokia
+58354|Angela
+58363|Dionyssos
+58370|Villa Jota
+59028|Maria Preka
+59029|Akis
+59129|Le Palace
+59712|Pyrgaraki Studios
+59713|Koukis Holiday Club
+59714|Aphrodite Studios Apartments
+59715|Olive Garden
+59717|Pension Manos
+59718|Stegna Star
+59721|Alkionis Beach Appartments
+59724|Edem Beach
+59728|Matheo
+59738|Theonia
+59739|Iris
+59741|Pantokrator
+59749|Minoa
+59750|Diethness
+60035|Pension Christina
+60043|Artina & Artina Nouvo & Spa - Artina
+60165|Egilion
+60166|Castello Rosso
+60167|Delfini
+60260|Kalimera Koukla
+60292|Sarti Beach
+60342|Apladas Apartments
+60563|Attica Beach
+60564|Classical Vouliagmeni Suites
+60757|Aegean Houses
+60912|Eridanus
+61038|Best Western Candia
+61845|Vigla Apartments
+61878|Thraki Palace
+62071|Cyprotel Almyros Natura
+62241|Panorama
+62243|Kastelli
+62277|Daniel
+62330|Ilyssion Studios
+62331|Matina
+62461|Angela Suites
+62685|Fanis Appartements
+63092|Eleni Village
+63229|Bella Grecia
+63307|Iris
+63410|Venezia
+63427|Ilissos
+63775|Studios Angelos
+64461|Kaningos 21
+64567|Zoumis Studios & App.
+64918|Acropole
+64919|Parnassos
+64966|Byron Appartement
+65082|Esmeralda Studios
+65132|Periscope
+66282|White Palace Studios
+66293|Leonidas Studios & Apartments
+66338|Panorama
+68669|Nicola
+69093|Porto Mykonos
+69265|Polis Grand
+69352|Thalassa Beach Resort
+69353|Corissia Princess
+69354|Michalis
+69355|Eleni Beach
+69386|Sentido Ixian Grand
+69480|Atlantica Kalliston Resort & Spa
+69483|Naftilos
+69484|Mareblue Beach
+69485|Residence Suites
+69486|Thalassa Sea Side Resort & Suites
+69487|Epavlis
+69489|Palmyra Beach
+69490|Aegeon Beach
+69575|Delphi Art
+69576|Philippion
+69672|Astoria
+69747|Pinelopi
+69748|Parthenon
+69751|Lemon Tree House Hotel
+70155|Aquis Vasia Palace
+70194|Dimitris
+70195|Hotel Marialena
+70196|Garden Studios
+70197|Agali
+70198|Lesse
+70199|Achtis
+70296|Oscar Suites & Village
+70297|Kavros Beach
+70298|Golden Villas
+70299|Kalypso
+70300|Katalagari Country Suites
+70301|D'Andrea Mare
+70303|Nikolaos House
+70304|Panorama Hideaway
+70307|Orion
+70308|Paros Paradise
+70310|Blue Sea
+70568|Daphnis Villa
+70571|Apsenti
+70776|Eko Suites
+70782|Macedonia
+70783|Louros Beach
+70790|Marin Dream
+70866|Costa Blue - demnächst Grande Mare Hotel & Wellness
+71007|Panorama
+71009|Despotiko
+71010|Dream Villas
+71103|Best Western The Park
+71106|Santa Beach Hotel
+71108|Patras Palace
+71110|Aegean Blue Studios
+71114|Limenaria Beach
+71116|Albatros
+71118|Achaia Beach
+71121|Patriacheas
+71122|Le Convivial
+71128|Tsilivi Beach & Suites
+71129|Samaras Beach
+71131|Saily Beach
+71132|Pelican
+71133|Corfos Bay Resort
+71136|Molyvos II
+71137|Poseidonion
+71140|Castelli
+71146|Golden Sun
+71148|Kohylia Beach
+71149|Grand Beach
+71150|Atrium
+71151|Studios Kastro
+71408|Blue Marine Resort & Spa Hotel
+71485|Tosca Beach
+71486|Maranton Beach
+71487|Dolphin Appartements
+71488|Gerassimos
+71489|Avithos Resort
+71492|Studios Dimitra
+71493|Summerland Holiday's Resort
+71495|Sofokles
+71497|Blue Waves
+71499|Anastasia Village
+71501|Paris
+71502|Yota Beach
+71624|Kalamaki Beach
+71646|Appartements Adrakos
+71803|Orloff Resort
+71804|Kirini Suites & Spa
+71805|Astarte Suites
+71806|Kos Aktis
+71807|Avli
+71880|Aspri Petra
+72032|Sentido Mikri Poli Kos
+72125|Atrion
+72222|Africa
+72223|Astron
+72292|Best Western Vergina
+72424|Zorbas
+72425|Galini Apartments & Studios
+72427|Eleonas
+73121|Malia Studios Apartments
+73122|Marigianna
+73124|Stelio's Garden
+73334|Studios Irini
+73519|Santorini Beach Complex - geschlossen
+73523|Adrian
+73524|Thalassi
+73531|Telis Pension
+73533|Leda Beach Hotel & Apartments
+73668|Mati
+73761|Krini Beach
+73897|Avanti
+73898|Ios Plage
+73899|Lofos Village
+73900|Mare Monte
+73902|Belou
+73908|Anixi
+73909|Damianos
+73911|Eleni's Studios
+73925|Summer View Apartments
+73926|Aegeon
+73931|Kavos
+73935|Haravgi
+73937|Denise
+73939|Ionia
+73942|Bourtzi Boutique
+73943|Morfo
+73944|Pothos
+73945|San Remo
+73947|Anatolia
+74399|Petinaros & Studios Petinaros Beach - Petinaros
+74776|Poseidon
+74779|Sofia Village
+74780|Maria
+74781|Orizontes
+74782|Angela
+74863|Kookis Villas
+74865|Thalia
+74877|Kalypso Cretan Village Resort & Spa
+74968|Despina Studios
+74969|Prekas
+75062|Coral Blue Beach
+75096|Paradision
+75110|Avra
+75297|Neos Ikaros
+75392|Irene
+75406|Canadian
+75438|Villa Verde
+75493|Silver Beach
+75558|Gardenia
+75560|Nautilus Studios
+75561|Golden View
+75562|Askeli Palace Apartments
+75563|Giannoulaki Village
+75564|Captain's & Commodore & Admiral Complex
+75565|Chryssi Akti & Paradise Beach
+75566|Dimitra Aparthotel
+75567|Esperia
+75568|Ikaros
+75569|Letsos
+75570|Locanda
+75571|Montreal Beach
+75572|Nisaki
+75573|Papillon
+75620|Orsa
+75621|Cyclades
+75622|Doukissa
+75623|Frangiscos Inn
+75624|Marinero
+75625|Parosland
+75626|Polos
+75627|Golden Milos Beach
+75628|Chronis
+75629|Anezina
+75630|Portiani
+75631|Arokaries
+75632|Byzance
+75633|Albatros
+75635|Antonia
+75636|Astir Thira
+75637|Drossos
+75639|Majestic
+75640|Manessi
+75641|New Aegli
+75642|Pavlou
+75643|Asterias
+75644|Paros Philoxenia
+75645|Dafni
+75646|Akti
+75647|Cape Kanapitsa
+75648|Rene
+75649|Alkyon
+75650|Benakis
+75651|Elies Resort
+75652|Mosha
+75653|Zeus
+75654|Alea Studios
+75658|Pyrgaki
+75659|Lindos Garden
+75660|Poseidon
+75661|Mediterranean Beach & Royal - Mediterranean Royal
+75663|Minois Village
+75665|Grotta
+75666|King Thiras
+75667|Antonios
+75678|Alkyonis Villas
+75679|Agia Markella
+75681|Hotel Melissa
+75687|Paolas Town
+75715|Artemis Studios
+75716|Kremasti Memories
+75718|Appartements Cactus
+75740|Blue Lagoon Village
+75773|Kinissi Palace
+75834|Elea Village
+75841|Marirena
+76033|Agios Nikolaos
+76035|Agios Andreas
+76037|Garden House
+76038|Kentrikon
+76066|Alex
+76186|Stella Beach
+76222|The Athens Mirabello
+76580|Mon Repos Villa
+76602|Villa Alexandra-Natalia
+76625|Naturist Angel Club
+76628|Christina
+76631|Galaxias
+76638|Souda Bay Appartements
+76640|Vista del Mar Bungalows
+76641|Adonis
+76644|Porto Villas
+76651|Daphne
+76659|Lithos Villen
+76662|Phaistos Bungalows
+76684|Thanos Village
+76736|Rhodian Sun
+76816|Ochre & Brown Boutique
+76818|Castello
+76819|Irini
+76820|Avra
+76821|Clio
+76823|Markella
+76824|Vossos
+76825|Planos Beach
+76887|Cefalonia Star
+76888|Telioni
+76889|Mirabel
+76890|Minerva Premier
+76896|Pharae Palace
+76897|Odysseon
+76901|Alkistis
+76902|Phillipos
+76903|Vassiliki Bay
+76907|Park
+76908|Olympion Asty
+76909|Ilis
+76910|Hotel Antonios
+76912|Vakhos
+76922|Paradisia
+76923|Naxos Sun Studios
+76924|Dolphin
+76925|Anixi
+76926|Aeolis
+76927|Vinsanto Villas
+77027|Lida
+77055|Grecotel Pallas Athena
+77087|Agnadema
+77088|Anna
+77089|Grand Palace
+77283|Life Gallery Athens
+77328|Star
+77374|Stratos Villas
+77375|Lasinthos Eco Park
+77509|Electra Palace Hotel Thessaloniki
+77876|Petrino Horio
+78101|Sandy Beach
+78128|Lily Ann Beach
+78195|Esperides Maisonettes
+78197|Kalimera
+78198|Cascade
+78199|Vasilis
+78200|Saga
+78201|Oneiro
+78202|Economy
+78227|Golden Sands
+78228|Isabella Country
+78247|Nafsika
+78498|Prinos Village Suites
+78635|Orfeas
+78636|Aphrodite
+78685|Lido
+78686|Blue View
+78692|Sophia
+78693|Frosini
+78810|Costa Lindia Beach Resort
+78811|Boathouse
+78852|Roxani
+78868|Castri
+78993|Stella Palace
+78994|Villa Petronikolis
+78995|Marco Polo
+78996|Melenos Suites
+78997|Villa Stegna
+78999|Pelopas Resort
+79000|Aquis Marine Resort
+79001|Beis Beach
+79003|Angelica
+79027|Scorpios Beach
+79083|Belvedere
+79091|Tagoo
+79182|Belussi Beach
+79232|Sanorama Suites
+79235|Melies Studios
+79237|Jassu
+79242|Tsuderos
+79243|Bougainvillea
+79249|Katafigio Village
+79258|Palataki
+79260|Rodon
+79262|Luisa
+79273|Blue Fox
+79281|Spourgitis
+79282|Eleni
+79295|El Mar
+79304|Türkis Villa
+79306|Niki
+79322|Ithaka
+79337|Messavrissi
+79340|Flora
+79345|Kyma
+79348|Voula
+79359|Vlassis
+79377|Veduta
+79378|Eleni's Garden Studios
+79382|Myrto
+79384|Agnadi
+79396|Kalliani Villa
+79398|Miranta Villa
+79409|Fata Morgana
+79413|Odeon Villen
+79472|Aristoteles
+79518|Lato Boutique
+79583|Romantica
+79584|Zorbas
+79683|Blue Suites
+79684|Hellas
+79689|The Agrilia
+79693|Palmariva
+79824|Bella Venezia
+79879|Verde al Mare
+79880|Calimera Sunshine Rhodes
+79881|Medblue Kremasti
+79882|Kalithea Horizon Royal
+79920|Mykonian Mare Resort
+79921|Belvedere Suites
+79922|Cliff Side Suites
+79923|Armeni Village
+79924|La Perla Villas
+79927|Orkos Beach
+79979|Apollo
+80031|Kassandra Bay Village
+80058|Helion Resort at Govino Bay
+80081|Alassia
+80082|Kydon
+80169|Imaret
+80187|Villa Anais
+80198|Ippoliti
+80203|Hydroussa Hydra
+80210|Kontis
+80231|Siorra Vittoria Boutique
+80233|Bill & Coo
+80234|Mystique
+80607|Molos
+80609|Ioli Village
+80611|Villa Semeli
+80613|Port Marina
+80614|Akritas Ef Zin
+80617|Villas Ganios
+80622|Langada Village
+80623|Aperi View
+80625|Smaragdi
+80627|Nostos
+80628|Blue Bay
+80630|Chrismos
+80632|Saint Nicholas
+80633|Panorama
+80635|Andreas
+80636|Monachus Village
+80639|Mirtilos
+80640|Villas Tsivaras
+80642|Aphrodite
+80649|Anemos
+80751|Village Inn Studios & Family Apartments
+80752|Vanilla
+80753|Filoxenia
+80833|Vigla Village
+80834|Kastro Beach
+80835|Melitsina Village
+80836|Skalidis Appartements
+80859|Deangelo
+80860|Vrachia
+80861|Lagos Mare
+80865|Vigla Beach
+80868|Emporios Bay
+80869|Anatoli
+80870|Mandilada Village
+80872|Continental
+80873|Paraktio Beach
+80876|Golden View Studios
+80877|Studios Blue Waves
+80879|Hiona Holiday
+80880|Lycasti Maisonettes
+81221|Ioli
+81229|Zacharenia
+81235|Agathi
+81236|Apostolis
+81271|Saint John Hotel Villas & Spa
+81408|Alkion
+81856|Grand Bleu
+81857|Fistikies Holiday Apartments
+81860|Capsis Bristol
+81861|Maistrali
+81862|Oliva / Olliva
+81866|Happyland
+81867|Palmyra
+81868|Aliki
+81870|Anadiomeni
+81875|Nafsika
+81890|Aria
+81892|Lake Studios
+81893|Studios Platon
+81896|Blue Waves
+81897|Blue Diamond Bay
+81898|Palladio
+81899|Amphora
+81900|Alianthos Appartements
+81901|Plakias Bay
+81903|Oasis
+81935|Light House I + II
+81940|Daktilidis Village
+81987|Beach Madouri
+81988|Lichnos Beach
+82096|Zachos
+82097|Skiathos Club
+82098|Villa Christina
+82099|Galaxy Design
+82100|Loukas
+82101|El Greco
+82102|Plaza Art
+82103|Les Lazaristes
+82104|Davitel Tobacco
+82656|Kazaviti Hotel & App.
+82683|Akropolis
+82794|Sentido Vasia Resort & Spa
+82795|Marcos Holidays Club
+82797|Alexandros
+82802|Savvas Aparthotel
+82910|Karyatides
+82912|Katerina
+83287|Soho
+83612|Best Western Ilisia
+85079|Studios Villa George
+85126|Golden Sunrise Resort
+85172|Tinos Beach
+85263|Santorini Reflexions Volcano
+85265|Maltezos
+85266|Corfu Palma Boutique Hotel
+85363|Sun Queen
+85390|Carob Tree Valley Villas
+85417|Alia Club Beach
+85421|Dionyssos
+85457|Mandrino
+85484|Fiori
+85487|Park
+85497|Brothers
+85498|Marel
+85680|Club Ermioni
+85681|Anita
+85682|Argo
+85685|Princess of Mykonos
+85798|Kalypso
+85799|Tara Beach
+85800|Lassi
+85804|Galaxy
+85806|Georgia
+85809|Anemos
+85810|Armadoros
+85811|Poseidon of Paros
+85812|Albatross
+85813|Muses Studio/Appartement
+85814|Stella Studio Appartement
+85815|Angeliki
+85816|Plaka
+85817|Galini
+85856|Best Western Amazon
+85857|ABC
+85859|Zenith
+85860|Apollonion
+85867|Queen Olga
+85868|Pan
+85869|Fassolou Studios
+85871|Daios
+85872|Castle Resort
+85873|Nafs
+85875|Malaconda Beach
+85876|Santa Maria Village
+85879|Glaronissia
+85932|Heliotopos Studios
+85934|Aris
+85936|Tholos Resort
+85946|Famissi Eden
+85947|Mentor
+85948|Giannakas Studios
+85954|Panormos Beach
+85962|Eugenia Studios
+85965|Irini Villa
+85970|Ilion
+85971|Erissos Palace
+85975|Green Bay
+85976|Diana
+85978|Anessis
+85980|Marita
+85981|Thetis
+86049|Sofia
+86128|Ideal Appartements
+86263|Electra
+86322|Mina Studio
+86323|Charissi
+86529|Maria
+86816|Joanna Apartments
+86817|Ilissyon
+86819|Melpo
+86820|Margarita
+86821|Ikaros
+86822|Villa Soula
+86823|Perissa Bay
+86824|Classical Larissa Imperial
+86826|Solea Apartments
+86827|Hotel Mimosa - ab 02.05.2015 smartline Mimosa
+86828|Cassandra
+86829|Mediterranee
+86830|Four Seasons
+86831|Valsami
+86832|Antonios Studios
+86833|Family House Apartments
+86834|Castello di Cavalieri Suites & Spa
+86835|San Remo
+86836|Atlantis
+86837|Arkoulis
+86838|Herodotos Studios
+86839|Louvre
+86842|Aloni Cottages
+86843|Katia Maria Apartments
+86844|Arion
+86849|Santa Marina
+86850|Arni
+86851|Domotel Xenia Volou Hotel
+86903|Panorama
+86956|Village Keri
+87067|Akrotiraki
+87208|Kasapakis
+88295|Villa Valvis
+88498|Athens Atrium
+88600|Piraeus Theoxenia
+89330|The Small Village
+90060|Blue Sky
+90063|Blue Sea
+90064|Olympia
+90124|Meandros Boutique
+90125|Beach Star
+90126|Lemon Grove
+90190|Porto del Colombo
+90388|Amalia
+90618|Roda Oasis
+90842|Aegeon
+90843|Sun Beach
+90844|Villa Kerasia
+90953|Galaxy
+90954|Arsinoe
+90955|Balasca
+90956|Agrelli
+91071|Goudelis
+91074|Jupiter
+91661|Marilena Caravel Pool
+91716|Romanza
+91718|Aetovigla Houses
+91720|Aposperitis Villas
+91759|Blue Bay Villas
+91815|Koukounaria
+91877|Mikro Village
+92211|Gouves Mare & Sea - Gouves Mare
+92731|Danai
+92732|Karda Beach
+92733|Studios Pahnis
+92781|Iapetos Village
+92999|Hotel Cavo Spada Luxury Sports & Leisure Resort & Spa
+93002|Sitia Beach City Resort & Spa
+93005|Avalon Boutique
+93008|Akti Barbati
+93009|Villa Stefanos
+93011|Cronwell Platamon Resort
+93017|Olympion Sunset
+93146|Lindos Imperial Resort & Spa
+93171|Corfu Mare
+93481|Glaros
+94414|Astir Palace - Arion Resort & Spa
+95017|Afandou Bay & Suites
+95018|Exotica
+95019|Stamiris
+95249|Sunshine Club Calimera Kreta
+95258|Minoa Palace & Minoa Imperial Resort Spa - Minoa Palace Resort Spa
+95263|Istion Club
+95264|Elysium Resort & Spa
+95266|Sunshine Corfu
+95289|Ammos Mykonos
+95294|Anemos Beach Lounge
+95407|Blue Lagoon
+95408|New Sofia
+95409|Arkassa Palace Hotel
+95486|Porto Koufo
+95515|Marios
+95517|Chara
+95520|Rikia
+95521|Stalachto
+95522|Askos
+95723|Myrto
+95724|London
+95762|Sentido Mikri Poli Crete
+95771|Annas House
+95772|Paradise
+95820|Marina
+95824|Corfu Sea Gardens
+95828|Olympic Star
+95837|Studios Elena
+95838|Aeolian Gaea
+95867|Astir Notos
+95868|Andreolas Beach
+95927|Pela Mare
+96020|Peter's Studios
+96290|Lefkos Village
+96443|Naïas
+96446|Sun Residence
+96448|Aristotelis
+96453|Villa Victoria
+96455|Villa Lucia
+96459|Villa Alexandra
+96464|Liberta Villas
+96465|Panthea Suites
+96466|Ilios Village
+96470|Lofos Village
+96472|Villa Orsalia
+96473|Drys Villas
+96478|Kamares Landhaus
+96480|Villa Sokaki 1 & 2 - Villa Sokaki 1
+96483|Estate Kares
+96484|Marni Village
+96665|Konstantinos
+96670|Mykonos Grace
+96671|Andronis Luxury Suites
+96672|Suites Of The Gods
+96821|City Center
+97268|Sea Castle
+97269|Ilis Villas
+97272|Listaros Luxurios Country Villas
+97350|Vytina Mountain View
+97356|Best Western Dore
+97359|Ideal
+97360|Art
+97362|Alma
+97364|Iliovasilema
+97365|Galaxy Hotel
+97366|Oceanis
+97429|Ocean View Beach
+97498|Kallisti Apart
+97513|Pantheon Villas
+97537|Konaki
+97542|Alexandros
+97550|Villa Andreas
+97577|Paradise Studios
+97601|Semantron Traditional Village
+97606|Apollo Resort Art
+97607|Kedros Villas
+97627|Harmony
+97629|Sevilli
+97638|Maistrali
+97640|Aegean View
+97642|Morpheas
+97644|Arcadion
+97646|Fedra Studios
+97655|La Cite
+97657|Glyfada Beach
+97661|Penelope
+97665|Galini
+97678|Kalloni
+97679|Glorious Peleys Luxury Castle
+97680|Seralis
+97681|Waterside
+97682|Damouchari
+97683|Sirene Blue Resort
+97686|Sydney Kastraki
+97692|Esperides Resort
+97694|Eden
+97695|Lemnos Village
+97696|Spiridoula Studios & Appartement
+97700|Katsouleas
+97701|Manolou Resort
+97702|Mani Villas
+97708|Sea Harmony Studios
+97709|Lindos Blu
+97714|Marialena Villas
+97774|Saronis
+97779|Thalassa
+97781|New Malvasia
+98074|Akrogiali
+98111|Cyprotel Kefalonia Garden Village
+98120|Lito Apartments - Paleochora
+98121|Elman
+98122|Polydoros
+98123|Ardani
+98131|Maxine
+98149|Malemi
+98194|Villa Romantica
+98197|Vassilias Beach
+98198|Porto Carras Grand Resort - Sithonia Thalasso & Spa
+98234|Studios Makis
+98235|Dioni
+98239|Erietta
+98446|Aegeon
+98898|Amore Villas
+98912|Samos Bay by Gagou Beach
+99237|Golden Beach Studios
+99273|Neptuno Beach
+99477|Avra Beach
+99478|Olympiada
+99508|Metropol
+99510|Frosini Gardens
+99511|Crystal City
+99512|Blue Bay
+99513|Mistral
+99514|Fournakia Complex
+99515|Marias Garden Villas
+99516|Preveza Beach
+99517|Lodos
+99518|Aria Lito Mansion
+99519|Cyclades
+99591|Anemoni
+99592|Esperides Appartements
+99594|Pramataris Hotel
+99595|Aktaion Hotel
+99600|Byzantino
+99601|Kastraki
+99606|Delphi Palace
+99610|Spanias
+99621|Liadromia
+99628|Pension Olympias
+99631|Oasis
+99632|Kokalakis
+99640|Liostasi Ios
+99642|Pension Apollon
+99762|Blue Dream Apartments
+99765|Nastasia Village
+99766|Adonis
+99767|Savoy
+99768|Mirabeli
+99769|Coralli Beach
+99770|Faedra Beach
+99771|Potokaki Apart
+99772|Metropolis
+99787|Belle Helene
+99788|Lefkas
+99816|Naxos Royal
+99835|Philoxenia
+99836|Spetses
+99869|Marpunta Village
+100145|Black Sandy Beach
+100146|Arco
+100149|Castelli
+100169|Studio Nikolas
+100175|LTI Theophano Imperial Palace
+100199|Artemis
+100207|Aegean Land
+100341|Alkioni
+100342|Nina Studios
+100401|Angela Hotel - Apartments
+100402|Vergina Star
+100406|Diamantis
+100410|Villea Village
+100412|Congo Palace
+100413|Poseidonio
+100414|Rotonda
+100418|Kozanos II
+100422|Apollo
+100432|White House
+100439|Kivotos
+100440|Korali
+100444|Hellinikon
+100445|Pantheon
+100447|Porto Ligia
+100468|Domes of Elounda
+100628|John's
+100629|Hara
+100631|Nefeli
+100632|Elena
+100779|The Village Hotel & Waterpark
+100825|Galini Sea View Hotel
+100827|Panorama Studios & Apartments
+100946|Balsamico Suites
+100964|Olia
+101015|Kinetta Beach Resort & Spa
+101016|Ionas
+101385|Majestic Hotel & Spa
+101481|Kymata
+101528|Kardamili Villas
+101592|Phidias
+101593|Azalea
+101594|Santa Maria Surfing Beach
+101595|Amerisa Suites
+101596|Exis Boutique
+101597|Amazona
+101598|Liberatos Village
+101599|Marina-Anna
+101600|Sandy Beach
+101601|Blue Sea
+101602|Sappho Studios
+101608|Villa Olympia
+101613|Lesvion
+101614|Mytilana Village
+102334|Sellada
+102377|Olympia
+102390|Rigas
+102443|Paleos
+102444|Phaedra
+102486|Garden of Eden
+102525|Arkassa Bay
+102526|Saint Nikolas
+102527|Mediterranean Princess
+102655|Gorgona
+102678|Mary Hotel
+102679|Ellinida
+102718|Bella Santorini
+102719|Yalis
+102823|Glastros
+102870|Villa Frangis
+102894|Caldera View
+102954|Lovely Holidays
+103136|Bougainvillea
+103178|Pilot's Villas Luxury Suites
+103191|Little Inn
+103192|Galini Studios & Appartements
+103466|Iraklis Apartments
+103467|Mania
+103470|Marilisa Aparthotel
+103535|Irini
+103556|The Kefalari Suites
+103601|Lili
+104109|Apollonia Apartments
+105161|Coral Athens
+105707|Cecil Hotel
+107190|Galini Palace
+108491|Lido Corfu Sun Hotel
+109007|Metropolitan
+109632|Perantzada
+109691|Porto Perissa
+109725|Primarolia Art
+109760|Pyrgos of Mytilene
+110443|Haus Anthemion
+110683|Samaria
+111225|The Paradise
+111472|Venus
+111556|Villa Renos
+111594|VIP Suites
+111685|Xenones Filotera
+122389|Twentyone
+122504|Akrogiali
+124422|Zefyros Hotel Eco Resort
+124429|Golden City
+124430|Magna Grecia
+124431|Lycabettus Athens
+124432|Vienna
+124433|Odeon
+124434|Arkadi
+124436|Panorama Blue
+124438|Tina
+124441|Liristis
+124442|Paradiso Studios
+124443|Sabrina
+124444|Saint Amon
+124445|Rodos Sun
+124447|Gera Bay Studios and Apartments
+124449|Paradise Bay
+124451|Stelva Apartments
+124452|Amarillis
+124453|Skala
+124454|Jason
+124459|Cleopatra Superior
+124462|Katia Beach Aparthotel
+124463|Michelangelo Village
+124467|Semiramis
+124468|Oscar Hotel & Apartments
+124471|Divani Palace Larissa
+124473|Palatino
+124476|Mary Sofi
+124481|Domna Lakka Apartments
+124482|Ledra
+124483|Madres Apartments
+124486|Venetiko Apartments
+124488|Zoe Aegeas Traditional Houses
+124489|Villa Mata
+124492|Casa di Roma
+124496|Noufara
+124497|Ios Village Apart
+124500|Marietta
+124501|Villa Anemone
+124505|Aethrio
+124508|Dioscouri
+124509|Super Paradise
+124511|Porto Palace
+124512|Luxembourg
+124513|Royal
+124514|Katerina
+124516|Vlicha Beach Studios
+124517|Volos Palace
+124518|Magas
+125167|Epidavros
+125170|Stratos
+125172|Hotel Limanaki
+125173|Aenos
+125176|Primavera Hotel
+125177|Eliana
+125178|Ariti Grand Hotel
+125180|Cleopatra Classic
+125181|Sunny View
+125184|Irina Beach
+125185|Palazzo Arhontiko
+125187|Splanzia
+125188|Waterlily
+125191|Kavos Beach
+125192|El Greco
+125193|Piskopiano Village
+125194|Esperides Villas, Apartments & Suites
+125199|Villa Iokasti
+125200|Sunny Suites Apartments
+125201|Alexandros M
+125203|Golden Bay
+125205|Kalimera Village
+125209|Villa Aphrodite
+125210|Dias Hotel & Apartments
+125213|Zoes Studios
+125215|Anixis Apartments
+125217|Al Mare Villas
+125218|Sun Shine
+125219|Ville di Lindos
+125220|Theonia
+125221|Sylvia
+125223|Camelot
+125224|Xenos Kamara Beach
+125225|Prokopis Studios
+125582|Avalon
+125588|Margarets Apts
+125590|Alkmini
+125598|Kassiopi Bay
+125611|Scorpios
+125656|Ira Hotel & Spa
+125658|Blue Sky
+125684|Olive Tree Apartments
+125685|Hermes Hotel
+126780|Antilia Apartments
+126891|Akti Aphrodite
+127741|Blue Sea
+127801|Kavos Scrivas Aparthments
+127804|Konstantina Apartments
+127898|Anatoli
+128500|Aeolis
+128501|Byzantion
+128504|Blue Diamond Studios
+128505|Possidon
+128507|Mavrikos
+128845|Plessas Palace
+128864|Ermones Active Holiday Resort
+128868|New Aeolos
+128898|Club Casino
+129496|Renia
+129497|Princess Of Naxos
+129499|Oasis Scala Beach
+129500|Captain's & Commodore & Admiral Complex - Admiral
+129501|Theoxenia Palace
+129502|Theoxenia House
+129503|Acropolis Museum
+129504|Blue Dome
+129509|Leonidas
+129510|Grand Olympic
+129511|Neda
+129512|Villa Voula
+129513|Salty Beach Studios
+129514|Olympic II
+131547|Caldera Romantica
+131548|Agistri Club Hotel
+131549|Yianna
+131551|Stalis
+131553|Elite
+131554|Galaxy
+131558|Hermes
+131559|Olympic
+131564|Ideal
+131570|Princess Lanassa
+131571|Nathalie
+131572|Archontiko Mesohori
+131573|Rex
+131574|Helmos
+131575|Horizon
+131580|Gikas Apartments
+131582|Zorzis
+131583|Thomas
+131587|Atlantida Villas
+131589|Pelops
+131593|Apollon
+131595|Dilion
+131603|Emily Hotel
+131608|Kykladonisia
+131610|Petros Pension
+134157|Hera
+134233|Atrium Prestige Thalasso Spa Resort & Villas
+134324|Minos Mare Royal
+134348|Marialice
+134443|Kreta Natur
+134464|La Marquise
+134467|Diamond Deluxe Hotel & Spa
+134468|Helona Resort
+134469|Lakitira Suites
+134470|Michelangelo
+134471|Astir Odysseus
+134500|Birikos Studio Apartments
+134510|Elpida
+134519|Villa Agnanti
+134527|Montaniola
+134536|Dorana Studios
+134542|Gondola
+134554|Stalis Studios
+134556|Out of the Blue, Capsis Elite Resort - Oh! All Suite
+134570|Annaliza Apartments
+134572|Anemoessa Boutique
+134573|Pelouzo
+134574|Metaxa
+134575|Mabely Grand
+134577|Cleopatra Kris Mari
+134578|Evripides Village
+134580|Loutra Beach
+134581|Kordistos Beach
+134601|Mediterranee
+134604|Pallas
+134605|Portego
+134606|Agnanti Holiday Club
+134609|Alantha Apartments
+134611|Thalero
+134633|Guesthouse Epohes
+134634|Flamingo Apartments
+134640|Artemis
+134643|Odyssey
+134647|Lefkada Villas
+134648|Aggelos Studios
+134650|Red Tower
+134658|Thalassa Hotel & Spa
+134661|Fragoulis Village
+134663|Garden
+134664|Ziakis
+134666|Lassia Studios
+134667|Blue Sky Studios
+134668|Christinas Gardens
+134669|Sunset Studios
+134681|Camari Garden
+134697|Orestis Apartments
+134698|Summertime Apartments
+134700|Livadaki Village
+134701|Marigoula Studios
+134708|Kouros Art
+134715|Ammes Studios
+134716|Pythos Studios
+134717|Sophie Ellena
+134723|Sunlight
+134724|Aeolos Bay
+134725|Lygies Studios
+134726|Emerald Studios and Apartments
+134727|Paraschos Studios
+134728|Petros
+134786|Bella Studios
+134888|Melina
+134945|Santorini Reflexions Sea
+134981|Andromaches Holiday Apartments
+135072|Gaia Palace
+135134|Porto Platanias Village Resort
+135135|Villa Platanias
+135137|Kambos Village
+135191|Kiotari Garden
+135192|Natura Park Village
+135195|Cyprotel Panorama - Sidari Village
+135197|Gorgona
+135407|Sentido Aegean Pearl
+135409|Cactus Royal Spa & Resort
+135410|Angela Suites Boutique / Angela Studios & Apartments
+135411|Lassion Golden Bay Bungalows
+135418|Sentido Apollo Blue
+135419|Port Royal Villas & SPA
+135421|Palazzo del Mare
+135427|Sensimar Grand Mediterraneo Resort & Spa
+135429|San Antonio
+135430|Carpe Diem
+135747|Arodamos
+135749|Nisi Nature Club
+135795|Saint George Hotel
+135796|Alexandra Golden Boutique
+135797|La Residence
+135867|Akrogiali
+136119|Papoulas Studios & Appartements
+136128|Konstantinos Palace
+136133|Blue Dream Palace
+136153|Mediterranean Village
+136187|Kastalia Suites & Village Saint Nikolas
+136410|Atlantica Sensatori Resort
+136528|Sunrise Studios
+136546|Anatolia
+136555|Villa Flisvos
+136556|Katja
+136557|Enodia
+136559|Angelique Studios
+136561|Villa Niki
+136563|Acropol
+136565|Paraskevi
+136566|Spiros
+136567|Petrino
+136574|Vivere
+136576|Rotokritos & Arethousa
+136577|Petra-Mare Ferienhaus
+136609|Antigoni Studios
+136809|Alkyon
+137260|Casa Vitae
+137421|Rainbow
+137521|Hotel Georgia
+137787|Sofias
+137878|Nikolas
+138042|Pappas
+138055|Aeolos Beach
+138066|Xenia Palace
+138070|Europa Beach
+138179|Sea View Studios
+138187|Hercules
+138397|Dellas
+138754|Out of the Blue, Capsis Elite Resort - Crystal Energy
+138755|Out of the Blue, Capsis Elite Resort - Divine Thalassa
+138756|Out of the Blue, Capsis Elite Resort - Eternal Oasis
+138757|Out of the Blue, Capsis Elite Resort - Ruby Red Regal
+138823|Crowne Plaza Athens City Centre
+139080|Les Amis Airporthotel
+139177|Olga's Pension
+139224|Rachel
+139611|Yianna Appartements
+139782|Sun Apartments
+139835|Lesante Luxury Hotel & Spa
+139836|Milina Apartments
+139837|Avaton Resort & Spa
+139850|Silo
+139851|Nontas
+139855|Medblue Fanes
+139950|Galaxy
+139952|Villa Pefnos
+139999|Feggari Studios
+140000|Ionis
+140001|Porto Galini
+140002|Ameliko
+140003|Anna Castello Villa
+140007|Selana View
+140012|Alkyon
+140013|Votsala
+140015|Anthilion Houses Pilion
+140017|Saint Nicolas Boutique
+140019|Molos Bay
+140020|Dytiko Studios
+140021|Sunshine Appartements & Studios
+140029|Royal Heights Resort
+140088|Kantouni Beach
+140092|Petroto Villas
+140126|Elektra
+140127|Villa Kosta
+140198|Remvi
+140200|Zapion
+140201|Orpheus
+140202|Preveza City
+140203|Kalymnos Village
+140279|Chora Resort & Spa
+140280|Vardia Bay
+140281|Anemomilos Appartements
+140284|Aegeo
+140288|Rousto
+140293|Naias
+140298|Capetan Georgantas
+140300|Villa Tania
+140301|Artemis
+140303|Rigas
+140305|Kapetan Tasos
+140314|Sapfos Studios & traditional House
+140316|George & Christos
+140321|Koralli
+140325|Liogerma
+140331|Katikies Manis
+140334|Spitakia
+140342|Istron Villas
+140422|Niriedes
+140423|Delfini
+140425|AL. Kastrinakis
+140428|Sifnaika Konakia
+140432|Artemon
+140435|Sifnos
+140481|Maryan Appartement
+140485|Onira Boutique
+140487|Nereides
+140495|Regina Dell' Acqua Resort
+140533|La Mer Deluxe
+141619|Tesoro
+141621|Lefko
+141622|Armeno Beach
+141670|Nafsika
+141671|Olympos
+141852|Savoy Gardens Resort
+141854|Selini Villas
+141859|Sofas & Laina Landhäuser
+141862|Blue & Yellow Dream Villas
+141863|Villa Zen
+141864|Villa Stratos & Neria
+141874|Panorama
+141884|Villa Avra & Pyrgos
+141889|Villa Eligia
+141891|Elia & Rodia Country Homes
+141892|Eliathos Residence Houses
+141893|Stratos Villas
+141896|Dimitris Luxury Appartements
+141898|Fontis Appartements
+141900|Elena Appartements
+141901|Dolphins Appartements
+142146|Villa Ariadni
+142260|Evdion
+142393|Galini
+142408|Family Inn
+142410|Ilion
+142447|Itanos Hotel
+142484|Myconian Imperial Resort & Thalasso Spa Center
+142517|Calypso Hotel
+142520|Floral
+142530|Vergis Epavlis
+142541|Nefeli
+142662|Dounavis
+142735|Studios Mark & Joanna
+142784|Sunrise
+142817|Krinas Apart
+142818|Villa Kyprianos
+142819|Villa Panorama
+142821|Zante Sol
+143383|Koulouris Beach
+143394|Athena Palace
+143396|Pension Victoria
+143406|Ionian Sea
+143407|Politis
+143408|Melidron
+143425|Athos
+143784|Markos Studios
+143844|Spyros
+144323|Athens City
+144324|Elite City Resort
+144325|Lakonia
+144388|Mantas
+145103|Grecotel Plaza Spa Apartments
+145186|Diva
+145203|Parthenon
+145233|Coralli
+145239|Cretan Filoxenia Beach
+145306|Maroula Studios
+145311|Caretta Beach Hotel & Village - Hotel
+145319|Ilios
+145320|Medousa
+145324|Park
+145334|Hermes
+145337|Poseidon View
+145341|Admiral Tsilivi
+145347|Cathrin Suites
+145348|Studio Elarin
+151310|Christina Studios
+151313|Villa Nireas
+151314|Civitas
+156951|Parnon
+156953|Pergamos Hotel
+156954|Achillon Hotel
+156955|Nafsika
+156956|Cosmos
+156958|Ariston Hotel
+156961|Delice
+156962|Hotel Pentelikon
+156963|Chris
+156967|Blue Sky Hotel
+156968|Golden Sun
+156974|Triton
+156975|Piraeus Dream City
+156976|Faros 2
+156984|Dantis Beach
+156985|Aetoma
+156988|Mainalon Resort
+156997|Florida Blue Bay Resort & Spa
+156999|Olympic Village
+157000|Kronio
+157004|Sotiris Studios
+157005|Ionian Plaza
+157006|Strada Marina
+157008|Portofico
+157011|Ionion Star
+157015|Zeus
+157021|Laodamia
+157022|Protessilaos Hotel
+157023|Aegli
+157025|Aeton Melathron Hotel
+157026|Dovra
+157030|Palladion
+157033|Angelika Pallas
+157034|Byzantino
+157040|Corfu Secret
+157041|Oscar
+157045|Sunset
+157046|Dalia
+157050|Vasilitsa Resort
+157056|Tourist
+157057|Pefka
+157058|Panorama
+157059|Nepheli
+157060|Heaven Hotel
+157061|Athina Airport Hotel
+157065|Ambassador Hotel
+157067|Villa Sevasti
+157070|Egnatia
+157076|Anatolia
+157078|Paradise Island Villas
+157080|Best Western Your Memories Hotel
+157081|Life
+157082|Kastro
+157083|Athinaikon
+157085|Sofia Hotel
+157087|Sunrise Suites
+157089|Iolida Beach
+157090|Ontas
+157092|Ledra Maleme Hotel
+157093|Akali
+157094|Villa Andromeda
+157095|Lamon
+157097|Argentikon Luxury Suites
+157101|Alexandros
+157102|Galaxy
+157107|Agios Prokopios
+157109|Irini Studios
+157110|Ikaros Studios & Apartments
+157112|A 1 Soula
+157114|Afrodite
+157117|Hippocampus
+157118|Pension Villa Galini
+157119|Rocabella Art Mykonos
+157121|En Lefko
+157122|Mykonos Adonis Hotel
+157123|Seaside Cottage by Belvedere
+157124|Atalos Villas
+157125|Dreams Luxury Suites
+157126|Kalimera
+157127|Milos Villas
+157131|Cori Rigas
+157132|Elkaza Villas
+157133|Villa Ilias
+157134|The Tsitouras Collection
+157137|Galaxy Suites & Spa
+157138|Anassa Deluxe Suites
+157139|Best Western Paradise
+157140|Villas and Mansions of Santorini
+157143|Casa Francesca - Musses Studios & Apartments
+157144|Ether Studios
+157145|Aspa Villas
+157146|Nikos Takis Fashion
+157147|Grande Albergo delle Rose
+157148|Telhinis
+157150|Athineon
+157151|Blue Dream Luxury Villas
+157157|Yialos Beach
+157158|The Nissia
+157163|Ava Hotel & Suites
+157165|Central Athens Hotel
+157166|Greco Philia
+157167|Adams
+157169|Victoria Metsovo
+157170|Sea View
+157171|Kavos Bay Seafront
+157173|Areos
+157175|Creta Solaris
+157177|Levantes Luxury Boutique
+157259|Nissia Kamares
+157265|Folia Apartments
+157266|Horizon
+159521|Ammon Garden
+159543|Pefkos Garden
+161727|Enjoy Villas
+163366|Carmen Palace
+163377|Modul
+163396|Ergina
+163434|Estia Beach
+172004|Mouria
+174971|Kafouros
+174972|Angyra
+177185|Mazis Appartments
+179281|Ammos Bay
+179282|Villa Diamond
+179283|Pegasus Resort
+179288|Mykonos Star Hotel
+179289|Villa Byzantio
+179291|Ideal Haus
+179292|Acrothea
+179293|Aegean Villas
+182144|Marilyn
+182192|Sun & Sea Appartements
+182258|Princess
+182427|Pantheon Hall
+182501|Naxos Filoxenia
+182602|Sevastos Studios
+182603|Anseli
+182668|Helena Christina
+182669|Mill Houses
+182703|Athos
+182704|Hotel San Nectarios
+182832|Maria
+182910|Domus Rodos
+182911|Erato Appartements
+183006|Gennadi Dreams
+183111|Apolamare
+183158|Panorama Studios
+183159|Royal Rose Studios & Apartments
+183498|Annita's Village
+183499|Nautilus
+183505|Anna Studio's
+183507|Xenones Lindos
+183509|Cyclades Studios
+183515|Lilia
+183516|Ibiscus Village Hotel
+183517|Naxos Imperial
+183926|Grecian Fantasia Resort
+183972|Sensimar Royal Blue Resort & Spa
+184014|Vera Studios
+185363|La Sirena
+185368|Argo Skiathos
+185371|Lalaria
+185680|Narkissos
+187284|Benitses Arches
+187591|Andy's Plaza
+187593|Angelica VIP Boutique Hotel
+187596|Astir
+187735|Marmari Bay
+187812|Aquis Capo di Corfu
+187877|Aegean Sky
+187887|Athens Lotus
+187961|Athens Moka Hotel
+187980|Santorini Grace
+188014|Philippion
+188225|Afroditi Studios
+188347|Filion Suites Resort & Spa
+190077|KTM Sunny Villas
+196098|Alea Hotel & Suites
+196320|Potali Bay
+196321|Apolis
+196325|Mitsis Blue Domes
+196332|Princess
+196333|Ionian Emerald
+196339|Theoxenia
+201312|Castello Boutique Resort & Spa
+201328|Panorama Apartments
+201385|The Romanos Costa Navarino
+201386|The Westin Resort Costa Navarino
+201402|28 Boutique
+201420|Paradise Beach
+201436|Aristidis
+201439|Casa Moazzo
+201440|Maria Villas Voulgaro
+201553|Aqua Grand
+201556|Anaxo Resort
+201557|Stephanou Inn
+201558|Xenios
+201566|Villa Pangalis
+201567|Sun Beach
+201568|Rigas
+201574|Studios Angela
+201576|Petinaros & Studios Petinaros Beach - Studios Petinaros Beach
+201638|Daios Cove Luxury Resort & Villas
+201705|The Excelsior
+201759|Atlantica Eleon Grand Resort & Spa
+201791|Niriides
+201793|Aspro Spiti
+201801|Akti
+201804|Angela
+201812|Alianthos Suites
+201948|Akis Haus
+201950|Apolis Villas
+201951|Sol
+201952|Rosanea
+202026|The Kresten Royal Villa & Spa
+202219|Grecian Villas
+202221|Villas Chrisy
+202222|Villas Adam Appartements
+202223|Maria Apartements
+202224|Kria Vrisi
+202226|Blue Villas
+202228|Querini Villas
+202229|Stavromenos Villas
+202230|Villen Magda Stavros
+202231|Aoritis Villas
+202232|Agios Antonios
+202235|Marinos Villa
+202236|Appartements Villa Nikos
+202238|Efi
+202239|Irene Apartments
+202240|Kaplanis House
+202367|Ionian Studios
+202368|Captains House
+202428|Saint Andrea Resort
+202436|Flora
+202680|Asterias
+202683|Sivota Diamond
+202771|Villa Niovi
+202814|Ionian Theoxenia
+202816|Pelaghia Villa
+202817|Flower Of Monemvassia
+202818|Aristotelis
+202819|Kandia's Castle Resort & Thalasso
+202820|Oias Retreat
+202823|Harmony Villa
+202825|Aktaion
+202826|Ikion Studios
+202827|Konstantina Studios
+202828|Olive Grove
+202829|Katikies Studios & Appartements
+202830|Summer Breeze
+202833|Akros Oreon
+202866|Nefeli
+202869|Villa Enalia
+202877|Sirena Residence & Spa
+202885|Plaza Pallas
+202892|Katikies
+202895|Villa Naxia Studios
+202896|Porto Raphael
+202908|Nefeli
+202909|Analipsi Beach Villas
+202911|Paxos Club
+202933|Dimitris Studios
+203014|Costa Lindia Park
+203173|Apollonion Resort & Spa
+203262|Macedon / Makedon
+203340|Villa Nafsika
+203365|Elotia
+203420|Alimounda Mare
+203421|Eleni's Village
+203725|A. D. Imperial Palace
+203858|Acronafplia Pension
+203859|Acropole
+204289|Alexandria
+204290|Alexandros
+204417|Alsos House
+204495|Amalthia Studios
+204499|Amaril
+204504|Amaryllis Hotel Apartments
+204556|Amymone & Adiandi Pension
+204563|Anamar Boutique Hotel
+204589|Andriani's Guest House
+204609|Angelo Apartments
+204632|Anny Sea & Sun Apartments
+204633|Ano Kampos Studios
+204675|Antony Studios & Apartments
+204684|Apanema Resort
+205031|Apollon Apartments
+205074|Sparta Team
+205148|Boutique Hotel Archontiko Metsovou
+205150|Archontiki
+205189|Argo Apartments
+205194|Aria
+205231|Aroma Suites
+205246|Art Apartments
+205338|Astali
+205389|Athens Center Square
+205390|Athens Delta Hotel
+205393|Athens Way
+205394|AthenStyle
+205395|Athinaikon
+205417|Atlantis
+205418|Atlantis City
+205768|Balkony Hotel
+206173|Best Western Irida Resort
+206275|Blue Horizon Studios
+206396|Bourazani Wild Life Resort
+206403|Anixi Boutique
+206426|Bozzali Hotel
+206453|Brasil Suites
+206472|Brentanos Apartments
+206494|Bristol Apartments
+206661|Byzantio
+206845|Captain Manolis
+206846|Captain's
+206885|Hotel Carolina
+206900|Casa Antika
+207186|Centrotel
+207317|Chic
+207338|Christina Studios
+207343|Chryssi Akti
+207477|Civitel Olympic
+207626|Comfy Boutique
+207709|Corali
+207723|Corfu Club
+207724|Corfu Luxury Villas
+207772|Cosmos
+207967|Danaos
+207983|Daphne's Club Hotel Apartments
+208326|Dias
+208339|Dimitra
+208349|Dioni Boutique
+208355|Diros
+208379|Doge Traditional
+208442|Domus Studios
+208490|Doupiani House
+208496|Dovitel Boutique
+208517|Drossia Palms
+208538|Du Lac
+208778|Electra Pension
+208790|Elena Guesthouse
+208859|Emporikon
+208924|Esperance 1
+209036|Evgenia Rooms & Studios
+209040|Evizorzia Villas
+209046|Exarchion
+209066|Eye Q Resort
+209243|Filia
+209248|Filoxenia
+209386|Four Seasons Pension
+209430|Frini
+209463|Galaxy
+209478|Galini
+209850|Gogos Meteora
+210399|Heliotopos Apartments
+211616|Iason Studios
+211713|Ilion
+211785|Hotel Inomaos
+211843|Isioni Pension
+211918|Jason Studios & Apartments
+211929|Jennifer
+211956|Joseph Studios
+211990|Kaikas Studios
+212034|Hotel Karystion
+212046|Hotel Katerina
+212093|Kyani Akti
+212112|King Saron
+212143|Kipseli
+212165|Kleoni Club Apartments
+212220|Kos Hotel Junior Suites
+212232|Kristalli Apartments
+212241|Kronos
+213279|Likoria
+213532|Louis Studios
+213589|Lydia
+213658|Magginas
+213694|Hotel Makedonia
+213700|Malibu Studios
+213749|Mantraki
+213796|Marianna Apartments
+213905|Hotel Matina
+213979|Megisti
+214079|Mika Villas
+214102|Minavra
+214118|Avra City
+214119|Minoas
+214121|Mirabella Apartments
+214122|Mirabello Hotel
+214144|Hotel Miramare
+214234|Monte Vardia Hotel
+214381|Myrto Hotel
+214431|Nea Metropolis
+214434|Nefeli
+214435|Nefeli Sunset Studios
+214452|Nestos
+214520|Nirikos
+214547|Nora - Norita
+214667|Odeon
+214743|Omalos
+214744|Omorfi Poli
+214746|Onar Rooms & Studios
+214754|Oniro Studios
+214781|Orestias Kastorias
+214813|Ostria
+214918|Palazzo Rooms & Suites
+214951|Hotels Pan & Artemis
+214965|Panorama
+214984|Pantelia Suites
+214996|Paradise Lost
+215101|Paros Palace
+215108|Hotel Parthenis
+215222|Pension Atheaton
+215243|Pension Dafni
+215255|Pension Eva
+215288|Irene Pension 2
+215292|Kasteli Studios & Apartments
+215348|Pension Sofi
+215430|Pepi Studios
+215438|Perea
+215446|Hotel Perinthos
+215447|Perivoli
+215482|Philoxenia & Studios
+215559|Pitho
+215579|Platon Palace
+215594|Plaza
+215683|Poseidon
+215687|Possidon
+216380|Princess Santorini Villa
+217774|Santa Irini Hotel
+217824|Savoy Hotel
+217973|Sergiani Apartments
+218082|Siroco's Rooms & Studios
+218181|Solomou Hotel
+218416|Stelios Studios
+218485|Studio Eleni
+218490|Studios Marios
+218491|Studios Vrettos
+218525|Summer Lodge
+219276|The Met Hotel
+219628|The Y
+220087|Victoria
+220098|Victory Inn
+220158|Villa Alexandra
+220303|Villa Kavourakia
+220346|Villa Maria
+220434|Villa Sonia
+220529|Vincenzo Family
+220581|Voula
+220808|Windmill Naxos
+220879|Yades Suites & Apartments
+220924|Zaliki Thessaloniki
+220953|Zontanos Studios
+221018|Acteon
+221079|Alexander Beach
+221080|Alexis
+221282|Bacchus
+221595|Ippokampos
+221849|Ela Mesa Luxury Apartments
+221869|Emotions Country Resort
+222128|Handakas
+222944|Pantheon City
+223520|Studios Anny
+223529|Sun City
+223677|Varonos
+223895|Aegli Resort & Spa
+223900|Hotel Agnadi-Horefto
+223920|Aiolis
+223963|Alkyonis
+223979|Anastassiou
+223983|Angelica Villas
+224017|Athina
+224085|Avra
+224190|Best Western Lucy Hotel
+224250|Byzantium
+224363|Chloe
+224470|Delina Mountain Resort
+224496|Dimosthenis
+224656|Ganimede
+224844|Keletron
+224860|Konstantinos Palaiologos
+224864|Kyknos De Lux
+225189|Leventis Art Suites
+225314|Mallas
+225360|Micra Anglia
+225435|O Xenonas Ton Mylon
+225461|Olympic Star
+225481|Palladion Boutique
+225540|Poseidon Palace
+226516|EpiHotel Odysseas
+226620|Valis Resort
+226625|Pearl
+226628|Nissos Thira
+226630|Ortensia Villas
+226631|Avra Studios
+226639|Constantin
+226640|Eleonora Apartments
+226642|Agapi Villa
+226643|Amalthia Villa
+226645|Cypriana Appartements
+226647|Emmy House
+226648|Manos Villa
+226649|Mary Villa
+226650|Metochi Villas
+226680|Stella Villa
+226681|Thimonies Country Villas
+226720|Filoxenia Ornos
+226725|Asteras Studios
+226726|Sunrise Appartements
+226731|Gaitani Village & Appartments
+226732|Esperides Stone Houses
+226814|Paradise
+226815|Petrinos Mylos
+226816|Villas Delight
+226817|Yiannis Retreat
+226889|Villa Danai
+226890|Alexandra's Place
+226892|Charlina
+226896|Lucia Villas
+226904|Nefeli
+226905|Aegeon
+226907|San Marina
+226910|George Studios
+226911|Daisy
+226912|Agnantio
+226917|Blue Sky Apartments
+226937|Studios Amarilia
+226941|Blue Star
+226944|Katerina
+226949|Kourkas
+226953|Glaros
+226955|Paradiso
+226958|Onira
+226961|Michalis
+226962|Oreia
+226963|Zygo
+226964|Mediterranean Sea
+226965|Sandy Beach
+226967|Nikolas Beach
+226968|Poseidon
+226971|Oasis Studios
+226977|Pension Plaka Beach
+226978|Remetzo Village & Studios
+226979|Villen Dafnes
+226980|Pagonis
+226981|Pension Galini
+227024|Angela
+227032|Kato Stalos Beach
+227036|Penelope Apartments
+227039|St. Constantin Hotel
+227049|Anna Maria
+227150|Windmill
+227167|Anastazia Boutique
+227169|Novus
+227173|Filmar
+227175|Panorama
+227176|Spigos
+227179|Grand Victoria
+227180|Aristotelis
+227181|Omirikon
+227182|Epidavria
+227183|To Liotrivi
+227184|Lignos
+227305|Anthoula Village
+227333|Alykanas Beach
+227335|Pavlis Studios
+227337|Limnes Villa
+227351|Citi Live Hotel
+227517|Anavadia
+227519|Petra
+227524|Galaxy
+227525|Four Seasons
+227526|Alexandros
+227702|Paradise Bay Resort Mediterraneo
+227710|Knossos
+227729|Johnhara Studios
+227747|Anita
+227750|Anassa
+227752|Athinoula
+227790|Belvedere
+227888|Denise Beach
+227893|Avantis Suites
+227895|Astoria
+227896|Sivota
+228067|White Suites Boutique
+228123|Asterias
+228258|Alykes Aparts & Studios
+228259|Amalia Apartments & Studios
+228265|Miro Cretan Village Aparthotel
+228266|Elpis Studios & Apartments
+228267|Eri Studios
+228272|Happy Days Studios
+228319|Zante Plaza Hotel & Apartments
+228324|Villa Marie Kelly Apartments
+228365|Anema Residence
+228384|Minas Beach
+228385|Avant Garde Suites
+228735|Damnoni Paradise & Mythos
+228741|Eleana
+228769|Adonis Studios
+228770|Billy's Studios
+228772|Chrysalis Boutique Hotel
+228773|Cosmi Apartments
+228775|Damia Apartments
+228776|Ghikas Apartments
+228780|Stonewell Studios
+228782|Saradari Apartments
+228785|Elgoni Apartments
+228787|Epimenidis
+228788|Pallatium Apartments
+228789|Pella Apartments
+228790|Rena Apartments
+228798|Anika Studios
+228799|Sotirakis Studios
+228803|Kalithea Apartments
+228804|Litsa Mare
+228805|Thania Studios
+228807|Dreamland Apartments
+228813|Eltina
+228816|Yiannis Village
+228818|Nikolas Villas
+228922|Loggas
+228976|Zouboulia Apartments
+228978|Venus
+228980|Tsambika Studios
+228981|Sunflower Apartments
+228984|Golden Sun
+228986|Fili Apartments
+228988|Marika Apartments
+228989|Peters Kool Pool
+228990|Petra Village
+228995|Meridien Beach
+228998|La Luna Apartments 1 & 2
+229000|Limas Apartments
+229001|Ionikos
+229003|Real Palace
+229004|Afroditi Apartments
+229005|Alkyon
+229006|Amalia
+229009|Argiri
+229010|Mammis Beach Studios
+229011|Astra Village Apts
+229013|Malia Mare
+229090|Dassi Villas
+229222|Amore Beach
+229374|Kiani Beach Resort
+229527|Stefano Studios
+229535|Antigoni
+229538|Rozmari
+229540|Popi Apartments
+229543|Kythea Resort
+229544|Amazona
+229545|Sea Breeze
+229546|Korali
+229551|Camara
+229552|Colosseo Star
+229554|Dimitra
+229555|Villa Adriana
+229567|Apanemo
+229568|Maison Des Lys
+229569|Iliovasilema
+229572|Faros Complex
+229578|Vangelis Villas
+229579|Panorama
+229584|Anemolia Resort & Conference
+229585|Xenonas Iresioni
+230870|Ktima Karageorgou
+230880|Windmill Bella Vista
+230881|Alkyoni
+230884|Kissos Protea
+230893|Amorani Studios
+230907|Aloni Suites
+230914|Golden Beach
+230927|Eden Beach Plaka
+230935|Arte & Mare Suites
+230937|Elounda Heights
+230943|Paradise
+230945|Roseberry Studios
+230946|Museum George Molfetas
+230947|Brazzera
+230950|Cyclades
+230954|Villa Anemomilos
+230966|Galatia Villas
+230978|Thea Studios
+230985|Villa Alizea
+230991|Villa Evgenia
+230995|Villa Popi
+230997|Villa Romantic
+231000|Villa Roussa
+231005|Adamant Suites
+231007|Sea of Aegeon
+231009|Villa Gianna
+231010|Ellinon Thea
+231011|Mylos
+231012|Sky Of Thira
+231016|Sunset
+231017|Ikastikies Suites
+231032|Grand Chalet
+231043|Park
+231050|Above Blue Suites
+231051|Aqua Luxury Suites
+231052|Gizis Apartments
+231058|Meli Meli
+231059|Rhapsody Traditional Apartments
+231062|Ilioperato
+231063|Kallisto
+231067|Krikonis
+231073|Afroditi
+231076|Platanofylla
+231077|Anagenessis Village
+231081|Balos Beach
+231106|Olympia Mare
+231108|Emmanouela Studios & Villas
+231110|Pension Livadaros
+231111|Stavros Villas
+231117|Prince Of Lillies
+231127|Nireas
+231128|Balito
+231140|Olympion Village
+231146|Cormoranos Apartments
+231159|Yiorgos
+231190|Chrysa Studios
+231201|Windmill Studios
+231203|Stratos Apartments & Studios
+231224|Selenunda
+231228|Notos
+231238|Grand View
+231251|PetraXylo Thalassa / Vip Lounge Resort
+231255|Santorini Renaissance
+231256|Prassino Nissi
+231258|Andromeda Residence
+231259|Arhontiko Pension
+231260|Family Latini
+231262|Mersina Rooms & Studios
+231264|Villa Irena
+231268|Swiss Home
+231274|Korali Garden
+231275|Korali Palace Studios
+231297|Margo Studios
+231316|Venus Beach
+231322|Agroktima Elia
+231323|Ktima Anastasia
+231329|Chroma Suites
+231330|Maria's Place
+231332|Oia Castle by Art Maisons
+231334|Alexander's Boutique
+231337|Ecoxenia Studios
+231343|Logo Theas
+231344|Zefiros Traditional
+231346|Panormos Village
+231353|Arian
+231355|Damias Village
+231358|Argo Beach Hotel
+231360|Helliniko
+231362|Pelagos Studios
+231363|Argonauta
+231371|Aretousa Villas
+231373|Ira Studios
+231376|Lonja
+231377|Stelios Place
+231384|Honeymoon Beach
+231409|Eleni Suites Villas
+231410|Hotel Aloni
+231412|Koukouras Studios & Lia Apartments
+231413|Ermis Suites
+231414|Marakis
+231415|Frideriki Studios & Apartments
+231419|Long View Resort
+231429|Milton
+231431|Kiani Akti
+231433|Aktaion
+231436|Imerti Resort
+231437|Aria Village
+231439|Kivo Hotel & Suites Skiathos
+231442|Babis
+231447|Hotel Dionysos
+231450|Delphi Resort
+231452|Villas Mary & Anna - Villa Anna Apartments
+231468|Artemis
+231473|Four Seasons
+231477|12 Months Luxury Resort
+231487|Aris Studios
+231492|Olympia Guesthouse
+231494|Aloni
+231499|Lithos Homes
+231500|Colonides Beach
+231501|Pension Pfaffenhofen
+231503|Viraggas
+231523|Finikas
+231839|Vasso Studios
+231876|Athina Appartements
+231900|Mare Monte
+231902|Posidonio
+231913|Holiday Village Rhodos by Atlantica
+231942|Sarlot Apartments
+231952|Nereides
+231955|Luna Rosa Villen
+231959|Kalloni Village
+231962|Enavlion Hotel Batagianni
+231965|Smaro Studios
+231984|Mitsis Laguna Resort & Spa
+232078|Fan Apartments
+232079|Ersi Villas
+232080|Erofili
+232110|Nana Apartments
+232113|Varos Village
+232115|Zante Pantheon
+232116|Azure Luxury Villas
+232126|Erifili Apartments
+232127|Porto Rio & Casino
+232129|Portaria Hotel & Spa
+232130|Pelion Resort
+232132|Kritsa
+232134|Oceanis
+232138|Defkalion
+232144|Athanasia Apartments
+232145|Matina Pefkos
+232147|Summer Memories Hotel Apartments
+232149|Malamas
+232152|Anthippi
+232271|Creta Mare
+232310|Arlekin Tango
+232312|St. Nicolas
+232394|Corfu Pelagos
+232395|Magna Grecia Palace
+232424|Ancient Thira
+232426|Arahova Inn
+232433|Aria Suites
+232434|Augustos
+232435|Guesthouse Papanikolau
+232436|Konitsa Mountain
+232438|Mythos
+232439|Leonidas
+232440|Leto
+232445|Nikola's Guest House
+232446|Pierion Musses
+232449|Petra & Fos Boutique & Spa
+232482|Atrium Platinum
+232534|Galini Villa
+232555|Danai & Spa
+232556|Bakayannis Apartments
+232557|Golden Sun Apartments
+232559|Panorama Apartment Haus
+233115|Ammos Resort
+233362|Agnadi Suites
+233363|Salvator Villas & Spa
+233366|Stella Apartments
+233367|Pyrgos Beach
+233368|Naiades Villas
+233373|Sunrise Village
+233374|Skopelos Holidays Hotel & Spa
+233375|Villa Pouloudia
+233376|Vicky
+233377|Aegean Dream
+233380|Riziko Mansion
+233381|Kerveli Luxury Villa
+233382|Ilion Mare Villas
+233386|Kastellos Village & Agathes Complex
+233387|Bali Blue Bay
+233392|Antica Dimora Suites
+233397|Zagora
+233398|Sfinias Appartements
+233502|CrossRhodes Appartements
+233505|Poseidon Beach
+233508|Ionian Sea View
+233573|Makis Place
+233580|Lorenzo
+233582|Utopia Resort & Spa
+233599|Castello Antico
+233857|Peridis Family Resort
+233888|Syia
+233889|Phönix
+233894|Ledra Studios & Appartements
+233902|Maria's Place
+233903|Studios Eleni
+233911|Studios Magdalena
+233914|Beltsios Appartements & Studio
+233929|St. George
+234023|Anabel Studios & Appartements
+234101|Agelia Beach Hotel
+234150|Libyan Princess
+234188|Blue Lagoon Resort
+234202|Casa Florina
+234241|Lefteris
+234242|Botonis Villa
+234243|Lorenzo Luxury Villa
+234244|Almyra Village
+234245|Kima
+234246|Dinos
+234268|Enalion Suites
+234278|Petani Bay
+234281|Anna Maria Villa
+234288|Nina Studios
+234291|Four Season Villas
+234294|Skiathos Premier
+234305|Coral Apartments
+234309|Ostraco Houses
+234371|Tsamis
+234377|Europa
+234380|Dryades
+234383|Makis Louvlis Apartments & Studios
+234389|Eriva
+234393|Porto Kalamaki
+234398|Theos Village
+234400|Frida Apartments
+234414|Villas Odysseas
+234420|Spirit of the Knights
+234421|Mamfredas Resort
+234466|Theos Studios
+234471|Theoxenia
+234619|Panorama Studios
+234622|Dimitris
+234634|Fengeros Apartments
+234682|Barbie
+234692|Litohoro Resort Villas & Spa
+234755|Porto Sisi
+234757|Naxian Collection
+234785|Captain Tom
+234811|Marco
+234864|Villa Kamari Star
+234878|Elysion
+234916|Athens Diamond
+234917|Don Constantino
+234918|Doma
+234919|Girogili
+234920|Orestis
+234921|Semiramis Suites
+234926|Tria Luxury Residences
+234928|Philippion
+234929|Theofilos Paradise
+234930|Irini
+234931|Nikeli
+234932|Nikitas Studios
+234933|Bright Star Apartments
+234935|Thermes Luxury Villas
+234943|Alexander
+234945|Danny's & Kali Pigi
+234964|Ionian Beach
+234989|Riza Stone Cottage
+234990|Valtos Ionion
+234995|Villa Erato
+234998|Avra Imperial Beach Resort
+234999|Agrielia Villa
+235002|Glyfada House
+235004|Ionian Villas
+235005|Aithon Palace
+235006|Sunset Appartments
+235008|Driofillo
+235011|Kipi Suites
+235021|Yperia
+235024|Alkyon
+235025|Cavos Studios & Appartements
+235026|Altana
+235028|Captain's Barbati
+235029|Aqua Blu Boutique Hotel & Spa
+235034|Patmos Aktis Suites & Spa
+235035|Silver Beach
+235036|Villa Katerina
+235039|Socrates Studios & Appartements
+235042|Poseidonion Grand
+235044|Thalatta Seaside
+235150|Alkion
+235182|Niouris Apartments
+235184|To Spitaki tou Papa
+235185|Marathakis Apartments
+235199|Eva Suites
+235233|Kefalonia Bay Palace
+235246|Angelina
+235288|Blue Sky
+235289|Kleoniki Mare
+235296|LTI Meli Palace
+235371|Phoenix
+235372|Viva Mare
+235406|Aktaion Resort
+235438|Alykes Garden Village - Sellini Apart/ Soula Studios
+235439|Nicholas Studios
+235440|Amazones Villas Apartments
+235441|Mythos Platanias
+235442|Papagiannis
+235443|San Stefano
+235444|Heliotrope Boutique & Resort
+235445|Marina Apartments & Studios
+235446|Sea View Resorts & Spa
+235478|Origin Hotel & Apartments
+235480|Pileas & Thetis Villa
+235481|Dante's Maisonettes
+235482|Civitel Attik
+235484|Domotel Neve
+235485|Kastro
+235553|Studios Pagonis
+235573|VA Apartments
+235905|Meropi
+235966|Giannikis Studios
+235972|Ida Village I&II
+235978|Long Beach
+236085|Oscar
+236086|Ismaros
+236090|Coliseum Studios
+236109|Marina View
+236139|Parthenis Palace
+236140|Olympus Thea
+236164|Alafouzos Studios
+236252|Alexandra Beach
+236273|Vakhos Island
+236551|Holiday Appartements
+236588|Faros
+236747|Korfiatis Apartments
+236748|Anastasia
+236822|Elmas Dream - Elma & Andreas
+236863|Nirvana
+236905|Ekavi Apartments
+236917|Golden Beach Tolo
+236935|Horto Bay Studios
+236941|Remvi Studios
+236948|Top
+236951|Krotiri Beach Resort
+236953|Bella Vista Apartments
+236959|Ktima Kalaitzi
+236961|Elizabeth
+236963|Messina Mare
+236968|Yiannas Studio
+236970|Patras Smart
+236975|Villa Ionia
+236976|Pythari Studios Apartments
+236977|Kontessa Apartments
+236983|Marina
+236984|Paolas Beach
+236987|Villa Galini
+236988|Aegean
+236990|AnnGeorge Resort
+236991|Villa Chateau Olympia
+236992|Petit Palace
+236993|Zisimos & Anna
+237002|Villa Elia
+237003|Aiges Melathron
+237004|Park Volos
+237005|Querini Villas
+237006|Irene Maisonettes
+237007|Villa Mare Monte
+237008|Villa Platanaki
+237010|Cleomenis
+237014|Tarsanas
+237015|Villa Beatrice
+237135|Aggelo
+237312|Nissia Apartments
+237496|Vassilis Studios
+237535|Villa Sofia Apartments
+237536|Villa Themos
+238020|Galaxy
+238621|Elements
+238622|Pindos Palace
+238625|Karvouno Villas
+238628|La Munte
+238630|Nikos
+238631|Castellano studios
+238632|Almyra
+238633|Porto Vitilo
+238635|Patra
+238637|Poseidon Apartments
+238638|Manos Studios
+238658|Mikes House
+238661|Suites & the City
+238662|Orion
+238663|Mythos Studios
+238664|Manolas Studios
+238735|Mathraki Dinos
+238926|Club Lyda
+239122|Mimoza
+239123|Nefeli Alimos
+239146|Acropolis Apartments
+239155|Triantafillas Appartments
+239171|Nancy
+239180|Philoxenia
+239209|Almyrida Resort - Almyrida Studios
+239210|New
+239212|Bellissimo Resort
+239214|Saronis
+239222|Serres
+239333|Xenonas Liogerma
+239620|Helena Ios
+239623|Grapevines
+239624|SunVillage Boutique
+239625|Mastorakis
+239626|Christakis
+239627|Elena Pool Apartments
+239630|Vasso Apartments & Studios
+239631|Tzevenos
+239632|Latania
+239634|Marianna Hotel Apartements
+239635|Afentoulis Studios
+239637|Plakias Cretan Resorts
+239870|Kelly
+239964|Almira
+239965|Dessole Blue Star Resort
+239966|Sea View
+239967|A for Athens
+239987|Akti Palace
+239988|Cosmopolitan Hotel & Spa
+240216|Alkifron
+240224|Ariadne Beach
+240726|Royal Paradise Beach Resort & Spa
+240738|Boutique 5
+240740|Princess Andriana Resort & Spa
+241312|Prinos Resort
+241464|Lagomandra Hotel & Spa
+241485|Belmare
+241518|Island Beach Resort
+241520|Indigo Mare
+241522|Solimar Emerald
+241524|Solimar Ruby
+241525|Iliostasi Beach Apartments
+241527|Havania Apartments
+241532|Hanioti Village
+241534|Oktober Down Town Rooms
+241739|Sitia Bay
+241866|Margarita
+241867|Niriides Apartments
+241883|Erato
+241885|Kassandra
+241891|Elvita Studios
+241892|Filoxenia Tholos
+241928|Eleana
+241930|Sailors Apartments Corfu
+241931|Olga's
+241935|Andavis
+241936|Olga's Paradise Hotel Apartments
+241942|Marina Studios
+241943|Classic Studio            
+241944|Kardamena Holidays
+241946|Akti Dimmys
+241947|Creta Verano
+241948|Sirocco Apartments
+241949|Kiriakos Apartments
+241950|Milos Malia
+241951|Dream Village
+241953|Ionian Hill Studios
+241954|Marinos
+241955|Rainbow Zante
+241956|Akis Studios Zante
+241966|Santa Marina Kos                   
+242022|Irida Appartments
+242024|Spiti Prifti Apartments
+242025|Paradise
+242027|Pension Flora
+242030|Sikyon
+242479|Castro
+242510|Studios B. Home
+242693|Lakitira Resort & Village
+242694|Liakoto
+242890|Ntinas Filoxenia
+242901|Casa di Mare
+243373|Moongarden
+243380|Theofilos Superior
+243497|Notus Village Spa Resort
+243541|Esperos Mare
+243641|Lindos White
+243766|Arion
+243767|Ano Volios
+243768|Kazarma Lake Resort & Spa
+243769|Meteoritis
+243770|Lenaki
+243822|Vranas Studios
+243824|Amelie Santorini
+243825|Athermi Suites
+243832|Csky
+243834|Aura Marina Apartments
+245173|Sunrise
+245481|Kritzas Beach Bungalows & Suites
+245529|Villas Amorosa
+245676|Halkidiki Palace
+245749|Niriides Appartements
+245896|Konstatinos Apartments
+245899|Nychterida
+245900|Appartements Cosmopol
+246042|Rimondi Estate
+246059|Caldera Villas
+246065|Arcus Luxury Villas
+246070|Villas Kosyforema
+246071|Royal
+246072|Marios House
+246074|Pegasus Appartements
+246077|Hillside Villas
+246096|Asplathia Villas & Architect House
+246098|Beloi
+246099|Atha-Tina
+246100|Ef Zin
+246104|Ai Yannis Suites & Appartements
+246109|Sirena Apartments
+246115|Kapsaliana Village
+246127|Ville Du Soleil
+246149|Studios Dedes
+246151|Muses
+246154|Kythira Golden Resort
+246158|Thessalikon Grand
+246162|Mouzaki Palace
+246164|Olympion Melathron
+246165|Oreiades Inn
+246166|Nevros
+246254|Eleni Apartments
+246319|Golden Bay
+246320|Euroxenia Royal Mare
+246321|Natalie
+246405|Anniska Seafront
+246407|Apollonia Villas
+246476|Aeolis
+246477|Filippos
+246478|Kamari Blu
+246479|Leivatho
+246480|Hotel Natura Club
+246490|Contaratos Beach & Contaratos Bay - Contaratos Beach
+246491|Contaratos Beach & Contaratos Bay - Contaratos Bay
+246501|Limneon
+246502|Herberge Vatina
+246506|Pavezzo Country Retreat
+246507|San Nicolas
+246508|Cleopatra Beach
+246509|Mira Resort
+246510|Villas Diodati
+246511|Sirios
+246512|Panorama Villas
+246513|Thealos Village Resort
+246517|Letista
+247166|Magnolia
+247189|Achillion
+247190|Labyrinthos
+247203|Petinaros & Studios Petinaros Beach
+247236|Indigo Inn
+247299|Ellas
+247346|Gold Suites
+247385|Gouves Maya Resort - Maya Beach / Gouves Bay
+247498|Tesoro Blu
+247508|Studio Diona
+247510|Studio Christos
+247518|Keros Icons
+247519|Koufonissia Hotel & Resort
+247540|Villa Phoenix Apartments & Studios
+247541|Danaes Villas
+247684|Best Western Efplias
+247685|Captain's & Commodore & Admiral Complex - Captain's
+247694|Summer Village
+247705|Dilina Studios
+247770|Klio Apartments
+247821|Semeli Resort
+247822|Machalas
+247823|Amadrias Luxury Maison
+247824|Sugar & Almond
+247825|Jenny's Studios & Apartments
+247826|Elena Apartments
+247828|Saint Spyridon
+247831|Anatoli Apartments
+247834|Paradise Apartments
+247835|Sonio Beach
+247836|Fatma Hanoum Boutique
+247837|Marina Bay
+247839|Kafieris Blue Apartments
+247840|Veronica Studios
+247894|Blue Bay Resort - Blue Bay
+247895|Aqua Beach Waterpark Family World Sunland
+247917|Nostos
+248373|Haris Apartments
+248374|Faliraki Vista
+248379|Hilltop
+248380|Seaside Beach
+248381|Kefalos Studios
+248382|Paradise
+248383|San Andreas Apartments
+248384|Primavera Beach Studios & Apartments
+248385|Kastro Beach
+248388|Alexandra
+248400|Kardamos
+248410|Soula Mari Apartments
+248416|Anna Maria Hotel
+248417|Anna Maria Paradise
+248419|Bellos Apartments
+248421|San George Hotel & Apartments
+248422|Luisa
+248430|Esperos Studios
+248432|Paris House
+248433|Knossos Studios
+248471|Villa Tina
+248491|Villa Di Mare
+248853|Manolis
+249019|Agrotikon Traditional Cottages
+249232|Nostos
+249356|Athens Diamond Plus
+249764|Aktaion II
+249782|Lava Suites & Lounge
+249912|Anavaloussa
+249966|Aldemar Royal Villas
+249969|Nostos
+249970|Irtakina Rooms
+249978|Kinsterna
+250032|Kyma
+250034|Agia Roumeli
+250056|Afitis Hotel & Afitos Studios - Afitis Hotel
+250057|Afitis Hotel & Afitos Studios - Afitos Studios
+250166|Club Marine Palace & Marine Palace Suites - Club Marine Palace
+250167|Club Marine Palace & Marine Palace Suites - Marine Palace Suites
+253106|Marianna Studios
+253109|Rastoni
+253111|Acropolis Ami Boutique
+253112|Centro Residence
+253113|Niki
+253114|Elizabeth Boutique
+253115|Metropolis
+253118|Kimon
+253121|Athens Eva
+253122|Ilia Palms at Grecotel Olympia Riviera Resort
+253126|Isthmia (Isthmus) Prime
+253127|Mitzithras
+253130|Trikorfo Beach
+253132|Decauville
+253138|Dafnes House
+253140|Summer House Studios
+253144|Sartivista
+253145|Antigoni Beach
+253146|Kaikis
+253147|Sisters Toti
+253151|Epihotel King
+253152|Avra
+253153|Irida Boutique
+253154|Parga Princess Boutique
+253155|Aktaion
+253156|The Captain's House
+253157|Dionisos
+253159|Miraluna
+253160|Lefkorama
+253163|Tourist
+253167|Studios Diamanto
+253168|Staggia Studios
+253170|Folies Corfu Hotel Apartments
+253176|Thalia
+253179|Panorama Villas
+253180|Elounda Island Villas
+253182|Athina Villas
+253184|Villa Galini
+253188|The Traditional Villas of Crete
+253189|Pasiphae
+253190|Rea
+253192|Mourtzanakis Residence
+253194|Nymphes
+253196|Traditional Cretan Houses
+253201|Creta Sun
+253203|Spiros-Soula
+253204|Erivolos
+253205|Eleni Palace
+253209|Dioskouroi
+253210|Hotel Castillio
+253211|IDI Hotel
+253212|Palazzo Greco
+253213|Apollo
+253214|Koutouloufari Village Holiday Club
+253215|Petra Beach Hotel and Apartments
+253216|Romantica Hotel Apartments
+253217|Romantica Beach Villas
+253218|Country Veláni
+253219|Posidon Studios
+253222|Ideal
+253227|Ionio Star
+253228|Almyra Hotel & Village
+253229|Big Blue
+253230|Villa Astrikas Hotel
+253232|Villa Ritsa & Dimitris Studios
+253234|Socrates
+253238|Ilios Studios
+253240|Matala
+253241|Ikaros Studios
+253242|Separe House
+253243|Barbara Studios
+253244|Bellagio Luxury Boutique
+253245|Vetera Suites
+253249|Helidonia Villas
+253250|Casa Maistra Residence
+253251|Villa Sokaki 1 & 2 - Villa Sokaki 2
+253252|Cretan Sun
+253255|Aloni Villas
+253257|Serenity Boutique
+253258|Grand Nefeli
+253259|Pearl Bay
+253260|Argo Suites
+253261|Topakas House
+253262|Morning Star
+253264|Four Seasons
+253265|Gythion Traditional
+253266|Belvedere
+253274|Alpha Stegna Sun
+253275|Agnanti Beach Studios
+253276|Bella Vista Stegna
+253277|Kozas Studios
+253278|Paradis Studios
+253285|Andreas Studios
+253286|Stella Hotel
+253288|Altamar
+253290|Sofia Pension
+253291|Andreas
+253296|Zacosta Villa
+253297|Caravel
+253298|Terinikos
+253303|Symi Garden Studios
+253308|Exensian Villas & Suites
+253310|Levantino Studios
+253780|Colors Budget Luxury Hotel
+253788|Dion
+253790|RG Status
+253792|Ouzas
+253793|Lilalo
+253794|Polis
+253796|San Antonio
+253798|Kallirroi
+253801|Merope
+253832|Paradise Inn
+253834|Phivos Studios
+253835|Manganas Studios
+253838|Aeolos Studios & Suites
+253840|Margarenia
+253843|Glykeria's Studios
+253847|Mirabo Luxury Villas
+253852|Markakis Studios Fira
+253853|Mandilaria Studios
+253856|Sea Sound - White Katikies
+253857|Anessis
+253858|Dana Villas
+253859|Dream Island
+253861|Horizon
+253862|Thira & Apartments
+253863|Palladion
+253865|Tataki
+253866|Summertime
+253867|Nefeles Luxury Suites
+253868|Villa Murano
+253869|Villa Ilios
+253870|Fira Calm Hotel
+253871|Nemesis
+253872|Rena's Suites
+253873|Afrodete
+253874|Homeric Poems
+253875|Santorini Luxury Villas
+253876|Villa Fotini
+253879|Kavalari
+253881|Annio
+253883|Villa Apolafsi
+253884|White
+253885|Iliovasilema Suites
+253887|Absolute Bliss Imerovigli Santorini
+253888|Avianto
+253889|Kapari
+253890|Aenaon Villas
+253891|Afroessa
+253901|Nefeli Homes
+253905|Anita's Villa
+253910|Hotel 28
+253914|Villa Ostria
+253915|Pension Stella
+253916|Agapi Villas
+253918|Atlas Pension
+253919|George Hotel Pension
+253922|Villa Agas
+253923|Villa Manos
+253927|Anatoli
+253930|Anteliz
+253932|Katerina & John's
+253934|Merovigla Studios
+253935|Anny
+253936|Villa Danezis
+253937|Kalisperis
+253941|El Mar Villas
+253945|Anezina Villas
+253946|Sea Wave Studios
+253948|Villa Dimitris
+253950|Irigeneia
+253955|Halaris Studios
+253956|Irineos Studios
+253957|Katefiani Villas
+253958|Letta Studios
+253960|Nefeli Villa
+253962|Roula Villa
+253963|Zannes Studios
+253964|Villa Maistrali
+253965|Villa Spyros
+253966|Villa The Birds
+253968|Villa Georgia
+253971|Meteora Studios
+253975|Holiday Beach Resort
+253977|Robertos Villas
+253979|Voreina Gallery Suites
+253982|Villa Rose
+253984|Irida Studios
+253985|Alexander Villas
+253986|Villa Pavlina
+253987|Kalestesia Suites
+253988|Santorini Princess Presidential Suites
+253989|Paradice
+253990|Aloni Grove - Villa
+253991|Vlamis Villas
+253993|Iliovasilema
+253994|Kapares Studios
+253995|Cycladic View
+253996|Margaritari
+253997|Depis Place
+253998|Zeus
+254000|Anna Beach Studios
+254004|Summer Memories
+254009|Blue Sky
+254010|Oasis Studios
+254012|Mikes Studios
+254013|Kalia Studios
+254014|Katerina Roza Studios
+254016|Mavromatis Studios
+254017|Saint Vlassis
+254018|Dinana Studios
+254026|Santa Katerina
+254027|Irene Pension 1
+254028|Pirgos Stelida Hotel
+254029|Panthea Residence
+254030|Morfoula's Studios
+254031|Milena
+254035|Villa Galaxy
+254037|Penelope Village
+254038|GT Suites Mimosa Complex
+254039|Portobello Boutique
+254041|Fresh
+254074|Kaliviani Traditional
+254076|Amygdalia Villas
+254077|Family Bikakis
+254078|Galini Beach
+254089|Gaea Gardens Studios and Villas
+254091|Idea
+254092|Anemi
+254102|Pavlidis
+254105|Rodon House
+255118|Kalma
+255119|Markezinis Suites
+255120|Santorini Mesotopos
+255123|Andriana
+255126|Kymothoe Elite
+255127|Arkadia
+255128|The Parthenon
+255163|Strofilia Villas
+255165|Artemis Bungalows
+255166|Aegean Wave
+255168|Liofoto
+255170|Mando Beachfront
+255227|Balhambra Suites
+255228|Fiscardo Bay
+255230|Faros Suites
+255231|Krystal
+255232|Petras Beach
+255234|Vliho Bay
+255235|Vaya
+255236|Maison Grecque
+255237|Marie Palace
+256082|Aiolos
+256083|Tholos
+256084|Grand Sarai Nafplio
+256085|Filyra
+256086|Amfitriti Palazzo Design Hotel
+256087|Adiani Boutique
+256088|Syrou Melathron
+256089|5 Hermoupolis Concept Sites
+256090|Tsagarada House
+256091|Stevalia Hotel & Spa
+256092|The Lotus Tree
+256093|Arhontika Saltis
+256094|Archontika Karamarlis
+256095|Filoxenia
+256096|Montagna Verde
+256098|Olive Coast Suites
+256139|Niki
+256140|Phidias
+256347|Bozonos Luxury Villa
+256349|Anastasia Studios
+256350|Climati Studios
+256351|Al Mare
+256352|Paliopigado Villas
+256355|Zakynthos Villas
+256356|Villa Contessa
+256370|Esperia
+256471|Filippos
+256805|Traditional Guest House Achelatis
+256806|Areos Polis Hotel
+256821|Sellados Villas
+256860|Villa Irini
+256861|Samonas Traditional Settlement
+256864|Emerald
+256865|Dionysis
+256900|Monemvasia Seafront
+256902|Likinia
+256903|Mpalkoni Sti Monemvasia
+256905|Pablito House
+256906|Petrino Guesthouse
+256907|Olive Tree Cottages
+256908|Zina
+256914|Anna Studios
+257027|Althaia
+257028|Arxontiko Pepos
+257041|Ariadne Guesthouse
+257042|Skamnos Boutique
+257043|Filoxenia
+257044|Ktima Bellou
+257045|Anastazia
+257104|Calypso Villas
+257105|Clear Horizon
+257106|Katerina
+257187|Abyssanto Villa
+257189|Delfini Villas
+257191|Theodora Suites
+257193|Sun Anemos Resort
+257194|Oia Suites
+257195|Pelagos Oia
+257196|Ifestio Villas
+257197|Captain John Traditional Houses
+257198|Galini Oia
+257200|1864 The Sea Captain's House
+257213|Fantasia
+257215|Kos Bay
+257218|Ekaterini
+257224|Tasia
+257225|To Hani Tou Kokkini
+257226|Stagones Luxury Villas
+257227|Galatis
+257229|Fyrogenis Palace
+257230|Asteras Paradise
+257232|To Kyma
+257234|Astir Of Paros
+257236|Angie's Studios
+257238|Naoussa
+257241|Panos Studios
+257242|Arandis Inn
+257243|Paros Butterfly Villas
+257244|Paros Eden Park
+257246|Agios Nikitas Resort Villas
+257247|Odyssey
+257248|Mavra Studios
+257252|Irida
+257258|Blue Horizon Ios
+257259|Faros
+257260|Avra Pension
+257261|Katerina Yalos Guest House
+257267|Natassa
+257315|Mitsis Grand Serai Congress & Spa
+257316|Ellopia Point Boutique
+257498|Aroma Dryos
+257500|Kassaros
+257536|Semiramis
+257537|Villa Mary Elen
+257538|Del Mar
+257539|Avgonima All Seasons
+257540|Almiriki
+257580|To Tzaki
+257581|Artemis
+257602|Villa Del Lago
+257603|Paralimnio Suites
+257623|Villa Elpiniki
+257625|Hellen Studios
+257628|Mouras Studios
+257665|Amaris Wishes
+257666|Alex & Giota
+257668|Achillion
+257683|Xemoni Hotel & Spa
+257686|Angelika Aparthotel
+257692|Menia Beach
+257693|Irini Family Studio
+257694|Kydonia Studios
+257695|Electra Pension
+257696|Des Roses
+257697|Silver Beach
+257698|Sunrise Hotel
+257699|Esthisis Suites Chania
+257700|Adelais
+257710|Anerada Inn Boutique
+257750|Loxandra Studios
+257755|Laza Beach Inn
+257756|Arxontiko Agonari
+257757|Palea Poli Deluxe Boutique
+257759|Violetta
+257760|Meraki
+257764|Knossos
+257766|Christina
+257767|Asteria
+257775|Pilio Holiday Club
+257777|Georgie Villa
+257812|Yasoo Holidays
+257821|Apollo Pavilion
+257823|Panorama Plati Studios
+257824|Porto Plaza
+257827|Heraion
+257847|Arcadia
+257932|Anemologio
+257933|Porto Vidali Studios
+258053|Villa Orion
+258072|Avra Spa
+258073|Palatino
+258074|Zagana Studios
+258075|Pagona
+258230|Proselinos
+258363|Manos Syros Studios
+258365|Gera's Olive Grove
+258370|Paleros Resort Hotel
+258383|Coco-Mat Nafsika
+258384|Des Roses
+258524|Olympion Village
+258545|Greka Ionian Suites & Villa
+258557|Kirki
+258559|Kastro Studios
+258566|Villa Venezia
+258567|Agelos Studios
+258652|Kamaroti Suites
+258708|Ilios Studios
+258709|Aenaon Studios
+258710|Irene Studios
+258712|Monambeles Villas
+258716|The Pink Palace
+258721|Kaiser Bridge
+258727|Leftis Romantica
+258729|Sebastian's Taverna
+258730|Aloha
+258731|Philippos
+258733|Filorian Hotel Apartments
+258738|Comfy Hostel Studios
+258743|Logas Beach Studios
+258744|Ninos on the Beach
+258746|Stefanos Place
+258749|Villa Avra
+258767|Renieris
+258769|Amphitriti
+258775|Stone Village
+258777|Arkadi Hills Estate
+258781|Papafotis
+258782|Marilen
+258783|Palazzo
+258784|Irinna
+258788|Horizon Line Villas
+258792|Johnmary Studios
+258820|Villa Constantsia
+258951|St. George Studios
+258953|Onar
+258954|Krinos Suites
+258957|Sunny Garden Studios
+259020|Hinitsa Bay
+259023|Salvia Villas
+259024|Enalion Hotel
+259025|Palirria Hotel
+259026|Katia
+259027|Anigraia
+259028|Panorama
+259079|Artemis Kallisti
+259080|Kelari Studios
+259157|Elisson
+259159|Asteri
+259162|Maria's Studios
+259163|Oasis
+259164|Mashalis Sweet Corner
+259165|Helios
+259166|Villa Elizea
+259167|New Kydonia Suites & Studios
+259172|Traditional Ianthe
+259200|Primoula
+259206|Ilaeira Mountain Resort
+259231|Akti Aegeou
+259236|Alkioni
+259237|Olivemare
+259260|Sole e Mare Traditional Studios
+259267|Le Due Sorelle
+259268|Byzantinon
+259277|Pindos Resort
+259299|Kalives Resort
+259513|Scaleta Beach
+259542|Mareva
+259543|Ippoliti Village
+259661|Perla
+259664|Esperos Palace
+259665|Sun Light
+259666|Drapania Beach
+259667|Uranodromies
+259668|Diakonia
+259669|Barbouni
+259671|The Aigli
+259766|Paradise Resort
+259768|Omirico
+259912|Villa dei Sogni
+259914|Nostimon Emar
+259938|Metropol Beach
+259951|Carme Villas Resort
+259972|Sellas Hotel
+259974|Xenonas Lefteri & Loukias
+260002|Diamond Apartments
+260008|Vrachos Villas
+260031|Mariliza Beach
+260037|Panorama Apartments
+260041|Lindian Jewel
+260101|Santa Marina Resort & Spa
+260165|Diakonis
+260292|Trefon Apartments
+260309|Sunshine
+260311|160 Thea
+260341|Appartements Graziella
+260508|Golden Valentin
+260517|OLYMPIA SUN Apartments Faliraki - ab 17.04.2015 smartline Faliraki
+260527|Irinikos Studios
+260528|Tylissos Beach
+260541|Tsampika Apartments
+260655|Stavros Melathron
+260694|Ida Village lll
+261006|Dimitra
+261011|Thomas
+261012|Kaiafas Lake
+261015|Maestro Appartements
+261016|Mare Dei Suites
+261066|Marianthi Apartments
+261137|Maistrali Apartments
+261226|Komplex Corali & Corali Village - Corali Village
+261283|Vallian Village
+261298|Studios Christof
+261426|Lavris & Lavris Paradise - Lavris
+261427|Lavris & Lavris Paradise - Lavris Paradise
+261464|Belvedere
+261465|Naxos Golden Sun
+261484|Aeria
+261517|Komplex Corali & Corali Village - Corali
+261532|Prosillio Villas
+261554|Nikas Rooms & Apartments
+261561|Kolokotronis
+261562|Matula Family World
+261685|Apollon
+261690|Jason
+261700|Domna Petinaros Apartments
+261706|Gorgona Studios
+261707|Hermes Studios
+261712|Vallas Apartments
+261713|Anemomilos
+261716|Finikas
+261741|Kamares Apartment
+261756|Asterias Appartements
+261758|Santorini Princess
+261820|Perrakis
+261824|Hotel Yannis
+261825|Apollon
+261827|Maria's Beach Hotel & Apartments
+261828|Apollon
+261832|Veronica
+261833|Elounda Sunrise Studios & Apartments
+261834|Olympic Star
+261835|Royal House
+261836|Palazzo Loupassi
+261839|Palace
+261841|Panos Beach
+261842|Villas Mary & Anna - Villa Mary Studios
+261843|Villa Moschona
+261845|Asteris Hotel
+261850|Rouda Bay Hotel
+261855|Grikos
+261857|Byzantio
+261861|Pefkos Village Hotel & Resort
+261862|Stella View
+261863|Villa Selena
+261864|Maistrali
+261865|Anemona Beach Aparthotel
+261867|Cactus
+262148|Acharnis Kavallari Hotel Suites
+262149|Amaryllis
+262151|Dolphin
+262152|Glyfada
+262154|Kiani Akti
+262158|Parnis Palace Hotel
+262173|Amphitryon
+262177|Island Blue
+262178|Lambis Studios
+262181|Sivila
+264422|Kastro Apartments
+264425|Reverie Traditional Apartments
+264428|Smaro Studios
+264429|Thira's Dolphin
+264435|Caldera Butterfly Villas
+264439|Santorini
+264445|Hotel Zorbas Santorini
+265021|Rochari
+265023|Villa Margarita
+265183|Alia Studios
+265497|Kleopatra
+265520|Timedrops Santorini
+265548|Gerakina Beach & Sithonia Village
+265549|Gerakina Beach & Sithonia Village - Sithonia Village
+265602|Dolphin Kastraki Studios
+265653|Hillside
+265944|Athens Green Apartments
+265945|Estelle
+265946|Galini
+265948|Agrili Resort
+265949|Assa Inn
+265950|Avra
+265951|Thalassokipos
+265957|Pantheon Studios Apartments
+265958|Thalia Rooms Guest House
+265960|Tsikelis Family
+265961|Alexiou
+265963|Arsenis
+265964|Villa Dorita
+265966|Christina Studios & Apartments
+265968|Filoxenia Sea & View
+265972|Amaryllis
+265974|Lefteris Village
+265975|Simatos Apartments & Studios
+265976|Fiore di Mare
+265977|Panorama Studios
+265978|Rantos Apartments
+265979|Georgina Apartments
+265982|Palms & Spas
+265987|Akis Apartments
+265990|Ipsos Studios & Apartments
+265992|Rena Studios
+265994|Danae Apartments
+266000|Tzilios Studios
+266002|Gorgona Apartments
+266003|Villa Katia
+266004|Aliki's Apartments
+266005|Nireas Studios & Apartments
+266006|Harris Apartments
+266008|Argo Studios
+266009|Paradise Village
+266010|Karina
+266011|Hellinis
+266015|Stergia Apartments
+266017|Residence Gérani
+266018|Melas Apartments
+266020|Golden Apartments
+266021|Elounda Olea Villas & Apartments
+266022|Eliza - Apartment
+266023|Adonis Beach Rooms
+266025|Maria Apartments
+266026|Sogiorka Apartments
+266027|Villiana Holiday Apartments
+266028|Memories Apartments
+266029|Athena Apartments
+266032|Lia Sofia
+266033|Kyriakos Family Apartments
+266034|La Luna 2 Studios & Apartments
+266035|Lefteris Apartments
+266036|Golden Dream Apartments
+266038|Maria Lambis
+266039|PaulEva Apartments
+266040|Erofili Apartments
+266041|Sweet Memory Apartments
+266042|Stella Apartments
+266045|Melissa Apartments
+266046|Mylos Apartments
+266047|Danelis Studios & Apartments
+266048|San Giorgio
+266051|Sunset Beach
+266052|Golden Sun Apartments
+266055|Cretasun Apartments
+266058|Villa Polichna
+266061|Village Apartments
+266062|Galini Beach
+266065|Evli Apartments
+266066|Golden Coast Apartments
+266067|The Sea Front
+266068|Aloe Apartments & Studios
+266070|Babis
+266072|Faros Beach Hotel
+266073|Givera Villa
+266075|Abelos Villa
+266076|Skajado Cottages & Apartments
+266078|Casa Del Mar
+266079|Mykonos Panormos Villas
+266084|Mykonos Chora Apartments
+266085|Romantika Rooms & Apartments
+266086|Urania Lux Villas
+266087|Spilia Bay Villas & Spa
+269860|White Rose
+269862|The Silk Design Hotel
+270157|Samson's Village
+270158|Nonis Apartments
+270159|Sigal Villa
+270161|Antithesis Apartments
+270164|Leta
+270165|Danae Villa
+270166|Argonaftes Villa
+270169|Acropole Sunrise
+270170|Sweetheart
+270171|Villa Fabrica
+270173|Argiris Studios
+270175|Anemomilos Suites
+270182|Senses Boutique
+270184|Santorini's Balcony
+270186|Three Harites
+270187|Black Rose Suites
+270192|Villa Michalis
+270193|Holidays in Paros
+270194|Betty Apartments
+270195|Arokaria Beach Studios
+270196|Joseph Apartments
+270197|Diplos Studios & Apartments
+270198|Marisa Rooms
+270199|Free Sun
+270200|Anemoi Resort
+270201|Sunset Studios & Apartments
+270202|Marinos
+270203|Manto
+270205|La Selini
+270206|Aspasia
+270208|Karabatsis Studios
+270212|Panoramic View Apartments
+270213|Zefyros Studios
+270214|Paravatos Studios
+270216|Scala Apartments
+270217|Naxos Kalimera
+270218|Iades Studios
+270220|Coralli Beach Apartments
+270221|Al Mare Studios & Rooms
+270222|Blue Harmony Apartments
+270223|Naxos Rooms Studios Apolafsi
+270380|Mesogios Apartments
+270381|Revekka Rooms
+270498|Ouranoupolis Princess
+270511|Sivilla
+272242|Iro Suites
+272243|Anemomiloi Studios
+272244|Vassiliki
+272245|Mainades Maisonettes & Studios
+272275|Diamanto Rooms
+272285|Dafnoudi
+272286|Kalyves Bay
+272287|Mohlos Villas
+272288|Nereids
+272290|Villa Paraskevi
+273122|Lyristis Studios
+273123|Rodos Niohori Elite Suites
+273124|Jack's Rooms
+273126|Haraki Mare Studios & Apartments
+273127|Ossiano Villas
+273129|Villa Panagos - Studios And Apartment
+273131|George Beach Studios
+273133|Stavris Studios
+273139|Panorama Genadi
+273140|Emily House
+273141|Effie's Dreams Holiday Studios
+273145|Scala Apartments
+273609|Dolphin
+273720|Panorama
+273721|Andrews Apartments
+273722|Christina Apartments
+273723|Harmony Luxury Rooms
+273724|Gregory Apartments
+273725|Omorfi Poli Holiday Apartment
+273726|Villa Irene
+273727|Aretoysa
+273728|Phaistos
+273729|Kentrikon
+273730|Valente-Perlia Rooms
+273732|Diana Rooms
+273733|Archontiko Routsou
+274343|Antonio Studios
+274344|Lithies Studios & Apartments
+274346|Athina
+274347|Lazaros Hotel Apartments
+274348|Kavos Psarou Studios & Apartments
+274350|Pettas Apartments
+274711|Toulgaridis
+275820|Niriides
+275821|Marianna Apartments
+275822|Asterina
+275912|Aktaion Hotel
+276272|Georgis Apartments
+276274|White Pearl Villas
+276276|Panorama Apartments
+276311|Stam & John Apartments
+276312|Elite Apartments
+276313|Manine Apartments
+276314|Kally Apartments
+276316|Art Lesvos Villas
+276320|Glyfa Corfu Apartments
+276326|Aleka's House
+276327|Tampakeika - Hostel
+276328|Villa Golden Sun
+276329|Agapitos Villas & Guesthouses
+276331|The Lost Unicorn
+276332|Miression
+276334|Flamingo
+276339|Villa Thomais Hotel
+276340|George House Apartments & Villa
+276341|Villa Olga
+276342|Sofia
+276376|Helenas Rooms
+276377|The Windmills
+276378|Irene Pension
+276380|Drakos Twins George
+276672|Finday Boutique
+276673|Smaragdi
+276674|Reggina's Apartments
+276675|Emilia Luxury Apartments
+276816|Elite Apartments
+276817|Myrties Boutique
+276818|Mela Studios
+276905|Harmony
+276907|Ananti City Resort
+277207|Skiathos Garden Cottages
+277211|Skiathos Gea Villas
+277215|Anna Maria Vanessa Apartments
+277217|Holiday Rooms
+277218|Evridiki Apartments
+277222|Margado
+277223|Pylaia Boutique Hotel
+277224|Studios Kilindra
+277225|Tholaria Boutique Hotel
+277386|Kiveli Apartments
+277453|Theros Hotel
+277454|Anna Katerina
+277528|Seaside Village Rooms
+277542|Amazones Village Suites
+277545|El Greco
+277547|CHC Rimondi Grand Resort & Spa
+277553|Iason Apartments & Studios
+277554|7 Palms
+277556|Argo
+277562|K Boutique
+277566|4 Epoches
+279208|Ilissia
+279258|Happy Fish
+279315|Cavo Olympo Luxury Resort & Spa
+279633|Blue Suites Hotel
+279634|Regina
+279635|Sun Accommodation
+281035|Skalidis Apartments
+281036|Alonia Studios & Maisonettes
+281037|Panorama Apartments
+282733|Park
+282949|Langley Resort Almirida Bay
+284855|Matoula
+285014|Ammoudara Beach Hotel & Apts
+285017|Anna Maria Village
+285019|Metropol Sea Hotel
+285023|De.Light Boutique
+286056|Park
+286079|Golden Sun Studios & Apartments
+286085|Naxos Island Hotel
+287342|Arty Grand Hotel
+287604|Thetis
+288036|Varres Hotel
+289840|Vitina House Forest Resort
+291643|Aposperitis Traditional Guesthouse
+291649|Villa Ariadni
+292131|Pelagia Bay
+292165|Rising Sun
+292166|Roza Studios
+292167|Fania Apartments
+292168|Kalimera Suites
+292169|Paraschos Studios
+292172|Minerva Dore
+292174|Valentino Apartments and Studios
+292178|Candia
+292179|Constantino's Studios
+292180|Diana
+292181|Idramon
+292182|Ifigenia Rooms & Studios
+292185|Magia Apartments
+292186|Morfea's Nest
+292187|Odos Oneiron
+292188|Room Honeymoon
+292189|Rooms 47
+292190|To DiPorto
+292191|Niriis
+292193|Marelina Villas
+292196|Anna Apartments & Studios
+292198|Panteli Beach Studios & Apartments
+292201|Lindos Boutique Rooms
+292385|Villa Despina
+292398|Mikro Papigo 1700
+292401|Aliko Luxury Suites
+292402|Anthonas Apartments
+292404|Nataly & Katrin Apartments
+292407|Kafieris on the Cliff
+292408|Yiannis Roussos Villa
+292411|Markos Pension
+292412|Vassiliki Rooms
+292413|Kontaratos Studios & Apartments
+292414|Arokaria Dreams
+292416|Christina
+292418|Fos Suites
+292577|Peter & Tony
+292578|Villa Arni
+292580|Andros Prive Suites
+292583|Porto Vlastos
+292598|Haralambos Studios
+292599|Artemis Apartments
+292600|Little Bay Apartments
+292619|Ansi Apartments
+292620|Gianna Apartments
+292779|Tilos Fantasy Apartments
+292815|Rea Sun
+292818|Kymata
+292819|Royal Palace Resort & Spa
+292820|Ilyda Luxury Suites
+292822|Porto View Hotel Apartments
+292823|Porto Panorama
+292837|Lerna Rooms
+292838|Zephyros
+292839|Morpheus Rooms
+293050|Esperides
+293051|Messinian Horizons
+293052|Dryalos
+293142|Hotel Kourkoumelata
+293465|Trikeri Villas
+293491|Malion Apartments and Rooms
+293495|Astros Beach
+293531|Cretan Exclusive Villas
+293572|En Milo
+293579|Mansion Terpou
+293580|Palio Eleotrivio Guesthouse
+293581|Chrissi Nefeli
+293691|Onar
+293736|Meterizi Guest House
+293761|Kentrikon
+293762|To Archontiko Guest House
+293922|Panorama
+293973|Ethaleia
+294089|Alexandros
+294090|Montofoli Estate
+294336|Melina
+294337|Filoxenia Studios
+294339|Pension Hirolakas
+294340|Atheras
+294341|Kerame Studios
+294342|Athena Apartments & Studios
+294343|Romantica Apartments
+294762|Drymonas
+294765|Souris
+294782|Oreiades Suites
+294846|Aliki Beach Hotel
+294847|Cavo Petra
+294848|Arcadia Suites & Spa
+294849|Calypso
+294850|Edem
+294852|Elafonisos Diamond Resort
+294854|Lakonia Bay - Apartments
+294870|Firoa Studios
+294871|Atlantis Houses
+294872|Villa Dolphins
+294873|Evridiki
+294875|Kasimis Rooms To Let
+295472|Fouxia Appartements
+295473|Royal Rose Apartments
+295476|Athinais
+295574|Ambelia Traditional Villas
+295584|Ceratonia Apartments
+295685|Azure Beach Villas
+295688|Asterias Beach
+295778|Villa Myrto
+295786|Splendour Resort
+295787|Paloma Garden & Corina
+295796|Batis Beach
+295872|Mitsis Alila Resort & Spa
+295876|Smartline Vasia Village
+295943|Yria
+295994|Saint Catherine
+296361|Costas Beach
+296362|Harmony Resort
+296377|Spiros Studios
+296378|Kantaros Apartments
+296381|Sea Breeze
+296643|Anna Irini
+296670|Anemones Villas
+296678|Kassavetis Apartments
+296679|Selena
+296681|Island Guest House
+296685|Mariana Hotel & Studios
+296686|Marianna Studios
+296691|Koni Village
+296722|Altis
+296738|Kalypso Studios Apartments
+296965|Saint Michel
+297009|Amanzo'e
+297090|Arisvi
+297091|Eriphili
+297096|Georgia
+297098|Mythos Beach
+297107|Elpida
+297154|Galaxias
+297155|Mani's Rose
+297159|Lola
+297160|Margarita Beach
+297164|Pegasus
+297181|Lithi
+297212|Abelia Studios
+297213|Alexis Pool Apartments
+297214|Billy & Sandra Apartments
+297215|Joy Life
+297216|Kostas Apartments
+297220|Timotheos Studios
+297221|Yiannis Apartments
+297222|Rose Faliraki
+297224|Diamond Village Apartments
+297225|Irene Village
+297227|Hersonissos Sun
+297228|Villa Marina
+297229|Osiris Apartments
+297230|Trianta Hotel
+297232|Daisy Zakynthos Apartments
+297233|Two Brothers Studios
+297234|Emiliana Apartments
+297235|Balaris Apartments
+297239|Karavanos Apartments
+297240|Seafalios Apartments
+297243|Sunrise Apartments
+297245|Chrysoula Apartments
+297246|Manolis Studios
+297248|Pergamos Village
+297251|Perkes Hotel
+297254|Tassia Studios
+297256|Rena Studios Kos
+297261|Summer Dream Studios & Apartments
+297263|Mermaid Studios
+297264|Chrysanthi Studios & Apartments
+297265|Coliseum Studios & Apartments
+297266|Karpathios Studios
+297267|Chrisselen Apartments
+297270|Zantina Beach Hotel
+297272|Blue Garden Apartments
+297273|Valentinos Apartments
+297275|Psaras Apartments
+297277|Erietta Studios
+297279|Filitsa Studios
+297280|Tom & John Apartments
+297379|Nitsa Apartments
+297380|Ilian Beach Studios & Apartments
+297394|Elea
+297470|Diana
+297500|Dimitri Studios
+297521|Nicholas
+297532|Evlalia Studios & Apartments
+297544|Windmill Bay Aparthotel
+297747|Villagio Magnolia
+297768|Bellos Beach
+297889|Diktynna
+297959|Radamanthys
+297960|Ionia
+298148|Stork
+298332|My Little Place On The Hill
+298335|Estia
+298336|Pension Althaia
+298337|Apanema I & II
+298338|Telis
+298343|Eleonas Tis Geras
+298356|Vassilikos Appartements
+298930|Koulouris Apartments
+298993|Torri e Merli Boutique
+299532|Barbouna
+299611|12 Islands Luxury Villas
+299649|Miraluna Resort Complex - PrimaSol Miraluna Seaside
+299650|Miraluna Resort Complex - Miraluna Village & Spa
+299654|Studios Posto
+299656|Amaryllis Appartments
+299657|Petritos Resort
+299702|Green Park Skiathos
+299726|Morfeas Hotel
+299750|Nikos Apartments
+299764|Elena Pension
+299809|Nautilus Apartments
+299811|Akti Arillas
+299917|Panorama Resort
+299930|Sun Club Olympia
+300034|Archodia Studios
+300041|Nest Apartments
+300042|Pals Studios
+300043|Gennadi Gardens Apartments
+300070|Rafael
+300093|Veroniki Studios & Apartments
+300296|Matamy Beach
+300298|Aiolos
+300299|Stoupa
+300442|Andromeda
+300444|Polyxeni Aparthotel
+300451|Castello
+300452|George Apartments
+300465|Elpida Studios
+300507|Bella Vista
+300552|AKS Minoa Palace
+300835|Dia Apartments
+300970|Amaryllis
+300972|Margarita Hotel Zante - ab 01.05.2015 smartline Margarita
+301087|Villa Eliza
+301094|George's
+301110|Myconian Villas Collection
+301301|Elysee
+301303|Vasilakis Holiday Apartments
+301336|Konstantinos Apartments
+301426|Gardelli Resort Art Hotel
+301517|Anna Apartment
+301907|Arhodiko
+301908|Stella Katrin
+302130|Sentido Ixian All Suites
+302250|Eristos Beach Hotel
+302263|Gardenia
+302280|Viktor I & II
+302314|Minies Beach Villas
+302318|Birds Bay
+302319|Galini
+302322|Ilios Club
+302323|Arhodiko Prepala
+302324|Nefeli
+302336|Filippion
+302343|Panorama Boutique
+302373|Manolis
+302376|Eleni Hotel
+302391|Sunlight Resort
+302397|Gouves Villas
+302398|Ambassador Aegean Luxury Hotel & Suites Santorini
+302400|Argo Sea
+302401|Rodian Gallery
+302420|Aroma Villa
+302421|Zannis
+302434|Angela Suites Boutique / Angela Studios & Apartments - Angela Suites Boutique
+302435|Angela Suites Boutique / Angela Studios & Apartments - Angela Studios & Apartments
+302447|Sunray
+302457|Sunset Apartments
+302497|Aeolis Apartements & Studios
+302505|Rainbow Apartments
+302518|Vassilios
+302523|Ilias Apartments
+302524|Coralli
+302525|Golden Star
+302526|Silver Bay
+302530|Afandou Sky
+302535|Aroma Creta
+302551|Flisvos
+302556|Pegasos Beach Resort Hotel - Pegasos Beach / Pegasos de Luxe
+302557|Pegasos Beach Resort Hotel - Pegasos de Luxe
+302571|On An Island
+302575|Miros
+302579|Aphrodite Hotel
+302589|Evita Studios
+302624|Aqua Bay
+302626|Irene Apartments
+309165|Anthemoussa
+309168|Thalassies & Thalassies Nouveau - Thalasissies
+309169|Thalassies & Thalassies Nouveau - Thalassies Nouveau
+309180|Caretta Beach Hotel & Village
+309181|Caretta Beach Hotel & Village - Village
+310789|Royal
+310825|Prinos
+310832|Thalassa Suites
+310833|Rigos
+310871|Kioussi Villas
+310919|Anthoula Apartmens
+310927|Aspalathras White
+310928|Aqua Petra
+310929|Ta Tria Adelphia - 3 Brüder
+310941|Venus Studios & Apartments
+310950|Cactus Beach & Village - Cactus Village
+310951|Cactus Beach & Village
+310985|Loizos Stylish Residences
+310995|NiMar
+311058|Seaside Apartments
+311100|Cretan Family Apartments
+311119|Dream View
+311195|Royal Aparthotel City Centre
+311201|Avalon Palace Zakynthos
+314228|Pinelopi
+314273|Iberostar Creta Panorama & Creta Mare - Panorama
+314274|Iberostar Creta Panorama & Creta Mare - Mare
+314546|Atlantis
+314577|Haraki Village
+314580|Daniel Luxury Apartments & Suites
+323785|Elena
+323790|Candia House Suites
+323791|Ilianna
+334845|Kyparissia Beach
+334992|Karras Apartments Annex
+335007|Amathus Beach Hotel & Elite Suites - Amathus Elite Suites
+335008|Dinas Studios & Apartments
+335050|Eleni Apartments
+335808|Tsampika
+354456|Beach Boutique Hotel
+354483|Nine Muses Villas
+359371|Semeli Apartments
+359373|Dimitris Paritsa
+359405|Oneiro Apartments
+359406|Palm Beach Apartment
+359435|Zante Maris Suites
+359457|Villa del Sol
+359464|Dimitrios Apartments
+359474|Louloudis Fresh
+359525|Chrispy World - Chrispy Deluxe Wing
+359532|Gelina Village - Nostos Mare
+359540|Miramare Hotels - Miramare Resort
+359541|Miramare Hotels - Miramare Village
+359547|The Volcano View Hotel
+359548|CELESTIA Grand Villas
+359571|Myconian K Hotels & Thalasso Spa Center - Kohili
+359573|Myconian K Hotels & Thalasso Spa Center - Kyma
+359574|Myconian K Hotels & Thalasso Spa Center - Kalypso
+359735|Thomas Hotel
+359736|Anthemis Apartments
+359774|Gouves Mare & Sea
+363208|Penelope Apartments
+363211|Silvia Apartments
+363228|Byzantio / Vizantio
+363389|Valena Mare
+363654|Barcelo Hydra Beach Resort
+363971|Alba
+363972|Porto Carras Grand Resort - Meliton Thalasso/ Sithonia Thalasso/ Villa Galini/ Marina Village & Yacht Club
+363982|Kanali Village Apartments
+364093|Dream Apartments & Studios
+364107|Lena Mare
+364108|Lido Sofia Apartments
+364119|Villa Coralli
+364995|Athina
+365323|Die Oase Am Meer
+365337|Zante Palace
+365352|Golden Rose Suites
+365359|Vourlis Mansion
+365360|Atlantida Mare
+365363|Sunshine Crete Village
+365517|Kouros Palace
+365560|Sandy Suites
+366554|Anatoli Apartments
+366626|Koukouras Studios & Lia Apartments - Koukouras Studios
+366627|Koukouras Studios & Lia Apartments - Lia Apartments
+366645|Alomata Villen
+366731|Alexander Gerakari
+366915|Nanakis Beach Apartments
+366924|Sirens Hotels Beach & Village - Sirens Beach
+368860|Porto Kea Suites
+369051|Agamemnon
+370454|Aggelos
+371957|Aristi Mountain Resort
+371960|Lagada Beach Hotel
+372564|Falirala Central
+372573|Relax Studio & Apartments
+372618|Myconian Utopia Resort
+372649|Kleanthi Apartments
+372657|Spiros
+372696|Nana Angela
+372741|Egrypos Pension
+372763|Ekati Apartments
+372770|Tasmania Village
+372771|Maria Flora Apartments
+372772|Dimitra Hotel & Apartments
+372801|Theoxenia
+372825|Elea
+372826|Diamond Apartments & Suites
+372827|Oscar Villa & Studios
+372828|Toroni Blue Sea
+372838|El Greco
+372841|Cardamili Beach
+372843|Lambrinos Suites
+372844|Karalis Beach
+372845|Karalis
+372851|Archontiko Petra's 1821
+372855|Ilidi Rock
+372856|Isareiko Spiti
+372858|Kouros Exclusive
+372859|Kouros Home
+372888|Koralli
+372894|Kamaria Apartments
+372912|Appartements Katerina
+372923|Bonos Apartments
+372929|Villa Karmar Aparthotel
+372934|Cavo Bianco
+372943|Manolis Apartments
+372944|Epavlis Apartments
+372966|Villas Theasis
+372969|Maisonette Kaiti
+372986|Arion
+372987|Kyparissia Blue Rooms & Suites
+372988|Camvillia Resort
+372989|Miranda
+372990|Santikos Aegean Suites
+372991|Elena Village
+372992|Mediterranean Beach & Royal
+373004|Aegean
+373024|Viva Apartments & Suites
+373215|Mesogeios 2000
+373223|Sun & Sea Apartments
+373226|Iraklion
+377638|Anagennisis
+380899|Zeus
+381015|Sidari Beach Hotel
+381019|Archontiko Michopoulou
+381020|Odysseas
+381334|Prima Hotel
+382263|Studios Keri
+383050|Dias Apartements
+385892|Angela
+389974|Castella Beach
+389978|Akti Rooms
+390899|Aquis Avalon
+390900|Golden View Beach
+390923|Aiolos Studios
+390924|Aloe
+390928|Studios Matsani
+391005|Siorra Alessandra
+391097|Tassos Aparts & Pool Bar
+391104|Paradiso
+391110|Silver Nests Apartments
+391134|Navarone Boutique & Spa
+391206|Faros Apartments
+391236|Vicky's Studios
+391349|Sunday Beach
+391393|Raffaello
+391442|Elena Mare
+391443|Thelpi
+391481|Drosostalides Suites
+391753|Potos
+391768|Gorgona
+391772|Villa Hara
+391777|Nissos Suites
+391778|Studios Virginia
+391781|Poseidon
+391867|Tsokas
+391977|Cretan View Appartements
+391980|Villa Alkioni
+391984|Trani Amouda Maisonetten
+391990|Angela Beach Apartements
+392042|Amathus Beach Hotel & Elite Suites
+392081|Villen Anastasia, Dyonissis, Pavlos, Roula
+392093|Golden Fox
+392111|Punta
+392114|Cressa Ghitonia
+392116|Katrin Suites
+392117|Butterfly Studios
+392143|Grand Forest Metsovo
+392149|Taleton Sparti Country House
+392150|Sesa Boutique
+392151|Iro's Hamlet
+392154|Melograno Villas
+392199|Theoni Apartment
+392208|Bella Elena Apartments
+392209|Petros Village
+392210|Vergina Studios
+392213|Adamakis Hotel
+392255|Portokali Apartments
+392258|Semiramis Apartments
+392259|Aurora Beach
+392261|Boheme
+392262|El Greco Palace Hotel & Spa
+392271|Naiades Almiros River
+392273|Inea Hotel & Suites
+392278|Esperides
+392340|Mykonian Studios
+392387|Sirens Hotels Beach & Village - Sirens Village
+392396|Alseides Boutique
+392397|Atrion Highland Hotel
+392398|Vaela Pallas
+392443|Nostos Studios & Apartments
+392447|Anna Apartments
+392452|Faethon Hotel & Apartments
+392458|Acroterra Rosa
+392473|Rainbow
+399636|Lindos Harmony Suites
+399685|Paradise Hotel
+399723|Forum Beach & Residence
+399762|Home
+399763|Poseidon Apartments
+399765|De Sol Santorini
+399767|Vassilis
+399782|Limenari
+399841|Giannoulis
+400750|Stalis Beach & Papas Beach - Stalis Beach
+400828|Irida Studios
+400941|Domotel Mantania
+400953|Porto Limnia
+401058|Mari Evans Apartments
+401060|Gioie Di Mare
+401062|Anatolia Charming
+401064|Bintzan Inn
+401111|Villa Pezoula
+401307|Elina
+401308|Ionio Sea
+401309|Sunny Beach
+401420|Castello di Vista
+401426|Thalia Villas
+402703|Summer Breeze Hotel
+402704|Heleni Beach Hotel
+403278|Kipriotis Hippocrates & Maris Suites Hotel
+403289|Elsa Haus
+403309|Flegra Beach Boutique
+404264|Anavasi Mountain
+404291|Divani Apollon Suites
+404406|Rahoni Cronwell Park Hotel
+404540|Zefiros
+404558|Jimmy's Garden
+404561|Esperides Villas
+404562|Pegasos
+405218|Ilion Hotel
+405252|Moni Emvasis Luxury Suites
+405274|Miraluna Aparthotel
+405319|daLUZ Boutique Hotel
+405329|Princess Irini Sea Front ApartHotel
+405391|Dekelia Hotel
+405392|Blue Sea Hotel
+405394|Platon Hotel
+405400|Irene
+405405|Comfort Hotel
+405538|Karavia Lux Inn
+405541|Hotel Ignatia
+405724|Hotel Paliria
+405861|Minoa Villa
+405918|Hotel Myrtis
+405966|Cavo Ponta Villas
+406066|Theophano Art
+406420|Mediterraneo Dodecaneso
+406430|Anatoli Labreon
+407189|Saint John Studios
+407199|Loutrou Beach
+407340|Govino Bay
+407347|Liberty's Studios
+407800|Harma Boutique Hotel
+407813|Sweet Memory Apartments II
+407843|River Studios & Apartments
+407862|Swell Boutique Hotel
+407867|Kaloni Village
+407869|Irene Apartments
+408700|Kouremenos Beach Apartments
+408798|Villaggio Sioutis
+408801|Eagles Nest Hotel
+409033|Pension Lemonakia Beach
+409058|Efesos Beach Boutique Hotel
+409101|Valentino
+409209|Kahlua Boutique Hotel
+409296|Sentido Sun Beach
+411144|Sunprime White Pearl
+411344|Santorini Secret
+411345|Myconian Avaton Resort
+411420|Ikos Olivia
+411454|Nikki Beach Resort & Spa
+411457|Sunconnect Evita Faliraki Rhodos
+411464|Sofia Appartments
+411521|Grand Blue Beach Hotel
+411545|Princess Golden Beach
+411559|Aelia Resort
+411628|Olympic Bibis
+411629|Porto Matina
+411701|Hotel Sofia
+411736|Kassiopi Resort Memento
+411820|Aroma Stegna
+411996|MAGIC LIFE Plimmiri
+412063|Morphoula
+412064|Nifida Beach
+412173|Blue Lagoon Princess
+412187|Rethymno Mare Resort - Rethymno Mare
+412188|Rethymno Mare Resort - Rethymno Mare Royal
+412190|Canaves Oia Hotel & Suites - Hotel
+412191|Canaves Oia Hotel & Suites - Suites
+412221|Hotel Yassou Kriti
+412227|Kastellos Village & Agathes Complex - Kastellos Village
+412229|Alex & Giota - Alex
+412268|Chryssi Akti & Paradise Beach - Paradise Beach
+413048|San Antonio Corfu Resort
+413049|smartline More Meni Residence
+413227|Stergios Villa
+413247|Hotel Calypso
+413248|Dreaming View Suites
+413585|Arpathea Villas
+413588|Ilioxenia Hotel
+413591|Lichnos Bay Village
+413713|Leros Princess
+413794|Belvedere Aeolis Hotel
+413864|Royal Bay Hotel
+413867|Irini Appartements
+413965|Villaggio Maistro
+413969|Tripoli City
+414087|Helga's Paradies
+414159|Manolis Villa
+414202|Horizon Blu
+414438|Appartements Panorama
+414483|Hotel Myrtos
+414497|Francisco Hotel
+414499|Cronwell Resort Sermilia
+414511|Elounda Krini Hotel
+414580|The George
+414613|Dream Drop Studios
+414614|Gmp Bouka Resort Hotel
+414615|Paris Village Resort Hotel
+414658|Artina & Artina Nouvo & Spa - Artina Nouvo & Spa
+414803|Aelia by Eltheon Hotel
+414839|Aegeon
+416359|Hotel Panorama
+416377|Minoa Malia
+416380|Frida Village
+417530|Villas & Resorts Lenikos
+417541|Efchi Suites 1904
+417543|Haven Boutique Hotel
+417546|Stomio Apartments
+417609|Nerida Boutique Hotel
+417628|Ftelia Bay Boutique
+417661|Hotels Pan & Artemis - Hotel Artemis

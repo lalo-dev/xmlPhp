@@ -1,0 +1,2986 @@
+7063|Accent Inn Victoria
+7362|The Algonquin Resort
+8522|Banff Park Lodge
+8625|Bayview Wildwood Resort
+8892|Quality Resort Bayside
+8904|Best Western Plus Cairn Croft
+8915|Best Western Charlottetown
+8928|Best Western Fallsview
+8981|Quality Inn Merritt
+8997|Best Western Primrose Downtown-Toronto
+9015|Best Western Tin Wis Resort Lodge
+9020|Best Western Plus Downtown Vancouver
+9021|Best Western Ville Marie Hotel & Suites
+9023|Sandman Hotel Revelstoke
+9312|Crowne Plaza Niagara Falls-Fallsview
+9358|Buffalo Mountain Lodge
+9484|Calgary Marriott
+9517|Cambridge Suites
+9748|Caribou Lodge
+10317|The Fairmont Chateau Lake Louise
+10319|Fairmont Château Laurier
+10324|Chateau Victoria
+10325|The Fairmont Chateau Whistler
+10552|Coast Bastion Hotel
+10553|Coast Discovery Inn
+10554|Coast Inn of the North
+10555|Coast Plaza Hotel & Suites
+10556|Prince Rupert
+10557|Radisson Edmonton South
+10558|Aava Whistler
+10621|Comfort Inn
+10632|Comfort Inn Huntsville
+10638|Comfort Inn Highway 401
+10644|Comfort Inn North Bay
+10655|Econo Lodge & Suites
+10930|Courtyard Toronto
+10988|Rosewood Georgia
+11002|Grand Plaza Montreal Centre-Ville - geschlossen
+11009|Intercontinental Toronto Centre
+11170|Holiday Inn Toronto Downtown Centre
+11183|Le Pomerol
+11191|Days Inn & Conference Center - Owen Sound
+11200|Days Inn Vancouver Downtown
+11278|Deer Lodge
+11279|Deerhurst Resort
+11342|Delta Beausejour Hotel
+11343|Delta Bessborough
+11344|Delta Bow Valley
+11345|Delta Brunswick
+11347|Delta Centre-Ville - geschlossen
+11348|Chelsea Hotel Toronto
+11349|Delta Edmonton Centre Suite Hotel
+11350|Delta Lodge at Kananaskis
+11351|Delta Montréal
+11352|The National Hotel & Suites
+11354|Pinestone Resort
+11356|Delta Prince Edward
+11357|Delta Regina
+11358|Delta St. John's Hotel & Conference Centre
+11359|Holiday Inn Sydney - Waterfront
+11360|Delta Vancouver Suites
+11362|Delta Whistler Village Suites
+11363|Delta Winnipeg Hotel
+11364|Delta Barrington
+11365|Delta Halifax
+11408|Le Chantecler
+11409|Gouverneur Hotel Place Dupuis
+11410|Des Gouverneurs Trois-Revierers
+12073|Elmhirst's Resort
+12109|Emerald Lake Lodge
+12125|Empire Landmark
+12427|Fantasyland
+12912|Holiday Inn Canmore
+12926|Four Seasons
+12927|Four Seasons
+13184|Georgian Court
+13793|Harbour Towers
+13815|Harrison Hot Springs Resort & Spa
+13905|Helmcken Falls Lodge
+13962|High Country Inn
+13969|Hills Health & Guest Ranch
+14181|Holiday Inn Hotel & Suites Vancouver Downtown
+14314|Tryp by Wyndham Quebec Hotel Pur
+14317|Atlantica Halifax
+14386|Horseshoe Resort
+14424|Ramada Inn & Suites
+14443|Howard Johnson Hotel Vancouver
+14796|Christie's Mill Inn & Spa
+15044|Best Western Jasper Inn & Suites
+15045|The Fairmont Jasper Park Lodge
+15310|Keltic Lodge
+15368|Killarney Mountain Lodge
+15881|Lake Louise Inn
+15882|Lake Okanagan
+16042|Le Cantlie Suites
+16046|Le Centre Sheraton
+16048|Fairmont Le Château Frontenac
+16049|Fairmont Le Château Montebello
+16393|Liscombe Lodge
+16546|Loyalist Lakeview Resort Summerside
+16771|Manoir Victoria
+17008|Maritime Inn Port Hawksbury
+17009|Maritime Plaza - geschlossen
+17054|Marriott Chateau Champlain
+17417|DoubleTree by Hilton Hotel Toronto Downtown
+17950|Sheraton Hotel Newfoundland
+18100|Novotel Montreal Centre
+18104|Novotel Ottawa
+18120|Novotel Toronto Centre
+18584|Pan Pacific Vancouver
+18586|Pan Pacific Whistler Mountainside
+18941|Penticton Lakeside Resort
+19043|Pictou Lodge
+19072|Pillar & Post
+19377|Pow-Wow-Point Lodge
+19414|Prestige Lakeside Resort Nelson
+19573|Quality Hotel Downtown Vancouver
+19592|Quality Inn Downtown
+19597|Travelodge Hope
+19638|Fairmont The Queen Elizabeth
+19649|Queen's Landing
+19825|Radisson Winnipeg Downtown
+19858|Ramada Downtown Prince George
+19860|Ramada Downtown
+19862|Ramada Plaza Toronto Downtown
+19865|Ramada Inn
+19877|Travelodge Belleville
+19883|Ramada Inn & Suites Downtown Vancouver
+19887|Ramada Hotel & Conference Centre Kelowna
+20051|Doubletree by Hilton Hotel & Conference Centre Regina
+20134|Four Points Niagara Falls Fallsview
+20138|New Residence Hall
+20154|Renaissance Toronto Downtown
+20155|Pinnacle Hotel Vancouver Harbourfront
+20486|Riverview
+20542|Rodd Moncton Hotel
+20737|The Fairmont Royal York
+20838|Sacacomie
+20869|Hilton Saint John
+21031|Sandman Calgary City Centre
+21032|Sandman West Edmonton
+21033|Sandman Vancouver City Centre
+21034|Sandman Inn Smithers
+21035|Sandman Inn & Suites Vernon
+21153|Days Inn Saskatoon
+21512|Sheraton Centre Toronto Hotel
+21520|Marriott Gateway on the Falls
+21524|Crowne Plaza Kitchener-Waterloo
+21530|Sheraton Grande Edmonton
+21533|Four Points by Sheraton Halifax
+21567|Sheraton Ottawa
+21587|Sheraton Suites Calgary Eau Claire
+21593|Sheraton Vancouver Wall Centre
+21599|Sherwood Inn
+22055|Best Western Plus Prestige Inn Radium Hot Springs
+22555|Travelodge Victoria
+22719|The Century Plaza
+22751|The Fairmont Empress
+22766|The Fairmont Vancouver Airport
+22776|The Grand Toronto
+22944|The Raven
+22968|Ritz-Carlton Montreal
+23038|The Fairmont Waterfront
+23288|Banff Aspen Lodge
+23467|Tyax Wilderness Resort & Spa
+23581|The Fairmont Vancouver
+24392|The Westin Bayshore
+24399|Westin Harbour Castle
+24405|The Westin Nova Scotian
+24415|Westmark Inn Dawson City
+24418|Westmark Whitehorse
+24421|Canmore Rocky Mountain Inn
+24427|Whistlers Inn
+26505|Listel Whistler
+26507|Charlton's Cedar Court
+27250|Travelodge Calgary International Airport
+27251|The Fairmont Palliser
+27258|Quality Inn Dorval Airport
+27259|Travelodge Montreal Centre
+27260|Radisson Parliament Hill
+27261|Hilton Toronto Airport
+27262|Travelodge Vancouver Airport
+27263|Hyatt Regency Vancouver
+27284|Inn at Big White
+27285|Vance Creek & Chilcoot Lodge
+27286|Nancy Greene's Cahilty Lodge
+27287|The Fairmont Banff Springs
+27288|The Alpenglow At Whistler
+27289|Best Western Plus Fernie Mountain Lodge
+27449|Banff Ptarmigan Inn
+27450|Hidden Ridge Resort
+27451|Mount Royal
+27452|Banff International
+27454|Best Western Plus Pocaterra Inn
+27455|Crystal Lodge & Suites
+27456|Summit Lodge & Spa
+27457|Lost Lake Lodge
+27458|Pinnacle Hotel Whistler
+27459|Tantalus Resort Lodge
+27460|Delta Sun Peaks Resort
+27461|Five Calgary Downtown Suites
+27462|Days Inn Calgary Airport
+27463|Clarion Hotel & Conference Centre
+27464|Holiday Inn Montreal Midtown
+27465|Days Inn & Conference Centre - Montreal Airport
+27468|Holiday Inn Express Quebec City (Sainte-Foy)
+27469|Bond Place
+27470|Holiday Inn Express Toronto Downtown
+27471|Novotel Toronto Mississauga Centre
+27472|Comfort Inn Downtown
+27473|Pacific Palisades
+27474|Rosedale on Robson Suite
+27476|St. Regis
+27477|Holiday Inn Express Vancouver Airport
+27478|Sandman Hotel Vancouver Airport
+27480|Hotel Zed
+27481|Inn at Laurel Point
+27761|Delta Calgary Airport Hotel
+27762|Delta Edmonton South Hotel & Conference Centre
+27763|The Westin Bristol Place Toronto Airport
+27764|Delta Toronto Airport West
+27765|Courtyard Toronto Airport
+27767|Pacific Gateway Vancouver Airport
+27769|Super 8 Vancouver Airport Inn
+27814|The Westin Resort & Spa
+27815|Whistler Peak Lodge
+27816|Lizard Creek Lodge
+27817|White Crystal Inn
+27818|Panorama Mountain Village Resort
+27819|Fairmont Tremblant
+27820|Les Suites Tremblant - Westin Resort & Spa
+27822|Residence Inn Mont Tremblant Manoir Labelle
+29462|Best Western Gold Rush Inn
+29463|Ramada Whitehorse
+29464|Holiday Inn Calgary Airport
+29466|Quality Inn Halifax Airport
+29467|Travelodge Montreal Airport
+29469|Travelodge Hotel Toronto Airport
+29472|Accent Inn Vancouver Airport
+29476|The Westin Calgary
+29477|Coast Edmonton Plaza
+29478|The Fairmont Hotel Macdonald
+29480|Ramada Harrison Hot Springs
+29481|Coast Capri
+29482|Sandman Hotel & Suites Kelowna
+29484|Manteo Resort Waterfront Hotel & Villas
+29486|Days Inn Kingston
+29487|Holiday Inn Select Montreal Centre Ville Downtown
+29488|Auberge de La Fontaine
+29489|Auberge du Vieux Port
+29491|Old Stone Inn
+29492|Capital Hill Hotel & Suites
+29493|Lord Elgin
+29494|Delta Ottawa City Centre
+29495|Sandman Penticton
+29497|Sandman Inn & Suites Prince George
+29498|Best Western Plus City Centre/Centre-Ville
+29499|Chateau Laurier
+29500|Delta Quebec
+29501|Moby Dick Inn
+29502|Crest
+29503|Comfort Inn Saint John
+29507|Inns of Banff
+29508|April Point Resort & Spa
+29509|Painter's Lodge
+29510|Maligne Lodge
+29512|Marina West Motel
+29513|Wickaninnish Inn
+29514|Aspen Village Inn
+29518|Wells Gray Guest Ranch
+29520|Clearwater Lodge
+29747|Coast Vancouver Airport
+29815|Banff Inn
+29817|Pines Golf Resort & Spa
+29818|White Point Beach
+29821|Hudson Bay Lodge
+29822|Tadoussac
+29824|Lord Stanley Suites on the Park
+29826|Sandman Victoria
+29827|Delta Victoria Ocean Pointe Resort & Spa
+29828|West Point Lighthouse
+30895|Inn on The Lake/Marsh Lake
+30901|Banff Voyager Inn
+30902|Quality Resort Chateau Canmore
+30903|The Crossing Resort
+30905|Three Valley Lake Chateau
+30909|Ocean View
+30911|Holiday Inn Hinton
+30912|Sawridge Inn & Conference Centre
+30913|Tonquin Inn
+30914|Mount Robson Inn
+30929|Whitman Inn
+30930|Manning Park Resort
+30932|Rodd Royalty Inn
+30933|Tsa-Kwa-Luten Lodge
+30935|Mike Wiegele Resort
+30939|Sandman Inn & Suites Kamloops
+30940|South Thompson Inn & Conference Centre
+30952|La Reata Ranch
+30954|Quality Hotel Calgary Airport & Conference Centre
+30955|Best Western Plus Port O'Call
+30956|Mountain Gap Inn
+30957|Travelodge Edmonton West
+30961|Lord Nelson
+30962|Best Western Plus Kelowna Hotel & Suites
+30967|Best Western Plus Highland Inn & Conference Centre
+30968|Le Nouvel Hotel & Spa
+30971|Riôtel Percé
+30973|Quarterdeck Inn & Marina Resort
+30975|Pacific Inn
+30976|Auberge Lac-a-l'Eau-Claire
+30978|La Sapiniere
+30980|Chateau Bonne Entente
+30981|Manoir des Erables
+30983|Auberge Des Peupliers
+30986|Manoir Lafayette
+30987|Ramada Limited Quesnel
+30993|Prestige Hotel Vernon
+30995|Hilton Toronto
+30996|Strathcona
+30998|Hilton Vancouver Airport
+31387|The Fairmont Winnipeg
+31388|Edmonton House
+31860|Barclay
+32126|Brewster's Mountain Lodge
+32127|Prestige Inn Golden
+32129|Hilton Montreal Bonaventure
+32130|Hilton Quebec City
+32678|Clarion Hotel & Suites Downtown
+32679|Lord Berri
+33107|Days Inn & Suites Yellowknife
+33108|Inn on the Lake, Ascend Collection
+33109|Hilton Suites Winnipeg Airport
+33110|Sandmann Saskatoon
+33112|Sir Sam's Inn
+33113|Benmiller Inn & Spa
+33115|Rocky Crest Golf Resort
+33117|Auberge Le Saint Pierre
+33118|Clarendon
+33119|Auberge de la Pointe
+33120|Manoir Saint Sauveur
+33122|Harbourview Inn
+33123|The Inverary Resort
+33124|Anchor Inn
+33125|Crowne Plaza Moncton Downtown
+33126|The Hotel on Pownal
+33127|Prestige Rocky Mountain Resort
+34362|Seawind Landing Country Inn
+34364|St. Christopher's
+34366|The Crimson Jasper
+34367|Doubletree Resort Lodge & Spa
+34368|Long Beach Lodge
+34371|Best Western Plus Travel Toronto Airport
+34568|Best Western Plus Austrian Chalet
+34569|Sandman Inn Cache Creek
+34572|Best Western Plus Sunrise Inn
+34573|Comfort Inn Rimouski
+34574|Sandman Hotel & Suites Williams Lake
+34575|Gordon's Lodge
+35396|Tigh Na Mara Resort
+35397|Talking Rock & Quaaout Resort Lodge
+35398|Algonquin Wilderness Eco - Lodge
+35400|Echo Valley Ranch Resort
+35401|Accent Inn Kelowna
+35402|Duffin Cove Resort
+35403|Hampton Inn & Suites Downtown
+35404|Holiday Inn Calgary Macleod Trail South
+35405|Hidden Valley Resort, Ascend Collection
+35406|Delta Kingston Waterfront Hotel
+35407|Comfort Inn Midland
+35408|The Oakes Overlooking the Falls
+35410|Radisson Hotel Kitchener Waterloo
+35411|Comfort Suites & Conference Centre
+35412|Cartier Place Suite
+35413|Comfort Inn Owen Sound
+35414|Hilton Niagara Falls/ Fallsview Hotel
+35415|Travelodge Lakeshore North Bay
+35416|Travelodge Ottawa East
+35417|Holiday Inn Toronto International Airport
+35418|Quality Hotel & Suites Airport East
+35419|Quality Inn & Conference Center Downtown
+35420|Quality Inn & Suites Airport
+35422|Comfort Hotel Downtown
+35423|L'Appartement Hôtel
+35424|Auberge l'Abitation de Champlain
+35425|Gouverneur
+35426|Les Suites Tremblant
+35427|Comfort Inn Trois-Riviéres
+35428|Fairfield Inn & Suites Marriott
+35429|Hampton Inn by Hilton Halifax Downtown
+35430|Comfort Inn
+35431|Comfort Inn
+35432|Holiday Inn Express Saint John Harbour Side
+35433|Comfort Inn Sydney
+35434|Howard Johnson Hinton
+35435|Marmot Lodge
+35447|Delta Grand Okanagan Resort & Conference Centre
+36102|Best Western Plus Kitchener-Waterloo
+36107|Chateau Jasper
+36111|108 Resort & Conference Centre
+36516|Thompson Hotel & Conference Center
+36517|Water's Edge Resort at Pacific Rim
+37854|Comfort Toronto Airport North
+37855|Days Inn Downtown
+37859|Clarion Hotel & Suites Selby
+37860|Best Western Sea to Sky
+37861|Glacier Lodge
+38148|Park Hyatt Toronto
+38639|Hilton Garden Inn Calgary Airport
+38641|Horstman House
+38643|De Glace
+39213|Stoney Creek Northstar
+39559|Ramada Inn & Suites
+39560|Four Points by Sheraton Kingston
+39876|Michael's Inn Fallsview Hotel
+39877|Taboo Resort
+40161|King Pacific Lodge
+40162|Four Seasons Resort Whisler
+40189|Sofitel Montreal Golden Mile
+40190|Opus
+40455|Best Western Plus Stoneridge Inn & Conference Centre
+40456|Place d'Armes Hotel & Suites
+40458|Little Shemouge Country Inn
+40460|Rossmount Inn
+40462|Glenghorm Beach Resort
+40464|Sunwapta Falls Rocky Mountain Lodge
+40706|International Suites Calgary
+40707|The Hillcrest a Coast Resort
+41217|Blomidon Inn
+41220|The Halliburton
+41221|Chateau Versailles
+41222|Extended Stay Canada - Ottawa
+41243|Best Western Plus Abercorn Inn
+42309|Sun Peaks Lodge
+47967|Coast Blackcomb Suites at Whistler
+48188|W Hotels Montreal
+48420|Whistler Village Inn & Suites
+48443|Whistler Cascade Lodge
+51730|Holiday Inn Montreal Airport
+51731|Le Germain
+51732|Frances Lake Wilderness Lodge
+51733|Lobstick Lodge
+51735|Blackcomb Lodge
+52629|Spruce Grove Inn
+52630|Coast Sundance Lodge
+53362|Riverside Resort
+53363|Bluenose Lodge
+53364|Coast Penticton
+53365|Magnolia
+53366|Best Western Plus Montreal Downtown Europa
+53367|Le Nelligan
+53368|ARC The.Hotel
+53370|Edgewater
+53377|Le Grand Lodge Mont-Tremblant
+53767|The Hollis Halifax - a DoubleTree Suites by Hilton
+53768|Holiday Inn Express-Halifax/Bedford
+53769|Comfort Inn
+54751|Carlingview Toronto Airport
+54753|Best Western Plus Sands
+54754|Marriott Pinnacle Downtown Vancouver
+55082|Douglas Fir Resort & Chalets
+55083|High Country Inn
+55084|Rimrock Resort
+55085|Days Inn Barrie
+55086|Howard Johnson Express Inn Barrie Ontario
+55087|Holiday Inn Express & Suites Barrie
+55088|Quality Inn
+55089|Holiday Inn Barrie Hotel & Conference Centre
+55090|Travelodge Barrie On Bayfield
+55091|Super 8 Calgary Shawnessy Area
+55092|Executive Royal Hotel Calgary
+55093|Holiday Inn Express Hotel & Suites Calgary South-Macleod Trail S
+55096|Four Points by Sheraton Calgary West
+55098|Ramada Limited Calgary Northwest
+55099|Howard Johnson Express Inn Calgary
+55100|Lakeview Signature Inn Calgary Airport
+55102|Aloft Calgary University
+55103|Best Western Calgary Centre Inn
+55104|Sandman Hotel & Suites Calgary Airport
+55105|Sheraton Cavalier Calgary
+55106|The Glenmore Inn & Convention Centre
+55107|Hyatt Regency Calgary
+55109|Best Western Plus Suites Downtown
+55110|Comfort Inn & Suites South
+55111|Econo Lodge Charlottetown
+55113|Howard Johnson Hotel Charlottetown
+55115|Radisson Hotel & Convention Center Edmonton
+55116|Wingate by Wyndham Edmonton West
+55117|Holiday Inn Express & Suites Edmonton - At The Mall
+55118|Executive Royal Inn West Edmonton
+55119|The Sutton Place
+55120|Ramada Edmonton Hotel & Conference Centre
+55121|Comfort Inn West
+55122|Days Inn and Suites Edmonton
+55124|Crowne Plaza Chateau Lacombe
+55125|The Westin Edmonton
+55126|Ramada Inn & Water Park Edmonton South
+55127|Days Inn Edmonton Downtown
+55130|Doubletree by Hilton West Edmonton
+55132|Holiday Inn Express Edmonton Downtown
+55133|Best Western Cedar Park Inn
+55134|Four Points by Sheraton Conference Centre Gatineau
+55136|Five 540 Forty
+55137|Comfort Inn & Suites
+55138|Holiday Inn Express Kamloops
+55139|Coast Kamloops Hotel & Conference Centre
+55140|Howard Johnson Panorama Inn Kamloops
+55141|Accent Inn Kamloops
+55142|Kamloops Travelodge
+55143|Super 8 Kelowna
+55144|Abbott Villa on the Lake
+55145|Super 8 West Kelowna
+55146|Holiday Inn Express Kelowna Conference Centre
+55148|Royal Anne
+55149|Kingston East Motel
+55151|Holiday Inn Kingston Waterfront
+55152|Knights Inn Kingston
+55154|Econo Lodge Inn & Suites
+55155|Ramada Lethbridge
+55156|Holiday Inn Express Hotel & Suites Lethbridge
+55157|Lethbridge Lodge Hotel & Conference Centre
+55158|Days Inn - Lethbridge
+55159|Canadas Best Value Inn & Suites - Pepper Tree Inn
+55160|Coast Lethbridge
+55162|Howard Johnson Lethbridge
+55163|Sandman Lethbridge
+55164|Holiday Inn Lethbridge
+55165|Ramada London
+55166|Knights Inn London
+55168|Holiday Inn & Suites London
+55169|Courtyard London
+55170|Quality Suites London
+55171|Days Inn London
+55172|Four Points by Sheraton London
+55173|Delta London Armouries Hotel
+55174|London Executive Suites Hotel
+55175|TownePlace Suites by Marriott London
+55176|Les Suites Tremblant - Tour des Voyageurs
+55177|Les Suites Tremblant - Lodge de la Montagne
+55179|Omni Mont Royal
+55180|Ruby Foos
+55181|St. Paul
+55182|Hotel du Fort - geschlossen
+55183|Residence Inn Montreal Westmount
+55184|Hotel des Arts
+55187|Intercontinental Montreal
+55188|Quality Midtown
+55189|Hyatt Regency Montreal
+55190|La Tour Centre Ville
+55193|Residence Inn Montreal Downtown
+55194|Champ-de-Mars
+55196|L'Hotel
+55197|Le Meridien Versailles
+55201|La Chouette
+55202|Les Suites Tremblant - Sommet des Neiges
+55203|The Tower Hotel
+55204|BestDays Niagara Falls
+55205|The Glengate Hotel & Suites
+55206|Red Carpet Inn & Suites
+55207|Imperial Hotel & Suites
+55208|Hampton Inn North of the Falls
+55209|Howard Johnson Hotel by the Falls
+55211|Knights Inn by The Falls
+55213|Radisson Fallsview
+55214|Courtyard Niagara Falls
+55215|Baymont Inn & Suites Niagara Falls
+55217|Victoria Motor Inn at the Falls & Casino
+55219|Americana Resort Spa & Waterpark
+55220|Days Inn Clifton Hill Casino
+55221|Embassy Suites Niagara Falls Fallsview
+55222|Marriott Fallsview Niagara Falls
+55223|Canadas Best Value Inn
+55224|Villager Lodge Niagara Falls
+55225|Universal Inn & Suites
+55226|Ramada Plaza Niagara Falls
+55229|Thriftlodge Niagara Falls at the Falls
+55232|Rodeway Inn Fallsview
+55233|Holiday Inn Hotel & Suites Downtown
+55234|Best Western Plus Victoria Park Suites
+55235|Embassy Hotel & Suites
+55236|Brookstreet Hotel
+55237|Comfort Inn East
+55238|Quality Downtown Ottawa
+55240|Econo Lodge Downtown East
+55241|The Westin Ottawa
+55242|Days Inn Ottawa Airport
+55243|Chimo
+55244|Marriott Ottawa
+55246|Embassy West Hotel & Cenference Center
+55247|Loews Le Concorde
+55248|Quebec City Marriott Downtown
+55249|iHotel 67 Street
+55250|Ramada Red Deer Hotel & Suites
+55251|Travelodge Red Deer
+55252|Red Deer Lodge
+55253|Super 8 Red Deer City Centre
+55254|Holiday Inn Express Red Deer
+55255|Holiday Inn Express Suites Regina
+55256|Super 8 Regina
+55258|Travelodge Regina
+55260|Radisson Plaza Hotel Saskatchewan
+55261|Days Inn Regina
+55263|Ramada Hotel & Convention Center
+55264|Sandman Hotel & Suites Regina
+55265|Comfort Inn Vancouver Airport
+55267|Days Inn Vancouver Airport
+55271|Four Points by Sheraton Vancouver Airport
+55272|Ramada Limited Vancouver Airport
+55273|Executive Inn Express Richmond
+55275|Vancouver Airport Marriott
+55276|Holiday Inn Vancouver Airport - Richmond
+55279|Executive Airport Plaza Hotel & Conference Centre Richmond
+55282|Quality Airport South
+55283|Radisson Vancouver Airport
+55284|Residence Inn London Downtown
+55868|Ten-ee-ah Lodge
+55869|Westcoast Wilderness Lodge
+55905|Dalton Trail Lodge
+55912|Pyramid Lake Resort
+55913|Executive Hotel Le Soleil
+55914|Oak Bay Beach
+55915|Glen Lyon Inn
+57117|Sandman Suites Vancouver - Davie Street
+57118|Auberge Vancouver
+57119|Best Western Plus Chateau Granville Hotel & Suites
+57123|Glacier House Resort
+57124|Moraine Lake Lodge
+57126|Rafter Six Ranch Resort
+57172|Doubletree by Hilton Kamloops
+57173|Best Western Plus The Westerly Hotel & Convention Centre
+57174|The Hospitality Inn
+57175|Coast Victoria Harbourside Hotel & Marina
+57176|Holiday Inn Hotel & Suites Winnipeg Downtown
+57178|Best Western North Bay Hotel & Conference Centre
+57179|Comfort Inn
+57180|Radisson Admiral Toronto Harbourfront
+57181|The Omni King Edward
+57182|Espresso Montreal Centre-Ville / Downtown
+57185|Delta Trois Rivieres Hotel & Conference Centre
+57194|Delta Sault Ste. Marie Waterfront Hotel
+57195|Sheraton on the Falls
+57197|Le Montagnais
+57198|Rimouski
+57771|Muskoka Grandview Resort
+57772|Le Saint-Sulpice Hotel Montréal
+57773|Auberge Saint Antoine
+57774|Rodd Crowbush Golf & Beach Resort
+57775|Metropolitan Vancouver
+57850|Holiday Inn Express Vancouver Metrotown (Burnaby)
+58549|Tropicana Motor Inn
+62335|The Old Schoolhouse Bed & Breakfast
+63582|Fairfield Inn & Suites by Marriott
+63845|Fairfield Inn & Suites Belleville
+63849|WorldMark Canmore-Banff
+63850|Courtyard Edmonton Downtown
+63851|Residence Inn Halifax Downtown
+63852|Courtyard Hamilton
+63853|Trickle Creek Lodge
+63854|Courtyard Toronto Markham
+63855|Residence Inn Toronto Markham
+63856|Courtyard Toronto Mississauga/Meadowvale
+63858|Residence Inn Toronto Mississauga/Meadowvale
+63859|Courtyard Montreal Downtown
+63863|Fairfield Inn Toronto Oakville
+63864|Residence Inn Ottawa Downtown
+63865|Courtyard Toronto Vaughan
+63866|Marriott Toronto Airport
+63867|Marriott Toronto Bloor Yorkville
+63868|Toronto Marriott Downtown Eaton Centre Hotel
+63869|Sheraton Toronto Airport
+63870|Residence Inn Toronto Airport
+63871|Victoria Marriott Inner Harbour
+63872|Residence Inn Whitby
+64098|Hilton Whistler Resort & Spa
+64100|Copper Horse Lodge
+64685|Holiday Inn Pointe-Claire Montreal Airport
+64686|The Post Hotel & Spa
+64752|Tagish Wilderness Lodge
+64973|Pan Pacific Whistler Village Center
+65368|Hampton Inn & Suites Calgary Airport
+65369|Hampton Inn & Suites Calgary - University Northwest
+65606|Hilton Lac Leamy
+65651|Hampton Inn Kamloops
+65706|Hilton London Ontario
+65722|Hilton Garden Inn Toronto/Markham
+65723|Hilton Suites Toronto/Markham Conference Centre & Spa
+65768|Hampton Inn Toronto-Mississauga
+65769|Hilton Garden Inn Toronto/Mississauga
+65831|Clifton Victoria Inn at the Falls
+65851|Hilton Garden Inn Toronto/Oakville
+65878|Hampton Inn Ottawa
+65969|Hampton Inn Vancouver Airport/Richmond
+66131|International Plaza Hotel
+66194|Hilton Windsor
+66195|Humphry Inn & Suites
+66399|Hampton Inn & Suites Montreal Dorval Quebec, Canada
+66400|Hilton Montreal Laval
+66401|Hilton Vancouver Metrotown
+66460|Hampton Inn & Suites Langley
+67561|Radisson Toronto East
+67576|Country Inn & Suites Calgary - Airport
+67598|Travelodge Suites Saint John
+67599|Country Inn & Suites By Carlson
+67600|Radisson Saskatoon
+67601|Country Inn & Suites Carlson Regina
+67603|Country Inn & Suites Carlson Winnipeg
+67604|Coast Canmore Hotel & Conference Centre
+67608|Travelodge Suites Moncton
+67623|Riverside Inn
+67678|Travelodge Suites Dartmouth
+67721|Delta Markham
+67722|Country Inn By Carlson
+67839|Radisson Hotel & Suites Fort McMurray
+67840|Holiday Inn Laval Montréal
+69335|Drumheller Canalta (Jurassic)
+69336|Hilton Garden Inn Halifax
+69337|Bayview Pines Country Inn
+69341|Highliner Plaza
+69345|Le Voyageur
+69346|Les Suites Labelle
+69350|Ramada Limited 100 Mile House
+69674|Treasure Cove Casino & Hotel
+69675|Pemberton Valley Lodge
+69676|Blue Mountain Inn & Village Suites
+69678|Pantages Suites Hotel & Spa
+69679|Soho Metropolitan
+69683|Fisher's Loft Inn
+69684|Knight Inlet Lodge
+70261|Days Inn Calgary South
+70263|Days Inn Orillia
+70264|Holiday Inn Express Hotel & Suites
+70265|Quality Harborview
+70315|Hometel on Signal Hill
+70319|Mersey River Chalets
+70321|Ramada Niagara Falls
+70323|Colonial Bay Motel
+70325|Hôtel 71
+70329|Overlander Mountain Lodge
+70484|Arowhon Pines
+70931|The Sutton Place - geschlossen
+70933|Skyline Inn Niagara Falls
+71255|Best Western Plus Carlton Plaza
+71256|Rodd Mill River Resort
+71340|Hyatt Regency Toronto
+71342|Hilton Mississauga/Meadowvale
+71343|Universel Montreal
+71344|One King West Hotel & Residence
+71345|Le Saint-Andre
+71379|Loews Vogue
+72013|Murray Premises
+72014|Metterra on Whyte
+72015|Juniper Inn
+72155|Courtyard Ottawa Downtown
+72156|Wedgewood
+72157|Chateau Bellevue
+72158|The Sutton Place
+72159|DoubleTree by Hilton Hotel Gatineau-Ottawa
+72160|Le Saint Martin
+72165|Auberge du Lac Taureau
+72170|Park Avenue
+72171|De Paris
+72172|Comfort Hotel & Suites Downtown
+72174|Holiday Inn Longueuil
+72175|Holiday Inn Vancouver Centre
+72176|Holiday Inn Toronto Airport East
+72665|Super 8 Victoria
+72666|Ramada Victoria
+72667|The Listel Hotel
+72668|SpringHill Suites Old Montreal
+72669|Comfort Inn South
+72947|Holiday Inn Harbourview
+72948|Days Inn Dalhousie
+72949|Rodd Brudenell River
+72993|Clarion Quebec
+72994|Levesque
+72995|Gouverneur Rimouski
+72997|Auberge des Falaises
+72998|La Roche Pleureuse
+73000|Auberge La Camarine
+73003|Auberge des Iles
+73004|Du Jardin
+73005|Mont Gabriel
+73006|Auberge des 21
+73007|Chateau Roberval
+73009|Best Western Pembroke Inn & Conference Centre
+73011|Best Western Swan Castle Inn
+73018|DoubleTree by Hilton Hotel & Suites Victoria
+73020|Sundance Guest Ranch
+73370|Toronto Plaza Hotel
+73372|Le Saint Paul
+73374|Les Suites Tremblant - Place Saint Bernard
+73375|Quality Inn Downtown Inner Harbour
+73376|Les Suites Tremblant - Ermitage du Lac
+73377|Homewood Suites Mont-Tremblant Resort
+73379|Park Inn & Suites by Radisson, Vancouver
+73380|Holiday Inn Express Toronto North York
+73381|Le Jazz St. Denis
+73382|Cosmopolitan Toronto Centre Hotel & Spa
+73707|Holiday Inn Hotel & Suites Ottawa Kanata
+73716|Days Inn Vancouver Metro
+73861|Hampton Inn & Suites Toronto Airport
+73973|Waterton Lakes Lodge
+74734|Sandman Inn Cranbrook
+74735|Sandman Grande Prairie
+74737|Sandman Hotel Castlegar
+74765|Best Western Plus Dorchester Hotel
+74766|Sandman Inn Blue River
+74768|Prestige Inn Kelowna
+74769|Sandman Red Deer
+74770|Sandman Quesnel
+74772|Prestige Harbourfront Resort Salmon Arm
+74773|Sandman Inn McBride
+74774|Sandman Inn Terrace
+74775|Sandman Inn Princeton
+74806|Comfort Inn Airport
+74821|Auberge Royal Versailles
+74912|One Valhalla
+75334|Les Suites Ottawa
+75552|York the Hotel
+76191|Vagabond Lodge
+76532|Delta Banff Royal Canadian Lodge
+76562|Chateau Big White
+76883|Ramada Hotel & Suites Metrotown
+76884|Travelodge Edmonton South
+77063|Travelodge Calgary MacLeod Trail
+77064|Quality Inn Airport West
+77484|Holiday Inn & Suites North Vancouver
+77628|Rosellen Suites at Stanley Park
+77770|Toronto Don Valley Hotel & Suites
+77943|Accent Inn Burnaby
+78155|Sandman Hotel & Suites Calgary West
+78317|Holiday Inn Express Vancouver
+78347|Trophy Mountain Buffalo Ranch
+78349|Sepia
+78350|Extended Stay Canada - St. John's - Downtown
+78352|Halifax Marriott Harbourfront Hotel
+78354|Heritage Harbour House Inn
+78429|Heather Mountain Lodge
+78430|Auberge Montebello
+78431|Crowne Plaza Fredericton Lord Beaverbrook
+78432|The Great George
+78433|Stanhope Beach Resort - geschlossen
+78552|Sheraton Gateway Toronto Airport
+78793|Quality Inn Sydney
+78794|Sandman Signature Vancouver Airport Hotel & Resort
+78795|Residence Inn Vancouver Downtown
+78796|Sonora Resort
+78798|Hilton Garden Inn
+78799|Great Wolf Lodge
+78802|Cap Tremblant Mountain Resort
+78803|Best Western Plus Muskoka Inn
+78983|Jamies Rainforest Inn
+80067|Crowne Plaza Hamilton Hotel & Conf Center
+80390|Blue Water Lodge
+80713|Inn at St. Peters
+80718|Town Inn Suites
+80733|Eagle Nook Wilderness Resort
+81624|Kutuma
+82019|Coast Plaza Hotel & Conference Centre
+82036|Blue Horizon
+82037|Anchor Inn Campbell River
+82041|Holiday Inn Toronto Bloor - Yorkville
+82042|Days Inn Lundy's Lane Resort
+82044|Gîte du Mont-Albert
+82723|Quality Suites Toronto Airport
+82724|Comfort Inn Kenora
+83068|Quality Suites
+83077|Hilton Garden Inn Toronto City Centre
+83088|Ramada Limited Downtown Vancouver
+83239|Holiday Inn Hotel & Suites St. Catharines Conference Ctr
+83243|Travelodge Airlane
+83244|Thriftlodge Winnipeg
+83245|Casa Alpina
+83247|Quality Inn & Suites Trudeau Airport
+83261|Econolodge Macpuffin
+83290|Best Western Plus Toronto Airport
+83306|Paul's Motor Inn
+83373|Ambassador Kingston
+83389|Landis
+83392|Happy Day Inn
+83404|Indigo Vancouver
+83449|Comfort Inn
+83451|Econo Lodge Inn & Suites University
+83466|Red Lion & Suites Victoria
+83480|Quality Suites Laval
+83481|Comfort Inn Laval
+83518|Gouverneur Ile Charron
+83576|Hearthstone Inn Halifax/Dartmouth
+83580|Cap-aux-Pierres
+83591|Best Western Plus Roehampton Hotel & Suites
+83613|Best Western Plus Vernon Lodge & Conference Center
+83615|Royal William
+83625|Carriage House Inn
+83666|Holiday Inn Express Sault Ste Marie
+83679|Travelodge Toronto East
+83691|Embassy Inn Victoria
+83735|Radisson Suite Toronto Airport
+83857|Niagara Inn Down Town
+83870|Royal Scot Suite Hotel
+83948|Quality Inn West Harvest
+83991|The Plaza Hotel
+83992|Robson Suites
+83999|Canadas Best Value Inn
+84000|Brentwood Bay Resort
+84002|Val Des Neiges
+84008|Quality Champlain Waterfront
+84009|Chilliwack Travelodge
+84047|Chateau Regina & Suites
+84254|Comfort Inn Welland
+84274|Albert at Bay Suite
+84275|Ramada Ottawa on the Rideau
+84375|Granville Island
+85029|Delta Calgary South Hotel
+85063|Campingplatz Burnaby Cariboo RV Park
+86528|Champlain
+86854|Comfort Inn South
+86855|Quality Downtown
+86856|Quality Montreal East
+87505|Banff Rocky Mountain
+87672|Novotel Toronto North York
+87735|Four Points by Sheraton Toronto Airport
+87744|Comfort Inn & Suites
+87750|Comfort Inn Amherst
+87752|Comfort Inn Burlington
+87783|Tally-Ho Hotel
+87795|Comfort Inn Truro
+87796|Comfort Inn
+87810|Classique
+87986|Holiday Inn Express Charlottetown
+87987|Atlantica Hotel & Marina Oak Island
+87991|Courtyard Waterloo St. Jacobs
+88088|Coastal Inn Moncton/Dieppe
+88090|Coastal Inn Halifax
+88091|Coastal Inn Digby
+88231|Best Western Plus Uptown
+88299|Niagara Falls Court Side Inn
+88536|Le Roberval
+89085|North Vancouver
+89432|Best Western Plus Toronto North York Hotel & Suites
+89452|Comfort Inn Mississauga
+89501|Days Inn Fallsview Casino
+90695|Aspens on Blackcomb
+91601|Sandman Signature Toronto Airport
+91820|Indigo Toronto Airport
+92930|Mountaineer Lodge
+92931|Residence Inn Toronto Downtown/Entertainment District
+92932|Peachtree Inn
+92933|Indigo Ottawa Downtown City Centre
+92934|The Westin Trillium House
+92936|Courtyard Halifax Downtown
+93108|Hastings House
+93126|Riotel Matane & Pavillon Sur Mer - Riotel Matane Hotel
+93127|Auberge Wild Rose Inn
+93258|Bow View Lodge
+93291|Coast Osoyoos Beach
+93292|Comfort Inn & Suites Mont-Tremblant
+93416|Rundlestone Lodge
+93422|Tekarra Lodge
+93423|Bear Hill Lodge
+93425|The Parrsboro Mansion Inn
+93426|Rum Runner
+93427|Hotel St - Denis
+93428|Motel Fleur de Lys
+93430|Auberge L'Autre Jardin
+93431|Le Grande Allee Hotel & Suites
+93435|Days Inn Penticton
+93436|Village Green Hotel & Casino
+93703|Universel
+93704|Travelodge Downtown Windsor
+93718|Comfort Inn Lundy's Lane
+93719|Comfort Inn Clifton Hill
+93728|Travelodge Hotel & Convention Center
+93731|The Loft
+93732|Best Western Village Park Inn
+93754|Stay Inn
+93755|Days Hotel & Conference Centre - Toronto Don Valley
+93971|Comfort Inn
+93973|Le Mirage
+93976|Quality Hotel
+93986|Pocahontas Cabins
+94100|Best Western St. Catharines Hotel & Conference Centre
+94140|Four Points Mississauga Meadowvale
+94213|The Westin Grand
+94214|Crowne Plaza Montreal Airport
+94234|The Westin Prince Toronto
+94235|Delta Toronto East
+94237|Staybridge Suites Mississauga
+94449|Delta Fredericton
+94450|Delta Sherbrooke Hotel & Conference Centre
+94593|Clarion Hotel & Conference Centre Fort Erie
+94665|Holiday Inn Express & Suites Riverport
+95728|Best Western Plus King George Inn & Suites
+95869|Castle Rock
+96400|Hotel Baie Saint Paul
+96437|Clearwater Lake Lodge
+96444|Middle Beach Lodge
+96445|Poets Cove Resort & Spa
+96447|The Westin Bear Mountain Golf Resort & Spa
+97939|Sheraton Parkway Toronto North
+97940|Four Points by Sheraton Toronto Lakeshore - geschlosssen
+97941|Hampton Inn Toronto-Mississauga West
+98112|Fox Hotel & Suites
+99218|Crowne Plaza Toronto Airport
+99219|Quality Inn & Suites Bayer´s Lake
+99743|Holiday Inn Express Montreal Centre-Ville Downtown
+99744|Executive Inn at Whistler Village
+99745|Best Western Premier Hotel L'Aristocrate
+99763|Ripley Creek Inn
+100294|Embassy Suites Montreal
+100758|Intercontinental Toronto Yorkville
+101581|Niagara Plaza By Fairbridge Hotels
+101582|Greenwood Inn & Suites Calgary
+101583|Tunnel Mountain Resort Banff
+101584|Belleville Park Resort - Huntingdon Hotel & Suites
+101585|Holiday Inn Conference Centre Edmonton South
+101586|Super 8 Downtown Toronto
+101587|Best Western Plus Winnipeg Airport Hotel
+101588|Comfort Inn & Suites North Vancouver
+101589|The Driftwood Inn
+101590|Legends
+102380|Monte Carlo Inn Toronto Markham Suites
+102382|Monte Carlo Inn Toronto Brampton Suites
+102383|Monte Carlo Inn Toronto West
+102432|First Tracks Lodge
+102433|TownePlace Suites Mississauga - Airport Corporate Centre
+102640|Comfort Inn Fallsview
+102703|Holiday Inn Toronto Mississauga
+102705|Monte Carlo Inn - Vaughan Suites
+102706|Monte Carlo Inn Oakville Suites
+102707|Sheraton Vancouver Airport
+103302|Fairfield Inn & Suites Brampton
+103304|Tremblant Sunstar Domaine du Geant
+103305|Windtower Lodge & Suites
+103930|Alexandra
+104381|Pearson Hotel & Conference Centre
+104815|Best Western Plus Executive Inn
+104846|Best Western Plus Fredericton Hotel & Suites
+105479|Bonaparte
+105558|Budget Inn Patricia
+105607|Days Inn Miramichi
+105800|Four Points by Sheraton Edmundston
+105911|Quality Inn & Suites
+105935|Comfort Inn & Suites Thousand Islands Harbour District
+105941|Clarion Resort Pinewood Park
+106011|Holiday Inn Express & Suites London Downtown
+106028|Comfort Inn & Suites
+106029|Comfort Inn & Suites
+106031|Comfort Inn & Suites
+106032|Comfort Inn & Suites
+106033|Comfort Inn & Suites
+106035|Comfort Inn & Suites Airport
+106041|Comfort Inn & Suites University
+106049|Comfort Inn Aeroport
+106051|Comfort Inn Airport
+106052|Comfort Inn Airport
+106055|Comfort Inn Airport East
+106056|Comfort Inn Airport West
+106069|Comfort Inn Baie-Comeau
+106079|Comfort Inn
+106091|Comfort Inn
+106092|Comfort Inn
+106093|Comfort Inn
+106095|Comfort Inn
+106100|Comfort Inn
+106108|Comfort Inn Chatham
+106110|Comfort Inn Chicoutimi
+106111|Comfort Inn Chilliwack
+106118|Comfort Inn Cobourg
+106124|Comfort Inn Corner Brook
+106135|Comfort Inn
+106136|Comfort Inn
+106139|Comfort Inn East
+106140|Comfort Inn East
+106142|Comfort Inn Edmundston
+106150|Comfort Inn
+106154|Comfort Inn
+106165|Comfort Inn Guelph
+106168|Comfort Inn Hamilton
+106178|Comfort Inn
+106183|Comfort Inn
+106190|Comfort Inn
+106193|Comfort Inn
+106194|Comfort Inn Levis
+106196|Comfort Inn London
+106199|Comfort Inn Magnetic Hill
+106207|Comfort Inn Meadowvale
+106215|Comfort Inn Midtown
+106225|Comfort Inn Montreal Aeroport
+106229|Comfort Inn Newmarket
+106237|Comfort Inn Oshawa
+106244|Comfort Inn Parry Sound
+106245|Comfort Inn Pembroke
+106247|Comfort Inn Pickering
+106251|Comfort Inn Port Hope
+106253|Comfort Inn Prince Albert
+106258|Comfort Inn Regina
+106263|Comfort Inn Riviere-Du-Loup
+106266|Comfort Inn Rock Forest
+106268|Comfort Inn Rouyn-Noranda
+106274|Comfort Inn Sarnia
+106275|Comfort Inn Saskatoon
+106276|Comfort Inn Sault Sainte Marie
+106278|Comfort Inn Sept-Iles
+106279|Comfort Inn Simcoe
+106281|Comfort Inn South Shore
+106283|Comfort Inn Saint-Georges
+106285|Comfort Inn St. Thomas
+106288|Comfort Inn Swift Current
+106294|Comfort Inn Thunder Bay
+106295|Comfort Inn Timmins
+106302|Comfort Inn Trenton
+106304|Comfort Inn Val D'or
+106308|Comfort Inn Waterloo
+106309|Comfort Inn West
+106313|Comfort Inn Windsor
+106316|Comfort Inn Yarmouth
+106369|Comfort Suites Downtown
+106371|Quality Suites Sainte-Anne-de-Beaupré
+106589|Days Inn - Berthierville
+106590|Days Inn & Suites Brandon
+106591|Days Inn - Brantford
+106592|Days Inn Brockville
+106596|Days Inn - Edmundston
+106597|Days Inn Guelph
+106598|Days Inn Kenora
+106599|Pelee Motor Inn & Conference Centre
+106600|Days Inn Medicine Hat
+106603|Days Inn - Moose Jaw
+106604|Days Inn - Nanaimo
+106605|Days Inn Niagara Falls Near The Falls
+106606|Days Inn Saint Catharines
+106607|Days Inn
+106608|Howard Johnson North Bay
+106609|Days Inn - Ottawa West
+106610|Days Inn - Portage La Prairie
+106611|Days Inn - Prince George
+106612|Days Inn - Riviere-du-Loup
+106613|Days Inn - Ste-Helene-de-Bagot
+106615|Days Inn - Sudbury
+106616|Compass Point Inn - geschlossen
+106617|Days Inn - Swift Current
+106618|Days Inn Sydney
+106619|Days Inn Toronto East Beaches
+106620|Days Inn Toronto East Lakeview
+106621|Howard Johnson Inn Toronto Downtown West
+106622|Days Inn Toronto West Mississauga
+106624|Days Inn - Trois Rivieres
+106625|Days Inn On The Harbour
+106628|Days Inn & Suites Thunder Bay
+106629|Days Inn & Suites - Winkler
+106630|Days Inn & Conference Centre Timmins
+106636|Days Inn - Estevan
+106638|Days Inn Hinton
+106640|Days Inn Oromocto
+106641|Days Inn Red Deer
+106646|Days Inn Windsor Casino
+106806|Econo Lodge & Suites
+106808|Econo Lodge
+106810|Econo Lodge By The Falls
+106811|Howard Johnson Cornwall
+106813|Econo Lodge Downtown
+106817|Econo Lodge
+106820|Comfort Inn Toronto Airport
+106821|Star Lodge
+106823|Econo Lodge
+106824|Econo Lodge London
+106825|Econo Lodge
+106826|Econo Lodge Miramichi
+106827|Econo Lodge Inn & Suites
+106828|Econo Lodge Motel Village
+106830|Econo Lodge Orillia
+106831|Best Western Peace Arch Inn
+106832|Grace Inn
+106834|Econo Lodge South
+106835|LaLiberte
+106837|Traveller's Inn
+106838|Econo Lodge Thunder Bay
+106841|Canadas Best Value Inn & Suites
+106979|Executive Vintage Park
+107166|Fredericton Inn
+107483|Hampton Inn & Suites
+107484|Hampton Inn & Suites Kitchener
+107485|Hampton Inn & Suites Laval Quebec
+107486|Hampton Inn & Suites Windsor
+107488|Hampton Inn Napanee-Ontario Canada
+107574|Hilton Garden Inn Kitchener/Cambridge
+107576|Hilton Garden Inn Toronto/Burlington
+107577|Hilton Garden Inn West Edmonton
+107598|Holiday Inn Hotel & Suites Grande Prairie-Conference Ctr
+107599|Holiday Inn Hotel & Suites Osoyoos
+107602|Holiday Inn & Suites Toronto Markham
+107622|Holiday Inn Burlington Hotel & Conference Centre
+107626|Holiday Inn Cambridg Hespeler Galt
+107646|Holiday Inn Express & Suites Airdrie - Calgary North
+107647|Holiday Inn Express & Suites Belleville
+107648|Holiday Inn Express & Suites Brampton
+107650|Holiday Inn Express Collingwood-Blue Mountain
+107651|Holiday Inn Express & Suites Guelph
+107652|Holiday Inn Express & Suites Langley
+107655|Holiday Inn Express & Suites Milton
+107657|Comfort Inn & Suites Salmon Arm
+107659|Holiday Inn Express Hotel & Suites Sherwood Park-Edmonton Area
+107660|Holiday Inn Express & Suites Surrey
+107661|Holiday Inn Express & Suites Vaughan Southwest
+107662|Holiday Inn Express & Suites Vernon
+107663|Abbotsford Hotel
+107666|Comfort Inn
+107668|Holiday Inn Express Dryden
+107669|Holiday Inn Express Edmonton-International Airport
+107680|Holiday Inn Express Saint-Jean-sur-Richelieu
+107684|Holiday Inn Express Toronto-Airport Area/Dixie Road
+107685|Holiday Inn Express Toronto-East Scarborough
+107689|Holiday Inn Express Whitby Oshawa
+107697|Crowne Plaza Gatineau-Ottawa
+107700|Holiday Inn Guelph Hotel & Conference Centre
+107721|Holiday Inn Kitchener Waterloo
+107751|Holiday Inn Niagara Falls - By The Falls
+107756|Holiday Inn Oakville
+107758|Quality Hotel & Conference Centre Oshawa
+107765|Holiday Inn Peterborough Waterfront
+107780|Delta Saguenay Hotel & Conference Centre
+107787|Holiday Inn Sarnia Hotel & Conference Centre
+107792|Holiday Inn Hotel & Suites Mississauga
+107793|Holiday Inn Hotel & Suites Oakville @ Bronte
+107794|Hotel Bramalea - geschlossen
+107795|Holiday Inn Windsor Ambassador Bridge
+107804|Holiday Inn St. John's
+107805|Holiday Inn Stephenville
+107808|Holiday Inn Sudbury
+107820|Holiday Inn Toronto West
+107821|Holiday Inn Toronto Yorkdale
+107822|Ramada Trenton
+107831|Holiday Inn West Kelowna
+107832|Holiday Inn Winnipeg Airport West
+107833|Four Points by Sheraton Winnipeg South
+107834|Holiday Inn Winnipeg South
+107933|Howard Johnson Inn Woodstock NB
+108185|Kingsbrae Arms
+108305|La Tour Belvédère Hotel Apartments
+108323|Lakeview Inn & Suites Fredericton
+108324|Lakeview Inn & Suites Miramichi/Newcastle
+108447|Le Square Phillips Hôtel & Suites
+108448|Le St. James
+108538|Londsdale Quay
+108649|Marriott Edmonton at River Cree Resort
+109356|Novotel Montreal Airport
+109575|Park Inn & Suites on the River
+109764|Paradise Inn Suites Grande Prairie
+109765|Quality Hotel & Conference Centre
+109766|Quality Hotel & Conference Centre Royal Brock
+109767|Quality Suites
+109771|Quality Inn & Suites
+109817|Quality Inn & Suites
+109818|Quality Inn & Suites 1000 Islands
+109825|Quality Inn Bay Front
+109835|Quality Inn & Suites Edmonton International Airport
+109836|Quality Inn
+109838|Quality Inn Garden Of The Gulf
+109842|Quality Inn Kamloops
+109844|Quality Inn & Suites
+109846|Quality Inn Northern Grand
+109848|Quality Inn Peterborough
+109854|Econo Lodge Surrey
+109860|Quality Inn Whitecourt
+109861|Quality Inn Winnipeg
+109910|Quality Suites Downtown
+109911|Quality Suites
+109914|Quality Suites Montreal Aeroport
+109916|Quality Suites Whitby
+109929|Hotel Quartier Latin
+110013|Ramada Fredericton
+110311|Rodd Miramichi River - A Rodd Signature Hotel
+110312|Niagara Lodge & Suites
+110452|Adara
+110488|Stonebridge Lodge at Big White
+110862|Sleep Inn Bracebridge
+110871|Canadas Best Value Inn Langley
+110962|Southway Inn of Ottawa
+111004|Staybridge Suites Calgary Airport
+111008|Staybridge Suites Toronto-Markham
+111082|Super 8 Campbellton
+111188|The Greenbrier
+111282|Days Inn & Suites Thompson
+111478|Victoria
+111639|Welcominns
+111855|Comfort Inn Sudbury South End
+121525|Holiday Inn Hotel & Suites Regina
+121527|Sleep Inn Sault Ste Marie
+121539|Robsonstrasse Hotel and Suites
+121548|Comfort Inn Sudbury East End
+122431|Temple Gardens Mineral Spa Resort
+122432|Walnut Beach Resort
+122433|Queen Victoria Hotel & Suites
+122434|Travelodge Nanaimo
+122439|Hilton Garden Inn Toronto Vaughan
+124159|Best Western Plus Brossard
+124160|Blackfoot Inn Calgary
+124164|Delta Guelph Hotel & Conference Centre
+124165|Comfort Inn Markham Toronto North East
+124166|Monte Carlo Inn Airport Suites
+124168|Comfort Hotel & Suites Peterborough
+124169|Quality Regina
+124171|Comfort Inn
+124173|Comfort Inn Toronto North
+124175|Quality Hotel & Suites Woodstock
+128863|Comfort Inn Airport North Bay
+129261|Arts
+129264|Ramada Limited
+129265|Coast Surrey Guildford
+129267|Cathedral Mountain Lodge
+133790|Best Western Plus Cambridge Hotel
+133791|Mystic Springs Chalets
+133792|Centre de Congrès & Hôtel La Saguenéenne
+133794|Dartmouth Oceanview Hotel
+133796|Hilton Garden Inn Montreal Airport
+133797|Sheraton Montreal Airport
+133798|Executive Royal Inn Airport
+133799|Cambridge Suites
+133803|Coast Hotel Medicine Hat
+133804|Sandman Montreal-Longueuil
+133810|Super 8 Ste Foy
+133811|Auberge du Chateau Bromont
+133812|La Quinta Inn Vancouver Airport
+133813|Radisson Sudbury
+133814|Sheraton Guildford
+133816|Howard Johnson Inn & Suites
+133818|Belleville Park Resort - Gatsby Mansion
+133819|Grand Pacific
+134255|Delta Burnaby Hotel & Conference Centre
+135028|Innisfree Bed & Breakfast
+135032|L'Hermitage
+135033|Abigail's
+135034|Black Rock Oceanfront Resort
+135035|Desolation Resort
+135040|The Cove Lakeside Resort
+135042|La Pourvoirie du Cap au Leste
+135114|Bayshore Inn
+135120|Grenfell Heritage Hotel & Suites
+135121|Neddies Harbour
+135122|Auberge Les Jardins Inn / Motel Le Brayon & Chalets
+135123|Kindred Spirits Country Inn
+135367|Aloft Montreal Airport
+135368|Summerland Waterfront Resort
+135638|Prestige Inn Nelson
+136050|The Trillium Resort & Spa
+136189|Best Western Plus Chemainus Inn
+136208|Alpine Meadows Resort
+136209|Dundee Arms Inn
+136640|Quality Inn Près Du Lac
+136645|Econo Lodge
+136646|Econo Lodge Inn & Suites
+136650|Econo Lodge Inn & Suites
+136657|Econo Lodge Inn & Suites
+136658|Fairmont Le Manoir Richelieu
+136661|Quality Inn
+136663|Comfort Inn & Suites
+136684|Quality Inn & Suites
+136687|The Marquise
+136693|Quality Inn & Suites
+137357|Travelodge Niagara Falls at the Falls
+138302|Shangri-La Vancouver
+138366|White Oaks Conference Resort & Spa
+138698|Best Western Plus Charter House Downtown
+138699|Best Western Plus Chocolate Lake Hotel
+138709|Best Western Parkway Toronto North
+138910|Four Points by Sheraton Kamloops
+139001|Howard Johnson Downtown Toronto Yorkville
+139003|Lexington Inn & Suites - Windsor ON Canada
+139009|Howard Johnson Victoria
+139071|Lake City Inn & Suites
+139168|Park Town
+139239|Ramada Limited South Windsor
+139331|Sandman
+139332|Sandman Hotel & Suites Winnipeg Airport
+139427|Super 8 Mississauga
+139438|Super 8 North Bay
+139564|The Hazelton
+140148|Holiday Inn Express Hotel & Suites Toronto - Markham
+140149|Stoney Nakoda Resort & Casino
+140365|Little Atlin Lodge
+140467|Trout Point Lodge
+140468|Kouchibouguac Resort
+140469|Ramada Limited Fort Nelson
+140471|The Arctic Chalet
+140555|Le Westin Montréal
+140557|Musée Premières Nations
+140634|Howard Johnson Express Inn & Suites Toronto Brampton
+140636|Canadian Rockies Chalets
+140638|Best Western Plus Royal Brock Hotel & Conference Centre
+140639|Days Inn Leamington
+140640|Ramada Limited Surrey/Langley
+140641|Holiday Inn Truro
+140943|Le Quintessence
+140948|Kensington Riverside Inn
+140955|Spirit Ridge Vineyard Resort & Spa
+140957|Historic Lund
+140958|Nita Lake Lodge
+140959|Heffley Boutique Inn
+140960|Aspen Inn & Suites
+140966|Hotel 10
+140967|Le Flores Inn
+140971|Holiday Inn Express & Suites Halifax Airport
+140973|Neddies Harbour Inn
+140979|Auberge Gisele's Inn
+141641|Days Inn Vernon
+141643|Holiday Inn Express & Suites
+141644|Ramada Airport - geschlossen
+142248|Celebrities
+143431|Travelodge Courtenay
+143779|Harrison Beach
+144293|St. Eugene Golf Resort & Casino
+150051|Coast Abbotsford Hotel & Suites
+150052|Best Western Bakerview Inn
+150053|Super 8 Motel Abbotsford BC
+150054|Best Western Regency Inn & Conference Centre
+150055|Ramada Plaza Abbotsford Hotel & Conference Centre
+150057|Super 8 Motel Airdrie AB
+150058|Ramada Airdrie Hotel & Suites
+150060|Super 8 Ajax/Toronto
+150061|Hilton Garden Inn Toronto/Ajax
+150062|Best Western Plus Country Meadows Inn
+150063|Eco-Lodge Algonquin
+150064|Wandlyn Amherst
+150065|Super 8 Motel - Amherst, NS
+150066|Super 8 Motel Athabasca
+150070|Red Carpet Inn
+150071|Irwins Mountain Inn
+150072|Best Western Plus Siding 29 Lodge
+150073|Castle Mountain Chalets
+150074|A Banff Boutique Inn
+150077|Best Western Royal Oak Inn
+150078|Super 8 Barrie
+150079|Knights Inn Barriere
+150080|Lakeview Inn & Suites Bathurst
+150081|Auberge du Littoral
+150084|Auberge Godefroy
+150085|Manoir Becancourt
+150086|Best Western Belleville
+150089|Le Mirage Hotel Blainville
+150092|Riotel Bonaventure
+150093|Days Inn Bonnyville
+150095|Howard Johnson Bowmanville
+150096|Travelodge Bracebridge
+150097|Knights Inn Bracebridge
+150098|Touchstone on Lake Muskoka
+150099|Best Western Plus Brampton
+150101|Knights Inn Brandon
+150102|Royal Oak Inn & Suites
+150103|Victoria Inn & Conference Centre
+150105|Super 8 Brandon MB
+150106|Best Western Plus Brant Park Inn & Conference Centre
+150108|Days Inn & Conference Center Bridgewater
+150110|Travelodge Brockville
+150111|Chateau Bromont - Resort Hotels
+150112|Le St-Martin Bromont Hotel
+150113|Travelodge Brooks
+150114|Canalta Brooks
+150115|Heritage Inn Hotel & Convention Centre
+150117|Lakeview Inn & Suites Brooks
+150118|Ramada Brooks
+150119|Econo Lodge Brossard
+150120|Alt Hotel - Brossard Quartier DIX30
+150121|Homewood Suites by Hilton Burlington
+150123|Best Western Plus Burlington Inn & Suites
+150124|Waterfront Downtown Burlington
+150125|Executive Hotel & Conference Center Burnaby
+150126|Best Western Plus Kings Inn & Conference Centre
+150128|Canadas Best Value Inn & Suites Desert
+150129|Regency Suites
+150130|Super 8 Calgary/Airport
+150132|Deerfoot Inn and Casino
+150133|Travelodge Calgary South
+150134|Thriftlodge Calgary North
+150135|Super 8 Village Calgary
+150136|Travelodge Calgary University
+150137|Holiday Inn Express & Suites Calgary
+150138|ExecSuite
+150140|Holiday Inn Express Hotel & Suites Airport - Calgary
+150141|Acclaim Calgary Airport
+150142|Best Western Airport Inn
+150143|Travelodge Cambridge/Waterloo
+150144|Homewood Suites Cambridge-Waterloo
+150146|Super 8 Motel - Cambridge/Kitchener/Waterloo Area
+150147|Travelodge Campbell River
+150148|Ramada Camrose
+150149|Super 8 Camrose
+150150|Blackstone Mountain Lodge
+150151|The Georgetown Inn
+150152|Canadian Mountain Lodging: Canmore Crossing
+150153|Banff Boundary Lodge
+150154|Falcon Crest Lodge
+150156|Fire Mountain Lodge
+150159|Sunset Resorts Canmore
+150160|Lodges at Canmore
+150161|Canmore Crossing
+150162|Super 8 Caraquet
+150164|Super 8 Castlegar BC
+150165|Super 8 Charlottetown PE
+150167|Super 8 Chatham
+150169|Travelodge Chatham
+150170|Fuller Lake Chemainus Motel
+150173|Ramada Grande Prairie
+150176|The Woodlawn Inn
+150177|Thriftlodge Cochrane South
+150179|Super 8 Cochrane
+150180|Days Inn & Suites Cochrane
+150184|Days Inn & Suites Collingwood
+150185|Club Intrawest - Blue Mountain
+150186|Georgian Manor Resort & Country Club
+150189|Best Western Plus Chelsea Inn
+150190|Ramada Inn Coquitlam Vancouver BC
+150191|Best Western Plus Coquitlam Inn Convention Centre
+150192|Executive Plaza Coquitlam
+150193|Greenwood Inn & Suites
+150195|Best Western Plus Parkway Inn & Conference Centre
+150196|Ramada Cornwall
+150197|Super 8 Cornwall
+150199|Holiday Inn Express & Suites Courtenay Comox Valley SW
+150200|Old House Village Hotel & Spa
+150201|Oceanfront Suites at Cowichan Bay
+150202|Days Inn Cranbrook
+150205|Super 8 Cranbrook
+150208|Days Inn - Dartmouth
+150209|Ramada Plaza Dartmouth Park Place
+150210|Best Western Plus Dartmouth Hotel & Suites
+150212|Super 8 Dauphin
+150213|Best Western Dawson Creek Inn
+150214|Comfort Inn
+150215|Ramada Limited Dawson Creek
+150216|Super 8 Dawson Creek
+150217|Delta Town & Country Inn
+150218|Coast Tsawwassen Inn
+150219|Holiday Inn Express & Suites Dieppe Airport
+150220|Super 8 Moncton/Dieppe
+150221|Ramada Plaza Crystal Palace
+150223|Best Western Plus Montreal Airport
+150224|Montecassino & Suites
+150227|Ramada Drayton Valley
+150228|Super 8 Drayton Valley
+150229|Travelodge Drumheller
+150230|Ramada Drumheller Hotel & Suites
+150231|Super 8 Motel - Drumheller
+150232|Best Western Plus Hotel Universel Drummondville
+150234|Travelodge Silver Bridge Inn
+150236|Holiday Inn Express & Suites Edmonton North
+150240|Matrix
+150241|Union Bank Inn
+150242|Canterra Suites Hotel
+150243|Howard Johnson Hotel Edmonton
+150244|Hampton Inn & Suites Edmonton West
+150245|Best Western Plus Westwood Inn
+150246|Holiday Inn Hotel & Suites West Edmonton
+150247|West Edmonton Mall Inn
+150248|Super 8 Edmonton/West
+150249|Four Points by Sheraton Edmonton South
+150250|Varscona Hotel On Whyte
+150251|Sawridge Inn Edmonton South
+150252|Super 8 Edmonton South
+150253|Best Western Plus Edmundston
+150254|Comfort Inn & Suites
+150258|Super 8 Edson
+150259|The Village Inn
+150260|Howard Johnson Inn - Enderby
+150264|Park Place Lodge
+150265|Super 8 Fernie
+150266|Snow Valley Motel & RV Park
+150267|Travelodge Three Sisters
+150268|Howard Johnson Inn Fort Erie
+150269|Super 8 Fort Frances
+150271|Merit Hotel & Suites
+150272|The Podollan Rez-idence
+150273|Sawridge Inn
+150274|Super 8 Fort McMurray
+150275|Nomad Hotel & Suites
+150276|Podollan Inn
+150277|Vantage Inns & Suites
+150279|Super 8 Motel Fort Nelson
+150280|Woodlands Inn
+150283|Super 8 Fort Saskatchewan
+150285|Howard Johnson Fort Saint John
+150286|Pomeroy Hotel & Conference Centre
+150287|Super 8 Fort St. John
+150288|Amsterdam Inn & Suites Fredericton
+150289|Howard Johnson Plaza Hotel Fredericton
+150291|Howard Johnson Inn Gananoque
+150292|Ramada Gananoque Provincial Inn
+150293|Country Squire Resort
+150296|Garibaldi Springs Golf Resort
+150297|Best Western Plus Gatineau Ottawa
+150300|Best Western Mountainview Inn
+150301|Super 8 Motel - Golden
+150302|Ramada Limited Golden
+150303|Econo Lodge
+150304|Palliser Lodge Resort
+150306|Best Western Plus Grand Sault
+150307|Ramada Limited Grand Forks
+150308|The Days Hotel & Suites Grande Cache
+150309|Pomeroy Hotel & Conference Centre
+150310|Super 8 Motel - Grande Prairie
+150311|Stanford Inn - Grande Prairie
+150312|Stonebridge Grande Prairie
+150313|Service Plus Inn and Suites - Grande Prairie
+150314|Best Western Grande Prairie Hotel & Suites
+150315|Podollan Inn & Spa Grande Prairie
+150316|Howard Johnson Inn - Gravenhurst
+150319|Casablanca Winery Inn
+150320|Super 8 Grimsby
+150321|Fairfield Inn & Suites Guelph
+150322|Staybridge Suites Guelph
+150324|Super 8 Motel - Guelph Kitchener Waterloo Area
+150325|Rockwater Secret Cove Resort
+150326|Waverley Inn
+150327|Commons Inn
+150329|Howard Johnson Bluenose Inn & Suites
+150331|Lakeview Inn & Suites Halifax (Bayers Lake)
+150332|Future Inns Halifax
+150333|Days Inn Hamilton
+150334|Sheraton Hamilton
+150340|Lakeview Resort Hecla
+150341|Flamingo Inn
+150342|Econo Lodge Inn & Suites
+150343|Quality Inn & Suites
+150344|Executive House Suites Hotels & Conference Centre
+150346|Super 8 Motel High Level
+150348|Ramada High River
+150349|Super 8 High River
+150352|Holiday Inn Express & Suites Hinton
+150353|Lakeview Inn & Suites Hinton
+150354|Holiday Inn Express & Suites Hinton
+150356|Rodeway Inn King William
+150357|Travelodge Huntsville Ontario
+150358|Holiday Inn Express Hotel & Suites Huntsville
+150359|Elmhurst Inn
+150360|Econo Lodge Inn & Suites
+150363|Super 8 Motel - Invermere
+150366|Ramada Jordan/Beacon Harbourside Resort
+150367|Canadas Best Value Inn Kamloops
+150368|Super 8 Kamloops BC
+150369|Kamloops Travelodge Mountview
+150370|Knights Inn Kamloops
+150371|Howard Johnson Downtown Kamloops
+150372|Skyline Motel
+150373|Super 8 Kamloops East
+150374|Hospitality Inn - Kamloops
+150375|Country Inn & Suites Ottawa West
+150376|Bellasera Tuscan Villa & Piazza
+150377|Eldorado
+150379|Days Inn Kelowna
+150380|Fairfield Inn & Suites Kelowna
+150381|Acker Vacation Homes
+150382|Okanagan Seasons Resort
+150383|Recreation Inn & Suites
+150385|Dilworth Inn
+150386|Casa Loma Lakeshore Resort
+150387|Travelodge Kenora
+150388|Best Western Lakeside Inn & Conference Centre
+150389|Super 8 Motel - Kenora
+150391|Econo Lodge Inn & Suites
+150394|Super 8 Motel - Kindersley
+150395|Howard Johnson Inn Kingston
+150396|First Canada Inns
+150397|Confederation Place
+150399|Super 8 Motel - Kingston
+150402|Best Western Plus Fireside Inn
+150403|Travelodge Kingston LaSalle
+150404|Kirkland Lake Inn
+150405|Knights Inn Kitchener
+150406|Howard Johnson - Kitchener Conestoga
+150407|Canadas Best Value Inn
+150408|Cofortel
+150409|La Pinsonniere
+150410|Holiday Inn Express Hotel & Suites Montreal Airport
+150411|Super 8 Lake Country/Winfield Area
+150412|Langley Hwy Hotel
+150413|Westward Inn & Suites in Langley
+150414|Best Western Plus Langley Inn
+150415|Days Inn & Suites - Langley
+150416|Coast Hotel & Convention Centre Langley City
+150417|Travelodge Langley City
+150418|Super 8 Langley/Aldergrove
+150420|Best Western Plus Laval-Montreal
+150421|Sheraton Laval
+150422|Travelodge Edmonton Airport
+150424|Days Inn Edmonton Airport
+150425|Super 8 Edmonton International Airport
+150426|Hampton Inn & Suites by Hilton Edmonton International Airport
+150427|Ramada Edmonton International Airport
+150428|Best Western Plus Denham Inn & Suites
+150430|Super 8 Lethbridge
+150431|Quality Inn & Suites Levis
+150432|Comfort Inn & Suites
+150433|Red Carpet Inn and Suites
+150434|Days Hotel & Suites Lloydminster
+150436|Best Western Plus Meridian Hotel
+150437|Ramada Inn Lloydminster
+150438|Royal Hotel
+150439|Ivey Spencer Leadership Centre
+150440|StationPark All Suite Hotel
+150441|Idlewyld Inn & Spa
+150442|Best Western Plus Lamplighter Inn & Conference Centre
+150444|Country Inn & Suites By Carlson, London South, ON
+150445|Homewood Suites by Hilton London Ontario
+150446|Howard Johnson Inn London
+150447|Hampton Inn by Hilton London
+150448|Staybridge Suites London
+150449|The Windermere Manor
+150450|Le Dauphin Montreal-Longueuil
+150452|Auberge du Grand Lac
+150453|Best Western Maple Ridge
+150454|Quality Inn
+150456|Park Inn By Radisson Toronto-Markham
+150457|Homewood Suites by Hilton Toronto-Markham
+150460|Super 8 Meadow Lake
+150461|Travelodge Medicine Hat
+150463|Super 8 Medicine Hat
+150464|Medicine Hat Lodge
+150465|Super 8 Merritt
+150466|Travelodge Merritt
+150467|Ramada Limited Merritt
+150468|Super 8 Midland
+150471|Best Western Plus Milton
+150472|JW Marriott The Rosseau Muskoka Resort & Spa
+150474|Sandman Signature Mississauga
+150475|Courtyard Mississauga-Airport Corporate Centre West
+150476|Residence Inn Mississauga-Airport Corporate Centre West
+150478|The Waterside Inn
+150481|Holiday Inn Express & Suites Toronto-Mississauga
+150482|Park Inn by Radisson Toronto Airport West
+150483|Homewood Suites Toronto-Mississauga
+150484|Residence Inn Moncton
+150485|Future Inns Moncton
+150486|Holiday Inn Express Hotel & Suites Exp-Moncton, New Brunswick
+150487|Hampton Inn & Suites by Hilton Moncton
+150488|Amsterdam Inn & Suites Moncton
+150489|Moncton
+150490|Quality Inn Mont Laurier
+150492|Du Lac
+150494|Le Prestige
+150497|Viger Downtown Montreal
+150498|7 Saisons
+150499|Elegant
+150501|Plateau Royale
+150503|Casa Bella
+150506|Zero 1
+150507|Candlewood Suites Montreal Downtown Centre-Ville
+150511|Gault
+150513|Dauphin Downtown
+150514|Hilton Garden Inn Centre-Ville
+150515|Le Germain
+150517|Le Crystal
+150522|Courtyard Montreal Airport
+150523|Residence Inn Montreal Airport
+150524|Fairfield Inn & Suites Montreal Airport
+150526|Super 8 Montreal
+150527|Brossard
+150528|Blueberry Lake Resort
+150529|Chateau Beauvallon
+150530|Moose Jaw Travelodge
+150531|Heritage Inn Moose Jaw
+150532|Super 8 Motel Moose Jaw SK
+150533|Super 8 Motel - Morden
+150535|Super8 Mt Hope Hamilton Intl Arpt ON
+150536|Howard Johnson - Nanaimo Harbourside
+150537|Ramada Nanaimo
+150541|Pacific Shores Resort and Spa
+150546|Inn At The Quay
+150548|Holiday Inn Express Hotel & Suites Newmarket
+150549|Super 8 North Of The Falls
+150551|Travelodge by the Falls
+150553|Super 8 Hotel - Niagara Falls
+150554|Ritz Inn Niagara And Wedding Chapel
+150555|Surfside Inn Niagara Falls
+150557|Country Inn & Suites By Carlson Niagara Falls
+150558|Candlelight Motor Inn
+150559|Howard Johnson Express Inn - Niagara Falls
+150560|Travelodge Niagara Falls, Bonaventure
+150561|Arkona Motor Inn
+150563|Advantage Inn
+150564|Best Western Colonel Butler Inn
+150565|Prince of Wales
+150566|Nisku Inn Edmonton Airport
+150567|Super 8 Motel - North Battleford
+150569|Holiday Inn Express Hotel & Suites North Bay
+150570|Travelodge Airport North Bay
+150573|Travelodge Vancouver Lions Gate
+150574|Homewood Suites Toronto-Oakville
+150576|Staybridge Suites Oakville
+150580|Elkhorn Resort Spa & Conference Center
+150583|Knights Inn Orillia
+150584|Best Western Plus Mariposa Inn & Conference Center
+150585|Best Western Plus Couchiching Inn
+150588|Carriage Ridge Resort at Horseshoe Valley
+150589|Knights Inn Oshawa
+150590|Best Western Plus Durham Hotel & Conference Centre
+150591|Travelodge Oshawa Whitby
+150593|Super 8 Osoyoos
+150596|Welcominns Ottawa
+150597|Byward Blue Inn
+150598|Minto Suite
+150599|Holiday Inn Express Hotel & Suites Ottawa Airport
+150600|Hilton Garden Inn Ottawa Airport
+150601|The Business Inn
+150604|Travelodge Owen Sound ON
+150605|Knights Inn Owen Sound
+150606|Oyen Canalta
+150607|Parksville Travelodge
+150608|Sunrise Ridge Resort
+150609|The Beach Club Resort
+150610|Quality Inn & Conference Centre
+150612|Travelodge Pembroke
+150614|Super 8 Motel - Penticton
+150618|Colonial House Motor Inn
+150619|Best Western Plus Otonabee Inn
+150620|Super 8 Peterborough
+150622|Braeside Country Inn
+150624|St-Sauveur
+150625|Ramada Pincher Creek
+150626|Super 8 Motel Pincher Creek AB
+150627|Ramada Inn Pitt Meadows
+150629|Best Western Plus Barclay
+150630|Poco Inn and Suites Hotel & Conference Centre
+150631|Super 8 Motel - Port Elgin
+150633|Super 8 Motel Portage La Prairie MB
+150635|Ramada Prince Albert
+150636|Travelodge Prince Albert
+150637|Holiday Inn Express Hotel & Suites Prince Albert
+150638|Super 8 Motel - Prince Albert
+150640|Days Inn - Prince Albert
+150642|Four Points by Sheraton Prince George
+150643|Travelodge Prince George Goldcap BC
+150644|Economy Inn
+150648|Canadas Best Value Inn & Suites
+150650|Ambassadeur
+150652|Hotel Le Priori
+150653|Le Port Royale & Suites
+150654|Le Dauphin Québec
+150655|Auberge du Quartier
+150657|Capitole
+150665|Acadia
+150667|Grand Times Hotel Quebec City Airport
+150668|Normandin
+150669|St Christophe & Spa, Ascend Collection
+150670|Grand Times
+150671|Four Points by Sheraton Quebec
+150672|Le Germain-Dominion
+150673|Quartier
+150674|ALT Quebec City
+150676|Château Repotel Duplessis
+150677|Travelodge Quesnel BC
+150679|Super 8 Quesnel
+150681|Bighorn Meadows Resort Condos
+150682|Econo Lodge Inn & Suites
+150683|Howard Johnson Inn Red Deer
+150687|Quality Inn North Hill
+150688|Sheraton Red Deer
+150689|Comfort Inn & Suites
+150690|Black Knight Inn
+150692|Wingate by Wyndham Regina
+150693|Best Western Seven Oaks Inn
+150694|Executive Royal Hotel Regina
+150696|Best Western Plus Revelstoke
+150698|Days Inn And Suites Revelstoke
+150699|Super 8 Revelstoke BC
+150700|Woodbine Hotel and Suites
+150701|River Rock Casino Resort Suites
+150702|Travelodge Richmond Hill
+150703|Canadas Best Value Inn Richmond Hill / Toronto North
+150704|Howard Johnson Inn Rigaud QU
+150705|Canalta Rimbey
+150707|Quality Inn Riviere-Du-Loup
+150709|Rocky Mountain House Canalta
+150710|Prestige Mountain Resort Rossland
+150712|Gouverneur Le Noranda
+150715|Gouverneur Relais
+150716|Best Western Plus St. Jerome
+150717|Hampton Inn & Suites Saint John
+150718|Best Western Plus Saint John Hotel & Suites
+150720|Le Chateau Sainte Adele
+150721|Auberge-Spa Watel
+150722|Hotel Super 8 Sainte Agathe Des Monts
+150725|Super 8 Motel - Salmon Arm
+150726|Podollan Inn Salmon Arm
+150727|Travelodge Salmon Arm BC
+150728|Drawbridge Plaza Inn and Suites
+150729|Super 8 Motel - Sarnia
+150730|Best Western Plus Guildwood Inn
+150731|Chipican Motel Sarnia
+150732|Quality Inn Sarnia
+150733|Sheraton Cavalier Saskatoon Hotel
+150734|Super 8 Motel - Saskatoon
+150735|Hilton Garden Inn Saskatoon Downtown
+150736|Ramada Hotel & Golf Dome - Saskatoon
+150737|Best Western Royal
+150738|Saskatoon Thriftlodge
+150739|Travelodge Hotel Saskatoon
+150740|Heritage Inn Hotel & Convention Centre
+150741|Days Inn & Suites Sault Ste. Marie
+150742|Howard Johnson Inn Sault Ste Marie ON
+150743|Algomas Water Tower Inn
+150745|Super 8 Motel - Sault Ste. Marie, On
+150746|Gouverneur Sept-Iles
+150747|Gouverneur Auberge Shawinigan
+150748|Ramada Limited Edmonton East/Sherwood Park
+150750|Holiday Inn Sherwood
+150752|Super 8 Motel - Sicamous
+150753|Travelodge Victoria Airport/Sidney
+150754|Best Western Plus Emerald Isle Motor Inn
+150759|Travelodge Simcoe
+150761|Super 8 Motel - Slave Lake
+150762|Slave Lake Inn & Conference Center
+150766|Econo Lodge
+150768|Sooke Harbour House
+150771|Best Western Mountain Retreat
+150774|Gower House Downtown
+150775|Cabot House - 26 Monkstown
+150776|Ramada St. John's
+150777|Courtyard St. John's Newfoundland
+150778|Super 8 Motel - ST Paul AB
+150781|Super 8 St. John's
+150789|The Westover Inn
+150791|Holiday Inn Express Stellarton-New Glasgow
+150792|Stettler Canalta
+150793|Super 8 Motel - Stettler
+150794|Ramada Stettler
+150795|Les Trois Tilleuls & Spa
+150796|Manoir du Lac Delage
+150798|Ramada Inn Stony Plain
+150799|Travelodge Stony Plain
+150801|The Albert St. Inn
+150802|Days Inn And Suites Strathmore
+150803|Super 8 Motel - Strathmore
+150804|Best Western Strathmore Inn
+150805|Travelodge Strathmore
+150806|Comfort Inn Sturgeon Falls
+150807|Fairfield Inn & Suites Sudbury
+150808|Hampton Inn Sudbury
+150809|Sudbury Inn
+150810|Homewood Suites Sudbury
+150811|Best Western Downtown Sudbury Centreville
+150812|Howard Johnson Plaza Sudbury
+150813|Travelodge Hotel Sudbury
+150814|Super 8 Sudbury
+150815|Slemon Park Hotel & Conference Centre
+150816|Sandman Suites Surrey-Guildford
+150818|Comfort Inn Surrey
+150819|Amsterdam Inn & Suites Sussex
+150820|Super 8 Motel
+150821|Best Western Plus Inn
+150822|Holiday Inn Express Swift Current
+150823|Swift Current Thriftlodge
+150824|Howard Johnson Inn - Swift Current
+150825|Super 8 Swift Current
+150826|Cambridge Suites Sydney
+150828|Super 8 Motel - Taber
+150832|Super 8 Lachenaie/Terrebonne
+150833|Super 8 Motel - The Pas
+150834|The Burntwood
+150835|Four Points by Sheraton St. Catharines Niagara Suites
+150837|Super 8 Motel Three Hills AB
+150839|Days Inn Thunder Bay North
+150840|Super 8 Motel - Thunder Bay
+150841|Victoria Inn Thunder Bay
+150843|Howard Johnson Tillsonburg
+150844|Super 8 Timmins
+150845|Timmins Inn
+150846|Travelodge Timmins
+150847|Pacific Sands Beach Resort
+150848|Super 8 Toronto North Vaughan
+150849|Super 8 Motel Toronto East
+150850|Isabella Hotel & Suites
+150852|Knights Inn Toronto
+150854|Econo Lodge Inn & Suites Downtown
+150856|Madison Manor Boutique
+150860|Windsor Arms
+150862|Hilton Garden Inn Toronto Downtown
+150864|Canadas Best Value Inn
+150865|The Old Mill Toronto
+150867|Courtyard Toronto Brampton
+150868|Best Western Plus Columbia River Hotel
+150869|Canadas Best Value Inn
+150870|Travelodge Trenton
+150871|Super 8 Trois-Rivieres
+150872|Super 8 Motel - Truro, Ns
+150874|Premier Mountain Lodge & Suites
+150877|Moda
+150878|Sunset Inn & Suites
+150880|Carmana Plaza
+150881|Loden
+150882|The Sylvia
+150883|Club Intrawest Vancouver
+150885|La Grande Residence
+150886|Chateau Vaudreuil
+150887|Novotel Toronto Vaughan Centre
+150888|Residence Inn Toronto Vaughan
+150889|Extended Stay Canada - Toronto - Vaughan
+150890|Super 8 Motel - Vermilion
+150892|The Outback Resort
+150893|Strand Lakeside Resort
+150895|Super 8 Motel - Vernon, BC
+150896|Super 8 Motel - Saanichton Victoria Airport
+150899|Island Travel Inn
+150900|Capital City Center
+150902|The Arbutus Inn
+150904|Comfort Hotel & Conference Centre
+150905|A Haterleigh Heritage Inn
+150906|Helm's Inn
+150907|The Oswego
+150908|Bedford Regency Hotel
+150909|Union Club of British Columbia
+150911|Victoria Regent
+150912|Howard Johnson Victoria Elk Lake
+150915|Four Points by Sheraton Victoria Gateway
+150918|Days Inn Wallaceburg
+150920|Four Points by Sheraton Waterloo-Kitchener
+150921|Best Western Plus Rose City Suites
+150923|Ramada Westlock
+150925|Super 8 Motel - Wetaskiwin
+150926|Travelodge Weyburn
+150927|Ramada Weyburn
+150928|Mountainside Lodge Whistler
+150930|Tyndall Stone Lodge
+150931|ResortQuest by Town Plaza - Deer Lodge / Bear Lodge / Eagle Lodge
+150932|Sundial Boutique Hotel
+150936|Whiski Jack at Ironwood
+150937|Whistler Places - Valhalla
+150938|Powder's Edge
+150939|Snowbird
+150941|Village Gate House
+150942|Whiski Jack at Creekside
+150944|Whiski Jack at Village Centre
+150945|Whiski Jack at Whistlerview
+150953|Pacific Inn
+150954|Ocean Promenade
+150956|Super 8 Motel Whitecourt
+150957|Ramada Williams Lake
+150958|Super 8 Motel - Williams Lake
+150959|Coast Fraser Inn
+150960|Super 8 Windsor
+150961|Holiday Inn Windsor Downtown
+150962|Super 8 Windsor
+150963|Comfort Inn & Suites Ambassador Bridge
+150965|Caesars Windsor
+150967|Club Regent Casino Hotel by Canad Inns
+150968|Norwood
+150969|Travelodge Winnipeg East
+150970|The Marlborough
+150971|The Fort Garry
+150972|Place Louis Riel Suite
+150975|Inn At The Forks
+150976|Canad Inns Polo Park
+150977|Holiday Inn Winnipeg Airport - Polo Park
+150979|Four Points by Sheraton Winnipeg Airport
+150980|Victoria Inn and Conference Center
+150981|Viscount Gort
+150982|Howard Johnson Express Inn - Winnipeg West
+150985|Canad Inns Fort Garry
+150986|Holiday Inn Express Hotel & Suites Woodstock
+150991|Rodd Grand Yarmouth
+150992|Coast Fraser Tower
+150993|The Yellowknife Inn
+150994|Super 8 Motel - Yellowknife
+150995|Capital Suites Yellowknife
+150996|Ramada Yorkton
+150997|Howard Johnson Inn Yorkton
+151000|Rundle Manor Apartment
+151001|Senator
+151002|Microtel Inn & Suites Parry Sound
+151004|Americas Best Value Inn Gardens Inn
+151005|Super 8 St-Jerome
+163446|CopperStone Resort
+163448|Hearthstone Lodge at Sun Peaks Resort
+182179|Monte Carlo Inn - Barrie Suites
+183176|Snow Creek Lodge
+183177|The Sutton Place - Revelstoke Mountain Resort
+183324|L'Oiseliere Montmagny
+183325|Holloway Inn & Suites
+183327|Econo Lodge Canmore
+183329|Universel
+183332|Best Western Plus Wine Country Hotel & Suites
+183333|Chieftain Hotel
+183335|Quality Fallsview Cascade Inn
+183336|Imperial Inn 1000 Islands
+183337|Lincoln Motor Inn Fallsview
+183338|Howard Johnson Quebec Hall
+183339|Travelodge Slave Lake
+183340|Argyll Plaza
+187398|Europeenne
+187400|Auberge Place d'Armes
+187401|Des Coutellier
+187403|Cassandra Hotel
+187404|Luxury Residences on Georgia
+187410|Admiral Inn Niagara Falls
+187411|Americas Best Value Inn & Suites Chalet Inn
+187414|Motel 6 Saskatoon
+187418|Holiday Inn Express Grande Prairie
+187419|Motel 6 Medicine Hat
+187420|Best Western Plus Red Deer Inn & Suites
+187421|Motel 6 Red Deer
+187423|Travel Lodge Canaoque
+187447|Motel 6 Huntsville
+187486|Motel 6 London
+187514|Motel 6 Toronto - Mississauga
+187527|Motel 6 Toronto - Brampton
+187528|Cambridge Hotel and Conference Centre
+187546|Rodd Charlottetown
+187563|Motel 6 Peterborough
+187565|Best Western Capilano Inn & Suites
+187567|Wescana Inn
+187580|Motel 6 Stony Plain
+187744|Mohawk Inn and Conference Centre
+187771|Ranchland Motel
+188848|2400 Motel Vancouver
+188854|Abri du Voyageur
+188858|Alberta Place Suite Edmonton
+188860|Algonquin Residence Ottawa
+188863|Ambassador Sudbury
+188866|Amethyst Inn At Regents Park Victoria
+188869|Anne Ma Soeur Anne
+188876|Au Bois Jolit
+188877|Hébergement Mont-Sainte-Anne Le Massif - Au Pied du Mont / Village Touristique
+188878|Auberge Aux deux Lions
+188884|Auberge du Carre St Louis Montreal
+188886|Auberge Du Mange Grenouille Le Bic
+188887|Auberge du Trappeur
+188889|Auberge Handfield & Spa Saint Marc sur Richelieu
+188891|Auberge Kan-A-Mouche
+188898|Auberge Madeli
+188899|Auberge Manoir Ville Marie Montreal
+188900|Villégiature Matawinie
+188901|Auberge Michel Doyon Quebec City
+188909|Baker Creek Chalets Lake Louise
+188925|Econo Lodge & Suites Hinton
+188928|Bon Accueil Montreal
+188939|Campus Tower
+188940|Canad Inns Garden City Winnipeg
+188941|Canadas Best Value Inn Calgary
+188942|Canadas Best Value Inn Prince George
+188943|Canadian Inn Surrey
+188949|Casa De Mateo
+188952|Days Inn Calgary Northwest
+188954|Causeway Bay Linkletter Hotel Summerside
+188957|Cedarwood Inn & Suites Sidney
+188958|Centennial College Residence Toronto
+188965|Chateau Louis Edmonton
+188966|Château Madelinot
+188967|Chateau Repotel Henri IV
+188969|Cheribourg Convention & Spa Orford
+188970|Chez Marineau - Hôtel des 10
+188973|Chinook & Oasis Motel
+188977|Club Intrawest Hotel Whistler
+188978|Coast Coal Harbour Vancouver
+188982|Colonial Resort
+188986|Côté Nord Tremblant
+188990|Cox Bay Beach Resort Tofino
+188991|Cranberry Resort Collingwood
+188993|Crystal Star Inn LeDuc
+188994|Crystals View Bed and Breakfast North Vancouver
+188996|Days Inn Athabasca
+188999|De L'Institut Montreal
+189006|Diplomat Inn Niagara Falls
+189014|Durham College/UOIT Residence - South Village
+189016|Econo Lodge City Centre Kingston
+189025|Estrimont Suites & Spa
+189028|Executive Express LeDuc
+189031|Sunchaser Vacation Villas at Fairmont
+189036|Fiddler Lake Resort Mille Isles
+189037|Fireside Lodge Sun Peaks
+189039|Fitzsimmons
+189041|Four Points by Sheraton Airport Toronto West Mississauga
+189043|Gananoque Inn & Spa
+189050|Glacier Mountaineer Lodge
+189052|Gladstone Toronto
+189057|Howard Johnson Port Alberni
+189059|Haida Harbourside Inn Campbell River
+189060|Hampton Inn & Suites Barrie
+189061|Hampton Inn & Suites Halifax Dartmouth
+189062|Harbour House Niagara-on-the-Lake
+189064|Harrison Village Motel Harrison Hot Springs
+189075|Holiday Inn Express Hotel & Suites Brockville
+189076|Holiday Inn Express Kingston
+189081|Chateau Joliette
+189082|Chicoutimi
+189085|Du Nord
+189086|Le Manoir Baie Comeau
+189088|Stastny Plaza
+189089|Ste-Catherine
+189092|Howard Johnson Ridgetown
+189093|Northwoods Inn & Suites
+189094|Knights Inn Toronto Scarborough
+189101|Imperia Hotel & Suites
+189102|Inn at Clifftop Lane Whistler
+189106|Jardins de Ville Hotellerie
+189114|Kings Inn Midland
+189115|Knights Inn Fredericton
+189119|Estérel Suites, Spa & Lake
+189123|La Residence du Voyageur
+189126|Lakeside Country Inn Savona
+189127|Laurie's Motor Inn Cheticamp
+189131|Le Chamois Whistler
+189132|Le Chateauguay
+189133|Le Comte
+189134|Le Dauphin
+189141|Le Petit Manoir Du Casino La Malbaie
+189144|Le Saint Malo
+189149|Les Studios Hotel Montreal
+189150|Lido Motel & Suites
+189151|Howard Johnson Montreal
+189152|Lindbergh
+189153|Loft Jacques-Cartier
+189158|Mamateek Inn Corner Brook
+189160|Manoir Ambrose Montreal
+189161|Manoir d'Youville
+189165|Manoir Des Sables Golf & Hotel Magog
+189174|The Met New Westminister
+189175|Best Western Plus Woodstock Inn & Suites
+189176|Millcroft Inn & Spa
+189177|Miraloma on the Cove
+189179|Mohawk Residence
+189189|Motel des Pays d'En Haut
+189193|Kelowna Inn & Suites
+189194|Mountain Springs Resort Collingwood
+189198|Niagara College Residence NOTL Campus
+189199|Niagara College Residence Welland Campus
+189201|Northstar Mountain Village
+189203|Nuvo Hotel & Suites
+189204|Oakville Inn
+189207|Oban Inn & Spa Niagara-on-the-Lake
+189209|Oceanside
+189211|L'Express
+189213|Inn on the Twenty
+189214|Petawawa River Inn & Suites
+189219|Painted Boat Resort Madeira Park
+189220|Palace Royal Quebec City
+189221|Paradise Lodge and Bungalows Lake Louise
+189222|Parc Suites Montreal
+189223|The Parkside Hotel & Spa
+189227|The Peninsula Inn & Resort
+189229|Motel Pignons Rouges
+189236|Polar Peak Townhome Lodges Fernie
+189237|Polaris Lodge Kimberley
+189238|Pomeroy Inn & Suites Chetwynd
+189239|Pomeroy Inn & Suites Dawson Creek
+189244|Premier Suites And Inn Lethbridge
+189245|President Motor Inn Niagara Falls
+189255|Red Pine Inn Alliston
+189257|Regent Inn Revelstoke
+189259|Residence Inn Gravenhurst Muskoka Wharf
+189260|Residences Universitaires UQAM East
+189261|Residences Universitaires UQAM West
+189262|Glacier's Reach
+189263|ResortQuest Marketplace Lodge
+189271|Riverland Inn & Suites
+189273|Rivera Hotel On Robson
+189293|Seneca Residence & Conference Centre Toronto
+189295|Shaw Club
+189296|Sheridan College Residence - Davis Campus
+189297|Sheridan College Residence - Trafalgar Campus
+189299|Silver Creek Lodge Canmore
+189300|Silver Dart Lodge Baddeck
+189303|Skky Whitehorse
+189309|St Lawrence Residences & Suites Toronto
+189310|St. Clair College Residence
+189314|Stanford Inn Fernie
+189315|Stanley Bridge Country Resort Kensington
+189316|Stay Mont Royal Montreal
+189317|Sterling Inn & Spa
+189318|Stone Willow Inn Saint Marys
+189323|Peterborough Inn & Suites Hotel
+189329|Sunset Inn Niagara Falls
+189333|Super 8 Valemount
+189334|Swans Suites Hotel
+189340|The Lake Placid Condominiums Whistler
+189344|Thompson Rivers University Residence Kamloops
+189348|Royal Napanee Inn
+189352|Timberline Lodges Fernie
+189356|Traveller's Inn Westerner Alberton
+189357|Fireside Inn Hotel & Conference Centre
+189364|Travelodge Thunder Bay
+189369|Twin Peaks Hotel Whistler
+189371|Hôtel Universel
+189373|Victorian Hotel Vancouver
+189374|Victoria's Mansion Guest House Toronto
+189377|Village Touristique Beaupre
+189379|Manoir St-Castin Villegia
+189385|Wellesley Manor Boutique Toronto - geschlossen
+189392|Wildwood Lodge by Peak to Green Accommodations
+189398|YWCA Hotel Vancouver
+201329|Fairmont Pacific Rim
+201330|A. MacDonald Country Inn
+201348|Westin Wall Centre Vancouver Airport
+201355|Victoria Rose Inn
+201359|Mariner King Inn
+201360|Orient B&B
+201965|Tidal Watch Inn
+201966|Windigo Village
+202494|Hilton Garden Inn Toronto Airport
+203151|Mountain Spirit Resort & Spa
+203241|Bella Coola's Coast Mountain Lodge
+203896|Admiral Inn
+205495|Auberge Fleurs de Lune
+205955|Beausejour Apartments
+206802|Canada Suites Yorkville
+207283|Chateau Mont-Sainte-Anne
+207623|Comfort Suites Kelowna
+208826|Ellis House Bed & Breakfast
+209092|Falcon Inn
+211898|James Bay Hotel & Suites
+212917|Le Granbyen
+212949|Le Louisbourg
+213407|Fallsview Lodge
+214279|Motel 6 Toronto East - Whitby
+214280|Motel 6 Toronto West - Burlington/Hamilton
+215552|Pinnacle Hotel at the Pier
+218045|Siesta Inn
+218371|Stardust Inn Motel
+221233|Auberge des Gallant
+221235|Auberge du Draveur
+221451|Capri Inn
+226546|Grande Rockies Resort
+227111|Hampton Inn by Hilton Toronto Airport Corporate Centre
+227429|Hilton Garden Inn Toronto Airport West Mississauga
+227432|Thompson Toronto
+228172|The Ritz-Carlton Toronto
+228179|FireLight Lodge
+228181|Sundance Resort
+228220|Evolution
+228389|Bull River Guest Ranch
+228501|Sunshine Mountain Lodge
+228974|Watermark Beach Resort
+229443|Motel 6 Niagara Falls
+230272|Homewood Suites Toronto Airport Corporate Centre
+232057|Ocean Resort
+232058|Coast Chilliwack
+232081|Clode Sound Motel
+232148|Boardwalk
+232154|Solara Resort & Spa
+232155|Residence Inn Kingston Water's Edge
+232164|Smuggler's Cove Inn
+232165|Ripplecove Lakefront Hotel
+232360|The Aspens at Kicking Horse
+232361|Whispering Pines
+232822|Le Germain Calgary
+232858|Canadas Best Value Inn & Suites Charlottetown
+232860|Econo Lodge
+233222|King Edward
+233223|Service Plus Inns and Suites
+233224|Superlodge Lethbridge
+233225|Grouse Inn
+234091|Americas Best Inn and Suites
+234094|Courtyard Edmonton West
+234095|Fairfield Inn & Suites Sault Ste. Marie
+234096|Hampton Inn & Suites by Hilton Lethbridge
+234097|Holiday Inn Express Hotel & Suites Saint - Hyacinthe
+234098|Motel 6 Grande Prairie
+234099|Motel 6 Moncton
+234100|Pacific Host Inn & Suites
+234540|Snowbird Lodge at Silver Star
+235329|Sandman Hotel & Suites Calgary South
+235330|Sandman Signature Hotel & Resorts Edmonton South
+235331|Sandman Signature Hotel & Resorts Prince George
+235576|Best Western Premier Freeport Inn & Suites
+235970|Best Western Plus South Edmonton Inn & Suites
+236073|Best Western Plus Liverpool Hotel & Conference Centre
+236718|Complexe Hotelier Pelchat Chaine
+236743|Auberge Du Fort Prevel
+236969|Trump International Hotel & Tower Toronto
+238513|Howard Johnson Kelowna
+238763|Providence Place Inn
+239264|Days Inn Grande Prairie
+239265|Hampton Inn By Hilton North Bay
+239267|Hampton Inn Suites By Hilton Hamilton/Brantford
+239272|Holiday Inn Red Deer South
+239276|Howard Johnson North Ridge Inn
+239278|Towneplace Suites Sudbury
+239863|Sandman Abbotsford
+241241|Sweet Dreams Luxury Inn
+241243|Comfort Inn & Suites Airdrie
+241245|Monte Cristo Hotel & Suites
+241256|Auberge A L'Ancrage
+241258|Auberge La Muse
+241267|L'Estampilles
+241271|Banff Y Mountain Lodge
+241272|Bumpers Inn
+241274|Homestead Inn Banff
+241288|Cape View Motel
+241289|Econo Lodge St. Apollinaire
+241293|Horseshoe Bay Motel
+241294|Knights Inn Kemptville
+241295|Le Victorin
+241304|Pomeroy Inn & Suites Grimshaw
+241307|Super 8 Duncan
+241315|Holiday Inn Express Hotel & Suites Clarington Bowmanville
+241316|Days Inn Brampton
+241317|Canadas Best Value Inn Burlington
+241318|401 Inn
+241320|Alma
+241321|Centro Motel
+241323|Four Points by Sheraton Calgary Airport
+241325|The Opal
+241327|The Ovation
+241328|Four Points by Sheraton Cambridge Kitchener
+241332|Rocky Mountain Ski Lodge
+241333|Stoneridge Mountain Resort
+241341|Canadas Best Value Inn & Suites Summerside
+241342|Holiday Inn Express & Suites Chatham South
+241352|Royal
+241353|Vedder River Inn
+241360|Lake City Motel
+241366|Marriott Montreal Airport
+241367|Motel Drummond
+241370|Days Inn Edmonton South
+241371|Hampton Inn By Hilton Edmonton South
+241372|Holiday Inn Express & Suites Edmonton South
+241374|Travelodge Edmonton East
+241375|Yellowhead Motor Inn
+241376|Econo Lodge Edson
+241379|Clearwater Suite Hotel
+241380|Franklin Suite Hotel
+241382|Stonebridge Fort St John
+241386|Les Suites Victoria
+241387|Motel Du Chevalier
+241388|Days Inn Golden
+241395|Howard Johnson Hamilton
+241396|Howard Johnson Inn Hearst
+241397|Best Western Plus Mirage Hotel & Resort
+241405|Astoria
+241406|Glacier View Inn
+241407|Acadian Motor Inn
+241408|Alpine Motel
+241409|Country View Motor Inn
+241410|Dream Lodge Kamloops
+241413|Holiday Inn & Suites Kamloops
+241416|Maverick Motor Inn
+241418|Scott's Inn
+241419|Trans Canada Motel
+241420|Super 8 Kapuskasing
+241423|Mission Park Inn
+241424|Playa Del Sol Resort
+241425|Ubc Okanagan Campus
+241426|Holiday Inn Express & Suites Kincardine Downtown
+241428|Courtyard Kingston Highway 401 Division Street
+241430|Motel 6 Kingston
+241431|Conestoga Residence & Conference Centre
+241433|Ramada Lac La Biche
+241434|Quality Hotel & Suites
+241435|Travelodge Lethbridge
+241438|Kennedy
+241439|Econo Lodge Lloydminster
+241440|Super 8 London
+241441|Metro
+241443|Chateau Logue Golf & Resort
+241446|Monte Carlo Inn & Suites Downtown Markham
+241447|Knights Inn Merritt
+241449|Casino New Brunswick
+241451|Midtown Motel & Suites
+241452|L'Hotel St James
+241472|Chez Swann
+241480|Le Petit
+241482|Le St Martin Particulier Centre-ville
+241483|Le Majestic
+241486|Quartier Des Spectacles
+241487|Stay Centre Ville
+241492|University Bed and Breakfast
+241493|Auberge Le Lupin
+241494|Auberge Le Voyageur
+241496|Au Petit Marigot
+241497|Gite La Tremblante
+241498|Gite Le Roupillon
+241499|Le Pimbina
+241500|Les Dames Du Lac
+241503|Maple View
+241504|Holiday Inn Express Ottawa West - Nepean
+241505|Corporate Inn
+241565|A Night To Remember
+241574|Aston Villa Motel
+241578|Blue Moon Motel
+241580|Crystal Inn
+241581|Empress Inn & Suites
+241597|Chateau Saint John, Ascend Collection
+241598|Hampton Inn & Suites by Hilton Red Deer
+241609|Niagara Parkway Court Motel
+241615|Weatherpine Inn
+241616|Villa Alexandrea
+241617|Two Rivers Bed And Breakfast
+241618|Tropicana Inn
+241619|Three Diamond Inn
+241621|Susan's Villa
+241625|Riverbend Inn & Vineyard
+241630|6 Oak Haven
+241633|Ramada Olds
+241661|Cornerstone Lodge at Fernie Alpine Resort
+242622|The Queen Anne Inn
+242651|Sparkling Hill Resort
+243521|Days Inn Dawson Creek
+243523|Howard Johnson Inn Sarnia
+243524|The Gables Inn
+243525|Holiday Inn & Suites Surrey East - Cloverdale
+243526|Ramada Wainwright
+243614|Tweedsmuir Park Lodge
+243631|Killarney Lodge
+243808|Algonquin Moon Bed & Breakfast
+243810|The Meldrum Bay Inn
+243816|Dalvay by the Sea
+243823|Hunter House Inn
+243845|Louisbourg Harbour Inn Bed & Beakfast
+244742|Knights Inn
+246028|Holiday Inn Hotel & Suites Saskatoon Downtown
+246309|Holiday Inn Express Deer Lake
+246820|Holiday Inn Express & Suites Dawson Creek
+247472|Fairfield Inn & Suites Winnipeg
+247628|Best Western Rimstone Ridge Hotel
+247629|Best Western Premier Prestige Oceanfront Resort
+249471|Comfort Inn & Suites Barrie / Essa Road
+249474|Hampton Inn by Hilton Fort Saskatchewan
+249477|Comfort Hotel Bayer's Lake
+249485|Quality Inn & Convention Centre
+249486|Econo Lodge Montmagny
+249504|MainStay Suites East Edmonton/Sherwood Park
+249505|Sandman Hotel & Suites Squamish
+249506|MainStay Suites Winnipeg
+249703|Residence Inn Calgary Airport
+250159|Econo Lodge
+253323|Admiral Digby Inn
+253324|Ascendence Harbourside Mansion B&B
+254459|Alan Gardens Bed and Breakfast
+254460|The Ivy at Verity
+254462|Studio 6 Toronto Downtown
+254465|Albert Pimblett's Downtown Toronto Bed/Breakfast
+254467|A Suite Dreams Toronto B&B
+254469|Canada Suites on Bay
+254470|Le Germain Maple Leaf Square
+254804|Whiski Jack at Town Plaza
+254806|Whistler Luxury Condos
+254808|Our Whistler Retreat - Montebello
+254809|Whiski Jack at Woodrun
+254810|Golden Dreams B&B
+254812|Courtyard Calgary Airport
+254813|Wingate by Wyndham - Calgary
+254816|Chateau St-Marc
+254818|La Renaissance Dorchester
+254819|Montreal Luxury Appartment
+254820|Gingerbread Manor
+254822|Days Inn - Montreal Downtown
+254823|Auberge Maison Roy
+254824|Château des Tourelles
+254825|Residences Universite Laval
+254826|L'Auberge Le Vincent
+254828|Bonaparte
+254830|Residence de la Cite
+254831|Douceurs Belges Inn
+254833|L'Ermitage
+254835|Gîte le 812
+254836|Sunnyside Bed and Breakfast
+254837|Courtyard Ottawa East
+254838|Saint Paul University Residence & Conference Centre
+254839|Downtown Bed & Breakfast & Spa
+254840|Quality Inn Orleans
+254841|The Burrard
+254843|AAA Catherine's Bed and Breakfast
+254844|Kingston Hotel Bed And Breakfast
+255068|Walper
+255070|Bluecrest Bed and Breakfast
+255071|Days Inn Niagara Falls Centre Street by the Falls
+255072|Redwood Bed and Breakfast
+255075|Knights Inn Niagara Falls Lundys Lane
+255076|Howard Johnson Fort Howe Plaza
+255077|Hillside Motel
+255078|Hillcrest Motel
+255079|Colonial Inn Saint John
+255080|Chipman Hill Suites
+255081|Homeport Historic Bed & Breakfast/Inn c 1858
+255083|Whiskey Point Resort
+255085|Super 8 100 Mile House Bc
+255088|Tiki Shores
+255090|Prince Motel
+255091|Tall Trees Bed & Breakfast
+255092|The Inn on College
+255093|Four Points by Sheraton Saskatoon
+255094|Super 8 Saskatoon West
+255095|Saskatoon Inn
+255096|Homesuites by d3h
+255097|Days Inn - Regina Airport West
+255099|Eagle Nook Resort & Spa
+255100|The He-Tin-Kis Lodge
+255101|Hemingway's By the Sea
+255102|Spinnakers Brew Pub & Guest Houses
+255103|Fisher House Bed & Breakfast
+255104|Royal Pacific Charters & Suites
+255106|Prior House B&B Inn
+255107|Hotel Rialto
+255109|Humboldt House B&B
+255111|Sherwood Inn and Motel
+255114|Rundle Cliffs Lodge
+255115|The Drake Inn
+255116|Platinum Suites
+255130|Howard Johnson Inn Vernon
+255131|Road Runner Motel
+255132|Waterfront Suites and Marina
+255133|Oceanside Village Resort
+255135|Chateau Moncton, Ascend Collection
+255136|Howard Johnson Inn Moncton
+255137|Dolan's Inn & Suites
+255138|The Lionstone Inn
+255141|Le Boisé du Lac
+255142|Escale du Nord
+255144|Vacances Tremblant
+255145|Les Falaises Ski-in Ski-out Condo
+255146|L'Urbania
+255147|Le Deauville
+255150|Mid-Town Hotel
+255152|Canadas Best Value Inn Belleville
+255156|Imperial Fireside Inn
+255158|Belmont Inn
+255159|Moonlight Inn & Suites
+255161|Valley Inn Motel Hotel
+255346|Imperial Inn
+255348|Kingfisher Oceanside Resort and Spa
+255349|Kootenay Country Inn
+255350|Sportsman Lodge
+255351|Winston Lodge
+255352|Rondo Motel
+255353|Riverside Motel
+255354|Somass Motel
+255355|Delta Residences at Sun Peaks
+255356|Kookaburra Lodge
+255357|Trails Edge
+255358|Stones Throw
+255359|Crystal Forest
+255362|Airport Inn
+255363|The Franklin Hotel
+255364|Little Lake Inn
+255366|Le Saint-Germain
+255367|Motel Au Vieux Piloteux
+255368|Grand Times
+255369|Wishing Well Historic Cottage
+255370|Silver Maple Bed & Breakfast
+255371|Cloudside Inn
+255907|Red Tree Lodge
+255908|Powder Mountain Lodge
+255909|Pine Inn at Panorama Mountain Village
+255935|Chalet Continental
+255936|Alpine Inn
+255937|Ramada Valemount
+255952|Gros Morne Suites
+255953|Bell Mountain Motel Mcbride
+255954|Hotel Motel Panorama de Perce
+255955|Hôtel Le Florimay
+255956|L'Auberge Au Petit Berger
+256099|Le Versailles
+256100|Le Relais St-Denis
+256101|Auberge Sous L'Édredon
+256151|Bel-air Motel
+256152|The Algonquin
+256153|Echo Valley Ranch And Spa
+256157|Auberge du Saumonier Lodge
+256369|Brigantine Inn & Suites
+256432|The Hotel at River Rock
+256477|Sullivan Stone Lodge
+256478|Rocky Condos
+256479|Trickle Creek Condos
+256533|Bayview inn
+256606|Osler House
+256607|Glenerin Inn
+256608|Fairfield Inn & Suites Toronto Mississauga
+256668|Au Domaine des Neiges
+256669|Club Vacances Toutes Saisons
+256679|Hilton Garden Inn Toronto/Brampton
+256764|Musgrave Agencies Hospitality Inns and Suites
+256790|Royal Inn and Suites
+257150|North Adventure Inn
+257289|Travelodge Kapuskasing
+257290|Tropical Inn Hotel & Convention Center
+257291|Knights Inn Moose Jaw
+257292|Wakamow Heights Bed & Breakfast
+257293|Thriftlodge Moose Jaw
+257371|Saxony Motel
+257372|Sandman Signature
+257373|Hotel L'Oiseliere Levis
+257374|Auberge Reve Blanc
+257376|Quality Inn Rouyn-Noranda
+257377|Deville Centre Hotelier
+257380|Super 8 Sherwood Park/Edmonton Area
+257381|SpringHill Suites Toronto Vaughan
+257382|Homewood Suites Toronto Vaughan
+257383|Motel & Chalet Waterloo
+257454|Markham House
+257456|Sooke Harbour Resort & Marina
+257457|Ocean Wilderness Inn
+257507|Bras d'Or Lakes Inn
+257547|White Sea Resort
+257569|Bonnyville Neighbourhood Inn
+257571|Howard Johnson Kincardine
+257572|Hilton Garden Inn Edmonton International Airport
+257573|Beacon Inn at Sidney B&B
+257670|Ramada Plaza Le Manoir du Casino
+257708|Quality Inn & Suites
+257709|Comfort Inn & Suites
+257719|Springs Motor Inn
+257745|The Dragonfly Inn
+257746|Annapolis Royal Inn
+257830|Riverside Resort Motel & Campground
+257831|Howard Johnson Plaza Hotel Windsor
+257832|Towne and Country Motel
+257834|Nakoda On the Lake Spa Lodge and Conference Centre
+257867|Hebert Hotel
+257869|Econo Lodge Inn & Suites
+257870|Super 8 Estevan, SK
+257899|Tropical Inn
+257900|Travelodge North Battleford
+257901|Quality Hotel & Suites
+257906|Auberge Escapade Inn
+257915|Copper Point Resort
+257978|Hotel & Spa Etoile-sur-le-Lac
+257979|Auberge Manoir Le Tricorne
+257992|Calabogie Peaks Resort
+257995|Auberge du Lac Morency
+258010|Days Inn High Prairie
+258054|The Waring House
+258194|Redwood Inn & Suites
+258195|Ramada Cold Lake
+258206|Service Plus Inns & Suites Drayton Valley
+258246|Hotel Dauphin Saint Hyacinthe
+258328|Seacliffe Inn
+258329|Newmarket Inn
+258410|Lake Country Inn
+258411|Riverview Bed & Breakfast
+258412|Super 8 Ponoka AB
+258415|Stoneham Condos & Hôtel
+258416|Moulin Rouge Motel
+258417|Glenwood Motel
+258488|Quality Inn & Suites Petawawa
+258489|L'Oiseliere St-Nicolas
+258544|Rundle Ridge Chalets
+260187|Wyndham Garden Niagara Falls Fallsview Hotel
+261718|Shearwater Resort & Marina
+261722|Predator Ridge Resort
+261725|Manitoulin Island Hotel & Conference Centre
+261727|Shangri-La Hotel Toronto
+261728|Aloft Vaughan Mills
+261729|Chic-Chocs Montagne Lodge
+264691|Scottish Inn & Suites Falls Way
+265699|Best Western Plus Ottawa/Kanata Hotel & Conference Centre
+265701|Best Western Williams Lake Hotel
+271405|L'Intendant
+271406|Couette et Cafe Champlain
+272239|Heritage River Inn
+272259|Owen Sound Inn
+276242|The Maple Inn
+276250|The Kingswood B&B
+276491|Auberge La Rocaille
+276492|Motel Des Deux Lacs Inc
+277104|Le Manoir Lac-Etchemin
+277105|Bernieres
+279354|Toronto Furnished Apartments
+279355|Making Waves Boatel
+279480|Mountain Side Hotel Whistler by Executive
+279481|Four Points by Sheraton Edmonton Gateway
+279482|Sands Hotel
+279484|N Hôtel Quebec
+279621|The James Hotel
+279622|Super 8 Winnipeg East, MB
+279624|Econo Lodge Vernon
+279625|The Refuge Bed and Breakfast
+279626|Excelsior Hotel Spa Villegiature
+279627|Cambrian Residence & Conference Centre
+279779|Quality Inn Quesnel
+279780|The Pinnacle Lodge
+279781|Valhalla Inn Thunder Bay
+279783|Le President
+280762|Auberge du Vieux Foyer
+282157|Staybridge Suites Hamilton - Downtown
+282158|ALT Hotel Toronto Pearson
+282340|Quality Inn & Suites Thompson
+282677|Microtel Inn and Suites Estevan
+282706|Comfort Inn & Suites
+283553|Micro Boutique Living
+284361|Holiday Inn Express Hotel & Suites Bonnyville
+284362|Days Inn Chetwynd
+284363|Imperia Hotel & Suites Terrebonne
+284866|MacKenzie
+284867|Parkside Inn
+286262|Maryam Hotel North York
+286264|Templar Hotel
+286265|Urban Living Suites
+286452|Clock Tower Resort
+286493|Auberge de la Place Royale
+286496|Motel Capri
+286696|Pomeroy Inn & Suites Fort St John
+286697|Canadas Best Value Inn
+286700|Esther's Inn
+286701|West Coast Mtl on the Harbour
+286702|Whales Tail Guest Suites
+286703|Econo Lodge Winnipeg
+286704|Canadas Best Value Inn Downtown
+286705|The Holman Grand Hotel
+286729|Hotel Mont Tremblant
+286731|Auberge a la Croisee des Chemins
+286732|Motel Ours Bleu
+286733|Travelway Inn Sudbury
+286734|Lakeshore Suites
+286890|Motel 6 Brandon
+286891|Wakefield Mill Hotel & Spa
+286892|Motel 6 Swift Current SK
+287452|Motel & Restaurant de La Plage
+287470|Canadas Best Value Inn
+287471|Motel Bavaria
+287472|Piccadilly Motel Golf Suites
+287607|Discovery Inn
+288051|Seelys Motel
+288314|Stone Gate Inn
+288994|Intercity Motel
+289089|Auberge La Grande Maison
+289111|Econo Lodge Brooks
+289183|Motel 6 Claresholm Ab
+289198|Canway Inn And Suites
+289202|Beach Grove Motel
+289251|Motel 6 Estevan Sk
+289252|Suburban Extended Stay Hotel Estevan
+289484|Red Mountain Resort Lodging
+289492|Quality Inn And Suites Val Dor
+289925|Nova Inn Slave Lake
+289926|Mystic Isle Motel
+289927|Travelodge Meadow Lake
+290910|Norsemen Inn
+290914|Gite La Marmotte
+290915|Spa Eastman
+291517|The Tundra Inn
+291748|Esquire Motel
+291917|Hotel DeOro
+291918|Margaree Riverview Inn
+291919|Westway Inn Motel
+291920|Refuge du Faubourg
+292491|Pomeroy Inn And Suites
+293452|Christina Lake Village Resort
+293773|Super 8 Red Lake
+294841|Canadas Best Value Inn
+294929|Motel 6 Moosomin SK
+295528|Knights Inn Angus
+295531|Huff Estates
+295533|Timber House Country Inn Resort
+295535|Ramada Carlyle SK
+295538|Kokanee Springs Resort
+295539|Ramada Creston
+295541|Elkwater Lake Lodge and Resort
+295543|A Seafaring Maiden
+295546|Motel 6 Headingley
+295547|Surfside Inn
+295653|Ramada Cochrane
+295654|Four Points by Sheraton Levis Convention Centre
+295696|Georgina Resort and Conference Centre
+295698|Jordan House
+295699|Residence & Conference Centre - King City
+295702|Hill Island Resort
+295703|Howard Johnson Lindsay
+295705|Howard Johnson Melville
+295706|Hampton Inn by Hilton Sydney
+295709|Canadas Best Value Inn Port Colborne
+295710|LakeBreeze Niagara Bed & Breakfast
+295711|A1-Lakeview B&B
+295712|Le Finlandais Spa & Hôtel
+295714|Evergreen Gate Bed and Breakfast
+295715|Dragonfly Dock Bed and Breakfast
+295717|Hi Valley Motor Inn
+295718|Fox Harbor Golf Resort And Spa
+295720|Riverview Lodge
+295721|Donato House
+295723|Windermere House
+295724|Viamede Resort
+295788|Tod Mountain Ranch
+295836|Auberge La Goeliche
+295977|Chalets & Spa Lac Saint-Jean
+295978|Auberge Couleurs de France
+296229|Holiday Inn Express Waterloo - St. Jacobs Area
+296478|Les Suites Tremblant - Le Kandahar
+296826|Elk Ridge Resort
+296827|Maison Tait House
+296905|Motel Vue Belvedere
+298948|Heron's Landing Hotel
+298972|Maison de Vebron
+299071|Manor Guest House
+299072|Camilla House Bed & Breakfast
+301191|La Ferme
+301280|Shediac
+319765|Beacon Hill Motel
+320581|Rainbow Bed And Breakfast
+320635|Bow Valley Motel
+321160|Golden Village Inn
+324971|Parkway Motel
+363263|Alt Hotel Halifax Stanfield Airport
+365366|Element Vaughan Southwest
+365369|Four Points by Sheraton Edmonton International Airport
+365370|Four Points by Sheraton Kelowna Airport
+366595|Days Inn & Suites
+368153|Hampton Calgary Airport North
+368154|Elan
+368155|Radisson Hotel Conference Ct
+368157|Renaissance Edmonton Airport
+368158|Travelodge Spruce Grove
+368164|Courtyard Downtown Marriott
+368172|Residence Inn Airport Marriott
+368173|English Bay Inn
+368383|Bayside Inn And Waterfront Suites
+368395|Colonial Square Inn And Suites
+368397|Bw Plus Winnipeg West
+368398|Canad Inns Health Sciences Centre
+368399|Days Inn And Suites Winnipeg
+368400|Hampton Inn By Hilton Winnipeg Airport
+368409|Fairfield Inn & Suites Vernon
+368411|Fairfield Inn & Suites Moncton
+368414|Hotel Montfort Nicolet
+368415|Canadas Best Value Inn
+368566|Home Inn And Suites - Swift Current
+368575|Hume Hotel
+370177|Hampton Inn by Hilton Toronto/Brampton
+370225|Hampton By Hilton Chilliwack Bc
+370266|Quality Hotel Drumheller
+370298|Holiday Inn Express & Suites Fort Saskatchewan
+370368|Holiday Inn Express & Suites Timmins
+370369|Microtel Inn & Suites By Wyndh
+370486|Holiday Inn Express Pembroke
+370488|Hôtel Forestel
+370797|The Waddell
+370857|Super 8 Peace River Ab
+370977|Robins Inn-waasis
+370978|La Quinta Inn Ste Oshawa
+370981|Howard Johnson Strathmore
+370984|Days Inn & Suites Whitecourt
+370985|Quality Inn Winkler
+371464|Parkway Motel
+371584|Olds Pomeroy Inn And Suites
+371880|Knights Inn Lindsay
+372256|Ramada Conklin
+372259|Comfort Inn And Suites Fox Creek
+372267|Quality Inn Siuthhampton
+372470|Sandman Signature
+372491|Northern Lights Resort & Spa
+384022|Lion Motel
+391662|Microtel Inn & Suites Weyburn
+391663|Microtel Inn & Suites Blackfalds/Red Deer
+391943|Fernie Slopeside Lodge
+399645|Homewood Suites by Hilton Calgary-Airport
+399646|Homewood Suites by Hilton Winnipeg Airport-Polo Park
+399648|Hampton Inn & Suites by Hilton St. John's Airport
+399710|Hotel-Motel La Vigie
+399711|Motel La Marina
+399725|Delta Waterloo
+399728|Homewood Suites by Hilton Hamilton Ontario
+399739|Homewood Suites by Hilton Ajax
+400895|Le Chabrol Hotel & Suites
+400896|Podollan Rezi-dence Grande Prairie
+401169|Home Inn & Suites Yorkton
+401545|Holiday Inn Express & Suites Calgary NW - University Area
+401550|TownePlace Suites Thunder Bay
+401583|Homewood Suites by Hilton Waterloo/St. Jacobs
+401707|The Beverley
+401737|Comfort Suites Saskatoon
+401738|Sleep Inn
+401742|Mere
+401743|Banff Gate Mountain Resort
+401749|Holiday Inn Express Golden-Kicking Horse
+401754|Panorama Vacation Retreat at Horsethief Lodge
+401756|Hinton Lodge
+401846|Holiday Inn Express Yorkton East
+401893|Econo Lodge
+404555|Home2 Suites by Hilton West Edmonton
+405176|Mystery Lake
+406015|Hotel De La Borealie
+406016|Wya Point Resort
+407305|Delta Toronto
+408650|ALT Hotel Montreal Griffintown
+408806|Super 8 Brockville
+408810|Staybridge Suites West Edmonton
+408811|Ramada Emerald Park/Regina East
+408815|The Terrace View B & B
+408816|Super 8 Lloydminster
+408820|BLU Vancouver
+408821|Courtyard Winnipeg Airport
+411082|Super 8 Red Deer
+411958|Hampton Inn & Suites by Hilton Regina East Gate
+411976|Hampton Inn & Suites by Hilton Toronto Markham
+412981|TownePlace Suites Red Deer
+412983|TownePlace Suites Toronto Northeast/Markham
+413131|Ridgeback Lodge
+413453|Griz Inn
+413878|Skwachays Lodge
+414427|Le Cantilie Suites

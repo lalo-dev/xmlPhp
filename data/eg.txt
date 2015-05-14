@@ -1,0 +1,761 @@
+3|Sofitel Legend Old Cataract
+4|Ibis Styles Dahab Lagoon
+5|Dessole Aladdin Beach Resort
+8|Aqua Fun
+9|Arabella Azur Resort
+10|Arabia Azur Resort
+11|Beirut
+12|SUNRISE Grand Select Crystal Bay
+13|Coral Beach Rotana Resort
+14|Dawar el Omda Hotel
+15|Desert Inn
+17|El Samaka Beach Hotel
+18|El Tabia
+19|Geisum Village
+21|Giftun Azur Resort
+22|Grand Hotel
+23|Regina Resort
+24|Hilton Hurghada Plaza
+25|SUNRISE Holidays Resort
+26|Hilton Hurghada Resort
+27|Marriott Beach Resort
+28|Mövenpick Resort Hurghada
+29|Jasmine Village
+30|La Perla
+31|Marlin Inn Beach Resort
+32|Al Mashrabiya Resort
+33|Sonesta Pharaoh Beach
+35|Sunny Days Palma De Mirette Resort & Spa
+37|Mövenpick Resort & Spa El Gouna
+39|Presidential
+40|Reemyvera Resort
+41|Sea Shell
+42|Sand Beach
+43|Seahorse
+45|Smartline Colour Beach
+46|Sheraton Soma Bay Resort
+47|Sindbad Club Aquapark Resort - Beach Resort / Aquahotel / Aqua Park Resort
+48|Mercure Hurghada Hotel
+49|Comfort Ambassador Club
+51|Club Paradisio El Gouna
+54|Utopia Beach Club
+55|Sofitel Cairo El Gezirah
+56|Golden Tulip Flamenco
+57|Grand Pyramids
+58|Shepheard
+60|Le Meridien Heliopolis
+62|Mena House Oberoi
+63|Le Passage Cairo Hotel & Casino
+64|Mövenpick Cairo Pyramids
+65|Oasis
+66|President
+67|Safir Cairo
+68|Hilton Zamalek Residence
+69|InterContinental Cairo Semiramis
+71|Sheraton Cairo Towers & Casino
+72|Mercure Cairo Le Sphinx Hotel
+73|Victoria
+75|Eatabe Luxor Hotel
+78|Maritim Jolie Ville Kings Island Luxor
+79|Emilio
+80|Iberotel Luxor
+81|Sofitel Winter Palace Luxor & Pavillon Winter Luxor
+82|Sonesta St. George
+83|Hilton Nuweiba Coral Resort
+84|Mövenpick Resort El Quseir
+85|Lamar Resort Abu Soma
+86|Lotus Bay Beach Resort
+87|Safaga Marina
+88|Menaville Safaga
+89|Shams Safaga
+90|Baron Resort Sharm el Sheikh
+91|Dessole Cataract Resort & Cataract Layalina - Cataract Layalina
+92|Coral Sea Sensatori Resort
+93|Domina Coral Bay - Oasis
+94|Falcon al Diar Resort
+95|Hilton Sharm El Sheikh Fayrouz Resort
+96|Ghazala Beach / Village
+98|Helnan Marina Sharm
+99|Continental Garden Reef Resort
+100|Kahramana
+101|Sharm El Sheikh Marriott Resort - Beach / Mountain
+102|Maritim Jolie Ville Resort & Casino
+103|New Tiran
+104|Aquamarina
+105|Novotel Sharm el Sheikh Beach & Palm
+108|Sanafir Hotel
+110|Seti Sharm Resort
+111|Mövenpick Resort Sharm El Sheikh
+112|Sonesta Beach Resort
+115|Tropicana Rosetta & Jasmine Club
+116|Tropicana Tivoli
+117|Hilton Taba Resort & Nelson Village
+5172|Le Pacha Beach & Resort
+5700|Swiss Inn Resort Dahab
+5701|Sultan Bey Resort
+5702|Helnan Nuweiba Bay Resort
+5703|Al Bostan
+5772|Grand Resort
+6356|Sheraton Miramar Resort El Gouna
+6358|Beesh Beesh
+6359|LTI Albatros White Beach
+6361|The Three Corner Triton Empire
+6364|Sol Y Mar Paradise Beach
+6462|Gaddis
+6463|Pyramisa Isis Hotel & Suites Luxor
+6873|Dessole Pyramisa Sharm El-Sheikh Resort & Villas
+6874|Dreams Beach & Vacation Resort
+6875|Tropicana Nuweiba
+7184|Steigenberger Aqua Magic
+7225|Golden 5 Almas Resort
+7263|Beach Albatros Garden
+7366|Ali Baba Palace & Village
+7589|Amar Sina
+8091|Mövenpick Resort Aswan
+8285|Atlas Zamalek
+8586|Basma
+8630|Beach Albatros Sharm
+8680|Beirut
+8685|Bel Air Azur Resort
+8719|Bella Vista
+9198|Iberotel Borg El Arab
+9491|The Movie Gate Hurghada
+9520|Camel Dive Club & Hotel
+10396|Cinderella Beach
+10489|Cleopatra Assuan
+10492|Cleopatra Tsokkos
+10511|Club Azur Resort
+10775|Coral Beach Rotana Resort - Montazah
+10776|Coral Beach Rotana Tiran
+10862|Cosmopolitan
+11107|Daniela Village Dahab
+11884|Eden Rock
+11963|El Gezira
+12013|El Salamlek Palace
+12295|Europa
+12410|Falcon Hills & Viva Sharm - Falcon Hills
+12421|Fanadir Holiday Resort
+12425|Alf Leila Wa Leila
+12428|Fantazia
+12865|Fort Arabesque
+12935|Four Seasons Cairo at the First Residence
+12995|Friendship
+13419|Grand Plaza Hotel & Resort
+13420|Tirana Grand Azure
+13488|Grand Makadi
+13859|Hauza Beach Resort
+13909|Helnan Palestine
+13989|Dahab Resort
+14008|Hilton Luxor
+14024|Hilton Sharm Dreams Resort
+14025|Hilton Sharm Waterfalls Resort
+14305|Sultan Gardens Resort
+14370|Hor Palace
+14515|Hyatt Regency Sharm El Sheikh
+14517|Miramar Resort Taba Heights
+14556|Iberotel Club Fanara & Residence
+14557|Iberotel Coraya Beach
+14558|Royal Grand Sharm
+14559|Iberotel Lido
+14560|Iberotel Makadi Beach
+14561|Iberotel Makadi Oasis Club & Resort
+14562|Iberotel Palace
+14794|Inmo Divers Home
+14870|Pyramids Park Resort
+14938|Isis Corniche
+15162|Kahramana Beach Resort
+15861|Lagona Village / Dahab
+15879|Laguna Vista Beach Resort
+16102|TIA Heights Makadi Bay
+16111|Le Meridien Pyramids
+16195|Royal Rojana Resort
+16351|Lillyland Beach Club Resort
+16650|Magawish Village Resort
+16705|Jaz Makadi Star & Spa
+16706|TASTY Jaz Makadina
+16707|Sol y Mar Makadi Sun
+16757|Mangrove Bay Resort
+17039|Marriott Cairo & Omar Khayyam Casino
+17487|Minamark Beach Resort
+17712|Moon Valley Resort
+17992|Nile Ritz-Carlton
+18039|Noria Resort
+18061|Novotel Cairo 6th Of October
+18175|The Oberoi Sahl Hasheesh
+18346|Orca Village
+18506|Palermo Resort Hotel
+18553|Palmera Beach Resort
+18850|Aida Sharm
+18853|Turquoise Beach Hotel
+18932|Pensee Royal Garden Resort
+18999|Pharaon
+19009|Philippe
+19240|New Pola
+19427|Ghazala Gardens
+19461|Princess Club
+19562|Pyramisa Suites Hotel & Casino
+19809|Taba Paradise Resort
+19910|Hilton Ramses
+19997|Reef Oasis Hotels & Resorts - Reef Oasis Beach Resort
+20056|Regina Nuweiba Resort
+20521|Robinson Club Soma Bay
+20565|Roma
+20664|Royal Azur Resort
+20707|Royal Paradise
+20736|Zak Royal Wings
+20848|Safari Beach Resort
+21300|Nubian Village
+21302|Sea Garden
+21303|Sea Gull Beach Resort
+21309|Sol Y Mar Sea Star
+21310|Sea Star Beau Rivage
+21460|Shams Alam Beach Resort
+21479|Sharm Holiday Resort
+21481|Sharming Inn
+21534|Fairmont Heliopolis & Fairmont Towers
+21547|Sheraton
+21557|Sheraton Montazah
+21585|Sheraton Sharm Hotel & Villas Resort
+21610|Siag Pyramids
+21718|Siva Grand Beach
+21915|Sonesta
+21920|Sonesta Club
+22084|St. Joseph
+22166|Steigenberger Golf Resort
+22296|Sultan Beach Resort
+22384|SunSet
+22446|El Khan
+22448|Stella Grand Hotel
+22449|Dive Inn Resort
+22966|Monte Carlo Resort
+23019|The Three Corners Rihana Resort & Rihana Inn
+23116|Amira Safaga
+23119|Barceló Cairo Pyramids
+23459|Partner Tutotel
+23503|Karma
+24349|Waves Beach Resort
+24600|Windsor Zaafarana Hotel & Resort
+24609|Zahabia
+24777|Pyramisa Isis Island Aswan
+25805|Sunny Days El Palacio
+25807|AA Grand Oasis Resort
+25833|Club Calimera Akassia Swiss Resort & lti Akassia Beach - Club Calimera Akassia Swiss Resort
+25851|Tropitel Naama Bay
+25859|The Bayview Resort Taba Heights
+26315|MAGIC LIFE Sharm el Sheikh Imperial
+26425|Sharm Plaza
+26426|Radisson Blu Resort Sharm el Sheikh
+26462|Concorde El Salam Sharm Beach & Sports
+26563|Naama Sun
+26585|Hilton Long Beach Resort
+26627|Hilton Sharks Bay Resort
+26750|Royal Albatros Moderna
+26751|Al Diwan Resort
+26783|Brigitte
+27099|Maadi
+27309|Cataract Pyramids Resort
+27311|Cairotel
+27377|Valtur Club Sinai Grand Resort
+27889|Beach Albatros Resort Marsa Alam
+27893|Catherine Plaza
+27894|Wadi El-Raha
+27939|Nefertari
+27940|Seti Abu Simbel
+28051|Tropicana Rosetta & Jasmine Club - Rosetta
+28480|Mexicana Sharm Resort
+30052|Les Rois
+30879|Steigenberger Nile Palace
+31089|The Desert Rose Resort
+31193|Marsa Shagra
+31194|Wadi Lahami - geschlossen
+31195|International Hot Spring
+31197|Sol y Mar The Pioneers
+31199|Paradise
+32131|Savoy Hotels - Savoy / Royal Savoy / Sierra / The Villas
+32252|The Three Corners Palmyra Resort
+32303|Sharm Inn Amarein
+32400|Captain's Inn
+32401|Turtle's Inn
+32649|Lahami Bay
+32919|SUNRISE Select Garden Beach Resort & Spa
+33195|Aurora Oriental Resort
+34942|Jaz Makadi Saraya Resort
+35848|Island View Resort
+35920|Cataract Resort
+35938|Montillon Grand Horizon Beach Resort
+36240|Grand Seas Hostmark
+36596|Novotel Cairo Airport
+36597|Happy City
+36599|Al Moudira
+36600|La Residence Des Cascades Golf, Spa & Thalasso
+36602|Four Seasons Resort
+36603|Happy Life Village
+38296|Solitaire Resort
+38370|SENTIDO Palm Royale
+38768|Zoser
+38769|Renaissance Golden View Beach Resort
+38830|Arena Inn Hotel & Arena Inn Appartements - Hotel
+38880|The Three Corners Ocean View
+39071|Dana Beach Resort
+39085|Crystal Sharm
+39241|Club Reef Resort
+39418|Mercure Romance Alexandria
+39419|Steigenberger Hotel Cecil
+39441|Sentido Kahramana Park
+39442|Jaz Solaya Resort
+39508|JAZ Dahabeya
+41092|Golden 5 The Club Hotel
+41689|Ganet Sinai Resort
+41690|Three Corners Equinox Beach Resort
+41769|Andreas
+42341|The Three Corners Triton Empire Beach Resort
+42349|Amarante Garden Palms Resort
+42359|Festival Shedwan Golden Beach Resort
+42484|Pharaohs
+42486|JW Marriott Cairo
+42487|Conrad Cairo
+42490|Hilton Pyramids Golf Resort
+42492|Beach Albatros Resort
+42668|Sofitel Taba Heights
+42669|Hilton Alexandria Green Plaza
+42670|Morgenland Village
+42671|St.Catherine Village
+47878|Xperience Kiroseiz Parkland
+48205|King Tut Aqua Park Beach Resort
+48208|Mercure Luxor Karnak
+48210|Jaz Lamaya Resort
+48299|Domina Coral Bay - Prestige Resort
+51414|Grand Nile Tower
+51974|Luna Sharm
+52516|Mövenpick Cairo Media City
+52517|Paradise Inn Beach Resort
+52518|Windsor Palace
+52520|Rixos Alamein
+52522|Sea Life Resort
+52544|Concorde el Salam Cairo
+52546|Kanabesh
+52633|Jewels Sahara Resort
+52661|Star
+52741|Sol Y Mar Riva Club/ Sol y Mar Riva Mar/ Sol y Mar Riva Beach
+52917|All Seasons Badawia
+52918|Poinciana Sharm Resort
+53276|Four Season Nile Plaza
+53277|Meliá Sinai
+53709|Dessole Titanic Aqua Park Resort
+54509|Tulip Resort
+57000|TUI best FAMILY Iberotel Samaya
+57001|Elaria Beach Resort
+59330|Ali Pasha Hotel
+59867|Jaz Belvedere
+59873|Om Kolthoom Hotel & Towers
+59878|Beduin Moon
+60191|Desert Lodge
+61015|Princess Palace
+61016|Halomy Village
+61226|Horus
+62089|Golden 5 Paradise Resort
+62340|El Samaka Comfort Hotel
+62341|Makadi Palace
+62460|Island Garden Resort
+62528|Elysees
+62611|SUNRISE Select Royal Makadi Resort
+62633|Carnelia Beach Resort
+63174|Sabena Marmara Resort
+63440|Sea Club Resort
+63441|Verginia Sharm Resort
+63442|Xperience St. George Homestay
+63448|Calimera Habiba Beach Resort
+63561|Gafy Resort
+63781|El Wekala Golf Resort
+63782|Sol Taba Red Sea
+63783|Dessole Holiday Taba Resort
+63784|Morgana Azur Resort
+63914|Faraana Reef Resort
+64694|Charm Life Paradise Resort
+64904|Gardenia Plaza Hotel & Resort
+64964|Palm Beach Resort
+65164|Pickalbatros Sea World
+65166|Nefertari
+65167|Panorama Bungalow Resort El Gouna
+66254|Dreams Beach Marsa Alam
+66325|El Gezira Gardens
+66326|Intercontinental Citystars Cairo / Heliopolis
+66327|Reef Oasis Hotels & Resorts - Reef Oasis Blue Bay Resort
+68181|Harmony Makadi Bay Resort
+68294|Grand Rotana Resort & Spa
+68446|Park Inn by Radisson Sharm El Sheikh Resort
+68802|Swiss Inn Plaza Resort Marsa Alam
+69491|Jaz Almaza Beach Resort
+69493|Porto Marina Resort & Spa
+69494|Radisson Blu El Quseir
+69495|Jaz Mirabel Resort - Club / Park / Beach
+69503|Hotel La Perla
+69554|Falcon Hills & Viva Sharm - Viva Sharm
+70039|Ramada Plaza
+71083|Ecolodge Awlad Baraka
+71161|Golden 5 Diamond Resort
+71427|Sunwing Family Star
+71431|Nubian Island
+71650|Sharm Club Resort
+71651|Sharm Reef
+72045|Baron Heliopolis
+72246|Tropitel Dahab Oasis Resort
+72247|Mövenpick Taba Resort
+72690|Horizon
+72691|Blue Reef
+73118|Concorde
+73155|Hormoheb
+73156|Indiana
+73160|Zouara
+74032|Tamra Beach
+74714|Strand Taba Heights Beach & Golf Resort
+75026|The Karvin
+75028|Caroline Crillon
+75378|Sea View
+75426|Royal Marshal
+75555|Casablanca Delta Pyramids
+75668|Horizon Pyramids
+75730|Delta Sharm Resort
+75748|Country Club
+75752|Middle East
+75873|Abu Dabab Diving Lodge
+76310|Dessole Cataract Resort & Cataract Layalina
+76358|Steigenberger Al Dau Beach
+76675|Eiffel
+76850|Premium Blue Lagoon Resort
+76851|Dessole Pyramisa Sahl Hasheesh
+76852|Serenity Makadi Beach
+76853|Siva Sharm
+76915|Al Nabila Grand Makadi
+77026|Domina Coral Bay - Harem Resort
+77290|Sharm Cliff Resort
+77291|Talisman
+77292|Gawharet Al Ahram
+77381|Cinderella
+77435|Coral Garden
+77592|Prima Life Makadi Resort
+77743|Marhaba
+77744|Nuweiba Resort Swisscare
+77880|Domina Coral Bay - Sultan
+77935|Regency Plaza Aqua Park & Spa Resort
+78630|SENTIDO Mamlouk Palace Resort
+78633|Coral Sea Oriental
+79388|Rehana Sharm Resort
+79520|Morris Luxor
+79878|Caribbean World Soma Bay
+80012|Sultana Beach Resort
+80454|Stella Sea Club Hotel
+81754|Panorama Bungalows Resort Hurghada
+81767|Ras Sudr Resort
+81772|El Nabila
+81852|Domina Coral Bay - King's Lake Resort
+81949|Ramada Ras Sudr
+82223|Pharao Egypt
+82280|Nefertiti Sun Flower
+82329|Hilton Alexandria Corniche
+82364|Domina Coral Bay - Aquamarine Resort
+82366|Sol Y Mar Makadi Marine
+82409|Baron Palms Resort Sharm El Sheikh
+82704|El-Malikia Resort Abu Dabbab
+85120|Three Corners Fayrouz Plaza
+85267|Aqua Blu Resort
+85666|SunConnect Sunrise Diamond Resort
+85783|Sharm Grand Plaza
+85973|Coral Hills Resort
+86045|Jannah Beach
+86090|MAGIC LIFE Kalawy Imperial
+86353|Royal House
+86683|Ecolodge Nakari Village
+86746|Crystal Cyrene
+86806|Otium Aloha
+86810|Amwaj Oyoun Hotel & Resort
+86811|Souvenir
+86866|Windsor
+86980|Otium Golden
+87220|Royal City
+87395|RED SEA HOTELS - Siva Port Ghalib / The Palace Port Ghalib / Port Ghalib Resort
+89082|Pyramids View
+90002|Imperial Shams Abu Soma
+90003|Le Mirage New Tower
+90142|Sea Garden Resort
+90162|Sun & Sea
+90175|Tropicana Azure Club
+90194|Maritim Jolie Ville Golf & Resort
+90666|Arabesque
+90667|Flopater
+90671|Makadi Spa
+90705|Otium Amphoras
+90706|Continental Plaza Beach Resort (ex Inter Plaza Beach)
+90897|Regency Hotel
+90898|Kaoud Sporting
+90900|Elphistone Resort
+91078|Titanic Beach Spa & Aqua Park
+91103|Santana
+91129|Mercure Forsan Island Ismailia
+91134|Siwa Shali Resort
+91135|Helnan Auberge
+91136|Kasr El Bawity
+91157|Aurora Nada Marsa Alam Resort
+91201|Queens Valley
+91362|Zabargad Berenice Resort
+91364|The Oasis
+91557|Creative Green Sudr Resort
+91574|Maritim Jolie Ville Royal Peninsula Hotel & Resort
+91618|Magic Nile Cruiser Boat
+91780|Le Mirage Moon Resort
+91997|Aqua Vista Resort & Spa
+93124|Cleopatra Makadi Bay
+94021|Cairo Khan
+95055|The Three Corners Sea Beach Resort
+95503|Holiday Inn Cairo Maadi
+95504|Le Meridien Dahab Resort
+95509|Paradise
+95583|Grand Marina
+96123|Stella di Mare Golf
+96512|Steigenberger Makadi
+96675|The Breakers Diving & Surfing Lodge
+97210|Marina Lodge at Port Ghalib (ex: Coral Beach Marina Lodge)
+97806|Green Village Resort
+97905|Laguna Vista Garden Resort
+98259|Royal Beach Resort
+98344|Tauchbasis - TGI Diving Center/Sheraton Miramar
+98345|Jaz Dar El Madina
+98349|Oriental Rivoli
+99456|Dessole Sea Beach
+99925|Festival Le Jardin Resort
+99957|Albatros Palace Resort
+100251|Kempinski Soma Bay
+100348|Gorgonia Beach
+100525|Rehana Royal Beach Resort & Spa
+100547|El Hayat Sharm
+100548|Blue Reef Marsa Alam
+100694|Swiss Inn Luxor
+101007|Citadel Azur
+101603|Savoy Hotels - Sierra
+102210|Premier Le Rêve Hotel & Spa
+102481|Jaz Aquamarine Resort
+102582|Dima Beach Resort
+102612|Stella Makadi Resort & Spa
+102686|Sentido Oriental Dream Resort
+102690|Tirana Aqua Park Resort
+102917|Mövenpick Resort El Sokhna
+102919|Swiss Inn Pyramids Golf Resort & Swiss Inn Plaza - Swiss Inn Pyramids Golf Resort
+103611|Sol y Mar Ivory Suites
+103716|Fairmont Nile City
+103803|Swiss Inn Nile
+105048|Dome Marina Swiss Inn Resort
+107572|Hilton Cairo World Trade Center Residence
+110413|New Ramoza
+110475|Sol y Mar Shams Suites
+110603|Nesima Resort
+122235|Sea Sun
+122257|Carols Beau Rivage
+122508|Four Seasons Alexandria at San Stefano
+122623|Festival Riviera Resort
+122634|Old Palace Resort Sahl Hasheesh
+122635|Amarante Pyramids
+122637|Sheraton Dreamland
+122892|Jungle Aqua Park
+122893|The Three Corners Sunny Beach Resort
+122934|AL Remal Port
+125018|Ocean Club
+126426|Resta Reef Resort
+130840|Aifu Resort El-Montazah
+130844|Falcon Naama Blue
+134243|Tobya Boutique
+134472|Sol Y Mar Dolphin House
+134561|Family Club Hotel
+134617|Mina Palace Hotel
+134656|Resta Club Resort / Resta Sharm
+134695|Viking Club
+135041|Panorama Naama Heights
+135292|Cliff Top
+136417|Dahab Paradise
+136534|RED SEA HOTELS - The Palace Port Ghalib
+136601|Caesars Palace
+138354|Holiday Inn Citystars
+139762|Wadi Lahmy Azur Resort
+139857|Sol Dahab Red Sea
+140083|Karnak Hotel
+140473|Resta Grand Resort
+140486|Yara Beach Club
+143426|Fantazia Resort
+144317|Desert Pearl
+144364|Mediterranean Azur
+151698|Dusit Thani Lake View Cairo
+151702|Logaina Sharm Resort
+151705|Novotel Cairo El Borg
+156945|Golden 5 Sapphire Suites Hotel
+163381|Sol Y Mar Sharks Bay
+182139|Mirage New Hawaii Resort & Spa
+182408|Premier Ibrahim Pasha
+182426|Sensimar Makadi
+182430|Floriana Dream Lagoon
+182431|Floriana Emerald Lagoon
+182432|Sol Y Mar Naama Bay
+182539|Premier Romance Boutique
+182540|Stella di Mare Sharm Beach Hotel & Spa
+182874|Jaz Little Venice Golf Resort
+182902|Plaza Alexandria
+182964|Pasadena Boutique Hotel & Resort
+183180|Tiran Island
+183182|Albatros Amira Resort & Spa
+183425|Holidays Express
+183428|Falcon Naama Star
+184029|Helnan Aswan
+185342|Rixos Sharm el Sheikh
+187852|Tiba Pyramids
+187854|Swiss Inn Dream Resort
+188029|Jaz Crystal
+188030|Pyramisa Sunset Pearl
+188075|Jaz Makadi Saraya Palms
+188076|JAZ Oriental Resort
+195933|The Resort Apartments
+201839|Golden 5 Topaz Suites Hotel
+202840|La Hacienda Beach Resort
+202958|Paradise Club Shoni Bay
+203067|Marina Residence
+203070|Le Riad de Charme
+203290|Amwaj Blue Beach Resort & Spa
+213662|Magma Apartments Hurghada Dream
+214055|Miami Beach Hotel
+214392|Nakhil Inn And Dream
+216540|Radisson Blu Alexandria
+218607|Swiss Wellness Spa Resort
+226569|Club Med Sinai Bay
+227235|Le Royale Sonesta Collection Luxury Resort
+227343|Aurora Bay Resort
+227690|The Grand Sharm El Sheikh
+227711|Mosaique Hotel
+227727|Paradise Makadi Beach
+227740|Cleopatra Luxury Resort
+227755|Titanic Palace
+227874|Sphinx Resort
+227882|Fanadir Hotel
+227962|Kempinski Nile Hotel
+228076|Onatti Beach Resort
+228143|AMC Royal Hotel
+228147|Golden 5 Emerald Resort
+228152|Radisson Blu Hotel, Cairo Heliopolis
+228195|T-Club Berenice Villas
+228240|Melia Sharm
+228562|Sunwing Waterworld Makadi
+228748|Pharaoh Club
+228758|Happy Life Resort
+229480|JAZ Bluemarine
+229490|Makadi Fun City
+229496|Iberotel IL Mercato
+229768|Golden Rose
+231719|Coral Sun Beach
+231870|Club Calimera Akassia Swiss Resort & lti Akassia Beach - lti Akassia Beach
+231911|Serenity Fun City Resort
+231985|4S Hotel
+231986|Partner Royal
+232019|Shams Prestige Resort
+232169|El Andalous Apartments
+232170|Palm Beach Piazza
+233327|Aquamarine Sun Flower Resort
+233328|Helnan Taba Resort
+233618|Barceló Tiran Sharm
+234839|Domina Coral Bay - Elisir
+234899|Palm Azur Resort
+235293|Magic Beach
+236087|Da Vinci
+236089|Sharm Resort
+236286|Stella Makadi Gardens
+236949|Hilton Marsa Alam Nubian Resort
+237823|Tropitel Sahl Hasheesh
+239834|Xperience Sea Breeze Resort
+241301|Bravo Mount Verde
+241548|Baron Palace Sahl Hasheesh
+241875|Flobater Luxor
+241876|Aqua Hotel Resort & Spa
+243609|Sunrise Grand Select Montemare
+243611|SUNRISE Grand Select Arabian Beach Resort
+243899|Dyarna
+243902|Nemo Dive Club and Hotel
+245351|Sharm El Sheikh Marriott Resort - Beach
+245353|Sharm El Sheikh Marriott Resort - Mountain
+246714|Dreams Beach & Vacation Resort - Dream Beach
+246715|Dreams Beach & Vacation Resort - Dreams Vacation
+247273|Sindbad Club Aquapark Resort - Beach Resort
+247275|Sindbad Club Aquapark Resort - Aquahotel
+247323|Grand Plaza Hotel & Resort - Grand Plaza Hotel
+247324|Grand Plaza Hotel & Resort - Grand Plaza Resort
+247500|Savoy Hotels - Royal Savoy
+249108|Concorde Moreen Beach Resort & Spa
+249652|Le Metropole
+249661|Hauza Mandarin
+250063|Abo Nawas
+250075|Gemma Resort
+252700|Veraclub Queen Sharm
+258677|Taziry Ecolodge
+259994|Sol Y Mar Riva Club/ Sol y Mar Riva Mar/ Sol y Mar Riva Beach - Riva Club
+259995|Sol Y Mar Riva Club/ Sol y Mar Riva Mar/ Sol y Mar Riva Beach - Riva Mar
+259996|Sol Y Mar Riva Club/ Sol y Mar Riva Mar/ Sol y Mar Riva Beach - Riva Beach
+260200|Novotel Sharm el Sheikh Beach & Palm - Beach
+260202|Novotel Sharm el Sheikh Beach & Palm - Palm
+260461|Sea Club Aqua Park
+260473|Fairmont Heliopolis & Fairmont Towers - Fairmont Heliopolis
+260474|Fairmont Heliopolis & Fairmont Towers - Fairmont Towers Heliopolis
+260490|Jaz Mirabel Resort - Club
+260491|Jaz Mirabel Resort - Park
+260492|Jaz Mirabel Resort - Beach
+260607|Sheraton Sharm Hotel & Villas Resort - Sheraton Sharm Hotel
+260608|Sheraton Sharm Hotel & Villas Resort - Sheraton Sharm Villas Resort
+261673|Reef Oasis Hotels & Resorts - Beach Resort / Senses Resort / Blue Bay Resort
+261674|Reef Oasis Hotels & Resorts - Sentido Reef Oasis Senses Resort
+265607|The Three Corners Rihana Resort & Rihana Inn - Rihana Resort de Luxe
+265608|The Three Corners Rihana Resort & Rihana Inn - Rihana Inn
+265682|Domina Coral Bay - Aquamarine / Elisir / Harem / King's Lake / Oasis / Sultan / Prestige
+265730|Lotus
+277488|Roots Camp
+284858|Triton Empire Inn
+295447|Rocketa
+296595|Coral Hills Resort
+296668|Amazonia Gardenia Hurghada
+297183|Mövenpick Resort Soma Bay
+301890|Coral Sea Holiday Village
+301892|Coral Sea Aqua Club
+301893|Coral Sea Water World
+301894|Aida Better Life
+302260|Sofitel Winter Palace Luxor & Pavillon Winter Luxor - Pavillon Winter Luxor
+302261|Sofitel Winter Palace Luxor & Pavillon Winter Luxor - Sofitel Winter Palace
+302267|RED SEA HOTELS - Port Ghalib Resort
+302268|RED SEA HOTELS - Siva Port Ghalib
+302344|Rehana Royal Prestige Resort & Spa
+302384|Swiss Inn Pyramids Golf Resort & Swiss Inn Plaza - Swiss Inn Plaza
+302499|Laguna Beach Resort
+309135|Rohanou Beach Resort & Ecolodge
+309202|Tropicana Rosetta & Jasmine Club - Jasmine Club
+310946|Arena Inn Hotel & Arena Inn Appartements - Appartements
+310947|Arena Inn Hotel & Arena Inn Appartements
+311052|TIA Aqua Park Hotel & Resort
+314382|Savoy Hotels - Savoy
+335056|Sunrise Orchid Resort
+335805|Premium Palma Resort
+359927|Concorde El Salam Sharm Beach & Sports - Beach
+359928|Concorde El Salam Sharm Beach & Sports - Sports
+365523|Three Corners Royal Star Beach
+365537|Nubia Aqua Beach Resort
+366596|Faraana Heights Resort
+366767|Albatros Garden Resort
+366775|Le Meridien Cairo Airport
+366782|Grand Azure Resort
+372995|Flamenco Beach & Resort
+391231|Makadi Garden Azur Resort
+392457|Jasmin Palace Resort & Spa
+404219|Caves Beach Resort
+405271|Resta Club Marina View Port Ghalib
+405991|Iberotel Makadi Oasis Club & Resort - Oasis Club
+405992|Iberotel Makadi Oasis Club & Resort - Oasis Resort
+405999|La Maison Bleue
+406488|Zee Resorts - Zee Brayka Lagoon Resort
+407210|Sindbad Club Aquapark Resort - Sindbad Aqua Park Resort
+407821|Zee Resorts - Zee Brayka Beach Resort
+408733|Zee Resorts - Zee Brayka Bay Resort
+408947|Club Calimera Akassia Swiss Resort & lti Akassia Beach
+409279|Jaz Makadi Aquaviva
+411448|Mirage Aqua Park Hotel und Spa
+415534|Queen Marsa Alam Resort
+417547|Viva Blue Resort & Diving, Sharm El Naga

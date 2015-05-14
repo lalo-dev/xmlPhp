@@ -1,0 +1,687 @@
+7064|Acces
+7352|Theater
+7665|Amigo
+7931|Aragon
+7998|Aris
+8127|Astoria
+8150|Astrid Centre
+8154|Radisson Blu Astrid Antwerp
+8499|Radisson Blu Balmoral Spa
+8637|Beach Palace
+8667|Bedford
+8744|Grand Belle Vue
+8920|Best Western County House Of Brussels
+8979|Navarra
+9442|Cajou
+10408|Sofitel Brussels Le Louise
+10610|Siru
+10710|Steigenberger Grandhotel
+10864|Cosmopolite
+10927|Best Western Residence Cour Saint Georges
+10996|Crowne Plaza Le Palace
+11215|Sunparks De Haan
+11707|Spa-Balmoral
+11804|Duinendaele
+11865|Eden Hotel Antwerp
+12838|Floris Louise
+12890|HC Brussels
+12897|Four Points Brussels
+13304|NH Grand Place Arenberg
+13489|Bloom
+14151|pentahotel Brussels City Centre
+14525|TOP CityLine Hyllit Hotel
+14567|Ibis Antwerpen Centrum
+14576|Ibis Brügge Centrum
+14577|Ibis Brussels City Centre & Sainte Catherine
+14581|Ibis Centrum Opera Gent
+14591|Ibis Gent Centrum St Baafs Kathedraal
+15011|Jan Brito
+15088|NH Brussels du Grand Sablon
+15312|Sunparks Kempensen Meren
+16084|Hilton Brussels Grand Place Hotel
+16228|Leopold Brussels EU
+17305|Best Western Dinant
+17405|Metropole
+18016|Noordzeepark Zeepolder
+18017|Noordzeepark Zeewind
+18073|Novotel Brügge Centrum
+18074|Leonardo Brügge
+18078|Novotel Gent Centrum
+18285|Olympia
+18322|Sunparks Oostduinkerke Aan Zee
+18394|Ostend
+19476|Prins Boudewijn
+19636|Queen Anne
+19780|Radisson Blu Royal
+19801|Radisson Blu Park Lane
+20094|Martin's Relais
+20744|Rubens
+20872|Saint Sauveur
+21510|Sheraton Brussels
+21793|NH Brugge
+21801|NH Gent Belfort
+22929|Plaza
+23091|Thermae Palace
+23438|Royal Astor
+23620|Marivaux
+23689|Sunparks Ardennen
+23964|Hotel O Kathedral
+24654|Zon en Zee
+28990|Ambassador
+28991|Hans Memling
+28992|Floris Ustel Midi
+30490|Ibis Brussels Centre Gare Midi
+32910|Domain Westhoek Appartements
+32911|Sanglier Des Ardennes
+33512|Auberge d' Alsace
+33513|Le Val de Poix
+33514|Chateau de Limelette
+33515|Beauregard
+33516|Molenheide Ferienpark
+33520|Best Western Hotel Richmond
+34270|Silken Berlaymont
+35229|Marinapark
+35481|Citadines Sainte Catherine
+36468|Chateau de Namur
+36469|Quartier Latin
+36470|Mercure Antwerpen Centrum Opera
+36550|Novotel Brussels Centre Tour Noire
+36628|Novotel Brüssel off Grand Place
+37418|Europahotel
+37419|Thon Bristol Stephanie
+37420|Du Parc
+37760|Center Parcs Erperheide
+38051|Warwick Barsey
+38374|Royal Windsor Grand Place
+39253|Novotel Antwerpen
+39254|Royal Astrid
+39611|Bero Ostend
+39613|Azaert & Aazaert
+39721|Best Western Chamade
+39987|NH Atlanta Brussels
+39988|Oud Huis de Peellaert
+40592|Academie
+40955|Best Western Docklands
+41314|Landal Village l'Eau d'Heure
+42296|Velotel Brugge
+42615|Best Western Brussels East
+42616|Leopold
+42617|Chaochow Palace
+42619|Ramada Plaza Antwerp
+42620|Crowne Plaza Antwerp
+42621|Crowne Plaza Brugge
+42622|De Orangerie
+42623|De Tuilerieen
+42624|Martin's Brussels EU
+42625|Alliance Hotel Brussel Airport
+42626|Martin's Grand Hotel
+42627|Hilton Antwerpen
+42628|Hilton Brüssel City
+42629|Holiday Inn Expo Gent
+42630|Alliance Hotel Brussels Expo
+42631|Holiday Inn Express Gent
+42632|Alliance Hotel Liege Palais des Congres
+42633|Les Jardins De La Molignee
+42634|Izan Avenue Louise
+42635|Pentahotel Liege
+42637|Eurostars Montgomery
+42639|Novotel Ieper Centrum Flanders Fields
+42640|Hampton's Namur
+42643|Park
+42644|Portinari
+42646|Thon Brussels Airport
+42647|Renaissance Brussels
+42649|Scandic Grand Place Hotel
+42650|Stanhope
+42651|Century
+42653|Van Belle
+46767|Scandic Antwerpen Hotel
+46864|Le Plaza
+47323|Best Western Royal Centre
+47324|Husa President Park
+48383|NH Brussels City Center
+48512|Ibis Brussels off Grand' Place
+54648|Le Dome
+54649|Crowne Plaza Europa
+54650|Best Western City Centre
+54651|Marriott Brussels Grand Place
+54652|Sheraton Airport
+54654|Holiday Inn Schuman
+54656|Gresham Belson
+54657|Courtyard Brussels
+54658|Holiday Inn Express Antwerp City - North
+54659|Ghent River
+54660|Gravensteen
+55575|Radisson Blu Palace Spa
+55711|The Augustin
+56181|NH Stephanie
+56332|New Damshire
+58690|Globales Post & Wellness Hotel
+58882|Beverly Hills
+60336|Theaterhotel Leuven Centrum
+60802|Exe Grand Place Hotel
+61019|Le Val d'Arimont
+61796|Ramada Plaza Liège City Center
+63711|Crowne Plaza Brussels Airport
+63842|Marriott Executive Apartments European Quarter
+64084|Hotel Value Stay Bruges
+64961|Holiday Inn Airport Brussels
+69278|Prinse
+70517|Heritage
+71273|pentahotel Leuven
+72034|Carrefour de l'Europe
+72145|Martin's Klooster
+72146|Ramada Ostend
+72693|New Prince de Liege
+73339|NH Brussels Airport
+74693|Imperial
+74900|Citadines Toison d'Or
+75829|La Madeleine
+76840|Floris Arlequin Grand Place
+76843|M-Hotel
+76844|NH Gent Sint Pieters
+76845|NH Mechelen
+76847|Scandinavia
+76849|Mercure Brussels Airport
+77489|Brussels
+78501|Center Parcs De Vossemeren
+78837|Sofitel Brussels Europe
+79793|Monasterium Poortackere
+79826|Novotel Leuven Centrum
+79966|Ibis Styles Antwerpen City Center
+79967|Martin's Brügge
+79968|Golden Tulip de Medici
+82377|Thon Brüssel City Centre
+82701|Atlas
+83369|Best Western New Hotel de Lives
+83607|Antwerp Diamond
+83635|Floris Karos Hotel Bruges
+83644|Des Colonies
+83769|De Fierlant
+86076|La Ferme du Chateau d'Emines
+87780|Le Chatelain All Suite
+87882|Best Western Les 3 Cles
+88748|Progress
+88911|Dolce La Hulpe Brussels
+89453|Dominican
+89491|Azalea
+92186|Campanile Gent
+92482|Anselmus City Center
+93149|Campanile Brüssel Vilvoorde
+93776|De Castillion
+95256|De Panne Parkhotel
+98150|Holiday Inn Express
+99888|Marriott Ghent
+100216|Ambassador
+100217|Glenmore
+100218|Pacific
+100219|Andromeda & Thalassa
+100221|Malecot
+100223|Du Commerce
+100224|Avenue
+100273|Exe Sablon
+100274|9Hotel Central
+100935|Lindner Hotel & City Lounge
+102610|Brugotel
+102611|Best Western Premier HNA Sodehotel La Woluwe
+102615|Leonardo
+102623|Made in Louise
+102625|Campanile Brüssel Airport
+103599|Maraboe
+103874|Agenda Midi
+103909|Albergo
+104104|ApartWellington
+104189|Astoria
+104339|Beau Site
+104393|Belmont
+104529|Best Western Ambassador Menen
+104531|Best Western Ambassador Bosten
+104600|Best Western Belfort
+104982|Best Western L'Amandier
+105008|Best Western Plus Hotel Lido
+105158|Best Western Acacia
+105166|Best Western Premier Keizershof
+105175|Best Western Premier Park
+105202|Best Western L'Auberge
+105251|Serwir
+105263|Best Western Sirius
+105313|Ter Elst
+105554|B-Apart Ambiorix
+105618|Capital
+106441|Corsendonk Priory
+106442|Corsendonk Viane
+106652|De France
+106919|Europ
+106925|B-Aparts Louise
+106981|Holiday Inn Express Mechelen City Center
+107127|Tryp by Wyndham Antwerp
+107128|Keyserlei
+107230|Georges V
+107365|Grand Hotel Damier
+107705|Holiday Inn Hasselt
+107931|Housing Brussels
+107944|Novotel Brussels Airport
+108325|Lambermont
+108376|Le Centenaire
+108607|Manos Premier
+108608|Manos Stephanie
+108880|Ibis Styles Meeting Center Louvain la Neuve
+108898|Mercure Mons
+109164|Monty Small Design
+109188|Mozart
+109352|Novotel Mechelen Centrum
+109489|Opera
+109741|Prinsenhof
+110532|Radisson Blu EU
+110671|Saint Nicolas
+110882|Golden Tulip Brussels Airport
+111129|Ter Brughe
+111558|Hôtel Villa Royale
+111854|Cascade Louise
+122329|Rosenburg
+124081|Tulip Inn Antwerpen
+125898|First Euroflat
+125899|New Charlemagne
+125900|Mirabeau
+125968|Fevery
+125969|Colombus
+127663|Ecu
+127714|Best Western Gulden Anker
+127754|Domaine des Hautes Fagnes
+128038|Cathedrale
+133676|De Keyser
+133678|Best Western Arlux
+133680|Albert 1
+133683|Ibis Charleroi Centre Gare
+133685|Ibis Leuven Centrum
+133694|Ibis Brussels Waterloo
+134960|The Pand
+135405|Best Western Premier Weinebrugge
+135647|The Hotel
+141666|Husa de la Couronne
+143859|Leonardo Hotel Charleroi City
+143861|Radisson Blu Hasselt
+143865|Agenda Louise
+143867|Best Western Orchidee
+143869|Hostellerie Villa des Roses
+143870|Auberge du Vieux Cedre
+143872|Best Western Expo
+143874|Vivaldi
+143877|Biskajer
+143878|Afspanning De Kroon
+143880|Van der Valk Dennenhof
+143881|Hostellerie Klokkenhof
+143886|Le Manoir du Capitaine
+143887|Van der Valk Brussels Airport
+143888|Leonardo Antwerpen
+143889|Eburon Hotel
+143894|Atlantis
+143897|Gasthof Groenhove
+143898|Het Gheestelic Hof
+143899|De Stokerij
+143903|Europe
+143904|Corsendonk De Linde
+143906|Eikenhof Knesselare
+143907|Eurotel
+143908|Bovendael Sports & Business
+143909|Het Godshuis - Hampshire Classic
+143910|Ter Streep
+143911|Best Western Prado
+143913|Taormina
+143920|Montanus
+143922|Bryghia
+143923|Hostellerie La Butte Aux Bois
+143924|Best Western Plus Hotel Alize
+143925|Diamonds and Pearls
+143927|Arass Hotel
+143928|De Flandre
+143929|Dukes Palace
+143933|Best Western Premier La Villa Des Fleurs
+143935|Park Inn by Radisson Liège Airport Hotel
+143936|B-Apart Grand Place
+143937|Wellness Apart
+143939|Campanile Liege - Luik
+143940|Best Western Plus Aero 44
+143941|balladins Charleroi-Airport
+143943|Hassotel
+143946|Be Manos
+143947|Capitole
+143948|Best Western Turnhout City
+143949|Die Swaene
+143951|Ibis Aalst Centrum
+143952|Campanile Brüssel Drogenbos
+143954|Relais Bourgondisch Cruyce
+167556|Best Western Leonardo Charleroi
+182592|Hotel Walburg - geschlossen
+184394|Du Commerce
+184396|Le Beau Séjour
+184404|Den Hof
+184405|Cosy
+184412|Den Wolsack
+184414|Le Nid d'Hirondelle
+184424|Ol Fosse D'Outh
+184430|Relax Hotel Pip-Margraff
+184433|Focus
+187501|Begijnhof Congreshotel
+187533|Ibis Brussels Airport
+196186|Mondo Hotel Oostende
+201622|Adagio Brussels Centre Monnaie
+203631|Le 1815
+203708|A La Grande Cloche
+203902|Adornes
+204253|Best Western Plus Aldhem
+204364|Alliance Hotel Ieper Centrum
+204398|Alpha
+204514|Ambassador Suites Leuven
+204903|Aparthotel Castelnou
+205036|Appart Hotel Corbie
+205087|Approach
+205323|Asiris
+205450|Auberge Au Repos Des Chasseurs
+205510|Auberge St. Pol
+205624|B&B Bariseele
+205626|B&B Bloemenweelde
+205646|B&B Fine Fleur
+205678|Lavan Bed & Breakfast
+205701|B&B Villa Des Raisins
+205822|Banks
+205856|Barry
+205968|B&B An Officers House
+205972|Bed & Breakfast de Genval
+205983|B&B 't Walleke
+205991|B&B Lady Jane
+206046|Heritage de Haan
+206311|Boardhouse
+206317|Boat hotel De Barge
+206397|Bourgoensch Hof
+206532|Sandton Hotel Broel
+206565|Brussels@Heart
+206586|Budget Flats Antwerp
+206587|Budget Flats Brussels
+206588|Budget Flats Leuven
+206626|Burlington
+206719|Calis Bed & Breakfast
+206849|Carbon
+206866|Carlton
+206908|Casa Ciolina
+206979|Casa Romantico
+207030|Casino Hotel
+207087|Cathedral
+207230|Verhaegen
+207259|Charme Hancelot
+207400|City Apartments Antwerpen
+207434|City Inn Luxe
+207657|Condo Gardens Antwerp
+207659|Condo Gardens Leuven
+207721|Cordoeanier
+208068|De Hofkamers
+208143|Lace
+208264|Derby
+208315|d-hotel
+208557|Du Soleil
+208923|Esperance
+208971|Eurocap
+209054|Exclusive Guesthouse Bonifacius
+209260|Firean
+209296|Leopold
+209868|Golden Tree Brugge
+209953|Grand Casselbergh
+209956|Grand de Flandre
+210143|Gulden Vlies
+210272|Harmony
+210395|Helios
+210531|Hof Ter Duinen
+210908|Hostellerie Du Peiffeschof
+211436|Soll Cress Koksijde
+211579|Huis 't Schaep
+211632|Ibis Sint Niklaas Centrum
+211750|Industrie
+211883|Jacobs
+211922|Jean De Boheme
+212014|Kapelhoeve
+212074|Kennedy
+212182|Koetshuis
+212183|Koffieboontje
+212339|La Caleche
+212444|La Legende
+212498|La Passerelle
+212548|La Royale
+212645|Lambeau
+213087|Le Vieux Pont
+213122|Leo At Home
+213204|Best Western Les Myrtilles
+213206|Les Nuits
+213499|Loreto
+213533|Louisa
+213559|Lugano
+213670|Maison AZ Bed & Breakfast
+213702|Malleberg
+213704|Malon
+213734|Manoir du Dragon
+213871|Martin's Lido
+213872|Martin's Lodge
+213873|Martin's Patershof
+214028|Messeyne
+214952|Hostellerie Pannenhuis
+215057|Park Inn by Radisson Antwerp
+215076|Parkhotel
+215126|Patritius
+215152|Pegasus Apparthotel Brussels City
+215628|Polaris
+215638|Poorthuis
+215693|Postiljon
+215732|Prélude
+216271|Premiere Classe Liege / Luik
+216724|Relais Ravestein
+216816|Résidence Durbuy
+217424|Aparthotel Blankenberge
+217442|Rose de Chopin
+217534|Royal Zelzate
+217598|Sabot D'Or
+217645|Saint Michel
+217673|Salvators
+217972|Serge
+218185|RS Hotel Midi
+218628|'T Hert
+218631|'t Sandt
+218714|Ter Reien
+219238|The Lodge Heverlee
+219827|Tropical
+220023|Mercure Mechelen Vé
+220761|Wilgenhof
+220935|Ze Agency Apartments Brussels
+221052|Akena La Louviere
+221111|Amaryllis
+221236|Auberge du Pêcheur
+221241|Auberge La Grande Cure
+221263|B&B Campagne Sur Mer
+221272|Maison Kerkhove
+221324|Bed & Breakfast Im's & Wim's
+221347|Best Western Horizon
+221358|Biznis
+221435|Callecanes
+221496|Casa Roman
+221556|Chateau D' Hassonville
+221557|Chateau De Harzé
+221559|Chateau de la Poste
+221589|Cleythil
+221613|Corbie Geel
+221740|Dennenheuvel - Mont-Des-Pins
+221769|Domein Bovy
+221770|Domein Leegendael
+221850|Elckerlyck Inn
+221897|Europa
+221904|Excelsior
+221934|Floreal La Roche-en-Ardenne
+222280|Hostellerie Kemmelberg
+222286|Hostellerie Ten Lande
+222347|Hullebrug B&B
+222492|Hôtel-Selfotel La Louve
+222500|La Mosane
+222555|Landgoed Altembrouck
+222602|Le Chateau Des Thermes
+222648|Les Ecoliers
+222689|Hotel Rostune
+222732|Malpertuus
+222836|Moulin De Daverdisse
+223181|Recour
+223485|St James
+223499|Stayen
+223569|Ter Gracht & Agrogolf®
+223667|Van der Valk Brugge-Oostkamp
+223693|Van der Valk Verviers
+223787|Hotel-Restaurant Vredehof
+223829|Woodside Bed & Breakfast
+223858|Zuidwege
+227749|B-Apart Montgomery
+227784|Albert II
+229303|B&B Phileas Fogg
+229305|Continental
+229306|L'Auberge du Souverain
+229320|Aragon House
+229321|Les Rhodos
+229350|De Pits
+231717|Noordzeepark Haerendycke
+232777|Ramada Brussels Woluwe
+233175|Novotel Brussels Midi Station Hotel
+233352|Aloft Brussels Schuman
+233542|Max
+234789|'S Hertogenmolens
+234791|Van Hecke
+234794|Coco-Mat Residence
+234795|De Koning van Spanje
+234798|Julien
+234800|Matelote
+234802|Soul Suites
+234806|Appart'City Arlon
+234961|Opera Residence Brussels
+235473|Park Inn by Radisson Brussels Midi
+235474|Sandton Brussels Centre
+239243|Crowne Plaza Liege
+239262|Park Inn by Radisson Leuven Hotel
+243055|Les Doyards
+243083|Ravelingen
+243505|Best Western Zimmerhotel
+245654|Thon EU
+247524|Antwerp City Center Hotel
+247525|Sandton Grand Hotel Reylof
+254192|The Pantone Hotel Brussels
+254193|Azimut Flathotel Bruxelles Centre
+254197|Sunrise Appart
+254198|Midi Business Lodge
+254201|Aqua Brussels
+254203|Residence Aryan
+254205|Prestige
+254206|Hotel du Parlement
+254207|Theater Hotel Brussels
+254228|Aan de Coupure
+254235|Bed & Breakfast Canal Deluxe
+254236|B&B InnBrugas
+254237|B&B Le Coquin
+254240|Alegria
+254241|Andre's
+254242|Spaniënhof
+254243|Le Tissu
+254244|Ibis budget Antwerpen Centraal Station
+254245|Hotel O Antwerpen - Hampshire Classic
+254249|Antwerp Harbour
+254773|Hotel Onderbergen
+254774|Place2stay in Ghent
+254775|La Ducale
+254782|Hotel Rubens
+255061|Holiday Suites Blankenberge
+255063|Residence Iris
+255065|Ambassadeur
+255910|Holiday Suites Hengelhoef
+256476|Ibis budget Leuven Centrum
+256726|Van der Valk Charleroi Airport
+256727|De la Basse Sambre
+256791|Lommelhof
+256886|3 Paardekens
+256972|Hostellerie La Claire Fontaine
+257149|The Lodge Vilvoorde
+257273|De Tweede Kamer
+257355|Le Monte Cristo
+258124|Hotel de la Source
+258200|Best Western Brussels
+258218|Ibis Charleroi Aéroport
+258226|Auberge van Strombeek
+258227|Thermae
+258247|B&B Riche Terre
+258250|Kompano Hotel Lokeren
+258252|Zeeparel Budgethotel
+258254|Village Fleuri
+258492|Bed & Breakfast Spoor 62
+258493|Tristar
+259088|Hampshire Hotel O
+259089|Main Street Hotel
+259090|Albion
+259146|Ibis budget Brussels Airport
+259228|Willow Spring Way Station Bed & Breakfast
+260952|Sandton Pillows Brussels
+265690|Best Western Brussels South
+270603|AMS Brussels Flats
+270604|RentByNight - Apartments
+270605|Typically Brussels Aparthotel
+270606|Saint Gery Boutique Hotel
+270607|Urbanrooms Bed & Breakfast
+270839|Karel de Stoute
+270840|Atlas Guesthouse
+270842|Con Ampère Bed & Breakfast
+270843|Loppem 9&11
+270845|Guesthouse Pickery
+270847|Rosier10
+270848|Kaai 11
+271365|Le Tapis Rouge
+272196|La Merveilleuse
+272198|Appartement Wellington
+272199|La Reserve
+272200|B&B B-eaufort
+273055|Belfleur
+274718|Rêve de Luxe
+275712|Hôtel Riad
+276401|Corsendonk Viane Apartments
+277111|Hof Van Steelant
+277112|Hôtel de la Vallée
+277122|Villa Reynaert
+277123|Caelus VII Boutique
+279307|Ibis Styles Zeebrugge
+281940|ibis Leuven Heverlee
+283791|Chateau du Lac Martin's Conference & Spa
+286139|B&B De Frimethe
+286381|Bed & Breakfast La Clé du Sud
+288089|Apartment Froidure
+288090|Cavells Bed and Breakfast
+288091|Landhuis 't Wilgenerf
+289468|PassaDia B&B
+289487|Aux Gaietes de la Sabotiere
+289488|Van der Valk Beveren
+290016|TTS Temse
+290847|Al Mulino
+291353|B&B Cimbarsaca
+291354|Kamerijck Bed & Breakfast
+291359|Parkhotel Roeselare
+291360|Arthur Bed & Breakfast
+291866|Villa D'Elbeek Bed & Breakfast
+291870|Best Western Plus Casteau Resort Mons
+301373|Pullman Brussels Midi
+301374|Ibis budget Brussels South Ruisbroek
+301383|Ibis Styles Nivelles
+310937|Camping Westende
+311123|City Partner The Terrace Oostende
+317802|Maison le Dragon
+334035|Chamdor
+367890|B Aparthotel Regent
+368100|Hotel Orion
+372744|Ibis Red de Panne
+374728|Bed and Breakfast De Vijf Zuilen
+384693|Wu Wei
+384707|Blanckthys Hotel Voeren
+388067|B & B Aandemaas.be
+389574|De Witte Merel Deluxe
+389575|Utopia Hotel
+405155|Ibis Styles Brussels Stephanie Hotel
+406517|Mercure Brussels Centre Midi
+409211|Leopold Hotel Oudenaarde
+414635|Bla Bla Hotel
+414650|The Loft Apartments

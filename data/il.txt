@@ -1,0 +1,232 @@
+1446|Isrotel Princess
+1448|Leonardo Royal Resort Eilat
+1451|Ein Gedi
+1453|Margoa
+5708|Isrotel Yam Suf
+7656|Americana Inn
+8582|Leonardo Basel
+9429|Caesar Premier Jerusalem
+9435|Isrotel Dead Sea
+10227|Center Chic
+10421|Prima City Hotel
+11094|Dan Eilat
+11095|Dan Panorama Eilat
+11096|Dan Panorama Tel Aviv
+11098|Dan Tel Aviv
+11152|David Intercontinental
+11155|Lev Yerushalayim
+11156|Ami
+11266|Deborah
+13308|Leonardo Club Dead Sea
+13423|Grand Beach
+13992|Hilton Eilat Queen of Sheba
+14063|Hod Hamidbar Resort
+14119|Holiday Inn Ashkelon
+14170|Crowne Plaza Dead Sea
+14171|Crowne Plaza Eilat
+14301|Holiday Inn Patio
+14357|Holyland
+14485|Dan Jerusalem
+14500|David Dead Sea Resort & Spa
+14959|Isrotel Lagoona
+14960|Isrotel Riviera Club
+14961|Isrotel Royal Beach
+14962|Isrotel Sport Club Hotel
+15066|Jerusalem Tower
+15377|The King David
+15386|Isrotel King Solomon
+16082|Le Meridien Eilat
+16528|Lot Spa
+16666|Magic Palace
+17241|Melody
+17288|Blue Bay
+17329|Jerusalem Gate
+17336|Marina
+17411|Metropolitan
+17749|Mount Zion
+18050|Nova Like
+18090|Leonardo Jerusalem
+19420|Prima Tel Aviv
+19421|Prima Music
+19422|Prima Kings
+20151|Renaissance Tel Aviv
+21458|C-Hotel Eilat
+21539|Leonardo Plaza Jerusalem
+21558|Herods Tel Aviv
+21559|Leonardo Plaza Eilat
+22039|Sport Club
+22505|Tal Hotel
+22576|Hilton Tel Aviv
+22671|The American Colony
+22713|The Carlton Tel Aviv
+22839|The Magic Sunrise Club
+22885|The Olive Tree Royal Plaza
+22888|The Orchid
+22946|Orchid Reef
+23417|Holitel Tsell Harim village Dead Sea
+24191|Vista
+24567|Park Plaza Orchid
+27586|Leonardo Suite Tel Aviv - Bat Yam
+36266|Herods Dead Sea
+48295|Carmel Forest Spa Resort
+53763|Dan Panorama Jerusalem
+53765|Crowne Plaza Jerusalem
+63744|Cinema Hotel
+63745|Crowne Plaza
+63925|Leonardo Club Eilat
+67471|Prima Park
+68547|Grand Court
+68548|Rimonim Galei Kinnereth Hotel
+69498|Prima Royale
+76359|Isrotel Agamim
+76360|Rimonim Eilat
+76376|Komplex Prima Hotels Dead Sea - Spa Club
+77246|Leonardo Inn Dead Sea
+80757|Caesar Premier Tiberias
+80759|Rimonim Hotel Nazareth
+80760|Ruth Rimonim Hotel Safed
+80761|Vital
+83264|Royal Plaza
+83265|C-Hotel Neve Ilan
+84039|Isrotel Ramon Inn
+84040|Isrotel Tower Tel-Aviv
+84246|Rimonim Tower Ramat Gan Hotel
+84248|Rimonim Hermon Holiday Village
+84268|Isrotel Royal Garden
+84309|C-Hotel The Hacienda Forestview
+88155|Prima Palace
+88205|Prima Galil
+90464|Jerusalem Gold
+94142|Crowne Plaza Haifa
+99789|Komplex Prima Hotels Dead Sea - Oasis
+100837|Mount of Olives
+102536|Harmony
+103475|Leonardo Haifa
+103640|Dan Boutique Jerusalem
+103854|Addar
+104950|Kfar Maccabiah Hotel & Suites
+105197|Best Western Regency Suite
+106569|The Dan Carmel Hotel
+106570|Dan Gardens Ashkelon
+106571|The Dan Panorama Hotel
+106850|Eilot Kibbutz Country Lodging
+107299|Inbal Jerusalem
+107309|Leonardo Negev
+107842|Dor Holiday Village Kibbutz
+108171|Shefayim Kibbutz
+108775|Mercure Tel-Aviv City Center
+109198|Nahsholim Country Lodging & Kibbutz
+109219|Nes Ammim Hotel
+109266|Nof Ginossar
+110042|Ramat Rachel
+110838|Shoresh Holiday Complex Kibbutz
+111146|The Alexander All Suites
+111175|The David Citadel
+125240|Holitel Siesta
+125548|Shalom Hotel & Relax
+125574|C Tiberius
+125575|The Scots
+125576|Dan Caesarea
+128523|Daniel Hotel Herzliya
+128524|Shizen Spa Resort Herzliya
+131768|Inbar
+131775|Kalia Kibbutz Holiday Village
+131777|Royal Rimonim Dead Sea Hotel
+131779|Nof
+131781|Dan Gardens Haifa
+131787|Dan Accadia
+131794|Maale Hachamisha
+131798|Montefiore
+131803|Golden Crown
+131807|Armon Hayarkon
+131809|Golden Beach
+131810|Sea Net
+131811|Sheraton Tel Aviv Hotel
+131813|The Golan
+131814|Leonardo Tiberias
+131815|Eden
+131819|Rimonim Mineral Hotel Tiberias
+131822|Ein Gev Kibbutz
+131823|Lavi Kibbutz
+131829|Leonardo Club Tiberias
+137099|Astoria
+137412|Imperial
+137793|Gonen Kibbutz Country Lodging
+137795|Kfar Giladi
+137993|Dalia
+138313|Daniel Dead Sea Hotel
+138551|Ramada Jerusalem
+138825|Crowne Plaza Tel Aviv City Center
+142480|Herods Eilat - Herods Palace Hotel / Herods Boutique Hotel / Herods Vitalis Hotel
+157614|Adiv
+157615|Ophir
+157618|Eldan
+182587|Savyonei Hagalil
+183540|Leonardo Boutique Tel Aviv
+183541|Savoy Tel Aviv
+183545|Ohalo Manor
+183547|Caesar Premier Eilat
+188038|Colony Haifa
+188039|Erna
+188040|Artplus
+188041|Sadot
+188042|Almog Holiday Village
+188043|Afik Country Lodging Kibbutz
+188044|Amiad Kibbutz Country Lodging
+188045|Ashdot Yaacov Ichud Kibbutz Country Lodging
+188189|Maagan Kibbutz Holiday Village
+188190|Shaar Hagolan Kibbutz Country Lodging
+188191|Degania Bet Kibbutz Country Lodging
+188192|Manara Kibbutz Country Lodging
+188193|Kibbutz Yad Hashmona
+188195|Mashabei Sade Kibbutz Country Lodging
+201722|Gilgal
+206025|Bell
+206832|Capitol
+213713|Mamilla
+214077|Miguel
+220259|Villa Galilee
+220889|Yarden Apartments
+220890|Yarden Beach Apartments
+222134|Harel Kibbutz Country Lodging
+229169|Leonardo Privilege Dead Sea
+232976|Jerusalem Gardens
+232977|Rimonim Shalom Jerusalem
+232979|Gordon
+234186|Central Park Eilat
+234966|Ruth Daniel Residence
+236672|Leonardo City Tower Hotel
+236906|Arcadia Spa Eilat
+237531|Legacy
+237532|Rivoli Jerusalem
+237533|West Boutique Hotel Tel Aviv
+238824|Beresheet
+239130|Merom Golan Country Lodging Kibbutz
+239954|Yehiam Country Lodging Kibbutz
+240455|Nazareth Plaza
+241506|Ein Harod Ichud Country Lodging
+243890|Mövenpick Ramallah
+247224|Brown TLV Urban Tel Aviv
+247225|The Diaghilev
+247477|Isrotel Ganim
+249242|Leonardo Boutique Rehovot
+249243|Kibbutz Malkiya Travelhotel
+249914|Prima TOO Tiberias
+252675|Kibbutz Eilon Travel
+260573|City Center Jerusalem King George New Wing
+260947|Sea Executive Suites
+261687|Grand Vista Boutique
+261688|Arcadia Tiberias
+265605|Leonardo Privilege Eilat
+274635|Templers Boutique Hotel
+296626|Royal Beach Tel Aviv
+314308|Komplex Prima Hotels Dead Sea - Oasis / Spa Club
+354453|La Playa
+359863|Arthur
+363220|Astral Marina
+364001|Embassy Hotel Tel Aviv
+365526|Waldorf Astoria Jerusalem
+367044|Nitza Sea View Apartments
+369448|Bay Club Hotel
+406412|Market House
+411423|Yam

@@ -1,0 +1,1078 @@
+7066|Askania
+7094|Adelka
+7120|Adria
+7264|Botel Albatros
+7482|Alpsky
+7633|Ambassador Zlata Husa
+7660|Ametyst
+7958|Theatrino
+8004|Ariston & Ariston Patio
+8027|Clarion Spindleruv Mlyn
+8264|Atlantic
+8326|Aurum
+8365|Axa
+8783|Belvedere
+8917|Best Western City Moran
+8975|Best Western Plus Meteor Plaza
+9160|OREA Bohemia
+9292|Carlton
+9985|Casa Marcello
+10232|Central
+10251|Danubius Health Spa Resort Centrální Lázne & Maria SPA - Centrální Lázne
+10267|Hotel Lippert
+10502|Cloister Inn
+10608|Fortuna West
+10824|Panorama Hotel Prague
+10825|Corinthia Prague
+11085|Euroagentur Dalimil
+11116|Danubius Health Spa Resort Villa Butterfly
+11499|Diplomat Hotel Prag
+11685|Dorint Don Giovanni
+11808|Dum
+11817|Duo
+11830|Dvorak Spa
+12223|Esplanade
+12381|Expo
+12852|Fontana
+12880|Parkhotel
+12930|Four Seasons
+13086|Game
+13252|Globus
+13425|Grand Hotel Bohemia
+13642|Gryf
+13809|Harmony
+13810|Harmony
+14072|Hoffmeister
+14162|Holiday Inn Prague Congress Centre
+14371|OREA Horal
+14378|Horizont 2
+14379|OREA Horizont & Spicak - Wellness Hotel Horizont
+14415|Botel Racek
+14474|Danubius Health Spa Resort Hvezda
+14731|Imperial
+14869|Golden Prague Residence & Hotel InterContinental Praha - Hotel InterContinental Praha
+14910|Irena
+15004|Jalta
+15034|EA Hotel Jasmin
+15036|Jasmin
+15147|K+K Fenix
+15220|Kampa
+15395|Best Western Kinsky Garden
+15833|Danubius Health Spa Resort Labe
+15904|Landal Marina Lipno
+16283|Star 4 - Lesni Zamecek
+16565|Lucni Dum
+17017|Marketa
+17046|Marriott Prague
+17142|Maximilian
+17257|Hotel Arbes
+17376|Merkur
+17591|NH Prague
+17799|Euroagentur Na Jezere
+17829|Nastup
+18279|Olsanka
+18288|Sporthotel Olympia
+18298|Hotel Olympie
+18299|Olympik
+18300|Hotel Tristar
+18331|Opera
+18446|Danubius Health Spa Resort Grandhotel Pacifik
+18467|Art Nouveau Palace Hotel
+18475|OREA Palace Zvon
+18754|Paríz
+18817|Grandhotel Pupp
+18987|Petr
+19380|Hilton Prague
+19381|Praha
+19382|TOP Hotel Praha & Congress Centre
+19401|President
+19496|Prvosenka
+19559|OREA Pyramida
+19623|Fortuna City
+19804|Radisson Blu Alcron
+20148|Hilton Prague Old Town
+20562|Horni Rokytnice
+21050|Sanssouci Spa Resort
+21172|Golden Tulip Savoy
+21405|Selsky Dvur
+21654|Villa Savoy Spa Park Hotel
+21734|Skaly
+21739|OREA Vital Sklár
+22062|Srni & Dependance Sumava
+22436|Svornost
+23475|U Sladku
+23495|Union
+23925|Villa Lucie
+24241|Vltava
+24264|Vsemina
+24272|Vysehrad
+24273|Vysluni
+24478|Windsor
+24610|Zaly
+24618|Zatisi
+25990|Stirka
+26064|Monti Spa Hotel
+26180|Radium Palace
+26181|Venus
+26182|Jadran
+26183|Thermal
+26185|Danubius Health Spa Resort Nove Lazne
+26186|OREA Monty
+26187|Parkhotel Golf
+26188|Danubius Health Spa Resort Vltava
+26189|Pyramida - Pyramida I / Pyramida II / Pyramida III
+26312|Klondajk
+26313|Centrum
+26314|Harrachovka
+26318|Savoy
+26324|Snezka
+26331|Domovina
+26332|Energetik
+26408|Adrspach
+26410|Praha
+26421|OREA Horizont & Spicak - Hotel Spicak
+26445|Palace Club
+26447|Dvorak
+26468|Parkhotel Kasperske Hory
+26611|Svaty Petr
+26613|Montana
+26614|Astra
+26644|Fit & Fun
+26915|Sporthotel Ryzoviste
+27126|Harrachov Inn
+27130|Horec
+27133|Vyhlidka
+27565|Kubat
+27571|Hotel Skizentrum
+27573|Dlouhe Strane
+27574|Kuba
+27582|Alpina
+27587|Hradec
+27590|Lenka
+27592|Miluska
+27593|Rosa
+27595|Prom
+27866|Clarion Congress Ceské Budejovice
+27906|Aida
+27908|Novotel Wenceslas Square
+27935|Nico
+27989|Mama
+27990|Bily Horec
+27991|Safari
+27992|William
+27994|OREA Excelsior
+28514|Babylon
+28527|Schlosshotel Nachod
+28578|Kurkomplex Curie - Praha - Elektra - Kurhaus Praha
+28579|Jean de Carro
+28580|Parkhotel Richmond
+28582|Smetana-Vysehrad
+28584|Aurora
+28950|Elite
+29095|Centrum
+29096|Hotel Krivan
+30488|U Tri Korunek
+30604|Ibis Praha Wenceslas Square
+30605|Step Praha Wellness
+31178|Danubius Health Spa Resort Svoboda
+31180|Maj
+31506|Diana
+31668|Krokus
+31939|Plaza Alta
+32544|Karolina
+32546|Happy Hill Park
+32596|Alka
+32634|Amadeus Aparthotel
+32635|Elysee
+32716|Esplanade
+32718|Bajkal
+32719|Central
+32720|Kaiserbad
+32876|Port
+32877|Bellevue
+32881|Vladimir
+32885|Bellevue
+33297|Gendorf
+34246|Reitenberger
+34247|Sirius
+34249|Parkhotel Pilsen
+34327|Century Old Town Prague
+35467|Andel's Hotel & Suites Prague
+35675|Green Garden
+35676|Liberty
+35677|Mars
+36562|Josef
+36563|Astoria
+36564|Juno
+36648|U Medvidku
+36672|Victoria
+37743|Esprit
+37744|Bily Kun
+37745|Riviera
+37747|Seeberg
+38361|Brizky
+38362|Ados App.
+38363|Kamenice
+38364|Bellevue
+38365|Dolni Rokytnice
+38366|Helena
+38367|Churanov
+38427|Atos
+38723|Praha Clubhotel
+38724|OREA Wellness Hotel Santon
+39562|Ambiente
+39739|Carol
+39740|Hotel International Prague
+39741|Boutique Hotel Constans
+39742|Maria
+39743|Rott
+39905|Falkensteiner Grand Spa Marienbad
+39907|Villa Regent
+39908|Flora
+39909|Beethoven
+39910|Olympia
+40002|Questenberk
+40003|Roma
+40470|Aria
+40471|Boscolo Prague
+40532|Le Palais
+40557|Royal Golf
+40953|Ibis Praha Mala Strana
+47647|Zlaty Andel
+47648|The Old Inn
+47649|Ruze
+47668|U Prince
+47670|St. George
+47672|Royal Kurhotel
+47677|Best Western Premier International
+47678|Voronez I
+47679|Voronez II
+47905|Best Western Amedia Praha
+47906|Neruda
+48260|Prichovice
+48262|Svaty Hubert
+48263|Krakonos
+48522|K+K Central
+48523|Alton
+49989|Barcelo Praha
+50746|King David
+51223|Grand Brno
+51309|Imperial
+51310|Drei Lilien
+51473|Westend
+51521|Barbora
+52321|Horni Pramen
+52505|Augustus et Otto
+52930|Jana
+52932|Best Western Vladimir
+52936|Patria
+52955|St. Moritz
+52956|Lázenská Lécebna Mánes
+52957|Garni Branik
+52958|Na Ostrove
+52965|Krivan
+52966|Kurhaus Dr. Adler
+52967|Libensky
+52970|Grand
+52971|Parkhotel Sokolov
+54468|Belmonte
+55514|Kurhotel Devin
+55517|Schlosshotel Mostov
+55576|Krasna Kralovna
+55627|Residence Bologna
+55628|City Club
+55629|Waldstein
+55630|Mucha
+55631|Hotel Meda - Art of Museum Kampa
+55632|Bily Lev
+55633|Grand
+55999|Ramada Prague City Centre
+56217|Prague Centre Superior
+56227|Raffaello
+56249|Casa Italia
+56373|Galaxie
+56485|Leonardo
+56628|Legie
+56653|Ontario
+56654|Zlata Hvezda
+56655|Bezdez
+56657|Esprit
+56746|Suitehome
+56772|Residense Malá Strana
+56845|Euroagentur Tosca
+56849|Clarion Prague Old Town
+56850|U Krale Karla
+56852|U Pava
+56935|City Partner Victoria
+56968|The Charles
+57050|City Crown
+57104|Tivoli
+57105|Continental
+57107|U Semika
+57138|Blue Key
+57339|U Schnellu
+57340|Caesar
+57450|Sonata
+57601|Iron Gate Hotel & Suites
+57666|Ramada Airport Prague
+57667|Euroagentur Jeleni Dvur
+57668|EA Hotel Rokoko
+57669|Melantrich
+57670|Junior
+57712|Ventana Hotel Prague
+58831|Kurhaus Kiew
+59441|Sofia
+59442|Hotel Kafka
+59443|Troja
+59444|A&O Prag Metro Strizkov
+59446|Brilliant
+59451|Excellent
+61098|Na Zamecku
+61546|Hotel Halkova
+61919|Slavia
+62541|My Hotel Apollon
+62542|Machova
+62648|Amadeus Hotel
+63233|Chopin Prague City
+63635|Da Vinci Wenceslas Square
+63636|Best Western Bila Labut
+64064|Popelka
+64113|Idol
+64114|Velveta
+64115|Adam
+64459|Antik City
+64881|Styl
+64882|Albis
+65102|Seifert
+65153|Aquapark Hotel
+66294|Akcent
+66295|Holiday Inn Prague Airport
+68155|Oya
+68566|Appartements Harrachovka
+68739|Carlsbad Plaza
+68778|Olympia
+68780|Kurkomplex Pawlik/ Isis
+68890|Hotel Praga 1
+68933|Belvedere
+69257|Beranek
+69258|Ibis Praha Old Town
+70013|Hvezda
+70112|City Inn
+70416|Labuznik
+70775|Apartments Wenceslas Square
+70792|Floor
+70882|Parkhotel Praha
+71227|Best Western Grand
+71254|Villa Andy
+71887|Hotel Yasmin
+72382|Central
+72694|Mamaison Riverside
+73125|Claris
+73126|U Divadla
+73304|Agricola
+74600|Aramis
+74685|Ostry
+74702|Euroagentur Manes
+74703|Euroagentur Crystal Palace
+74993|Galileo
+75336|angelo Hotel Prag
+75477|Prague Inn
+75554|Pachtuv Palace
+75843|City Centre Prag
+75844|Golden Well
+75896|Ochsendorf
+75897|Sporthotel Bohemia
+75961|Residence Verona
+76009|Fortuna Rhea
+76010|Hotel 123
+76051|Pod Jasany
+76052|Spindlerova Bouda
+76053|Belvedere
+76076|Rezidence Emmy
+76077|Am Goldenen Hufeisen
+76078|Jerome House
+76079|Metamorphis
+76091|Start
+76094|Kasperk
+76099|Zum Sankt Christopher
+76100|Villa Voyta
+76247|Archibald City
+76313|Residences Appia
+76458|Devin
+76553|Gejzir
+76666|Albion
+76700|Kampa Garden
+76857|Prague Centre Plaza
+76858|Melantrich Apartments
+76859|The Golden Tree
+77007|Flora
+77033|Mandarin Oriental Prague
+77079|Astra
+77080|San Marco Abri
+77082|Certovka
+77222|Continental
+77323|Hotel Monastery
+77431|Grand Luxury Hotel
+77570|Monica
+77577|Cerna Bouda
+77892|Savoy Westend
+78157|Agnes Residence
+78409|Euroagentur Derby
+78410|Euroagentur Esplanade I & II
+78487|Golf - Hotel
+78488|Wellness Frymburk
+78489|Metropol
+78491|Horni Misecky
+78515|Inos
+78891|Best Western Pav
+78893|Grand Praha
+79469|Eurostars Thalia
+79694|Mitera
+80220|Grandhotel Zvon
+81254|Slavia
+81505|Hastal
+82399|Savic
+82486|Vila Antoaneta
+82598|U Tri Ruzi
+83405|Praha
+83408|Seven Days
+83435|Cechie Praha
+83436|Kavalir
+83965|Absolutum
+84247|Austria Suites
+84382|Angelis
+85044|Anna-Marie
+85045|Kurhotel Grand
+85047|Spa & Kur Hotel Praha
+85049|Kurhaus Savoy
+85050|Kurhaus Palace 1+2 & Dependance Bellaria
+85051|Kurhaus Goethe
+85053|Akademik Behounek
+85054|Kurkomplex Curie - Praha - Elektra - Kurhaus Curie
+85055|Parkquelle
+85061|Kurhaus Steinbad
+85065|Kurhaus Sirnate laznì
+85067|Kurhaus Novy Dùm
+85069|Sanatorium Miramare
+85070|Kurhotel Priessnitz
+85431|Romanza
+85446|Florenc
+85448|Riverview Appartments
+85451|Janacek
+86138|Brezina
+86139|Brixen
+86777|Novomestsky
+86778|Sunrise
+86780|Archibald At The Charles Bridge
+86859|Best Western Premier Majestic Plaza
+86860|U Trí Pstrosu
+86969|The Icon Hotel & Lounge
+87147|Felicitas
+87149|Roudna
+87171|Michael
+87172|Ehrlich
+87181|Dependance Royal
+87449|Sovereign
+87450|Design Metropol Hotel
+87451|Smaragd
+88694|Mamaison Residence Belgicka
+88714|Eurostars David Hotel
+88734|Jerome Agricola
+88737|U Zlate Podkovy
+88750|Dvorak Tabor
+88915|Old Town Residence
+88919|Theatre Residence
+88920|U Hvezdy
+88935|Imperial Art Deco
+88958|Capri
+89000|Design Merrion
+89476|987 Design Prague
+89504|Clarion Congress
+90115|Perla
+90385|Humboldt Park
+90888|Centrum Certovka
+90947|Courtyard Prague Flora
+91001|Lesana
+91447|Sanatorium Dr. Petak
+91460|Kurhaus Sevilla
+91462|Zamecek
+92439|Cristal Palace
+93288|Kazduv Dvur
+93289|Omnia
+93570|Assenzio Prague
+93891|Amour Residence
+93892|Botel Matylda
+94401|Marriott Executive Apartments Longin Center
+94591|Holiday Inn Brno
+95597|Ostruvek
+96026|Villa
+96204|Dvorak
+96209|Lipno Lake Resort
+96210|Park
+96252|Klika
+96552|Stekl
+97388|Astoria
+97393|Palace
+99347|Lindner Hotel Prague Castle
+99635|Kazda Hof Vonsov
+99709|Panorama
+100010|Miss Sophie's
+100736|Sun
+102516|Kurhaus Erika
+102931|Skalni Mlyn
+102975|Clarion Congress Prag
+103204|Apartments Rokytka
+103593|Courtyard Pilsen
+103642|angelo Hotel Pilsen
+103740|The Mark Luxury Hotel Prague
+103840|Clarion Congress Ostrava
+103841|Avion
+103843|Gregory
+103845|Lublanka
+103848|U Zlateho Stromu
+104161|Art Prag
+104220|Attic
+104543|Family Hotel Rilancio
+105126|Panorama
+105531|Brioni
+105957|Clementin
+106749|Domus Balthasar
+108016|Imperial Hotel Ostrava
+109468|Old Town Square Hotel
+109677|Pohoda
+110134|Residence Select & Apartments
+110164|Rezidence Lundborg
+110397|Andel
+110419|Francis Palace Spa & Wellness
+110446|Amarilis
+110447|Winston Churchill
+110623|Exe Iris Hotel
+110741|Vintage Design Hotel Sax
+111086|Svornost
+111185|The Golden Wheel
+111767|Aurus
+111787|Alchymist Grand Hotel & Spa
+111802|Alchymist Nosticova Palace
+121523|Zlata Hvezda
+122271|Best Western Premier Royal Palace
+122273|Metamorphis Excellent
+122381|Komorni Hurka
+122382|San Remo
+122413|Red Lion
+122414|Royal Court
+122415|Silenzio
+122608|Courtyard Prague Airport
+122826|Arkada
+122827|U Trí Cápu
+122831|La Boutique
+122859|Hotel Mlyn Velehrad
+122864|Ruze
+122940|Tyl
+122941|Louis Leger
+125381|Hotel 16
+125382|Henrietta
+125385|Amigo
+125392|Nabucco
+125393|Ai Quattro Angeli
+125394|Chateau St. Havel Wellness Hotel
+125396|Gallery SIS
+125398|Louren
+125399|Meritum
+125400|General
+125401|Bridge
+127217|Primavera
+127689|Boston
+127691|Romance Puskin
+127900|Anna
+128046|Alexander
+129005|Romantic Mlyn
+129036|Starý Pivovar
+130743|Gold
+130747|Krystal
+130748|San Marco
+130749|King Charles Boutique Residence
+130750|Venezia
+134246|Unitas
+134290|Euroagentur Sonata
+134291|Downtown
+134323|Ulrika
+134847|Grand
+134931|Residence Green Lobster
+135676|Ankora
+135686|Salvator
+135691|Barborka
+135954|The Augustine
+136244|Stein
+136245|Maltezsky Kriz
+136247|Podhrad
+136403|Euroagentur Royal Esprit
+136621|Slunce
+136625|Aqua Palace
+137765|Olga
+137816|Alqush
+138076|INTER-AMERICA
+138636|Antik
+138738|Buddha-Bar
+139147|Opat
+140440|City Partner Hotel Gloria
+140925|Marttel Karlovy Vary
+140927|Apart Angel
+140936|U Kocku
+140938|Vitkov
+142197|Barcelo Old Town Praha
+145303|Regata
+151324|Venezia Old Town
+151325|Academic & Congress Centre
+151328|Modra Ruze
+151329|U Suteru
+151330|U Svateho Jana
+151334|AGH Hotel
+151337|Royal Plaza
+151340|Amber Hotel Bavor
+151347|Susa Aparthotel
+151360|Bohemia Plaza
+151364|Alley
+151366|Capital Apartments Wenceslas Square
+151375|Chateau Mcely
+151376|City Apart Hotel Brno
+151377|Clarion Grandhotel Zlatý Lev
+151378|Clarion Prague City
+151388|Domus Henrici Boutique
+151394|Euroagentur Business Jihlava
+151395|Euroagentur Downtown Suites
+151396|EA Hotel Mozart
+151397|Euroagentur Terasa
+151403|greenYacht Prague
+151414|U Zlatych Nuzek
+151417|Abe
+151418|Adeba
+151419|Adria
+151422|Resort Poppy
+151429|Artesse
+151430|Avanti
+151436|Bedriska
+151439|Biskupský Dum
+151442|Bohemia
+151448|Casanova
+151449|Centro
+151453|City Bell
+151457|Columbo
+151460|D'Angelo
+151461|Dar
+151465|Villa St.Tropéz
+151466|Elizza
+151468|Fit
+151469|Forrest
+151473|Palatin
+151477|Grand Revnice
+151480|Heluan
+151486|Inturprag
+151487|Jan Maria
+151488|Jerabek
+151496|Kucera
+151504|Lunik
+151506|Mas
+151507|Morris
+151514|Palace Plzen
+151515|Palacky
+151516|Palcat
+151518|Park Holiday
+151525|Pod Vezi
+151526|Pod Zvicinou
+151530|Klarov
+151532|Praha
+151534|Purkmistr
+151535|Pytloun
+151536|Relax Inn
+151538|Residence Retezova
+151539|Residence Tabor
+151543|Rubicon
+151544|Ruby Blue
+151546|Salvator
+151548|Sant Georg
+151551|Slovan
+151560|Little Quarter
+151564|U Krize
+151569|Ungelt Prague
+151577|Vitkova Hora
+151578|Vydra
+151582|Zamek Zabreh
+151593|Bellevue Karlov
+151618|OREA Fontana I & II
+151620|Orion
+151622|Park Inn Ostrava
+151625|Travel
+151626|Pension Prague City
+151627|Pension Tara
+151634|Praga Central Residence
+151636|Prague Golden Age
+151640|Relax Park Modra Stodola
+151641|Residence Bene
+151643|Residence La Passionaria
+151646|Royal Ricc
+151653|Sheraton Prague Charles Square
+151663|Villa Basileia
+151664|Villa Patriot
+151669|Pension Accord
+151671|King George's
+151672|Betlem Club
+151673|Aureus Clavis
+151675|Andante
+182330|Barbara
+182466|Europa
+182467|Tommy
+182469|Villa Gloria
+182634|Grund Ski & Golf Resort
+182726|Jurys Inn Prague
+182796|Kurhaus Vesely
+182816|Cajkowskij
+182844|Park Inn Hotel Prague
+182912|City Central
+182913|Grand Majestic Plaza
+182979|Colloseum
+183163|Kurhaus Diana
+183164|Kurhotel Reza
+183420|Kings Court
+183421|Ibis Plzen
+184239|OREA Concertino
+184246|Mìdínek
+184249|OREA Devet Skal
+184255|U Ceske Koruny
+187789|Euroagentur Julis
+187914|Designhotel Elephant Praha
+188835|Morris Golfhotel
+196099|Wellness Hotel Rezidence
+196160|Lafonte
+196319|Cerny Slon
+201598|Kurhotel Hubert
+201601|Vila Valas¡ka
+201604|Schwefelbad Ostrozská Nová Ves
+201823|Jurkovicuv Dum
+201825|Zálesí
+202304|Promenada
+202305|Klinovec Apartments
+202941|Mühle
+202996|Wellness & Treatment Hotel GHC / GHC Klinik Prag
+202998|Kurhotel Brussel
+203000|Astoria
+203001|Kurkomplex Curie -Praha - Elektra - Kurhaus Elektra
+203412|Bohemia
+203563|Villa Charlotte
+203580|Praga 1885
+203688|7 Angels
+205011|Templova Apartments
+205200|Arigone
+205259|Arte
+205334|A-Sport Hotel
+207019|Cascade
+207137|Central
+207151|Central Tiepolo
+207248|Charles Bridge Apartments
+207420|City Hotel
+207640|Barcelo Brno Palace
+207927|Cyro
+208696|Edinburgh
+208874|Enjoy Inn
+209245|Filip
+209402|Francis
+209535|Romantick
+209787|Giovanni Giacomo
+209856|Golden Fish
+209888|Karolina Golf
+210038|Green Inn Hotel
+210937|La Fenice Residence
+212058|Kavalerie
+213128|Leonardo
+213668|Mahleruv Penzion Na Hradbach
+213924|Maxim
+214015|Otakar
+214715|Old Town Square Apartments
+214749|Ondras Z Beskyd
+215078|Parkhotel Brno
+215214|Pension Ametyst
+215223|Pension Bambino
+215261|Pension Fontana Svitavy
+215316|Pension Mona
+215425|Penzion Svet
+216433|Puk
+216446|Pytloun Design Hotel
+216921|Residence Salvia
+216938|U Cerneho Orla
+217028|Resident Harrachov
+217090|Restaurant & Design Hotel Noem Arch
+217281|Richard
+217462|Rossini
+217479|Rous
+217795|Hostel Santini Prague
+217815|Savannah
+217955|Seneca
+218595|Svambersky dum
+218608|SwissHouse Apartmets & Spa
+219909|U Zvonu
+219966|Vaka
+220425|Villa Schwaiger
+220931|Zavis z Falkenstejna
+221202|Arnost Garni
+221892|Euro
+222420|Kaskáda Golf Resort
+222820|Motel Dacice
+223027|Stilec
+223452|Sokolský Dum Austerlitz
+223492|Stara Skola
+223785|Vranov
+223840|Zámecký Zlatý Orel
+223857|Zlatý Lev
+226716|First Republic
+226790|Vista
+226821|MOODs Boutique
+226998|Kolonada
+227170|Barceló Praha Five
+227481|NH Olomouc Congress
+227682|Parkhotel Morris
+227820|Friday
+227849|Clement
+228009|Pension Barytka
+228213|Royal Regent
+228383|Red & Blue Design
+228751|Sanatorium Klima
+229137|Zimni Lazne
+229196|Pavlov
+229472|Boromeum Residence
+229507|Andel Apartments
+229511|Nautilus
+229515|Sporthotel Zaton
+229521|Rezidence Vitkova
+230351|Lessertown
+231979|Aplaus
+231981|Verona Mea
+232432|Pomi
+232750|Trevi
+232758|Olympik Artemis
+233309|Donatello
+233310|Downtown Residence
+233312|PurPur
+233313|Residence Leon D'Oro
+233330|Zizkova Bouda
+234118|Charles Bridge Residence
+235618|INGO Arnika
+237024|Mercure Ostrava Center
+237133|Kristýna
+237384|U Kata
+237806|Gabriela
+237827|Simply Hotel
+237836|Andel Apartments Prague B&B
+237964|Star 1-2
+241248|Pension na Krizovatce
+241676|Taurus
+241822|Senimo
+243639|Clarion Congress Usti Nad Labem
+243759|Pension Thalleruv Dum
+243787|Chateau Zbiroh
+244308|Svata Katerina
+245284|Studanka
+245578|Maxant
+247212|Villa Mansland Gay Prague
+247485|Kurkomplex Pawlik/ Isis - Pawlik
+247486|Kurkomplex Pawlik/ Isis - Isis
+247764|Old Town
+249659|Fusion Praha
+253461|National Museum Aparthouse
+253464|Arcadia Residence
+253465|Masaryk Residence
+253466|At the Green Grape
+253469|Volcano Spa Hotel
+253472|Hostel Marabou Prague
+253473|Hotel Aladin
+253474|Pure White
+253475|Residence Pinkas Prague
+253476|Noir
+253477|Little Town Budget Hotel - Hostel
+253479|Aparthotel Na Belidle
+253482|Green Oasis Wenceslas Square
+253485|St. Christopher's at Mosaic House
+253488|Royal Road Residence
+253490|Thunovska 19
+253493|Bijou de Prague
+253497|Corto Old Town Pension
+253499|Red Chair Hotel (U Cervené Zidle)
+253500|Hostel Home
+253501|Residence Týnská
+253503|Residence Jecna
+253505|Hotel & Residence Standard
+253508|Astra Krasova I
+253509|Cimburkova 33
+253511|Kern
+253512|Hunger Wall Residence
+253513|Sporthotel Praha
+253514|Easy Journey
+253515|Filip
+253518|Aaron
+253519|Alice Penzion
+253522|Platan pension
+253524|Pension Edvin
+253525|Hostel Rosemary
+253526|Jewel Prague
+253527|Villa Milada
+253528|Deminka Palace
+253529|Alchymist Prague Castle
+253531|Merchant's Yard Residence
+253532|Residence V Tuních 14
+254106|Depandance Romantic Suites
+254107|Villa Marion
+254108|Pegas
+254112|EEL Ubytovani Brno
+254114|A Podlesí
+254256|Pension Pod Lanovkou
+254257|Dependency Luzice
+254982|Sebastian
+254985|Mini Hotel Abraka
+254989|Peregrin
+254991|Garni Mysí Díra
+254992|U Matesa
+254993|Rehavital
+255888|Pension Schneeberg
+255926|Pytloun City Boutique Hotel
+255929|Pytloun Travel Hotel
+256058|U Krále
+256059|Paríz
+256077|Teplice Plaza
+256144|Pension City
+256258|Antik Hotel Sofia Litomysl
+256343|Pension Primus
+256446|Budweis
+256826|Schlosspark
+256827|Windsor SPA Hotel
+256829|Excelsior
+256887|Pension Krivá
+256888|Sporthotel Barborka
+257574|The Forest Garden Hotel
+257848|Avionika - Guest House
+257893|U Zlateho byka
+258008|Golf Resort Konopiste
+258024|Racek
+258025|Miura Hotel
+258076|Zlatá Lípa
+258126|Penzion Na Doline
+258141|Albatros Active
+258142|Albatros Relax
+258233|Afrika
+258430|Morava
+259345|Kravi Hora
+259400|Ibis Olomouc Centre
+260174|Golden Prague Residence & Hotel InterContinental Praha - Golden Prague Residence
+260182|Kur Hotel Harvey
+260467|Pyramida - Pyramida I
+260468|Pyramida - Pyramida II
+260775|Zlata Vaha
+260800|Jezerka
+260801|Kotyza
+260874|MH Apartments Central Prag
+261181|Ski
+261182|Vitality
+261290|Maximus Resort
+261817|Vista
+261818|Wellness Hotel Diana
+261819|Wellness Resort Energetic
+263160|Jilska
+263161|Grandior Hotel Prague
+263185|Residence VYSTA
+265714|OREA Hotels - Wellness Hotel Horizont & Hotel Spicák
+267526|Bohemia Apartments Prague Centre
+267527|Apartments Happy Prague 2
+267528|Apartments Dusní
+267531|Apartments Tynska 7
+267532|Jungmann
+267534|Na Strani
+267538|I'm Hostels and Apartments
+267540|Wenceslas Square
+267543|Hostel Sklep
+267544|Staying Prague
+270516|Speedway
+270517|Penzion Dvorákova
+270518|Jonathan Pension
+275781|Quisisana Palace
+275782|Salve
+275783|Luxury Spa & Wellness Hotel Prezident
+276872|La Fresca
+278231|Prague Central Apartments
+285377|Charles Bridge Palace
+285386|Apartmenthaus Graf
+285387|Chateau Hotel Liblice
+286409|Perla Jizery
+288069|Seifert
+288391|Selsky Dvur
+288392|Penzion Sirius
+288393|Kopanice
+289419|Akademie Hotel
+289422|Relaxing & Regeneration Centre
+289423|Pytloun Hotel Ostrov
+289424|Adámkova Vila
+289822|Bykov
+289823|Chateau Kotera
+289868|Clochard
+290729|Krusnohor
+291362|Penzion Speller
+291967|Euroagentur Joseph 1699
+292105|Kurhotel Berlin
+295443|Kurkomplex Curie - Praha - Elektra
+297840|Spa & Wellness Hotel Alexandria
+299647|Rainbow-Inn
+301256|At the Golden Plough Apartments
+301259|Royal Court Apartments
+302618|Spa & Wellness Hotel Harmonie
+302619|Danubius Health Spa Resort Centrální Lázne & Maria SPA - Maria SPA Courtyard
+302621|Kurhaus Palace 1+2 & Dependance Bellaria - Palace 1
+302622|Kurhaus Palace 1+2 & Dependance Bellaria - Palace 2
+302623|Kurhaus Palace 1+2 & Dependance Bellaria - Bellaria
+302633|Jirásek
+302634|Prusík
+302635|Theresienbad
+302636|Inn
+302637|Pension Frýdlant
+302638|Kurhotel Bezruc
+302639|Kurhotel Jan Ripper
+302640|Moravan
+311124|Andel's Hotel & Suites Prague - Andel's Hotel
+311125|Andel's Hotel & Suites Prague - Andel's Suites
+311202|Lazne Hotel Vraz
+354503|Darwin
+359467|Star 4
+359932|pentahotel Prag
+359949|Bergpension Orlik
+363460|Stredoveky
+365243|Spa Hotel Vita
+365545|UNIC Prague
+368854|Best Western Plus Pytloun
+373501|Victor
+373506|Lifestyle Hotel
+373521|Hotel 51
+373523|Berchtold Zamek
+374460|Relax
+380468|Jitrava
+383419|Miroslava Spa
+384388|Rezidence Bradfort
+384392|Petr
+389593|Apartmany Kouty
+389846|Olympionik
+390241|Arkada
+390909|Corona
+391195|Ceské Zleby
+391283|Pohoda
+391939|The Emblem Hotel
+392214|Star Hotel Benecko
+400812|EA Hotel Embassy Prague
+403424|Vlkova Central Palace - Residence
+403574|Campea Aparthotel
+404067|Kladno
+404393|Beseda
+404407|Pytloun Hotel Harrachov
+407888|La Ballerina
+408799|Danubius Health Spa Resort Centrální Lázne & Maria SPA
+409006|Helios
+409213|Hotel Maxmilian Lifestyle Resort
+409214|Penzion Bela
+411019|Hotel Slunecna Louka
+411789|Hotel Rajska zahrada
+411818|Hotel Capek
+412277|Golf - Depandance
+417522|Zvon Design Suites

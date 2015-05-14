@@ -1,0 +1,450 @@
+6983|Capitol
+8069|Aseania Resort Langkawi
+8623|Bayview Beach Resort
+8634|Beach Garden Resort
+8841|Beringgis Beach Resort & Spa
+8845|The Palace
+8846|The Taaras Beach & Spa Resort
+8847|Berjaya Tioman Resort
+10258|The Royale Bintang
+10332|Holiday Villa Beach Resort & Spa Cherating
+10990|Riverside Majestic
+10991|Crown Princess
+11726|Dorsett Regency
+12155|Equatorial Penang
+12400|Bintang Fairlane Residence Bukit Bintang
+12459|Federal Villa Beach Resort
+13165|Gem Beach Resort
+13430|Grand Continental
+13431|Grand Continental
+13500|Grand Pacific
+13979|Batang Ai Longhouse Resort, Managed by Hilton
+14100|Holiday Inn Resort Penang
+14104|Holiday Inn Kuala Lumpur Glenmarie
+14173|Damai Beach Resort
+14174|Damai Puri Resort & Spa
+14255|Grand Margherita
+14506|Hyatt Regency Kinabalu
+14507|Hyatt Regency Kuantan Resort
+14753|Impiana KLCC
+14754|Impiana Resort Cherating
+14964|Istana
+15142|JW Marriott
+15564|Kuching Hilton
+15923|Holiday Villa Beach Resort & Spa
+16749|Mandarin Oriental Kuala Lumpur
+17366|Merdeka Palace
+17492|Corus Kuala Lumpur
+17779|Mutiara Burau Bay Resort
+17957|Nexus Resort
+18062|Copthorne Orchid Penang
+18585|Sama-Sama Hotel Kuala Lumpur International Airport
+18595|Pangkor Laut Resort/Estates
+18684|Rainbow Paradise Beach Resort
+18788|Hotel Soleil Kuala Lumpur
+18911|Meritus Pelangi Beach Resort & Spa
+18927|Intercontinental Mutiara Beach Resort Penang
+18953|Perhentian Island Resort
+19443|Primula Beach
+19576|Quality City Center
+20142|Renaissance Kuala Lumpur
+20395|The Ritz-Carlton Kuala Lumpur
+20698|Mulu Marriott Resort & Spa
+21019|Sabah Sandakan
+21464|Shangri-La
+21468|Shangri-La Golden Sands Resort
+21471|Shangri-La's Rasa Ria Resort & Spa Kota Kinabalu
+21472|Shangri-La Rasa Sayang Resort & Spa
+21474|Shangri-La's Tanjung Aru Resort & Spa
+21537|Sheraton Imperial
+21545|Sheraton Langkawi Beach & Resort
+22397|Sunway Pyramid
+22442|Swiss-Garden Hotel & Residences
+22443|Swiss Garden Beach Resort Kuantan
+22445|Swiss-Inn Kuala Lumpur
+22534|Tanjong Jara Resort
+22535|Tanjung Rhu Resort
+22673|The Andaman
+22677|Royale Aryani
+22735|The Datai
+22819|The Lanai Beach Resort
+22837|Sutera Harbour Resorts - The Magellan
+22897|Seri Pacific
+22902|Pangkor Island Beach Resort
+22935|The Promenade
+22957|Grand Millennium
+27301|Casa del Mar
+27955|Carcosa Seri Negara
+27956|Teluk Dalam Resort
+27957|Lone Pine
+30568|Equatorial
+31784|The Westin Langkawi Resort & Spa
+35282|Melia Kuala Lumpur
+39067|Club Med Cherating Beach
+40608|Eastern Pavillion Boutique Resort & Spa Cherating
+46559|Bayview Georgetown Penang
+46563|Flamingo Hotel by the Beach
+46567|Federal
+46572|Parkroyal Penang
+46575|Laguna Redang Island
+46583|Prince Hotel & Residence
+46588|Swiss-Garden Resort Damai Laut
+47495|Eastern & Oriental Penang
+47496|Royal Penang
+47497|Four Seasons Resort Langkawi
+47498|Langkawi Lagoon Resort
+47499|Palace of the Golden Horses
+47501|Kota Bahru Renaissance
+47502|Puteri Pacific
+47503|Sibu Island Resort
+52345|Dynasty
+52361|Parkroyal
+52362|The Westin Kuala Lumpur
+53051|Hilton
+53774|D-Villa Residence (ex. Holiday Villa Apartment Suites Kuala Lumpur)
+59253|Vistana
+60893|Mutiara Taman Negara Resort
+60902|Sunset Beach Resort
+61577|Vistana
+62869|The Lakehouse
+62945|Ye Olde Smokehouse
+62966|Crowne Plaza Mutiara Kuala Lumpur - geschlossen
+63159|Sepilok Nature Resort
+63383|Four Points Penang
+63478|Berjaya Langkawi Resort
+63481|Langkawi Village Resort
+63552|Resorts World Kijal
+63553|Bubu Long Beach Resort
+64525|Sipadan Kapalai Dive Resort
+64528|Lankayan Island Resort
+64569|The Club Saujana Resort
+65902|Hilton Petaling Jaya
+68651|Japamala Resort
+68738|Le Meridien Kota Kinabalu
+72000|Cameron Highlands Resort
+72244|Vivanta by Taj - Rebak Island
+72541|Sutra Beach Resort
+72627|Permai Rainforest Lodge
+72640|Manukan Island Resort
+72684|Tanjung Sanctuary Resort
+73086|Sipadan-Mabul Resort
+73142|Strawberry Park Resort
+73143|Hotel Equatorial Melaka
+75578|Ancasa Hotel & Spa Kuala Lumpur
+75586|Frangipani Langkawi Resort
+76168|Boulevard
+77041|Concorde Inn Kuala Lumpur International Airport
+77356|Novotel City Center
+77357|Resorts World Langkawi
+78178|Le Meridien
+78179|Pacific Regency
+78992|Gayana Eco Resort
+79894|The Reef Dive Resort Mataking Island
+80013|Berjaya Times Square
+80767|Hydro Penang
+80891|Kapas Island Resort
+81882|Heritage
+82166|Ramada Plaza Melaka
+82167|Thistle Johor Bahru
+82174|Cititel Mid Valley
+82245|Park City Everly
+82357|Evergreen Laurel
+82358|Cititel Penang
+82359|Traders Penang
+82362|Mahkota
+82363|MiCasa
+82667|Bayview Melaka
+82668|Gurney Resort
+82669|Grand Continental Penang
+82670|Mines Wellness
+82682|Layang Layang Island Resort
+84363|Lanson Place Ambassador Row Serviced Residences
+85017|Blue Bay Resort
+85018|The Zon All Suites Residences on the Park
+85202|Traders Kuala Lumpur
+85203|Avillion Port Dickson
+85204|Bayview Langkawi
+85624|Sabah Oriental
+85625|Mutiara Johor Bahru
+85626|Concorde Kuala Lumpur
+85714|Nova
+85715|Puri Melaka
+85716|Grand Continental
+85720|Holiday Villa Hotel & Suites Subang
+85723|Bon Ton Resort Langkawi
+86037|Sunway Georgetown
+86546|Grand Continental
+86934|The Legend Cherating Resort
+86935|Pearl International
+87278|Resorts World Genting - Awana Hotel
+87281|First World
+87283|Genting Grand
+87284|Grand Seasons
+87286|Excelsior
+87291|Pulai Desaru Beach
+87294|PNB Darby Park Executive Suites
+87296|Highlands
+87298|Theme Park
+88049|Colmar Tropicale Berjaya Hills
+88055|Heritage Ipoh
+88056|Syuen
+88060|Berjaya Waterfront
+88063|Grand Crystal
+88065|Swiss-Inn Sungai Petani
+88067|Grand Riverview
+88077|Grand Central
+88080|Midah
+88082|InterContinental Kuala Lumpur
+88092|Ariva Gateway Kuching
+88096|Ascott Kuala Lumpur
+88103|Grand Continental Langkawi
+88104|One Helang
+88106|Kampung Tok Senik
+88111|Sentral Melaka
+88118|Cheong Fatt Tze Mansion - ab April 2014 The Blue Mansion
+88358|Putrajaya Shangri-La
+90157|Marriott Putrajaya
+90158|Northam All Suites
+90160|Georgetown City
+90161|Miri Marriott Resort & Spa
+90170|Sunway Seberang Jaya
+90173|Perdana
+91050|Mandarin Court
+91052|Lake Kenyir Resort
+91053|Bukit Merah Laketown Resort
+91054|Pulai Springs Resort - Anugraha Boutique / Cinta Ayu All Suites
+91055|Langkasuka
+91056|Selesa Johor Bahru
+91069|Naza Talyya Penang
+91723|Malaya
+91725|Tanahmas The Sibu
+91727|Desaru Golden Beach
+91728|Cyberview Lodge Resort & Spa
+91947|The Nomad Sucasa
+92072|Jerejak Resort and Spa
+92454|Tuaran Beach Resort
+92852|The Majestic
+93916|Alpha Genesis
+94497|Le Grandeur Palm Resort Johor
+94543|Grand Dorsett Subang
+95242|Maya
+95491|Cititel Express
+95686|G Hotel Gurney
+99532|One World
+99533|Brisdale
+100177|Mesilau Nature Resort
+101570|Suria Cherating Beach Resort
+102239|The Royale Bintang The Curve
+102350|Seri Malaysia Kulim
+102352|Corona Inn
+102353|The Gardens Hotel & Residences
+103526|The Piccolo
+103527|Royal Kuala Lumpur
+103528|Holiday Inn
+106400|Concorde Shah Alam
+106799|Eastin
+109901|Quality Shah Alam
+110605|Grand Borneo
+111261|The Summit Subang USL
+125322|Copthorne Hotel Cameron Highlands
+129726|Everly Resort
+129729|Sandakan
+132761|Impiana Ipoh
+132764|Somerset Seri Bukit Ceylon
+132766|Merang Suria Resort
+132768|Naza Talyya
+132770|Equatorial Bangi
+134305|Silka Maytower Kuala Lumpur
+134306|Century Pines Resort
+137119|Avillion Legacy
+137448|D'Oriental Inn
+137593|Geopark
+138534|Flamingo by The Lake
+142007|Grand Blue Wave Shah Alam
+143759|Belum Rainforest Resort
+145024|The Royale Chulan
+145244|360 Urban Resort Hock Lee Center
+145245|Four Points Kuching
+145322|Pom Pom Island Resort
+157267|Silka Johor
+159562|Best Western Kinabalu Daya
+159591|Citrus
+159630|Duta Vista Suites
+159648|Grand Dorsett Labuan
+159754|Novotel 1Borneo
+159780|Pullman Putrajaya Lakeside
+159878|The Saujana
+163470|Rega Lodge
+163473|Bunga Raya Island Resort & Spa
+182516|De Rhu Beach Resort
+183691|AVANI Sepang Goldcoast Resort
+187832|Hard Rock Penang
+188061|Serai di Lanjut
+196031|Suria City Johor Bahru
+201313|The Kudat Riveria
+201660|Fraser Place
+201732|Waterfront Labuan Financial
+201733|Rosa Passadena
+201734|Coral View Island Resort
+202547|Cititel Express Kota Kinabalu
+203194|Starpoints Kuala Lumpur
+203195|Eastin Penang
+203437|Pullman Kuching
+204567|Ancasa Allsuites Resort & Spa
+207119|Celyn
+207324|China Town Inn
+207378|Citin Langkawi
+207379|Citin Masjid Jamek
+213278|Likas Square Condotel
+214427|Sentral Johor Bahru
+214480|New York
+215485|Phoenix
+216440|Puteri Park
+217962|Sentral Kuala Lumpur
+218005|Shangri-La Kota Kinabalu
+219179|The Jesselton
+221539|Celyn Resort Kinabalu
+222442|Histana
+227219|De La Ferns - Boutique Resort
+227302|Sari Pacifica Resort & Spa, Redang
+227303|Sari Pacifica Sibu Island
+227323|Casa del Rio
+227379|Anggun Kuala Lumpur
+227380|Avillion Admiral Cove
+227464|The Danna Langkawi
+227980|MaluriI
+228029|Century Suria Service Apartment Langkawi
+228737|Doubletree By Hilton Kualar Lumpur
+228926|Ri-Yaz Heritage Marina Resort & Spa
+229064|GTower
+229065|Bella Vista Resort & Spa Langkawi
+229976|Tune Hotel Downtown Penang
+229977|Tune Hotel 1Borneo Kota Kinabalu
+229979|Tune Hotel Downtown Kuala Lumpur
+229981|Tune Hotel Waterfront Kuching
+229987|Tune Hotel KLIA-LCCT Airport
+230516|De Palma Shah Alam
+232176|Parkroyal Serviced Suites
+232913|B-Suite
+233110|Tower Regency Hotel & Apartments
+234236|Megah D'Aru
+234237|Eagle Bay
+234523|Palm Garden Ioi Resort
+234524|Vistana
+235981|Ming Garden Hotel & Residences
+236497|Première
+236667|Somerset Ampang Kuala Lumpur
+236865|Gem Island Resort & Spa
+236866|Aseania Resort
+236884|Four Points Langkawi Resort
+238148|The Banjaran Hotsprings Retreat
+238353|Courtyard Hotel @ 1Borneo
+238354|Sentral Pudu
+238356|Sri Tiara
+238359|Empire Subang
+238361|RH Hotel Sibu, Sarawak
+238362|Abell
+238364|Philea Resort & Spa
+238365|Penaga
+238765|Sutera Harbour Resorts - The Pacific
+239288|Gaya Island Resort
+239394|Furama Bukit Bintang
+239895|The Chateau Spa & Organic Wellness Resort
+240061|Horizon
+240439|M.S. Garden
+240444|Grand Blue Wave Johor Bahru
+241694|Lotus Desaru Beach Resort
+241695|A'Famosa Resort
+243568|Fahrenheit Suites
+243569|Suria Hill Country House
+245190|Langkah Syabas Beach Resort
+246198|Villa Samadhi
+246424|Best Western Sandakan Hotel & Residence
+246425|Kinabalu Park
+246426|Poring Hot Springs & Nature Reserve
+246427|Bukit Gambang Resort City - Caribbean Bay Resort / Arabian Bay Resort / Global Heritage
+246428|Sentosa Regency
+246431|Lost World
+246870|White Lodge Chalet
+247848|My Hotel Langkawi
+247849|Bahagia
+247850|Alamanda
+247851|Lipis Plaza
+247852|Pontian Garden
+248156|Grand Hyatt Kuala Lumpur
+249361|Sepilok Jungle Resort
+249362|Frenz Kuala Lumpur
+249364|Charlie Motel Langkawi
+259497|Favehotel Cenang Beach
+259498|Landcons
+259499|Mali Perdana Resort
+259501|The Maple Suite
+259502|Langkapuri Inn
+259503|Delta Motel & Restaurant
+259504|Tanjung Malie Beach Motel
+259505|Shahzan Inn
+259506|Best Western Wana Riverside
+259507|Havanita
+259508|The Sterling
+259509|Citrus Johor Bahru
+259510|Century Bay Service Suites
+260039|Terrapuri
+260047|Tunamaya Beach & Spa Resort Tioman
+260312|Damas Suites & Residences
+260313|Apple
+260314|Family
+260509|Four Points Sandakan
+261074|Kensington
+261075|Hsiang Garden
+261076|Central Sandakan
+261077|The Pavilion
+261078|M Joy
+261079|The Nomad Residences Bangsar
+261081|Ali Baba
+261083|D'New 1
+261084|Golden Leaf
+261085|Here
+261086|OAK Valley Boutique
+261363|2inn1 Boutique Hotel & Spa
+261364|My Habitat Residence
+261365|AnCasa Express @ Pudu
+261366|One-Stop Serviced Residence
+261367|Zoom Inn Boutique
+261368|Grand Sentosa
+261555|Mabul Water Bungalow
+261884|Tune Hotel Bintulu
+261885|Tune Hotel Kulim
+261886|Tune Hotel Kota Damansara
+261887|Tune Hotel Ipoh
+261888|Tune Hotel Kota Bharu City Centre
+261890|Tune Hotel Danga Bay
+261894|Kulai City Inn
+261899|Super 8
+261902|EQ Ferringhi
+261903|1926 Heritage
+262291|Sunway Putra
+262292|5 Elements
+262306|De Palma Inn Kuala Selangor
+262326|RentNow Apartments
+262337|Sunway Resort & Spa
+264382|Temple Tree at Bon Ton
+269288|The Smokehouse by The Golf Course
+277870|Victory Street Boutique
+278417|Seri Chenang Resort & Spa Langkawi
+278428|23 Love Lane
+278448|The Crown Borneo
+278599|De Palma Waterfront Kuching
+283478|Palm Beach Resort & Spa
+285204|Ibis Styles Kuala Lumpur Fraser Business Park
+287551|Grand Lexis Port Dickson
+296311|Cherengin Hills Convention & Spa Resort
+297640|Majestic Kuala Lumpur
+300533|E&O Residences Kuala Lumpur
+300698|Ramada Plaza Dua Sentral Kuala Lumpur
+301708|Ibis Styles KL Cheras
+310840|Aloft Kuala Lumpur Sentral
+316999|Courtyard @ Heeren Boutique Hotel
+363949|Vivatel
+391872|Lanson Place Bukit Ceylon Serviced Residences
+408657|Bella Vista Express Langkawi
+411542|The Ocean Residence

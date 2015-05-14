@@ -1,0 +1,657 @@
+4997|Hilton Abu Dhabi
+4998|Beach Rotana
+4999|Jumeirah Beach Hotel
+5000|Oasis Beach - geschlossen
+5001|Le Royal Méridien Beach Resort And Spa
+5002|Habtoor Grand Beach Resort & Spa, Autograph Collection
+5003|Radisson Blu Resort Sharjah
+5004|Lou Lou'a Beach Resort
+5005|Sharjah Grand
+7048|Abu Dhabi Gulf Al Diar / Resort / Beach - geschlossen
+7197|Kempinski Ajman
+7220|Hilton Al Hamra Beach & Golf Resort
+7221|Al Maha Desert Resort & Spa
+8618|Hilton Baynunah
+8635|Beach Sharjah
+9375|Burj al Arab Jumeirah
+9677|Capitol
+11787|Dubai Marine Beach Resort and Spa
+12115|Jumeirah Emirates Towers
+13292|Golden Sands - 3 / 5 / 10
+13829|Hatta Fort
+13978|Hilton Al Ain
+13987|Hilton Corniche
+13990|Hilton Dubai Creek
+13991|Hilton Dubai Jumeirah Resort & The Walk
+13994|Hilton Fujairah Resort
+14182|Holiday Inn Dubai Downtown
+14501|Hyatt Regency Dubai
+14864|Intercontinental Abu Dhabi
+14865|Danat Al Ain Resort
+14867|Radisson Blu Dubai Deira Creek
+15052|Golden Tulip Al Jazira
+15058|Jebel Ali Golf Resort - JA Palm Tree Court & JA Jebel Ali Beach
+15122|Jumeirah Rotana
+15139|JW Marriott
+16089|Le Meridien Abu Dhabi
+16096|Le Méridien Dubai Hotel & Conference Centre
+16103|Le Meridien Mina Seyahi Beach Resort & Marina
+16457|Lords Hotel Dubai
+16798|Marbella Resort
+16823|Marco Polo Hotel
+17486|Al Diar Mina
+19798|Sheraton Jumeirah Beach Resort & Towers
+20014|Al Diar Regency
+20028|Regent Palace
+20739|Metropolitan Hotel Deira
+21503|Sheraton Abu Dhabi
+21517|Sheraton Deira
+22326|One & Only Royal Mirage - The Palace / Arabian Court / Residence & Spa
+22811|Jumeirah Beach Club - geschlossen
+22883|Oceanic Khorfakkan Resort & Spa
+22927|Crowne Plaza Dubai
+22979|The Ritz-Carlton Dubai
+24727|Al Bustan Rotana
+25939|Bin Majid Beach Resort
+26147|Holiday International
+26427|Beit Al Bahar
+27428|Versailles
+27429|Al Diar Siji
+27827|Hilton Ras Al Khaimah Hotel
+27869|Sea View
+27871|Sun & Sands
+29612|Rotana Towers
+31208|Sharjah Rotana
+32013|Coral Beach Resort
+32014|Le Meridien Al Aqah Beach Resort
+32015|Savoy Park
+33073|Sheraton Dubai Creek Hotel & Towers
+33395|Grand Hyatt Dubai
+37904|Dubai Creek Golf & Yacht Club
+38134|Fairmont Dubai
+38213|Hilton Sharjah
+38378|Shangri-La Dubai
+38605|Coral Dubai Deira Hotel
+39075|Sun & Sky Al Rigga Hotel
+39382|Taj Palace
+39482|Umm Al Quwain Beach
+40111|Claridge
+40616|Eureka
+40617|Mayfair Hotel
+40619|Regent Beach Resort
+41785|Mercure Grand Jebel Hafeet Al Ain Hotel
+42262|Bin Majid Beach Hotel
+42665|Savoy Central
+42666|Pullman Dubai - Deira City Centre
+42667|Emirates Concorde
+46547|Ajman Beach
+46551|Avari Dubai
+46558|Broadway
+46564|Crowne Plaza Abu Dhabi
+46565|Dusit Thani
+46577|Le Royal Meridien Abu Dhabi
+46578|Mövenpick Hotel & Apartments Bur Dubai
+46582|Panorama Bur Dubai Hotel
+47973|Madinat Jumeirah - Mina A'Salam / Al Qasr / Dar Al Masyaf
+49998|Riviera
+49999|Dubai Grand
+50000|Four Points Bur Dubai
+50225|San Marco
+51410|Traders Dubai
+51411|Emirates Palace
+51876|Crowne Plaza Dubai Deira
+52720|Danat Resort Jebel Dhanna
+52721|Liwa Hotel
+52912|Al Bustan Center & Residence
+52913|Al Khaleej Palace
+52914|Rimal Rotana
+56184|Abjar Grand
+56185|Palm Beach
+56335|Bab Al Shams Desert Resort & Spa
+59335|Chelsea Plaza
+59336|Orchid
+59338|Khalidiya Palace Rayhaan by Rotana
+60355|Jonrad
+60363|Millennium Corniche Hotel Abu Dhabi
+60954|Al Maha Arjaan by Rotana
+61163|Al Raha Beach
+61461|Ibis World Trade Centre Dubai
+61576|Imperial Suites
+61798|Al Diar Capital
+62321|Novotel World Trade Centre
+62343|Carlton Tower
+62770|Arabian Courtyard
+63177|Ramada Beach Ajman
+63181|Al Rawda Arjaan by Rotana
+63826|Ramada Hotel Dubai
+63827|Ramada Deira
+64672|Chelsea Tower Apartments
+64674|Al Murooj Rotana
+64676|Grosvenor House, a Luxury Collection Hotel
+64956|Coral Oriental Dubai
+68505|Golden Tulip Al Barsha
+68506|Ascot
+68507|City Seasons Hotel Dubai
+68508|Flora Grand Hotel
+68509|Moscow Hotel
+68510|Comfort Inn
+68512|Sharjah Carlton
+68530|Al Khaleej
+68531|Sheraton Khalidiya
+68570|Al Ain Rotana
+68571|Sands
+68632|International Rotana Inn
+68633|TOP Grand Continental Flamingo
+68634|Millennium Airport Hotel Dubai
+68696|Rush Inn
+68697|Arabian Beach
+68698|Hallmark
+68731|Panorama Grand Hotel
+68732|Landmark Hotel Baniyas
+68749|Royal Falcon
+68750|Royal Beach Al Faqeet Resort
+68831|K-Porte Inn
+68844|Mirfa Hotel
+69500|Flamingo Beach Resort
+70163|Ewan Sharjah
+71190|Nihal
+71799|Park Hyatt Dubai
+72964|Mafraq Hotel
+73806|Admiral Plaza
+73808|Fortune Plaza
+73987|Vendome Plaza
+73988|Kempinski Hotel Mall of the Emirates
+73990|Grand Excelsior Hotel Bur Dubai
+75021|Fortune Boutique
+75022|Howard Johnson Bur Dubai
+75023|Al Jawhara Gardens Hotel
+75039|Pearl Residence
+75097|Golden Tulip Khatt Springs Resort & Spa
+75206|Courtyard Dubai Green Community
+76082|Sharjah Premiere
+76103|Arabian Park
+76159|Fujairah Rotana Resort & Spa
+76388|Metropolitan Dubai
+76422|Avenue
+76423|Orient Guest House
+76701|Metropolitan Palace Dubai
+76742|The Address Montgomerie Dubai
+76812|St. George
+76813|New Peninsula
+76815|Karama
+76833|Jebel Ali Oasis Beach Tower
+76956|Marriott Dubai Harbour Hotel & Suites
+77232|Mercure Centre Hotel
+77432|Dubai Palm
+77582|Hilton Ras Al Khaimah Resort & Spa
+77585|Majestic Hotel Tower Dubai
+78521|Zain International
+78522|BurJuman Arjaan by Rotana
+78742|Somerset Jadaf
+79150|Shangri-La Qaryat Al Beri
+79448|Bavaria Executive Suites Dubai
+82146|Grand Central
+84497|Savoy Crest
+86089|Golden Tulip Suites Dubai
+86524|Deira Town
+86525|Gulf Pearl
+86526|Radisson Blu Hotel Dubai Media City
+86527|Queen's
+86947|Iberotel Miramar Al Aqah Beach Resort
+87014|Regency Al Maha Suites
+87332|Amwaj Rotana - Jumeirah Beach Residence
+87420|Raffles Dubai
+88190|Regal Plaza
+88478|Royal Plaza
+88479|Richmond Apartments
+88586|Panorama Deira
+88618|Al Jawhara Hotel Apartment
+88687|Al Sharq Hotel
+88738|Royal Home
+89019|York International
+89117|Grand Midwest Bur Dubai
+89142|Jormand Apartments
+89329|Lotus Grand
+89342|Vision
+89434|Ramee Guestline Hotel Apartment 3
+89454|Tulip Creek
+89490|Ramee Guestline Deira
+89507|Country Club Dubai
+89510|Al Jawhara Metro
+90004|Radisson Blu Resort Fujairah
+90280|Vida Downtown Dubai
+90281|Four Points Downtown
+90282|Four Points Sheikh Zayed Road
+90283|Westin Dubai Mina Seyahi Beach Resort & Marina
+90986|Desert Palm Resort
+91404|Holiday Beach Motel
+91920|Al Manzil Downtown Dubai
+91927|Emirates Palace Suites
+91928|Al Sham
+91929|Dream Palace Hotel
+91931|Ramee International
+91932|Semiramis
+91934|Embassy Suites
+91935|Grand Excelsior Hotel Sharjah
+91936|Golden Beach
+91937|Al Ain Palace Abu Dhabi
+92674|Rihab Rotana
+92675|Villa Rotana Suites
+92735|Sandras Inn
+92737|Flora Apartements
+92738|Oryx
+92763|The Palace Downtown Dubai
+92764|Crowne Plaza Dubai - Festival City
+92765|Rafee
+93172|Swiss-Belresort Ghantoot
+93263|Holiday Inn Express Dubai - Internet City
+93861|London Crown 1 Apartments
+93862|London Crown 2 Apartments
+93863|Flora Park Deluxe Apartments
+93864|Jormand Suites
+93865|Al Shams Plaza
+94048|Jormand Sharjah
+94075|Rayan Hotel
+95092|InterContinental Dubai Festival City
+95410|Al Bustan Hotel
+95411|Summer Land
+95584|Ramee Royal
+95589|Nejoum Al Emarate
+99581|Atlantis The Palm
+100268|Royalton Dubai
+100344|Lords Hotel Sharjah
+100442|Copthorne Dubai
+100443|Samaya
+100507|The H Dubai
+100696|Tamani Marina
+100737|Al Seef Beach
+101132|Delmon
+102501|Coral Boutique Apartments
+102502|Coral Boutique Villas
+103015|Grand Millennium Dubai
+103367|Star Metro Deira
+103615|Holiday Inn Express Dubai - Safa Park
+103616|Holiday Inn Al Barsha Dubai
+103617|Ibis Deira City Centre
+103618|Rose Rayhaan by Rotana
+103619|Media Rotana
+103621|The Cove Rotana Resort
+108651|Marriott Executive Apartments Dubai Creek
+122251|Desert Islands Resort & Spa by Anantara
+122905|Tiara The Palm
+125445|Ramee Apartments
+129218|City Seasons Al Ain
+129286|Nova
+129431|Al Khaleej Holiday
+129519|City Tower
+129707|Arabian Dreams
+129853|Ramee Guestline Hotel Apartment 2
+129857|Moon Valley
+129859|Pearl Coast
+129861|Le Meridien Fairway
+129863|Royal Crown
+129865|Spark Residence
+130343|Emirates Stars Dubai
+130344|Dolphin
+131192|Seven Sands
+131414|Imperial Residence
+131660|Oriental Palace
+132299|Splendid
+132461|Rose Garden
+132462|Tulip Inn Sharjah
+133108|Nova Park
+134250|The Address Downtown Dubai
+136412|Holiday Inn Express Dubai - Jumeirah
+137503|City
+137740|Ras Al Khaimah
+138294|Ascott Park Place Dubai
+138299|Flora Creek Deluxe Apartments
+138317|Fortune Grand Bur Dubai
+138347|Dusit Residence Dubai Marina
+138356|Golden Tulip Sharjah
+138442|East Coast Hotel Apartments
+138457|Al Barsha Hotel Apartments
+138478|Waterfront Hotel Apartments
+138509|Kingsgate Abu Dhabi
+138593|Al Manar Apartment
+138635|Emirates Grand Hotel
+138771|City Tower Apartment - Burdubai
+138946|Grand Midwest Express
+139228|The Radisson Blu Residence Dubai Marina
+139304|Rose Garden Hotel Apartments Barsha
+139337|Savoy Suites
+139343|Shalimar Park
+139412|Star Metro Al Barsha
+139526|ABC Arabian Suites
+140102|Grandeur
+140167|Sofitel Dubai Jumeirah Beach
+141661|Tulip Hotel Apartments
+144200|Novotel Deira City Centre
+144433|Tulip Inn Al Rahba
+144434|One to One The Village
+144436|Ramee Guestline
+144437|The Eclipse Boutique Suites
+144438|Ramee Hotel Apartments Abu Dhabi
+144440|Cassells Apartments
+144442|Ibis Al Barsha
+144443|Ibis Mall Of The Emirates
+144444|Jumeirah Living World Trade Centre Residence
+144445|Desert Rose Apartments
+144446|Nuran Marina Serviced Residences
+144447|Khalidia Apartments
+144448|Dunes Apartments Muhaisnah
+144452|Oasis Court Apartments
+144454|Oaks Liwa Heights
+144455|Golden Square Suites
+144457|Green Lakes Serviced Apartments - Towers
+144459|Layia Crystal Living Courts
+144462|Emirates Springs Apartments
+144463|Grand Midwest Tower
+144998|Chelsea Gardens Apartment
+157253|Nojoum
+163399|Mercure Gold Hotel Dubai
+163426|Belvedere Court Hotel Apartments
+163450|Verona Resort Sharjah
+182168|Coral Al Khoory Hotel Apartments
+182575|Mövenpick Hotel Jumeirah Beach
+182761|Yas Island Rotana
+183045|Qasr Al Sarab Desert Resort
+183056|TIME Topaz Hotel Apartments
+183127|Mövenpick Ibn Battuta Gate
+183128|Aloft Abu Dhabi
+183236|Crystal Plaza
+183237|Najd Apartments
+183238|Ramada Ajman
+183239|Legacy Apartment - Tecom
+187327|Howard Johnson Diplomat Abu Dhabi AE
+187328|Tulip Inn FZ LLC
+187829|Landmark Riqqa
+188841|Banyan Tree Al Wadi
+188842|Centro Yas Island
+188843|Yas Viceroy
+195947|Fairmont Bab Al Bahr
+195980|Milton
+196335|The Address Dubai Mall
+196348|Mövenpick Hotel Deira
+201618|Suite Novotel Mall of the Emirates
+201619|Arjaan by Rotana Dubai Media City
+201779|Radisson Blu Abu Dhabi Yas Island
+201946|The Address Dubai Marina
+202209|Byblos Hotel
+202210|Royal Ascot Hotel
+202837|TIME Oak Hotel & Suite
+202864|Tilal Liwa
+202926|Holiday Inn Bur Dubai - Embassy District
+202928|Acacia
+203087|Armani Dubai
+203126|Al Mas Apartments
+203435|Fujairah Oceaniec Resort
+204066|Al Faris 2
+204067|Al Faris 3
+204072|Al Manzel
+205118|Arabian Ranches Golf Club
+205321|Asiana Dubai
+206345|Bonnington Jumeirah Lakes Towers
+207860|Cristal
+207900|Crowne Plaza Yas Island
+208313|Dhafra Beach Hotel
+208592|Dunes Apartments Barsha
+208964|Euro Apartments
+210187|Hala Arjaan by Rotana
+210542|Holiday Inn Abu Dhabi
+213476|London Creek Hotel Apartments
+213478|London Suites
+213525|Lotus Downtown Metro
+213813|Marina Hotel Apartments
+213939|Mazoon Apartments
+213956|Media One Hotel
+214616|Nuran Greens Serviced Residences
+215056|Park Inn by Radisson, Abu Dhabi Yas Island
+215144|Xclusive Clover
+215868|Premier Inn Dubai International Airport
+215869|Premier Inn Dubai Investments Park
+215870|Premier Inn Dubai Silicon Oasis
+216565|Ramada Downtown Dubai
+216585|Ramee Garden Hotel Apartments
+217301|Rio Dubai
+217543|TIME Ruby
+218051|Siji Hotel Apartments
+218393|Staybridge Suites Yas Island
+218502|Suha Apartments
+220800|Winchester Deluxe Hotel Apartments
+220801|Winchester Grand Hotel Apartments
+220871|Xclusive Hotel Apartments
+226507|Hyde Park
+226508|Number One Tower Suites
+226510|Centro Barsha
+226778|RainTree Hotel Dubai
+226935|Rainbow
+227098|Landmark Plaza Baniyas
+227123|Ramada Chelsea Al Barsha
+227342|CityMax Al Barsha
+227394|DoubleTree Ras Al Khaimah
+227523|Ibis Al Rigga
+227703|Traders Qaryat Al Beri
+227744|Holiday Inn Express Dubai Airport
+227842|Concorde Fujairah
+227963|One & Only The Palm
+227964|The Meydan
+228233|Kempinski Hotel & Residences Palm Jumeirah
+228252|TIME Opal
+228574|Al Hamra Residence
+228778|Lotus Hotel Apartments & Spa Marina
+228779|Al Nawras Apartments
+228781|Mount Royal Hotel
+228786|Cassells Al Barsha
+229102|Montreal Hotel
+229211|Hyatt Capital Gate, Abu Dhabi
+230192|Bavaria City Suites Al Qusais
+230196|Fortune Grand Deira
+231432|Auris Boutique
+231940|Park Regis Kris Kin
+232269|Citymax Hotels Bur Dubai
+232313|Jumeirah Zabeel Saray
+232593|Al Hamra Village Golf & Beach Resort
+232836|Ramada Sharjah
+232838|Fraser Suites
+232951|Radisson Royal Hotel
+233032|London Crown
+233125|Park Apartments
+233598|Abidos Hotel Apartments Al Barsha
+233916|Gloria Hotel
+233919|Grand Belle Vue
+233920|The Galleria Residence
+233921|Park Rotana
+234991|The Ritz-Carlton Dubai International Financial Centre
+235020|Radisson Blu Hotel Dubai Downtown
+235339|Royal Beach Resort & Spa
+235963|Grand Millennium Al Wahda
+236131|Ramada Jumeirah
+236274|City Seasons Suites Dubai
+236618|Royal Ascot Hotel Apartments
+236985|Millennium Plaza Hotel Dubai
+237760|St. Regis Saadiyat Island
+237780|TIME Grand Plaza
+237885|Park Hyatt Abu Dhabi
+237886|Jumeirah at Etihad Towers - Hotel
+237952|Waldorf Astoria Ras Al Khaimah
+238145|Palazzo Versace
+238782|Marina View Hotel
+238855|Dunes Hotel Apartments Oud Metha
+238932|Jumeirah Creekside
+239225|Westin Abu Dhabi Golf Resort & Spa
+239445|Melia Dubai
+240076|Auris Lodge Al Barsha
+240125|Anantara Sir Bani Yas Island Al Yamm Villa Resort
+240489|Avari Hotel Apartments Al Barsha
+240784|Mangrove
+240863|Rixos The Palm Dubai
+241339|Centro Sharjah
+242014|Marina Byblos Hotel
+243474|Tulip Inn Royal Suites
+243475|Gulf Oasis Hotel Apartments
+243477|Sharjah Palace
+243478|Ayla
+243479|Aryana
+245074|Sun & Sands Downtown
+245459|Hilton Capital Grand Abu Dhabi
+245843|Hues Boutique Hotel
+245967|InterContinental Residence Suites Dubai F.C
+246459|Grand Excelsior Al Barsha
+246905|Al Sondos Suites by Le Meridien
+247030|Anantara Sir Bani Yas Island Al Sahel Villa Resort
+247181|Centro Al Manhal
+247341|City Seasons Al Hamra Abu Dhabi
+247511|Landmark Grand
+247534|The St. Regis Abu Dhabi
+247542|Ramada Plaza Jumeirah Beach Residence
+247549|CityMax Sharjah
+247713|Eastern Mangroves Hotel & Spa by Anantara
+248155|First Central Hotel Suites
+248192|Cristal Salam Abu Dhabi
+248252|One & Only Royal Mirage - The Palace
+248253|One & Only Royal Mirage - Arabian Court
+248254|One & Only Royal Mirage - Residence & Spa
+248425|Madinat Jumeirah - Mina A'Salam
+248427|Madinat Jumeirah - Al Qasr
+248429|Madinat Jumeirah - Dar Al Masyaf & Malakiya Villas
+248437|Jebel Ali Golf Resort - JA Jebel Ali Beach
+248438|Jebel Ali Golf Resort - JA Palm Tree Court
+249129|Alhamra
+249130|Auris Hotel Apartments Deira
+249416|Nour Arjaan by Rotana
+249984|Auris Plaza Al Barsha
+250083|President
+250087|Sofitel Abu Dhabi Corniche
+250088|Fortune Pearl Deira
+259725|The Ritz-Carlton Abu Dhabi Grand Canal
+259754|Ibis Abu Dhabi Gate
+259755|Novotel Abu Dhabi Al Bustan
+259969|The Ajman Palace
+259989|Hilton Dubai Jumeirah Resort & The Walk - Hilton Dubai The Walk
+259990|Hilton Dubai Jumeirah Resort & The Walk - Hilton Dubai Jumeirah Resort
+260042|Ocean View
+260062|Fairmont The Palm
+260066|Fortune Apartments Bur Dubai
+260090|Al Ghurair Rayhaan by Rotana
+260689|Swiss-Belhotel Corniche
+260746|Dubai Trade Centre Apartments
+260835|Fortune Classic Apartments
+261260|Banyan Tree Ras Al Khaimah Beach
+261388|Cosmopolitan Hotel
+261421|Nassima Tower Hotel Apartments
+261440|JW Marriott Marquis Hotel Dubai
+261441|Rixos Bab Al Bahr
+261640|Astoria
+261646|Ambassador
+261960|Delmon Palace
+263656|Premier Inn Abu Dhabi International Airport
+263663|Al Ghurair Arjaan by Rotana
+263665|Capitol Residence
+263676|Marriott Executive Apartments Dubai Green Community
+263677|Ramee Hotel Apartments
+263678|Ramee Rose
+263684|Alhamra
+265716|Centro Capital Centre
+265773|Ramee Royal Hotel Apartments
+267982|Al Jazeerah Hotel
+267983|Al Hayat Suites
+267984|Arbella Boutique Hotel
+268806|Fortune Royal Hotel
+278281|Officers Club & Hotel
+278282|Premier Inn Abu Dhabi Capital Centre
+278283|Royal Regency
+278284|Al Jazira Royal Hotel
+278285|Paragon Hotel
+278287|Century
+278288|La Residence
+278289|City Stay
+278291|Smana Al Riqa
+278294|Xclusive Maples Hotel Apartment
+278296|Time Square
+278299|Boutique 7 Hotel & Suites
+284850|Marmara
+284860|Ewa Dubai
+285462|City Premiere Hotel Apartments
+285464|Tulip Inn Al Qusais Dubai Suites
+285465|Auris Metro Central Hotel Apartments
+295686|Yassat Gloria Hotel Apartments
+295730|TIME Crystal
+295800|Dubai International
+295867|Dusit Thani Abu Dhabi
+295877|City Tower
+295988|Fortune Apartments Abu Dhabi
+300495|Mourouj Hotel Apartment
+300627|Golden Tulip Al Thanyah Apt Barsha
+300628|Al Hayat Hotel Apartments
+301342|Novotel Abu Dhabi Gate
+301343|Novotel Al Barsha
+301345|Aparthotel Adagio Abu Dhabi Al Bustan
+301398|Ahmedia Heritage Guest House
+302287|Sheraton Dubai Mall of the Emirates
+302349|Sofitel Dubai The Palm Resort & Spa
+302389|Royal Rose
+302418|Mövenpick Hotel Apartments The Square
+302439|Trianon
+302555|Conrad Dubai
+309147|Nehal Hotel
+310881|The Oberoi Dubai
+310882|Anantara Dubai The Palm Resort & Spa
+310921|Crown Palace
+310984|Barjeel Heritage Guest House
+314198|Copthorne Hotel Sharjah
+315618|Baiti Hotel Apartments
+320136|Radisson Blu Hotel Al Qurm, Ras Al Khaimah
+334996|Al Gaddah Hotel Suites
+335052|Abidos Hotel Apartment Dubailand
+335810|DoubleTree by Hilton Resort & Spa Marjan Island
+359914|Pearl Marina Hotel Apartments
+359930|Pearl Hotel
+363243|Mövenpick Hotel Jumeirah Lakes Towers
+363471|Marriott Dubai Al Jaddaf
+363694|Al Waleed Palace Hotel Apartments Al Barsha
+363700|Rosewood Abu Dhabi
+363702|Skyline Deluxe Apartments
+365543|Marriott Executive Apartments Al Jaddaf
+366520|The Ajman Saray
+367370|Corp Executive Al Khoory
+367373|Doubletree By Hilton Hotel & Residences Dubai Al Barsha
+367374|DoubleTree by Hilton Hotel Dubai - Jumeirah Beach
+367377|Jumeirah Zabeel Saray Royal Residences
+367380|Waldorf Astoria Dubai Palm Jumeirah
+367678|Ain Al Faida One To One Hotel And Resort
+367679|Hili Rayhaan By Rotana
+372879|72 By Hues Hotel Sharjah
+372927|Hawthorn Suites by Wyndham Dubai JBR
+373813|Phoenix Plaza Apartments
+391123|Arabian Nights Village Abu Dhabi
+391124|Royal Grand Suite Hotel
+391466|Jumeirah At Etihad Towers - Residences
+391549|Warwick by Wyndham Dubai
+391740|Sofitel Dubai Downtown
+400878|DAMAC Maison Dubai Mall Street
+400879|Grand Midwest Reve
+402678|Eastern Mangroves Suites by Jannah
+402679|Southern Sun Abu Dhabi
+402680|Hyatt Place Dubai Al Rigga
+404557|Marjan Island Resort & Spa
+405161|Ivory Grand Hotel Apartments
+405162|Tulip Inn Hotel Apartments Ajman
+405910|Four Seasons Resort Dubai at Jumeirah Beach
+406510|ibis Fujairah
+406511|Novotel Fujairah
+406579|Adagio Fujairah Aparthotel
+407127|Ramada Abu Dhabi Corniche
+407162|Park Arjaan by Rotana
+409215|Sheraton Grand Hotel Dubai
+411530|Executive Suites by Mourouj
+411759|Xclusive Casa Hotel Apartments
+412073|Naia Downtown Jebel Ali
+412279|Ghaya Grand Hotel
+412970|Reflections
+413220|Fairmont Ajman
+413306|Suba Hotel Dubai
+413895|Pullman Dubai - Deira City Centre & City Centre Residences
+414792|Armada Blue Bay
+414793|Jannah Place
+416390|DAMAC Maison Cour Jardin

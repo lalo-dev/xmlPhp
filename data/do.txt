@@ -1,0 +1,297 @@
+287|Casa Bonita
+289|Dreams La Romana Resort & Spa
+291|BelleVue Dominican Bay
+292|Don Juan Beach Resort
+293|Be Live Experience Hamaca - Beach / Garden / Suites
+300|Azzuro Club Estrella
+301|Casa Phönix Annex Isla Verde
+302|Breezes Puerto Plata Spa & Beach Resort
+304|Punta Goleta Resort Condominium
+305|Celuisma Cabarete
+310|Villa Taina
+313|Barcelo Capella Beach Resort
+317|Colonia Tropical
+318|Coral Costa Caribe
+321|Club Hemingway
+322|Playa Real Beach
+324|Talanquera Beach Resort
+325|Acaya Samana
+326|Ocean Arc Punta Bonita Beach Resort
+327|Dreams Palm Beach Punta Cana
+328|Grand Palladium Hotels - Grand Palladium Bávaro Suites Resort & Spa
+329|Iberostar Bavaro
+330|Iberostar Punta Cana
+331|Princess Bavaro All Suites Resort Spa & Casino
+332|Natura Park Beach Eco Resort & Spa
+333|Paradisus Punta Cana Resort
+335|EMI Ocean Palms Beach Resort
+336|Lifestyle Vitalis Garden Club
+337|Lifestyle Tropical Beach Resort
+338|Caribbean Village Playa Dorada
+339|Fun Royale - Tropicale Beach Resort
+341|Barcelo Puerto Plata
+342|Interclubs Fun Tropicale
+343|Gran Ventana Beach Resort
+346|Occidental Allegro Playa Dorada
+347|Victoria Golf & Beach Resort
+348|BlueBay Villas Doradas
+349|Allegro Playa Grande
+354|Barcelo Bavaro Beach Resort - Barcelo Bavaro Beach Hotel / Barceló Bávaro Palace Deluxe / Family Club / Club Premium Deluxe
+358|Caribe Club Princess Beach Resort & Spa
+359|Iberostar Dominicana
+361|Puntacana Resort & Club
+362|IFA Villas Bavaro Resort & Spa
+363|Grand Bahia Principe San Juan
+364|Cacao Beach
+367|Luxury Bahia Principe Samana
+368|Villa Serena
+369|Howard Johnson San Pedro de Macorix
+371|Hispaniola
+372|Crowne Plaza Santa Domingo
+373|Occidental El Embajador
+374|Santo Domingo
+377|Casa Linda
+387|Playa Laguna
+388|Sosua by the Sea Boutique Beach Resort
+391|Villa Flor
+392|Waterfront
+5705|Blue Jack Tar
+6693|Dorado Club Resort
+6696|Club Aligio Beach
+6699|Larimar - geschlossen
+6701|Vista Sol Punta Cana Beach Resort & Casino
+6703|Catalonia Bávaro Resort - Bavaro Beach Golf Casino & Royal Bavaro
+6705|Meliá Caribe Tropical Beach & Golf Resort
+6825|Amsha Casa Marina Reef & Beach
+8424|Bahia Las Ballenas
+8871|Hotasa Luperon Beach Resort and Tropical Beach
+9186|Club Bonito
+9714|Caracol
+9861|Casa de Campo
+9986|Grand Paradise Samana & COOEE - Grand Paradise Samana
+9989|Comfort Naiboa Caribe - Tropical Dream Island
+10778|Be Live Collection Canoa
+10848|El Cortecito Inn
+10886|Costa Liza
+10951|Coyamar
+11267|Decameron Beach & Casino Resort
+11956|Frances
+11994|El Pequeno Refugio
+12000|Grand Bahia Principe El Portillo
+12517|Grand Palladium Hotels - Grand Palladium Palace Resort Spa & Casino
+13719|Villas del Mar
+14542|Iberostar Costa Dorada
+15784|La Residencia Del Paseo
+15809|La Tambora Beach Resort
+16551|VIK Arena Blanca & VIK Cayena Beach
+16555|Barcelo Punta Cana
+16611|Be Live Collection Punta Cana - Grand Punta Cana
+17296|Mercure Comercial
+18182|Occidental Grand Punta Cana Resort & Royal Club
+18484|Palace Piergiorgio
+18710|Camino & Paraiso Del Sol
+19149|Playa Esmeralda
+19514|Puerto Plata Village
+20065|Reina Cumayasa
+20408|Bambu
+20425|ClubHotel RIU Mambo
+20428|ClubHotel RIU Merengue
+20430|RIU Naiboa
+20438|RIU Palace Macao
+20581|Romanoff
+20733|Excellence Punta Cana
+21099|Grand Bahia Principe La Romana
+21701|Sirenis Cocotal Beach Resort & Tropical Suites - Tropical Suites
+23371|Tropical Casa Laguna & Tropical Beach Club
+23632|Catalonia Gran Dominicus
+24225|Viva Wyndham Dominicus Palace
+24789|Sirenis Cocotal Beach Resort & Tropical Suites - Cocotal Beach Resort
+25947|Topacio Azul Hotel & Resort
+26145|Iberostar Hacienda Dominicus
+26467|Be Live Collection Marien
+26524|Hodelpa Caribe Colonial
+26787|Barceló Santo Domingo
+26848|Rancho Baiguate
+27381|Memories Splash Punta Cana
+27775|Viva Wyndham Samana
+28488|RIU Bachata
+32094|Dominican Fiesta & Casino
+32099|Bahoruco Beach Resort
+35574|Sun Village Resort & Spa
+35575|Lifestyle Crown Residence Suites
+38260|Hostal Nicolas de Ovando
+38433|Punta Cana Princess All Suites & Spa Resort
+38526|Viva Wyndham Tangerine
+38749|Club Med Punta Cana
+39957|Grand Bahia Principe Resort - Principe Bavaro / Principe Punta Cana / Luxury Bahia Principe Ambar / Luxury Bahia Principe Esmeralda / Turquesa
+41121|Victorian House
+41143|Reef Marina
+41749|Renaissance Jaragua
+46743|Carolina
+46835|Samana Bay Village
+47148|Viva Wyndham Dominicus Beach
+47320|Naco Hotel &Casino
+47321|Napolitano Hotel & Casino
+47331|Tropical Princess Beach Resort & Spa
+47396|Tropical Beach
+48300|Casa Colonial Beach & Spa
+48381|Ocean Blue & Sand
+49628|Radisson Hotel Santo Domingo
+49689|Azzuro Club Cabarete
+49703|Condo Albatros
+50003|Jahaira
+50229|Embassy Suites Los Marlins Hotel & Golf Resort
+50230|Sea Horse Ranch
+50308|Hodelpa Gran Almirante Hotel & Casino
+50309|Hodelpa Centro Plaza
+50310|Costa Azul
+50480|Villa los Limones
+50562|Conde de Peñalba
+50563|Plaza Florida
+50564|Courtyard Santo Domingo
+50566|Coco Beach Boutique
+50846|Tropic Banana
+50847|Casas del Mar Neptunia
+50848|Plaza Lusitania
+51008|Kaoba
+51009|Tropical Smile Resort
+51014|Antiguo Europa
+51121|Papagayo
+51486|Dreams Punta Cana Resort & Spa
+51556|Guatapanal Bahia de Coson
+51559|Grand Caribe - geschlossen
+51764|Hilton Santo Domingo
+51899|BQ Santo Domingo
+52122|Quality Real Aeropuerto Santo Domingo
+52128|Windsurf Resort
+52186|Kite Beach
+53112|Viva Wyndham Playa Dorada
+59783|Playa Colibri
+60845|The Golf Suites
+63823|Majestic Colonial Punta Cana
+64551|Paradisus Palma Real Resort - Paradisus Palma Real Golf & Spa Resort
+64756|Agualina Kite Resort
+66290|Bahia Estela Caribe
+69361|RIU Palace Punta Cana
+69952|Luxury Bahia Principe Cayo Levantado
+69953|Grand Bahia Principe Cayacoa
+72674|Sivory Punta Cana Boutique
+76586|whala! bávaro
+78650|Caliente Caribe Resort
+78777|La Dolce Vita
+79080|Pinar Dorado
+81954|El Magnifico
+82401|Atlantis
+84067|Grand Palladium Hotels - Grand Palladium Punta Cana Resort & Spa
+85116|Be Live Collection Punta Cana - Grand Bavaro
+85121|Celuisma Playa Dorada
+85839|Club Villas Jazmin
+85941|Barcelo Dominican Beach
+90068|Club Residencial
+90654|Zoëtry Agua Punta Cana
+90655|Puntacana Resort & Club - Tortuga Bay & Six Senses Spa
+91616|Velero Beach Resort
+92110|Rancho Constanza
+92112|Coco Plaza
+93507|Memories Splash Punta Cana - The Club
+93508|Bayahibe
+93509|Coopmarena Beach Resort
+95029|EL Eden
+95238|Now Larimar Punta Cana
+95725|Hodelpa Garden Court
+95727|Palacio Boutique
+96505|El Colibri
+96664|Alisei
+96724|La Catalina
+97526|Cabarete East Beachfront Resort
+97945|Tangerine Palace
+99220|Casa Doña Elvira
+102348|Colony Bay Resort Spa & Casino
+102964|Palococo
+103424|The Royal Suites Turquesa
+103425|Iberostar Grand Bavaro
+103426|Majestic Elegance Punta Cana Resort & Elegance Club
+134247|Grand Paradise Playa Dorada
+135382|Aurora Del Sol Hotel & Casino
+140195|Stanza Mare Coral Comfort
+140197|Hard Rock Hotel & Casino Punta Cana
+145726|Caleton Club & Villas
+146084|Golden Bear Lodge
+147781|Platino
+149279|Sheraton Santo Domingo
+149307|Natura Cabanas
+149557|Sanctuary Cap Cana
+149745|The Bungalows
+174979|Secrets Royal Beach Punta Cana
+182471|Holiday Village
+183229|Las Cayenas Beach
+226537|Holiday Inn Santo Domingo
+226543|Crisali
+227339|Cofresi Palm Beach & Spa Resort
+227922|Grand Bahia Principe Resort - Luxury Bahia Principe Esmeralda
+228577|Atarazana
+233650|Karibo Suites
+235177|Condo Caribey
+235349|Natural Village
+235350|Nautilus Residencial
+236310|Vista Mare
+237749|RIU Palace Bavaro
+237966|Sensimar Punta Cana Villas & Suites
+240208|Albachiara
+240833|Balcones Del Atlantico
+240838|Paradisus Palma Real Resort - The Reserve at Paradisus Palma Real
+245841|Club Marmara Samana
+246057|Grand Bahia Principe Resort - Principe Bavaro
+246058|Grand Bahia Principe Resort - Luxury Bahia Principe Ambar
+246060|Grand Bahia Principe Resort - Principe Punta Cana
+247188|Be Live Experience Hamaca - Garden
+247344|Grand Bahia Principe Resort - Turquesa
+247585|Barcelo Bavaro Beach Resort - Barceló Bávaro Palace Deluxe
+248399|Four Points Punta Cana Village
+248515|Catalonia Bávaro Resort - Bavaro Beach Golf & Casino
+248516|Catalonia Bávaro Resort - Royal Bavaro
+250163|NH Punta Cana
+252965|Presidential Suites By Lifestyle
+252968|The Bannister
+252970|Be Live Experience Hamaca - Suites
+253557|Los Altos Club
+253558|Catalonia La Romana
+260470|VIK Arena Blanca & VIK Cayena Beach - VIK Arena Blanca
+260471|VIK Arena Blanca & VIK Cayena Beach - VIK Cayena Beach
+260514|Amsha Casa Marina Reef & Beach - Casa Marina Reef
+260516|Amsha Casa Marina Reef & Beach - Casa Marina Beach
+260776|Sirenis Cocotal Beach Resort & Tropical Suites
+261029|Millenium Resort
+261030|El Portillo Beach Club
+261069|Eden Roc At Cap Cana
+261593|Paraiso Caño Hondo
+261597|Gran Jimenoa
+277509|BQ Princess Hotel & Casino
+284994|Sublime Samana Hotel & Residences
+295560|Barcelo Bavaro Beach Resort - Barcelo Bavaro Beach Hotel
+296594|Grand Hotel Las Galeras
+302428|Camino & Paraiso Del Sol - Camino del Sol
+302430|Camino & Paraiso Del Sol - Paraiso Del Sol
+309191|Royalton Punta Cana Resort & Casino
+310968|Luxury Bahia Principe Bouganville
+311204|Breathless Resort & Spa
+335025|Be Live Experience Hamaca - Beach
+359654|Occidental Grand Punta Cana Resort & Royal Club - Occidental Grand Punta Cana Resort
+366704|Majestic Elegance Punta Cana Resort & Elegance Club - Elegance Club
+366872|Residencia Madrugada
+366877|Westin Punta Cana Resort & Club
+367596|Vecchia Caserma
+368840|Alsol Luxury Village
+392152|Barcelo Bavaro Beach Resort - Family Club at Barcelo Bavaro Palace Deluxe
+392153|Barcelo Bavaro Beach Resort - Club Premium Deluxe at Barceló Bávaro Palace Deluxe
+401202|Bavaro Green Apartments
+401428|Villa Maranata
+401586|Embassy Suites by Hilton
+404228|Punta Palmera Cap Cana
+405293|The Level at Meliá Caribe Tropical
+405995|Grand Palladium Hotels - Palace Resort Spa & Casino / Bávaro Suites Resort & Spa / Punta Cana Resort & Spa
+407126|Occidental Vacation Club - Grand Level
+407240|Casas del XVI
+407819|GANSEVOORT Sosua
+411025|Punta Rucia Lodge
+412175|CHIC Punta Cana

@@ -1,0 +1,68 @@
+9682|Capital Plaza
+11945|El Dorado
+12302|Europa
+19182|Plaza
+20693|Royal Lodge
+27230|Radisson Plaza
+27231|Presidente
+27232|Gloria La Paz
+83844|Yotau All Suites
+84081|House Inn Aparthotel
+84098|Las Palmas
+84134|Gran Santa Cruz
+84137|Paulistania Casablanca
+84144|Arenal
+84146|Camino Real
+84149|Camino Real Suites
+84290|Cesars Plaza
+84299|Ritz Apart All Suites
+88178|Casa Grande Suites
+88642|Hotel Aranjuez
+88685|Alcala Apart
+91512|De Su Merced
+91513|Colonial
+91514|Continental Park
+92344|Girasoles
+92347|Gloria Copacabana
+92350|Parador Santa Maria la Real
+93742|Oberland
+106719|Diplomat
+108548|Los Tajibos Hotel & Convention Center
+109688|Portales
+133732|El Rey Palace
+133735|Camino Real
+136868|Cortéz
+144048|Buganvillas Hotel Suites and Spa
+183295|Lp Santa Cruz
+183296|Sagarnaga
+190084|Luna Salada Colchani
+195894|Biocentro Güembe
+195896|Regina Resort
+195897|Regina
+202483|Los Cedros Eco Resort
+227101|San Marino Royal
+227103|Hostal La Posada
+227104|Villa Antigua
+227105|Americana
+227106|Felimar
+228890|Las Brisas
+232846|Cochabamba
+234657|DM Andino Resort & Spa
+237144|Monasterio
+239321|Rio Selva Resort Santa Cruz
+239334|Rio Selva Resort Yungas
+240205|Senses Boutique
+243760|La Colonia
+254645|Villa Saracena
+254647|El Consulado
+254648|Castillo del Loro - geschlossen
+254650|A La Maison
+254651|Apart Hotel Los Delfines
+255734|B&B Santa Cecilia
+257081|Ecolodge Copacabana
+257897|Residencial Altiplano
+272854|Hostal Tukos La Casa Real
+272856|California
+272857|Urbari Apartment Hotel
+272858|Mi Pueblo Samary
+391609|Stannum Boutique

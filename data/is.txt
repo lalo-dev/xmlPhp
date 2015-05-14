@@ -1,0 +1,69 @@
+9197|Hotel Borg
+9414|Cabin
+12212|Hilton Nordica
+12895|Fosshotel Lind
+14623|Icelandair Reykjavik Natura
+19795|Hotel Island
+19797|Radisson Blu Saga
+20307|Best Western Reykjavik
+21738|Center Hotel Skjaldbreid
+29552|Fosshotel Sudurgata - geschlossen
+29553|Centerhotel Klöpp
+29554|Grand Reykjavik
+34090|Edda Egilsstadir
+34091|Icelandair Hotel Herad
+38762|Hotel Björk
+40826|Hotel Vogar
+40831|Icelandair Hotel Klaustur
+53242|Plaza
+55974|Radisson Blu 1919
+58128|Selfoss
+58995|Fron
+60057|Viking
+60453|Fosshotel Baron
+62320|Örk
+62512|Smári
+65078|Reykjavik Centrum
+70669|Stykkishólmur
+70670|Hotel KEA
+70715|Edda Laugar í Saelingsdal
+70720|Icelandair Hotel Fludir
+70721|Rangá
+70731|Fosshotel Husavik
+70733|Edda Skogar
+70743|Selhotel M'vatn
+70749|Fosshotel Reykholt
+70753|Edda Stórutjarnir
+70754|Edda Vik
+70960|Arctic Comfort
+76104|Icelandair Hotel Hamar
+79427|Eldhestar
+79708|Leifur Eiriksson
+79709|Metropolitan
+80460|Centerhotel Thingholt
+82277|Centerhotel Arnarhvoll
+84302|Floki
+89350|Edda Akureyri
+99371|Holt
+99372|Odinsve
+100920|4th Floor
+103815|101
+122267|Núpar Ferienhaus
+122268|Hengill
+131870|Icelandair Hotel in Keflavik
+139530|Fosshotel Skaftafell
+157512|Hafnarfjördur
+183608|Einholt Guesthouse
+187538|Highland Hella
+217421|Room With A View
+218892|The Capital Inn
+230502|Laxnes
+231899|Icelandair Hotel Akureyri
+237799|Hotel Klettur
+246068|Icelandair Hotel Reykjavik Marina
+248560|City Center
+295865|Airport Smari
+359413|Hotel Reykjavik Lights
+413477|Fosshotel Reykjavik
+413478|Alda Hotel Reykjavik
+413479|Apotek Hotel

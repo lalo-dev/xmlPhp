@@ -1,0 +1,3157 @@
+10225|Centaur IGI Airport
+14489|Hyatt Regency Delhi
+14730|The Imperial New Delhi
+22727|The Connaught
+22877|Oberoi Maidens
+22905|The Park
+25954|The Leela Goa & The Club - The Leela Goa
+25956|Taj Exotica
+25959|Vivanta Holiday Village
+25961|Majorda Beach Resort
+25962|Club Mahindra Varca Beach Resort
+25965|Coconut Grove
+25971|Holiday Inn Resort Goa
+25972|Sonesta Inns
+25974|The Heritage Village Club
+26156|Vila Goesa
+26284|Longuinhos Beach Resort
+26289|Victor Exotica Beach Resort
+26291|Dona Sylvia Beach Resort
+26292|The Kenilworth Beach Resort
+26295|Ramada Caravela Beach Resort
+27290|Sheraton New Delhi
+27291|Comfort Inn Heritage
+27292|Ramada Plaza Palm Grove
+27294|Cidade de Goa Resort
+27737|Laguna Anjuna
+27739|Goa Marriott Resort & Spa
+27740|Santa Monica
+27741|Ondas do Mar
+29352|Marari Beach Resort
+30476|Poovar Island Resort
+30478|Kayaloram Lake Resort
+30480|Uday Samudra Beach Resort
+30484|Kumarakom Lake Resort
+30487|Coconut Bay Resort
+31755|Somatheeram Ayurveda Resort
+31756|Surya Samudra Private Retreats
+31759|Comfort Inn Vijay Residency
+31760|Radisson Blu Plaza Delhi
+31762|Royal Orchid
+31763|Breeze
+31764|Novotel Mumbai Juhu Beach
+31765|Hyatt Regency Mumbai
+31766|Paras Mahal
+31767|Vivanta Connemara
+31768|The New Kenilworth
+31769|West End
+32081|Estrela do Mar
+32083|Horizon Beach Resort
+32084|Nanu Resort
+32404|Travancore Heritage Resort
+32654|The Zuri White Sands Resort & Casino
+38215|Goan Heritage
+38467|Seaview
+38468|Germanus
+38470|Park Plaza
+38473|The Madurai Residency
+38476|Manaltheeram Ayurveda Beach Village
+38478|Isola Di Cocco
+38479|Carmelia Haven
+38480|Thapovan Heritage Home
+38553|Sea Breeze Resort
+38638|Radisson Blu Resort Temple Bay
+38796|Fariyas
+38797|Le Meridien Bangalore
+38798|Marine Plaza
+38799|Eros by Hilton New Delhi Nehru Place
+38800|Coconut Lagoon Resort
+39097|Swagath Holiday Resort
+39099|Fort Munnar
+47510|Vivanta Fisherman's Cove
+47511|Taj Coromandel
+47512|Trident Chennai
+47513|Le Royal Meridien Chennai
+47514|The Park Chennai
+47515|Devi Garh by lebua
+47516|The LaLit Laxmi Vilas Palace
+47517|Taj Lake Palace
+47518|The Oberoi Udaivilas
+47519|Shiv Niwas Palace
+47520|Taj Lands End
+47521|The Leela Mumbai
+47522|Trident Nariman Point
+47523|The Taj Mahal Palace
+47524|Vivanta President
+47525|Grand Hyatt Mumbai
+47526|JW Marriott Mumbai
+47529|Brunton Boat Yard
+47530|Vivanta Malabar
+47531|The Malabar House
+47532|Hyatt Regency Kolkata
+47533|Taj Bengal
+47534|The Oberoi Grand
+47536|Vivanta Hari Mahal
+47537|Umaid Bhawan Palace
+47538|Fort Khimsar
+47539|Jai Mahal Palace
+47540|ITC Rajputana
+47541|The Oberoi Rajvilas
+47543|Rambagh Palace
+47544|Samode Haveli
+47545|Deogarh Mahal
+47546|Taj Palace
+47547|The Grand New Delhi
+47548|The Oberoi
+47549|The Taj Mahal
+47550|Le Meridien New Delhi
+47551|Vivanta Fort Aguada
+47554|Pousada Tauma
+47556|Gajner Palace
+47557|Laxmi Niwas Palace
+47559|Taj West End
+47560|The Oberoi Bangalore
+47561|Vivanta MG Road
+47568|The Gateway Fatehabad Road Agra
+47571|Jaypee Palace
+47572|ITC Mughal
+47573|Trident Agra
+47863|Whispering Palms Beach Resort
+48159|The Oberoi Vanyavillas
+48160|The Oberoi Amarvilas
+48161|The Leela Kovalam
+51327|The LaLiT Golf & Spa Resort Goa
+51328|The Suryaa New Delhi
+51329|Ambassador
+51331|The Park Bangalore
+51422|Aldeia Santa Rita
+52106|The Gateway Marine Drive Ernakulam
+52336|The Oberoi Cecil
+52337|Wildflower Hall
+55012|Umaid Bhawan
+55013|Holiday Inn Jaipur
+55014|The Residence
+55015|InterContinental Marine Drive
+55016|The LaLit Mumbai
+55017|Renaissance Mumbai & Convention Centre
+55700|Vikram
+57788|Ananda in the Himalayas
+58070|Ideal Beach Resort
+58178|The Gateway Residency Road Bangalore
+58180|Le Méridien
+58218|Udai Kothi
+58220|Hilltop Palace
+58222|Mandawa Haveli
+58321|Sunstar Residency
+62662|Ashok Country Resort
+62665|Vivanta Ambassador
+62667|The Metropolitan Hotel & Spa
+62669|Jaypee Siddharth
+62671|Clarks Amer Jaipur
+62672|Mansingh Towers
+62673|Trident Jaipur
+62674|Trident Udaipur
+62675|Clarks Shiraz
+62676|Marina Agra
+62677|Mansingh Palace
+63222|Alsisar Haveli
+63239|Hilton Mumbai International Airport
+63245|Airlink
+63247|ITC Maratha
+63248|Kohinoor Continental
+63249|VITS Mumbai
+63251|Ramee Guestline Juhu
+63254|Best Western Hotel Sahil
+63255|The Orchid
+63376|Old Anchor Resort
+63379|Colonia Santa Maria
+63380|Colonia de Braganza Resort
+63381|Dona Alcina Resort
+63411|City Park
+63412|The Hans
+63413|Shangri-La's Eros Hotel New Delhi
+63465|Nikki s Nest
+63466|Vivanta by Taj - Kumarakom
+63470|Golden Park
+63471|Bangaram Island Resort
+63472|Abad Whispering Palms
+63473|Casino
+63474|The Park Kolkata
+63475|Hindustan International
+63533|Mirador
+64393|Gorbandh Palace
+64394|The Gateway Jodhpur
+64396|Ticlo Resort
+64398|Phoenix Park Inn Resort
+64526|Royal Orchid Beach Resort & Spa
+64605|Devaaya Ayurveda
+64713|Kalari Kovilakom - The Palace for Ayurveda
+64716|Royal Orchid Central Grazia Vashi
+64717|The Gateway Janardhanapuram Varkala
+64996|Aman-i-Khás
+64997|Vivanta by Taj - Kovalam
+66330|Varca Palms Beach
+67648|Howard Park Plaza
+67658|Gokulam Park
+67692|Radisson Blu Chennai
+67819|Radha Regent
+67822|Aditya Park
+67823|Radisson Jalandhar
+67824|Country Inn & Suites Vaishno
+67825|La Place Sarovar Portico
+67826|Park Plaza Ludhiana
+67828|Radisson Blu Noida
+67829|Country Inn & Suites
+68552|India
+68553|HHI Varanasi
+68554|Palace on Ganges
+68555|The Gateway Hotel Ganges
+68557|Clarks Khajuraho
+68558|Radisson Khajuraho
+68559|Usha Bundela
+68560|TAJ Chandela
+68565|Radisson Varanasi
+68687|The Claridges New Delhi
+68688|Tiger Den Resort
+68690|Le Meridien
+68783|Regent Continental
+68830|Ramanashree
+68903|Trident Cochin
+68928|Sun-n-Sand
+68938|Tivoli Garden Resort
+68939|The Gordon House South Mumbai
+69004|Fort Rajwada
+69401|Udai Vilas Palace
+71264|Bal Samand Palace
+71266|Narayan Niwas Palace
+71267|Fateh Prakash Palace
+71268|Rampratap Palace
+71415|Hillock
+71418|Lalgarh Palace
+71419|Fateh Bagh
+71935|Marriott Hyderabad
+71936|Fortune Select Manohar
+71937|Best Western Amrutha Castle
+71999|Quality Inn Residency
+74021|Cardamom County
+74022|Punnamada Backwater Resort
+74030|Ajit Bhawan Palace
+74269|KTDC Samudra
+74623|Sterling Swamimalai Resort
+74926|Vivanta Sawai Madhopur Lodge
+75054|Nalapad Residency
+75056|Hotel Vishnupriya
+75058|The Residency Towers
+75059|Usha Kiran Palace
+75063|Metro Heights
+75064|Maharani Plaza
+75065|The LaLit New Delhi
+75066|ITC Grand Central
+75076|The Elgin
+75077|Fortune Resort Central Darjeeling
+75082|Fortune Kences Tirupati
+75083|Crown
+75084|Ramada Chennai Egmore
+75085|Casa de Goa
+75086|Bangalore International
+75087|Yamuna View
+75088|Abad Airport
+75397|Trident Gurgaon
+75526|Samode Palace
+75756|Bollywood Sea Queen
+75757|Chances Casino & Resort
+75758|The Beach
+75768|Bambolim Beach Resort
+76161|Ronil Beach
+76316|Krishna Palace
+76839|Amanbagh
+77090|Dekeling Resort
+77091|Wyte Fort
+77093|Viceroy
+77095|Vasant Continental
+77098|Spice Village
+77261|Neelams The Grand
+77262|Goa Beach House
+77295|Silver Oaks
+77296|K.K. Royal Days Convention Center
+77297|The Royal Plaza
+77298|Norkhill
+77327|Maharani Palace
+77442|Ritz Plaza
+77443|Casa Anjuna
+77444|Casa Baga
+77699|Mansingh
+77700|Raj Palace
+77701|Rajdarshan
+77702|Ranbanka Palace
+77703|Mandir Palace
+77705|Ambassador Pallava
+77706|Abad Grande Residencia
+77707|The Capitol
+77708|Taj Deccan
+77709|Taj Krishna
+77710|Godwin
+77711|Fortune Hotel The South Park
+77712|Hilton Garden Inn Trivandrum
+77748|Old Harbour
+79211|WelcomHeritage Grand Imperial
+79256|Shiv Vilas
+79714|Fortune Select Global
+79716|Vestin Park
+81894|The Gateway Ummed Ahmedabad
+81904|Kailash Beach Resort
+81913|Narain Niwas Palace
+81917|Anandha Inn
+81919|The Promenade
+81920|GRT Regency
+81924|Sangam
+81925|Le Meridien Pune
+81926|The Pride
+81927|The Central Park
+81928|Sun-n-Sand
+81929|The Centurion Hotel
+82154|Sardargarh Heritage
+82236|Nizmar Resort
+82237|Park Hyatt Goa Resort & Spa
+82238|Backwater Ripples Resort
+82239|Silver Sands Resort
+82491|Orange County, Kabini
+85025|Ala Goa Resort
+85026|Maizons Lakeview Resort
+85037|The Glenburn Tea Estate
+85040|Chariot Beach Resort
+85754|Lemon Tree Amarante Beach Resort
+85795|Palace Bikaner House
+86056|Lagoa Azul Resort
+86137|Chorao Island Residency
+86530|Aguada Anchorage - The Villa Resort
+86531|Sodder's Renton Manor
+86532|Williams Beach Retreat Private Limited
+86841|Krishnatheeram Beach Resort
+86846|Deshadan Beach Resort
+86848|Raja Park Beach Resort
+86958|Fortune Landmark Ahmedabad
+86959|Le Meridien
+86960|Cama Hotel
+86967|The LaLit Temple View Khajuraho
+86968|The LaLiT Ashok Bangalore
+86974|The LaLiT Great Eastern Kolkata
+86975|The LaLit Grand Palace Srinagar
+87222|Harmonia Ayurveda Beach Garden
+87335|The Retreat by Zuri
+88676|Chateau Windsor
+90275|Jagat Niwas Palace
+90456|Oceano Cliff Ayurvedic Beach Retreat
+90458|Karni Bhawan Palace
+90459|Desert Resort Mandawa
+90462|Estuary Island
+90466|Colonia Jose Menino
+91012|Karohi Haveli
+91551|Silver Ferns
+91690|Lake Palace Resort
+91799|GRT Grand
+91850|ITC Sonar Bangla
+91940|Lalitha Mahal Palace
+91993|The Peerless Inn
+91994|Good Times
+91995|The Claremont
+91998|Taj Baghvan at Pench National Park
+91999|Koder House
+92000|The Zuri Kumarakom Kerala
+92040|The Oberoi Mumbai
+92780|Mapple Abhay
+92836|Empire Beach Pension
+92837|Soul Vacation
+92863|Broadway
+92864|The Corus
+92866|Park Plaza
+92867|Manvar Resort & Desert Camp
+92869|Ahilya Fort
+92870|Ranjit's Svaasa
+93486|Parle International
+93487|Classic Holidays
+93488|Regaalis
+93489|Ashu Palace
+93490|The Accord Metropolitan
+93492|Ashoka International
+93493|Quality Inn Sabari
+93494|The Grand Central
+93495|The Meadows
+93496|Ambassador Ajanta
+93991|Maria Rosa Resort
+95674|The Crown Goa
+95677|Ambica Empire
+95678|Himmatgarh Palace
+95679|Jaipur Inn
+95929|Villa Bomfim
+96221|Bhanwar Niwas
+96888|Parkland Green Park
+98448|AJ International
+98451|Thirty Three
+98720|The Grand Haveli
+98815|Swati Deluxe
+98866|The Pride
+98868|The Mercy
+98870|Royale Residency
+98890|Fortune Select Palms Chennai
+99523|Surya Sangolda
+99524|Suncity
+99525|Royal Residency
+99527|Exotic Palms
+99528|Raunak International
+99529|Star Grand Villa
+100700|Chokhi Dhani Resort
+100838|The Golkonda
+100839|Abad Atrium
+100840|The Emerald - Hotel & Executive Apartments
+100841|Fortune Park Bella Casa Jaipur
+101149|Amar Yatri Niwas
+101151|Amar Agra
+101152|Atithi
+101153|Hotel Chanakya / Chanakaya
+101155|Grand Agra
+101158|Pushp Villa
+101160|Utkarsh Vilas
+101162|Comfort Inn Sunset
+101163|Comfort Inn President
+101165|Inder Residency
+101166|Nalanda
+101168|Sarovar Portico
+101169|The Pride
+101172|The Ambassador
+101177|Mansingh Palace
+101180|Grand Continental
+101184|Samrat
+101188|Clarks Inn Alwar
+101197|MK
+101199|Parkside P.R Residency
+101204|Amarpreet
+101208|Welcomhotel Rama International
+101209|Taj Residency
+101210|The Manor
+101228|Jungle Lodge Bandhavgarh
+101234|Abhishek
+101237|Chancery
+101239|Evoma
+101241|Golden Palms
+101242|37 Crescent
+101243|Atria
+101246|TAP Gold Crest
+101249|Hyatt Bangalore MG Road
+101250|ITC Windsor
+101252|Lake View Residency
+101254|Monarch Luxur
+101255|Museum Inn
+101256|Nahar's Heritage
+101257|Ramee Guestline Bangalore
+101258|Ramanashree Brunton
+101260|Savannah Sinclairs
+101261|St. Mark´s
+101263|The Monarch
+101264|The President
+101265|The Solitaire
+101269|Express Residency
+101271|Hotel Savshanti Towers
+101273|Surya Palace
+101275|Revival Lords Inn
+101279|Shiva Oasis Resort Behror
+101283|The Bagh
+101291|Lake View Ashok
+101293|Jehan Numa Palace
+101294|Noor Us Sabah Palace
+101296|Ginger
+101298|Hindustan International
+101302|Swosti Premium
+101304|Mayfair Lagoon
+101308|Trident Bhubaneswar
+101318|Basant Vihar Palace
+101319|Harasar Haveli
+101320|Heritage Resort
+101336|KC Crossroad
+101362|The Piccadily
+101368|Beverly
+101370|My Fortune Chennai
+101372|Deccan Plaza
+101374|Abu Palace
+101376|Maurya International
+101378|President
+101386|ITC Park Sheraton & Towers
+101388|Savera
+101389|Southern Crest
+101390|Aruna Chennai
+101391|Benzz Park Tulip
+101392|The Checkers
+101393|The Royal Regency
+101398|Bassi Fort
+101404|The Residency
+101408|Club Mahindra Kodagu Valley
+101410|Orange County Resort
+101416|Ramganga Resort
+101421|The Hideaway River Lodge
+101427|Grand View
+101429|Mount View
+101444|Sinclairs
+101445|Mayfair Hill Resort
+101448|Windamere
+101453|Aketa
+101454|Hotel Madhuban Dehradun
+101465|Africa Avenue Safdarjung
+101467|Avalon Courtyard
+101472|Crest Inn
+101473|Alka
+101482|Deemarks
+101487|Gold Regency
+101488|International Inn
+101490|Metro City
+101491|Mohan International
+101495|Palace Heights
+101497|Rahul Palace
+101499|Shanti Palace
+101500|Shervani
+101501|Star
+101502|The Manor
+101503|Vishesh Continental
+101504|Welcome Palace
+101505|Yuvraj Deluxe
+101507|ITC Maurya Tower
+101509|Janpath
+101510|Lotus Nikko Inn
+101514|Samrat
+101518|Asia Health Resorts & Spa
+101519|Best Western Anand Palace
+101520|Club Mahindra Kangra Valley
+101521|Grace
+101531|Sinclairs Retreat Dooars
+101539|Cambay Spa & Golf Resort
+101540|Fortune Inn Haveli
+101554|Orange Village Resort
+101556|Alor Holiday Resort
+101557|Baywatch Resort
+101561|Casablanca Beach Resort
+101565|Mandovi
+101568|Lazylagoon Sarovar Portico Suites
+101571|Doubletree By Hilton Goa Arpora Baga
+101575|Vista do Rio Resort
+101577|Clarks Inn Bareilly
+101620|Crowne Plaza Gurgaon
+101621|Heritage Village (Manesar)
+101622|Chaupal
+101626|Park Plaza
+101628|The Bristol
+101629|Lemon Tree City Center
+101635|Dynasty
+101637|Gwalior Regency
+101638|The Central Park
+101643|The Haveli Hari Ganga
+101645|Sun
+101646|Paradise Village Beach Resort
+101650|Classic Residency
+101651|Country Inn & Suites Haridwar
+101652|Ashok
+101654|Southern Star
+101655|Malligi
+101656|Aditya Hometel
+101657|Athithi Inn
+101659|Comfort Inn City Park
+101660|Katriya Hotel & Towers
+101661|Taj Banjara
+101662|ITC Kakatiya
+101664|Ista
+101666|Minerva Grand
+101667|NKMs Grand
+101669|Kamat Lingapur
+101670|Mapple Inn
+101671|Sitara Hotel
+101673|Novotel Hyderabad Convention Centre
+101674|Sarovar Portico
+101678|Taj Tristar
+101679|jüSTa - The Residence Hyderabad
+101680|Fortune Landmark Indore
+101681|Sayaji
+101691|Comfort Inn Hawa Mahal
+101692|Hari Mahal Palace
+101694|Arya Niwas
+101697|OM Tower
+101698|Chandragupt
+101699|Aashish
+101702|Kanchan Deep
+101709|Sarang Palace
+101710|Shalimar
+101712|Jaipur Palace
+101713|Pride Amber Vilas Resort
+101714|Naila Bagh Palace
+101716|Park Prime Jaipur
+101718|Sajjan Niwas
+101721|The Wall Street
+101722|Rajasthan Desert Safari Camp
+101723|The Gateway Rawalkot Jaisalmer
+101727|The Maya
+101728|Asia Jammu Tawi
+101729|Fortune Inn Riviera Jammu
+101753|Rahi Coral Beach Resort
+101763|Bal Samand Garden Retreat
+101768|Candy Rajputana by Peppermint
+101769|Ratnawali
+101770|Krishna Prakash Heritage Haveli
+101772|Shree Ram International
+101781|Tuli Tiger Resort
+101782|Kanha Jungle Lodge
+101785|Cape Residency
+101786|Singar International
+101788|Estuary View Resorts
+101795|Asia Vaishno Devi
+101812|Ramada Khajuraho
+101813|Abad Fort
+101815|Abad Metro
+101816|Abad Plaza
+101819|The Avenue Regent
+101820|Presidency
+101824|Poovath Heritage Hotel
+101825|Quality Airport
+101829|The Woods Manor
+101832|JC Residency
+101837|The Floatel
+101843|Lytton
+101848|Park Palace
+101853|Aquaserenne
+101856|Umed Bhawan Palace
+101857|Nahar´s Stone House Retreat
+101858|The Windsor Castle
+101863|WelcomHotel Raviz Kadavu
+101867|Cocobay Resort
+101877|Shambhala
+101884|Sahil Sarovar Portico
+101886|Comfort Inn Lucknow
+101889|Vivanta Gomti Nagar
+101891|A' Hotel Ludhiana
+101892|Fortune Park Klassik Ludhiana
+101893|City Heart Sarovar Portico
+101895|Fortune Pandiyan Madurai
+101897|Sangam
+101898|Royal Court
+101899|The Gateway Pasumalai Madurai
+101904|Apple Country Resort
+101906|Club Mahindra Snowpeaks Manali
+101908|Holiday Inn
+101913|Snow Valley Resorts
+101914|Snowcrest Manor
+101916|Quality Inn River Country
+101917|Sarovar Portico
+101920|Sagar Resort
+101924|The Highland Park
+101945|Radha Ashok
+101946|Goverdhan Palace
+101949|Cama Rajputana Club Resort
+101950|Connaught House
+101951|Jaipur House
+101957|Bandra Residency
+101960|Executive Enclave
+101961|Grand Sarovar Premiere
+101962|Ajanta
+101964|Bawa International
+101967|King's International
+101968|Midtown Pritam
+101969|The Peninsula Grand
+101970|Rodas
+101971|Sahara Star
+101972|Shalimar
+101973|Suba Galaxy
+101974|Suba Palace
+101975|Supreme
+101977|Juhu
+101980|Duke's Forest Lodge
+101985|Sea Palace
+101986|Sea Princess
+101987|Singh's International
+101988|The Resort Mumbai
+101989|The Retreat
+101991|Transit
+101993|Club Mahindra Lakeview Resort
+101994|Abad Copper Castle
+102000|Tall Trees
+102002|Tea County, KTDC Hill Resort
+102010|Green Castle
+102012|Hill Queen
+102013|Nand Residency
+102015|Jaypee Residency Manor
+102022|The Claridges Nabha
+102023|Sandesh the Prince
+102025|Howard Johnson Inn The Monarch
+102029|Pai Vista
+102033|Regaalis
+102034|Airport Centre Point
+102043|The Pride
+102044|Tuli International
+102061|Palace Belvedere
+102064|Shervani Hilltop
+102075|Quality Inn Regency
+102090|Lake View
+102092|Sinclairs
+102102|Taj Savoy
+102105|Fortune Resort Sullivan Court
+102115|Kairali Ayurvedic Health Resort
+102131|Annamalai International
+102137|Le Dupleix
+102138|Fortune Resort Bay Island
+102140|Peerless Sarovar Portico
+102144|Gandharv Residency
+102145|RutuGandh Heritage
+102146|Sunderban
+102149|Quality Hotel The Regency
+102150|Vivanta by Taj Blue Diamond
+102151|The Sagar Plaza
+102154|Seasons Koregaon Park
+102156|Seasons Aundh
+102159|Mayfair Beach Resort
+102162|Toshali Sands
+102166|Jagat Palace
+102168|Hotel Pushkar Fort
+102173|The Pushkar Bagh
+102174|Sai Renaissance
+102175|Sai Towers
+102177|Mayura
+102179|Anand Regency
+102184|Royal Park
+102194|Ganga Kinare
+102195|EllBee Ganga View
+102196|Great Ganga
+102197|Natraj
+102198|Tapovan Resort
+102199|Vasundhara Palace
+102201|Mayfair Garden
+102202|Samode Bagh
+102204|Sariska Palace
+102220|The Lion Safari Camp
+102221|The Tiger Villa
+102223|Nahargarh Ranthambore
+102224|Ranthambhore Safari Lodge
+102225|The Pugmark
+102226|Alsisar Mahal
+102235|East Bourne
+102238|Shilon Resort
+102240|Woodville Palace
+102241|Willow Banks
+102242|Asia The Dawn
+102250|Quality Inn Himdev
+102251|Radisson Shimla
+102252|Springfields
+102254|Toshali Royal View Resort
+102255|Shraddha Park Inn
+102256|Sun-n-Sand
+102259|Cindrella
+102264|Ahdoos
+102265|Broadway
+102267|Grand Mumtaz
+102268|Heevan Resort
+102278|Oriental Towers
+102285|Periyar House
+102286|Club Mahindra Tusker Trails
+102289|Mascot KTDC
+102293|Sangam
+102296|Ramee Guestline Tirupati
+102297|Fort Khejarla
+102298|Rajputana
+102300|Shikarbadi Hotel
+102301|Swaroop Vilas
+102304|Fortune Park Galaxy
+102306|Hotel Ideal Tower
+102308|Meraden Grand
+102312|MM Continental
+102313|Pallavi International
+102314|Ramada Plaza
+102319|Fortune Murali Park
+102320|Quality DV Manor
+102321|Daspalla Visakhapatnam
+102323|The Park
+102329|Grand Palace
+103398|Bogmallo Beach Resort
+103402|jüSTa Panchsheel Park
+103510|Alor Grande
+103511|Astoria
+103512|Santana Beach Resort
+103513|Sodder's Svelton Manor
+103677|Cary's
+103678|Sun City Resort
+103813|MGM Beach Resort
+104176|Ashiana Regency
+104280|Bajaj Indian Home Stay
+106228|Royal Orchid Fort Resort
+107698|Gem Park-Ooty
+108653|Marriott Executive Apartments Lakeside Chalet
+110562|The Corbett Hideaway
+110571|Raheem Residency
+110572|Barefoot at Havelock Resort
+122230|The Lodhi
+122310|JP Cordial
+122311|Dr. Rajkumar International
+124139|White House
+124548|Bhaskar Plaza
+124549|Ramanashree
+124550|Pai Viceroy JC Road
+124552|The Bell
+124553|Nice Palace
+124554|Casa Aleixo
+124555|Chalston Beach Resort
+124556|Cavala The Sea Side Resort
+124557|Sodder's Gloria Ann
+124558|Marinha Dourada Resort
+124559|Santiago
+124560|Per Avel Beach Holiday Home
+124561|Don Hill
+124562|Baga Villa
+124563|Gaffino's Beach Resort
+124564|Beiramar Alfran Resort
+124565|Don Joao
+124566|Grand Kochi
+124567|Icon Towers
+127008|Bougainvillea Granpa''s Inn
+127009|The Golden Palms
+127799|Fragrant Nature Resort
+128526|Chettinadu Mansion
+128871|The Leela Palace
+128895|Ajanta
+129575|Nirvana Hermitage
+129576|Hampshire Plaza
+129579|Astoria
+129580|Royal Palace
+129581|Sri Nanak Continental
+129582|Clark International
+129583|Clarion Collection
+131830|Goldfinch
+131831|Royal Orchid Central
+131832|The Infantry Hotel
+131833|Mapple Express
+131834|Royal Orchid Resort & Convention Centre
+131835|jüSTa - The Residence Off MG Road
+131836|Belair
+131837|Tricolour
+131840|Darisa Resort
+131841|Woodbridge
+131842|Amer View
+131843|Umaid Mahal
+131844|Rang Mahal
+131849|Royal Orchid Metropole
+131850|Pablas International
+131851|Vishal Residency
+131853|Karat 87
+131854|Tara Palace
+131855|Pauls Court
+131857|Chand Palace
+131858|Sunstar Grand
+131859|Maurya Heritage
+131860|Woodpark
+134391|Fortune Park Panchwati
+134392|Grand Peepal
+134393|Travancore Court
+134394|Britona Riverside Retreat
+134395|Jasminn
+134396|Pride Park Premier
+134397|Jesant Valley Resort
+134398|Lua Nova
+134399|Ronil Royale
+134401|Somy Resorts
+135250|Shahpura Bagh
+135256|Shahpura House
+135279|The Windermere Estate
+135282|Elephant Court
+135286|The Dune
+135296|Chitvan Jungle Lodge
+135539|TJS Royale
+135540|Raunak Plaza
+135541|Dona Terezinha
+135542|Libton Manor
+135543|The Goan Village
+136073|Svelte Hotel & Personal Suites
+136406|Harbour View Residency
+136743|Terra Paraiso Resort
+136825|Highland Beach Resort
+137155|SPB 87
+137233|TAJ HOME STAY
+137404|Peppermint
+137452|Incredible Home Stay
+137468|Suncourt Yatri
+137486|Royal Orchid Central
+137806|Royal Orchid Brindavan Garden
+137836|Royal Orchid Central
+138060|Ramee Guestline Dadar
+138086|Royal Orchid Golden Suites
+138124|The Atrium
+138672|Bangalore Gate
+138905|Westway Hotel Calicut
+138906|Fortune Select Exotica Navi Mumbai
+138908|Fortune Select Trinity Bengaluru
+138915|Galaxy
+138939|Grand Hometel Mumbai
+139077|Lemon Tree East Delhi Mall, Kaushambi
+139084|Lohmod
+139169|Oakland
+139170|Parkland Kalkaji
+139171|GreenValley
+139172|Parkland Safdarjung Enclave
+139225|Radha Hometel
+139243|Ramada Powai
+139307|Royal Holidays
+139313|Rupam
+139457|The Park Navi Mumbai
+139500|Vishal Heritage
+140212|Ramanashree California Resort
+140213|Jai Mahal Palace
+140214|Shelton Grand
+140215|Grand Pavillion
+140217|Fortune Inn Jukaso Pune
+140218|Grand Park Inn
+140219|Gautam Residency
+140220|Grand Central
+140221|Palm Resort Goa
+140222|Maggies Guesthouse
+140223|Ramada
+141676|Nandhana Grand
+141677|The Chevron
+141678|Samruddhi Suites
+141679|Shree Adiga Residency
+141680|Palmarinha Resort
+143774|Cherai Beach Resorts
+144334|Sunstar Heritage
+144335|Red Castle
+144341|Housez 43
+144343|Golden Manor
+144344|Four Seasons Hotel Mumbai
+157273|Royal Garden
+157274|Imperial
+157276|The Orchard Suites Sankey Road
+157277|Ramada Bangalore
+157278|Deccan Rendezvous
+157281|The Gordon House Pune
+157282|Cambay Sapphire
+157285|Western Queen
+157286|St Laurn Business Hotel
+157287|Le Waterina Lakeside Resort
+157288|Park Field Resotel
+157291|Kapila
+157292|Classic
+157293|Southern
+157294|The Royal Plaza
+157295|Oakwood Residence Naylor Road
+157296|Milan International
+157297|Brunton Aster
+157298|Casa Cottage
+157299|Shilton Suites
+157301|The Citrine Shashank
+157303|BB Palace
+157306|Oakwood Premier Mumbai
+157308|Lemon Tree Indore
+157309|Komfort Terraces
+157312|Highgates
+157315|Shilton Residence
+157316|Metro Palace
+157318|Red Carpet Residence
+157320|The Gateway MG Road Vijayawada
+157322|Comfort Inn President
+157323|Naman Palace
+157324|Hotel Surya International
+157325|Mandakini
+157326|Airlines International
+157328|Pearl Continental
+157331|Fortune Select JP Cosmos Bengaluru
+157332|Jukaso Inn
+157333|Ashiana
+157336|Courtyard
+157337|Mandakini Grand
+157338|Bamyan The Boutique
+157341|Katriya De Royal
+157345|Mandakini Plaza
+157346|Iris
+157348|B Continental
+157349|Mandakini Palace
+157350|The Elanza
+157351|Lemon Tree Udyog Vihar
+157352|Maia Beacon Residences
+157353|Le Heritage
+157355|Aurora Towers
+157357|Blue Sapphire
+157358|The Muse Sarovar Portico
+157359|Waves
+157360|Hanuwant Palace
+157362|The Gateway Akota Gardens Vadodara
+157364|The Leela Ambience Gurgaon Hotel & Residences
+157365|The Gateway Athwa Lines Surat
+157368|Poppys
+157371|Sutra d'Onyx
+157372|The Gateway Beach Road Visakhapatnam
+157374|Taj Chandigarh
+157376|Leonia Holistic Destination
+157377|Hilton Shillim Estate Retreat & Spa
+157378|New Bengal
+157385|The Gateway Hotel Church Road
+157387|Time Square
+157393|Clark Greens
+157395|Green Park
+157396|Garden Hotel
+157397|The Cambay Boutique
+157398|Jaisalgarh
+157399|Unique Residency
+157400|Anjani
+157401|Ellaa
+157402|New Delhi Homestay
+157406|Lemon Tree Vembanad Lake Resort
+157407|Green Woods Resort
+157411|Saptagiri
+157412|Indus Valley Ayurvedic Centre
+157417|Thekkady Wild Corridor
+157418|Snow Crest Inn
+157420|Country Inn & Suites By Carlson, Jalandhar
+157423|Avion
+157426|The Royal Retreat
+157428|jüSTa - The Residence Indiranagar
+157432|Taj Club House
+157433|Quality Sabari Classic
+157436|Raiin Tree
+157437|Silicrest
+157439|The Gateway Old Port Road Mangalore
+157440|Saj Earth Resort
+157441|The House of MG
+157442|Bawa Continental
+157443|Leoney Resort
+157444|The Paradise by Tunga
+157445|Halcyon
+157446|Infinity Corbett Wilderness Resort
+157448|The Gateway Ambad Nashik
+157449|Lemon Tree Hinjawadi
+157451|Beverly Hills
+157454|The Legend
+157456|Beach & Lake Resort
+157457|Presa Di Goa
+157458|Ramada Resort Cochin
+157459|jüSTa - The Residence Greater Kailash
+157461|Ohris Banjara
+157466|Holiday Inn Mumbai International Airport
+157468|Sterling Greenwoods
+157470|SMS
+157471|Peerless Sarovar Portico
+157472|Best Western Premier Vedic Village Spa Resort
+157474|The Acura BMK
+157475|Mandakini Nirmal
+157483|Goan Clove Apartements
+157484|The Westin Sohna Resort & Spa
+157485|Cambay Palm Lagoon
+157487|Oakwood Premier Prestige Bangalore
+157490|Omni
+157491|Hotel Orchid Garden
+157492|Shilton Royale
+157493|St Laurn Suites Hinjewadi
+157494|The Paul
+157495|Goldfinch Mangalore
+157496|Apra Inn
+157497|Avalon Ayurveda
+157498|Cosmo
+157499|Empire International
+157500|Ivory Palace
+157501|Lemon Tree Ahmedabad
+157502|Manglam
+157710|Jhalamand Garh
+157711|Infinity Rann of Kutch
+157712|Ramee Guestline Khar
+167555|The Leela Palace Udaipur
+177189|Alila Diwa Goa
+182240|Garden
+182241|Sojourn
+182242|Lemon Tree Chennai
+182463|Neeleshwar Hermitage
+182555|Mandakini Castle
+182556|Golden Residency
+182558|Kailrugji
+182595|Siesta de Goa
+182778|Shanti Home
+183026|Royal Village
+183027|Gagan Plaza
+183028|Mayfair
+183029|Khandwa Haveli
+183231|Manama
+183553|Pooja Palace
+183556|Pearl Plaza
+183557|Jyoti Mahal
+183558|New Hindustan Intenational
+183559|Sun Village
+183560|Mapple The River Crescent Resort
+183563|Grand Mercure Bangalore
+183564|Lemon Tree Electronics City
+183565|Chanchal Continental
+183566|Balaji Deluxe
+183567|Chanchal Deluxe
+183568|Delhi City Centre
+183569|Somerset Greenways
+183572|Parkland Kailash Colony
+183573|Royal Orchid Suites
+183576|Highway Residency
+183577|Fortune Inn Grazia Noida
+183578|Parkland Exotica
+183580|Parkland Defence Colony
+183585|Airport International
+183586|Fortune Select Metropolitan Jaipur
+183589|MGM Mark Whitefield
+183590|The O Pune
+183591|Sarovar
+183593|Mandakini Villas
+183594|Lemon Tree Aurangabad
+183596|Arma Executive
+183597|Park Plaza Royal Palms
+183599|Cabbana Orchid
+183600|Siris 18
+184030|Chomu Palace
+185386|Nadesar Palace
+185387|Vivanta by Taj - Trivandrum
+185674|Beach Symphony
+185676|The Killians
+185682|Kurumba Village
+185687|The Orchard
+185689|Serai Dessert Camp
+187496|Sardar Samand Palace
+187519|Novotel Hyderabad Airport
+187551|Pushkar Resorts
+187553|The Clover
+187770|Raj Park
+187792|The Gateway KM Road Chikmagalur
+188046|Shilpi Resort
+188127|Nattika Beach Ayurveda Resort
+188236|Marquis Beach Resort
+188257|The Kuchaman Fort
+188270|Radisson Blu Udaipur Palace Resort & Spa
+188273|Heritage
+188274|Blackberry Hills Mountain EcoLodges
+188275|Atithi
+195994|Villa 29 (Homestay-Gold)
+195995|Ashoka Palace
+195996|Buddha
+195998|Raja
+195999|Kafila
+196000|Le Marlin
+201530|Bethsaida Hermitage
+201756|Grand Magrath
+201757|Beacon Court
+201782|Church Street Inn
+201785|Inder Residency
+201787|Host Inn International
+201794|Prazeres Resort
+202259|Four Points Jaipur City Square
+202486|Abad Turtle Beach
+202535|Goveia Holiday Homes
+203102|Citrus Hotels Goa
+203103|Aura
+203104|Rockland
+203461|Turtle on the Beach
+226583|Trinity Isle
+226584|Chetan International
+226585|Clarks Exotica Airport Hotel - Bangalore
+226587|Radha Regent
+226591|The Oakwood
+226592|The Backwater Resort - Gold Field
+226593|Nazri Resort
+226594|Aster Inn
+226602|Chirag Residency
+226607|Good Times Tripti
+226608|La Suite
+226609|Paras International
+226611|Dakha International
+226612|Vista Park
+226616|Florence
+226617|Florence Inn
+226863|SinQ Beach Resort
+226867|Spree Hotel Bangalore
+226876|Chalet Citadel Serviced Apartment
+227228|Citrus Hotels Pune
+227229|Niky International
+227230|Shanti Residency
+227232|Gateway Hyderabad
+227238|Jewel Of Chembur
+227239|Marigold Residency
+227240|Pooja Heritage
+227241|Solitaire
+227242|Dew Drops
+227243|Fortune Park JP Celestial Bengaluru
+227244|Magaji Orchid
+227245|Nandhana Comforts
+227246|Nandhana Homotel
+227247|Airport
+227248|Bless Inn
+227249|Conclave Boutique
+227250|Country Inn & Suites Sahibabad
+227251|Delhi Heights
+227252|Dolphinn Grand
+227253|Grand Sartaj
+227254|Lohias
+227256|The Class
+227257|Iris Park
+227258|Kelson Deluxe
+227259|Krishna Cottage
+227260|Le Grand Kalkaji
+227261|Le Grand Deluxe
+227262|Love My India
+227263|Praskash Kutir
+227264|Regale Inn
+227265|Roxy Deluxe
+227266|Sara Greens
+227267|Sara Residency
+227268|Snow White Deluxe
+227269|Sun Villa
+227270|The Heritage B & B
+227271|Tranquil Homes
+227272|The White Klove
+227273|Wycome Ashok
+227369|Park Inn Gurgaon
+227371|Newtons Manor
+227537|Clarks Inn Pacific Mall
+227538|Alpine Tree
+227539|Metro Residency
+227540|Jayshree
+227541|Regal Enclave
+227542|The Solitaire
+227546|Cosy Grand
+227547|Perfect Residency
+227548|DLF City Club Phase III
+227550|Clarks Inn Nehru Place
+227551|Rawla Rawatsar
+227553|Mandakini Palace
+227554|Shimia Palace
+227562|Sunrise Villa
+227563|Inder Prakash
+227564|Aashiyan
+227565|Tulip Inn Lucknow
+227566|Noida BNB
+227568|Chalet Orchid Service Apartment - geschlossen
+227569|Chalet Diamond Service Apartment
+227570|Touch Wood
+227571|Crystal Beach Resort By Cambay
+227574|Chandelao Garh
+227576|Chandra Inn
+227578|Ambica Deluxe
+227579|Forest Green
+227580|Shimla Heritage
+227581|Anmol Deluxe
+227582|Aman Palace
+227584|Cambay Spa & Resort Kukas
+227585|Cambay Spa & Resort Udaipur
+227586|Devra (Home Stay )
+227587|East Lite
+227588|Vsl Grand Serviced Apartments
+227589|The Pride
+227590|Bizz Tamanna Hotel
+227591|Royalty
+227592|Residency Palace
+227593|Bawa Suites
+227595|Executive Tamanna Hotel
+227596|Marvel Umed
+227597|Marugarh
+227598|Mahal Khandela
+227599|Krishna Niwas
+227600|Jaiwana Haveli
+227601|Jaipur Darbar
+227602|Varishtta
+227603|Jaipur Heritage
+227604|Bawa Regency
+227605|Haveli Guest House
+227606|Golden Swan
+227607|Glitz
+227608|Garden Villa Homestay
+227609|Panna Vilas
+227610|Prabha International
+227611|The Green Path Eco
+227612|Tudor Inn
+227613|Coral Tree
+227614|Curzon Suites
+227615|Tuli Imperial
+227616|Oakwood Premier
+227617|Park Inn Hotel Jaipur Jai Singh Highway
+227618|Optus Premier
+227619|Ok International
+227620|Shantai
+227621|Janki Executive
+227622|Rama Deluxe
+227623|Rama Residency
+227624|Ivy Studios
+227625|Ravla Khempur
+227626|Sagar Residency
+227628|The Cameron
+227635|Aura de Asia
+227653|Siris 18
+227654|Maya International
+227656|Green Park
+227657|Paradise
+227658|Apex Intercontinental
+227659|Hotel Woodland
+227660|Salem Castle
+227661|Brookside
+227663|Trident Bandra Kurla
+227664|The Avenue Center
+227666|The Renai Cochin
+227667|The International by Tunga
+227668|Oriental Residency
+227669|Gautam Deluxe
+227670|The Beaufort Inn
+227671|Lamba's House
+227672|C Park Inn
+227673|DolphInn - Just Like Home
+227674|Star of The Sea Resort
+227704|Mapple Emerald
+227855|Hilton Garden Inn New Delhi
+227929|The Corinthians Resort & Club Pune
+227932|The Daanish Residency
+227933|Vesta Maurya Palace
+227934|Cambay Golf Resort Jamdoli
+227935|Pal Haveli
+227936|Indrashan Homestay
+227937|Polo Heritage
+227938|1589 The Royal CM
+227939|Maya International
+227940|Aditya International
+227941|Royal Orchid Central
+227942|Jagat Villas
+228105|Mewar Haveli
+228106|Shambhu Vilas
+228107|Krishinton Suites
+228108|Rajblas
+228109|Star Inn
+228110|Grand President
+228111|32nd Milestone Delhi
+228112|360 Degree Beach Resort
+228114|Mykonos Blu
+228115|Colva Kinara
+228116|Resort Park Avenue
+228117|Ruffles Beach Resort
+228119|Yogi Executive
+228120|Siddhartha Inn
+228121|Sapna Marine
+228122|Dream Cochin
+228325|Village Royal
+228364|Rajmahal
+228368|King's Abode
+228369|Parc Estique
+228370|Ritz
+228371|Celebrations
+228372|Baia Do Sol
+228373|Casa Severina
+228374|Resort de Coracao
+228375|Villa Fatima Beach Resort
+228589|Camelot Resort
+228743|Swati
+228757|The Leela Palace Kempinski New Delhi
+228761|Vivanta Bekal
+228885|The Park Hyderabad
+228951|The Baga Marina Beach Resort
+229031|Planet Residency
+229032|The Westin Mumbai Garden City
+229033|Nirali Dhani
+229034|Cambay Grand Ahmedabad
+229076|The Elite Suite
+229077|Welcomheritage Panjim Inn / Pousada / People's
+229080|Sand Castles Holiday Homes
+229083|Sandesh Kingston
+229220|A's Holiday Beach Resort
+229236|The Oberoi, Gurgaon
+229238|Tree of Life Resort & Spa
+229239|Gaj Kesri
+229240|Swissôtel Kolkata
+229242|Old Lighthouse Bristow
+229258|Vivanta Panaji
+229447|The Piccadily
+230656|VITS Aurangabad
+230657|VITS Nagpur
+230660|Ramada Udaipur Resort & Spa
+230664|Unicontinental Mumbai
+230670|Krishna Palace
+230675|Cypress
+230684|Sadanand Regency
+230685|Sapna
+230695|Surya Kunj
+230871|Clarks Inn Suites - Delhi/NCR
+230872|VITS Nashik
+230917|May Flower
+230920|Arma Court
+230921|GMR 18 Grand
+230923|Arma Residency
+230931|Melange Luxury Serviced Apartments
+230958|Relax Inn
+230964|S & B East Inn
+230970|Miramar
+230972|The View Heights Resorts
+230977|Jyoti Dwelling
+230983|Red Palms Residency
+230999|Satkar Residency
+231002|Shubhangan
+231006|Sunrise
+231008|The Beatle
+231438|Red Fox Jaipur
+231551|Soma Kerala Palace
+231680|The LaLit Resort & Spa Bekal
+231685|Sun-n-Sand
+231886|Suryagarh
+232166|Clarks Height Delhi
+232253|Akshaya Laxmi Comfort
+232254|Icon Villa
+232259|Venus Residency
+232260|Adarsh Hamilton
+232261|9 Marks Inn St. Marks
+232262|The Basil
+232263|Dudhsagar Spa Resort
+232264|Columbus
+232265|JK Regency
+232266|7 Flag International
+232267|Satellite
+232268|Imperial Residency
+232270|Ace Residency
+232893|jüSTa Gurgaon Hotel
+232894|Royal Castle
+232984|Amshi International Inn
+232988|Ashraya International
+232992|Pai Comforts
+232994|Best Western Premier La Marvella
+232995|Silicon Hearth
+232998|Akshara Dunsvirk Court
+232999|Pulse Impulse
+233001|The Visaya
+233002|Pal Regency
+233004|Quality Inn Pearl
+233005|The Fern
+233010|Archana Residency
+233015|Arma Galaxy
+233018|Courtyard Mumbai International Airport
+233020|Grand Residency & Service Apartment
+233021|Apollo
+233022|Grant
+233023|Lerida
+233024|Plaza
+233025|Shilpa Residency
+233026|Kamran Residency
+233027|Lavender Bough
+233028|Neelkiran
+233030|Sharanam Thane
+233031|Silver Inn
+233033|Suba International
+233037|Three Star
+233039|Venkat Presidency
+233044|Yogi Metropolitan
+233046|Yogi Midtown
+233048|Parkland Prashant Vihar
+233085|Studio Estique
+233086|The Citiotel
+233087|Fateh Garh
+233269|Green Forest
+233281|1589 Comfort Zone Delhi
+233284|1589 City Mark
+233290|Courtyard Gurgaon
+233292|Emblem Gurgaon
+233293|Emblem Delhi
+233294|Prainha Resort & Cottage By The Sea
+233296|Tangerine Boutique Resort
+233298|Windhaven Resort
+233299|The Park on Vembanad Lake
+233524|Sea Lord
+233530|Nahargarh Haveli
+233531|Royal Sarovar Premiere
+234189|jüSTa - The Residence MG Road
+234191|Raintree Anna Salai
+234193|Holiday Inn Cochin
+234194|Rockwell Plaza
+234196|Osborne Holiday Resort
+234199|Mandakini Jaya International
+234201|Rajputana Haveli
+234204|Cartel Palace
+234207|Iris Hometel Harinagar
+234216|Prince International
+234219|Shervani Nehru Place
+234221|Vanson Villa
+234222|Walnut Castle
+234227|Visalam
+234230|Holiday Inn Pune Hinjewadi
+234234|Mapple Adhwryou Pune
+234685|Keys Trivandrum
+234686|Fortune Inn Sree Kanya
+234690|Pragati Resorts
+234697|Lords Plaza Bangalore
+234699|The Sunway GRT Grand
+234701|Mangalam
+234702|Ista Amritsar
+234704|Astoria Plazza, 108 Arjun Marg
+234706|Orion
+234708|Lotus Beach Resort
+234711|Splendid World
+234712|The Senate
+234714|Courtyard Hyderabad
+234715|Golden Haveli
+234745|Somatheeram Ayurvedic Health Resort
+234786|Crowne Plaza New Delhi Okhla
+235243|Horizon
+235249|Palmshore Beach Resort
+235418|Abalone Resort
+235419|Airport Residency
+235420|Ambrosia Sarovar Portico
+235421|Thar Vilas
+235514|Infantaria Comfort
+235515|Lake Nahargarh Palace
+235516|Aurangabad Gymkhana Club
+235517|Beleza By The Beach
+235520|Young Island Comforts
+235522|Desertscape Resort Jodhpur
+235526|The Regenza by Tunga
+235528|Tjs Grand Karolbagh
+235529|Tulip Inn Gurgaon
+235530|Tulip Inn Mandawa
+235531|Priya Residency
+235532|Quality Sewa Grand
+235533|Quality Inn Bliss
+235536|Melodious Waves
+235539|Mercure
+235646|Khaas Bagh Heritage
+235866|Pullman Gurgaon Central Park
+235991|Travencore Heritage
+236156|Calangute Towers
+236604|BluPetal
+236605|The Royal Demazong
+236606|Bissau Palace
+236611|Club Mahindra Backwater Retreat Ashtamudi
+236614|Four Points Visakhapatnam
+236638|The Greenhouse Pushkar
+237022|The Leela Palace Chennai
+237116|Radisson Blu Resort Goa
+237364|Star Rocks Delhi
+237423|Villa Anjuna
+237424|Lemon Tree Premier HITEC City
+237425|Vesta International
+237429|Park Central Kochi
+237432|Bawa Walson
+237434|Park View
+237435|Four Points by Sheraton Pune
+237452|Ambassador
+237455|Mango Suites
+237456|Mayfair Spa Resort
+237507|Shangri La Mumbai
+237537|Skylon
+237538|Kanak
+237539|The Curzon Court
+237540|Geo
+237541|The Residency
+237542|Kassani GR
+237543|Heritage Mandawa
+237544|Meridian Plaza
+237545|Amara
+237546|Best Western Skycity Hotel
+237547|Astoria Plazza, 137 Sector
+237548|Om Vilas
+237550|Sunstar Heights
+237551|O' Delhi
+237552|Bright
+237553|Hotel Surya
+237554|Vaibhav
+237555|Zeeras
+237556|Palacio de Goa
+237557|Salida del Sol
+237558|Tourist International Pune
+237559|Sayaji
+237560|Park Ornate
+237561|Phoenix
+237562|The Sea Horse Resort
+237564|Sandalwood Hotel & Retreat
+237565|Shikara Beach Resort
+237568|Primo Bom Terra Verde
+237569|The Village Square
+237572|La Gulls Court
+237573|Csm Holiday Village
+237575|White Orchid Resort
+237576|La Oasis - Anjuna
+237766|Grand Lotus Hotel
+237965|Adamo The Bellus
+238147|Ibis Mumbai Airport
+238586|Grand Hyatt Goa
+238825|Indira International
+238826|HK Clarks Inn Amritsar
+238829|Fidalgo
+238830|Mantra Amaltas
+239105|Agatti Island Beach Resort
+239125|Hilton Chennai
+239126|Westin Hyderabad Mindspace
+239247|Tiger Den Resort
+239894|Kadaltheeram Ayurvedic Beach Resort
+239906|Vivanta By Taj Surajkund
+239912|Mihir Garh
+239930|Suryauday Haveli Varanasi
+239955|Suryaa Villa
+239957|Perola Do Mar
+239959|Jessica Saffron Resort
+239972|Fahrenheit
+240457|Natural Lake View
+240459|The Tiger
+240462|Hotel le Cadre
+240464|Red Fox
+240480|Taurus Hotel & Conventions
+240483|Keys Hotel Nestor
+240525|Heritage Village Resorts
+240527|New Adarsh
+240528|Sarthak Resorts
+240529|Manali Heights
+240536|Park Prime Kolkata
+240591|Jaisal Palace
+240597|Red Fox Hyderabad
+240862|Lemon Tree Premier Leisure Valley
+240866|Villagio Inn
+240877|Vesta Bikaner Palace
+241126|Centre Point
+241139|Oriental Residency
+241140|Courtyard Ahmedabad
+241142|Windsor Castle
+241147|Rani Bagh
+241149|Temple on Ganges
+241153|Mirage
+241254|The Spring
+241255|Harrisons
+241259|The Park Pod
+241261|Mirvana Nature Resort
+241263|Mahadev Palace
+241265|Marol Residency
+241281|Saar Inn
+241283|The Pearl - a Royal Residency
+241284|JHT
+241286|Perfect
+241287|Venus
+241300|Sheesh Mahal
+241302|Dreamland
+241308|Spearmint Hyderabad
+241309|The Central Court
+241310|Tulip Inn Hyderabad
+241364|Siddhartha Palace
+241365|Taj Plaza
+241764|Chancery Pavillon
+242042|Crystal Inn
+242044|Crown
+242045|Dev Corporate
+242047|Maruti
+242058|Platinum Inn
+242060|Ramada Ahmedabad
+242062|The Metropole
+242063|Treatotel
+242064|Indra Vilas
+242066|Tiger Lagoon
+242067|Mogli Jungle Resorts
+242068|Bundela
+242069|Barons Inn
+242071|Isis Suites
+242072|Maurya
+242073|Sovereign Heritage
+242075|The Zuri Whitefield
+242076|Aloft Bengaluru Whitefield
+242079|Magnum Resort
+242080|Kadamb Kunj
+242081|Mahalkhas Palace
+242083|The Birders Inn
+242084|Amer Greens
+242086|Marudyan Resort
+242087|Raj Vilas Palace
+242088|Hometel Chandigarh
+242089|The Komfort Inn
+242090|Aloft Chennai
+242091|Royal Plaza
+242092|Club Mahindra Nature Trails
+242093|Jims Jungle Retreat
+242094|Mapple Leisure Resort
+242097|Clarks Inn Kailash Colony
+242098|WelcomHotel Dwarka
+242100|Express Sarovar Portico
+242101|Country Inn & Suites By Carlson, Goa Candolim
+242103|Plaza De Antonio
+242106|Seabreeze Beach
+242107|Seabreeze Village
+242111|Sun Park Resort
+242112|The Fern Gardenia Resort
+242113|DLF City Club Phase IV
+242114|Doubletree by Hilton Gurgaon
+242115|Ramada Gurgaon Central
+242116|The Grand Bizzotel
+242117|Godwin
+242118|Royal Orchid Central Kireeti
+242119|Vijayshree Heritage Village
+242121|Amogh Boutique
+242123|Mandava Hotel & Suites
+242124|Oyster Suites
+242126|Libra
+242127|Sarovar Portico Jaipur
+242129|Basant Inn
+242130|Bundela Tiger Retreat
+242131|Mogli Resorts
+242132|The Baagh
+242133|Wild Chalet Resort
+242134|Grand Seasons
+242135|Club Mahindra Kumbalgarh Fort
+242136|Mamallaa Heritage
+242137|Udai Vilas Palace Mandawa
+242138|Four Points by Sheraton Vashi
+242139|The Cottage
+242141|Roop Vilas Palace
+242142|Te New Delhi
+242144|Kingston Park
+242147|Stallions Hotel
+242148|Star Plaza
+242150|The Tulip Inn, Karol Bagh
+242151|Velvet Apple
+242152|Golf View
+242153|Savoy Suites
+242155|Ocean Palms
+242156|Resorte de Tio Carmino
+242157|Joia do Mar
+242158|Living Room Hotels, Goa
+242159|Ozran Heights Beach Resort
+242160|Titos My Hotel
+242161|Valentines Retreat
+242162|Danish Villa Sheddon, Ooty @ Zest - Mahindra Holidays & Resorts
+242163|Club Mahindra Derby Green
+242164|Rose Valley Marigold
+242166|Hyatt Regency Pune
+242167|Ista
+242168|Le Royce
+242169|Mandakini Ambience Model Colony
+242170|Mandakini Ambience Wakad
+242172|Parichay Hotel
+242173|Royal Park
+242175|Shree Panchratna
+242177|The President
+242178|VITS Pune
+242180|Imperial Palace
+242181|Pradhyuman Lords Inn
+242182|The Grand Bhagwati Rajkot
+242185|Laxman Jhula Divine Resort
+242186|San Joao Holiday Homes
+242187|Club Mahindra Whispering Pines
+242188|Joecons Beach Resort
+242190|MayFair Hideaway Spa Resort
+242191|Silken Sands Hotel
+242192|Budget Inn Bellevue
+242193|Budget Inn Hotel Hospice
+242195|Aditi
+242196|Sapphire Regency
+242197|Siddharth Palace
+242198|Siddhartha
+243891|Lords Plaza
+243894|The Regale by Tunga
+243895|Crowne Plaza Bengaluru Electronics City
+243896|Svenska Bangalore
+243909|Ibis Bangalore Techpark
+243910|Novotel Bengaluru Techpark Hotel
+243914|Chalet Centrum
+243915|The Waterstones
+243916|JW Marriott
+243918|Lords Eco Inn
+243921|L'Hotel Eden
+243922|Fortune Select Excalibur
+243923|Hotel Krishna
+243924|Kemps Corner
+243925|Livasa Inn
+243926|Lords Plaza
+243928|Anila Hotels
+243931|Best Western Jubilee Ridge
+243933|Meluha The Fern
+243936|Sofitel Mumbai BKC
+243941|Svenska Mumbai
+243942|Best Western Devasthali
+243943|Crowne Plaza New Delhi Rohini
+243944|Holiday Inn New Delhi Mayur Vihar Noida
+243945|Crowne Plaza New Delhi Mayur Vihar Noida
+243949|Delhi Darbar
+243950|City Park Airport
+243952|Alpina Hotels & Suites
+243954|Le Roi
+243956|The Pearl Hotel Delhi
+243957|Ibis Pune
+243959|Mercure Lavasa
+243960|Courtyard Pune City Centre
+243961|Welcome Heritage Koolwal Kothi
+243962|Best Western Merrion
+243968|Gurkha Houseboats
+243970|Best Western Maryland
+243971|Best Western Peace Valley
+246205|Mövenpick Hotel & Spa Bangalore
+246207|Country Inn & Suites Gurgaon Sector 29
+246208|Radisson Blu Hotel Pune Kharadi
+246210|Mandakini Saket Regency
+246211|Mandakini Destination Gurgaon
+246234|Anand Villa
+246235|Golden Tulip
+246242|Infinity Bandhavgarh Wilderness
+246244|Bhandhav Vilas
+246245|Citadel
+246256|Aaram Baagh
+246258|Lemon Tree Premier Ulsoor Lake
+246259|Matthan
+246260|Mels Regency
+246261|Sterling Holidays Silver Oaks
+246262|Sterling Holidays Kasturi Plaza
+246263|Surbhi
+246264|First Transit
+246265|Minerva Grand Banjara Hills
+246266|Lebua Resort, Jaipur
+246267|Jaipur Greens
+246268|Infinity Kanha
+246269|Sterling Holidays White Mist
+246270|JC Chalet
+246271|Karl Residency
+246272|Sterling Holidays Green Vistas
+246273|Fortune JP Palace
+246274|Sterling Holidays Elk Hill
+246275|Sterling Holidays Fern Hill
+246276|The Grand Bhagwati Surat
+246277|Colonel?s Retreat at Airport
+246279|Impress
+246280|The Corporate
+246281|The Raj
+246282|Vedas Heritage
+246283|Almondz
+246285|Amby Inn
+246286|Amrit Villa
+246287|Anand Hotel Delhi
+246288|Colonel´s Retreat
+246289|Corporate Park
+246290|Divine Paradise
+246292|Emarald
+246293|Emperor Palms
+246294|Golden Deluxe
+246295|La Wisteria Boutique
+246296|Le Seasons
+246297|Sarthak Palace
+246298|The Indravan
+246299|The Vishraam
+246324|Casa Paradiso
+246325|Paradise Inn
+246333|Renzo's Inn
+246335|The Sol
+246337|Holiday Beach Resort
+246340|Micasa Beach Resort
+246344|Montego Bay Beach Village
+246347|Peninsula Beach Resort
+246353|Rococco@Ashvem
+246354|Royal Mirage Beach Resort
+246355|La Vaiencia Beach Resort
+246361|Haathi Mahal
+246365|Kurabar Kothi
+247306|Lemon Tree Chandigarh
+247478|Best Western AVN Arogya Hotel
+247623|Fortune Resort Grace
+247624|Fortune Select Dasve Lavasa
+247625|Fortune Select Regina
+247626|Fortune Park Vallabha
+247631|Fortune Select Loudon
+247632|Fortune Inn Valley View Manipal
+247634|Radisson Blu Marina Connaught Place
+247635|Fortune Park DJ Avenue
+247644|Fortune Park Boulevard
+247645|Fortune Inn Exotica Hinjewadi
+247647|Fortune Park Lakecity Thane
+247653|Clarks Inn Gurgaon - Delhi/NCR
+247654|Clarks Inn Apple Tree
+247655|Clarks Inn Kaushambi
+247656|Clarks Inn Airport
+247672|The Gateway Beach Road Calicut
+247673|The Gateway Gir Forest
+247736|Radisson Blu Agra Taj East Gate Road
+247737|Park Plaza Bengaluru
+247738|Delhi Pride
+247760|Radisson Blu Greater Noida
+248030|St Laurn Towers
+248032|Park Plaza
+248033|WelcomHeritage Bijayniwas Palace
+248034|Premier Inn Bengaluru Whitefield
+248035|KR Inn
+248037|Brigade Homestead Lavelle
+248038|Brigade Homestead Jayanagar
+248043|Ganges Rivera
+248047|Royal Orchid
+248050|Royal Orchid Central Shimoga
+248064|Royal Orchid Central
+248065|The Capital - Kochi City
+248068|Noorya Hometel
+248094|Jal Sagar
+248095|Imperial Apartments
+248097|Jewel Palace
+248100|Country Inn & Suites Gurgaon Udyog Vihar
+248106|Amantran Pahargung
+248107|Divine Inn
+248110|Jaya Excellency
+248112|Radisson Hyderabad Hitec City
+248117|Galaxy Residency
+248118|Galaxy Avenue
+248157|Heritage Dakshin
+248158|Mina International
+248159|Samraj
+248185|Fortune
+248189|Suresha
+248196|LandMark Suites
+248204|White Feather Guest House
+248207|Marbela Beach Boutique
+248209|Nifa
+248212|Le Magnifique
+248217|White Pearl Suites
+248221|Annapurna Vishram Dhaam
+248224|The Glitz Goa
+248879|Citi International
+249153|Radisson Blu Dwarka
+249377|Angels Resort
+249380|Apra Deluxe
+249381|Apra International
+249385|Cuba Agonda
+249386|Cuba Patnem Apartments
+249387|Cuba Patnem Bungalows (Beach Huts)
+249388|Cuba Premium Bungalows (Beach Huts)
+249389|Cuba Retreat Mandrem
+249390|Keys Bangalore Hosur Road
+249391|Keys Bangalore Whitefield
+249399|The Pride
+249400|Pride Cochin
+249401|Pride Emarald Island Resort
+249403|The Ashtan Sarovar Portico
+249404|The BMK
+249405|Arihant Inn
+249406|Cabana
+249407|Country Inn & Suites Delhi Satbari
+249408|Golden Tulip Chattarpur New Delhi
+249409|GRD Inn
+249410|MarbleArch
+249411|Mehra Residency
+249412|Pawan Plaza
+249413|Premier Inn Shalimar Bagh
+249414|Prince Palonia
+249415|Radisson Blu Paschim Vihar
+249417|Regent Intercontinental
+249426|Runway
+249427|Siam Orchid Suites
+249432|Silver Stone / Silverstone
+249433|Sunrise
+249434|Topaz
+249435|Vardhaman Inn
+249436|Vista Inn
+249437|Tavisha Villa
+249438|Park Plaza Faridabad
+249439|Tip Top Plaza
+249440|Lemon Tree Hotel Whitefield Bengaluru
+249443|I-Space
+249444|Icon Chandigarh
+249446|Daspalla Hyderabad
+249447|Deshadan Plaza Cochin
+249448|Courtyard by Marriott Pune Hinjewadi
+249450|The Raviz
+249452|Baga Residency
+249453|Bella Rosa
+249455|Dona Sa Maria
+249457|Ginger Tree Beach
+249458|Godwin
+249460|Nagoa Grande
+249463|Nitya Resort
+249464|Cuba Palolem Beach Resort
+249465|The Royale Assagao
+249466|The Zeal Resort
+249468|Xavier Beach Resort
+249472|Zeib Executive Homes
+249475|Aurum
+249476|Jaipur Marriott
+249479|Mapple Empire Regency
+249480|Majestic Court Sarovar Portico
+249481|Ramada Navi Mumbai
+249482|Grand Ballard Estate
+249623|Hotel Aditya Palace
+249628|Ginger Ahmedabad
+249642|Classic Inn
+249643|Ginger Bangalore
+249644|Nagarjuna Suites
+249685|Carnoustie Beach Resort
+249700|Mayfair Convention
+249707|Hotel Gemini Inn Chennai
+249713|Himalayan Heights
+249721|The International Centre, Goa
+249723|Riverside Regency Resort
+249726|Habitare Suites
+249753|Grandeur
+249762|Ohris Baseraa Inn
+249769|Lake View Homes
+249778|Raghuraj Palace
+249783|Umaid Lake Palace
+249789|The Pearl
+249791|Honeymoon Inn
+249796|Residency Andheri
+249798|Hotel Sapphire Residency
+249801|Cambay Sapphire Neemrana
+249821|Comfort Inn Anneha
+249845|Metro Tower Airport
+249858|The Chariot Resort & Spa
+249865|Golden Tulip Udaipur
+249911|Ananta Spa & Resort
+259451|Keys The Aures
+259452|Sapphire
+259453|JP Chennai
+259454|The Park Calangute Goa
+259456|Jameson Inn Shiraz
+259457|Kohinoor Elite
+259461|Spree Shivai Hotel Pune
+259463|Imperial Pacific
+259464|Central Blue Stone
+259465|Regenta Hotel & Convention Centre
+259466|UDS Villa
+259467|Oodles Chattarpur
+259468|Oodles Nehru Place
+259469|The Grand Shoba
+259470|Delhi Heart
+259471|Veera Palace
+259472|MetroPolitan
+259473|Rousha Inn
+259474|Qube Studio Greater Noida
+259835|Novotel Visakhapatnam Varun Beach
+259847|Hampton Vadodara Alkapuri
+259856|Best Western Plus Levana
+259857|Aamby Valley City
+259866|Country Inn & Suites Gurgaon Sector 12
+260335|Africa Avenue GK1
+260637|Aloft Ahmedabad
+260638|Aloft Chandigarh Zirakpur
+260639|Aloft Coimbatore Singanallur
+260726|Ibis Delhi Airport
+261093|Country Inn & Suites By Carlson Ajmer
+261097|Keys Pimpri-Pune
+261098|Keys Katti-Ma
+261099|The Continental
+261100|Wildflower Resort
+261101|Kaitlyns Hospitality Bangalore
+261102|Mango Hotels, Bangalore - Koramangala I
+261103|The Pllazio Gurgaon
+261104|Yug Villa
+261105|Tourist Deluxe
+261107|Jivitesh
+261108|Parkland Grand Kapashera
+261109|Namaskar
+261110|The LaLiT Jaipur
+261111|Rajasthali Resort & Spa
+261242|Raas
+261245|Parkland Retreat
+261396|The Leela Goa & The Club - The Club at The Leela
+261397|The Leela Goa & The Club
+261398|Casa Vagator
+261451|Wyndham Grand Agra
+261452|Fairmont Jaipur
+261453|Desert Tulip
+261455|The O Hotel Goa
+261528|Vivaana Haveli
+261542|Shreyas Retreat
+261630|Alila Bangalore
+261635|The Serai Chikmagalur
+265184|Affordable Home Stays
+265185|Leisure Inn West Gurgaon
+265188|The Westin Gurgaon, New Delhi
+265191|Radisson Suites
+265396|Apartment 52
+265398|Bonlon Inn
+265411|Wood Castle
+265416|Hotel Rockland
+265420|Eurostar International
+265423|Hotel Delhi 37
+265426|The Grace Hotel
+265430|Grand Godwin
+265431|Baba Deluxe
+265434|Hotel Godwin Deluxe
+265436|Hotel lals Haveli
+265439|Singh Empire Dx
+265440|Hotel Sita International
+265442|Pallavi Palace
+265443|Palm D'OR
+265444|Sahib Hotel
+265448|The Solace
+265451|Malik Continental
+265452|Fraser Suites New Delhi
+265459|Suncourt Corporate
+265612|Ibis Bengaluru Hosur Road
+265670|Radisson Blu Plaza Hyderabad Banjara Hills
+272509|The Amber
+272510|La Sapphire Airport Hotel
+272511|Airport Hotel Vishal Residency
+272512|Tavern Business Hotel
+272521|Hotel Midland
+273175|Prem Abhilasha Guest House Home Stay
+273176|Gorbandh
+273315|Coconut Creek Farm & Home Stay
+274299|Raj Residency
+274608|The Blue House, Oldest Guest House
+276012|Le Royale Residency
+276074|GRT Nature Trails Sky Rocca
+276079|Kairali - The Ayurvedic Healing Village
+278829|Swimsea Beach Resort
+278832|La Mansion Goa
+278835|Hotel Manvin's
+278836|Hotel Mayura
+278838|Ginger Goa
+279464|The Emerald Forest
+279466|Tarika's Sea Breeze
+279467|Banyan Tree Courtyard
+279468|Royal Mirage Boutique Hotel
+279469|Sukhmantra Resort
+279470|Bougainvillea Guest House
+279473|Sodder's Gloria-Anne Beach Haven
+279476|Summerville Beach Resort
+279478|Sodder's Beach Classic
+279718|Check Inn Hotel
+279720|Aashraye
+279721|Hotel Delhi Aerocity
+279722|Hotel Pahwa International
+279723|Metro Continental
+279724|Hotel Intercity
+279725|Hotel Today International
+279727|Rama Inn
+279728|Le Alfanso
+279729|Hotel Hari Piorko
+279731|Hotel Megha Sheraton
+279732|Hotel Kwality
+279733|Hotel Madonna
+279737|Hotel Baba Inn
+279738|Sun International
+279740|Hotel Sohi Residency
+279741|Singh Sahib
+279742|Hotel Shivdev International
+279743|Hotel Parkway Deluxe
+279747|Hotel Kingston
+279748|La Vista
+279750|Raas Vilas
+279751|Hotel Airport City
+279752|Hotel Citylite
+279753|Sarovar Portico, Naraina
+279754|Cosy Palace
+279756|Madhuban Managed by Peppermint
+279757|Hotel Private Affair
+279759|Hotel Ivory 32
+279763|Ginger East Delhi
+279764|Country Inn By Carlson Delhi Saket
+279765|Trinity Art Hotel
+279766|Liv Inn - Naraina
+279767|Regalia Retreat
+279768|Ffour
+279774|The Nanee Suites
+279775|Hotel Western King
+279788|Le Sutra
+279790|Suncity Residency
+279792|Hotel Atlantic
+279793|Diplomat Hotel
+279795|Residency Hotel - Fort - Mumbai
+279796|Hotel Sun N Sheel
+279798|Hotel Orritel West
+279799|Ascot Hotel
+279803|Regent Hotel Colaba
+279804|Hotel Planet Plaza
+279805|Strand Hotel
+279809|Astoria Hotel
+279815|Dragonfly
+279820|Regent
+279821|Sunshine
+279822|Orange Inn Hotel
+279823|Hotel Cosmo
+280271|Country Clube De Goa
+280274|Ginger Tree Boutique Resort
+280275|La Oasis by The Verda
+280276|Nilaya Hermitage
+280278|Hafh Resorts
+280279|The Orange House
+280280|Spazio Leisure Resort
+280281|The Banyan Soul
+280285|Resort Rio
+280289|Stain Glass Cottage
+280291|Costa Del Sol
+280292|Seagull
+280293|Sharanam Green Resort
+280294|Belle Wista Wado - Enviro Green Resort
+280296|Villa Theresa Beach Resort
+280298|Avantika Resort
+280303|All Seasons Beach Classic, Calangute
+280305|19Belo Cabana
+280307|Calangute Grande
+280308|Falcon Resort
+280309|Royal Heritage Resort
+280311|Atlanta Beach Resort
+280312|Kris Resort
+280315|Sea Shore Beach Resort
+280321|Hotel Taj Resorts
+280322|Sai Home Stay (Bed and Breakfast) near Taj Mahal
+280323|Hotel Mahalaya Dasaprakash
+280325|Hotel Sidhartha
+280327|Hotel Taj Heritage
+280330|Hotel Shree Residency
+280331|Mango Suites Ascent
+280334|Hotel Priya
+280335|Bhoomi Residency- A Boutique Hotel
+280337|Hotel Alpine
+280339|Om Sai Palace
+280343|Classic 7 Hotel & Restaurant
+280348|Divine The Boutique
+280358|Hotel Kalyan
+280359|Peppermint Hotel
+280361|Hotel Baba Haveli
+280365|Palms
+280366|The Nangi's Pride By Real Worth Hotels & Resorts
+280370|H.R. Palace
+280372|Laxmi Palace
+280373|Dera Rawatsar
+280374|Om Niwas Suite
+280376|The Gold Palace & Resorts
+280377|Savoy
+280378|Heritage Retreat
+280379|Devraj Niwas Boutique Hotel
+280380|Arco Palace
+280381|Laxmi Niwas
+280385|Ruby
+280392|Udaigarh
+280399|Amantra Comfort Hotel
+280400|Mandiram Palace
+280402|Labh Garh Palace
+280411|Citrus Backwater Spa Retreat Alleppey
+280420|Country Spa Wellness Beach Resort
+280422|Pappukutty Beach Resort, Kovalam
+280423|Kovalam Beach Hotel
+280424|Travancore Palace Beach Resort
+280426|Jeevan Ayurvedic Beach Resort
+280427|Hill & Sea View Beach Resort
+280428|Hotel Moonlight
+280429|Hotel Marine Palace
+280430|Tom's Inn
+280436|Illikkalam Lake Resort
+280835|Tissa's Inn
+280836|Tea Bungalow
+280837|Rossitta Wood Castle
+280839|Sonnetta Residency
+280847|Edassery Mansion
+280849|NM Royale County
+280852|Hotel Fort Queen
+280857|Hotel Excellency
+280858|The International Hotel
+280860|Heritage Methanam
+280862|The Senate Hotel
+280865|Beaumonde The Fern
+280867|Sri Harsha Residency
+280870|Chalukya
+280872|The HHI Select Bengaluru
+280875|Tea Pavillion
+280876|Kanishka
+280877|Greenview Homes
+280878|Maple Leaf
+280879|Maple Green
+280880|9 Marks Inn Indranagar
+280885|Bluemoon Grand
+280886|Orchid Suites
+280887|Woodstock Express
+280888|Octave Hotel
+280890|Bluemoon Log Inn
+280892|Confident Cascade
+280894|Sterling Suites Langford Town
+280895|Vivanta By Taj Yeshwantpur
+280896|Sheraton Bangalore Hotel at Brigade Gateway
+280897|Shilton Tranquil
+280898|Airavatam Boutique Hotel
+280900|The Grand Continent
+280901|Purple Lotus
+280905|Sterling Suites - Marathahalli
+280906|Escape Hotel & Spa
+280908|Citrus Hotels Bengaluru
+280909|Safina Hotel
+280910|Casa De Bengaluru
+280911|Lotus Park
+280915|Link Inn
+280917|Citadines Richmond Bangalore
+280918|ITC Royal Gardenia, Bengaluru
+280919|Lotus Suites
+280924|Nandhini R.T. Nagar
+280925|Mango Suites Brilliance
+280928|Rosline The Boutique Hotel
+280935|Quality Inn Shravanthi
+280936|Davanam Sarovar Portico Suites
+280947|Tiger Inn
+280955|Hotel Trimoorti
+280957|Kempton
+280961|The Corporate
+280962|Hotel Pan Asia Continental
+280969|Southern Plaza
+280970|Hotel Crestwood
+280974|The Sonnet
+280976|Casa Salt Lake - Green / Peach / Blue / Pink / Yellow / Red
+280985|Indismart Hotel
+281284|ITC Grand Chola, Chennai
+281286|Hotel Mars
+281290|The Raintree Hotel
+281300|Hotel Mount Heera
+281302|Fortel
+281305|Hyatt Regency Chennai
+281306|Hotel Pearl International
+281310|Inn Chennai
+281311|Sea Shell Residency
+281318|Perfect Haven Egmore
+281320|VGP Golden Beach Resort
+281321|Shylee Niwas Service Apartment Kodambakkam
+281323|Perfect Haven @ OMR
+281324|Radisson Blu Chennai City Centre
+281328|Crescent Park
+281329|Citrus Kottivakkam Chennai
+281330|Crescent Inn
+281331|Hotel Suriya International
+281336|Smart Haven at Kodambakkam
+281337|Nakshatra Serviced Apartments-Bawa Road
+281344|BKR Grand Hotel
+281345|Mallika Residency
+281346|Bell Hotel
+281350|Asiana Place
+281362|The Byke Old Anchor, Goa
+281364|Green Acres Resort
+281368|Hotel Mount View
+281372|Hotel Spring Valley
+281398|Mamalla Beach Resort
+281400|Blue Bay
+281401|Highland Shoreline
+281420|Bella Vista Resort
+281424|Le Celestium
+281426|Clouds Valley Leisure
+281428|Ambady's Falling Waters
+281437|The Silver Tips
+281438|Emmel Dwellings
+281442|Misty Mountain Resort
+281812|The Marwar Hotel & Gardens
+281820|The Kothi Heritage
+281823|Lariya Resort
+281824|Niralidhani Ethnic Resort
+281825|Hem Guest House
+281827|Amargarh Resort
+281855|Days Hotel Neemrana
+281857|Tiger Safari Resort
+281862|The Amaris
+281863|Ganga Beach Resort
+281866|Kapil
+281868|Fairmount
+281869|Snow King Retreat
+281875|Sukh Sagar Regency
+281876|Landmark
+281878|The Cedar Grand - Hotel & Spa
+281882|Wingait Inn
+281883|Marigold Holiday Cottages
+281985|Casa Britona
+281986|Camphor
+281988|Casa Colvale
+282044|Ratan Villas
+282047|Hotel Udaigarh - The Heritage Retreat
+282048|Hotel Sunset Inn
+282055|Brys Fort
+282056|Hotel Rose Villa
+282057|The Royale Jaisalmer
+282059|Mystic Jaisalmer Hostel / Backpacker
+282067|Jaisal Vilas
+282217|Hotel Antelope
+282222|Thongsal
+282234|Palm Tree Heritage
+282235|Hindustan Beach Retreat
+282270|Alpine Glow Residency Sunrise
+282272|Vivanta by Taj Begumpet
+282273|Swan Suites
+282281|Falcons Nest
+282291|Log Inn Hospitality Redifined
+282292|Ebony Boutique Hotel
+282293|Casa Luxurio
+282294|Guest Inn Suites Castle
+282296|Hotel Savera Residency
+282297|Live Well Serviced Apartments
+282298|Manasarovar The Fern
+282299|Sri Sai Cyber Guest House
+282300|Golkonda Resorts & Spa
+282302|Expotel Hotel
+282303|Hotel Sitara Grand
+282305|Hotel Tanisha
+282306|Vista Homes
+282307|Sravya Compact Residency
+282309|Park Hyatt Hyderabad
+282311|Inner Circle - A Business Hotel
+282314|At Home Apartment Hotel
+282315|Ramada Jalandhar City Centre
+282321|Hotel Katra Continental
+282322|Hotel The Vaishnodevi
+282323|Hotel Bhawani International
+282325|Shree Hari Niwas
+282326|KC Residency
+282330|Aveda Ludhiana
+282333|Keys Hotel
+282335|Onn
+282337|Park Plaza Noida
+282339|Jaypee Greens Golf & Spa Resort
+282345|Corporate Residency
+282351|Vice President
+282355|The Grand Bhagwati
+282357|Country Inns & Suites By Carlson - Ahmedabad
+282394|Hotel City Castle
+282400|Radisson Blu Amritsar
+282408|CJ International
+282431|Hotel Atithi
+282537|Hotel Chandela - A Taj Leisure Hotel
+282538|Shri Krishna Jungle Resort
+282539|Hotel Lakeside
+282552|Maya Hotel
+282554|Park Plaza Chandigarh
+282556|The Fort Ramgarh
+282562|Diamond Plaza
+282603|Myrica Hotels
+282633|Bharat Resorts
+282634|Hotel Softel Plaza
+282635|Hotel Doon Castle
+282686|Silent Shores Resort & Spa
+282687|Jade Garden
+282689|The Quorum
+282691|Aishwarya Residency
+282693|Peridot Inn
+282697|Hotel Adhi Manor
+282698|Ginger Mysore
+282699|Hotel Bombay Tiffanys
+282732|Swaraj Resorts
+282741|Mana Hotel
+282871|Broadway (Annexe)
+282889|Bliss
+282891|Grand World Tirupati
+282989|Mayflower Beach Resort
+282997|WelcomHeritage Denzong Regency
+283010|Hotel Yavachi
+283048|Hotel Mass
+283050|Raj Residency
+283052|Accord Puducherry
+283053|Ginger Pondicherry
+283061|Grand Gardenia
+283064|The Westin Pune Koregaon Park
+283067|Hotel Madhav International
+283069|The Orchid
+283071|Park Central
+283074|Ramee Grand
+283077|JW Marriott Hotel Pune
+283079|Compact Homes
+283080|Shompen
+283084|Sinclairs Bayview
+283112|Casa Palacio Siolim House
+283122|Hotel City Plaza
+283125|Vivanta by Taj - Dal View, Srinagar
+283126|Silver Star
+283127|The Residency Hotel
+283128|Royal Dandoo Palace of Houseboat
+283129|Peacock Houseboats
+283131|De - Laila Group Of House Boats
+283137|The Hhi Bhubaneswar
+283151|Hotel Regal
+283171|Vivanta by Taj Surya
+283172|Clarion Hotel
+283174|Grand Plaza
+283175|Le Meridien Coimbatore
+283178|Juhu Grand Service Apartment
+283180|Lake Forest Hotel
+283182|Vishwaratna
+283183|Landmark
+283184|Kiranshree Portico
+283186|Nandan
+283189|Ginger Guwahati
+283205|Emerald Trail
+283206|Hotel Hari Heritage
+283207|Radisson Blu Haridwar
+283208|The Urmi
+283210|Ganga Lahari
+283211|Hotel Neelkant
+283212|Clarks Inn Brinjal Haridwar
+283213|Aalia Hotels & Resorts
+283214|Ganga Sadan
+283221|Madhuban Highlands
+283222|Country Inn & Suites By Carlson Mussoorie
+283224|Country Inn
+283226|Rokeby Manor
+283232|Golden Palms Hotel & Spa Sylverton
+283237|Hotel Shamrock
+283238|Celebration Raipur
+283245|Hill View Nainital
+283261|Nidra Hotel Vadodara
+283263|Hotel Yuvraj
+283269|Ginger Vadodara
+283271|Hotel Aditya
+283273|Silver Palace Hotel
+283275|Sarovar Portico, Rajkot
+283278|Golden Star
+283280|Hotel Dreamland
+283285|Vibe By The LaLiT Traveller
+283289|The Fern Residency
+283292|The Angel Hotel
+283293|Villa A2
+283295|Bawa Residency
+283298|Park Lane Gurgaon
+283303|Hotel City Premier
+283306|Crossroads
+283310|Tarudhan Valley by Seasons Hotels
+283312|Tarika's Jungal Retreat
+283313|Hotel Chail Residency
+283314|Fernhill Resort Chail
+283315|Shining Star Resort
+283317|Lall Ji Tourist Resort
+283318|Snow Valley Resorts
+283319|Pong View
+283321|Surya Mcleod
+283322|Aveda
+283323|UNA Comfort Nandini
+283324|Dal Lake Resort
+283329|Corporates' Orchard Park
+283330|Hilltone Resorts
+283337|Kalinga Grand
+283338|Manali Resorts
+283340|Holiday Cottages
+283342|Rock Manali
+283343|Sun Park Resort
+283344|Chetna & Cottage
+283346|De Vivendi Resorts Manali
+283347|Snow Princess
+283353|Manu Allaya
+283354|Le Grand
+283365|Zahgeer Continental
+283366|Grand Mumtaz Resorts
+283367|Himalaya House
+283369|Senetor Pine - N - Peak
+283371|Ginger Hotel Jamshedpur
+283373|Lotus Resort Karwar
+283376|The Prestige
+283377|Ginger Mangalore
+283380|The Quilon Beach Hotel & Convention Center
+283386|Radisson Blu Indore
+283388|Hotel Infiniti
+283389|Country Inn By Carlson-Indore
+283390|Chokhi Dhani Indore
+283394|Ginger Indore
+283397|Satya Ashoka
+283398|The Golf View
+283403|Fariyas Resort Lonavala
+283406|Hotel Sapphire
+283407|Citrus Hotels Lonavala
+283412|Treasure Island Resort
+283416|Lagoona Resort
+283419|Evershine A Keys Resort
+283420|Brightland Holiday Village
+283427|Hotel Rahi Plaza
+283429|Fountain Hotel
+283439|Ginger Nashik
+283440|Hotel Rama Heritage
+283442|Hotel Shantikamal
+283447|St Laurn Meditation And Spa
+283449|United 21
+283450|Alka Residency
+283459|New Ideal Panchakarma Centre
+283460|Ginger Trivandrum
+283461|Windsor Rajadhani Hotel
+283466|SP Grand Days Hotel
+283467|The Residency Tower
+283468|Maurya Rajadhani
+283469|KTDC Chaithram Trivandrum
+283768|Blue Lagoon
+283771|Casa Fiesta
+283772|Seaview Resort
+284221|Mahagun Sarovar Portico, Vaishali
+284367|Ginger Tirupur
+284701|Hotel Ozran Heights
+284704|Hacienda de Goa Resort
+284785|Mango Suites Helios
+284809|Pirache Village Eco Resorts
+286856|Eaton Smart New Delhi Airport
+286866|Js Inn
+286870|Redfox Delhi Airport
+286878|Tivoli Cititel
+286879|Sage Hotel
+286904|Daisy Residency
+286906|Ginger Mumbai (Andheri)
+286907|Hotel Avon Ruby
+286909|Hotel Royal Park
+286910|iHOTEL
+287319|Mira
+287360|Jasmine Palace
+287484|Crowne Plaza Kochi
+287485|Sreeragam Luxury Villa Retreat
+287486|KTDC Bolgatty Island Resort Kochi
+287497|Empire International - Church Street
+287498|Empire Suites - Castle Street
+287499|Paraag
+287504|Olive Suite
+287507|Sterling Suites Residency Road
+287509|The Mayer
+287510|The Mayer Indiranagar
+287511|Tranquil Orchards Suites
+287514|Casa Fortuna
+287974|Park Hyatt Chennai
+287981|Quality Inn Sabari Resorts
+287982|The Carlton
+287985|Sparsa Resorts Kanyakumari
+288018|Ayurcounty Chancellor Resorts
+288019|Mountain Club - Munnar
+288026|Camp Noel
+288474|The Grand Dragon Ladakh
+288843|Avasa Hotel
+288844|Regenta One Hyderabad
+288845|Trident Hyderabad
+288850|Hotel Varun
+289050|Holiday Inn Express Ahmedabad
+289051|Tulip Inn Ahmedabad
+289052|Ritz Inn
+289058|Comfort Inn Alstonia
+289059|Shiraz Castle
+289060|Country Inn & Suites By Carlson Amritsar
+289128|Hotel Harmony
+289130|Hotel Zen
+289135|Golden Tulip Chandigarh Panchkula
+289137|The Bella Vista
+289138|The Toy Hotel Chandigarh
+289480|Cocoon Service Hotel
+289598|Wangnoo Houseboats
+289607|Pushkar Villas Resort
+289611|Country Inn - Bhimtal
+289612|Tulip Inn Mussoorie Barlowganj
+289613|Sterling Mussoorie
+289614|Country Inn Sattal
+289619|Comfort Inn Legacy
+289621|Ginger Faridabad
+289632|Jukaso IT Suites
+289633|Royal Ramiro Residency
+289634|Aamod Dalhousie
+289644|The Piccadily Manali
+289658|Hotel Sunny Classic
+289660|Saj Resorts
+289662|Hotel Rahi
+289664|Radisson Blu Nagpur
+289665|Lily Sarovar Portico
+289666|Ibis Nashik
+289668|Saish Hotel
+289998|Beach Bunglows
+290000|Roundcube
+290772|Radisson Blu Ghaziabad
+290773|Ibis Navi Mumbai
+290774|Royal Tulip Navi Mumbai
+292635|Sai Palace Hotel
+293590|Chandigarh Ashok
+293591|Golden Tulip Ranchi
+294978|Madhubhan Resort and Spa
+295593|Ratnawali
+295602|MGM Eastwoods
+295629|Usha Kiran Palace Hotel & Towers
+295631|Neelams The Glitz
+295640|Karni Bhawan
+296121|Clarks Varanasi
+296247|Crowne Plaza Greater Noida
+296387|Claresta Sarovar Portico, Hosur
+296395|Chalet Riviera Bangalore
+296403|Dreams Inn Greater Noida
+296406|Clarks Inn Corbett Resort & Spa
+296407|Clarks Exotica Faridabad - Delhi / NCR
+296414|Vasundhara Sarovar Premiere
+296416|Mango Hotels, Mysore - Jayalakshmipuram
+296417|J S Residency Varanasi
+296418|Ganga Fuji Home
+296742|Kempinski Ambience Hotel Delhi
+297489|Banyan Tree Kerala
+297595|Paradise Resort
+297605|The Palms Town and Country Club
+298134|Deccan Park Ooty
+298177|Corbett River View Retreat
+298207|Citrus Hotels Gurgaon Central
+298208|Citrus Hotels Sriperumbudur
+298209|Ballal Residency
+298368|Span Resorts
+298371|Hilltone
+298401|Heevan
+298403|Millennium Park
+298434|Rain Forest Resort
+298452|Classic Avenue
+299729|Ivory Tower
+299759|Silver Sand Holiday Village
+299822|Woodrose
+299824|Olde Bangalore Resort and Convention Centre
+299891|Vedic Village Resort
+299995|Aalankrita
+300054|Riverside Resort & Spa
+300112|New Haven
+300274|Ginger Pune Pimpri
+300275|Ginger Pune Wakad
+300322|Palmleaves Beach Resort
+300348|Chunda Palace
+300503|Laika Boutique Stay
+300515|Combermere
+300616|Azzure by Spree Hotels
+300619|La Cabana Beach & Spa
+300620|Riva Beach Resort
+300621|The Mitaroy Goa
+300844|Hilton Garden Inn Gurgaon Baani Square
+300990|Alila Fort Bishangarh
+301369|The Grand Sarwan
+301380|Asian International
+301382|Ajaya Varanasi
+301660|Eighth Bastion
+301921|Formule 1 Ahmedabad
+302181|Radisson Blu Hotel Jaipur Airport
+302284|Erandia Marari Ayurveda Beach Resort
+302521|Flora Airport
+311196|Angara by Silver Sands
+319472|Lui Beach Resort
+321115|Vivek Hotel
+321233|Days Inn Navi Mumbai Ii
+321244|Kum Kum
+322796|Lal Mahal Palace Hotel Jaipur
+322801|Hotel Krishna Palace
+323361|Maple Suites
+323365|Sherwood Suites
+323380|East Palace
+323385|Sunflower Guest House
+324749|Hotel Oriental Inn
+324763|Royal Paris Hotel
+324768|Shri Devi Park
+324783|The Gopi Nivas Grand
+327117|PK Residency
+327849|Hotel The Solluna Resort
+327982|Hotel Paradise
+327984|Golden Landmark Resort
+327988|The Windflower Spa & Resort
+329025|Hotel Mayura
+329203|Sea Rock Hotel
+334934|Bahia Fort
+334954|Indeco Hotels Swamimalai
+354476|Resort de Crossroads
+354477|North 16 Goa
+354486|The Clematis
+359512|Ayurveda Vaidyasala
+363234|NaturOville Vedic Retreat
+363557|Lemon Tree Premier
+363558|The Westin Chennai Velachery
+363744|Golden Palm Hotel and Spa
+363745|Goldenpalms Hotel & Spa Delhi
+363747|Park Ascent
+363748|Shahee Resort
+363749|Wayanad Silverwoods
+364004|Hotel Hot Spring Therme & Spa
+365215|Vivanta by Taj Madikeri
+365221|Courtyard Kochi Airport
+365222|Dusit Devarana
+367729|Golden Tulip Goa Candolim
+367733|Silver Sands Hideaway
+368550|Lemon Tree Premier Delhi Airport
+368551|Park Plaza Delhi Cbd Shahdara
+368552|Tulip Inn West Delhi
+368578|Country Inn & Suites By Carlson Navi Mumbai
+368581|Hotel Cruz Royale
+368585|Lalco Service Apartment Llp
+368589|Residency Sarovar Portico
+368592|GCC Hotel & Club
+368861|Doubletree By Hilton Agra
+368863|Ibis Jaipur
+368864|The Aodhi
+368965|Bengaluru Marriott Whitefield
+368967|Crest Executive Suites
+368968|Double Tree Suites By Hilton Bangalore
+368969|Formule1 Bengaluru Whitefield
+368970|Hilton Bangalore Residences
+368972|Oakwood Residence Prestige Whitefield Bangalore
+368974|Springs Hotel And Spa Bangalor
+368979|The Gateway Hotel Em Bypass
+369279|The Gateway Hotel Itexpressway
+369282|Indeco Mahabalipuram
+369457|Dewa Retreat-rishikesh
+369992|India Awadh
+369993|Best Western Plus Stella
+369994|Radisson Blu Hotel Ludhiana
+369995|Parkside Zebra Corporate Suites-noida
+370119|Comfort Inn Suba
+370122|Eastin Easy Citizen Ahmedabad
+370126|Hyatt Ahmedabad
+370128|Lemon Tree Premier The Atrium
+370129|Radisson Blu Hotel Ahmedabad
+370133|Ramada Amritsar
+370145|Hotel Panchavati
+370200|Fern Residency Chandigarh
+370206|Legend Sarovar Portico Baddi
+370207|The Lalit Chandigarh
+370229|Tarikas Jungal Park
+370241|Hometel Roorkee
+370281|Country Inn And Suites Mysore
+370382|Best Western Rj Resort
+370478|DoubleTree by Hilton Hotel Pune - Chinchwad
+370480|Hhi Pune
+370573|Rk Sarovar Portico
+370576|Ramada Neemrana Jaipur Highway
+370584|Pride Biznotel Ranipet
+370589|Hotel Nahar Nilgiris
+370595|Srs Lakshya
+370599|The Aranya Safari Resort
+370601|Lion Lords Inn Rajula
+370602|The Fern Residency Rajkot
+370608|Anya Gurgaon
+370610|KC Hotel & Spa
+370623|Khyber Himalayan Resort N Spa
+370627|Radisson Blu Hotel Ranchi
+370629|Hotel Panchvati Comforts
+370631|The Tamara Coorg
+370632|Hyatt Place Hampi
+370633|The Gateway Hotel Lakeside
+370634|Courtyard Bhopal Marriott
+370637|The Dukes Retreat-khandala
+370638|U Tropicana Alibaug
+370642|Sai La Villa International
+371606|Radisson Blu Hotel Rudrapur
+371616|Radisson Hotel Kandla
+371996|Basil The Residency
+372000|Park Residency
+372001|Hotel Pitrashish Pride
+372005|The Umrao
+372206|Quality Inn Viha
+372475|Vishram Village
+372683|Hyatt Regency Gurgaon
+374057|Le Seasons Beach Resort
+378173|Mayank Residency Airport Hotel
+380568|Eurasia
+380762|Sai Vishram Hotel
+380764|La Classic
+380765|Confident Amoon The Glamour Spa - Resort
+383679|Shl Mosaic Hotels
+384424|Periyar Nest Resort
+384700|Orritel Hotel
+385247|Dolphin Hotels Ltd.
+385249|Grt Grand Estancia Salem
+385258|Ahuja Residency Gurgaon
+385259|Ginger Manesar
+385274|God's Own Country Ayurveda Resorts
+390184|The Uppal, an Ecotel Hotel New Delhi
+390292|Paradise Isle Beach Resort Udupi, Mangal
+391239|Vana Malsi Estate
+391244|Mapple Exotica
+391353|Park Plaza Salem
+391550|Aloft Bengaluru Cessna Business Park
+391569|Country Inn & Suites Meerut
+391738|The Ritz-Carlton Bangalore
+392479|10 Calangute
+392490|The Rivasa Resort
+392506|Casa Amarilla
+392518|Club Mahindra Emerald Palms
+392519|Coconut Creek Resort
+392527|Deltin Suites
+392531|Down Hill Village
+392580|Supreme
+392582|Viva Goa International
+392593|juSTa Panjim
+392595|KeysResort - Ronil
+392603|Leela Cottages
+392614|Martin's Comfort
+392618|Nikita Residency
+392624|Meraden Opus
+392657|Safira River Front Resort
+392687|The Hawaii Comforts
+392688|The HQ
+392693|The Queeny
+392694|The Sapphire Comfort Hotel
+392697|The Tamarind Hotel
+392698|The Treehouse Blue
+392719|Windsor Bay
+392720|Woodbourne Resort
+392725|Aura Grande
+392771|Bliss Comfort
+392787|Grace Residency
+392798|Landmark Annex
+392835|KC Residency
+392840|Mumbai Metro - The Executive
+392844|Oritel Service Apartments
+392846|Pals Hotel
+392878|Sukh Hotel
+392902|9 Star
+392920|Gayatri Palace
+392932|Love Kush
+392936|Mani Ram Palace
+392974|Taj Galaxy
+393001|Taj Inn Hotel
+393007|1589 Genration X
+393029|Acacia Inn
+393078|Hayat Rabbani
+393103|Mansarovar Palace
+393182|Lebua Lodge at Amer
+393183|Loha Garh Fort Resort
+393184|Lords Plaza Jaipur
+393201|Raya Inn
+393231|Anand Palace Hotel
+393237|Club Mahindra Udaipur
+393246|Horizon Hotel
+393322|Valley View
+393332|Jaisingh Garh - A Boutique Hotel
+393360|The Little Prince Heritage Home
+393370|Gupta INN
+393373|Buddha
+393385|New Temples Town
+393395|Varuna
+393396|Vibhavharsh
+393405|Rivatas By Ideal
+393408|Club Mahindra Poovar
+393418|Cosy Regency
+393419|Deshadan Backwater Resort
+393441|Panoramic Sea Resort
+393457|The World Backwaters
+393474|Niraamaya Retreats Surya Samudra
+393480|The Ocean Park Beach Resort
+393486|Club Mahindra
+393488|Green Fields Kumarakom
+393535|Golf View Hotel & Suites
+393540|Honolulu Homestay
+393551|Millennium Continental
+393576|P J Princess Regency
+393632|Arafa Inn
+393635|Arte Boutique
+393649|Brunton Heights
+393656|Chairman Club & Resort
+393658|Chalet Lake City
+393663|City Centre Residency
+393672|D-Habitat Suites, Rooms n Apartments
+393679|Eagleton
+393684|Ginger Hotel Koramangala
+393686|Goldfinch Retreat
+393692|Green Valley Resorts
+393709|Basant Residency
+393712|Comfort
+393713|Crystal Castle
+393715|Fiesta Grand
+393716|Gardeenia Comforts
+393788|Parijatha Gateway Hotel
+393847|Solitaire Suites
+393852|Stamford Residency
+393862|Sunray Hotel
+393885|The Iris Inn By Bhagini
+393898|Thyme - The Transit
+393937|De Sovrani
+393944|233 Park Street
+393956|Mannat International
+393961|Niharika
+393980|Marina Hotel and Restaurant
+393981|Metropole
+393983|Middleton Inn
+393986|Monotel - A Luxury Business Hotel
+393991|Park Plaza Ballygunge
+393994|Sapphire Suites
+394041|AVNB Towers
+394053|E Hotel
+394085|Kensington
+394087|Le Repose
+394090|Mars Classic
+394091|Mars Deluxe
+394106|The Retreat
+394133|Peace Park Inn
+394140|Pride Biznotel Sriperumbudur
+394141|Raj Palace
+394145|Red Sun Serviced Apartments
+394184|TazKamar Inn
+394186|The Grand Marena Apartment
+394192|The Lotus Service Apartment
+394216|Hill Country Holiday Resort
+394222|Hotel Jai
+394268|JC Residency
+394282|Golden Sun Hotel & Beach Resort
+394346|The Cool Resort
+394364|Chhotaram Prajapat Homestay
+394365|Devi Bhawan
+394375|Hare Krishna Guest House
+394381|Celebration
+394400|Indana Palace
+394403|Jodhana Elite
+394409|Madho Vilas
+394454|Sanctuary Resort
+394460|Raj Palace Resort
+394473|Divine Ganga Cottage
+394479|Ganesha Inn
+394514|Club Mahindra - The Destination, Kandaghat
+394526|Blue Diamond
+394530|Hotel CK International
+394533|Deepjyoti
+394549|Marina
+394558|Rock Heaven
+394590|Shimla Havens Resort
+394624|New Mamta
+394641|The Colonial Manek Manor
+394645|Chokhi Dhani - The Palace Hotel
+394656|Akash Deep
+394677|Sky Plaza
+394694|Registhan Guest House
+394750|Akhil Beach Resort
+394788|Executel Hi-Tech
+394789|Executel Xtnd Begumpet
+394850|Swagath De Royal
+394854|Humsika Inn
+395045|Silver Leaf
+395055|Four Points by Sheraton
+395101|Nami Residency
+395144|Hong Kong Inn
+395182|Prems Paradise
+395206|Humble UNA Smart
+395210|MC International
+395271|Isabel Palace
+395282|Orange Resort
+395283|The Golden Palms Hotel & Spa
+395325|Orbit
+395326|Orbit-34
+395334|Rajshree
+395357|Mint Hotel
+395367|The Golden Palms Hotel & Spa - Zirakpur
+395398|Ashoka's Tiger Trail
+395404|Corbett Gateway Resort & Spa
+395433|The Hridayesh Wilderness Resort
+395487|Vishranti
+395491|Club Mahindra Kanatal
+395493|The Terraces
+395505|Abhishek
+395514|Palace Plaza
+395526|Kings Kastle
+395527|Kings Kourt
+395530|M T R Residency
+395556|Urban Oasis
+395557|Urban Oasis Gokulam
+395567|Bodhgaya Regency
+395585|Chandra Hill Resort
+395593|Beaumont Plantation Retreat
+395603|Jungle Park Resort
+395618|Tigers Roare
+395666|Mayfair Hotel Darjeeling
+395684|Fortune Select Grand Ridge
+395695|Minerva Grand
+395824|Bagh Tola
+395891|Ocean Spray
+395911|The Windflower Resorts & Spa
+395998|Ashish Plaza
+395999|Ashiyana
+396078|Pancard Clubs
+396116|J Hotel
+396140|Batra Hotel and Residences
+396204|Ibni Kabeer
+396220|Mirage
+396250|Sadaf
+396261|Star of Kashmir
+396315|Ronak Resort
+396317|Royal Khazir Boutique
+396355|La Franklin Hotel
+396427|1589 Royal Heritage Hotel
+396434|Data Inn
+396535|Meghalaya
+396553|Club Mahindra Baiguney
+396593|Tamara Resort
+396618|Mystique Ville
+396622|Delightz Inn Tiger Hill Resorts
+396623|Destiny The Farms Stay
+396624|Doddabetta Resort
+396636|Darshan
+396654|Maruthi Cottages
+396663|Sabol Holidays
+396722|Golden Nest Resorts
+396779|Harsh Ananda
+396844|Mapple Hermitage Bhimtal
+397009|ILbert Manor
+397020|Sun N Snow
+397044|Dolmaar Resort
+397138|The Fern residency
+397223|Platinum Hotel
+397308|Clarens Hotel
+397328|Golden Tulip Gurgaon
+397421|The Atara
+397442|The Treehouse Gurgaon
+397461|Vivanta By Taj - Gurgaon, NCR
+397529|GK Conifer
+397548|Karnika Resort
+397552|The Citadel Resorts
+397555|Villa Paradiso
+397558|Gandhi Paradise
+397593|Victoria Continental Inn
+397601|Sandhya Kasol
+397613|Apple Green Resorts
+397647|Chander Palace
+397688|New Shivalik
+397764|Sandhya Resort and Spa
+397810|The Vintage
+397860|Maa Saraswati
+398009|The Windflower Resorts & Spa
+398016|4 Seasons Homestay
+398018|Amanvana Spa Resort
+398019|Ambatty Greens Resort
+398033|Club Mahindra Virajpet
+398035|Coorg Hallimane
+398090|Parumpara Holiday Resort
+398116|The Windflower Resorts & Spa
+398137|Deepa Comforts
+398219|Joys Palace
+398226|Banasura Hill Resort
+398261|Planet Green plantation Resorts
+398423|Aristro
+398445|Kings Inn Holiday Home
+398448|Under the Over, A Sterling Holiday Resort
+398464|Sunrise Hill Resort
+398468|Upper Deck Resort
+398472|Zara Resort
+398477|Fountain Village
+398494|Girija
+398495|Krishna Continental
+398523|Regenta MPG Club
+398571|The Nagpur Ashok
+398659|Atali Ganga
+398725|Sai Grand Castle Inn
+398743|Sai Sangam
+398770|Icchapurti Sai Residency
+398773|Marigold Regency
+398774|Matrix Inn
+398863|Indrapuri Rajadhani
+398870|Uday Suites
+398872|Vasudevam Premium Suites
+398976|Konark Inn
+398985|Laurent & Benon Premium Service Apartments
+398991|Pallavi Avida
+399044|VELAN Hotel Greenfields
+399052|Ahuja Residency Sunder Nagar
+399059|Arjun Hotel
+399095|All iz Well
+399109|Castle Blue
+399115|City Star
+399128|Elegance
+399140|Gulnar
+399163|Moments
+399186|Ramhan
+399188|Rangoli
+399189|Regent Grand
+399201|Shanti Villa
+399203|Shelton
+399206|Shri Vinayak
+399214|Staywell Dx.
+399239|JP Hotel and Resorts
+399240|Karon Hotels - Lajpat Nagar
+399256|Mystique Moments
+399264|Palm Spring Medi Spa & Stays Hotel
+399285|Stallen Hospitality
+399294|The Allure
+399300|The JRD Luxury Butique Hotel
+399337|Khanvel Resort
+399359|Bahia Resorts
+399417|Horseland Hotel And Mountain Spa
+399421|Usha Ascot
+399480|The Fern Samali Resort
+399593|Golden Swan Beach Resort
+399779|JW Marriott New Delhi Aerocity
+400763|Kohinoor Asiana
+400790|Marigold by Greenpark
+400791|Novotel Goa Shrem Resort
+400792|Fairfield by Marriott Bengaluru Rajajinagar
+400793|JW Marriott Bengaluru
+400949|The Fern Beira Mar Resort
+400951|Pride Sun Village Resort Spa
+401588|Hilton Jaipur
+404401|Four Points by Sheraton New Delhi, Airport Highway
+405192|Four Points Dehradun
+405193|Golden Tulip Bangalore Electronic City
+405194|Golden Tulip Bhiwadi
+405195|Golden Tulip Jaipur
+405196|Mayfair Palm Beach Resort
+405197|Tulip Inn Mussoorie Mall Road
+406124|Hyatt Raipur
+406125|Hyatt Regency Ludhiana
+406368|Sanskriti Vedic Retreat
+406458|Grand Mercure Goa Shrem
+406718|Novotel Ahmedabad
+406723|Novotel Kolkata Hotel and Residences
+407129|Four Points by Sheraton Bengaluru
+407131|Mayfair Waves
+407133|Holiday Inn New Delhi International Airport
+407149|Novotel Pune Nagar Road
+408573|Jaypee Delcourt
+408584|Hotel La Capitol
+408585|Shanti Morada
+408803|Srishti Ayurvedic Retreats
+409862|Fortune The Savoy
+411512|Kalari Rasayana
+411599|Centra Inn
+417747|SAMANA Ayurveda Hotel

@@ -1,0 +1,388 @@
+7988|Panamericana Hotel Arica
+9410|Cabañas del Lago
+13027|Fundador
+14900|Iorana
+16697|Majestic
+18140|Panamericana O'Higgins
+18773|Park Calama
+23136|Tierra del Fuego
+26397|Four Points Santiago
+27233|Sheraton San Cristobal Tower
+27234|Plaza San Francisco
+27235|Los Nogales
+31813|Hosteria Lago Grey
+32968|Bellavista
+37951|Torremayor
+38117|Grand Hyatt Santiago
+38595|The Ritz-Carlton Santiago
+38727|Santa Cruz Plaza
+38728|Villarica Park Lake
+38729|Colonos del Sur Mirador
+38731|NH Ciudad de Santiago
+40048|Panamericana Hotel Providencia
+51394|Diego de Almagro Airport
+51395|Galerias
+51396|Costaustralis
+51398|Lady Florence Dixie
+51399|Petrohue
+51401|Kimal
+51403|Termas de Puyehue
+54697|Antumalal
+55761|Sheraton Santiago
+56695|Best Western Hotel Finis Terrae
+64518|Hosteria Las Torres
+64520|Ultramar
+64521|San Martin
+64581|Hacienda Tres Lagos
+67800|Mercure Santiago Ciudad Empresarial
+67801|Radisson Plaza Santiago
+76137|Neruda Express
+76138|Park Plaza
+76332|Monte Verde
+76417|Sheraton Miramar
+76672|Puyuhuapi Lodge & Spa
+79343|Hosteria Rio Serrano
+84201|Panamericana Antofagasta
+84204|Orly
+84219|Kennedy
+84255|Bonaparte
+88119|Tulip Inn Presidente
+88166|Lafayette
+88688|Hangaroa
+90698|Holiday Inn Express Santiago, Chile
+90699|Crowne Plaza Santiago
+90760|Holiday Inn Airport
+90762|Cabo de Hornos
+90764|Diego de Almagro
+90804|Eurotel
+91261|explora Patagonia - Salto Chico
+91263|Principado de Asturias
+91266|Charles Darwin
+91303|Patagonia Camp
+91324|Rugendas
+91325|Time Suites
+91327|El Bosque Park & Suites
+91331|explora Rapa Nui
+91509|Holiday Inn Express
+91511|Holiday Inn Express
+91515|Alerce Mountain Lodge
+91516|Rio Bidasoa
+92290|Lakutaia
+92291|Tierra Atacama
+92294|explora Atacama
+92301|Regal Pacific
+92302|Diego de Almagro Centro
+92304|Marriott Santiago
+92311|Don Luis
+92312|Puerta del Sur
+92313|Viña La Playa
+92314|Hacienda Los Lingues
+92317|Terra Luna Lodge
+92318|Remota
+92319|La Serena Club Resort
+93245|Casa Higueras
+93414|Zero
+94231|InterContinental Santiago
+102701|Atton El Bosque
+104080|Club Presidente
+104082|Presidente Edificio Santiago
+105022|Best Western Los Españoles
+106722|Director
+107158|Francisco de Aguirre
+107218|Gavina
+107665|Holiday Inn Express Concepcion
+107671|Holiday Inn Express Iquique
+107683|Holiday Inn Express Temuco
+108298|La Serena Plaza
+108465|Leonardo da Vinci
+108746|Menorca Rent a Suite
+109217|Neruda Hotel
+109392|Novotel Santiago Vitacura
+110432|Patagonico
+110436|Taha Tai
+110510|O'tai
+110717|Santa Magdalena Apartments
+128966|Baobab - Huilo Huilo
+128967|Radisson Iquique
+128987|Cabañas del Paine
+129275|Terrado Suite
+129276|Mercure Santiago Centro
+129705|Aparthotel Windsor Suite
+133845|Radisson Antofagasta
+133846|Diego de Almagro Costanera
+133854|El Araucano
+133861|Arturo Prat
+133863|Terrado Club
+133869|Marbella Resort
+133872|Manutara
+133876|Great Hotel Vicente Costanera
+133877|Diego de Almagro
+133879|Presidente Club
+133885|Puelche
+133888|Diego de Almagro
+133890|Altiplanico San Pedro de Atacama
+133893|Atton Las Condes
+133894|Eurotel El Bosque
+133897|Director El Golf
+133898|Manquehue
+133899|Panamericano
+133901|Diego de Almagro Talca
+133907|Gala
+134461|Del Valle Azapa
+138264|Montecarlo Renaca
+138552|Apart Principado
+138582|Aconcagua Apart
+139312|RP
+144222|Agua Del Desierto
+144223|Alcala del Rio
+144232|Canto del Mar
+144237|Enjoys Coquimbo
+144240|Espana
+144241|Gran Gervasoni
+144247|Inmoba Apartments & Suites
+144250|La Sebastiana
+144253|Mar Andino
+144254|Maria Angola
+144256|Neruda Mar Suites
+144257|Park Suites Apartments
+144261|Plaza el Bosque Suites
+144262|Radisson AcQua & Spa Concon
+144266|Tempo Rent Apart
+144269|Valparaiso Vineyard Inn
+163449|Lyon
+183209|Robinson Crusoe Inn Santiago Hillside
+183210|Principado
+183343|RQ Santiago Suites
+183344|Vespucci Suites
+183345|Boulevard Suites
+183349|B&B Casa del Sol
+183350|Ayelen Apart
+184009|Vina Matetic
+184010|Alto Atacama Desert Lodge & Spa
+187763|Parque Bustamante Apart
+190079|Kunza
+190081|Altiplanico Easter Island
+190082|El Gomero
+201899|W Hotels Santiago
+202937|Diego de Almagro
+227120|De La Bahia
+227121|Dreams del Estrecho Punta Arenas
+227434|Robinson Crusoe Inn Valparaiso Hertitage
+227436|BMB Suites
+228417|RQ Apart Condell
+228418|RQ Apart Bosque Tobalaba
+228419|RQ Apart City Center
+228420|Salzburg Hotel & Spa
+228551|The Aubrey Santiago
+228899|Cumbres Patagonicas
+228903|Stanford
+228905|Mela Blu Apartments
+229926|Le Reve
+229941|Rey Don Felipe
+231733|Meridiano Sur Petit
+232179|Quito
+232180|Apartment Santiago
+232864|RQ da Carlo
+232869|San Marino
+233227|Atacama Hostel
+233228|Nippon
+233229|RQ Central Suites
+233230|RQ Providencia Suites
+233231|Windsor Palace Apartment
+233232|Hostal Reloj de Flores
+233632|Cambiaso Apartamentos
+233941|Monarca Las Condes
+234562|Las Condes Apart
+234567|Best Western Premier Marina Las Condes
+234572|Amistar Aparthotel
+235341|Park Suites Huerfanos
+235342|Ainara Apartments
+236321|Gen Suite & Spa
+236476|Casino Talca
+236623|Codpa Valley Lodge
+236751|Gran Colonos Del Sur
+236754|Tres Puntas
+238660|Tierra Patagonia Hotel & Spa
+239352|Temauken
+239878|Oporto Hotel Boutique
+239879|Santiago Suite Apartment
+240711|Lastarria
+241060|Enjoy Antofagasta
+241063|Sonesta Calama
+241070|Four Points by Sheraton Los Angeles
+241071|Spark
+241072|Sonesta Osorno
+241075|Borde Lago
+241077|Atacamadventure
+241078|Ah
+241084|Ameristar Suites Bellavista
+241087|Andes Suites
+241088|Apart Capital
+241090|Apart Center
+241091|Apart Dali
+241097|Austral Suites
+241098|Bellas Artes Apart & Boutique
+241099|Bellas Artes Suites & Apartments
+241100|Bellavista Home Bed & Breakfast
+241103|Casaltura
+241104|Chile Apart
+241111|Departamentos Amoblados Costa Nueva De Lyon
+241112|Departamentos Amoblados Costa Suecia
+241113|Departamentos Nice And Cool
+241116|Hostal De La Barra
+241117|Hostal Forestal
+241119|Hostal Romandia
+241121|L'Ambassade Petit
+241122|La Dehesa House
+241123|Lastarria 43 61
+241130|Plaza Suites
+241131|Posada Del Salvador
+241132|Providencia Suite Apartment
+241133|Radisson Petra La Dehesa
+241134|Rent A Home Bosque Norte
+241135|Rent A Home Lyon
+241138|Soho Santiago Apart
+241143|Torre Tagle Barrio Bellas Artes
+241144|Travel Place Apart
+241145|Versalles Suites
+241146|Sonesta Concepcion
+241148|Alto Mirador
+241152|Acontraluz
+241155|Casa Latina
+241157|Cirilo Armstrong Apartamentos
+241169|Manoir Atkinson
+241171|Puerto Natura
+241177|Cerro Castillo
+241178|Conference Town
+241179|Reñaca Inn Apart
+241181|Enjoy Viña del Mar
+241538|The Singular Patagonia
+241591|Quincho Country Home
+241657|Agustina Suite
+241658|Bellavista Travel Suites
+243833|Don Santiago (HDS)
+245971|Hilton Garden Inn Santiago Airport
+246062|Diego de Almagro Concepcion
+246066|Diego de Almagro Valparaiso
+246069|Villa El Descanso
+246073|Dreams Araucania
+246075|Dreams de Los Volcanes
+246079|Nawelpi Lodge - Reserva del Fuy
+246080|Carpa Manzano
+246081|apART Altamira
+246892|Diego de Almagro Lomas Verdes
+247781|Manquehue Hotel Puerto Montt
+247782|Enjoy Hotel del Valle
+247783|Fauna Valparaíso
+249507|Metropolitan Santiago
+249510|Best Western Plus Los Españoles
+249712|Diego de Almagro Rancagua
+249735|Panamericana Hotel Quintero
+254534|Departamentos Amoblados Providencia Santiago
+254535|Marilu's Bed and Breakfast
+254536|Apart Hotel Agustinas Plaza Santiago
+254537|Baleares
+254538|Luna Suite
+254539|Ibis Santiago Estacion Central
+254541|Aparthotel Diego de Almagro
+254543|Art&Living
+254547|The City Apart
+254548|Santiago Backpackers
+254550|Hostal del Barrio
+254553|Intiwasi
+254554|Intersuites Apartments
+254555|The Princesa Insolente Hostel
+254556|Torre Tagle Santiago Centro Monjitas
+254558|Noi Vitacura
+254559|Rentasuite
+254564|Mito Casa Hotel
+254568|At Home
+255736|Casa Kolping
+255738|Seminario
+255741|Weisserhaus
+255746|Terrantai Lodge
+255747|Kunza Hotel & Spa
+255750|Hostal Little Castle
+255987|Hostal Destino Bellavista
+255989|PlenoValpo
+255996|Tauraa
+255997|Manavai
+255999|Hotel Rapa Nui
+256000|Tea Nui Cabanas & Hotel
+256001|Atavai
+256002|Cabañas Rapa Nui Orito
+256003|Mana Nui Inn
+256004|Agroturismo Keu Henua
+256006|Chez Maria Goretti
+256009|Cabanas Tautira
+256010|Marae Premium Cabins
+256011|Pucon Green Park Hotel
+256012|Enjoy Pucon
+256013|Cabanas & Spa Mirador Los Volcanes
+256017|Indigo by Noi hotels
+256018|Alcázar
+256021|Keoken Bed & Breakfast Puerto Natales
+256109|Don Eduardo
+256110|Aitue
+256336|TerraViña
+256337|Vendimia
+256338|Las Majadas Guest House
+256339|Bellavista de Colchagua B&B
+256340|Alto Villarrica
+256440|La Portada del Valle Lodge
+256649|Ibis Antofagasta
+256650|Terrado Suites Antofagasta
+256734|Ibis Concepcion
+257118|Spark Express Iquique
+257654|Santa Maria de Mantagua Hotel
+257916|Mi Palafito Apart
+257958|Puma Lodge by Noi Hotels
+257959|Dreams Pedro de Valdivia
+259300|Torre Tagle Santiago Centro Santo Domingo
+260975|Residencia Historica de Marchihue
+261236|Patagonia Pionera
+271233|Vita Apart Hotel
+271234|Sucursal Providencia
+271235|Casadetodos B&B Boutique
+271236|Santiago Furnished Apartments
+271237|Loreto
+271240|Casa Muriel
+271241|Personal Aparts Bellas Artes
+271243|San Ignacio Suite Apartments
+271244|Vegas
+271245|Serrano Centro
+271247|MV Santiago Departamentos
+272861|Estancia 440
+272862|Casa Atacama
+273521|Victoria
+273522|Frontera Hostel B&B
+276624|Parque Quilquico
+286334|Atton Vitacura
+286337|La Calma de Rita
+287196|Barlovento
+287518|Casablanca
+287519|La Conexión del Poeta
+291671|RocaNegra Mountain Lodge & Spa
+291687|El Mirador de Guadal
+291689|Cinque Colori
+291690|La Mirage Parador
+291691|Winery Boutique Hotel
+291692|Posada Punta de Lobos
+291945|Crusoe Island Lodge
+300691|Dreams De La Patagonia
+300692|Isla Jechica Club
+300696|AMS Apartments Monjitas
+318898|Plaza Londres
+363730|Su Merced
+368061|Rent A Home Ejercito
+368064|Time Select
+368065|Vr Suites
+368983|Ibis Valparaiso
+370228|Radisson Petra Concepcion
+391261|Renaissance Santiago
+392197|Poblado Kimal
+400898|Hacienda Vira Vira
+400919|Ecohotel
+406116|Hyatt Place Santiago/Vitacura
+409043|Montaña Mágica Lodge
+409071|Castillo Rojo Boutique Hotel

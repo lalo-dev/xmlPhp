@@ -1,0 +1,1229 @@
+1404|Amandari
+1405|Amankila
+1406|Amanusa
+1407|Amanwana
+1409|Bali Tropic
+1410|Puri Bagus Candidasa
+1411|Aneka Beach Kuta
+1412|Ida
+1413|Discovery Kartika Plaza
+1414|Legian Paradiso
+1415|Padma Bali
+1417|The Jayakarta Bali Beach Resort, Residence & Spa
+1418|Legian Beach
+1419|Puri Cendana
+1420|Aneka Lovina
+1421|Puri Bagus Lovina
+1422|Candi Beach Cottage
+1423|Aston Bali Beach Resort & Spa
+1424|Grand Hyatt Bali
+1426|Sol Beach House Benoa Bali
+1427|Grand Nikko Bali
+1428|Novotel Bali Benoa
+1429|Nusa Dua Beach Hotel & Spa
+1430|The Westin Resort Nusa Dua
+1432|Ari Putri
+1433|Bali Hyatt - geschlossen
+1434|Bumas
+1435|Bumi Ayu
+1436|Griya Santrian Resort
+1438|Sanur Paradise Plaza Hotel & Suites - Hotel
+1440|Santika Premiere Beach Resort Bali
+1441|Holiday Resort Lombok
+1442|Jayakarta Beach Resort & Spa
+1444|Novotel Lombok Resort and Villas
+1445|Senggigi Beach Resort
+6103|Puri Santrian & Spa
+7095|Adi Dharma Hotel
+7096|Adika Sari
+7238|Alam Anda Ocean Front Resort & Spa
+7240|Alang-Alang Boutique Beach Resort
+7587|Amanjiwo
+7767|Angsana Resort & Spa
+7945|Ibis Arcadia Jakarta
+8476|Baleka Beach
+8479|Bali Agung Village
+8480|Inna Grand Bali Beach
+8482|Bali Cliff Beach Resort
+8484|Bali Garden Beach Resort
+8485|Ayodya Resort Bali
+8487|Intercontinental Bali Resort
+8488|Bali Mandira Beach Resort
+8489|Club Bali Mirage
+8490|Bali Reef Resort
+8491|Bali Royal
+8492|Bali Spirit
+8494|Grand Balisani Suites
+8535|Kamandalu Resort & Spa
+8537|Banyan Tree Resort
+9585|Champlung Sari
+10255|Atlet Century Park
+10572|Coconuts Beach Resort
+11419|Segara Village
+12945|Four Seasons Resort Sayan
+13159|Gazebo Beach
+13216|Gili Air
+13492|Grand Mirage
+13797|Hard Rock Bali
+14122|Holiday Inn Resort Baruna Bali
+14475|Aryaduta Jakarta
+14491|Hyatt Regency Yogyakarta
+14597|Ibis Jakarta Kemayoran
+14613|Ibis Surabaya Rajawali
+14965|Grand Istana Rama
+15467|Komaneka at Monkey Forest
+15572|Kumala Pantai
+15587|Kuta Paradiso
+16106|Pan Pacific Nirwana Bali Resort
+16581|Lumbung Sari
+16675|Maharta Beach Resort
+17116|Matahari Beach Resort & Spa
+17117|Matahari Terbit
+17231|Melia Purosani
+17328|Mercure Jayakarta Kota
+17484|Mimpi Resort Tulamben
+17485|Mimpi Resort Menjangan
+18005|Nirwana Gardens Resort - Banyu Biru Villa / Mayang Sari Beach / Nirwana Beach Club / Indra Maya Pool Villas / Nirwana Resort
+18099|Soechi Medan
+18115|Novotel Solo
+18117|Novotel Surabaya Hotel & Suites
+18119|Toraja Heritage
+18122|Novotel Yogyakarta
+18132|Nusa Lembongan Resort
+18304|Batavia
+18325|Opal Inn
+18639|Belmond Jimbaran Puri Bali
+18641|Pantai Gapura
+18928|Peneeda View
+18968|Pertiwi Resort & Spa
+19110|Pita Maha Resort
+19268|Pool Villa Club
+19550|Puri Bagus Manggis
+19552|Puri Dewa Bharata
+19553|Puri Kelapa Garden Cottage
+19555|Puri Raja Beach
+19557|Inna Putri Bali
+19577|Quality Jakarta
+19726|Mercure Resort Sanur
+19847|Rama Beach Resort & Villas
+19848|Rama Candidasa Resort & Spa
+19852|Ramada Bintang Bali Resort
+19907|Ramayana Resort & Spa
+20284|Seminyak Beach Resort & Spa
+20858|Kusuma Sahid Prince Solo
+20859|Sahid Surabaya
+21102|Santika Premiere Jogja
+21110|Sanur Aerowisata
+21111|Prama Sanur Beach Hotel
+21147|Sari Beach
+21155|Sativa Sanur Cottage
+21466|Bali Dynasty
+21543|The Laguna a Luxury Collection Resort & Spa
+21560|Sheraton Mustika
+21584|Sheraton Senggigi Beach Resort
+22520|Taman Agung Beach
+22559|Tauch Terminal Resort Tulamben
+22720|Alila Ubud
+22828|The Legian Bali
+22875|The Oberoi Bali
+22876|The Oberoi Lombok
+22969|The Ayana Resort & Spa
+23183|Tjampuhan
+23428|Tugu Bali
+23476|The Ubud Village Resort
+23743|Vila Lumbung
+23750|Vila Shanti Beach
+23755|Vila Ombak
+23804|Kind Villa Bintang Resort
+23822|Villa Chempaka
+24466|Wina Holiday Villa
+24729|Alam Indah
+26039|Maya Ubud Resort Bali
+27958|Mandarin Oriental Jakarta
+27960|Dusun Jogja Village Inn
+27961|The Pavilions Bali
+27962|Bagus Jati
+30549|Mercure Kuta Bali
+30550|Keraton Jimbaran Resort
+30563|Menara Peninsula
+30564|Santika Premiere Jakarta
+30565|Sari Segara
+31443|Pelangi Bali
+31785|Alila Jakarta
+31786|Ibis Jakarta Slipi
+32041|Intan Bali Village
+32042|White Rose
+33085|Poppies
+35650|Ramada Benoa Bali Resort
+37915|Parigata Resort & SPA/ Parigata Villas Resort / Parigata Spa Villas - Parigata Resort & SPA
+37917|Komaneka at Tanggayuda
+38119|JW Marriott
+38438|Sri Phala Resort & Villa
+38585|Shangri-La Jakarta
+38929|The Grand Bali
+39065|Club Med Bali
+39069|Ria Bintan
+40609|Sahadewa Resort & Spa
+40965|Diwangkara Holiday Villa
+40966|Harris Resort Kuta Beach
+47505|Sheraton Surabaya Hotel & Towers
+47506|Natura Resort & Spa
+47507|The Bale Nusa Dua
+47508|The Damai
+48473|The Royal Beach Seminyak Bali
+48475|Oasis Beach Resort & Spa
+51339|Sea World Club
+52339|Warwick Ibah Luxury Villas & Spa
+52350|Gran Melia
+52351|Alu Bali Villa
+52352|Sekar Nusa Resort
+52353|Blue Point Bay Villas & Spa
+52354|Alam Puri Art Museum & Resort
+52909|Conrad Bali
+52910|Qunci Villas
+53759|Crowne Plaza
+53760|InterContinental Mid Plaza Jakarta
+57646|Alila Manggis
+58330|Bintan Lagoon Resort
+58350|Aditya Lovina
+58548|Jepun Bali
+59176|Majapahit
+59181|Dream Divers Anlage
+59183|Tasik Ria
+59246|Cendana Resort
+59247|Suly Resort and Spa
+59249|Biyukukung Suite & Spa
+59250|Aneka Bagus Resort
+59251|Taman Sari Cottage
+59665|Puri Mas Boutique Resort & Spa
+59667|Indonesia Kempinski Jakarta
+59669|Sari Sanur Resort
+59670|La Taverna Bali
+59672|Stana Puri Gopa
+59674|Bali Niksoma
+59677|Melasti Beach Resort
+59681|The Watergarden
+60863|Mentari Sanur
+60905|Risata Bali Resort & Spa
+60948|Vilarisi
+61561|Oasis Kuta
+61563|Puri Bambu
+61564|Kupu Kupu Barong Villas
+61760|Graha Beach Senggigi
+62719|Dewani Villa Resort
+62723|Balisani Padma
+62724|Pondok Sari Beach Resort & Spa
+63350|Shorea Beach Resort
+63351|Alits Beach Bungalows
+63353|Four Seasons Resort Jimbaran
+63354|Dhyana Pura
+63513|Bali Matahari
+63514|NusaBay by WHM
+63534|Sorga Cottages
+63539|Borobudur Jakarta
+63540|Patra Jasa Bali Resort & Villas
+63541|Hanging Gardens Ubud
+63542|Puri Dajuma Cottages
+63894|Puri Saron
+63895|Desa Dunia Beda Resort
+63935|Villa Almarik
+63936|Gazebo Meno
+63937|Medana Beach Resort
+64066|Gangga Island Resort & Spa
+64067|Wakatobi Dive Resort
+64068|Siladen Resort
+64449|Taman Wana Villas & Spa
+64531|Alam Kulkul Resort
+64779|Sari Pan Pacific Jakarta
+64801|Nihiwatu Resort
+65001|Waka Gangga
+65002|Sanda
+68655|Uma by COMO
+68766|The Seminyak Suite Privat Villa
+68944|The Lokha
+68945|The Menjangan Jungle & Beach Resort
+68946|Seminyak Paradiso
+68947|The Ubud Village Hotel
+70073|Bulgari Resort Bali
+71084|The Vira Bali
+71085|Bakung Beach Cottage
+71086|Wana Berawa Bali
+71174|Le Meridien Jakarta
+72497|Kima Bajo Resort & Spa
+73144|Jamahal Private Resort & Spa
+73289|Grand Preanger
+73290|Holiday Inn Bandung
+73291|Sedona Manado
+73292|Minahasa Lagoon
+74034|Sheraton Bandung & Towers
+74035|Jayakarta
+74864|Gaia-Oasis Pantai
+74914|all seasons Bali Legian
+75068|Tiara
+76233|Legong Keraton Beach
+76717|The Samaya Seminyak
+76737|The Chedi Club Tanah Gajah
+76746|Inna Sindhu Beach
+77035|The Phoenix Hotel Yogyakarta - MGallery Collection
+77359|Respati Beach
+77385|The Elysian Villa Resort Bali
+77386|The Ahimsa & Ahimsa Club
+77387|Kayumanis Private Villas & Spa Nusa Dua
+77472|Kuta Seaview Boutique Resort
+77629|Kayumanis Private Villas & Spa Ubud
+77630|Kayumanis Private Estate Jimbaran
+79120|The Breezes Bali Resort & Spa
+79178|Plaza
+80851|Kungkungan Bay Resort
+81706|Nabucco Island Resort
+82156|Rumah Bali
+82158|Puri Mesari
+82159|Villa Sayang Boutique
+83626|Ciputra Jakarta
+83629|Park Lane
+83631|Jayakarta Yogyakarta
+84481|COMO Shambhala Estate
+84499|Dewi Sri
+85125|Spa Village Tembok
+85173|Bali Ayu
+85174|Flamboyan
+85177|Tamukami
+85180|Grand Inna Kuta
+85186|Adi Dharma Cottages
+85187|Pat-Mase Villas
+85525|Karma Jimbaran
+85526|Swiss-Belhotel Bay View
+85527|Waka Maya Resort
+85528|Parigata Resort & SPA/ Parigata Villas Resort / Parigata Spa Villas - Parigata Villas Resort
+85689|Swastika
+85690|The Losari
+85691|Legian Village
+85692|Putu Bali Villa
+85693|Rama Garden
+85694|Taman Ayu
+85696|Santi Mandala
+85697|Pacific Beach Cottages
+85698|Waka Di Ume
+85699|The Sungu Resort & Spa
+85700|Grandkemang
+85701|Elmi
+85735|Grand Aquila
+85736|Grand Pasundan Convention
+85982|Horison Bandung
+85983|Mitra
+85988|Inna Garuda
+85991|Sahid Jaya Lippo Cikarang
+86033|The Sultan Hotel
+86034|Grand Setiabudi Hotel
+86035|The Majesty
+86036|Trio
+86894|Abian Biu Residence
+86895|Bali Rich Luxury Villas & Spa Seminyak
+86896|Nalendra
+86898|Santika Bandung
+86899|Grand Royal Panghegar
+86900|Savoy Homann
+86901|Horison Semarang
+86902|Paragon Gallery Jakarta
+86904|The Sunan Solo
+86905|Villa Kubu
+86906|Restu Bali
+87468|Sun Island Boutique Villas & Spa
+87469|Kamuela Villas & Suites, Sanur
+87470|Nandini Resort & Spa
+87471|The Payogan
+88127|Coral View Villas
+88171|Kuta Puri Bungalows
+88173|Melasti Beach Bungalows
+88179|Bali Taman Beach Resort & Spa
+88186|Puri Ganesha Villas
+88213|Ananda Cottages
+88217|Kori Ubud Resort, Spa & Restaurant
+88228|Mulia Senayan
+88230|Dharmawangsa Jakarta
+88262|Kuta Lagoon Resort
+88311|Casa Padma Suites
+88379|Saphir Mabisa Inn
+88468|Kemang Icon by Alila
+88649|Barong
+88809|Green Garden
+88814|Febri's Hotel & Spa
+88922|Imperial Aryaduta Makassar
+89036|Arion Swiss-Belhotel Bandung
+89351|Alam Asmara Dive Resort
+90249|Bajo Komodo Eco Lodge
+90250|Villa Seminyak Estate & Spa
+90251|The Gangsa
+90957|Arma Resort
+90960|Barong Resort
+90961|The Beverly Hills Bali
+91159|Sari Amertha Villa
+91415|Alam Batu Beach Bungalow Resort
+91418|Cape Paperu Resort & Spa
+91420|Lembeh Resort
+91421|Walea Dive Resort
+91463|Taman Selini Beach
+91532|Sheraton Media & Towers
+91533|Space at Bali
+91681|The Villas Bali Hotel &Spa
+91682|Tepi Sawah Villas
+91684|Four Seasons Jakarta
+92455|Novotel Bali Nusa Dua Hotel & Residences
+92457|Alam Shanti
+92458|Alam Jiwa
+93918|Dreamland Luxury Villas & Spa
+94103|Novotel Bogor Golf Resort & Convention Center
+94408|Sofitel Gran Mahakam
+94409|Novotel Jakarta Mangga Dua Square
+94410|Ibis Jakarta Tamarin
+94411|The Ritz-Carlton Jakarta
+94515|Novotel Semarang
+94536|Grand Cikarang
+95241|Furama Villas & Spa
+95831|The Bali Khama Beach Resort and Spa
+95937|Anantara Seminyak Resort & Spa
+95963|MesaStila
+95972|The Viceroy
+96495|Sandi Phala
+96803|Jakarta Airport
+97229|Hai Tide Huts
+99741|Kamuela Villas Seminyak
+99803|Anda Amed Resort
+99805|Karma Kandara
+99807|Naya Gawana Resort & Spa
+99809|The Shaba
+100878|Taman Harum Cottages
+100879|Villa Mahapala
+100880|The Kozy Villas
+100881|Royal Pita Maha
+100884|Club Bali Suites @ Jayakarta Bali Hotel
+100885|Batukarang Lembongan Resort & Day Spa
+100886|Adirama Beach
+100887|The Hill
+100892|Aniniraka Resort & Spa
+100898|Singgasana Surabaya
+100899|Grand Hyatt Jakarta
+100901|Gran Puri Manado
+100945|C151 Smart Villas
+100948|Ocean Blue Bali
+101617|Bali Baliku Luxury Villa
+103267|St. Regis Bali Resort
+103773|Puri Lumbung Cottages
+103774|Cempaka Blimbing Villas
+104012|Ambhara
+105862|Ciputra Semarang
+107966|Hyatt Regency Bandung
+108229|Kuta Beach Club
+108815|Mercure Convention Centre Ancol
+109058|Millennium Sirih Jakarta
+109291|Novotel Balikpapan
+109292|Novotel Bandung
+109294|Novotel Batam
+110390|The Royal Santrian
+110617|Nunukan Island Resort
+110618|Lotus Bungalows
+110730|Saphir Yogyakarta
+110815|Shangri-La Surabaya
+111092|Swiss-Belhotel Borneo Banjarmasin
+111202|Jayakarta
+111390|Tugu
+111561|Villa Semana
+122846|Sheraton Bandara
+122876|Kura Kura Resort
+124539|Disini Luxury Spa Villas
+124540|Tony's Villa
+124544|Puri Wulandari Boutique Resort & Spa
+124545|Grand Tropic Suites
+124546|Lorin Business Resort & Spa Solo
+124547|Galeri Ciumbuleuit
+128886|Aston Braga
+128888|Garden Palace
+128891|Sparks
+129538|Le Grandeur
+129539|Sheraton
+129543|Redtop
+129544|Arion Swiss-Belhotel Kemang
+129545|Manhattan
+129549|Bali Sorgawi
+129550|Champlung Mas
+129554|Aryaduta
+129555|Grand Angkasa Medan
+129558|Swiss-Belhotel Borneo Samarinda
+129559|Bvilla + Spa
+129560|Dusun Villa
+129561|Villa Air
+129562|Sentosa Private Villas & Spa
+129563|Sunari Villas & Spa
+129564|Equator
+129566|Bhanuswari Resort & Spa
+129567|Junjungan Bali Spa
+129568|Panorama
+129569|Puri Bunga Resort & Spa
+131655|Mutiara
+131656|Sukajadi
+131661|Tugu
+131664|Santika Cirebon
+131665|Masari
+131666|Aston at Kuningan Suites
+131667|Le Grandeur
+131668|Ibis Jakarta Mangga Dua
+131669|Harris Tebet
+131671|Aston Rasuna
+131674|The Niche Bali
+131677|Santosa Villas & Resort
+131685|Bumi Minang
+131688|Aryaduta Palembang
+131690|Bromo Cottages
+131695|Santika Semarang - geschlossen
+131696|Santika Premiere Semarang
+131697|Patra Semarang Convention
+131698|Grand Candi
+131699|Bali Island Villa & Spa
+131703|Sahid Jaya Solo
+131704|Surabaya Plaza
+131705|Bisanta Bidakara
+131706|Somerset
+131707|Ts Suites
+131708|JW Marriott
+131709|Anahata
+131713|Ibis Yogyakarta Malioboro
+134296|Gending Kedis Luxury Villas & Spa Estate
+134297|The Bali Shangrila Beach Club
+134298|Asri Jewel Villas & Spa
+134299|The Seri Villas Seminyak
+134300|The Seri Suites
+134330|Ijen Resort & Villas
+134331|La Villa Mathis
+134422|3V Kerobokan
+135527|FuramaXclusive Ocean Beach Seminyak
+136225|The Bidadari Luxury Villas & Spa
+136334|Alila Villas Uluwatu
+137756|Aryaduta Semanggi
+137758|Puri Dalem Cottage
+137759|Aryaduta
+137766|Swiss-Belhotel Silae Palu
+137769|Swiss-Belhotel Manokwari
+137770|Ciputra
+137771|Gumaya Tower
+138072|Swiss-Belhotel Papua
+138309|Aryaduta Lippo Village
+138319|Mutiara Bali Boutique Resort Villas & Spa
+138332|Palm Beach International Hotel & Resort
+138351|Marbella Convention & Spa
+138385|Aston Inn Tuban
+139456|The Kayana
+141675|Puri Madawi
+142740|Sienna Villas
+144326|Lembongan Island Beach
+144331|Melka Excelsior Resort
+156815|Ibis Semarang Simpang Lima
+156818|Nugraha Lovina
+156821|Desa Seni A Village Resort
+156826|Athena Garden Villa
+156827|Grand Akhyati Villas & Spa
+156829|Tanah Merah Resort & Gallery
+156830|Puri Saron Madangan
+156831|Ascott Jakarta
+156832|Ibis budget Jakarta Menteng
+156833|Pullman Jakarta Indonesia
+156834|Somerset Berlian
+156835|Kristal
+156836|Somerset Grand Citra
+156837|Oakwood Premier Cozmo
+156844|Danoya Villa
+156846|The Bli-Bli Residence
+156847|Hapel Semer
+156850|Bali Nyuh Gading Villa
+156851|The Javana Royal Villas
+156852|Lavender Luxury Resort & Spa
+156853|Flora Beach
+156854|Desamuda Village
+156855|Karthi
+156859|Villa Jerami
+156863|Villa Uma Sapna
+156864|J Boutique
+156868|Plataran Bali
+156870|The Citta Villas
+156871|Adhi Jaya
+156877|Puri Dibia
+156878|Villa de daun
+156879|Bali Merita Villa
+156880|Dyana Villas
+156882|Rivavi Fashion
+156884|Wida
+156885|Bali Court
+156886|Villa Diana Bali
+156887|Quality Makassar
+156888|M Regency Makassar
+156889|Grand Legi Mataram
+156891|Heavenly Residence
+156892|Bali Desa Villa
+156896|Mayaloka Villas Seminyak
+156900|Ellora Villas
+156906|Puri Sading
+156907|Villa Coco Bali
+156909|Annora Bali Villas
+156911|The Amasya Villas
+156913|Ulin Villa & Spa
+156914|Le Jardin Boutique Villa
+156915|Maya Sayang Villa
+156917|Ibis Solo
+156918|Graha Residen Service Apartments
+156919|Mercure Surabaya
+156922|Alam Sari, Keliki
+156926|Ulun Ubud Resort
+156927|Taman Bebek Resort & Spa
+156929|Agung Raka Resort & Villas
+156930|Bunga Permai
+156933|Duta Guesthouse
+156934|Duta Garden
+156935|Mutiara Malioboro
+157701|Komaneka at Bisma
+157702|Villa Nunia
+157703|The Haven Seminyak
+157705|Kanishka Villas
+157706|Beji Ubud Resort
+163465|Puri Garden 2
+163466|The Tanis
+163467|Tugu Lombok
+177190|Alila Villas Soori
+182235|Bounty
+182237|Enjung Beji
+182543|Kajane Mua
+182544|Pulau Ayer Resort & Cottages
+182545|Villa Puri Ayu
+182547|Bintang Flores
+182551|Blue Moon Villa
+182552|Bloo Lagoon Village
+182553|Kembali Villas
+182560|Siddhartha Ocean Front Resort & Spa
+182724|Mimosa Jimbaran Boutique Resort & Spa
+182725|Pullman Bali Legian Nirwana
+182727|Furama Jimbaran Beach Resort & Spa
+182962|New Kuta
+182971|The Ahimsa Beach
+182974|Pondok Prima Cottages
+182975|Bakung Sari Cottages
+182976|Satriya Cottage
+182977|The Palm Suite Villa & Spa
+182978|Spartacvs Bali (Bali Gay Resort)
+183530|Nirwana Gardens Resort - Banyu Biru Villas
+183531|Ramada Resort Camakila Bali
+183532|Indah Palace Yogyakarta
+183533|Indah Palace Solo
+187285|Matahari Bungalow
+187286|Garden View Cottages
+187723|Kunja
+188175|Bali Mountain Retreat
+188176|Medewi Beach Cottage
+188177|D'Omah Bali
+188178|Sayan Terrace Resort
+188179|Puri Saraswati Bungalow
+188180|The Shanti Residence
+188181|Four @ Drupadi
+188182|The Lotus Residence
+188183|The Sanyas Suite
+188184|De Munut Cottages
+188185|Kakiang Bungalows
+188186|Mustika Sari Beach
+188196|Alam Gili
+188197|Grand Swiss-Belhotel
+188227|Sarinande Beach Inn
+188229|Tandjung Sari
+188230|Villa Balquisse
+195969|Tauchbasis - Diving Centers Werner Lau/Siddhartha Dive Resort
+195990|Tegal Sari Accommodation
+195991|Tunjung Mas Bungalow
+196034|Puri Garden
+196035|Gajah Mina Beach Resort
+196039|Graha Resort Bali
+196040|Puri Artha
+196041|Jalan Jalan Villa & Spa
+201758|Sumba Nautil Resort
+201859|Ramayana
+201860|Banyan Tree Ungasan
+201862|Green Villas Bali
+201864|Casa Mateo Villa
+201865|Ranadi Villa
+201871|Jimbaran Alamanda
+201872|Sanur Agung
+201874|Hilton Bandung
+201878|Sanno
+201880|Puri Saron Seminyak
+201882|Puri Saron Baruna Beach
+201883|Aqua Petitenget
+201884|Dream Beach Hut's
+201885|The Graha Cakra Malang
+201886|Villa Horizon
+201925|XL Vision Villas
+201926|Saren Indah
+201927|Beji Indah Villa
+202501|Cubadak Paradiso Village
+202687|Villa Grasia Resort & Spa
+202726|Chonos
+202732|Bhavana - Private Villas
+202733|Aston Kuta Hotel & Residence
+202734|Rambutan Cottages
+202735|Villa Bali Asri
+202736|Green Field Hotel & Bungalows
+202737|Munduk Moding Plantation
+202738|Jay's Villas Bali
+202739|Ocean View Frangipani Villa & Spa
+202743|Puri Saren Ubud
+202745|Villa Puriartha
+202750|Villa Double N
+202751|Best Western Premier Solo
+202753|Best Western Mangga Dua Hotel & Residence
+202754|Luxe
+202755|Queen Garden
+202756|Grand Wahid Salatiga
+202758|Papandayan
+202759|Kusuma Sari Villa & Spa
+202760|Puri Sindhu Mertha Guest House
+202761|Puri Sindhu Mertha Suite
+202762|Margo Utomo Agro Resort
+202763|Alam Warna
+202764|Luce d'Alma Resort & Spa
+203185|Villa Indah Ubud
+203186|Samhita Garden
+203187|100 Sunset Boutique Hotel
+203574|The Segara Condotel
+205346|Aston Marina Jakarta
+213562|Lumire Hotel & Convention Center
+216437|Puri Casablanca
+218550|Sunlake
+219256|The Mansion Resort & Spa
+219421|The Residence Seminyak
+219770|Travellers Jakarta
+221854|Elephant Safari Park Lodge
+226581|Kampung Kecil Villa
+226582|The Amala
+227073|D'Omah
+227086|Bvilla + Pool
+227087|Bvilla + Seaside
+227338|Santai Bali
+227534|Harris Riverview Kuta
+227742|W Hotels Retreat & Spa Bali
+228050|Prasada Mansion
+228051|Kubu Indah Dive & Spa Resort
+228595|The Wolas Villa & Spa
+228681|Angel Island Resort
+228956|Villa Alamanda
+228957|Villa Atas Ombak
+228958|Villa Azaya
+228959|Villa Bali-Bali
+228961|The Beach House
+228962|Casa Evaliza
+228963|Jajaliluna
+228964|Villa LeGa
+228965|Maharaj
+228967|Majapahit Beach Villas
+228969|Villa Mako
+228971|Villa Mana
+228972|Villa Moonlight
+228975|The Nirwana Resort & Spa
+230789|Istana
+230792|Puri Bawana
+230793|Villa Sadia
+230795|Sanur Residence
+230797|Villa Semarapura
+230801|Simona Oasis & Spa
+230803|The Ylang Ylang
+230811|Villa Melissa
+230812|Villa Sound Of The Sea
+230814|Villa Waringin
+230815|Villa Ambra
+230816|Villa Mary
+230827|Villa Ekidoka
+230830|Villa Marxiz
+230832|Villa Chocolat
+230835|Nyaman Villas
+230839|Angel?s Villa
+230841|Niloufar Villa
+230843|Villa Bahagia
+230847|Villa Nian
+231210|Ipanema Boutique Residence
+231794|The Benoa Beach Front Villas & Spa
+231795|The Acacia Jakarta
+231796|Grand Sahid Jaya
+231797|FM7 Resort
+232335|The Batu Belig Hotel & Spa
+232376|Kelapa Retreat
+232498|Jeeva Klui Resort
+232886|Ashyana Candidasa Resort
+232888|Abi Bali Resort Villa & Spa
+232890|Bali Swiss Villa
+232963|Aria Luxury Villa & Spa
+232965|Bali Kuta Resort
+232972|Frangipani Beach Villa
+232973|Nick's Hidden Cottage
+232975|Grage Jogja
+234179|Aston Denpasar & Convention Center
+234182|Mara River Safari Lodge
+234183|Legian Guest House
+234717|Grand Serela Setiabuhdi
+234720|Grand Luley Resort & Dive
+234721|Santika Kuta - Bali
+234723|Grand Aston City Hall Medan
+234724|Aston Manado
+234725|Novotel Manado Golf Resort & Convention Center
+234726|Grand Kuta Hotel & Residence
+234727|Best Western Resort Kuta
+234729|Quest Semarang
+234730|Harris & Conventions Kelapa Gading
+234731|Swiss-Belhotel Maleosan Manado
+234732|Swiss-Belhotel Mangga Besar Jakarta
+234733|Sensa
+234736|Mercure Batam
+234737|JW Marriott Medan
+234741|Golden Flower
+234742|Aston Primera Pasteur
+234743|Amaroossa
+234744|Favehotel MEX Surabaya
+234746|Aston Cengkareng City
+234747|Swiss-Belinn Batam
+234748|Swiss-Belinn Batam
+234750|Banana Inn
+234754|The Radiant Hotel & Spa
+234810|The Windy Beach Resort
+235188|The Sunti Ubud Resort & Villa
+235189|Morrissey Serviced Apartment
+235298|Cocotinos Sekotong Beach Resort
+235490|Kiss Bali
+235491|Pantai Lima
+235493|Patra Jasa Bandung
+235503|Puri Setiabudhi Residence
+235504|Umalas Residence
+235506|Ahadiat
+235508|Anggrek Shopping
+235509|Finna Golf & Country Club Resort
+235820|The Oasis Lagoon Sanur
+235992|Cocotinos Manado
+236076|Amaris Legian
+236143|Sheraton Bali Kuta Resort
+236430|Kupu Kupu Jimbaran
+236432|Villa 8
+236511|Ziva a Boutique Villa
+236512|Abadi Jogja
+236978|Indiana Kenanga Villas
+236980|Courtyard Bali Nusa Dua
+237151|Plataran Borobudur Resort & Spa
+238398|Chateau De Bali Villas
+238399|The Bali Dream Suite Villa Seminyak
+238400|Kokonut Suites
+238401|The Edge
+238402|Astana Kunti
+238404|Puri Maharani Boutique & Spa
+238405|Keramas Bali Villas
+238406|Sunset Mansion
+238424|Dura Villas Bali
+238425|La Villais Exclusive Villa And Spa
+238426|Semara Resort & Spa
+238428|Ivory Resort
+238429|Astana Batubelig Suite Villa
+238430|The Khayangan Dream Villas Petitenget
+238431|Water Edge Villa
+238432|Ametis Villa Bali
+238433|Temple Hill Residence
+238437|Bali Kubu Rama
+238438|Bumi Linggah The Pratama Villas
+238439|Munduk Sari Garden & Nature Villa
+238440|Adi Assri Beach Resort
+238441|Warsa Garden Bungalows
+238442|Gaya Villas
+238445|Y Resort Ubud
+238446|Favehotel Denpasar
+238447|Amadea Resort & Villas
+238448|Bali Palms Resort
+238449|Puri Purnama Villa
+238651|Niagara Hotel & Resort
+238705|GH Universal
+238706|Pesona Bamboe
+238707|Jatra
+238708|Merlynn Park
+238709|Grand Quality Yogyakarta
+238710|Sriwedari Business & Resort
+238712|Hills Joglo Villa
+238713|Pondok Indah
+238714|Kelapa Luxury Villas
+238715|Lombok Raya
+238717|Kebun Villas & Resort
+238719|The Jayakarta Suites Komodo-Flores
+238948|The 101 Legian
+239224|Nusa Dua Retreat Boutique Villa
+239227|Ubud Green
+239228|Elbari Villas
+239230|The Jineng Villas
+239231|Bali Nibana Resort
+239232|Astana Pengembak
+239233|Agas Internasional
+239234|Cakra Kusuma
+239244|LPP Garden
+239246|Adya Nalendra Boutique
+239249|Alam Permai
+239257|Putri Gunung
+239259|The Plaza Glodok
+239260|KChrysant
+239289|The Akmani
+239290|Twin Plaza
+239537|Mapia Resort & Spa
+239540|Onong Resort
+239913|Anantara Bali Uluwatu Resort & Spa
+240235|Alam Ubud Culture Villas & Residences
+240240|Gosyen
+240241|Villa Aamoda Bali
+240243|Swiss-Belhotel Segara
+240246|Royal Kamuela at Monkey Forest Ubud
+240247|Royal Kamuela Nusa Dua
+240250|Komea Bali Villa
+240251|Puri Sunia Resort Bali
+240277|GrandmasHotels.com @ Seminyak
+240283|The H Rooms At Horizontal
+240298|The Beach House Resort
+240299|Exqisit Villas And Resort
+240301|Trawangan Dive
+240307|Aston Soll Marina
+240311|Rama Phala Resort & Spa
+240322|Amaris Cihampelas
+240323|Amaris Panglima Polim
+240325|Amaris Pemuda
+240326|Amaris Diponegoro
+240337|Bilique
+240338|Bumi Sawunggaling
+240344|Carrcadin
+240345|Cemerlang
+240346|D'Batoe
+240348|Dago Highland
+240349|Garden Permata
+240350|Geulis
+240351|Grand Pacific
+240352|Guci
+240354|The Imperium International
+240356|Karang Setra
+240361|Kedaton
+240362|Lembang Asri
+240364|Marbella Suites Bandung
+240366|Mason Pine
+240367|Naval
+240370|Panorama Lembang
+240372|Perdana Wisata
+240373|Royal Apartment
+240374|Royal Dago
+240375|Royal Merdeka
+240376|Royal Palace
+240378|SanGria
+240379|Sari Ater
+240381|Scarlet Dago
+240382|Summer Hill
+240383|Topas Galeria
+240384|Club Bali Kota Bunga Resort & Spa
+240385|Alma
+240391|D'wangsa
+240394|Kaisar
+240396|Maharani
+240397|Mega Anggrek
+240400|Nam
+240401|Pondok Putri Duyung
+240402|Puri Denpasar
+240403|Sofyan Betawi
+240405|Sofyan Tebet
+240407|The Ritz Carlton Pacific Place
+240408|The Grand Palace
+240410|Gajahmada Graha
+240411|Kartika Graha
+240412|Regents Park
+240414|Royal Orchid Garden
+240416|Dafam Semarang
+240417|Metro Semarang
+240420|Pandanaran
+240421|D'Season
+240422|Java Paragon Hotel & Residence
+240423|Prime Royal
+240424|Santika Pandegiling
+240425|Santika Jemursari
+240427|Tunjungan
+240429|Atria Hotel and Conference Gading Serpong
+240431|Santika BSD Tangerang
+240433|Cakra Kembang
+240434|Gloria Aamanda
+240435|Istana Batik Ratna
+240436|Jentra Dagen
+240437|Joglo Plawang Boutique
+240438|Manohara
+240742|all seasons Bali Denpasar
+241706|Putri Ayu Cottages
+241707|Tamu Seseh
+241708|The Payangan Hideaway
+241709|The Purist Villas Ubud
+241710|The Rishi Villa Umalas
+241711|The Ayu Kintamani
+241712|Grand Bali Villa
+241713|Bali Diary
+241714|The Zen Villas
+241716|The Dampati Villas
+241717|Danima Resort Lombok
+241718|Ko-ko-mo Resort
+241720|Lombok Plaza & Convention
+241721|Novotel Bangka Golf & Convention Center
+241723|Grand Nanggroe
+241724|Lido Graha
+241725|KTM Resort
+241726|Aston Balikpapan Hotel & Residence
+241727|Blue Sky
+241728|Hawaii a Club Bali Resort
+241729|The Ardjuna Boutique Hotel & Spa
+241730|The Palais Dago
+241731|Aston Bogor Hotel & Resort
+241732|Grand Menteng
+241734|Patra Jakarta
+241740|Ibis budget Jakarta Cikini
+241741|Golden Boutique Angkasa
+241742|Grand Cempaka
+241743|Bidakara
+241744|Melawai 1
+241745|Park Jakarta
+241746|Amaris Mangga Dua Square
+241747|Bintang Griyawisata
+241748|Griyadi Blue Pacific Jakarta
+241749|Kinari Residence
+241750|Tanjung Lesung Bay Villas Hotel & Resort
+241751|Semesta Hotel & Convention
+242038|Amos Cozy
+243448|Semara Luxury Villa Resort
+243453|The Graha Cakra Bali
+243457|Golden Bay
+243459|Ibis Styles Yogyakarta
+243466|The Rishi Villa Balangan
+243782|The Adnyana Villas & Spa
+243783|The Genah Villa
+243789|Spazzio Bali
+243802|Eazy Suite
+243804|La Beau Kunti
+243807|Villa Aya
+243809|Vinly Villa Bali
+243811|D'Djabu Villas
+243814|The Club Villas
+243817|Bambu Indah Villa
+243819|Bumi Ubud Resort
+243820|Evita Villa
+243847|Sunset
+243857|Mercure Bali Harvestland Kuta
+243859|Amor Bali Villas & Spa Resort
+243880|Quest Kuta Central Park
+243881|Swiss-Belhotel Ambon
+243882|Swiss-Belhotel Tarakan
+243884|Swiss-Belhotel Kendari
+244036|Santika Makassar
+245669|Pullman Jakarta Central Park
+245950|Chandra Villas
+246199|Palm Garden Amed Beach & Spa Resort
+246227|Vue Palace
+246228|Turi Beach Resort
+246230|Rishi Candidasa Beach
+246231|Mahagiri Villas Sanur
+246233|The Catur Villa
+246453|VPL Studio Seaview
+246456|Centra Taum Seminyak Bali
+247036|Harris Sunset Road
+247039|Abian Boga
+247041|The One Boutique Villa
+247043|Villa Kayu Raja
+247045|The Bellezza Suites
+247059|Verona Palace
+247296|Nirwana Gardens Resort - Mayang Sari Beach
+247778|Royal Ambarrukmo Yogyakarta
+247784|Sudaji Guest House
+247785|Grand Whiz Kuta
+247786|Fivelements Puri Ahimsa
+247788|The Radiant Villa & Function Halls
+247789|Ameera Boutique
+247790|Black Penny Villas
+248246|Parigata Resort & SPA/ Parigata Villas Resort / Parigata Spa Villas
+249322|Pondok Sari
+249325|Favehotel Seminyak
+249326|U Paasha Seminyak Bali
+249332|Hermes Agro Resort
+249333|Bintan Agro Beach Resort & Oceanic Spa
+249335|Bintan Cabana Beach Resort
+249337|Aston Tanjung Pinang & Conference Center
+249343|Malaka Bandung
+249344|University Hotel Yogyakarta
+249345|Villa Queen Resort & Spa
+249763|Amaris Banjarmasin - South Kalimantan
+249765|Amaris Padjajaran - Bogor
+249766|Amaris Senen
+249768|Amaris Mangga Besar
+249774|Amaris Palangkaraya - Central Kalimantan
+249792|Santika Premiere Dyandra Hotel & Convention Medan
+249804|Santika Taman Mini Indonesia Indah
+249805|Santika Tasikmalaya
+249808|Santika Bengkulu
+249809|Santika Balikpapan
+249811|Santika Bangka
+249906|Sanur Paradise Plaza Hotel & Suites - Suites
+259394|Komodo Resort
+259647|United Colors of Bali
+259648|Gino Feruci Lovina
+259649|Ibis Bandung Trans Studio
+259650|Jadul Village Villa & Spa
+259651|I Hotel Batam
+259652|Grand Aston Yogyakarta
+259653|Grand Rosela
+259654|Keraton at The Plaza
+259655|Favehotel Wahid Hasyim
+259657|Sutan Raja
+259772|Pacific Palace
+259773|Pangeran Pekanbaru
+260044|Ibis Styles Bali Benoa
+260045|Sudamala Suites & Villas Sanur
+260046|Ombak Sunset
+260196|The Mulia / Mulia Resort / Mulia Villas
+260353|Bay Shore Hut's Lembongan
+260354|Matahari Cottage
+260355|Stevie G
+260599|Bali Relaxing Resort & Spa
+260743|Swiss-Belinn Balikpapan
+260744|Bliss Surfer Hotel
+260745|Cattleya Suite Condotel by Marbella
+260750|Villa Onga Bali
+260962|Poinciana Resort
+260963|Surya Shanti
+260964|Maca Villas and Spa
+260994|Centara Grand Villas Nusa Dua
+261068|The Mulia
+261096|Komaneka at Rasa Sayang
+261359|White Lotus Villas
+261360|Villa Kharista
+261361|The Rich Prada Bali
+261362|Hotel 61
+261461|Lumbini Villa & Spa
+261776|Bali Aroma Exclusive Villas
+261882|Tune Legian
+261883|Tune Kuta
+262261|Orchardz Jakarta
+263706|Fourteen Roses Beach Hotel
+263708|Kuta Station
+263711|Sun Island Hotel Kuta
+263712|The Khayangan Dreams Villas Kerobokan
+263715|Bali Rich Luxury Villas & Spa Ubud
+263775|Indah Manis
+263784|Kunti Villas
+263825|Puri Rai
+263844|The Seiryu Villas
+264331|The Club at The Legian
+265510|Sense Seminyak
+265530|Amaris Thamrin City
+265533|Bhuwana Ubud
+265535|Grand Mega Resort & Spa Bali
+265536|Maharani Beach
+266229|Kuta Indah Hotel
+268818|FuramaXclusive Villas & Spa
+277725|Home@36 Condotel
+277728|The Kuta Playa Hotel & Villas
+277742|Ananta Legian Hotel
+277758|Ibis Bali Kuta
+278462|Adi Cottage
+278610|L Hotel Seminyak
+278681|Aston Makassar & Convention Center
+280118|Favehotel Adi Sucipto
+282173|Y Resort Umalas
+282176|Favehotel Umalas
+283909|The Jayakarta Daira Palembang
+285142|The Akmani Legian
+285150|Aston Pluit Hotel & Residence
+285151|Harris Suites fX Sudirman Jakarta
+287165|Favehotel Solo Baru
+287526|Mercure Bali Nusa Dua
+292128|Le Meridien Bali Jimbaran
+292613|Nirwana Gardens Resort - Indra Maya Pool Villas
+295449|The Magani Hotel & Spa
+295563|The Rani Hotel & Spa
+295669|Sun Boutique
+295743|The Stones Legian Bali by Marriott
+295804|Fairmont Sanur Beach Bali
+295805|Samabe Bali Resort & Villas
+296260|The Trans Luxury Hotel
+296263|Tune Pasar Baru
+296266|One Eleven / 111 Resort
+296267|Seminyak Icon
+296268|KOI Hotel & Residence
+296320|Murex Dive Resort
+297699|Amertha Bali Villas
+300531|Bastianos Bunaken Dive Resort
+300842|The Lovina Bali
+301920|The Kuta Beach Heritage Hotel Bali - Managed By Accor
+302208|Jeeva Beloam Beach Camp
+302501|Pearl Beach Resort
+302503|Coconut Cottages
+309171|Bastianos Lembeh Dive Resort
+310900|IZESeminyak
+310911|Griya Sanur
+311027|Murex Bangka Resort
+354516|Amarterra Villas Bali Nusa Dua - MGallery Collection
+359393|Alaya Resort Ubud
+359935|Kejora Suites
+363235|Mulia Resort
+363236|Mulia Villas
+363365|Mahamaya
+363388|Rimba Jimbaran Bali
+363722|Horison Seminyak
+363723|Vasanti Seminyak Resort
+363740|Cipaganti Legian
+363741|Suris Boutique
+363742|Swiss-Belhotel Rainforest, Kuta
+363743|Swiss-Belinn Seminyak
+364141|Mutiara Bali Boutique Resort Villas & Spa - Mutiara's Resort
+365485|Fontana Bali
+366614|Melia Bali Garden Villas Hotel - Garden Villas
+366615|Meliá Bali Garden Villas Hotel - Melia Bali Hotel
+366630|Raja Ampat Dive Lodge
+366722|Vacation Club Villas Seminyak
+367024|Ibis Styles Bali Kuta Dewi Sri
+367029|Sahaja Sawah Villa Retreat And Spa
+367031|Uppala Suite Kerobokan
+367709|Ibis Budget Surabaya Airport Sidoarjo
+372562|Double Six Suites
+372804|Sofitel Bali Nusa Dua Beach Resort
+390896|Bunaken Island Resort
+390897|Pondok Baruna Lembongan
+391834|Papua Explorers Dive Resort
+392097|Grand Whiz Kelapa Gading
+392145|Nirwana Gardens Resort - Nirwana Resort
+392216|Harris Hotel Bukit Jimbaran
+392264|100 Sunset 2 Hotel
+392385|Favehotel Bypass Kuta
+399889|Ohana Kuta
+399907|Melià Bali Garden Villas Hotel
+399913|Parigata Resort & SPA/ Parigata Villas Resort / Parigata Spa Villas - Parigata Spa Villas
+399968|JS Luwansa Hotel & Convention Center
+399977|Maven Gloria Suites
+400075|Den Bukit Residence & Suite
+400101|Best Western Premier Sunset Road Kuta
+400102|Blue Karma
+400199|Gili Eco Villas
+400517|Le Grande Bali
+400684|The Chandi Boutique Resort & Spa
+400749|Budi Sun Resort
+401367|Froggies Lembeh
+401368|Froggies Bunaken
+404265|Swiss-Belresort Watu Jimbar
+404420|The Bene Kuta
+404563|Sanur Paradise Plaza Hotel & Suites
+405189|Golden Tulip Devins Hotel Seminyak
+405190|Golden Tulip Galaxy Banjarmasin
+405191|Royal Tulip Degreen Bandung
+405299|The Reef Gili Meno
+405866|Jambuluwuk Malioboro Boutique Hotel
+405909|Maya Sanur Resort
+405935|The Griya Villas
+406418|The Ritz Carlton Bali
+408588|Harper Kuta
+408590|Courtyard by Marriott Bali Seminyak
+409420|The Samaya Ubud - Bali
+411286|Bali Rani Hotel
+411472|Hevea Villas
+411473|Villa Flow
+411540|Asana Agung Putra
+411541|Sudamala Suites & Villas Senggigi
+412204|De'Uma Lokha Luxury Villas & Spa
+413919|Mandapa, a Ritz-Carlton Reserve

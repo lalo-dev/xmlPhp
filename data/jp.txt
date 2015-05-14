@@ -1,0 +1,1580 @@
+9137|Via Inn Asakusa
+11003|Metropolitan Tokyo
+13501|Grand Palace
+13733|Hakone Kowakien
+13820|Harumi Grand
+14335|Narita Tobu Airport
+14510|Hyatt Regency Osaka
+14881|International Kyoto
+15307|Keio Plaza Tokyo
+17925|Hotel New Hankyu Osaka
+17926|New Hiroden
+17929|New Miyako
+17932|New Otani Tokyo
+17937|Grand Prince Hotel New Takanawa
+18784|Park Hyatt Tokyo
+20346|Rihga Royal Tokyo
+21601|Shiba Park
+23189|Tokyo Prince
+24589|Yoshi-Ima Ryokan
+31789|Okura Tokyo
+37919|ANA Crowne Plaza Narita
+37920|Avanshell Kyoto
+37921|Imperial
+37922|Kyoto Tower
+37924|The Westin Miyako Kyoto
+37925|Best Western Premier Nagasaki
+37926|Sunroute Hiroshima
+37927|Imperial Osaka
+37928|New Tanda
+37929|Rihga Royal Osaka
+38110|Chinzanso
+38111|Grand Hyatt Tokyo
+42239|InterContinental Yokohama Grand
+42240|Pan Pacific Yokohama Bay Tokyu
+42242|Brighton Kyoto
+42243|Kyoto Hotel Okura
+42245|Kyoto Tokyu
+42246|Hilton Tokyo Narita Airport
+42247|Narita Excel Tokyu
+42248|Nikko Narita
+42249|Hilton Osaka
+42250|New Otani Osaka
+42251|Miyako Osaka
+42253|ANA InterContinental Tokyo
+42254|Dai-ichi
+42255|Four Seasons at Marunouchi
+42256|Hilton Tokyo
+42257|The Westin Tokyo
+42258|Grand Pacific Le Daiba
+47467|Keikyu EX Inn Shinagawa-Ekimae
+47468|Ryokan Gora-Kadan
+51349|Shinagawa Prince
+55081|Holiday Inn Express Shin Kobe
+57647|Royal Park
+57648|Aranvert
+57789|InterContinental Tokyo Bay
+57790|Courtyard Tokyo Ginza
+59162|Century
+65008|Mandarin Oriental Tokyo
+65792|Hilton Nagoya
+66459|Grand Park Otaru
+67121|Hilton Tokyo Bay
+67835|Radisson Narita Airport
+73150|Granvia Kyoto
+73151|New Hankyu
+73152|Karasuma
+73153|Sheraton Miyako
+76741|Conrad Tokyo
+77941|Wataya-Bessoh
+79181|Hyatt Regency Kyoto
+81288|Il Cuore Namba
+81289|Cross
+81914|Kyoto Royal & Spa
+81915|Grand Prince Hotel Takanawa
+84236|Ramada Osaka - geschlossen
+86572|Nikko Tokyo
+90258|Hyatt Regency Tokyo
+90259|Palace Hotel Tokyo
+92162|Club Med Sahoro
+99953|the b roppongi
+99954|the b akasaka
+103514|Monterey Kyoto
+103517|Celestine
+103518|Hotel Listel Shinjuku
+103519|Shinjuku Washington Hotel Main Building
+103520|Shinjuku Prince
+103521|The Prince Park Tower Tokyo
+103522|Sunroute Plaza Shinjuku
+103523|Fraser Place Shinjuku
+103548|Comfort Narita
+103550|Comfort Sapporo
+103889|Akasaka Excel Tokyu
+104024|ANA InterContinental Ishigaki Resort
+104026|JR Hotel Clement Takamatsu
+104027|ANA Crowne Plaza Fukuoka
+104029|ANA Crowne Plaza Hiroshima
+104030|Okura JR - Huis Ten Bosch
+104031|ANA Crowne Plaza Kanazawa
+104032|Crowne Plaza ANA Kyoto
+104033|ANA InterContinental Manza Beach Resort
+104035|ANA Nagasaki Gloverhill
+104037|ANA Okayama
+104039|ANA Crowne Plaza Osaka
+104040|ANA Sapporo
+104041|ANA Crowne Plaza Toyama
+104043|ANA Wakkanai
+104172|Asahikawa Terminal
+104173|Asakusa View
+104181|Associa Shizuoka
+104182|Associa Toyohashi
+104291|Bandai Silver
+105621|Capitol Tokyu
+105721|Centraza Hakata
+105732|Century Southern Tower
+105734|Cerulean Tower Tokyu
+105836|Grand Fresa Akasaka
+105837|Chisun Grand Sapporo
+105839|Chisun Inn Asakusa
+105840|Chisun Inn Nagoya
+105841|APA Hotel TKP Sapporo Ekimae
+105843|Nest Sapporo Ekimae
+105845|Chisun Shinsaibashi
+105846|Chisun Utsunomiya
+105986|Comfort Akita
+106005|Comfort Hotel Central International Airport
+106022|Comfort Hakata
+106023|Comfort Himeji
+106024|Comfort Inn Hiroshima Heiwa-Odori
+106025|Comfort Hiroshima Otemachi
+106184|Comfort Inn Kyoto Gojo
+106287|Comfort Inn Suzuka
+106319|Comfort Inn Kochi
+106320|Comfort Komatsu
+106322|Comfort Koriyama
+106336|Comfort Nagasaki
+106337|Comfort Nagoya Chiyoda
+106339|Comfort Oita
+106340|Comfort Okayama
+106342|Comfort Osaka Shinsaibashi
+106359|Comfort Sakai
+106360|Comfort Sendai East
+106361|Comfort Inn Sendai West
+106373|Comfort Inn Tendo
+106374|Comfort Tokyo Kiyosumi - Shirakawa
+106386|Comfort Yokohama Kannai
+106554|Dai Ichi Annex
+106555|Dai Ichi Inn Ikebukuro
+106556|Dai Ichi Tokyo Seafort
+106768|Dream Gate Maihama
+106797|East 21 Tokyo
+107240|Ginza Nikko
+107369|Grand Hyatt Fukuoka
+107417|Granvia Hiroshima
+107420|Granvia Osaka
+107421|Granvia Wakayama
+107534|Heiannomori Kyoto
+107567|Highland Resort Hotel & Spa
+107585|Grand Prince Hiroshima
+107741|President Mito
+107970|Hyatt Regency Fukuoka
+107972|Hyatt Regency Hakone Resort & Spa
+108070|Isezakicho Washington
+108088|JAL City Hiroshima
+108089|JAL City Kannai Yokohama
+108094|JAL City Naha
+108095|JAL City Sendai
+108096|JAL City Tamachi Tokyo
+108097|Hotel Wing International Premium Tokyo Yotsuya
+108098|Hilton Fukuoka Sea Hawk
+108136|JR Tower Nikko Sapporo
+108205|Kobe Meriken Park Oriental
+108225|Kumejima Island Eef Beach
+108231|Grand Prince Hotel Kyoto
+108316|Laforet Tokyo
+108679|Marriott Resort & Spa Okinawa
+108837|Mercure Ginza Tokyo
+109009|Metropolitan Edmont
+109014|Metropolitan Sendai
+109157|Monterey Ginza
+109197|Tokyu Hotel
+109210|Nara
+109212|Narita Port
+109229|New Otani Hakata
+109230|New Otani Inn Tokyo
+109231|New Otani Inn Yokohama
+109234|New Otani Inn Sapporo
+109244|Nikko Alivila / Yomitan Resort Okinawa
+109248|Nikko Fukuoka
+109250|Nikko - Huis Ten Bosch
+109252|Nikko Kanazawa
+109253|Nikko Kansai Airport
+109257|Nikko Naha Grand Castle
+109258|Nikko Nara
+109260|Nikko Yaeyama
+109426|Oakwood Residence Aoyama
+109427|Oakwood Residence Azabujyuban
+109443|Hilton Odawara Resort & Spa
+109457|Okura Fukuoka
+109458|Okura Kobe
+109460|Okura Sapporo
+109461|Okura Tokyo Bay
+109508|Otsu Prince
+109528|Palace Hakone
+109529|Palace Omiya
+109530|Palace Tachikawa
+109583|Park Tokyo
+109609|Pearl City Kobe
+109668|Plaza Kobe
+109693|Portopia
+109734|The Prince Sakura Tower Tokyo
+109864|Quality Kobe
+109919|Quality Toyokawa
+110018|Bellevue Garden Kansai International Airport
+110097|Renaissance Naruto Resort
+110098|Renaissance Okinawa Resort
+110350|Rose Garden Shinjuku
+110351|Rose Yokohama
+110638|Royal Park Shiodome Tower
+110676|Yokohama Sakuragicho Washington
+110712|Sannomiya Terminal
+110788|Seiyo Ginza
+110829|Sheraton Grande Ocean Resort
+110832|Sheraton Sapporo
+110834|Shibuya Excel Tokyu
+110835|Shin Yokohama Prince Hotel
+110864|Vessel Hotel Fukuoka Kaizuka
+110867|Sleep Inn Ishigaki Island
+110868|Sleep Inn Kanda Kitakyushu Airport
+110918|Mercure Nagoya Cypress
+111026|InterContinental The Strings Tokyo
+111049|Sun Marina
+111080|Sunshine City Prince
+111094|Swissôtel Nankai
+111231|The Peninsula Tokyo
+111242|The Ritz-Carlton Osaka
+111243|The Ritz-Carlton Tokyo
+111308|Tokyo Bay Ariake Washington
+111309|Tokyo Dome
+111311|Tokyu Inn Shinbashi Atagoyama
+111707|Yokohama Bay Sheraton Hotel & Towers
+111711|Mercure Yokosuka
+111735|ANA Kumamoto New Sky
+111737|Star Gate Hotel Kansai Airport
+111745|ANA Kushiro
+111818|Laguna Garden
+124629|Rihga Royal Kyoto
+124630|Sunroute Okayama
+128889|Rhino
+129620|Suginoi
+129622|Washington
+129623|Sunroute Hakata
+129624|Hakata Excel Tokyu
+129625|The Prince Hakone
+129626|Ark
+129627|Chisun Hiroshima
+129628|Oriental Hiroshima
+129630|Excel Tokyu
+129631|Plaza
+129632|Maiko Villa
+129633|Kobe Bay Sheraton Hotel & Towers
+129636|Court Shijo
+129638|Victoria Inn
+129639|Kanko
+129640|com's Nagoya
+129641|International Nagoya
+129643|Moonbeach
+129644|Rizzan Sea Park Tancha Bay
+129645|Zampamisaki Royal
+129646|Okinawa Kariyushi Beach Resort Ocean Spa
+129648|Hotel Osaka Baytower
+129649|Laforet Shin
+129650|Toko City Umeda
+129651|Chisun Inn Umeda
+129652|Dai-ichi
+129653|Flexstay Shinsaibashi Inn
+129655|APA Hotel Osaka-Temma
+129659|APA Villa Hotel Yodoyabashi
+129660|Monterey
+129662|Sunroute Umeda
+129663|Il Monte
+129664|Weekly Mansion Otemae
+129666|Leopalace
+129669|Green Hotel Takayama
+129672|Shinjuku New City
+129673|Hotel Sunlite Shinjuku
+129674|Route-Inn Tokyo Asagaya
+129676|Pearl Kasai
+129678|Mitsui Garden Ginza Premier
+132287|The Windsor Toya Resort & Spa
+132292|Leopalace
+132293|Loisir Asahikawa
+132297|APA Hotel & Resort Tokyo Bay Makuhari
+132298|New Otani Makuhari
+132300|Crowne Plaza ANA Chitose
+132301|Wing International Chitose
+132302|com's New Chitose Airport
+132304|Sunlife23
+132305|Canal City Washington
+132306|Miyako Hakata
+132307|Takakura
+132308|Chisun Hakata
+132310|Il Palazzo
+132312|Sky Court Hakata
+132315|Gifu Miyako Hotel
+132316|Washington Plaza
+132326|Tokyu Hotel
+132328|Okura Act City
+132330|Court
+132333|Plaza
+132336|APA Hotel Himejieki-Kita
+132337|Tokyu Bizfort
+132340|Rihga Royal Hiroshima
+132345|Rembrandt Kagoshima
+132346|Tokyu Inn
+132348|Castle Inn
+132352|Sky Court
+132353|Sunroute Kawasaki
+132354|Kawasaki Nikko
+132357|Dai-ichi
+132358|Rihga Royal Kokura
+132361|Sunroute Sopra
+132363|Chisun Kobe
+132369|Chisun
+132372|Washington Plaza
+132374|Ark
+132381|Watazen Ryokan
+132382|Mystays Shijo
+132383|APA Hotel Kyoto-Gion
+132384|Hearton Kyoto
+132385|Dai-ni Tower
+132387|Nikko Princess Kyoto
+132389|Alpha
+132396|Toko City
+132397|Tokyu Inn
+132399|Tokyu Inn
+132402|Holiday Inn ANA Resort Miyazaki
+132405|Sunroute Nagano
+132409|JAL City Nagasaki
+132415|ANA Crowne Plaza Grand Court Nagoya
+132417|Marriott Associa
+132418|Cypress Garden
+132419|Hamilton
+132420|APA Hotel Nagoya-Nishiki
+132421|Tokyu Inn
+132422|The Westin Nagoya Castle
+132423|Royal Park Inn
+132424|Leopalace
+132427|Sky Court
+132428|International Garden
+132431|Marroad International
+132432|Mercure Narita
+132434|Chisun & Conference Center Niigata
+132435|Sunroute Niigata
+132437|Leopalace
+132439|Nikko Niigata
+132440|ANA Crowne Plaza Niigata
+132442|Novotel Koshien Osaka West
+132444|Manseikaku Ryokan
+132445|Numazu Riverside
+132448|Granvia Okayama
+132449|Royal
+132450|Okayama International
+132452|Okinawa Port
+132453|Terrace
+132455|ANA Crowne Plaza Okinawa Harborview
+132456|Loisir Hotel & Spa Tower Naha
+132457|Miyako
+132458|Jal Private Resort Okuma
+132463|Castle
+132464|Universal Port
+132465|Namba Washington Plaza
+132466|The Westin Osaka
+132467|APA Villa Hotel Tanimachi 4 Chome-Ekimae
+132468|Rihga Nakanoshima Inn
+132469|Ark
+132470|Shinosaka
+132472|Plaza Osaka
+132473|Hankyu International
+132474|Tokyu Inn
+132475|Hotel Claiton Shin-Osaka
+132478|Lutheran
+132480|Shin-osaka Washington Plaza
+132481|Keihan Universal Tower
+132484|Chisun Shinosaka
+132485|Monterey La Soeur
+132486|Namba Oriental
+132487|Nikko Osaka
+132489|Royal Oak
+132490|Hotel Agora Regency Sakai
+132494|Royton
+132495|Renaissance
+132496|Jozankei Milione Ryokan
+132497|Jasmac Plaza
+132498|Park
+132499|Sapporo Grand
+132500|Excel Tokyu
+132501|Novotel Sapporo
+132502|Tokyo Dome
+132503|Sapporo Prince
+132507|Holiday Inn Ana Sapporo Susukino
+132508|Keio Plaza Sapporo
+132510|Holiday Inn ANA Sendai
+132512|Koyo Grand
+132516|Chisun Sendai
+132520|Shima Kanko The Classic
+132521|Shimoda Tokyu
+132525|Shin-Osaka Esaka Tokyu Inn
+132529|Associa Takayama Resort
+132530|Hida Plaza
+132531|Washington Plaza
+132532|Best Western Takayama
+132534|Kokusai
+132537|Fukuoka Kaikan
+132538|Green Korakuen
+132542|Pearl Ryogoku
+132543|Shibuya Tokyu Inn
+132544|Pearl Kayabacho
+132545|Tokyo Asakusabashi Belmont
+132546|Best Western Shinjuku Astina
+132547|Chisun Hamamatsucho
+132548|Yaesu Terminal
+132549|Dai-ichi Ryogoku
+132550|Omori Tokyu Inn
+132552|Kichijoji Tokyu Inn
+132554|Akihabara Washington
+132555|Sunroute Asakusa
+132557|Universe Nihombashi Kayabacho
+132558|the b sangenjaya
+132560|Nihonbashi Villa
+132561|Princess Garden
+132562|Monterey Hanzomon
+132564|Tokyo Inn
+132565|Tokyo Grand
+132567|Toko
+132570|Shibuya Tobu
+132571|Nihonbashi Saibo
+132572|Bellclassic
+132573|Smile Tokyo Asagaya
+132574|Haneda Excel Tokyu
+132575|JAL City Haneda Tokyo
+132576|APA Hotel Nishi-Azabu
+132577|APA Hotel Tokyo-Itabashi
+132579|Mitsui Garden Kamata
+132580|Lungwood
+132581|Chisun Ueno
+132582|Sky Court Koiwa
+132583|Akasaka Yoko
+132584|Rembrandt Inn Nishikasai
+132587|Smile Asakusa
+132589|Asia Center Of Japan
+132590|Vista Hotel Kamata Tokyo
+132592|Monterey Akasaka
+132598|Senri Hankyu
+132599|Sunroute Ueda
+132601|Sheraton Grande Tokyo Bay
+132603|Tokyu Inn
+132607|New Grand
+132609|Camelot Japan
+132610|Live Max Yokohama-Tsurumi
+132611|Breezbay
+132613|Mystays
+132614|Monterey
+134333|Hilton Niseko Village
+137019|Tobu
+137035|Nikko Himeji
+137062|Monterey Edelhof
+137069|Best Western Newcity Hirosaki
+137076|APA Hotel Karuizawa-Ekimae
+137087|Best Western Joytel Osaka
+137100|Monterey
+137112|Keio Plaza Hachioji
+137113|Loisir Hakodate
+137114|APA Hotel Naha
+137146|Kansai Airport Washington
+137190|Manseikaku Lakeside Terrace
+137193|Associa Shin-Yokohama
+137197|Rembrandt Atsugi
+137200|Chisun Inn Esaka
+137206|ARK
+137218|City Route
+137223|Port
+137229|Mitsui Garden Osaka Yodoyabashi
+137288|Hotel Ascent
+137328|Best Western Kansai Airport
+137365|Loisir Joetsu
+137379|Ryokan Daiichi Takimotokan
+137390|Hotel Resol Gifu
+137408|Resol Hakodate
+137424|Kushiro Prince
+137440|Kokusai
+137443|APA Hotel Kyoto-Ekimae
+137735|The Green Leaf Niseko Village
+137880|Izumiya Ryokan
+138310|Karuizawa Prince East
+138392|APA Hotel Kyoto-Eki-Horikawadori
+138418|Nikko Toyohashi
+138434|APA Hotel Osaka-Higobashi-Ekimae
+138436|Crowne Plaza ANA Kobe
+138463|Gracery Ginza
+138537|Vista Hotel Sapporo Nakajimakohen
+139663|Kamenoi Beppu
+142070|Ryokan Gion-Hatanaka
+142081|Kinugawa Onsen Ryokan
+142090|Marunouchi
+142093|Hotel Com's Osaka - geschlossen
+142100|Oak
+142107|Seaside Ryokan
+142111|Kisyu Shirahama Onsen Musashi
+142117|Todaya Ryokan
+142118|Tokyu Resort
+142119|Tozankaku Ryokan
+145019|Somerset Azasu East Tokyo
+145133|Somerset Roppongi
+159244|Moriguchi Royal Pines
+159245|Oakwood Residence Roppongi T-Cube
+159247|Brighton City Osaka Kitahama
+159248|Comfort Tokyo Higashi Nihombashi
+159249|Azur Takeshiba
+159250|Aki Grand
+159252|Loisir Ogaki
+159254|Comfort Saga
+159256|Shin-Osaka Station Annex
+159258|Comfort Shin Yamaguchi
+159259|Chisun Inn Kagoshima
+159260|Comfort Yamagata
+159263|Kitano Arms
+159265|Comfort Hakodate
+159267|Sunroute Shinagawa Seaside
+159270|The Westin Awaji Island Resort & Conference Center
+159273|Comfort Tsubamesanjo
+159274|Kawagoe Prince
+159276|Comfort Kokura North
+159279|Comfort Nara
+159280|Comfort Niigata
+159282|Chisun Grand Nagasaki
+159283|Comfort Tomakomai
+159286|Sleep Inn Miyakonojo
+159287|Chisun Shinagawa West
+159288|Screen Kyoto
+159290|Loisir Yokkaichi
+159292|Ginza Grand
+159294|Oakwood Premier Tokyo Midtown
+159299|Daiwa Roynet Tokyo Osaki
+159304|Metropolitan Marunouchi
+159451|Niseko Northern Resort Annupuri
+159452|Weekly Mansion Tokyo at Asakusa
+159454|Nikko Northland Obihiro
+159455|Weekly Mansion Tokyo at Akasaka
+182500|Citadines Tokyo Shinjuku
+187695|Monterey Amalie
+187696|Monterey Kobe
+201597|Toyocho Vista
+201599|Agora Place Asakusa
+202389|ibis Tokyo Shinjuku
+202537|Villa Fontaine Tamachi
+202540|Villa Fontaine Roppongi
+202541|Villa Fontaine Shiodome
+203176|Sutton Place Hakata
+203177|Shangri-La Tokyo
+203178|Cityhotel Lonestar Shinjuku
+203179|Arietta & Trattoria Gotanda
+203180|Arietta & Osteria Osaka
+218566|the b akasaka-mitsuke
+218783|The B Ochanomizu
+220888|Yanagibasi Tokyo
+227348|Ryokan Senhime Monogatari
+227488|Kyoto Garden Ryokan Yachiyo - Kyoto
+227943|BlueWave Inn
+227944|Hearton Higashi Shinagawa
+227945|Ginza Creston
+227946|Villa Fontaine Roppongi Annex
+227947|Villa Fontaine Shinjuku
+227948|Villa Fontaine Ueno
+227949|Villa Fontaine Otemachi
+227950|Villa Fontaine Kudanshita
+227988|La Suite Kobe Harborland
+228445|the b nagoya
+228446|Nishi Shinjuku
+228448|Sun Members Tokyo Shinjuku
+228449|Takanawa Keikyu
+228450|Yaesu Fujiya
+229147|St. Regis Osaka
+229148|The Westin Sendai
+229149|Mercure Sapporo
+230415|Nagoya Crown
+230794|Villa Fontaine Hakozaki
+232023|the b hachioji
+232193|B:Conte Ariake
+232194|Hundredstay Tokyo Shinjuku
+232195|Keio Plaza Tama
+232875|Mitsui Garden Kyoto Shijo
+233345|Grand Intelligent
+234250|APA Hotel Fukuoka - Watanabe Dori
+234251|Central Fukuoka
+234252|Court Hakata-ekimae
+234256|IP Fukuoka
+234269|Kinsuikan
+234270|Mitsui Garden Hiroshima
+234272|Miyajima Grand Arimoto
+234273|Miyarikyu
+234280|Beach Sunshine
+234287|EM Welcom Center & Costa Vista Okinawa
+234289|Ishigaki Resort Grandvrio
+234292|KAFU Resort Fuchaku Condo
+234341|The Ritz-Carlton Okinawa
+234347|Okinawa Sun Coast
+234350|Smile Okinawa Naha
+234351|Oriental Hills Okinawa
+234352|Pacific Okinawa
+234353|Resort Kume Island
+234355|Resonex Nago
+234356|Rocore Naha
+234359|Route-Inn Naha Maejima
+234361|Seaside The Beach
+234362|Spa Resort Exes
+234363|Sun Okinawa
+234366|Atta Terrace Club Resort
+234368|Tokyo Daiichi Okinawa Grand Mer Resort
+234369|Tokyu Bizfort Naha
+234374|Gracery Tamachi
+234376|Grand City
+234385|Remm Akihabara
+234394|Sunroute Shinbashi
+234395|Sunroute Takadanobaba
+234397|the b ikebukuro
+234399|Tokyo Ueno Touganeya
+234401|Toshi Center
+234402|Unizo Asakusa
+234404|Unizo Shinbashi
+234429|APA Hotel Keisei Narita-Ekimae
+234431|Riverge Akebono
+234432|Ark Hakata Royal
+234433|Court Tenjin
+234434|Garden Palace
+234435|Hummingbird Chuo Inn
+234436|Monterey Le Soeur
+234437|Sunline
+234440|Garden Palace
+234443|Jal City
+234446|Suizenji Comfort
+234448|Monterey Nagasaki
+234449|Guesthouse Nara Komachi
+234460|Ginza Capital Hotel - Main & Annex
+234463|Mitsui Garden Yotsuya
+234479|Niwa
+235051|Citadines Karasuma-Gojo Kyoto
+235052|Ryokan Misono Kurashiki
+235056|Hearton Nishi Umeda
+235058|Hearton Minami Senba
+235059|Hearton Shinsaibashi
+235060|Star Yokohama
+235318|Blue Wave Inn Sapporo
+236626|Urvest Ohmori
+236627|New Star Ikebukuro
+236628|Mitsui Garden Kashiwa
+236630|Hearton Kita Umeda
+237525|Toyoko Inn Kanazawa Kenrokuen Korinbo
+237526|Toyoko Inn Tokyo Kanda Akihabara
+237527|Toyoko Inn Yokohama Stadium-mae Shinkan
+237528|Toyoko Inn Narita Kuko
+237529|Toyoko Inn Sendai Chuo Iti-chome Iti-ban
+237530|Toyoko Inn Kyoto Gojo-Omiya
+238157|Village Kyoto
+238160|Toyoko Inn Tokyo Tsukuba Express Asakusa-eki
+238161|Toyoko Inn Tokyo Nihon-bashi
+238167|Toyoko Inn Sapporo Susukino Minami
+238168|Toyoko Inn Osaka JR Noda Ekimae
+238170|Toyoko Inn Nagoya Sakae
+238209|Monterey Ginza La Soeur
+238753|Villa Fontaine Shinsaibashi
+238755|City N.U.T.S
+238759|Livemax Shin Osaka
+238760|Shin Osaka Hotel
+239412|Gracery Sapporo
+239414|Toyoko Inn Sapporo-eki Nishi-guchi Hokudai Mae
+239415|Toyoko Inn Kobe Sannomiya 2
+239416|Toyoko Inn Tokyo Machida-eki Odakyu-sen
+239417|Toyoko Inn Tokyo Ikebukuro Kita-guchi 2
+239418|Toyoko Inn Tsukuba Express Yashio-eki
+239421|Ascent Shinjuku
+239422|Shiba Daimon
+239424|UNIZO Kyoto
+239425|Namba Dotonbori
+239427|Cityplaza Osaka & Spa
+239430|Osaka Fujiya
+239433|Chisun Inn Osaka Hommachi
+240290|Toyoko Inn Fujisan Mishima-eki
+240291|Toyoko Inn Hiroshima-ekimae Ohashi
+240292|Toyoko Inn Yokohama Tsurumi-eki Higashi
+240293|Toyoko Inn Tokyo Haneda Kuko No.1
+240294|Toyoko Inn Tokyo-eki Shin-Ohashi Mae
+240295|Toyoko Inn Tokyo Shinagawa Aomono-yokocho-eki
+240296|Toyoko Inn Tokyo Tozai-Sen Nishi-kasai
+240393|Vista Grande Osaka
+240395|Arrow Osaka
+240399|Asuka
+240404|Sardonyx Ueno
+240477|Shin-Osaka Station Honkan
+241200|Cross Sapporo
+241362|Club Med Kabira Beach
+241687|Toyoko Inn Osaka Umeda Higashi
+241688|Toyoko Inn Yodoyabashi-eki Minami
+242203|Aso Villa Park
+242206|Francs
+242214|Daiwa Roynet Hakata-Gion
+242216|Evergreen Marinoa
+242217|Fukuoka Floral Inn Nishinakasu
+242219|Hakata Green Hotel Tenjin
+242221|Heiwadai Tenjin
+242223|Kkr Hakata
+242224|Leopalace Hakata
+242225|Luigans
+242226|Mystays Inn Fukuoka Tenjin Minami
+242229|Premier Plaza
+242230|President Hakata
+242231|Smile Hakata
+242232|the b hakata
+242236|Grantia Fukuyama Spa Resort
+242238|Okada
+242239|Resorpia Hakone
+242242|Yumoto Fujiya
+242243|Hiroshima Intelligent Annex
+242244|Daiwa Roynet Kawasaki
+242246|Crown Palais Kitakyushu
+242247|Crown Palais Kokura
+242248|Sunsky
+242249|Arima Onsen Kinzan
+242251|Tousen Goshobo
+242253|Maruko
+242257|Kanucha Resort
+242258|New Otani Saga
+242261|Best Western Sendai
+242262|com's Sendai
+242263|Monterey Sendai
+242265|Pearl City Sendai
+242267|Sendai Washington
+242271|Oriental Tokyo Bay
+242273|Tokyo Bay Tokyu - geschlossen
+242274|Warakuen
+242278|Court Shinyokohama
+242279|Daiwa Roynet Shin-Yokohama
+242280|Yokohama Kokusai
+244091|Garden Palace
+244093|Kita
+244095|Jozankei Grand Zuien Ryokan
+244096|Jozankei Shogetsu Grand Ryokan
+244097|Watermark
+244098|Keihan Sapporo
+244099|Piena Kobe
+244100|Resol Trinity
+244101|Mystays Tenjin
+244102|Prince
+244106|Urban
+244107|Gion Fukuzumi Ryokan
+244110|Matsui Honkan Ryokan
+244111|Keihan Kyoto
+244112|Hirashin Ryokan
+244115|Castle Plaza
+244117|Yamatoya Honten Ryokan
+244118|Kaneyoshi Ryokan
+244119|Mystays Inn Sakaisuji Honmachi
+244120|U Community
+244127|Hillarys
+244128|Monterey Grasmere
+244129|Sunlife
+244131|Mielparque
+244132|Keihan Universal City
+244133|Super Hotel Osaka & Natural Hot Springs
+244134|Garden Palace
+244137|Ace Inn
+245185|Daiwa Roynet Oita
+246186|Wing International Himeji
+246187|Wing International Sagamihara
+246188|Wing International Meguro
+246189|Wing International Yokohama-Kannai
+246190|Grand Central
+247650|Okinawa NaHaNa Hotel
+247720|Vessel Inn Hakata Nakasu
+247721|Best Western Naha Inn
+247722|Best Western Fino Oita
+247724|Best Western Fino Osaka Shinsaibashi
+247725|Best Western Hotel Fino Sapporo
+247726|Best Western Sapporo Nakajima Koen
+247773|the b kobe
+247774|Machiya Residence Inn - Kohakuan / Shikokuan / Tokiwa-an
+247775|Grand Arc Hanzomon
+247776|Sakura Hatagaya
+249222|Yashiro Grand
+249483|Smile Mito
+249484|Sakura Hostel Asakusa
+260714|Garden Palace & Kansai Airport SPA
+260720|Consort Shin Osaka
+260721|APA Villa Hotel Nagoya Marunouchi-Ekimae
+260722|Trusty Tokyo Bay Side
+260953|The Tokyo Station
+260954|B:Conte Asakusa
+261870|Candeo Fukuyama
+261871|Candeo Kikuyo
+261872|Candeo Ozu
+261873|Candeo Sano
+261874|Candeo Shimada
+261875|Candeo Kameyama
+261876|Candeo Chino
+261877|Candeo Handa
+261878|Candeo The Hakata Terrace
+264383|APA Hotel Ningyocho-Ekikita
+264384|Art Hamamatsucho
+264385|Ayase Kokusai
+264386|Edoite Annex
+264387|APA Hotel Tokyo-Shiomi-Ekimae
+264389|APA Hotel Tokyo-Ojima
+265229|APA Hotel Ikebukuro-Eki-Kitaguchi
+265232|APA Villa Hotel Akasaka-Mitsuke
+265234|Astil Ueno
+265240|Centurion Hotel Residential Akasaka
+265243|Dormy Inn Akihabara
+265244|Dormy Inn Suidobashi
+265245|Dormy Inn Tokyo-Hatchobori
+265246|Hotel MyStays Kanda
+265248|Ginza Kokusai
+265253|Avanshell Akasaka
+265258|Hotel Kizankan
+265259|Hotel Live Max Akihabara
+265262|New Ueno
+265263|Ohedo
+265264|Grand Park Hotel Panex Tokyo
+265265|Resol Ikebukuro
+265266|Hotel Ryumeikan Tokyo
+265268|Sunroute Higashi Shinjuku
+265269|Sunroute Patio Omori
+265270|Chisun Inn Kamata
+265277|Kamogawa Inn Nihonbashi
+265278|Kamogawa Inn Sugamo
+265281|KKR Hotel Tokyo
+265284|Lotte City
+265285|Mitsui Garden Ueno
+265289|Ochanomizu Shoryukan
+265298|Sakura Fleur Aoyama
+265301|Sakura Ikebukuro
+265303|Shinjuku Kuyakushomae Capsule Hotel
+265304|Shinjuku Park Hotel
+265307|Smile Hamamatsucho
+265308|Solaria Nishitetsu Ginza
+265309|Starplaza Ikebukuro
+265313|Super Hotel Ueno-Okachimachi
+265315|Sutton Place Ueno
+265317|Tateshina
+265318|Tokyo Kiba Hotel
+265319|Tokyo Plaza
+265321|Tokyu Stay Gotanda
+265322|Tokyu Stay Higashi-Ginza
+265323|Tokyu Stay Monzen-Nakacho
+265324|Tokyu Stay Nihombashi
+265327|Tokyu Stay Nishi-Shinjuku
+265328|Tokyu Stay Shibuya Shin-Minamiguchi
+265331|Tokyu Stay Ikebukuro
+265332|Tokyu Stay Kamata
+265336|Tokyu Stay Shimbashi
+265367|Ueno First City Hotel
+265376|Villa Fontaine Hamamatsucho
+265377|Villa Fontaine Hatchobori
+265378|Villa Fontaine Jimbocho
+265379|Villa Fontaine Kayabacho
+265381|Wing International Ikebukuro
+265762|Best Western Nagoya
+269348|Tokyu Stay Suidobashi
+269349|Tokyu Stay Aoyama Premier
+269350|Wing International Korakuen
+269351|Dormy Inn Asakusa
+269352|Dormy Inn Meguro-Aobadai
+269353|Tokyu Stay Shibuya
+269354|Dormy Inn Shinsaibashi
+269355|Wing International Shin-Osaka
+269357|Dormy Inn Umeda Higashi
+269358|Ichiei
+272527|Dormy Inn Nagoya
+272529|Dormy Inn Hiroshima
+274123|Dormy Inn Kanazawa
+275298|Dormy Inn Soga
+275815|The Beach Tower Okinawa
+275827|Dormy Inn Sapporo Annex
+275828|Dormy Inn Sapporo
+276436|La Vista Hakodate Bay
+276437|Dormy Inn Matsumoto
+276589|Dormy Inn Kurashiki
+276590|Dormy Inn Toyama
+276708|Miyama Ouan
+276827|La Vista Daisetsuzan
+278859|Shibuya Creston Hotel
+278861|Palace Studio Kojimachi
+278862|Diamond
+278863|APA Hotel Hatchobori - Ekiminami
+278864|Empire Shinjuku
+278866|Khaosan Tokyo Kabuki
+278867|Khaosan Tokyo Samurai
+278868|R&B Hotel Ueno Hirokoji
+278869|Best Hotel
+278870|Kadoya
+278871|Pearl Hotel Yaesu
+278872|Sotetsu Fresa Inn Hamamatsucho Daimon
+278875|Keio Presso Inn Kayabacho
+278876|Capsule Hotel and Sauna Cosmo Plaza Akabane
+278877|APA Hotel Kodemmacho-Ekimae
+278878|APA Hotel Tokyo-Kudanshita
+278879|Nishitetsu Inn Nihonbashi
+278882|Daiwa Roynet Tokyo Akabane
+278883|Concieria Azabu Juban
+278884|Tokyo Green Palace
+278886|APA Hotel Kanda-Eki-Higashi
+278887|Sotetsu Fresa Inn Tokyo Kyobashi
+278890|Coco Grand Ueno Shinobazu
+278893|Tachikawa Grand Hotel
+278898|THE GATE HOTEL KAMINARIMON by HULIC
+278900|Aizuya Inn
+278904|E Hotel Higashi Shinjuku
+278909|APA Hotel Roppongiichome-Ekimae
+278914|Uraku Aoyama
+278922|APA Hotel Nihonbashi-Hamachoeki-Minami
+278926|Nakano Sunplaza Hotel
+278928|Park Avenue
+278929|Concieria Shimbashi
+278930|Soho Asakusa Hotel
+278931|Palace Studio Shinjuku Parkside
+278932|Fukudaya
+278933|Hokke Inn Nihonbashi
+278937|R&B Hotel Kamata Higashi-guchi
+278939|APA Hotel Shimbashi-Onarimon
+278940|Arca Torre Roppongi
+278941|Concieria Shiba Koen
+278942|Forest Hongo
+278943|Dormy Inn Premium Shibuya Jingumae
+278945|FlexStay Kameido Inn
+278946|APA Hotel Tsukiji-Eki-Minami
+278947|Nishitetsu Inn Shinjuku
+278948|Hotel Sunline Kamata
+278949|Nishitetsu Inn Kamata
+278951|R&B Hotel Tokyo Toyo-cho
+278952|Tokyu Stay Yoga
+278953|Tokyu Stay Yotsuya
+278954|Tokyu Stay Meguro-Yutenji
+278957|Gion Machiya
+278961|Kanra Kyoto
+278962|Kyoyadoya Suzaku Kikyou-an
+278965|Centnovum Kyoto
+278969|Gagakuan
+278973|Shoubuan Machiya Residence Inn
+278977|Almont Hotel Kyoto
+278985|Ranzan
+278986|Machiya Residence Inn - Tokiwa-an
+278988|Gion Maifukan
+278989|Ryokan Nenrinbo
+278991|Sunroute Kyoto
+278992|R&B Hotel Kyoto-eki Hachijyo-guchi
+278997|Koto Hotel Kyoto
+279000|Sakanoue
+279001|Motonago
+279002|Honnoji
+279003|Kagariya
+279005|APA Villa Hotel Kyoto-Ekimae
+279006|Kyoto Hotel Sanoya Inn
+279008|Dormy Inn Premium Kyoto Ekimae
+279009|Station Ryokan Sparkling Dolphins Kyoto
+279013|Ryokan Yoshida-sanso
+279014|Smile Kyoto-Shijo
+279015|Kyoto Garden Palace
+279019|Daiwa Roynet Kyoto Shijo Karasuma
+279021|Ryotei Rangetsu
+279022|Wakamiya
+279023|Live Max Kyoto Ekimae
+279024|Kyoyadoya Kurenai-an
+279026|Châtelet Inn Kyoto
+279030|Mitsui Garden Kyoto Sanjo
+279031|Iroha Ryokan
+279032|Kyoto City Hotel
+279033|Daiwa Roynet Kyoto-Hachijoguchi
+279034|Gojo Machiya
+279038|Gion Shinmonso
+279043|The Palace Side Hotel
+279044|Royal Park Hotel The Kyoto
+279046|Hokke Club Kyoto
+279047|Kyoto Garden
+279052|Matsui Bekkan Hanakanzashi
+279053|Sanbounishinotouin-cho Machiya
+279055|Kyoto Horikawa Inn
+279056|Kyoto Central Inn
+279063|Daiwa Roynet Yotsubashi
+279064|New Osaka Shinsaibashi
+279065|Chuo Selene
+279067|Chuo
+279068|Nishitetsu Inn Shinsaibashi
+279069|Fraser Residence Nankai Osaka
+279070|Keihan Tenmabashi
+279073|Hokke Club Osaka
+279074|Taiyo
+279076|Tennoji Miyako Hotel
+279077|APA Hotel Osaka-Tanimachi
+279079|Raizan North
+279080|Raizan South
+279082|APA Hotel Tennouji-Ekimae
+279083|BlueWave Inn Yotsubashi
+279085|City Inn Nishitanabe
+279086|Elsereine Osaka
+279088|Live Max Otemae
+279091|Chuo Oasis
+279092|Osaka Floral Inn Namba
+279094|Naniwa
+279095|Kuramoto
+279096|Capsule Hotel Asahi Plaza Shinsaibashi
+279097|Live Max Namba
+279098|Keihan Kyobashi
+279099|Shinsaibashi Lions Rock
+279102|Vista Hotel Premio Dojima
+279103|Humour Resort New Oriental
+279104|Family Inn & Resort Fifty's Osaka
+279106|APA Hotel Namba-Shinsaibashi
+279107|Osaka Teikoku Hotel
+279111|Trusty Shinsaibashi
+279112|Kanku Sunplus Yutaka
+279114|Spa World
+279116|Shin Osaka Sunny Stone
+279117|Business Hotel Nissei
+279119|APA Hotel Midosuji-Honmachi-Ekimae
+279120|Daiki
+279121|First Cabin Midousuji-Namba
+279122|Osaka River-Side Hotel
+279123|Hanshin
+279125|Kintetsu Universal City
+279126|Daiwa Roynet Osaka Uehonmachi
+279127|International House Osaka
+279128|Business Hotel Kansai
+279129|New Yutaka
+280014|Narita U-City Hotel
+280015|Chisun Inn Chiba Hamano R16
+280017|Richmond Narita
+280019|Green Plaza Hakone
+280022|Fujiya
+280023|Hakone Hisui
+280025|Sir Winston
+280027|Hotel Kiyoshi Nagoya (2nd Building)
+280028|Daiwa Roynet Nagoya-Shinkansenguchi
+280029|Daiwa Roynet Nagoya-Ekimae
+280030|Route-Inn Nagoya Higashi Betsuin
+280031|Richmond Nagoya Nayabashi
+280032|Hotel Kiyoshi Nagoya
+280033|Daiichi Fuji Hotel
+280034|Wing International Nagoya
+280035|Nagoya New Rolen
+280036|Nishitetsu inn Nagoyanishiki
+280037|Daini Fuji
+280038|Trusty Nagoya
+280040|Meitetsu Inn Nagoya Ekimae
+280042|Sun Nagoya Via Shirakawa
+280043|Live Max Nagoya
+280044|Nagoya Sakae Washington Plaza
+280045|Sun Hotel Nagoya Nishiki
+280046|Nagoya Ekimae Montblanc
+280047|Trusty Nagoya Sakae
+280050|R&B Hotel Nagoya Nishiki
+280052|Route-Inn Nagoya Imaike Ekimae
+280053|Meitetsu Inn Nagoya Nishiki
+280054|Kishu Tetsudo Nagoya Sakae
+280056|APA Hotel Nagoya-Sakae
+280057|R&B Hotel Nagoya Sakae Higashi
+280058|Route-Inn Nagoya Sakae
+280059|Meitetsu New Grand Hotel
+280060|Nagoya Creston
+280061|APA Hotel Hiroshima-Ekimae
+280062|Sheraton Hiroshima
+280063|Urbain Hiroshima Executive
+280064|KKR Hiroshima
+280066|Hiroshima Intelligent Hotel Main & New Building
+280067|Mielparque Hiroshima
+280070|Daiwa Roynet Hiroshima
+280072|Dormy Inn Hakata Gion
+280073|Route-Inn Hakata Ekimae
+280074|Elbis Fukuoka
+280076|Nissei Fukuoka
+280077|Nishitetsu Inn Fukuoka
+280078|Nishitetsu Inn Hakata
+280080|Heiwadai Hotel 5
+280081|Anchor Hotel Hakata
+280083|Heiwadai Hotel Arato
+280084|Heiwadai Hotel Otemon
+280085|With The Style Fukuoka
+280086|Plaza Hotel Tenjin
+280087|Royal Park Hotel the Fukuoka
+280089|Valie Hotel Tenjin
+280090|Route-Inn Hakata Eki Minami
+280091|Hakata Nakasu Washington Plaza
+280092|Kamenoi Fukuoka Kanenokuma
+280093|Hokke Club Fukuoka
+280095|R&B Hakata Ekimae
+280098|APA Hotel Hakata-Ekimae
+280099|Sunline Fukuoka Hakata Ekimae
+280100|Hakata Green Hotel Annex
+280101|Resol Hakata
+280102|Nishitetsu Inn Tenjin
+280103|Richmond Fukuoka Tenjin
+281011|APA Hotel Nagasaki-Ekimae
+281013|Dormy Inn Nagasaki
+281014|APA Hotel Nagasaki-Ekiminami
+281072|Comfort Hotel Kushiro
+281074|La Vista Kushirogawa
+281075|Hotel Rasso Kushiro
+281115|R&B Hotel Kanazawa-eki Nishi-guchi
+281116|APA Hotel Kanazawa-Chuo
+281117|Kanazawa Manten Hotel Ekimae
+281118|APA Hotel Kanazawa-Ekimae
+281120|Daiwa Roynet Kanazawa
+281122|APA Villa Hotel Kanazawa-Katamachi
+281124|Route-Inn Kanazawa Ekimae
+281125|APA Hotel Kanazawa-Nomachi
+281126|APA Hotel Kanazawa-Nishi
+281127|Kanazawa Central
+281128|Kanazawa Kenrokusou
+281129|Yuyarurusaisai
+281377|Mizukami
+281379|Kobe Sannomiya Union
+281380|Area One Kobe
+281382|Oriental
+281384|Green Hill Kobe
+281386|Suave Kobe Asuta
+281387|Daiwa Roynet Kobe-Sannomiya
+281389|Kobe Port Tower Hotel
+281391|Trusty Kobe Kyukyoryuchi
+281535|Sotetsu Fresa Inn Yokohama Totsuka
+281536|Daiwa Roynet Yokohama-Koen
+281537|Navios Yokohama
+281539|Yokohama Garden
+281540|Daiwa Roynet Yokohama Kannai
+281541|Plumm
+281544|APA Hotel Yokohama-Kannai
+281545|Live Max Yokohama - Kannai
+281546|Central Plaza
+281548|Richmond Yokohama Bashamichi
+281549|Yokohama Heiwa Plaza
+281550|Bayside Marina Yokohama
+282029|Sotetsu Fresa Inn Fujisawa Shonandai
+282253|Hotel Nord Otaru
+282254|Kuramure
+282255|Dormy Inn Premium Otaru
+282381|Route-Inn Kumamoto Ekimae
+282385|Chisun Inn Kumamoto Miyuki
+282387|Dormy Inn Kumamoto
+282388|APA Hotel Kumamoto-Nichigin-Nishi
+282389|Kamenoi Kumamoto Inter Goryou
+282390|Kamenoi Kumamoto Kousikita Bypass
+282391|Kamenoi Kumamoto Arao
+282392|Kikunan Onsen UBL Hotel
+282414|Sunroute Aomori
+282415|Route-Inn Aomori Chou Inter
+282425|Resorpia Atami
+282715|Route-Inn Court Fujiyoshida
+282717|Gamagori Classic
+282719|Route-Inn Gifukencho Minami
+282720|Daiwa Roynet Gifu
+282892|Kise Country Club
+282893|Hotel Rasso Airport
+282894|Daiwa Roynet Okinawa Kenchomae
+282895|Daiwa Roynet Naha Omoromachi
+282896|Tabinoyado Rakuchin
+282897|Hotel Taira
+282898|Kise Beach Palace
+282903|Rasso Kokusai Dori
+282904|Okinawa Sunplaza Hotel
+282905|Kokusai Plaza
+282906|Goyah-so Guesthouse
+282907|Naha Grand Hotel
+282908|The Terrace Club at Busena
+282909|The Busena Terrace
+282910|Weekly (Daily) Harborview Mansion Honkan
+282911|Daiwa Roynet Naha Kokusai-dori
+282912|Blion Naha
+282913|Solvita Okinawa Matsuyama
+282916|Cresia
+282917|Grantia Naha
+282918|Hotel Live Max Naha
+282919|Hotel Rasso Naha Matsuyama
+282920|Nishitetsu Resort Inn Naha
+282921|Ocean
+282924|Mercure Okinawa Naha
+282929|Naha Maejima Relax Hotel
+282930|DoubleTree by Hilton Hotel Naha
+282931|Hotel Maruki
+282932|Naha Beach Side Hotel
+282934|Crown Hotel Okinawa
+282935|Hokke Club Naha Shintoshin
+282936|Resort Inn Rasso Ishigaki
+282937|Onna Marine View Palace
+282938|Route-Inn Nago
+282939|GRG Hotel Naha-Higashimachi
+282940|Ryukyu Sun Royal Hotel
+282941|Vessel Hotel Campana Okinawa
+282943|GRG Hotel Naha
+282944|Shiraho friends house
+282956|Hotel Ronshan Sapporo
+282957|APA Hotel Sapporo
+282958|APA Hotel Sapporo-Susukino
+282959|Sunroute Sapporo
+282960|The Hamilton Sapporo
+282961|Route-Inn Sapporo Kitayojo
+282962|Chateraise Gateaux Kingdom
+282963|APA Hotel Sapporo-Odorikoen
+282964|Daiwa Roynet Sapporo Susukino
+282965|Ascent Inn Sapporo
+282967|Route-Inn Sapporo Shiroishi
+282968|Art Hotels Sapporo
+282969|Hokke Club Sapporo
+282970|Hotel Live Max Sapporo
+282971|Resol Trinity Sapporo
+282972|APA Hotel & Resort Sapporo
+282973|Route-Inn Sapporo Ekimae Kitaguchi
+282974|Sapporo Aspen Hotel
+282975|Route-Inn Sapporo Chuo
+282976|Century Royal Hotel
+282977|Mitsui Garden Hotel Sapporo
+282978|Frame Sapporo
+282980|Sapporo Garden Palace
+282982|JR Inn Sapporo
+282984|Hotel Rasso Susukino
+282986|Hotel Sho Sapporo
+282987|Clubby Sapporo
+283019|Shizuoka Kita Washington Plaza
+283020|Abant Inn Shizuoka
+283656|Asahikawa Grand
+283657|Dormy Inn
+283659|Daiwa Roynet Akita
+283662|Grantia Akita Spa Resort
+283665|Grantia Hakodate Ekimae
+283666|Dormy Inn Hakodate Goryoukaku
+283668|Remm Kagoshima
+283669|Dormy Inn Kagoshima
+283671|New Station
+283672|Harmonie Bien
+283673|Matsumoto Kagetsu
+283677|Mielparque Matsuyama Hotel
+283678|Matsuyama Washington Plaza
+283679|Hotel Okudogo
+283680|Sen Guesthouse
+283682|Daiwa Roynet Morioka
+283686|Route-Inn Court Shinonoi
+283691|APA Hotel Niigata-Furumachi
+283693|Chisun Inn Niigata Chuo Inter
+283694|Dormy Inn Niigata
+283695|APA Hotel Niigata-Higashinakadori
+283696|Route-Inn Niigata-Nishi Inter
+283697|Daiwa Roynet Sendai
+283698|Smile Sendai Izumi Ic
+283699|Library Higashi Nibancho
+283700|Route-Inn Sendai Izumi Inter
+283702|R&B Hotel Sendai Hirose-dori Ekimae
+283703|APA Villa Hotel Sendaieki-Itsutsubashi
+283704|APA Hotel Sendai-Kotodai-Koen
+283705|Sendai Garden Palace
+283707|Dormy Inn Wakkanai
+283710|APA Hotel Yamagata-Ekimae Odori
+283912|Comfort Hachinohe
+283913|Dormy Inn Himeji
+283914|Chisun Inn Himejiyumesakibashi
+283915|Hyogo Floral Inn Himeji
+283916|Kamakura Prince
+283918|Live Max Kawasaki-Ekimae
+283920|Nishitetsu Inn Kokura
+283921|Kamenoi Kitakyushu Yahata
+283923|BlueWave Inn Kokura
+283924|Kamenoi Kitakyushu Kokura
+283925|Comfort Hotel Kurosaki
+283930|APA Hotel Kitakami-Ekinishi
+283934|APA Hotel Komatsu
+283936|APA Hotel Koriyama-Ekimae
+283937|Route-Inn Koriyama Inter
+283938|Route-Inn Koriyama
+283939|Chisun Inn Kurashiki Mizushima
+283940|Kurashiki-Ekimae
+283941|Mito Keisei Hotel
+283942|Daiwa Roynet Mito
+283944|Mito Hotel Season
+283946|Route-Inn Miyazaki
+283947|Kamenoi Miyazaki Sadowara
+283948|Route-Inn Nagaoka Ekimae
+283950|Asukasou
+283951|Nara Washington Plaza
+283952|Fujita Nara
+283954|Epinard Nasu
+283955|Floracion
+283956|Island Hotel and Resort Nasu
+283958|Nishitetsu Resort Inn Beppu
+283959|Khaosan Beppu Spa Hostel
+283960|Umine
+283962|Resorpia Beppu
+283964|Daiwa Roynet Okayama-Ekimae
+283965|Okayama View Hotel
+283968|Hotel Leopalace Okayama
+283969|Okayama City Hotel Koseicho
+283971|Okayama Washington Plaza
+283973|Okayama Koraku Hotel
+283974|Excel Okayama
+283975|Reiah Hotel Otsu Ishiyama
+283976|Watermark Nagasaki - Huis Ten Bosch
+283978|Dormy Inn Takamatsu
+283979|Chisun Inn Takamatsu
+283980|Takamatsu Washington Plaza
+283981|Takamatsu Century Hotel
+283982|Golden Time Takamatsu
+283984|Route-Inn Takasakieki Nishiguchi
+283985|APA Hotel Takasaki-Ekimae
+283986|Dormy Inn Takasaki
+283987|Takasaki Washington Hotel Plaza
+283990|Hotel Plaza Inn Tokushima
+283991|Tokushima Washington Plaza
+283994|APA Villa Hotel Toyama-Ekimae
+283995|Toyama Manten
+283996|APA Hotel Toyama
+283997|Daiwa Roynet Toyama
+283999|Chisun Inn Toyokawa Ic
+284001|Urayasu Beaufort Hotel
+284003|Chisun Inn Utsunomiyakanuma
+284004|Wakayama Marina City Royal Pines Hotel
+284005|Daiwa Roynet Wakayama
+284006|Dormy Inn Premium Wakayama
+284007|Route-Inn Yokkaichi
+284008|Yokkaichi Miyako Hotel
+284009|Yonago Washington Hotel Plaza
+284073|APA Hotel Fukui-Katamachi
+284074|Route-Inn Fukui Ekimae
+284075|Route-Inn Fukuioowada
+284076|Chisun Inn Fukui
+284077|Chisun Inn Fukushima Nishi Ic
+284083|Hakuba Mominoki
+284084|Gakuto Villas
+284089|Hakuba Berg-land
+284090|Sierra Resort Hotel Hakuba
+284091|Lodge & Bar Side Hill
+284092|Crown Palais Hamamatsu
+284094|Floris Hotel Villa Kuretake
+284095|Kuretake Inn Central Hamamatsu
+284096|Route-Inn Hamamatsu Ekihigashi
+284097|Hamanako Benten Resort The Ocean
+284098|Comfort Hamamatsu
+284099|Route-Inn Hamamatsunishi Inter
+284100|Kuretake Inn Act Hamamatsu
+284101|Daiwa Roynet Hamamatsu
+284102|Iwaki Washington
+284103|Live Max Yumoto
+284106|APA Hotel Kagadaishoji-Ekimae
+284107|Katayamazu Onsen Kasuikyo
+284108|Sumiya Kihoan
+284111|Dormy Inn Kitami
+284115|Matsue New Urban Annex
+284117|Dormy Inn Obihiro
+284119|Comfort Hotel Obihiro
+284120|Liberty Plaza
+284121|Daiwa Roynet Sakai-Higashi
+284122|APA Hotel Sakai-Ekimae
+284124|Hotel Kintetsu Aquavilla Ise Shima
+284125|Prime Resort Kashikojima
+284127|Shimoda Prince
+284128|Shimonoseki Station West Washington Hotel Plaza
+284129|Nishi-Nagato Resort
+284130|Kamenoi Hotel Yamaguchi Shimonoseki
+284131|Wing International Shimonoseki
+284132|Dormy Inn Premium Shimonoseki
+284134|Sunny Stone
+284135|Hankyu Expo Park
+284137|Honjin Hiranoya Kachoan
+284138|Honjin Hiranoya Bekkan
+284140|Hanaougi Bettei Iiyama
+284144|Hida Hanasatonoyu Takayama Ouan
+284146|Oyado Koto No Yume
+284147|Futarishizuka Hakuun
+284149|Ueda Ekimae Royal
+284150|Azumaya Resort
+284151|Uematsuya Ryokan
+284152|Route-Inn Ueda
+284193|Country Inn Milky House
+284208|Dormy Inn Hirosaki
+284209|Kyu Karuizawa
+284210|AMMS Accion
+284211|Chisun Inn Karuizawa
+284212|Sapporo Kitahiroshima Classe
+284213|Comfort Hotel Kure
+284214|Kamenoi Fukuoka Munakata
+284215|Chisun Inn Munakata
+284225|Tokachigawa Onsen Sanyoan
+284280|Village Izukogen
+284281|Kawana
+284282|Kazeno Kaori
+284283|Seamore Umedaru-Spa
+284549|Wing International Miyakonojo
+284551|APA Hotel Ogaki-Ekimae
+284553|APA Hotel Saga-Ekimae-Chuo
+284556|Dormy Inn Tomakomai
+284558|Hotel Nidom
+284559|Chisun Inn Tosu
+284706|Route-Inn Sagamihara
+284707|Live Max Sagamihara
+284709|Daiwa Roynet Tsukuba
+284801|Comfort Hotel Kariya
+284828|Chisun Inn Sanofujioka Ic
+285942|Ryumeikan Honten
+285946|Mume
+285947|Kinoe
+285948|Kinparo
+285949|Momijiya Ryokan
+285950|Togetsutei
+285952|Oyado Ishicho
+287158|Hiroshima Kokusai
+287544|Inasayama Kanko
+287737|Akan no Mori Tsuruga Resort Hanayuuka
+287738|Akan Tsuruga Bessou Hinanoza
+287739|Forest Akan Tsuruga Resort HANA YU KA
+287740|Lake Akan Tsuruga Resort Spa Tsuruga Wings
+287986|Hyoe Koyokaku
+287987|Nakanobo Zuien
+287988|Takayama So Hanano
+287989|Arima Onsen Gekkoen Korokan
+287990|Arima Onsen Gekkoen Yugetsusanso
+287992|Kobe Shisuen
+288647|Sonia
+289083|Micuras
+289085|Atsugi Urban
+289086|Vista Atsugi
+289174|Lake Shikotsu Tsuruga Resort Spa Mizu no Uta
+289236|Vista Ebina
+289395|Roco Inn Matsuyama
+289396|Roco Inn Okinawa
+289398|Super Hotel Naha Shintoshin
+289413|Jozankei Tsuruga Resort Spa MORI no UTA
+289439|Century Shizuoka
+289440|Ureshino Kanko Taishoya
+289959|Hanabishi
+289960|Kagoshima Sunroyal Hotel
+289961|Kinkoh Kougen Hotel
+289962|Onsen Hotel Nakahara Bessou
+289964|Yamatoya Honten
+289965|Taikan
+289967|Hotel Monte Hermana Sendai
+289968|Sakan
+289970|Gokan No Yu Tsuruya
+289971|Lucent Takamiya
+290177|Yumenoi
+290182|Grantia Aoshima Taiyokaku
+290183|Kasuga
+290184|Nara Hakushikaso
+290189|Washuzan Simoden
+290190|Biwako Hanakaido
+290191|Biwako Ryokusuitei
+290192|Dantoukan Kikunoya
+290193|Yumotokan
+290194|Hanajukai
+290195|Takinoyu
+290197|Osakaya Hiinanoyu
+290523|Yoshikawaya
+290525|Ryokan Wataya
+290526|Ohehonke
+290527|Charoku Bekkan
+290528|Genmyoan
+290531|Fukujuso
+290532|Shima Kanko Bay Suites
+290533|Hirayukan
+290764|Hoshinoya Karuizawa
+290776|Ryokan Beniayu
+290783|Sasai
+290840|Yanagiya
+290841|Kyushu
+290842|Unzen Fukiya
+290843|Unzen Miyazaki Ryokan
+290844|Unzen Shinyu
+290845|Yumoto
+291011|Nakayamasou
+291012|Shikisai Hotel Chiyodakan
+291013|Wakamizu
+292344|Shiomiso
+292345|Futabaso
+292346|Ichibokan
+292347|Kashoen
+292348|Nishimuraya Shogetsutei
+292349|Fushioukaku
+292643|Daimaru Besso
+292811|Hotel Ranpu
+292812|Ibusuki Hakusuikan
+293006|Ginpaso
+293007|Asanoya
+293008|Kinparo
+293009|Kinsui
+293010|Nishimuraya Honkan
+293011|Okukinosaki Seaside Hotel
+293012|Tsutaya Seirantei
+293835|Fujiya
+293836|Sakoya
+293998|Bousui
+293999|Hotel Kurobe
+294000|Dougashima New Ginsui
+294001|Takahan
+294654|Seoto Yuoto Ukiha
+294655|Tsuetate Kanko Hizenya
+294656|Dormy Inn Kofu
+294657|Yumura Tokiwa
+294658|Smile Kumagaya
+295004|Taisetsu
+295005|Kifuuclub Shiretoko
+295007|Shiretoko Grand Kitakobushi
+295008|Shiretoko Prince Kazanamiki
+295010|Inatori Ginsuiso
+295011|Ootaki
+295013|Urashima
+295014|Awaji International The Sun Plaza
+295015|New Awaji
+295016|Hashidate Bay Hotel
+295018|Suimeikan
+295019|Kokonoe Yuyutei
+295022|Yuze
+295025|Tachibanaya
+295392|Kakegawa Grand Hotel
+295675|Wing International Sukagawa
+297644|Gosho Bessho
+298517|Mikawaya Ryokan
+298540|Hakuba Alps
+298552|Rickshaw Inn
+298581|New Wakasa
+299208|Palm & Fountain Terrace Hotel
+299209|Hokke Club
+299213|Matsubaya Ryokan
+299215|Ryokan Biyu no Yado
+300342|Manza Prince
+300372|APA Hotel Fukuoka-Yukuhashi-Ekimae
+309153|APA Hotel Chiba Yachiyo-Midorigaoka
+310872|APA Hotel Uozu-Ekimae
+310873|APA Hotel Tottori-Ekimae
+310874|APA Resort Myoko-Pine Valley
+310875|APA Hotel Takaoka-Marunouchi
+310876|APA Hotel Kanku-Kishiwada
+310879|APA Hotel Yamaguchi-Hofu
+317121|El Inn Kyoto
+317166|1-2-3 Tennoji
+321908|Hotel Narita Kikusui
+321949|J-Hoppers Hiroshima
+321963|Sun Business Hotel
+325078|Shin Yokohama Grace Hotel
+328277|Okinawa Hotel
+328281|Haimurubushi
+328310|Hotel Paco Sapporo
+328314|Jozankei Hotel
+330197|Sun Days Inn Kagoshima
+330219|Rantei
+330220|Green Mark
+334295|Chisun Inn Marugame Zentsuji
+367746|Kyoto Kokusai Hotel
+367747|Ryokan Kohro
+368999|Chisun Inn Nagasaki Airport
+369000|Sasebo Washington Hotel
+370385|Chisun Resort Okinawa Churaumi
+370387|Rihga Royal Gran Okinawa
+370410|Jouzankei Tsuruga Mori No Uta
+370889|One Niseko Resort Towers
+370890|Chisun Inn Shiojiri Kita Ic
+370891|Chisun Inn Suwa Ic
+370892|Hotel Seifuen
+371074|Hoshinoya Okinawa
+371075|Chisun Inn Hitachinaka
+371076|Satoya Mukashibanashi Yuzanso
+371319|Aizuwakamatsu Washington Hotel
+371321|Lake Saroma Tsuruga Resort
+371323|Comfort Hotel Hikone
+371617|Bettei Senjuan
+371618|Chisun Inn Kofu Isawa
+372006|Lake Abashiri Tsuruga Resort
+372007|Chisun Inn Iwate Ichinoseki Ic
+372008|Oakwood Residence Akasaka
+372161|Hotel Nagisaya
+372904|Hotel New Hankyu Annex
+374076|The Crest Hotel Tachikawa
+391165|The Ritz-Carlton Kyoto
+401447|Intercontinental Hotel Osaka
+406126|Andaz Tokyo Toranomon Hills
+408664|Anima Grand Hotel
+408719|Best Western Yokohama
+412040|Hilton Okinawa Chatan Resort
+413017|Osaka Marriott Miyako
+416352|Shiraraso Grand Hotel

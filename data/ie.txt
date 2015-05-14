@@ -1,0 +1,826 @@
+8016|Arlington O'Connell Bridge Dublin
+8072|Ashling
+8851|Clyde Court Hotel
+9316|Brooks
+9519|Camden Court
+10142|Cassidys
+10175|Clontarf Castle
+10391|Generator Hostel Dublin
+10450|The Clarence
+11151|O'Callaghan Davenport Hotel
+12929|InterContinental Dublin
+14183|Maldron Hotel Pearse Street
+14586|Ibis Dublin
+15132|Jurys Inn Dublin Custom House
+15134|Best Western Dublin Skylon
+17745|Sandymount
+20018|Regency
+21488|The Shelbourne
+22071|St. George
+22579|Temple Bar Hotel
+22663|Best Western Plus Academy Plaza Hotel
+22700|Doubletree by Hilton Hotel Dublin - Burlington Road
+22767|The Fitzwilliam
+22853|The Merrion
+22854|Mespil
+22865|The Morrison, A Doubletree by Hilton
+22986|The Royal Dublin
+23000|The Schoolhouse
+23040|The Westbury
+27394|Hilton Dublin
+27969|Lynam's
+29330|Oranmore Lodge Hotel
+30752|Ashley
+30755|Halpins Townhouse
+30756|Minella
+30759|Quality Hotel & Leisure Centre
+30762|Randles Court
+30766|Fitzgerald's Woodlands House
+30768|Abbeyglen Castle
+30770|Westport Coast
+30771|Cabra Castle
+30772|Downhill Inn
+30775|Imperial
+30779|The Auburn Lodge Hotel
+30780|Dillons Hotel
+30782|Maldron Galway
+30783|Atlantic View Homes
+30795|Trawmore Holiday Homes
+31227|Beresford Dublin
+31229|Trinity Capital
+31230|Ring of Kerry
+31232|Kenmare Sunny Hill
+31237|Ballybunion Holiday Cottages
+31242|Moore Bay
+31249|Waterside
+31253|Drumcreehy
+31255|West Cork
+31256|Renvyle House
+31258|Butler Arms
+31259|Zetland
+31260|Sandhouse
+31261|Bayview
+31263|Cahernane House
+31264|Ballynahinch Castle
+32503|Druids Glen Marriott & Country Club
+32504|Portmarnock Golf Resort
+32505|Castlerosse
+32506|Faithlegg House
+32507|Woodstock Hotel
+32508|Ashford Castle
+32509|Dromoland Castle
+32623|Radisson Blu St. Helen's Dublin
+32730|Blooms
+32731|Montrose
+33521|Ballsbridge
+33522|The River Lee
+33524|Jurys Inn Cork
+33525|Jurys Inn Galway
+33526|Limerick City Hotel
+33527|Limerick Strand
+33528|Maldron Tallaght
+33529|The Spencer
+33531|The Westin Dublin
+33532|Radisson Blu Dublin Airport
+33534|Cork Airport Hotel
+33536|Meyrick
+33537|Radisson Blu Galway
+33539|Galway Bay
+33540|Oakwood Arms
+33544|Lough Inagh Lodge
+33545|Seaview House Hotel
+33546|Breaffy House Resort - House Hotel / Woods Hotel
+33547|Connemara Coast
+33549|Ballygarry House
+33550|Dingle Skellig
+33552|Towers
+33553|The Dunloe
+33554|The Europe
+33555|An Garran Coir
+33556|Celtic Ross
+33557|Ballyknocken
+33558|Tulfarris
+33559|Dunbrody House
+33560|Tinakilly Country
+33561|Parknasilla Resort & Spa
+33562|Killarney Park
+33565|Creagh Killeena House
+33566|Kenmare Coastal Cottages
+33567|Dingle Marina Cottages
+33568|Durras Cottages
+33569|Riverview Country Cottages
+33570|Waterville Links
+33578|Clifden Glen
+33579|Ardtarmon Castle
+33585|Kinlay House
+34519|Ard Na Sidh
+34520|Sheen Falls Lodge
+34541|White Gates
+35549|The Belvedere
+35550|Paramount
+35551|Morgan
+35552|Abbey
+35553|Ardagh Hotel & Restaurant
+35554|Arnolds
+35556|Carna Bay Hotel
+35557|Casey's of Baltimore
+35560|Coach House
+35569|Hylands Burren
+35570|Dundrum House
+35571|Cill Aodain
+36546|Ripley Court
+36625|Drury Court House
+36626|Egans House
+36627|Mercer Court
+37159|The Lake
+37160|Old Weir Lodge
+37162|Castle Hotel & Leisure Centre
+37164|Cedar Lodge
+37165|Clew Bay Hotel
+37167|Deer Park
+37168|Garryvoe
+37171|Lakeside & Leisure Centre
+37175|Mill Park Hotel
+37177|Roundstone House
+37178|Shannon Oaks & Country Club
+37179|Sheedy's Country House
+37180|White Sands
+37182|Dingle Benners
+37183|Butlers Townhouse
+37184|Churchtown House
+37185|Dunraven Arms
+37186|Pembroke Town House
+37187|Perryville House
+37215|Dingle Harbour Cottages
+37217|Homefield
+37218|Island Holiday Cottages
+37220|Dalewood Holiday Homes
+37223|Old Parochial House
+37226|Terryglass
+37228|Ballyhoura
+37232|Courtyard Cottages
+37233|Glenbeg Point
+37235|Old Killarney Village
+37237|Seascapes Holiday Homes
+37242|Knocknashee
+37254|Summercove
+39725|Tara Towers
+39816|Caragh Glen Holiday Homes
+40049|Jurys Inn Parnell Street
+40050|Castle Oaks House
+40051|The Malton
+40052|Kenmare Bay
+40053|Inchydoney Island Lodge & Spa
+40054|Hayfield Manor
+40055|Neidin View
+40056|Muckross Holiday Village
+40445|Mount Juliet Estate
+40446|The K Club
+40560|Park
+41455|Carrick na Shee
+41458|Liscannor Holiday Homes (Cliff Holiday Cottage)
+41461|Cornacorroo House
+41462|Riverside Mews
+41463|Kenmare Holiday Village
+41465|Ashlee Lodge
+47190|Holiday Inn Killarney
+47887|Harding
+48364|My Place Dublin
+49937|Aghadoe Heights
+49938|Castletroy Park Hotel
+49939|Park Inn by Radisson Shannon Airport
+49940|Treacys Hotel Waterford, Spa & Leisure Centre
+50187|Gresham Metropole
+50188|Gresham
+50189|International
+50190|Two Mile Inn
+50674|Flannery's
+50675|The George
+50687|Connemara Gateway
+50720|Grafton Capital
+50721|Best Western Sheldon Park
+50766|The Ardilaun Hotel
+50767|Glenlo Abbey
+51143|Rochestown Park
+51670|Galway Harbour
+51868|Hotel Killarney
+51971|Imperial
+51972|Best Western Eviston House
+51973|Tower
+51997|Corrib Great Southern
+52011|Dromhall
+53686|Merrion Hall
+53687|Fitzpatrick Castle
+53690|Stillorgan Park
+53691|Citywest Hotel, Conference & Event Centre
+53692|Crowne Plaza Northwood
+53694|O'Callaghan Alexander
+53695|O'Callaghan Mont Clare
+53698|The North Star
+53699|O'Callaghan Stephen's Green Hotel
+53703|Aberdeen Lodge
+53704|IMI Residence
+53705|Albany House
+53706|Finnstown Castle Hotel
+55019|Clarion Limerick
+55591|Isaac's
+55593|Doolin Holiday Homes
+55597|Grove Lodge
+55598|Barley Cove Beach Holiday Homes
+55600|Knockranny House Hotel & Spa
+55708|Clarion Cork City
+56587|Clarion Liffey Valley
+56588|Sligo Park
+56589|The Brehon
+56590|The Derrynane
+56591|Best Western Esplanade
+56592|Marine
+56594|Innisfallen Holiday Village
+56597|The Courtyard
+56598|Jacobs Inn
+56749|Pier Limerick
+56753|Falls
+56754|Riverside Hotel & Leisure Centre
+56764|The Commons Express Inn
+56765|Granville
+56766|Best Western Belfry
+56767|Bellbridge House
+56769|Peacockes
+56792|Castleknock & Country Club
+56913|Blarney Park
+56914|Blarney Castle
+56915|Blarney Wollen Mills
+56917|Maryborough House
+57330|Seven Oaks
+57331|BrookLodge Hotel & Wells Spa
+57917|Logue's Liscannor
+57919|Old Ground
+57921|Alcok & Brown
+57968|Leenane
+57969|Hanley Oaks
+57970|Foyles
+57972|The Connacht Hotel
+58225|Parkhouse
+59662|George Frederic Handel
+59885|Comfort Inn Tralee
+59886|Gleneagle
+59887|Brandon
+59890|Bayview Waterville
+60313|Glengarriff Eccles
+60314|Trident
+60315|Fitzgerald's Vienna Woods
+60344|Springfort Hall
+60345|Best Western Sligo Southern
+60346|Woodlands
+60347|O'Shea's
+60349|Victoria House Hotel
+60351|Westport Leisure Spa Conference
+60356|TF Royal Hotel & Theatre
+60477|Munster Arms
+60478|Rushbrooke
+60479|Walter Raleigh
+60480|Station House
+60511|Lough Allen
+60530|Ballinskelligs
+60644|Knock House
+60645|Maldron Cork
+60651|Actons
+60774|Treacy's West County Conference & Leisure Hotel
+60781|The Inn at Dromoland
+60783|Hibernian & Leisure Centre
+60785|Pontoon Bridge
+61127|Leeson
+62280|Temple Gate
+62281|Clybaun
+62282|Ridgepool
+62283|Bunratty Shannon Shamrock
+62284|Radisson Blu Hotel & Spa Limerick
+62369|Shannon Court
+63634|Ramada Viking
+63689|Killarney Towers Health & Leisure Centre
+64965|Conrad Dublin
+67651|Radisson Blu Letterkenny
+67832|Radisson Blu Hotel & Spa Sligo
+68312|Radisson Blu Athlone
+68337|Radisson Blu Hotel & Spa
+68683|Commodore
+69141|Maldron Cardiff Lane
+70014|The G Galway
+70015|Athenaeum House
+70016|The Croke Park
+70018|Harvey's Point Country
+70019|The d Drogheda
+70022|Ardgroom Leisure Village
+70023|Brittas Bay Village
+70786|O'Sheas
+71096|Johnstown House
+71097|Gleann Fia Country House
+71504|Days Inn Dublin City Rathmines
+71506|Lansdowne
+71507|Charleville Lodge
+71515|Countrywide Inns - Round Tower
+71537|Countrywide Inns - Commercial & Tourist
+71542|Countrywide Inns - The Rising Sun
+71544|Countrywide Inns - Brannigans Glendine Inn
+71575|Rathbaun
+71580|Countrywide Inns - The Keepers Arms
+71584|Premier Collection of Guesthouses - Ferryport House
+71592|Augusta Lodge
+71597|Premier Collection of Guesthouses - Pax House
+71599|Portfinn Lodge
+71601|Corrib Haven Guesthouse
+71605|Redbank House
+71608|Kilronan Guesthouse
+71609|Glenogra Guesthouse
+71613|Grovemount House
+71615|Dough Mór Lodge
+71616|Premier Collection of Guesthouses - Central Guesthouse
+71638|Achill Sound
+71639|Leitrim Marina Quay
+71644|Ballyvaughan
+71657|Dingle Courtyard
+71658|Sneem Leisure Village
+71659|Crystal Fountain
+71798|The Heritage Golf & Spa Resort
+72294|Clarion Sligo
+72419|Ashville Lodge
+72421|Abbey Lodge
+73116|Dublin City Inn
+73117|Mill Times
+73953|Best Western Pery's
+73954|Great Southern Rosslare Harbour
+75982|Menlo Park
+76941|Metro Dublin Airport
+77114|Jurys Inn Christchurch
+77619|Travelodge Cork Airport
+77784|Travelodge Limerick Ennis Road
+77785|Travelodge Waterford
+77786|Travelodge Galway City
+78010|Fairgreen
+78011|Corrib Village
+78167|Aspect Park West
+78276|Corralea Court
+78523|Hilton Dublin Kilmainham
+78573|Ardmore
+79206|Harrington Hall
+79207|La Stampa
+79208|Coxtown Manor
+79209|Ballyseede Castle
+79210|The Ross
+79212|Headfort Arms
+79213|Tir gan Ean Holiday Village
+79214|Aherlow Woods
+79215|Heyward Mews
+79475|Travelodge Dublin Airport North Swords
+79669|Cahir House
+79670|Kilford Arms
+79672|The Ambassador & Health Club
+79675|Maldron Hotel Limerick
+79771|Carlton Hotel Blanchardstown
+79867|Travelodge Dublin Airport South
+79970|Travelodge Phoenix Park
+80462|Castle Gardens Holiday
+80463|Radharc Na Mara
+80567|Baile na nGall Cottages
+80568|Glor na Farraige
+80569|An Gleantain
+80820|Lismar Guesthouse
+80823|Killashee House
+80824|Doolin
+81399|Carton House
+81989|Powerscourt Hotel - Autograph Collection
+82083|Holiday Inn Express Dublin Airport
+82106|The Fleet Street Hotel Temple Bar
+82107|Trim Castle
+82805|Royal Marine
+85530|Cork International
+85703|Harlequin
+85837|Ramada Blarney Golf Resort
+86395|Silver Springs Moran
+88477|Slieve Russell Golf & Country Club
+89157|Lahinch Golf & Leisure
+89186|Premier Inn Dublin Airport
+89387|Clanree
+90139|Radisson Blu Royal
+92915|Killarney Court
+93438|Riverside
+93439|Best Western Montenotte
+93440|Wyatt
+93441|Forster Court
+93485|Premier Apartments Sandyford
+93532|Inbhear Sceine
+93533|Rivervale Holiday Homes
+95938|Maldron Hotel Dublin Airport
+95941|Maldron Parnell Square
+95947|Hibernian
+95958|Heron's Cove
+95959|Lough Rynn Castle
+95961|Castlemartyr Resort
+95962|Bettystown Court
+95965|Lios na Mara Holiday Homes
+95966|Loretto Chapel Holiday Homes
+95967|Glengarriff Harbour Cottages
+95968|Castle Quay Holiday Homes
+96259|Logue's Lodge
+96280|The Buckfield Inn
+96305|Cliffs of Moher
+96312|Carrigaline Court
+96313|Maritime Bantry
+96316|Charleville Park
+96317|Riverside Park
+96318|Oriel House Leisure Club & Spa
+96322|Mount Errigal
+96323|Station House
+96354|Merriman
+96357|Salthill
+96368|Travel Inn
+96369|Hillgrove Inn
+96371|Darby O'Gills
+96375|Newpark
+96376|Aspect Kilkenny
+96378|Absolute
+96392|Hillgrove
+96393|County Arms
+96395|Ballykisteen Hotel & Golf Resort
+96402|Abbey Court Hotel & Spa
+96407|Dooleys
+96412|Whites Of Wexford
+96418|Wilton
+96420|Summerhill House
+96424|The Royal Hotel & Merrill Leisure Club
+96426|Woodenbridge
+96433|Kingston
+96436|Four Seasons
+96438|Mount Falcon Estate
+97373|The Twelve
+97375|Kingswood Hotel Citywest
+97523|Fota Island
+98447|Hilton Airport
+100509|Riverwalk
+102552|Dylan
+102554|River Court
+102555|Kilkenny
+102556|Waterford Castle Hotel & Golf Resort
+102558|Carrig Country House & Restaurant
+102559|Scotts
+102561|Adare Manor
+102564|Hodson Bay
+102567|The Carlton Redcastle
+102576|The Lodges at Farnham Estate
+103505|Bewleys Ballsbridge
+103506|Bewleys Leopardstown
+103507|Bewleys Newlands Cross
+103508|Bewleys Dublin Airport
+103553|Dunboyne Castle
+103877|Aherne's
+105461|Blakes Hotel & Spa
+105569|Buswells
+107251|Glenroyal & Leisure Club
+107355|Grand
+107363|Grand Canal
+107433|Green Hills
+108460|Leixlip House
+108567|South Court Hotel
+108641|Marlfield House
+108643|The Pillo Hotel Ashbourne
+108672|The Savoy
+109081|Club House
+109190|Muckross Park & Cloisters Spa
+109501|Osprey
+109590|Arlington Temple Bar
+110051|Red Cow Moran's
+111194|Countrywide Hotels - The Heritage
+111218|Mount Wolseley Hotel, Spa & Golf Resort.
+111377|Trinity Lodge
+129570|Abrae Court
+129572|Beacon
+129573|Abberley Court
+129574|Louis Fitzgerald
+131714|GN Creggan Court Hotel
+131717|Talbot
+131723|Kingsley
+131725|Central
+131728|Eliza Lodge
+131729|Leeson Inn Downtown
+131732|Wynn's Hotel
+131734|Herbert Park
+131735|Plaza
+131737|Russell Court
+131738|Travelodge Dublin City Centre Rathmines
+131739|Green Isle Conference & Leisure Hotel
+131740|Carlton Airport
+131741|Crowne Plaza
+131742|Lawlors
+131743|Galway Oyster
+131744|Westwood House
+131746|Lyrath Estate
+131747|Ormonde
+131748|The Pembroke
+131750|Killarney Plaza
+131751|Carlton
+131760|Manor West Spa & Leisure
+131762|Fitzwilton
+131763|Waterford Marina
+131765|Millrace Hotel Leisure Club & Spa
+131767|Quality Hotel & Leisure Club & Spa
+134207|Bunratty Castle
+136280|Adare House
+136290|Celtic House
+136297|Hillview House
+136298|Claregalway
+136299|Errigal Country House
+136301|Park
+136303|Markree Castle
+136305|The McWilliam Park
+136307|Bellinter House
+136309|Seacrest Holiday Homes
+136311|Burren Coast Holiday Homes - geschlossen
+136313|Ballintaggart Holiday Homes
+136314|Sam Maguire Cottages
+136614|Solis Lough Eske Castle
+136620|Marine View Ferienanlage
+136622|Sheep's Head Holiday Homes
+137654|Killarney Royal
+137846|Ard Ri House
+137858|Killarney Oaks
+137875|Maldron Wexford
+138132|Armada
+138173|Crowne Plaza Blanchardstown
+138182|Maldron Portlaoise
+139165|Park Hotel Virginia - geschlossen
+139896|Radisson Blu Farnham Estate
+139897|Athlone Springs
+140474|Clayton
+140475|Sheen View
+140478|Sea Cliff
+140479|Seanachai Cottage
+141654|Ballina
+142763|Barberstown Castle
+143384|City North
+143432|Doolin Holiday Village
+143433|Lios Duin Bhearna
+143434|Radharc na Abhann Ferienhäuser
+143436|Knights Haven Doppelhaushälften
+143438|Pairc na Gloine
+143820|Emerald Star Carrick-on-Shannon
+143821|Emerald Star Portumna
+143822|Le Boat Belturbet
+156983|The Cliff Townhouse
+157181|Arklow Bay Conference & Leisure
+157185|Bella Vista
+157186|Boyne Valley Hotel & Country Club
+157189|Carlton Shearwater
+157192|Castle Dargan
+157195|Cliff House
+157198|Dublin Citi
+157200|Glashaus
+157201|Glasson Golf
+157202|Glenview
+157204|Horse & Jockey
+157205|Kilkenny House
+157206|Kilmurry Lodge Hotel
+157208|Latchfords
+157217|Maldron Smithfield
+157222|Parkview Hotel
+157223|Pier Head Mullaghmore
+157224|Portlaoise Heritage
+157225|Portobello
+157227|Premier Suites Dublin
+157232|Roganstown Golf & Country Club
+157233|Ross Lake House
+157234|Sheraton Athlone
+157235|Sneem
+157236|Stauntons on the Green
+157238|The Fairview Killarney
+157241|Trump International Golf Links and Hotel
+157243|The Western Hotel
+157244|The Westgrove
+157245|West County
+157247|Wineport Lodge Hotel
+157248|Woodfield House
+183536|Travelodge Limerick Castletroy
+183539|WatersEdge
+187211|Keadeen
+187232|Springfield
+187239|The Castle
+187240|The Glasshouse
+187967|Prince of Wales Hotel
+202087|Cathryn's Cottage
+202088|Great Western Parklands
+202089|Bunratty Holiday Homes
+202091|Killarney Lakeland Cottages
+202092|Kinsale Coastal Cottages
+202094|Castle Leslie Estate
+202328|Glen na Smole House
+202332|Castlelodge Guesthouse
+202336|Premier Collection - Newgrange Lodge
+202337|The Boutique
+202347|Countrywide Hotels - Emmet
+202356|Glengarriff Park
+202359|Wicklow Courtyard Cottages
+202361|Park Court Holiday Homes
+202856|Number One Pery Square
+203796|Tralee Central
+204517|Amber Hill
+204519|Amber Lodge
+204520|Amberley House
+204568|Anchor Guesthouse
+205126|Arbutus Hotel
+205396|Athlumney Manor Guest Accommodation
+205405|Atlantic
+205414|Atlantic View B&B
+205519|Augustine Apartments
+205731|Baggot Court Townhouse
+205844|Barnacles Quay Street House
+206835|Cappabhaile House
+206894|Carrickdale Hotel & Spa
+207334|Christchurch Hall Apartments
+207480|Clanard Court
+207522|Clonea Strand
+207523|Clonmel Park Conference Leisure & Spa
+207570|College View Apartments
+207814|Courtyard
+207839|Crawford Guest House
+207961|Dalys Inn
+208203|Deerpark Lodge
+208321|Diamond Coast
+208497|Downhill House & Eagles Leisure Centre
+208563|Dublin 1 Apartments
+208667|Eclipse Centre Holiday Homes & Activity Centre
+209068|Eyre Square
+209274|Fitzgerald's Hotel
+209276|Fitzwilliam Townhouse
+209385|Four Seasons Hotel & Leisure Club
+209455|Gabriel House Guesthouse
+209480|Gallaghers
+209851|Gold Coast Golf Resort
+210214|Hampton
+210363|Hazelbrook House
+210417|Herberton Apartment
+210616|Holyrood
+211836|Isaacs Hostel
+212652|Lancaster Lodge
+213487|Lord Edward
+213530|Lough Rea & Spa
+213945|Mc Cormack's Guesthouse
+214070|Marina Metro
+214258|Moorland Guesthouse
+214262|Morehampton Townhouse
+214343|Mullingar Park
+214669|O'Donnabhain's
+214671|O'Donoghue's
+214753|O'Neills Victorian Pub & Townhouse
+215670|Portree Hostel
+217330|RiverHouse
+217562|Rusheen Bay House
+217861|Scholars Townhouse
+217903|Seafield Golf & Spa
+218293|Springhill Court
+218394|Staycity Serviced Apartments Millennium Walk
+218680|Teach de Broc
+218803|The Bay View - geschlossen
+219073|The Glen Guesthouse
+219136|Heights Hotel
+219192|The Kildare Street
+219264|The Martello
+219358|Park Hotel Dungarvan
+219555|The Villa Rose & V-Spa
+219585|The Western Citypoint Holiday Apartments
+219629|The Yellow House B&B
+219782|Treacy's Hotel Enniscorthy
+219865|Tullamore Court
+220022|Vaughan Lodge
+220611|Wards
+220628|Waterloo House
+220693|Westcourt
+220706|Westlodge Hotel & Leisure Centre
+220743|Whitford House
+220846|Woodlawn House
+221387|Bracken Court
+221397|Brookville House
+222050|Gorman's Clifftop House
+223293|Ring of Kerry
+223508|Stoops Guesthouse
+223828|Woodhill House
+228784|Lady Gregory Hotel, Leisure Centre & Spa
+228973|The Gibson
+231737|Shamrock Lodge Country House
+231739|Sea Breeze Lodge B&B
+231742|Rosapenna & Golf Resort
+231747|Pairc an Callan
+231756|McSweeney Arms
+231759|Lismore House
+231762|Killeen House
+231763|Killarney Avenue
+231765|Kees and Leisure Club
+231768|Jackson's, Conference & Leisure
+231769|Inishbofin House & Marine Spa
+231777|East Clare Golf Village
+231789|Ardmore Country House
+231792|Aran View
+232012|Delphi Mountain Resort
+232014|Raheen Woods
+232029|The Station House
+232030|The Tides Guesthouse
+233261|Ard Mhuire
+233264|Killerig House
+233267|Kerry Ocean Lodge
+233276|Kilcoran Lodge
+233297|Lisloughrey Lodge
+233300|Kilronan Castle
+233305|Spiddal Holiday Homes
+234185|Fels Point
+234852|Waterville Holiday Homes
+245033|Killeshin
+245105|Strandhill Lodge & Suites
+245120|Ballybunion Golf Holiday Homes
+246452|Tullaleagan Guesthouse
+247187|Best Western Plus Ballina Manor
+247871|The Moorings
+247875|Cuan na Ri Holiday Villas
+248563|Pillo
+260089|Townhouse Dublin
+262270|Mercantile
+262283|Roxford Lodge Hotel
+264918|Corrib Heights - geschlossen
+266233|Crystal Springs B&B
+266234|Algret House Bed & Breakfast
+266238|Ashling House B&B
+266240|Aishling House
+266241|FlyOver Bed and Breakfast
+266244|Travelodge Stephen's Green
+266245|Glenmore House - Hostel
+266248|Harrington House Hostel
+266250|Bellgrove Bed & Breakfast
+266254|Shantalla Lodge B&B
+272265|The Old Imperial
+272266|Leahys Lee House - Bed & Breakfast
+273148|Jameson Court Self Catering Apartments
+273149|The Rise Guesthouse
+273150|Amber Heights Guesthouse
+273152|St. Judes Lodge
+273156|The Branches
+273383|Indigo Apartments
+273387|Boffin Lodge
+273390|Ardilaun
+273408|Riverview House Bed & Breakfast
+273410|Arch House B&B and Apartments
+273411|The Grand
+273413|Waterfront House
+273513|Clarion Suites Limerick
+273518|Kinvara Guesthouse
+273671|Liss Ard
+273880|Claddagh Moon B&B
+274124|Baileys Hotel Cashel
+274128|Ashwood Apartments
+274130|Tankardstown
+274262|The Strand Inn
+274360|Ferndale
+274798|Red Setter Guest House
+274799|Woodford Dolmen Hotel
+274901|Emmet House
+274902|Dooly's Hotel
+274926|Zuni
+274931|Riverbank House Hotel
+274932|Buille Toll - Bed & Breakfast
+274933|Greengates Bed and Breakfast
+274934|Tudor Lodge
+275731|Riverside Park Hotel & Leisure Club
+275734|Lawlors
+275735|Maudlins House Hotel
+276265|Ash Cottage
+276542|Broadmeadow Country House
+276543|Aisling Guest House
+276544|The Lucan Spa Hotel
+276545|Moat Lodge
+277171|Deerpark Manor Bed & Breakfast
+280770|Ballyroe Heights
+288357|Cavan Crystal
+289312|Monart
+289851|Bush Hotel
+291264|Newport
+292212|Park Place Apartments
+292762|Citypoint Apartments
+292785|Aisling B&B
+292786|Ocean Sands
+292804|Skahard Country Villa
+293000|Shores Country House Bed & Breakfast
+293001|Cherrybrook Country Home
+293672|Killyliss Country House
+294363|Clonmore Lodge - Bed & Breakfast
+296817|Ballinderry Inn
+297830|Blue Haven
+298108|The Gables
+298269|Ferrycarrig Lodge
+322762|The Huntsman Inn
+326132|Wolseley Holiday Lodges
+359728|The Marker
+365311|Lisdoonvarna Village Holiday Homes
+368443|Foleys-kenmare
+372876|Bellingham Castle
+372891|Yeats Country
+392379|Celbridge Manor Hotel
+400797|Nuremore Hotel & Country Club
+405712|Amber Springs
+417503|Premier Suites Dublin Ballsbridge Hotel
+417527|Park Lodge B&B

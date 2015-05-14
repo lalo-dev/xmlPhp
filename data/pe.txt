@@ -1,0 +1,312 @@
+15102|Jose Antonio
+16301|Libertador Arequipa
+16302|Palacio del Inka
+16618|Inkaterra Machu Picchu Pueblo
+17625|Monasterio
+19325|Foresta Hotel & Suite
+19326|Sonesta Posadas del Inca Cuzco
+21011|Machu Picchu Sanctuary Lodge
+21502|Sheraton Lima Hotel & Convention Center
+26396|Country Club Lima
+26988|JW Marriott
+27227|Sonesta El Olivar - Lima
+27229|Sonesta Posadas del Inca - Lake Titicaca
+31810|Sonesta Posadas del Inca Arequipa
+32030|Eco Inn
+35715|Melia Lima
+38959|Jose Antonio
+59569|Arqueologo
+65695|Doubletree El Pardo
+72019|Miraflores Park
+76136|Estelar Miraflores
+76414|Swissotel Lima
+76415|Casa Andina Private Collection - Valle Sagrado
+84135|Del Prado Inn
+84153|Basadre Suites
+84224|Clifford
+87404|Monte Real
+88527|Libertador San Isidro Golf
+90757|Casa Andina Private Collection - Miraflores
+90801|Mabey Palacio
+90802|Dorado Plaza
+91274|La Hacienda
+91280|Casa Andina Classic Cusco Plaza
+91281|Ruinas
+91282|Ramada Costa del Sol Cusco
+91521|Casa Andina Classic - Puno Plaza
+91522|Embajadores
+91523|San Agustin Internacional
+91524|Casa Andina Classic Arequipa Jerusalén
+92059|Ramada Costa del Sol Lima
+92354|Carmel
+92355|Libertador
+92356|El Gran Marques
+92358|Casa Andina Select - Gran Hotel Chiclayo
+92359|Ramada Costa del Sol Chiclayo
+92361|Libertador Titicaca Lake
+92362|Novotel Cusco
+92364|Casa Andina Private Collection - Puno
+92366|Casa Andina Private Collection - Cusco
+92367|Casa Andina Private Collection Arequipa
+93395|Colca Lodge
+93398|Sonesta Posadas del Inca - Sacred Valley - Yucay
+93402|Casa Andina Classic - Nasca / Nazca
+93603|Club Andino
+93909|Garden
+93911|El Condado Miraflores
+93912|Conquistadores
+105021|Best Western Los Andes De America
+106682|Del Pilar Miraflores
+107335|Golf Los Incas Apart
+108545|Delfines Hotel & Casino
+108547|Los Portales
+109664|Plaza del Bosque Apartment
+110347|Roosevelt & Suites
+110384|Sumaq Machu Picchu
+110914|Sofitel Royal Park
+121507|Las Americas Pardo Thunderbird
+129008|Hatuchay Tower
+129013|Eco Inn Cuzco
+129753|Mariel
+129754|San Agustin Exclusive
+132903|El Corregidor
+132904|San Agustin Posada del Monasterio
+132907|Los Apus & Mirador
+132912|San Agustin El Dorado
+132916|Casa Andina Classic - Cusco San Blas
+132917|Casa Andina Classic - Cusco Koricancha
+132918|Agusto's
+132922|Casa Andina Classic - Cusco Catedral
+132924|Antara
+132928|San Agustin Riviera
+132931|Suites Del Bosque
+132933|San Agustin Colonial
+132935|Grand Bolivar
+132937|Maria Angola
+132946|Balsa Inn
+132948|Casa Andina Classic - Puno Tikarani
+134094|Royal Inca II
+134095|Royal Inca I
+136865|Las Casitas del Colca
+137171|Sol & Luna Lodge & Spa
+137536|San Blas
+137538|Libertador Tambo del Inca
+137634|Royal Inka Pisac
+137635|San Agustin Urubamba
+137742|ACOSTA
+137781|PASTORURI
+137782|Thunderbird Carrera
+137783|San Agustin Monasterio de la Recoleta
+137801|Jose Antonio
+138081|Victoria Regia
+138824|Crowne Plaza Lima
+139167|Park Suites
+139463|Estelar Apartamentos Bellavista
+157628|Thunderbird Fiesta Hotel & Casino
+161890|New Corpac
+161892|Sonesta Posadas del Inca - Miraflores
+161896|La Fuente Arequipeña
+161897|Libertador Paracas Luxury Collection Resort
+161899|Radisson Decapolis Miraflores
+161900|Radisson San Isidro
+161901|Santa Cruz
+161904|Sol de Oro Suites Apart
+161905|Terra Andina
+161907|Second Home Peru
+161908|Prince Business & Spa
+161909|qp Hotels All Suites boutique
+161914|NM Lima
+161917|El Lago Estelar
+162141|El Ducado
+183226|San Jeronimo
+183227|Rio Sagrado
+183696|Inkayra
+183701|Jose Antonio Executive
+183703|Miramar
+187304|Casa San Blas Boutique
+187306|Casa Andina Classic - Miraflores Centro
+187307|Casa Andina Classic - Miraflores San Antonio
+196032|Aranwa Sacred Valley
+196033|Taypikala Cuzco
+208599|Duo Boutique
+212821|L'Baron Jockey Plaza Mall
+227137|Las Dunas
+227172|Novotel Lima
+227822|El Rosal Cusco
+227921|Sonesta Cusco
+228165|Habitat
+229958|Casa Boutique Spa Encantada
+229960|Casa de Campo
+229965|DoubleTree Resort by Hilton Paracas - Peru
+229967|Hacienda Majoro Boutique & Resort
+229974|Corto Maltes Amazonia Lodge
+233745|Chakana Hostel
+234531|Eco Inn Valle del Colca
+234533|Casa Cartagena
+234539|Munay Wasi Inn
+234541|Agusto's Urubamba
+236309|Casa Andina Select - Miraflores
+238649|Lima Wasi
+238764|Aranwa Boutique
+238854|La Hacienda Puno
+239178|Westin Lima Hotel & Convention Center
+239305|Tika Wasi
+239306|Buena Vista Cusco
+241611|Allpa Hotel & Suites
+247856|Faraona Grand
+249304|Mabey Urubamba
+249940|Tambo del Inka Resort & Spa
+249942|Stefanos Hotel
+259537|Palacio Nazarenas
+259791|Andean Wings
+259793|La Hacienda Plaza de Armas
+260342|Atton San Isidro
+260343|La Hacienda Bahía Paracas
+260344|Costa del Sol Trujillo
+261092|Maison du Soleil
+261309|San Francisco Plaza
+261613|Vichayito Bungalows & Carpas by Aranwa
+265763|Ferre Colonial
+266794|Florida del Inca Hotel
+266796|Casona les Pleiades
+266801|Misters Inkas Hotels Inn Palace Exclusive
+266803|Kenamari
+266805|Pacha Hotel Museo
+266810|Antawasi Cusco
+266811|Casa de Mama Cusco 2
+266813|Los Aticos
+266817|Hostal Tu Hogar
+266819|Hotel Golden Inca
+266820|Quinua Villa Boutique
+266821|Casa de Mama Cusco
+266826|La Morada
+266837|El Mirador de Santa Ana
+266838|Hotel Mister Inkas II
+266840|Hostal Madre Tierra
+266842|Rumi Punku
+266853|Tambo del Arriero
+266854|Sol Plaza Inn Hotel
+266855|Sumac Wasi
+266857|Torre Dorada
+266858|Inkas Inn Cusco
+266867|Kamana
+266868|D'Osma Bed & Breakfast
+266870|La Paz Apart Hotel
+266871|Las Palmas
+266874|HosteLima
+266875|Hotel Ferre Miraflores
+266877|Peru Star Boutique Apartments
+266878|Machu Picchu Suites
+266881|B&B Miraflores Wasi Independencia
+266884|Peruaparts
+266885|F1 Hostel
+266886|Vila Santa Hotel
+266887|Albergue Miraflores House
+266888|Killari
+266889|Open Guest House
+266890|Inka Frog Exclusive Bed & Breakfast
+266893|Casa San Martin
+266894|Soul Mate Inn
+266897|Esperanza
+266898|Pucllana Lodge Hostel
+266903|San Isidro Inn
+266905|Penascal Surf
+266908|Sm Hotel And Business
+266909|Aloja Inn
+266910|Inkari Suites Hotel
+266914|La Casa de Blanca
+266916|Cirque Hostel
+266920|Inkari Apart Hotel
+266923|Señorio Gran Hotel
+266927|Hostal Victor
+271194|Casa Arequipa
+271197|Helena - Arequipa
+271200|Hostal Villa Sillar
+271201|Dreams Boutique Hotel
+271202|qp Hotels Arequipa
+271203|Casona Terrace Hotel
+271204|Hostal Scandinavia
+271211|Hoteles Benavides
+271213|Refugio Ecológico
+271215|Inkanto
+271218|Azul Colonial Inn
+271219|Alwa Rooms & Services Hotel Boutique
+271221|La Casona de Palacio Viejo
+271222|Queen's Villa
+271225|Natura Inn
+271226|La Maison del Solar
+271232|Tradicion Colca
+272838|Hotel Manco Capac
+272840|Qalasaya
+272841|Conde De Lemos Hotel
+272844|Presidente Inn
+272847|Punuypampa Inn
+272850|Hotel Puno Terra
+272852|San Antonio Suites
+274136|Hotel Dubai
+274139|Amazon Apart Hotel
+274140|Nativa Apartments
+276026|Andescamp Lodge
+276028|La Casa de Maruja B&B
+276029|El Tumi
+276031|Hotel Colomba
+276033|Luna Rumi Lodge
+276039|La Hacienda del Valle
+276041|La Casona de Yucay Hotel
+276042|Inkallpa Valle Sagrado Lodge & Spa
+276131|Gran Bolívar
+276132|Le Mans
+276134|Las Palmeras Inn
+276135|Las Terrazas
+276137|Qhamar
+276138|Portada del Sol
+276139|Casa Muchik Boutique
+276140|Alexander
+276141|Residencial Munay Wasi
+276142|Plaza Grau
+276238|Killawasi Lodge
+276241|Hotel Kunan Wasi
+276784|El Albergue Ollantaytambo
+277192|Hotel Ollanta
+277334|Gran Palma
+277447|Sahara Mancora
+277448|Eco Lodge
+277449|El Escudero Lodge
+277451|Hotelier
+277452|Naif Rustic & Ecologic Lodge
+277979|Luxury Home San Jeronimo Cusco
+277980|Amerika Boutique Hotel
+277982|JW Marriott Hotel Cusco
+277989|ibis Larco Miraflores
+277990|Bayview Hotel
+283653|Costa del Sol Cajamarca
+284581|Costa del Sol Piura
+284827|Hotel Grandmare & Bungalows
+285257|Suites Larco 656
+289169|Los Portales Chiclayo
+291345|Royal Decameron Punta Sal
+292237|Qawana Boutique Lodge
+292473|Kuntur Wassi Colca Hotel
+293775|Samay Hostel
+294135|El Sauce Resort
+295106|Casa Andina Chachapoyas
+295107|Hotel Los Portales Tarma
+295428|Terrazas de Bocapán by Casa Andina
+295429|Los Balcones de Zorritos
+295431|Hotel y Restaurante El Molino
+296187|El Angolo
+296816|DCO Suites Lounge & Spa
+298261|Siete Ventanas
+300211|Aranwa - Pueblito Encantado del Colca
+300212|Nobility
+314937|The Guest House at Fallen Angel
+334836|Buena Vista Mancora
+359651|Ramada Costa del Sol Tumbes
+364983|La Posada De Los Tumpis
+365383|Four Points by Sheraton Miraflores
+367141|Arts Boutique B
+367143|Hilton Lima Miraflores
+371944|Casa Andina Classic Chincha
+372332|Casa Hacienda San Jose
+401052|Aranwa Paracas
+405298|Dazzler Lima

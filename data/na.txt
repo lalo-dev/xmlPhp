@@ -1,0 +1,187 @@
+13889|Heinitzburg
+15174|Avani Windhoek Hotel & Casino
+18382|Oropoko Lodge
+19116|Palmquell
+20849|Safari & Safari Court
+20899|Sam's Giardino
+21983|Sossusvlei Desert Lodge
+23652|Villa Verdi Guesthouse Hotel Windhoek
+24469|Windhoek Country Club Resort
+24498|Wolwedans - Dune Camp
+26106|Twyfelfontein Lodge
+26107|Kempinski Mokuti Lodge Etosha
+26111|Cañon Roadhouse
+26114|Canyon
+26116|The Nest
+26117|Hammerstein Restcamp
+26119|Okapuka Ranch
+26121|Midgard Country Estate
+26122|Ghaub Guestfarm
+26123|Etosha Garten
+26125|Hansa
+27685|Vingerklip Lodge
+27687|Mushara Lodge
+27688|Etosha Aoba Lodge
+27701|Helmeringhausen
+27704|Cañon Lodge
+27706|Kalahari Anib
+27707|Intu Afrika Kalahari - Zebra Lodge / Camelthorn Lodge / Suricat Tented Lodge
+27708|Rostock Ritz
+27710|Epako Game Lodge
+27712|Oshakati Country Lodge
+27713|Okonjima Main Lodge & Bush Camp
+27714|Otjibamba Lodge
+27715|Kulala Desert Lodge
+27717|Zebra River Lodge
+27718|Büllsport
+27719|Sossusvlei Lodge
+27720|Namib Naukluft Lodge
+27722|Swakopmund
+27725|Auas Game
+27850|Toko Lodge & Safariis
+27852|Palmwag Lodge
+31842|Huab Lodge & Bush Spa
+31843|Mowani Mountain Camp
+31844|Cape Cross Lodge
+31845|Protea Hotel Sea View Zum Sperrgebiet
+33078|Moni
+38195|Mount Etjo Safari Lodge
+38462|Namibia Wildlife Resorts (NWR) - Halali Resort
+38678|Desert Homestead & Horse Trails
+38919|Le Mirage Desert Lodge & Spa
+40159|GocheGanas
+42479|Namibia Wildlife Resorts (NWR) - Okaukuejo Resort
+42480|Protea Burning Shore
+48304|Ai Aiba The Rockpainting Lodge
+51363|N'Kwazi Lodge
+51364|Namushasha Lodge
+51366|Eagle Tended Lodge & Spa
+51367|Frans Indongo Lodge
+51369|Onganga
+51692|Namibia Wildlife Resorts (NWR) - Namutoni Resort
+51693|Palmwag Rhino Camp
+51695|Protea Walvis Bay
+51723|Vondelhof Guesthouse
+51724|Central Lodge
+51725|Desert Horse Inn / Eagles Nest Chalets - Desert Horse Inn
+51726|Intermezzo
+51727|Naua Naua Game Lodge
+52241|iGowati Lodge
+64729|Kavita Lion Lodge
+64731|Mahangu Safari Lodge
+64733|Etosha Safari Camp & Etosha Safari Lodge - Etosha Safari Camp
+64785|Etosha Gateway
+64787|Bagatelle Kalahari Game Ranch
+64788|Opuwo Country
+64789|Ameib Ranch
+64790|Rossmund Lodge
+68193|Little Kulala Lodge
+72715|Thule
+72716|Olive Grove Gästehaus
+72719|Doro Nawas Camp
+72721|Ruacana Eha Lodge
+72723|Etusis Lodge
+76371|Hakusembe Lodge
+76372|Bougain Villa
+76441|Grootberg Lodge
+76492|Europa Hof
+76618|Cañon Village
+76691|Protea Furstenhof
+76697|Sossusvlei Desert Camp
+76774|A Little Sossus Lodge
+76997|!Uris Safari Lodge
+77820|Ongava Game Reserve - Little Ongava
+78977|Haus Sonneneck
+79449|Etosha Mountain Lodge
+87079|Serra Cafema Camp
+90679|Protea Guesthouse Indongo
+90776|Desert Horse Inn / Eagles Nest Chalets - Eagle's Nest Chalets
+90780|Divava Okavango Lodge & Spa
+90841|Fischreiher Guesthouse
+91043|Sossus Dune Lodge
+91153|Jordani Gästehaus
+92220|Waterberg Camp
+103660|Namibia Wildlife Resorts (NWR) - Onkoshi Resort
+103662|Etosha Safari Camp & Etosha Safari Lodge - Etosha Safari Lodge
+103664|Hoodia Desert Camp
+103702|Adler Garni
+110524|The Elegant Guesthouse
+110566|Vogelstrausskluft Lodge
+110568|Camp Kwando
+110610|SeaSide Hotel & Spa
+128909|Taleni Etosha Village
+132773|Protea Thuringerhof
+135307|Protea Hotel Zambezi River Lodge
+135987|Amani Lodge
+135998|Guesthouse Terra Africa
+136003|Wolwedans - Dunes Lodge
+136004|The Stiltz
+136006|Onguma Treetop Camp
+136147|Okonjima The Villa
+136148|Etango Ranch
+136149|Old Traders Lodge
+136151|Mushara Outpost
+136805|Eagle Tented Lodge & Spa
+142295|Ohange Namibia Lodge
+142320|Caprivi River Lodge
+142389|Nunda Lodge
+142857|Casa Blanca Guesthouse
+142868|Uhland
+142875|Eagles Rock
+142891|Immanuel Wilderness Lodge
+142900|Zelda Game & Guest farm
+142905|Ondekaremba Gaestefarm
+160118|Protea Ondangwa
+160119|Protea Pelican Bay
+182850|Swakopmund Guesthouse
+182895|Ai-Ais Hotspring Spa
+182897|Ugab Terrace Lodge
+183079|Etotongwe Lodge
+183081|Ardilla Mini Lodge
+188293|Kambaku Safari Lodge
+203029|N/a'an ku se Lodge
+227837|Damara Mopane Lodge
+227838|Kaisosi River Lodge
+227839|Mazambala Island Lodge
+228003|Namibia Wildlife Resorts (NWR) - Dolomite Resort
+228170|Fish River Lodge
+228175|Moon Mountain Lodge
+228176|Swakopmund Boutique
+228177|Hilton Windhoek
+228178|River Crossing Lodge
+228182|Khowarib Lodge
+229898|Toshari Lodge
+232914|Royal Benguela Guesthouse
+234499|Protea Long Beach Lodge
+234783|Kalahari Farmhouse
+236247|Pebble Stone House
+238412|Emanya@Etosha
+239042|Kalahari Red Dunes Lodge
+239303|Onguma Safari Camps
+248440|Safari & Safari Court - Safari Hotel
+248441|Safari & Safari Court - Safari Court
+259365|Beach
+260965|Oyster Box Guesthouse
+279139|Villa Moringa Guesthouse
+279140|Etango Ranch Guestfarm
+295096|Popa Falls Camp
+298553|Nkasa Lupala Tented Lodge
+298836|Wolwedans - Private Camp
+298887|Namib Desert Lodge
+298891|Hohenstein Lodge
+298922|Waterberg Guest Farm
+299325|Onguma Game Reserve
+310953|Desert Breeze
+310991|Swakopmund Sands
+311008|Ongula Homestead Lodge
+335000|West Nest Logde
+335001|Ozongwindi Lodge
+335002|Camp Chobe
+359706|zum Kaiser
+363864|Olive Exclusive Boutique Hotel
+400880|Intu Afrika Kalahari - Zebra Lodge
+406427|Namib Dune Star Camp
+406459|Popa Falls Lodge
+407796|Uukwaluudhi Safari Lodge
+408796|Fiume Lodge
+408797|Africa Safari Lodge

@@ -1,0 +1,1226 @@
+8592|Batory
+10754|Copernicus
+12328|Europejski
+13416|Mercure Warszawa Grand
+13784|Hanza
+13951|Mercure Gdansk Stare Miasto
+14108|Scandic Wroclaw
+14109|Scandic Gdansk
+15010|Radisson Blu Sobieski Hotel
+16156|Le Meridien Bristol
+16921|Novotel Marina
+17306|Mercure Fryderyk Chopin - geschlossen
+19221|Pod Roza
+21497|Sheraton Warsaw
+23683|Sofitel Warsaw Victoria
+26455|Bornit
+26622|Mercure Karpacz Resort
+26623|Konradowka
+26624|Mercure Jelenia Gora
+27999|Golebiewski
+28001|Las Gizycko / Europa
+28002|Talty
+28003|Panoramic-Oscar
+28004|Mercure Mragowo Resort & Spa
+28005|Hotel Orbis Posejdon Gdansk
+28006|Anders
+28007|Sofitel Grand Sopot
+28009|Kormoran
+28011|Meduza
+28012|Sandra
+28013|Senator
+28015|Amber Baltic Hotel Miedzyzdroje
+28016|Etna
+28017|Wyspianski
+28018|Belweder
+28596|Park Hotel Kur & Spa Buczyn'ski
+28597|Mona Lisa
+28957|Monopol
+28961|Orbis Francuski
+29335|Atrium
+31703|Hotel Sofitel Wroclaw Old Town
+31735|Holiday Inn City Centre
+31736|Warsaw Marriott Hotel
+34322|Campanile Wroclaw Stare Miasto
+34323|Radisson Blu Breslau
+34324|Radisson Blu Szcecin
+34325|Campanile Krakau
+34326|Novotel Krakow Centrum
+34453|Schloss-gut-Hotel Kadyny Country Club
+34455|Atol
+34456|Haffner
+34457|Ewa
+34458|Schloss-Hotel Karnity
+34459|Podewils Schlosshotel
+34460|Amax
+36258|Senator Kurhaus
+36405|New Skanpol
+36406|Wolin
+36407|Fryderyk
+36408|Schloss Kliczkow
+36409|Sasanka
+36622|Dom Muzyka
+37748|Jantar
+38118|Regent Warsaw Hotel
+38133|The Westin Warsaw Hotel
+38230|Senacki
+38231|Radisson Blu Krakau
+38282|El Pak
+39563|Wodnik
+39664|Dwor Oliwski
+39666|Dozamel
+39667|Damian
+39668|Aurora
+39744|Campanile Warszawa
+40004|Sheraton Krakow
+40005|Novotel Szczecin
+40218|Schlosshotel Budzistowo
+40219|Energetyk
+40220|Warminska Gietrzwald
+40221|Mercure Kasprowy
+41306|Lazur
+41307|Mazurek
+41308|Bielik
+41310|Leo
+48266|Malachit
+48498|InterContinental Warschau
+49993|Novotel Warszawa Centrum
+49994|Mercure Warszawa Centrum
+49995|Radisson Blu Centrum Hotel
+50223|Novotel Krakow City West
+50224|Orbis Cracovia
+50683|Vera
+50774|Ibis budget Warszawa Centrum
+51151|Mercure Zamosc Stare Miasto
+51312|Kurhotel Pro-Vita
+52933|Ikar
+52961|Perla
+53077|Leba
+53078|Lidia
+53080|Promenada Hotel & Spa
+54719|Kursanatorium Mega
+54720|Unitral
+54721|Wellness & Spa Wy & Spa
+55557|Golden Tulip Warsaw Centre
+55724|Novotel Poznan Centrum
+55779|Villa Kunterbunt
+56006|Ester
+56051|Best Western Felix
+56052|Courtyard Warsaw International Airport
+56053|Gromada Lotnisko
+56244|Aspel
+56245|Krakus
+56246|Logos
+56247|Classic
+56248|Kazimierz I
+56273|Wanda
+56274|Novotel Warszawa Airport Hotel
+56394|Amadeus
+56567|Mercure Wroclaw Centrum
+56585|Ibis budget Wroclaw Stadion
+56663|Stadt/Land-gut-Hotel Wodnik
+56664|Robert's Port
+56665|Novotel Gdansk Centrum
+56690|Gromada Dom Chlopa
+56721|Justyna
+56722|Chopin Cracow
+56723|Sympozjum
+56728|Novotel Wroclaw Hotel
+56729|Hotel Novotel Poznan Malta
+56730|Mercure Gdynia Centrum
+56731|Orbis Polonez
+56732|Crown Piast Hotel & Park
+56733|Ruczaj
+56736|Orbis Hotel Wroclaw
+56737|Gromada Zakopane
+56738|Gromada Poznan
+56743|Orbis Giewont Zakopane
+56745|Best Western Galicya
+56756|Hotel Mercure Poznan Centrum
+56758|Best Western Kraków Old Town
+56759|Hotel Orient
+56760|HP Park Plaza Hotel
+56810|Polaris
+56813|Rybak
+57204|Regent
+57205|Rezydent
+57241|Baltic Park Resort Stoczniowiec
+57244|Passat
+57456|Alga
+57457|Cieplice
+57495|Start
+57711|Rialto
+57791|W.M. System Krakow
+58139|Villa Delfin Spa
+58420|Demel
+58424|Dedek Park
+58425|Hetman
+58953|Kurhaus Verano
+60226|Daisy
+60408|Best Western Hotel Portos
+60409|Aramis
+60410|Start Atos
+60884|Bona
+60885|Rokk
+61044|Grandhotel Krakow
+61045|Polski Pod Bialym Orlem
+61104|Petrus
+62768|Litwor
+62791|Belvedere
+62792|Czarny Potok
+63147|Airport Hotel Okecie
+63163|Polonia Palace
+63166|MDM
+63920|Metropol
+64056|Las
+64611|Land-gut-Hotel Piastow Grod
+64612|Jelenia Struga
+64659|Royal
+68243|Kurhotel Diament
+68847|Matejko
+68915|Akces
+69167|Monika
+69260|Ibis Warszawa Stare Miasto
+69261|Villa Baltica
+69530|Villa Herkules
+69531|Arthotel Posejdon
+69532|Argentyt
+69533|Villa & Hotel Lambert Medical Spa
+69535|Schloss Ryn
+69537|Alpejski
+69559|Gold
+69560|Spa Dr. Irena Eris Wzgorza Dylewskie
+70402|Wielki Blekit
+70403|Marena
+70404|Jantar Niechorze
+70405|Alcest
+70410|Jantar Ustka
+70411|Universal
+70440|Relax Inn Health & Spa
+70443|Helena
+70444|Akademicki Zwiazek Sportowy Wilkasy
+70900|LEO Karli
+70902|St. Lukas
+70932|Gromada
+71220|Rezydent
+72343|Ibis budget Torun
+72344|Silesia
+72346|Mercure Torun Centrum
+72646|Meduza
+73550|Afrodyta
+74690|Solny
+75444|Santorini
+75901|Bosman
+75902|Relaks
+75905|Gevita Jugowice
+75906|Geovita Ladek Zdroj
+75908|Geovita Zakopane
+75909|Redyk
+75910|Geovita Zlockie
+76011|Quality System Krakow West
+77084|Alexander
+77504|Erania
+77517|Orbis Neptun
+78003|Afrodyta
+78006|Reha Centrum Bad Schwarzbach
+78117|Omega Grzybowo
+78492|Baltic Park Swinemünde
+78493|Vestina
+78516|Eden
+78641|Albatros
+78892|Sheraton Poznan
+79159|andel's Cracow
+79756|Geovita Mrzezyno
+79757|Laola
+79758|Villa Anna Lisa
+79759|Geovita Dzwirzyno
+79760|Geovita Dabki
+79830|Lubicz
+79982|Qubus Krakow
+80290|Ewa Medical & Spa
+82514|San
+82568|Art
+82574|Hotel Efekt Express Kraków
+82871|Kurhotel Berliner
+82872|Krysztal Conference & Spa
+82873|Kurhaus Wielka Pieniawa
+84294|Mamaison Hotel Le Regina
+84358|Saski
+85087|Dom Zdrojowy
+85089|Zdrowie
+85090|Kurhaus Zacisze
+85091|Sanatorium Jan Kazimierz
+85092|Sanatorium Rybniczanka
+85093|Millennium
+85094|Kurhotel Baltyk I & II
+85095|Sanatorium Mewa 1/Mewa 4
+85096|Sanatorium Muszelka
+85097|Jantar SPA
+85890|Qubus Glogów
+85891|Qubus Legnica
+85893|Qubus Walbrzych
+85898|Qubus Gliwice
+85899|Papuga Park
+86001|IBB Grand Lublinianka
+86002|Orbis Aria Sosnowiec
+86003|Mercure Czestochowa Centrum
+86004|Mercure Lublin Centrum
+86008|Arkona - geschlossen
+86051|Jantar
+86272|Kurhaus Bad Flinsberg
+86273|Kurhaus Perelka
+86274|Kurhaus Baginscy Spa
+86275|Kurhaus Albatros
+86553|Novotel Katowice Centrum
+86594|Milomlyn
+86599|Ariston
+86606|Villa Scaliano
+86607|Agat
+86610|Willa Taaakaryba
+86709|Pod Wawelem
+86938|Ibb Andersia
+87116|Bursztynowy Palac
+87183|Kurhotel Adam & Spa
+87185|Swieradow
+87189|Kurhotel Krysztal
+87190|Kuranlage Syrena
+87191|Kurhaus Olymp & Olymp II & Olymp III
+87192|Kurhaus Maxymilian
+87195|Kurhaus Niwa
+87196|Kurhaus Bryza
+87456|Paszkowka Palace
+88319|Vivaldi
+88432|Royal Route Residence by ApartmentsApart
+88444|Old Town
+88509|Hotel Jan
+88529|Praski Hotel
+88769|Kazimierz II
+90094|Arka Medical Spa
+90120|Campanile Szczecin
+90123|Tumski
+90180|Major
+90499|Kurhaus Gryf
+90504|Górnik Kurhaus
+90917|Villa Rezydent
+90918|Villa Tarsis
+91465|Sanatorium Agat
+91466|Polonia
+91468|Polaris III
+91469|Polaris II
+91470|Nautilus
+91471|Kurhaus Max
+91955|Witek
+92060|Hotel Nosalowy Dwor & Hotel Grand Nosalowy Dwor - Nosalowy Dwór
+92061|Bania Thermal & Ski
+92063|Maria
+92064|Willa Szarotka
+92782|Farmona SPA
+92911|Atrium
+92913|NH Poznan
+93226|Villa Jedynak
+93290|Nad Parseta
+93722|Columbus
+94203|Hilton
+95002|Alexander II
+95003|Hotel Amber
+95135|Campanile Lodz
+95222|Dolina Charlotty
+95223|Ksiezycowy Dworek
+95224|Masuria & Spa
+95536|Baltic Home Regina Maris
+95537|Pension Plaza
+97063|Qubus Maria Magdalena Wroclaw
+97334|Ikar Plaza
+97407|Kurhaus Bursztyn/Bernstein
+97924|Best Western Bonum
+99214|Campanile Poznan
+99887|Villa Eva
+99889|Ostoya Palace
+100512|Qubus Lódz
+100513|Qubus Prestige Katowice
+100519|Wolne Miasto
+102694|Willa Albatros
+102695|Secesja
+102696|Spatz
+102697|Maly
+102835|Oliwski
+103207|Vivaldi
+103210|Carmen
+103212|META
+103213|Helios
+103650|Best Western Premier Krakow Hotel
+104270|Babka Tower
+104310|Bartan Gdansk
+105059|Mazurkas
+105604|Campanile Katowitz
+106709|Diament
+106711|Diament Economy Gliwice
+106712|Diament Zabrze
+106931|Europejski
+107151|Fortuna
+107830|Holiday Inn Warschau Josefow
+107935|HP Park Olsztyn
+108208|Kongresowy
+109055|Bochnia Hotel & Spa
+109137|Monopol
+109195|Nadmorski
+109267|Noma Residence
+109365|Omega
+109487|Opera
+109721|Prezydencki
+109931|Qubus Zlotoryja
+110119|Mamaison Residence Diana
+110163|Reytan
+110367|Royal
+111097|Quality System - Hotel Poznan
+111542|Villa Marilor
+111642|Wentzl
+111758|Mercure Cieszyn
+122390|Freedom Hostel
+122862|Magnolia I
+122863|Pod Jeleniem
+124844|Quality System Wroclaw North-East
+124846|Poleski
+124847|Rubinstein
+124848|Ascot
+124849|Campanile Lublin
+124850|Sheraton Sopot
+127382|Willa Lubicz
+128786|Villa Angela
+128789|Stare Miasto
+128790|Noce i Dnie
+128792|Galery 69
+129765|Polonia
+132985|Pod Orlem
+132991|Stara Karczma
+132994|ParkHotel Economic
+132997|Stary
+132998|Atelier
+132999|BlueBells Apartments
+133000|The Bonerowski Palace
+133003|Miramar
+133004|Pod Czarna Roza
+133007|Ibis Ostrobramska
+134442|Aquarius Spa
+135105|Kielczanka
+135106|Diva
+135204|Kursanatorium Krus
+135442|Benefis
+135667|Król Plaza Spa
+135668|Willa Alexander
+135674|Filmar
+135804|Verde Montana
+135925|Radisson Blu Gdansk
+136249|Bernstein Wellnesszentrum
+136478|Silesian - Economy
+136479|Silesian - Quality
+136539|andel's Lodz
+136540|Marina
+136544|Manor
+136708|Apis
+138053|Grand Lodz
+138190|Redbrick Aparthotel
+138192|Wielopole
+139701|Willa Jolanta
+142039|Gdansk
+142181|Ambasador
+142182|Bellamonte
+142183|City Park Hotel & Residence
+143106|HP Park
+143385|Lesna Polana
+144359|Kossak
+145134|The Secret Garden
+145248|Zentrum SPA Chimera
+160240|Maximus Spa
+161935|Ibis Lodz Centrum
+161936|Ibis Warszawa Centrum
+161938|Kuracyjny
+161943|Floryan
+161945|Borys
+161947|Solar Palace
+161948|Astoria
+161952|Warminski
+161955|Lezno Palace Airport
+161964|Caspar
+161965|Antique Apartments
+161967|Villa Sedan
+161970|Ibis Czestochowa
+161972|Elektor - Old Town - Krakow
+161975|MaMaison Parkhotel Vienna
+161976|David
+161977|Ibis Szczecin
+161980|Rigga
+161981|Ibis Katowice Zabrze
+161982|Ibis Poznan Centrum
+161983|Focus Lodz
+161984|Focus Szczecin
+161985|NIL POL Apartments
+161986|Mikolaj
+161987|Ottaviano
+161990|Qubus Gorzów Wielkopolski
+161991|Qubus Kielce
+161992|Ibis Krakow Centrum
+161993|Park Hotel Diament
+161994|Diament Ustron
+161995|Turowka
+161998|Apollo
+162002|Best Western Villa Aqua
+162003|Olimpia
+163483|Villa Royal
+177193|Old Time
+182411|Arstone Villa am Park
+182420|Sandra Spa Karpacz
+182804|Hotel & Medi-Spa Bialy Kamien / Weißer Stein
+182990|Qubus Gdansk
+182991|Park Inn by Radisson Krakow
+183162|Leda
+183708|Kazimierz Residence
+188108|Unicus
+196055|Trofana
+196199|Willa Port Resort
+197222|Golabek
+201491|Ferienanlage Promenada
+201493|Ferienanlage Grzybowo
+201494|Aparthotel Kolobrzeg
+201496|Ferienanlage Jaroslawiec
+201498|Villa Fred
+201499|Feriendorf Mamry
+201769|Platinum
+202308|Renusz
+202309|Anek
+202572|Globus
+202987|The Granary - La Suite Hotel
+203207|Wloski
+203208|Swing
+203209|Fero Express
+203630|1231
+203733|AAA Krakow Apartments - Atlantis Apartments
+203806|Abella Guest Rooms & Apartments
+203940|Afrodyta
+204050|Akira Bed&Breakfast
+204506|Stadt-gut-Hotel Ambasador
+204602|Angel Bed & Breakfast
+204651|Antica Guesthouse
+204676|Hotel Rozany Gaj
+204875|Apartamenty Bracka 6
+204879|Apartamenty Hotelowe Zgoda by DeSilva
+204880|Apartamenty Muzyczny Kraków
+204889|Apartamenty Tww Lubicz
+204890|Apartamenty TWW Tomasza
+204921|Aparthotel Panorama Avangard
+204923|Aparthotel Park Avangard
+204945|Apartment Lemon
+204975|Apartments Florian - Kazimierz
+205216|Arkadia
+205251|Art Niebieski
+205434|Atrium
+205612|B & B Unikat Pokoje Goscinne
+205671|B&B Kolory
+205720|Bacero
+205898|Bayjonn
+206087|Belwederski
+206182|Best Western Premier Katowice Hotel
+206235|Bis
+206240|Biskupia Apartments
+206266|Blow Up Hall 5050
+206325|Bohema Hotel & Spa
+206351|Boogie Hostel
+206449|Branicki
+206607|Bulwar
+207070|Castle Inn
+207154|Central Krakow Apartments
+207188|Centrum
+207190|Centrum Dikul
+207192|Centrum Kongresowe IOR
+207423|City
+207595|Columbus
+207673|Conrad
+207865|Cristal Park
+207873|Crocus
+207911|Crystal Suites
+208299|Hotel Mercure Warszawa Airport
+208320|Park Hotel Diament Wroclaw
+208396|Dom Casimi
+208428|Domino Apartments
+208454|Don Prestige Residence
+208622|Dwa Bratanki
+208623|Dwór Kosciuszko
+208630|Dziki Potok
+208774|Elbrus Spa & Wellness
+208980|Europa
+209001|Europa
+209013|Europeum
+209018|EuroResidence Apartament Home
+209320|Florianska Apartment House
+209432|Frolic Goats Hostel
+209459|Gaja
+209474|Galicja
+209840|Globtroter
+209857|Aparthotel Station
+209905|Gosciniec Nowa Wioska
+209940|Havet Resort & Spa
+209985|Grand Rzeszów
+210005|Grand Sal
+210070|Grodek
+210074|Gromada Koszalin
+210084|Grot
+210114|Guest Rooms Maria
+210453|Hetman
+210598|Holland House Residence
+210890|Hostel Yellow
+210931|Geovita Wisla & Conference Center
+211600|Huzar
+211717|Ilonn
+211736|Impresja
+211915|Jasek
+212009|Kamienica Pod Kasztanami
+212029|Karmel
+212061|Kazimierz Secret
+212204|Kopernik
+212217|Hotel Korona Spa & Wellness
+212224|Kraków City Apartments
+212252|Kudowa
+212434|La Gioia Designer's Lofts Luxury Apartments
+212435|La Gioia Modern Designed Apartments
+212510|La Petite
+213125|LeoApart
+213486|Lord
+213612|Best Western Grand Hotel
+213706|Maltanski
+213943|Mazury
+213991|Melody Hostel
+214352|Murowanica
+214447|Neptun
+214648|Oberza Pod Lipami
+214649|Oberza Sasiadów
+214681|Oki Doki Hostel
+214803|Magnat Spa
+214808|Osrodek Hotelarski Fian
+214844|P&O Apartments
+214850|Palac Paulinum
+214851|Palac Wojanów
+214963|Panorama
+215123|Patio
+215398|Pensjonat Max
+215400|Orzel Pensjonat & Apartments - Pensjonat
+215404|Pensjonat Stara Wedzarnia
+215442|Pergamin Apartments
+215462|Petite Fleur
+215576|Platinium
+215624|Via Steso
+216398|ProHarmonia Rezydencja Wellness
+216684|Rejs
+216932|Residence St. Andrew's Palace
+217083|Rest Warschau
+217174|Reymont
+217176|Rezydencja 5 Debów
+217177|Rezydencja Krasickiego
+217179|Rezydencja Solei
+217492|Royal Baltic
+217541|Ruben
+217576|Rycerski
+217586|Sloneczny Mlyn
+217674|Salwator Apartments
+218173|Solei
+218374|Start
+218639|Teczowy Mlyn
+218659|Tango House Bed & Breakfast
+219700|Top Apartments
+219840|Trzy Swiaty
+219889|Twardowski
+219901|Tyniecki
+220024|Vega
+220044|Ventus Rosa Apartments
+220065|Vestina
+220081|Victoria Apartments
+220150|Villa Admiral
+220382|Villa Pascal
+220397|GreenLine Hotel Villa Red
+220422|Villa Sart
+220449|Villa Tilia
+220455|Villa Toscana
+220475|Villa Verdi Pleasure & Spa
+220485|Villa Zakamycze
+220636|Wawel
+220759|Wilenski
+220760|Wilga
+220767|Willa Arkadia
+220768|Willa Atelier
+220769|Willa Atena
+220772|Willa Carlton
+220773|Residence Willa Isabel
+220774|Willa Jaskowy Dworek
+220777|Willa Kominiarski Wierch
+220786|Willa Zameczek
+220823|Witomino
+221311|Barka
+221609|Kocierz Hotel & Spa
+221639|Czarny Kos
+221746|DeSilva Inn Katowice Airport
+221747|Desilva Piaseczno
+221810|Duo
+221814|Dwór Kaliszki
+222075|Gromada Busko Zdrój
+222076|Gromada Lomza
+222077|Gromada Pila
+222079|Gromada Radom Borki
+222080|Gromada Radom Centrum
+222294|Geovita Krynica-Zdroj
+222383|Iskra
+222443|Klimek Spa
+222465|Krynica Conference & SPA
+222714|Mlyn
+222813|Morag
+222844|Murat
+222900|Orle
+222903|Ossa Congress & Spa
+222914|Palac Brunów
+222952|Parkhotel Lyson
+223037|Pensjonat Maxim
+223117|Prezydent
+223469|Spa Dr Irena Eris Krynica Zdrój
+223539|Szara Willa
+223697|Victor
+223741|Villa Estera - Hotel & Restauracja
+223816|Schloss-gut-Hotel Wieniawa
+223819|Wilga by Katowice Airport
+223851|Zielona Weranda
+226879|angelo Katowice
+227014|Sand
+227292|Land-gut-Hotel Olympic
+227880|Villa Romantica
+227881|Artus
+228395|Boss
+228559|Dwor Polski
+228660|Hotel GEM
+228703|Marine Hotel & Ultra Marine by Zdrojowa - Marine Hotel
+228749|Irys
+228750|Kurhaus Amber Spa
+229503|Galion
+230100|Bursztyn
+230111|Rubbens & Monet - Rubbens
+230122|Pensjonat Ogrodow
+230188|Hotton
+230189|Stadt-gut-Hotel Faltom Spa
+230193|SPA Jawor
+230206|Dworek Osada Wedrowca
+230209|Gästezimmer Apartments Basztowa
+230210|AparAstor
+230214|Delta
+230218|Golden Lion Apartments Szewska
+230226|Aparthotel Siesta
+230229|Maksymilian
+230232|B.A.S. Villa Residence
+230235|Hostel 70's
+230243|Dworek Tryumf
+230246|Centrum Konferencji i Rekreacji Akwawit
+230252|Black & White
+230256|Novum
+230258|Zbyszko w Nowogrodzie
+230263|Stylehotels Vacanza
+230266|Villa Sentoza
+230271|Wiktoria
+230289|Tatra Chalet
+230291|Grand Stamary
+230292|Skalny
+230577|Geovita Jadwisin
+231635|Hilton Gdansk
+231642|Stary Tartak
+231906|Villa Jantar
+231908|Puchacz
+231990|500
+231998|Duet
+232002|Lech
+232039|Kacperski
+232044|Pensjonat M.F.
+232054|Zamek Czocha
+232059|Zimnik
+232430|Polonia
+232431|Bocianie Gniazdo
+232599|Centrum
+232918|Hilton Garden Inn Krakow
+233351|Delfin
+233412|Hotel Villa Antares I / II
+233414|Hotel Villa Antares I / II - Villa Antares II
+233416|Slavia
+233417|Panorama Spa
+234559|Golden Cracow
+234979|Old Town Apartments Grodzka
+235198|Pension Gaviata Loca
+235279|Baginski & Chabinka Spa
+235280|Kurhaus Grunwald
+235281|Stary Dziwnów
+235282|Lubiewo Forest & Sea Resort
+236133|Gryf
+237164|Kurhaus Zameczek
+238668|Interferie Medical Spa
+238808|Diament
+238809|GreenLine Schloss Stonsdorf / Palac Staniszow
+239309|Motel Morawica
+239874|Kinga Hotel Wellness
+239986|Pergamin Aparthotel
+240413|Galaxy
+240415|Camea
+240504|Baltic Plaza Hotel Medi Spa
+240595|Bungalowanlage Gryf
+240602|Ferienpark Stilo
+240605|RK Hostel
+241056|Focus Gdansk
+241059|Schloss Nowecin
+241635|Amber
+241660|Jantar
+241672|Spa Dom Zdrojowy
+241680|Wellstreet Hotel
+241696|Arsenal Palace
+241697|Queen Boutique
+241961|Kurhaus Wistom
+242868|Paula Wellness und Spa
+242869|Orka
+244227|Holiday Inn Bydgoszcz
+245561|Doris Spa
+246177|Marine Hotel & Ultra Marine by Zdrojowa - Ultra Marine
+246307|Kurhaus Kaja
+247465|Health Resort & Medical Spa Panorama Morska
+247466|Medical Park - Riverside Spa
+247914|Platinum Palace Residence
+247915|Platinum Palace Apartments
+247916|Platinum Palace
+249229|Piast
+249497|Poziom 511 & Spa
+249498|Camping Malta & Hotel
+249499|Puro
+249518|Palac Brzezno
+249521|Batory
+249523|Best Western Hotel Poleczki
+249524|B&B Hotel Warszawa-Okecie
+249525|Admiral
+249526|Czarna Perla
+249531|Logos
+249533|Dom Sonata
+249542|Neptun
+249543|Ibis Styles Gdynia Reda
+249545|Na Skarpie
+249546|Delfin - Bildungs & Sportzentrum
+249548|Dom Nauczyciela
+249549|Falko
+250066|Hampton by Hilton Swinoujscie
+259302|Golebiewski Karpacz
+259372|Sloneczny Dom
+259377|Schloss-gut-Hotel Sarmata
+259396|Villa Mariner
+259552|Qubus Bielsko-Biala
+259553|Morski
+259554|Home Krakau
+259555|St. Norbert
+259556|Colibra
+259740|Kurhaus Poznanianka
+259802|CKP Kolberg
+259860|Lazur
+260513|Puerto Banus Spa Resort
+260581|Villa Bravo
+260658|Kurhotel Victoria SPA
+260944|Gwarek
+260945|Kotarz Spa & Wellness
+260959|Grand Cru
+261214|Campanile Wroclaw Centrum
+261308|Aneta
+261556|Golden Tulip Miedzyzdroje Residence
+264672|Platinum Residence
+264675|ApartHotel Miodosytnia
+264677|Club Hotel Atlantic
+264684|Old Town Apartments Slawkowska
+264685|Rubens Guest House
+264686|U Pana Cogito Hotel
+265768|Jan & Aquapark
+265775|Best Western Gorzow Wlkp.
+270522|Apartment Gdansk Seaside Koga
+270523|La Guitarra Hostel
+270525|Hotel Beethoven
+270527|Apartment Mysliwskie Wzgorze
+270529|Apartment Ogarna
+270532|Artus
+270536|Apartament Szeroka
+270537|Apartment Nebbia
+270539|Hotel Spojnia
+270540|Gdanska Szkola Floretu
+270542|Straszny Dwor
+270884|Apartment Bonne Journee
+270885|Villa Martini
+271391|Aparthotel Delta Zakopane - Delta Garden
+271395|Dwór Karolówka
+271396|Willa Jan
+271398|VISITzakopane Sun Apartments
+271399|Hotel Rysy
+271402|Willa Tatry
+272044|Elektoralna Apartment
+272045|Rycerska Apartment
+272047|Platinum Apartamenty
+272048|Marszalkowska Apartment
+272049|Design City Mostowa Apartment
+272050|SleepWell Apartments
+272051|Senator Warsaw
+272053|Szucha Apartment
+272054|Design City Brzozowa Apartment
+272055|Hostel Krokodyl
+272056|Design City Freta Apartment
+272058|Warsaw Design Apartments
+272060|Bed and Breakfast Nowolipki
+272061|Duval Serviced Apartments
+272062|Podwale Apartment
+272065|WawaBed Bed & Breakfast
+272066|Design City Suzina Apartment
+272068|Exclusive Apartments Atelier R
+272069|Hotel Arkadia Royal
+272070|TWW Mokotow - Apartments
+272073|NaOpaczy Villa
+272077|Haston City Hotel
+272078|Boogie Hostel Deluxe
+272079|Academus Pub & Apartments
+272080|Exclusive Apartments Just In Center
+272082|24W Apartments Rynek
+272083|Ami Hotel Bed and Breakfast
+272084|Apartment Central
+272087|Dragon Aparthostel
+272088|Smart Studio
+272089|Red Kurka Apartments
+272090|Emotions
+272092|Crystal Suites Chez Rubinstein
+272093|Komorowski Luxury Guest Rooms
+272099|Sewa Apartamenty
+272100|Hostel Euro-Room
+272102|Zodiakus Hostel
+272108|Old Walls Hostel
+272112|Aparthotel Adler
+272113|Nobel Suites
+272114|Green Energy Rooms
+272117|Flower Hostel
+272125|Liv'Inn Aparthotel
+272126|Old Town Apartments Krakow
+272151|Monte Cassino De Luxe
+272153|Apartament Aleksander
+272154|Mera Spa Hotel
+272155|Apartament Wiktor
+272156|Apartments Sopot
+273056|Hotel St. Bruno
+273415|Park Hotel
+273416|Marina Hotele Przestrzenna
+273417|Marina Hotele Twardowskiego
+274219|Ikar Hotel
+274222|Apartament Grunwald
+274223|Hotelik 31
+274225|Apartments Poznan
+274227|Comfort Suite nr 2
+274231|Apartament Galileo
+274233|Poznan Apartment with a View
+274234|Garden Boutique Hotel
+274317|Villa & Hotel Lambert Medical Spa - Villa Lambert
+274386|Apartamenty Ustka Krokus
+274457|Villa Pallas
+274458|Palac Pakoszow
+274459|Apartament Dariusz
+274586|Hotel Carskie Koszary
+274653|Czardasz
+274721|Willa Puck
+274948|Czarny Potok Resort & Spa
+275374|Best Inn
+275375|Hotel Focus Bydgoszcz
+275376|Park Hotel Bydgoszcz
+275430|Hotel Liburnia
+275495|Corona
+275678|Hotel Royal
+275686|Vistula Apartments
+275729|The Grawert Residence
+275778|Hotel Bella Notte
+275779|Hotel Olympia Spodek
+275780|M Hotel Sosnowiec
+275842|Ambasador Centrum Hotel Lodz
+275843|Ambasador Chojny Hotel Lodz
+275844|NoBo Hotel
+275845|M Hotel
+275846|Loft Aparts
+275850|Hotel Palac Jugowice
+275881|Villa Polanica
+275882|Bukowy Park Hotel Medical Spa
+275883|Hotel Polanica
+275884|Hotel Alpejski
+276050|Hotel Gwarna
+276053|Ibis Styles Walbrzych
+276078|Amber Palace
+276194|Nawigator
+276195|Modrzewie Park Hotel
+276317|SPA Hotel Splendor
+276610|Apartamenty Komfort
+276612|Gromada Cedzyna
+276613|Odyssey ClubHotel Wellness & SPA
+277028|Hotel Podkowa
+277136|Hotel Bartis
+277137|Krasicki
+277138|Rado
+277140|Komfort Inn
+277142|Rezydecja
+277143|ComfortBiznes Pruszkow
+277144|Hotel Moscicki Resort & Conference
+279293|Apartament Nadmorski Gdansk
+279294|3City Hostel
+279295|Apartamenty VNS
+279586|Ibis Warszawa Reduta
+279587|Triton Park Apartments
+279588|Holiday Inn Express Warsaw Airport
+279589|Piano Guest House
+279590|Apartamenty pod Wawelem
+279592|Ibis Krakow Stare Miasto
+279593|Antique Apartments - Asnyka
+279594|4Seasons Apartments Cracow
+279595|Antique Apartments - Dunajewskiego
+279596|Cracow Stay Apartments
+279597|Cracow Old Town Guest House
+279598|Antique Apartments - Michalowskiego
+279600|Antique Apartments - Radziwillowska
+279601|Enigma Hostel & Apartments
+279602|Antique Apartments - Slawkowska
+279603|Antique Apartments - Studencka
+279604|Secret Garden Apartment III
+279605|Antique Apartments - Worcella
+279606|Vanilla Aparthotel
+279608|Apartament Nadmorski Sopot IV
+279609|Apartament Nadmorski Sopot 2
+279610|Apartament Nadmorski Sopot 1
+282702|Gloria Hotel
+282988|Holiday Inn Lodz
+283604|Hilton Garden Inn Rzeszow
+284634|Mlyn Jacka Hotel & Spa
+284847|Hostel Helvetia
+286115|Best Western Plus Arkon Park Hotel
+286637|Villa Holiday Park
+286639|Hotel Slask
+289352|Days Hotel Katowice
+292102|Kaisergarten
+292103|Amberia
+292104|Baltic Sun
+292113|Kurhaus Olymp & Olymp II & Olymp III - Olymp
+292114|Kurhaus Olymp & Olymp II & Olymp III - Olymp II
+292115|Kurhaus Olymp & Olymp II & Olymp III - Olymp III
+292553|Centrum Konferencyjno-Rekreacyjne Czarna
+292554|Z - Hotel
+292555|Hotel Trzebnica
+292556|Palac Alexandrów
+292560|Folwark Stara Winiarnia
+292787|Dobosz
+292985|Villa Hof
+292986|Hotel Remes
+293062|Manor House Lisewski Dwór
+293117|Hotel Herman
+293436|Hotel Jozefina
+293437|Park Hotel Tryszczyn
+293447|Pensjonat Megi
+293470|Zamek Lubliniec
+293471|Hotel Szafran Katowice Czeladz
+293506|Hotel Modrzewiówka
+293573|ComfortExpress Swiebodzin
+293574|Hotel Karlów
+293805|Schloss Dubiecko
+294268|Palac Mysliwski - Orle
+294269|Kombornia Manor Hotel Spa
+294272|Willa Anna
+294273|Lesny Dwor
+294592|Pokoje Goscinne Katarzyna i Dariusz Kaminscy
+294594|Karczma Chelminska
+295108|Hotel Mercure Piotrkow Trybunalski Vestil
+295109|Royal Hotel Modlin
+295432|Hotel Wodnik
+295433|Dwór Elizy Spa Medical
+295434|Hotel Welski
+295442|Perla Baltyku
+295650|The Secret Garden Studio
+295652|The Secret Garden Apartment II
+295677|Premiere Classe Wroclaw Centrum
+295790|Residenz Finezja
+300875|Aktiv-Resort Masurische Seen
+301116|Villa Florek - Spa & Willa Arielka - Willa Arielka
+301573|Baltic Smile
+301586|Copernicus Torun
+302611|Sanatorium Relaks
+302612|Kurhaus Dom Zdrojowy
+302613|Kurhaus Edward
+302614|Caspar
+302615|Altes Kurhaus
+302617|Kurhaus Wojciech
+302644|Sanatorium Barbarka
+302645|Kurhaus Chalkozyn
+310897|Interferie Sport Hotel & Aquapark
+310922|Dolce Vita
+311229|Cristal Resort
+324438|Hotel Apartamenty Retro
+354401|Czeszka
+354425|Cottonina Villa & Mineral Spa Resort
+354510|Habenda
+354511|Osada Dankow
+359383|Sulislaw Palace
+359486|Butorowy Dwor
+363239|JM Apart Hotel
+363459|Hotel Glamour
+363461|Sulkowski
+363477|Villa Rezydent Sky
+363866|Villa Solaris
+363870|Pension Stachowiak Family
+363976|Boulevard Ustronie Morskie by Zdrojowa
+364142|Apartment4you
+364143|Stalowa 52 Hostel & Apartments
+364144|Moon Hostel
+364153|Hotel Pulawska Residence
+364157|JOVI Apartments
+364158|Artis Hotel & Spa
+365046|Golden Tulip Gdansk Residence
+365047|Warszawianka
+365356|Grand Lubicz
+365357|Mikolajki Hotel
+365358|Mikolajki Resort by DeSilva
+365411|Slowiniec
+365516|Malinowy Dwor
+365521|Santa Monica
+365554|Golden Tulip Krakow City Center
+365603|Era
+367865|Fahrenheit Hotel Gdansk
+367866|Hampton By Hilton Gdansk Airport
+368307|DoubleTree by Hilton Hotel & Conference Centre Warsaw
+368308|Exclusive Apartments 19 Dzielnica
+368312|Hampton By Hilton Warsaw Airport
+368313|Hampton By Hilton Warsaw City Centre
+368327|As Apartments South Wroclaw
+368332|Moderion Apartments
+368338|Apartamenty Zakrzowek-cracow
+368339|Aparthotel Weekend
+368345|Mercure Raclawice Doslonce Conference & Spa
+368346|Hotel Magnat Airport
+368347|Puro Hotel Krakow
+368350|Yarden Aparthotel Krakow
+369212|City Solei Boutique Hotel
+369218|Kolegiacki Hotel
+369219|Korel Hotel
+369308|Apart Hotel Gwiazda Morza - Wladyslawowo
+369352|Kopernik Hotel Olsztyn
+369621|Mercure Krynica Zdroj Resort & Spa
+369634|Koscielisko Residence
+370181|Campanile Bydgoszcz
+370183|Kuznia Hotel Bydgosczcz
+370430|Doubletree By Hilton Lodz
+370432|Hotel Tobaco Lodz
+370433|Novotel Lodz Centrum
+370556|Red Baron
+370560|Centrum Konferencyjne Hotel Focus
+370564|Luxor Hotel
+370787|Bristol Tradition And Luxury
+370789|Hotel Rzeszow
+371887|Kombornia Guests Rooms-korczyna Krosno
+371889|Hotel Piaskowy Pszczyna
+371980|Hotel Fajkier Wellness And Spa-kroczyce
+372477|Atrium SPA Apartamenty
+372784|Villa & Hotel Lambert Medical Spa - Hotel Lambert Medical Spa
+372901|Hostel Poco Loco
+372939|Sloneczny Brzeg
+372948|Greno Hotel & Spa
+374477|Villa Asesor
+374503|Arena
+374509|Apartinfo Szafarnia Apartamenty
+374516|Gdansk Apartment Service
+374526|Pod Or Em
+376658|Spiacy Rycerz Willa
+376666|Orla Willa
+376667|Panorama
+376670|Sabala
+376677|Pod Brzyzkiem Willa
+376682|Villa Vita
+377363|H15 Boutique Apartments
+377379|Executive Suites Apartamenty
+377409|Delta Apart House
+377411|Grape Hotel
+377426|Villa Maria Bed And Breakfast
+377447|Novum House Apartamenty
+377482|Central Hostel Sopot
+377483|Villa Antonina
+377495|La Siesta
+381484|Nocleg Poznan
+381490|Soda Hostel - Apartments
+381495|Home I Garbary
+381499|Blooms Boutique Apartments
+381502|Traffic Hotel
+381505|Daglezja
+382420|Villa Florek - Spa & Willa Arielka - Villa Florek - Spa
+383171|Diament Ustron SPA & Wellness
+383303|Ventus Rosa Aparthotel
+383306|Palac Kotulinskich
+383332|Reymontowka Pensjonat Zakopane
+383855|Picaro
+384263|Elblag
+384321|Palac Romantyczny
+384471|Boutique Hotel's II
+384472|City Residence
+384473|Aparts Loft Bed - Breakfast
+384474|City Town Apartments
+384478|Boutique Hotel's I
+384482|Pelikan
+385177|Niemcza Spa
+385179|Srebrna Gora
+385183|Centrum Malbork
+385188|Art Residence
+385189|Apartamenty Krolewska
+385195|Geovita
+385827|Cristal Park Dabrowa Tarnowska
+386942|Kasztel
+386957|Lamberton
+387586|Geovita Bukowy Dworek
+389763|Beata
+390143|Palac Zegrzynski
+390788|AKZENT Schlosshotel Wiechlice
+390802|Columna Medica
+391941|Willa Studio
+391942|Villa Florek - Spa & Willa Arielka
+392066|Holiday Resort Rewita WDW Rogowo
+392082|Rewita WDW Miedzyzdroje
+392416|Diune Hotel & Resort by Zdrojowa
+399791|Rewita WDW Uniescie
+399795|Glendoria
+399842|Best Western Plus Q Hotel Wroclaw
+401056|Herbarium Hotel & Spa
+401128|Rezydencja Korab
+401362|Magnolia Spa
+401474|GrandHotel Tiffi
+403950|Focus Katowice Chorzow
+404038|Augustowia Centrum Wypoczynkowo-konferen
+404384|Jastarnia
+405342|Business Faltom
+405343|Sloneczny Zdroj
+405500|Aparthotel Santi
+405505|Kracow Residence
+405506|Metropolitan Boutique Hotel
+405518|Villa Flaming
+405665|Boutique Hotel's III Comfort
+405769|Hotel Lenart
+405829|Trojca Arlamow Hotel
+406074|Nawigator SPA
+407877|OW Jawor
+408624|Hotel Nosalowy Dwor & Hotel Grand Nosalowy Dwor - Grand Nosalowy Dwór
+409059|Orzel Pensjonat & Apartments
+409060|Orzel Pensjonat & Apartments - Apartments
+411083|Rubbens & Monet
+411469|Aparthotel Baltic Spa
+411470|Hotel West Baltic Resort
+411487|Kurhotel Baltyk I & II - Baltyk I
+411522|Vital SPA Ressort Czapielski Mlyn
+411571|Hotel Cristal SPA
+411724|Hotel Prima Natura
+411727|Hotel Spa Akacjowy Dwór
+411743|Royal Park Hotel & SPA
+411781|Mielno Resort by DeSilva
+411795|Metropolis Design
+411813|Hotel Drei Inseln
+411961|DoubleTree by Hilton Krakow Hotel & Convention Center
+412196|Hotel Admiral
+412198|Baltic Cliff Spa & Wellness
+412215|Hotel Borgata
+412245|Hotel Miedzyzdroje
+413766|Emocja Spa & Amber
+413868|Puro Hotel Poznan
+413872|Invite
+417521|The Spiski Palace
+417690|Ferienpark Blue Mare

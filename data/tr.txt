@@ -1,0 +1,4298 @@
+4150|Ayvalik Beach
+4151|Billurcu
+4153|Kalif
+4156|Ambrosia
+4157|Anil
+4159|Ant
+4161|Armonia
+4162|Atrium
+4163|Aydem
+4164|Azka
+4165|Bodrum Eos Hotel
+4169|Costa Bitezhan Hotel
+4170|Bitez Saray
+4172|Bizimtepe
+4173|Blue Dreams
+4174|Natur Hotel
+4178|Cesars
+4180|Ramada Resort Bodrum
+4181|Isil Club Bodrum
+4184|Ersan Resort & Spa
+4186|Woxxie Hotel
+4187|Alta Park
+4188|Fiorita Beach Hotel
+4189|Flipper
+4190|Club Hotel Flora
+4191|Forever Club
+4193|Gloria
+4195|Sun & Sea Beach Hotel
+4197|Grand Iskandil
+4198|Grand Levent
+4199|Grand Yazici Bodrum Hotel & Spa
+4200|GÃ¼ndem Resort
+4202|Voyage TÃ¼rkbÃ¼kÃ¼
+4204|Karia Princess
+4207|Litera La Luna
+4208|La Rosa
+4209|Labranda Princess Hotel
+4210|Viverde Hotel Loryma
+4211|Voyage Bodrum
+4213|Bodrum Imperial
+4215|Manastir
+4216|Yelken Mandalinci SPA & Wellness
+4217|Marina Vista
+4218|Crystal Green Bay Resort
+4219|Medisun
+4223|Medis
+4235|Cande Ora Holiday Village
+4236|Petunya Beach Resort - ab 01.05.2015 smartline Petunya Beach
+4238|Prestige
+4241|Rexene
+4242|Salmakis Resort & Spa
+4243|Samara
+4245|Hapimag Sea Garden
+4247|Seray
+4248|Serhan
+4250|Grand Newport
+4251|Vera Miramare Resort
+4253|TorbaHan
+4258|Yakamoz
+4263|The Holiday Resort Hotel
+4264|Marla
+4266|Orchidea
+4267|Panormos
+4270|Orient Resort
+4271|Bahar
+4272|Belcekiz Beach
+4273|Bezay
+4276|Cenk Bey
+4277|Ceren
+4280|Grand Vizon
+4281|GÃ¼nes
+4282|Hillside Beach Club
+4284|Letoon
+4285|Letoonia
+4286|Majesty Club Lykia Botanica
+4287|Sentido Lykia Resort & Liberty Hotel Lykia World
+4288|Malhun
+4289|Mara
+4291|Dorian Hotel
+4292|Mendos
+4293|Meri
+4294|Montana Pine Resort
+4295|Mutlu
+4296|Club Orka Hotel & Villas
+4297|Ova Resort
+4298|Pelin
+4301|Romance
+4302|Seketur
+4306|Nicholas Park
+4307|Taurus
+4309|Majesty Club Tuana Park
+4311|Club Turkuaz Garden & Villas - Club Turkuaz Garden
+4313|Villa Daffodil
+4315|Pirat
+4317|Ekici
+4318|Habesos
+4319|Kayahan
+4320|Phellos
+4321|Xanthos
+4322|Alkoclar Adakule
+4324|SunConnect Atlantique Holiday Club
+4327|Batihan Beach Resort
+4329|Grand Blue Sky International
+4330|Cankaya
+4331|Thermal Delmar
+4332|Ephesia Hotel
+4333|Ephesus Princess
+4334|Fantasia De Luxe Kusadasi
+4335|Faustina
+4336|Grand Efe
+4337|Grand Ã–zcelik
+4339|Imbat
+4340|Scala Nuova Inkim & Anex Cesme
+4341|Kerasus
+4342|Kismet
+4343|Korumar
+4344|Majesty Club Kustur
+4345|Ladin
+4346|Melis
+4347|Merit Sunset
+4348|Mersin Beach
+4349|Minay
+4350|Ã–mer Holiday Resort
+4352|Vista Hill
+4354|Smartline Pigale
+4355|Pine Bay Holiday Resort
+4357|Marina
+4358|Richmond Ephesus
+4359|Solara
+4360|Surtel
+4362|Teos Village
+4363|TÃ¼rkin
+4365|Tusan Beach Resort
+4367|West Ada Inn
+4368|Alis
+4369|Altin Yunus
+4370|Anemon Marmaris
+4371|Aqua
+4372|Cle Resort
+4373|Cettia Beach Resort
+4375|Balim
+4377|Blue Bay Platinum - Platinum
+4378|Blue Rainbow
+4379|Cerit
+4383|Elegance
+4384|Emre & Emre Beach
+4387|Erdim
+4389|Flamingo
+4392|Golden Orange Apart 2
+4393|GÃ¶lmar Beach
+4394|D-Resort Grand Azur Marmaris
+4395|Green Nature
+4396|Halici Marmaris
+4397|Hermes
+4398|Idas
+4399|SunConnect Grand Ideal Premium
+4402|Kalemci
+4403|Karacan Beach
+4404|Karadeniz
+4405|Karakas
+4406|Karen
+4407|Kaya Maris
+4408|Konak Apart
+4410|Lidya Garden
+4412|Marmaris Imperial
+4413|Marbas
+4414|Grand Yazici Mares
+4416|Club Marmaris Palace
+4417|Marmaris Park
+4418|Marti La Perla
+4419|Club Atrium
+4420|Munamar Beach Hotel & Residence
+4421|Musti's Family Apart
+4422|Myra Hotel
+4423|Orka Club Nergis Beach
+4424|Ocaktan
+4426|Orkide
+4428|Pasa Bey / Pasabey
+4429|Pineta Club
+4430|Green Platan
+4431|Dora Portofino Hotel
+4432|Private
+4434|Royal Plaza
+4435|Salute
+4439|Selen
+4440|Selen 2
+4442|Sema
+4443|Seren Sari
+4444|Serena Suites
+4445|Sesin
+4448|Begonville Beach Hotel
+4449|Verde
+4451|Turunc
+4452|Verano
+4453|Royal Maris
+4455|Yunus
+4456|Zeybek
+4459|Iberotel Sarigerme Park
+4460|AkgÃ¼n Istanbul
+4461|Antik Istanbul
+4462|Berr Istanbul
+4463|Black Bird
+4464|Carlton
+4465|Intercontinental Istanbul
+4466|Conrad Istanbul Bosphorus
+4467|Crystal
+4469|Barcelo Eresin Topkapi
+4470|Fuar
+4472|Golden Age
+4473|Grand Ons
+4474|Grand Yavuz
+4475|Hilton Istanbul Bosphorus
+4477|Grand Hyatt
+4478|Kariye
+4479|Kaya
+4480|Ciragan Palace Kempinski
+4481|Kent
+4483|Klassis Resort
+4485|La Maison
+4488|Mim
+4491|Orient Mintur
+4492|Ottoman Imperial
+4493|Pianoforte
+4494|Hotel Residence
+4495|Richmond
+4497|Sed
+4498|Best Western Premier Senator
+4499|Sogut
+4500|SÃ¼rmeli Hotel Istanbul
+4501|SwissÃ´tel The Bosphorus
+4502|Taslik
+4505|The Peak
+4506|Yigitalp
+4507|ZÃ¼rich
+4516|Kleopatra Ada
+4518|Alaaddin Beach
+4522|Alanka
+4523|Maritim Club Alantur
+4525|Blue Diamond Alya
+4526|Ananas
+4527|Angora Apart
+4528|Anitas
+4531|Ares
+4532|Artemis Princess
+4533|Atlanta
+4534|Caretta Relax Hotel
+4535|My Aytap
+4536|Azak Beach
+4537|Arsi
+4552|Bedesten
+4553|Best House
+4555|Blue Fish
+4556|Blue Star
+4557|Delphin Botanik
+4558|Boulevard
+4559|Caretta Beach
+4562|Diamond
+4564|Dinler Alanya
+4565|Alanya Divan Otel
+4566|Doganay Beach
+4567|Doris Aytur
+4568|Hotel Drita
+4569|Eftalia Aytur
+4570|Damlatas Elegant Appartement
+4571|Elysee Beach Hotel
+4574|Fatih
+4576|Galeri Resort
+4577|Gardenia
+4578|Gardenia Beach
+4579|GÃ¶rgÃ¼lÃ¼ Kleopatra Beach
+4581|Granada Luxury Resort & Spa
+4582|Grand Atilla
+4583|Xperia Grand Bali
+4584|Grand Kaptan
+4585|SÃ¶zbir
+4586|Grand Zaman Beach
+4587|Life Greenhill
+4588|Green Peace
+4589|GÃ¼nes Beach & House
+4591|GÃ¼nes Garden
+4592|Kleopatra GÃ¼ngÃ¶r
+4593|Kleopatra Ada Beach
+4594|Happy Elegant
+4596|Jasmine Beach Resort
+4598|Aska Just In Beach
+4599|Kahya Hotel
+4601|smartline Kaptan
+4602|Katya
+4603|Kaya Alanya
+4604|Kemal Bay
+4605|Kleopatra Beach
+4606|Kleopatra Arsi
+4607|Kleopatra Alis
+4609|Larissa Club Hotel KÃ¶sdere
+4610|Krizantem
+4611|Forte Liberty Family Garden Resort
+4612|Margarita
+4616|Mesut
+4617|Pera Beach
+4618|Mirabell
+4619|Mirador
+4621|Mitos
+4624|Club Oasis Beach
+4626|Taksim International ObakÃ¶y
+4628|Ã–zgÃ¼rbey
+4629|Ã–zkaymak Incekum
+4630|Palmiye Beach
+4631|Panorama
+4632|Parador
+4633|Grand Astor
+4635|Remi Kleopatra
+4636|Riviera Hotel & Spa
+4638|Saphir Hotel & Villas
+4639|Sara
+4640|Saritas
+4641|Savk
+4642|Serda
+4643|Sun Fire Beach
+4647|Sultan Sipahi Resort
+4648|Club Sun Heaven
+4649|Sunny Hill
+4651|ACG Sunset Beach
+4652|Sunshine
+4654|Bone Club SVS
+4656|Syedra Princess
+4658|Club Hotel Titan
+4660|Tropical Beach
+4663|Club Turtas Beach
+4664|Twins
+4665|Ulaslar
+4668|Insula Resort & Spa
+4669|Wien
+4673|Lara
+4675|Alem Regency
+4676|Antalya Hotel Resort & Spa
+4678|Aspen
+4681|Green Beyza
+4683|Seven Stars Exclusive
+4685|Akra Barut & Akra Park Barut - Akra Barut
+4689|Ã–zkaymak Falez
+4692|Isinda
+4693|Best Western Plus Khan
+4694|Puding Marina Residence
+4700|Sealife Family Resort Hotel
+4702|Sera Club
+4704|Rixos Downtown Antalya
+4706|Divan Antalya
+4707|Tigris
+4708|Turist
+4713|Barut Cennet & Acanthus - Barut Acanthus
+4714|Adora Golf Resort
+4716|IC Hotels Santai
+4717|Club Asteria
+4718|Attaleia Holiday Village
+4719|Belconti Resort
+4720|Magic Life Waterworld Imperial
+4722|Cesars Temple
+4723|Gloria Golf Resort
+4724|Paloma Grida Village & Spa
+4725|Riu Kaya Belek
+4726|Mega Saray
+4727|Limak Arcadia Golf & Sport Resort
+4729|Magic Life Belek Imperial
+4730|Papillon Belvil
+4732|Zeynep Resort & Zeynep Golf & Spa - Zeynep Resort
+4733|Crystal Tat Beach Golf Resort & Spa
+4734|TUI best FAMILY Bellis
+4735|Jacaranda Club & Resort
+4736|Xanadu Resort Hotel Belek
+4737|Aqua Club TÃ¼rkbÃ¼kÃ¼
+4738|GÃ¼zey
+4740|Yalihan Aspendos
+4741|Sea Life Buket Beach Hotel
+4744|My Kolibri
+4745|Lonicera World
+4746|Aventura Park
+4747|Sandy Beach
+4748|Serena Beach
+4749|Yalihan
+4753|Amara Club Marine
+4754|Majesty Club La Mer Art
+4755|Belport Beach
+4757|Club Hotel Beldiana
+4759|Crystal Flora Beach Resort
+4760|Belpinar
+4761|Berkay
+4762|Majesty Club La Mer
+4763|TT Hotels Hydros Club
+4764|Champion Holiday Village
+4765|Kilikya Resort Ã‡amyuva
+4766|Derin
+4769|Club Phaselis
+4772|Fame
+4774|Fame Residence GÃ¶ynÃ¼k
+4776|Felice
+4777|Jeans Club Festival
+4778|Golden Lotus
+4779|Golden Sun
+4781|Havana
+4783|Kemer Holiday Club
+4785|Idyros
+4786|Rixos Tekirova
+4787|Kaftan
+4788|Kaplan Paradise Hotel
+4790|AKKA Alinda Beach
+4792|Solim Inn
+4793|Maxx Royal Kemer Resort
+4795|Latif
+4797|Lukullus
+4798|Majesty Club Kemer Beach
+4799|Club Boran Mare Beach
+4800|Marti Myra Club
+4801|Melissa
+4803|Majesty Mirage Park Resort
+4805|Montana Beach
+4810|Ã–zkaymak Marina
+4812|Amara Dolce Vita Luxury
+4813|Kimeros Park Holiday Village
+4814|Pasha's Princess
+4815|Peker
+4816|Zen Phaselis Princess
+4817|Club Hotel Phaselis Rose
+4818|Pirate's Beach
+4820|Club Hotel Rama
+4821|Paloma Renaissance Antalya Beach Resort & SPA
+4822|Royal Palm Resort
+4823|Salima
+4824|Sea Gull
+4825|Seker Resort
+4828|Selcukhan
+4829|Club Sefikbey
+4831|Simena Hotel & Holiday Village
+4832|Sirius
+4833|Solim
+4835|Stonehouse
+4837|Sydney 2000 - ab Sommer 2015 Elegance Beach Resort
+4839|Euphoria Tekirova Hotel
+4840|Queen's Park TÃ¼rkiz Kemer
+4842|Jeans Club Saphire
+4843|Admiral
+4845|Club Kastalia
+4846|MC Mahberi Beach
+4848|Incekum West
+4849|Aldiana Side
+4853|Annabella Diamond & Spa
+4854|Arinna
+4855|Barut Arum
+4856|Side Star Elegance
+4857|Side Ally Hotel - ab 15.04.2015 smartline Side Ally Resort
+4859|Beyaz Saray
+4860|Toll
+4862|Barut Cennet & Acanthus
+4863|Cesars Resort Side
+4864|Trendy Palm Beach
+4865|Euphoria Excelsior
+4866|Blue Waters Club
+4867|Defne Ana
+4868|Defne Garden
+4869|Defne Star
+4870|Kale Beach
+4872|The Sense Deluxe
+4875|Maya Club Golf
+4877|Grand Prestige Hotel & Spa - Side
+4878|Club Grand Side
+4879|Sorgun Park
+4880|Hane
+4881|Barut Hemera
+4882|Thalia Beach Resort
+4883|Justiniano Club Alanya
+4884|Febeach
+4885|Calimera Kaya Side
+4886|Kleopatra
+4887|Koraltan
+4888|Letoonia Golf Resort
+4889|Linda Resort Hotel
+4890|Mari
+4891|Melas Resort
+4893|Miramare Beach
+4894|Miramare Queen
+4895|Club Nena
+4896|Oleander
+4897|Orfeus
+4898|Iz Flower Side Beach
+4899|Paradise Side Beach
+4901|Sentido Perissia
+4902|VON Golden Beach Club
+4903|Rubi
+4904|Saray Regency
+4905|Seher Resort & Spa
+4906|Otium Hotel Seven Seas
+4907|Trendy Side Beach
+4908|Side Prenses
+4909|Club Sidelya Holiday Village
+4910|Otium Eco Club Side
+4911|Sirma Apart Hotel
+4912|Kamelya World Fulya
+4913|Kamelya World Holiday Village
+4914|Paloma Oceana Resort
+4915|Kamelya World Selin
+4916|Vera Stone Palace Resort
+4920|Crystal Sunrise Queen
+4922|SÃ¼ral
+4923|SÃ¼ral Garden
+4924|SÃ¼ral Saray
+4925|Side Alegria Hotel & Spa
+4926|Smartline Club Tayyarbey Beach
+4927|Terrace Beach Resort
+4928|Turan Prince World
+4929|Turquoise
+4930|Horus Paradise - Luxury Resort / Club Resort / Holiday Village
+4931|Voyage Sorgun
+4932|VenÃ¼s
+4933|Villa Side
+5192|Alize
+5193|Bella Mare
+5194|MC Beach Park Resort Hotel & Spa
+5761|Aroma
+5762|Alva Donna World Palace
+5763|Larissa Akman Ã‡amyuva
+5764|Sailor's Beach Club
+5765|Mirada del Mar
+5766|Queen's Park Le Jardin
+5790|Best Western Antea Palace Hotel & Spa
+5791|Binlik
+5793|Selge
+5807|SÃ¶zer
+5809|Paloma Club Sultan
+5815|Asena
+5816|Santur
+5817|Sentinus
+5906|Platan Alpina
+5907|Sifalar
+5908|Xperia Kandelor
+5910|Elysee Garden Apart Hotel
+5911|Grand Okan
+5912|Hacibey
+5913|Aska Sun Queen
+5914|GÃ¼ral Premier Belek
+5916|Meryan
+5917|Top
+5921|Sentido Sultan Beldibi
+5922|Limak Limra Hotel & Resort
+5924|PGS Hotels Kiris Resort
+5925|Flora Garden Beach
+5928|Nerton
+5929|Arcanus Side Resort
+5930|Nova Park
+5968|Kassandra
+5969|Club Aqua GÃ¼mbet
+5970|Golden Beach
+5971|Cande Onura Holiday Village
+5972|Mavi Kumsal
+5973|Princess Artemisia
+5974|Bronze
+5977|Isis Hotel & Spa
+6071|Sun City Hotel & Beach Club
+6074|NOA Hotels - Ã–lÃ¼deniz Resort
+6075|Pirlanta
+6077|Oykun
+6078|Golden Key HisarÃ¶nÃ¼
+6079|Fantasia Marmaris
+6080|Oylum Park
+6081|Patara Prince
+6085|Hibiscus Apart & Garden
+6090|Mavi Ekol
+6091|Class Beach
+6093|Tropical
+6095|Hotel 47
+6099|Intermar
+6101|Ã–lÃ¼deniz Turquoise
+6387|Armada
+6388|Best Western Plus The President
+6981|Arena
+7058|Hotel Acar
+7105|Adler
+7116|Adonis
+7118|Ramada Resort Kemer
+7202|Uslan
+7205|Akropol
+7233|Ã–zkaymak Alaaddin
+7237|Alaiye Kleopatra
+7242|Alara Park
+7246|Alba Resort
+7251|Albano
+7268|Albayrak
+7314|Riu Kaya Palazzo Golf Resort
+7367|Ali Bey Resort - Ali Bey Club Manavgat / Ali Bey Park Manavgat
+7389|All Seasons Hotel Istanbul
+7400|Club Alla Turca
+7445|Alp Pasa
+7513|Altin Orfoz
+7515|Altinkum Bungalows
+7600|Amarissa
+7616|Ambassador
+7707|Anahtar
+7749|Residence Anfora
+7769|Anik
+7814|Antea
+7824|Grand Emir
+7844|Your Dreams
+7894|Aquapark Hotel
+7895|Club Aqua Plaza
+7896|Aqua Princess
+7916|Aquarius
+7944|Hotel Arcadia Blue
+7960|Area
+7981|Argos
+8008|Ark Suite
+8059|Royal Asarlik Beach
+8066|Asdem Park
+8085|Trendy Aspendos Beach
+8089|Asrin Beach
+8201|Ata Lagoon Beach
+8209|Atan Park
+8270|Atlantis Club Resort
+8286|Atli
+8319|Aurora
+8354|Avicenna
+8361|Avlonya
+8368|Ayasofya
+8369|Ayaz Aqua
+8372|Blue Sea Hotel
+8375|Azak
+8385|Aziyade
+8388|Babaylon
+8475|Balcova Thermal
+8548|Barbarossa Club & Hotel
+8567|Barin
+8664|Bebek
+8674|Begonville
+8675|Begonville
+8676|Begonville Pension
+8703|PrimaSol Serra Garden
+8708|Bella Resort
+8712|Club Bella Sun
+8848|Berk
+8849|Berke Ranch
+9067|Birbey
+9079|Bitez Antik
+9111|Arabella World
+9116|Blue House
+9118|Blue Lagoon
+9126|Blue Night
+9127|Rizzi
+9128|High Life Apartments
+9131|Blue Sky
+9153|WOW Bodrum Resort
+9169|Sealine
+9356|BÃ¼yÃ¼k
+9365|GÃ¼nes Bulut
+9379|Antik Butnik & Antik Garden - Antik Butnik
+9424|Cactus Fleur Beach
+9498|Calis
+9589|Robinson Club Camyuva
+9600|Can Garden Beach
+9641|Candan Beach
+9681|Rheme Beach
+9710|Dark Hill
+9730|Carelta Beach
+9732|Caria Holiday Resort
+9754|Kleopatra Carina
+10223|Cender
+10278|Fantasia De Luxe Kemer
+10395|Cinar Family Suite Hotel
+10488|Tac Premier Anex
+10491|Cleopatra South Princess
+10524|Kirman Club Sidera
+10538|Club Paradiso
+10602|Colossus
+10607|Cactus Ã‡omÃ§a Manzara
+11275|Dedeman Istanbul
+11280|Defne Dream
+11338|Delphin Deluxe Resort
+11391|Derici
+11436|Kleopatra - Develi
+11456|Diamore
+11532|Divan Istanbul
+11533|Divan Bodurm
+11539|Club Dizalya
+11579|DÃ¶nmez
+11582|Sunprime Dogan Side Beach
+11697|Lares Park Taksim
+11747|Dragos Beach
+11829|Duygulu
+11860|Eden
+12066|Elit KÃ¶seoglu Hotel
+12093|Elysee
+12113|Bella Luna
+12114|Emir Garden
+12162|Erboy
+12166|Eresin Crown
+12284|Kleopatra Blue Hawai
+12287|Euro Plaza
+12345|Evsen
+12409|Falcon Crest
+12497|Feronya
+12809|Flora Suit
+12952|Four Seasons at Sultanahmet
+13162|Novia Gelidonya
+13257|Gloria Verde Resort
+13272|Gold
+13280|VON Resort Golden Coast
+13418|Grand Anka Hotel
+13435|Grand Didyma
+13439|Grand Emin
+13443|Grand Faros
+13445|Grand Halic
+13484|Ideal Prime Beach
+13498|Suhan Seaport
+13508|Grand Seker
+13513|Grand Star
+13514|Grand Tarabya
+13563|Green Anka
+13567|Green Fugla Beach
+13577|Green Park Taksim
+13590|Sherwood Greenwood Resort - ab 27.03.2015 smartline Greenwood
+13683|Gypsophila Holiday Village
+13741|Ideal Panorama Aparthotel
+13805|Harman
+13807|Hotel Centro Bodrum
+13828|Hatipoglu Beach Hotel
+13861|Hawaii
+13920|Hera
+13971|Hilton Izmir
+14092|Holiday Calbis
+14555|Bodrum Park Resort
+14621|Ibrahim Pasha
+14685|Club Ilayda
+14704|Ilkay
+14890|Ege Montana
+14903|Ipek
+14976|Club Izer Beach
+14977|Kaya Izmir Thermal & Spa
+15156|Kadikale Resort
+15204|Kalyon
+15210|Kaliptus
+15236|Karat Hotel
+15238|Karbel
+15296|Kavala
+15298|Kaya Prestige
+15344|Kervan
+15346|Kervansaray Bodrum Resort
+15347|Keskin
+15417|Alanya Klas
+15423|Kleopatra Delfino
+15424|Hedef Kleopatra Golden Sun
+15425|Kleopatra Life
+15426|Kleopatra Princess
+15427|Kleopatra Sahara
+15437|Kilikya Palace GÃ¶ynÃ¼k
+15479|Lemon Sahara Beach
+15480|Konaktepe
+15498|Lakos
+15614|L'Etoile
+16146|Luana Hotel Santa Maria
+16361|Linda
+16662|Marmaris Resort & Spa
+16663|MAGIC LIFE Sarigerme Imperial
+16664|Otium Life
+16668|Magnific
+16670|Magnolia
+16774|Manolya Hotel & Apartements
+16781|Manuela
+16809|Marbella
+17082|Marti Resort
+17136|Mavi Deniz
+17147|May Garden
+17148|Maya
+17203|Medusa
+17219|Melas Holiday Village
+17237|Melissa
+17382|HiltonSA
+17383|Mersoy Bellavista
+17394|Metin 1
+17439|Midi
+17616|Monachus & Spa
+17653|Monte Carlo
+17713|Antalya Palace
+17733|Mosaic
+17780|Mutlu
+17781|Muz
+17813|Vicenza
+17854|Navy
+17874|NeptÃ¼n
+17905|Akasya
+17998|Nippon
+18227|Ã–zcan & Ã–zcan Apart - Ã–zcan
+18231|Yeni Ã–zmen
+18246|OkaliptÃ¼s
+18272|Olivera Resort
+18431|Munamar Beach Resort
+18515|Palm
+18518|Royal Palm Beach
+18521|Euphoria Palm Beach
+18526|Palm Court
+18577|The Panorama Hill
+18579|Robinson Club Pamfilya
+18741|Parilti
+18770|Justiniano Club Park Conti
+18785|Parkim Ayaz
+18855|Pasa Beach
+18857|Barbaross Pasha's Beach Club
+18903|Pegasos Beach
+18904|Pegasos Resort / Club / Royal
+18922|Zeus Turunc
+18948|Pera Palace Hotel Jumeirah
+18950|Perdikia
+19078|Maritim Pine Beach
+19079|Pine House
+19107|Piril
+19114|Pierre Loti
+19337|Poseidon
+19416|Prestige Summer Dreams
+19444|Prince
+19455|Princess
+19483|Privato Apart
+19507|PÃ¼ren
+20125|Remer
+20467|Ganita Garden Club
+20526|D-Hotel Maris
+20577|Romance
+20618|Rosarium
+20646|Istanbul Royal Hotel
+20827|Saadet
+20830|Saba
+20860|Sahin Yuvasi
+20910|Sami Beach
+20915|Samira
+21098|Grand Santana
+21143|Xperia Saray Beach
+21344|Sedef
+21407|Kleopatra City
+21428|Seray
+21429|Grand Panorama Family Suites
+21435|Serin
+21513|Sheraton Cesme
+21616|Side Hotel
+21617|Grand Side
+21618|Side Corolla
+21621|Side Star Beach
+21622|Side Sun
+21635|Juniper & Siesta - Siesta
+21636|Siesta
+21679|Sinatra
+21743|Sky Sea
+21829|Sokullu Pasa
+21933|Sonnen Hotel Marmaris
+22109|Boutique St. Sophia
+22275|Azade
+22277|SÃ¼rmeli Efes
+22278|AlkoÃ§lar AlaÃ§ati
+22295|Sultan Pan
+22297|Sultanahmet Palace
+22299|SÃ¼mengen
+22311|Sun
+22315|Sun Beach
+22318|Club Maxima
+22323|Sun Garden
+22334|Sun Princess
+22348|Sunday
+22353|Elit Life
+22356|Sunlight
+22362|Sunny Beach
+22367|Sunrise
+22375|Sunrise Park Resort
+22490|Tac Premier
+22502|Taksim GÃ¶nen
+22503|Taksim International
+22504|Point Hotel Taksim
+22549|Bendis Beach
+22577|Telmessos
+22846|The Marmara Taksim
+22970|The Ritz-Carlton Istanbul
+23354|3 S Beach Club
+23440|Tuntas Beach Altinkum/Didim
+23447|Turkad
+23460|Tuvana
+23596|Vera Verde Resort
+23608|Club Vela Hotel
+23662|Via Terra Sunrise
+23849|Villa Diana
+24128|Villamar
+24261|Voyage Torba & Voyage Torba Privat - Voyage Torba
+24337|Aska Washington Resort
+24339|Wassermann
+24503|Topkapi Palace
+24565|Yali Resort
+24572|Yasmak Sultan
+24579|Yetkin Club
+24594|YÃ¼celen GÃ¶kova
+24597|Yuvam
+24636|Zeytinada
+24637|Zigana
+24642|Zinos
+24724|Akdas
+24756|Naturland Vacation Club in Eco Park - Aqua / Forest / Country / Natur Villas
+24758|Greenpark
+24786|Alara
+26547|Justiniano Wish Grand Kemer
+26743|Grand Uysal
+26744|Holiday Park
+26781|Dora Beach Turunc
+26833|Hera Beach
+27242|TUI best FAMILY Papillon Ayscha
+27243|Aska Kleopatra Beste
+27246|Kervansaray Uludag
+27357|Kimeros Ma Biche Hotel & Thalasso
+27936|Dogan
+27937|Tutav Adalya Alara
+27938|Bulvar Palas
+28052|Latanya Beach Resort
+28066|Limak Atlantis de Luxe Hotel & Resort
+28196|Anastasia
+28218|Katre OlÃ¼deniz
+28226|Liberty Ã–lÃ¼deniz
+28230|Atapark
+28261|Baris
+28265|BeltÃ¼rk
+28276|Cennet Apart Otel
+28291|Grand Cettia Hotel
+28308|Seven
+28329|Dosi
+28361|Grand Ontur
+28364|Dalyan Plaza
+28463|Robinson Club Nobilis
+28471|Leylak
+28692|Komplex Fame Residence Kemer / Fame Residence Park
+28781|Mermaid Village Club
+28938|Royal Garden Suite
+29232|Dalyan Resort & Dalyan Resort Spa - Dalyan Resort
+29435|Serenad
+29533|Villa Gizem
+29572|Sun Flower Beach
+29586|Anilgan
+29589|Semoris
+29590|Sarihan
+29591|Park Side
+29595|Amara Wing Resort
+29600|Kervansaray Marmaris Hotel & Aparts
+29601|Mirage World
+29610|Porto Bello Resort & Spa
+29634|Queen
+29637|Side Star Resort
+29639|Pegasos World
+29640|Royal Panacea
+29642|Charm Beach
+29644|Han
+29646|Litera Fethiye Relax
+29647|Destina
+29648|Greenland
+29649|Cinar Otel & Spa
+29657|Sun Maritim
+29658|Kleopatra Elite
+29659|Ã–zlem Garden
+29660|Olympos Life Butik Hotel
+29956|Palme D'or
+30138|Happy
+30143|Green Anatolia
+30144|Balkaya
+30145|Basar
+30147|Diva
+30169|Halic Park Ayvalik
+30171|AygÃ¼n Plaza
+30871|Otium GÃ¼l Beach Resort
+30874|Papillon Zeugma
+31373|Neray
+32304|Porto Azzurro Delta
+32305|Sidekum
+32306|Aska Hotels - Costa Holiday Club
+32307|Silence Beach Resort
+32308|Titanic Beach Lara
+32914|Sirene Belek Hotel
+33318|Sultan's Beach
+33319|Golden Age
+33588|Riviera Apart
+34005|Royal Atlantis Beach
+34013|Kremlin Palace
+34920|Cornelia Deluxe Resort
+34937|D-Resort GÃ¶cek
+34938|Botanik Exclusive Resort Lara
+34940|TUI best FAMILY Felicia Village
+35284|Miramilis Suite
+35286|Palmiye
+35287|Lemas Suite
+35289|Sea Bird
+35290|Kleopatra Celine
+35294|Scala Nuova Club
+35295|Kleopatra Micador
+35297|Sevki Bey
+35298|Glaros
+35299|Galaxy Beach
+35300|Club Pinara
+35301|Endam
+35304|Millenium
+35305|Blauhimmel
+35306|Viking Apart Hotel
+35307|Adress
+35308|Blue Sky
+35309|Grida City
+35580|Golden Star
+35832|Lagonya Garden
+35833|Valeri Beach
+35911|The Marmara
+35912|Queen Ada
+35915|Yunak Evleri
+35917|Rixos Beldibi
+35918|Colossae Thermal
+35922|Barut Kemer
+35927|Hotel Su
+35928|Antik Butnik & Antik Garden - Antik Garden
+35931|Lambiance Resort Bodrum
+36190|Us Royal
+36241|Serene Beach Resort
+36242|Sariyaz Indian Summer
+36247|Rebin Beach
+36249|Palm Wings Kusadasi Beach Resort
+36250|Germir Palas
+36251|Baron
+36269|Green Apart
+36272|Aqua Club Ortakent
+36607|Kalya
+36609|Ã–nemli Hisar
+36611|Orient Express Hotel
+36612|Ramada Istanbul Taksim
+36613|Armagrandi Spina
+36616|Venezia Palace
+37781|Club Aquarium
+37796|Sunshine
+37823|GÃ¼mbet Cove
+37824|Ephesia Holiday Beach Club
+38155|Concorde de Luxe Resort
+38156|Samira Club
+38159|Fiesta Club
+38162|Larissa Blue
+38164|Majesty Club Tarhan Beach
+38165|Didim Beach Resort & Spa Elegance
+38167|San Marin
+38169|Sefa Bey
+38170|IC Hotels Green Palace
+38252|Aegean Garden
+38382|Alperbey
+38612|Maya
+38679|By Karaaslan In Hotel
+38690|AKKA Claros
+38692|Avena Resort & Spa Hotel
+38693|Blue Side Family Club
+38694|Kleopatra Royal Palm
+38695|Akin Paradise
+38696|River Side
+38697|Renda Suite
+38791|Wyndham Izmir Ã–zdilek
+38792|Askoc
+38793|Erguvan
+38794|Golden Crown
+38813|Union Palace
+38837|Big Blue Club
+39060|Nirvana Lagoon Villas Suites & Spa
+39062|Club Med Bodrum Palmiye
+39073|Rixos Premium Bodrum
+39310|Bentley
+39669|Justiniano Fuga Bodrum
+39670|LTI Xanthe Resort
+39671|Club Calimera Serra Palace
+39672|Kirman Arycanda De Luxe
+39673|Hilton Bodrum TÃ¼rkbÃ¼kÃ¼ Resort & Spa
+39692|Lion
+40029|Titan Garden
+40030|Sentido Turan Prince & Prince Park - Turan Prince
+40031|Diamond Beach
+40032|Sunis Elita Beach Resort
+40033|Crystal Paraiso Verde Resort & Spa
+40034|Delphin Diva Premiere
+40035|Crystal
+40036|Pineta Park
+40037|Serenis
+40038|Primasol Hane Family Resort
+40043|Club Cactus Paradise
+40127|Club Med Kemer Freestyle
+40540|Sunhill
+40541|Toloman
+40542|Baia Bodrum
+40543|Altinsaray
+40544|Coastlight
+40547|Holiday Inn Istanbul City
+40669|Riva Bodrum Resort - ab 27.04.2015 smartline Riva Bodrum
+40868|Caprice Beach
+40874|Balik
+40875|Lemon Beach Club
+40876|Asia
+40877|Irem Appart
+40878|Side Elis
+40880|Angora
+40881|Lara World
+40882|Ã–zbekhan
+40883|Catamaran
+40885|Deja Vu
+40887|Nazar Garden
+40888|Altinorfe
+40889|Amos
+40892|Alp
+40896|Doga
+40959|ThermeMaris Health & Beauty Resort
+40974|Mina
+41071|Crystal Aura Beach Resort & Spa
+41072|Larissa Beach Club
+41080|Grand Viking Hotel
+41081|Rose Resort
+41082|Aydinbey Gold Dreams
+41087|Benna
+41093|Best Holiday Beach
+41096|Nazar Beach
+41267|White City Beach - ab 01.05.2015 smartline White City Beach
+41268|Vera Aegean Dream Resort
+41317|Ada
+41321|Side Miami Beach
+41322|Merve Sun Komplex - Hotel / Park
+41323|Nova Beach
+41324|Ã–zcan
+41326|Kami
+41327|Kemer Dream
+41408|Sultan's Garden
+41742|Yelken Blue Life Spa & Wellness
+42194|Rixos Premium Belek
+42278|Acar Sunset Plaza
+42280|Alva Donna Beach Resort
+42281|Bella Vista
+42284|Helios
+42285|Timo Resort
+42304|Narcia Resort
+42450|Club Insula
+42499|Robinson Club Sarigerme Park
+46707|Reishan
+46709|Yel Holiday Resort
+46710|Angora
+46711|Golden Moon
+46732|Class Family Apart
+46764|Amphora
+47233|Nar Pension
+47553|Bella Rose Apart Hotel
+47563|Tuvanna Beach
+47565|Ã–z Side
+47566|Kleopatra - Bebek
+47570|Sun Club
+47821|Iona Hotel
+47824|Starberry Hotel & Spa
+47837|Kivanc Suites
+47842|Paloma
+47845|Almena
+47853|Dilruba Marinem Resort
+47864|Palmiye Garden
+47943|Victory Resort
+48140|Time
+48298|Blue Bay Platinum - Classic
+48380|Yasmin Bodrum Resort
+48517|Sapphire
+48779|Alibabam
+48780|Carina
+48782|Asiyan
+48785|Celal Sultan
+48796|Bora
+48797|Dias
+48799|Nomad
+48800|Villa Sun
+48803|Burak
+48804|Temple Miletos
+48823|Koza
+48824|Fatim
+48829|Gazipasa
+49250|Oskar
+49251|Sinem
+49253|Nursu
+49254|Delfi
+49259|Peyda Aqua
+49260|Sun Studios
+50347|Grand Verda
+50368|Albatros
+50369|Dursun
+50370|Swallow
+50372|Manzara
+50373|Baskent
+50374|Yiltok
+50375|Kapo
+50397|Yumukoglu Izmir
+50398|Aldino
+50399|Gurkent
+50400|Seyhan
+50476|Doruk
+50477|Club Viva
+50508|Dedeman Cappadocia Hotel
+50515|BÃ¼yÃ¼k Anadolu
+50516|Ruya Boutique
+50518|Emirhan
+50875|Mira Olimpos Beach
+51037|Triton Palm Court
+51038|Orion
+51039|Gondol
+51042|Truva
+51055|Sindy
+51074|Aegean Park
+51135|Pink Palace
+51136|Leda
+51138|Bora Bora Butik
+51191|Nar Apart
+51200|Sultan's Inn
+51201|Naz Wooden House Inn
+51205|Atlantik
+51206|Delta
+51207|Esra Family Suite
+51208|Evren
+51210|Meryemana
+51211|Nazar Otel
+51218|Ford
+51220|Samoy Rota
+51256|Silverland
+51272|Best Western Empire Palace
+51406|Mahmutlar Suit Hotel
+51497|Sertkaya
+51572|Seler
+51573|Baba
+51606|Ponz Villas & Studios
+51617|Ida
+51787|Pemar Beach Resort
+51800|Uslan
+51801|Queens Park Resort
+51803|Grand Cevahir
+51891|Anemon Izmir
+51900|Erdenhan
+51901|Kaan
+51902|Miracle Resort
+52023|Royal
+52029|Cemre
+52176|Kleopatra Ikiz
+52177|Golden Gate
+52202|Aloe Hotel & Apart
+52203|Kleopatra Hermes
+52207|Kelebek
+52208|Golden Horn Sirkeci
+52210|Ergun
+52211|Arden
+52212|Hotel First Class
+52263|Club Hotel Delfino
+52264|Alara Star
+52265|Cesars Palms
+52271|ACG Palace
+52279|Begonya
+52280|Meder Resort
+52282|Mr. Crane
+52283|Orient Suite
+52287|PGS Hotels Rose Residence
+52349|Dynasty
+52373|Altinkum Villari
+52383|Bitez Paloma Apartments
+52386|Club Sunset Apart
+52388|Amaris
+52523|Kervansaray Istanbul
+52524|Cevdet Sunay
+52783|Zena Resort Hotel
+52784|Seckin
+52789|Hanedan Beach
+52795|Titiz
+52796|Salinas Beach
+52797|Hotel Laberna
+52798|Blue Star
+52799|Club Green Dream
+52805|Poem
+52806|Seres Hotel
+52863|Esdem Garden
+52868|Polat Alara
+52874|MÃ¶venpick Istanbul
+52875|Polat Renaissance
+52876|The Marmara Pera
+52877|Eresin Taxim Premier & Best Western Eresin Taxim - Best Western Eresin Taxim
+52878|Grand Hilarium
+52879|Beyaz Saray
+52880|Erbil Hotel
+52881|Hippodrome
+52882|Centrum
+53095|Barut Lara Resort & Spa
+53096|Delphin Palace
+53097|Kempinski Hotel The Dome
+53098|Vera Seagate Resort
+53099|SÃ¼ral Resort
+53100|TUI best FAMILY Iberotel Palm Garden
+53101|Alaiye Resort
+53318|Royal Wings
+53319|Sherwood Breezes Resort
+53325|Side Breeze
+53326|Club Grand Aqua
+53327|Eftalia Resort Hotel
+53440|Natruland Aqua Resort
+53521|Liberty Lara Beach
+53523|Aydinbey Famous Resort
+53601|Crystal Palace Resort & Spa
+53602|Grand Art Side
+53603|Seher Sun Beach
+53604|Novum Garden Side
+53679|Stella Beach
+53680|Orfeus Park
+53682|Calypso Beach
+53683|Holiday Garden Resort
+53850|Pamphylia
+53851|Angel's Home
+53852|Best Western Citadel
+53853|Radisson Blu Airport
+53859|Zeynep Sultan
+53860|Konak
+54396|Anemon Galata
+54512|Kervansaray Lara
+54874|Hotel Side Star Park
+54875|Kentia Apartments
+55735|Sun Beach Park
+55736|Sunshine
+55972|Dreams Beach
+55998|Elite
+56188|Horizont Apart
+56190|Arikan Inn
+56192|Bilkay
+56197|Grand Haber
+56200|Raina Beach Hotel
+56202|Bohemia
+56226|Eken Resort
+56232|Alder
+56236|Yusuf Yigitoglu Konagi
+56237|Perissia
+56294|Kahraman
+56296|Krab Appart
+56297|Leandra
+56298|Minta Appart
+56396|Rixos Sungate
+56626|Istanbul Conti
+56992|Belek Beach Resort
+57071|Prime Family Club
+57072|Sunlight Garden - ab 20.04.2015 smartline Sunlight Garden
+57073|Hanay Suite
+57284|Presa di Finica
+57285|Q Max
+57286|Perla Mare
+57378|Patio Beach Club
+57379|Yeni Acun
+57380|Diamond of Bodrum
+57382|Cherry Hotel
+57384|My Dream
+57385|Banana Appart
+57387|Olivia Family Suites
+57389|Marbel
+57390|Yonca Appart
+57391|Happy
+57392|Ilayda Avantgarde
+57393|Albora
+57394|Saturn
+57395|Golden Hill
+57466|Bilgin
+57468|Leytur
+57469|Mersoy Exclusive Aqua Resort
+57470|Moonstar
+57472|Irmak
+57475|Efe Boutique
+57478|Didyma House
+57486|Valide Sultan Konagi
+57487|Juniper & Siesta - Juniper
+57488|Gold Stone
+57490|Alzer
+57497|Almira Bursa
+57498|Tempo Residence Gayrettepe
+57510|Minyon
+57511|Selcuklu Evi
+57512|Ece Saray Marina
+57520|Alanya Beach
+57521|Millennium Park
+57522|Maren Beach
+57523|Ã–zcakil
+57604|Karbel Beach
+57605|SunConnect Liberty HisarÃ¶nÃ¼
+57687|Club Palm
+57688|Wasa
+57689|Turist
+57793|Sisus
+58007|Belant
+58138|Hotel Truva
+58212|Astor Beach
+58214|Diamant
+58223|Richmond Pamukkale Thermal
+58224|Lycus River
+58365|Silver
+58392|Club Hotel Sunbel
+58394|Ring Beach
+59116|Fortuna Beach
+59378|Errol
+59388|Erika
+59394|Incekum Su
+59399|Zel
+59400|La Paloma
+59404|Solaris
+59410|Rose Suite
+59418|Hotel Remin
+59419|Best Alanya
+59421|Yusuf Pasa Konagi
+59424|Galata Antique
+59425|Sarnic
+59428|Villa Tamara
+60149|Orka Negris Select Hotel
+60212|Sidar
+60213|Water Planet Hotel & Aquapark
+60254|Asal
+60255|Celik Palas Hotel Bursa
+60256|Eke
+60262|Blue Garden
+60268|Hollywood
+60271|Arion Resort
+60343|Camyuva Beach
+60354|Club Med Palmiye
+60465|Selge Beach Resort & Spa
+60467|Deja Vu Kaleici
+60472|El Vino
+60482|Detur
+60587|Golden Key BÃ¶rdÃ¼bet
+60697|Central
+60755|Gomeda
+60756|Opus Apart
+60873|Aqua Fantasy
+60874|Rosy Suites
+60928|Tassaray
+60930|Ceasar
+60998|Tuntas Family Suites Kusadasi
+61000|Angora Beach
+61014|Concordia Celes Hotel
+61096|SÃ¼rmeli Adana
+61126|Orange County Resort
+61151|Mavi Surmeli
+61168|Dedeman Ankara
+61170|Mega Residence Ankara
+61172|Etap Altinel Ankara
+61174|Hilton Kayseri
+61195|Tash Konak
+61264|Erendiz Kemer Resort
+61275|Admiral Beach
+61276|Gozpinar
+61277|Beyaz Guvercin
+61278|Day by Day
+61279|Club Secret Garden
+61281|Green Park
+61283|LykiaLodge Kapadokya
+61285|Almina Apartments
+61289|Orion
+61458|Grand Kurdoglu
+61459|Hanya Apart
+61556|Best Beach
+61557|Huzur
+61777|TÃ¼may
+61826|Grand Sunlife
+61842|Pinar
+61875|Litera Marmaris Deluxe
+62025|Sar Beach
+62051|Club Hedi - Yali Park
+62120|Diva's Hotel
+62121|Ipek Palas
+62122|Laleli GÃ¶nen
+62123|Ant
+62124|Spectra
+62152|Laguna Suite
+62156|Dia Beach Club
+62264|BÃ¼yÃ¼k Velic
+62265|Holiday Inn Bursa
+62267|Alkoclar Kemer
+62278|Incekum Beach Resort
+62364|Turkler Artemis
+62375|Aida Cruise
+62385|Anjelique Resort
+62388|Sunberk
+62444|Exelsior Beach
+62462|Park Mar Apart
+62463|Demircioglu
+62470|Oran
+62503|Adana Hilton SA
+62531|Miray
+62532|Club la Route Family Suites
+62533|Moda Beach
+62679|Doga Aparthotel
+62680|Palmera Resort
+62698|Lara Diamond
+62725|Divan Istanbul City
+62726|Olive Tree Studio
+62727|Temple
+62732|Sayanora & Sayanora Park
+62906|Esat
+62944|AKKA Antedon
+63081|Lunay
+63096|Midnight Sun Hotel
+63106|Sempati Apart Hotel
+63108|Sumela Garden
+63110|Tac Naula Apart
+63113|Holiday Village Side
+63116|Stella
+63124|La Vella
+63126|Alkoclar Istanbul Keban
+63149|Flower
+63160|Nena Istanbul
+63286|Sultan Apartment
+63319|Bodrum Holiday Resort
+63320|Lyra Resort
+63386|Victoria Princess Hotel & Apart
+63566|Aysev
+63567|Forest Park
+63769|The Marmara
+63880|Bayar
+63900|Olympos
+63913|Metropark
+64076|Samira Suite
+64107|Lara Dinc
+64462|Orka Royal
+64500|Acropol Beach
+64537|La Vitas
+64539|Aral Hotel Side
+64656|Sude Konak
+64851|Avrasya
+64897|Isabell Suit
+64991|Belkon
+65059|Kleopatra Gondola Suite & Hotel
+65227|Ankara Hilton
+66257|Himeros Life Hotel
+66267|Alara Kum
+66322|Ramada Plaza Kaya
+66323|Grand Ã–ztanik
+66347|Side Best
+66348|Belvu Resort
+66370|First Class
+66390|Hilton Park SA Istanbul
+67874|Radisson Blu Ankara
+68170|Maya Oscar
+68197|Bariscan
+68219|Sezars Inn
+68529|Fame Residence Lara
+68654|Belvista
+68666|Topaloglu
+68689|Sun Maris City
+68762|Le Bleu Hotel & Resort
+69039|Limak Lara de Luxe Hotel & Resort
+69041|Alva Donna Exclusive Hotel & Spa
+69129|La Blanche Resort & Spa Bodrum
+69130|Cactus Mirage Family Club
+69131|Club Turban
+69134|Alinn Boutique Sarigerme
+69136|Nashira Resort & Spa
+69244|Long Beach Resort
+69523|Lighthouse Bodrum
+69960|Hotel Asdem Labada
+70140|Burcu Kaya
+70141|Sunis KumkÃ¶y Beach Resort & Spa
+70147|Ideal Pearl
+70149|Mandarin Resort
+70157|Sueno Beach Side
+70159|Pacific Club
+70162|Le Chateau de Prestige
+70277|Kervansaray Kundu Beach
+70278|Primasol Hane Garden
+70280|Club Side Coast
+70282|MC Arancia Resort Hotel & Spa
+70283|Grand Zaman Garden
+70285|Bodrum Bay Resort
+70288|Belle Vue
+70295|4Reasons
+70421|Kempinski Barbaros Bay
+70518|Side Royal Paradise
+70520|Eftalia Village
+70874|Palme
+70875|Green Beach Resort
+71152|Villa Princess
+71677|Sunlight Dreams
+71700|Bilek
+71701|Turquhouse Boutique
+71702|Palmiye
+71703|Marble
+71704|Asa Club Holiday Resort
+71705|Santa Marina
+71768|Gelidonya Park Magic Dream
+71775|Ã–zaytur
+71777|Sweet Apart
+71779|Akvaryum
+71781|Seminal
+71864|Antique Roman Palace
+71982|Gunes Suntime
+71992|Radisson Blu Bosphorus Istanbul
+72150|Can Garden Resort
+72251|Cicey
+72253|Assos Eden Gardens
+72254|Assos Eden Beach
+72276|Sevcan
+72277|Kristal Beach
+72372|Antas Delux
+72373|Rosy
+72374|Taksim Select
+72375|Alican
+72496|Larissa Garden Beldibi
+72988|Diana Suite
+73133|Cimen
+73247|Altes
+73728|Garden of Sun
+73729|Markizet
+73730|Tuntas Suites Altinkum/Didim
+73731|Seabird
+73747|First Class
+73772|Grand Medya
+74010|City Lara
+74011|Holiday & Co Starclub
+74562|Nox Inn Beach Resort und Spa
+74923|Club Hotel Falcon
+74924|Banana
+74970|Selenium
+75047|Historia
+75053|Assos
+75383|Carna Garden
+75384|Sweet Home Boutique
+75427|Lioness
+75429|Club Cemar Beach
+75454|Sancar Kardia
+75478|Himeros Club Hotel
+75483|Kupeli Palace
+75490|Rain and Cloud
+75498|IC Hotels Airport
+75655|Arya
+75722|Idee
+75723|Mavruka
+75741|Sunway
+75864|Sumahan On The Water
+75865|The Sofa Hotel
+75866|Harem
+75968|Kayhanbey
+76107|Royal Marin
+76108|Mavi Akdeniz
+76209|Elis Beach
+76320|Royal Garden
+76322|Doganay City
+76496|Sunstar Beach
+76959|Seaview
+76960|Unver
+76965|The Grand Ucel
+76967|Butik
+76971|Blue Palace
+76974|Red Abacus
+76993|Myra Side Butik
+77272|Catty Cats Garden
+77299|Faber
+77376|Lady Diana
+77477|Litera Marmaris Relax
+77478|Seda
+77482|Minta
+77632|Vesta
+77747|Santa Sophia
+77762|Sea Sight
+77870|Charisma De luxe
+77871|Arora Hotel
+77920|Avantgarde Taksim
+78049|Faros Istanbul
+78051|Armas Resort Hotel
+78189|Karaca
+78205|Riviera Suit
+78206|Residence Rivero
+78407|Ozka
+78528|Viking Star
+78529|Viking Nona Beach
+78531|Crystal Family Resort
+78532|Voyage Belek Golf & Spa
+78533|Alba Royal
+78534|Crystal Admiral Resort
+78619|Spice
+78690|Lykia World Links Golf
+78757|Ersu
+78813|Calista Luxury Resort
+78814|ELA Quality Resort
+78819|Kirman Hotels Leodikya Resort
+78822|Marinem Karaca Deluxe
+78825|Gloria Serenity Resort
+78826|Royal Adam & Eve / Royal Heaven Villas
+78865|Green House Apart
+78866|Ã–rsmaris Boutique Hotel
+79040|Hane Sun
+79043|Orucoglu Thermal Resort
+79047|Daima Biz & Daima Resort - Daima Resort
+79048|Mukarnas Spa Resort
+79055|Dora My Meric
+79387|Crystal Deluxe Resort & Spa
+79481|Karyatit
+79491|Olbios Marina Resort
+79492|Kilikya
+79493|Susesi Luxury Resort
+79495|Mare
+79496|Hera Park
+79506|Markiz
+79507|Smartline Bitez Garden Life Hotel & Suites
+79508|Bagevleri
+79544|Koc Sun
+79773|Opera
+79774|Denizati Apart
+79861|Antik Han
+79862|Pera Rose
+79864|Mehmet Ali Aga Mansion
+79865|Kutberk
+79866|Lale Park
+80010|Sirkeci Mansion
+80011|Wyndham Istanbul Old City
+80112|Hedef Resort & Spa
+80136|New Bonn
+80452|Saturn Palace
+80844|Sunland Resort & Spa
+80852|Golden Day
+80892|Maki
+80896|Bodrium Hotel & Spa
+81701|Atici
+82144|Grand GÃ¼lsoy
+82180|Magic Sun
+82181|Grand Ring
+82182|Arma's Beach
+82184|Kiris Diamond Garden
+82186|Green Terrace
+82256|Infinity
+82275|Sami Plaza
+82276|Yelken Spa & Wellness
+82282|Family Belvedere
+82286|Sunpark Marine
+82292|Santa Pera
+82315|Leda Beach Hotel
+82350|Yesil ev Green House
+82505|Legacy Ottoman
+82509|Hillside Garden Holiday Village
+82643|Jasmin Side
+82645|Club Tess
+82780|Azak Suite
+82919|Queen Elizabeth Elite
+84026|Ramada Ankara
+84027|Lamartine
+84030|Best Western Ikibin-2000
+84033|Dinler ÃœrgÃ¼p
+84034|Ambassador
+84065|Ramada Plaza City Center
+84119|SÃ¼rmeli Hotel Ankara
+84166|Olimpiyat
+84170|Sultanhan
+84232|Best Western Premier Acropol Suites & Spa
+84436|Star Holiday
+85041|Mirage Apart
+85109|Grand Troyka
+85128|Utopia World
+85238|Fatih
+85378|Royal Palace Kusadasi
+85382|Patio
+85383|Yavuz
+85384|Erken
+85385|Villa Gardenia
+85386|Yunus
+85387|Ozcem
+85388|Ibrahim Bey
+85392|Grand Pasa
+85410|Eyfel
+85412|Tayhan
+85413|Larissa Blue Resort Kiris
+85420|Cartoon
+85432|Golden Horn Sultanahmet
+85634|Ontur Izmir
+85635|Maris Beach
+85636|Rosy Pension
+85638|Marmaris Natalie's Beach
+85728|Collage Cihangir
+85730|Tria Istanbul
+85746|Dasis
+85748|La Maison
+85749|Club Pedalisa
+85750|Green Forest
+85765|Eda
+85803|Sentido Marina Suites
+85903|Hestia Resort Spa Side
+86084|Natur
+86091|Ibis Istanbul
+86092|Novotel Istanbul
+86126|Black Eye
+86149|Arisa Garden Beach Hotel
+86557|Sea Garden Villas
+86618|Seaport
+86766|Hali
+86950|Club Ako Apart
+87009|Hedef Rose Garden
+87316|Aspen
+87317|Swissotel BÃ¼yÃ¼k Efes
+87323|Cinar
+87412|Alaya Apart
+87448|Blue Camelot Beach
+87479|MÃ¶venpick Izmir
+87730|Vardar Palace
+88371|Vezir Hotel Istanbul
+88473|Legend
+88513|GÃ¼nes
+88530|Limak Ambassadore
+88817|Sultan's Eye Comfort
+88827|Central Palace
+88941|Hamidiye
+88942|Ortakoy Princess
+88970|Albion
+89373|Amisos The Boutique
+89465|Turvan
+90071|Garden Resort Bergamot
+90131|Sueno Golf Belek
+90179|Sinbad Hotel
+90209|Doria Hotel Bodrum
+90278|L'oceanica Beach Resort
+90838|Bilem High Class
+91067|Atlantis
+91102|Ã–zgÃ¼rhan
+91175|Palmera Kleopatra Beach
+91259|Jasmin Seven
+91448|Richmond Nua Wellness Spa
+91614|Haus TÃ¼rseven
+91751|Mid Town
+91788|Prima Sol Telatiye Resort
+91879|Riverside
+91881|Megara Boutique
+91882|Hotel Megara Palace
+91883|Villa Suite
+91885|Tropicana Beach
+91886|Alin
+91986|Merry
+92022|Wybas
+92148|Ramada Old City
+92453|Delta Beach Resort
+92787|Washington
+92844|Amelia Beach Resort & Spa
+92998|Sultan Of Side
+93121|Royal Dragon
+93141|SENTIDO Palmet Beach Resort
+93143|Vera Mare Resort
+93152|Sealight Resort
+93182|Alba Queen
+93215|Ena Hotel
+93335|Mutlu Apart
+93554|Sarba 7
+93555|Midas
+93556|Miray
+93557|Ankara Plaza
+93887|Almina
+93888|Bilinc
+93889|Stone Istanbul
+93890|Express Star Hotel
+95001|LTI Lycus Beach
+95412|Mediterra Art
+95658|Soho Club Belek
+95661|Papaya
+95688|Club Capa
+95689|Lavinia Apart
+95692|Kervansaray Termal
+95696|Camelia
+95750|Serendip Select
+95751|The Kumul Deluxe Resort & Spa
+95885|Kemer
+95895|Lush
+96156|Samira
+96159|Kalamar
+96171|Asli
+96172|Bella Casa
+96174|Sinasos GÃ¼l Konaklari
+96176|Kaya Uchisar
+96177|Tourist Cappadocia
+96178|Kral
+96236|Pine Park Holiday Club
+96242|Nicholas Heights Deluxe Suite
+96243|Lykia Resort
+96267|Byotell Istanbul
+96269|WOW Istanbul Hotels & Convention Center - WOW Airport / WOW Convention Center / WOW Istanbul
+96504|Almera Suite
+96597|My Home Resort
+96842|Diva Residence
+96843|Ã–ren Apart
+96844|Akdeniz Beach
+96845|Ã–ren Hill Apart
+96847|Club Palm Garden Keskin
+96854|Four Seasons The Bosphorus
+97007|Paradise
+97378|Celay
+97379|La Perla - ab Sommer 2015 Allure Beach Resort
+97803|Lonicera City
+97804|Kleopatra Tower Apart
+97805|Moonshine Apart
+97963|The Tower
+97964|Violet Ã–lÃ¼deniz
+98159|Sheraton Istanbul Maslak
+98200|Solto
+98245|Arkadas
+98437|Sunbird Apart
+99216|Kafkas
+99226|Puding Suite
+99338|Side Mare Resort & SPA
+99457|Pera Tulip
+99728|Atak Suite
+99810|Captan Silver
+99811|Nil
+99855|Hotel Maya World Belek
+99978|Daphne
+100255|Laphetos Beach Resort
+100332|Titanic City Taksim
+100333|Amiral Palace
+100427|Dogan Paradise Beach
+100464|Beldeniz
+100465|Montebello Beach
+100466|Montebello Resort
+100526|Fehmi Bey
+100610|Saphir Resort & Spa
+100703|Blue Wave Suite
+100704|Elite Orkide
+100705|Club Enjoy Beach
+100712|Royal Hill
+100714|Summer Sun Beach Hotel
+100716|Club Aquarium
+100787|Magic Garden Resort
+100855|Artefes
+100856|Eresin Taxim Premier & Best Western Eresin Taxim - Eresin Taxim Premier
+100918|Sunny Garden
+100927|Hadi Apart Hotel
+100928|Basri
+100930|Titanic Business Kartal
+100936|Sheraton Istanbul AtakÃ¶y
+100937|Daystar Club
+100938|Family Apart
+100939|Alkan
+100940|Maxwell 2
+100942|Club Meridmar
+100943|Ekinci Palace
+100954|Gardenya
+100955|Aegean Princess
+100956|Sunbay
+100959|Viking Moral Beach
+100961|Newport
+100970|Art City
+100971|Ayma 1
+100972|Ayma 2
+101133|Elite Dragos
+101134|Eterno
+101137|Turkoman
+101138|Taxim Hill
+101493|Sultan Pataros
+101982|Erkal
+102046|Airport
+102372|Grand Aquarium
+102449|Akay Garden Resort
+102450|Akdamar
+102452|Altinyazi
+102454|Atalay
+102456|Blue & White
+102461|Riva
+102463|Gezi Bosphorus
+102464|Majestic
+102472|Petrol Palace
+102487|Ramada Istanbul Grand Bazaar
+102521|Atlas
+102586|Cornelia Diamond
+102587|Mardan Palace Antalya
+102601|Club Hotel Morado
+102651|Kleopatra Blue Life Apart
+102653|Sunway
+102768|Peda GÃ¼mbet Holiday Beach
+102769|George & Dragon Beach
+102773|Elite Maltepe
+102774|Elite Kucukyali
+102782|Garden House
+102791|Lara Hadrianus
+102792|Villa Onemli
+102798|Green Park Merter
+102814|Kleopatra South Star Apart
+102822|Siam Elegance
+102862|Gold City Tourism Complex & Spa
+102893|Club Neyrbey
+102946|Elite World
+102947|Best Nobel
+102948|Melodi
+102949|Banu
+102950|Banu Apart
+102974|Palan
+102976|Polat Renaissance
+102979|Dedeman PalandÃ¶ken
+102984|BÃ¼yÃ¼k Mardin
+102985|Dedeman Konya
+102987|Ã–zkaymak Konya
+102990|DÃ¼ndar
+103057|Aydinbey King's Palace Resort
+103093|Antik Boutique
+103118|W Hotels Istanbul
+103119|Park Hyatt Istanbul - MaÃ§ka Palas
+103164|Sea Time Club
+103165|Blue Moon Beach
+103167|Royal Side Bungalows
+103282|Sahara
+103568|Free Green
+103656|Adamar
+103963|Allstar Aksan
+103965|Ickale
+104059|Best Hotel
+104060|Ankara Gordion
+104061|Midi
+104534|Best Western Amber
+104960|Best Western Plus Konak
+105453|Bilkent Hotel & Conference Center
+108668|Marriott Istanbul Asia
+108737|Mega Residence Istanbul
+110415|Golden Park
+110417|GÃ¶zde
+111234|The Plaza Istanbul
+122228|Angora Beach Resort
+122407|Arden City
+122408|The Byzantium
+122890|Anemon Fuar
+122891|Ege Palas Business
+124938|Lenna Beach Resort
+124940|Argentum
+124941|Doga Residence
+124943|Esenboga Airport
+124946|Maltepe 2000
+124947|Anit Park
+124948|Umit Pembe KÃ¶sk
+124950|Latanya City
+124953|Gelidonya
+124955|Emir
+124956|Rayon Apart
+124960|Helen
+124961|Akol
+124962|Tonoz Beach
+124963|Imparator
+124966|Ayhan Pansiyon
+124967|Oylum Garden
+124969|Ikbal Deluxe
+124971|Rumi
+124972|Rixos Konya
+124973|Palm Wings Beach Resort
+124974|Hitit
+124981|Maxwell Holiday Club
+124982|Zevkim
+124984|Sayar Apart
+124985|Kocer Beach
+124986|Club Sultan Maris
+124987|Sun Love
+124988|Turgutreis apartments
+124989|Merve Apartments
+124990|Hotel Acacia Club
+125405|Aktur Residence
+125406|Istankoy
+125408|Mira Luna Club
+125409|GÃ¼lec
+125413|Happy Holiday Apart
+125414|Ertur
+125415|Kontes Beach
+125420|The Green Park Bostanci
+125421|Ferman Sultan
+125422|Kupeli
+125423|Asmali Hotel Istanbul
+125424|Uyan
+125426|Kleopatra
+125427|Cleopatra Golden Beach
+125429|Nar
+125430|Reutlingen Hof
+125608|Babadan
+126855|Zara
+127171|Surban
+127353|AltinÃ¶z
+127391|Duman
+127590|Mehtap
+127925|Dedeman Diyarbakir
+128812|Club Paloma Apartments
+128818|Marcan Beach Hotel
+133200|2000 Anittepe
+133201|Swissotel Ankara
+133207|Samdan
+133214|Local Cave
+133216|Albatros Premier
+133218|Romantic
+133219|Topkapi Interistanbul
+133220|Beyond
+133223|Dabaklar
+133226|Grand Albatros
+133229|Mistur Othello
+133230|Zorlu Grand
+134122|Club Amaris Apart
+134124|Grand Beyazid
+134218|And
+134446|Baia Lara
+134447|Azalea
+134448|Truva Family Club
+134459|Seno Club
+134506|Resitalya Hotel
+134511|Temple
+134529|Mert
+134544|Marina Vista
+134564|Nergis Icmeler Resort
+134582|Maksim Kiris Starlight
+134602|Nazar
+134618|Selen Apartments
+134620|Seren Apartments
+134622|Hani
+134623|Ozay Apartments
+134655|Belcehan Beach Hotel
+134781|Atlantis
+135110|sunis Evren Beach Resort Hotel & SPA
+135247|Royal Atlantis Spa & Resort
+135249|Adalya Resort
+135255|Vikingen Quality Resort & Spa
+135417|Onyria Claros Beach & Spa Resort
+135473|Melas Lara
+135484|Titan Select
+135485|Club Konakli
+135486|Mola
+135487|Amazon
+135489|Kleopatra - Bavyera
+135656|Kefaluka Resort
+135744|SunConnect Sea World Resort & Spa
+135746|Smartline Aska Bayview
+135799|Bakkhos Guesthouse
+135803|Cactus Fleur Charme
+135939|Simena Sun Club
+135959|Casa dell'Arte
+136091|Safran
+136092|International
+136144|Erten Konak
+136163|Hilton Dalaman Sarigerme Resort & Spa
+136169|GÃ¼ngÃ¶r Ottoman Palace
+136214|Merhaba
+136251|Vesta
+136254|Ceres
+136255|Fox Garden
+136411|IC Hotels Residence
+136507|Askin
+136508|Housez Suites
+136841|Palm Beach
+137015|Artuklu Kervansarayi
+137150|Tusan
+137488|BÃ¼yÃ¼k Abant
+137509|Dedeman Rize
+137515|MAHPER
+137570|Aydinli Cave
+137587|Crystal Kaymakli
+137640|BÃ¼yÃ¼k Truva
+137673|Canak
+137708|Pam Thermal
+137786|Ekin
+137791|Kolin
+137813|Akra Barut & Akra Park Barut - Akra Park Barut
+138137|Pamuksu Hotel
+138194|Iris
+138279|Assos Nazlihan
+138491|Gamirasu Cave
+138711|Best Western Premier Regency Suites & Spa
+139028|Ishak Pasa Konagi
+139929|Suntopia Tropical
+139930|Palm Garden
+140205|Elegant
+140206|Club Dorado
+140227|Sensimar Side Resort & Spa
+140449|Vogue Avantgarde
+140450|MaÃ§akizi
+140483|Konak Melsa
+141655|Palmera
+143293|Imba Apart
+143294|Ozukara Apartments 2
+143296|Studios Kavala
+143300|Ali Ã–zalp Villas & Apartments
+143302|Villa Apart Ã–zalp
+143303|Portakal
+143304|Delta
+143305|Kucuk Velic
+143308|Zingaro
+143312|Grand Seignur
+143313|Tan
+143317|Lion
+143321|Ozhan Apartments
+143322|T&G Apartments
+143325|Daystar
+143326|Epic
+143329|Verona Apart
+143331|Mavi Belce
+143334|Montaverde
+143341|Turban ÃœrgÃ¼p Holiday Village
+143390|Golden Moon Appartements
+143391|Karbel Sun
+143410|Safari Suit Hotel
+143826|Vital Beach
+143858|Club Serena Beach
+144271|City
+144272|Altinbas Apart
+144274|Villa Konak
+144337|Sunlife Plaza
+145055|Julian Club
+145057|Kurt Apartments
+145058|Malibu Beach
+145152|Adora
+145153|GÃ¼lhanepark
+145163|Anzac
+145259|Teospa
+145280|Litera Ecmeler
+145284|Peda Sun Club Bodrum
+145342|Club Hotel Arinna
+151794|Novia White Lilium
+151795|Starlight Convention Center Thalasso & Spa
+157676|Kent
+157694|Inside
+159456|Concorde Alanya
+161728|Kivilcim
+162728|Radisson Blu Resort & Spa Cesme
+162833|Ephesus Boutique
+162835|Oglakcioglu Park
+162838|Flamingo Club
+162842|Villa Zurich
+162847|Sezgin Hotel & Guesthouse
+162848|Pera Capitol
+162851|Kuum
+162852|Dedeman Sanliurfa
+162854|Rebetika Boutique
+162855|The Marmara Camlica
+162859|Gazi Park
+162861|Otantik Club Hotel
+162862|Segmen
+162865|Agaoglu My City
+162868|Ipek Palace
+162869|CK Hotel Farabi
+162870|Odile
+162872|Club Hotel Barbarossa
+162875|Taxim Suites
+162876|Novotel Trabzon
+162878|Witt Istanbul Suites
+162879|Villa Sphendone
+162881|Emexotel
+162882|Kervansaray Canakkale
+162886|Ismira
+162887|Liberty
+162891|Houston
+162892|Berksoy
+162893|Frankfurt
+162894|Oldcity Viva
+162895|Ibis Eskisehir
+162897|Hidden Garden
+162900|Etap Mola
+162903|Hotel 3T & Villas
+162908|Ulas
+162910|Ã–zmen Pension
+162918|Sentido Mavi & Suites
+162919|Antique
+162920|Abella
+162924|Kervan
+162928|Holiday Inn Istanbul Airport-North
+162930|The Green Park Resort Kartepe
+162933|The Pera
+162934|Crowne Plaza Ankara
+162936|Oceans 7
+162937|Apex
+162939|Les Ottomans
+162942|Deniz Atlanta
+162943|Sheraton Hotel & Convention Center Ankara
+162945|Tuvanna Garden Suite Hotel
+162946|Anemon Antakya
+162947|Niles Istanbul
+162950|The Marmara Sisli
+162951|Perdikia Hill
+162956|Artemis Yoruk
+162958|Sahil Resort
+162961|Rescate Boutiquehotel
+162962|Riva Boutique
+162964|The Pendik Residence
+162967|Grand Liza
+162969|Yunus Emre
+162970|BÃ¼yÃ¼khanli Park Hotel & Residence
+162973|Gallery Residence
+162975|Attaleia Shine Luxury
+162978|GÃ¼ral Sapanca Wellness Park
+162982|Muhlisbey
+162988|Castello di Akyarlar
+163329|Cappadocia Cave Resort & Spa
+163330|Deniz Houses
+163331|Divan Ankara
+163352|Sv Boutique
+163359|7800 Cesme Residences & Hotel
+163360|Agan
+163376|Domino Palace Hotel
+163428|Denizati Holiday Village
+163436|Kordon Pasaport
+163493|Aegean Park
+163495|Mete Appartments
+163496|Iguana
+172007|Efsane
+172011|Maywood
+177196|New Garden Apart
+179308|Risus Suite
+179315|My Hotel
+182161|Emir Fosse Beach
+182171|Royal City
+182261|Basil's Apart
+182262|Santa Ottoman
+182263|Julian Forest
+182264|Artemisia Royal Park
+182272|Okan Tower Apart
+182538|Lila Apart
+182554|Drop Hotel
+182557|Lara Park
+182604|Mediterranean Garden
+182605|Fun Point Suite Hotel
+182606|Dolphin Suite
+182670|Hotellino
+182678|Prestige
+182719|Altis Resort Hotel & Spa
+182721|Grand Cortez Resort
+182798|Alinn Club Sarigerme
+182875|Olympos Mitos
+182876|Payman
+182983|Marinem
+183002|Hotel Best Apart
+183003|Club Sunsmile
+183004|Paradise Garden
+183009|Apart Side
+183010|Crowne Plaza Antalya
+183024|Ã–zlem 1 Apart
+183025|Forum Residence
+183046|Rose Garden
+183122|Begonya
+183141|Titanic Port Bakirkoy
+183157|Venera
+183175|Park Hotel
+183230|Syedra Princess Beach
+183761|A'jia
+183762|Darussaade Istanbul
+183764|Zeugma
+183767|Emirhan Inn Apartment
+183768|Zagreb
+183769|Valide
+183770|Meddusa
+183773|Bosporus Palace
+184031|Novum Lilyum Hotel
+185378|Dolphin
+187325|Sun City Apartments
+187876|Acra
+187917|Dedeman Gaziantep Hotel & Convention Center
+187948|Klas
+187997|Titanic Comfort Sisli
+188009|Palmin
+188011|Akya Appart
+188106|Ramada Plaza Antalya
+188205|Grand Ãœnal
+188238|White Boutique
+188244|Baronessa Apart
+195879|Kamer Motel
+195880|Aktas
+195924|Antis
+195925|Blanca Hotel
+195926|Celal Aga Konagi
+195928|Seda
+195929|Prestij Apart
+195943|Izmir Palas
+196024|Triana
+196025|Oba Star Hotel & Spa
+196148|Elit Garden
+196157|My Home Apart
+197212|Paloma Pasha Resort
+197252|Melita
+197253|Mersoy Oriental Suites
+201333|Ganita Holiday Club
+201437|GÃ¼llÃ¼ Konaklari
+201438|Zeytin
+201526|Seminar Center Adrasan
+201661|Destan
+201662|Istankoy
+201663|Pine Valley
+201664|Cihan Turk
+201665|Berg
+201728|Ali Bey Resort Side
+201762|Adaburnu GÃ¶lmar
+201763|Palmeden
+201764|Sevi Life
+201765|Green Max
+201775|Mio Bianco Resort
+201974|Xanadu Island Suitehotel
+202093|Sahil Marti
+202095|The Liwan Boutique
+202096|Kale Konak
+202369|Inova Beach
+202370|Alanya Princess Suite
+202371|Primera
+202399|Ekincik Boutique
+202489|Mesa Suite
+202492|Kerme Ottoman Palace
+202527|BÃ¼yÃ¼k Anadolu Didim Resort
+202600|Avlu 1 Apart
+202602|Avlu 4 Apart
+202606|Senem Apartments
+202608|Haldun's Beach
+202610|Pacific
+202642|Ottoman Park
+202644|Anatolia Suites
+202645|Fors
+202839|Capris Apart
+202871|Monart Luna Playa
+202927|Izmir Comfort
+202956|Akbulut
+203121|Eftelya
+203122|Martinenz
+203123|Q-Inn Laleli
+203261|Holiday Leisure Club
+203422|Ideal Beach
+203423|Maxima Paradise Resort
+203425|The Roma Beach
+203436|Beyza Kaliopa Beach
+203873|Address Residence
+203953|Agora Life
+204001|Ahmet Efendi Evi
+204051|Akkoc Butik Otel
+204053|Aktif Metropolitan
+204056|Akuzun
+204095|Alaaddin Boutique
+204116|Alba Marin
+204126|Albatros Aparthotel
+204591|Anemon Ege
+204592|Anemon Eskisehir
+204594|Anemon Aydin
+204595|Anemon Manisa
+204680|Anzac Golden Bed Boutique Pension
+204681|Blue World
+204931|Kuluhana Aparthotel & Villas
+205102|Aquarium Istanbul
+205191|Argos In Cappadocia
+205260|Arte
+205280|Artunc
+205282|Aruna Boutique
+205325|Aspawa
+205526|Aura Residence Premium
+205591|Ayasofya Konaklari
+205592|Ayka Vital Park
+205750|Baia Bursa Hotel
+205900|Baylan Yenisehir
+206029|Poseidon Suites Bodrum
+206106|Berce
+206202|Beydagi Konak
+206287|Blue Pearl Hotel & Apartments
+206292|Blue Sea Garden
+206377|Bosnali
+206579|Bucoleon Palace
+206836|Cappadocia Cave Suites
+206854|Caria
+206877|Carmina
+207095|Cave Deluxe
+207096|Cave Hotel Saksagan
+207120|Cem Sultan
+207366|Ugur Pansiyon Cirali
+207528|Club Antiphellos
+207531|Club Caravanserail
+207770|Cosmopolitan Park
+207820|Courtyard by Marriott Istanbul International Airport
+207946|Dalaman Park
+207959|Dalyan Palmyra
+208009|Dara Istanbul
+208201|Dedem Boutique Hotel
+208262|Deniz
+208365|Divan Istanbul Asia
+208510|Dream Hill Business Deluxe
+208590|Dundar Thermal
+208708|Efe GÃ¶cek
+208811|Ã‰lite Bodrum
+208814|Elixir Boutique
+209041|Evsen
+209218|Ferman
+209326|Florya Konagi
+209349|Forest Gate
+209903|Goreme Suites
+209971|Grand Hotel Gaziantep
+209994|Grand Mark
+210156|Guzel Izmir
+210274|Harmony
+210484|Highlight Hotel
+210583|Holiday Inn Sisli
+211639|Ida
+211706|Ilayda
+211766|Tulip Pera City Hotel
+211853|Istanbul Holiday
+211985|Kabacam
+211993|KaktÃ¼s Apart Family Hotel
+211996|Kale
+211997|Kalehan
+212054|KauÃ§uk Residence
+212082|Kerme Ottoman Konak
+212155|Kitapevi Boutique
+212195|Konak
+212205|Koray Otel
+212639|Lalesaray
+213289|Liman Hotel
+213644|Madi
+213718|Mandarin Boutique
+213724|Mangana Konak
+213856|Marphe Hotel
+213992|Melrose House Hotel
+214061|Hotel Room Mate Kerem Istanbul
+214100|Mimosa Apart
+214153|Misafir Suites 8 Istanbul
+214204|Monec
+214226|Monte Baia
+214356|Kusadasi MÃ¼rsel Pansiyon Garden Hotel
+214371|My Home Sultanahmet
+214382|Mystic
+214399|Nar
+214516|Nil Mars Otel
+214521|Nisantasi My Residence
+214522|Nisanyan
+214728|Olira Boutique
+214816|Otantik Butik
+214942|Palmalife Bodrum Resort & Spa
+214988|Papirus Adrasan
+215025|Park 156
+215083|Parkhouse Boutique & Spa
+215119|Pastoral Vadi
+215445|Perimasali Cave - Cappadocia
+215629|Polatdemir
+216601|Rast
+216800|Residence Comfort
+217592|Sabah Pansiyon
+217811|Saruhan
+217813|Satsuma Suites
+217919|Seckin Konaklar
+217951|Sembol
+217987|Sevi Classic
+218080|Sirkeci Park
+218137|Sofabed Hotel
+218192|Sonne
+218236|SÃ¶zbir Royal Residence
+218258|Sphendon
+218441|Stone House Cave
+218496|Su Hotel
+218522|Sultanahmet
+218523|Sultanahmet Suites
+218568|Jiva Beach Resort
+218644|Ottoman Palace Taksim Square
+218669|Taskonaklar
+218799|The Bay Beach Club
+218857|The Bostanci
+218949|The Constantine
+218978|Murat Pasha Mansion
+219262|Suadiye Residence
+219345|The Osmanli Hani
+219516|The Sunrise
+219556|The Village Cave
+219689|Tolay
+219696|Tomtom Suites
+219768|Travellers Cave - Traveller's
+219804|Triada Boutique & Residence
+219855|Tudyali Konak Butik
+219856|Tugcan Hotel
+219860|Tulip House
+219869|Tunel Residence
+219912|Ufuk Hotel Pension
+219918|Ãœmit
+219947|Urcu
+219948|ÃœrgÃ¼p Inn Cave
+219949|Ãœrkmez
+220045|Venus
+220067|Vezir Cave Suites
+220233|Villa Denise
+220847|Woodline Village
+220877|Yacht Boutique
+220895|Yavuz
+220898|Yeniceri
+220902|Yildiz
+220907|Yonca Lodge
+220950|Zoe Boutique
+221123|Anemon Afyon
+221124|Anemon Denizli
+221126|Anemon Malatya
+221257|Aya Nikola Butik Pansiyon
+221538|Ã‡esmeli Konak
+221590|Club Hotel Zemda
+221880|Eser Premium Hotel & Spa
+222094|Gulevi
+222096|GÃ¼mÃ¼slÃ¼k
+222344|Hoyran Wedre Country Houses
+222460|KÃ¶sk Orman
+222470|Kurfal Boutique
+222533|Lakeside Garden Holiday Village
+222534|Lale Pension
+222781|Metropolis
+222790|Misafir Evi
+222938|Panorama Boutique
+223171|Rasitler Bag Evi
+223364|Safir Konak
+223434|Sirince Evleri
+223810|Wes Hotel
+226548|NOA Hotels - Bodrum Beach Club
+226705|GÃ¶reme Kaya
+226706|Celik Apartments
+226707|YÃ¼kser Pansiyon
+226710|Hotel Casa-Blanca
+226729|Grand Belish
+226755|Golden City
+226772|Alahan
+226791|Side Beach Club
+226793|City Center
+226833|Rosso Verde
+227011|Club Aqua Torba
+227021|Yeni
+227096|Toksoy
+227174|May
+227233|Ã–ncÃ¼l Beach Hotel
+227237|Marlight Boutique
+227341|Manesol Taksim
+227474|The City
+227513|Golden Lighthouse
+227514|Grand Cengiz Kaan
+227515|Patara Delfin
+227516|Club Orient Apart
+227518|Our Dream
+227520|Bahar Apart
+227521|BodRoom
+227716|Sc Inn Boutique
+227730|Meril Boutique
+227736|Cleopatra Sultan's Dream Hotel
+227737|Lila Hotel
+227834|Isil Dream Beach
+227870|Panorama Garden
+227872|Venessa Beach
+227873|Skys
+227897|Emir Royal
+227908|Aslihan
+227951|Carpe Diem Bigehan
+227952|Terassu
+227954|Poseidon Motel
+227956|Grand S
+227957|Dogan Beach Resort & Spa
+227978|Lemon Tree
+227979|Melita Apartments
+228131|GÃ¼mÃ¼ldÃ¼r Resort
+228151|L' Ancora
+228230|Klassis Golf & Country Club
+228241|Harrington Park Resort
+228260|Ant Apartments
+228263|Beach Villas
+228270|GÃ¶rkem
+228271|Grand Villa SÃ¶l Marmaris
+228273|Hisar Holiday Club
+228310|Mavi Holiday Village
+228312|Ince Apartments
+228313|Long Beach Apartments
+228320|Swans 1
+228411|Jarra
+228412|Grove Hotel
+228413|Seahorse Deluxe & Residences
+228414|Nobel
+228416|Tilia
+228442|Best House 2 Apart
+228469|Sultania
+228479|Melis
+228492|Camel Bodrum Beach Club - ab Sommer 2014 Sentido Bodrum Beach
+228510|Colossus Aparts
+228519|The House Hotel Galatasaray
+228575|Sunside Beach
+228597|Amore
+228600|Yade
+228613|Best House & Apartments
+228614|Klas Hotel Dom
+228616|Sailor's Park
+228619|Ozukara Apartments 1
+228621|Safir
+228622|Nish Bodrum Resort
+228623|Flamingo Country Club
+228625|Magic Tulip
+228626|Club Aegean Apartments
+228627|Mandalya Gardens
+228628|Golden Life Resort Hotel & Spa
+228631|Ã–zlem 2 Apart
+228634|Angels Inn
+228635|Monte Boutique Hotel
+228636|Castle Apartments
+228637|Club Dena Marmaris
+228638|Club Happy Days
+228639|Felizia Apartments
+228640|Han Palace
+228641|Kibele Apart
+228644|Mar Soleil Apartments
+228645|Marsyas
+228650|Sun Dream Apartments
+228651|Sayar Apartments
+228654|Nevada Butik
+228659|West Garden
+228663|AkgÃ¼n Beyazit Old Town
+228714|Blue Velvet
+228734|Tezcan Dalyan
+228738|Royal Holiday Palace
+228742|Golden Boutique
+228811|Manas Park Calis
+228812|Manas Park Ã–lÃ¼deniz
+228879|Sherwood Dreams Resort
+228938|Avantgarde
+229028|Green Mar
+229030|Seyir Village
+229173|Iltur Apartments
+229174|Senaydin Appartments
+229175|Ali Bilir
+229215|Venosa Beach Resort & Spa
+229225|Villa Side Residence
+229235|Istanbul Palace
+229259|Crystal Palace Luxury Resort & Spa
+229473|Adrasan Eldorado
+229488|Seher Sun Palace Resort & Spa
+229489|Eftalia Aqua Resort
+230375|BC Spa
+230376|Halcyon Days
+230377|Sultan House
+230378|Club Maric
+230476|Bodensee
+230489|Dalyan Queens
+230525|GÃ¶cek Mavi
+230528|Beliz
+230529|Dream Cave
+230530|Guven Cave
+230534|Villa Kaseria
+230536|Ayci Apart Otel
+230541|Ada Istanbul
+230549|Kulube
+230567|La Boutique Alkoclar
+230569|Omar
+230571|Stone Mansion
+230573|Sandima 37 Suites
+231422|Seamelia Beach Resort & Spa
+231574|Amphora
+231744|GÃ¼ral Premier
+231754|Sensimar Belek Resort & Spa
+231831|Babana Boutique
+231941|Kaya Prestige Sunshine
+231960|Dalya Life
+231966|Nese
+232017|Maxx Royal Belek Golf Resort
+232107|NeOrion
+232190|Elite World Prestige
+232218|Lamos
+232219|City Wall
+232220|Ibis Gaziantep
+232222|Club Mel Holiday Resort
+232224|DoubleTree by Hilton Hotel Istanbul - Moda
+232225|Doubletree Old Town
+232226|Palazzo Donizetti
+232227|BÃ¼yÃ¼k Keban
+232228|Galata
+232336|Bella Bravo
+232484|Diana Residence
+232487|Padok Premium Hotel & Stables
+232553|Oyster Residence
+232588|Villa Symbola
+232613|Senatus
+232711|The House Nisantasi
+233308|Cidihan
+233422|The Luvi
+233432|Trend
+233433|Lausos
+233434|Star City
+233435|Best Western Premier The Home Suites & Spa
+233438|La Vista Boutique & Spa
+233527|White Gold
+233577|River Garden Holiday Village
+233578|Marin-A Boutique
+233579|Arden Park
+233581|Blu Istanbul
+233600|Liman Park
+233731|10 Suites Taksim
+233732|Amira Istanbul
+233780|Meli
+233783|CVK Taksim
+233785|Flower Palace
+233786|Grand Madrid
+233787|Green Park Pendik
+233788|Novotel Kayseri
+233843|Camelot Boutique
+233844|Sianji Well-Being Resort
+233883|Semara
+234486|Mirilayon
+234487|Park Royal
+234490|Ares Istanbul
+234492|Samir
+234494|Sky Kamer
+234618|Pasha
+234626|Sedative Boutique
+234628|Novotel Gaziantep
+234629|Ibis Bursa
+234749|Port Side Resort Hotel
+234758|The Time Istanbul
+234816|Santa Hill
+234821|Cemuhan
+234885|Queens Garden
+234910|Sentido Gold Island
+234922|Cle Seaside
+235084|Summer Garden
+235141|Sahin Apart
+235142|Ibis Kayseri
+235195|Central Park
+235196|Feronia Hills
+235197|Talat
+235223|Sun On Apart
+235230|Queen Resort
+235232|Europa Park
+235237|Alibey Butik
+235239|Apollonium Club La Costa Spa & Beach Resort
+235250|Sailor Apart Otel
+235257|Kocer Family
+235258|Babadag
+235259|Semiz Suit
+235260|Kapmar
+235261|Orange Garden
+235262|Ayhan Apartments
+235264|Majestic Apartments
+235265|Club Side Star
+235266|Jasmin Beach
+235276|Sunshine Holiday Resort
+235277|Ercan Han
+235285|Topkapi
+235408|Sunmaris Central
+235412|Side Center
+235466|Aspalace
+235496|Blue Marmaray
+235502|Barbaros Beach
+235505|Dalyan Cinar Apart & Boutique
+235507|Karaca Apart
+235512|Sisters Apartments
+235519|Capital
+235523|Og-Erim
+235524|Club Prestige
+235525|Kasr-i Nehroz
+235527|Hilton Garden Inn Kutahya
+235537|Pasapark
+235538|Reis Thermal
+235541|Siesta Beach Aparts & Studios
+235578|Sentido Golden Bay
+235666|Eldar Resort
+235709|Levni
+235779|Side Crown Palace
+235826|Momento
+235959|Cenger Beach Resort & Spa
+235977|Royal Sebaste
+236074|BC
+236103|Daima Biz & Daima Resort
+236145|Tur Inn
+236207|Hotel Elfida Suites
+236259|Batont Garden Resort
+236275|Erciyes
+236297|Amber Apartments
+236376|Club Diana
+236515|Yay Grand
+236516|El-Ruha
+236517|Jaleriz
+236518|Royal Gaziantep
+236520|Baran Residence Airport
+236521|Erdoba Elegance
+236522|Sacred House
+236523|Ankyra
+236525|Saruhan Thermal
+236526|Marigold Termal & Spa
+236530|Grand Yilmaz
+236533|Yilmaz
+236534|Adrina Hotel de Luxe Health & Spa
+236535|Marmara
+236537|Ottomans Tugra
+236538|New House
+236546|Senator Taksim
+236547|Perula
+236548|Aydinoglu
+236549|Amos Boutique Villa
+236550|Markiz Konaklari
+236552|The Corner
+236553|Central Apartments
+236554|Mesken Boutique
+236555|Spilos
+236556|Sailorson Apart Hotel
+236557|North Point Denizli
+236558|Summer Rose
+236559|Sahin Palace
+236561|Asya Pamukcu Termal
+236562|Asya
+236563|Maral
+236564|Bekdas
+236566|Beynova
+236567|Esans
+236570|Kanuni Kervansaray
+236770|Cukurova Park
+236773|Grand Anzac
+236776|Mersin Hoteli
+236777|Metur
+236782|Peninsula Gardens
+236785|The Anatolian
+236786|Biz Cevahir Sultanahmet
+236787|Grand Urfa
+236930|Ceshme Plus Boutique
+237101|Klas Sunparadise Boutique
+237110|Club Oasis Beach Belek
+237121|Tur&Tel
+237179|Supreme Marmaris
+237309|Amethyst
+237324|La Capria Suite
+237385|Club Nimara Beach Resort
+237466|Adalia
+237534|Europa Beach
+237713|Prize
+237714|Xanadu Snow White
+237720|Point Barbaros
+237773|Dora Beach Boutique
+237787|Safak Beach
+237832|Old City Hagia Sophia
+237834|INNOVA Sultanahmet
+237835|InnPera Hotel
+238026|Goldsand
+238146|Cem Suit
+238275|Royal Roxy Resort
+238277|Merada
+238278|Oasis
+238279|Asfiya
+238280|Elit Asya
+238281|Caliente Bodrum Resort
+238282|Hampton by Hilton Bursa
+238286|Otantik Gemi
+238290|Poseidon Club
+238293|The Istanbul Edition
+238296|Mor Suite
+238297|Hilton Garden Inn Sanliurfa
+238299|Aura Apart
+238302|Han Hostel Airport North
+238303|Emporium
+238305|Raymond
+238306|Asitane Life
+238308|Old City Sultanahmet
+238311|Portville Holiday Villas
+238312|Dalaman Airport Lykia Resort
+238313|Alenz Suite
+238314|Cabas
+238316|Palme
+238409|Astoria
+238736|Moonlight
+239113|Pasahan Apart
+239120|Sultan Palace
+239286|Yacht Classic
+239287|Atlas Beach
+239322|Hilton Garden Inn Konya
+239328|G Boutique
+239340|Holiday Point Hotel City
+239566|Alenz Apart
+239615|MagicTulip Beach
+239616|Blue Park
+239730|Q Premium Resort
+239836|Dickman Elite Hotel
+239864|Smartline Sweet Park
+239871|Royal Alhambra Palace
+239937|Monart City
+239996|Egeria Park
+240020|Delphin Imperial
+240031|Vikingen Infinity Resort & Spa
+240037|Trendy Hotel Verbena Beach
+240064|Blue Moon Hotel & Resort
+240070|Sarnic Premier
+240078|Golden Street Sea View Apartments
+240093|Hotel Broken Column
+240242|Nesta Boutique
+240244|Gedik Pasa Konagi
+240635|Kusadasi Golf & Spa Resort
+240654|Odda Hotel
+240655|Limak Eurasia Luxury
+240658|Best Town Palace
+240660|Star Hotel Istanbul
+240781|Bodrum Beach Resort
+240983|Villa Lycian City
+241303|Ã–zkaymak Select
+241737|Rixos Taksim
+241738|Sahra Su Luxury Resort & Spa
+241769|Heaven Beach Resort & Spa
+241771|Ramada Istanbul Asia
+241772|NÃ¼ans
+241773|Fraser Place Anthill Istanbul
+241774|Martinenz Residence
+241863|Melissa Garden
+241868|Filis
+241870|Villa Palma
+241874|Gumus River Garden
+242065|Rixos Grand Ankara
+242077|Royal Anka
+242174|BÃ¼yÃ¼k SÃ¼mela
+242365|Sergah
+242366|Iztuzu Apart & Villas
+242369|Polat Thermal
+242374|Blue Lagoon
+242378|Sunrise Apart
+242379|Tropic Marina
+242381|Ã–zkaymak Park
+242573|Commodore Elite Suites & Spa
+242899|Kahya Resort
+242909|AES Club
+242911|Golden Rock Beach Hotel
+243015|Lake & River Side
+243547|Recital Boutique
+243731|Villa Turka
+243732|Husa Vizon
+243733|Summer
+243734|Azmakhan
+243735|GÃ¶kova
+244122|Crowne Plaza Harbiye
+244287|Jw Marriott Ankara
+244288|Noahs Ark Hotel
+244289|Three Apples Taksim Suites/Residence
+244291|Residence Kahramanlar
+244292|Ramada Kahramanmaras
+244293|Hilton Garden Inn Mardin
+244295|TÃ¼rk
+244296|Nanda
+245063|Sura Design
+245189|La Boutique
+245807|Aladdin Apart
+245927|Basileus
+245973|Shark Club
+246054|Crowne Plaza Istanbul - Asia
+246055|Crowne Plaza Istanbul - Ora
+246250|Grand Mir'amor
+246432|Altinersan
+246434|Nagi GÃ¼mbet Beach
+246436|Alesta Yacht
+246437|Ani & Sems
+246438|Efem
+246445|Rose Garden Suites
+246446|Mari Time
+246448|Ayasultan Boutique
+246449|Home Suite Home Nisantasi
+246637|Holiday Inn Express Istanbul - Ora
+246670|Amanruya
+246951|Kozan
+247182|Vanilla
+247268|Dinara
+247420|Diamond Hill Resort
+247521|Antonios Motel
+247616|Merve Sun Komplex - Merve Sun Hotel
+247617|Merve Sun Komplex - Merve Sun Park
+247641|Casa de Maris
+247642|Dogus
+247662|Verda
+247666|Dionis Resort & Spa
+247667|Matiate
+247668|Yesiloz
+247700|Emin
+247701|Sipahi
+247703|Sultanahmet Ã‡esme
+247747|Select Erdem Hotel
+247749|Komplex Ã–zcan & Ã–zcan Apart
+247798|Sundance Residences & Suites
+247801|Best Western Sile Gardens
+247957|Anatolian Houses
+247958|Buket Cave
+247960|Elkep Evi Cave
+247961|BÃ¼lbÃ¼l Yuvasi Boutique
+247962|Met Boutique
+247968|Aristocrat
+247969|Faros Taksim
+247970|Merial
+247971|Blue Istanbul
+247972|Ottoman's Life Boutique Hotel Istanbul
+247973|Listana
+247975|Serdar-i Ekrem 59
+248152|The Corner Park
+248154|Naz Garden Resort
+248391|de Paris
+248392|Suix Lara
+248398|Forever
+248426|Ali Bey Resort - Ali Bey Park Manavgat
+248428|Ali Bey Resort - Ali Bey Club Manavgat
+248489|Galata La Bella
+248723|Burckin Suites
+248724|Q-Inn Old City
+248725|Stories Apart Karakol
+248726|Stories Apart Kuloglu
+248727|Stories Apart Kumbaraci
+249017|Polen Hotel
+249162|Kas Marin
+249287|The Pinehill Hotel & Suites
+249376|Plaza Hotel
+249508|Marmaris Resort Deluxe
+249650|Yavuzhan
+249876|Dayi Diamond
+249901|Sunset Cave
+249902|Nostalji Cave Suit
+249974|Sea & You Luxury Beach
+249991|Amara Island Bodrum Elite
+250033|Seyir Beach
+250064|Perili Bay Resort
+250150|The Colours
+259363|The City Port
+259368|Birsu
+259369|Beyaz Melek
+259386|Seden
+259561|Sakarya Grand
+259562|Grand Durmaz
+259566|Legend Riva
+259567|Opera Istanbul
+259568|Lush Houses Galata
+259569|Lush Houses Istiklal
+259570|Collage Pera
+259571|Collage Taksim
+259573|Wow Ensar Konagi
+259575|Sorriso
+259576|Tugra Istanbul
+259577|Grand Anatolia
+259578|The Meretto
+259580|Rhisos Bostanci
+259582|Arsima
+259585|Eser Diamond Hotel & Convention Center
+259586|Hayriye Hanim Konagi
+259587|Saba Sultan Hotel Istanbul
+259588|BÃ¼yÃ¼k Ersan
+259589|Divan Cukurhan
+259590|Han Hostel Ankara
+259591|Divan Bursa
+259592|Montania
+259593|GÃ¶nlÃ¼ferah 1890
+259594|Anatolia Bursa
+259595|Tugcu
+259596|Gold Konak
+259597|Gold Center
+259598|Gold Butik
+259599|Gold Business
+259603|Burcman
+259604|Temenos
+259608|Sahin Park
+259610|Dalyan Palmiye Resort
+259611|Rescate
+259612|New York
+259613|The Room Apartments
+259614|Buhana
+259615|Ida Kale Resort
+259616|Grand Eceabat
+259617|Park Eceabat
+259620|Ejder
+259622|Dilek Kaya
+259623|Cappadocia Estates
+259624|Odyssey Residence
+259625|Elit Class Residence
+259626|Kaleli
+259627|Grand Hermes
+259628|Unluselek
+259629|Hampton by Hilton Ordu
+259630|Kasr-i Abbas Butik
+259631|Grand Estel
+259632|Reyhani Kasri
+259633|Zinciriye
+259634|Zinciriye Kadim
+259635|Shmayaa
+259636|Matiat
+259640|Kapari
+259641|Alura Boutique
+259642|Chigdem Boutique
+259643|Kamer Suites & Hotel
+259644|Harran
+259645|Cevahir Konuk Evi
+259646|Manici
+259708|Hilton Garden Inn Istanbul Golden Horn
+259710|Mevlana
+259732|Munamar Beach Hotel & Residence - Munamar Beach Hotel
+259733|Munamar Beach Hotel & Residence - Munamar Beach Residence
+259744|Can Apart
+259745|Siir
+259746|Georges Galata
+259747|Tempo Caglayan
+259748|Sabena
+259749|Ayasofya Apart
+259750|Comfort Suite Taksim
+259751|Elegance HT Design Suites
+259752|Titanic Business Bayrampasa
+259753|Mars Business
+259756|Le Meridien Istanbul Etiler
+259827|Bliss Beach
+259829|Romeo Beach
+259882|Pera Hotel
+259918|Tunacan
+260032|Club Arpia
+260048|History
+260055|Eternity
+260057|Golden Palace
+260063|Mono Suites
+260064|New Era
+260065|Pasha
+260068|Serenity
+260069|Millennium Suites
+260072|The Sultans Royal
+260073|Villa Pasha
+260107|Kleopatra Beach Yildiz
+260168|The Basilica Apart
+260208|Natur-Med
+260250|Balin
+260255|Akyildiz
+260289|Kleopatra Saray
+260297|Salinas Istanbul Boutique
+260345|Wyndham Ankara
+260346|Oasis Holiday Residence & Villas
+260347|Bulvar Istanbul
+260350|Suntopia Palace
+260356|Ocean Blue High Class
+260369|Adora Butik
+260417|Corendon Iassos Modern Resort
+260450|Komplex Fame Residence Kemer / Fame Residence Park - Fame Residence Kemer
+260451|Komplex Fame Residence Kemer / Fame Residence Park - Fame Residence Park
+260472|Marti Istanbul
+260495|Aphrodite
+260553|Royal Arena Resort & Spa
+260554|Mehtap Family
+260620|NG Afyon Wellness & Convention
+260645|Oasis
+260646|Ketenci
+260717|Tuana
+260725|Sol Beach Hotel & Resort
+260770|Nergis Boutique
+260782|Blue Paradise
+260834|Barut Sunwing Side East Beach
+260987|Radisson Blu Asia
+261028|Aperion Beach
+261045|Ankara Gold
+261049|Crowne Plaza Bursa
+261050|SV Business
+261051|TaximTown
+261052|TaximTown Besiktas
+261053|TaximTown Taksim - GÃ¼mÃ¼ssuyu Residence
+261054|Muyan Suites
+261055|Grand Oral
+261056|Symbola Bosphorus
+261057|Avrupa Residence Suites
+261190|Marinem Diana
+261192|Rixos Pera
+261228|Rosy Hotel
+261312|Nerissa
+261313|Sinasos Cave
+261315|Tiryaki Boutique
+261316|Safir
+261317|Ramada Plaza Izmit
+261318|Dedeman Park
+261319|Dedeman PalandÃ¶ken Ski Lodge
+261320|Dedeman Zonguldak
+261369|ÃœstÃ¼n Alsancak
+261372|Sun Village Apartments
+261373|Angel's Inn
+261374|Al Sinno
+261375|Gradiva
+261376|Istanbul Gonen
+261377|Ottoman Tulip
+261379|Divan Ã‡orlu
+261390|Las Palmeras
+261401|Anemon Ordu
+261403|Anemon Cigli
+261485|Crystal Waterworld Resort & Spa
+261524|Nixon the Bosphorus Hotel
+261564|Aska Lara Resort & Spa
+261565|Crystal Sunset Luxury Resort & Spa
+261571|Kirman Hotels Belazur Resort & SPA
+261573|Adalya Ocean
+261574|The Blue Bosphorus
+261631|Zeynep Resort & Zeynep Golf & Spa
+261632|Zeynep Resort & Zeynep Golf & Spa - Zeynep Golf & Spa
+261943|DoubleTree by Hilton Kusadasi
+263192|Bodrum Royal Heights
+263196|Grand Yazici
+263208|Panorama Bodrum
+263213|Taskule
+263219|Vizyon GÃ¼mbet
+263226|Costa Blu Bodrum
+263231|Ministar Hotel
+263238|Silvanus
+263242|Turiya Hotel & SPA
+263246|Akdeniz Apart
+263254|Marti Beach
+263279|Vela
+263307|La Piano
+263311|Nomade
+263314|Pera City Suites
+263319|Selenay
+263321|Suadiye Hotel
+263322|Asya Suite
+263324|Artemis Marin Princess
+263326|Ascot BÃ¼yÃ¼kada
+263332|Ar Suites
+263338|Atik Palace
+263339|Azade Suites
+263343|Bakirkoy Sahil
+263345|Bella Kadikoy
+263346|Beymarmara
+263352|BÃ¼yÃ¼k Sahinler
+263353|Cheya Residence Tesvikiye
+263361|Erbazlar
+263365|Fuat Pasa Yalisi
+263366|Full House Residence
+263374|Grand Sagcanlar
+263375|Hegsagone
+263378|California
+263379|Esen
+263380|Gul Sultan
+263381|Hettie
+263384|Novano
+263385|El Blanco
+263389|Ronax
+263391|Hypnos Istanbul
+263393|Jupiter Boutique Suits
+263395|Kumsal Boutique
+263396|Kuran
+263397|La Villa
+263400|Levent
+263413|Osaka Airport
+263424|RÃ¼yam
+263425|Semsan
+263426|Sen Palas
+263428|Serdivan
+263429|Sidonya
+263431|Sirkeci Hurriyet
+263432|Sirma Sultan
+263433|Taksim Life
+263434|Taksim Star
+263439|The House Bosphorus
+263440|Three Apples Residence
+263445|Villa Hagia Sophia Hotel
+263446|Villa Viens
+263463|Green Garden Apart
+263469|GÃ¼nes Beach & House - GÃ¼nes Beach
+263484|Prima
+263497|Start Hotel Antalya
+263514|Belpoint Beach Hotel
+263528|Larissa Hotel Beldibi
+263529|Larissa Park Beldibi
+263537|Aparthotel Risus
+263546|Side Resort
+264395|AlaÃ§ati Golden Resort
+264399|Megapole
+264971|Green Peace
+265509|Eftalia Splash Resort
+265631|Konvoy Otel & The Country Club
+265648|Sentido Lykia Resort & Liberty Hotel Lykia World - Liberty Hotel Lykia World
+265649|Sentido Lykia Resort & Liberty Hotel Lykia World - Sentido Lykia Resort & Spa
+265658|Defne Defnem
+265664|Heyamo
+265671|Angels Garden
+265672|River Boutique
+265673|Asia Artemis Suite
+265674|Selection HT Design Suites
+265675|ArtDeco HT Design Suites
+265676|Taba Luxury Suites
+265678|Sub Istanbul
+265679|Albatros Hagia Sophia
+265683|Simper
+265694|Sayanora & Sayanora Park - Sayanora Hotel
+265695|Sayanora & Sayanora Park - Sayanora Park
+265721|Doruk Hotel & Apart
+265726|Oasis Hotel & Apartments
+265764|Zeynep Hanim Konagi
+267545|Ortunc Club
+267546|Cundavilla
+267548|Antikhan
+267551|Gulet Hotel
+267553|Centrale Bodrum
+267554|Antique Theatre Hotel
+267555|Kaptan Kemal Apart
+267556|Club Pirinc Hotel
+267557|Myndos Pansiyon
+267558|Kaya Pansiyon
+267559|Asmin Hotel Bodrum
+267560|Merhaba
+267563|Butikhan
+267564|Costa Farilya
+267565|Yilmaz
+267568|Red Lion Hotel
+267569|Flow Datca Surf Club
+267570|Villa Asina
+267572|Sempati Apart
+267573|Fora Apart Hotel
+267574|Mavi Beyaz
+267577|Status
+267580|Ferah Pension Monica's Place
+267586|Rhapsody Boutique
+267588|Kleo Pension
+267589|Kisla Bay Villa
+267590|Lukka Exclusive Hotel
+267591|Meis Hotel
+267593|Linda Beach
+267594|Meltem Pension
+267595|Kekova Hotel
+267597|Olea Nova Boutique Hotel
+267598|Kas Sea Front Villa
+267599|Cachet
+267600|Panion Park Residence
+267604|Hotel Stella
+267605|Asia Apart Hotel
+267606|Prince Kinli Hotel
+267608|Otel Dost
+267609|Karia Bel
+267611|Moneta Butik Otel
+267612|Dardanos Hotel
+267613|Zeybek 1
+267614|Rose Pension
+267615|Akay Pension & Apartments
+267618|Sefa Hotel
+267619|Blue Eye Suites
+267620|Perapart
+267621|Turna Apart
+267622|Kolemen Homes
+267623|Tulip Guesthouse
+267626|Med Cezir Hotel
+267627|Marmara Guesthouse
+267628|Ã–rÃ¼n
+267629|Balat Suites
+267630|City
+267632|Sirazli Hotel
+267633|Sur 2
+267635|Caravan Palace Apart
+267637|Pembe Ã‡ati
+267638|White House Istanbul
+267639|Sultansaray Suites
+267641|Bonjour Guest House
+267645|Aparts Sultanahmet
+267646|Hotel Aetos
+267647|Minel Hotel
+267648|Efendi Hotel
+267649|Barefoot Travel Apartments
+267650|Istanbul Inn Hotel
+267652|Gulhane Suites
+267654|Elanaz Hotel
+267657|Agora Boutique
+267658|Chora Guesthouse
+267659|Blue Tuana
+267661|Ulas Suites & Apartments
+267662|Best Hipodrom
+267664|Big Apple Hostel
+267665|Charm Hotel
+267666|Tria Elegance Istanbul
+267668|Emine Sultan Hotel
+267669|Helios Istanbul
+267670|Magnificent Hotel
+267671|Fides Hotel
+267672|Hippodrome Apartment
+267673|Nisa Sultan Apart Hotel
+267674|Siesta
+267676|Sultans Hotel
+267677|Hotel Nehrin
+267681|Seven Dreams Hotel
+267683|Sultan Tughra Hotel
+267684|Divalis Hotel
+267685|Sah Otel Apartment
+267686|Ipekyolu
+267687|Taksim Premier Suites
+267690|Angels Garden Hotel
+267692|Nayla Palace
+267694|Sultanahmet Park
+267695|A'la House
+267696|Feyza Apart
+267697|Cezayir Suites
+267698|Mood HT Design Suites
+267699|Shamrock Hotel
+267701|Elma Ottoman Palace
+267703|Diva Bosphorus Apartments
+267706|Nisantasi Time
+267707|Cheya Deluxe Residence Nisantasi
+267710|Jazz
+267711|Harbiye Residence
+267713|Cumbali
+267714|Eskidji Suites Hotel Istanbul
+267715|Lamp Hotel
+267717|Kaftan Hotel
+267718|Dongyang Hotel Istanbul
+267719|Silviya
+267720|Best Piran Hotel
+267722|Tashkonak Studio Suites
+267725|Ottomania
+267728|Flamingo Apart
+267729|Vica Guest House
+267731|Emmasaray Hotel
+267733|Arasta Boutique
+267734|Ararat
+267735|Midillis Art Apartment
+267737|Topkapi Apartments
+267738|Helen Suites & Aparts
+267740|Arife Sultan Hotel
+267742|The Luxx Boutique Hotel
+267743|Fatima Sultan Hotel
+267748|Taksim Premium Residence
+267750|Levanten Hostel
+267751|Nar Suites Pera
+267753|Galata Tower VIP Apartment Suites
+267754|The Magnaura Palace
+267755|City Apart Istanbul
+267756|Istanbul Suite Home Galata
+267759|Portus House
+267761|Deris Bosphorus Lodge
+267762|Cheya Residence GÃ¼mÃ¼ssuyu
+267764|Au Pera
+267765|Roncalli Hotel And Suites
+267767|Paradise
+267768|Gumusyan
+267769|Marion Suite
+267770|Istanbul Inn Hotel Taksim
+267771|212 Istanbul Suites
+267772|Romans Haute Couture Hotel
+267773|Route 39
+267775|Suzak Residence Hotel
+267776|Butterfly Apartments And Flats
+267777|Mio Suites
+267778|I'zaz
+267779|Jakaranda
+267780|Dila Suites
+267781|Peradays
+267782|Pink Apart Taksim
+267783|Adonis House Taksim
+267784|Nisa Sultan Taksim Residence
+267786|Hot Suites Taksim
+267787|Moss Suites
+267788|X Flats
+267789|Plussuite Taksim
+267790|Emerald
+267791|8 House Residence
+267792|Q Apartment Istanbul
+267793|No. 10 Taksim Studios
+267794|Bianco Residence Taksim
+267797|Promise
+267798|Cheya Residence Rumeli Hisari
+267799|Istanbul Suite Home Osmanbey
+267800|Karahan Residence
+267803|Hush Hostel Lounge
+267804|Akin Suites Istanbul
+267810|Istanbul Garden Suite
+267811|Masal Hotel
+267814|Taya Hatun Hotel
+267817|Ekim
+267818|Turkish-American B&B
+267820|Birol
+267823|Taksim Guest Residence
+267824|Ascot House
+267826|Palmen Apart Hotel
+267828|Temiz Otel
+267829|Kardelen
+267830|Centauera Boutiqe Hotel
+267831|Lara Kapris
+267833|Ale Boutique Hotel
+267835|The Suite Apart Hotel
+267836|Hadrianus
+267837|Selge
+267838|Camel Pension
+267840|Cinar Butik
+267841|Selen Motel
+267843|Avlu Hotel
+267845|Kara Family Apart
+267846|Villa Augusto Boutique Hotel
+267847|Sato
+269455|Kordon Alsancak
+269459|Best Inn Hotel
+269460|Bedirhan Konak
+269462|Ã‡esme Sirin Villa Otel
+269587|Bugday Hotel
+269590|Mithat
+269595|Avalon
+269596|Eyueboglu
+269597|Elit Otel
+269599|Hotel Tunali
+269601|Samm - Boutique Class
+269603|City
+269604|Club Adas Hotel
+269854|Jade
+269855|BÃ‡ Alya Hotel
+269857|Sedir Resort
+269858|Asena Motel
+269899|Eden Garden
+270224|Paris
+270225|Nilya
+270226|Amazon Antique
+270229|Vardar Pension
+270230|Natureland Efes
+270231|NazHan
+270233|Efes Antik
+270234|Kirkinca Houses & Boutique Hotel
+270235|Terrace Houses Sirince - Fig, Olive & Grapevine
+270865|GÃ¶kcen Hotel & Apartments
+270866|Elze
+270867|CC's Butik Hotel
+270868|Cypriot Hotel
+271093|Orion Guest House
+272186|Sina Otel
+272269|Lavanta
+272271|Galindo Park Hotel - Boutique Class
+272272|Blue
+272447|Park Royal
+272449|Adana Kristal Hotel
+273059|Romantik Villa Dalla
+273060|Lakeside Villa
+273162|Artur Hotel
+273163|Hotel Limani
+273164|Des Etrangers
+273165|Dort Mevsim Hotel
+273167|Hotel Goreme
+273168|Hal-Tur
+273170|Kervansaray Hotel & Pension
+273172|Traverten Thermal Hotel
+273173|Ayapam Hotel
+273600|Yonca Resort
+273681|Vintage
+273683|Villa Fora
+273684|Masala
+273685|Incirliev
+273687|Tashan AlaÃ§ati
+273689|Oykuevi Cave
+273690|Hezen Cave
+273693|Asia Minor
+273695|Cappadocia Palace
+273696|Cave Konak
+273697|4ODA Cave House Boutique
+273698|MDC Cave
+273699|Babayan Evi Cave Boutique
+273700|Fresco Cave Suites & Mansions
+273704|Utopia Cave
+274510|Muskara Cave Hotel
+274511|Duru Hotel
+274732|Divan Cave House
+274734|Nirvana Cave
+274736|Gerdis Evi
+274737|Miras Hotel
+274739|GÃ¶reme Inn Hotel
+274743|Safran Cave
+274745|Flintstones Cave Hotel
+274746|Elif Star Cave
+274749|Kismet Cave House
+274750|Canyon View Hotel
+274751|Goreme House Hotel
+274797|Simsek
+274961|City One Hotel
+275296|Sema
+275297|Otel Sato
+275762|Museum Hotel
+275763|Kapadokya DÃ¼sler Vadisi
+275863|Griffon - Boutique Class
+276350|Lipsos Ata's Place
+276454|Bello Butik
+276459|Kar's
+277020|Anil Boutique
+277021|Akropolis Guest House
+277022|Hera Boutique
+277060|Aterna Hotel
+277061|Kalem Island Oliviera Resort
+277160|Adali Pansiyon
+277162|Ege Han
+277163|Bozcaada Biz
+277167|GÃ¶kÃ§Ã¼oglu Konagi
+277320|Merit Sahmaran
+277362|Wineport Lodge
+277363|Agva Greenline Guesthouse
+277370|Olympos Village
+277372|Cirali Hotel
+277373|Arya Holiday Houses
+277375|Iikiz Pansiyon
+277376|Kibala - Guest House
+277379|Villa Lukka
+277380|Den Lille Havfrue
+277423|Sakarya Balturk
+278250|NOA Hotels - Kusadasi Beach Club
+278251|Halici Semera Tatil Koyu
+278252|London Blue
+278254|Manolya Hotel & Apartements - Hotel
+278257|Republika Academic Aparts BÃ¼yÃ¼kcekmece
+278258|Republika Academic Aparts Ortakoy
+278259|DoubleTree by Hilton Hotel Istanbul - Avcilar
+278261|Istanbul Sabiha GÃ¶kcen Airport Hotel
+278262|Albinas
+278264|Inter
+278265|Holiday Inn Gebze - Istanbul Asia
+279168|Elit Palas
+279169|Lugal, A Luxury Collection Hotel Ankara
+279171|Holiday Inn Ankara - Kavaklidere
+279316|Symbola Oludeniz Beach
+280207|Arsen
+281033|Tur58
+281551|Doubletree Avanos - Cappadocia
+282122|Grand Eras Hotel Kayseri
+284601|Edirne Palace
+284694|Uludag Alkoclar
+284695|Alkoclar Zone
+284853|Lara Family Club & Suite
+284859|Cosmopolitan Resort
+284861|Lotus Beach & Spa Resort
+284862|Rosary Beach
+284863|Sea Planet Resort
+284864|Side Crown Serenity
+284870|Hilton Bursa Convention Center
+284894|Blue Bay Platinum - Classic / Platinum
+285397|Melike
+285401|Asia City
+285402|Budo Hotel
+285409|Park
+285410|Karakoy Rooms
+285415|Princess Old City
+285416|Renaissance Bosphorus
+285421|Lalinn
+285423|Riva Club N
+285431|Radisson Blu Mersin
+285961|Mini
+285963|Armis
+285994|Alba Ankara Hotel
+285998|MÃ¶venpick Ankara
+286660|Akka Residence Villas
+286793|Ibis Adana
+287590|Cadde 75 Otel
+288010|Club Sun Village
+288523|Club La Luna
+291849|Ramada Tekirdag
+292264|The Muses House Boutique
+292266|Blanco
+292824|Med-Inn Boutique Hotel
+293165|Mirada Del Lago
+293166|Mirada Del Monte
+293188|Grand Sea View Apartment
+293601|Villa Gokbel Guest House
+293670|Gala BÃ¼yÃ¼kada
+294054|Assos Alarga
+294300|Pasha Hotel
+294646|Grand Gebze Hotel
+294647|Parla Viens Suites
+294649|Altin Camp & Park Hotel
+294650|Pidasus
+295206|Lidya Sardes Thermal
+295320|Hotel Rena
+295321|Polat Riva
+295322|Pia Butik Otel
+295324|Yali
+295325|Iksir Resort Town
+295326|Atamer
+295328|Ulasan Hotel
+295329|Karvalli
+295331|Grand Eregli
+295333|Kaltur Butik
+295334|Azim Thermal Hotel
+295335|Kybele Hotel
+295336|Maviay Hotel
+295337|Yonca Butik Hotel
+295338|Ada Boutique Hotel
+295339|Antik Zeytin Hotel & Art
+295341|Meltem Butik Hotel
+295477|Club Datca Holiday Village
+295482|Dizalya Palm Garden
+295483|Grand Park Lara
+295485|Raymar Resort
+295487|Terrace Elite
+295500|Titanic Deluxe Belek
+295559|Euphoria Aegean Resort & SPA
+295581|AtakÃ¶y Marina
+295618|Asur Hotel
+295658|Side Best House
+295798|Maya World
+295799|White City Resort
+295816|Sultan Of Dreams
+295878|Dream World Resort
+295948|Seashell Resort & Spa
+296253|Crowne Plaza Istanbul - Oryapark
+296278|Radisson Blu Hotel Istanbul Sisli
+296279|Aren Suites
+296283|Diamond City Istanbul
+296286|Grand Reis
+296290|Byotell Flora Residence
+296291|Soliman
+296294|Trio Suites Taksim
+296295|GÃ¼ler
+296299|Ugurlu Thermal Resort
+296308|DoubleTree by Hilton Izmir Alsancak
+296310|Royal Mersin
+296487|Royal Garden Select
+296506|Ramada Resort Side
+296517|Orka Sunlife Resort & Spa
+296527|Vogue Bodrum
+296531|Royal Stone Houses
+296552|Marti Hemithea Boutique
+296646|Radisson Blu Pera
+296647|Tryp by Wyndham Istanbul Taksim
+296724|Zen The Inn Resort & Spa
+296725|Atalla
+296726|Bone Club Sunset Hotel & Spa
+296727|Elegance East Hotel
+296753|Horus Paradise - Holiday Village
+296754|Horus Paradise - Luxury Resort
+297043|Sabrina's Haus
+297139|Club Ege Antique
+297167|Perdue
+297327|Villa Neighbours
+297328|Victoria Resort
+297717|Sunhill Centro
+297782|Holiday World
+297795|Anthos Garden
+297851|Caligo
+298022|Shangri-La Bosphorus Istanbul
+298059|Club Poseidon Hotel
+298061|Justiniano Deluxe Resort
+298131|Rosella Apart
+298250|Rota
+298266|Fethiye Park
+298270|Orty Airport
+298375|Side West Park
+298507|Gumbet Beach Boutique
+298594|Pegasos Resort / Club / Royal - Club
+298595|Pegasos Resort / Club / Royal - Royal
+298596|Pegasos Resort / Club / Royal - Resort
+298675|Annabella Park
+298938|Oba Time
+298942|Sava Hotel
+299031|Bade Sisli
+299181|Alish
+299354|Batont Garden
+299625|Palmiye Park Apart
+299632|Barut Cennet & Acanthus - Barut Cennet
+299655|Vera Aegean Dream Resort - Vera Aegean Dream Select
+299778|Golden Moon
+299781|Eda
+299787|Saffron Apartments
+299788|Morina Deluxe
+299789|Green Valley
+299790|Rixos Residences Bomonty
+299977|Club Golf Park
+299982|Dilek Hotel & Apartments
+299991|Saray
+300009|Moonlight Apartments
+300087|Cem Apart Hotel
+300210|Tourist Boutique & Hotel
+300222|Letoon Didim
+300268|Raga Apart
+300615|Tugay
+300624|Deska Hisar Garden Apartments
+300697|The Beachfront
+300701|Kondo Suites und Residence
+300709|Ramada Resort Lara
+301112|Kleopatra Aytur Apart
+301113|Risa
+301323|Merve Han Residence
+301330|Nergiz Sand & City
+301337|Hotel Kumkapi Konagi
+301341|Larissa Holiday Beach
+301367|GÃ¼ven
+301432|SENTIDO Bellazure
+301651|Mercure Istanbul Altunizade
+302139|Art' Otel
+302177|My Diva
+302185|Pekcan
+302223|Victory
+302224|Wyndham Istanbul Kalamis Marina
+302305|Monart Park
+302369|Mer-Can Story
+302370|Flora Palm Resort
+302371|Fortin
+302372|Adrasan Klados Hotel
+302388|Inn City Boutique Nisantasi
+302399|Premier Palace
+302407|Aymes Hotel
+302411|Barut Andiz
+302425|Naturland Vacation Club in Eco Park - Aqua Resort
+302426|Naturland Vacation Club in Eco Park - Forest Resort
+302427|Naturland Vacation Club in Eco Park - Country Resort
+302511|The One Club Hotel
+302532|Gold Kaya & Butik Hotel
+302554|Temple Beach
+302558|Green Garden City
+302570|Nidya Hotel Galataport
+302573|Thor Luxury Hotel & Villas
+302627|Twin Apart Hotel
+309156|Aprilis
+309157|Green Gold
+309159|Deska Legend
+309161|Deska Prestige & Diamond Villas
+309162|Ruby Rose Resort
+309176|Abel
+309177|Deska Hisaronu Luxury Apartments
+309201|LVZZ Residences
+310891|Baris Apart
+310901|Infinity Beach
+310903|GÃ¼nes Beach & House - GÃ¼nes House
+310908|Limak Thermal Boutique Hotel
+310933|The Haze KarakÃ¶y
+310952|Sea Star Hotel
+311057|Altinkum Park
+311087|Lara Atalla
+311120|Stardust Beach
+311147|Ramada Hotel & Suites Istanbul Atakoy
+311244|Peninsula Galata Boutique
+311247|Yali Charme Hotel
+314165|Boyalik Beach Hotel & Spa
+315301|Golden Horn Istanbul
+320291|Fame Goynuk Resort
+323570|Labranda Princess
+334993|Simena Hotel & Holiday Village - Simena Hotel
+334994|Simena Hotel & Holiday Village - Simena Holiday Village
+335063|Ramada Plaza Tekstilkent
+354409|Cesars Beach
+359369|Eftalia Downtown
+359439|Hedef Beach Resort & Spa
+359469|Phaselis Hill
+359549|Kervansaray Bursa City
+359570|Avrupa
+359580|Pasham Residence
+359584|Shamana Hotel & Spa
+359742|Ikon
+359952|GÃ¼mbet Beach Resort
+363251|Nar Galata
+363288|Kestrel Park
+363290|The Pera Hill
+363292|Kaya Madrid
+363293|Miracle Istanbul Asia
+363294|Suiteness Taksim
+363296|Omer Hayyam Palace
+363297|Retaj Royale
+363298|Sehir Old City
+363338|Serene
+363339|Eurostars Hotel
+363340|Yusufpasa Suites
+363341|Airboss
+363342|Gold Majesty
+363467|Syedra Club Kizilot Hotel
+363696|Regnum Carya Golf & Spa Resort
+363717|Orange Palace
+363718|Side Premium
+363728|Justiniano Club Park Conti - Justiniano Moonlight
+363729|Rubi Platinum
+363732|Sunprime Numa Beach
+363733|Delphin Platinum
+363765|Asia Princess
+363766|The Central Palace Bosphorus
+363767|Ibis Istanbul Esenyurt
+363768|WOW Istanbul Hotels & Convention Center - WOW Airport
+363810|Sherwood Club Kemer
+363907|WOW Istanbul Hotels & Convention Center - WOW Istanbul
+363910|Michell
+363916|Royal Adam & Eve / Royal Heaven Villas - Royal Heaven Villas
+363957|Volley
+363974|Quattro Beach Spa & Resort
+363980|Iberis Hotel & Spa
+364011|Rixos Premium GÃ¶cek
+364126|Heaven Beach Apart Hotel
+364134|Golden Life Blue Green Residence
+364999|Luna Blanca Resort & Spa
+365013|Yasemin
+365144|Azure Villas by Cornelia
+365196|Daphne Residence
+365302|Grand Washington
+365325|MAGIC LIFE Jacaranda Imperial
+365389|Sheraton Adana
+365408|Ataer
+365454|Port Nature Luxury Hotel & Spa
+365480|Garcia Resort & Spa
+365520|Ramada Resort AkbÃ¼k
+365524|Twenty
+366530|Sunpark Garden
+366531|Diamond Elite
+366562|Bodrum Park Hotel
+366563|Porto Azzurro Club Mare
+366593|Cevahir Asia
+366609|Belcehan Deluxe
+366696|Voyage Torba & Voyage Torba Private
+366697|Voyage Torba & Voyage Torba Private - Voyage Torba Private
+366703|End Suites Taksim
+366705|SENTIDO Sea Star
+366714|CVK Park Bosphorus
+366717|Silence Istanbul Hotel & Convention Center
+366721|Lugga de Luxe Boutique Hotel
+367243|Flamingo Resort Bodrum
+367245|Nova Apart Hotel
+367247|Dost Beach Hotel Fethiye
+367250|Baldan Suites Boutique
+367251|Irem Apart Hotel Marmaris
+367254|116 Residence Hotel
+367256|Ada Home
+367259|Armada Istanbul Pera Hotel
+367260|Chiconomy Hotel
+367261|Day Aparts Airport Hotel
+367264|Elite World Business
+367269|Hampton By Hilton Istanbul Kayasehir
+367271|Hilton Istanbul Bomonti Hotel & Conference Center
+367272|Hilton Istanbul Kozyatagi
+367273|Home Stay Home Sisli
+367274|Home Suite Home Valikonagi
+367282|Northstar Resort
+367283|One Istanbul
+367285|Otto Pera Hotel
+367287|Premist Hotel
+367296|Wyndham Grand Istanbul Europe
+367303|Saylam Suites
+367308|Villa Sun Flower
+367752|Ibis Izmir Alsancak
+367753|Ramada Encore - Izmir
+367754|Renaissance Izmir Hotel
+367805|Mavikosk
+368245|Aloft Bursa
+368247|Sheraton Bursa Hotel
+368481|Anemon Adana Hotel
+369018|Flipflops Apartments
+369043|Tulip Inn Cappadocia
+369688|Avantgarde Yalikavak
+369689|Horizon Sky Resort
+370771|Anemon Samsun
+370772|Hampton By Hilton Samsun
+370781|Doubletree by Hilton Malatya
+370782|Ramada Plaza Malatya Altin Kayisi
+370820|Elite World Van Hotel
+370945|The Green Park
+370946|Hilton Garden Inn Diyarbakir
+371517|Anemon Iskenderun
+372371|Wellborn Luxury Hotel
+372453|Akra Barut & Akra Park Barut
+372499|Melek Apart Hotel
+372500|The Best Life Hotel
+372566|Justiniano Theodora Resort
+372613|Long Beach Harmony
+372617|Swissotel Resort Bodrum Beach
+372752|Oya Apart
+372758|Corinne
+372860|World Heritage
+372955|Assos Kervansaray
+373542|New Bodrum Hotel Guembet
+373556|Casa Costa Boutique
+373557|Gliss Boutique
+373562|Han Royal Hotels
+373583|Ferah
+373585|Doria Hotel & Yacht Club Kas
+373611|Taxim Elegance Suites
+373616|Guelhane Corner
+373625|Sargon Ayasofya
+373627|Rose Garden Suites
+373631|Dilhayat Kalfa Otel
+373640|Aura Suites Residence Gayrettepe
+373642|Box Hotel
+373646|The Bridge
+373647|Aston Residence
+373651|Istiklal Apartments - Suites Special
+373654|Mavi Konak Appartments
+373659|Taksim Home Apart
+373669|Metin Han
+373677|As
+373686|Villa Sonata Apart
+373689|Nasa Flora
+373695|Blue Stars Boutique
+373698|Simsek Hotel
+373760|Side Holiday Village
+374086|Zeybek
+374087|Key
+374115|Ontur Butik Ankara
+374118|Rissis Otel Ankara
+377072|Tiara Termal Hotel
+380881|Goecek Arion Hotel
+382325|Anatelein Boutique Cave
+385055|Villa Lycus Boutique
+385863|Sam My House
+386431|Edessa City
+387858|Prestige Hotel
+387867|Boutique The Anilife Hotels
+389844|Park
+390431|Kapadokya Ihlara Konaklari - Caves
+390434|Elif Otel
+390435|Thermalium Wellness Park
+390863|Demosan Hotel - Spa
+390959|Turunc Dream
+391211|Dragut Point North Hotel
+391235|Agora Apart Hotel
+391296|Nilbahir Resort & Spa
+391344|Yedi Bilgeler Vineyards
+391394|Green Nature Diamond
+391436|Barut Sensatori Sorgun
+391447|Augustus Boutique
+391448|Hich Hotel Konya
+391485|Club Turkuaz Garden & Villas - Turkuaz Villas
+391494|Alan Xafira Deluxe Resort & Spa
+391500|Aurum Spa & Beach Resort
+391556|Le Mirage
+391599|Bella Pino
+391683|Koru Ã‡ankaya
+391691|Cassiel
+392025|Parachute
+392058|Caratpark
+392064|Lale Apart
+392156|Eleni Hotel
+392202|Dalyan Resort & Dalyan Resort Spa
+392203|Dalyan Resort & Dalyan Resort Spa - Dalyan Resort Spa
+392207|Karmir Resort & Spa
+392347|Kleopatra Ramira Hotel
+392413|Temple Class
+399696|Ocakkoy Cottages
+399742|Montana Boutique
+399754|Yildirim Butik
+399781|Kriss Hotel
+399786|Alyon Hotel Taksim
+399794|Alfa Hotel
+399805|Alyon Suite Hotel
+399806|Comfort Suite Istiklal
+399807|Ottoman City
+399808|Skalion Hotel
+400751|River Park Hotel Bungalows
+400802|Larissa Mare Beach
+400866|Camlik Berk
+400957|Ale Suite Hotel
+401065|Sign by Ersan
+401108|Ilica
+401119|Caria Royal
+401227|Sah Inn Paradise
+401287|Big Box Hotel
+401289|Biz Cevahir
+401306|Jumeirah Bodrum Palace
+401357|Euro Park
+401360|Lasagrada Hotel
+401366|Beyaz Konak Evleri
+401396|Orka Boutique
+401405|Club Ceylan
+401406|Cheya Besiktas
+401407|Cinar
+401413|Darusultan
+401417|Dere Suites
+401418|Dilekagaci Boutique
+401429|Sarp
+401455|The Million Stone Hotel
+401519|Istanbul Dora Hotel
+401520|Dosso Dossi Hotels - Old City Sultanahmet
+401551|La Mosae
+401552|Grand Ozgul Thermal Holiday Village
+401557|Loveyou Hotel Ayayorgi
+401629|Antik Butnik & Antik Garden
+401677|Faik Pasha
+401682|Imren Han Hotel
+403253|Eftalia Marin Hotel
+403254|Royal Towers Resort
+403307|Istanbul Marriott Hotel Sisli
+403310|Harmony Side
+404224|Cenevre
+404225|More Residence
+404246|Dragut Point South Hotel
+404249|Han Dalyan
+404254|Aqua Deluxe Hotel
+404398|Ilhan
+404455|Ant Mare
+404456|Sandikli Park
+404465|Golden Way
+404475|Green Prusa
+404520|Best Nobel Hotel 2
+405130|Kayakapi Premium Caves
+405139|Kuk BakirkÃ¶y Hotel
+405247|Novia Lucida Beach
+405280|Gloria Sports Arena
+405871|Han Otel
+405874|Blue Bay Hotel
+405882|Mandarin Apart Hotel
+405913|Kleopatra Atlas
+406002|Tomato Bodrum
+406045|Dedeman Park Gaziantep
+406047|White
+406055|Alanya Dreams
+406078|Ramada Hotel & Suites Kemalpasa
+406079|Grand Corner
+406081|Ramada Plaza Izmir
+406082|Way
+406084|Radisson Blu Hotel & Spa Istanbul Tuzla
+406085|Ramada Plaza Istanbul Asia Airport
+406087|Rescate Hotel Asia
+406088|Avcilar Inci
+406089|Istanbul Dedem
+406091|Corner Hot
+406092|TÃ¼yap Palas
+406094|Golden Gate
+406103|Azura Park
+406113|Cocos The Club
+406371|Ramada Encore Bayrampasa
+406372|Dream Bosphorus
+406375|Style Hotel Sisli
+406397|Queen's Park GÃ¶ynÃ¼k
+406402|Arma's Park Hotel
+406438|The 22 Hotel
+406443|Comfort Hotel Taksim
+406446|Lemon Residence
+406447|On Suites Istanbul
+406462|Art Hotel Kusadasi
+406476|Botanik Resort Kemer
+406540|Kleopatra Suit Hotel
+406564|Palmetto Resort Hotel
+406567|Konak Petunya Boutique
+406741|ibis Ankara Airport
+406742|Mercure Istanbul Taksim
+407121|Cinar Butik
+407235|The Parma
+407275|Pearl
+407745|Altun Apart Hotel
+407784|Sato Otel
+407786|Peda Akvaryum Beach
+407844|Konakk Residence
+407845|Liluz
+407847|GK Regency Suites
+407849|Myy Boutique
+407855|Ã–nder Yildiz Hotel
+407976|The House Vault KarakÃ¶y
+407996|Angel's Peninsula
+407999|Sura Hagia Sophia Hotel
+408000|Enderun Hotel
+408001|L'onde Business Suites
+408569|Hera Montagna
+408576|Meridiani
+408577|Fenerbahce Spor Kulubu Konukevi
+408579|Bika Suites
+408612|Isla Apart
+408673|Raffles Istanbul
+408674|The St. Regis Istanbul
+408676|Avantgarde Taksim Square
+408746|Dogan Orhaniye
+408748|Clarion Hotel & Suites Istanbul Sisli
+408755|Kemerlihan Deluxe
+408841|Sueno Hotel Deluxe Belek
+408890|Q Spa Resort
+408942|Ramada Cappadocia
+408954|Royal Adam & Eve / Royal Heaven Villas - Royal Adam & Eve
+409004|Tropicana Garden Hotel
+409148|Ramada Resort Kusadasi & Golf
+409161|Adelina Hotel
+409249|Side Crown Select - ab Mai 2015 Crown Charm Palace
+409250|Azura Deluxe Resort & Spa Hotel
+409258|Wyndham Grand Istanbul Levent
+409280|Turunc Premium
+409282|SENTIDO Orka Lotus Beach
+409283|Smartline Pointbreak Belek
+409284|Sunprime C-Lounge
+409298|Hurry Inn Merter
+409606|Divan Gaziantep
+409653|Mor Salkim Konagi
+409670|Radisson Blu Hotel Kayseri
+410292|Holiday Inn Express Manisa West
+410305|Margi
+410868|Dolce Bodrum
+410870|Turihan Beach Hotel
+410874|Queen Hotel and Spa
+410913|Tempo Suites Airport Istanbul
+410914|Comfort Hotel Haramidere
+410921|Diamond Royal Hotel
+410922|Istanburg Hotel
+410923|Arach Hotel Harbiye
+410937|Collage Cihangir 55
+410943|Stanpoli Hotel
+410953|Caliente Garden Wellness & Spa
+410954|Dedeman Bostanci Hotel & Convencion Center
+410969|Lims Bona Dea Beach Hotel
+411036|Prime Boutique Hotel
+411042|Sunmelia Beach Resort
+411095|Palm Bay Beach
+411097|Club Dedeman
+411140|Sunis Efes Royal Palace Resort & Spa - Opening May 2015
+411150|Ã‡esme Troy Boutique Suites & Spa
+411205|Mary Palace Resort & Spa
+411325|LTI Serra Resort
+411455|Royal Taj Mahal
+411456|LITORE Resort Hotel & Spa
+411463|Amara Sealight Elite
+411478|Almila Side Suite
+411490|Holiday Inn Express Istanbul Airport
+411496|Water Side Deluxe Resort
+411544|Mandarin Oriental Bodrum
+411600|Port River Hotel SPA
+411638|La Finca Marina Hotel Alanya
+411661|Manesol Boutique Lamartine
+411662|Veltur Small Beach
+411729|Aslan
+411766|Dream World Aqua
+411798|Palm World Side
+411808|VON Boutique
+411825|Manesol Suite Golden Horn
+411994|Barut Sensatori Fethiye
+411997|Hampton by Hilton Gaziantep
+411998|Sensimar Bodrum Resort und Spa
+412002|Sensimar Ephesus Beach SPA Resort
+412067|Delphin Hotel Side
+412082|Belmare Hotel
+412213|Notion Kesre Beach & Spa
+412214|Hotel Sirius Deluxe
+412303|Mi Playa
+412304|Monte Carlo Park
+412366|Lebedos Princess
+412941|MidMar Deluxe
+413061|AC Hotel Istanbul Macka
+413105|The Prime Garden Otel
+413214|Side Rose Hotel
+413225|Side La Grande Resort
+413280|Sentido Turan Prince & Prince Park
+413355|Oglakcioglu Park City
+413419|Hotel Golden Boutique
+413553|Sirin Gold Hotel
+413586|JDW Design Hotel
+413602|Asia Beach Resort Hotel & Spa
+413879|Dosso Dossi Downtown
+414269|Imperial Business Bomonti
+414285|Mia Berre
+414291|Olbia Hotel
+414297|Suleymaniye
+414307|Yali Park
+414310|Meyra Palace
+414503|Ommer
+414538|Manici Kasri
+414548|Gorrion
+414556|Palanga Bosphorus Suites
+414562|Glorious Hotel
+414766|Fengo
+414768|Miramar
+414818|Divan Suites Istanbul G-Plus
+414820|Flora Suites
+414830|Zeniva Hotel
+414831|Yalicapkini Boutique Hotel
+414833|Sipark Boutique Hotel
+416326|Konya Dervish Otel
+416328|Maridin
+416329|Tepebasi Konaklari
+417494|Bera Ankara
+417582|Ulu Resort
+417642|Side Su
+421061|Queen's Park TÃ¼rkiz Family Club
+424401|Grand Seigneur

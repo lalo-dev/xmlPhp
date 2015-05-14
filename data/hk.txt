@@ -1,0 +1,192 @@
+1396|The South China
+1399|Holiday Inn Golden Mile
+1401|Royal Plaza
+1402|Stanford
+9239|BP International
+10256|Novotel Hong Kong Century
+10433|City Garden
+11839|Eaton Hong Kong
+12123|Empire Tsim Sha Tsui
+13481|Grand Hyatt
+13512|InterContinental Grand Stanford
+14488|Hyatt Regency Hong Kong, Tsim Sha Tsui
+14946|Island Shangri-La
+15141|JW Marriott
+15514|The Kowloon
+15515|Shangri-La Kowloon
+16692|Novotel Hong Kong Nathan Road Kowloon
+16751|Mandarin Oriental Hong Kong
+16826|Marco Polo Hongkong
+17406|Metropark Kowloon
+17941|Renaissance
+17954|Newton Place Kowloon
+17982|New World Millennium Hong Kong Hotel
+18764|Park Hong Kong
+18790|The Park Lane
+18896|Largos
+19884|Ramada Kowloon
+20003|Regal Airport
+20005|Regal Hongkong
+20006|Regal Kowloon
+20007|Regal Riverside
+20137|Renaissance Harbour View
+21535|Sheraton Hong Kong Hotel & Towers
+21996|South Pacific
+22126|Stanford Hillview
+22756|The Excelsior Hong Kong
+22790|Harbour Grand Kowloon
+22815|The Kimberley
+22843|Gateway
+22844|Marco Polo Prince
+22918|The Peninsula
+22988|The Royal Pacific Hotel & Towers
+23070|The Wharney
+26019|Silvermine Beach
+27303|InterContinental Hong Kong
+31209|The Mira
+31788|Rosedale Hotel Hong Kong
+36427|The Royal Garden
+36566|Metropark Causeway Bay
+38095|The Langham Hong Kong
+38567|Harbour Plaza Metropolis
+39710|The Harbourview
+46580|Traders Hong Kong
+47574|Conrad
+47575|Hongkong Gold Coast
+48477|Metropark Mongkok
+51347|Langham Place Hong Kong
+51348|The City View
+52911|Silka Seaview
+53757|Regal Oriental
+54698|Pruton Prudential
+54700|Cosmopolitan
+54701|The Charterhouse Causeway Bay
+59171|Ibis North Point
+59172|Pacific Island
+59173|Bishop Lei International House
+59682|The Salisbury YMCA
+63564|Nathan
+64422|The Landmark Mandarin Oriental Hong Kong
+65003|Four Seasons Hong Kong
+68737|Le Meridien Cyberport
+72957|Harbour Plaza North Point
+75825|Silka West
+75826|Holiday Inn Express Causeway Bay
+75827|Gloucester Luk Kwok Hong Kong
+75828|L'Hotel Causeway Bay Harbour View
+76525|Royal Park
+76526|Anne Black - YWCA
+76527|The Garden View YMCA
+77034|Lanson Place
+78657|Novotel Hong Kong Citygate
+79473|Cosmo
+82105|Harbour Plaza Resort City
+82365|Silken Far East
+82660|Hong Kong Disneyland Hotel
+82663|Lan Kwai Fong
+82664|Butterfly On Hollywood
+84306|Ramada Hong Kong
+84362|Evergreen
+84475|MK Hong Kong
+85512|The Emperor Happy Valley
+87209|The Luxe Manor
+88409|Bridal Tea House To Kwa Wan
+88410|Bridal Tea House Hung Hom Wuhu Street
+88411|Bridal Tea House Yau Ma Tei
+88413|Bridal Tea House Western District
+89418|Citadines Ashley Hongkong
+90128|The Fleming
+94095|Rambler Oasis
+97508|Panda
+103472|Newton Kowloon
+103473|The Imperial Hong Kong
+103778|Newton Hong Kong
+103779|Royal View
+107453|Guangdong
+108111|J Plus Boutique
+109241|Newton Inn North Point
+109588|Parkview Suites
+109589|The Empire Wan Chai
+124183|Rambler Garden
+124199|L'hotel Nina & Convention Centre
+131624|Warwick
+131626|Shamrock
+134295|Courtyard
+135521|W Hong Kong
+135523|Olympic Terrace Suites
+136435|Bridal Tea House Hung Hom Winslow Street
+136436|Culture Homes - Ap Lei Chau
+136533|Harbour Grand Hong Kong
+140207|Walden
+140248|Skycity Marriott
+140249|JJ Hotel
+140250|Bridal Tea House Tai Kok Tsui Anchor Street
+140252|Bridal Tea House Tai Kwok Tsui Li Tak Street
+140253|Bonaparte by Rhombus
+155764|LKF by Rhombus
+155766|Metropark Wanchai
+155767|Panorama By Rhombus
+182506|Empire Causeway Bay
+182507|Lucky
+182508|Hotel 36
+182917|SoHotel
+182918|Casa Hong Kong
+182919|West Hotel
+188012|Harbour Plaza 8 Degrees
+188035|Xi Hotel
+188036|Wing Sing
+188037|Oriental Lander
+201713|Crowne Plaza Hongkong Causeway Bay
+201714|Bridal Tea House Sham Shui Pol
+201715|Wifi
+201716|Acesite Mong Kok
+201717|JL Hotel
+203174|The Upper House
+226579|East
+227662|The Ritz-Carlton Hong Kong
+227805|L'hotel Island South
+230308|Ice House
+230313|Goodrich Hong Kong
+235218|iclub Wan Chai Hotel
+236153|Dorsett Mongkok
+236598|M1-Hotel
+238544|Best Western Causeway Bay
+238545|Icon
+238546|De Edge by Rhombus
+238547|Noah's Ark
+238548|The Mercer
+239885|Pop Hotel
+240334|Dorsett Regency
+241253|Bridal Tea House Aberdeen
+243562|Hyatt Regency Shatin
+247884|The Vela Hong Kong Causeway Bay
+253314|Marco Polo Hostel
+253316|Las Vegas Guest House
+253317|Garden Guest House
+253318|New Hong Kong Hostel
+253319|Carlton Guest House
+257320|Madera Hong Kong
+257321|Ovolo 100 Shek Pai Wan Road
+257325|Ovolo 2 Arbuthnot Road Central
+259540|Sky Dragon House
+260280|Downtown Backpackers
+260758|Dorsett Regency Kwun Tong
+260761|Butterfly On Victoria
+261299|Canadian Hostel
+261300|L'hotel élan
+261303|V Serviced Apartment Causeway Bay
+261304|V Serviced Apartment Wanchai
+265537|Best Western Grand
+265742|Best Western Harbour View Hong Kong
+292209|Holiday Inn Express Hong Kong Kowloon East
+292210|Ovolo 256 Tung Chau Street
+292211|Rosedale Hotel Kowloon
+293818|Ibis Hong Kong Central & Sheung Wan
+293820|Ovolo 286 Queen's Road Central
+295445|Korean Hostel
+295734|Holiday Inn Express Hong Kong Soho
+295735|Crowne Plaza Hong Kong Kowloon East
+300650|Kapok Apartment
+310969|pentahotel Hong Kong
+363368|Mira Moon
+365604|Courtyard Hong Kong Sha Tin

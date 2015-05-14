@@ -1,0 +1,1384 @@
+7072|Acimo & Topas - Acimo
+7401|Allalin
+7404|Allegra
+7463|Alpenrose
+7481|Alpine Lodge
+7925|Sheraton Neues Schloss
+8035|Art Deco Montana
+8658|Beau Rivage
+8660|Beau Site
+8752|Bellevue
+8773|Belvedere
+9271|Brienz
+9293|Best Western Bristol
+9295|Bristol
+9428|Cadro Panoramica
+9683|Capitole
+10736|Continental Parkhotel
+10959|Cresta
+10970|Cristallo
+11224|De la Paix
+11398|Best Western des Balances
+11400|Four Seasons Des Bergues
+11588|Dolder Grand
+11854|Edelweiss
+11858|Edelweiss
+12278|Etoile
+12324|Pullman Basel Europe
+12824|Flora Alpina
+13124|Garni Alba
+13172|Novotel Geneve Centre
+13875|Hecht
+13884|Heiden
+13906|Helmhaus Swiss Quality Zürich
+13935|Hermitage Seehotel
+14050|Hirschen
+14051|Hirschen
+14083|Holiday
+14618|Ibis Zürich City West
+15057|Jeanne D'Arc
+15539|Haus Kristall Appartements
+15554|Krone Unterstrass
+15831|Laaxerhof
+16020|Laudinella
+16120|Le Mont Paisible
+16223|Leoneck
+16373|Heliopark Hotels & Alpentherme Leukerbad
+16569|Swiss Quality Lugano Dante Center
+17399|Metropol Swiss Quality
+17433|Michelangelo - geschlossen
+17496|AlaGare
+17497|Crystal
+17668|Monte Rosa Aparthotel
+17836|Hotel Les Nations
+18483|Palace Luzern
+18733|Parco Paradiso
+19793|Radisson Blu Basel
+20196|Residence Edelweiss
+20217|Residence Marigny Club
+20300|Sorell Rex
+20343|Leonardo Rigihof Zürich
+20635|Best Western Rothaus
+20644|Parkhotel Rovio
+20694|Manotel Royal
+20847|Säntis Unterwasser
+21154|Sasso Boretto
+21178|Savoy
+21215|Scheuble
+21368|Seehotel Waldstätterhof Swiss Quality
+21668|Silvretta Park-Hotel
+21786|Continental Zurich
+22036|Sport
+22162|Steigenberger Bellerive au Lac
+22225|Mercure Stoller
+22390|Sunstar Alpine Hotel Davos
+22391|Sunstar Alpine Hotel Arosa
+22392|Sunstar Alpine Hotel Lenzerheide
+22440|Swiss Holiday Park
+23094|Thermalp - Les Bains d'Ovronnaz
+23206|Sorell Ador
+23207|Swiss Quality Cascada
+23208|Münchnerhof Swiss Quality Basel
+23216|Torgon
+23570|Valsana Sporthotel Arosa
+23677|Victoria
+24039|Villa Toscane
+24267|Vulpera
+24681|Storchen Zürich
+24906|Perren
+24909|Alpenroyal Swiss Quality Zermatt
+24911|Arc en Ciel
+24912|Grand Hotel Park
+24915|Grand Bellevue
+24917|Swiss Quality Gstaaderhof
+24920|Solsana
+24921|Steigenberger Alpenhotel & Spa
+24924|Ferienanlage Hotel Sport
+24926|Guarda Val
+24927|Alpin Sherpa
+24929|Sherlock Holmes
+24930|Zum Alpbach
+24931|The Dom
+24932|Alphubel
+24934|Schweizerhof
+24936|Eden
+24938|Residence Atlantic
+24939|Jägerhof
+24941|Europa
+24942|Saaser Hof
+24943|Artemis
+24948|Moulin
+24950|Europa St. Moritz
+24951|Albana - geschlossen
+24952|Post Haus
+24953|Crystal
+24954|Täscherhof
+24955|Hotel City & Gästehaus St. Martin
+24957|Alpenblick
+24961|Ambassador
+24963|Nicoletta
+25350|Magrappe
+25363|Hohenfels
+25384|Das Hotel Panorama
+25391|Derby
+25394|National
+25398|Kristall-Saphir
+25420|Le Bristol
+25422|Regina
+25424|Bernerhof & Residence Hotels
+25426|Belvedere
+25428|Club-Hotel
+25429|Central
+25434|Ramada Regina Titlis Engelberg
+25436|Kristall
+25437|Sunstar Alpine
+25439|Alpenhotel Flims
+25442|Surpunt
+25444|Alpine
+25446|Derby
+25448|Residence
+25455|Waldhotel Doldenhorn & Landgasthof Ruedihus
+25458|Alfa-Soleil
+25462|Silberhorn
+25464|Hôtel Le Relais Alpin
+25789|Swissotel Zürich
+25927|Terrace
+25930|Central Wolter
+25931|Jungfrau Lodge
+25933|Swiss Quality Steinmattli Adelboden
+25936|Best Western Alpen Resort
+25941|Hostellerie Am Schwarzsee
+25942|Walliserhof Swiss Quality
+25943|Berghotel Trübsee
+25944|Castell
+25945|Meierhof
+25960|Robinson Club Arosa
+25964|Piz Buin Swiss Quality Hotel
+25970|Robinson Club Schweizerhof
+26253|TREFF HOTEL Sonnwendhof Engelberg
+26255|Engelberg
+26256|Edelweiss
+26258|Hotel Silberhorn
+26272|Alpha
+26276|Parkhotel Quellenhof
+26279|De La Foret
+26282|Mayens de l'Ours Residences
+26325|Wengener Hof
+26477|Seehof Davos
+26479|Chalet Royal
+26480|Ferienart Resort & Spa
+26481|Mont Cervin Palace
+26485|Grand Regina
+26486|Simmenhof
+26629|Strela
+26657|The Cambrian Hotel & SPA Adelboden
+26659|Brienzerburli
+26819|Alpenhof
+26820|Christiania
+26823|Kreuz
+26824|Bristol
+26826|Posthotel Holiday Villa Arosa
+26829|Cresta
+26830|Kongress
+26831|Cresta Sun
+26832|Cucagna Hotel
+27033|Sunstar Alpine Wengen
+27035|Eiger
+27039|Swiss Quality Bernerhof
+27048|La Prairie
+27052|Turm Grächerhof
+27053|Schweizerhof
+27054|Mirabeau
+27057|Dom
+27060|Alpenblick
+27063|Schweizerhof
+27067|Sheraton Davos Waldhuus
+27069|Monopol
+27072|Seehof
+27530|Victoria
+27532|Eden
+27533|Matterhorn Valley Hannigalp
+27534|Matterhorn Valley La Collina
+27535|Komplex Bergheimat & Moonlight
+27536|Bärgsunnu
+27537|Monte Rosa - geschlossen
+27539|Krone
+27897|Schloß Ragaz
+27898|Sandi
+27930|Churfirsten
+28545|Lago di Lugano
+28547|Piccolo
+28549|Idyllhotel Appenzellerhof
+28553|Zum Hirschen
+28560|Alpha
+28561|Bellevue Au Lac
+28577|Graziella
+28828|Eden Palace au Lac
+28830|Parkhotel Delta
+28831|Grand Eden
+28832|Misani
+28836|Rössli
+28839|Vitznauerhof
+28842|Seehotel Du Lac
+28844|Mercure Plaza Biel
+28846|Eurotel Montreux
+28847|Masson
+28848|Olympia
+28851|La Perla & Dependancen Ascona
+28852|Ascona
+28853|Tamaro und Dependance Villa Olevano
+28854|Ramada Arcadia Locarno
+28857|Albergo I Grappoli
+28858|Delfino
+28859|Calipso / Calipso Park
+28914|Monopol
+28915|Central
+28948|Mövenpick Lausanne
+29327|Esplanade Resort & Spa Locarno
+30448|Alfa
+30451|Continental
+30453|Eden
+30454|Agora Swiss Night
+30455|Swiss Wine Hotel & Bar
+30984|Central-Residence
+30988|Matterhorn Valley Alpina
+30994|Rigi Kaltbad
+31485|Eigerblick
+31487|Castel Club Leysin Parc Resort
+31488|Imseng
+31489|Römerhof
+31595|Berghof Amaranth
+31597|Dorint Blüemlisalp Beatenberg-Interlaken - Hotel / Ferienwohnungen
+31599|Eurotel Victoria
+31603|Helvetia Intergolf - Aparthotel
+31606|Patricia Residence Zermatt
+31609|Feriendorf Tschuggen
+31616|La Margna Swiss Quality
+31697|NH Zürich Airport
+32054|Kirchbühl
+32056|Excelsior
+32057|Waldhaus Flims Mountain Resort & Spa - Villa Silvana
+32063|Victoria-Jungfrau Grand Hotel & Spa
+32074|Riders Palace
+32542|Victoria Turmhotel
+32543|Sternen
+32633|Europe
+32739|Dorint An der Messe
+32740|Drake Longchamp Swiss Quality
+32742|Villa Sassa Residence & Spa
+33167|Privilège Villa Caesar
+33168|Castello Seeschloss
+34311|Intercontinental Geneve
+34421|Principe Leopoldo
+34422|Maroggia Ferienwohnungen
+34424|Riviera
+34425|Belvedere
+34427|Schmid und Alfa
+34892|Alexander & Gerbi
+34923|Adula Flims
+36214|City
+36380|Des Masques
+36418|Lindner Grand Hotel Beau Rivage
+36526|St. Gotthard Basel
+36527|Swissotel Le Plaza
+36528|Balegra
+36529|Mandarin Oriental Geneva
+36530|Swissotel Metropole
+36531|Victoria
+36832|Neuhaus
+36833|Alpenrose
+36840|Krone
+36841|Carlton-Europe
+36842|Rene Capt Golf
+36843|Admiral Lugano
+37390|Swiss Quality Goldey
+37391|Harder-Minerva
+37392|Plattenhof
+37393|Novotel Zürich City-West
+37395|De la Paix
+37397|Fairmont Le Montreux Palace
+37948|Schweizerhof
+38014|Le Mirador Kempinski Lake Geneva
+38015|Badrutt's Palace
+38019|Kempinski Grand Hotel des Bains
+38020|Carlton St. Moritz
+38069|Weggis Parkhotel
+38070|Ermitage
+38071|Lenkerhof Alpine Resort
+38268|Spinne
+38347|Primavera
+38383|Du Theatre
+38401|Chalet Schönegg
+38704|Marmotte
+38706|Rosatsch
+38707|Hôtel des Alpes
+38709|Sorell Tamina
+38710|Club Med St. Moritz Roi Soleil
+39038|Club Med Villars-sur-Ollon
+39039|Club Med Wengen Palace
+39289|Steffani
+39290|Schweizerhof
+39291|Jungfrau
+39293|Elite
+39550|De Famille
+39736|Best Western Bären
+39737|Seehof
+39761|Royal Plaza
+39968|Swiss Diamond Lugano
+40018|Ramada Encore Genf
+40206|Campione
+40207|Paxmontana Jugendstil-Hotel
+40208|Sorell Seidenhof
+40511|Solaria
+41118|Du Nord
+41120|Landhaus
+42165|Ramada Plaza Basel Conference Center
+46507|Crowne Plaza Geneva
+46508|Ramada La Palma au Lac Locarno
+47297|Palace Lausanne
+47298|Continental Lausanne
+47587|St. Gotthard
+47588|Schweizerhof
+47590|Renaissance
+47591|Marriott
+47592|Eden Au Lac
+47593|Baur Au Lac
+47594|Simi
+47596|National
+47598|Albana Real
+47599|Zermatterhof Grand
+47600|Kulm
+47602|Schweizerhof
+47603|Hauser
+47604|Suisse Majestic Grand
+47605|Grand National
+47606|The Hotel
+47607|Ameron Hotel Flora
+47609|Grandhotel Villa Castagnola au Lac
+47610|Beau-Rivage Palace
+47611|Angleterre & Residence
+47613|Grand Hotel du Golf & Palace
+47614|Crans Ambassador
+47616|Royal Park
+47617|Interlaken
+47619|Royal St.Georges Interlaken
+47620|City Oberland Swiss Quality
+47621|Warwick
+47624|Grand Kempinski Geneva
+47625|Le Richemond
+47626|De la Paix
+47627|D'Angleterre
+47628|Starling Geneva
+47629|Steigenberger Grandhotel Belvédère
+47630|Europe
+47631|Palace Gstaad
+47632|Bernerhof
+47633|Belvedere Grindelwald
+47634|Kreuz & Post
+47635|Schweizerhof
+47640|Des Trois Couronnes
+47641|Bellevue Palace
+47642|Schweizerhof
+47643|Allegro Bern
+47644|Ambassador & SPA
+47645|Best Western Bern
+48254|Bänklialp
+48255|San Gian
+48368|Park Hyatt Zürich
+48458|Grand Hotel des Bains
+49903|Nash Ville
+49904|Manotel N'vY
+49905|D'Auteuil Manotel
+49906|Cristal
+49907|Mövenpick Genf
+49908|Rotary Geneva - MGallery Collection
+49909|NH Geneva Airport
+49910|Cornavin
+49911|Suisse Geneve
+49912|Crystal Interlaken
+49913|Merkur
+49914|Alpha-Palmiers
+49915|Astoria
+49916|Luzernerhof
+49917|Drei Könige
+49918|De la Paix
+49919|Renaissance
+49920|La Perla
+49921|Swiss Quality Acquarello
+49922|Piz
+49923|Hilton Zürich Airport
+49924|Best Western Premier Glockenhof
+49925|Comfort Royal Zurich
+50178|Mattenhof Resort
+50179|Tulip Inn Lausanne Beaulieu
+50180|Ibis Styles Luzern City Hotel
+50181|Waldstaetterhof Swiss Quality
+50182|The Guests' House
+50183|Park Inn by Radisson Zürich Airport Hotel
+50671|Waldegg
+50672|Falken
+50737|Helvetie
+50738|Bon Accueil
+50739|Schlosshotel Zermatt
+50763|Chalet Swiss
+50788|Grand Europe
+50789|Alex
+51287|Rebstock
+51291|Salina Maris
+51294|Solaria
+51295|Oberalp
+51417|Grand Kronenhof
+51466|Mountain Lodge
+51517|Bünda
+51665|Astor
+51666|Hotel Senator
+51697|Eiger
+51757|Radisson Blu St. Gallen
+51819|Best Western Bernerhof
+51820|National
+51821|Continental Park
+51822|Montana Hotel Zürich
+51865|Weisses Kreuz
+51866|Eiger
+52010|ibis Styles Genf Bahnhof
+52315|Victoria Ritter
+52573|Chur
+52788|Novotel Bern Expo
+52800|Parkhotel
+53133|Carioca
+53135|Park
+53136|Walzenhausen
+53137|Sport
+53212|Albergo Gardenia
+53213|Casa Sant Agnese
+53250|Primavera
+53794|Hotel President Wilson Genf
+53797|Holiday Inn Express Airport
+55072|Mövenpick Zürich-Regensdorf
+55676|Europäischer Hof - Europe
+56056|X-Tra
+56124|Bristol
+56131|Euler
+56146|Zic Zac Rock
+56147|Rössli
+56148|Commerce
+56172|Engimatt
+56266|Park Inn by Radisson Lully
+56375|Admiral
+56378|Goldenes Schwert
+56393|Wellenberg Swiss Quality
+56473|Basel
+56574|Coronado
+56575|International & Terminus
+56576|Steinenschanze
+56644|Art Furrer Resort
+56646|Alpenrose Wellness Resort & Casa Arturo
+56650|Sorell Rüden
+56809|Alexander
+56818|NH Fribourg
+56938|Best Western Strasbourg
+56940|Hotel 33
+57481|Manotel Jade
+57482|Manotel Kipling
+57816|Grand Resort Bad Ragaz
+57819|Beatus Merligen
+57821|La Reserve Geneve
+57822|Splendide Royal
+57891|Mercure Classic
+57893|Parkhotel Waldau - geschlossen
+58602|Victoria Lauberhorn
+58604|Saratz
+58782|La Ginabelle
+58784|Alpenhof
+58785|Danilo
+58786|Signina Sporthotel
+58787|Lindenhof
+58848|Ascot
+59617|Colorado
+59936|Panorama Resort & Spa
+60086|Central
+60383|Hôtel Vatel
+60384|Hotel dell'Angelo
+60499|Hilton Basel
+60911|Novotel Lugano Paradiso
+61100|Sorell Arabelle
+61101|Sorell Seefeld
+61102|Sorell Zürichberg
+61821|Les Naturelles Résidence
+62757|Bellary
+62759|Steinbock
+62761|Chateau D'ouchy
+62835|Sternen-Oerlikon
+63799|Blümlisalp
+63800|Meisser
+63898|Basilisk
+63899|Drachen
+63940|Sorell Rütli
+64867|NH Rex
+65027|Antares
+66211|Aeschi Park
+66216|Garni Belmont
+66218|Parsenn
+66372|Waldhotel National
+66377|Streiff
+68190|Cube Savognin
+68521|Tiffany
+68868|Mercure Bristol
+68990|Meierhof
+69090|Altein
+69091|Mirador Golf Hotel
+69092|Valaisia
+69413|Obersee
+69416|Altana
+69883|Rosablanche
+70370|Serpiano
+70371|Garni Jägerhof Hubertus
+70372|Paradies
+70373|Parkhotel Waldheim am Sarnersee
+70374|Ambassador
+70400|Matterhorn Valley Des Alpes
+70849|Best Western Merian Am Rhein
+71258|Montana
+72059|Villa Le Pergole
+72178|Aristella
+72179|Gornergrat Dorf
+72383|Du Glacier
+72927|Schiff am Rhein
+73364|Best Western Airport Zürich
+73365|Allegra
+73366|Novotel Zurich Airport Messe
+73418|Best Western Bristol
+74230|Radisson Blu
+74398|Kreuz
+74558|Grand Hotel des Rasses
+75327|Eden
+75398|Surses Alpin
+75942|Parkhotel Du Sauvage
+75943|Randolins
+75944|Montana
+76028|Albana
+76118|Edelweiss Swiss Quality
+76120|City am Bahnhof
+76513|Nash Carlton
+76551|Sorell Asora
+76552|Grischuna
+77016|La Pinte du Vieux Manoir
+78296|Arosa Kulm
+78608|Ramada Solothurn
+79052|Ochsen
+79076|Mövenpick Egerkingen
+79184|Alpenhotel Täsch
+79467|Mittenza
+79512|Romantik Seehotel Sonne
+79513|Giardino
+79673|Panoramahotel Davos
+79678|Joseph's House
+79754|Freienhof Swiss Quality
+79755|Einstein
+79906|Résidence Le Pracondu
+80165|Sur Baselgia
+80227|Courtyard Zürich Nord
+80242|Piz Mitgel
+80487|International au Lac
+80488|Wellnesshotel Stoos
+80489|Kreuz Sachseln
+80797|Eden Swiss Quality
+82061|Windsor
+82241|Des Alpes
+82242|Baslertor
+82243|Seeburg
+82258|Adler
+82259|Walhalla
+83411|Engel
+83414|Swiss Quality Metropole
+83415|Stella Swiss Quality Hotel
+83416|Small Luxury Hotel Ambassador a L'Opera
+83417|Aarau-West Swiss Quality
+83419|Swiss Quality Elite Art Deco Biel
+83420|Swiss Quality Bernina
+83421|Swiss Quality Mon-Repos
+83422|Swiss Quality Sagitta
+83423|Athmos
+83425|Swiss Quality Congress Olten
+83428|Swiss Quality Chesa Rosatsch
+83433|Globales Conti
+83664|Best Western Chavannes De Bogis
+83778|Sorell Hotel Aarauerhof
+83785|Dolder Waldhaus
+83802|Swiss Quality Grichting-Badnerhof
+83809|Zur Therme
+83810|Tenedo Swiss Quality Hotel
+84433|City Zürich
+84496|Les Armures
+85662|Du Boulevard
+85663|ABC Chur
+85664|Saint-Gervais
+85908|An der Aare Swiss Quality Solothurn
+86441|Traube
+86442|Belvair
+86443|Silvretta
+86446|Albergo Losone
+86449|Geranio au Lac
+86450|Garni Muralto
+86454|Garni Montaldi
+86456|Tresa Bay
+86457|Besso
+86458|Federale
+86461|Victoria
+86463|Tenne
+86466|Alpenhotel Fleurs de Zermatt
+86467|Sarazena
+86469|Bristol
+86470|Best Western Butterfly
+86471|Sunstar Style
+86472|Pollux
+86474|Blume
+86476|Caprice
+86477|Bel-Air Eden
+86478|Alpenruh
+86481|Waldhaus-Huldi
+86482|Wildstrubel
+86488|Le Sapin
+86493|Welcome Inn
+86495|Zum Weissen Kreuz
+86503|Freieck
+86504|Grischa
+86505|Drei Könige
+86506|Romantik Hotel Stern
+86507|Soldanella
+86509|Bären
+86514|Le Montbrillant
+86520|Touring au Lac
+86521|Des Arts
+86522|Metropol
+86643|Schlosshotel Art Furrer
+86655|Alpina
+86737|Touring
+86857|Moderne
+87018|Landal Vierwaldstättersee
+87102|Airport Basel
+87238|Chalets Les Fontannets
+87239|Balcons du Soleil
+87253|Residenz Montfort
+87354|Tschuggen Grand Arosa
+87740|Central Sporthotel Davos - Sporthotel
+87741|Swiss Night am Kunsthaus
+87873|Bären
+87877|Swiss Quality Seehotel Kastanienbaum
+87970|Astoria
+89232|Grand Lac Excelsior
+89233|Swiss Quality Hostellerie Geroldswill
+89234|Park Swiss Quality
+89498|Strandhotel
+90031|Schatzalp Snow & Mountain Resort
+90051|Four Points by Sheraton Sihlcity Zürich
+90727|Christiania
+90729|Post Design & Lifestyle Hotel
+90730|GreenLine Rischli
+90999|Disentiserhof
+91000|All In One Hotel Inn Lodge
+91425|Les Trois Rois
+91427|Grand Hotel du Lac
+91606|Chalet Cunters
+91770|Metropole
+91865|Mövenpick Zürich Airport
+92012|Della Valle
+92050|Alpenland
+92442|Morosani Posthotel
+92443|Sunstar Boutique Hotel Albeina Klosters
+92444|Tschugge
+92445|Alpenblick
+92714|Pirmin Zurbriggen
+92717|Au Chalet Cairn
+92719|Arcade Ferienwohnungen
+92721|Eden
+92728|Tsamandon Chaletsiedlung
+92729|Eurotel Victoria
+92739|Julier P(a)lace
+92743|Panoramahotel Valbella
+92744|La Cruna
+92950|Etoile
+93196|Beausite
+93604|Swiss Quality Kemmeriboden-Bad
+93771|Bellevue
+93773|Toscana
+94242|Crowne Plaza Zurich
+95087|Fleming's
+95506|Park-Hotel Inseli
+95513|Schweizerhof
+95533|Alexander
+96203|Cathrin
+96454|Du Lac
+96534|Swiss Heidi
+97903|Seehotel Sternen
+98358|Wilerbad Seehotel
+99747|Eastwest
+99812|Kurhaus Cademario
+100022|La Campagnola
+100023|Mulino
+100024|Pergola
+100025|Camelia - geschlossen
+100027|Sunstar Alpine Familienhotel Davos
+100194|Schweizerhof
+100195|Eden Roc
+100254|Allalin
+100263|Monopol-Metropol
+100554|GD Bella Tola & St-Luc
+100558|Giessbach Grandhotel
+100559|Congress Hotel Seepark
+100819|Des Horlogers
+102630|Bijou
+102631|Landal Resort Walensee
+102632|Rocksresort
+102905|Bad Serneus
+103188|Saanewald Lodge
+103189|Suisse
+103867|Adonis
+103915|Albergo Garni Remorino
+103924|Alden Luxury Suite Hotel Zürich
+103970|Alpenhof
+103976|Alphorn
+104013|Ambiance
+104045|Nash Airport
+104154|Arlette Am Hauptbahnhof
+104162|Arte
+104165|Artos
+104190|Astoria
+104196|Astra Hotel Vevey
+104275|Best Western Bahnhof
+104313|Swiss Quality Baslertor
+104341|Beausite
+104342|Beausite Park
+104387|Belle Epoque
+104388|Bellerive
+104390|Bellevue
+104396|Belvoir Swiss Quality Zürich
+104402|Berghaus Bort
+104558|Best Western Astoria
+104604|Best Western Bellevue Au Lac
+104607|Bernina 1865
+104671|Best Western Century
+104770|Best Western Diplomate
+104784|Du Parc
+104786|Hotel du Rhone
+104964|Best Western Krone
+105277|Best Western Plus Speer
+105452|Bildungszentrum 21
+105470|Blümental
+105475|Bodmi
+105562|Burchnerhof
+105679|Casino
+105715|Central Continental
+105738|Chalet Adler
+105820|Chesa Valese
+105850|Chlosterhof Stein am Rhein
+105892|City Partner Thessoni classic Zürich
+105896|Sonnental City- und Wellness Swiss Quality Hotel
+106467|Engiadina
+106472|La Couronne
+106559|Dala
+106573|Daniela
+106584|DasBreiteHotel
+106658|De la Nouvelle Couronne
+106705|Matterhorn Valley Desirée
+106736|Domaine de Chateauvieux
+106794|E&G Alpenblick
+106871|Elite Lausanne
+106876|EMA House Zurich Suite
+106904|Swiss Quality Esplanade
+106927|Europe
+106928|Europe
+106959|Glärnischhof
+107018|Holiday Inn Express Luzern - Neuenkirch
+107054|Falken
+107136|Rixos Flüela Davos
+107138|Fly Away
+107141|Fontana
+107201|Derby
+107202|Garni Slalom
+107252|Gletschergarten Chalet-Hotel
+107442|Greulich
+107878|Hostellerie Du Pas De L Ours
+107884|Hostellerie Les Chevreuils
+108040|Innere Enge
+108138|Romantik Hotel Julen
+108212|Krebs
+108218|Krone
+108219|Krone
+108226|Volksheilbad Kur- und Ferienhaus
+108262|La Cour Des Augustins
+108329|Landgasthof Hirschen
+108334|Landhotel Golf
+108339|Languard
+108375|Le Cedre
+108389|Le Grenil
+108462|Lenzerhorn Spa & Wellness
+108477|Les Sources des Alpes
+108504|Lindner Golf & Ski Rhodania - vorübergehend geschlossen
+108551|Lotschberg
+108573|Magic
+109062|A la Chotte
+109064|Al Giardinetto
+109066|Alpfrieden
+109067|Alpstubli
+109069|Bären
+109070|Bärgsunne
+109071|Beau-Sejour
+109072|Beau-Séjour
+109074|Bellevue
+109075|Bellevue
+109077|Kernen
+109082|De l'Aigle
+109088|Minotel Forni
+109089|Glacier
+109095|Hilton Garden Inn Davos
+109096|Madrisajoch
+109097|Metropol & Spa
+109098|Minusio
+109169|Morosani Schweizerhof
+109179|Mountain Hostel
+109181|Albergo Carcani
+109334|Novotel Lausanne Bussigny
+109550|Garni Paradis
+109645|Phoenix
+109763|Quadratscha Swiss Quality
+109810|Design F6
+109993|Radisson Blu Zürich Airport
+110135|Résidence Studio Genève Centre
+110155|Rhodania
+110158|Rex
+110325|Romantica
+110656|Rustica
+110662|Hotel Säntispark
+110738|Savoy Baur en Ville
+110754|Parkhotel Schloss Hünigen Swiss Quality
+110758|Schloss-Hotel Swiss-Chalet
+110780|Seedamm Plaza
+110783|Pilatus
+110951|Sonne
+110955|Krone
+110967|Spalentor
+110980|Vista Resort Hotel
+110983|Comfort Egerkingen
+111035|Suite Novotel Geneve
+111305|Tivoli
+111449|Untertor
+111597|Visperhof
+111608|Waldhaus
+111616|Walliserhof
+111618|Walther
+111641|Welschen
+111654|Widder
+111756|Residence
+111763|Beaulac
+111786|Bellerive
+111821|Best Western de la Rose
+111823|de Geneve
+111846|Palafitte Chateaux & De France
+122300|Parkhotel Bellevue
+124176|Lido
+124177|Alpina
+124178|Aparthotel
+125583|Alpensonne
+125958|Lady's First
+125960|Basilea Swiss Quality Zürich
+127550|Donatz
+127596|Sorell Hotel Argovia
+127617|Villa Carona
+127620|Club
+127936|Budget Motel
+128042|La Clef Des Champs
+133827|Hirschen
+133828|Bernerhof
+133830|Rössli
+133833|Le Chamois Swiss Quality
+133837|Elite
+133838|Welcome
+133839|Testa Grigia
+134239|Schweizerhof
+134789|Best Western Metropol Grand
+134843|Berghof Garni
+134995|Activ Kronen Hotel - geschlossen
+134996|Sporthotel Pontresina
+134997|Grüsch
+135221|Chalet Fougères
+135768|Schweizerhof
+136391|Sempachersee Swiss Quality
+136745|Adagio Basel City
+136845|Coronado
+137731|Sonne Interlaken
+139114|Mirafiori Swiss Quality
+139555|Ceresio
+139625|Eden Montana
+139853|Crestas
+140643|Casa Berno
+140645|Bellevue Terminus
+140649|Aux Mille Etoiles
+143769|Chesa Pool
+143788|Davoserhof
+151011|Le Rivage
+151012|La Barcarolle
+151017|Parc des Eaux-Vives
+151019|Ibis Genève Aéroport
+151022|Beau Rivage
+151028|La Prairie Philippe Guignard
+151030|St. Louis Bateau Fribourg
+151037|Ibis Fribourg
+151039|De la Vieille Tour
+151041|Tralala
+151046|Chalet Royalp Hotel & Spa
+151050|Ibis Sion Est
+151061|Goldener Schlüssel
+151062|Alpenblick
+151063|Ibis Bern Expo
+151064|Holiday Inn Bern Westside
+151066|Sternen Muri
+151067|Murtenhof & Krone
+151068|SeePark Hotel
+151074|Parkhotel Bellevue
+151087|Aspen
+151088|Parkhotel Schoenegg
+151089|Tschuggen
+151096|Alex
+151097|Bristol
+151098|Walser
+151103|Admiral
+151104|Bella Vista
+151111|Art de Vivre
+151112|Alpina & Savoy
+151113|Olympic
+151119|Teufelhof
+151124|Im Schlosspark
+151126|Seminarhotel Schützen
+151127|Roter Turm
+151141|Rösli Guest House
+151143|Tourist Hotel
+151145|Rebstock
+151146|Ibis Kriens
+151150|Rössli
+151153|Vogelsang
+151157|SeminarHotel am Ägerisee
+151159|Ibis Baar Zug
+151161|Post Weggis
+151175|Alexandra
+151176|Garni Nessi
+151178|Fondazione Monte Verità
+151179|Collinetta
+151184|Frutt Lodge & Spa
+151185|Albergo Pestalozzi
+151189|Best Western Sommerau
+151191|Ibis Chur
+151193|Cresta
+151194|Bellaval
+151196|Hemmi
+151198|Krüzli
+151201|Landgasthof Sommerfeld
+151204|Alpina
+151205|Garni Torkelbündte
+151208|Albula & Julier
+151211|Nolda
+151212|Chesa Spuondas
+151217|Station
+151218|Albris
+151219|Bernina
+151223|Schweizerhaus Swiss Quality Hotel
+151226|Crusch Alba
+151228|Münsterhof
+151231|Romantik Boutique-Hotel GuardaVal
+151253|Kronenhof
+151257|Die Krone
+151258|Plaza
+151260|Ibis Winterthur City
+151267|Illuster Hotel
+151275|Sedartis
+151276|Alexander am See
+151278|Linde
+151279|Swiss Quality Sommerau-Ticino
+151280|Sorell Arte
+151283|Sorell City Weissenstein
+151286|Sporting
+151289|Romantikhotel Säntis
+151291|Frohe Aussicht
+151292|Uzwil
+151293|Metropol
+151294|Bad Horn
+151296|Rebstock
+151301|Alvier
+151302|Münchwilen
+151306|Wellness-Chasa Montana
+182329|Garni Bernerhof
+182633|Mountain Paradise
+182638|Sternen
+182654|Muntanella
+182655|Bellaval
+182683|Cervus
+182722|Holiday Inn Zürich Messe
+183087|Landhaus
+184181|Parkhotel Brenscino
+184192|Hotel Du Lac
+184200|Bad Eptingen
+184202|Wasserwendi
+184211|Hotel Post
+184214|Silvapina
+184229|Landhaus
+184231|Bellwald
+184346|Seehotel Riviera
+184349|Landgasthof Rösslipost
+184362|Le Grand Chalet
+184375|Alpenhof
+185543|Swiss Die Krone
+187549|Hotel de l'Ecluse
+187741|Weisses Rössli
+189436|Albatros
+189447|Alpe Fleurie
+189453|Alpenruhe Kulm
+189454|Alpina Klosters
+189464|America
+189472|Apartments Swiss Star Zürich-Aussersihl
+189476|Apartments Morgartenstrasse
+189477|Apartments Zürich-Oberstrass Universitätsstrasse
+189480|Apartments Zürich-Wiedikon Zelgstrasse
+189481|Arabella Sheraton Atlantis - geschlossen
+189489|Astoria
+189492|Au Bivouac de Napoléon
+189499|Auberg'inn
+189507|Balade Basel
+189514|Beau Rivage
+189522|Bellevue
+189534|Best Western Stuecki Basel
+189543|Britannia
+189547|California House Zurich
+189551|Carpe Diem
+189553|Casa Della Luce
+189556|B&B Casa Romantica
+189561|Central Am See Weggis
+189567|Chalet dei Fiori B & B Ronco
+189574|Chesa Surlej Hotel Silvaplana
+189585|Corvatsch
+189587|Cresta Palace
+189600|De la Paix
+189603|De La Tour
+189607|De l'Etrier
+189625|Des Trois Rois Le Locle
+189653|Edelweiss
+189655|Eden
+189668|Firefly Zermatt
+189685|Garni Artemis
+189689|Millennium
+189704|Gasthof Schönegg
+189707|Genève Cottage
+189712|Les Hauts de Gstaad Golfhotel
+189713|Gottardo Garni Locarno
+189718|Waldhaus Flims Mountain Resort & Spa - Chalet Belmont
+189720|Grand Hotel Les Endroits La Chaux-de-Fonds
+189724|Grindelwalderhof
+189734|Hemizeus Apparthotel Zermatt
+189735|Himmelrich Kriens
+189740|Hofgarten
+189744|Die Perle
+189748|Ibis Basel Bahnhof
+189749|Ibis Locarno
+189754|Internazionale
+189758|Jägerhof
+189771|Kessler's Kulm
+189772|Alpina
+189775|La Colombière
+189780|La Longeraie
+189784|La Perle
+189804|Le Bourg 7
+189808|Le Grand Chalet
+189818|LeCrans Hotel & Spa
+189835|Limmathof Baden Hotel & Novum Spa
+189846|Maloja Palace
+189851|Mattmarkblick
+189853|Milano Mendrisio
+189867|Monte-Moro Saas-Almagell
+189869|Morgana Mendrisio
+189875|Oberland
+189885|Baur
+189896|Phoenix
+189902|Post Hardermannli
+189914|Maraini Resort
+189917|Résidence du Chamossaire Leysin
+189920|Residence St James
+189931|Jardin
+189936|Resslirytti
+189938|Rössli
+189948|Sunstar
+189949|Villa Orselina
+189986|Seestrasse Apartments Drei Könige Zurich
+189994|Smart Hotel Samnaun
+189999|Sorell Aparthotel Rigiblick
+190005|Kurhaus
+190006|Sporthotel Samedan
+190007|Hotel St. Georg
+190009|Statt Zurich
+190010|Hotel & Backpackers ZAK
+190024|Thorenberg
+190026|Toggenburg Wildhaus
+190027|Tor Geneva
+190032|Union Lausanne
+190054|Walter Au Lac Lugano
+190060|Zunfthaus zu Wirthen Hotel Solothurn
+196205|Alpes et Lac
+196210|Blume
+196212|Auberge de la Gare
+196213|Bon Port
+196216|Cervo
+196219|Chalet des Alpes
+196220|Stella Alpina Chalet
+196225|Forum
+196232|Hostellerie Le Petit Manoir
+196237|Hôtel des Vignes
+196241|Helvetia
+196243|Hubertus
+196245|Matterhorn Focus
+196254|Steinbock
+196255|Twannberg
+196256|Valbella Inn
+196257|Viktoria Eden
+196258|Villa Maria
+196265|Jenatsch Apartments
+196278|Post
+196286|Schwan und Taverne
+196290|Spannort
+196291|Mulin Berglodge Brigels
+196298|VitalSamnaunerhof
+196300|Walliser Sonne
+197178|Favini
+197179|Sardona
+201513|Romantik Schweizerhof
+201778|Centrum
+201780|Alpenhof-Post Melchtal
+203521|Courtyard Basel
+204669|Antika
+206054|Bellerive Gstaad
+206594|Büel
+208674|Edelweiss
+209522|Garni Annita
+209525|Garni Chesa Mulin
+211085|Cristal
+211366|Pax
+211627|Ibis Lausanne Centre
+212578|La Val
+215347|Fontana Passugg
+215563|Pizzo Vogorno
+217182|Rheinfelderhof
+218285|Sport-Lodge Klosters
+218382|Station Zug
+220521|Villette
+221604|Conca Bella
+221691|de la Lande
+222005|Gasthof Kreuz
+222762|Matterhorn Golf
+226497|Romantik Wilden Mann
+226551|Seiler Monte Rosa
+226552|Basic Arosa
+227350|Alte Post
+227677|Matterhorn Resort
+227761|Walserhof
+227762|Crusch Alva
+228225|Cucagna Hostel
+228407|Ramada Feusisberg-Einsiedeln
+228580|Ochsen 2
+231905|Nira Alpina
+232617|Wellnesshotel Golfpanorama
+232629|The Lodge
+232915|Matthiol
+232932|Chalet La Pentiere
+232933|Chalet Krystyna
+233917|Ramada Zürich City
+235617|Feriendorf Rustici della Verzasca
+236971|Minotel de Ville
+237145|City Inn Basel
+237609|Rancho Laax
+238213|Renaissance Zürich Tower
+238692|Burgener
+238800|Mountain Exposure Zermatt
+238801|Mountain Exposure
+239296|Holiday Inn Express Zürich Airport
+239398|Iglu-Dorf Davos
+242873|Matterhorn Valley Walliserhof
+243527|Starling Lausanne
+243529|Residence Loren
+247179|Giardino Mountain
+249611|Le Forum
+249612|Minotel Chez Chibrac
+249949|Hotel Kapplerhof
+250094|Giardino Lago
+259314|Mira Tödi
+259329|Frisal
+259349|Lötschberg
+259351|Krone
+259485|25hours Zürich West
+260199|Alpadze Lou Kra
+260550|Zum Ochsen
+261552|Backstage
+261750|Oberwaid Kurhaus & Medical Center
+269772|Popcorn
+269838|Arosa Vetter Hotel
+269839|Hof Maran Golf & Sporthotel
+270695|Citystudios
+270696|Platzhirsch Hotel & Bar
+270697|Guesthouse Gertrudstraße
+270699|Guesthouse Brauerstraße
+270700|Guesthouse Dienerstrasse
+270701|Letzigrund Apartments
+270956|Al Faro
+270959|Boutique Hotel La Rinascente
+270961|Jungfrau
+270963|Reine Victoria
+270965|Pension Heino
+270966|Roby
+270968|Chalet Kisseye
+270969|Haus Sonnheim
+270971|Casa della Vita
+271326|Schloss Hotel Wellness & Family
+271327|Trübsee Alpine Lodge
+271330|Residence Brunner
+271333|Hôtel des Alpes by Bruno Kernen
+271334|Fiescherhof
+271358|Apartments Justingerweg
+271359|Le Stelle
+271360|Hotel D
+271361|B&B Auf dem Wolf - St. Jakob
+271810|Wannenhorn
+272203|Alpina Pension
+274849|Apart Hotel Garni Chasa Alvetern
+274850|Waldpark
+274972|Haus Bergdohle
+274975|Alpadze Lou Kra
+274976|Thermes Parc les Bains du Val d'Illiez
+274977|Hôtel de l'Etable
+274978|Du Port
+275263|Krone
+275899|Bären
+275957|Paxmontana Gasthaus
+276071|Rovere
+276085|Alpine Comfort
+276086|Alpvision Résidences Nendaz
+276197|Fünf Dörfer Sportcenter
+276259|Ziil
+276866|Sonne Balance Swiss Q Hotel
+277062|Morosani Fiftyone
+277063|Ducan
+277108|Rischli
+277396|Villa Post Swiss Q Vulpera Hotel
+281212|Ibis Bulle La Gruyere
+284616|ibis Delemont Delsberg
+286370|The Alpina Gstaad
+286380|Coop Bildungszentrum
+287332|Motel de Rennaz
+287897|Le Castel Hostellerie
+289721|Ronco
+290024|Urs & Viktor
+290733|Albergo Svizzero
+291343|Chalet Aneto
+291366|Astoria
+291767|Crans Luxury Lodges
+291924|Hotel Schweizerhaus
+291926|Hotel Zappa
+291929|Royal
+291930|Grotto Flora
+291931|Hotel Villa Honegg
+291932|Hacienda Hôtel
+291933|Oasis
+291934|Zak
+291935|Hotel Rheinfall
+291936|Victoria
+291937|De la Poste
+291938|Aparthotel Rotkreuz
+291941|Surselva
+291942|Linde
+291943|Rêves Gourmands
+291944|Bleichibeiz
+295881|Waldhaus Flims Mountain Resort & Spa - Grand Hotel Waldhaus
+295882|Silvana
+295921|Edi
+295922|Emmental
+295923|Alpine Village Lauchernalp
+296558|Hotel Bellevue & Hotel Pilatus-Kulm
+297006|Albergo Croce Bianca
+297332|Alpha Premiers
+297945|City West
+299261|Alpendörfli Wildi - Alpenperle
+299837|Le Green
+300685|Clarion Collection Lavaux
+300853|Appartments Terra Alpinea
+301419|Adagio Geneve Mont Blanc
+301420|Ibis Lugano Paradiso
+302688|Swiss Luxury Appartments
+302694|Derby
+302707|La Collina
+303226|Komplex Bergheimat & Moonlight - Bergheimat
+303230|Alpenlodge
+303254|City
+303269|Welcome, Hotel Bed & Breakfast
+303279|Bella Lui
+304674|Quelle
+305170|Hôtel de la Paix
+307188|Lodge Alpes et caetera
+308124|Waldhaus am See
+308595|Hotel Post
+308631|Bestzeit Hotel und Sport
+309113|Eremitage
+309214|Ibis Genève Centre Nations
+309707|Du Léman
+309718|Bad Balgach
+309758|Aux Remparts
+309777|Camona & Walserhof
+309783|Ferienresidenz Soliva
+309846|Seeburg
+310119|La Barca Blu
+310352|Römerhof
+310803|Crystal
+310963|Dépendance dell'Angelo
+310970|Priva Alpine Logde Lenzerheide
+314335|Chalet Mittelegi
+333027|Hotel Freihof
+335004|InterContinental Davos
+352157|Bed & Breakfast Chalet Suisse
+352578|Venus, Haus
+352825|Arcade
+353307|The Lodge
+354403|Alexander & Gerbi - Alexander
+354404|Alexander & Gerbi - Gerbi
+359433|Paxmontana Jugendstil-Hotel & Gasthaus
+359437|Iglu-Dorf - Zermatt
+359473|The Chedi Andermatt
+359868|Dorint Blüemlisalp Beatenberg-Interlaken - Hotel
+359869|Dorint Blüemlisalp Beatenberg-Interlaken - Ferienwohnungen
+363686|Casa Heinrich
+363689|Jolimont Ferienwohnungen
+365077|W Verbier
+365387|Sheraton Zürich
+365412|Ferienanlage Hof Arosa
+365470|Central Sporthotel Davos - Appartmenthaus
+367899|Apartments Swiss Star Aemtlerstrasse
+371588|SwissEver Hotel Zug
+371590|Aquafit
+382898|Waldhotel Hohberg Business- Seminar
+388748|Hotel Swiss Star
+391139|Coronado
+391574|Dorint Airport-Hotel Zürich
+391732|Villmergen Swiss Quality
+391878|Cervo Sils
+392031|La Rösa - Statione della Posta
+392299|Sokrates
+399718|Brienzerburli & Weisses Kreuz
+399801|Waldhotel Doldenhorn & Landgasthof Ruedihus - Waldhotel Doldenhorn
+401356|Resort Collina d'Oro
+403595|The Flag Zuerich
+403768|Frohburg
+403993|Nendaz 4 Vallees
+407249|wellnessHostel4000
+407879|arcona LIVING Schaffhausen
+411573|Alpendörfli Wildi - Les Chalets des Alpes
+411710|Titlis Resort
+412327|Waldhaus Flims Mountain Resort & Spa
+413026|Andermatt Swiss Alps Resort
+413238|Kameha Grand Zürich
+413262|Plein Ciel
+413729|Calipso / Calipso Park - Calipso
+413730|Calipso / Calipso Park - Calipso Park
+417647|Sax

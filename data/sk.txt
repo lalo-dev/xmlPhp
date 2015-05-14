@@ -1,0 +1,241 @@
+8757|Grand Bellevue
+12760|Fis
+13529|Grand Starý Smokovec
+14447|Hubert Vital Resort
+15042|Grandhotel Jasna
+16559|Lubovna
+18213|Sorea Titris
+18849|Partizan
+18869|Patria
+18963|Grand Hotel Permon
+20167|Repiska
+26414|Tri Studnicky
+26416|Sorea Hutnik
+26618|Sorea Trigan Banik
+26621|Junior Jasná
+27601|Grandhotel Praha
+27855|Slovan
+27884|Rysy
+27885|Nezabudka
+28510|Hotel Aphrodite
+28585|Danubius Health Spa Resort Thermia Palace
+28586|Danubius Health Spa Resort Balnea Esplanade & Palace
+28587|Balnea Grand & Balnea Splendid
+31185|Sporthotel Donovaly
+31186|Bonbon und Nebenhaus
+31512|Golfer
+32616|Fontana
+33298|Zatoka
+34449|Magnolia
+36650|Radisson Blu Carlton
+38368|Kolowrat
+49988|Bratislava Hotel & Congress Centre
+50682|Devin
+50772|Holiday Inn Bratislava
+51477|Euforia Relaxhotel
+51478|Holiday Village Tatralandia
+52848|Cingov
+52968|Kurhaus Velka Fatra
+54466|Atrium
+55775|Horizont
+56482|Park Inn Danube
+56689|Kyjev
+57252|Liptovske Dvory
+57253|Druzba
+58197|Sergijo
+60378|Hotel Tatra
+60380|Club Bratislava
+60381|Marrol's
+60888|No 16
+60889|Apollo Dukla
+60913|Mamaison Residence Sulekova
+60971|Ibis Bratislava Centrum
+60972|Baronka
+61073|Set
+61129|Turist
+64117|Krivan
+64119|AquaCity
+69259|Crowne Plaza Bratislava
+70903|Maj
+71217|Lesna
+75899|Toliar
+75935|Forton
+76095|Panorama
+76894|Odevak
+77006|Slovakia
+77392|Premium
+77782|Art Hotel William
+78486|Bonbon Bratislava
+78644|Linea
+82489|Flora
+82570|Spa Hotel Pro Patria
+85100|Rubin & Smaragd Spa-Hotels
+85101|Kurhaus Diamant
+85102|Piestany Resort - Spa Hotel Jalta & Dependences / Smaragd / Sumava / Riviera / Villa Berlin
+86278|Krym
+87153|Color
+87177|Maj
+87178|Tematin
+87218|Kaskady
+90181|Arcadia
+90766|Smokovec
+90767|Relax hotel Sojka & Magura Village - Relax hotel Sojka
+90770|Hills
+91472|Pax
+95234|Botel Marina
+95534|Patince
+97962|Best Western Antares
+102515|Park
+102682|Mikulasska Chata
+102731|Skaritz Hotel & Residence
+103206|Grand Hotel Kempinski High Tatras
+104185|Aston Business
+105393|Best Western Hotel West
+108152|Kamila
+109039|Michalska Brana
+127924|City Residence
+133152|Arkada
+133153|Zlaty Klucik
+135694|Tilia
+135923|Falkensteiner Bratislava
+138039|Poprad
+139798|Most Slavy
+143216|Satel
+145308|Ski Zahradky
+145309|Villa Siesta
+162470|Impiq
+162471|Chateau Bela
+162478|Boutique Hotel Dubna Skala
+162480|Empire
+162486|Dalia
+162487|Karpatsky Dvor
+162489|Bristol
+162494|Design Prestige
+162496|Holiday Inn Zilina
+182664|Fatrapark I & II
+182675|Residence
+183721|Sheraton Bratislava
+184330|Hotel Salamander
+187889|Austria Trend Bratislava
+187947|Kempinski Hotel River Park
+188114|Maly Trh Apartments
+196318|Crocus
+201595|Piestany Resort - Villa Berlin
+201818|Pension Jozef
+202306|Melrose
+203002|Atlantis Dependance
+204941|Apartment Historical Centre
+204950|Apartment Presidential Palace
+204951|Apartment Residence
+204971|Apartments Blue Danube
+205004|Apartments Rajska
+205131|Arcade
+205557|Avance
+206309|BNC Hotel
+207331|Chopin Hotel Bratislava
+207980|Danubia Gate
+208298|designhotel 21 cakov:makara
+208484|Doubletree By Hilton Kosice
+209714|NH Bratislava Gate One
+209842|Gloria Palac
+209990|Grandhotel Trencin
+211471|Hotelecho
+213712|Mama's Design & Boutique Hotel
+213911|Matysák
+213921|Max Inn
+214872|Palace Grand
+214880|Palace Tivoli
+215410|Penzion Anton
+215414|Penzion Fantazia
+215416|Penzión Hradbová
+216563|Raki
+217741|Sandor Pavillon
+218117|Slovakia
+218426|Steve
+220017|Vasko
+220894|Yasmin
+221122|Andromeda-Wellness
+221335|Bellevue
+221929|FIS Jasná
+222345|Hubert Nové Zámky
+223079|Ponteo - Activity Park Rusovce
+227701|Metropol
+227817|Amalia
+227818|Hotel Club
+227819|Sporthotel Victoria
+227863|Wellnesshotel Chopok
+227864|Galileo
+230444|Albrecht
+230452|Bankov
+230457|Goralturist
+231904|Impozant
+231953|Saris Park
+232922|Botel Gracia
+233326|Ostredok
+235640|Primula
+237174|DoubleTree by Hilton Bratislava
+237584|Horsky Osobita
+238317|Mercure Bratislava Centrum
+239282|Tulip House Boutique
+244322|Holiday Inn Trnava
+245549|LOFT Bratislava
+246176|Apartements Kamzik
+247592|Piestany Resort - Spa Hotel Jalta & Dependences
+247799|Best Western Hotel Dituria
+248242|Danubius Health Spa Resort Balnea Esplanade & Palace - Balnea Esplanade
+248243|Danubius Health Spa Resort Balnea Esplanade & Palace - Balnea Palace
+248244|Balnea Grand & Balnea Splendid - Spa Hotel Balnea Grand
+248245|Balnea Grand & Balnea Splendid - Spa Hotel Balnea Splendid
+260494|Pension Solisko
+261418|Drevenice Resort
+265002|Hotel Junior
+271338|Penzion Fantazia
+273947|Villa Paris
+273952|Hotel Koliba
+274158|Opera House
+274160|Garden View
+274165|Sanctuary
+274166|Bastion Apartments
+274170|Art-Hostel Taurus
+274316|Penzión Tiberia
+274337|Zámocek Staré Casy
+274338|Penzion Plesnivec
+274339|Pension Vila Mery
+274453|Urpin City Residence
+274949|Barbakan
+274950|Stela
+274951|Penzion Enrico
+276128|Studio by the Castle
+276228|Sliezsky Dom
+276450|Jahodná
+276452|Hotel Zlatý Dukát
+277048|Hotel Inka
+277050|Hotel Grand
+287834|Hotel Saffron
+292106|Parkhotel na Baracke
+292478|Hotel Slovakia
+292965|Hotel Amade Chateau
+294158|Hotel Galanta
+295509|Renomal Apartments
+295513|Aplend Mountain Resort
+295516|Tatry Holiday - Apartments
+295785|Villa Beatrice
+296810|Lindner Hotel Gallery Central
+296966|Kvasnicnik Appartements
+301966|Tatry Holiday
+301969|Salamandra Resort Hotel
+302656|Kurhotel Astoria
+302657|Kurhotel Ozón
+311009|Koliba Greta
+311010|Marlene
+311012|Pinus Apartments Chopok - Tale
+363480|Elizabeth
+363989|Kupelny Hotel Choc
+369182|Medium Hotel
+377473|Podhradie
+383330|Orchidea
+386415|Ambassador
+391844|Hotel Residences Kukucka
+391993|Resort Beatrice Depandance Magnolia
+405281|Horský Hotel Srdiecko
+405994|Relax hotel Sojka & Magura Village

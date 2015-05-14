@@ -1,0 +1,839 @@
+9070|Birger Jarl
+10432|Hotel Scandic Gamla Stan
+11500|Diplomat
+12067|Elite Palace
+12752|Clarion Amaranten
+12758|First Hotel Reisen
+13452|Grand Hôtel
+15465|Best Western Kom Hotel Stockholm
+18214|Oden
+19814|Radisson Blu Royal Viking Stockholm
+20327|Hotel Scandic Kungsgatan
+21190|Hotel Scandic Continental
+21192|Scandic Hasselbacken Hotel
+21193|Hotel Scandic Ariadne
+21196|Scandic Crown Hotel
+21199|Hotel Scandic Rubinen
+21201|Scandic Malmen Hotel
+21203|Hotel Scandic Park
+21204|Hotel Scandic Sergel Plaza
+21206|Hilton Slussen
+21498|Sheraton Stockholm Hotel
+22219|Elite Stockholm Plaza
+22573|Tegnérlunden
+25793|Nordic Sea, Ascend Collection
+26215|Scandic Sjöfartshotellet
+26218|Hotel Scandic Anglais
+30808|Best Western Hotel Terminus
+31078|Skagersbrunn
+31712|Gothia Towers
+31713|Kristineberg
+31943|Icehotel Jukkasjärvi
+33153|Best Western Strand
+33171|Hooks Herrgard
+34123|Grand Hotel Garden
+34124|Scandic S:t Jörgen Hotel
+34125|Clarion Grand Östersund
+34127|First Hotel Statt
+34128|First Hotel Witt
+34134|Gamla Skolan
+34136|Karlshamn - Kollevik
+34138|Guö Värdshus
+35240|Idre Fjäll
+35241|Säfsen
+35242|Tanumstrand
+36534|Clarion Stockholm
+36535|Nordic Light, Ascend Collection
+36536|Quality Globe
+36695|Quality Spa & Resort Dalecarlia
+36696|Halltorps Gästgiveri
+36697|Mullsjö
+36698|Toftaholm Herrgard
+36701|Tofta Strandpensionat
+36702|Aspa Herrgard
+36703|Hestravikens Värdshus
+36704|Karlaby Kro
+36705|Rusthållargården
+36706|Häckeberga Slott
+36707|Häringe Slott
+36708|Margretetorps Gästgifvaregård
+36709|Mauritzberg Slott
+38080|Berns
+38081|Radisson Blu Strand
+39185|Best Western Columbus Hotell
+39372|Pernilla Wiberg Hotel
+40335|Elite Stora Jönköping
+40337|Yxtaholms Slott
+40338|Fryken Strand
+40339|Ullinge
+40593|Isaberg Freizeit & Ferienhauspark
+40824|Hotel Scandic Europa
+40956|Clarion Collection Tapto
+40957|Rival
+41413|Hotel Scandic Alvik
+41619|Clarion Collection Temperance
+41620|Quality Winn
+41622|Park Inn by Radisson Solna
+46889|Best Western Capital
+47072|Scandic Backadal Hotel
+47073|Scandic Mölndal Hotel
+47076|Scandic Upplands Väsby
+47077|Scandic Kungens Kurva
+50081|Elite Park Avenue
+50083|Radisson Blu Hotel Malmo
+50173|Quality Hotel Konserthuset, Malmo
+50174|First Hotel Jörgen Kock
+50175|First Hotel Royal Star
+50176|Crystal Plaza
+50177|New World
+50704|Clarion Collection Hotel Drott
+50762|Comfort Malmo
+51088|Radisson Blu Arlandia Stockholm
+51782|Fjällgarden
+51783|Holiday Club Åre Spa
+51784|Continental Inn Åre
+51967|Grand Saltsjöbaden
+51984|Scandic Bromma
+51985|Scandic Star Sollentuna
+51996|Hotel Scandic Segevång
+52009|Hotel Scandic Järva Krog
+52433|Quality Hotel Nacka
+52434|Quality Prince Philip
+52972|Hotel Scandic Klara
+55996|Best Western Premier Hotell Kung Carl
+56559|First Hotel G
+56560|Clarion Plaza
+56561|Krokstad Herrgard
+56563|Möckelsnäs Herrgard
+56565|Smådalaröd Gård
+56793|Stenungsbaden Yacht Club
+56794|Tanums Gestgifveri
+56796|First Hotel Carlshamn
+56797|First Hotel Christian IV
+57345|Comfort Stockholm
+57346|Anno 1647
+58543|Elite Plaza
+58835|Vanadis
+60450|Hennickehammars Herrgard
+61159|Quality Airport Hotel Arlanda
+61173|Best Western Hotell Savoy
+62511|Ferienanlage Lysingsbadet
+64708|Lady Hamilton Hotel
+64959|Scandic Infra City Hotel
+65022|Scandic Opalen Hotel
+65035|Hotel Scandic Kramer
+65036|Hotel Scandic Triangeln
+65037|Hotel Scandic Stortorget
+65069|Laponia
+65338|Hotel Scandic Plaza
+65568|Scandic Helsingborg Nord Hotel
+65569|Horisont
+65645|Scandic Elmia Hotel
+65646|Hotel Scandic Portalen
+65650|Scandic Kalmar Väst Hotel
+65653|Scandic Karlshamn
+65654|Scandic Klarälven Hotel
+65655|Hotel Scandic Winn
+65660|Hotel Scandic Ferrum
+65697|Scandic Frimurarehotellet
+65698|Scandic Linköping Väst Hotel
+65704|Dahls Hotell
+65711|Scandic Luleå Hotel
+65836|Scandic Norrköping City Hotel
+65837|Hotel Scandic Norrköping Nord
+65877|Hotel Scandic Östersund Syd
+66132|Hotel Scandic Swania
+66155|Scandic Västerås Hotel
+66156|Scandic Växjö Hotel
+66439|Scandic Grand Central
+66474|Scandic Bollnäs
+66475|Scandic Borlänge Hotel
+66477|Scandic Lugnet Hotel
+66478|Scandic Hallandia Hotel
+66479|Scandic Star Hotel
+66481|Scandic Grand Hotel
+66482|Scandic Örebro Väst Hotel
+66483|Scandic Örnsköldsvik Hotel
+66484|Scandic Skellefteå Hotel
+66485|Hotel Scandic Billingen
+66486|Best Western Hotell SoderH
+66487|Scandic Södertälje Hotel
+66490|Quality Sundsvall
+66491|Scandic Sundsvall Nord Hotel
+66492|Scandic Täby Hotel
+66493|Scandic Plaza Hotel
+66494|Scandic Umeå Syd Hotel
+66495|Hotel Scandic Uplandia
+66496|Scandic Uppsala Nord
+67557|Radisson Blu SkyCity Hotel, Arlanda Airport
+67690|Clarion Grand Helsingborg
+67699|Elite Stora Hotellet, Linköping
+67860|Bodensia
+67861|Best Western Gustaf Wasa
+67866|Clarion
+67867|Radisson Blu Royal Park Stockholm
+67868|Clarion Hotel Gillet
+67869|First Hotel Plaza
+68359|Radisson Blu Scandinavia Hotel
+68374|Clarion Collection Carlscrona
+68383|Bjertorp Slott
+68418|Scandic Nyköping City Hotel
+68443|Högbo Brukshotell
+68466|Best Western Park Airport Hotel
+68471|Såstaholm Hotell & Konferens
+68478|Ronnums Herrgård
+68481|Park Inn by Radisson Uppsala
+68484|Scandic Värnamo Design-Hotel
+68971|Quality Hotel 11
+69281|Novotel Goteborg
+69655|Hotel Scandic No. 25
+70628|Elite Västeras
+70629|Elite Växjö
+70630|First Hotel Linné
+70632|First Hotel Kung Oscar
+70633|First Hotel Strand
+70638|Riksgränsen
+70639|First Hotel Örebro
+70640|Clarion Collection Post
+70641|First Hotel Olofström
+70642|Elite Grand
+70643|Best Western Mora & Spa
+70644|Elite Residens
+70645|Elite Lulea
+70646|First Hotel Linköping
+70647|First Hotel JA
+70648|Comfort Jönköping
+70649|Jokkmokk
+70651|First Hotel Stadt
+70652|Elite Mollberg
+70654|First Hotel Mårtenson
+70655|First Hotel Grand
+70657|First Grand Hotel Conference Center & City Spa Boras
+70658|Scandic Arvika Spa-Hotel
+70666|Elite Karlstad
+70948|Villa Sjötorp
+70949|Dufweholms Herrenhof
+70950|Best Western Hotell Vrigstad Varldshus
+70951|Fredensborgs Herrgard
+70953|Quality Växjö
+70954|Hotel Scandic Karlstad City
+70955|Quality Jönköping
+70956|First Hotel Brage
+71098|Quality Hotel Selma Lagerlöf
+71424|Stufvenäs Gästgiferi / Gästgifveri
+71425|Vadstena Klosterhotel
+71679|Haus Askblom
+71684|Ferienanlage Garnegård
+71685|Ferienanlage Stämshult
+71686|Gästehaus Seehof
+71688|Haus Edsbruk
+71747|Feriendorf Gammelbyn
+71876|StayAt Bromma
+72039|Seehotel Ystad Saltsjöbaden
+72128|2Home
+72129|StayAt Stockholm Kista
+72130|The More Hotel Malmö
+72362|Quality Hotel Panorama
+74850|Vasa
+76058|Tott
+79435|Elite Savoy
+79436|Bellevue
+79437|Varbergs Kurort & Spa
+79439|Clarion Collection Packhuset
+79440|Best Western Solhelm
+79441|Clarion Wisby
+79443|Langberget Sporthotell
+79926|Hellsten
+80441|Tällbergsgarden
+80442|Skansen
+80444|Erikslund
+80445|Quality Hotel Ekoxen
+80458|Quality Hotel Halmstad
+80459|Ronneby Brunn
+80574|Lofsen Fjällby
+81253|Quality Hotel Grand Kristianstad
+81654|Gyllene Uttern
+81657|Profil Aveny
+81659|Stora
+81961|Rex Hotel
+82504|Tornet
+82740|Lilla Radmannen
+82741|Freys
+85472|Hotel Scandic Talk
+85725|Uppsala
+85742|Berling
+86018|Riddargatan
+86019|President
+86940|Mortensen
+86941|Teaterhotellet
+86942|Lord Nelson
+86943|Profil Calmar Stadshotell
+88624|Best Western Plus Hotel Noble House
+88916|Central
+88917|Savoy
+89016|Clarion Collection Odin
+89047|Connect Arlanda
+89146|Alexandra
+89169|Victory Hotel
+89216|Connect City
+89357|Apple
+91793|Elite Marina Plaza
+91795|First Hotel Park Astoria
+91823|Comfort Hotel Nouveau
+91830|Scandic Östersund City Hotel
+91833|Comfort Eskilstuna
+92853|Quality Winn
+92937|Clarion Sign
+92938|Best Western Plus Time Hotel
+93375|Skelleftea Stadshotell
+93377|First Hotel Statt
+93378|Quality Hotel Vänersborg
+93383|Quality Örebro
+93389|Grytthyttans Gästgivaregard
+93397|Hamn
+93775|Mornington Stockholm City
+94054|Hotel Bellora
+94152|Mercure Malmö
+94239|Ibis Styles Stockholm Kista
+94240|Mercure Hotel Stockholm South
+94489|Scandic CH
+94491|Scandic Linköping City Hotel
+94493|Hotel Scandic Sundsvall City
+94494|Ibis Styles Goteborg City
+94622|Ibis Styles Göteborg Mölndal
+94623|Ibis Styles Göteborg Lerum
+94626|Mercure Hotel Nyköping
+96630|Järvsöbadens Hotell
+96631|Fryksås Hotell
+96632|Klockargardens
+96633|Dala-Husby Hotell
+96639|Söderfors Herrgard
+96640|Gimo Herrgard
+96641|Best Western Villa Söderas
+96642|Kohlswa Herrgard
+96643|Länsmansgarden
+96644|Sundbyholms Slott
+96645|Trosa
+96646|Söderköpings Brunn
+96649|Villa Gransholm
+96651|Brösarps Gästgifveri
+96658|Best Western Karlaplan
+97164|Quality Luleå
+97169|First Billingehus
+97170|Quality Hotel Park Södertälje City
+97171|Clarion Collection Uman
+97193|Falkenberg Strand
+97194|Djurönäset
+97195|Ripan Hoteldorf
+97324|Ängavallen
+98311|Regenbogen Ahus
+100014|Esplanade
+100823|Ibis Stockholm Spanga
+101000|Ibis Styles Stockholm Arlanda Airport
+102370|Elite Arcadia
+103148|Scandic Norra Bantorget Hotel
+103150|First Hotel Avalon
+103152|Gullmarsstrand
+103155|Akerblads Gästgiveri
+103878|A-Hotel
+104064|Anno 1793 Sekelgarden
+104152|Ariston
+104250|Aveny
+104251|Aveny
+104400|Best Western Bentleys
+104526|Hotel Amadeus
+104615|Best Western Blommenhof
+104772|Best Western Djingis Khan
+104921|Clarion Collection Helsing
+104940|Best Western Jaegersro
+104944|Best Western Plus John Bauer Hotel
+105085|Mornington Stockholm Bromma
+105121|Best Western Hotel Paletten
+105163|Hotel Scandic Foresta
+105169|Mäster Johan Hotel
+105173|Nova Park Conference
+105266|Scandic Skogshöjd Hotel
+105269|Best Western Sodra Berget
+105285|Hotel Stensson
+105303|Best Western Taby Park Hotel & Conference
+105375|Best Western Varbergs Stadshotell & Asia Spa
+105376|Best Western Plus Vasterviks Stadshotell
+105551|Brunnby
+105720|Central
+105879|City Fam. Ericsson
+105917|Clarion Collection Hotel Bilan
+105920|Clarion Collection Etage
+105921|Clarion Collection Fregatten
+105923|Clarion Collection Grand Sundsvall
+105924|Clarion Collection Bolinder Munktell
+105926|Clarion Collection Majoren
+105927|Clarion Collection Norre Park
+105932|Clarion Collection Victoria
+105933|Clarion Collection Wellington
+106096|Comfort Inn Bristol
+106321|Clarion Collection Kompaniet
+106852|Eksjo Stadshotel
+107056|Falkoping
+107059|Falun
+107177|Furunäset Hotell, Spa & Konferens
+107219|Gavle
+107342|Göta
+107915|Älvsjö
+107917|Hotell Froding
+107918|Hotell Gastis
+107920|Best Western Hotel Halland
+107922|Hotell Linblomman
+108082|J
+108201|Kneippen
+108586|Malardrottningen
+109126|Mjolby Stadshotell
+109485|Onyxen
+109808|Quality Galaxen
+109881|Quality Prisma
+109899|Comfort Royal
+110000|Best Western Baltic
+110007|Best Western Hotel Corallen
+110353|Roslagen
+110989|St. Mikael
+110995|Stallmästaregarden
+110997|Stanga
+111021|Strandl
+111099|Ta Inn
+111334|Torpa Pensionat
+111466|Varend
+111529|Villa Kallhagen
+111722|Zäta
+122272|Björkliden Fjällby (Fjället)
+122274|Arctic Eden
+124880|Welcome
+127179|Astoria
+127680|Elite Stora Örebro
+129806|The Mayfair
+133111|Comfort Jazz
+133112|Spar Majorna
+133114|Spar Gårda
+133115|Allen
+133119|Ibis Styles Karlstad City
+133120|Best Western Waxnas
+133123|Comfort Arctic
+133126|Hotel Forty Towers
+133128|Best Western City
+133130|Pj Behrn
+133131|Aurum
+133132|First Hotel Statt
+133133|Attache
+133134|Hansson
+133135|Elite Knaust
+133137|Quality Västerås
+133138|Elite Park Växjö
+135324|Best Western Plus Kalmarsund
+135329|First Hotel Statt
+135330|Lundia
+135331|Clarion Collection Planetstaden
+135343|Best Western Scheele
+135345|Loka Brunn
+135347|Karmansbo Herrgard Resorthotel
+135353|Björkuddens Hotell & Restaurant
+135355|Ljugarns Semesterby
+136257|Polarhotel
+136589|TOTT Visby
+137346|Laholmen Hotell
+137574|First Hotel Grand
+138801|Connect Skavsta
+139545|Ronja
+139548|Stureplan
+143213|Scandic Gävle Väst Hotel
+143414|Feriendorf Sollerö
+143415|Älgstugan Ferienhäuser
+162518|Central
+162519|Grand Lund
+162520|Lorensberg
+162521|Karlskoga Hotel
+162522|Memory Hotel
+162523|Siesta
+162525|Ibis Varnamo
+162527|Best Western Arlanda Hotellby
+162528|Best Western Hotel Duxiana
+162529|Radmannen
+162530|Örgryte
+162531|Best Western Hotel Esplanade
+162532|Royal
+162533|Best Western Plaza Hotel
+162536|Maudes Business Park
+162538|Hoegland
+162540|Hotell Viking by Maxwell
+162541|MR Chip Hotel
+162542|Storgaarden
+162548|Continental
+162550|Best Western Linkoping
+162553|Best Western Gustaf Froding Hotel & Konferens
+162554|Hornsgatan
+162555|Grand Hotel Falkenberg
+162557|Grand Hotel
+162558|Amigo
+162559|Kaernan
+162560|Vinterpalatset Hotel
+162562|2Kronor Hotel City
+162563|Quality Resort Stromstad
+162564|Mörby
+162566|Best Western Norra Vattern
+162568|Klipper
+162569|Continental
+162570|Skansen
+162573|Aston
+162574|Frimurare
+162575|Grand Hotel Lapland
+162576|Focus
+162577|Best Western Royal Corner Hotel
+162581|Best Western Farsta Strand Hotel & Conference
+162582|Ulfsunda Slott
+162583|Maria
+162584|Duxiana
+162586|Riverside Uddevalla
+162587|Naas Fabriker Hotell och Restaurang
+162588|Mölndals Bro
+162589|Best Western Carlia
+162590|Best Western Royal
+162591|Grand Hotell Bollnäs
+162593|Arkad
+162595|Pitea Stadshotell
+162596|Best Western Tidbloms
+162600|Trollhättan Hotel
+162602|Kristina
+162604|Norrtull
+162605|Oresund AB
+162606|Best Western Edward
+162607|Best Western Hotell Goteborg
+162608|Best Western Princess
+162609|Slottshotellet i Kalmar
+162610|St. Clemens
+162614|Ideon Gasteri - Lund
+162615|Jemtlandia
+162617|Concordia - Lund
+162618|Liseberg Heden
+162619|Best Western Motala Statt
+162620|Terraza
+162621|Aasen Hotel
+162623|A Elgen
+162628|Svea
+162629|Best Western Sturup Airport
+162630|Danderyds Gaestri
+162631|Alfred Nobel
+162633|Kramm Hotel Kramfors
+162634|Björkbackens Karaktärshotell
+162636|Utsikten Hotell & Konferens - Nynashamn
+162637|Dragonen
+162638|J Sealodge Gashaga
+162639|Adlon
+162640|Vilsta Sporthotell
+162642|Colonial
+162643|Ibis Styles Stockholm Odenplan
+162644|Sirius
+162645|Bishops Inn Kristianstad
+162646|Conrad
+162648|Best Western Hotel Savoy
+162649|Aqva Hotel
+162650|Best Western Jula Hotell & Konferens
+162651|Zinkensdamm
+162665|Landvetter Airport
+162675|Kragga Herrgard
+162677|Fars Hatt
+182524|Scandic Malmö City Hotel
+183716|Grand Hotel Opera
+183718|Sky Hotel Apartments - Stockholm
+187378|Langholmen
+187485|Nordkalotten
+187515|Clarion Collection Bergmastaren
+187517|Hotel Kvarntorget
+187588|1909 Sigtuna Stadshotell
+187608|Bele
+187676|Hasselby Slott
+187989|Strandhotel Borgholm
+196346|Torekov
+197152|Best Western Plus Hotel Mektagonen
+202065|Red Haven Cottage
+202320|Kosta Boda Art
+203190|Amalias Hus
+203216|Elite Marina Tower
+203627|Hotel 1
+203835|Acco Hostel
+203864|Active Stay
+204002|ÅhusStrand
+205170|Arena
+205381|Åtellet Hotell
+205727|Badhotellet Spa & Konferens
+205764|Bakfickan
+206326|Bohusgården Hotell & Konferens
+206335|Bomans Hotell
+206857|Buta Palats
+207251|Charlotte
+207418|City Hostel
+207425|City
+207487|Clarion Collection Cardinal
+207490|Clarion Winn
+207613|Comfort Winn
+207641|Comwell Aspenäs
+207687|Continental Malmö
+207699|Copperhill Mountain Lodge, Ascend Collection
+209284|Fjällhotellet Lofsdalen
+209488|Gammelgården
+210385|Hotell Hehrne Restad Gard
+211481|Hotell & Konferens Flottiljen
+211482|Angöringen
+211483|Hotell Ett
+211484|Hotell Fyrislund
+211486|Gute
+211488|Kupolen
+211490|Hotell Långbers
+211491|Hotell Marieberg
+211492|Hotell Miskarp
+211493|Hotell Nissastigen
+211494|Saga
+211499|Hotell Svea
+211500|Hotell Svedjegården
+211502|Villa Borgen
+211601|Hviidehus
+211903|Jämteborg
+211972|Jumbo Stay
+212179|Kockska Gården
+212244|Krusenberg Herrgård
+212753|Lanterna
+213282|Liljeholmens Stadshotell
+213287|Lilton
+214062|Miatorp Hostel & Hotel
+214620|Nynäsgården Hotell & Konferens AB
+215682|Poseidon
+216603|Rasta Kalmar
+217664|Sälens Högfjällshotell
+217758|Sankt Jörgen Park Resort
+218086|Skara Stadshotell
+218087|Skärgårdshotellet
+218089|Skeppsholmen
+218094|Sky Hotel Apartments
+218116|Slottsskogen Hostel
+218314|Elisero Hotell
+218435|Stjärnholms Slott Stiftsgarden Stjärnholm
+218446|Stora Brännbo Konferens & Hotell
+218449|Story Hotel
+218454|Strand
+218552|Sunlight Hotel Conference & Spa
+218596|Sven Vintappare
+218843|Bishops Inn Köping
+219939|Uppsala Lägenhetshotell
+220009|Vår Gård Saltsjöbaden
+220115|Viktoria Hotell & Konferens
+220618|Wasa Park Hotel
+221325|Bed & Breakfast Lyckebo Gård
+221414|Byxelkroks Marina Sea Resort
+221909|Best Western Fagersta Brukshotell
+222311|Hotell Blå Blom
+222312|Dialog
+222314|Hotell Duxiana Dannegården
+222317|Best Western Hotell Lerdalshöjden
+222320|Hotell Stjärnan
+222324|Hotell Wilhelmina
+222353|Huskvarna Stadshotell
+222579|Långshyttans Brukshotell
+222718|Madam Blå Hotel
+222728|Malå Hotel Skicamp
+223168|Ramkvilla Hotell & Konferens
+223291|Rimforsa Strand Hotel
+223303|Best Western Rogge
+223312|Rosersbergs Hotell och Konferens
+223368|Salbohed Gården Bed & Breakfast
+223448|Smögens Havsbad
+223510|Stora Hotellet Markaryd
+223515|Strandflickorna Hotel & Hostel
+223534|Surte
+223636|Ulvhälls Herrgård
+223673|Vann Spa Hotell & Konferens
+223674|Värdshuset Lugnet
+227013|Diplomat Aregarden
+227028|Regenbogen Camp Mönsteras
+228463|Svanstein Lodge
+228668|Nordic Chalet & Northern Lights Chalet
+229150|Courtyard by Marriott Stockholm Kungsholmen
+230355|Grangärde Hotell & Konferens
+230356|Sikfors Herrgård
+230357|Edets Värdshus
+230358|StayAt Lund
+230362|Grand Arctic
+231950|Ekhems Gård
+232332|Elite Plaza Malmö
+232339|Elite Eden Park
+232921|Renaissance
+233466|Sahlströmsgården
+234881|Wiredaholm Golf & Konferens
+238224|Best Western Plus Stockholm Bromma
+238267|Nobis Hotel
+242898|Leksand Strand
+244013|Clarion Post
+244319|Best Western Arena Hotell
+245558|Radisson Blu Waterfront
+246468|Idala Gård
+247688|Park Inn by Radisson Malmö
+247689|Park Inn by Radisson Stockholm Hammarby Sjöstad
+248248|Hotel Scandic Victoria Tower
+249314|Radisson Blu Uppsala
+259565|Orsa Stadshotell
+259618|Ferienanlage Mönsterås
+259719|Dacke
+260106|Hellstens Malmgard
+261206|Treehotel & Brittas Pensionat
+261474|Selma Spa, Ascend Collection
+264506|Akademihotellet
+264508|Ibis Styles Stockholm Jarva
+264510|Hotel Aldoria
+264516|Rygerfjord Hotel And Hostel
+264517|Yasuragi Hasseludden
+270849|Hotell Årstaberg
+270851|Stockholm Hostel
+270853|Three Crown Bed and Breakfast
+270854|Skanstulls Hostel Stockholm
+270856|Old Town Lodge
+270857|M/S Monika Hotel & Cafe
+270858|Luxury Apartments
+270859|Hotel Söder
+271437|Kville Hotel
+273882|Taxus Bed and Breakfast
+273884|Malmö Camping Sibbarp
+273932|Hotell Svanen
+273933|Hotell Hilda
+273944|Pensionat Maglarp
+273945|Best Western Hotel Hansa
+274017|Tjärkoket Apartment Hotel
+274019|Visby Börs
+274020|Donners Hotell
+274022|Hotel Slottsbacken
+274207|Platypus Penthouse Honeymoon Suite
+274209|Stadshotellet Kristianstad
+274211|Herrestad Gästis
+274212|Öjaby Herrgård
+274213|Kvarnens B&B
+274214|Grand Hotel Lysekil
+274215|Fjordhotellet
+274217|Stenliden B & B
+274236|Bogesundsgården
+274238|Eriksgårdens Fjällhotell
+274325|Park Hotell
+274326|Citysleep
+274445|Ekebacken Hotell & Konferens
+274448|Trehörna Wärdshus
+274449|Hotell Sköna Nätter
+274450|Villa E Bed & Breakfast
+274451|Park Hotel Motala
+274452|Starby Hotel, Conference & Spa
+274947|Högbo Pensionat Skommarsgården
+275289|Brommavik
+275291|Pio Country Club
+275292|Rum För Resande - Guest House
+275293|Sidsjö Hotell & Konferens
+275913|Röda Stallet B&B
+276252|Kvarnen i Knällsberg
+276253|Kurorten Mösseberg
+276616|Mattisgården Bed & Breakfast
+276759|Bjurfors Hotell & Konferens
+276837|Pensionat Neptun
+276838|Hotell Hovs Hallar
+277055|Sigtuna Höjden Hotell & Konferens
+277064|KivikStrand Logi & Cafe
+277155|Millestgården Åre
+277156|Wärdshuset C. Dickens
+277158|Kåseholms Slott
+279497|Nya Varvet Studios
+279498|Hotel Pigalle
+280991|Hotel Bishops Inn Kiruna
+281066|Scandic Karlskrona Hotel
+281177|Kastellet Bed & Breakfast
+282260|Hotel Finn
+282261|The More Hotel Lund
+286140|Clarion Hotel Arlanda Airport
+286542|Radisson Blu Riverside Hotel, Gothenburg
+287879|Quality Spa And Resort Dalecar
+288067|Nostalgi Hotel Motala
+292502|Hotel & Vandrarhem 10 - Hostel
+292973|Frostavallen Sweden Hotels
+292975|Hotell Mossbylund
+292978|Lögnäs Gård
+292981|Hotel Carlsborg
+292987|Åmåls Stadshotell
+293056|Hoby Gård
+293057|Solvikens Pensionat
+293058|Möre Hotell
+293059|Rydboholms Wärdshus
+293136|Hallandsåsen Hostel & B&B
+293157|Villa Bråviken
+293159|The Lamp
+293164|Hällsnäs Konferens & Affärsklubb
+293327|Västerbacken Hotell och Konferens
+293455|Hem till Gården
+293457|Livin Hotel Sweden Hotels
+293532|Villa Martini Bed & Breakfast
+293662|Kastanjelunds Wärdshus
+293664|Flygplatshotellet
+293665|Victoria Gränshotell
+293851|Hotel Per Olof Garden
+294077|Hotel Stelor
+294078|Hotel Drei Jahreszeiten
+294159|Villa Pauli Hotel
+294160|Tollereds Hotell
+294233|Hotell Kungshamn
+294235|Sol & Sand Bed & Breakfast
+294237|Pappersbruket
+294239|Saxnäsgården Hotell & Konferens
+294240|Himmelsby Gårdshotell
+294294|Garpgården Logi och Vandrarhem
+294295|Bed & Breakfast Gryttinge
+294634|Hotell Höga Kusten
+294636|Connect Stockholm
+294639|Marstrands Havshotell
+294821|Pure Retreat
+294822|Hotell Katrineberg
+295313|Hussborg Herrgård
+295549|Attendo Park
+295551|Marican Hostel & Hotel
+295552|Brunnby Gård
+295553|Körunda Golf & Konferenzhotel
+295554|Ekenäs
+296437|Metro
+298286|Norregård
+298711|Jöns Andersgården
+324428|Strand Vandrarhem & Kusthotell
+359866|Clarion Hotel Sense
+367912|Gorvlans Slott
+367913|Hotel Manen
+367914|Melody Hotel
+367915|Omena Hotel Stockholm
+368212|Upper House
+369201|Best Western Ljungby
+369207|Malmköping
+369225|Kompassen
+369345|Hjartared Ullared
+369346|Park Linkoping
+369423|River C Hotell
+369604|Villa Fridhem
+369806|Elite Grand Gavle
+369807|Elite Ideon
+369809|Park Inn by Radisson Lund
+369810|Elite Plaza Hotel Ornskoldsvik
+369811|Kulturhuset Ytterjarna Sweden Hotels
+369813|Hotel By Maude
+369814|Quality Hotel Friends
+369815|City Stay Uppsala
+369816|Grand Hotel Hornan Sweden Hotels-uppsala
+370455|Hotel Havanna Sweden Hotels
+370780|Karstorp Hotel And Konferens
+371819|Best Western The Public Hotel
+372914|Strand Golf Hotel
+372941|Salt & Sill
+372942|Svarta Herrgard
+381469|Statt
+392219|Hotel Källan
+403308|Göteborgs Mini-Hotel
+404800|Miss Clara By Nobis
+404802|Norlandia Care Arstaviken Hotell
+404985|Abrins Hotell Bed & Breakfast i Västeras AB
+405047|Best Western Liza Hotell
+406063|Elite Stadshotellet
+413466|Pm & Vänner Hotel
+413467|Färna Herrgård & Spa

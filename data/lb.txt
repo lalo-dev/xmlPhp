@@ -1,0 +1,84 @@
+27484|Portemilio Hotel & Resort
+27541|Albergo
+27542|Cavalier
+27544|The Charles
+27546|Byblos Sur Mer
+27549|Grand Kadri
+30508|Plaza
+36273|Mövenpick Resort Beirut
+39072|Bel Azur
+55303|Coral Beach Hotel & Resort
+55304|Holiday Inn Dunes
+55305|Le Vendome InterContinental
+55308|Gefinor Rotana
+55309|Phoenicia InterContinental
+64680|Le Commodore Hotel
+64681|The Lancaster
+67588|Radisson Blu Martinez Beirut
+68551|Bella Riva
+68574|Warwick Palm Beach Hotel
+68576|Monroe
+76950|Casa Dor - Hamra
+76951|Crowne Plaza Beirut
+76953|Mayflower
+78210|Tamar Rotana - Hadeth
+100369|Riviera Hotel
+103852|Acropolis
+108374|Le Bristol
+108444|Le Royal Beirut
+108640|Markazia Monroe Suites
+109858|Quality Inn Hotel Tripoli
+110664|Ramada Plaza Beirut Raouche
+110899|Sofitel Beirut Le Gabriel
+129697|Four Points By Sheraton Le Verdun
+129701|Hilton Beirut Metropolitan Palace
+132670|Le Marly
+132671|Alexandre
+132672|Hilton Beirut Habtoor Grand
+138135|Galeria
+145021|Golden Tulip De Ville
+159363|Regency Palace
+159365|Grand Hills & Spa
+159369|Ramada Beirut Downtown
+159370|InterContinental Mzaar (Mountain Resort & Spa)
+182582|Regency Boutique
+182583|Sun Hills
+183208|Mozart
+202988|Le Gray
+202990|Victory Byblos & Spa
+206806|Canari de Byblos
+207708|Coral Suites Al Hamra
+209874|Golden Tulip Serenada
+214862|Padova
+216598|Raouché Arjaan by Rotana
+227535|Eddé Sands Hotel & Wellness Resort
+227647|Caesar's Park
+227717|Duroy
+227732|Four Seasons Beirut
+229181|Printania Palace
+229182|Bayview
+232441|Ahiram
+232448|Chtaura Park
+232877|Parisian
+234413|35 Rooms
+234952|Portaluna Hotel & Resort
+234953|Byblos Comfort
+234954|Monoberge
+234955|Midtown & Suites
+235557|Le Cedrus Suite
+235558|Portview
+235559|Sunrise
+237332|Country Lodge Bsalim
+237334|Castel Mare Beach Hotel & Resort
+244152|Orient Queen Homes
+244153|Hollywood Inn Hotel
+252674|The Cosmopolitan
+260097|Golden Tulip Galleria
+260336|Rivoli Palace
+260337|Aux Cimes Du Mzaar
+264617|Lancaster Suites
+271622|Assaha Lebanese Traditional Village
+275382|Reston
+295028|Golden Tulip Jiyeh Marina
+300143|WH Hotel
+405206|Golden Tulip Lili's Resort and Spa

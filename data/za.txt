@@ -1,0 +1,1492 @@
+7192|InterContinental Johannesburg O.R. Tambo Airport
+7508|Altes Landhaus
+8800|Belvidere Manor
+9035|Beverly Hills
+9181|Bongani Mountain Lodge
+10451|The Clarendon - Villa Fresnaye / Villa Bantry Bay
+11725|Protea Dorpshuis & Spa
+12423|Fancourt & Fancourt Manor House - Fancourt
+13110|Garden Route Game Lodge
+13339|Gorah Elephant Camp
+13527|Grande Roche Hotel & Restaurant
+13607|Grootbos Nature Reserve - Garden Lodge/Forest Lodge/Villa
+13722|African Pride Hacklewood Hill Country House
+14076|Hog Hollow Country Lodge
+14186|Southern Sun Elangeni & Maharani
+14216|Garden Court Pretoria Hatfield
+14223|SunSquare Cape Town
+14224|Garden Court Nelson Mandela Boulevard
+14225|Garden Court Kings Beach
+14228|Wilderness Beach
+14340|Southern Sun Waterfront Cape Town
+14472|The Country House at Hunters
+14898|Inyati Game Lodge
+15589|Kwa Mbili Game Lodge
+16438|Londolozi Private Game Reserve - Varty Camp / Pioneer Camp / Granite Private Suites / Founders Camp / Tree Camp
+16714|MalaMala Game Reserve - Rattray's
+16717|Southern Sun - Malelane Sun
+17478|Mimosa Lodge
+17569|Mkuze Falls Private Game Reserve - Falls Lodge/Safari Suite/Tented Lodge
+17746|Mount Nelson
+17960|Ngala Private Game Reserve - Safari Lodge/Tented Camp
+18779|Hyatt Regency Johannesburg
+19015|Phinda Privat Game Reserve - Mountain Lodge/Rock Lodge/Forest Lodge/Vlei Lodge/Zuka Lodge/The Homestead
+19493|The Devon Valley
+19494|Protea Victoria Junction
+19495|Protea President
+19823|Radisson Blu Waterfront
+20480|River Manor
+20628|Rosenhof Country Lodge
+21041|InterContinental Johannesburg Sandton Towers
+21399|The Selborne Hotel, Spa & Golf Estate
+21461|Shamwari Game Reserve - Bayethe/ Eagles Crag/ Lobengula/ Long Lee/ Riverdene/ Sarili/ Bushmans River
+21573|Sheraton Pretoria
+21687|Singita Sabi Sand - Ebony Lodge / Boulders Lodge / Castleton
+22153|Steenberg
+22234|Straightway Head Country House
+22317|The Cascades
+22327|The Table Bay
+22365|Sunnyside Park
+22669|The Alphen Country House
+22683|The Bay
+22716|The Cellars-Hohenort
+22724|The Commodore
+22744|Protea Edward Durban
+22824|The Lanzerac Hotel & Spa
+22845|The Marine
+22856|The Michelangelo
+22894|The Palace of the Lost City
+22931|NH Plettenberg Bay
+22999|The Saxon Boutique Hotel, Villas & Spa
+23027|The Vineyard Hotel & Spa
+23041|The Westcliff
+23420|Tswalu Kalahari Reserve
+23481|Ulusaba Sir Richard Branson's Private Game Reserve - Rock Lodge Rooms & Suites & Cliff Lodge / Safari Lodge Rooms & Suites
+23488|Protea Umhlanga
+24450|Wild Coast Sun
+24467|Winchester Mansions
+24638|Fairmont Zimbali Resort - Zimbali Lodge
+25794|The Townhouse
+25917|The Knysna Log Inn
+25923|Letaba Restcamp
+25924|Lower Sabie Restcamp
+25948|Addo Elephant Rest Camp
+25952|Garden Court East London
+25958|Golden Gate Hotel
+25969|Kwandwe Private Game Reserve - Great Fish River Lodge / Ecca Lodge / Uplands Homestead / Melton Manor
+25973|Palazzo Montecasino
+25976|Garden Court O.R.Tambo Airport
+25977|Garden Court Sandton City
+26018|Ocean View Guesthouse
+26020|Dolphin Beach
+26025|Garden Court Kimberley
+26032|Protea Kruger Gate
+26033|Berg En Dal Restcamp
+26040|Olifants Restcamp
+26042|Satara Restcamp - Wells/Frankel/Stanley
+26043|Skukuza Restcamp
+26045|Protea Mossel Bay
+26046|Ghost Mountain Inn
+26048|Hannah Lodge
+26049|Hlangana Lodge
+26087|Beacon Island
+26094|NH The Lord Charles
+26099|The Sun City Hotel
+26103|Palms Wilderness Guest House
+26104|Drakensberg Sun Resort
+26268|Bantry Bay Luxury Suites
+26273|Protea Sea Point
+27340|Mountain Manor Guest House
+27609|The Arniston Spa Hotel
+27611|Bushmans Kloof Wilderness Reserve
+27613|Garden Court Marine Parade
+27615|Shakaland
+27616|Protea King George
+27618|The Drostdy
+27619|Windsor
+27624|The Maslow
+27625|Protea Balalaika Sandton
+27626|Protea Wanderers
+27631|Premier Cape Manor
+27638|Protea Knysna Quays
+27644|Kingna Lodge
+27649|Protea Riempie Estate
+27653|Fish River Sun
+27657|Kariega Game Reserve - Main Lodge / Ukhozi Lodge / River Lodge / The Homestead / Settlers Drift
+27660|Court Classique
+27665|Oude Werf Hotel
+27667|Spier Hotel
+27668|Makakatana Bay Lodge
+27669|Hluhluwe River Lodge
+27671|Protea Upington
+27673|Wilderness Resort
+27675|Sibaya Lake Lodge
+27677|The Cabanas Hotel
+27679|Sabi Sabi Luxury Safari Lodges - Selati Camp/ Bush Lodge/ Earth Lodge/ Little Bush Camp
+27836|Protea Breakwater Lodge Waterfront
+27839|Lion Sands Game Reserve - Ivory Lodge/ River Lodge/ Narina Lodge/ Tinga Lodge
+27841|Lake Pleasant Living
+31210|Knysna Hollow Country Estate
+31818|Protea The Winkler
+31821|Drifters Cape Town Lodge
+31823|African Pride Arabella Hotel & Spa
+31824|Palmiet Valley Estate
+31827|Montusi Mountain Lodge
+31829|Protea Richards Bay
+31834|Imbali Safari Lodge
+31836|Savanna Private Game Reserve
+31838|Karoo National Park Main Rest Camp
+31840|Tsitsikamma National Park - Storms River Mouth Camp
+32157|Franschhoek Country House
+32160|Kagga Kama Game Reserve
+32162|Naries Namakwa Retreat
+32163|Magoebaskloof
+32169|Erinvale Estate Hotel & Spa
+32652|Protea Cape Castle
+34002|Romney Park
+34529|Mont Rochelle
+35703|Sandals
+35704|Don Beach Road Seapoint
+37801|Jatinga Country Lodge
+37803|Sandford Park
+37804|Umbhaba Lodge
+37807|Quarry Lake Inn
+37810|Zuurberg Mountain Village
+37811|Angala Boutique Hotel
+37814|Chitwa Chitwa Private Game Lodge
+37815|Leopard Hills
+37952|Tsala Treetop Lodge
+37997|The Twelve Apostles & Spa
+37998|Kurland
+38023|Mashatu Game Reserve
+38050|Singita Krüger Nationalpark - Lebombo Lodge / Sweni Lodge
+38089|The Westin Grand Cape Town Arabella Quays
+38090|Cape Grace
+38091|Kensington Place
+38092|Victoria & Alfred
+38190|Elephant House
+38191|Far Hills Country
+38192|Makalali Private Game Lodge
+38193|Thornybush Game Lodge
+38212|Cape Town Lodge
+38379|African Pride Melrose Arch
+38444|Ambassador
+38445|Premier King David
+38446|Giant's Castle
+38447|Tropicana
+38448|Hippo Hollow Country Estate
+38449|Protea Hazyview
+38452|Keurbooms River
+38453|Queens
+38454|Royal
+38455|Yellow Lodge
+38457|Kings Camp
+38458|Entabeni Game Reserve/ Safari Conservancy
+38460|The Oyster Box
+38461|The Boathouse
+38606|Cape Town Ritz
+38607|On St. Georges
+38608|The Paxton
+38610|Pine Lake Inn
+38665|River Bend Country Lodge
+38666|Sanbona Wildlife Reserve - Dwyka Tented Lodge / Gondwana Lodge / Tilney Manor / Explorer Camp
+38668|Inn on the Square
+38669|Bakubung Lodge
+38670|Kwa Maritane Bush Lodge
+38671|Plettenberg Hotel & Spa
+38672|Protea Stellenbosch
+38675|Motswari Private Camp
+38677|Tshukudu Bush Lodge
+38780|Redbourne Country Lodge
+38877|Brookes Hills Suites
+38879|The Portswood
+38881|Centurion Lake
+38882|Falaza Game Park
+38886|Umlani Bushcamp Lodge
+38927|Greenways
+39931|SantÃ© Hotel, Resort & Spa
+40195|Blue Waters
+40196|Cape Town Hollow
+41753|Sandton Hilton
+41754|Radisson BLU Le Vendome
+41884|Shamwari Game Reserve - Riverdene Lodge
+41885|Jock Safari Lodge
+41951|A Stonesthrow
+41953|Atlanticview Capetown
+41954|Buhala Game Lodge
+41955|Bushwillow Lodge
+41965|Colona Castle Manor
+41966|Cosmos Cuisine
+41970|Cheetah Plains Game Reserve
+41977|Edward Charles
+41978|Fairlight Beach House
+41979|Falcons View Manor
+41989|Jambo GÃ¤stehaus
+41993|Lily Pond Lodge
+41994|La Boheme
+42041|Ndiza Lodge
+42045|Pakamisa Private Game Reserve
+42053|Point
+42057|Rijks Country House
+42059|Ridgeview Lodge
+42060|Royal Guest House
+42078|Vergelegen Guesthouse
+42080|White Elephant Lodge
+42090|Kwafubesi Game Lodge
+42138|Hamiltons Tented Camp
+42139|Hoyo Hoyo Tsonga Lodge
+42140|Madikwe River Lodge
+42458|Royal Malewane
+42459|54 on Bath
+47854|Crowne Plaza - The Rosebank
+47856|Garden Court South Beach
+48141|Illyria House Pretoria
+48148|Ellerman House
+48150|Madikwe Hills Game Lodge
+48301|BÃ¶hm's Zeederberg Country House
+48303|Lion Sands Game Reserve - Tinga Lodge
+48527|Le Franschhoek Hotel & Spa
+48529|Primi Royal
+48530|Lagoon Beach Hotel
+48531|Thonga Beach Lodge
+48532|Tsitsikamma Lodge
+51361|Thanda Private Game Reserve - Thanda Bush Villas/ Thanda Tented Camp
+51376|Drifters Drakensberg Lodge
+51683|La Fontaine Guest House
+51684|Graskop
+51685|Sefapane Lodge & Safaris
+51688|Hilltop Camp
+51689|Montagu Country
+51690|La Plume Guesthouse
+51721|Cedrics Lodge
+51758|Abalone Guest House
+52528|Ravineside Lodge
+53001|Balmoral
+56193|Boardwalk Lodge
+57633|Pezula Resort Hotel & Spa
+57781|Bushman Sands Golf Lodge & Estate
+57782|Ubizane Wildlife Reserve - Zululand Tree Lodge
+59137|Beach
+59140|De Opstal Country Lodge
+59141|Botlierskop Private Game Reserve
+59143|Constantia Uitsig
+59150|Villa Lutzi
+59152|Tarragona Lodge
+60095|Woodall Country House
+62588|Protea Hotel Centurion
+62589|Quarters on Florida
+62642|Cape Milner
+62956|Best Western Cape Suites
+62957|The Westville
+62958|The King Edward
+62959|African Pride Irene Country Lodge
+62961|Greenway Woods Resort
+62962|Ivory Tree Lodge
+63428|The Sir Francis
+64434|Alpine Heath Resort
+64436|Nguni River Lodge
+64437|Misty Waves Boutique
+64438|Izulu
+64440|Southern Sun O.R. Tambo International Airport
+64441|Cape Cadogan Boutique
+64442|O on Kloof
+64540|Protea Franschhoek
+64542|Adderley Hotel
+64545|Whalesong Hotel & Hydro
+64622|Lady Hamilton
+64624|Protea Nelspruit
+64627|Tsitsikamma Village Inn
+64629|Rothman Manor
+64631|Elephant Lake
+64635|Stillness Manor
+64637|Kwa Madwala Private Game Reserve
+64641|Nungubane Game Lodge
+64721|Graywood
+64724|Southern Sun Pretoria
+64725|The Diplomate
+64726|Kapama Private Game Reserve - Kapama River Lodge/Kapama Southern Camp/Kapama Buffalo Camp/Kapama Karula
+64727|Garonga Safari Camp
+64748|Hans Merensky Hotel & Estate
+64754|Whale Rock Lodge
+64767|Orion Mont-Aux-Sources
+64982|Amakhala Game Reserve - Hlosi Game Lodge
+64985|Impodimo Lodge
+65091|Iketla Lodge
+65092|The Windermere
+65094|Tintswalo Safari Lodge & Manor House
+66396|Hilton Durban
+67873|The Westford
+68837|Kingslyn Guesthouse
+70138|Sandton Sun
+70173|City Lodge Hotel Victoria and Alfred Waterfront
+70174|Southern Sun Cape Sun
+70175|Primi Seacastle
+70177|Kleine Zalze Lodge
+70180|Don Sandton III
+70181|Lukimbi Safari Lodge
+70182|Jackalberry Lodge
+71068|Mabula Game Lodge
+71988|Le Quartier Francais
+72699|Schulphoek Seafront Guesthouse
+72701|Bartholomeus Klip
+72702|Phantom Forest Eco Reserve
+72704|Periwinkle Guest Lodge
+72705|City Lodge Port Elizabeth
+72707|Amakhosi Safari Lodge
+72710|Shiluvari Lakeside Lodge
+72711|Coach House
+72712|Ntshondwe Camp
+72713|Camp Shawu
+73094|The Retreat Camps Bay
+73095|Auberge Burgundy
+75048|Protea Outeniqua
+75049|Riverside Hotel & Spa
+75050|Southern Sun The Cullinan
+75061|Villa Sunshine
+75090|Shidzidzi Game Lodge
+75484|The Airport Grand
+75486|Golden Horse Casino Hotel
+76363|Hollow on the Square
+76364|Urban Chic
+76365|Protea North Wharf
+76366|Protea Fire & Ice
+76367|Lidiko Lodge
+76435|Fountains Hotel
+76436|The Village Lodge
+76437|Aan de Oever
+76438|Cascade Country Manor
+76440|Oyster Bay Lodge
+76471|Forever Resorts Swadini
+76472|Garden Court Polokwane
+76474|Peermont Mondazur
+76475|Three Cities Imvubu Lodge
+76477|Sani Pass
+76478|Bushlands Game Lodge
+76479|Halyards
+76480|The Kelway
+76481|African Pride The Sands at St Francis
+76482|Residence Klein Oliphants Hoek
+76484|Protea Saldanha Bay
+76678|Camps Bay Village
+76679|Waterfront Village
+76680|Cape Diamond
+76686|Amakhala Game Reserve
+76689|Shiduli Private Game Lodge
+76718|Protea Hluhluwe & Safaris
+76747|Dawsons Trout & Game Lodge
+76748|Fordoun Spa & Boutique
+76749|Protea Umfolozi River
+76750|Four Rosmead
+76751|The Andros
+76752|Serenity Forest Eco Reserve
+76753|Cybele Forest Lodge & Spa
+76771|African Pride Pumba Private Game Reserve - Pumba Water Lodge/ Msenge Bush Lodge
+76835|Marataba
+76994|Protea Bloemfontein
+76996|Shishangeni Private Lodge
+77810|Knysna River Club
+77811|Diaz 15 House On The Bay
+77818|Jabulani Camp
+80857|The Farmhouse
+82526|Pestana Kruger Lodge
+82551|La Splendida
+83520|Courtyard Cape Town - geschlossen
+83521|Courtyard Rosebank
+83522|Courtyard Sandton
+83523|City Lodge Bryanston
+83524|City Lodge Durban
+83525|City Lodge Grand West
+83526|City Lodge Johannesburg Airport Barbara Road
+83527|City Lodge Katherine Street Sandton
+83528|City Lodge Morningside
+83529|City Lodge Pinelands
+83531|City Lodge Umhlanga Ridge
+83533|Bellville The Lodge
+83534|Town Lodge Johannesburg International Airport
+83535|Town Lodge Midrand
+83536|Town Lodge Mbombela
+83537|Town Lodge Menlo Park
+83587|Protea Marine
+83594|Protea Parktonian
+83596|Protea Tyger Valley
+84167|Stellenbosch Lodge
+85376|Hout Bay Manor
+85381|African Elite Properties - Waterfront Marina / De Waterkant
+87058|Blue Gum Country Estate
+87059|Laird's Lodge Country Estate
+87060|Agulhas Country Lodge
+87061|Glen Avon Lodge
+87062|Cleopatra Mountain Farmhouse
+87068|The Last Word - Constantia
+87069|The Last Word - Long Beach
+87071|Lone Creek River Lodge
+87073|Camp Shonga
+87076|Jaci's Lodges - Safari Lodge/ Tree Lodge
+87326|Suncoast Towers
+87327|Birchwood Hotel & OR Tambo Conference Centre
+87782|City Lodge Bloemfontein
+87791|Protea Klerksdorp
+89467|Mpongo Private Game Reserve
+89470|Premier Regent
+89471|Premier Pretoria
+89473|Misty Hills Country
+89475|De Zeekoe Guest Farm
+90217|Pod
+90224|Perry's Bridge Hollow
+90672|Harbour House
+90673|Protea Cumberland
+90674|Umlilo Lodge
+90675|Parkwood Hotel
+90676|Gecko Lodge
+90677|Casa do Sol Hotel & Resort
+90771|Simon's Town Quayside
+90829|Lalibela Game Reserve
+90988|Tintswalo At Waterfall
+91037|Fig Tree Lodge
+91040|The Outpost Lodge
+91042|Eendracht Boutique
+91139|Kariega Game Reserve - River Lodge
+91140|Kariega Game Reserve - Ukhozi Lodge
+91142|Don Rosebank
+91143|Mercure Randburg
+91144|Royal Madikwe
+91147|Wildside Camp
+91148|Clifftop Lodge
+91151|MalaMala Game Reserve - Main Camp
+91203|Icon Luxury Apartments
+91204|Emperors Palace - Peermont D'Oreale Grande
+91205|Fairlawns
+91206|African Pride Audacia Manor
+91207|Zorgvliet Vineyard Lodge & Spa
+91209|Peninsula
+91864|The Beach
+92481|The Plettenberg
+94243|Courtyard Eastgate
+95770|Zulu Nyala Safari Game Lodge & Heritage Safari Lodge - Heritage Safari Lodge
+97201|De Waterkant Village
+97203|52 De Wet
+97211|St. James of Knysna
+97213|Adley House
+97266|Emperors Palace - Peermont Mondior
+97797|The Bay Lodge on the Beach
+97843|Willowbrook Lodge
+97845|Batavia Boutique
+100433|Leeuwenvoet House
+100822|Hermanus Luxury Apartments
+103537|Kuzuko Lodge
+103538|Kopanong
+103539|Royal Palm
+103541|Cathedral Peak
+103542|Kubu Safari Lodge
+103649|Mopane Bush Lodge
+103651|Pinnacle Point Beach & Golf Resort
+105616|Capetonian
+106789|DumaZulu Lodge & Traditional Village
+107344|Peermont Walmont at Graceland
+108861|Mercure Johannesburg Bedfordview
+108862|Mercure Johannesburg Midrand
+108908|Mercure Nelspruit
+110385|Tintswalo Atlantic
+110386|La Residence
+110387|Birkenhead House
+110476|African Pride Endless Horizons Boutique
+110493|Daisy Lodge
+110494|Buffalo Ridge Safari Lodge
+110495|Arathusa Safari Lodge
+110521|The Tulip
+110587|OliverÂ´s Restaurant & Lodge
+110588|Walkersons
+110590|The Royal Meander Manor Guest Lodge
+110596|Mandela Rhodes Place Hotel & Spa
+110597|Riverside Estate
+110598|Saint Du Barrys
+110599|Villa Marine
+110600|Bloomestate
+110601|Kanonkop Guest House
+110607|Gondwana Game Reserve / Fynbos Camp/ Kwena Huts Camp
+111347|Town Lodge Sandton
+122906|Diaz Strand
+122907|Buffelsdrift Game Lodge
+122908|Fith Avenue Beach House
+122909|Cinnamon Botique
+122910|Aquila Private Game Reserve
+122914|Kichaka Luxury Game Lodge
+122917|Place On The Bay
+122918|Sibuya Game Reserve & Tented Camps
+122920|Tonquani Lodge & Spa
+122923|Zandberg Wine Estate
+124995|Southern Sun Newlands
+124997|Royal Legend Safari Lodge
+125006|Radisson Blu Port Elizabeth
+125571|Xanadu Guest Villa
+125572|Poseidon Lodge
+128902|Rocktail Beach Camp
+128904|Mount Grace Country House & Spa
+128905|Radisson Blu Sandton Johannesburg
+135046|Camps Bay Resort
+135424|Harbour Bridge Hotel & Suites
+135426|Asara Wine Estate
+135428|Oceana Beach & Wildlife Reserve
+135930|Welgelegen Guesthouse
+135932|Table Mountain Lodge
+135934|The Dunkley House
+135935|Trevoyan Guesthouse
+135946|Jan Harmsgat Country House
+135950|Leisure Isle Boutique Lodge
+135951|Thatchwood Country Lodge
+135958|Ten Bompas
+135980|Lion Sands Game Reserve - River Lodge
+135983|Pondoro Game Lodge
+135989|Thakadu River Camp
+135994|Amakhala Game Reserve - Bukela Game Lodge
+135997|Amakhala Game Reserve - Leeuwenbosch Country House
+136106|Chapmans Peak
+136360|Cape Royale Luxury Hotel & Residence
+136488|Rozendal Auberge & Winefarm
+136490|Five Seasons
+136703|Cape Heritage
+137016|Garden Court Morningside
+137074|Southern Sun Katherine Street Sandton
+137091|Diamond Lodge
+137124|Protea Midrand
+137125|Circa On The Square
+137143|The Stellenbosch
+137236|Royal Durban
+137637|Casterbridge Hollow
+137638|Colosseum
+137647|Garden Court Sandton
+137651|Southern Sun The Ridge
+137652|Indaba
+137657|Town Lodge Roodepoort
+137671|Randburg Towers
+137699|Garden Court Eastgate
+137807|Kruger Park Lodge
+137835|Summerstrand Inn
+137852|Southern Sun Montecasino
+138016|Drakensberg Gardens Golf & Spa Resort
+138017|Jock Sabie Lodge
+138085|Rodwell House
+138460|Emperors Palace - Peermont Metcourt
+138496|Kedar Country
+139788|Floreal Guest House
+139791|Apricot Gardens Guesthouse
+139793|Signal Hill Lodge
+142289|Rusthuiz Guest House
+142291|Leopard Mountain Lodge
+142302|Chestnut Country Lodge
+142306|St. Lucia Wetlands Guest House
+142308|Cranberry Cottage
+142312|Elephant Plains Game Lodge
+142338|Manolo Boutique
+142343|Huijs Haerlem
+142353|Xaus Lodge
+142355|Augusta de Mist Guesthouse
+142359|Lavenir Country Lodge & Wine Estate
+142360|La Petite Ferme
+142363|Elephant Hide Lodge
+142364|Le Must River Residence
+142381|Highlander Country Retreat
+142831|Summerwood Guesthouse
+142877|Crayfish Lodge
+142879|Holiday Inn Sandton-Rivonia Road
+142883|Baleia de Hermanus
+143005|Klein Waterval Riverside Lodge
+143081|Blackheath Lodge
+143367|Glenalmond
+143371|Pendula Lodge
+143372|Arcadia
+143374|Protea Capital
+145242|Protea Witbank
+145290|One & Only Cape Town
+163206|Sweet Orange Guest House
+163208|The Lakes
+163209|Sugar Hotel
+163212|Outlook Lodge
+163213|Holiday Inn Express Cape Town City Centre
+163215|Evergreen Manor & Spa
+163221|Constantia Guest Lodge
+163224|Protea Roodepoort
+163225|The Saffron House
+163228|Dysart Hotel
+163235|Don Eastgate
+163243|Don Sandton I
+163244|Chartfield Guesthouse
+163252|Elements Lodge
+163253|No5 Boutique Art
+163255|Don Arcadia I
+163260|Don Arcadia II
+163261|African Oceans Manor on Beach
+163265|The Michelangelo Towers
+163272|Cultivar Guest Lodge
+163274|Thornycroft Lodge
+163277|Cape St. Francis Resort
+163287|Acorn Guest House
+163292|Riviera On Vaal Resort
+163293|Swartberg Country Manor
+163296|Raphael Penthouse Suites
+163297|Nkambeni Tented Lodge
+163298|Hide Away Guest House
+163301|Silonque Bush Estate
+163302|Bayete Zulu Boutique Lodge
+163306|Three Trees At Spioenkop
+163309|Simola Hotel, Country Club & Spa
+163310|SherwoodÂ´s Country House
+163311|Monwana Lodge
+163314|Cape Diem Lodge
+163316|Soweto Hotel & Conference Centre
+163318|Holiday Inn Express Sandton-Woodmead
+163319|Natal Spa Resort
+182437|Trogon House & Forest Spa
+182749|More Quarters
+182757|African Pride 15 on Orange
+182784|Karkloof Spa
+182790|Mateya Safari Lodge
+182802|Devonvale Golf Lodge
+182845|Protea Umhlanga Ridge
+182846|Grand Daddy Hotel & Airstream Penthouse Park
+182847|Excelsior Manor Guesthouse
+182848|The Glen Apartments
+183021|Quarters on Avondale
+183076|Ant's Nest
+183919|The Caledon Casino, Spa and Hotel
+183920|Zulu Nyala Country Manor
+183921|Don Johannesburg Airport
+183922|Forest Hall Guest House
+187576|Walmont At Mmabatho Palms
+187577|The Midrand Executive Hotel
+187751|Mouillepoint Village
+187801|Villa Exner
+188258|Taj Cape Town
+188260|African Pride Mosselberg on Grotto Beach
+188264|African Pride Pumba Private Game Reserve - Msenge Bush Lodge
+188265|African Pride Pumba Private Game Reserve - Pumba Water Lodge
+188266|Southern Sun Hyde Park Sandton
+188269|Rhulani
+188335|Hitgeheim Country Lodge
+188340|Samara Private Game - Karoo Lodge / Manor House / Mountain Retreat
+188341|Umngazi River Bungalows & Spa
+188342|Idwala Guest House
+195963|The Rex
+195964|Ibhayi Town Lodge
+195966|Singa Town Lodge
+202034|Tau Game Lodge
+202379|Isibindi Zulu Lodge
+202562|Belaire
+203094|Holiday Inn Express Pretoria - Sunnypark
+203098|The Victorian 1906
+203099|Crawford's Beach Lodge
+203629|Hotel 224
+203640|138 Marine Beachfront Guesthouse
+203643|16 Reasons Guest House
+203648|18 On Kloof Bed & Breakfast
+203653|20 on Church
+203689|7 Church Street Guest House
+203698|A Bohemian Rhapsody Guest House
+203764|Abangane Guest Lodge
+203790|Abbey Manor Luxury Guesthouse
+203836|Accommodation @ Van's
+203926|Africa Regent Guest House
+203927|African Breeze Guesthouse
+203928|African Dreamz Bed and Breakfast
+203937|Afrique Boutique O.R. Tambo
+203941|Afton Grove Country Retreat
+204016|Airlies B&B
+204021|Airport Game Lodge
+204024|Airport Inn Bed and Breakfast
+204129|Albatross Guest House
+204406|Alpine Attitude
+205092|Aqua Dreams Premier Guesthouse
+205247|Art Gallery Guest House Thandekayo
+205372|At The Rocks
+205404|Atlantic Affair Boutique Lodge
+205410|Atlantic House
+205499|Auberge Hollandaise
+205799|Ballinderry, The Robertson Guest House
+205857|Barry Hall Luxury Apartments
+205925|Beachcomber Bay
+205931|Beachside
+205943|Beauclair Guest House
+206030|Bella Manga Country House
+206073|Belmonte Guesthouse
+206109|Berg en Zee Guesthouse
+206209|Africanhome Guesthouse
+206239|Bisibee Guest House
+206279|Blue Lagoon
+206284|Blue Oyster B&B
+206372|Bosavern Guest House
+206394|Boulders Lodge & Spa
+206792|Camps Bay Glen
+206809|Candlewood Lodge
+207041|Casta Diva
+207118|Celtic Manor Guesthouse and Spa
+207633|Compass House
+207707|Hilton Cape Town City Centre
+207791|Cotswold House
+207922|Cuningham's Island Guest House
+208072|De Kloof Luxury Estate
+208184|De Waterkant Cottages
+208267|Dersley Manor
+208376|Dock House Boutique & Spa
+208514|Dreamfields Guesthouse
+208797|Elephant's Nest
+209017|Europrime Hotels
+209069|Ezard House
+209072|Ezulwini Game Lodge
+209078|Fahrenheit B&B
+209090|Fairways on the Bay
+209115|Farr Out
+209351|Forest Suites Hotel
+209377|Four Oaks Guesthouse and Templeton's Restaurant
+209447|Fynbos Villa Guest House
+209510|Gardens Centre Holiday Apartments
+209715|Gateway Country Lodge
+209750|George Lodge International
+209781|Ginnegaap Guesthouse
+210045|Greenmarket Suites
+210049|Greenwood Manor
+210186|Hajos Lodge
+210263|Harbour Vue Guesthouse
+210264|Harbouredge Hotel & Apartments
+210492|Hildesheim Guest House
+210519|Hippo Boutique
+210639|Honeyguide Tented Safari Camps - Mantobeni
+210640|HoneyPot B&B
+211719|Impangele
+211764|Ingwenya Lodge
+211911|Jardin d'Ã©bÃ¨ne Boutique Guesthouse
+211984|KaapsePracht Bed & Breakfast
+212116|Urban Hip Hotels - Kings
+212175|Knysna Country House
+212176|Knysna Manor House
+212808|Laughing Waters Guest House
+212817|Lavender Manor Guest Lodge
+213136|Leriba Lodge
+213138|L'Ermitage Franschhoek Chateau & Villas
+213181|Les Hauts de Montagu
+213310|Linkside 2 Guest House
+213311|Liongate Bed and Breakfast
+213469|Loloho Lodge
+213472|Lombardy Boutique Hotel & Conference Venue
+213534|Lourens River Guesthouse B&B
+213620|Maartens Guesthouse
+213684|Majeka House
+213709|Malvern Manor Country Guest House
+213714|Manaar House
+213738|Manor 38
+213822|Marine Square Luxury Holiday Suites
+213994|Melville Manor Guest House
+214197|Monarch
+214327|Mountview Guest House
+214394|Nandina Guest House
+214423|Navona Constantia Guest Cottage
+214473|New Kings Hotel
+214588|Nova Constantia
+214629|Oakdene Guest House
+214630|Oakhurst Hotel
+214654|Ocean Eleven Guesthouse
+214685|Olaf's Guest House
+214745|On The Cliff Guest House
+214757|Ons Genot Country Lodge
+214760|Onze Rust Guesthouse
+215072|Parker Cottage
+215168|Penny Lane Lodge
+215455|Peter's Guesthouse
+215477|Phantom View River Resort
+215604|Plumwood Inn
+215735|Premier Pinetown
+216405|Protea Clarens
+216406|Protea Transit O.R. Tambo Airport
+216407|Protea Samrand
+216409|Protea Waterfront Richards Bay
+216410|Protea Willow Lake
+216435|Pumula Lodge
+217191|Rhino Walking Safaris - Plains Camp/ Sleep Outs
+217353|Rivierbos Guest House
+217356|Rivonia B&B
+217451|Roseland House
+217456|Rosendal Winery & Wellness Retreat
+217478|Rouge on Rose Boutique
+217751|Sandton Lodge Inanda
+217752|Sandton Lodge Rivonia
+217754|Sandton Suites
+217865|Schoone Oordt Country House
+217898|Seacliffe Lodge
+217921|See More Guest House
+217969|Serene-estate Guesthouse
+218030|Shumbalala Game Lodge
+218062|Simbavati River Lodge
+218359|Stannards Guest Lodge
+218501|Sugarbird Manor
+218528|Summit Place Guesthouse
+218549|Sundown Manor
+218579|Sunshine Letting
+218605|Sweet Ocean View Guesthouse
+218615|Sylvan Grove Guest House
+218670|Tatenda Guest House
+218748|Thanda Vista B&B
+218891|The Cape Standard Guest House
+218911|The Charles
+219140|The Hideaway
+219166|The Hyde
+219341|The One 8
+219361|The Pearls of Hout Bay
+219364|The Peech
+219456|The Sandringham Bed and Breakfast
+219559|The Walden Suites
+219686|Tladi Lodge
+219849|Tudor Hotel
+219882|Turnberry Lodge & Tavern
+219938|Upperbloem
+219971|Val d' Or Estate
+220096|Victorian Villa Guest Manor
+220152|Villa Afrikana Guest Suites
+220171|Villa Atlantica
+220180|Villa Belle Ombre
+220214|Villa Costa Rose
+220332|Villa Lugano Guesthouse
+220364|Villa Montebello
+220380|Villa Paradisa Guest House
+220481|Villa Vittoria Guest House
+220486|Villa Zest
+220642|Wedgeview Country House & Spa
+220708|Westpoint Executive Suites
+220715|Whale View Manor Guesthouse
+220732|White House Lodge
+220814|Winelands Golf Lodges
+220957|Zuider Zee Guest House
+220996|3 Palms Luxury Cottage
+221029|African Pride Crystal Towers Hotel & Spa
+221189|Araluen Cottage
+221365|Bluewater Beachfront Guest House
+221761|Dolphin Inn Guesthouse - Blouberg
+222068|Grand Kruger Lodge CC
+222735|Manhattan Suites & Conference
+222897|Orchards Farm Cottages
+223124|Protea Island Club
+223299|Riversong Guest House & Cottage
+223317|Royal Kruger Lodge
+223424|Shelley Point Hotel, Spa & Country Club
+223446|Sleep Eezy Cottages
+223507|Stonehaven Lodge and Conference Centre
+223618|Trees Too Guest Lodge
+223818|Wild Olive Guest House
+226535|Quarters Hermanus
+226697|Protea Fire & Ice! Melrose Arch
+226807|Pepper Club Luxury & Spa
+226809|The Atlantic Beach
+227001|Mhondoro Lodge
+227002|Rissington Inn
+227007|Holden Manz Country House
+227009|Rutland Lodge
+227368|Boschenmeer Grande Lodge
+227968|Oubaai Hotel Golf & Spa
+227970|Views Boutique Hotel & Spa
+228158|Park Inn Sandton Hotel
+228159|African Rock
+228160|Granny Mouse Country House
+228161|Makhasa Lodge
+228162|Garden Court Umhlanga
+228164|De Hoop Nature Reserve
+228168|Shepherd's Tree Game Lodge
+228212|Legend Golf & Safari Resort
+228216|Amazulu Lodge
+228217|Elandela Lodge
+228227|Strand Tower
+228228|Milkwood Manor
+228231|Hanglip Mountain Lodge
+228391|Protea Bloemfontein Central
+228421|DaVinci & Suites on Nelson Mandela Square
+228422|Blue Waters 402
+228709|Avue Guesthouse
+228739|VIP Living Luxury Hotel Apartments
+229163|Docklands
+229164|On the Park
+229165|The Caledon Boutique & Spa Umhlali
+229166|Jozini Tiger Lodge
+229167|Fairview All-Suite Fairlands
+229600|Zwahili Game Lodge
+229612|Zebra Country Lodge
+229616|Whalesong Lodge
+229617|Whale Sanctuary Lodge
+229881|Flo-Ben Guest House
+229884|51 Forest Drive
+229930|Bluebottle Guesthouse
+229945|Cape Agulhas Guest House
+229947|Chameleon Lodge
+229970|Hawksmoor House
+229989|Keisie Cottages
+230038|Peermont Metcourt Khoroni
+230040|Metcourt at Frontier
+230052|Moonstruck on Pringle Bay Guesthouse
+230075|Oude Wellington Wine Estate
+230089|Petite Provence B&B
+230150|Radisson Blu Gautrain Sandton Johannesburg
+230151|The Manhattan
+230155|Premier Edwardian
+230160|Ruslamere Guest House, Spa and Conference Centre
+230161|Sandcastle B&B
+230162|Sea Otters Lodge
+230168|Sonnekus Guest House
+230180|Tranquility Guest House
+230785|Don Sandton IV
+230787|Life Phefumula Beach Resort
+231722|Mbotyi River Lodge
+231723|Thandeka Lodge
+232215|64 on Gordon
+232216|Canelands Beach Club
+232621|Cape Quarter Living
+232622|Rockwell All Suites
+232624|Holiday Inn Express Durban - Umhlanga
+232626|Holiday Inn Johannesburg - Rosebank
+232627|Protea Hatfield
+232790|Melvin Residence
+233485|African Elite Cape Quarter Apartments
+233488|African Elite Bakoven Apartments
+233489|Eden on the Bay
+233490|Aquarius Luxury Suites
+233491|Life & Leisure
+234336|Premier Knysna - The Moorings
+234338|Sweet Lemon Bed & Breakfast
+234442|The Reef
+234445|The Saint James on Venice
+234455|Smart Stay Apartments
+234644|Double Tree by Hilton Upper Eastside
+234891|The Last Word - Sea Five
+234892|The Last Word - Bishopscourt
+234893|The Last Word - Franschhoek
+234896|The Turbine Boutique & Spa
+234941|Peermont Metcourt at Rio
+235379|De Waterkant House
+235380|Premier Hotel O.R. Tambo
+235381|The Crystal
+235382|12 Decades
+237018|Maropeng
+237019|Umkumbe Safari Lodge
+237020|Pilanesberg Game Reserve
+237105|Madikwe Safari Lodge
+237148|Lalapanzi Guest House
+237265|Queen Victoria
+237267|Sweet Olive Guest House
+237269|Square Boutique Hotel & Spa
+237892|Delaire Graff Estate
+237899|Babylonstoren
+237903|131 on Herbert Baker Street
+238330|Park Inn by Radisson Cape Town Foreshore
+238701|The Old Hatchery
+238718|Pafuri Camp
+239116|Wartburg
+239297|Mjejane River Lodge
+240386|Devonshire
+240387|Orion Safari Lodge
+240390|Promenade
+240398|Zebula Golf Estates & Spa
+240406|Lawhill Luxury Apartments
+240409|Colourful Manor Luxury Lodge
+240426|The Marion on Nicol
+240428|Moloko Strathavon
+240430|AtholPlace
+240447|Genesis Suites & Conferencing
+240448|Fabz Garden Hotel & Conference Centre
+241278|Beach Break
+241282|Black Rhino Game Lodge
+241290|Chisomo Safari Camp
+241698|Riverstone Lodge
+241736|Champagne Castle
+244355|SanRock Resort
+244356|Kwantu Game Reserve Lodges
+245565|The Robberg Beach Lodge - Cottage Pie
+246466|Molori Safari Lodge
+247078|Abalone House
+247088|Prana Lodge
+247096|Tuningi Safari Lodge
+247234|The Glen Boutique
+247246|Pink Rose Guesthouse & Spa
+247410|Puza Moya Guest House
+247918|Protea Imperial
+249060|Christiana Lodge
+249313|Strandloper Ocean Boutique Hotel
+249895|Lovane Boutique Wine Estate and Guest House
+249965|Dulini Lodge
+259327|Protea The Richards
+259328|Protea Empangeni
+259330|Protea Ranch Resort
+259331|Protea Hilton
+259332|Protea The Park
+259333|Protea Landmark Polokwane
+259337|Protea Mafikeng
+259338|Protea Karridene Beach
+259341|Protea Kimberley
+259366|The Fritz
+259581|Leisure Bay Luxury Suites
+259584|Dove's Nest Guest House
+259966|Nkomazi Game Reserve
+260256|Villa Via
+260727|Coopmanhuijs Boutique Hotel & Spa
+260728|Mosaic Private Sanctuary
+260738|Fancourt & Fancourt Manor House - Fancourt Manor House
+260999|The Pearl of Oudtshoorn
+261002|The Pearl of Wilderness
+261216|The New Tulbagh
+261405|Leopard Corner Guesthouse
+261406|The Boardwalk Hotel & Spa
+261407|Azamare
+261567|The St James Manor & Seaforth
+261579|Protea Montrose
+261692|20 West Executive Apartments & Hotel
+264408|Constantia House
+264409|The Walden House
+264411|Alta Bay
+264412|Mount Sierra Hotel And Spa
+264413|Hotel Riviera
+269472|Somerton Manor
+269473|Firmount Lodge
+269475|Woodlands Guest House
+269478|Southern Cross Guest House
+269483|AlphaBed
+269484|Lalapanzi Lodge
+269485|185 Beach Road Villa and Apartments
+269487|Villa the President
+269488|Strandsig 407
+269489|Sunset Pint Guesthouse
+269490|Gordon's Bay Guest House
+269491|Oceana Palms
+269492|Blue Horizon Guest House
+269494|Wind-Rose Guest House
+269496|The Residences - Self Catering Apartments
+269498|Cape Hermitage
+269499|Majorca Self-Catering Apartments
+269500|Da Heim
+269503|Allstar Villa
+269504|5 Options - Guest House
+269505|Sunset-loft Guest House
+269506|Panaview Bed and Breakfast
+269509|La Roche Guest House
+269510|Afro Chic Guest House
+269512|Knightsbridge 105 - Apartment
+269515|Hill Top Guest House
+269516|Serengeti Self Catering Units
+269517|Meerendal Boutique Hotel
+269519|Palm House
+269520|Villa Coloniale
+269522|Beach House Hout Bay
+269523|Bayview Lodge
+269524|Hout Bay View
+269527|Dongola House
+269529|Poplar Tree Lodge
+269530|Kronendal Heritage Estate
+269531|St. Georges Lodge
+269532|Star Holiday Apartments
+269534|Morningside Cottage
+269535|Paradiso Guest House
+269536|The Inn At Castle Hill
+269537|Mariner Guest House
+269538|Makapa Lodge
+269539|Villa Honeywood Guest House
+269541|Afri Zola Guesthouse
+269542|Moonglow Guest House
+269543|African Queen
+269545|Magellan's Passage
+269546|26 Sunset Avenue Llandudno
+269547|Villa Simona Bed & Breakfast
+269548|Cascades on the Promenade
+269549|Mouille Grange 203 - Apartment
+269550|Enchanted Guest House
+269552|Derwent House
+269554|22 On Rose
+269555|Three Boutique
+269556|Liberty Lodge
+269557|Greenmarket Place Apartments
+269558|Grande Kloof Boutique Hotel
+269562|An African Villa
+269565|27 Bellevue Street
+269566|Dockside Apartments
+269567|Canterbury 501 Apartment
+269568|Cape Town Eagle's Nest
+269569|Cape Town Sea More - Express Tours and Guesthouse
+269571|Glaston House 206 Apartment
+269573|Canal Quays
+269574|Avanti Guest House
+269575|Vicmor Court 35 - Apartment
+269576|Sea Mount Studio
+269577|Glenlodge 401 - Apartment
+269578|Avatara
+269579|Atlantic Gold
+269580|3 on Camps Bay Boutique Hotel & Spa
+269581|Cape Atlantic
+269582|1109 The Decks at 67 Long Street
+269583|Simon's Town Guest House
+269607|Elephant Springs Hotel & Cabanas
+269608|Eco Eden Bush Lodge
+269611|Loerie's Call Guesthouse
+269612|Francolin Lodge
+269613|Nomndeni View Lodge
+269614|La Roca Guest House
+269615|Nomndeni Celokuhle
+269616|Global Village Guest House
+269618|Flamboyant Lodge & Restaurant
+269620|Rhino River Lodge
+269622|Druk-My-Niet
+269624|Alba House
+269625|Paddabult Self Catering Cottages
+269628|Clouds Estate
+269629|Marianne Wine Estate
+269630|Bonne Esperance Guest House
+269631|The Stables Lodge
+269632|Penelope's Guesthouse
+269633|Simonsberg Guest House
+269635|Hoopenburg Guesthouse
+269640|Bar-T-Nique Guest House
+269641|Amzee Bokmakierie Guest House
+269642|Die Fonteine
+269643|The Gumtree Guesthouse
+269644|88 Baron van Reede Guesthouse
+269645|Yamkela Guest House
+269646|Villa Rustique
+269648|Earthbound B&B
+269650|Edenwood Guest House
+269652|Hilltop Country Lodge
+269653|The Loerie's View
+269654|The Ocean View
+269656|The Old Trading Post - Guest House
+269658|Brenton Beach House
+269659|Bay View Guest Apartments
+269660|Bayhouse
+269661|Double Dutch B & B
+269664|Knysna Herons Guest House
+269665|African Jewel Lodge
+269666|Lavender Hill Guest House
+269667|Knysna Stays - Guest House
+269668|Augusta Bay Guest House
+269669|Bridgewater Manor
+269670|Brenton Hill
+269671|Grand Cafe & Rooms
+269673|Fynbos Ridge
+269675|Algoa Bay Bed & Breakfast
+269676|Mongoose Manor
+269679|Victoria & Alfred Guest House
+269681|Le Blue Guesthouse
+269686|Al Marrakesh Guest House
+269688|Villa Valencia
+269689|Westville Bed & Breakfast Guest House
+269690|Parkview Hotel
+269692|Mandalay B&B
+269693|The Grange Guest House
+269694|10 Woodlands Road B&B and Self Catering
+269698|Andaluz Boutique Hotel
+269699|The Concierge
+269700|The Crescent Guesthouse
+269701|Accomodation @ Chicken Shack Lodge
+269705|Foxwood House
+269706|Times Square Executive Suites
+269707|The Munday - B&B
+269708|Lourie Lodge
+269712|7th Street Guesthouse
+269713|Akuwaiseni House - B&B
+269715|The Syrene Boutique
+269718|Littlefield's Luxury Suite
+269719|Amber Rose Country Estate
+269721|Ninety North Guest House
+269723|The Regent
+269724|Northcliff Manor Guest House
+269725|Claires of Sandton
+269726|Thatchfoord Lodge
+269727|Sandton Boutique Hotel - 28A On Oxford
+269728|The Oasis Luxury Guest House
+269729|Crystal Duvet
+269730|Villa Simonne
+269731|St Peter's Place Boutique Hotel
+269732|Kilulu Lodge - Guest House
+269733|Villa Moyal
+269734|AshDown House
+269737|The Wesley
+269738|Liz's at Lancaster
+270424|Glen Marion Guest House
+270425|That's It Guesthouse
+270427|Crane's Nest Guest House @ 211
+270428|MacGregors Guest House
+270431|Goodey's Guesthouse
+270432|Dinkwe Lodge & Guest House
+270433|Crane's Nest Guest House @ 212
+270434|Crane's Nest Guest House & Spa @ 313
+270435|About Guest Lodge
+270436|Opikopi Guest House
+270438|Osborne House - Guest House
+270439|Coral Tree House - Guest House
+270440|Ithilien's Grace Guest House
+270442|Waterfalls Boutique Hotel
+270444|Manyatta Rock Camp
+270447|Gazebo Game Lodge
+270448|Buckler's Africa
+270449|Hamilton Parks Country Lodge
+271344|Mashutti Country Lodge
+271345|Addo Dung Beetle Guest Farm
+271347|Addo Afrique Estate
+271348|Hopefield Country House
+271349|De Old Drift Guest Farm
+271351|Valley Bushveld Country Lodge
+271353|Armagh Country Lodge & Spa
+271413|A White Rose Guest House
+271414|B&B at Bloem
+271415|African Lodge
+271419|The Resting Place Guesthouse
+271420|The Urban Hotel
+271423|Nautilus Cottage
+271424|Pelagus House
+271425|Hortensia Lodge
+271427|Baleens Guest House
+271428|AmaKhosi Guesthouse
+271431|Karoopark Guest House
+271432|Aristo Manor
+271434|Maputaland Guest House
+271436|Browns Manor
+273529|Lumleys Place B&B
+273530|La GaliniÃ¨re Guest Cottages
+273531|Le Manoir de Brendel Spa Wine
+273533|Maison Chablis
+273537|Ku De Ta B&B
+273538|Stille Woning
+274271|The Sleeping Bao B&B
+274272|Abbots Cove
+274273|Vuyani Lodge
+274274|Shikwari Luxury Bush Lodge
+274276|Khaya Ndlovu Manor House
+274277|Blyde River Wilderness Lodge
+274278|Kurhula Wildlife Lodge
+274280|Blyde River Canyon Lodge
+274306|Kleinkaap
+274307|Sekelbos Guesthouse
+274308|Pilgrims Delight
+274310|Hampton House - Guest House
+274461|Sunbird Lodge
+274465|Fusion Boutique
+274468|Nomndeni Lodge Zamabhele
+274470|Roosje van de Kaap
+274471|Old Thatch Lodge
+274474|Forest Creek Lodge
+274475|Floreat Riverside Lodge
+274476|Merry Pebbles Resort
+274480|Gunyatoo Trout Farm & Guest Lodge
+275689|Grand DÃ©dale Country House
+275888|Aston Woods B&B
+275889|Super Tubes Guesthouse
+275891|A1 Kynaston B&B
+275892|On the Beach Guesthouse
+275893|Hillcrest Self-Catering Holiday Apartment
+275894|JayBay House - Guest House
+275964|The Wacky Bush Lodge
+276077|Umdloti Letting
+276475|3Flavours Guest House
+276618|Esiweni Game Lodge
+276789|Nedile Lodge
+276834|Die Ou Pastorie - De Hoop
+277353|Aero Guest Lodge
+277354|Sunrock Guesthouse
+277356|Eagle Crest Executive Lodge
+277358|MoAfrika Lodge
+277359|Thatchings Guest House
+277360|Lemon3lodge
+279141|The Last Word Long Beach
+279142|Ambassador Self Catering Apartments
+279144|The Vagabond
+279145|Sweet Berries Holiday Houses
+279149|Point Of View Villa Guest House
+279184|Hampshire Hotel Ballito Durban
+279185|Life Hotel Ballito
+279186|Bizafrika Guest Lodge & Conference Center
+279189|10 2nd Avenue Houghton Estate
+279190|Cedar Park Hotel & Conference Centre
+279191|St Andrews Signature Hotel & Spa
+279192|Faircity Falstaff Hotel
+279193|Little Tuscany Boutique Hotel
+279194|Urban Hip Hotels - Splice Riviera
+279195|Faircity Mapungbwe Hotel Apartments
+279196|The Constantia Hotel
+279197|Ascot Boutique Hotel
+279198|Faircity Quatermain Hotel
+279202|The Fairway Hotel and Spa
+279275|Faircity Grosvenor Gardens
+279276|Faircity Roodevallei
+279277|Savoy Hotel Kimberley
+279278|Kuname River Lodge
+279280|Lion Sands Game Reserve - Ivory Lodge
+279447|Hotel Tzaneen
+279448|Addo Elephant Back Safaris & Lodge
+279490|Bains Game Lodge
+279491|Stanville
+279623|Montagu Springs Resort
+279695|Likweti Lodge & Sanctuary
+281411|Orion Velmore
+282859|Boulevard 44 Boutique
+283652|The Garden Court Blackrock
+284275|Protea Highveld
+284600|Peermont Metcourt at Umfolozi
+284757|Urban Hip Hotels -The Nicol
+284770|Shumba Valley Lodge
+284804|Shangri-La Country Hotel
+285969|Banksia Boutique
+285982|V&A Waterfront Marina
+286001|Mabalingwe Nature Reserve
+286002|Durban Sands
+286005|Oceanic Don
+286006|The Palace - geschlossen
+286008|Madibas Tide River Manor
+286015|La Montagne Resort And Spa
+286021|House Higgo Boutique House
+286027|Thaba Eco Hotel
+286099|The Villas Luxury Suite Hotel
+286101|Waterberry Hill Resort And Spa
+287521|Hotel Realou
+287522|Basse Provence
+287523|Rickety Bridge Country House
+288003|Zulu Camp Shambala Game Reserv
+289458|Club Mykonos
+292355|Bally High Guest House
+292357|Anabels
+292358|Flamingo Lodge
+292359|Umbrella Tree House
+292360|Old Mac Daddy
+292362|Arch Rock Seaside Accommodation
+292463|Bushmans Nek Hotel & Spa
+292500|Nyaru Game Lodge
+292501|African Vineyard Guest House
+292797|Club Break
+292798|i-Lollo Lodge
+292799|On the Spot B&B
+293003|Kapenta Bay Hotel & Conference Resort
+293019|Amazian Mountain River Lodge
+293020|Umzimkulu River Lodge
+294062|The Roundhouse Bed & Breakfast
+294063|Cliff Lodge
+294065|Sea Star Lodge
+294066|Umnenge Lodge
+294067|De Kelders Private House
+294074|Haga Haga Hotel
+294308|Sunbirds
+294740|Le Cozmo Guest House
+294744|Acra-Retreat Mountain View Lodge
+294745|Shamrock Arms Guest Lodge
+295221|Midlands Saddle & Trout
+295222|Kloppenheim Country Estate
+295224|Gethlane Lodge Hotel & Spa
+295372|Paradise Lodge
+295373|Days At Sea Beach Lodge
+295375|La Kruger Lifestyle Lodge
+295376|Phumula Kruger Lodge
+295377|Maqueda Lodge
+295378|Royale Marlothi Safari Lodge
+295379|Crocodile Kruger Safari Lodge
+295381|Zaganaga Lodge
+295382|Black Mountain
+295384|Vaalnest Boutique
+295387|Franskraal Bed & Breakfast
+295390|De Doornkraal Historic Country House Boutique
+295694|The Robberg Beach Lodge - Beachy Head Villa, Robberg House, Cottage Pie, Cordovan Villa
+296653|The Clarendon - Villa Fresnaye
+296655|The Clarendon - Villa Bantry Bay
+296752|Eight Bells Mountain Inn
+296763|Highgrove Guest House
+296771|Ulusaba Sir Richard Branson's Private Game Reserve - Rock Lodge Rooms & Suites & Cliff Lodge
+297152|Protea Christiana - geschlossen
+297811|Palm Cottage
+297815|Shayamoya Lodge
+297817|Kololo Game Reserve
+298116|Moorcroft Manor
+298117|Dunkeld Country Estate
+298146|Castello di Monte
+298159|Bonamanzi Game Reserve
+298167|Caledon Villa Guesthouse
+299119|Breakers Resort
+299142|Shamwari Game Reserve - Bayethe Lodge
+299165|Rhino Post Safari Lodge
+299167|Road Lodge Cape Town International Airport
+299172|Ulusaba Sir Richard Branson's Private Game Reserve - Safari Lodge Rooms & Suites
+299347|Fly Inn Lodge
+299355|Milkwood Bay Guest House
+299360|Ingeli Forest Lodge
+299404|Tarn Country House
+299517|Tala Private Game Reserve
+299535|Orange-Ville Guesthouse
+299551|Bamboo, the Guest House
+299555|Goble Palms Guest House
+299556|Vasnat Naturist Spa Resort
+299587|Sea Whisper Guest House
+299607|Lionsrock
+299710|City Lodge Fourways
+299712|City Lodge Hatfield
+299713|City Lodge Lynnwood
+300263|Mongena Game Lodge
+300366|Gateway
+300550|City Lodge O.R. Tambo Airport
+301514|Fairmont Zimbali Resort - Zimbali Resort / Zimbali Lodge
+301515|Fairmont Zimbali Resort - Zimbali Resort
+301528|Emperors Palace - Peermont Metcourt Suites
+310932|Protea Hotel Durbanville
+310982|Kaapkloof Manor
+311020|The Robberg Beach Lodge - Robberg House
+311023|Amakhala Game Reserve - Hillsnek Safaris
+311056|The Villas at Le Franschhoek
+311150|Kapama Private Game Reserve - Kapama River Lodge
+311151|Kapama Private Game Reserve - Kapama Southern Camp
+311153|Kapama Private Game Reserve - Kapama Karula
+311188|Sabi Sabi Luxury Safari Lodges - Selati Camp
+311189|Sabi Sabi Luxury Safari Lodges - Bush Lodge
+311190|Sabi Sabi Luxury Safari Lodges - Earth Lodge
+314170|Singita Krüger Nationalpark - Lebombo Lodge
+314172|Singita Sabi Sand - Ebony Lodge
+314173|Singita Sabi Sand - Boulders Lodge
+317225|Ikhaya Lodge
+317252|Wildebees Ecolodge
+317254|Middedorp Manor
+319935|Camdeboo Cottages
+324561|Everglades Hotel and Conference Centre
+332662|Hunters Rest
+335011|Touraco Guesthouse
+354417|The Gem
+354418|Thabankulu Game Resort
+354480|Allee Bleue Estate
+359681|The Gorge Private Game Lodge & Spa
+359686|La Cabriere Country House
+359687|Lavender Farm Guest House
+359688|Val du Charron
+359703|Whale Coast
+359779|Fancourt & Fancourt Manor House
+363246|Sanbona Wildlife Reserve - Dwyka Tented Lodge
+363247|Sanbona Wildlife Reserve - Gondwana Lodge
+363528|Urban Park
+367764|Coastlands Umhlanga Hotel-convention C
+367778|Albany
+367780|Hyde Park Villas
+367850|Cricklewood Manor
+367851|Morning Star Express (ms)
+368210|Tenahead Lodge
+369284|Euphoria Golf Estate And Hydro
+369288|The Royal Elephant Hotel & Conf (sl)
+369818|Esprit Executive Apartments (ea)
+369819|Hydro Executive Apartments (ea)
+369820|The Capital Villa
+371669|Evander Villas
+371674|The Ballinrobe
+372920|Timbavati Safari Lodge
+374436|Sbh Pretoria
+381600|Castleburn
+391733|Empire Executive Apartments & Hotel
+391868|Verde
+391921|Garden Court Milpark
+399761|Sanchia Luxury Guesthouse
+399809|Protea Hotel O.R. Tambo Airport
+400768|Madi Madi Karoo Safari Lodge
+405251|Rhino Ridge Safari Lodge
+406260|Dutch Manor Antique Hotel
+406261|Goblin's Mead
+406262|Kings In Cape Hotel & Restaurant
+407167|Marakapula Reserve
+407233|Villa Tuscana
+407746|St. James Homestead
+407794|Komati River Chalets
+407805|Somerset Villa
+407807|The Aviator Hotel OR Tambo
+407832|Legend Golf and Safari Resort
+413035|Kariega Game Reserve - Settlers Drift
+414826|Saronsberg Vineyard Cottages
+414827|Sea Villa Glen Craig
+417531|Zulu Nyala Safari Game Lodge & Heritage Safari Lodge

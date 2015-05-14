@@ -1,0 +1,327 @@
+8550|Hotel Amapola
+8557|Los Delfines Golf & Country Club
+8562|Barceló Langosta Beach
+8563|Barceló Tambor Beach
+8565|Barcelo San Jose Palacio
+9460|Cala Luna
+9675|Capitan Suizo
+9738|Doubletree Central Pacific - Costa Rica
+11968|El Jardin del Eden
+11975|El Milagro
+11989|Parador Resort & Spa
+12791|Flamingo Marina Resort
+12801|Fleur de Lys
+13202|Giada
+13544|Grano de Oro
+14982|Best Western Jaco Beach Resort
+15959|Las Brisas del Pacifico
+16522|Los Suenos Marriott Ocean & Golf Resort
+17056|Costa Rica Marriott Hotel San Jose
+17229|The Westin Golf Resort & Spa, Playa Conchal
+18184|Allegro Papagayo Resort
+18187|Autentico
+19216|Pochote Grande
+19502|Pueblo Dorado
+19529|Punta Cocles
+19538|Punta Islita, Autograph Collection
+19540|Punta Leona
+21608|Si Como No
+22523|Tamarindo Diria Beach
+22531|Tango Mar Golf Beach Resort
+22632|Terraza del Pacifico
+23660|Vesuvio
+23808|Villa Caletas
+23996|Villa Romantica
+24028|Villa Teca
+27088|Atlantida Lodge
+27089|La Mariposa
+27090|Finca Valverde
+27091|Radisson San Jose Costa Rica
+27092|Britannia
+27093|Casa Turire
+27835|La Mansion Inn
+32037|Casitas Eclipse
+32113|Occidental El Tucano & Spa
+38434|Alta
+38435|Doubletree Cariari by Hilton
+38494|Palma Real Hotel
+38541|Parque del Lago Boutique Hotel
+38542|Giardini di Papagayo
+38926|Hilton Papagayo Resort
+38954|Fonda Vela
+38955|Trogón Lodge
+41470|Balmoral
+41474|Pachira
+41475|Ocotal Beach Resort
+41476|La Foresta Nature Resort
+41477|Heliconia
+41480|La Quinta Sarapiqui
+41481|Arenal Vista Lodge
+41484|Mar de Luz Jaco
+46394|Las Cabañitas
+46395|Tilajari
+46396|Villas Rio Mar
+46399|Buena Vista Lodge
+46412|Almonds & Corals
+46413|Arenal Paraiso Resort & Spa
+46414|Holiday Inn San Jose-Aurola
+46415|Best Western Irazu Hotel & Casino
+46417|Cariblue Beach & Jungle Resort
+46418|El Establo
+46419|Fuego del Sol
+46420|Wyndham San Jose Herradura Hotel & Convention Center
+46421|Jungla Lodge
+46422|La Condesa Monte de la Cruz Hotel & Villas
+46429|Quality Real San Jose
+46431|Rincon del Valle
+46432|Selva Verde Lodge & Rainforest Reserve
+46433|Suerre Caribbean Beach
+46434|Suerre Guapiles
+46437|Trapp Family Lodge
+46438|Crowne Plaza Corobici
+46611|Makanda
+46613|Four Seasons Resort
+47980|Karahé
+49715|Intercontinental Real San Jose - Costa Rica
+51481|Los Lagos
+51483|Rio Perlas Spa Resort
+52782|Guanamar
+52993|Tabacon Grand Spa Thermal Resort
+52994|Arenal Observatory Lodge
+52995|Arenal Lodge
+52996|Courtyard San Jose Escazu
+53113|Occidental Grand Papagayo
+53719|Casa Caletas Boutique
+60835|Arenal Jireh
+61138|Luigi's
+61267|Estela de Fuego
+61282|Evergreen
+61294|Monte Escondido
+61614|Gran Costa Rica
+61615|Arenal Springs
+61713|Lavas Tacotal
+61722|Colon Caribe
+61723|Turtle Beach Lodge
+61733|Laguna Lodge
+61852|Club del Sol
+61853|Club del Mar
+63709|Sleep Inn Paseo Las Damas
+64568|Bahia del Sol
+64632|Los Yoses
+64633|Don Fadrique
+64844|Holiday Inn Express San Jose Costa Rica Airport
+64846|Hampton Inn & Suites San José - Airport
+67804|Country Inn & Suites by Carlson San Jose
+70190|Bosque del Mar
+70918|Luz De Mono
+70921|Mirador Lodge
+70922|White House
+71382|Casa Corcovado Jungle Lodge
+71383|Samara Beach
+71384|Arenal Kioro Resort & Spa
+71385|Samoa Lodge & Resort
+71386|Cristal Ballena
+71892|Country Club Happy Land
+71893|Arenal Pacifico
+73975|Casa Conde
+75949|Magica Cantarrana
+76405|Cuna del Angel
+76588|Belvedere
+76880|Paraiso Carlisa
+76881|Tierras Enamoradas
+76882|Casa Conde del Mar
+77552|Borinquen
+77554|Villa Lapas
+77556|Belmar
+77560|Horizontes Montezuma
+77561|Lapa Rios
+77562|Luna Azul
+77563|Suizo Loco Lodge
+77595|Orosi Lodge
+78388|Travelers Inn
+80068|Ecoplaya Beach Resort
+80069|Santo Tomas
+80070|Balcon del Mar
+80071|Arenal Country Inn
+80263|Arenal Rossi
+80264|Cataratas Resort
+80270|Mawamba
+80276|Cloud Forest Lodge
+82062|California
+82063|La Catalina & Suites
+84350|Garden Court Express San José Downtown
+84351|Best Western El Sitio Hotel & Casino
+84353|Best Western Casino Kamuk
+84354|Best Western Tamarindo Vista Villas
+84445|Aeropuerto Hotel
+84448|Martino Resort & Spa
+85184|Sugar Beach
+85185|Canciones del Mar
+88122|Robledal
+88128|Rincon De San Jose
+88132|Bergerac
+88150|Clarion Amon Plaza
+88164|Kekoldi San Jose
+88270|Costa Rica Tennis Club & Hotel
+88573|Mirador de Samara
+88673|TRYP San José Sabana
+88903|Bahia Esmeralda
+90054|Arenal Manoa
+90577|La Leona Eco Lodge
+90578|Golfo Dulce Lodge
+90580|Azania Bungalows
+90584|Buena Vista
+90591|El Bambu
+90601|Eco Lodge
+90602|Volcano Lodge
+90604|Arenal Volcano Inn
+90606|Lomas del Volcan
+90613|Lagarta Lodge
+90614|Mangaby
+90615|Canon de la Vieja Lodge
+90616|Las Espuelas
+90617|Hacienda Guachipelín
+90622|Villas Gaia
+90626|Esencia
+90686|L'Acqua Viva Resort
+90796|Europa
+91114|Peace Lodge
+92431|El Rodeo Estancia Boutique Hotel
+93370|Arenas Del Mar Beach & Nature Resort
+93371|Villa Del Sueno
+93467|Totem Beach Resort
+93469|Mountain Paradise
+93470|Villa Tournon
+93472|Taylor Inn
+93475|Vista Bahía Beach Resort
+95578|Villas Sol Hotel & Beach Resort
+96795|Campo Cano Negro
+96834|Flamingo Beach Resort & Spa
+96837|Buganvillea Resort
+100347|Arena Blanca
+100974|Pacuare Lodge
+102677|Nayara Hotel, Spa & Gardens
+103796|JW Marriott
+103871|Adventure Inn
+105494|Bougainvillea
+105672|Casa Roland
+106725|Divisamar and Casino
+107544|Hemingway Inn
+108549|Lost Iguana Resort
+108563|Luna Llena
+109498|Orquideas Inn
+109718|Presidente
+110428|Le Caméléon Boutique Resort
+110559|Alma Del Pacifico
+111253|The Sanctuary Resort
+111584|Villaggio Flor de Pacifico
+124207|Magic Mountain
+124208|Reserva Conchal
+124210|Daystar Bahia Azul
+124211|Daystar Bahia Encantada
+124212|Daystar La Paloma Blanca
+124213|La Palmera
+124214|Best Western Villas Lirio
+124215|Poco a Poco
+124218|Tirol
+128045|Palmeral Dorima
+130740|Playa Bejuco
+136277|El Silencio Lodge & Spa
+136315|Playa Nicuesa Rainforest Lodge
+136317|The Harmony
+136318|Ylang Ylang Beach Resort
+136319|Tropico Latino
+136321|Tambor Tropical
+136322|Timarai Bamboo Beach Resort
+136323|Gaia Reserve
+136762|Royal Corin
+138034|Sol Papagayo Resort
+139043|La Fortuna
+139107|Mediterraneus & Spa
+139335|Sarapiquis Rainforest Lodge
+143096|Wagelia Dominicana
+151356|Beacon Escazu
+151372|Casa Luna Lodge
+151410|Hilton Garden Inn Liberia Airport
+151463|Dunn Inn
+151528|Poseidon Y Restaurante
+151595|La Baula Lodge
+151605|Montana de Fuego
+151639|Recreo
+151658|The Springs Resort & Spa
+182535|Riu Guanacaste
+182812|El Paso de las Lapas
+182883|Ciudad Perdida Ecolodge
+182886|Villas Playa Sámara
+183404|Best Western Camino A Tamarindo
+183412|Hacienda Pozo Azul
+183413|Inn on the Park
+183414|Monterey Del Mar
+187350|Buena Vista Luxury Villas & Tulemar Bungalows
+187449|Manatus
+202925|The Zancudo Lodge
+226536|Indigo San Jose Forum Costa Rica
+226540|Apartamentos Massai
+226541|Corcovado Pura Vista EcoCamp
+226542|Celeste Mountain Lodge
+226783|Morgans Cove Resort
+226785|Villa Creole
+226909|Leyenda
+227119|Rio Celeste Hideaway
+227479|Aparthotel & Suites Villas del Rio
+228382|Monteverde Country Lodge
+228887|La Finisterra
+228896|Villa Bosque
+228954|Sol Samara
+228955|Residence Inn San Jose Escazu
+232217|Byblos Resort & Casino
+233303|KC San Jose
+233304|Plaza Real
+233479|La Colina
+233480|Manala
+233486|La Laguna del Cocodrilo
+233493|Villa Acacia
+233648|The Falls Resort
+235181|Issimo Suites
+235360|Las Brisas Resort and Villas
+236159|Heliconias
+236356|Costa Rica Morazan
+236357|Daystar The Palms
+236358|Las Tres Banderas
+236364|Daystar Diamante del Sol
+236366|Grand Tara
+236896|Kayak Lodge
+237599|Pacifico Lunada
+237601|Royal Dutch
+237617|Marina Loft Condos
+237619|Heliconia Island
+237809|Tropical Gardens Suites & Apartments
+239432|Rip Jack Inn
+239434|Green Lagoon Falls Park Lodge
+239435|De Montana Suria
+239553|Villas del Caribe
+240162|Villa Blanca Cloud Forest
+240206|Samara Inn
+240207|Chachagua Rainforest
+241401|Casa Roland Marina Resort Golfito
+241669|Studio
+243638|Holiday Inn San Jose Escazu
+247237|Colours Oasis Resort
+247256|Villa Roca
+247723|Vista las Islas
+252676|Rancho Corcovado
+252934|Casa Cristal Boutique
+253681|Sunset Inn
+258018|Zephyr Palace
+260338|Cocomar Residences & Beachfront
+260600|Riu Palace Costa Rica
+260640|Aloft San Jose
+279426|Ficus Sunset Suites
+300125|Park Inn by Radisson San José, Costa Rica
+310979|Shana Hotel
+366845|El Mangroove
+366858|Hyatt Place San Jose Pinares
+367634|The Preserve at Los Altos
+387797|Savegre Hotel
+405288|Dreams Las Mareas Costa Rica
+406123|Andaz Peninsula Papagayo Resort

@@ -1,0 +1,204 @@
+13401|Grand Hyatt Taipei
+18670|Paradise
+31790|Leo Foo
+40613|Golden China
+40614|Santos
+52449|Regent Taipei
+52450|Riverview
+52451|Howard Plaza
+52452|Howard Plaza
+52453|Howard Plaza
+52455|Silks Place Taroko
+53056|The Landis Taipei
+53057|The Lalu
+57654|The Grand
+58027|The Splendor Taichung
+60850|Sunworld Dynasty
+64077|Sheraton Taipei
+64078|Taipei Fullerton East
+68660|Holiday Garden
+68661|Howard Prince
+68662|Plaza International
+82247|Imperial Hotel Taipei
+88314|Shangri-La's Far Eastern Plaza
+88462|Les Suites Taipei Ching-Cheng
+88463|KDM
+88464|Les Suites Taipei Da-An
+88465|Caesar Park Taipei
+88507|Taipei Hotel B
+88579|Han-Hsien International
+88604|City Suites Nanxi
+88607|Ambience
+88615|Zimei Business
+88616|Star Beauty
+88622|San Want
+88640|City Hotel Taipei
+88643|Ahotel
+88650|Toong Mao
+88657|Grand Hi Lai
+88710|Meadow
+88800|Tayih Landis
+88924|Sunshine Hotel
+89077|Royal Hsinchu
+94624|Four Points by Sheraton Taipei
+103733|Ambassador
+103776|Miramar Garden Taipei
+104003|Ambassador
+105823|Maison de Chine Chiayi
+105856|Chungli Chinatrust
+106935|Evergreen Laurel Taipei
+107080|First
+107941|Chateau de Chine
+108153|Chateau de Chine Kaohsiung
+108165|Chinatrust Inn - geschlossen
+108599|Mandarin Oriental Taipei
+110306|Riviera
+111101|Taichung Maison de Chine
+111148|Ambassador
+111256|The Sherwood Taipei
+111445|United
+121538|Gloria Prince
+129835|Lakeshore
+129836|The Crystal Resort Sun Moon Lake
+129837|Del Lago
+129838|Evergreen Laurel
+129839|One
+129842|Westin
+129845|Royal Seasons Taipei
+129847|Wonstar SongShan
+129850|Sunroute
+133236|Marshal
+133237|C'est Jeune (Royal)
+133240|Kingdom
+133241|The Lees
+133242|Lees Boutique
+133255|Gala
+133256|Brother
+133262|Royal Inn Nanxi
+133263|Welcome
+133265|Leader
+133267|Royal Castle
+133276|Rainbow Hotel
+133279|Puri
+133280|Royal Biz
+133281|Royal Taipei
+134219|San Want Residences
+137051|Chateau de Chine Taoyuan
+137173|Howard Beach Resort
+137254|Fullon Hot Spring Resort
+137350|Dynasty
+137406|Evergreen Laurel
+137411|Formosan Naruwan
+137882|Caesar Park Kenting
+137885|Taoyuan
+137903|Taipei Garden Hotel
+137928|Tienlai Spring Resort
+137936|Fullon Taoyuan
+137945|Holiday Inn East
+137946|Fullon Taipei
+137960|Sun Spring Resort
+137964|City Suites Gateway
+137977|Fullon Sanyin
+137984|Fullon Jhongli
+137990|Queena Chinatrust Landmark
+138375|Kuva Chateau
+138541|Taipei Fullerton South
+143344|Sweetme Hotspring Resort
+143345|Grand
+162992|Dion
+162993|Grand Victoria
+162998|Holiday Inn Express Taoyuan
+163003|Evergreen Plaza
+163012|Taipei Lotty
+163015|Hualien Far Glory
+163021|YOHO Landis Beach Resort
+163030|Chuto Plaza
+163035|Azure Hualien
+163043|Eight Zone
+183147|Fortune Haiyatt
+202159|Parkview
+202387|HD Palace
+202650|Novotel Taipei Taoyuan International Airport
+202651|Eclat
+202655|Royal Seasons Hot Spring Beitou
+227630|Park Taipei
+227865|Forte Orange Linsen
+230575|Monarch Plaza
+233733|Grandee Taipei
+233790|Holiday Inn Express Taichung Park
+233792|Roumei Boutique
+233795|Fullon Linkou
+233893|Emperor
+234631|Fullon Kending
+234632|Fullon Shenkeng
+234637|Monarch Skyline
+234638|Sheraton Hsinchu
+234888|Tempus
+236571|Just Sleep Linsen
+236572|Just Sleep Ximending
+237719|Shangrila Boutique
+237721|Fullon Fulong
+237722|Fullon Kaohsiung
+237723|Fullon Hualien
+237724|Wulai Pause Landis Resorts
+237725|Tango Taipei XinYi
+238624|National
+238626|Yiyuan Resort
+238627|Tainan
+238629|Premier Tainan
+238720|Golden Star
+238721|Rido
+238722|Le Petit Sherwood
+238725|Palais De Chine
+238727|Beautique
+238728|Taoyuan Zai Yan Leader
+238733|Wonstar (Xi Men)
+238738|Landis Inn Lotung
+238739|Art Spa
+238965|The Metro
+238966|W Hotels Taipei
+240670|Hung's Mansion
+240673|Quote Taipei
+240677|Home Hotel
+240679|Sense
+240680|Landmark Inn Hsin-Chuang
+241752|Hotel June Taipei
+241754|Hotel 73
+241755|Dandy (Daan Branch)
+241756|CityInn II
+243967|Huang Shin Business
+243972|Beacon
+243979|Leofoo Resort Guanshi
+243983|Leofoo Resort Kending
+243990|Taipei International Hotel
+243996|Tokyo International
+244000|Fu-Hau
+244003|New Continental
+244004|Master Inn Taipei
+244005|CityInn Hotel Taipei Station Branch I
+244006|CityInn III
+244011|Dandy (Tianmu Branch)
+244012|Dandy (Tianjin Branch)
+244016|FX Hotel Taipei Nanjing East Road
+244346|Le Meridien Taipei
+244348|Silks Place Yilan
+246410|In One City Inn
+246411|Wish Hotel
+246412|MRT Taipei
+246413|Legend Kaohsiung
+246414|Forward Taipei
+246415|Forward Nangang Branch
+246416|Forward Suites
+246954|Purity
+249315|Airline Inn
+249320|Amba Taipei Ximending
+259449|Chateau de Chine Sinjhuang
+260706|Taipei Aqua Bella
+265487|CityInn Hotel Plus (Taichung Station Branch)
+279864|Gallery Hotel
+279883|Volando Urai Spring Spa and Resort
+279886|Hotel G7 Taipei
+281913|City Suites Taichung Wuquan
+299203|Luminous Hot Spring Resort & Spa
+392079|85 Sky Tower Hotel
+406456|Royal Inn Linsen

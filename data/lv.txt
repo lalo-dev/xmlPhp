@@ -1,0 +1,125 @@
+13468|Grand Palace Hotel
+19788|Radisson Blu Daugava
+31737|Bellevue Park Hotel Riga
+32186|Gutenbergs
+32189|Radisson Blu Latvija
+34221|Centra
+34222|Radisson Blu Ridzene
+34224|Europa City Amrita, Liepaja Hotel
+34225|Kolonna Cesis
+34227|Livkalns
+34229|O.K. - Hotel
+36619|Metropole
+39748|Konventa Seta / Konventhof
+40431|Lielupe
+53269|Riga
+56002|City Hotel Teater
+56369|NB Riga
+56377|Tia
+56464|Avitar
+56503|St.Peter's Boutique
+56504|Bergs
+56506|Schlosshotel Mezotne
+63425|Saulite
+64036|Albert
+64037|PK Riga Hotel
+68192|Monika
+68685|Jurnieks
+69544|Sigulda
+69545|Days Hotel Riga
+69546|Liva
+69547|Latgola
+69561|Jurmala Spa
+70799|Dikli Palace
+71479|Balthostel
+75499|Ekes Konvents
+75618|Kolonna Riga
+78279|Tomo
+78280|Baltpark
+78281|Islande
+79842|Clarion Collection Valdemars
+82466|Europa Royale Riga Hotel
+83733|Best Riga
+84415|Sesame
+85302|Pegasa Pils Spa
+86058|Baltic Beach
+88780|Toss
+89083|Garden Palace Boutique
+89112|Radi un Draugi
+93151|Kolonna Brigita
+93683|Man-Tess
+93684|Hanza
+93685|Radisson Blu Elizabete Hotel
+95776|Opera Hotel & Spa
+97454|Avalon
+99210|Annabella
+100309|Royal Square
+109153|Monte Kristo
+127176|Tigra
+127348|Eiropa
+132682|Knights Court
+137715|Wellton Gertrude
+138655|Art Laine
+138878|Wellton Elefant
+139027|Irina
+139494|Viktorija
+159421|Segevold
+159427|Amber Sea
+159428|Vecriga
+159429|Kolumbs
+159430|Riverside
+159434|Circus
+159435|Baltvilla
+159436|Skanste
+159438|Promenade
+159440|Aparjods Hotel & Restaurant
+183639|Osta
+183640|Elizabeth's Youth Hostel
+183641|Justus
+205690|B&B Riga
+206411|Boutique Mama
+207143|Central Hostel
+208423|Dome Hotel & Spa
+208631|Dzintara
+208816|Elizabete
+209483|Gallery Park
+212026|Karlamuiza
+214703|Old Riga Apartments
+214704|Wellton Old Riga Palace
+215537|Pils
+216370|Primo
+218243|Spa Ezeri
+220296|Villa Joma
+222389|Jurnieka Ligzda
+223281|Rezidence Kurzeme
+227378|Tallink Riga
+229678|Atputa
+229689|Libava
+229711|ABC Hotel Riga Airport
+229713|Baltic Suites
+229717|Wellton Terrace Design
+230469|Tiger Hostel
+232594|Neiburgs
+232884|A1
+234418|Old City Boutique
+264905|Royal Casino Spa & Resort Hotel
+272942|Marijas Apartments
+272945|Red Nose - Hostel
+274401|Sun Shine Apartments
+274402|Sunny Side Apartments
+274403|Liena Cottages
+295405|Sventes Muiza
+322390|Unimars Hotel Riga
+368804|Aparthotel Autosole Riga
+368806|Motel Autosole Riga
+368807|Rafael Hotel
+380133|Rigaapartment
+380136|Airport Hotel Sky-High
+380138|Port Hotel
+382315|Amber Spa Boutique Hotel
+391055|Wellton Centrum Hotel & Spa
+405525|Astor Riga Hotel
+406727|Mercure Riga Centre
+411166|ibis Styles Riga
+414608|New Boutique Hotel
+414618|Hotel Roma

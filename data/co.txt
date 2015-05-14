@@ -1,0 +1,555 @@
+9743|Caribe
+10518|Decameron Cartagena
+11222|De la Opera
+11268|Royal Decameron Isleño
+11269|Decameron Galeon
+11270|Decameron San Luis
+21097|Charleston Santa Teresa
+22374|GHL Sunrise
+22403|Royal Decameron Aquarium
+22404|Royal Decameron Marazul
+22595|Crowne Plaza Tequendama
+48054|Ballena Azul
+48056|Decameron Isla Palma
+48057|Hilton Cartagena
+48058|Tres Banderas
+48060|Monterrey
+48061|Irotama
+48063|Las Americas Resort, Spa & Convention Center - Las Américas Casa de Playa
+48065|San Pedro de Majagua
+48067|Sol Arhuaco
+48068|Tamaca
+48069|Zuana Beach
+48121|Casablanca
+48125|Lord Pierre
+48130|Sol Caribe Campo
+48131|Sol Caribe Providencia
+48132|Sol Caribe San Andres
+51454|Decameron Maryland
+55296|Hacienda Royal
+55297|Bogota Plaza Summit
+55298|Andino Royal
+55300|Boheme Royal
+55301|Dann Carlton Bogota
+55302|Radisson Royal Bogota
+65331|Embassy Suites Bogota Rosales
+68597|Chicamocha
+68598|Santafé Boutique
+84035|Dann Combeima
+84099|Poblado Plaza
+84114|Tequendama Inn Estacion
+84123|Estelar Suites Jones
+84124|Estelar Paipa & Centro de Convenciones
+84126|Estelar Las Colinas
+84127|Estelar Oceanía
+87951|Dann Monasterio
+87953|Nutibara Conference Plaza
+88183|Bahia
+88187|Cocoplum
+88188|Obelisco Cali
+88189|Don Jaime
+88247|Metropolis Plaza
+88304|Nevada
+88403|Bocagrande
+88472|Andes Plaza
+88525|Four Seasons Casa Medina
+88566|Mediterraneo
+88577|Dorado Plaza
+88578|Club Cartagena Plaza
+88587|Isla Arena Beach Club
+88646|GHL Capital
+88647|Morrison
+88706|Richmond Suites
+88787|Radisson Royal
+88788|Bogota Royal
+88792|Estelar La Fontana Hotel & Apartmentos Bogota - La Fontana Hotel
+88795|Almirante Cartagena
+88798|Estelar de la Feria
+88810|Charleston Bogota
+88864|Dann Carlton Medellin
+88889|Casa Dann Carlton
+88890|Dann Carlton Bucaramanga
+88891|Dann Carlton Cali
+88893|Dann Carlton Barranquilla
+88895|San Felipe
+88896|Belfort Dann Carlton
+88899|Dann Avenida 19
+88901|Dann Norte
+88907|Dann Cali
+88921|GHL Hamilton
+88974|GHL Comfort Belvedere
+89099|Howard Johnson Emaus
+91297|Abadia Colonial
+91301|Sofitel Legend Santa Clara Cartagena
+92389|Sofitel Bogota Victoria Regia
+92390|Sheraton Bogota
+92391|Barranquilla Plaza
+92392|Agua
+92393|El Marques Boutique
+92394|Park 10
+92395|Porton Medellin
+92396|Estelar Santamar y Centro de Convenciones
+93917|Lancaster House
+94257|Intercontinental Medellin
+94258|Four Points Medellin
+94406|InterContinental Cali by Estelar
+94407|Four Points Cali
+97944|Tropical Inn Isla Tierrabomba
+99588|Alfiz
+99748|Poblado Alejandría
+105617|Capilla Del Mar
+106451|GHL Comfort Costa Azul
+108344|Las Americas Resort, Spa & Convention Center - Las Américas Torre del Mar
+108351|Movich Hotel Las Lomas
+108791|Cosmos 100
+109574|Park House 101
+109746|Puerta Del Sol
+110894|Estelar Altamira
+111335|Torre de Cali Plaza
+111662|Estelar Windsor House
+124203|RoyalPark Metrotel
+124204|Pavillon Royal
+124205|Excelsior
+124206|104 Art Suites
+130738|Regency
+130739|Costa Del Sol
+135512|Hoteles America
+135519|Medellin Royal
+135520|Casa del Arzobispado
+138638|Aparta Eslait
+138652|Armenia
+138674|Bantu & Life Style
+138719|BH el Retiro
+138758|Carretero
+138831|Dann Cartagena
+138903|Fontamar
+138940|Park Inn By Radisson Bogota
+139042|La Floresta Campestre
+139183|Playa
+139191|Plaza Versalles
+139261|Regatta Cartagena Suites
+139321|San Francisco Bogota
+139322|San Francisco Santa Marta Rodadero
+139333|Santorini & Resort
+139334|Santorini Boutique
+139364|Sol Caribe Sea Flower
+139491|Varuna
+143101|Decameron Boutique Los Delfines
+151333|Affinity Suites Aparthotel
+151358|Best Western Cyan Suites
+151368|Casa Zuetana 106
+151373|Casa Real
+151374|Celebrities Suites
+151385|Country International
+151389|Egina Bogota
+151390|Egina Medellin
+151392|Embassy Park
+151400|GHL Comfort Los Heroes
+151408|Habitel
+151447|Casa la FE
+151485|Internacional la Triada
+151519|Parque 97
+151523|Platinum Suite
+151547|San Martin Cartagena
+151598|La Merced Boutique
+151599|Le Manoir
+151600|Leblon Suites
+151601|Lugano Imperial Suites
+151614|Novelty Suites
+151645|Rosales Plaza
+151647|San Fernando Plaza
+183212|American Dream
+183213|San Pietro
+183214|Casa Cabal - geschlossen
+183215|Casa del Curato
+183216|Bóvedas de Santa Clara
+183217|Casa India Catalina
+183218|Barahona 446
+183220|Hostal De Federman
+183221|Casa Polty
+183222|Escorial
+183223|Estelar Recinto del Pensamiento & Centro de Convenciones
+183391|Hill House Suites
+183393|Estelar Milla de Oro
+183394|Porton Bogota
+183396|Plaza Rosa
+183397|Casa Lola
+183398|Cabo De La Vela
+183399|Estelar Blue
+190088|Platypus
+227112|Charlotte Plaza 26
+227114|Cité Bogotá by Cosmos
+227115|Plaza Granada
+227116|GHL Comfort San Diego
+227118|Windsor Cali
+227468|Casa Quero
+227469|Plazamar Boutique
+227470|Santa Monica
+227471|American Golf
+227472|Cartagena De Indias
+227915|Royal Decameron Baru
+227916|Anandá Boutique
+227917|El Delirio
+228144|Don Pedro de Heredia
+228145|Casa de la Botica
+228146|Blue Suites
+228189|Casa Deco
+228470|Club House Bogota
+228471|Charlotte
+228472|Estelar El Cable
+228473|Estelar Apartamentos Medellín
+228474|Sicarare
+228950|Cartagena Millennium
+229108|Cartagena Premium
+229109|Tequendama Inn Santa Marta
+229110|Radisson ar Bogotá Airport
+230347|Casa Santa Ana
+232186|Barlovento
+232187|Casa Pestagua
+232188|DIEZ Colombia Category
+232347|Decalodge Ticuna
+233055|Tequendama Inn Cartagena De Indias
+233057|Holiday Inn Express Medellin
+233187|Cosmos 116
+233270|Best Western Atlantis Suites
+233271|Arlington Place
+233272|GHL 93
+233275|Charlie's Place
+233279|Virrey Park
+233282|Alcazar de Oviedo
+233283|Art Hotel Medellin
+233285|Botero Plaza
+233286|Florencia Plaza
+233288|Gran Medellin
+233289|Portal del Rodeo
+234969|The Charlee
+235183|La Campana Boutique
+235186|Portales del Campestre
+235343|Poblado Campestre
+235344|Continental
+235708|Quadrifolio
+236062|Zaguán de la Huerta
+236365|El Duque Centro Internacional
+236374|Holiday Inn Express Bogota
+236375|Zalmedina
+236465|Jazz Apartments
+236470|Casablanca
+236473|Astra Suite 427 Hotel Galeria
+236502|Apartasuites Las Vegas
+236503|Las Vegas Granada
+236759|Boutique Alma
+236760|Ramada Bogota Belle Époque
+236761|Guadalajara
+237365|Estelar Grand Playa Manzanillo by Occidental Hotels and Resorts
+237580|Estelar En Alto Prado
+237583|Smart Suites Royal
+237585|Vizcaya Real
+237589|Sport Barú
+237590|Punta Faro
+237591|Bolivar
+238097|Casa Mara
+238342|Allure Bonbon
+238343|Tryp Medellin
+238345|Sonesta Bogotá
+238348|Luxor Plaza
+238349|Marriott Bogota
+238351|JW Marriott Bogota
+238815|Sonesta Beach Resort Cartagena
+238816|Sonesta Barranquilla
+238817|Sonesta Valledupar
+238944|Casa Relax
+239431|Casa Canabal Boutique
+239890|Hotel MS Oceania
+239892|Centro Internacional
+239893|Tivoli Suites
+239947|Cabrera Imperial
+239949|Boutique La Habana Vieja
+240786|Genova
+240787|Howard Johnson Versalles Barranquilla
+240788|Crowne Plaza Suites Tequendama
+240790|Bh La Quinta
+240791|Casa 95 Aparthotel
+240793|Confort 80
+240794|El Campin
+240795|Holiday Inn Bogota Airport
+240796|La Font
+240799|Urban Royal Calle 93
+240800|Suites 108
+240803|Pension Stein
+240809|Hostal San Diego
+240811|Puertas De Cartagena
+240812|San Diego 974 Suites
+240813|Santa Cruz Cartagena
+240819|De Pereira
+240820|Hacienda San Jose
+240822|Soratama
+241036|Best Western Plus 93 Park
+241592|Best Western Skyplus Hotel
+241593|Holiday Inn Cartagena Morros
+241594|MS Chipichape Cali
+241596|Augusta
+241667|Solar Casa Laureles
+241814|Castilla Real
+243911|Santa Barbara Real
+243913|Lincoln
+246366|Finca Alejandria
+246367|La Quinta Porra
+246368|Cafe Real
+246370|Aparta Suite Torre Poblado
+247993|Spiwak Chipichape Cali
+247994|Cosmos Xpress Cali
+247995|GHL Abadia Plaza Pereira
+249519|Abitare 56
+249528|Hilton Bogota
+249530|San Pablo Hotel
+249534|Innova Centro Internacional
+249535|NH Bogotá 93
+249537|MS Centenario
+249539|Lee
+249541|UrbanRoyal Puerta del Reloj
+249658|Casa Boutique Hortensia
+249719|Centro Hotel
+249729|Casona Real Hotel
+250037|Estelar Parque de la 93
+253327|Aloft Bogota Airport
+253328|Muisca
+253331|Niza Norte
+253332|Hotel La Sabana
+253333|Fidenzi
+253336|Corferias Inn
+253338|Bogotá Expocomfort
+253340|Casa Villa Ines
+253341|A Bogota On Holidays
+253342|Hotel Parque Normandia
+253344|Casa Hotel Marques de la Plata
+253345|Casa Paulina
+253346|Hotel Zona G
+253351|Hotel Casa Paquín
+253353|Hotel Casa Santa Isabel
+253354|Hostal Aventureros de la Candelaria
+253361|Usaquén Art Suites
+253362|Hotel Ambalá Bogotá Colonial
+253363|L'Etoile
+253365|Quintas de Normandia
+253366|Bogotá Hotel Casa Marly
+253367|Casona del Patio
+253368|Hotel Balcones de Miranda
+253369|Casa Lozada
+253370|La Mansion
+253371|Expohotel Parque Central Bavaria
+253373|La Playa Hostel
+253374|Chico Imperial Suites
+253375|Casa La Font
+253377|Borboleta Hotel
+253378|Regency Suites Boutique
+253379|Hotel Casa Sarita
+253380|Casanovas
+253381|Buena Vista
+253384|Santa Rita Hostal
+253385|MS Estacion Chipichape
+253388|Travelers Castellón de Juanambú
+253394|Ofi
+253395|Casa Santa Mónica
+253396|Travelers Edificio Rayda
+253397|San Fernando Hostal
+253400|Casa Toscano
+253402|La Colina Hostal
+253403|Santamaria Plaza
+253404|Casona La Merced
+253407|Imbanaco Cali
+253408|Elite Tequendama
+253410|Don Alfonso Boutique
+253411|Luxor Condina Hotel
+253412|San Simon
+253413|Gran Hotel Pereira
+253414|Top Deck Hotel
+253415|Ecohotel La Casona
+253416|Arena Blanca
+253417|Le Castel Blanc
+253418|Hosteria Mar y Sol
+253419|Nueva Granada
+253420|Casa Vieja
+253421|Imperial Santa Marta
+253423|La Casa del Farol
+253425|Park Hotel
+253427|Casa de Isabella
+253432|Santorini Villas
+253433|Santorini Villas Del Mar
+253686|Kohsamui Hotel de Mar
+253688|El Pueblito Playa
+253691|Casa Rosa
+253694|El Candil de los Santos - Optimal Hotels
+253695|Boutique las Carretas
+253696|Real Almirante Padilla
+253698|Lez Lezards Bed & Breakfast
+253699|Casa Claver Loft Boutique Hotel
+253700|Patio de San Diego
+253701|Casa Sweety
+253702|Armeria Real Luxury Hotel & Spa
+253704|Aguamarina Hotel Boutique
+253705|Los Balcones de Badillo
+253707|Mirador Isabella
+253708|Stil Cartagena
+253709|LM A Luxury Boutique Hotel
+253712|Patio de Getsemaní
+253713|Casa Portal de Getsemani
+253715|Isla Arena Plaza
+253716|Karmairi
+253717|Torre del Reloj
+253720|Molicie Casa Hotel
+253721|61Prado
+253722|Travelers Orange Suites
+253723|La Provincia
+253725|Poblado Boutique Express
+253727|Hotel Estadio Real
+253728|Hotel Alcaraván
+253729|Acqua Express
+256658|Costa Linda
+256660|Atrium Plaza
+257014|Hostal Los Juanes
+257015|Hacienda Combia
+257016|Hotel Internacional Casa Morales
+257017|Hostal Aqui Me Quedo
+257018|Hoteles Pórtico Galeria & Cava
+257047|Hotel Boutique Confort Suites
+257083|Omshanty Jungle Lodge
+257294|Arizona Suites
+257640|Tativan Hotel
+257943|Villa Roma
+257944|San Carlos Hospedería
+258552|Hotel Tocarema
+258797|Hostel Santander Alemán
+260178|Nutibara Express
+260179|Hotel The Morgana Poblado Suites
+260928|Boutique San Antonio
+260930|Innova 68
+260932|Sanha Plus Hotel
+260973|B3 Virrey
+261033|Casa Mary
+261252|Ambar
+261771|Cosmos Insignia
+266476|Hotel Casa Chico 101
+266482|Travelers Condominio Plenitud
+266483|Nuevo Dorado
+266484|Plata
+266485|Lloyd's Apartasuites
+266486|Candelos Hostel
+266487|Central House
+266488|Hotel Siar
+266491|Hotel Casa La Riviera
+266497|Travelers Suites Gold
+266498|Hotel Retiro 84
+266499|Casa Hotel Shalom
+266500|Sierra de la Cruz
+266504|Santafe Real
+266505|ABC 7 Avenida
+266506|Be Feria Exposicion
+266507|Nico Aparta-Suites
+266508|Saint Simon
+266509|122 Plaza Aparthotel
+266510|Fenix Real
+266513|Mirador del Recuerdo
+266514|BH Tempo
+266515|Explora Bogotá
+266517|BH Parque 93
+266520|Puerta de San Antonio
+266522|Artur Aparta Suite Alejandría
+266523|Americana
+266525|Torre del Viento
+266528|Colombian Hostel
+266529|Habitat
+266530|Hotel La Catalina
+266531|Monterosa Apartamentos Amoblados
+266532|ZiOne Luxury Hotel
+266533|Alma de San Andrés Boutique
+266534|Posada Nativa Trinsan
+266535|El Viajero Hostel San Andrés
+266537|Buddha Villa
+266539|Santa Marta Real
+266540|La Casa
+266541|Casa Celta
+266542|Los Veleros
+266543|Casa Verde Hotel
+266546|Casa Etnia
+266547|Edmar Santa Marta
+269179|Casa Eden
+269180|Casa Gloria
+269181|Marlín
+269182|Casa Marta
+269185|Veleros
+269187|Casa Los Puntales
+269188|Casa de las Palmas
+269189|Apartamento Amoblado Mirador del Laguito
+269190|Coral Reef
+269191|Patio de la Cruz
+269192|Hotel Or
+269193|Villa Colonial
+269195|In House
+269196|Villa de la Candelaria Hotel
+269198|Sietecueros Lodge
+269199|Hotel Belen Plaza
+269203|Hotel Quinta Avenida
+269204|San Pedro del Fuerte
+275344|Casa Grande Boutique
+276021|Hotel Campestre La Navarra
+276023|Lusitania
+276434|Lord
+276796|Hotel Casa de los Fundadores
+276798|Hotel Santa Viviana
+276869|Los Caballos
+276870|Santa Barbara Hotel Country Villavicencio
+277316|La Casa Rosalía
+277845|Bog Hotel
+277846|Viaggio Nueve Trez
+277847|Movich Chico 97
+277848|Viaggio Urbano
+277850|La Casa del Agua Concept Hotel
+285192|Tryp by Wyndham Bogotá Embajada Hotel
+285195|Factory Inn
+289540|Finca La Marsellesa
+289541|Mirador Las Palmas
+289543|Hostal La Terraza
+289929|La Maison del Ejecutivo
+290924|Iraqúa
+290925|Wyndham Garden Villavicencio
+291659|Playascondida
+291660|Hotel Agua Azul
+291947|Santa Barbara
+291949|Hotel Millenium
+291950|Hotel San Silvestre
+291954|Finca Hotel Cafetos
+291955|Hotel Manantial
+291957|Hotel Montecarlo
+291958|Hotel Principe
+291960|Hotel Hunza
+298274|Prado 72
+298276|Americas Luxor
+301206|Decameron Panaca
+314808|Casa Quinta Boutique
+314811|Hotel Pavilion Suites
+359763|Radisson Ocean Pavillion
+367061|Casa Gaitan Cortes
+367062|GHL Bioxury
+367063|Hotel Bh Bicentenario
+367066|Movich City Business Hotel
+367068|Prisma Suites Chico
+367069|Ramada Bogota Parque 93
+367070|Suites 109 Gallery Hotel
+367071|Cali Marriott Hotel
+367072|Movich Casa del Alférez
+367635|Atlantic Lux
+367636|Casa Pombo
+367637|Hampton By Hilton Cartagena
+367639|Casa San Agustin
+367643|Sites
+370152|Hampton by Hilton Barranquilla
+371591|Hotel Villavicencio
+372893|Las Americas Resort, Spa & Convention Center - Las Américas Casa de Playa / Las Américas Torre del Mar
+373328|Verde Mar
+400926|Casa Hotel Asturias Medellin
+400927|City Express Cali Colombia
+400928|Corales De Indias
+405286|Allure Chocolat
+406021|Hampton by Hilton Cali, Colombia
+407943|TRYP Bogota Usaquen
+412072|Estelar La Fontana Hotel & Apartamentos Bogotá - Apartamentos Bogotá

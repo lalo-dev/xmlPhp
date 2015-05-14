@@ -1,0 +1,516 @@
+7668|Hotelkomplex Amiral/ Orfeu/ Comandor - Amiral
+10237|Central
+11584|Doina
+16687|Majestic
+17501|Miorita
+18917|Pelican Beach
+20499|Riviera Beach
+21183|Best Western Savoy
+28246|Iaki
+28325|Delta 3***
+31143|Cocor
+31144|Caraiman
+32917|Hotel Inter
+33325|Dorna
+33327|Komplex Sirena / Hora - Hora
+34317|Ramada Bucharest Parc Hotel
+34318|Pullman Bucharest World Trade Center Hotel
+35374|Hotelkomplex Amiral/ Orfeu/ Comandor - Comandor
+39093|Vega
+39502|Europa
+39631|Palas Beach
+39632|Victoria
+39633|Astoria
+40522|Dana
+40677|Cerna
+51061|Royal Constanta
+51062|Caro Horoscop
+51063|Opera
+51064|Central
+51065|Crystal Palace
+51066|Howard Johnson Grand Plaza
+51185|Grand Continental
+51186|Continental Oradea
+51187|Continental Arad
+51194|Bradul - Poiana
+51196|Sport Hotel & Spa
+53060|Golden Tulip Mamaia
+53332|Modern
+55588|Balada
+55589|Raluca
+61084|Elizeu
+61085|Floreasca - Johann Strauss
+61086|Floreta de Aur
+61087|Irisa
+61088|Ramada Majestic Bucharest
+61089|Minerva
+61091|Best Western Stil
+62161|Continental Mures
+62163|Continental - geschlossen
+62164|Ambasador Bucharest
+62327|Mirage
+62539|Complex Bulevard
+62540|Scala
+63457|Capitol Bucharest
+64850|Imparatul Romanilor Parc
+64912|Römischer Kaiser
+64913|North Star Continental Resort
+64943|Capitol Brasov
+64944|New Montana
+64945|Coroana
+65058|Aro Palace
+65363|Athenee Palace Hilton Bucharest
+69070|Komplex Sirena / Hora - Sirena
+69072|Saturn
+69420|Best Western Ambassador
+69717|K+K Elisabeta
+70101|RIN Central
+70102|Capsa
+70103|Best Western Silva Hotel
+70104|Egreta Hotel
+70105|Selena
+70109|Ferdinand
+70111|Alpin Hotel
+71090|Hotelkomplex Amiral/ Orfeu/ Comandor - Orfeu
+71852|NH Bucharest
+74896|NH Timisoara
+75504|Oxford
+77293|Lev-Or
+77334|Palace
+77633|Astoria
+77634|Grand Traian
+77635|Carpati
+77636|Nufarul
+77637|Termal
+77638|Poienita
+77639|Bristol
+77640|Continental Suceava
+77864|Steaua
+77865|Continental Gaiser (Timisu)
+77866|Ana
+78044|Hotel Apollo Hermannstadt
+78045|Guci
+78765|Paradiso
+78863|Piatra Mare
+79480|Jolie
+79929|Golden Tulip Times
+80769|Ramada Bukarest Nord
+80770|Phoenicia Grand
+81572|Golden Tulip Victoria Bucharest
+81574|Class
+81575|Class Bukarest
+81576|Unique
+82482|Ibis Constanta
+82483|Ibis Palatul Parlamentului
+82484|Ibis Gara de Nord
+82485|RIN Airport
+82503|Edelweiss
+82819|Smart
+84075|Motel Continental Portile De Fier
+84077|Continental Turnu Severin
+84120|Deja Vu
+84148|Armonia Bucharest
+84174|Lido
+86015|Marami
+86016|Samaa
+86017|Venezia
+86939|Parc Sibiu
+87313|Denisa Otopeni
+87458|Novotel Bucharest City Centre
+87459|Radisson Blu Hotel Bucharest
+89214|Valentina
+91059|Concordia TG Mures
+91060|President TG Mures
+91062|Transilvania TG Mures
+91478|International
+93530|Belvedere
+93567|Caro Golf
+95007|Afrodita
+95146|angelo Airporthotel Bucharest
+95694|Siqua
+95695|Diplomat
+96704|Rina Sinaia
+96705|El Greco
+97377|Andy
+97958|Doubletree Bucharest - Unirii Square
+97959|Continental Forum
+97960|City Plaza
+99603|RIN Grand
+99609|Ramada
+99611|Casa Wagner
+99612|Korona
+99620|Rozmarin
+99622|International
+99639|Malibu
+100951|Sport Cluj
+102727|Ambient
+102728|Ramada Plaza Bucharest Convention Center
+104633|Best Western Bucovina Club De Munte
+104666|Best Western Central Hotel
+105358|Hotel Topaz
+105556|Bucharest Comfort Suites
+106412|RIN Express - geschlossen
+106510|Crowne Plaza Bukarest
+106938|Excelsior
+107930|House of Dracula
+108050|InterContinental Bukarest
+108142|JW Marriott Bucharest Grand
+108372|Le Boutique Moxa
+109154|Monte Nelly
+109490|Opera Plaza
+109591|Parliament
+110084|Relax Bucharest Comfort Suites
+111299|Rina Tirol
+111424|Tulip Inn Sunny Hill
+122396|The Gerald´s
+124866|Moldova
+124867|Splendid
+127177|Residence Domenii Plaza
+127178|Residence Arc de Triomphe
+127416|Iris
+133061|Paradis
+133063|Capitolina
+133064|Millenium
+133070|Vulturul Negru
+133071|Elite Boutique & Spa
+133072|Hilton Sibiu
+133079|Perla 4
+133081|Euro
+134180|Ambient Pension
+135053|Marshal
+135054|Ramada City Center
+135061|Complex Dunarea
+136486|Manoir Mignon
+136737|Trianon
+137175|BISTRITA
+137523|Unirea
+137583|Central
+137833|Sarmis
+137834|VEGA
+138044|PIETROASA
+138046|Central Plaza
+138115|Sighisoara
+138469|Best Western Hotel Eurohotel
+138499|Traian
+139593|Cleopatra
+139595|Rina Vista
+162147|Michelangelo
+162149|Monte Carlo Palace
+162152|Cubix
+162154|Carol Parc
+162156|Magic GT
+162157|Tempo
+162161|Richmond Hotel
+162162|Ramada Brasov
+162163|Libra
+162164|Confort
+162170|Lido
+162173|Royal Bucharest
+162175|Amzei
+162176|Casa Wagner
+162180|Prince Residence International SRL
+162183|Casa del Sole Pension
+162185|Magic Trivale
+162186|Volo Hotel
+162189|Roberts
+162192|Vila Select
+162656|Dalin Center
+163374|Charter
+163391|Hello
+163491|Razvan
+182523|Angelis
+183711|Ibis Sibiu
+183713|Starlight Suites Metropolis Center
+183714|Rembrandt
+187996|International Bucharest
+202263|City Center
+202264|Levoslav House
+202266|Wels
+203007|Danubius Health Spa Resort Sovata
+203090|Capital Plaza
+203947|Agentia H Accommodation
+204277|Alexander
+205173|Arena
+205203|Arion
+205765|Balada Nej
+206036|Bellaria
+206131|Berthelot
+206446|Bran Belvedere Pension
+206575|Bucharest Serviced Apartments
+206641|Business Conference Center & Spa
+206711|Calea Victoriei Residence
+206847|Cara
+206964|Casa Luxemburg
+207299|Cherica
+207337|Hotel Christina
+207369|Citadella
+207532|Pension Casa Humor
+207938|Dacia RRT
+208240|Delpack
+208577|Duke Hotel
+209871|Golden Tulip Ana Tower
+210405|Hemingway Residence Apartments
+210491|Hilde's Residence
+211232|Esplanada
+211470|Hotel-Club Austria
+211725|Imperial
+212237|Krone
+214839|Oxford Inns&Suites
+214877|Palace RRT
+215309|Pension Maria
+215327|Pension Paunasul
+215506|Piemonte
+215724|Prahova Plaza
+215733|Premier
+216349|President
+216850|Residence Irlanda
+217105|Casa cu Tei
+217826|Savoy
+218057|Silver
+218072|Sir Colentina
+218611|Sydney
+218683|Tecadra
+218727|Terra
+219755|Traian
+220078|Victoria
+220108|VigoHotel
+220122|Vila Camelia
+220129|Vila Paris
+220997|9 Suites Residence
+221216|Atlas
+221602|Complex Hanul Muresenilor
+221965|Garden Club
+222052|Gott
+222712|Lux Garden
+222859|Natural
+222943|Pantex
+222981|Pension Bassen
+222986|Pension Casa Cranta
+222999|Pension Heraldic Club
+223029|Pensiunea Italiana
+223104|Premier
+223198|Rem's Pension
+223206|Residence Hirscher
+223427|Siago
+223699|Vidalis
+223716|Vila Trapez
+223750|Villa Hera
+223762|Villa Prato
+227651|Grand
+228020|Reghina Blue
+228021|Florida
+228359|Dali
+228361|GmG
+228362|Megalos
+228363|Reghina
+229159|Parc
+229161|Complex Bran, Brad, Bega
+229614|Pension Agatha Christie
+229637|West City
+229690|Perla
+229728|Casa Elvira
+230385|City Center Hostel
+230386|Golden Tulip Ana Dome
+232106|Wels
+232601|Jolly Fun
+233517|Bleumarin Spa
+233518|Phoenix
+233519|Ponor Spa
+233749|Dumbrava Bacau
+233752|Serban
+235231|Z Executive Boutique
+235401|Epoque Bucharest
+235402|Ioana
+235403|Mistral Resort Moieciu
+235404|Poiana Verde
+235405|Transilvania
+236709|Prince Park Residence
+236710|Orizont
+237172|Ramada Oradea
+237320|Best Western Plus Mari Vila
+238233|Tranzzit
+238236|Del Mar
+238240|Plaza V & Plaza V Executive
+238241|Ciao
+238811|Onix
+239311|Palm Beach
+239312|Grand
+239313|Aurelia
+240300|Black Lord
+240302|Marion
+240303|Transylvanian Inn
+240305|Wolf 1 & 2
+240380|Ambient Residence
+246163|Arena Regia Hotel & Spa
+246167|Phoenicia Holiday Resort
+247680|2D Hotel
+249350|Sarroglia
+259484|Opal
+259490|Predeal Comfort Suites
+259709|Komplex Sirena / Hora
+260281|Europa Royale Bucharest Hotel
+260282|West Plaza Hotel
+260283|Mirage Snagov Hotel & Resort
+260284|Ramada Pitesti
+260617|Cavaler Sighisoara
+261292|BinderBubi
+261293|Check Inn
+264976|Centre Ville Aparthotel, managed by Radisson Blu Bucharest
+264981|Amphitryon Hotel
+264982|Banat
+264986|Herastrau
+264989|Phoenicia Express
+265517|Ambiance
+265518|BinderBubi
+265519|Traube
+292747|Corsa Hotel
+292858|Tania-Frankfurt
+292862|Hotel Cameliei
+292870|Hostel Litovoi
+292871|Zava Hotel
+292874|Hotel Premiere
+292875|Sir Orhideea
+292880|Ancor Hotel
+292881|Pensiune Restaurant Pipera
+292884|Hotel Monaco
+292886|Sir Lujerului
+292888|Interland Accommodation - Ion Ghica
+292891|Green Forum Hotel
+292893|Hotel Spa Resort Premier Palace
+292927|Regal
+292928|Marea Neagra
+292929|Mercur Minerva
+292933|Pacific
+292934|Richmond
+292936|Vila Sangria
+293021|Casa Teo
+293022|Morena Mansion - Guest House
+293028|La Mer
+293029|Stella Marina
+293076|Villa Cristian
+293077|Maxim Hotel
+293082|Qiu Hotel Rooms
+293088|Alpin Aparthotel
+293089|The Rizzo Boutique & Spa
+293092|Vilele Monterai
+293093|Pensiunea Artemis
+293094|Pensiunea Palazzo
+293099|Villa Astoria
+293101|Pensiunea Carmen
+293102|Pensiunea Fortuna
+293144|Oasis Guest House
+293200|Perla
+293203|Central
+293206|Escala Villa
+293207|Ramada Cluj
+293209|Cabrio
+293210|Grand Hotel Italia
+293211|Granata
+293213|Grand Hotel Napoca
+293214|Alexis
+293216|Caramell Pension
+293217|Transilvania
+293219|Univers T
+293222|Hampton by Hilton Cluj Napoca
+293263|Central
+293264|Hotel Timisoara
+293266|Hotel Novera
+293267|Pensiunea Anette
+293268|Aparthotel Iosefin Residence
+293280|Hotel Global
+293281|Pensiunea Kermany & Dino
+293282|Hotel Restaurant Classic Inn
+293284|Guesthouse Gina
+293285|Postavarului Guesthouse
+293287|Casa Vacanza Brasov
+293288|Casa Albert
+293290|Coroana Brasovului
+293291|Hotel Fun Park
+293292|Hotel Brasov
+293293|Pensiunea Suri
+293294|Hotel Hanul Domnesc
+293296|Belvedere Hotel Brasov
+293300|Hotel Esprit
+293303|Sofie
+293304|Vila Twins Apart Hotel
+293305|Vintage Place - Apartments
+293307|Deutches Haus Pension
+293310|Mistral Resort Moieciu
+293311|House with Ponies
+293319|Cumpatu Sinaia Hotel
+293321|Regal Sinaia
+293322|Retezat Villa
+293511|Hotel Eden
+293512|Continental
+293513|Little Texas
+293517|Ambassador
+293525|Sonnenhof
+293526|Scorpion
+293528|Pensiunea Santa Fe
+293622|President
+293623|Anthimos
+293737|Pension Cartref
+293741|Cabana Trei Brazi
+293743|Hotel Hera Predeal
+293744|Regina
+293809|Plus Hotel
+293849|Vila Toparceanu
+293934|Pensiunea Daciana
+293936|Hotel Salvator
+293982|Satu Mare City
+293987|Casa Dan
+293988|Casa Freya - Bed & Breakfast
+293990|Vila Cascada
+294002|La Maison de Caroline
+294003|Casa Traiana
+294008|Metropolis
+294009|Hotel Mia
+294021|Archia Mansion Botique
+294022|Villa Venus
+294023|Hostel Elvetia
+294035|Arges
+294041|Boutique Hotel Villa Bijoux
+294042|Angelo D Oro Hotel
+294043|Hotel Maryo
+294049|Grand Hotel Sofianu
+294285|Guesthouse Stefi
+294287|Pension Memory
+294612|Vila Gong
+295064|Casa Motului
+295237|Vila Roca
+295238|Bucovina Lodge Guest House
+295239|Pension Craiul
+295441|Carol
+295985|Lyra
+295995|Toaca Bellevue
+302510|Golden Time Hotel
+325251|Hotel Rubin
+359501|Cismigiu
+359668|Reginetta 1
+365022|Melodia
+369109|Centre Ville Elite Aparthotel
+369110|Marshal Garden Hotel
+369419|DoubleTree by Hilton Hotel Oradea
+369646|Beyfin Hotel
+369647|Crama Haiducilor-cluj Napoca
+369780|Pacific Hotel
+370515|Coliseum Hotel - Calafat
+372462|Kronwell
+381155|Dan
+381162|Stars
+381164|Scala Bucuresti
+381307|La Scoica Land Hotel
+382495|Escalade
+383441|New Cristal Hotel
+383442|Sungarden Resort Hotel
+383550|Alexandra
+383557|Vila Sinaia 1929
+387798|Vila Cristina Mountain Retreat
+387843|Acapulco
+391763|Egreta Resort
+403777|Caro Parc
+403892|Sun Hotel
+411100|Green Village Resort
+412359|Delta 4****
+412946|Hotelkomplex Amiral/ Orfeu/ Comandor
+413142|Imparatul Romanilor

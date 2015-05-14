@@ -1,0 +1,730 @@
+1902|Adrar
+1903|LTI Agadir Beach Club
+1905|Club Al Moggar Garden Beach
+1908|Atlas Amadil Beach
+1909|Argana
+1910|Kenzi Europa
+1911|Les Dunes D'Or Hotel & Spa
+1912|Agadir Les Omayades
+1913|Ryad Mogador Al Madina
+1914|Tulip Inn Oasis - ab 01.05.2015 smartline Oasis
+1915|Residence Shems
+1916|Sahara
+1918|Sud Bahia
+1919|Tagadirt
+1921|Caribbean Village Agador & El Pueblo Tamlelt
+1922|Blue Sea Le Tivoli
+1923|Casablanca Le Lido Thalasso & Spa
+1926|Kenzi Farah
+1927|Le Tichka Marrakech
+1928|Siaha Safir
+1933|Husa Solazur & Spa
+1934|Tanjah Flandria
+1935|Melia Palais Salam
+5712|Best Western Odyssee Park Hotel
+5713|Residence Igoudar
+5714|Marhaba
+5715|Anezi Tower Hotel & Apartments
+5716|Beach Albatros Agadir
+5717|Transatlantique
+5818|Atlantic Palace Thalasso Golf & Casino Resort Agadir
+5821|Royal
+5824|Aferni
+5825|Coralia Club Agadir La Kasbah
+5826|Amine
+6982|Belere Rabat
+7586|Amanjena
+11401|Des Cascades
+14607|Ibis Agadir
+14736|Imperial Borj
+15213|Kamal
+15337|Marrakech Le Semiramis
+15707|La Mamounia
+15728|Le Palmeraie Village
+16083|Le Meridien N'Fis
+16610|Mabrouk
+18409|Oudaya Hotel
+18555|Palmeraie Golf Palace & Resort
+20322|Jacaranda Golf
+20456|Royal Decameron Tafoukt Beach
+20460|RIU Tikida Beach
+20782|Ryad Mogador Essaouira
+23145|RIU Tikida Garden
+23243|Kasbah du Toubkal
+23572|Valtur Agadir
+24573|Yasmina
+28239|Palais des Roses
+29300|Royal Mirage Fes
+29302|Zaki
+32650|Iberostar Founty Beach
+34944|ClubHotel RIU Tikida Dunas
+38005|Le Medina Essaouira Thalassa Sea & Spa
+38006|La Tour Hassan
+38008|Sofitel Agadir Royal Bay Resort
+38017|Royal Mansour Casablanca
+38333|Pullman Mazagan Royal Golf & Spa
+38369|L'Amphitrite Palace
+38442|Sofitel Marrakech - Lounge & Spa
+38778|Club Med Agadir
+39053|Club Med Marrakech la Medina
+40193|Coralia Palmariva
+40194|Al Jasira Hotel
+42655|Atlas Almohades Agadir
+46600|Wassim
+46601|Jnan Palace
+46604|Villa des Orangers
+46605|Es Saadi Gardens & Resorts - The Hotel / The Palace / Villas
+46606|Kenzi Basma
+46607|Sheraton Casablanca Hotel & Towers
+47312|Hyatt Regency Casablanca
+47314|Atlas Almohades Casablanca City Center
+48277|Atlas Medina & Spa
+48343|Residence Intouriste
+48484|Les Jardins La Medina
+49942|Mövenpick Hotel Casablanca
+49944|Mansour Eddahbi
+49945|Sofitel Rabat Jardin des Roses
+49946|El Minzah
+50191|Les Merinides
+50193|Menzeh Zalagh
+50194|Splendid
+50195|Nassim
+50196|Ibis Marrakech Center Gare
+50676|Golden Tulip Farah Rabat
+51869|Ourida
+52663|Zalagh Parc Palace
+55987|Club Med Yasmina
+58003|Hicham
+59581|Club Sangho Privilège Marrakech
+61753|Diwane
+63922|Tropicana
+63923|Flathotel Residence
+64470|Hivernage & Spa
+65016|Riad Slitine
+66328|Royal Mirage Deluxe Hotel
+66329|Fes Inn
+66388|El Andalous
+71809|Kasbah Tamadot
+72301|Ramada Fes
+72302|Agdal
+72303|Belere
+72304|El Ati
+72305|Kasbah Tizimi
+73435|Helnan Chellah
+73437|Ibis Casa Voyageurs
+75494|Riad Moucharabieh
+75969|Al Kabir
+76261|Les Jardins de la Koutoubia
+76362|Tikida Golf Palace
+76447|Golden Tulip Farah Marrakesch
+76514|Riad Amina
+76521|Exe Rembrandt Hotel
+76522|Barcelo Casablanca
+76523|Ramada les Almohades Tanger
+76524|Ryad Mogador Opera
+76537|Riad 72 & Riad Due
+76961|Bougafer
+76962|Mercure Sheherazade
+76963|Mercure Ouarzazate
+76966|Riad Les Oliviers
+76968|Riad Amssaffah
+76969|Riad Ifoulki
+76972|Atlas Asni
+76973|Le Caspien
+77285|Kenza
+77286|Moroccan House Marrakech
+77287|Idou Anfa
+77491|Riad Karmela
+77830|Ibis Rabat
+77831|Le Diwan Rabat
+77872|Des Iles
+77873|Suisse
+78016|Ibis Fnideq
+78190|Residence Rihab
+78518|Akabar
+78815|Royal Atlas
+78830|Timoulay
+80417|Palace d'Anfa
+80418|Riad Souss Antiguo Val d'Anfa
+81781|Transatlantique
+81782|Auberge Tombouctou
+81785|Palais Asmaa
+81788|Dar Azawad Hotel & Wüstencamps - Reve Sahara/ Les Hommes Bleus/ Le Sand
+81789|Les Amandiers
+81790|Riad Salam
+81791|Kerdous
+81792|Xaluca Maadid Erfoud
+81794|Saghro
+81795|Mövenpick Malabata & Casino
+81796|Tazarkount
+81797|Palm's
+81802|Riad Dar El Assafir
+81811|Kasbah Dar Daif
+81812|Berbere Palace
+81813|Riad Al Madina
+81816|Riad Dar Loulema
+81823|Riad Maison Bleue
+81825|Ibis Fes
+81827|Sofitel Fès Palais Jamai
+81828|Le Littoral
+81829|Golden Tulip Farah Casablanca
+82391|Riad Charai
+85533|Riad Dar Souihla
+85534|Rivoli
+85535|Ayoub
+85537|Riad Dama
+85623|Oum Palace
+86537|Dar Ouladna
+86684|Riad Dar Al Andalus
+86807|Kenzi Azghor
+86920|Azur
+86921|El Oumnia Puerto
+86923|Ryad Mogador Menara
+86931|Ibis Meknes
+87265|Riad Taylor
+89061|Riyad Sheherazade
+89087|Mounia Fes
+89088|Le Zenith
+89110|Ryad Mogador Marrakech
+89144|Kasbah Le Mirage
+89177|Islane
+89314|Imperial Holiday
+89372|Des Arts Resort & Spa
+89451|Ibis El Jadida
+89477|Ryad Mogador Agdal
+89492|Les Jardins D'Ines
+89497|Pavillon du Golf
+90968|Zahrat al Jabal
+90969|Volubilis
+90970|Ametis Club Karam
+90972|Marina Smir Thalasso & Spa
+90973|Riad Tinmel
+90975|Riad Palais Mehdi
+90976|Dar Baya
+90977|Dar Jeeling
+90978|Dar Lholoum
+91015|Reda
+91017|La Roseraie
+91019|Les Borjs de la Kasbah
+91172|Riad Basim
+91173|Riad Palais Sebban
+91174|Riads Lotus - Riad Perle
+91177|Riad de Fes
+91178|Riad des Golfs
+91179|Riad Arabesque
+91181|Caravanserai
+91183|Villa Mandarine
+91184|Jnane Sherazade
+91185|Le Mirage
+91186|Dar Ahlam
+91188|La Sultana
+91189|Dar Rhizlane
+91192|Rabat
+91194|Hanane Club
+91195|Le Zat
+91196|Ouarzazate Le Tichka
+91198|Le Rif & Spa
+91199|Villa Maroc
+91200|Palais L'Heure Bleue
+91841|Royal Decameron Issil
+92428|Ibis Marrakech Palmeraie
+92746|Ocean Vagabond
+92887|Menzeh Dalia
+94019|Riad Salam
+94649|Ibis Ouarzazate
+95020|ROBINSON Club Agadir
+96817|El Hati
+98201|Riad Mimouna
+98452|Riad Alwane
+100266|Riad Enija
+100311|Jm Suites
+100313|Riad Opale
+100315|Corail
+100842|Riads Lotus - Riad Ambre
+101757|Riad La Maison Rouge
+102391|Dar Achaiah
+102484|Robinson Riad Zakaria
+102544|Ryad Mogador Kasbah
+102700|Marrakech Ryads Parc & Spa
+102702|Riad 58 Blu
+103016|Riad Armelle
+103547|Riad el Nour
+103614|Riad Africa
+104054|La Maison Bleue
+104057|Angsana Riad Collection Morocco
+105463|Bled al Fassia
+106577|Dar Atta
+106579|Dar Les Cigognes by Sanssouci Collection
+106580|Dar Shama
+107294|Golden Tulip Farah Khouribga
+107295|Golden Tulip Farah Safi
+108263|La Ferme Des Oliviers
+108271|La Maison Arabe
+108469|Les Deux Tours
+109194|Murano Oriental Resort Marrakech
+109305|Novotel Casablanca City Center
+109526|Es Saadi Gardens & Resorts - The Palace
+109976|Best Western Toubkal
+110168|Riad Catalina
+110169|Riad Damia
+110170|Riad Dar Dmana
+110173|Riad El Ghalia
+110176|Riad Myra
+110472|Riads Lotus - Riad Privilege
+110539|Chergui Kasbah
+110540|Atlas Essaouira & Spa
+110541|Kasbah Lamrani
+111140|Rose Garden Resort & Spa
+122254|Imperial Plaza
+122255|Mont Gueliz
+122409|Villa Damonte
+122410|Sentido Kenzi Menara Palace
+122411|Dar Guerris
+122412|Riad Pourpre
+124678|Diwan
+124679|Villa Blanca Urban
+124681|Transatlantique
+124685|Riad Serail
+124686|Riad Monceau
+124687|Zahia Marrakech
+124689|Riad el Farah
+124690|Riad Bakoua - Dar Safia
+125299|Fatinat-Marrakech
+125302|Riad Jonan
+125306|Riad El Cadi
+125309|La Maison des Oliviers
+125315|La Maison Nomade
+126909|Volubilis Inn
+129706|Riads Lotus - Riad Omarine
+129708|Riad Les Bougainvilliers
+129709|Las Palmeras
+129711|Moulay Yacoub
+129712|Chellah
+132685|Business
+132687|Riad Sable Chaud
+132688|Riad Les Hibiscus
+132691|Tachfine
+132692|Le Tafilalet
+132695|Riad Amira
+132700|La Perle Du Sud
+132704|Riad Dar El Kebira
+132708|Batha
+132710|Ahlen
+134100|Riad Daria
+134169|Ibis Tanger Free Zone
+134210|Ibis Casablanca City Center
+134445|Tghat
+134497|Residence Agyad Maroc
+134626|Kenzi Oasis Hotel
+135827|Ksar Massa
+135828|Golden Beach Aparthotel
+135832|Dar Zitoune
+135833|La Gazelle d'Or
+135846|La Sultana
+135852|Riad Zamane
+135854|Sofia
+135855|Riad Louna
+135857|Palais Didi
+135858|Riad Yacout
+135861|Riad Farnatchi
+135862|Palais Calipau
+135866|Riad Kaiss
+135882|Riad Shama
+135887|Gallia
+135891|Le Fint
+135896|Kasbah Xaluca Dades
+136453|Iberostar Saidia
+136454|Riad Schanez
+136455|Amani Hotel
+136460|Majorelle
+136461|Du Pacha
+136462|Riad Dar Rassam
+136464|Riad Dar Amane
+136465|Riad Dar Latifa
+136664|Maison DO
+136710|Club les Almoravides
+136719|Oumlil
+137046|Riad Itrane
+137189|Riad Altair
+137461|Amalay
+137525|Anfa Port
+137566|Idou Tiznit
+137567|Ryad Mogador Gueliz
+138102|Al Khaima
+138346|Palais Soltan Riad & Spa
+138468|Kenzi Tower
+138855|Dellarosa
+142910|Le Dorint
+142912|Ametis Nouzha
+142915|Volubilis
+142991|Ajiad
+142992|Atlas Orient Oujda
+144211|Riad Lotus Savinio
+145135|Riad Ineslisa
+145137|Riad Dar Mumtaz
+145138|Riad el Amine
+145144|RIU Tikida Palmeraie
+159623|Domaine des Remparts & Spa
+159695|Ibis Essaouira
+159803|Riad A La Belle Etoile
+159804|Riad Al Fassia Aguedal
+159805|Riad Carina
+159806|Riad Diana
+159808|Riad Fez Yamanda
+159809|Maison Arabo Andalouse
+159810|Riad Karam
+159836|Sultana Royal Golf
+159858|Villa des trois golfs
+159860|Villa Guest
+159866|Washington
+159872|de la Corniche
+159873|Ryads Naoura Barriere
+162711|Club Med la Palmeraie
+162712|Club Med Le Riad
+163487|Tildi Agadir
+182245|Oriental Bay Beach Golf & Spa
+182246|Dawliz
+182247|Riad Dar Ilham
+182248|Kasbah Dar Ilham
+182249|Kasbah Imdoukal
+182250|Riad 1001 Nuits
+182251|Riad Herougui
+182252|Miramar
+182253|Riad Kasbah Caracalla
+182588|Flat Apart Slimania
+182589|Riad Al Mansoura
+182777|Taj Palace Marrakech
+182783|Mazagan Beach Resort
+182927|Riad Ambre et Epices
+182928|The Villa by Hivernage Tamesloht
+182929|Le Petit Riad
+183211|Palm Plaza
+183642|Amiris
+183643|Riad Al Assala Medina
+183645|Eden Andalou Spa & Resort
+183646|Adama
+183647|Villa Al Assala la Palmerale
+187867|AnaYela
+187868|Riad Madani
+187869|Riad des Eaux
+187871|Kasbah Bab Ourika
+188088|Gite Nadia
+188089|Riad Maison Du Sud
+188090|Tarik
+188091|Riad Shaden
+188092|Riad Sidi Ayoub
+188093|Riad Dar Limoun Amara
+188094|Les Seuils de l'Atlas
+196005|Al Mounia
+196006|Riad Asna
+201596|Bab Hotel
+201603|Riad Barroko
+201607|Riad Le Nid De La Colombe
+201608|Riad Sidi Mimoune
+201706|Royal Mansour Marrakech
+201748|Riad Zayane
+202544|Ryad Mogador Menzah
+205426|Atlas Terminus & Spa
+207908|Crystal Pacha Marrakesch
+207995|Dar Kantzaro
+208002|Dar Nilam
+208256|Demeures d'Orient
+211081|Continental
+212077|Kenzi Club Oasis
+213231|Les Terres M'barka
+214889|Palais Du Desert & Spa
+216822|Résidence Fleurie
+217202|Riad Fes El Bali
+217209|Riad Asmitou
+217211|Riad Au 20 Jasmins
+217215|Riad Calista
+217231|Riad Flam
+217237|Riad Jardin Secret
+217240|Riad La Perle De La Médina
+217244|Riad le Ksar de Fes
+217247|Les Clefs Du Sud
+217248|Riad Les Deux Mondes
+217258|Riad Mazal
+217259|Riad Merdoudi
+217575|Ryad Watier
+218512|Suite Novotel Marrakech
+221210|Assam
+221433|Calipau Sahara
+221655|Dar Tifawine
+222489|Kasbah Igoudar
+226538|Riad Fleur d'Oranger
+226539|Clubhotel Eldorador Palmeraie
+226656|Residence Assounfou
+226657|Terres d'Amanar
+226658|Riad dar Aicha
+226659|Riad Dar Tariq
+226660|Riad Massaoud
+226661|Riad Al Jazira
+226662|Riad Zitouna
+226663|Bouregreg
+226751|Marquise Villa
+226752|Riad Litzy
+226878|Dar Rania
+227066|Dar Zemora
+227203|Studiotel Afoud
+227204|Ksar Shama
+227205|Riad Baraka Karam
+227206|Riad Dar Sara & Dar Sara Srira
+227408|Riad El Aissi
+227409|Diamant Vert
+227410|Azukar
+227411|Riad Al Ksar & Spa
+227412|Atlas Targa
+227413|Riad Chennaoui
+227414|Villa Margot
+227415|Noor El Jena
+227648|Dar Nadir
+227649|Riad Dar Khaddouj
+227769|Madrid
+227770|Residence Nejma
+227771|Riad Les Jardins des Lilas
+227772|Dar Panorama
+227774|Riad Maktoub
+227775|Dar Lorkam
+227776|Etoile Filante D'Or
+227892|Kenzi Club Agdal Medina
+228347|Founty Beach Appart
+228348|Be Live Collection Saïdia
+228349|Relax Airport
+228350|Beau Rivage
+228351|Sirayane Boutique & Spa
+228352|Villa Nomade
+228353|Ouednoujoum Eco Lodge
+228354|Kasbah Ellouze
+228552|Sofitel Marrakech - Palais Imperial
+228927|Chez Famile Ben Moro
+228929|Bivouac Dunes de Chegaga
+228930|Bivouac Les Dunes De Tinfou
+228931|Dar Bensouda
+229075|Amoud
+229158|Chems Du Lac
+229227|Michlifen Ifrane Suites & Spa
+229228|Bliss Cameleon
+229229|Dar Crystal
+229230|Jnane Tamsna
+229231|Widiane Suites & Spa
+229232|Villa de l'O
+229233|Dar L'Oussia
+229753|Riad Zarka
+229767|Riad Amira Victoria
+229943|Villa Warhol
+229944|Intercontinental Tanger
+230063|Maison Dmana / Dar Dmana
+230064|Bassatine Skoura
+230065|Defat Kasbah
+230074|Bivouac Erg Lihoudi
+230077|Bivouac Nahkla
+230082|Dar Chama/Darchamaa
+230086|Kasbah Assafar
+230091|Kasbah Agounsane
+230093|Riad La Croix Berbere
+230094|Riad Dar Nabila
+230098|Riad Moullaoud
+230099|La Renaissance
+230507|Sogatour Sidi Harazem
+232240|Nadia
+232275|Jnane La Kasbah
+232276|Ksar Assalassil
+232277|Riad Etoile d'Essaouira
+232280|Riad Ibn Khaldoun
+232283|Riad Heritage
+232287|Riad Al Badia
+232288|Dar Loula
+232289|Riad Aladdin
+232290|Les Orangers D'Alilia
+232291|Zalagh Kasbah & Spa
+232592|Pickalbatros Aqua Fun Club Marrakech
+232887|Dar Ouali
+233537|Hamada Du Draa Relais
+233538|Riad Lalla Calipau
+233539|El Hadna
+233540|Riad O
+233541|Riad Vendôme & Spa
+233545|Bab Rimal
+233547|Riad Anda
+233549|Riad Auberge Assounfou
+233553|Enasma
+233554|Majestic
+233555|Salim
+233556|Guynemer
+233601|Auberge Kasbah Meteorite
+233602|Palmeraie
+233605|Dolce Vita Thalasso
+233606|Texuda
+234511|Menzeh Fes
+234552|Kasbah Hajja
+234557|Auberges Des Gorges Du Dades
+234558|Vieux Château du Dadès
+234844|Riad Alida
+235053|Kasbah Leila
+235054|Ryad Le Mechouar
+235055|Dar Sohane
+235057|Riad Caesar
+235062|Dar Eddaya
+235217|Riad Esprit du Maroc
+235409|Riad Ailen
+235413|Riad Dubai
+235414|Golden Tulip Andalucia Golf Tanger
+235416|Riad Roukaya
+235417|Riad Tigmi El Janoub
+235565|Azoul
+235566|Dar Meryem
+235567|Domaine Tarik
+235570|Jaimas Chez Naji Chegaga
+235572|Shems Moon Suite & Spa
+235585|Kasbah Didis
+235586|Kasbha El Mahdaoui
+235588|Riad Chorfa
+235589|Noramed
+235590|Palais Targa
+236149|Riads Lotus - Ambre / Perle / Privilege / Omarine
+236256|Kasbah Tabelkoukt
+236257|Atlantic
+236258|La Tour De Toile
+236584|Riad Bahja
+236645|Moroccan House Casablanca
+236650|New Farah
+236819|Art Suites El Jadida
+236820|Palais des Remparts
+236821|Riad Lalla Zoubida
+236823|Riad Reda
+236826|Auberge Toda Kalaat
+236830|Riad Ksar Ighnda
+236831|Dar Jameel
+236833|Casa Annasr
+236834|Kasbah Oulad Othmane
+236836|Dar Naciria
+236837|Oliveraie de Marigha
+236846|Dar Al Assad
+236847|Les Trois Palmiers
+236848|Villa du Lac - Marrakech
+237136|Sofitel Essaouira Mogador Golf & Spa
+237592|Littoral Auberge
+237593|Art Palace & Spa
+237595|Les Saisons
+237596|Dar Grenadine
+237597|Kasbah Azalay
+237814|Four Seasons Marrakech
+237830|Riad Hcekarram
+237875|Riad Dar Donab
+237877|Riad Villa Blanche
+238318|Les Palmiers
+238319|Casablanca
+238320|Dar Zman
+239436|Gite Mentaga
+239437|Hacienda Martil
+239438|Dar Catalina
+239439|Les Jardins de l'Agdal & SPA
+239440|Chems
+239453|Kasbah Amridil
+239455|Al Baraka Des Loisirs
+239843|Lodge K
+239844|Le Doge
+239897|Bab Al Bahar Hotel & Spa
+239898|Les Jardins de Skoura
+239904|Marrakech Garden
+239973|Sahara Regency
+239974|Mumtaz Mahal
+239975|Du Louvre
+240062|Hôtel du Golf
+240065|Riad Terra Bahia
+240066|Riad Paula
+240212|Riad Chergui
+240213|Ryad Amiran
+240214|Ryads Al Maaden Medina & Golfs Resort
+241757|Riad Andalib
+241815|Dar Sabra Resort & Spa
+242293|Riad Tafilag
+245178|Riu Palace Tikida Agadir
+247117|Sofitel Thalassa Sea & Spa
+247395|Cesar Resort & Spa
+247480|Riad Shaloma
+248626|Bo Hotel & Spa
+249126|Riad Viva
+249430|Adam Park
+249431|Red Hotel Marrakech
+249651|Opera Plaza
+259373|Almas
+259514|Paradis Plage Surf, Yoga & Spa Resort
+259672|Residence Bab Aourir
+259673|Le Jardin des Biehn
+259674|Riad Shemsi
+260426|Riad Nashira & Spa
+260580|Pullman Marrakech Palmeraie Resort & Spa
+260736|Palais Namaskar Marrakech
+260756|Riad Dar Foundouk
+260867|Sofitel Casablanca Tour Blanche
+261063|Omega Agadir
+261439|Riad Palais Ommeyad
+261456|Villa Makassar
+261606|Riad Said
+261607|Riad Layla
+261619|La Pause
+261627|Chergui
+262351|Palais Jena
+262353|Jet Eldo La Palmeraie
+262371|Royal Mirage Marrakech
+265591|Caribbean Village Agador & El Pueblo Tamlelt - Caribbean Village Agador
+265592|Caribbean Village Agador & El Pueblo Tamlelt - El Pueblo Tamlelt
+266645|Riad Dar More
+266707|Villa Vanille
+266741|Dar Zouhour
+272384|Les Jardins de Villa Maroc
+272455|Barcelo Fes Medina
+272458|Palais Amani
+272459|Palais Faraj Suites & Spa
+277366|Kasbah Ait Ben Damiette
+277889|Atlas Marina Beach Suites & Spa
+277902|Selman Marrakech
+277911|Ibis Tanger City Center
+279690|Palais Medina & Spa
+285209|Golden Tulip Rawabi Marrakech
+285213|Riad Bab Marrakech
+290728|Xaluca Dades
+295681|Cesar & Spa
+296696|Riad Al Khansaa
+296697|Tigimiza Suites & Pavillons
+296863|Sofitel Marrakech - Lounge & Spa / Palais Imperial
+296882|Secret Garden
+297283|Mosaic Palais Aziza
+300208|Riad Zolah
+302301|Riad Hamdane & Spa
+302545|Riad Swaka
+310885|The Pearl Marrakech
+310942|Es Saadi Gardens & Resorts - The Hotel
+311126|Ocean Vagabond
+314857|Meriem
+332498|La Perle Du Dades
+354514|Grace Hotel Marrakech
+359846|Riad Ain Marrakech
+364054|Palais de l'O
+364109|Karam Palace
+366688|Les Jardins D'Argane
+367093|Le Trianon Luxury Hotel & Spa
+372504|Royal Palm
+373015|Club Marmara Madina
+373028|Riad dar Alhambra
+400961|Gray Boutique Hotel & Spa
+401097|Kech Boutique Hotel & Spa
+401442|Grand Mogador Tanger
+401450|Algilà Fes Medina Charme Hotel
+401451|Riad Alkaderi
+401452|Riad Cle De Sol
+401479|Ramada Encore Tangier
+401554|Palais Medali
+404408|Luabay Marrakech Palmeraie Adults Only & Spa
+405207|Riad Braya
+405915|Riad Fatouma
+406216|Riad Qodwa
+406235|Rive Hôtel
+408580|Medina Gardens
+409183|Riad La Parenthese
+411806|Be Live Marrakesch
+411837|Lunja Village
+412311|Riad 72 & Riad Due - Riad Due
+413032|Mandarin Oriental Marrakech

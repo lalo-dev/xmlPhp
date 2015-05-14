@@ -1,0 +1,1012 @@
+193|Duni Royal Resort - Marina Beach
+194|Duni Royal Resort - Pelican
+197|Royal Club Victoria - Elenite Holiday Village
+199|Balaton
+202|Burgas Beach
+203|Hrizantema
+204|Parkhotel Continental / Parkhotel Continental Prima - Parkhotel Continental
+205|Delta Beach
+206|Globus
+209|Kalofer
+211|Kristal
+212|Kuban
+214|Palas
+216|Pomorie Sunny Beach
+217|Slawianski / Slavyanski
+218|Chaika Resort - Metropol
+220|Zefir Beach
+222|Bor (Pine) & Edelweiss
+223|Flora Hotel & Apartment
+224|Borovetz Resort - Yagoda Chalets
+225|Yastrebets
+226|Borovetz Resort - Malina Villas
+227|Grand Hotel Murgavez
+228|Perelik
+229|Prespa
+230|Dolphin
+232|Samokov
+233|Interhotel Sandanski
+234|Ramada Sofia
+235|Rodina
+238|Dobrotitza Beach
+239|Dobrudja
+240|Dorostor
+241|Eliza
+242|Kaliakra
+245|Kompass
+247|Mura Beach
+248|Orchidea
+249|Panorama
+252|Warschawa
+253|Ambassador
+254|Astoria Beach
+255|Atlas
+256|Berlin Golden Beach
+258|Glarus
+260|Imperial
+262|Javor/ Yavor
+263|Park Hotel Madara
+264|Mimosa
+267|Nympha Beach
+268|Palma
+269|Preslav
+270|Admiral
+271|Shipka
+272|Slavey
+273|Sorniza
+276|Joliot Curie
+277|Koral
+278|Lebed
+279|Sunny Day Resort - Marina
+280|Sunny Day Resort - Mirage
+281|Neptun
+282|Sunny Day Resort - Palace
+283|Rossitza
+284|Tschaika
+285|Grand Hotel Varna
+286|Sunny Day Resort - Veronica
+6002|Zornitza
+6003|Kotva
+6930|Villas Magnolia
+6935|Pliska
+6937|Siniger
+6938|Havana Hotel & Casino
+6939|Kamchia Park
+7210|Aktinia
+7679|Komplex Amfibia Beach - Amfibia, Morska Zvezda, Fregata
+7744|Aneli-S
+7923|Grifid Arabella
+8117|Resort Astoria & Orel
+8315|Aurora
+8360|Avliga Beach
+8457|Baikal
+8527|Bansko
+9184|Bonita Beach
+9191|Bor
+9210|Borjana
+11316|Delfin
+11353|Delta Palace
+11543|Laguna Park
+11757|Amelia
+11815|Duni Royal Resort - Holiday Village
+12044|Sveta Elena
+12182|Erma
+12293|Europa
+12344|Evrika Beach Clubhotel
+12357|Primasol Sunlight Sunrise
+12780|Flagman
+12810|Flora
+13241|Glarus Beach
+13254|Gloria
+13364|Gradina
+13915|Hemus
+14548|Sentido Golden Star Family & Golden Star
+14552|Royal Bay
+15047|Regina
+15187|MPM Kalina Garden
+15218|Kamelia
+15245|Karlovo
+15431|Klisura
+15869|Laguna Beach
+15875|Laguna Mare & Laguna Garden - Laguna Mare
+16200|Althea
+16348|Lilia
+16454|Longosa
+16529|Lotos Beach
+16580|Ljuljak
+16583|Luna
+16704|Mak
+16722|Malibu
+16726|Malina
+16727|Malina
+17401|Grifid Hotel Metropol
+17731|Komplex Amfibia Beach - Morska Zwezda
+18015|Nona
+18153|Oasis
+18280|Olymp
+18539|Palma
+18582|Pamporovo
+18957|Perla
+18970|Perunika
+19209|Pliska
+19252|Polyusi
+19255|Interhotel Pomorie
+19845|PrimaSol Ralitsa Superior Aqua Club
+20278|Residenzia Margarita
+20280|Royal Rio Beach
+20312|Club Calimera Sunny Beach - Zvete
+20349|Rila
+20350|Rila
+20421|Gergana Beach
+20454|Slavuna Beach
+20640|Russalka
+20747|Rubin
+20774|Roussalka
+21045|Grand Sunny Beach
+21499|Sofia Hotel Balkan, a Luxury Collection Hotel
+21695|Sirena Beach
+21767|Snezhanka
+21777|Sofia
+22061|Sredetz
+22072|St. George
+22249|Club Hotel Strandja
+22432|Svejest
+23161|Tintjava
+23269|Trakia
+23415|Chaika Resort - Chaika Beach
+23439|Tundja
+23719|Viktoria
+23920|Villa List
+24209|Vita Park Hotel & Villen Vita Park
+24646|Zlatna Kotva Beach
+24701|Magnolia Garden
+28069|Perla Beach Complex - Perla Plaza
+28253|International Casino & Tower Suites
+28256|Dolphin Marina
+28257|Albatros
+28259|Kini Park
+28311|St. Stefan
+28699|Magnolia
+28701|Nessebar Beach
+28702|Bellevue Hotel
+28704|Riviera Beach
+29223|Hotel.com
+29450|Kavkaz Golden Dune
+29452|Paradise Beach
+29544|Sunny Day Veronika
+29568|Laguna Mare & Laguna Garden - Laguna Garden
+29581|Azurro
+29616|Ritza
+29618|Palm Beach
+31272|Kaliakra Palace
+32270|Sirius Beach
+32294|Exotica
+32295|Dana Palace Park
+32296|Astoria
+32297|Aquamarine
+32915|Festa Panorama
+32916|Hotel Tiara Beach
+33322|Berlin Green Park
+33323|Sun Palace
+34769|Morsko Oko Garden
+34945|Marina Grand Beach
+34946|Viva Club
+34947|Paraiso Beach
+34948|Luca Helios Beach
+34949|Riu Helios
+34950|Victoria Palace
+34951|Alba
+34952|Martinez
+35371|Colosseum
+35372|Diamond
+35373|Silver
+35855|Briz
+35856|Warschau
+38277|Strazhite
+38278|Tanne
+38279|Finlandia
+39074|Avenue
+39079|Junona
+39081|Korona
+39338|Holiday Park
+39342|Kaliopa
+39352|Panorama
+39490|Sol Luna Bay Resort - Bay / Mare
+39491|Sol Nessebar Resort - Mare / Bay / Palace
+39497|Izola Paradise
+39498|Mena Palace
+39499|Sun City
+39500|Duni Royal Resort - Marina Royal Palace
+39506|Iberostar Sunny Beach Resort
+39578|Weisse Lagune / White Lagoon
+39623|Astera
+39624|Gladiola & Gladiola Star
+39625|Azalia
+39626|Helena Sands
+39627|Helena Park
+39628|Dune Residence
+39629|Sol Marina Palace
+39630|Bella Vista Beach Club
+40245|Flamingo
+40247|Paradise Green Park
+40248|Golden Beach Park
+40250|DIT Orpheus Boutique Hotel
+40252|Bohemi
+40253|Juli
+40254|Sunny Beach Plaza - geschlossen
+40255|Fiesta Beach & Fiesta M - Fiesta Beach
+40258|Sofi
+40515|Edelweiss
+40516|Elena Hotel
+40517|Royal
+40518|Marvel
+40519|PrimaSol Sineva - Beach / Park
+40523|Sunshine Club Magnolia & Spa
+40597|Wela
+40599|Bora Bora
+40600|Carina Beach
+40602|Hotel Sunny
+40670|Hotel Hawaii
+40671|Nassi
+40672|Consul
+40673|Paloma
+40674|Odessos Park
+40675|Bellevue
+41076|Termal
+41249|Kristal
+41341|Estreya Palace & Residence
+42264|Trakia Plaza Hotel
+42287|Reef
+46276|Mirage
+46391|Royal Park
+46393|Aristo
+46403|Amfora beach
+46404|Capitol
+46408|Gala
+46409|Maritza
+46497|Ela
+46501|Pirin
+46504|Sv. Nikola
+46505|Dvoretsa
+46521|Kristel Park
+46522|Sirena
+46523|Alekta
+46526|Larisa
+46529|Dari
+46537|Primorsko Club - Bisser
+46540|Eos
+46541|Kontinental
+47833|Green Park
+47920|Iglika Palace
+47921|Victoria
+47922|Kempinski Grand Arena
+48177|Riviera
+48259|Festa Chamkoria
+48309|Perla Beach Complex - Perla I / Perla Il / Perla III / Perla Plaza
+52631|Sunny Holiday
+53058|Grifid Clubhotel Bolero
+53059|Clubhotel Miramar
+53329|Perla
+53330|Caesar Palace Beach
+53331|DoubleTree Varna - Golden Sands
+54244|Aqua Azur
+54245|Hotel Atlant
+54246|Melia Grand Hermitage
+54247|Saturn
+54249|Flamingo
+54250|Fenix
+54305|Meridian
+54306|Imperial
+54307|Bilyana Beach
+54309|Selena Beach
+55582|Dahlia Gardens
+55584|Club Calimera Sunny Beach - Rodopi / Zvete
+55585|Flora Park
+56892|LTI Neptun Beach
+57002|Aphrodite
+57004|TUI best FAMILY RIU Helios Bay
+58359|Primorsko Club - Les Magnolias
+59842|Orlov
+59843|Maria Luisa
+59844|Lion
+59846|Anthony
+59847|Mercury
+60177|Leipzig
+60239|Aqua
+61198|Augusta
+61201|Ivana Palace
+61249|Briz2
+61254|Rilavitosha
+61369|Novotel Plovdiv
+61370|Ambassador
+61373|Crystal Palace
+61374|Park Moskva
+61376|Grand Victoria
+61377|Downtown
+61380|Best Western Europe
+61382|Aurelia
+61383|Jeravi
+61386|Plaza
+61387|Kempinski Hotel Marinela Sofia
+61509|Nobel
+61768|Radisson Blu Grand
+61775|City Mark
+61776|Miami
+61803|Sveta Sofia
+62324|Geneva
+62325|Grand Sofia
+62326|Maxi Park
+62458|Golden Fish
+62459|Oazis
+62523|Bravo Village Apartments
+62536|Golden Tulip - Business Varna
+62537|Grand London
+62538|Panorama
+62868|Harmony Beach
+63211|Majestic Beach Resort
+63292|Sunrise
+63762|Blue Sky
+64053|Lion Borovez
+64664|MPM Royal Central
+65029|Riga
+65056|Smolyan
+65118|Helios
+66071|Hilton Sofia
+66285|Green Park
+68171|Shoumen
+69169|Villen Valentina
+69617|Riva
+69956|Hotel Zora
+69957|Amaris
+69958|Condor Beach
+69959|Selena Star
+70878|Casablanca
+70923|Santa Marina
+70924|Enika
+70925|Alen Mak 7
+70926|Divesta
+70927|Oasis Village
+70928|Detelina
+70929|Odessos
+71015|Lozenetz
+71016|Harmony Levski
+71017|Harmony
+71018|Slavyanska Beseda
+71019|Park Inn by Radisson Sofia
+71020|Best Western Expo
+71021|Accord
+71089|Hotel Komplex Bulsun Hotels - Grand Hotel & Spa Primoretz
+71160|Imperial Park
+71274|Largo
+71276|Panorama
+71277|Regatta Palace
+71278|Smolian
+71279|Sunny Day I
+71280|Sapphire
+71393|Izvora
+71449|Hotel Allegra
+71756|Sveti Vlas
+71871|Mistral
+72742|Luxor
+72743|Almond Hill Villas
+72744|Sunny Villas
+72745|Rutland Court - geschlossen
+72746|Central - geschlossen
+72748|Anna-Kristina
+72749|Aqua
+72750|Niky
+72751|Messambria Fort Beach
+72752|Bora
+72753|BC Diamant Komplex - Diamant Residence / Efir / Efir II / Happy / Kasandra / Sunrise - Efir
+72754|Green Fort
+72755|Kaya
+72756|Palm Court
+72757|Medic
+72758|Prima 1
+72759|Serdika
+72760|Spectra Holidays Club
+72762|Sunny Fort
+72763|Tedi
+72764|Rila
+72765|Ramada Trimontium Princess
+72766|Grand Yantra
+72767|Devin Spa
+72768|Harmony Bankya
+72770|Best Western Prima
+72771|Splendid
+72772|Sankt Peterburg
+72773|St. George
+72774|Star
+73120|Brod
+73478|Borovetz Resort - Breza
+73479|Borovetz Resort - Moura
+74894|Varshava
+75051|Casa Brava 2
+75052|Opal
+75111|Party Hotel Golden Strand
+75321|Planeta
+75491|Festa Sofia
+75656|Rutland Bay
+75657|Severina
+75840|Kiparissite
+76045|Dana Palace
+76062|Light
+76063|Mura
+76067|Lion Bansko
+76387|Arabella Beach
+76531|South Beach
+76856|Katarino Spa
+76945|Menabria Nessebar
+77139|Sokol
+77140|Belmont
+77141|Evridika
+77142|Orlovetz
+77144|Razlog
+77227|Bells Kambanite
+77228|Sunset Resort - Alpha / Beta / Sigma / Delta I / Delta II / Eta / Villen
+77879|Sun Village
+77981|Serenity Bay
+78219|Evridika
+78237|Amfora
+78238|Slunchogled
+78239|Aquarius
+78623|Barcelo Royal Beach
+78624|Sea Wind
+78691|Tzarevetz / Zarevez
+78764|Lion Sunny Beach
+78828|Romance Splendid
+78829|Dallas Residence
+79025|Mountain Paradise Aparthotel
+79128|Andalucia Beach
+79224|Atrium Beach
+79229|Coral
+79240|Primorsko Club - Villas Ropotamo & Ropotamo Maisonetten & Ropotamo Lotus
+79538|Forum
+79699|Mistral
+80284|Bahami Residence
+80296|Karolina
+82378|Seven Hills
+82379|Grand Montana
+82380|Mont Blanc
+82381|Extreme
+82382|Mountview Lodge
+82383|Eagles Nest
+82384|Triada
+82699|Diter
+82700|Vega
+82711|Marina View Holiday Village
+82712|Arena di Serdika
+82713|Golden Fort
+84425|Renaissance
+85136|Sun
+85137|St. Valentin
+85138|Velingrad Grand
+85199|Victoria
+85437|Laguna Holiday
+85440|Orphey
+85441|Burgas
+85442|Holiday Inn Sofia
+85445|Central Park
+85447|Best Western Plus City Hotel Sofia
+85449|Gloria Palace
+85450|Legends
+85452|Meg-Lozenetz
+85453|Sky Way
+85454|Sofia Plaza
+85653|Light
+85654|Hera
+85655|Bay View Villas
+85790|Iztok
+85791|Elit
+85794|Anel
+86393|Duchess
+86808|Dionis
+86954|Hotel Complex Selena
+87099|Casa Boyana Boutique
+88845|Dunav Apartment House
+89005|Best Western Park
+90195|Riva Park
+90927|Olymp Park
+90928|Gurko
+90937|Nord
+90940|Rodopi
+90943|Dolce Vita
+90944|Elit 4
+90945|Gabi
+90946|Prim
+90950|Rusalka
+91596|Orpheus
+91597|Studio
+91598|Elbrus Spa
+91871|Sun
+91873|Iris
+91874|Julia
+91875|Orchidea Spa Boutique
+91876|Nikea Park
+92106|L & B
+92107|Park Hotel Gardenia
+92108|Obzor Beach Resort
+93246|Aparthotel South Beach
+93247|Duni Royal Resort - Belleville
+93466|Hill
+95006|Zornitza Sands
+95082|Perla Sun Park
+95729|Byala Beach Resort
+95730|Casa Milla
+95731|Snowplough Apartments
+95732|Lucky
+95733|Villa Park
+96701|Redenka Holiday Club - Palace / Lodge / Chalets / Grand Redenka
+97453|Esperanto
+97938|Arte
+98257|Sea Horse
+98438|Star
+98440|Dafovska
+98441|Silver House
+98442|Yasen Holiday Villlage
+98443|Vechna-R
+99647|Premier
+99739|Bansko Royal Towers
+99740|Yalta
+100648|Royal Beach Varna
+100652|Central
+101145|Juzhni Noshti
+102209|Iskar
+102335|Grand Hotel Pomorie
+102497|Bijou
+102498|Helios Spa & Resort
+102627|Marack 1+2
+103135|Dana
+103438|Top
+103439|Gran Monastery
+104093|Apartment House Sofia
+104212|Atlantic
+106551|Dafi
+107841|Holiday Village Diplomat
+108711|Maxim
+111443|Uniqato
+122241|Primorsko Grandhotel
+122332|Yavor Palace
+122333|Etara
+122334|Grand Resort Beach
+124041|Summer Dreams Apartments
+124082|MPM Hotel Guinness Bansko
+124083|Lucky Bansko
+124084|Panorama Beach Complex
+124085|Laplandia
+124086|Royal Best Western
+124087|Alliance
+124088|Vitosha Park
+124089|Pliska Hotel
+124090|Anita Aparthotel
+124091|Ashton Hall
+124142|Stella Polaris Holiday Complex
+124144|Sunset Sunny Beach
+124145|Panorama Fort Beach
+124147|Velina
+125028|Sands Holiday Apartments
+125029|Maria Revas
+125031|Milennia Apartmenthotel
+125033|Poseidon
+126886|Olymp
+126889|Vigo
+126908|Pirin Park
+127481|Garden of Eden
+128040|Rodopski Home
+128861|Bulgaria Aparthotel
+133698|Hotel Marieta Palace
+133699|Italia
+133700|Rostov
+133705|Central Forum
+133706|Oasis Sunny Beach
+133707|Cherno More
+134188|Bulgaria
+134352|White Peaks
+134353|Sunny Day Club
+134547|Joya Park Complex
+134710|Dunav
+134711|Jupiter
+134712|Corona
+135066|Les Fleurs
+135069|Best Western Bistra & Galina Hotel Complex
+135350|Blue Orange Beach
+135351|Laguna Beach Resort & Spa
+135352|Santa Marina Holiday Village
+135437|Sunrise All Suites Resort
+136160|Plamena Palace
+136223|mOdus
+136349|Belvedere
+136353|Sun Flower
+136365|Izvora Complex
+136367|Montecito
+136369|Calisto Sozopol
+136830|Serena Residence
+136837|Metropolitan
+136853|Bansko Spa & Holiday
+138164|St. Ivan Rilski Spa & Apart
+139589|Oasis
+139590|Lotos
+139591|Flamingo Grand
+139592|Sunflower
+139614|Plaza Varna
+139635|Marina Holiday Club
+139772|Komplex Amfibia Beach - Amfibia
+140542|Sandanski Park
+140547|Ralitsa Vlas Apartments
+143860|Palitra
+143862|Time Out
+143962|Tia Maria
+143963|Elitsa
+143965|Alegro
+143967|Plovdiv Guesthouse
+143969|Strimon Spa Club
+143970|Kendros
+143971|Consul Airport
+143972|Alexander Business Apartments
+143973|Art Plaza
+143975|Sofia Residence
+143977|Atol
+143979|Excelsior
+143981|Narcis
+143982|Astera
+143987|Winslow Highland
+143989|Seapark Homes Neshkov
+143990|All Seasons Club
+143992|The Cliff Beach & Spa
+143994|ApartPalazzo
+143995|Royal Sun
+143996|Prestige City 1
+144305|Impala
+144306|Danube Plaza
+144369|Avion
+160236|Grenada
+160251|Hotel Avalon
+162687|Banderitsa
+163444|Snow Legend
+182421|Festa Pomorie Resort
+182425|Sea Breeze
+182461|Budapest
+182904|Excelsior
+182905|Chaika Resort - Arcadia
+185671|Rhodopa House
+187595|Anna Palace
+187800|Valeo
+188025|Winslow Atrium
+188026|Sea Grace
+195891|Bendita Mare
+195892|Regina Mare
+196070|Calypso
+197246|Saint Thomas
+197255|Riu Pravets Resort Golf & SPA
+201509|Festa Via Pontica Resort
+201609|Bor
+201719|Vihren Palace Ski & Spa Resort
+201788|Grand Hotel Bansko
+201826|Emerald
+202257|Oleander
+202482|Famous House
+202709|St. George Palace
+204034|Ajax
+204266|Hotel Alex
+204405|Alpin
+204910|Four Leaf Clover
+205330|Aspen Golf, Ski & Spa Resort - Aspen Golf
+205331|Aspen Golf, Ski & Spa Resort - Aspen Suites
+206071|Belmont
+206250|BlackSeaRama Golf & Villas
+206480|Brigantina Beach
+206481|Bright House
+206604|Bulgari Boutique
+206716|California
+206947|Casa Ferrari Bed & Breakfast
+207380|Citius
+207536|Club Martin
+207706|Guest House Coral
+208317|Diamanti
+208687|Eden Holiday Apartments
+208714|Ego
+208779|Elegance
+209030|Evelina Palace
+209034|Evergreen Apart Hotel & Spa
+209063|Expo
+209106|Family Hotel Yanevs
+209875|Golden Yavor Apartment Complex
+210107|Guest House Fotinov
+210240|Hanat
+210460|Hi Boutique
+211636|Iceberg
+212142|Kiparis Alfa
+212145|Kirios
+212226|Kralev Dvor
+213277|Lighthouse Golf Resort & Spa
+213807|Marina Cape
+214033|Hotel Metropol
+214150|Mirena
+214261|More
+214315|Hotel Motivi
+214450|Nessebar Royal Palace
+214474|New Line Village
+214770|Orbita
+214791|Bon Voyage Orlando
+214959|Panorama
+214960|Panorama & Marina Freya Resort
+214967|Panorama Resort Apartments
+215452|Perun Lodge
+215556|Pirin Rise Apartments
+215634|Pomorie Bay Apartments & Spa
+216217|Premier Luxury Mountain Resort
+216353|Prespa Family
+216552|Hotel Rahoff
+216556|Rainbow Resort - Rainbow 1, Rainbow 2, Rainbow 3 , Rainbow 4
+217293|Rilena
+217493|Royal Bansko
+217805|Sarafovo Plaza Complex
+217876|Scotty's Boutique
+217888|Sea Paradise Complex
+218138|Sofia Guesthouse
+218139|Sofia Inn Residence
+218218|South Pearl Resort & Spa
+218245|Spa Hotel Persenk
+218357|Stambolov
+218463|Strandja
+218553|Sunny Bay
+218675|Taurus Detelina Residence
+219159|The House
+219509|The Stream Resort
+219830|Tropics
+220040|Ventura
+220724|Terra Complex
+221211|Asti Arthotel
+221215|Atlantis Resort & Spa
+221881|Eskada Beach
+226501|Belleville
+227072|Trakia Garden
+227100|Grand Dimyat
+227177|Koraba
+227400|Vezhen
+227638|Pirin Palace
+227639|Apartcomplex Business
+227640|Perelik Palace
+227641|Chateau del Mar
+227687|Villa Roka SPA
+227792|Polaris Inn
+227793|Vega Village
+227930|Boomerang
+228338|Northern Star
+228340|Sunny Sea Palace
+228579|Festa Winter Palace
+228588|Orpheus
+228809|Pirin Golf & Country Club - Holiday Apartment & Villas
+228895|Royal Beach
+228904|Forest Nook
+229106|Harmony Hills
+229371|Aphrodite Beach
+229380|Emerald Beach Resort & Spa
+229383|Smilen
+229384|Art 'Otel
+229387|Paradise View
+229389|Central Apart
+229394|Holiday Fort Noks Golf Club
+229396|Palace Marina Dinevi
+230223|Berlin Park Vitosha
+230224|Casa Karina
+231699|Riu Dolce Vita
+231710|Grifid Vistamar
+231918|Arkutino Resort
+232181|Bellevue Residence
+232183|The Mill
+232184|Mursalitsa Spa
+232535|St. Dimitar
+232823|PrimaSol Ralitsa Superior
+235272|Best Western Premier Thracian
+235294|Vemara Club
+236519|Zeus
+236633|Gallery
+236683|Atm Centre
+236966|City Avenue
+236967|Ikonomov Spa
+237118|Sornitza sands
+237185|Riviera Blue
+237416|Art Gardia
+237513|Zlaten Rog
+237517|Cabacum Beach Residence
+237518|Minotel Rashev
+237610|Viand
+238511|Tes Flora Apartments
+239011|Ryor
+239245|Interhotel
+239248|Kaylaka Park
+239310|Yassen
+239314|Royal Castle Design & Spa
+240004|MPM Hotel Sport Bansko
+240005|Lina Guest house
+240013|Euphoria Club Hotel & Spa
+240015|Sunrise Club Ravda
+240017|Graffit Gallery
+240204|Elite Apartments
+241650|Regnum Apart
+241651|Winslow Elegance
+241806|Cosmopolitan
+243440|Thracian Cliffs Golf & Beach Resort
+243757|Piry/Piri
+245409|Sol Nessebar Resort - Mare
+245410|Sol Nessebar Resort - Bay
+245411|Sol Nessebar Resort - Palace
+245562|Kamelia
+246845|Grand Royale Hotel & Spa
+247331|Primasol Sineva - Beach
+247332|Primasol Sineva - Park
+247418|Gladiola & Gladiola Star - Gladiola
+247419|Gladiola & Gladiola Star - Gladiola Star
+247482|Topola Skies Golf & Spa
+247527|Perla Beach Complex - Perla I
+247528|Perla Beach Complex - Perla Il
+247529|Perla Beach Complex - Perla III
+247707|Apolis
+248171|Villa Aurora
+248533|Central Plaza
+249217|AquaView
+249303|Dreams Black Sea
+252889|Red B and B
+252893|Arte Apartment House
+252895|Sofia Place
+252896|VIP Apartments Sofia
+252897|Avel - Guest House
+252898|BIZ Apart Sofia
+252902|St. George
+252903|Galiani Hostel
+252907|Luxury in the Forest
+252908|Gulliver
+252909|Amsterdam
+252912|Antik
+252913|Niagara
+252915|Poseidon Villas
+252916|Oceanic Casino & Hotel
+252917|Color
+254979|Sans Souci Family
+254980|Ofir
+254981|Costa Bulgara Complex
+255177|Vassiliovata Kashta
+255179|Mountain Romance Spa
+255181|Old House 1980
+255182|Green Life Ski & Spa Resort Bansko
+255183|Balkan Jewel Resort
+255184|Bansko Castle Lodge
+255185|Downtown
+255189|Pollo Resort
+255195|Elenite Villas
+255199|Privilege Fort Beach
+255200|Diamond - Dinevi Resort
+255201|Camelot Residence
+255202|Riviera Fort Beach
+255204|Aparthotels Marack
+255207|Hotel Zora
+255210|Fort Noks
+255211|Sunny Planex
+255217|Sirena
+255219|Nessebar Fort Club
+255221|Venecia
+255222|Primorsko Club - Villas Holiday
+255244|Ofir Boutique
+256362|Agata Beach
+256429|Velingrad La Casa
+256562|Park Plovdiv
+256564|Boris Palace
+256565|Renaissance
+256631|Crystal
+256833|Tarnava
+256835|SPA Complex Ismena
+257489|Chalets at Pamporovo Village
+257853|Rimini Club
+258505|Alpha
+258506|Family Hotel Zodiac
+258507|All Seasons Mountain Vistas
+258510|Villa Stresov
+259017|Villa Prolet
+259379|Grand Sirena
+259383|Liani
+259411|Golden Line
+259494|Resort Astoria & Orel - Astoria
+259495|Resort Astoria & Orel - Orel
+259527|Penelope Palace
+260015|DIT Blue Pearl
+260095|Pirin Golf Hotel & Spa
+260625|Black Sea Paradise
+261120|Aquatonik
+261122|Club Hotel Yanakiev
+261123|Merian Palace
+261207|Resort Jasmine Club & Hotel Kokiche
+261209|Resort Jasmine Club & Hotel Kokiche - Hotel Kokiche
+261295|Sunrise Club
+261329|Orbilux
+261330|Prestige City 2
+261333|Greenville
+261334|Peev
+261335|St. George Nessebar
+261508|Zdravets
+261945|Kalina Palace
+265547|Parkhotel Continental / Parkhotel Continental Prima - Prima
+265696|Best Western Plus Bristol Hotel
+265868|City Apartment
+265869|Prime Rentals Apartments Downtown Sofia
+265870|Nadin Apartment
+265872|Liza Apartment
+265873|Stefani Apartment
+265874|Milena Apartment
+265875|Butterfly Apartment
+272129|DreamBG Apartments
+272276|Gondola Apartments & Suites
+272279|Trinity Sea Residence
+272283|Grand Resort Apartments-Garden
+274899|Guest Rooms Plovdiv
+275784|Bulgaria Apartment
+284905|Akvaya
+286776|Imperial
+288172|Anastasia Residence Hotel Apart
+288173|Fashion
+288174|Hotel Favorit
+291413|Centaur
+291871|Melanya Mountain Retreat
+291873|Todoroff Wine & Spa Hotel
+291875|Riverside
+296645|Murite Club
+296667|Darius Apartments
+296944|Colosseum II
+297012|Eco Komplex Sherba
+297013|Akazia
+297014|Royal Palm
+297061|Florimont Casa Boutique
+297066|Florimont Heights Apparthotel
+297067|Radina's Way
+297440|Royal Park & Spa
+297493|Riagor
+298259|Belchin Garden Hotel Spa
+300091|Alex Beach
+300651|PirinPlace
+301385|Novotel Sofia
+302628|BC Diamant Komplex - Diamant Residence / Efir / Efir II / Happy / Kasandra / Sunrise - Diamant Residence
+309150|Tsarevets
+310855|Estreya Palace
+311098|Rio Verde
+359351|Deva
+359423|BC Diamant Komplex - Diamant Residence / Efir / Efir II / Happy / Kasandra / Sunrise - Efir II
+359424|BC Diamant Komplex - Diamant Residence / Efir / Efir II / Happy / Kasandra / Sunrise - Happy
+359425|BC Diamant Komplex - Diamant Residence / Efir / Efir II / Happy / Kasandra / Sunrise - Kasandra
+359737|Balkan Hotel
+359825|Magic Dreams
+365104|Laguna Mare & Laguna Garden
+365455|Chaika Resort - Chaika Beach / Metropol / Arcadia
+365477|Primorsko Club - Forrest Beach / Les Magnolias / Bisser & Neptun / Villas Ropotamo & Ropotamo Maisonetten & Ropotamo Lotus / Villas Holiday / Villas Kedar
+365512|Villa Iglika
+365571|Admiral Plaza
+366551|Komplex Amfibia Beach - Fregata
+366831|Galant Hotel Sofia
+366837|Sense Hotel Sofia
+368460|Hotel Sunrice
+369436|Balneo Complex Saint Spas - Valingrad
+369773|Orbita Palace
+370341|White House
+372535|Cantilena
+372587|Sunny Beauty
+372630|Bor & Edelweiss - Bor (Pine)
+372631|Bor (Pine) & Edelweiss - Edelweiss
+372632|Regina Maria Spa
+391153|Sol Luna Bay Resort - Bay
+391154|Sol Luna Bay Resort - Mare
+391168|Redenka Holiday Club - Redenka Chalets
+391219|Sunset Resort - Alpha
+391221|Sunset Resort - Sigma
+391345|Parkhotel Continental / Parkhotel Continental Prima
+391820|Redenka Holiday Club - Redenka Palace
+399792|Moonlight
+403290|Galeon Apart Complex
+403330|Suite Sofia
+404293|Megas
+405214|White Rock Castle Suite
+409077|Primorsko Club - Forrest Beach
+411612|ClubHotel Riu Helios Paradise
+411630|Royal Perla
+411816|Therma Palace
+412153|Smartline Arena Mar
+412286|Fiesta Beach & Fiesta M - Fiesta M
+415561|TM Deluxe Hotel

@@ -1,0 +1,241 @@
+13400|Grand Hyatt Seoul
+13754|Hamilton
+16530|Lotte Seoul
+24396|The Westin Chosun Seoul
+58317|Royal Seoul
+64454|Vision
+64455|Grand Ambassador Seoul associated Pullman
+66406|Grand Hilton Seoul
+66407|Millennium Hilton
+66498|Hilton Gyeongju
+67624|The Plaza
+77937|Lotte Busan
+80143|Sheraton Grande Walkerhill
+80145|Best Western New Seoul Hotel
+82330|New Kukje
+88617|Koreana
+88712|The Shilla Seoul
+89185|Fraser Place Central Seoul
+89187|Fraser Suites
+91701|Novotel Ambassador Gangnam Seoul
+91702|Novotel Seoul Ambassador Doksan
+91703|Paradise Hotel & Casino
+91705|The Westin Chosun Busan
+91707|Novotel Ambassador Busan
+91708|Pacific Seoul
+91709|Best Western Premier Kukdo
+91713|Lotte World
+91714|The Ritz-Carlton Seoul
+93099|CO-OP Residence Uljiro
+93101|Casaville Residence Shinchon
+96508|Hyatt Regency Incheon
+96509|Best Western Premier Incheon Airport
+96592|Imperial Palace Seul
+96593|Ramada Seoul
+96594|Best Western Premier Seoul Garden Hotel
+96595|Capital
+101743|Park Hyatt Seoul
+101744|Intercontinental Grand Seoul
+105164|Best Western Premier Gang Nam
+106506|Crown Insadong
+106507|Crown Itaewon
+107581|Hilton Namhae Golf & Spa Resort
+107798|Holiday Inn Seongbuk
+108024|Incheon Airport Queen
+108143|JW Marriott Seoul
+109424|Oakwood Premier Coex Center
+110102|Renaissance Seoul
+110796|Seoul Palace
+111209|The Lexington
+121528|InterContinental Coex
+124641|Busan Tourist
+124642|Nongshim Hotel & Spa
+124643|Seacloud
+124644|Grand Haeundae
+124645|Commodore Busan
+124647|Ramada Plaza Jeju
+124648|Neighborhood Hotel Jeju
+124649|Jeju Grand
+124650|Royal Jeju
+124651|Lotte Jeju
+124652|T.H.E Hotel & Vegas Casino Jeju
+124653|The Shilla Jeju
+124656|President
+124657|Hyundai Residence
+124658|Riviera
+124659|Jeon Poong
+124660|Dong Seoul
+129681|Kolon
+129682|Vabien II Suite
+129684|Somerset Palace
+132630|Ramada Songdo
+132635|Benhur
+132636|Astoria
+132638|Ramada Hotel & Suites Seoul Namdaemun
+132639|Three Seven Stay
+132640|Central
+132641|Savoy
+132643|Victoria
+132644|Seoul Residence
+132645|Dodo Tourist
+132646|Elle Inn
+132648|River Park
+132649|Seokyo
+132651|Noblesse Yeoksam
+132653|PJ
+132655|Sejong
+132656|Stay7 Mapo
+134304|Ellui
+136667|Incheon Airport Sky
+136872|Provista
+136873|Lees
+136879|Paradise Incheon
+136883|Grand
+136886|New Boolim
+136893|Valentine
+136896|Kensington Stars
+136902|Ocean Grand
+136908|Haeundae Centum
+136911|Centro
+136912|Friend
+136923|Prince
+136925|Saerim
+136931|Gangnam Serviced Residences
+136936|Maremons
+136938|Best Western Niagara Hotel
+136942|Mayfield
+136945|Zeumes
+136957|Biwon
+136958|Kyung Nam
+136964|CO-OP Residence Ohmokgyo
+136972|Ramada Plaza
+136973|Green World
+136974|Human Starville Cheongdam
+136980|Young Dong
+136982|Samjung
+136983|Human Starville Yeoksam
+136984|Riverside
+136985|Rex
+136990|Sorak Park
+136996|Phoenix
+137002|Olympic Parktel Seoul
+137045|Yoido
+137065|Novotel Ambassador Daegu
+137071|Airport
+137079|Crystal
+137104|Kobos
+137329|Haevichi
+137900|Mudeung Park
+138342|Vabien1
+138348|Incheon Airport June
+138367|Inter-Burgo Daegu
+142065|Coatel Chèreville
+142075|Hyundai
+142103|Prima
+142120|W Seoul - Walkerhill
+159347|Pullman Ambassador Changwon City7
+159350|Ibis Myeong-dong
+159351|Ibis Ambassador Seoul Gangnam
+159352|Riviera Yuseong
+182505|Eastgate Tower - geschlossen
+187547|ibis Suwon Ambassador
+201747|Toyoko Inn Busan Station 2
+202150|Commodore Gyeongju
+226698|Artnouveau City Seoul
+226699|Courtyard Seoul Times Square
+226700|Best Western Premier Songdo Park
+226701|Mare
+226804|Dynasty
+227193|IP Boutique Hotel
+227374|Nostalgia Seoul
+227376|Artnouveau City Gangnam
+227377|Karak
+227973|Suites Jeju
+230182|Blue Pearl
+232334|Ramada Plaza Suwon
+232370|Hankang
+232372|Metro Seoul
+232876|Incheon Airtel
+233571|Acacia
+233572|Skypark Myeongdong I
+233576|Premier Songdo Bridge
+234074|Inter-Burgo Exco
+234320|Sheraton Incheon
+234478|Best Western Premier Guro
+234483|Flower
+234485|Hill House
+234488|Biz Jongro
+234489|Cutee Gangnam
+234491|Lamir
+234493|Lotte City Mapo
+234495|M. Biz
+234497|Amourex
+235065|Joa Tourist
+236568|Banyan Tree Club & Spa Seoul
+236639|Sunset Business Busan
+236641|Ramada Seoul Dongdaemun
+236642|New Cheonji
+236643|Toyoko Inn Seoul Dongdaemun
+236797|Tea Tree
+236799|La Casa Seoul
+236800|Hangul House Seoul
+236801|COZY Myongdong
+236802|Kaya Tourist
+237344|Good Time
+237345|Toyoko Inn Busan Seo-Myeon
+238174|Seoul YMCA Tourist
+238179|Mare Gangnam
+239349|Incheon Airport Bridge
+239354|R Hotel Seoul
+239362|Skypark Myeongdong II
+239365|Suwon Starmade
+239971|Artnouveau 3 Seocho Residence
+240271|Irene
+240272|Irene City
+240273|Stay7 Gongdeok Residence
+240274|Silkroad
+241681|Sheraton Seoul D Cube City
+241684|VIV
+242281|Toyoko Inn Busan Station 1
+244143|S Hotel
+244145|Mate
+246192|Cello Sharp
+246193|Parkwood Incheon Airport
+246195|Green Residence Seoul
+247841|EV Chain Guro Parkside
+247842|David
+259409|Lotte City Gimpo Airport
+259412|Max Seoul
+259413|Sam Won Jang
+259414|Homers
+260839|ABC Guesthouse
+260841|Sutton Seoul
+260856|WS Sinchon
+261357|Ibis Ambassador Busan City Centre
+261358|Shinchon Vogue
+264866|California Seoul Seocho
+264867|Dongdaemun
+279914|Stanford
+279916|HIT Hotel
+279933|Star
+279936|The Classic 500 Pentaz Executive Residence
+279941|Nyx
+279944|Alpha Guesthouse
+284232|Ramada Plaza Gwangju
+298827|Conrad Seoul
+299735|Fox
+299736|Stella Boutique
+300660|Mont Blanc Motel - Goodstay
+300661|The View
+300665|Sun
+300666|Adlige
+300674|ANA Seoul
+300675|Casa
+300676|Mate Songpa
+301314|Dongdaemun Hostel
+368614|ibis Ambassador Seoul Insadong
+400960|Value Worldwide High End
+405328|Grammos Gangnam
+407918|The Grand Suite
+412365|Ramada Encore Seoul Dongdaemun
+417606|The Designers Jongno

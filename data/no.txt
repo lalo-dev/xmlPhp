@@ -1,0 +1,482 @@
+10460|Clarion Admiral
+10729|Continental
+12755|Marin
+12756|First Hotel Millennium
+17883|Scandic Neptun
+18042|P-Hotel Oslo
+19796|Radisson Blu Norge
+19802|Radisson Blu Plaza Oslo
+19812|Radisson Blu Royal Bryggen
+19816|Radisson Blu Scandinavia Oslo
+19837|Thon Rainbow Europa
+20328|Hotel Scandic Oslo City
+21194|Scandic Byporten Hotel
+21197|Scandic Edderkoppen Hotel
+21200|Hotel Scandic Solli
+22012|Thon Spectrum
+29337|Clarion Royal Christiania
+31945|Birkebeineren Hotel & Apartments
+31946|Radisson BLU Lillehammer
+31951|Gala Hogfjellshotel & Hütten (Hütten, Grend, Lid, Peer Gynt, Fjellgrend)
+31954|Bergo
+31955|Bergo Hütten & Appartements
+31956|Radisson Blu Resort Beitostolen
+31958|Hovdestöylen Hotel & Hütten
+31959|Skarsnuten Fjellandsby Apartments
+31960|Skarsnuten
+31961|Bardøla Høyfjellshotell & Bardøla Hütten
+32065|Quality Straand Resort
+32066|Wadahl Hogfjellshotel
+32753|Hotel Scandic Holmenkollen Park
+32754|Thon Opera
+33181|Solstrand
+34108|Radisson Blu Tromsø
+34110|Augustin
+34112|Radisson Blu Alesund
+34113|Scandic Bergen City
+34114|Scandic Residence
+34115|Fretheim
+34116|Ullensvang
+34118|Ulvik Fjordpensionat
+34120|Rondane Spa Høyfjellshotel
+34640|Comfort Holberg
+35246|Vesterland Resort
+35247|Gaustablikk Hoyfjellshotel
+35249|Vradal Hüttenpark
+36537|Thon Astoria
+36620|Best Western Hotel Bondeheimen
+36684|Thon Bristol
+36686|Tregde Skagerrak Feriesenter
+36690|Nyvågar Rorbuhotell
+36691|Sognefjord Hotell
+36692|Quality Gardermoen Airport
+36693|Hotel Scandic Kirkenes
+36694|Thon Hotel Rosenkrantz Oslo
+38503|Norlandia Geilo
+38505|Vestlia Resort
+38508|Molla Sportell
+38509|Skogstad
+38510|Fanitullen
+38513|Quality Hunderfossen
+38515|Nordseter Fjellstue Hotel & Hütten
+38517|Austlid Fjellstue
+38519|Trysil Knut
+38632|Pers Hotel
+38835|Gudbrandsgard
+38836|Quality Resort Hafjell
+39261|Best Western Karl Johann
+39359|Thon Gausdal - geschlossen
+39361|Fefor Hochgebirgshotel & Hütten
+39365|Lifjell Feriencenter
+40804|Clarion Stavanger
+40805|Clarion Collection Grand Bodø
+40806|Rica Grand Hotel Tromsø
+40807|Thon Gildevangen
+40808|Thon Nordlys
+40810|Thon Vika Atrium
+40812|Best Western Skei Hotel
+40814|Alexandra
+40815|Kvikne's
+40816|Brakanes
+40817|Hotel Union
+40818|Quality Hotel & Resort Fagernes
+40819|Hovi Hütten
+46888|First Hotel Grims Grenka
+47049|Radisson Blu Airport Oslo Gardermoen
+47055|Grand Oslo
+47056|Hotel Scandic Helsfyr
+47074|Thon Triaden
+47075|Scandic Sjolyst
+47222|Scandic Bergen Airport
+47223|Scandic Solsiden Hotel
+47277|Thon Cecil
+47364|Park Inn by Radisson Stavanger Hotel
+47365|Victoria Stavanger
+47366|Radisson Blu Atlantic Stavanger
+47367|Radisson Blu Royal Stavanger
+49979|Grand Terminus
+49981|Quality Sogndal
+49982|Hotel Scandic Forum
+49983|Britannia
+49984|Hotel Scandic Hell
+49985|Fleischer's
+49986|Hotel Scandic Victoria
+50162|Quality Edvard Grieg
+50163|Anker Hotel
+50164|Soria Moria
+50166|Comfort Børsparken
+50167|First Hotel Alstor
+50169|Clarion Collection Grand Olav
+50170|Quality Augustin
+50171|Park Vossevangen
+50172|First Hotel Breiseth
+50668|Thon Bergen Brygge
+50669|Thon Maritim
+50761|Scandic Byparken
+51232|Clarion Bryggen Tromso
+51241|Comfort Nobel
+51244|Thon Vica Alta
+51245|Rica Hotel Scandinavie
+51779|Norlandia Trysil Apartments
+51785|Wildmark Husky Farm
+51826|Quality Grand Royal
+51981|Thon Slottsparken
+51995|Thon Gyldenlove
+52218|Norlandia Royal
+52220|Kristiansund
+52871|Nordseter Appartements und Hütten
+52872|Appartements Galaseter
+52886|Villmark Lodge
+52896|Rica Travel Hotel
+52897|Voksenåsen
+52898|Svinøya Rorbuer
+56556|Skjaerbrygga Rorbuhotel
+60430|Henningsvær Bryggehotel
+61055|Mones Feriencenter
+61059|Vengstun Hyttegrend
+61063|Dragsvik Fjordhotel
+61148|First Hotel Atlantica
+61149|Thon Ålesund
+61155|Hotel Scandic Alta
+64707|Beitostolen Aparthotel
+64923|Clarion Collection Gabelshus
+64931|Thon Rosenkrantz
+65047|F2
+65052|Quality Alexandra
+65061|Geilolia Holiday - Cabins / Appartements / Geiloholtet
+65063|Trysil
+65199|Scandic Ålesund Hotel
+65669|Scandic Kristiansand
+66133|Scandic Tromsø Hotel
+66465|Scandic Asker Hotel
+66467|Scandic Hamar Hotel
+66468|Thon Hotel Hovik - geschlossen
+67587|Highland Lodge Hotel
+67674|Radisson Blu Bodø
+67691|Radisson Blu Caledonien Kristiansand
+67848|Radisson Blu Haugesund
+68210|Orterstolen
+68313|Park Inn by Radisson Haugesund Airport Hotel
+68401|Radisson Blu Park Oslo
+68424|Radisson Blu Nydalen
+68430|Rauland Hoyfjellshotell
+68480|Radisson Blu Royal Garden Trondheim
+69157|Hotel Scandic Holberg
+69282|Clarion Collection Bastion
+69712|Clarion Collection Savoy
+70576|Rica Park Hotel Sandefjord
+70577|Bergstadens Hotel
+70580|Nordfjord Hotel
+70581|Hotel Scandic Seilet
+70584|Rica Meyergarden Hotel
+70585|Rica Hotel Kristiansund
+70586|Hotel Norge
+70587|Hotel Scandic Karasjok
+70589|Rica Maritim Hotel
+70590|Hotel Scandic Hammerfest
+70591|Scandic Harstad
+70592|First Hotel Victoria
+70593|Dr. Holms
+70607|Hotel Scandic Bodø
+70610|Rica Parken Hotel
+70659|Hotel Scandic Vadsø
+70660|Thon Trondheim
+70661|Quality Panorama
+70662|Thon Polar
+70757|Hotel Scandic Nidelven
+70758|Hotel Scandic Ishavshotel
+70939|Comfort Grand Stavanger
+71410|Sortland
+71412|Vesteralen
+72331|Clarion Collection With
+72333|Quality Arcticus
+72336|Jarl
+72337|Clarion Oslo Airport
+72338|Rainbow Frogner
+72340|Thon Munch
+72341|Best Western Narvik
+76123|Hotel Scandic Victoria
+76719|Clarion Collection Hammer
+77913|Dovrefjell
+78877|Thon Terminus
+80394|Thon Arena
+80395|Quality Hotel Grand Kristiansund
+80396|Thon Harstad
+80397|Hotel Scandic Ringsaker
+80399|Best Western Baronen
+80401|Quality Strand Gjovik
+80402|Best Western Stav
+80405|Quality Ulstein
+80407|Best Western Tingvold Park
+80410|Best Western Laegreid
+80411|Quality Hotel & Resort Sarpsborg
+80412|Roros
+80414|Norlandia Rognan
+80416|Nordlansia Otta Hotell
+80419|Quality Oppdal
+80420|Norlandia Telemark
+80424|Norlandia Lyngengarden
+80425|Best Western Maloy
+80429|Best Western Horten
+80433|Scandic Sunnfjord Hotel & Spa
+80436|Revsnes
+80438|Laerdal Feriepark
+80745|Spitsbergen Hotel
+80747|Vestfjord
+80748|Clarion Collection Havnekontoret
+84318|Sandviken Brygge
+85628|Clarion Ernst
+85629|Comfort Skagerak
+88005|Thon Bergen Airport
+88006|Thon Bristol Bergen
+88054|Thon Oslofjord
+88057|Thon Ski
+88682|Quality Airport Stavanger
+90586|Fossheim
+90822|Hafjell Hotel & Appartements
+91791|Best Western Chesterfield
+91831|Quality Saga
+91834|Quality Tonsberg
+91835|Quality Hotel & Resort Vøringsfoss
+92038|Hotell Geiranger
+92804|Clarion Collection Atlantic
+92891|Anker Brygge
+92894|Thon Gardermoen
+93323|Best Western Hordaheimen
+93348|Thon Hammerfest
+93352|Rica Park Hotel, Drammen
+93353|First Hotel Ambassadeur
+93365|Kinsarvik Fjordhotel
+93366|First Hotel Solborg
+93774|Thon Oslo Airport
+96610|Sola Strand
+96612|Lysebu
+96617|Dalen
+96618|Bardshaug Herregard
+96620|Kong Carl
+96621|Losby Gods
+96623|Fru Haugans
+96655|Loenfjord
+97081|Comfort Grand
+97082|Comfort Ringerike
+102392|Quality 33
+103145|Clarion Collection Bryggen
+103146|Clarion Collection Bakeriet
+103147|Statles Rorbusenter
+103533|Carlton Oslo
+104194|Astoria
+104911|Best Western Havly
+105098|Best Western Neptun
+105300|Best Western Svolvaerl Lofoten
+105392|Best Western West
+105913|Clarion Bergen Airport
+105916|Clarion Collection Amanda
+105918|Clarion Collection Bryggeparken
+105931|Clarion Collection Tollboden
+105949|Clarion Tyholmen
+106346|Comfort Park
+106707|Det Hanseatiske
+107514|Hardanger
+108196|Kjobmandsgaarden
+108638|Maritiml AS
+109171|Moss
+109769|Quality & Spa Holmsbu
+109805|Quality Floro
+109806|Quality Førde
+109877|Quality Olavsgaard
+109903|Quality Skaergarden
+110067|Reisafjord
+110747|Hotel Scandic Stavanger Forus
+110854|Skagen
+110855|Skagen Brygge
+110990|St. Olav
+111327|Molla
+111432|Tvedestrand Fjordhotel
+122822|Pers Resort
+122866|Nermo
+124829|Saga Hotel Oslo
+132811|Bergen Travel Hotel
+132818|Grande Fjord
+132824|Best Western Raftevolds
+132826|Rica Dyreparken Hotel
+132830|Scandic Syv Søstre
+132833|Hotel Scandic Stavanger Park
+132835|Stranda
+132838|Rica Havna Hotel
+132839|Singsaker Sommerhotell
+134913|Quality Airport Vaernes
+134915|Quality Astoria
+134917|Quality Grand
+134918|Quality Grand
+134919|Quality Grand Farris
+134921|Quality Kristiansand
+134922|Quality Residence
+134934|Hotel Scandic Gardermoen
+134935|Quality Klubben
+135315|Klaekken
+136583|Kronen Gaard Hotell
+137524|Grand Bellevue
+138139|Fauske Hotell
+139394|Rica City Hotel, Fredrikstad
+139395|Rica Hotel Grimstad
+139400|Stord Hotell
+143409|Furuholmen Ferienanlage
+159880|Active Cabin
+159891|Arendal Herregaard Spa & Resort
+159904|Bardufosstun
+159922|Best Western Kampen Apartment
+159932|Byrkjedalstunet
+159950|Comfort Trondheim
+159954|Concept Gamla Vaerket
+159973|Fjellro Turisthotel
+159979|Gardermoen B&B
+160008|Brosundet
+160066|Sverre
+160069|Vic - Porsgrunn
+160075|Skytterhuset
+160079|Jaeren
+160094|Maritim Fjordhotell
+160098|Mosjoen
+160101|Myhregaarden
+160109|Park Halden
+160110|Park Alta
+160111|Arendal Maritime
+160136|Quality Fredrikstad
+160137|Radisson Blu Resort Trysil
+160142|Rica Kirkenes
+160154|Smarthotel Forus
+160159|Stiklestad Park
+160170|Thon Lofoten
+160171|Tjeldsundbrua Kro & Hotell
+160208|Vinger & Spa
+160213|Westland Hotel - Lindas
+160219|St. Svithun Hotell
+183104|Voss Resort
+187380|Anker Apartment
+187561|Mitt
+196338|Vangslia Fjelltun Apartments
+202283|Comfort Florø
+202970|Veslestølen Hyttegrend
+202976|Hovdehytta
+203072|Rosfjord Strandhotel
+203076|Quality Resort & Spa Norefjell
+203083|Tregde Feriesenter
+204048|Akershave Apartments
+207436|City Living Tromsø
+207437|City Living Schøller
+207488|Clarion Collection Folketeateret
+207608|City Living Hotel Lipp
+207611|Comfort RunWay
+207612|Comfort Union Brygge
+209513|Gardermoen Airport Hotel
+209718|Gaustad
+211496|First Hotel Kristiansand
+211746|InCity Hotel & Apartments
+214551|Nordkapp Vandrerhjem Hostel
+218414|Steens
+219651|Thon Ullevaal Stadion
+220900|Yess!
+221931|Fjordslottet Hotell & Bad
+222085|Gudvangen Fjordtell & Apartments
+222129|Hankø Fjordhotell & Spa
+222154|Herang
+222537|Lampeland
+223161|Radisson Blu Trondheim Airport
+223630|Tyrifjord
+223658|Valhall Hotel & Resort
+223781|Viste Strandhotel
+226491|Best Western Oslo Airport
+226494|Strand Fevik
+227382|Hotel Scandic Oslo Airport
+228393|Anker Hostel
+228464|Thon Tromsø
+228465|Havsdalsgrenda
+230875|Thon Kirkenes
+232192|Comfort Xpress
+233459|Comfort Square
+233460|Skifer
+233741|Scandic Haugesund Hotel
+234323|Eidfjord Fjell
+234973|Best Western Globus
+237763|Scandic Strand
+238229|Best Western Plus Grand Hotel
+239902|Clarion Collection Hotel Christiania Teater
+242887|Quality Hotel Waterfront
+242891|Hotel Scandic Narvik
+244193|Park Inn by Radisson Oslo Airport, Gardermoen Hotel
+244195|Hotel Scandic Vulkan
+246117|Panorama
+246475|First Hotel Hendersons City
+248674|Quality Expo
+259563|Finnholmen Brygge AS
+261200|Myrkdalen Mountain Resort - Apartments & Cabins
+261201|Park Inn by Radisson Trysil Mountain Resort
+264522|Gruner Apartments
+270860|My City Home - Hotel & Apartments
+271441|Lillehammer Turistsenter
+272922|Bergen Bed & Breakfast
+272923|Jacobs Apartments & Hotel
+273394|Trudvang Gjestegård
+273419|St-Elisabeth Helsehus
+273421|ABC Hotell Nord
+273936|Hordatun Hotel
+274250|Kvitfjell Hotel
+274446|Farsund Fjordhotell
+274584|Sandtorgholmen Hotel
+274585|Molde Fjordstuer
+274691|Lofoten SuiteHotel
+275717|Engholm Husky Design Lodge
+275718|Dombås Motell
+275955|Horten Næringspark
+275966|North Cape Guesthouse
+279310|Frogner House Apartments - Arbinsgate 3
+279312|Frogner House Apartments - Skovveien 8
+279313|Olympiatoppen Sportshotel
+280771|Viking Hotell Tromso
+281067|P-Hotels Brattøra
+281068|Hotel Scandic Bakklandet
+283598|Hotel Scandic Stavanger Airport
+291017|Alver Hotel Alversund
+292503|Dalseter Høyfjellshotell
+292712|Eivindvik Fjordhotell
+292911|Aalesund Airport Hotel
+292991|Utsikten Hotell
+292992|Parken Terrasse Apartment Hotel
+292996|Øigardseter Fjellstue
+293042|General Hotell
+293595|Pan Garden Hotel & Resort
+293602|Hotel Scandic Fornebu
+293603|Gjesdal Gjestgiveri
+293974|Red Tree
+294234|Cinderella Cafe & Hotel
+294290|Solheim Accommodation
+294751|Gårdshus
+294772|Norlandia Sea Cabins
+294833|Energihotellet
+295418|Svene Gjestegård
+295419|Vågå Hotel
+295421|Sjåvik Overnatting
+295866|Farsund Resort
+298019|The Thief Oslo
+298267|Hotel Scandic Rock City
+298279|Vesteralen Apartment
+300852|Alpin Lodge & Apartments
+302549|Andrikken Hotell Andenes - Andrikken Hotell / Hotel Viking / Lankanholmen Sjøhus / Havhusene Bleik
+359802|Skarsnuten Panorama
+359862|Fjordresort Malangen Brygger
+368779|Clarion Collection No 13
+368780|Scandic Ørnen
+368933|Amalie Hotel
+368934|Smarthotel Tromso
+370325|Rica Elgstua Hotel
+370330|Hotell Marena
+391370|Hotel Scandic Stavanger City
+403275|Myrkdalen Mountain Resort - Hotel
+406598|Geilolia Holiday - Cabins
+408734|Clarion Hotel Edge
+411626|Oslo Hotel Apartments
+412044|Ustedalen Hotel & Resort
+412185|Clarion Collection Hotel Kysten
+412928|Frogner House Norum
+416371|Best Western Sauda Fjordhotel
+417510|Clarion Hotel Energy

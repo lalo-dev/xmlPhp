@@ -1,0 +1,67 @@
+54579|Sheraton Tirana
+87098|Tirana International
+90922|Mondial
+90923|Rogner
+93463|Diplomat
+99735|Doro City
+99737|Grand
+102604|Adriatik
+103571|Butrinti
+103572|Mali i Robit Golem Resort
+103573|Tropikal Resort
+103574|Vila Belvedere
+103575|Regency
+103576|Grand Europa
+103577|Vila Park
+103578|Rapos Resort
+103638|Château Linza
+124044|Vlora International
+127709|Brilant Antik
+127712|Europa
+127859|Arvi
+127865|Bella Vista
+127866|Benilva
+127877|Grand Palace
+127880|Pavaresia
+127881|Continental
+144416|Xheko Imperial
+144417|Baron
+144419|New York
+188020|Ferrari
+226512|Vila Belvedere
+226513|Dyrrah
+227099|Castle Park
+227777|Dolce Vita
+227778|Ambasador
+227779|California
+227780|Tafaj
+228833|Aragosta
+228835|Lliria
+228836|Oaz
+228841|Brilant
+228842|Sky
+228843|Airport Tirana
+231748|Diplomat Fashion
+234519|Paradise Beach
+236649|Cajupi
+236651|Porto Eda
+239475|City Tirana
+245821|Nobel
+247570|Best Western Nov
+247706|Tomorri
+249352|Golden City
+249971|Mediterrane
+256870|Hotel de Paris
+260401|Bel Conti
+260402|Sea Side Saranda
+260403|1 Maj
+261021|Kaonia
+261022|Victoria
+265576|MonarC
+265577|White Dream
+275825|Vila e Arte
+295446|Enkelana
+298271|Palma
+301513|Bleart
+370392|Capital
+370397|Vila Alba

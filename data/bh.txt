@@ -1,0 +1,65 @@
+27946|Gulf Bahrain
+37996|The Ritz-Carlton Bahrain
+52723|Novotel Al Dana Resort
+54644|The InterContinental Regency Bahrain
+54645|Crowne Plaza Manama Bahrain
+60858|Delmon
+60865|Mövenpick
+60868|Sheraton Bahrain
+63843|Ramada Bahrain
+67545|The Diplomat Radisson Blu Residence & Spa
+76834|Al Areen Palace & Spa
+77697|Mercure Grand Seef
+81275|Windsor Tower
+82279|The Juffair Grand
+84347|Ramada Palace Manama
+96568|Gulf Court
+96569|Elite Resort & Spa
+96570|Somerset Al Fateh
+98842|Al Safir Hotel & Tower & Residence
+99567|Elite Grande
+99568|Elite Seef Residence
+103440|Sealoft Boutique Chalets
+107280|Golden Tulip Bahrain
+111749|Best Western Baisan International
+129250|Elite One
+129251|Elite Royale Residences
+129253|One Pavilion Luxury Serviced Apartments
+129254|Elite Two
+129256|Atlas
+129518|Ramee Suite 1
+133714|Metropolitan
+133715|Panorama
+133719|Elite Four
+133720|Days Manama
+133722|Grand Bahrain
+133728|Pars International
+136788|Ramee Suite 3
+138308|Ramee Suite 4
+138335|Ramee Suite 2
+143998|Ramee Baisan Hotel
+157263|Ramee Palace Hotel Bahrain
+157264|Al Khobar Plaza
+203132|The Dragon Hotel & Resort
+204073|Al Manzil Suites
+204080|Al Raya Suites
+207646|Concord International
+208807|Elite Five
+208813|Elite Tower
+213256|L'Hotel Bahrain - geschlossen
+227401|Ramee California
+228380|V Tower Residence
+228889|Hani Suites & Spa
+231927|Sofitel Bahrain Zallaq Thalassa Sea & Spa
+233176|The K
+237143|Monroe Bahrain
+240113|Diva
+240127|The Palace Bahrain
+247516|Elite Crystal
+253734|Residence Inn Manama Juffair
+253735|Ramee International Hotel
+299293|Best Western Plus The Olive
+300833|Tulip Inn Bahrain Suites and Residences
+367691|The Domain Bahrain
+417585|Al Safir Hotel & Tower & Residence - Al Safir Hotel
+417586|Al Safir Hotel & Tower & Residence - Al Safir Tower

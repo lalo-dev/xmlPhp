@@ -1,0 +1,3581 @@
+6996|Lisboa
+7700|Grand Park Xian
+8075|Asia Beijing
+8526|Crown Plaza Kunming City Centre
+9674|Capital
+10176|Castle
+11079|Sheraton Guilin
+11834|Xinmei East China Hotel
+12157|Equatorial Shanghai
+13007|Fubo
+13232|Riverside
+13256|Gloria Resort
+13483|Grand Hyatt
+13495|Grand New World
+13664|Plaza Guilin
+14508|Regency Macau
+15056|JC Mandarin
+15071|Jinjiang Shanghai
+16344|Lijiang Grand
+16746|Mandarin Garden
+16748|Mandarin Oriental Macau
+16754|Grand Lapa Macau
+17498|Sichuan Minshan
+17500|Minzu
+17933|New Otani Chang Fu Gong
+17939|pentahotel Beijing
+18065|Ramada Plaza
+18192|Ocean
+18441|Pravo
+18891|Fairmont Peace
+19437|Prime
+19501|Shangri-La Pudong
+19567|Dynasty
+20676|Royal Garden
+21469|Shangri-La
+21596|Sheraton Xian
+21688|Swissotel Beijing
+21803|Sofitel Hyland
+21994|South China Resort
+22499|Taiwan
+22786|The Great Wall Sheraton
+22893|The Peninsula
+23129|Tibet
+24327|Wangfujing Grand
+24435|White Swan
+24502|Zhejiang Narada Grand
+24559|Novotel Xin Qiao
+24561|Xuanwu
+27963|Pousada de Sao Tiago
+28021|Holiday Inn Resort Sanya Bay
+28023|Resort Golden Palm Sanya
+30589|Jing Guang New World
+30590|Regal Shanghai East Asia
+32406|Grand Hyatt Beijing
+32407|Qianmen Jian Guo
+32408|Grand Mercure Beijing Central
+35389|Grand View Garden
+35391|Lansheng
+35392|Bell Tower
+35393|Le Garden
+35394|Guilin Park Hotel
+38096|Four Seasons Shanghai
+38097|The Portman Ritz-Carlton
+38143|JW Marriott Chongqing
+38562|Holiday Inn Shanghai Downtown
+38563|Kunlun
+38564|Shanghai
+38565|Sheraton Hongqiao
+38566|Park Plaza Science Park
+38587|Shangri-La Changchun
+38589|Shangri-La Qingdao
+38590|Shangri-La Golden Flower
+38591|Shangri-La
+38810|Beijing
+38811|The Westin Bund Center
+39170|Exhibition Centre
+39172|Hua Ting Hotel & Towers
+39414|Holiday Inn City Centre
+39415|Okura Garden
+39417|Grand Metropark Xi'an
+51341|Beijing International
+51343|Kempinski Lufthansa Center
+51344|Majesty Plaza
+52360|Holiday Inn Macau
+52712|Sanya Sheraton
+53053|The Garden
+53054|Howard Johnson Plaza
+53055|Landmark Canton
+54537|Guangzhou
+54538|Hengsheng Peninsula International
+54702|Holiday Inn Changan West
+54703|Hilton Beijing
+54704|Metropark Lido
+54706|Jian Guo
+54708|Holiday Inn Downtown Beijing
+54709|China World
+54711|Crowne Plaza Wangfujing
+54712|Holiday Inn Temple Of Heaven
+54714|Crowne Plaza
+55702|Grand Beijing
+58077|The Venice
+58316|Jinling
+58322|Hilton Shanghai
+58323|Captain Hostel - Yan An Road Branch
+58324|DoubleTree Shanghai - Pudong
+58682|Horizon Resort & Spa
+58683|Resort Intime
+58742|Radisson Blu Beijing
+58743|Traders Beijing
+58744|Rosedale
+60915|Bai Yun Hotel
+60927|Hua Du
+60929|Intercontinental Pudong
+60933|Jin Jiang Tower
+60934|Greenland Jiulong
+60938|Shangri-La
+63536|Marriott Hongqiao
+64416|Renaissance Shanghai Yangtze
+64417|Rainbow
+64451|Harmony
+64452|New Asia
+64453|Guangdong
+65475|Hilton Dalian
+66238|Jianguo
+66240|Asia International
+66241|HNA Central
+66244|Rosedale
+66245|DongFang
+66246|Lido
+66247|Wa King Town
+66248|Guangdong Victory
+66408|Hilton Chongqing
+67619|Radisson Plaza Xing Guo
+68657|RJ Brown
+68658|Sofitel on Renmin Square Xian
+68659|Sanya Marriott Resort & Spa
+68932|Guilin Bravo Hotel Grand Wing
+70037|Kunming
+70074|Holiday Inn Central Plaza
+71800|Mission Hills Shenzhen
+72589|Banyan Tree Lijiang
+73085|Grand Coloane Resort
+73148|Novotel Atlantis
+75324|Renaissance Shanghai Pudong
+75777|Gloria Plaza
+75778|Bamboo Garden
+75779|Novotel Peace
+75835|Radisson Blu Shanghai New World
+76323|Hilton Sanya Resort & Spa
+76324|Golden Jade Sunshine
+76354|Central Shanghai
+76355|Grand Noble Xi'an
+76738|Wynn Macau
+76740|Raffles
+76826|Lijiang Waterfall
+77257|Aurum International
+77258|Tianyu Gloria Grand
+77259|Grand Mercure Xian Renmin Square
+77260|Mercure on Renmin Square
+77266|Sanya Yalong Bay Seaview International Resort
+77280|HuaYu Resort & Spa Yalong Bay Sanya
+77281|Shanhaitian
+77631|Crowne Plaza Fudan Shanghai
+78125|The Bund
+78126|Park Plaza Beijing Wangfujing
+79038|New Century
+79179|Holiday Inn Shanghai Pudong
+79180|Salvo
+80018|Dong Fang
+80142|Golden River View
+80578|The Hongta
+80579|The Ritz-Carlton
+81990|Fuchun Resort
+82152|Rainbow Beijing
+82153|Liang An
+82318|CTS Plaza
+82319|Astor House
+82320|Skytel
+82321|Guilin Osmanthus
+83868|New Era
+83955|Royalton
+84071|Harbour Plaza Chongqing
+84092|Kempinski Chengdu
+84104|Ramada Plaza Tian Lu Hotel Wuhan
+84141|Phoenix City
+84155|Shangri-La Dalian
+84165|New Harbour Service Apartments
+84171|Chang Hang
+84177|Jin Jiang Park
+84179|Zhongyu Century Grand
+84180|Zhao An
+84182|Nanyang King's Gate
+84184|Oasis Tower
+84187|Ascott Beijing
+84189|Somerset Grand Fortune Garden
+84190|Luxury Serviced Residence
+84192|Acme Sunhall Serviced Apartment
+84194|Somerset Xu Hui
+84196|Somerset Olympic Tower
+84197|Springdale Serviced Residence
+84198|New West Street International Hotel
+84199|Somerset Harbour Court
+84214|GreenTree Inn Shanghai Quyang
+84234|V8 Train Station Branch
+84307|Sakura Kunming
+84333|Oriental Riverside
+84359|Howard Johnson Plaza Guizhou
+84360|Yangshuo Paradise
+84389|Nikko Dalian
+84393|The Yangtze Boutique
+84451|Zhejiang International
+84495|Long Hu Hotspring
+85012|Grand Emperor
+85013|Best Western Taipa
+85140|Dong Jiao Min Xiang Hotel
+85143|Jian Guo Garden
+85156|Yangshuo New Century Resort
+85513|Emperor Macau
+85514|Beverly Plaza Macau
+85516|Metropark
+85517|Metropole
+85521|Rio
+85522|The Ritz-Carlton Macao, Studio City
+85523|Sintra
+87417|Days
+87434|Mandarin Oriental Sanya
+87889|Red Wall
+88151|Casa Real
+88198|HNA Resort Kangle Garden
+88316|Canaan International
+88481|Swiss-Belhotel on the Park
+88489|Holiday Inn Express Hefei Downtown
+88638|Nikko Tianjin
+88661|Howard Johnson Paragon
+88863|Yong An
+88946|Zhongan
+88977|Grand Mercure Shenzhen Oriental Ginza
+89007|City View
+89008|Chateau Regency
+89013|Howard Johnson Allsuites
+89014|LinTong
+89015|Rendezvous Shanghai Merry
+89023|Rayfont Celebrity
+89076|Magnificent International
+89079|Lilac International Suite
+89080|Shanghai Luminous Modern Universe
+89127|Lake View Hangzhou
+89128|International Conference Hotel of Nanjing
+89130|Huachen International
+89131|Culture Plaza Zhejiang
+89133|Jin Jiang Pacific
+89139|Jin Jiang Galaxy
+89172|Jin Jiang
+89180|Jin Jiang Cypress
+89181|Jinjiang Airlines Shenzhen
+89182|Jian Guo
+89245|Century Kingdom
+89286|V8 Zi Yuan Gang Branch
+89344|Wuhan Jin Jiang International
+89345|Holiday Islands
+89346|Pine City
+89347|Jin Jiang Jin Sha
+89349|World Trade Shanxi
+89383|Zhejiang XiZi
+89407|HNA Beach & Spa Resort
+89413|Somerset ZhongGuanCun
+89416|Green Court Serviced Apartment
+89417|Citadines Xinghai Suzhou
+90253|Narada Resort & Spa
+90254|Sofitel Wanda
+90255|Hyatt on the Bund
+90257|Le Royal Méridien
+90530|Dorure International
+90534|Universal Resort Sanya
+91538|StarWorld Macau
+91541|Four Points by Sheraton Shanghai, Pudong
+91542|Shangri-La Wuhan
+91543|Marriott China
+91792|Beijing Wuhuan
+92460|New World
+92860|Swissotel Grand
+92861|Yinhe Dynasty
+93293|Mangrove Tree Resort Yalong Bay
+93699|Grand International
+93700|Nanyang Royal
+93702|Tianyuan Tower Hangzhou
+93705|Jin Jiang Metropole
+93706|Howard Johnson Zhangjiang
+93707|Argyle International Airport Hongqiao
+93761|Great
+93762|Xinhai Jinjiang
+93763|Shatan
+93764|Oriental Garden
+93765|Jinjiang Fuyuan
+93766|Fujian
+93767|Somerset Apartment
+93769|Citycourt
+94017|Jingmin Central
+94146|Holiday Inn Zhongshan
+94147|Crowne Plaza Zhongshan
+94148|Novotel Bauhinia
+94149|Holiday Inn Donghua Shenzhen
+94173|Sofitel Zhongshan Golf Resort
+94174|Holiday Inn Shifu
+94175|Holiday Inn North
+94176|Intercontinental Chongqing
+94177|Crowne Plaza Chengdu City Center
+94181|Crowne Plaza Shanghai
+94182|Holiday Inn Shanghai Vista
+94183|Crowne Plaza Pudong Shanghai
+94238|Intercontinental Financial Street Beijing
+94618|Sheraton Xiamen
+94630|Sheraton
+95497|Donghu
+95684|Green Lake Resort
+95983|Days Inn Forbidden City
+95984|The Panorama
+96216|Palace Lijiang
+96496|The Ritz-Carlton Financial Street
+96497|The Ritz-Carlton Sanya
+96578|Yafan Longmen
+96579|CITIC Beijing Airport
+96582|Qianyuan International Business Hotel
+96583|Renaissance Shanghai Yuyuan Garden
+96584|The Westin Beijing Financial Street
+96585|Fortune Land International
+96586|The Presidential
+96587|China Central Palace Service Apartment
+96589|Golden Palace Silver Street Hotel
+96590|San Want
+96591|Millennium Hongqiao
+97514|Wancheng Huafu International
+97516|Broadway Mansions
+97520|City Shanghai
+97521|Howard Johnson Huaihai
+97522|The Bridge
+97943|Grand Mercure Shanghai Hongqiao
+99662|Lu Song Yuan
+99703|Commune by the Great Wall
+99713|JW Marriott Beijing
+99714|Kun Tai Royal
+99715|Kapok
+99721|Four Points
+99726|Han's Royal Garden
+99795|Tianfu Sunshine
+99830|Ruijin
+100200|Doubletree
+100201|Crowne Plaza International Airport
+100202|Zhongtang Courtyard
+100203|Longwu Jingpin
+100204|Sunjoy
+100205|Double Happiness Courtyard
+100300|Pullman Guangzhou Baiyun Airport
+100301|Westin Guangzhou
+100310|Crowne Plaza Hangzhou Xanadu Resort
+100569|Holiday Inn Hangzhou
+100744|Marco Polo Suzhou
+100745|Grand Palace Guangzhou
+100753|Best Western Olympic Stadium
+100755|Sunworld Beijing
+100756|Boya
+100759|The Regent
+100760|Sheraton Chengdu Lido
+100761|Golden Bridge
+100762|The Ritz-Carlton
+100763|Shangri-La Guangzhou
+100764|Ramada Pearl
+100765|Elan Guangzhou
+100766|Crowne Plaza City Centre
+100767|Ascott Guangzhou
+100768|Yangshuo Tangrenjie
+100769|Friendship
+100770|88 Xintiandi
+100771|Cachet Boutique Shanghai
+100772|Shangri-La Suzhou
+100773|Pan Pacific
+100816|The Landmark
+101220|Sofitel Westlake
+101221|Lily
+101223|Kunming Jin Jiang Hotel
+101610|Mercure Suzhou Park
+101611|Parkview
+101615|Tianfuyuan Sanya
+101745|Marco Polo Parkside
+101746|Manhattan Business
+101748|Sofitel Wanda
+101751|Eadry Resort Sanya
+101752|Yuhai International Resort & Suites
+101754|Free Town
+101756|Sanya Pearl Sea View
+101758|Crown Towers at City of Dreams
+101760|Liston
+101761|Shanghai Regius Exhibitiong
+102396|Somerset Emerald City
+103013|Holiday Inn Express Putuo
+103446|Jinglun
+103447|Nikko New Century
+103448|City Inn Happy Valley
+103449|Holiday Inn Yangtze
+103450|Sofitel Forebase Chongqing
+103451|Wanda International
+103452|Furama
+103453|Mercure Teda Dalian
+103454|Warm Yes
+103455|Skyline Plaza
+103456|Guangzhou
+103457|Daysun Park
+103458|Portman Plaza
+103459|Goodsun International
+103460|Best Western Kylie
+103461|Citic International
+103468|Crowne Plaza Lake Malaren Shanghai
+103469|Best Western Hangzhou Meiyuan
+103501|Linda Seaview / Lindao Seaview
+103502|Days Hotel & Suites Sanya Resort
+103504|Guest House International
+103560|Imperial-Court
+103561|Peninsula
+103563|Pinghu Hotel Yichang
+103565|365 Days Inn
+103566|Jin Jiang Royal Garden Resort
+103570|Fraser Suites CBD
+103622|Ever Sunshine
+103623|Ramada Caohejing
+103624|Delight Pacific Ladoll
+103625|Royal Court
+103626|Ramada Zhabei
+103627|Grand Skylight Gardens
+103628|Yun's Paradise
+103629|Ramada Hongkou
+103707|Four Points by Sheraton Shenzhen
+103708|InterContinental
+103709|Kempinski Shenzhen
+103710|Guangdong
+103711|Empire
+103712|Grand Skylight
+103713|Century Plaza
+103714|Vienna Airport
+103715|City Inn Zhuzilin
+103717|Marco Polo Shenzhen
+103718|OCT City Inn Exhibition
+103719|Days Inn Shenzhen
+103722|Fraser Place Shekou
+103723|The Pavilion
+103724|The Pavilion Century Tower
+103725|City Inn Shangbu South Road
+103726|City Inn Happy Valley
+103727|City Inn Xinqiao
+103728|Regalia Resort & Spa (Li Gong Di)
+103780|Golden Dragon
+103781|MGM Grand Macau
+103812|Banyan Tree Sanya
+103886|Airport Garden
+104349|Chang An Grand
+104353|Guangxi Plaza
+104361|Jing Lin
+104362|Jing Du Yuan
+104369|Phoenix Suyuan
+104371|Tibet
+104661|Best Western C-Bank Wuhan
+104683|Chongqing East Garden
+105177|Best Western Premier Qingdao Kilin Crown
+105180|Best Western Premier Wuhan Mayflowers Hotel
+105258|Best Western Shenzhen Felicity
+105746|Changsha Dolton International
+105830|Chime Long
+105832|China Mayors Plaza
+105851|Chong Wen Men
+106478|Courtyard Pudong
+106479|New World Shunde
+106481|Courtyard by Marriott Wuxi
+106511|Crowne Plaza Century Park
+106512|Crowne Plaza Changshu
+106517|Crowne Plaza Jinan City Centre
+106522|Crowne Plaza Nanjing Hotel & Suites
+106527|Crowne Plaza Paragon Xiamen
+106528|V- Continent Beijing Parkview Wuzhou
+106536|Crowne Plaza Suzhou
+106541|Crowne Plaza Zhanjiang
+106550|Holiday Inn Datong City Centre
+106997|Holiday Inn Express Dalian City Centre
+107035|Holiday Inn Express Shangdi
+107052|Holiday Inn Express Zhengzhou Zhongzhou
+107161|Fietser International Residence
+107175|Zhujiang Overseas
+107258|Gloria Plaza Dalian
+107260|Gloria Plaza Shenyang
+107261|Gloria Plaza Suzhou
+107359|Grand Bay View
+107388|Grand Metropark
+107389|Grand Metropark Hangzhou
+107392|Grand Noble Hotel
+107412|Grandview Macau
+107426|Zhaolong
+107454|Guangzhou East Asia
+107474|Hai Tian
+107496|Capital Star Hangzhou
+107499|Hangzhou Huajiashan Resort
+107546|Hengfeng Haiyue International
+107547|Hengshan Picardie
+107548|Hengshan Moller Villa
+107578|Hilton Hefei
+107591|HNA Resort Huagang
+107614|Holiday Inn Binhai Tianjin
+107627|Holiday Inn Chengdu Century City - Westtower
+107641|Holiday Inn Daya Bay
+107645|Crowne Plaza Ordos
+107704|Holiday Inn City Centre
+107706|Holiday Inn Hefei
+107711|Holiday Inn Hohhot
+107717|Holiday Inn Jasmine Suzhou
+107789|Holiday Inn Sea View Qinhuangdao
+107816|Meilian Holiday City Centre
+107817|Holiday Inn Express Tianjin City Centre
+107835|Holiday Inn Riverside
+107837|Holiday Inn Youlian Suzhou
+107839|Holiday Inn Zhengzhou
+107840|Holiday Inn Zhuhai
+107848|Hong Gang
+107934|Oriental Deluxe Zhejiang
+107940|Hua Ting Guest House
+107943|Huanhai Gloria Inn Qingdao
+107969|Hyatt Regency
+107973|Hyatt Regency Hangzhou
+108130|Joy City International
+108144|JW Marriott Shanghai at Tomorrow Square
+108179|Kingwing Hotel
+108426|Le Meridien She Shan
+108540|Loong Palace
+108618|Marco Polo Xiamen
+108644|Marriott West
+108656|Marriott Executive Apartments Tomorrow Square
+108658|Marriott Executive Apartments Union Square Shanghai Pudong
+108990|Meritus Shantou China
+109001|Metropark Service Apartment Shanghai
+109003|Metropark Yangzhou
+109204|Nanyuan
+109213|National Chengdu
+109227|New Garden Shanghai
+109380|Novotel Qi Yun
+109411|Novotel Watergate
+109414|Novotel Xin Hua
+109422|Oakwood Gold Arch Residence
+109728|Prime
+110025|Ramada Plaza
+110026|Ramada Plaza Nanjing
+110027|Ramada Plaza Pudong
+110029|Ramada Pudong Airport
+110057|Regal International East Asia
+110091|Boyue Beijing
+110103|Renaissance Suzhou
+110104|Renaissance Tianjin
+110105|Renaissance Tianjin Teda
+110298|Riverside
+110642|Royal Suites & Towers
+110649|Ruitai Hongqiao
+110772|The Seagull on the Bund
+110801|Seventh Heaven
+110804|Shandong Pacific Grand
+110806|Guhua Garden
+110810|Shangri-La Zhongshan
+110812|Shangri-La
+110813|Shangri-La Fuzhou
+110814|Shangri-La Harbin
+110824|Rose Shenyang
+110826|Shenzhen Beijing
+110828|Sunshine Shenzhen
+110890|Sofitel Golf Resort
+110892|Sofitel Galaxy Nanjing
+110893|Sofitel Grand Park
+110911|Pan Pacific Xiamen
+110912|Sofitel Riverside
+110913|Sofitel Royal Lagoon
+110916|Sofitel Silver Plaza
+110922|Sofitel Zhengzhou International
+110948|Songhujiang Gloria Inn
+111093|Swish-Hotel Dalian
+111288|Tianjin Golden Crown
+111297|Times Plaza Shenyang
+111351|Traders Fudu Changzhou
+111353|Traders Shenyang
+111622|Wanyou Conifer
+111665|Winterless
+111682|Jin Jiang Grand
+111693|Xiamen International Seaside
+111694|Gaosu Shenzhou
+111714|Youngor Central
+111721|Yuquan Simpson
+111727|Jumbo
+111844|Dalian Harbour View
+121520|Hilton Capital Airport
+121533|Jin Jiang Jing'an
+124179|Grand Hyatt Guangzhou
+124180|Tai Lian
+124181|Zhongshan International
+124186|Jiaolou Business
+124187|Shijia House
+124188|Comfort Suites Yayuncun
+124189|Mandarin
+124192|Dong Jiao State Guesthotel
+124193|Ibis Lianyang
+124194|Topsun on the Bund
+124195|A-Live Design - geschlossen
+124196|Vienna International LuJiaZui
+124197|Citadines Biyun Shanghai
+124202|Shangri-La Xian
+129278|Yatai Hotel Jilin
+129281|Homeland
+129282|Xin Liang
+129283|Sichuan
+129289|Regent
+129290|Landscape
+129291|Central Plaza
+129294|Lee Wan
+129296|Regal Palace Hotel
+129302|Golden City
+129304|Oriental Resort
+129305|Landsman
+129306|Liuhua
+129307|Hilbin
+129308|Haitao
+129309|Fu Ho
+129310|Yanling
+129314|Landmark International
+129315|Ocean
+129316|Jian Li Harmony
+129318|Royal Mediterranean
+129320|Star
+129321|Canton
+129324|Royal International
+129325|Guang Dong
+129327|Guangdong Yingbin
+129328|Donlord International
+129330|King Garden
+129331|Mandarin
+129334|It World
+129335|Huashi GDH
+129336|President Hotel
+129337|Guangdong Bostan
+129340|Majestic
+129347|Sheraton
+129348|Hai Kou
+129349|Hua Tian
+129351|Ssaw Hubin
+129353|Kande International
+129355|Kai Wah Plaza International
+129356|Uchoice
+129364|Howard Johnson Plaza
+129365|Xiyuan
+129366|Yuyang
+129367|Tian Tang Yang Guang
+129368|Beijing Landmark Towers
+129369|Dawan
+129370|Friendship
+129373|Grand Regency
+129375|Hyton
+129377|Rendezvous Baohong
+129378|Palm Beach Resort & Spa
+129379|HNA Resort & International Asian Pacific Convention Center
+129383|Sunrise International
+129385|Nan Hai
+129386|Lao Di Fang
+129387|Huaan Conifer International
+129388|Crowne Plaza Landmark Shenzhen
+129390|Lushan
+129391|Grand Skylight Garden
+129392|Guang Shen Hotel
+129393|Regency
+129394|Kaili
+129396|Shanshui Trends Luohu
+129397|Zense
+129398|The Panglin
+129399|Golden Lustre
+129400|Hong Feng
+129401|Fortune
+129402|New Times
+129404|Ming Wah International Convention Centre
+129405|Seaview O City
+129407|Metropark
+129416|Maihao International
+129713|Grand Waldo
+129714|Venetian Macao Resort
+129902|Imperial Traders
+129904|Parkview Square
+129905|Guang Sha
+129906|Grand Royal
+129908|Baiyun International Convention Center
+129909|V8 Xilang
+129910|Han Feng International
+129911|Longzhou
+129914|Ming Cheng
+129915|Hong Kong
+129916|Zhong Shan
+129918|Sovereign
+129919|Grand 0773
+129923|Universal
+129931|Ramada Plaza
+129936|Meritus Mandarin Haikou
+129938|Holiday Wuyang
+129940|Zhejiang New Century
+129942|Xinqiao
+129943|Redstar Culture
+129944|Regal Plaza
+129945|Zhejiang Grand
+129946|Enjoyor
+129948|Sunny
+129949|Crowne Plaza
+129950|Hill & River
+129952|Goethe
+129957|Qingshuiwan Holiday
+129960|St. Rich Hotel
+129962|Tian Hang
+129963|Zhejiang Bin Guan
+129965|Na De
+129966|Best Western Premier Richful Green
+129968|Huachen Kenzo Hotel Hangzhou
+129969|West Lake Hillview International
+129970|Hongdu
+129971|Blossom
+129972|Holiday Inn Xiaoshan
+129973|Zhejiang Railway
+129981|Friendship Palace
+129982|Green
+129984|Power
+129994|Walla
+130000|Phoenix
+130023|Silver Plaza Quancheng
+130026|Longdu International
+130030|Shandong
+130043|Narada
+130051|Sheraton Jiuzhaigou Resort
+130060|Empark Grand
+130061|Hydro Majestic
+130065|Economic Trade
+130080|Swissotel Kunshan
+130084|International
+130100|Jardin Secret
+130113|Holiday Inn Mudanjiang
+130123|Grand
+130132|New Era
+130136|Yongjiang
+130137|Ming Yuan Xindu
+130144|Golden Port
+130145|Crowne Plaza City Center
+130147|Asia Garden
+130150|Ningbo Xinzhou Hotel
+130154|Jade Garden
+130155|Super 8 Yizhuang Tianbao
+130156|Tian Tan
+130158|Guo Hong
+130160|Zhong An Inn Dong Dan
+130162|He Ping Li Hotel
+130164|Super 8 Beijing Guo Mao
+130166|Ocean
+130168|Yan Xiang
+130169|Scitech
+130171|Beijing Henan Plaza
+130172|Traveler Inn Hua Qiao
+130173|Tang Yue
+130174|Xinyuan
+130181|Aulympic Airportel
+130186|King & Queen Garden
+130189|Plaza
+130190|North Garden
+130193|Xixi Friendship
+130194|The St. Regis
+130196|Rich Hotel
+130201|Eastern Air Business
+130203|City Central Youth
+130205|Dong Changan
+130208|Ping An Fu
+130209|Yong Xing Garden Hotel Beijing
+130210|Super House International
+130214|Lake View
+130218|Super 8 Dong Si
+130220|Poly Plaza
+130222|Beijing Botaihotel
+130223|Chong Qing
+130226|Zhongan Inn Andingmen
+130231|Xijiao
+130235|Avic
+130241|Timbo Hotel Beijing
+130242|Haige International
+130248|News Plaza
+130249|Super 8 Jin Bao Jie
+130262|Ai Hua
+130264|Jade International Youth Hostel
+130265|Red Cross Hotel
+130266|Zi Yu
+130269|New Century Grand Hotel
+130271|FX Hotel Capital International Airport
+130274|Holiday Garden
+130278|Asia Pacific Garden
+130280|Continental Grand
+130287|Oriental Bay International
+130288|Saga Intl Youth Hostel
+130289|Far East Hotel
+130291|Celebrity International Grand
+130294|Peixin
+130309|Sea View Garden
+130311|Dongfang
+130314|Huanghai
+130315|Sanfod
+130319|Qingdao Sifang
+130321|Zhong Gang Mansion
+130322|Santiago
+130325|Qingdao Garden
+130349|Landscape Beach
+130352|Radisson Pudong Century Park
+130353|Dingtian Ruili Service Apt
+130354|Holiday Inn Express Meilong
+130355|Yihe Longbai
+130356|Bothland
+130361|Purple Mountain
+130362|Bao An
+130363|J. Real Residence Suites
+130364|Dijon
+130366|Garden Avenue
+130367|Hundred Centuries
+130368|Best Western Shanghai Ruite
+130369|Four Points by Sheraton Shanghai, Daning
+130372|Highsure All Suite
+130373|Great Tang
+130374|Motel 168 Chifeng
+130378|Tianlin
+130379|Highton International
+130380|New Century Mansion
+130381|Shanghai Star Chengsheng Mercure Xian
+130385|Yashidu Suites
+130391|Blue Palace
+130392|Jin Jiang Magnolia
+130393|Kelamayi Petroleum
+130394|Jin Chang
+130396|Pullman Shanghai Skyway
+130399|Hong Ye Hotel Shanghai
+130400|Grand Metro Park Jia You
+130401|HuaJun Suite
+130402|Noble Center
+130403|Qian Dao Hu
+130406|Grand Mercure Shanghai Baolong
+130408|Tian Ping
+130412|Grand You You
+130413|Swan
+130417|Qianqiao International Linghe Road
+130418|Super 8 Feng Ye Bei Wai Tan
+130421|Motel 168 Huoshan
+130422|Riverfront Business
+130423|Villas
+130424|Universal Ever-Rich
+130429|The Bund Riverside
+130431|Lakeside Holiday
+130432|Anting Villa
+130433|Kingswell Tongji
+130435|Motel 168 Zhoujiazui
+130436|Xin Dong Fang
+130438|Asset
+130439|Barony Wanyuan
+130440|Supreme Tower
+130441|Charms
+130442|Shanxi Business
+130443|Yalong International
+130444|Rayfont Xuhui
+130446|Starway Chuangye
+130447|Ambassador
+130449|Forte
+130450|Ldf All Suites
+130451|Best Western Pudong Sunshine
+130461|Sofitel Shenyang Lido Hotel
+130467|Kempinski Shenyang
+130482|Capital Plaza
+130483|Grand Chu
+130488|Shanshui Trends Shang Meilin
+130490|South Union
+130493|Orient Sunseed
+130512|Super 8 Suzhou Jin Han Lin
+130514|Ping Jiang
+130519|Zhong Shan
+130520|Bamboo Grove
+130522|New Century
+130523|Boutix Amusement Land
+130526|Garden View
+130536|Shanxi Grand
+130559|Astor
+130570|Ocean
+130571|Hopeway Business
+130572|East Asia
+130573|Friendship
+130574|Sheraton Tianjin
+130597|Guomao Grand
+130598|Overseas Chinese
+130601|Wanhao Grand
+130608|Asia
+130613|Hongyi
+130614|Howard Johnson Pearl Plaza
+130628|Grand Park
+130630|Kapok
+130634|Lu Shan
+130638|Royal Coast
+130640|Pullman Xiamen Powerlong
+130641|Gulang Villa
+130653|Longdu
+130654|Xiamen Plaza
+130656|Ramada
+130658|Howard Johnson Ginwa Plaza
+130664|Orient
+130665|Empress
+130684|Jing Hai
+130687|Three Gorges Project
+130688|Three Gorges Xiba
+130689|Three Gorges Dongshan
+130693|Yi Wu
+130695|Hyde Jianguo
+130696|Yimei Plaza
+130697|Ramada Plaza Yiwu
+130698|Kingdom Narada Grand
+130699|SSAW City Center
+130700|Yihe
+130703|Best Western Premier Ocean
+130704|Pattra Resort
+130718|Crowne Plaza
+130721|Best Western Zhenjiang International
+130729|Guangdong Regency
+130735|Century
+131627|Country Garden Holiday Resorts
+132723|Guia
+132724|Rocks
+132725|Riviera
+132726|Taipa Square
+132727|Fu Hua Guang Dong
+132729|Royal
+133933|Redbuds Flower
+133936|Days Zhuozhan
+133938|South Lake
+133951|Southern Pearl International
+133956|Oak Bay Garden
+133958|Jinling Plaza
+133967|Jinjiang
+133972|Tai Yi
+133973|Luo Man Grand
+133975|Garden City Hotel
+133977|Shangri-La Chengdu
+133988|Yangtze Island
+133999|San Ta Yuan
+134000|Asia Star
+134003|Sun Moon Lake
+134009|Xinghai Golf
+134010|Golden Shine
+134011|International Airport
+134012|Tangyin
+134014|Liangyun
+134018|Dalian Zhongxia Garden
+134019|Zhongshan
+134022|King Hall
+134023|Bohai Pearl
+134024|Sea Horizon
+134025|Delight
+134028|Ramada Plaza Dalian
+134042|Richwood Garden
+134045|South China International
+134051|Haiyatt Garden Houjie
+134057|Sheraton
+134058|Goodview Hotel Sangem, Zhangmutou
+134111|Sichuan South Wing
+134192|West Street
+134256|Holiday Inn Express Minzuyuan
+134257|B&B Inn Shaoyaoju
+134259|Super 8 Cuiwei
+134260|Olympic Park Boutique
+134261|B&B Inn Baishiqiao
+134262|Royal Marina Plaza
+134263|Grand China
+134264|Xin Gang Holiday
+134265|Pa Zhou Conference
+134274|Yuan Yang
+134276|Venice
+134277|New Tian He
+134279|Vanwarm
+134280|Sheraton Kingsley
+134281|Fraser Residence
+134282|GreenTree Inn Wuding
+134283|FX Hotel XuJiaHui
+134285|Motel 168 An Yuan Road Inn
+134289|Silkroad
+134332|Kayumanis
+134480|Grand Park Kunming
+135223|Ramada Plaza Peace
+135391|The Westin Chaoyang
+135392|Inn Fine
+135393|Kempinski Dalian
+135585|Mountain Villa
+135587|Yihe Ou Zhuang
+135590|Ai Yuan
+135593|Regency Holiday Yangshuo
+135594|Dong Jiang Golf Resort
+135596|Ssaw Yilian
+135598|Hong Li
+135600|Hai Hua Man Long Resort
+135601|Rose Garden Resort
+135602|Marriott Ningbo
+135606|Kingland Riverside Service
+135608|Lujiazui Century
+135609|Vivasha
+135610|Ibis The Center
+135612|Marco Polo Wuhan
+136121|Merchantel
+136231|Renaissance Capital Beijing
+136378|Marriott City Wall
+136379|Kings Joy
+136393|Hilton Wangfujing
+136394|Zhong Tang De Sheng
+136397|InterContinental Qingdao
+136639|Shangri-La's Kerry Centre
+136647|Lexington Shenyang Rich Gate
+136648|West Lake Golden Plaza
+136653|Super 8 Shangdi
+136659|Yijia Business Inn
+136669|Belgravia Serviced Residence
+136670|Ying Feng
+136671|Blue Horizon Royal Parklane International
+136673|The Inn At Bay Harbor
+136677|Landison Plaza Hangzhou
+136680|Sheraton Residences Pudong
+136681|FX Hotel Yansha
+136688|B&B Inn Olympic Village
+136689|City Convenience Inn
+136695|FX Hotel ZhongGuanCun
+136696|Motel 168 Aomen
+136701|Grand Century
+136741|Four Seasons Macao, Cotai Strip
+136815|Sofitel Macau at Ponte 16
+136922|88 Park
+136937|Carlton
+136962|Wan Xing Bei Ning
+136967|Wan Xing Min Zhu
+137000|Melody
+137006|Li River
+137026|Hangzhou Tower
+137030|Holiday Inn Aqua City
+137040|Jinling
+137050|Rayfont Hotel & Apartment
+137053|Nanyang Seascape
+137077|The Victoria
+137131|Super 8 Feng Ye Lu Jia Zui
+137152|Super 8 Feng Ye Nanzhan
+137164|Howard Johnson Caida Plaza
+137192|Radisson Blu Hong Quan
+137212|Wyndham Grand Plaza Royale Oriental Shanghai
+137266|Holiday Inn Park View
+137274|KaiLiLai
+137286|Fairmont Residence
+137336|Fengye Super 8 Hongqiao
+137409|New World
+137415|Li Jing
+137432|Howard Johnson Songjiang
+137433|Crowne Plaza Wuhu
+137438|Howard Johnson All Suites
+137441|InterContinental Beichen
+137445|Yishiyuan
+137465|Renjia International
+137689|Gyalthang Dzong Hotel
+137709|Grand Millennium
+137739|Banyan Tree Ringha
+137741|Huama
+137891|Ramada Wujiaochang
+137904|Howard Johnson Hawana
+137911|Garden
+137913|Kingtown
+137914|Yafan Fashion
+137919|Zheng Xie
+137924|Joyfull International
+137932|Designer
+137939|Xindadu
+137943|Rainbird International
+137948|Copthorne Qingdao
+137952|Washington Inn
+137953|Ramada Plaza Gateway
+137954|Quest International Hotel Xian
+137957|La Casa Elegant
+137983|Shanghai Centralstar
+137985|Victoria Regal
+137986|Jinzhou Business
+137989|Lakeside
+138180|TianAn Rega
+138280|Hong Du
+138376|Swissotel Foshan
+138382|ShangHai
+138384|The Longemont Shanghai
+138461|Novotel Beijing Sanyuan
+138464|Haitao
+138482|Aegean Conifer Resort
+138511|Luo Hu
+138526|CAA Holy Sun
+138887|Eva Inn
+138904|Forstar
+138926|Gloria Grand Nanchang
+138952|Guangye Jinjiang
+138982|Holiday Inn Downtown Hefei
+139023|Intercontinental Dalian
+139247|Raystar
+139259|Regalia Shanghai (Changning)
+139260|Regalia Serviced Residence
+139269|Residence on River''s Edge
+139442|Swiss-Belhotel Changchun
+139510|Wonhurg International
+139549|Holiday Inn Express Zhabei
+139569|Jinqiao Apartmenthotel
+139653|The Opposite House
+139655|Beijing Sihe Courtyard
+139918|Grand Kempinski Shanghai
+140151|Kempinski Xi'an
+140156|Garden Xian
+140158|Empark Grand Shanxi Xi'an
+140159|Titan Times
+140160|Fraser Suites Top Glory
+140161|Elangrace Guangdong Road Hotel Shanghai
+140164|Ivy
+140176|Qianqiao International Pudong Avenue
+140177|Yunfeng Grand Shanghai
+140180|Jiuhua Chunshenhu
+140181|Best Western Tianjin Juchuan
+140185|Best Western Byronn Tianjin
+140186|Champagne Town
+140188|Renaissance
+140191|Tiananmen Yier Guesthouse
+140192|Xuan Wu Men
+140193|Grand Skylight Catic Hotel
+140239|Hunan Fowin
+140240|Crowne Plaza City Centre
+140241|Jasmine International
+140242|Jinhui International
+140243|Howard Johnson Parkland
+140246|Honglou International
+140247|Days Riverview Hangzhou
+140254|Gui Hua
+140256|Nan Men Lijiang
+140257|Lijiang Dianjunwang
+140258|He Xi Lijiang
+140259|Li Wang Lijiang
+140666|Paradise
+140668|New Empire
+140681|Himalaya
+140685|Lhasa Grand
+140687|Pretty Tian Fu
+140695|Chenxi Super 8
+140701|Best Western Fuzhou Fortune
+140705|Communication Business
+140707|Lakeside
+140749|Eastern Pearl
+140753|Jinling Jingyuan Plaza
+140755|Jin Hua
+140772|China People's Palace
+140779|Beijing HWA
+140785|Ruicheng Hotel
+140786|Spring Garden Hotel Beijing
+140790|Yilan Hotel Beijing
+140801|Eastern Airlines
+140804|Green Garden
+140808|Rhea Boutique Jinqiao
+140809|Joyage Business Jing An
+140810|Rhea Lakeview
+140811|Piao Ying
+140814|Renhe
+140815|Sky Fortune Boutique
+140829|New Century Hotel Taizhou
+140842|New Southasia
+140844|Tian Du
+140845|Victoria Grand
+140860|Sheraton Wuxi Binhu
+140869|Riyuegu Hotspring
+140873|Wen Yuan
+140891|Yindu
+140894|Huafang Jinling International
+140898|Zhangjiajie International Hunan
+140900|Pipaxi
+141877|White Tower Yier Guesthouse
+141878|Su Ning Universal
+141879|Pudi Boutique
+144307|Han Yi
+144308|Crowne Plaza Sun Palace
+144309|Jianguo
+144311|Hotel G ( bald Tangram)
+144313|Vienna Guowang
+144314|Ramada Plaza
+144315|Mian Yang Chengdu
+154130|Yunshan
+154131|Jun Shan
+154141|Legendale Beijing
+154146|Lee Garden Service Apartments
+154149|Wangfujing Guesthouse
+154151|Home Inn BeiXinQiao
+154153|Beijing Courtel
+154155|Hutong Inn
+154157|Soluxe Courtyard
+154163|N.E. Hotel Beijing
+154172|Ramada Parkside
+154180|Starmoon
+154181|Traders Upper East
+154186|Taiyue Heights
+154188|Oakwood Residence
+154189|Ritan International
+154201|Century Towers Beijing
+154202|Fairmont Beijing
+154204|Fulton
+154205|Howard Johnson Regel Court
+154206|Park Hyatt Beijing
+154207|KaiHeng Century
+154220|Chateau de Luze
+154222|Home Inn GuoMao
+154224|Radegast Bohao
+154234|Oakwood Apartments
+154248|Shanshui Trends Shaoyaoju
+154255|The Apartments on Finacial Street Beijing
+154256|Grand Metropark Yuantong
+154261|Home Inn Beijing XiZhiMen
+154265|Home Inn Xinxingqiao
+154266|Ao Xiang Ge
+154268|Shanshui Trends Hangtian Bridge
+154276|Mercure Wanshang
+154283|Days Inn Joiest
+154284|Holiday Inn Express Beijing Temple of Heaven
+154285|Home Inn Beiwei Road
+154286|Jingtailong International Hotel
+154289|Shindom Beijing
+154298|Zhongyan
+154309|Commercial Business
+154320|Shanshui Trends Liuliqiao
+154329|Ariva Beijing West
+154332|Central Garden
+154334|Jiayuan
+154335|Yihai Business Hotel
+154340|Super 8 Beijing Xue Yuan Lu
+154343|Crowne Plaza Beijing Zhongguancun
+154345|Jade Palace Zhongguancun
+154346|Yanshan Business
+154347|Home Inn XiaoXiTian
+154350|Empark Grand Beijing
+154353|Ruyi Business Beijing
+154356|Aman at Summer Palace
+154357|Fragrant Hill Empark Hotel
+154358|Aloft Beijing Haidian
+154359|Four Points by Sheraton Beijing, Haidian
+154368|Courtyard Beijing Northeast
+154370|Holiday Inn Express Beijing Huacai
+154371|International Bamboo & Rattan Tower
+154372|Quality Wangjing
+154376|Hua Shan Yuan Hot Spring
+154379|Pullman Beijing South
+154380|Liaoning International Hotel
+154389|Hui Yuan Plaza Airport
+154393|Airport Express
+154396|Best Western Grandsky
+154401|Zhuhang Airport Business
+154414|Jiangxi Grand
+154416|Fraternal Cooperation International Beijing
+154419|Lijingwan International
+154420|Schonbrunn Beijing
+154422|Super 8 Beijing Ao Shi
+154425|Super 8 Beijing Birds Nest
+154427|Super 8 Beijing Guo Zhan He Ping Li
+154429|Super 8 Beijing Shijingshan Jiu Jiu Yuan
+154430|Super 8 Yong Qiang
+154431|Wenjin
+154432|Xihua Business
+154442|The Emperor Beijing
+154452|Shengyi Holiday Villa
+154456|Yalong Bay Villas & SPA Resort
+154459|Cactus Resort
+154460|Huandao Beach Hotel
+154461|Pullman Sanya Yalong Bay
+154462|Tianhong Resort
+154472|Howard Johnson Resort Sanya Bay
+154495|East Asia
+154499|Baron Business Bund
+154507|Mason Hotel Shanghai
+154508|New Westlake
+154511|Tian Cheng
+154517|Home Inn Shanghai XuJiaHui
+154526|The Mansion
+154530|Motel 168 Changping
+154532|Home Inn ShanXi Road
+154534|Jing'an
+154536|Fanyang Downtown Resort
+154537|The Puli Hotel & Spa
+154538|URBN
+154541|Yan'an
+154545|Ruitai Jing'an
+154547|Renaissance Zhongshan Park Shanghai
+154552|International Service Apartments
+154553|pentahotel Shanghai
+154555|Carolina Shanghai
+154559|Fenhe Grand
+154561|Guangxi
+154571|Mingde Grand
+154573|Jinrong International
+154578|GreenTree Inn Jiangpu
+154583|Huajing Grand
+154585|Park Hyatt Shanghai
+154589|Pu Dong Hotel
+154591|Starway Lujiazui Branch
+154592|Tong Mao
+154594|Grand Soluxe Zhongyou
+154602|Chinas Best Value Inn - Shanghai Dongfang Road
+154604|Benjoy Jufeng Road
+154605|Byfond Shanghai
+154621|Honghe
+154634|Tongji Garden Apartment
+154638|Jinting Hotel Shanghai
+154641|Hong Qiao State Guest
+154643|Rich Garden
+154645|Gubei Garden
+154649|Holiday Inn Express Wujiaochang
+154656|Hotel the Land
+154671|Diamond Court
+154672|La Garfield
+154675|Howard Johnson Plaza Lingang
+154679|Gloria Plaza Kangqiao Shanghai
+154684|Sofitel Huanghe Sheshan Resort
+154690|July Plaza International
+154707|Ibis Xian Heping Gate
+154708|Jiahe Business Hotel Xi'an
+154711|Citadines Central
+154712|Super 8 Hotel Xian Xidajie
+154713|Union Alliance Atravis Executive
+154714|West Capital International Xi'an
+154716|The Good World Xi'an
+154719|HNA Downtown
+154726|Rail Tel Communication Commercial
+154730|Days Xi'an
+154740|Starway Xishan
+154742|Jin Wan
+154744|7 Days Inn Train Station Branc
+154755|Green Land
+154756|Golden Spring
+154764|Dinghong Holiday Hotel Hangzhou
+154768|Sunny Huansha
+154770|Dahua
+154774|Liuying Garden
+154788|Merchant Marco
+154793|Zhejiang Business Hotel
+154795|Huguang Hotel Hangzhou
+154798|Oakwood Residence
+154800|The New
+154801|Hangzhou Xihu State Guesthouse
+154805|Overseas Chinese Hotel Hangzhou
+154819|Haiwaihai International
+154826|Zhonghao Hotel Hangzhou
+154829|Longhill
+154835|New Century Grand
+154837|New Century Xiaoshan Zhejiang
+154841|New Century Resort Qiandao Lake
+154847|Four Points by Sheraton Hangzhou, Binjiang
+154848|Ramada Plaza Riverside Hangzhou
+154850|Super 8 Hangzhou Zhe Tian
+154861|Holiday Inn Express Chengdu Gulou
+154864|Zenec International
+154880|Universal House Golden Gulf
+154885|Haiyatt Garden
+154886|Holiday Inn Chengdu Century City - Easttower
+154888|InterContinental Century City Chengdu
+154922|Days Wudu
+154923|DLT
+154925|HNA
+154926|Home Inn Chongqing ShangQingSi
+154934|Tian Lai
+154956|Yunsong Garden Hotel
+154957|Xin Yue Xin
+154962|Joyful Sea
+154966|Starway Tianlong
+154970|Zhejiang
+154973|Suntec Plaza
+154977|Yinghao
+154978|BaiLing
+154994|Sino Trade Centre
+154996|Datang
+154999|Huahai
+155003|New Pearl River International Apartment
+155006|Peach Blossom River
+155009|Regal Riviera
+155010|Sanflowery Hotel Guangzhou
+155011|Star City
+155012|Vienna Hotel Sanyuanli Branch
+155018|Yihe Summer Palace
+155020|Golden World
+155032|Pengan
+155034|Shanshui Trends East Railway Station
+155036|Chundu
+155037|Good International
+155039|Overseas Chinese Friendship Hotel
+155041|University Business
+155044|Nan Guo
+155047|Teem Ease
+155048|Yu Tong
+155049|Dragon Pearl Business
+155051|Yingfeng
+155055|Dragon Lake Princess
+155061|New Century
+155071|Fortune
+155076|Imperial
+155077|Panyu
+155082|Nanfang Yiyuan
+155092|Hongfan Hotel Guangzhou
+155093|Chateau Star River Guangzhou
+155094|Euro Asia
+155099|White Palace
+155109|Xin Ding
+155110|Conifer Lishui Yangguang
+155123|Fangyuan Jinling Plaza
+155129|Central
+155132|Home Inn Xinjiekou
+155142|Jinling Riverside Hotel
+155150|Purple Palace Nanjing
+155151|Jinling Resort
+155157|Super 8 Hua Guan Confucius Temple
+155158|Super 8 Xin Jie Kou
+155163|Scholars Inn Jinmen
+155178|Aster
+155192|Garden
+155195|New King Lion Mansion
+155198|Traveler Inn Gusu
+155204|Scholars Inn Panmen
+155210|Scholars City
+155212|Crown Serviced Apartment Suzhou
+155214|Grand Metropark Suzhou
+155216|Kempinski Suzhou
+155231|Jin Cheng Jin Jiang International
+155237|Super 8 Yuan Qu Xin Yi
+155244|Home Inn Wuhan Gaoxiong
+155246|Home Inn Wuhai LiuDuQiao
+155250|Super 8 Hankou Railway Station
+155255|Logosun Wuhan
+155258|Ramada Plaza Optics Valley Wuchang
+155263|Super 8 Yangtse River Qingshan
+155264|Hongguang Wuhan
+155280|Ibis Wuxi Hi Tech
+155284|Ramada Wuxi
+155285|Ramada Encore Hotel Wuxi
+155293|Ramada Plaza Wuxi
+155294|Kempinski Wuxi
+155308|Jin-An
+155309|Super 8 Changchun
+155310|Super 8 Qi Mao Cheng
+155313|Oceanwide Elite
+155314|Zhanqiao Prince
+155316|Dynasty
+155318|Sophia International
+155324|Dong Hai
+155330|Qingdao Hotel
+155333|Sunny World
+155340|Grand Mercure Qingdao Airport
+155343|Ibis Qingdao Huangdao
+155344|Housing International
+155354|Hedong Shenzhen
+155355|Holiday Inn Express Luohu Shenzhen
+155363|Shenzhen Junting
+155364|Lee Garden Hotel
+155373|Feng Shun Business
+155376|Hai Lian
+155379|Kapok Shenzhen
+155382|Shenzhen Royal Hotel
+155388|Shenzhen Sichuan
+155394|Chicago Suites International
+155408|Futian Shangri-La
+155410|Shenzhen Royalty Hotel
+155415|Ack Cyber
+155416|Hong Bo
+155420|Grand Soluxe Zhongyou
+155431|Sheraton Dameisha Resort
+155443|Qiushuishan Grand
+155447|Baolilai International Hotel
+155471|Qingjiang Yichang
+155479|Home Inn Tianjin BinJiang Road
+155481|Holiday Inn Express Binhai Tianjin
+155483|King Hall
+155488|Tianjin Golden Ocean Hotel
+155495|Super 8 Tiajin Chang Jiang Dao
+155510|Ibis Tianjin Teda
+155511|Mayfair
+155515|Hyatt Regency Jing Jin City Resort & Spa
+155517|Crowne Plaza Tianjin Binhai
+155518|Junhui Jianguo
+155519|Ruiwan New Century Hotel
+155530|Home Inn Shanghai ZhaBei Park
+155531|Super 8 Ya Tai
+155551|Sheraton Changsha
+155559|Sky Gold Coast
+155573|Jin Jiang International
+155574|Holiday Inn Changzhou Wujin
+155582|Friendship Business
+155586|Dalian Leewan Business Hotel
+155589|Sunjoy
+155591|Xinghai COEX Business / Sanjiang Business
+155595|Bay Shore
+155597|East Hotel Dalian
+155598|Jinyuan Hotel Dalian
+155602|HaoHai International
+155606|Jiang Long Hotel
+155611|Pullman Dongguan Forum
+155617|Goodview International Tangxia
+155619|Royal Garden International
+155621|The Lotus Villa Hotel Dongguan
+155629|Parklane
+155642|Sheraton Guiyang
+155664|Sofitel Wanda
+155665|Harbin International
+155666|Super 8 Harbin Long Ta
+155683|Super 8 Jinan Jing Wei
+155690|Super 8 Yan Chun
+155692|Sheraton
+155693|Super 8 Hotel Urumqi Ba Yin He
+155701|Di Yuan
+155705|Suofeite Hotel Yiwu
+155707|Yiwu International Mansion Hotel
+155714|Ramada Plaza Zhengzhou
+155722|Galactic Peace International
+155730|Super 8 Hotel Nanchang Yitai
+155736|Le Meridien Shimei Bay Beach Resort & Spa
+155741|Days Inn Business Place
+155749|Shangri-La Huhhot
+155783|New Maocheng Hotel Ningbo
+155785|Smile and Nature Ningbo
+155787|New Century
+155789|Pitman Rooming House
+155792|Super 8 Hotel Ningbo Meihe
+155793|Tong Tu Yuan
+155809|New Century Grand
+155812|Days Fortune Xiamen
+155815|Millennium Harbourview
+155834|Xianglu GRAND Hotel
+155839|Yuejia Yibao
+155848|C&D Hotel
+155860|Super 8 Hotel Lanzhou Walking Street
+155884|Sheraton Huizhou Beach Resort
+155892|Smile & Natural International
+155899|Holiday Inn Jiuzhai Jarpo
+155921|New Century
+155925|Jinchang New Century Hotel Shaoxing
+155932|Ramada Plaza Taian
+155946|Weihai Haiyue Jianguo
+155959|Super 8 Bai Xiang
+155960|Super 8 Qing Yuan
+155965|Machinery Shandong
+155975|Sunway Golden Diamond Hotel
+155977|Crowne Plaza Zhongshan Xiaolan
+155982|Catic
+155986|Harbour View Hotel & Resort
+155988|Zhuhai Holiday Resort
+156026|Shangri-La Baotou
+156035|Crowne Plaza Hotel Dandong
+156055|New Century Grand
+156086|Super 8 Hotel Wenzhou Xing Rong
+156094|Ex Palm D'Or
+156095|Onehome H.S. Art Hotel Wenzhou
+156110|Jinling Runyang Bridge
+156111|Super 8 Hotel Zhenjiang Mai Sha
+156141|Merryland Traders Hotel
+156142|Holiday Inn Express Changshu
+156145|Super 8 Hotel Changshu Bo Si Deng
+156167|Songtsam Shangri-La
+156172|Taizhou Phoenix Villa
+156192|Wulingyuan International Resort
+156194|Xiang Dian International
+156214|Jiali International Hotel
+156219|New Century Grand
+156225|Yidu Jinling Grand Hotel
+156226|Days Hotel Golden Peacock Spa Resort Hefei
+156280|Sheraton Zhoushan
+156289|Zhengda New Century Hotel Qingtian
+156300|Wenshan International
+156321|Days Hotel and Suites Jiaozuo
+156327|Ramada
+156349|Super 8 Lu Neng
+156356|Landmark Grand
+156362|Super 8 Hui Long
+156375|Perfect Inn
+156382|The Eton
+156383|Jade Emperor Hotel
+156386|King World
+156387|JiangHe
+156390|Shenzhen Gold
+156393|Vaya Huatian International
+157657|Days Inn Business Place YinFeng
+157658|Grand Gongda Jianguo
+157659|AC Embassy
+157660|Olsen
+157661|City
+157662|Holiday Inn Tianjin Riverside
+157663|Ordos
+157670|Central Dalian
+157671|City Inn Yunhe Humen
+157672|City Inn Nancheng Dongguan
+157673|Yi Wu Commatel
+157674|Leisure Inn Yangshuo
+157682|Grand Metropark Qihui
+157683|Sofitel Wanda Ningbo
+157684|Howard Johnson Business Club
+157685|Shangtex
+157686|Dazhong Airport (South Building)
+157687|Courtyard Xujiahui
+157689|Minya
+157690|H Hotel
+157691|The Ritz-Carlton Shenzhen
+161823|City Inn Sanyuanli
+161825|Pa Zhou
+161826|Home Inn Dongguan
+161827|Edinburgh Yanggongdi
+161828|Holiday Inn Express South
+161829|GreenTree Inn Shimen 2 Road
+161830|Rhea Railway Station
+161831|City Inn Laojie Longgang
+161832|City Inn OCT Loft
+161834|Heizee Xian
+161835|Karson Xian
+163383|City Inn Bao An Chuang Ye Lu
+163452|Chang An Holiday
+182130|Gallery Suites Shanghai
+182180|Crowne Plaza Foshan
+182181|City Inn Shi Qi Zhongshan
+182182|Class Fotel
+182183|Carlany Binyue Hotel
+182184|General Star
+182185|Zhong Xie
+182294|The Riverside Baroque Palace
+182295|Xin Hua Yuan
+182296|Da Cheng
+182297|Jinjiang North Jiefang Road
+182298|Huating Holiday Inn
+182299|Chinas Best Value Inn Bund
+182300|King Park View
+182301|Ramada Plaza Sino Bay
+182302|Kai Bo
+182304|Xiongchu International
+182347|Beach Castle
+182348|New Century Grand Hotel
+182350|Yicheng Business
+182352|Juntao International
+182353|City Inn Foshan Ji Hua Lu
+182355|Bund Wave
+182356|Yi Chen Hua Tian
+182357|Xizhao Temple
+182358|Motel Donghuan
+182359|Shenneng Business
+182360|Royalston
+182373|Crowne Plaza Yantai Sea View
+182375|Home Inn Huixindongqiao
+182376|Home Inn Anhuaqiao
+182377|HNA
+182379|Hanting Express Shanghai Lujiazui Minsheng
+182381|Crowne Plaza Guangzhou Science City
+182382|Glenview ITC Plaza Chongqing
+182383|Jin Jiang Oriental
+182435|DoubleTree Huaqiao
+182818|Grand Soluxe
+182907|Howard Johnson Tech Center Plaza
+182908|Ya Hua
+182909|Motel 168 Ping Kang Road Inn
+183351|Regal Jinfeng
+183352|Holiday Inn Shanghai Pudong Nanpu
+183353|Radisson Plaza Tianjin
+183354|Parkyard
+183355|City Inn Chengdu Jinhe Road
+183357|Altira Macau
+183359|Somerset Garden City
+183360|Best Eastern Yangshuo
+183361|Somerset JieFangBei
+183362|Orient Fashion
+183363|Eagle Canyon Hotel
+183364|Grand Link
+183368|Orange Huaishu Road
+183369|Orange Xuanwumen
+183371|Orange Xinjiekou
+183374|Yahsin Business Hotel
+183375|Orange Yuehu
+183380|Ascott Raffles City
+185325|24K International People's Square
+185327|24K International Fu Zhou
+185329|Motel 168 The Bund Inn
+185393|Crowne Plaza North Beijing
+185399|Super 8 Hotel Chengdu Fu Kai
+185402|Henry Business
+185403|Manwan Resort Hotel
+185405|Howard Johnson Jindi Plaza Datong
+185406|Goodview Hotel Sangem, Qiaotou
+185409|Guangdong Dasha Hotel
+185440|Jimao
+185441|Jinxuan
+185449|Yuyuan International HMCC Gold
+185662|5 Star Wharton International Hotel Nanning
+185696|New Henderson
+188034|Hard Rock
+188047|Xi Hai
+188048|Garden Inn Xidan
+188049|Garden Inn Jiefang Road West
+188050|Garden Inn Yuanjialing
+188051|Motel 168 North Tian He Road Inn
+188052|Ssaw Plaza
+188053|Ariva
+188054|8 Colors
+188056|Buena Vista Gulf
+188057|Ssaw Cheng Zhong
+188072|Hotel Jia Long
+188073|Chateau L'Act
+190065|Ai Qun
+190072|Airland
+190105|Ambassador
+190108|Amersino Hotel Shanghai
+190109|Amethyst
+190113|An-E Xuetao Branch
+190115|An-e Dong Ma Peng Branch
+190116|Ane Eying Branch
+190145|Art Star Hotel Guangzhou
+190150|Asia Pacific Beijing
+190216|Baohong Hotel Sanya
+190253|Beijing Airlines Beijing
+190255|Auspicious Business
+190259|Century Guojian
+190265|Beijing Dacheng International
+190274|Beijing Fleet
+190336|Taiyue Villa
+190417|Blue Horizon International Hotel Dongying
+190429|Bodi Boutique
+190431|Gloria Plaza Airport Qingdao
+190433|Bolton Hotel Dongguan
+190437|Bossfield Hotel Shenzhen
+190473|C.Kong International
+190502|Celebrity City
+190516|Century Huatian
+190530|Changbaishan International Beijing
+190542|Changmen Hotel Suzhou
+190569|Chenlong Business
+190570|Chenming International Hotel
+190642|Cinderella Apartment
+190644|Cinese Guangdong
+190671|City View Xuhui
+190674|Citytel Inn
+190689|Colorful Days
+190696|Communications Beijing
+190708|Corea Beijing
+190709|Dorsett Regency Wuhan
+190710|Cosmopolite Apartments Beijing
+190719|Cruiseinn International Hotel Shenzhen
+190794|Days Lianyungang
+190795|Days Landscape Resort
+190796|Days Hotel Zhong Hui Changshu
+190802|De Sense Guangdong
+190821|Di Jing Yuan Service Apartment
+190852|Dongfang
+190887|Dongyue Fashion
+190899|Dragon Spring
+190939|Eastern Garden Service Apartment Shanghai
+190950|Starway Premier ECO Grand
+190954|Eden Resort
+190956|Edinburgh Holiday
+190964|E-Key Business Hotel Suzhou
+190966|Elan Inn Wensan
+190996|Escargotel Beijing
+191007|Everbright International
+191039|Feitian Grand
+191054|Fenglan Business Hotel Shanghai
+191076|Forbidden City
+191092|Four Season Club Chateau Star River
+191166|Gaotique Shanghai
+191180|Garden Wuyuan
+191191|Gehua New Century Beijing
+191212|Days Xin Kai Lai
+191214|Glorious Suzhou
+191227|Golden Central Hotel Shenzhen
+191263|Golden Phoenix Seaview
+191269|Golden Sea
+191296|Gotel Capital
+191302|Grand Barong Zhoushan
+191305|Grand Continental Service Apartments
+191342|Green Tree Inn Qiutao Road
+191349|Green Westin
+191364|GreenTree Inn Beijing Guangmingqiao
+191371|GreenTree Inn Hongqiao Airport Shanghai
+191374|GreenTree Inn Nanjing Caochangmen Business Hotel
+191376|GreenTree Inn National Stadium Beijing
+191381|GreenTree Inn YiTianXia
+191387|GreenTree Inn Yizhuang
+191419|Guangdong Inn Express Shenzhen
+191420|Guangdong New Xiangjiang
+191425|Guangming Beijing
+191456|Gui Fu Guilin
+191462|Guidu
+191479|Guomao Jiari
+191537|Haifu
+191587|Haiyue Bay Holiday
+191602|Hangzhou Commercial Center Hangzhou
+191615|ZTG Resort Thousand Island Lake
+191721|Happy Inn International
+191748|Hebi Guest House Hotel Hebi
+191761|Heng Fu Lai
+191809|Holiday Inn Express Grand Canal
+191811|Holiday Inn Express Wangjing
+191815|Holiday Inn Moon River Beijing
+191865|Home Inn Heping North Street
+191880|Home Inn Wuhan CuiWei Street
+191881|Home Inn Wuhan Ziyang Street
+191883|Home Inn Harbin Kuan Qiao Street
+191896|Home Inn Caishiko Beijing
+191899|Home Inn Ciyunsi Qiao
+191908|Home Inn Hemei
+191911|Home Inn Huamao
+191928|Home Inn Liuhe Yongning Road
+191933|Home Inn Shangdi Road
+191943|Home Inn Tiantan Nanmen
+191948|Home Inn Xiangzhou
+191951|Home Inn Xinjiekou
+191954|Home Inn Yozhuang Tianhuaxi
+191955|Home Inn Zhenping Road
+191958|Home Inn Wuhan Louyu Road
+191962|Home Inn Development Zone Yantai
+192016|Days Honglou
+192020|Hongrui Jinling Grand Hotel Hefei
+192119|Hua Du
+192231|Huayu Minfu
+192244|Hubei
+192282|Hutong Culture Inn
+192296|Inlodge Beijing
+192306|InterContinental Resort Jiuzhai Paradise
+192345|Islandia Water Spa & Hotel Chengdu
+192404|Jiangtian Hotel Shanghai
+192478|Jin Jiang Inn Minsheng Road Shanghai
+192517|Jindapeng Hotel Shenzhen
+192581|Jingyi
+192593|Jinhangxian International
+192614|JinJiang Inn Anzhenli Inn
+192615|JinJiang Inn Changchun Street Inn
+192620|Jinjiang Inn Changchun Convention & Exhibition Center
+192622|JinJiang Inn Fuzhou
+192641|Jinjiang Inn ETDZ Beijing
+192642|JinJiang Inn Expo
+192644|JinJiang Inn Guoquan
+192647|JinJiang Inn Hongkou Football Stadium
+192649|JinJiang Inn Huqingping
+192652|Jinjiang Inn Maglev Station
+192654|Jinjiang Inn Ningbo Metro Ningbo
+192655|Hanting Changshou Road
+192656|Jinjiang Inn Railway Station
+192657|Jinjiang Inn North Shanghai Hutai Rd
+192659|Jinjiang Inn Northwest Shanghai Zhenbei Road
+192661|Jinjiang Inn Shanghai By The Bund
+192662|Jinjiang Inn Shanghai By The North Bund
+192664|Jinjiang Inn New International Expo Center
+192665|Jinjiang Inn Shanghai Zhongshan Park
+192666|Jinjiang Inn South Railway Station
+192669|Jinjiang Inn West Shanghai Changning Rd
+192670|Jinjiang Inn West Shanghai Yejiazhai Rd
+192671|JinJiang Inn Xi'an
+192673|JinJiang Inn Xinsong Road
+192675|JinJiang Inn Yangpudaqiao Branch
+192676|Jinjiang Inn Yixian Rd Shanghai
+192677|Jin Jiang Inn Yongdingmen Beijing
+192679|Jinjiang Inn Zhangjiang
+192686|JinJiang Majiapu Inn
+192690|JinJiang Temple of Heaven Inn
+192692|Jinjiang Xihu Avenue Inn Hangzhou
+192693|JinJiang Xizhimen Inn Beijing
+192694|JinJiang Yizhuang Development Zone Inn
+192700|Jinjing Inn
+192701|Jinjing Inn North Gonghexin Rd
+192734|Jinruilin Hotel Guangzhou
+192760|Jinye Guangzhou
+192773|Jinyun Sunny
+192831|Julu Garden Villa
+192853|JW Marriott Shenzhen
+192886|Kangnian International Hotel Hengyang
+192906|King Court
+192919|Kingdo
+192957|Lake View Garden
+192992|Lapis Casa Boutique Baoqing
+192995|Le Tour Traveler's Rest Youth Hostel
+192997|Leaguer Recreation Resort
+193000|Leeden Hotel Jiaxing
+193006|Leidisen Hotel Huzhou
+193014|Les Suites Orient
+193059|Lijiada Shanghai
+193075|Lingcai Hotel Chengdu
+193086|Litian
+193091|Liutong Hotel Hangzhou
+193092|Liverpool Hotel Suzhou
+193111|Longda Holiday
+193112|Longda Times
+193212|Marriott Northeast
+193213|Marriott The Sandalwood
+193216|Master Hotel Wenjindu Branch
+193259|New World Metro Grand Hotel
+193261|Metropark Hotel Xiamen
+193268|Michael's House
+193279|Millennium
+193298|Mingcheng International Hotel Changsha
+193318|Mingzhu Shanghai
+193339|Modern
+193354|Motel 168 Shanghai Bayi Road Inn - Chongming
+193355|Motel 168 Hai Hang Inn
+193357|Motel 168 Shanghai Wuzhong Road
+193360|Motel 168 Wu Luo Road Inn
+193362|Motel 168 Chuansha Road
+193366|Motel 168 Gonghexin Road Shanghai
+193397|Motel 168 Ping Qi Road Inn
+193403|Motel 168 Lan Lin Road Inn
+193407|Motel 168 Hotel Qingdao
+193409|Motel 268 Hua Qiang Inn
+193459|Nanjing Airport Hotel
+193480|Nanyuan Chain Inn Kaiming Branch Ningbo
+193482|Nanyuan Chain Inns Fengqi Branch
+193485|Nanyuan
+193490|Nanyuan Inn
+193491|Nanyuan International Apartment Ningbo
+193507|New Beacon Qingzhilu
+193553|New Land Business Hotel Wuhan
+193554|New Mainland
+193579|New World Holiday Huijing
+193581|New World Dalian
+193708|Overseas Chinese Hotel Shenzhen
+193721|Pangu 7 Star
+193740|Park Plaza West
+193771|Pengda
+193777|Peony International
+193779|Sofitel Legend Peoples Grand Hotel Xian
+193801|Piao Home Inns Dong Si
+193803|Piaohome Inn Dinghuiqiao
+193815|Plant Garden Business
+193818|Pleasant Grasse
+193820|Pod Inn Hangzhou
+193854|Wanda Realm Beijing
+193875|Qiandao Lake Elaninn
+193890|Qiao Yuan
+193965|Radiance Shanghai
+193973|Railway Station Jinjiang Central Inn Wuxi
+193974|Grand Mercure Dongguan Humen
+193975|Ramada Huangshan
+193978|Ramada Parkview
+193982|Rayfont Nanpu
+194025|Riverside Fairmont Hotel
+194069|Royal Tulip On The Beach
+194092|Rundu
+194129|Sanyu
+194130|Sanzan
+194146|Sea Time Royal Apartment Shenzhen
+194152|Seasons Park Apart Beijing
+194156|Seaview Resort Xiamen
+194168|Seven Star International Hotel Pingxiang
+194200|Shanghai Airlines Travel Pudong Airport
+194223|Motel 168 Chain-Bole Motel Shanghai
+194232|Xinhui
+194243|Shangri-La
+194244|Shangri-La Wenzhou
+194277|Citadines Gaoxin
+194290|Sheng Gang Express
+194334|Shenzhen Southern Inn Shenzhen
+194337|Shenzhen Xing Hua
+194338|Zhulin Shenzhen
+194339|Shenzhou China Hotel Shanghai
+194343|Sheraton Shenzhen Futian
+194398|Shunde Country Garden Holiday Resort
+194436|Silver River
+194443|Singapore
+194470|Somerset Youyi
+194475|Songtsam Retreat at Shangri-La
+194505|Sports
+194513|Ssaw Hotel Shaoxing
+194518|Jinjiang Inn Jiuxianqiao
+194550|Sun Island Golf Hotspring Resort
+194560|Doubletree by Hilton Qingdao Chenyang
+194577|Sunshine Capital
+194599|Sunway Airport Hotel
+194600|Sunworld Dynasty
+194608|Super 8 Fang Zhuang Yin Ma
+194615|Super 8 Da Kun Yinchuan
+194620|Super 8 Xingtai Kai Xuan
+194622|Super 8 Tongzhou Xin Hua Da Jie
+194626|Super 8 Xuan Wu Men
+194635|Super 8 Tian Xin
+194639|Super 8 Wei Ke Hotel Ordos
+194673|Tai Mu Shan International
+194683|Tailong Business
+194700|Taizhou Garden
+194713|Tangshan Hotel
+194753|The Fountain
+194763|The Interlaken OCT
+194778|University Town International
+194835|Tianlong
+194859|Tiantan Wancheng
+194877|Dongguan Tianyu Hotel
+194886|Tianzhidao Hotel Chengdu
+194900|Times Holiday
+194909|Tokai
+194933|Home Inn Olympic Center
+194936|Home Inn Fengqiao Suzhou
+194954|Traveler Inn Hepingli
+194987|Unotel Sanmao
+194999|Vanguard
+195013|Vienna
+195019|Vision Fashion Hotel Shenzhen
+195037|Wanda Holiday Express
+195073|Water Sky Hotel Shenzhen
+195077|Wealthy All Suites Hotel Suzhou
+195097|Jinjiang Inn ChengDu Wenshufang
+195144|World Expo Hotel Zhejiang
+195156|Wuhua International
+195176|Wuyi Square Jinjiang Inn Wuhu
+195184|Swiss International Xiamen
+195187|Xi Di Wan
+195209|Xi'an International Hotel
+195271|Xin Chang Bai Yun
+195321|Xinghaiqi Holiday
+195417|Xuan Yuan International
+195421|Xuelong
+195425|Kempinski Hotel Yixing
+195501|Yi He Hotel Guangzhou
+195566|Yin Yun Seaview Resort
+195592|Yosemite
+195602|Youth Holiday
+195684|Yuntian
+195688|Jade Link
+195690|Yuquan Hangzhou
+195703|Yuyao
+195736|Zhejiang Media Hotel Hangzhou
+195775|Zhong'an Huana Holiday Hotel
+195776|Zhongan Inn Meiyuan
+195790|Zhong Hua Men Hotel
+195809|Zhongtian Fenghuang Hotel Changzhou
+195828|Zhongzhou Hotel Zhengzhou
+195832|Zhouheng Hotel Sanya
+195847|Zhuying Garden
+195869|Zobon Art
+195900|Mao Lin Hui Feng
+195946|Crowne Plaza Grand Canal
+195951|Garden Inn Guanyinqiao
+195952|Garden Inn Shiziling
+195955|Jin Jiang Inn Henglong
+201932|GT Starwing
+201933|Broadcasting Tower
+201936|Vision
+201939|Leeden
+201940|Four Points by Sheraton Guangzhou, Dongpu
+201941|Daysun Ritz International
+201942|Motel 168 Luo Xi Bridge Inn
+201943|Motel 168 Huizhou Wheat
+201944|Motel 168 Hongling
+201955|Ramada Pudong Shanghai Expo
+201959|Kingkey Palace
+201961|Grand Garden
+201964|Grand Soluxe International
+201968|Binhai Jianguo
+201969|Fu Heng
+202429|The Peninsula
+202495|Motel 168 Guangzhou Avenue
+202496|Asana Executive Apartments
+202498|Cypress Garden
+202499|Grand Central
+202500|InterContinental Puxi
+202504|Sam Q
+202505|Nanyuan Inn Exhibition Center
+202506|Nanyuan Inn Beilun
+203155|Crowne Plaza Riverside
+203159|Sheraton
+203160|Jiang Yue
+203163|Blue Sky
+203164|Green Lotus
+203165|Wyndham Grand Plaza Royale Hangzhou
+203166|Holiday Inn Express Nanhuizui
+206003|Courtyard View
+210546|Holiday Inn Beijing Deshengmen
+211939|JinJiang Inn - Beijing West Train Inn
+214786|Oriental Bund
+226554|Jianguo Hotspring
+226555|Radegast Lake View
+226556|Tiantan Sports
+226558|Home Inn Quanan Square
+226559|Shanshui Trends
+226560|Millennium Chengdu
+226561|Days Hillsun & Suite
+226562|Fairyland
+226563|InterContinental Foshan
+226564|Crowne Plaza Lijiang Ancient Town
+226565|Yinxiang Gu Cheng
+226566|Paradise
+226567|Nan Ying
+226570|Holiday Inn Shanghai Jinxiu
+226571|Holiday Inn Shanghai West
+226572|Holiday Inn Express Shanghai Sanlin
+226573|Nanyuan Inn Tianyi
+226574|Nanyuan Inn
+226575|Le Meridien
+226576|Holiday Inn Express Tianjin Dongli
+226577|Holiday Inn Xian Greenland Century City
+226664|Grand Hyatt Macau
+226723|Pullman Lijiang Resort & Spa
+227440|Grand Hyatt
+227442|Regal Master
+227446|The Westin Nanshan
+227448|Le Meridien Nanan
+227449|Nanyuan Inn Bohai
+227450|Guangzhou Tianyue
+227452|Charming Holiday
+227453|Days Inn
+227455|The Westin
+227456|Chang An Great Aim
+227457|City Inn Yuandong
+227458|Oakwood Residence
+227459|Tianlun Regar
+227460|Holiday Inn Express Tianjin Airport
+227461|Ming Ri Wuzhou
+227462|Zhongtailai
+227463|Motel 168 Jiuyanqiao
+227465|Ying Ge Hai Holiday
+227466|Yun's Paradise Waltz
+227467|Motel168 Pudong Airport (North Building)
+227794|Huabin International
+227796|Nanyuan Inn Wangfujing
+227797|Purple Courtyard
+227798|Four Season Homeland
+227799|Cheerful
+227800|New West Street International
+227801|Overseas Chinese Mansion
+227803|Park Resort
+227804|Soluxe Qixia
+227806|Nanning Marriott
+227809|Ascott Huai Hai Road
+227810|Nanyuan Inn Gaoxin
+227811|Shofo Boutique
+227813|Ramada Casa
+227814|Tangla Hotel
+227816|Nanyuan Inn Zhongshan Branch
+228013|Garden Inn Jianghaner Road
+228014|Luhuitou State Guesthouse & Resort
+228016|Mingshen Jinjiang Golf Resort
+228018|Days Henglong
+228019|Ibis
+228523|Langham Place Capital Airport
+228524|Home Inn Da Ping
+228525|Home Inn Yanshaxinyuanli
+228526|Home Inn Qingniwaqiao
+228527|Home Inn Wuyi Plaza
+228529|Home Inn Baiyun Avenue
+228531|Weldon
+228532|Home Inn Changjiang Walkstreet
+228534|Home Inn Baotuquan
+228535|Home Inn Jinshi
+228536|Home Inn Baita
+228537|Home Inn Dongfeng Square
+228538|Home Inn Qingnian Road
+228539|Home Inn Fuzimiao
+228540|Home Inn Hunan Road
+228541|Nanyuan Inn Xiaogang
+228542|Home Inn South Fuzhou Road
+228543|Home Inn West Yinchuan Road
+228544|The Qube
+228545|The Ritz-Carlton Pudong
+228546|Home Inn Qing Yang Road
+228547|Home Inn Dadongmen
+228548|Home Inn Dadongmen 2nd
+228549|Home Inn Economic Development
+228727|Banyan Tree Hangzhou
+228910|Starway Xinfuan
+228911|Shanshui Trends Huaqiangbei
+228915|Leeden
+228918|Home Inn Shouxi Lake
+228919|Grand Mercure Shanghai Zhongya
+228920|Guoman
+228921|Red Wall Garden
+228928|Courtyard Puxi
+229067|Home Inn SanYuanQiao
+229068|Home Inn Baliqiao
+229069|Home Inn Gaoshenqiao Luoma Plaza
+229070|Home Inn Xinnanmen
+229071|Home Inn Zhongshan Road
+229072|Home Inn Central Street
+229073|Home Inn Bayi Crossroads
+229074|Home Inn Baodai West Road
+229078|Home Inn Guozhan Zhongxin
+229079|Home Inn Xinkai
+229081|Home Inn Weijinnanlu Tianta
+229082|Home Inn Wuqing Kaifaqu
+229084|Home Inns Anshan Xidao
+229086|Home Inn Tianmendun
+229087|Home Inn Xinhuaxia Road
+229089|Home Inn Luoshinan
+229092|Home Inn Tongjiang Avenue - geschlossen
+229095|Home Inn Congning Road
+229096|Home Inn Xinqu Wangzhuang
+229097|Home Inn Erma Road
+229098|Home Inn Bus Station
+229099|Home Inn Gezhou Dam
+229100|Home Inn Jingguang Road
+229101|Home Inn Wenhua Road
+229103|Home Inn Huanghe Road
+229104|Intercontinental Sanya Resort
+229177|Home Inn Guogeli Street
+229179|Home Inn Sophia Church
+229183|Tangla
+229184|Tea Boutique
+229185|Soul
+229186|Sun Town Sun Joy
+229187|Home Inn Wangcheng Park
+229188|Home Inn Middle Tanggong Road
+230277|Home Inn Qinta
+230284|Wyndham Grand Plaza Royale Furongguo Changsha
+230290|Hilton Chongqing Nanshan Resort & Spa
+230294|Hilton Guiyang
+230297|The Dragon
+230314|Yi Bang Residence
+230315|Intercontinental Nanjing
+230327|Doubletree by Hilton Shenyang
+230329|Hilton Shenzhen Futian
+230330|Holiday Inn Express Suzhou Changjiang
+230333|Doubletree Wuxi-Lingshan
+230340|Home Inn (East Changying Road)
+230342|Home Inn Railway Station
+230703|Kingtown Hongmei
+230710|Nikko Shanghai
+230712|Renaissance Putuo
+230717|Hilton Shanghai Hongqiao
+230724|Waldorf Astoria on The Bund
+230732|Xuhui International Executive Suites Shanghai
+232331|Home Inn The Second Taibei Road
+232362|InterContinental Shanghai Expo
+232363|Kailun
+232364|Longting New Century Qiandao Lake
+232384|Shangri-La Guilin
+232386|The Langham Xintiandi
+232853|Home Inn Dabeiyao
+232855|Home Inn Shuangjin
+232856|Home Inn Daguanyuan
+232865|Grand Metro Park
+232870|Nikko Wuxi
+232871|Ibis Yangzhou Development Zone
+232967|Home Inn Jinsong
+232968|Home Inn Zhanlanguan
+232978|Garden Inn Yanjiang Dong Lu
+232980|Garden Inn Gangding
+232982|Garden Inn Yile Road
+232986|Garden Inn Luoxi
+233008|KaJi Apartment
+233017|Nanyuan Chain Inn Chengnan Road
+233034|Garden Inn Dongmen Middle Road
+233042|Home Inn Wudadao
+233043|Home Inn Han Guang Men
+233184|Indigo Shanghai On The Bund
+233237|Mercure Beijing Downtown
+233238|Piao Home Inn Beijing Jiu Xian Bridge
+233239|Piao Home Inn Wang Fu Jing
+233240|Piao Home Inn Da Guan Yuan
+233243|Piao Home Inn Beijing Jianguomen
+233244|Piao Home Inn Qianmen
+233246|Grand Metropark Chongqing
+233247|Mels Weldon Dongguan Humen
+233248|Triumphal View
+233249|Baiyun Lakeside
+233250|Nan Feng
+233251|Ramada Plaza
+233253|Sofitel Guangzhou Sunrich
+233258|Chateau Star River
+233260|Modena Putuo
+233638|Days Hotel Beijing New Exhibition Center
+233640|Nanyuan Inn Tiantan
+233643|Seaside Resort
+233645|Andersen Culture
+233646|Eaton Luxe Nanqiao
+233647|Wyndham Bund East Shanghai
+233946|Aden
+233953|Huaqiang Plaza
+233956|Empark Grand
+233958|Tianjin Saixiang
+233979|Xujiahui Park
+233982|Golden Tulip Ashar Suites Shanghai Central
+233986|Ramada Plaza Pu Dong South
+234055|Marvel Shanghai
+234056|Yangshuo Resort
+234105|Courtyard by Marriott Suzhou
+234108|Marriott Tianhe
+234110|Holiday Inn Hangzhou CBD
+234111|Howard Johnson Plaza Waigaoqiao
+234112|Vienna South Railway Station
+234145|Dorsett Shanghai
+234548|Laurel
+234589|Guangdong Geological Landscape
+234590|Tian Hu
+234593|Irene Jinshu Boutique
+234599|Ariva Tianjin
+234647|Earthly Paradise Bird Nest Resort
+234654|Days Hotel & Suites Xinxing
+234655|Days Inn City Centre
+234658|Poly White Rose
+234659|Le Meridien
+234660|Landison Longjing Resort
+235187|She & He Hotel Apartment - Huifeng
+235190|Super 8 Qi Bao
+235192|Gucun Park Shanghai
+235193|Sheraton Hongkou
+235332|Holiday Inn Focus Square
+235333|InterContinental Suzhou
+235334|Kerry Pudong
+235335|Kunshan Newport
+235336|Sichuan Longzhaoshu
+235337|Tai Xiang Business Inn
+235338|Traditional View
+235354|Amanfayun
+235356|Casa Serena
+235357|China World Summit Wing
+235359|Crowne Plaza Chaoyang U-Town
+235477|Gongqing
+236270|International
+236272|Ouman Leiden
+236347|Royal Tulip Luxury Carat
+236348|Sheraton Zhongshan
+236349|JW Marriott Hangzhou
+236414|Chinese Culture Holiday Wangfujing
+236416|Howard Johnson Riverfront Plaza Fuzhou
+236493|Sophia
+236496|Chateau Star River Guangzhou Haiyi Peninsula
+236505|Yun Cheng
+236506|Harmony Resort Hotel
+236756|Somerset Riverview Chengdu
+236757|Modena Jinjihu Suzhou
+236758|Modena Heping Tianjin
+236974|Jinyueyuan Air Botique
+237009|Central International Shanghai
+237011|Home Inn Xiaonanjie
+237012|Binhai Grand
+237016|Jumeirah Himalayas Hotel
+237017|Poly
+237026|Yunli
+237028|Sun Flower Hotel
+237167|Okura Macau
+237807|Pa Zhou Bay
+237988|Crowne Plaza Yichang
+238350|Forte International
+238355|Guomen Business
+238357|Starway Premier No. 8 Xiaoyunli
+238358|Jia Hao
+238360|Beijing Airport GR International Business Hotel
+238363|Guo An
+238367|Inner Mongolia Grand
+238376|Howard Johnson Hongqiao Airport
+238377|Holiday Inn Shanghai Pudong Kangqiao
+238378|New Century Puxi
+238380|Lihao International
+238381|Yuloon
+238382|Ibis Waigaoqiao
+238383|Regal Plaza Hotel & Residence
+238384|Colorful City
+238385|Asta
+238387|The Luxe Manor
+238515|Shangru Yangguang
+238516|Purple British
+238517|Baolong Homelike Youyi
+238520|Holiday Inn Express Wuhou
+238524|Gardford International
+238528|Junjia
+238529|Miya
+238531|Paco Business Baiyun
+238532|Milu
+238536|Elan Inn Longxiang
+238538|Elan Inn East Station
+238540|Elan Inn Hubin
+238541|Elan Inn Zhaohui
+238543|Elan Inn Huanglong
+238549|Sheraton Jiangyin
+238550|Novotel Nanjing East Suning Galaxy
+238551|Home Inn Jiangning
+238552|Regalia Resort & Spa Qinhuai River
+238553|Holiday Inn Qingdao City Center
+238554|Kunlun Gloria Seaview Resort
+238555|Sheraton Wenzhou
+238556|Landison Plaza
+238653|Paco Business Tianhe
+238654|Kolam Gloria Plaza
+238656|Ding Ye New Century
+238657|Home Inn Tianjin University
+238659|Conrad Sanya Haitang Bay
+238814|Wyndham Grand Plaza Royale Palace
+239181|Garden Inn Xidajie
+239326|Red Wall Jingshan Garden
+239336|Lasony Serviced Apartment
+239337|Kingers
+239341|Crowne Plaza Huadu
+239345|Hung Fuk Mun
+239350|Gang Wan Business
+239355|Hilton Guangzhou Tianhe
+239357|China Dragon
+239359|Spring Time Zhuijang
+239366|Mandarin Spring
+239369|Ibis Huangshi
+239378|Yue Xiu
+239379|Casa Riva
+239384|Gordon
+239391|Ximala Business Jiahe Branch
+239403|Home Inn Tianhe North Time Square
+239404|Ladoll Service Apartment
+239409|Fenyang Garden
+239419|Vienna Shanghai World Expo Garden Branch
+239420|Acme Expo Riverside Apartments
+239423|Royal International
+239426|Crowne Plaza Longgang City Centre
+239428|Dehan
+239880|Piao Home Inn Beijing Xi Ke Zhan
+239882|Days Hotel & Suites Fudu
+239883|Days Jindu
+239887|Super 8 Shenyang Zhong Jie
+239888|Xingyue Business Hotel
+239946|Good Dream Business Shanghai Changning
+240074|Holiday Inn Songjiang
+240077|Eiffelton
+240084|Kingtown Riverside Hotel Plaza Shanghai
+240092|Courtyard Jiading
+240094|Sunrise On The Bund
+240149|Starway Jiaxin
+240158|Starway Xuhui
+240159|Carolina Yishan Road
+240160|Holiday Inn Express New Hongqiao
+240171|Home Inn Minhang Gymnasium
+240316|China National Convention Center Grand Hotel
+240317|Park Hyatt Ningbo Resort & Spa
+240318|Four Points by Sheraton Qingdao, Chenyang
+240321|Narada Resort & Spa Qixian Mount
+240324|Howard Johnson Tongfang Plaza Zhuji
+240328|Vienna Chunfeng
+240331|Fraser Suites Suzhou
+240333|City Inn Gongbei
+240336|Narada Boutique Hangzhou Xiaoshan
+240339|Jinyuan Hangzhou
+240341|Paco Business Longkou West
+240342|Horizontal
+240343|Sheraton Guangzhou
+240347|Yi Jia Yi Business
+240353|Everyday
+240357|Lucky
+241249|Garden Inn Zhongshan Silu
+241251|Hua Tian
+241361|Club Med Yabuli
+241659|Ai Du
+241663|Regalia Resort & Spa (Tangshan)
+241666|Tangla Hotel Shenzhen
+241692|Galaxy
+241758|Ambassador Mansion
+241759|Beijing Saga
+241760|Win Win Hotel Beijing
+241761|Milan Hangzhou
+241808|Dongguan Oriental Glory
+241809|Hilton Baiyun
+241812|Hilton Hangzhou Qiandao Lake Resort
+242470|Pullman
+242476|Doubletree Wuxi
+243249|Yi Feng
+243531|Grand Skylight
+243537|Haiyatt Garden Suzhou
+243538|Citadines Zhuankou Wuhan
+243540|Pullman Oceanview Sanya Bay Resort & Spa
+243544|Baolong Homelike Jing'An
+243545|Worldunion Service Apartment
+243553|Fairmont Yangcheng Lake
+243556|Dongjia Apartment
+243579|Yinhaigang
+243581|Nanjing Vogue
+243583|Ron Yard
+243584|Baolong Homelike Zhongshan
+243585|Holiday Inn Express Beijing Dongzhimen
+243586|Holiday Inn Haidian
+243593|Courtyard Hangzhou Wulin
+243595|Intercontinental Hangzhou
+243596|InterContinental Onethousand Island Lake Resort
+243598|Crowne Plaza Huizhou
+243599|Intercontinental Huizhou Resort
+243600|Kempinski Huizhou
+243602|Courtyard Kunshan
+243604|Crowne Plaza Maanshan
+243605|Crowne Plaza Nanchang Riverside
+243606|Glarun Jinling
+243607|DoubleTree Sanya Haitang Bay
+243608|Renaissance Sanya Resort & Spa
+243613|Shanghai Marriott Changfeng Park
+243615|Benjoy
+243616|Days Insun Shanghai
+243617|Crowne Plaza Shenyang Parkview
+243618|Jiasheng Palace
+243619|Suzhou Marriott
+243620|Lakeview Marriott Executive Apartments
+243621|Renaissance Tianjin Lakeview
+243626|Hilton Xian
+243627|Crowne Plaza Xiangyang
+243634|Ramada Zibo
+244026|Westin Wuhan Wuchang
+244027|Westin Pazhou
+244028|The Bauhinia Hotel Guangzhou
+244030|VILI International
+244031|Home Fond (Luohu)
+244032|Home Fond (Nanshan)
+244033|Ramada Plaza Shenzhen
+244034|Suisse Place Ligongdi Suzhou
+244035|Crowne Plaza Xian
+244037|Swisstouches Xian
+244038|Shanghai Marriott Hotel City Center
+244039|Scholars Hotel Pingjiang Fu
+244040|Vienna International Jiuxing
+244047|All-Right
+244050|Club China Chic
+244052|Days Inn Business Place Longwan
+244055|Sheraton Beijing Dongcheng
+244056|Shunjing SPA
+244060|Stratus Bei Tai Ping Zhuang
+244062|Tangyun Conference Resort
+244064|La Nice Schengen Grand
+245144|Four Seasons Hangzhou at West Lake
+245194|Novotel Guiyang Downtown
+245881|Indigo Xiamen Harbour
+245957|InterContinental Ningbo
+245961|InterContinental Tangshan
+245962|InterContinental Wuxi
+245985|Crowne Plaza Chengdu Panda Garden
+245987|Crowne Plaza Hefei
+245988|Crowne Plaza Huangshan Yucheng
+245989|Crowne Plaza Shanghai Anting Golf
+245990|Crowne Plaza Shanghai Harbour City
+245991|Crowne Plaza Shanghai Xiayang Lake
+245993|Crowne Plaza Xishuangbanna
+246029|Holiday Inn Taicang City Centre
+246030|Holiday Inn Shijiazhuang Central
+246031|Holiday Inn Nantong Oasis International
+246032|Holiday Inn Tianjin Aqua City
+246033|Holiday Inn Shaoxing
+246034|Holiday Inn Chengdu Oriental Plaza
+246035|Holiday Inn Yinchuan International Trade Centre
+246036|Holiday Inn Changbaishan Suites
+246037|Holiday Inn Resort Changbaishan
+246095|Holiday Inn Macao Cotai Central
+246200|Ibis Beijing Jianguomen
+246201|Ibis Dalian Sanba
+246202|Ibis Qingdao Donghai
+246203|Motel 168
+246204|Sheraton Xian North City
+246312|Holiday Inn Express Changzhou Center
+246313|Holiday Inn Express Chongqing Jinxiucheng
+246314|Holiday Inn Express Nantong Xinghu
+246458|Grand Skylight International Guanlan
+246463|Royal Garden Inn
+246465|Dacheng Shanshui International
+246482|Furong International
+246483|Huaicheng Dalian
+246484|Baiyun City
+246486|Jinyadian
+246487|Soluxe
+246488|Grand Hoya
+246489|The Castle
+246492|Andaz Shanghai
+246494|PEI Mansion
+246495|Hangzhou Evergreen
+246496|Rejing International Hangzhou
+246983|Cote Cour Beijing
+246984|Tang House NanLuoGuXiang
+246985|Tang House (Fuxue Hutong)
+246998|Phoenix Rujia Sea View Holiday
+247002|Ai Hua
+247003|Shanghai Marriott Luwan
+247004|Le Sun Chine
+247009|Wongtee V Hotel
+247016|The St. Regis Tianjin
+247020|Home Inn Xiamen Wenzao
+247023|Citadines Xingqing Palace Xi'an
+247032|Datang Changan Huiguan
+247033|The Westin
+247060|Zhong Qiao
+247193|Holiday Inn Express Tianjin Heping
+247633|Best Western Premier Fortune
+247637|Best Western Bestway
+247873|Shichahai Shadow Art Performance
+247876|Beijing Gongti A-Hotel
+247877|Jiang Tai Art / Jiangtai Art
+247878|Super 8 Huang Hua Gang
+247879|Calvin Grand
+247880|Sheraton Guangzhou Huadu Resort
+247881|Xianghe
+247882|Sheraton Qiandao Lake Resort
+247885|Renaissance Huizhou
+247886|Walker Boutique
+247887|China Community Culture & Art Hotel
+247888|Herton Seaview
+247889|Yalong Bay Sanya Farinn
+247890|Imperial Palace Club
+247891|Riverview Shanghai
+247892|The Castle
+248251|St. Regis Lhasa
+249513|Sheraton Chongqing Hotel
+249515|Westin
+249614|City Inn Happy Valley
+249615|Four Points Hainan Sanya
+249616|Golden Sun
+249617|Four Points Shenzhou Peninsula Resort
+249626|Four Points by Sheraton Lianyungang
+249629|Four Points by Sheraton
+249630|Spring Time Tianhe
+249631|Smart Baiyun
+249654|Victoria
+249657|Southern Club
+249689|The St. Regis Sanya Yalong Bay Resort
+249737|Elan Inn West Lake
+252672|Pousada De Coloane
+254290|JinJiang Inn - Beijing Guangqumen Inn
+254291|JinJiang Inn - Beijing Houhai
+254293|Shangda International
+254294|Ibis Beijing Capital Airport
+254297|The Classic Courtyard
+254298|Ramada Beijing North
+254304|JinJiang Inn - Guang'anmen Inn
+254311|Kuntai
+254313|FX Inn XiSanQi
+254319|Grace Beijing
+254328|Ibis Beijing Dongdaqiao
+254332|Victory Star Inn
+254336|Motel268 BeiJing Wang Fu Jing Inn
+254337|GreenTree Alliance Beijing West Railway Station North Square Hotel
+254339|Jinjiang Inn Beijing Olympic Village Datun Road
+254342|Hutong Inn Tiananmen Courtyard
+254343|Beijing Confucious Hotel
+254347|Shichahai Sandalwood Boutique
+254349|Piao Home Inn Huamao
+254353|Jinjiang Inn Beijing Ciyun Temple
+254354|Tai Shan
+254365|Shindom Inn Beijing Jianguomen
+254366|Xiao Yuan Alley Courtyard
+254371|Imperial Courtyard
+254378|Jinjiang Inn Beijing Fangzhuang
+254388|Jinjiang Inn Olympic Park
+254400|Graceland Yard Hotel
+254407|Tianrui
+254501|Le Parker International Hotel
+254507|Yu Hai Seascape Hotel
+254512|Kempinski Haitang Bay Sanya
+254514|Sanya San Jin Holiday Hotel
+254517|Jinjiang Inn Hainan Dongfengqiao
+255247|Sofitel Shanghai Jing An Huamin
+255249|Ibis JinshaJiang
+255256|Paramount & Gallery Hotel
+255258|Ibis Xujiahui
+255260|SOHO International Youth Hostel
+255261|GreenTree Inn Shanghai Century Park
+255262|Jinjiang Inn Shanghai Hongqiao Hami Road
+255265|Baolong Homelike Hong Qiao Branch
+255268|Baolong Homelike Wujiao Chang
+255273|Jinjiang Inn Shanghai Nanhui Hangtou
+255275|GreenTree Inn Shanghai Chengshan Road Express
+255276|Shahai International
+255278|Dong Hu Guest House
+255281|Jinjiang Inn Shanghai Pudong Airport II
+255284|Jinjiang Inn Shanghai Huamu
+255286|Jinjiang Inn Chifeng Road
+255288|Jinjiang Inn Lujiabang Road
+255289|Jinjiang Inn Shanghai Pudong Xinjinqiao Rd
+255293|Jinjiang Inn Expo Park Pusan Road
+255294|Motel168 Shanghai Yangpu Bridge Inn
+255295|Jinjiang Inn Chuansha Huaxia Road East
+255296|Sina Hotel
+255298|Jinjiang Inn Shanghai Hailun Rd
+255299|Motel168 Shanghai East TianMu Road Inn
+255300|Jinjiang Inn Shanghai Huaihai Road East
+255301|Jinjiang Inn Shanghai Jiaotong University Xuhui Campus
+255306|Jinjiang Inn Shanghai Gaohang Jujin Rd
+255307|GreenTree Alliance Shanghai Zhongshan Park
+255310|Jinjiang Inn Shanghai Wanping Rd.(S)
+255311|Motel 168 Jin Chuan Road Inn
+255312|Jinjiang Inn Shanghai Lujiazui
+255317|Motel168 Shanghai XinCun Road Inn
+255320|Xi He Feng Run
+255321|Jinjiang Inn Xian Dongguan
+255322|King Town No.1
+255323|Sunda Gentleman International Hotel
+255326|Ramada Bell Tower
+255334|Tang Dynasty Art Garden
+255337|Cien Hotel
+255338|Century Landscape
+255345|Jinjiang Inn Jianguomen
+255376|Feng Yuyan Hotel
+255379|Moondance Hotel
+255380|Yangshuo Hidden Dragon Villa
+255382|Guilinyi Royal Palace
+255384|Bamboo House Resort
+255385|Yangshuo River View Hotel
+255386|Yangshuo Village Inn
+255387|Leader Guest House-LongJi Branch
+255388|Howard Johnson Tropical Garden Plaza Kunming
+255392|Sheraton Hangzhou Wetland Park Resort
+255394|Hangzhou Tea Pu Rui Hotel
+255397|GreenTree Inn Hangzhou West Lake Avenue Hotel
+255401|Angsana Hangzhou
+255402|Ramada Plaza Hangzhou Xiaoshan
+255403|NARADA Resort & Spa Liangzhu
+255405|Flower Inn West Lake
+255409|Brook
+255411|Vienna Wullin Square
+255412|Zhejiang Milan Continental
+255415|E M Grand Hotel
+255416|Hangzhou Yingri International Hotel
+255417|Jinjiang Inn Zhejiang Tonglu
+255418|Hangzhou European-Style Holiday Hotel
+255419|Hangzhou Junfu International Hotel
+255420|Zhejiang Duhao
+255421|GreenTree Inn Hangzhou West GenShan Road Hotel
+255429|Soaring Gental Hotel
+255432|Howard Johnson Conference Resort Chengdu
+255434|Rhombus Chengdu Fantasia
+255435|Celebrity Resort Huashuiwan
+255439|Angel HuaXi
+255441|Ane Fuqin Branch
+255442|An-e Renmin Park Branch
+255443|Jiali Hotel - Width Alley
+255444|Anegrand Hotel
+255447|Chengdu Tianren Grand
+255448|Ane Hotel - E Mei Branch
+255449|For Star Hotel-Renmin North Road
+255450|Sacen Grand Hotel
+255452|An-e Waishuangnan Branch
+255453|Huan Hua Brocade Hotel
+255463|Jinjiang Inn Sport University
+255480|Fraser Suites Chengdu
+255481|Ming Lu Hotel
+255484|Ramada Plaza Chong Qing North
+255485|Yueyou Jiefangbei Branch
+255487|DoubleTree by Hilton Hotel Chongqing North
+255489|FX Hotel Third Military Medical University
+255491|FX Hotel at Technology & Business University
+255493|Motel 168 Chongqing Jiefangbei Inn
+255495|Days Hotel Dianya Chongqing
+255498|Ramada Plaza Chongqing West
+255503|Beity Hot Spring Tourism Resort
+255505|The Linden Centre
+255506|Grand Bay View International Hotel Dali
+255507|Days Suites Bojing Huangshan
+255509|Huang Shan Pine Ridge Lodge
+255511|Guangzhou Suiyun Hotel
+255514|J hotel
+255521|Yuwa
+255524|Guang Hua Hotel
+255525|Ming Hong Zhixing
+255527|Master Hotel Tianhe
+255530|Guangzhou Wings Hotel
+255535|V8 Xi Cun Branch
+255536|Yi an Business Hotel
+255537|Guangzhou Minghong Hotel -Xiwan
+255538|Dongzhi Hotel
+255539|Jingdu
+255540|Q-City
+255547|No.1 Wenlin Garden
+255549|Blossom Hill Inn
+255551|Jinjiang Inn Train Station
+255553|Jinjiang Inn Xigong Stadium
+255556|Jinjiang Inn Nanjing Coach Station (E)
+255558|Days Hotel Nanjing
+255559|Nanjing Vogue Boutique Motel
+255560|Hilton Nanjing Riverside
+255562|Baliyuanshu Vogue Hotespring
+255564|Travelers' Soul Inn
+255571|Jinjiang Inn Nanjing Train Station
+255572|Motel 168 XinJieKou Inn
+255576|Motel 168 Nanjing Zhong Fu Road Inn
+255583|Howard Johnson Wuzhong Business Club Hotel Suzhou
+255590|Noahs Hotel Suzhou
+255592|Shengshi Jin Jiang International Hotel
+255593|Days Hotel Suzhou
+255599|Scholars Inn Mudu
+255600|Ramada Kunshan
+255604|inlodge Hotel Suzhou with all Duplex Suites
+255605|Starway Dynasty
+255606|Jin Jiang International Taicang
+255607|Motel 168 Guan Qian Street Inn
+255615|Scholars Inn Suzhou Industry Park
+255617|Jinling Guanyuan International
+255620|Windsor Park Hotel Kunshan
+255627|Scholars Hotel Dushu Lake
+255629|Jinjiang Inn Suzhou New District Tayuan Road
+255631|Jinjiang Inn Kunshan Huaqiao Business Park
+255632|Zhong Hui Zhi Yuan
+255633|Motel168 Suzhou Sanxiang Road Inn
+255637|Dongshan
+255640|Suzhou Xinhu Hotel
+255646|Jinjiang Inn Wuhan Zhangzhidong Road
+255648|Jinjiang Inn Wuhan Jiangtan Buxing Street
+255654|Greentree Inn Wuhan Hankou Jiangtan Hotel
+255657|Howard Johnson Garden Plaza Yixing
+255659|Jinjiang Inn Wuxi Xicheng Road
+255664|Jinjiang Inn Wuxi New District Wangzhuang East Road
+255665|Jinjiang Inn Wuxi Liangqing Road
+255667|GreenTree Inn Wuxi New District Airport Hotel
+256261|Jinjiang Inn Chuangchun Quanan Square
+256269|Jinjiang Inn Qingdao Zhengyang Road
+256270|Jinjiang Inn Qingdao Yanerdao Road
+256273|Jinjiang Inn Central Qingdao Hangzhou Rd.
+256275|Jinjiang Inn Qingdao Zhongshan Road
+256282|Motel 168 Qingdao Railway Station Inn
+256285|Maple Leaf City Hotel
+256287|Sunon Holiday Villa Hotel
+256288|Maple Leaf Convenience Hotel
+256289|The Bauhinia Hotel Shenzhen
+256290|Mahayana OCT Hotel Shenzhen
+256294|Shenzhen Kylin Villa
+256295|Sanlian
+256296|The St. Regis Shenzhen
+256297|FX East Lake Park
+256298|Maple Leaf Modern Hotel
+256299|The Pavilion Hotel Longgang
+256301|LVGEM
+256303|Sun Flower Hotel and Residence
+256307|The Overseas Chinese Building Hotel
+256311|Jinjiang Inn Shenzhen Airport
+256312|Laguna Hotel
+256313|Qu Apart Tel
+256315|Oasis O-City Hotel Shenzhen
+256316|Otique Aqua
+256317|Parkview O City Hotel Shenzhen
+256318|Motel268 Shenzhen Nanshan Qilin
+256319|Tiancheng Sha Tsui
+256323|Yes Inn
+256328|Jinjiang Inn Shenyang North Station
+256330|Somerset Heping Shenyang
+256331|Maritim Hotel Shenyang
+256434|Ramada Yichang
+256482|Ibis Tianjin Tian Wei
+256485|Warner International Golf Club, Tianjin
+256486|Grand View Hotel
+256487|GreenTree Inn Great Mercy Temple
+256488|Tianjin Rego Garden
+256489|Jinjiang Inn Tianjin Train Station
+256492|Jinjiang Inn Tianjin Tanggu
+256494|Sheraton Tianjin Binhai
+256498|Jinjiang Inn Tianjin Hongqiao Guangrongdao
+256502|Jinbin International
+256509|Jinjiang Inn Tianjin Xianyang Road
+256511|Somerset International Building Tianjin
+256513|Jinjiang Inn Tianjin Bawei Road
+256567|Westin Minjiang
+256703|Longchamp Garden Hotel Changsha
+256704|Jinjiang Inn Changsha Nanhu
+256705|Motel168 Changsha GaoQiao Inn
+256706|Jinjiang Inn Changsha Dongfeng Rd.
+256710|Jinjiang Inn Changsha Helong Stadium
+256711|Motel168 Changsha FuRong Road Inn
+256713|Jinjiang Inn Changsha Wuyi Square
+256715|Sheraton Changzhou Xinbei Hotel
+256717|Starway Glamorous Park City
+256718|Jinjiang Inn Changzhou Olympic Center
+256719|Howard Johnson Kaina Plaza
+256720|Sheraton Changzhou Wujin
+256746|Conrad Dalian
+256750|Jinjiang Inn Dalian Xishan Street
+256753|Wellton International
+256755|Lotus Villa Botique Hotel
+256756|Grand Mercure Dongguan Shijie
+256757|Royal Guangdong
+256759|Ying Feng
+256761|Pullman Dongguan Changan
+256975|Motel 168 Guiyang Shengfu Road Inn
+256976|Hyatt Regency Guiyang
+256979|Jinjiang Inn Harbin Changjiang Road
+256982|Ibis Harbin Shangzhi
+256987|Jinjiang Inn Central Jinan Daming Lake
+256988|Jinjiang Inn Jinan Quancheng Park
+256989|Jinjiang Inn Jinan Shandong Univesity
+256990|Jinjiang Inn Jinan Jingsanweiba Road
+256995|Hyatt Regency Jinan
+256998|Sheraton Jinan Hotel
+257004|Jinjiang Inn Shijiazhuang Ping'an Street
+257007|Jinjiang Inn Zhengzhou Dashiqiao
+257008|Aloft Zhengzhou Shangjie
+257009|Jinjiang Inn Zhengzhou Wenhua Road
+257010|Jinjiang Inn Zhengzhou Hanghai Road
+257013|Jinjiang Inn Zhengzhou Zhongyuan Road
+257050|Grand Skylight International Hotel Nanchang
+257055|Jinjiang Inn Yingchuan Xinyue Square
+257091|Jinjiang Inn Hefei Jin Zhai Road Zhong Keda
+257092|Days Hotel And Suites Hefei
+257157|Starway Huaxiang Xiangshan
+257161|Kaiyuan Ningbo Jiulong Lake Resort
+257163|Cixi Landison Plaza Hotel
+257165|GreenTree Inn Ningbo Tianyi Plaza
+257166|Jinjiang Inn Ningbo Zhaohui Rd.
+257169|Zhe Hai Grand Hotel
+257170|Jinjiang Inn Xiangshan Shipu
+257173|Jinjiang Inn Xiamen Train Station
+257174|Jinjiang Inn Xiamen Convention & Exhibition Center
+257268|Chateau Star River Taiyuan
+257296|Jinjiang Inn Nanning International Exhibition Center
+257299|Zelin
+257394|Jinjiang Inn Shantou Hengshan Rd
+257397|Dayu Kaiyuan
+257398|Landison Hotel Xinchang
+257400|YaoJiang New Century Grand Zhuji
+257401|Jinjiang Inn Central Shengli Road
+257406|Starway Kangshan
+257407|Jinling
+257413|Jinjiang Inn Yangzhou Siwangting Road
+257415|Motel168 YangZhou WenChangGe Road Inn
+257418|Jinjiang Inn Yantai International Exhibition Center
+257419|Jinjiang Inn Yantai Development Zone Changjiang Road
+257422|GreenTree Inn Yantai South Street Hotel
+257425|Ibis Zhongshan The Center
+257426|Jinjiang Inn Xiangzhou Lovers Road (C)
+257428|Jinjiang Inn Zhuhai Jida Jiuzhou Avenue
+257432|Motel168 Zhuhai NingXi Road Inn
+257451|Ramada Plaza Shunde
+257452|Aloft Nanhai Foshan
+257472|Jinjiang Inn Yiwu
+257480|Jinjiang Inn Wenzhou Renmin Road
+257482|Treasure Island
+257487|Jinjiang Inn Zibo Train Station
+257488|Jinjiang Inn Zibo Liuquan Road
+257516|Radisson Blu Liuzhou
+257543|Jinjiang Inn Taizhou Nantong Rd
+257544|DoubleTree by Hilton Jiangsu Taizhou
+257545|GreenTree Inn Taizhou East Meilan Road Hotel
+257565|Jinjiang Inn Xuzhou Train Station
+257566|GreenTree Inn Xuzhou North Minzhu Road Hotel
+257887|Sheraton Hohhot Hotel
+257902|Jinjiang Inn Wusi Road
+257910|Jinjiang Inn Qingyuan Shifu
+257911|Jinjiang Inn Quanzhou Wenling Road N
+257912|Marco Polo Jinjiang
+257919|Grand Skylight Hotel
+257923|Days Hotel Legend Mudanjiang
+257924|Holiday Inn Suifenhe
+257925|Ramada Hotel And Suites Boao
+257926|Ramada Plaza Shaoguan City Centre
+257936|Jinjiang Inn Weifang Dongfeng Street W
+257963|Jinjiang Inn Yancheng Colorful Asia
+257970|Jinjiang Inn Huzhou Bailemen
+257971|Jinjiang Inn Zhoushan Putuo Shenjiamen
+257972|Landison Hotel Zhoushan
+257973|Huaqiao New Century Grand
+257976|Jinjiang Inn Anyang Wenfeng Main Road
+257980|Jinjiang Inn Rizhao Haiqu Park
+257982|Jinjiang Inn Rizhao Haibin Wu Rd
+257999|Jinjiang Inn Dongying Er Rd.(W)
+258001|Yide
+258007|New Century Fengming Resort Zaozhuang
+258394|Jinjiang Inn Shiyan Beijing Road
+258397|Baolong Homelike Mudanjiang
+258398|Jinjiang Inn Baoyang Dock
+258422|Songjiang New Century Grand Shanghai
+258425|Jinjiang Inn Shanghai Songjiang University Town
+258427|Motel 168 North Song Wei Road Inn
+258841|Jinjiang Inn Beijing Tongzhou Xinhua Street East Guyunhe
+258961|L'Otel
+258968|Mei Du
+258972|Jinjiang Inn Fengxian Nanqiao Road
+259183|Anantara Xishuangbanna Resort & Spa
+259234|Ibis Manchuli
+259309|Howard Johnson New Port Resort
+259525|Mingyoun Central
+259526|ZTE
+259529|Kirin
+259530|Zhengjia Guangzhou
+259533|Guangzhou Bontai
+259534|Ibis Hangzhou Southern Song Dynasty
+259535|Veegle Hangzhou Gejiang
+259536|ZTG Mingting Westlake
+259538|Hangzhou Jasmine International
+259539|Zhanshan Garden
+259545|Ocean Sonic Resort Sanya
+259546|Timton International
+259550|Huali Shishang
+260635|Aloft Zhengzhou Zhengdong New District
+260636|Aloft Haiyang
+260675|Four Seasons Shanghai Pudong
+260724|Sheraton Macao Cotai Central
+260967|Oakwood Premier Guangzhou
+260969|Guangzhou The Royal Garden
+260970|Holiday Inn Express Shanghai Jinsha
+260972|Tegoo
+261186|Best Western Premier Royal Phoenix Beijing
+261336|The One - Executive Suites Shanghai by Kempinski
+261558|Anantara Sanya Resort & Spa
+261672|Chengdu Marvel
+261675|Four Seasons Guangzhou
+261677|Swiss-Belhotel Hefei
+261678|The Westin Xiamen
+261679|Xiamen Royal Victoria
+264532|Super 8 Hotel Beijing Jiu Long
+264823|Jinjiang Inn Shanghai Hongmei Road South
+264824|Jinjiang Inn Shanghai Minhang Dongchuan Road
+264825|Jinjiang Inn Shanghai Minhang Wujing
+264828|Motel 168 Shanghai Jinshan Shihua Inn
+264843|Expo Jin Jiang Apartment
+265745|Best Western Premier Venice Park
+276626|Wenzhou International Hotel
+276627|Wenzhou Jiangjun Hotel
+279318|Holiday Inn Express Beijing Airport Zone
+279321|Warner Beijing SunThirsty Apartment
+279326|Shanshui Trends Hotel (Qianmen)
+279328|Homekey Hotel
+279329|161 Hostel
+279330|WYNN International Apartments
+279333|Beijing Lotus Hotel
+279334|Springs Valley
+279335|BackHome Beijing Guest House
+279340|Old Beijing Square Hotel
+279365|Longhigh Resort Apartment
+279369|Qing Tian Yu Tan Service Apartment
+279371|Phoenix Waterside Gloria Resort
+279372|MGM Grand Sanya
+279696|Mayson Shanghai Bund Serviced Apartment
+279697|Aquaspace Serviced Apartment
+279703|Blavii House
+279704|Jingyue 99 Hotel - Shiwan
+279705|Jingyue 99 Hotel - Jiangzhen
+279706|Shanghai Excellence
+279709|Mayson Shanghai Pudong Serviced Apartment
+279710|Life Adamo Boutique Hotel
+279711|Shanghai Ketangjian Boutique
+279712|Seine Taster Hotel
+279713|SaintLand Serviced Apartment
+279716|Xiangzimen Youth Hostel
+279831|Yangshuo Rosewood Inn
+279833|Rosewood Hotel
+279834|Yangshuo Phoenix Pagoda Fonglou Retreat
+279835|Triumphal Golden Horse
+279838|ACG Hotel City Center
+279839|Lotus 52 Villa
+279840|iTowns Hotel Tianyuan Branch
+279841|Yinqiao Hotel
+279842|New Century Grand Hotel Tonglu Hangzhou China
+279843|Xixuan Spa Hotel Hangzhou
+279844|ACG Hotel Shangpin
+279845|Xiangji Yard Boutique Hotel
+279849|Hangzhou Wuyang Star Inns Fengqi Branch
+279851|Hangzhou New Dongpo Hotel
+279852|C&Q Residence Hangzhou
+279853|Eastern Golden Apartment
+279854|Yilin Apartment
+279855|Westlake 7 Service Apartment
+279950|Holiday Inn Chengdu Xindu
+279951|Ane Courtyard Hotel
+279952|Starway Huana
+279953|Radisson Blu Plaza Chongqing
+279958|Goten Hotel
+279959|Guangzhou Masia Hotel
+279960|China Smart
+279961|Guangzhou Yingshang Hotel (Railway Station Branch)
+279962|PengMan Apartment (J.living)
+279965|Super 8 Hotel Guangzhou Railway Station
+279966|Hengdong Business Hotel - Guangzhou
+279967|Guangzhou Chuanghui Business Hotel
+279970|Nomo Times International YOU Apartment
+279973|Yushan Holiday Hotel
+279974|Vienna Hotel Dekang Road Branch
+279975|Jiangyue Hotel Changshou Branch
+279976|Haiyue
+279978|Central International Apartment Guangzhou
+279979|Yuancun Branch City
+279980|Yucheng Hotel
+279985|Bangtai International Apartment
+279986|East Coast Hotel
+279987|Cedar Hotel
+279990|Holiday Villa Hotel & Residence Guangzhou
+279992|Blossom Hill Inn Springland
+279994|Zen Garden Hotel
+279995|Fan'er Ba Boutique Hotel
+279999|Nanjing Kaibin Apartment-Chengkai YueShi Branch
+280000|The Cumberland Boutique
+280001|Nanjing Kaibin Apartment-Xinjiekou Branch
+280003|Nanjing Grand Haitang Branch
+280004|Nanjing Kaibin Apartment-Xinjiekou Kairun Branch
+280006|Nanjing Kaibin Apartment-Zhujianglu Muma Branch
+280007|Nanjing Kaibin Apartment-Shengtian Plaza Branch
+280009|Blossom Hill Inn Zhouzhuang - Seasonland
+280010|Starway Yi Yun Zhangjiagang Pedestrian Street
+280012|Royal Suites and Towers Wuhan
+280013|Worldhotel Grand Juna Wuxi
+281218|Sheraton Jiaozhou Hotel
+281219|Grand Metropark Hotel Qingdao
+281220|Home World Hotel
+281223|Shengang Hotel Apartment ( Lanxigu Branch)
+281224|Shengang Apartment (Taikoo Shing Branch)
+281225|Liangde Hotel Shenzhen
+281226|Norinco Hotel
+281227|Shengang Hotel Apartment (Huanggang Port Branch)
+281229|Shengang Hotel Apartment (Yuhedi Branch)
+281232|Shenzhen You Ran Ju Hotel
+281235|Mission Hills Dongguan
+281236|U Hotel
+281239|Guang Sheng International Hotel
+281241|Ascott Maillen Shenzhen
+281244|Taizi Hotel
+281247|Yuejia Business Hotel
+281251|Modern Classic Hotel
+281255|Shenzhen Kingdom Impression Hotel
+281256|Shenzhen Nanyuewan Hotel
+281258|Zhen Xing Hotel
+281260|Shenzhen Better Hotel
+281261|Super 8 Hotel Diwang Branch
+281263|Mellow Orange Hotel
+281267|Golden Palace Hotel
+281268|Xiangmei Jingjiang Branch
+282115|Sheraton Fuzhou Hotel
+282646|Vienna Hotel Dongguan Houjie Da Dao Branch
+283088|Renaissance Guiyang Hotel
+283090|Harbin Joysome Serviced Apartment
+283091|Heilongjiang Kunlun
+283092|Grand Mercure Urumqi Hualing
+283093|Novotel Zhengzhou Convention Centre
+283585|Pan Pacific Ningbo
+283586|Howard Johnson Sunshine Plaza Ningbo
+283587|Nikko Xiamen
+283793|Sheraton Qingyuan Lion Lake Resort
+283794|Mayland Resort
+283795|Grand Metropark Hotel Violet Swan
+283796|Four Points by Sheraton Yangzhou, Hanjiang
+283798|Grand Skylight CIMC Hotel Yangzhou
+283799|Sheraton Yantai Golden Beach Resort
+284038|Emeishan Hostel C
+284364|Holiday Inn Shanghai Songjiang
+284618|Days Hotel & Suites Zhaozhuang Xingyi Resort
+286164|Beijing Airport Gold Route Int
+286169|Conrad Beijing
+286175|Four Seasons Beijing
+286205|Super 8 Hotel Beijing Cao Qiao
+286214|Super 8 Huairou Kai Fang Lu
+286216|Super 8 Hotel Beijing South Railway Station North Square
+286217|Super 8 Zhong Gua
+286223|Beijing Dreams Travel Hostel
+286225|Grand Hotel Du Palais Rouge (Lama Temple)
+286226|Hotel Du Palais Rouge (Bell Tower)
+286229|Yitel Beijing Wangjing 798
+286295|Grand Fortune Bay Hotel
+286826|Yahsin Hotel
+286838|Super 8 Hotel Xian Da Yan Ta
+286920|Yangshuo Dongling Resort
+286923|Golden Eagle Summit Hotel
+286936|Lead Noble Boutique Hotel
+286955|White Horse Lake Jianguo Hotel
+286982|Elite Hotel European Style
+286990|Minyoun Suniya International
+286993|Oakwood Residence Funder Cheng
+287005|Days Hotel and Suites Dianya Chongqing
+287006|Days Hotel MingYue
+287016|Country Garden Phoenix
+287037|Hengda Grand Hotel
+287045|Li Peng Business Hotel
+287056|River Rhythm Grand Hotel
+287074|Yitel
+287079|Dan Executive Apartment Guangzhou
+287080|Libo Business Hotel
+287118|Four Points by Sheraton Suzhou
+287121|Ibis Changshu
+287132|Worldhotel Grand Dushulake
+287914|Wyndham Grand Qingdao
+287952|The Langham Shenzhen
+287956|Vienna International Shajing
+288274|Indigo Tianjin Haihe
+288370|Days Hotel Hotspring FuZhou
+288375|Howard Johnson Changshan Lake Plaza Changle
+289139|Days Hotel And Suites Changsha
+289155|New Century Resort Joyland
+289159|Super 8 Hotel Changzhou Tong Jiang
+289219|HJ International Hotel Dongguan
+289272|Howard Johnson Tianzhu Plaza F
+289500|Kempinski Guiyang
+289508|Inzone Garland Hotel
+289529|Chinese Rose Garden Hotel
+289734|Sheraton Hefei Xinzhan Hotel
+289740|The Westin Hefei Baohe
+289788|Cixi Dapengshan Resort Hotel
+289791|Howard Johnson Ifc Plaza Ningbo
+289799|The Westin Ningbo
+289805|Dh And Suites Mingfa Xiamen
+289810|Kempinski Xiamen
+289813|The Greenway Grand Hotel Cityc
+289939|Crowne Plaza LANZHOU
+289940|Lanzhou Lanyuan Jianguo Hotel
+289948|Bang Sheng Business Hotel
+289954|Ming Yuan Business Hotel
+289955|New Cozy Harbour Hotel
+289957|Ibis Xichang Hangtian
+290067|Howard Johnson Business Club Hotel Shaoxing
+290072|Super 8 Hotel Weihai Wai Tan
+290094|Star City
+290170|City Inn Qinghui Shunde
+290171|Marco Polo Lingnan Tiandi Foshan
+290381|Pullman Anshan Time Square
+290388|Manhaway International Hotel
+290389|Sheraton Daqing Hotel
+290392|DoubleTree by Hilton Hotel Qinghai - Golmud
+290416|Sheraton Jinzhou Hotel
+290420|Super 8 Hotel Langfang San Da J
+290427|Holiday Inn Nanyang
+290430|Shangrila Hotel Manzhouli
+290434|Jinding Hotel Luxury
+290445|Crowne Plaza Zhenjiang
+290449|Sheraton Zhenjiang Hotel
+290451|Super 8 Zibo Tong Qian
+290735|Sheraton Changbaishan Resort
+290751|Ramada Plaza
+290752|Ibis Weifang Jinsha Square Hotel
+290754|Super 8 Hotel Weifang Sheng Ha
+290911|Super 8 Anyang Hong Qi Road
+290912|Holiday Inn Resort Chaohu Hot Spring
+291335|Peoples Grand
+292452|Super 8 Beijing Shunyi Bo Lian
+292639|Ruier Daisi
+295444|Tian Xi
+295576|The New Pearl River Shore Apartment
+295645|Landmark International Science City
+295680|Four Points by Sheraton Tai'an
+296227|Hyatt Regency Chongqing
+296230|InterContinental Chengdu Global Center
+296232|InterContinental Sancha Lake
+296235|InterContinental Heilong Lake
+296236|Holiday Inn Panjin Aqua City
+296237|Crowne Plaza Tianjin Jinnan
+296239|Crowne Plaza Hailing Island
+296241|Vertical City Hotel Guangzhou
+296243|Tonino Lamborghini Boutiquehotel
+296649|Mandarin Oriental Pudong
+297118|China Club Beijing
+297120|Red Capital Ranch / Shambhala at the Great Wall
+297529|Banyan Tree Shanghai On The Bund
+299818|Brilliant Resort And Spa Chongqing
+300657|Prince Hotel Shenzhen
+300658|Fudu Qingfeng Garden
+300703|Beifang Langyue
+300840|Grand Hotel Qinhuang
+300843|Ztg Grand Hotel Airport Hangzhou
+301120|Minshan Yuanlin Grand Hotel
+301121|Xin Zhi Shang Business Apartment
+301122|Days Hotel & Suites St. Jack Resort
+301129|Tavernew
+301135|Jinjiang Inn Shanghai Jiading Chengzhong Road
+301136|Jinjiang Inn Shanghai Nanxiang
+301141|Sheng Du International
+301161|Super 8 Hotel Qingdao Shan Ning
+301163|Serenity Marina
+301164|The Royal Begonia
+301170|GDH Inn (Shenzhen Huahai)
+301173|ZZZ
+301174|Jisheng Hotel Shenzhen (Longgang Branch)
+301177|Chongqing Hengda
+301186|Chongqing Safari Park River & Holiday Hotel
+301187|Angsana Fuxian Lake
+301204|Jinjiang Inn Zhoukou Huanghe Road
+301423|Ibis Chengdu Hongxing Road
+301424|Ibis Chongqing Ranjiaba
+301429|Pullman Linyi Lushang
+301430|Ibis Ningbo Qianhu
+301433|Pullman Wuxi New Lake
+301525|Golden Richard
+301561|Kapok Shenzhen Bay
+302209|Sheraton Sanya Haitang Bay Resort
+302609|Grand Lisboa
+310814|Four Points by Sheraton Guangdong, Heshan
+310815|Four Points by Sheraton Langfang
+310816|Four Points by Sheraton Taizhou
+310818|Sheraton Jingyuetan
+310819|Sheraton Shanghai Waigaoqiao
+310820|Sheraton Shenzhou Peninsula Resort
+310828|The Westin Changbaishan Resort
+310829|Twelve at Hengshan
+310830|W Guangzhou
+311078|East Beijing
+321488|Wenjun Mansion Hotel
+321632|Home Hotel (Guangzhou Yuexiu)
+324611|Huiheju Hotel
+329353|Welcome Inn
+333942|Wuyuan Qinghuawu International Hotel
+354475|Tangram Hotel Xinyuanli
+363301|Haitang Bay Gloria Sanya Hotspring Resort
+363599|Shangri-La Changzhou
+363600|Hyatt Regency Qingdao
+363601|Radisson Blu Resort Wetland Park Wuxi
+363602|Kempinski Hotel Chongqing
+363709|China Old Story Inns of Dali
+363801|Wanda Vista
+363860|Tangla Hotels Resorts International
+365212|Mandarin Oriental Guangzhou
+365256|Ascott IFC
+365372|Le Méridien Yixing
+365373|Sheraton Qinhuangdao Beidaihe
+365375|Sheraton Shenyang South City
+365495|Hotel Maximilian
+366692|Vanburgh Guangzhou
+366712|Days Hotel Suites Yangjiang
+366713|Eaton Luxe Xinqiao
+367947|Kingrand Hotel
+367949|Marriott Exec Apts Imperial Ma
+367952|New World Beijing
+367954|Rosewood Beijing
+367955|S8 Hotel Beijing Miyun Gu Lou
+367961|Super 8 Beijing Changping
+367964|Super 8 Lai Guan
+368017|Doubletree Hainan Qixianling
+368023|Raffles Hainan
+368024|Ramada Plaza Sanya
+368026|Westin Sanya Haig Bay Resort
+368028|Doubletree Haikou Meilan
+368030|Shangri-la Hotel Haikou
+368508|Furama Xpress Hotel
+368509|Gardenview Hotel
+368514|Jintuo Business
+368523|Renaissance Caohejing Shanghai
+368524|Royal Tulip Zhujiajiao
+368527|Shanghai Holland
+368528|Shanghai Marriott Pudong East
+368536|Wh Ming Hotel
+368600|Ramada Kunming North
+368601|Wyndham Grand Plaza Royale Colorful Yunnan Kunming
+368602|Doubletree By Hilton Hangzhou East
+368605|Pins De La Brume
+368607|South China Harbor View Hotel
+368621|Dorsett Grand Chengdu
+368631|Ramada Chengdu North
+368635|Sofis Jin Yuan Hotel
+368646|Doubletree By Hilton Chongqing Wanzhou
+368652|Ramada Plaza Chongqing Banan
+368653|Rd Blu Chongqing Sha Ping Ba
+368655|Westin Chongqing Liberation Square
+368658|Howard Johnson Macrolink Plaza Huangshan
+368663|Doubletree By Hilton Guangzhou
+368664|Fraser Suites Guangzhou
+368670|Guangzhou Clayton Hotel
+368675|Ibis Guangzhou Gdd
+368682|Pearl River International Hotel
+368683|Poly World Trading Center Hotel Apartmen
+368691|Super8 Hotel Guangzhou Huangpu
+368703|Nanjing Dingye New Century Hotel
+368710|Super8 Hotel Nanjing South Rai
+368711|Doubletree By Hilton Suzhou Anhui
+368718|Ramada Suzhou Luzhi
+368724|Hilton Wuhan Optics Valley
+368726|New Beacon Luguang Intl Hotel
+368728|Royal Grace Hotel Optics Valley
+368729|Somerset Wusheng Wuhan
+368730|Super8 Hotel Wuhan Xudong Xiao
+368733|Jurong Yukun New Century Hotel
+369246|Four Points Qingdao Jiaonan
+369247|Hilton Qindao Golden Beach
+369254|Four Seasons Shenzhen
+369255|Hilton Shenzhen Shekou Nanhai
+369258|Marriott Exec Apts Oct Harbour
+369260|Oriental Shine Hotel
+369261|The Art Hotel
+369262|Vienna Hotel Shuanglong Subway Station
+369263|Grand Hyatt Shenyang
+369265|Shangri La Shenyang
+369266|Shenyang Haiyun International
+369508|Banyan Tree Tianjin Riverside
+369609|Days Hotel Dawn Fuzhou
+369610|Days Tengshan Fujian
+370163|Beihai Guanling Resort Hotel
+370234|Bolt Hotel
+370508|Hilton Zhengzhou
+370509|Le Meridien Zhengzhou-henan
+370684|Ramada Plaza Xishuangbanna
+370733|Howard Johnson Shipu Plaza Nin
+370736|Riviera Hotel Ningbo
+370825|Days Hotel Lu An Taiyuan
+370871|Grand Soluxe International
+370872|Nanning Win Win Hotel
+370879|Howard Johnson Minmetals Plaza - Yingkou
+370994|Days Hotel Siping
+371019|Shangri La
+371027|Hilton Zhongshan Downtown
+371066|Days Hotel Huanan
+371067|Hilton Foshan
+371239|Ramada Plaza Qiandeng Kunshan
+371240|Tonino Lamborghini City Center Hotel
+371245|Shangri La Hotel Qufu
+371472|Cosmic Guangdong International Hotel
+371473|Days Inn Qi Xiu
+371480|Doubletree By Hilton Wuhu
+371486|Doubletree By Hilton Jiaxing
+371521|Country Garden Phoenix Luxury
+371525|Ramada Longyan
+371554|Crowne Plaza Xuzhou Dalong Lake
+371557|Sheraton Huzhou Hot Spring Rst
+371561|Wanda Realm Ningde
+371850|Wanda Realm Huaian
+371852|Depo Hotel International
+371853|DoubleTree by Hilton Hotel Putian
+371861|Jia He International Hotel
+375264|Tailong Hotel - Beijing
+375286|Wahaha Hotel - Beijing
+375362|Palace International
+375370|Yi Fa North Hotel - Beijing
+375452|Beijing Hyde Courtyard Hotel
+375462|Beijing Willow Hotel Guang'anmen
+375506|Super 8 Hotel Beijing Ju Feng
+375599|Sun Serviced Apartments Huamao - Beijing
+375600|Mayson Beijing CBD Guomao Serviced Apartments
+375613|Shanshui Trends Fangzhuang
+375682|Green Tree Miyun Xinzhong Street
+376090|Heaven 18 Degrees Blue Holiday Apartment
+377735|Lian Bang Hotel - Shanghai
+377739|Olympic Xujiahui
+377758|New Space International Hotel
+377759|Xinshikong Apartments Abest Zhongshan Pa
+377760|Mayson Shanghai Serviced Apartment Zhong
+377799|Genting Star Dabaishu
+377805|GreenTree Inn Shanghai Changyang Road Business Hotel
+377873|Donghu Service Apartment
+377919|Sweet Home Hotel - Shanghai
+377922|Motel 168 Hongqiao Hub
+377973|Nanjiao Hotel - Shanghai
+378123|Hotel New
+378149|Ruifeng Yueke Xi'an
+378296|Haili Binya Hotel - Kunming
+378345|Super 8 Hotel Hangzhou Ping Hai Lu
+378360|Likai
+378576|Xiaoshan Hanma Holiday Inn - Hangzhou
+378652|Chengdu Jaho Yuetmei Hotel
+379096|She He Hotel Apartment-Wells Apartment
+379098|Private-Enjoyed Home Apartment Wales Apa
+379126|Yuebei Business Hotel - Guangzhou
+379137|Private-Enjoyed Home Apartment Time U
+379208|Jia He
+379244|F-H Hotel Wills Branch
+379262|Hui Ao Hotel
+379312|Vienna Hotel Chimelong Park
+379864|Wuhan Junyi Dynasty Hotel
+379889|Country Garden Phoenix Luxury
+381660|Qingdao Long Jia Hotel - Qingdao
+381701|Shangcheng Mingliu Holiday Hotel
+381741|Haitian Sports Center Hotel
+381762|Qingdao Home Inn - Yan'an Third Road
+381812|Han Yuan Hotel - Qingdao
+381830|Hanting Inn Jingangshan Road - Qingdao
+381835|Liheyuan Hotel - Qingdao
+381851|Sentosa Hotel - Shenzhen
+381947|South China Harbour View Hotel
+381965|Victor
+382065|Grand Metropark
+384094|Harbour Plaza Deluxe Serviced Apartments
+384095|Jinbai International
+384104|Spring Hotel
+384298|Fuyang International Trade Center Hotel
+384747|Regal Poly Guiyang Hotel
+384929|Bintuan Grand Hotel - Urumqi
+385319|Ssaw Hotel Nanchang
+385410|Green Tree Inn Hefei Science Avennue Bus
+385636|Green Tree Inn Xiamen University Busines
+385740|Xiamen Qicai Linglongge Family Inn
+385744|Rainbow Hotel - Xiamen
+385762|Jinjiang Inn Central Xiamen Songbai
+385777|Coco Boutique
+385787|City Boutique Hotel Lotus South Road - X
+386287|Diamond International Hotel
+386500|Howard Johnson Parkview Plaza
+386630|Reader Hotel - Taian
+387115|Shengshi Huaxia International
+387174|Tianrun Hotel
+387208|Xin Ao Golden Elephant Hotel - Langfang
+387766|Polka Hotel - Wuhu
+387813|Seaview Hotel
+387930|Jinma International Hotel - Jinjiang
+387953|Regalia Resorts - Spa
+388211|Milan
+388273|Double-Dove Peace International Hotel
+388275|Xierdun . Sweet Family Garden
+388425|Jian Ming International Hotel - Shishi
+388710|Anyang Booking Upon Request, Hrs Will Co
+389095|Chuzhou International Hotel - Chuzhou
+389208|Blue Horizon Xinyue
+389239|Hangzhou Bay International Hotel - Haiya
+389267|The Winners Palace
+389282|Manzhouli International Hotel - Manzhoul
+389306|Jingdu International
+389311|Jiangshan Hotel - Suqian
+389327|Greentown Landison Hotel - Xinchang
+390622|Hai Yuan Hotel - Shuozhou
+390647|Jinling Wanxi Hotel
+390686|Junyuan Huatian
+390710|King House Hotel - Dazhou
+391258|Ascott Raffles City Chengdu
+391260|Ascott Midtown Suzhou
+391314|Yanqi Lake Kempinski Hotel
+391318|Langham Place Guangzhou
+391320|Langham Place Xiamen
+391324|Mövenpick Hotel Enshi
+391328|Millennium Fuqing
+391355|Pullman Shanghai South
+391542|Waldorf Astoria Beijing
+391551|Aloft Dalian
+391621|InterContinental Fuzhou
+391622|InterContinental Kunming
+391623|InterContinental Sanya Haitang Bay Resort
+391643|The Castle
+391735|The Ritz-Carlton Chengdu
+391736|The Ritz-Carlton Tianjin
+392348|Hilton Nanjing
+399664|Hilton Garden Inn Shenzhen Bao'an
+399734|Hilton Shijiazhuang
+400908|Hotel Éclat Beijing
+400909|Modena New District Wuxi
+400921|Cavan Hotel
+401448|Jing An Shangri-La West Shanghai
+401553|Mercure Chengdu North
+402660|Hilton Changzhou
+403306|Holiday Inn Shanghai Hongqiao
+405177|Four Points by Sheraton Hefei
+405178|Sheraton Bailuhu Resort
+405179|Sheraton Langfang Chaobai River Hotel
+405180|Sheraton Qingdao Licang Hotel
+405181|Sheraton Shantou Hotel
+406120|Hyatt Regency Suzhou
+406121|Hyatt Regency Tianjin East
+406122|Park Hyatt Changbaishan
+406613|ibis Styles Changbaishan Wanda
+406614|Grand Mercure Beijing Dongcheng
+406628|Pullman Weifang Wanda
+406844|Holiday Inn Express Beijing Yizhuang
+406872|Shanshui Trends Hotel Tianzhu
+406924|Chengdu Minyoun Royal Hotel
+406937|Crowne Plaza Chengdu West
+406949|Howard Johnson Hi-tech Plaza Chengdu
+406963|Leeden Hotel Chengdu
+407026|Ramada Changzhou
+407027|Ramada Changzhou North
+407243|Holiday Inn Resort Beijing Yanqing
+407246|Howard Johnson Nanshan Plaza Bengbu
+407270|Howard Johnson Puhui Plaza
+407281|Yitel Hotel Dalian
+407283|Chaptel
+407291|Wanda Realm Harbin
+407426|Euro Garden Hotel
+407432|Haili Garden Hotel Guangzhou
+407514|Days Hotel & Suites China Town Changsha
+407612|Foshan Kinson Hotel
+407660|GreenTree Inn Jiangsu Changzhou Liyang Pingling Square Business Hotel
+408017|Fx Hotel Shanghai At Liuying Road
+408075|G luxe Hongqiao Shanghai
+408080|Kaiyuan Sanli New Century Grand Hotel Zhejiang
+408120|The Yihe Mansions
+408289|Inner Mongolia Jin Jiang International Hotel
+408310|Jianguo Hotel
+408349|Dibai 7 Star Hotel Nanning
+408540|Hanting Hongqiao Airport 2nd Shanghai
+408840|Howard Johnson Agile Plaza Chengdu
+408848|Wyndham Foshan Shunde
+408861|Super 8 Hotel Hefei Dong Yi Huan
+408872|Wyndham Kunming Resort
+408877|Super 8 Hotel Lianyungang Hai Bin Yu Chang Zhongshanlu
+408882|Super 8 hotel Liaocheng Dong Chang Xi Lu
+408889|Holiday Inn Qingdao Expo
+408891|Howard Johnson Kangda Plaza Qingdao
+408893|The Westin Qingdao
+408899|Shanghai Hongqiao Airport Hotel Air China
+408900|Crowne Plaza Shanghai Noah Square
+408904|Crowne Plaza Shaoxing
+408907|Days Hotel & Suites Shimei Bay
+408909|Days Hotel & Suites Shuozhou
+408915|Wanda Vista Tianjin
+408923|Days Hotel Hualing Wuhan
+408936|Howard Johnson Domando Plaza Wulanchabu
+409814|Grand Skylight International Hotel Guiyang
+409829|Yiwu Yourworld International Conference Centre
+410085|Mission Hills Resort Haikou
+410706|La Perle International Hotel
+410771|The PuYu Hotel And Spa
+410783|Swiss Belhotel Liyuan Wuxi
+411765|Crowne Plaza Beijing Lido
+411772|The St. Regis Chengdu
+411773|Shangri La Hotel Tianjin
+411774|Gran Melia Hotel Xian
+411951|DoubleTree by Hilton Hotel Guangzhou Science City
+412018|DoubleTree by Hilton Hotel Heyuan
+412039|Hilton Wenchang
+412172|The Westin Blue Bay Resort
+412174|The Westin Zhujiajian Resort
+412987|Courtyard Boluo
+412989|Courtyard Hangzhou Qianjiang
+412990|Haikou Marriott
+412993|JW Marriott Beijing Central
+412994|JW Marriott Chongqing City Centre
+412996|JW Marriott Zhengzhou
+412998|Renaissance Chengdu
+412999|Shanghai Marriott Parkview
+413000|Shunde Marriott
+413435|Crowne Plaza Yiwu Expo
+413436|Crowne Plaza Zhangzhou
+413437|Holiday Inn Express Yangzhou City Center
+413438|Ramada YangZhou BaoYing
+413493|Difu Business Hotel
+413676|Ifc Residence
+414045|Pan Pacific Tianjin Hotel

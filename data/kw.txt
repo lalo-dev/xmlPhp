@@ -1,0 +1,31 @@
+37903|Hilton Kuwait Resort
+67845|Radisson Blu Kuwait
+75481|JW Marriott Kuwait City
+75482|Le Meridien Tower Kuwait
+76955|Four Points by Sheraton Kuwait
+76958|Sheraton Kuwait Hotel & Towers
+86533|Holiday Inn Downtown Kuwait
+88621|Ramada
+94660|Crowne Plaza Kuwait
+94661|Holiday Inn Kuwait
+95667|Mövenpick Al Bidaa Residence
+95668|Al Manshar Rotana
+95670|Ghani Palace
+95671|Hawthorn Hawally & Suites
+99531|Courtyard By Marriott Kuwait City
+108417|Le Royal
+108630|Marina
+110663|Al Bastaki International
+110665|Safir International
+124666|Swiss-Belhotel Plaza Kuwait
+124667|Mövenpick Kuwait
+129689|Times Square Suites
+129691|Continental Suites Farwaniya Hotel
+129696|Corniche
+132661|Kuwait Hyatt Hotel & Suites
+132664|Oasis
+234504|Safir Hotel & Residences
+234505|The Regency Kuwait
+244150|Symphony Style Hotel
+271599|The Palms Beach Hotel And Spa
+279524|Le Royal Tower

@@ -1,0 +1,65 @@
+1639|Djadsal Holiday Club
+1640|Morabeza
+10248|Central Santa Maria
+12269|Estoril
+15378|King Fisher Lodge
+16960|Marine Club Beach Resort
+18218|Odjo d'Agua
+19368|Pousada da Boavista
+19369|Pousada da Luz
+19388|Oasis Atlantico Praiamar
+20256|Residencial Praia Maria
+20257|Residencial Santa Maria Beach
+23385|Pestana Tropico
+26872|VOI Vila do Farol Resort
+37874|Leme Bedje
+37875|Da Baia
+37879|Foya Branca
+37880|Oasis Atlantico Porto Grande
+37884|Pensao Jardim
+47823|Crioula Club
+47827|Ca Nicola
+47830|Parque das Dunas Village
+47877|Oasis Atlantico Belorizonte
+52765|Sobrado
+52766|Migrante Lodge
+62489|Nha Terra
+63739|Resort RIU Funana Garopa - Funana / Garopa
+66233|Ponta Preta
+66234|Sab Sab Sal
+66235|Royal Decameron Boa Vista
+66236|Xaguate
+76111|Porto Antigo
+77267|Pontao
+85456|Dunas de Sal
+91570|Residencial Ponta do Sol
+96566|Residencial Santa Maria
+99688|Les Alizés
+102530|Riu Karamboa Club
+102531|Luca Kalema
+122288|Spinguera
+122289|Santantao Art Resort
+122678|Perola
+139873|Porta do Vento
+145256|Sabura
+183044|Iberostar Club Boa Vista
+183196|Casita Verde
+183197|Orquidea Guest House
+183198|OlaMar
+230254|Aquamarina Suites
+231727|Melia Tortuga Beach Resort & Spa
+231741|Riu Touareg
+237684|Oásis Atlântico Salinas Sea
+240712|Vila Verde Resort
+247535|Casa Velha Resort
+259515|Resort RIU Funana Garopa - Funana
+259516|Resort RIU Funana Garopa - Garopa
+260310|Don Paco
+260650|Residencial Aldeia Manga
+297574|Murdeira Village
+300439|Residencial Cabo Verde Palace
+391251|Kira's
+405270|Paradise Beach
+405277|Por do Sol
+405297|Melia Dunas Beach Resort
+406086|Bazamore Residence

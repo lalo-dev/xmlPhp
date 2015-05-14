@@ -1,0 +1,38 @@
+59980|Granit
+79860|Inex Gorica
+106753|Flamingo
+107801|Holiday Inn Skopje
+159551|Arka
+159561|Best Western Hotel Bellevue
+159609|Continental
+159638|Belvedere
+159698|Hunter's Lodge Kamnik
+159712|Lagadin, Adrijatik doo Ohrid
+159852|Victoria
+159865|Vodno
+182931|Leonardo
+182932|Ambasador
+187542|Imperial
+204258|Aleksandar Villa
+208352|Diplomat
+208617|Duvet
+219678|Tino
+228925|Royal Skopje
+230508|Aristocrat Palace
+234198|Karpos Skopje
+259426|Sileks
+259774|Apartments Lukanov
+261608|Aurora Resort & Spa
+275838|TCC Plaza
+295094|Vila Gora
+296178|Istatov
+296179|Uni Palas
+296180|Montana Palas
+296181|Molika Pelister
+298051|Millenium Palace
+301411|Polin
+301413|Aleksandar Palace
+369582|Slavija Spektar Hotel
+370423|Tcc Grand Plaza Hotel
+372200|Kristal Palace Hotel-prilep
+405898|Hotel New Star

@@ -1,0 +1,81 @@
+11583|Intercontinental Doha
+21519|Sheraton Doha Hotel & Resort
+27944|Doha Marriott Hotel
+27945|The Ritz-Carlton Doha
+39380|Mövenpick Doha
+39381|Rydges Plaza Doha
+52722|Sealine Beach Resort
+60365|Radisson Blue Hotel Doha
+64677|Four Seasons
+73989|Mercure Grand Doha City Centre
+74753|Regency
+75487|Al Muntazah Plaza
+75488|Inter Diplomat
+75489|Merwebhotel Al Sadd
+76949|Shezan
+80033|The Ritz-Carlton Sharq Village & Spa
+95585|Mövenpick Tower & Suites
+99704|Al Sultan Beach Resort
+110517|La Cigale
+110518|W Hotels Doha & Residences
+122252|Grand Hyatt Doha
+124860|Al Liwan Suites
+124861|Al Bustan
+124863|Gulf Horizon
+129775|Millennium Doha
+133043|Plaza Inn Doha
+133044|Le Park
+133045|Al Mourouj Inn
+136806|Royal Qatar
+137313|Le Grand
+137498|La Villa Palace
+157269|Gloria
+162133|Retaj Al Rayyan
+162134|Somerset West Bay, Doha
+188111|Ayana Golden Coast Hotel
+196029|Doha Gate Inn
+196030|La Villa Inn Hotel Apartments
+202120|Swiss-Belhotel Doha
+210588|Holiday Villa & Residence City Centre
+218212|Souq Waqif
+227435|Diamond
+229157|Oryx Rotana
+230464|Al Ghazal Suites
+232919|Al Nakheel
+233748|Kempinski Residence & Suites Doha
+235388|Ramada Encore Doha
+236707|Retaj Residence Al Sadd
+237122|Hilton Doha
+237171|Coral Doha
+238230|Retaj Residence Al Corniche
+238231|Retaj Inn Doha
+240389|Grand Heritage Doha Hotel & Spa
+240639|Safir Doha
+240640|Crystal Palace
+240641|Le Vendome
+240642|Horizon Manor
+240643|Grand Qatar Palace
+245534|Fraser Suites Doha
+245965|InterContinental Doha - The City
+245997|Crowne Plaza Doha - The Business Park
+259794|Century Hotel Doha
+259795|Retaj Royale
+259796|St. Regis Doha
+259797|Wyndham Grand Regency Doha
+260404|The Torch
+260405|Concorde Hotel Doha
+260960|Dunes Hotel & Suites
+261311|Copthorne Doha
+261622|Al Safa Royal Suites
+261623|Al Mirqab Boutique
+261624|Al Najada Boutique
+261628|Arumaila Boutique
+264599|Gulf Paradise Doha
+264605|Grand Regal
+292530|Musheireb Boutique
+295647|Al Seef
+359685|Al Jasra Boutique Hotel
+368235|Gokulam Park Doha
+391608|Banana Island Resort Doha by Anantara
+411079|Zubarah Hotels & Resort
+413053|Marriott Marquis City Center Doha Hotel

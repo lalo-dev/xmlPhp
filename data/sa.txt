@@ -1,0 +1,88 @@
+59988|Holiday Inn Riyadh - Olaya
+66470|Hilton Jeddah
+67716|Radisson Blu Riyadh
+75475|InterContinental Jeddah
+75476|Marriott Jeddah
+75479|Le Meridien Jeddah
+75480|Red Sea Palace
+76946|The Westin Jeddah
+76947|Holiday Inn Riyadh Al Qasri
+76948|Mövenpick Jeddah
+77337|Sheraton Riyadh Hotel & Towers
+83837|Holiday Inn Jeddah - Al Salam
+98458|Golden Tulip Al Hamra
+102360|Golden Tulip Qasr Al Nasiriah
+102361|InterContinental Riyadh
+102362|Al Mutlaq
+102363|Al Hamra Hotel Managed by Pullman
+102366|Albilad Jeddah
+102367|Dhahran International
+102368|Ramada Hotel & Suites
+102369|Golden Tulip Jeddah
+106516|Crowne Plaza Jeddah
+107322|TOP Riyadh Palace
+107605|Holiday Inn Al Khobar
+108390|Le Meridien Al Khobar
+108409|Le Meridien Al Hada
+108421|Le Meridien Medina
+111393|Tulip Inn Andalusia
+111416|Tulip Inn Olaya House
+111812|InterContinental Dar El Tawhid
+129780|Sheraton Dammam Hotel & Towers
+129782|Dammam Palace Hotel
+129784|Rosewood Corniche
+129789|Sheraton Jeddah Hotel
+129790|Dunes
+129795|Le Meridien
+129801|Four Seasons
+133094|Ramada Continental Jeddah
+138018|Al Shohada
+138295|Mövenpick
+138311|Le Meridien Towers
+138475|Qasr Al Sharq
+140143|Issham
+157708|Carlton Al Moaibed
+162416|Novotel Al Anoud
+162418|Ramada Makkah
+162419|Ramada Madinah Al Hamra
+162421|Ramada Madinah Al Qibla
+162422|Ramada Al Qassim & Suites
+162426|Ramada Al Hada & Suites
+182260|Sunset Jeddah
+188112|White Palace
+203213|Al Fahad Suites
+203214|Executives
+204074|Al Marwa Rayhaan by Rotana
+209873|Golden Tulip Hail
+215055|Park Hyatt Jeddah - Marina, Club & Spa
+216564|Ramada Dammam & Suites
+221054|Al Waha Palace
+222774|Mercure Value
+223625|Tulip Inn Riyadh
+227090|Golden House
+227091|Holiday Inn Riad-Izdihar
+230344|Golden Tulip Al Khobar-Corniche
+230380|Hilton Garden Inn Riyadh Olaya
+233758|Coral Gulf Riyadh
+234582|Grand Al Saha
+234584|Elaf Al Mashaer
+234585|Mövenpick Hotel & Residence Hajar Tower
+234603|Corp Executive Deira
+236735|Tulip Inn Taif
+236737|Tulip Inn Al Reef
+236739|Makkah Dar Al Manasek
+237173|Sofitel The Corniche
+238368|Raffles Makkah Palace
+238369|Makkah Clock Royal Tower, A Fairmont Managed Hotel
+244247|Al Hyatt Continental
+245542|Ramada Gulf
+259728|Mena Hotel Riyadh
+274865|Four Points By Sheraton Riyadh Khaldia
+289909|Golden Tulip Resort Dana Bay
+290211|Golden Tulip Al Jubail
+290796|Golden Tulip Buraidah
+369573|Days Hotel Olaya Riyadh
+405227|Golden Tulip Corniche Dammam
+405228|Tulip Inn Sea View Al Khobar
+405897|Grand Plaza Hotel
+407140|Al Ehsan Towers

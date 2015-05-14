@@ -1,0 +1,5935 @@
+7012|10 Manchester Street
+7016|65
+7252|Albany
+7334|Alexandra
+7634|Ambassadors
+7635|Ambassadors Bloomsbury
+7845|Apex International
+7857|Apollo
+8497|Rocco Forte The Balmoral
+8568|Indigo London Kensington - Earl's Court
+8620|Bayswater Inn
+8668|Bedford
+8842|Berjaya Eden Park London Hotel
+9083|Blakemore Hyde Park
+9084|Blakes
+9088|Blandford
+9182|The Bonham
+9318|Rocco Forte Brown's
+9326|Brunel
+9477|The Caledonian
+9487|The California
+9769|Carlton George
+9771|The Carlton Hotel
+10199|Cavendish St. James
+10242|Comfort Inn London Westminster
+10244|Central Park Hotel (Hyde Park)
+10300|Channings
+10385|Chrysos
+10387|Hyatt Regency - The Churchill
+10409|Citadines Prestige Holborn - Covent Garden
+10455|Claridge's
+10629|City Continental Kensington
+10634|Comfort Inn Hyde Park
+10635|Premier Inn Kensington Olympia
+10637|Comfort Inn Kings Cross
+10672|Commodore
+10756|Millennium Glasgow
+10809|Cordova House
+10835|Best Western Corona
+10953|Cranley Gardens
+10954|Macdonald Craxton Wood
+10997|Crowne Plaza Manchester Airport
+10999|St. James' Court
+11027|The Cumberland
+11087|Dalmacia
+11596|Dolphin House
+11807|Duke of Leinster
+11881|Eden Plaza
+12144|Ibis Styles London Kensington
+12330|Hilton Euston
+12800|Flemings Mayfair
+12876|Danubius Hotel Regents Park
+12982|Frederick House
+13155|Hilton Gatwick Airport
+13179|St. George
+13181|George
+13554|Great Northern
+13778|Hanover Hotel Vicotria
+13779|Travelodge Edinburgh Central Rose Street
+13813|NH Harrington Hall
+13873|Ibis London Heathrow Airport
+13923|Brooks Edinburgh
+13997|Hilton London Green Park
+14006|Hilton London Islington
+14132|Holiday Inn Bloomsbury
+14202|Holiday Inn Express London City
+14203|Holiday Inn Express Glasgow - City Centre Riverside
+14248|Holiday Inn Kensington Forum
+14251|Holiday Inn Kings Cross Bloomsbury
+14279|Holiday Inn Mayfair
+14350|Holland Court
+14520|Gresham Hyde Park
+14521|Hyde Park Towers
+14729|Imperial
+15030|DoubleTree by Hilton London - Hyde Park
+15031|Queen's Gate
+15032|Mercure Edinburgh City Princes Street
+15133|Jurys Inn Edinburgh
+15135|The Kensington
+15136|The Bloomsbury
+15137|DoubleTree by Hilton Hotel London - Islington
+15148|K+K George
+15328|Kensington Court
+15330|Hilton Kensington
+15366|Kilhey Court
+15392|Kingsway Hall
+15901|Grange Lancaster
+15922|The Langham London
+16109|Le Meridien Piccadilly
+16353|Lily
+16441|London Bridge
+16442|Mercure London Paddington
+16444|Intercontinental Park Lane
+16445|London Lodge
+16447|Travelodge London Farringdon Hotel
+16689|Majestic
+16742|Novotel Manchester West
+16753|Mandarin Oriental Hyde Park London
+17044|Marriott Glasgow
+17065|Marriott Marble Arch
+17245|B&B Edinburgh
+17460|Millennium Bailey's London Kensington
+17461|Millennium London Mayfair
+17462|Millennium & Copthorne at Chelsea Football Club
+17463|Millennium Gloucester Hotel & Conference Centre London
+17652|The Montcalm
+17918|Wake Up London
+18036|Norfolk Plaza
+18037|Norfolk Towers
+18121|Novotel London Waterloo
+18271|Oliver Plaza
+18316|One Aldwych
+18388|Indigo Edinburgh
+18454|BW Shaftesbury Paddington Court London
+18479|Palace Court
+18771|Hyde Park Court
+18789|Park International
+18791|Hilton on Park Lane
+18826|Parliament House
+18881|Holiday Villa Hotel & Suites
+18926|Pembridge Palace
+19033|every hotel Piccadilly
+19106|Piries
+19357|Travelodge Gatwick Airport Central
+19358|The Kensington Close
+19402|President
+19417|Prestonfield House
+19574|Holiday Inn Express Edinburgh Airport
+19743|Radisson Blu Edwardian Kenilworth Hotel
+19744|Radisson Blu Edwardian Vanderbilt Hotel
+19748|Radisson Blu Edwardian Grafton Hotel
+19761|Radisson Blu Edwardian Bloomsbury Street Hotel
+19803|Radisson Blu Portman
+20000|Reem
+20029|Regent Palace - geschlossen
+20123|Rembrandt
+20165|Renaissance Manchester
+20385|The Ritz
+20637|Rothesay
+20665|Royal British
+20675|Royal Garden
+20684|Royal Horseguards
+20692|Lancaster London
+20700|Royal National
+20709|Royal Park
+20722|Royal Scots Club
+20731|Crowne Plaza Edinburgh Royal Terrace
+20746|Rubens at the Palace
+20776|Russell
+20787|Rydges Kensington London
+20867|Saint Georges
+21010|Sanctuary House
+21030|Sanderson
+21416|Park Grand London Hyde Park
+21453|Seymour Hotel
+21455|BW Premier Shaftesbury London Piccadilly
+21528|Sheraton Grand
+21570|Sheraton Park Lane
+21571|The Park Tower Knightsbridge
+21628|Sidney London-Victoria
+21752|Sloane Square
+22075|St Giles Hotel London
+22081|St. James's Hotel & Club
+22093|St. Martins Lane
+22236|Strand Palace
+22438|Swallow Glasgow
+22564|Tavistock
+22687|The Berkeley
+22689|The London Edition
+22701|Best Western Burns Hotel
+22702|The Byron
+22703|The Cairn
+22722|The Chesterfield Mayfair
+22734|Darlington Hyde Park
+22770|Generator Hostel London
+22771|Thistle Glasgow
+22781|The Grange Fitzrovia
+22782|The Grange Holborn
+22783|The Grange Rochester
+22787|The Halkin by COMO
+22793|The Hempel - geschlossen
+22803|The Shaftesbury Premier London Paddington
+22814|The Bentley
+22821|The Landmark London
+22829|Leisure Inn London
+22835|The London Town
+22852|The Waldorf Hilton
+22855|The Metropolitan by COMO
+22861|Montague on the Gardens
+22903|Ibis Earls Court
+22924|Phoenix Hotel
+22940|The Queen's Park
+22950|The Regency
+22987|The Royal Eagle
+22991|The Royal Trafalgar by Thistle
+22998|The Savoy
+23002|The Selfridge - geschlossen
+23017|Thistle Marble Arch
+23018|The Grosvenor
+23021|Guoman The Tower
+23025|The Victoria Inn
+23097|Thistle Birmingham City Centre The Royal Angus
+23098|The Kingsley by Thistle
+23099|Amba Charing Cross
+23100|Thistle City Barbican
+23101|Thistle The King James
+23102|Thistle Euston
+23103|Kensington Palace
+23104|Kensington Park
+23107|Thistle Liverpool City Centre, Atlantic Tower
+23108|Thistle Manchester City Centre, The Portland
+23109|Thistle Westminster - geschlossen
+23619|Premier Inn London Hammersmith
+24348|Mercure London Bloomsbury
+24350|Wedgewood
+24385|Westbury Mayfair
+24413|Westland
+24430|Melia White House
+27386|Hilton London Metropole
+27387|Holiday Inn Express London - Vauxhall Nine Elms
+27388|Henry VIII
+27391|London House
+27392|Hilton Edinburgh Grosvenor
+27966|DoubleTree by Hilton London Heathrow Airport
+27967|Hilton London Stansted Airport
+27968|Sandman Signature London Gatwick
+28850|DoubleTree by Hilton Hotel London - Ealing
+30413|Macdonald Holyrood
+30414|DoubleTree by Hilton Hotel Edinburgh City Centre
+30415|Original Raj
+30420|Swissotel The Howard
+30421|The Marylebone
+30569|Norwood Hall Hotel
+30571|Crieff Hydro
+30573|Hilton Bath City
+30574|Hilton Cardiff
+30575|Hilton Brighton Metropole
+30576|Hilton Grand Vacations Club at Craigendarroch Suites
+30578|Hilton Dunkeld House
+30581|Bodelwyddan Castle
+30599|Littlecote House
+30602|Thoresby Hall
+30610|DoubleTree by Hilton Hotel Bristol City Centre
+30612|Best Western Limpley Stoke Hotel
+30615|Meadfoot Bay
+30617|Penzance
+30618|Mullion Cove
+30619|Carrington House
+30625|Mercure Southampton Centre Dolphin
+30627|Hawkwell House
+30629|Holiday Inn Ashford Central
+30630|Preston Park
+30633|Travelodge Brighton Seafront Hotel
+30634|Mercure Maidstone Great Danes
+30636|Royal Norfolk
+30637|Ventnor Towers
+30641|Charlecote Pheasant
+30647|Holiday Inn Cambridge
+30649|Holiday Inn Express Swansea East
+30650|The Royal Victoria Hotel
+30652|Grand Central Glasgow
+30653|Ibis York Centre
+30655|Mercure Chester Abbots Well
+30656|Ballachulish
+30657|Fernie Castle
+30658|Highland
+30659|Doubletree Hilton Dunblane Hydro
+30660|King's Arms
+30661|Loch Fyne
+30664|The Station Hotel
+30665|Best Western Queens
+30668|Royal
+30670|Crerar Scotland's Hotel & Spa
+30672|The Winnock Hotel
+30674|Columba
+30675|Dornoch Castle
+30676|Glenfield
+30681|Nevis Bank Inn
+30704|Burnham
+30711|Rockley Park
+30712|Seton Sands Holiday Village
+30713|The Orchards
+30715|St. Pierre Park
+30717|Hougue du Pommier
+30719|Saints Bay
+30721|Cobo Bay
+30722|Best Western Hotel De Havelet
+30723|La Barbarie
+30724|Le Friquet Country
+30725|Pandora
+30728|Best Western Moores Central
+30730|The Marton Guest House
+30731|Atlantic
+30733|Pomme d'Or
+30736|Cristina
+30737|Portelet - geschlossen
+30739|Beausite Hotel
+30745|The Inn Jersey
+30746|Undercliff Guest House
+30774|Holiday Inn Belfast
+31704|Hilton London Paddington
+31705|Victoria Park Plaza
+31706|Days Inn Waterloo
+31709|Holiday Inn Edinburgh
+31710|Malmaison
+32620|St. Ermin's Hotel, Autograph Collection
+32621|Athenaeum Hotel & Appartement
+32639|Airth Castle Hotel & Spa
+32729|The Caesar
+33334|Copthorne Birmingham
+33335|Copthorne Manchester
+33336|Park Inn by Radisson Cardiff City Centre
+33337|Glasgow Pond
+33338|The Grand
+33340|Best Western Bristol
+33341|Imperial
+33342|Penventon Park
+33343|The Red Lion
+33344|Deans Place
+33345|Budock Vean
+33346|Elfordleigh Hotel Golf Country Club
+33347|Queens
+33348|Falmouth Beach Hotel
+33349|Rose in Vale Country House
+33350|Atholl Palace
+33351|Coul House
+33352|Craigdarroch House
+33353|Dalhousie Castle & Spa
+33355|Craigard House
+33356|The Craigellachie Hotel
+33357|Macdonald Houstoun House
+33358|Inn at Lathones
+33359|Mercure Aberdeen Ardoe House
+33360|Flodigarry House
+33361|Pine Trees
+33362|Dunalastair - geschlossen
+33364|Best Western Cross Lanes
+33365|Best Western Bestwood Lodge
+33367|Greenhills Country
+33368|La Place
+33369|La Tour
+33371|Best Western Royal
+33372|Somerville
+33373|Revere
+33374|Uplands
+33375|Water's Edge
+33377|Green Acres - geschlossen
+33378|Les Rocquettes
+33380|Hotel Bon Port - geschlossen
+33381|Jerbourg
+33384|Devon Cliffs
+33385|Riviere Sands
+33386|Hopton
+33387|An Suidh Cottage
+33388|Bayfield House
+33389|Highland Country Cottage
+33391|Groom Cottage
+33523|Jurys Inn Belfast
+33538|Maldron Hotel Derry
+33581|Carlton
+34019|Apollo
+34281|Sofitel St. James
+34283|Belgraves A Thompson Hotel
+34284|Hilton York
+34285|53
+34521|Bunchrew House
+34522|Duisdale Country House
+34523|Culloden House
+34524|Murrayshall House Hotel & Golf Courses
+34525|Stonefield Castle
+34526|Montgreenan Mansion House - geschlossen
+34542|Knipoch
+34543|Knockomie
+34544|Norton House
+34545|Tulloch Castle
+34547|Britannia Edinburgh
+34548|Crowne Plaza Edinburgh The Roxburghe
+34549|Ommaroo
+34550|Panorama
+34551|Old Government House
+35230|Holiday Inn Express Hammersmith
+35449|New Linden
+35501|Copthorne Tara London Kensington
+35503|Travelodge Learmonth
+35504|Best Western Abbey
+35505|Broadford
+35506|Burlington
+35507|Caledonian
+35512|Exeter Court
+35514|Fishers
+35515|Golden Lion
+35516|Holiday Inn Birmingham Airport
+35518|Holiday Inn Cardiff City
+35519|Holiday Inn Chester South
+35520|Holiday Inn Plymouth
+35522|Lorne
+35526|The Riviera
+35527|Royal
+35528|Rutland Arms
+35529|Oxford Spires Four Pillars
+35530|St. Michaels Hotel & Spa
+35531|Wentworth House
+35546|Craig Tara Holiday Park
+35555|Brown Trout Golf & Country Inn
+36540|Holiday Inn Oxford Circus
+36541|Novotel London West
+36542|Travelodge London Central Marylebone
+36543|The Princes Square Hotel
+36544|Tria
+36547|Holiday Inn Express Waterfront
+36624|Hilton London Docklands Riverside Hotel
+37088|Pullman London St Pancras
+37091|Olympic House
+37092|Orchard Paddington
+37093|Holiday Inn Glasgow - City Center Theatreland
+37097|Ballathie House
+37099|Mansion House
+37100|Kildrummy Castle
+37101|Crerar Thainstone House
+37103|Pittodrie House
+37104|Gleneagles
+37105|Inchrie Castle & The Covenanters Inn
+37108|Bodysgallen Hall
+37109|Penmaenuchaf Hall
+37110|The Lake Country House
+37112|Ayre
+37114|Merkister
+37116|La Rocco
+37117|Golden Sands
+37119|Shakespeare
+37120|Bella Luce
+37122|Les Douvres
+37123|Aval du Creux
+37135|The Peninsula Hotel Guernsey
+37139|Olanda Guesthouse
+37140|Peterborough House
+37143|Alhambra
+37147|Duke of Richmond
+37148|Grange Lodge
+37150|Duke of Normandie
+37152|Fleure du Jardin
+37155|La Villette Court
+37156|St. Andrews Court
+37163|Beech Hill Country House
+37173|Londonderry Arms Hotel
+37190|Lords
+37191|Citadines Prestige Trafalgar Square London
+37194|Best Western Penmere Manor
+37198|Britannia Heathlands Bournemouth
+37199|Cricket St. Thomas
+37202|Isles of Glencoe
+37204|Dundonnell
+37205|Falls of Lora
+37207|Best Western Plus Keavil House
+37209|Priory
+37210|The Boat Hotel
+37212|The Newton
+37269|Vomero
+37271|Tyn Cottage
+37273|Larkhall Burn Cottages
+37274|Oban Lodges
+37276|Na Tighean Beaga - The Little Houses
+37284|Dron Court
+37286|Tullochwood Lodges
+37288|Balvatin Cottages
+37291|Achmony
+37294|Lochend Chalets
+37295|Aultbea Lodges
+37298|Lochinver Holiday Lodges
+37299|The Coach House
+37425|Thistle Bloomsbury Park
+38063|The Dorchester
+38064|Four Seasons London at Park Lane
+38065|Jumeirah Carlton Tower
+38221|Radisson Blu Glasgow
+38373|51 Buckingham Gate Taj Suites And Residences
+38418|Grange City
+38757|Suncliff
+39722|County
+39723|The Academy
+39809|Macdonald Botley Park
+39810|The Upper Reaches
+39812|Aldwark Manor Golf & Spa
+39813|The Swan's Nest
+39815|The Glasshouse
+39978|The Gainsborough Hotel
+39979|Holiday Inn Express London Greenwich
+39980|Nayland
+39981|Beverly City
+40057|Best Western Plus Bruntsfield Hotel
+40058|Royal Ettrick
+40059|Jurys Inn Manchester
+40060|The Bristol
+40061|DoubleTree by Hilton Hotel London - Chelsea
+40062|Jurys Inn Glasgow
+40066|Macdonald Elmers Court Hotel & Resort New Forest
+40067|Penmorvah
+40068|Marston Landsdown Grove
+40069|Gleddoch House Golf Hotel and Spa
+40070|The Bear
+40356|Fairmont St Andrews Scotland
+40444|Longueville Manor
+40448|Turnberry Luxury Collection Resort
+40449|Le Manoir aux Quat'Saisons
+40468|Four Seasons Canary Wharf
+40531|DoubleTree by Hilton Hotel London - Westminster
+40559|Roxburghe Hotel & Golf Course
+40933|Premier Inn Glasgow City Centre Argyle Street
+40935|Britannia Roundhouse
+41274|Mercure Southgate
+41275|Mercure Salisbury White Hart
+41276|The Alveston Manor
+41277|Mercure Eastgate Oxford
+41278|Francis Hotel Bath - MGallery Collection
+41279|Llangoed Hall
+41280|Macdonald Loch Rannoch
+41447|Caledonian
+41449|The Beardmore
+41451|The Old Manor Hotel, Lundin Links
+41452|Loch Kinord
+41996|Thistle The Caledonian Aberdeen
+41997|Macdonald Bath Spa
+41998|Travelodge Bath Waterside
+41999|The Belfry
+42000|Hilton Garden Inn Birmingham Brindleyplace
+42001|Crowne Plaza Birmingham City Centre
+42002|Crowne Plaza Nec
+42003|Hyatt Regency Birmingham
+42004|The Legacy Falcon
+42007|Four Seasons Hampshire
+42008|De Vere Village Urban Resort Chester St David's
+42009|Doubletree Chester
+42010|Best Western Llyndir Hall Hotel & Spa
+42013|Loch Ness Country House At Dunain Park
+42014|Inverlochy Castle
+42017|Foxhills
+42018|Brook Crabwall Manor & Spa
+42019|Marriott Cardiff
+42020|De Vere Village Urban Resort Cardiff
+42022|Radisson Blu Leeds
+42023|Crowne Plaza Leeds
+42024|Park Plaza
+42025|Novotel Leeds Centre
+42026|The Lanesborough
+42027|Baglioni London
+42028|Jumeirah Lowndes
+42029|The Connaught
+42030|The Milestone
+42031|Thistle Hyde Park
+42032|The Washington Mayfair
+42099|Marriott Victoria & Albert
+42100|Palace Manchester
+42335|Crowne Plaza London Kensington
+46343|Thistle Aberdeen Airport
+46344|Thistle Aberdeen Altens
+46346|Britannia
+46347|Copthorne Aberdeen
+46348|Hilton Aberdeen Treetops
+46349|Holiday Inn Aberdeen - Exhibition Centre
+46350|Aberdeen Douglas
+46354|Best Western Ambleside Salutation
+46355|Berystede
+46356|Ashford International Hotel
+46358|Cotswold House
+46359|Britannia Coventry City Centre
+46360|Britannia Coventry Hill
+46361|Hilton Coventry
+46362|Holiday Inn Coventry M6
+46363|Novotel Coventry M6/J3
+46364|Britannia Royal Court
+46365|Breadsall Priory
+46366|Holiday Inn Express East Midlands Airport
+46367|Holiday Inn Doncaster A1 M Jct 36
+46368|Apex City Quay Hotel & Spa
+46370|Apex European
+46372|Mercure Gloucester Bowden Hall
+46373|Macdonald Swan
+46374|Park Inn by Radisson Harlow Hotel
+46375|Crown
+46376|London Heathrow Marriott Hotel
+46377|Park Inn by Radisson Hotel & Conference Centre London Heathrow
+46378|Sheraton Heathrow
+46379|Skyline Sheraton Heathrow
+46380|St Giles Hotel Heathrow
+46381|Thistle London Heathrow
+46383|Crowne Plaza London Heathrow
+46384|Hilton Heathrow Airport
+46385|Holiday Inn London Heathrow Ariel
+46386|Leonardo Hotel London Heathrow Airport
+46387|Holiday Inn London Heathrow M4, Jct. 4
+46389|Renaissance London Heathrow
+46825|Clarendon Edinburgh
+46905|Holiday Inn Regents Park
+46907|Hilton London Hyde Park
+46908|Marriott Regents Park
+46915|10 Pembridge Gardens
+46916|Holiday Inn Express Victoria
+46917|Holiday Inn London Brent Cross
+46918|Crowne Plaza London Ealing
+46919|Premier Inn London Hampstead
+46985|Novotel Manchester Centre
+46991|Marriott Maida Vale
+46992|Marriott London Park Lane
+47009|Millennium London Knightsbridge
+47045|Radisson Blu Edwardian Mercer Street Hotel
+47046|Radisson Blu Edwardian Hampshire Hotel
+47097|Britannia International
+47103|Hilton Birmingham Metropole
+47108|Crowne Plaza Liverpool - John Lennon Airport
+47109|Best Western Plus Pinewood on Wilmslow
+47110|The Belgrave
+47111|Umi London
+47155|Radisson Blu Edinburgh
+47157|Britannia Europa Gatwick
+47184|Hilton Bristol
+47185|Thistle Brighton
+47186|Mercure Bristol North The Grange
+47187|Hilton Glasgow
+47189|Mercure Leicester The Grand Hotel
+47200|Holiday Inn Edinburgh City West
+47209|Novotel Birmingham Centre
+47236|Britannia Birmingham
+47237|Jurys Inn Birmingham
+47238|Holiday Inn Birmingham M6, J7
+47239|Holiday Inn Birmingham City Centre
+47315|Mercure Glasgow City
+47358|The Midland
+47359|Britannia Hotel Manchester City Centre
+47360|Britannia Airport Manchester
+47361|Hilton Manchester Airport
+47362|The Grand
+47363|Avon Gorge
+47809|Grand Plaza Serviced Apartments
+47886|Campanile Glasgow
+48144|Cliveden & The Pavilion
+48145|Oakley Court
+48146|Mercure Windsor Castle
+48147|Danesfield House
+48155|Hilton Avisford Park
+48157|Cambridge City Hotel
+48166|De Vere University Arms
+48168|Eastwell Manor
+48170|Low Wood Bay Resort Hotel & Marina
+48171|Swan
+48173|The Wild Boar
+48196|Keswick Country House
+48200|Billesley Manor
+48201|Mercure Stratford-upon-Avon Shakespeare
+48203|Britannia Bosworth Hall
+48206|The Arden
+48211|The Chester Grosvenor & Grosvenor Spa
+48212|Macdonald New Blossoms
+48214|The Grosvenor Pulford
+48215|Borthwick Castle
+48216|Golf View
+48217|The Kingsmills & Kingsclub & Spa
+48219|Best Western Palace Inverness
+48220|The Royal Highland
+48221|The St. David's Hotel & Spa
+48222|Copthorne Cardiff Caerdydd
+48223|Old Course
+48224|Rusacks
+48225|Marriott Dalmahoy Hotel & Country Club
+48362|Crowne Plaza London The City
+48363|Durley House - Geschlossen
+48489|Dorset Square
+48508|Troy
+49934|City Derry
+49947|Norfolk
+49948|Old Ship
+49949|Britannia Royal Albion
+49951|De La Bere
+49953|Mercure Inverness
+49954|Hilton London Olympia
+49957|London Premier Notting Hill
+49958|Rosewood London
+49960|Thistle Middlesbrough
+49961|Jurys Inn Newcastle
+49962|The Oxford
+49964|Burnside
+49969|Quality Crown Hyde Park
+49971|DoubleTree by Hilton Hotel London - West End
+50197|Plough & Harrow
+50198|Westmead
+50199|Kings
+50200|Best Western Premier Queen
+50202|Dene
+50203|Novotel Glasgow
+50204|Ramada Glasgow Airport
+50207|Holiday Inn London - Wembley
+50208|La Reserve
+50210|Mercure Manchester Piccadilly
+50211|Novotel Newcastle Airport
+50212|Britannia Newcastle Airport
+50213|Randolph
+50214|Best Western Linton Lodge
+50216|Macdonald Old England
+50217|The Belsfield
+50642|Redwood Hotel Bistrol
+50643|Falstaff
+50644|Hilton Maidstone
+50645|Novotel Nottingham East Midlands
+50646|Hilton Nottingham
+50647|Best Western Nottingham Derby
+50677|Best Western Plus Gonville Hotel
+50678|The Angel Cardiff
+50681|The Chelsea Harbour Hotel
+50688|Crowne Plaza Chester
+50690|County Newcastle City Centre
+50691|Copthorne Newcastle
+50692|Holiday Inn Stratford Upon Avon
+50693|Ettington Park
+50694|Park Inn by Radisson York City Centre
+50695|Airport Inn Gatwick
+50710|Lucknam Park
+50713|Holiday Inn Newcastle Upon Tyne
+50714|Copthorne Gatwick
+50715|Sofitel London Gatwick
+50716|Copthorne Hotel Effingham Gatwick
+50723|Royal Oxford
+50743|Du Vin
+50744|The Queens
+50745|Britannia Sachas
+50749|Monton House
+50750|Dormy House
+50751|Holiday Inn Leeds-Garforth
+50771|Beech Hill
+50791|Marriott Edinburgh
+50792|Britannia Country House
+50793|Crowne Plaza Nottingham
+50794|Menzies Welcombe
+50797|Holiday Inn Nottingham
+50798|Park Plaza Nottingham
+50799|Chaucer
+50800|Buckerell Lodge
+50801|Hamlets Hotel & Restaurant
+50827|Hastings Everglades
+51044|K West
+51045|The Mandeville
+51046|Marriott Grosvenor Square
+51047|DoubleTree By Hilton Hotel London - Marble Arch
+51048|Oxford Hotel Earls Court London
+51049|Holiday Inn London Gatwick Worth
+51083|Portsmouth Park Hotel
+51084|Holiday Inn Express Oxford - Kassam Stadium
+51094|The Burn How Garden House
+51101|Berkeley Square
+51102|Blair Victoria & Tudor Inn
+51105|Best Western Banbury House
+51106|The Belvedere
+51107|Grange Blooms
+51115|Britannia Hampstead
+51141|The Holt
+51153|Holiday Inn London Elstree M25, JCT.23
+51155|Holiday Inn Luton-South M1
+51156|Novotel Wolverhampton
+51158|Riverside
+51161|Lancaster House
+51170|Buchanan
+51172|Combe Grove Manor
+51174|The Clarendon
+51175|The Clubhouse
+51222|Herons Reach
+51224|Premier Inn Carlisle M6 Jct44
+51226|Macdonald Cardrona Golf & Spa
+51230|The Legacy Rose & Crown
+51231|Grand Jersey
+51233|Mercure Wessex
+51235|Mercure Banbury Whately Hall
+51236|Park Inn by Radisson Bedford Hotel
+51238|Moat House Northampton
+51239|Beauchief
+51242|Holiday Inn Norwich
+51243|De Montfort
+51246|Best Western Plus Stoke-on-Trent Moat House
+51247|Holiday Inn Peterborough West
+51248|Mercure Bush Farnham
+51249|Park Inn by Radisson Telford
+51672|Best Western Grosvenor
+51798|Mercure London Bridge
+51799|Novotel London City South
+51824|Apollo
+51870|Mercure Brighton Seafront
+51873|The Trafalgar London
+51874|The White Swan
+51978|Westbury Kensington
+51987|Marriott Highcliff
+51990|Alexandra
+51998|Novotel Bristol Centre
+52000|Premier Inn Cardiff North
+52001|Moat House Cardiff
+52002|Holiday Inn York
+52108|Premier Inn Bournemouth Central
+52109|Britannia Leeds
+52110|Mercure Leeds Parkway
+52183|Hilton Edinburgh Airport
+52201|Copthorne Slough Windsor
+52485|Holiday Inn Express Park Royal
+52486|Holiday Inn Express Royal Docks, Docklands
+52487|Citadines Prestige South Kensington
+52489|Holiday Inn Camden Lock
+52490|Kensington House
+53736|The Ben Doran
+53737|The Scotsman
+53739|Apex City
+53741|James Court Apartments
+53742|Holiday Inn Express City Centre
+53743|Edinburgh Capital
+53745|The Knight Residence by Mansley Serviced Apartments
+53748|Victorian House
+53749|Holiday Inn Express Glasgow Airport
+53751|Holiday Inn Express Strathclyde Park M74, Jct. 5
+53752|Menzies Glasgow
+53755|Holiday Inn Express Inverness
+54483|Holiday Inn Express Cambridge
+54485|Holiday Inn Express Derby Pride Park
+54486|Holiday Inn Oxford
+54487|Holiday Inn Reading South
+54879|Castle Bromwich Inn
+54882|Holiday Inn Express Birmingham - Nec
+54884|Ibis Styles Birmingham Centre
+54887|The Cadogan
+54888|Collingham Serviced Apartments
+54890|Radisson Blu Edwardian Sussex Hotel
+54891|Club Quarters, St. Paul s
+54892|Pennyhill Park Hotel & Spa
+54894|London Guards
+54899|Holiday Inn Maidenhead
+54900|Holiday Inn Express Chingford - North Circular
+54901|Park Plaza Sherlock Holmes London
+54903|Club Quarters, Gracechurch
+54904|Holiday Inn Garden Court A1 Sandy-Bedford
+54905|Holiday Inn Express Southwark
+54906|De Vere Venues Devonport House
+54907|Myhotel Bloomsbury
+54908|London Elizabeth
+54910|Andaz Liverpool Street
+54911|Holiday Inn Express Stratford
+54914|Holiday Inn Rochester Chatham
+54915|Myhotel Chelsea
+54917|Holiday Inn London - West
+54919|Holiday Inn Express Limehouse
+54922|Rathbone
+54923|Euston Square
+54924|Huttons
+54926|Holiday Inn Express London - Wandsworth
+54927|Radisson Blu Edwardian Manchester Hotel
+54928|Holiday Inn Haydock M6, Jct.23
+54929|Holiday Inn Express - Salford Quays
+54930|Holiday Inn Preston
+54931|Holiday Inn Express East
+54932|Trafford Hall
+54935|Holiday Inn Express Belfast City - Queen's Quarter
+54936|Days Belfast
+54937|Dunadry Hotel and Country Club
+54938|Holiday Inn City Centre
+54939|Crowne Plaza Liverpool City Centre
+54940|Holiday Inn Express Albert Dock
+54941|Thornton Hall Classic
+54942|Suites Knowsley
+54943|Holiday Inn Bristol-Filton
+54944|Holiday Inn Express Bristol City Centre
+54945|Holiday Inn Express Bristol-North
+54946|Holiday Inn Hull Marina
+54947|The Cambridge Belfry
+54948|Holiday Inn Express Racecourse
+54949|Holiday Inn Express Perth
+54950|New County Hotel
+54952|Holiday Inn Express Nottingham City Centre
+54954|Holiday Inn Leeds - Wakefield M1, Jct.40
+54956|Holiday Inn Express Leeds East
+54958|Holiday Inn Express Leeds City Centre
+54959|Bedford Swan
+54961|Holiday Inn Express Gloucester - South M5, Jct.12
+54962|Holiday Inn Gloucester - Cheltenham
+54963|Holiday Inn Express Portsmouth - Gunwharf Quays
+55602|Mercure Shrewsbury Albrighton Hall Hotel & Spa
+55603|The Bobsleigh Hotel
+55604|MacDonald Crutherland
+55635|Forest Hills
+55636|MacDonald Frimley Hall
+55637|Gisborough Hall
+55638|Mercure Holland House
+55639|Leeming House
+55640|Macdonald Linden Hall Golf & Country Club
+55641|Mercure Milton Keynes Parkside
+55644|Mercure Last Drop Village Bolton
+55646|Mercure Queen's
+55647|Mercure London Staines-upon-Thames
+55648|The Tickled Trout
+55649|The White Horse
+55650|Mercure White Horse
+55651|Cuillin Hills
+55652|New Lanark Mill & Waterhouse
+55995|Radisson Blu Edwardian Berkshire Hotel
+56079|Radisson Blu Hotel London Stansted Airport
+56198|Maryculter
+56199|The Westerwood Hotel & Golf Resort
+56203|Ewington
+56205|Erskine Bridge
+56206|Ellersley House
+56207|The Drumnadrochit
+56208|Cameron House on Loch Lomond
+56211|Bowfield Hotel & Country Club
+56214|Crescent Townhouse
+56215|Loch Ness Lodge
+56216|Links
+56218|Windsor Hotel - geschlossen
+56229|Edinburgh City
+56231|Murrayfield Hotel & Lodge
+56233|Old Waverley
+56243|Merchant City Inn
+56272|Ibis Queens Quarter
+56438|ABode Glasgow
+56440|Devoncove
+56460|Best Western Wellington Park
+56523|Ramada Plaza
+56540|Gallery Apartments
+56541|MacDonald Marine
+56600|The Cockhaven Manor
+56602|The Castle at Taunton
+56603|Kincraig Castle Hotel
+56604|Onich
+56606|Samarés Coast
+56627|Madison's
+56660|Park Avenue
+56692|Eurohostel Glasgow
+56734|The Old Inn
+56807|Premier Inn Glasgow City Centre South
+56919|Campanile Manchester - Salford
+56920|Campanile Birmingham
+56921|Campanile Cardiff
+56922|Campanile Liverpool
+56931|Hastings - Slieve Donard Resort & Spa
+56932|Garden View
+57024|Macdonald Burlington
+57027|Edgbaston Palace
+57076|Elmbank
+57080|Notting Hill by BridgeStreet Worldwide
+57207|Hastings - Ballygally Castle
+57209|Campanile Hotel Leicester
+57211|The Liner
+57215|Maldron Belfast
+57220|Comfort Inn Birmingham Station
+57221|Portland
+57310|Quality Hampstead
+57312|Mayflower
+57315|Tortworth Court Four Pillars
+57316|Britannia Adelphi
+57317|Dunollie
+57319|Abingdon Four Pillars
+57320|Oban Bay
+57321|Newgate Newcastle
+57451|The Belmont
+57452|Comfort Night Hotel
+57590|Hilton Garden Inn Bristol City Centre
+57591|Mercure Nottingham
+57592|Hotel Dolphin & Shakespeare - Dolphin
+57593|Grange Langham
+57594|Grange Strathmore
+57595|Grosvenor House JW Marriott
+57596|Grange White Hall
+57598|Gardens
+57606|De Vere Venues Whites
+57607|Village Urban Resort Swindon
+57608|Royal Bath Bournemouth
+57609|De Vere Oulton Hall
+57610|De Vere Grand Harbour
+57611|De Vere The Grand
+57612|De Vere Dunston Hall
+57613|De Vere Dormy - geschlossen
+57614|The Bellhouse
+57615|De Vere Village Urban Resort Manchester Cheadle
+57618|Britannia Wigan
+57619|Britannia Wolverhampton
+57622|Britannia The Norbreck Castle
+57624|Britannia Prince of Wales
+57625|Britannia Stockport
+57626|Premiere Classe Coventry
+57627|Campanile Washington
+57628|Hastings - Culloden Estate & Spa
+57629|Hastings - Europa Belfast
+57630|Hastings - Stormont
+57631|Jurys Inn Leeds
+57637|Atrium by BridgeStreet
+57638|Prince's Square Apartments
+57639|Fraser Suites Queen's Gate
+57640|Somerset Roland Gardens
+57642|Radisson Blu Edwardian Heathrow Hotel
+57643|Luna & Simone
+57645|London Luton - Strathmore
+57649|Mina House
+57650|Mitre House
+57655|Prince William
+57657|Radisson Blu Belfast
+57662|Royal Station
+57663|Ten Square Luxury
+57664|The Capital
+57665|Twenty Nevern Square
+57830|Holiday Inn Express Aberdeen City Centre
+57834|Thistle Kensington Gardens
+57926|Macdonald Aviemore Resort - Aviemore Hotel
+57949|Bridgewood Manor
+57950|Novotel London Tower Bridge
+57951|Astor Court
+57952|Holiday Inn London Gatwick Airport
+57953|Edward
+57954|The Buckingham
+57955|Grange The Portland
+57960|Coulsdon Manor Hotel and Golf Club
+57963|An-nur
+57977|De Vere Slaley Hall
+57991|De Vere Village Urban Resort Nottingham
+57992|easyHotel Luton
+57999|Thistle East Midlands Airport
+59683|Castle Guesthouse
+59684|Stay Central
+59687|The Langorf
+59691|Exhibition Court 4
+59692|Belmont & Astoria
+59694|Caring
+59699|Columbia
+59700|The Ampersand Hotel London
+59705|Lord Jim
+59706|Chamberlain
+59708|The Barn
+60216|De Vere Village Urban Resort Manchester Hyde
+60220|Melvich
+60223|The Lovat
+60225|Hanbury Manor Marriott & Country Club
+60233|The Drummond at Albury
+60241|Crown Moran
+60244|Mansefield Guest House
+60245|Abbotsford Guest House
+60270|BEST WESTERN Crescent Townhouse
+60272|The Derbyshire
+60274|Marriott
+60275|Leeds Marriott Hotel
+60276|Marriott Liverpool City Centre
+60277|Marriott Newcastle Gateshead MetroCentre
+60278|Marriott York
+60279|Old Palace Lodge
+60280|St John's Solihull
+60308|Melville Castle
+60338|Marriott Newcastle Gosforth Park
+60357|Radisson Blu Liverpool
+60358|Mercure Brandon Hall Hotel & Spa Warwickshire
+60414|Swallow Churchgate
+60415|Ace
+60419|Hilton Newport
+60420|Holiday Inn Lancaster
+60424|De Vere Village Urban Resort Liverpool
+60425|De Vere Village Urban Resort Newcastle
+60438|Morvada Guest House
+60439|Best Western Plus Wroxton House
+60454|Glen Mhor
+60490|De France
+60493|130 Queen's Gate
+60495|Celtic Royal
+60501|Marriott Bristol City Centre
+60502|Moorings
+60503|Best Western Dryfesdale Country House
+60518|DoubleTree by Hilton Hotel Nottingham - Gateway
+60540|Thistle Inverness
+60556|Normandy
+60572|Ben Wyvis Hotel
+60573|Norseman
+60575|Corriegour Lodge
+60576|Craiglynne
+60577|Forss House
+60578|Rowan Tree
+60583|Auld Kirk
+60584|Seafield Hotel
+60585|The Spires Aberdeen
+60588|Thistle The Brands Hatch
+60590|The Ascott Mayfair
+60591|Hilton Croydon
+60593|Brook Kingston Lodge
+60594|Holiday Inn Sutton
+60595|Travelodge London Kings Cross Royal Scot
+60597|Travelodge London Docklands
+60599|Travelodge London Battersea
+60600|Novotel London Excel
+60634|Best Western Westminster
+60635|Rutland Square
+60637|Cedar Court Hotel Huddersfield / Halifax
+60647|Covenanters Inn
+60648|Macdonald New Drumossie
+60649|Menzies Dyce Aberdeen Airport
+60650|Murraypark
+60658|Edinburgh Residence
+60659|Globetrotter Inn
+60661|Canon Court Apartments
+60663|The Spires Glasgow
+60665|Premier Inn Edinburgh City Haymarket
+60666|Travelodge Edinburgh Central
+60670|Dreamhouse Apartments Lynedoch
+60671|Hilton Garden Inn Glasgow City Centre
+60672|The Vermont Newcastle
+60675|Hilton Newcastle Gateshead
+60688|Holiday Inn Warrington
+60689|De Vere Village Urban Resort Warrington
+60690|De Vere Village Urban Resort Wirral
+60705|The Stronlossit Inn
+60706|Macdonald Aviemore Resort - Morlich / Highlands / Strathespey / Luxury Woodland Lodges / Aviemore
+60712|Ramada Jarvis Loughborough
+60713|Holiday Inn Swindon
+60718|Mercure Livingston
+60723|Busby
+60725|Caledonian
+60726|Holiday Inn Washington
+60727|Cairn
+60746|Cobden Hotel Birmingham
+60747|Quality Coventry
+60748|Quality Stoke
+60749|Mercure Wolverhampton Goldthorn
+60750|Mercure Wigan Oak
+60751|The Lymm
+60752|Travelodge Luton
+60770|Marriott Royal Bristol
+60824|Daresbury Park Hotel
+60829|Travelodge Tewkesbury
+60833|The Saracens Head
+60914|Carlton Newcastle
+60931|Mercure Hull Grange Park Hotel
+60963|Shrigley Hall Hotel, Golf & Country Club
+60964|The Imperial Blackpool
+60965|The Majestic
+60966|Cheltenham Park
+60974|Redworth Hall
+61043|Castle Rock Backpackers
+61093|Smart Hyde Park View
+61150|Aberdeen Marriott
+61191|Park Plaza Cardiff
+61224|Selsdon Park
+61229|Macdonald Ansty Hall
+61230|Hatherley Manor
+61231|Mercure Manchester Norton Grange Hotel & Spa
+61233|Menzies Irvine
+61235|Mercure Blackburn Dunkenhalgh Hotel & Spa
+61252|Jurys Inn Southampton
+61663|Ritz Edinburgh
+61664|Ibis Edinburgh
+61665|Regent House
+61752|Kegworth Hotel & Conference Centre, East Midlands Airport, M1, Junc 24
+61757|Glynhill Hotel
+61758|Chewton Place
+61759|Crowwood
+61781|Afton Town House
+61782|Ceilidh-Donia
+61869|Carden Park
+61908|De Vere Village Urban Resort Manchester Bury
+61914|Premier Apartments Bristol
+61915|Premier Apartments Liverpool
+61917|Gateshead
+61926|The Suffolk Golf & Spa Hotel
+62053|Park Plaza Riverbank London
+62068|Bridge House
+62108|Best Western The Alicia Hotel
+62109|Green
+62291|Jurys Inn Croydon
+62292|Kings
+62301|De Vere Belton Woods
+62334|Balmacara
+62337|Hotel Dolphin & Shakespeare - Shakespeare
+62403|Pollock Halls - Chancellor's Court
+62404|The County Dalkeith
+62405|Masson House
+62407|The Marcliffe at Pitfodels
+62408|Citadines Barbican
+62409|Hyde Park View
+62422|Best Western Feathers
+62434|Travelodge Edinburgh Haymarket
+62437|The Kyle
+62439|Glasgow University Queen Margaret Residense
+62484|Gairloch Highland Lodge
+62485|The Old Inn
+62495|Panmure
+62496|Parklands
+62527|Glasgow Lofts
+62598|Best Western Plus Mosborough Hall
+62599|Park Hotel
+62603|Raeburn House
+62623|Ramada Park Hall
+62624|Briarbank
+62625|Poppies
+62758|Holyrood Aparthotel
+62762|Royal York
+62764|Marriott Portsmouth
+62765|Holiday Inn Portsmouth
+62779|Artto
+62802|The Astor
+62807|Britannia Ashley
+62809|The Legacy Boship Farm
+62813|The Beaufort Park Hotel
+62816|The Black Swan Hotel
+62817|Balmer Lawn
+62818|Mercure Bradford Bankfield
+62820|The Legacy Botleigh Grange & Spa
+62821|Blackwell Grange
+62828|Swallow Three Tuns
+62837|Hallmark Gloucester
+62838|Hilton Southampton
+62839|Hilton Dundee
+62840|Holiday Inn Bolton Center
+62846|Hilton Bradford
+62848|Best Western Princes Marine Hotel
+62849|Hilton Birmingham Bromsgrove
+62850|Best Western Lee Wood
+62852|Royal Cambridge
+62854|Hylands
+62855|The Legacy Thatcher's Hotel
+62871|Lea Marston
+62872|Brook Merrion
+62875|Holiday Inn Leicester City
+62878|Marriott Manchester Airport
+62879|Airport Inn Manchester
+62880|Rocco Forte The Lowry
+62881|Copthorne Plymouth
+62882|Thistle Poole
+62885|Holiday Inn Solihull
+62886|Holiday Inn Southampton-Eastleigh M3, jct13
+62887|Holiday Inn Southampton
+62888|Novotel Southampton
+62890|Best Western Premier Moor Hall Hotel & Spa
+62891|The Imperial
+62892|Best Western Monkbar
+62917|DoubleTree by Hilton Hotel Dundee
+62918|Station
+62923|Mercure Ayr Hotel
+62924|Gailes
+62925|North West Castle
+62936|InnLodge Portsmouth
+62937|Best Western Abbots Barton
+62943|Holiday Inn Express Canterbury
+62947|Best Western Cresta Court
+62969|Sleep Inn Newton Aycliffe
+62970|De Vere Village Urban Resort Coventry
+62971|Village Dudley
+62972|De Vere Village Urban Resort Leeds North
+62973|The Marine Hotel
+62986|Blossoms York
+62987|The Chasley
+62988|Mercure Darlington Kings Hotel
+62989|Best Western Bolholt Country Park
+62993|Hilton Bracknell
+62999|The Legacy Plymouth International - geschlossen
+63000|Campanile Bradford
+63016|Paragon
+63140|Old Bell
+63141|Tylney Hall
+63183|The Telford Whitehouse
+63184|The Howard
+63186|Lyndon Guest House
+63188|196 Bishopsgate
+63218|Travel House
+63219|Holiday Inn London Brentford Lock
+63220|Best Western Kings Manor
+63294|Novotel London Greenwich
+63323|Stockton Swallow - geschlossen
+63325|Best Western Cumberland
+63341|Hilton Glasgow Grosvenor
+63355|Crowne Plaza London Docklands
+63357|Ravensdene Lodge
+63360|Lancaster Hall
+63361|Holiday Inn Express Earls Court
+63378|The Victoria
+63391|St Mellons Hotel & Spa
+63399|Queens Brighton
+63462|Rossett Hall
+63641|Heythrop Park Resort - Crowne Plaza Heythrop Park - Oxford
+63700|Hunter's Meet
+63704|The Park
+63720|Bristol Serviced Lettings
+63724|Cally Palace
+63761|Avon
+64071|Cuilfail
+64074|Carnoustie Golf Resort & Spa
+64075|Inver Lodge
+64099|Fraser Suites
+64875|Novotel Edinburgh Centre
+64876|The Inn on the Mile
+64877|Orwell Lodge
+64878|Argyll Town House
+64894|Moodiesburn House
+64907|The Argyll House
+64908|Gretna Hall
+64922|Portland
+64930|Eilean Iarmain
+64932|Best Western Lovat Hotel
+64934|The Famous Bein Inn
+64935|Regent
+64936|Arrochar
+64937|Best Western Buchanan Arms Hotel & Leisure Club
+64938|The Beveridge Park
+64939|Holiday Inn Express Stirling
+64940|Best Western The Park
+64941|Hilton Blackpool
+64958|Moat House Liverpool
+65011|Novotel Birmingham Airport
+65042|Hilton Sheffield
+65055|De Vere Mottram Hall
+65116|The White Lady
+65117|HuntingTower
+65306|Hilton Belfast
+66345|Hilton East Midlands Airport
+66421|Hilton Coylumbridge Hotel
+66424|Hilton Leeds City
+66426|Hilton Northampton
+66427|Hilton St Anne's Manor Bracknell
+66428|Hilton Milton Keynes
+66430|Hilton Leicester
+66431|Hilton Swindon
+66432|Moorside Grange Hotel & Spa - geschlossen
+66434|Hilton Puckrup Hall
+66445|Hilton Basingstoke
+66446|Hilton Strathclyde
+66447|Hilton Cobham
+66448|Holiday Inn Corby-Kettering A43
+66449|Hilton Dartford Bridge
+66450|Best Western Palace Hotel & Casino
+66452|Hilton Newbury Centre
+66453|Hilton Newbury North
+66454|Chalon Court
+66455|Hilton Warwick / Stratford-upon-Avon
+66456|Hilton Watford
+67469|Radisson Blu Manchester Airport
+68255|Millennium Madejski Reading
+68270|Whiteleaf
+68524|Brook Whitehall
+68526|The Cranley
+68528|Celebrity
+68667|Ballantrae Albany
+68671|Russell Court
+68672|De Vere Village Urban Resort Bournemouth
+69158|Taychreggan
+69709|Courthouse Doubletree London-Regent
+69724|Menzies Chequers
+70027|Carbis Bay
+70028|Housel Bay
+70029|Trenython Manor
+70030|Two Bridges
+70031|Le Chene
+70033|Hilton Garden Inn London Heathrow Airport
+70034|Quay West Holiday Park
+70777|The Links Hotel
+70812|Highlander
+70813|Craigtay
+70815|Bay Eden Arms
+70816|West Highland
+70817|Swallow George
+70818|Glenmoriston Town House
+70820|Plaza on The River
+70821|The Chiltern
+70822|Dalgair House
+70823|Buckatree Hall Hotel
+70964|Rockley Park
+71158|Samlesbury Hotel
+71169|The Oxford Belfry
+71560|Mahons
+71567|Countrywide Inns - Iona Inn
+71582|Dobbins Inn
+71632|Swallow Durley Dean
+71636|Isle of Mull
+71637|Royal Marine
+71666|White House Court
+71675|Hunters Cabins
+71706|The Queensferry
+71708|The Lairg
+71710|Ben Nevis Hotel & Leisure Club
+71711|Royal Kings Arms Hotel
+71712|Holiday Inn Express London - Luton Airport
+71713|Holiday Inn Express Hemel Hempstead
+71714|Palmerston Place Apartment
+71715|Premier Inn Luton Town Centre Hotel
+71716|The Bruce
+71717|Thistle St Albans, The Noke
+71718|Holiday Inn Brentwood M25, Jct. 28
+71720|Swallow Hilltop Carlisle
+71879|Queen Street Apartments
+71889|The New Bath Hotel - geschlossen
+71993|Grange Wellington
+72035|Soho
+72126|Holiday Inn Express Dunfermline
+72134|Basingstoke Country
+72137|Holiday Inn Express Greenock
+72377|Travelodge Stevenage Little Wymondley - geschlossen
+72379|Ardvasar
+72380|Toorak
+72652|Annandale Street
+72653|York Place
+72692|Premier Inn City Centre Charing Cross
+72695|The Stirling Highland Hotel
+72740|Albany
+73111|Alexander Thomson
+73112|Arden Guest House
+73113|Spean Bridge
+73114|Ocean Hostel
+73115|Kaim Park
+73212|Dreadnought
+73213|Swallow Killin
+73353|Comfort Heathrow
+73354|DoubleTree by Hilton Hotel London - Victoria
+73369|Dunstane City
+73888|London Premier Kensington
+73889|Park Grand London Lancaster Gate
+73891|Shaftesbury Hyde Park International
+73893|Waterwheel Inn - geschlossen
+73894|Chelsea Cloisters
+73896|Anchor & Chain
+73949|Dryburgh Abbey
+73950|Tankersley Manor
+73952|Crowne Plaza Marlow
+73956|Minto
+73963|Park Lane Mews
+74223|Travelodge Newcastle Silverlink
+74433|Combe Haven
+74611|West Park Conference Centre
+74832|Holiday Inn Garden Court - Aylesbury
+74898|Crewe Hall
+74901|Thistle Cheltenham
+75027|Ibis Styles London Leyton
+75030|Euro Wembley
+75361|Kenton House
+75362|St. Clair
+75363|Bridge House Hotel & Conference
+75450|Holiday Inn Manchester Central Park
+75451|Craigiebield
+75453|Jurys Inn Nottingham
+75455|The Nottingham Belfry
+75456|Craigmonie
+75539|Old Brewery House
+75540|The Yorkshire
+75543|Merton
+75680|Cabarfeidh
+75761|Geckos Rest
+75850|De Normandie
+75853|Balbirnie House
+75979|Antonine
+75981|Beachcombers
+75983|Britannia Nottingham
+75992|Ibis Styles London Excel
+76124|Lancaster Gate Hyde Park
+76126|Americana
+76212|NH London Kensington
+76251|Holiday Inn Glasgow-East Kilbride
+76253|Campanile Doncaster
+76256|Dreamhouse Apartments Rothesay
+76497|Indigo London - Paddington
+76508|Cringletie House
+76929|Park Inn by Radisson Cardiff North Hotel
+76931|Mercure Hythe Imperial Hotel & Spa
+76932|Royal
+76933|Caladh Inn
+76934|The Grassmarket
+76935|Lockerbie Manor
+76936|Glenmorangie House
+76937|The Grange Manor
+76939|The Airds
+77076|Mercure London Kensington
+77336|Campanile Wakefield
+77360|Travellers Inn Mallory Park
+77401|Albion
+77402|Ambassador
+77403|Polmaily House
+77408|Glenfarg
+77467|The Deeside Inn
+77608|Stotfield
+77609|Swallow Udny Arms
+77610|Kintore Arms
+77616|The Waterside Hotel Peterhead
+77617|Tinto House
+77787|Travelodge Derry Hotel
+77788|Travelodge Belfast Central
+77789|Clarion Carrickfergus
+77790|Swallow Perth & Kinross
+77791|The Royal Keith
+77792|Crown Court
+77794|Morangie House
+77795|Swallow Royal Golf
+77796|The Marine Hotel
+77797|Portland Arms Hotel
+77798|St Michaels Inn
+77799|Skene House Whitehall
+77867|Ten Hill Place
+78046|Alloway Inn
+78047|Dreadnought
+78048|Swallow Kirkconnell Hall
+78184|Tigerlily
+78288|Premier Inn Edinburgh Central Lauriston Place
+78477|Premier Inn London City (Tower Hill)
+78590|Skene House Rosemount
+78591|Whitehart
+78592|Balavil
+78593|Hilton Canary Wharf
+78594|Holiday Inn Stoke-on-Trent M6, Jct. 15
+78596|Kylestrome
+78598|Rosslea Hall
+78599|Howard Park
+78600|Rowardennan
+78601|The Inn on Loch Lomond
+78668|The Thistle Haydock
+78670|L'Horizon
+79153|Hoxton
+79217|Fountain Court Grove
+79218|Boringdon Hall
+79220|Cavendish
+79221|Muirhall Holiday Cottages
+79612|Travelodge Stansted Bishops Stortford
+79614|Ramada London Docklands
+79615|Fox & Goose
+79617|Best western Plus Epping Forest
+79621|Smart City Hostel Edinburgh
+79630|Britannia Bournemouth
+79631|Pratt's
+79632|Norfolk Arms
+79634|Arnos Manor
+79641|Ramada Birmingham City Centre
+79643|Winchester Royal
+79645|Ramada Hotel & Suites Coventry
+79646|Novotel York Centre
+79647|Mercure York Fairfield Manor
+79650|Perran Sands
+79965|Lancaster Court
+80006|Cameo Hotel Copdock
+80099|Hinckley Island
+80100|The Lygon Arms
+80101|Daventry Court Hotel
+80562|Lochanhully Woodland Club
+80563|Millstream
+80778|Travelodge Airport
+80809|Harton Lodge
+80810|The Farmhouse
+80818|The Fullerton Arms
+80825|Queens
+80826|Park Inn by Radisson Birmingham West, M5 J1
+80827|Chine Hotel
+80828|Brook Marston Farm
+80829|Stewart
+81287|Future Inn Cardiff
+81400|Tewkesbury Park Golf & Country Club
+81401|Crowne Plaza Resort Colchester - Five Lakes
+81402|Marriott Meon Valley Hotel & Country Club
+81403|The Goodwood
+81404|The Carlyon Bay
+81406|Woodbury Park
+81568|Belleisle House
+82176|Britannia Leeds Bradford Airport
+82177|Britannia Bolton
+82178|Savoy
+82179|Kensington Gardens
+82510|New Town
+82511|Master Robert
+82638|Holiday Inn Manchester West
+82654|Chevin Country Park Hotel & Spa
+82893|Holiday Inn Express Croydon
+83284|The Marble Arch by Montcalm
+83391|City Hotel
+83673|Days Hotel Gatwick
+84244|The Goring
+84277|Grapevine
+85471|Corus Hyde Park
+85639|Cromlix
+85732|Holiday Inn Express Peterborough
+85733|Lord Nelson
+86022|Preston Marriott Hotel
+86023|Doubletree by Hilton Bristol Cadbury House
+86024|Holiday Inn Guilford
+86026|Malone Lodge
+86568|Atholl House
+86570|Holiday Inn Express Newcastle City Centre
+87318|Glendorgal
+87416|Travelodge London Central City Road Hotel
+87683|Best Western The Delmere
+87731|Paddington Hotel
+87952|Britannia North Stafford
+88223|Savill Court Hotel & Spa
+88225|Macdonald Compleat Angler
+88239|Macdonald Hill Valley Golf & Country
+88245|The Old Swan
+89075|Euro Queens
+89155|Ibis Styles London Southwark Rose
+89363|Premier Inn Manchester Old Trafford
+89366|Etrop Grange
+89412|Raglan Hall
+89505|New Dawn
+90184|Mill
+90185|DoubleTree by Hilton Hotel Manchester - Piccadilly
+90186|The Spires Serviced Suites
+90192|Best Western Appleby Park
+90260|Chiswick Moran
+90446|Kensington Rooms
+90519|Meininger London Hyde Park
+91028|The May Fair Hotel
+91752|Holiday Inn Express London - Newbury Park
+91753|Holiday Inn Express Leeds City Centre Armouries
+91754|Ramada Encore Milton Keynes
+91755|Campanile Basildon
+92149|Holiday Inn Harrogate
+92150|Mercure Holland House Bristol
+92720|Mercure Cardiff Centre
+92770|Danum
+92771|Holiday Inn Express Doncaster
+92773|Kingsburgh House
+92774|The Dunstane Boutique Hotel
+92778|Swallow Belstead Brook
+92783|The Met
+92803|City Apartments Newcastle
+92944|Travelodge Croydon
+92957|Holiday Inn Express Glasgow - City Center Theatreland
+93115|Holiday Inn Express Antrim - M2, Jct.1
+93116|The Beaches
+93118|Moorpark House
+93119|Hilton Manchester Deansgate
+93269|Jurys Inn Liverpool
+93270|Park Plaza County Hall
+93528|Les Ormes
+93558|Derby Kensington
+93559|Gillis Centre
+93560|Radisson Blu Edwardian New Providence Wharf Hotel
+93561|Airport Apartments
+95735|The Bridge Hotel
+95736|City Apartments Glasgow South
+95737|Angels Share Hotel
+95738|Lochend Serviced Apartments
+95739|The Old North Inn
+95741|Craw's Nest
+95742|The Castletown
+95744|Nether Abbey
+95745|Aberfeldy Lodge
+95746|King Robert
+95761|Jurys Inn Milton Keynes
+95764|Croydon Park
+95765|St. Mark
+95766|The Cumberland
+95986|Tongue
+95987|The Club Hotel & Spa
+95990|Kensington Suite
+96254|Radisson Blu Waterfront Jersey
+96255|Fermain Valley
+96256|Braye Beach
+96456|Novotel Cardiff Centre
+96463|Brook Mollington Banastre & Spa
+96469|Crerar Eight Acres Hotel & Leisure Club
+96471|Westlands
+96476|Allhallows
+96735|Rob Roy
+96739|Pollock Halls - Holland House
+97382|Days Hotel Coventry
+97383|Holiday Inn Express Exeter M5, Jct. 29
+97384|Holiday Inn Express Droitwich M5, Jct.5
+97385|Holiday Inn Express Taunton M5, Jct 25
+97386|The Cliffeside
+97387|St. George
+97389|Holiday Inn London - Chessington
+97390|Travelodge York Central Micklegate
+97391|Quality Skyline
+97392|Glendaruel
+97394|Kenmore
+97395|Dylan Earls Court
+97396|Britannia Grand Hotel Scarborough
+97397|Highways - geschlossen
+97399|Britannia Grand Burstin
+97400|Sherbrooke Castle
+97401|Erlscote House Apartments
+97402|Banff Springs
+97403|Inglewood Manor
+97405|Welbeck
+98726|Donington Manor
+98727|Campanile Milton Keynes - Fenny Stratford
+98728|Campanile Hull
+98729|The Grand Hotel Llandudno
+98730|Grand Metropole Hotel Blackpool
+98731|Holiday Inn Woking
+98732|Hard Days Night
+98892|Jurys Inn Brighton
+98893|Kensington West
+99546|The Gore
+99547|Cairncross House
+99548|Campfield House B&B
+99549|The Chesterfield
+99550|Swallow Springfield
+99551|Braeburn Guest House
+99552|Glenshian
+99553|Rex Hotel at Whitley Bay
+99554|Columba
+99555|The Highland Haven
+99556|Sunnyside
+99557|Marlin Empire Square
+99558|Jurys Inn Plymouth
+99813|Holiday Inn Express London - Stansted Airport
+99815|Best Western Hetland Hall
+99842|Ascot Hyde Park
+99916|Greenbank
+99917|Harte & Garter
+99918|Mercure Swansea
+100173|Huntly Arms
+100244|Mercure Perth
+100382|Ashburn
+100383|The Cleveland
+100384|Fraser Place Canary Wharf
+100385|Station Aberdeen
+100386|Best Western Summerhill Hotel & Suites
+100387|Bignell Park Hotel
+100400|The Cliff
+100403|Hallmark Hull
+100404|City Apartments Newcastle Quayside
+100405|Holiday Inn Express Newport
+100408|Eynsham Hall
+100409|The Feathers
+100411|Duke of Marlborough
+100416|Oxford Thames Four Pillars
+100417|Malmaison Oxford
+100419|Days Inn Oxford M40
+100420|Old Bank
+100421|Egrove Park
+100423|247 Hotel
+100424|Best Western Barons Court
+100425|Menzies Carlton
+100426|Menzies East Cliff Court
+100428|Menzies Flitwick Manor
+100429|Travelodge Conventry - geschlossen
+100430|Menzies Mickleover Court
+100431|Menzies Stourport Manor
+100615|Highland
+100618|Carmelite
+100620|Travelodge Glasgow Central
+100621|Marks
+100719|St. Georgio
+101767|Fountain Court Morrison
+101793|Fountain Court EQ2
+101794|Fountain Court Harris
+101802|Cordia Serviced
+101810|Holiday Inn Express Ramsgate - Minster
+101814|Best Western Gleneagles
+101818|Marlin Canary Wharf
+101923|Kirkhouse Inn
+101927|Guisachan House
+101928|Holiday Inn Express Banbury M40, Jct.
+101937|Novotel Edinburgh Park
+101938|Old Hall
+101939|Kensington House Aparthotel
+101944|Mayfair
+101948|Macdonald Manchester
+101954|Wyndham Garden Grantham
+101963|The Royal Yacht
+101966|Ramada Manchester Salford Quays
+102049|Euro Hounslow
+102568|Ardtara
+102569|Bushmills Inn
+102714|Best Western Derwent Manor
+102715|Urban Grantham
+102716|Haven in the Vale Hotel
+102802|Best Western Glasgow City
+102811|Premier Inn London Putney Bridge
+102951|Mercure Brigstow Bristol
+102952|Best Western Argyll Hotel
+103025|Arora Gatwick-Crawley
+103026|Marlin Londinium Tower
+103027|Marlin Olympic View
+103028|Marlin Queen Street
+103029|Croydon Court
+103032|Holiday Inn Sheffield
+103092|County
+103222|The Steadings at the Grouse & Trout
+103224|Inn at Ardgour
+103237|Le Monde
+103252|The Legacy Hampshire
+103255|Savoy
+103256|Fort d'Auvergne
+103263|White House
+103269|Meudon
+103271|Talland Bay
+103280|Ilsington Country House
+103288|Granville
+103289|Best Western Plus Dover Marina Hotel & Spa
+103290|Ramada Dover
+103293|Best Western Lansdowne
+103298|Best Western Salford Hall
+103299|Best Western Bank House
+103301|Walton Hall
+103306|Best Western Westminster
+103307|Best Western George Hotel
+103311|George
+103313|Palace Buxton
+103314|Best Western The Rose & Crown
+103320|Holbeck Ghyll
+103321|Linthwaite House
+103328|Best Western Plus Dean Court
+103336|The Falcondale
+103345|Castle
+103350|Llansantfraed Court
+103351|Llanwenarth
+103352|Peterstone Court
+103353|The Bear Hotel
+103355|Corsewall Lighthouse
+103358|Roman Camp
+103359|The Isle of Eriska
+103363|Muckrach Lodge
+103365|Rocpool Reserve
+103373|Mansfield Castle
+103376|The Queens Hotel
+103378|The Stromness
+103595|1 Lexham Gardens
+103657|Holiday Inn Express Bath
+103658|The Dalmeny
+103659|Great Hallingbury Manor
+103661|Stretton
+103666|The Worcester Whitehouse
+103668|Wyboston Lakes
+103670|International
+103672|Campanile Dartford
+103673|Holiday Inn Bristol Airport
+103674|Somerford Hall
+103676|The Royal
+103679|Norfolk Lodge
+103683|Aigburth
+103686|Gateacre
+103687|Childwall
+103729|Himley Country Hotel
+103730|Durham Marriott Royal County
+103745|Best Western Kings
+103748|Dreamhouse Apartments Edinburgh Holyrood
+103749|Dreamhouse Apartments Edinburgh Tollcross
+103750|Apartments Edinburgh The Gyle
+103751|Apartments Edinburgh Eglinton
+103753|Matrix Apartments Glasgow
+103755|Mountview
+103757|Weetwood Hall
+103758|Merchant Quarters
+103759|Hilton London Tower Bridge
+103760|Apex City Of London
+103761|Comfort Inn & Suites Kings Cross
+103762|Bewleys Manchester Airport
+103763|The Baltimore
+103764|Holiday Inn Derby Nottingham
+103765|Park Inn by Radisson Nottingham
+103766|Ramada Hotel Nottingham
+103767|Lace Market
+103768|Strathdon
+103769|Premier Apartments
+103788|National Water Sports Centre
+103789|Whitwell Hotel & Conference Centre
+103790|Holiday Inn Express Birmingham Oldbury M5, Jct.2
+103791|The Spittal of Glenshee
+103792|Blue Inn Redditch
+103793|Campanile Runcorn
+103794|The Pier House
+103818|62 Castle Street
+103827|Aberdeen Northern
+103829|ABode Canterbury
+103830|ABode Exeter
+103872|Hallmark Croydon
+103938|The Magdalen Chapter
+103939|Montpellier Chapter
+103980|Alton Lodge
+104075|Antoinette Hotel Kingston
+104128|Arc Apartments Stay Birmingham
+104140|Ardencote Manor Country Club/Spa Birmingham - Warwick
+104155|Arora Heathrow
+104156|Arora Hotel Manchester
+104177|Ashtree House
+104187|Holiday Inn Dumfries
+104210|Atholl Arms
+104235|Audleys Wood
+104279|Bailbrook House Bath
+104284|Ballantrae at the West End
+104311|Barton Grange
+104337|Beales Hatfield
+104492|Consort Hotel
+104495|The Abbey
+104503|Best Western Admiral Rodney
+104539|Best Western Royale
+104548|Appleby Manor Country House
+104550|Best Western Ardsley House
+104561|Best Western Atlantic
+104601|Hallmark Manchester
+104662|Best Western Cedar Court
+104685|Best Western Christopher
+104734|The Crown Manor House
+104735|Best Western Crown
+104739|Best Western Cumbria Park
+104775|Best Western Donnington Manor
+104806|Ennerdale Country House
+104819|Fairlawns Hotel & Spa
+104826|Best Western Fenwick
+104828|Best Western Fir Grove
+104838|Forest Pines Hotel & Golf Resort
+104848|Best Western Frensham Pond Hotel
+104857|George
+104861|Best Western Glenspean Lodge
+104910|Hatfield
+104918|Best Western Higher Trapp Country House Hotel
+104923|Hollin Hall Country House Hotel
+104931|Best Western Imperial
+104932|Best Western Imperial
+104952|Best Western Kilima Hotel
+105015|The Lodge Hotel Putney
+105016|London Beach Country Hotel Spa & Golf Club
+105042|Best Western Manor Hotel
+105043|Best Western Manor House Hotel
+105049|Best Western Marks Tey
+105054|Best Western Master Builder's House
+105066|The Metropole
+105071|Best Western Plus Milford Hotel
+105074|Miskin Manor Hotel Health & Fitness
+105077|Best Western Moffat House
+105083|Best Western Moore Place
+105101|Best Western Plus New House Country Hotel
+105139|Best Western Plus Parkway Hotel
+105167|Best Western Premier Leyland
+105182|Macdonald Manchester Townhouse
+105211|Best Western Roebuck Inn
+105215|Best Western Rombalds Hotel & Restaurant
+105227|Best Western Royal Clifton
+105229|Best Western Royal Oak
+105265|Sketchley Grange
+105268|Best Western Hotel Smokies Park
+105278|Best Western Stade Court
+105293|Best Western Sudbury House
+105314|Best Western Terraces
+105325|Best Western Charnwood
+105327|The Croft
+105329|Best Western Diplomat & Spa
+105335|Best Western Glendower Promenade Hotel
+105338|Best Western The New County
+105340|Best Western The Restormel Lodge Hotel
+105344|The Speech House
+105345|Best Western The Stoke by Nayland, Golf & Spa
+105349|Best Western The Watermill
+105371|Best Western Ufford Park Hotel, Golf & Spa
+105383|Best Western Walton Park
+105408|Best Western Willowbank
+105414|Wynnstay Hotel & Spa
+105417|Best Western Premier Yew Lodge Hotel & Conference Centre
+105418|Best Western York House
+105419|Best Western York Pavilion Hotel
+105439|Big Blue
+105456|Birch
+105458|Bishopstrow House
+105492|Boston Manor
+105497|Bourne Hall
+105522|Circus Apartments
+105524|Market View by BridgeStreet
+105529|Brightonwave
+105547|Broughton New Lodge
+105548|Brownsover Hall
+105549|Holiday Inn Aberdeen West
+105557|Buckingham Hotel
+105561|Bull Hotel & Conference Centre
+105610|Cannizaro House
+105642|Carlton Mitre
+105648|Carousel
+105744|Chandos Guest House
+105801|Chateau La Chaire
+105807|Chatsworth
+105811|Best Western Cheltenham Regency Hotel
+105816|Chequers Corus
+105817|Chequers of Kensington Apartments
+105821|Chesford Grange
+105822|Chesterhouse
+105847|Best Western Chiswick Palace & Suites
+105881|City Inn Express
+105904|Claremont
+105912|Mercure Blackburn Foxfields Country
+105938|Mercure Telford Madeley Court
+105959|Clifton
+106009|Hotel Brighton
+106013|Comfort Enfield
+106016|Comfort Finchley
+106064|Comfort Inn Arundel
+106169|Comfort Inn Harrow
+106180|Comfort Royal Kettering
+106209|Leicester North Hotel and Conference Centre
+106238|Comfort Hotel Reading West
+106256|Comfort Inn Ramsgate
+106462|Cotswold Lodge
+106484|Cowley Manor
+106485|Cranage Hall
+106486|Cranbrook
+106487|Crathorne Hall
+106503|Crown & Mitre
+106509|Crown Wetheral
+106514|Crowne Plaza Glasgow
+106531|Crowne Plaza Reading
+106558|Daisy Centre Retreat
+106631|Days Inn Bradford M62
+106632|Days Inn Bridgend Cardiff
+106633|Days Inn Bristol
+106634|Sky Plaza Cardiff Airport
+106635|Days Inn Donington A50
+106637|Days Inn Gretna Green
+106643|Ramada London Stansted Airport
+106644|Days Inn Warwick North
+106645|Days Inn Warwick South
+106648|The RE London Shoreditch
+106649|Ramada London South Ruislip
+106702|DeSalis
+106755|Donnington Valley
+106765|Down Hall Country House
+106782|Dubrovnik
+106803|Eaves Hall Country
+106873|Legacy Dukes Head
+106887|Empress
+106907|Ettington Chase
+106930|Hallmark Inn Derby
+106991|Holiday Inn Express Bradford City Centre
+106994|Holiday Inn Express Burton-upon-Trent
+106995|Holiday Inn Express Cardiff Airport
+106996|Holiday Inn Express Cardiff Bay
+106999|Holiday Inn Express London - Dartford
+107001|Holiday Inn Express Edinburgh Royal Mile
+107004|Holiday Inn Express Folkestone - Channel Tunnel
+107005|Holiday Inn Express Gatwick-Crawley
+107006|Holiday Inn Express Glenrothes
+107008|Holiday Inn Express Hull City Centre
+107012|Holiday Inn Express Lichfield
+107013|Holiday Inn Express Liverpool - John Lennon Airport
+107015|Holiday Inn Express London-Buckhurst Hill
+107016|Travelodge Wembley
+107017|Holiday Inn Express London - Wimbledon South
+107020|Holiday Inn Express Milton Keynes
+107022|Holiday Inn Express Newcastle - Metro Centre
+107030|Holiday Inn Express Poole
+107031|Holiday Inn Express Redditch
+107036|Holiday Inn Express Southampton M27, Jct.7
+107037|Holiday Inn Express Southampton West
+107038|Holiday Inn Express Stafford M6, Jct. 13
+107039|Holiday Inn Express Stevenage
+107041|Holiday Inn Express Stoke-On-Trent
+107042|Holiday Inn Express Swindon City Centre
+107043|Holiday Inn Express Swindon-West M4, Jct. 16
+107047|Holiday Inn Express Warwick - Stratford-upon-Avon
+107050|Holiday Inn Express York
+107057|Fallowfields Country House
+107061|Farnham House
+107063|Fawsley Hall
+107068|Felix
+107077|Fingle Glen Golf
+107083|FJB Harbour Heights
+107084|FJB Haven
+107085|FJB Sandbanks
+107157|Fowey Hall
+107178|Future Inn Plymouth
+107185|Gainsborough House
+107186|Gainsborough Lodge
+107214|Days Hotel Chester North
+107216|Gatwick White House
+107225|Brook George
+107248|Glendruidh House
+107340|Gomersal Lodge
+107415|Grange Bracknell
+107422|Granville Guest House
+107423|Grasmere House
+107425|Great Barr
+107432|Green Dragon
+107439|Greenwoods Hotel
+107478|Hallam
+107521|Hatton Court
+107528|Hayesthorpe
+107529|Heatherbank
+107540|Hellidon Lakes Golf & Spa Hotel
+107545|Hendon Hall
+107565|Highfield
+107570|The Hillcrest
+107594|Holdsworth House
+107604|Holiday Inn A55 Chester West
+107610|Holiday Inn Aylesbury
+107611|Holiday Inn Basildon
+107612|Holiday Inn Basingstoke
+107621|Holiday Inn Brighton Seafront
+107635|Holiday Inn Colchester
+107640|Holiday Inn Coventry-South
+107644|Holiday Inn Ellesmere Port/Cheshire Oaks
+107690|Holiday Inn Fareham Solent
+107691|Holiday Inn Farnborough
+107696|Holiday Inn Garden Court Wolverhampton
+107699|Holiday Inn Glasgow Airport
+107709|Holiday Inn High Wycombe M40, Jct. 4
+107713|Holiday Inn Ipswich
+107719|Holiday Inn Kenilworth
+107726|Holiday Inn Leeds Brighouse
+107728|Holiday Inn London - Bexley
+107731|Holiday Inn London Shepperton
+107738|Holiday Inn Milton Keynes
+107739|Holiday Inn Milton Keynes East M1, Jct.14
+107754|Holiday Inn Norwich North
+107778|Holiday Inn Rugby Northampton
+107779|Holiday Inn Runcorn
+107781|Holiday Inn Salisbury - Stonehenge
+107803|Days Inn South Mimms M25
+107814|Holiday Inn Taunton
+107815|Holiday Inn Telford Ironbridge
+107847|Homewood Park
+107849|Honiley Court
+107850|Hope Street
+107853|Horizon
+107855|Horwood House
+107962|Huntingdon House
+107963|Hurtwood Inn
+108012|Ibis London Excel
+108028|Inn at Woburn
+108275|La Mon and Country Club Belfast
+108315|Lady Anne Middletons
+108320|Hallmark Carlisle
+108327|Lanayr Blackpool
+108340|Lansdowne Place
+108456|Smart Aston Court
+108457|Best Western Oaklands Hall
+108461|Lenbrook
+108501|Lindal
+108524|Lodge at Leeming Bar
+108553|Lough Erne Resort
+108561|Lumley Castle
+108571|Macdonald Portal Golf & Spa
+108583|Makeney Hall, Derby
+108590|Malmaison Birmingham
+108591|Malmaison Leeds
+108592|Malmaison London
+108593|Malmaison Manchester
+108594|Malmaison Newcastle
+108616|Maranton House
+108645|Marriott Bexleyheath
+108647|Marriott Cheshunt
+108659|Forest of Arden, A Marriott Hotel & Country Club
+108663|Marriott Heathrow Windsor
+108664|Marriott Hollins Hall & Country Club
+108671|Marriott Leicester
+108673|Marriott London County Hall
+108674|Marriott London Kensington
+108676|Marriott Manchester Worsley Park & Country Club
+108678|Marriott Northampton
+108687|Marriott Sunderland
+108688|Marriott Swansea
+108689|Marriott Swindon
+108692|Marriott Tudor Park & Country Club
+108694|Marriott Waltham Abbey
+109050|Midland
+109142|Best Western Montague Hotel
+109166|Moonfleet Manor
+109199|Nailcote Hall Hotel, Golf & Country Club
+109236|New Steine
+109273|Norfolk Royale
+109275|North Lakes and Spa
+109328|Novotel Ipswich Centre
+109331|Holiday Inn Hemel Hempstead
+109344|Novotel London Heathrow Airport
+109382|Novotel Reading Centre
+109396|Novotel Sheffield
+109398|Novotel Stevenage
+109415|Nunsmere Hall
+109417|Nutfield Priory
+109418|Oakley Hall
+109419|Best Western Oaks
+109432|Oatlands Park
+109465|Old Parsonage
+109466|Old Racecourse
+109469|Old Trafford Lodge
+109474|Olinda Guest House
+109478|Olivers Lodge
+109618|Pendley Manor
+109692|Portobello
+109705|The Postbox by Bridgestreet
+109713|Premier Apartments Birmingham
+109723|Priest House
+109756|Holiday Inn Express Braintree
+109757|Purple Cambridge
+109775|Quality Andover
+109788|Mercure Chester North Woodhey House
+109800|Quality Dudley
+109814|Mercure Hatfield Oak
+109815|Holiday Inn Express London - Heathrow T5
+109866|Quality Leeds Selby Fork
+109868|The Link
+109873|Mercure Milton Keynes Abbey Hill
+109883|The Southcrest Manor Hotel & Spa
+109897|Mercure Royal
+109904|Quality St. Albans
+109906|Mercure Stafford South Hatherton House
+109920|Holiday Inn Walsall M6, Jct.10
+109922|Ramada Warwick Hotel & Conference Centre
+109924|Quality Wembley
+109933|Queens
+109987|Quorn Country
+109991|Radisson Blu Birmingham
+109994|Radstock
+109998|Ramada Birmingham Sutton Coldfield
+109999|Mercure Kidderminster
+110002|Mercure Bolton West
+110006|Quality Colchester
+110008|Holiday Inn Express Crewe
+110011|Ramada Encore Bournemouth
+110016|Ramada Hatfield
+110017|Aubrey Park
+110022|Mercure Burton Upon Trent Newton Park
+110024|Quality Hotel Peterborough
+110031|Ramada Solihull Birmingham
+110038|Mercure Wetherby
+110052|Red Lion
+110056|Redwings Lodge
+110059|Regency Park
+110060|The Regent Hotel
+110086|Relish
+110107|Rendezvous Classic
+110316|Rodney
+110345|Rookery Hall
+110629|Royal Chace
+110631|Royal Exeter
+110647|Rufflets Country House
+110650|The Runnymede On Thames
+110654|Russ Hill
+110658|Rutland
+110672|Best Western Hotel St Pierre
+110682|Salutation
+110739|Savoy Court
+110748|Britannia Scarisbrick
+110764|Holiday Inn Darlington A1 Scotch Corner
+110785|Sefton
+110822|Shendish Manor & Golf Club
+110857|Skene House Holburn
+110874|Snooty Fox
+110931|Solent and Spa
+110953|Sopwell House
+110958|Soughton Hall
+110959|South Crest
+110960|South Lodge
+110968|Speedbird Inn
+110981|Springfield London
+110985|St Leonards Hotel
+110987|The St. James, Grimsby
+110998|Stanneylands
+111017|Gilson
+111023|Stratford Manor
+111024|The Stratford
+111047|Summer Lodge Country House
+111089|Swinton Park
+111141|Tewin Bury Farm
+111149|The Angel Posting House and Livery
+111159|The Bridge Greenford
+111164|The Cairn
+111166|The Carlton
+111167|Brook Chimney House
+111173|The Cross Hands
+111178|The Edward
+111179|The Ely
+111182|The Fowey Hotel
+111186|The Grand
+111190|Sporting Lodge Inns Greyhound
+111193|The Haycock
+111198|The Ickworth
+111204|The Kingsway
+111210|The Lister Mansion
+111211|The Lonsdale
+111219|Nira Caledonia
+111229|Best Western Peacock Hotel
+111232|The Place Apartment
+111237|The Queensberry
+111241|The Rising Sun
+111244|The Rivenhall
+111245|The Rookery
+111249|The Royal
+111250|The Royal Harbour
+111265|The Trouville
+111267|The Waterfront Lodge
+111274|The White Hart
+111275|The White Horse
+111277|The Legacy Woodhall Spa
+111279|The Zetter
+111283|Threadneedles, The City?s Boutique
+111363|Travelodge Glasgow Braehead
+111369|Travelodge Manchester Central
+111388|The Tudor Rose
+111389|Tufton Arms
+111437|Una
+111457|Vale Golf & Spa Resort
+111481|Great Victoria
+111572|De Vere Village Urban Resort Hull
+111591|Vincent
+111628|Washington
+111644|Wessex
+111645|Wessex Royale
+111649|Westwood Country
+111659|Best Western Plus Windmill Village Golf & Leisure Club
+111666|Wood Hall Hotel & Spa
+111667|The Wood Norton
+111669|Woodlands Park
+111672|Woolley Grange
+111683|Wyck Hill House
+111700|Ye Olde Station
+111779|Hall Garth Corus
+111784|Coombe Abbey
+111789|Gomersal Park
+111801|Noel Arms Classic
+111833|Marriott Executive Apartments London West India Quay
+111836|Ramside Hall Classic
+111841|St. George
+111861|New Hall
+111862|The Old Golf House
+111863|Best Western Old Mill Hotel & Leisure Club
+116997|Frithwood House
+121501|Holiday Inn Express London - Swiss Cottage
+121534|The George
+121543|Copthorne Merry Hill Dudley
+122362|Burnham Beeches
+122363|The Chace
+122364|Risley Hall
+122365|Ramada Da Vinci's
+122371|Kings Park
+122372|Manners Arms
+122375|The Imperial Crown
+122377|Bewleys Leeds
+122558|Best Western The Cromwell
+122559|Astors
+122562|Brook Whipper-In
+122563|The Leopold
+122564|Corus The Regency
+122565|Laura Ashley The Manor Hotel
+122566|The George Of Stamford
+125228|Beaufort Knightsbridge
+125229|Melita House
+125233|Airways Victoria
+125234|Days Inn Hyde Park
+125236|Stay Inn Manchester
+126874|Devonshire House
+128862|Malmaison Glasgow
+128896|Hyde Park Suites
+129472|Inn On The Prom Boutique
+129474|Stuart
+129475|Campanile Glasgow Airport
+129477|Rennie Mackintosh
+129478|Days Inn Haverhill
+129484|Hotel Megaro
+129485|Park Grand London Kensington
+129487|Fifty Four Boutique
+129488|Colliers
+131211|Crown
+131212|Armagh City
+131213|Royal Berkshire
+131214|Holiday Inn Ashford - North A20
+131218|The Hampshire Court Hotel
+131224|Menzies Strathallan
+131228|Holiday Inn Express Birmingham - Star City
+131234|Claremont
+131242|Cliffs
+131244|Best Western Carlton
+131246|Collingwood
+131248|Hermitage
+131249|Queens
+131250|West Beach
+131252|Drakes
+131253|Aztec Hotel And Spa
+131255|Quality Bury St Edmunds
+131256|Menzies Cambridge Hotel & Golf Club
+131257|Ml Lodge
+131258|Sandringham
+131259|Ramada Encore
+131261|Marriott St. Pierre Golf & Country Club
+131265|Quay Spa
+131266|Allesley
+131271|The Waterloo Hotel
+131273|Days Derby
+131277|Mercure Burford Bridge
+131278|Cairndale
+131280|Ashdown Park Hotel & Country Club
+131288|Lions Albany
+131289|Lions Mansion
+131292|The Boreland Lodge
+131293|Euro Hostel Edinburgh Halls
+131295|MacDonald Inchyra Grange
+131296|Southcliff
+131297|Royal
+131298|Gatwick Belmont
+131300|Crowne Plaza London - Gatwick Airport
+131301|Acorn
+131302|Kelvingrove
+131303|Argyll Guest House
+131307|Daffodil Hotel
+131308|Comfort Hotel Great Yarmouth
+131309|Mckever The Gables
+131313|Holiday Inn Express Hamilton
+131316|White Hart
+131319|Continental
+131320|Osterley Park
+131321|Arora Park Heathrow
+131325|Cisswood House
+131327|Marriott
+131328|Waterside
+131329|Loch Ness Clansman
+131330|Holiday Inn Ipswich-Orwell
+131331|Stonecross Manor
+131333|Quality King's Lynn
+131334|Windlestrae
+131336|Roomzzz - Leeds City West
+131337|Discovery Inn
+131341|Holiday Inn Express Leicester - Walkers Stadium
+131343|Holiday Inn Lincoln
+131345|Sir Thomas
+131347|Park
+131356|Stradey Park
+131357|Hand
+131360|Sanctum
+131361|The Villa Kensington Hotel
+131363|Corbigoe
+131364|Forest Gate
+131366|My Place
+131368|Blue Bells
+131373|Leonard
+131374|The Central
+131376|Adare
+131377|King Solomon
+131378|Viking
+131379|The Brent
+131383|Corner House
+131385|The Nadler Kensington
+131386|Elysees
+131390|Mowbray Court
+131391|Premier West
+131393|The Pembury London
+131396|Beaconsfield
+131397|Sundial Court
+131399|Fitzroy
+131400|The Arch London
+131402|New Dome
+131403|Cardiff
+131404|Somerset
+131405|Guilford House
+131406|Shelton
+131407|Park Hotel
+131411|Enrico
+131412|Hourglass
+131415|Hyde Park Executive
+131418|Carlton
+131419|Belgrave
+131427|Ramada London North M1
+131429|Ibis Wembley
+131431|London Tower Bridge Hotel
+131434|Best Western The Webbington
+131440|Holiday Inn Maidstone - Sevenoaks
+131441|Abode
+131443|Lansdowne
+131445|Chancellors Hotel & Conference
+131446|Castlefield
+131448|De Vere Venues Cheadle House
+131449|Pendulum Hotel
+131450|Weston Hall
+131453|Novotel Milton Keynes
+131457|Whites
+131458|Grey Street
+131459|Premier Inn Newcastle (Team Valley)
+131461|Victoria
+131464|Holiday Inn
+131466|Holiday Inn Northampton West M1, Jct 16
+131467|Holiday Inn Express Northampton M1, Jct. 15
+131468|Mercure Norwich
+131470|Maids Head
+131472|Royal
+131473|Peterborough Marriott Hotel
+131480|Parkside International
+131481|Holiday Inn West
+131482|Reading Lake
+131483|Rainbows Lodge
+131488|Holiday Inn Rotherham - Sheffield M1
+131490|Holiday Inn Leamington Spa - Warwick
+131491|Dunchurch Park
+131494|Metropole
+131495|Mercure St Paul's
+131496|Grosvenor House
+131497|Mercure Sheffield Parkway Hotel
+131498|Kenwood Hall
+131501|Lion
+131502|Holiday Inn Windsor
+131508|Stone House
+131509|Studley Castle
+131510|Glebe
+131511|Quality
+131513|Dragon
+131514|Menzies Swindon
+131515|Mercure Swindon South Marston Hotel & Spa
+131516|Madison Hotel
+131522|Telford Hotel & Golf Resort
+131524|The Richmond Arms Hotel
+131527|Mercure Tunbridge Wells
+131528|Ramada Wakefield
+131529|George
+131530|Park Inn by Radisson Birmingham Walsall
+131531|The Park Royal Cheshire
+131532|Mercure London Watford
+131536|Damson Dene
+131537|Hydro
+131539|Mount
+131542|Ramada Plaza
+134154|The Cairn
+134201|Dylan Kensington
+134203|Premier Inn Heathrow Airport
+134206|Holiday Inn Newport
+134317|Saint Judes Boutique
+134318|Marlin Apartment Limehouse
+134319|Ashley
+134320|Premier Inn Ayr A77/Racecourse
+134790|The Big Sleep
+134812|Comfort Inn Edgware Road
+134854|Henley House
+134858|Holgate Hill
+134885|St George's
+134924|Mercure Elcot Park
+134938|Rockwell
+134956|Storrs Hall
+134973|Brook Westfield House
+135537|Best Western Henbury Lodge
+135538|Hillbark
+135592|Thistle The Original Edinburgh
+135604|The Metropole Hotel
+135664|Novotel London Paddington
+136274|The Fitzwilliam
+136342|Glyn-y-Coed
+136343|Swan at Hay
+136356|Coire Glas Guest House
+136358|An Struan
+136361|Les Charrières Country Hotel - geschlossen
+136362|The Stafford
+136509|SO Quartier
+136510|Ibis Luton Airport
+136511|Premier Inn London Elstree / Borehamwood
+136512|Sofitel London Heathrow
+136514|Weem - geschlossen
+136515|Burnhouse Manor
+136516|Dundee Strathmore Avenue
+136517|Liverpool City Waterloo Quay Apartments
+136519|Apex Waterloo Place
+136617|Porth Veor Manor
+136700|Quies
+136729|Beaumont Estate
+136807|The Birmingham
+136831|The Monterey
+137215|Hyde Park
+137293|Dukes
+137310|So Sienna
+137392|Holland Inn
+137422|Crowne Plaza City Centre
+137591|Wild Pheasant
+137603|Buxted Park
+137636|Holiday Inn Norwich City
+137832|Menzies Prince Regent
+138008|pentahotel Reading
+138103|Premier Inn Manchester Airport Runger Lane South
+138109|Chilston Park
+138163|Norton Park
+138339|Avni Kensington
+138850|Days Inn Telford Ironbridge M54
+139122|Myhotel Brighton
+141650|Crown & Cushion
+141651|Comfort Inn Chester
+141652|Travelodge Southwark
+142227|The Greenland Villa
+142416|Windsor
+142419|The North Euston
+142560|Four Seasons (Gloucester Place)
+142625|Best Western Queens
+142661|Ye Olde Belle
+142759|Ballathie Sportsmans Lodge
+143417|Thistle Cardiff City Centre The Parc
+143817|Le Boat Laggan
+145157|Dreamhouse Apartments City North
+145161|Nitenite Cityhotel
+145162|Winford Manor
+145164|East Midlands Lodge
+145165|41 Hotel
+145166|Dreamhouse Apartments Merchant City
+145167|Skeabost Country House
+145168|Middlethorpe Hall & Spa
+145169|Stop Inn
+145170|Formby Hall Golf Resort & Spa
+145171|Loch Melfort
+145172|Jurys Inn Sheffield
+145173|Jurys Inn Watford
+145176|Ramada Hounslow - Heathrow East
+145179|Premier Inn Gatwick Airport South
+145180|Radisson Blu Edwardian Leicester Square Hotel
+145181|Shandon House
+157719|Lainston House
+157720|East Sussex National Golf Resort & Spa
+157724|Duke Inn
+157726|The Grange
+157733|Waverley House
+157735|The White Hart
+157736|Belmont Thorne
+157741|Owston Hall Doncaster
+157746|Hotel du Vin Harrogate
+157747|Park Grand London Paddington
+157749|Hotel du Vin Brighton
+157751|Haymarket
+157753|Simonburn Tearooms
+157755|The Winchester
+157759|Denewood Hotel
+157760|Mercure George Reading
+157762|The Hatton Hotel
+157766|Grange St. Paul's
+157769|Tudor Court
+157770|Vegas
+157771|Lindum
+157774|La Gaffe
+157775|St. Georges Victoria
+157776|Pacific
+157780|The White House
+157798|The Briary
+157803|Barry House
+157806|Southampton Park
+157807|Ventures
+157810|Gullivers
+157811|Staunton
+157812|Beech Mount Executive Accommodation
+157813|The Oasis Guest House
+157815|Cheval Harrington Court
+157816|Commercial Hotel
+157817|The Firs Guest House
+157820|Royal Sportsman
+157822|Best Western Braid Hills
+157825|Stonecroft Hotel
+157826|Ashbourne House
+157828|Regency Court
+157830|Stanwell House Hotel
+157831|Windermere
+157832|Travelodge Southampton
+157837|Charlotte Street Hotel
+157838|Sara
+157841|Hilton Chambers
+157842|Best Western Popinjay
+157848|The Bear
+157851|Knightsbridge Green London
+157852|Ibis Nottingham Centre
+157855|The Royal Crescent Hotel & Spa
+157856|Cathedral Quarter
+157860|Central Guesthouse
+157866|Think Tower Bridge
+157867|The New Beehive Inn
+157873|The Stanwell Heathrow
+157874|Egerton House
+157882|Harpenden House
+157884|Go Native Earls Court
+157885|Westcliff
+157886|The York
+157887|Dreamhouse Abercromby Edinburgh
+157889|Valentine City Centre Guest House
+157898|Ibis London Stratford
+157901|The Danebury
+157905|The Bridge House
+157908|Long Island Exchange
+157909|The Colonnade
+157912|Ingledene Guest House
+157913|Zeus
+157915|Kings Arms
+157918|Abingdon Lodge
+157921|Bell Inn
+157923|Staybridge Suites Liverpool
+157929|Saracens Head
+157930|Draycott
+157932|Travelodge Manchester Ancoats
+157935|Wigmore Court
+157937|The Grosvenor
+157940|Crossways Guest House
+157942|Travelodge Birmingham Central
+157944|The New Ellington
+157946|Tophams
+157948|Adamo - Bridge of Allan
+157950|Hadleigh
+157952|Beauchamp
+157954|Ibis Reading Centre
+157957|Travelodge Liverpool Central
+157964|McLays Guest House
+157967|Crown Lodge Guest House
+157970|Ibis Liverpool Centre Albert Dock Hotel
+157973|Infield Hotel
+157975|The Levin
+157990|San Domenico House
+157992|Travelodge Sheffield Meadowhall
+157994|Pitreavie Guest House
+157996|Hedley House Hotel
+157998|Ibis London Euston St Pancras
+157999|Villiers
+158003|Days Hotel Bournemouth
+158005|The Kings Arms
+158008|Citadines St Mark's London
+158009|Knavesmire Manor
+158012|The Quarters Watford
+158013|The Feathers
+158015|Aston Apartments London
+158019|Park Hotel Illford
+158021|The Portland
+158029|Crescent
+158038|Eccleston Square London
+158040|Nottingham Place Hotel
+158041|The Mad Hatter
+158042|Chelsea Guest House
+158044|The Hotel UK
+158045|Salterns Harbourside
+158046|Lord Kensington
+158049|Seamill Hydro & Resort
+158050|The Bridge
+158053|The Green House
+158055|White House
+158058|Best Western The Connaught
+158067|Stockwood
+158068|42 The Calls
+158071|Travelodge Bournemouth
+158072|Meridiana
+158075|The Salisbury
+158077|Chester House
+158078|The Kenilworth
+158079|Amblehurst
+158080|The Old Vicarage
+158085|The Swan
+158089|Grand Residences by Marriott - Mayfair-London - 47 Park Street
+158091|Trelawney
+158092|Quality Reading
+158093|Marble Arch Inn
+158094|Crompton Guest House
+158102|The Cotford
+158105|The Somerville
+158107|Brighton House
+158108|Belvedere
+158111|Ely House
+158112|Brentwood Guest House
+158113|Avalon
+158117|Mentone
+158119|Gloucester Place
+158120|The Legacy White Hart
+158122|Holiday Inn Express Burnley
+158123|Ibis Birmingham Holloway Circus
+158133|Holiday Inn Express London - Golders Green North
+158137|Lomond
+158145|Beech House
+158154|New Northumbria
+158155|Dial House
+158156|Umi Brighton
+158159|The Churchill
+158172|Notting Hill Gate
+158174|St Andrews
+158175|The Amsterdam
+158178|The Corner House
+158180|Ramada Portrush
+158182|The Crown Inn
+158183|Cavendish
+158184|St Rita
+158187|The Metropolis London Hyde Park
+158189|Kantara Guest House
+158190|The Kings Head
+158192|Chester Brooklands B&B
+158194|Glasgow Youth Hostel
+158195|Park View
+158197|Browns
+158208|The Georgian
+158211|Hotel du Vin York
+158212|Oaklands
+158213|Edinburgh Central Youth Hostel
+158214|The Oriental
+158217|Dean Park
+158221|Ilfracombe House
+158225|Ibis Manchester Centre Portland Street
+158226|Normandie
+158227|Ramada Birmingham Oldbury
+158228|Travelodge Leeds Central Vicar Lane
+158229|The George in Rye
+158242|Travelodge Cambridge Fourwentways
+158318|Travel Plaza
+158322|Travelodge York Tadcaster
+158328|Travelodge Dundee
+158331|The Abbey
+158333|Pitbauchlie House
+158334|Penrallt Classic
+158335|Apollo Basingstoke
+158337|Hotel du Vin Newcastle
+158338|Ibis Birmingham Airport
+158340|Travelodge Bristol Central
+158342|Holiday Inn Express Leigh - Sports Village
+158343|Aveland House
+158344|Ibis Bristol Temple Meads Quay
+158345|Christchurch Harbour
+158346|Shawlands
+158348|French Horn
+158350|Ansteys Lea
+158354|The Roebuck
+158355|Best Western Balgeddie House
+158358|Holiday Inn Barnsley M1, JCT.37
+158359|Hare & Hounds
+158361|Doubletree Aberdeen City Centre
+158362|Cathedral Lodge
+158363|The Beaufort
+158364|Beamish Park
+158368|Manian Lodge
+158369|Riverdale Hall
+158373|Taplow House
+158374|Bibury Court
+158376|The Cedars Inn
+158378|Travelodge Stratford Upon Avon
+158383|Travelodge Leeds Central
+158386|The Sheffield Metropolitan
+158390|Plas Dinas Country House
+158395|The Hollies
+158399|Brandshatch Place
+158401|The Dark Barn Cottages & Lodge
+158403|Wherry
+158405|Rothwell House
+158409|Ringwood Hall
+158411|The Knighton
+158420|Farm House
+158424|Prince Rupert Classic
+158426|Hilton Garden Inn Luton North
+158428|The Holly Tree
+158430|Travelodge Heathrow Terminal 5 (T5)
+158434|Carberry Tower
+158435|Travelodge Cardiff Atlantic Wharf
+158436|The Nare
+158437|Falcon
+158440|Travelodge Inverness Fairways
+158441|Elva Lodge
+158443|Thornbury Castle
+158444|Castle Hotel
+158445|Ruthin Castle Classic
+158446|Hilton Templepatrick & Country Club
+158450|The Cedars
+158452|The Grove
+158455|Best Western Plus Centurion Hotel
+158458|Travelodge Stansted Great Dunmow
+158459|DoubleTree by Hilton Hotel Sheffield Park
+158467|Ibis Cardiff
+158469|Fownes
+158477|Champneys Henlow
+158479|West Lodge Park
+158482|Celtic Manor Resort - The Resort / The Manor House
+158486|Jarvis Cooden Beach
+158487|Marsh Farm
+158488|Spread Eagle
+158495|Best Western West Grange
+158497|Holly Trees
+158506|Ibis Stevenage Centre
+158509|Campanile Swindon
+158510|Cedar Court Wakefield
+158511|Best Western Everglades Park
+158512|Travelodge Plymouth
+158517|Witney Four Pillars
+158519|Holiday Inn Express Cheltenham Town Centre
+158520|Dunsley Hall Country House
+158522|Alexander House & Utopia Spa
+158523|White Hart
+158525|Bannatyne Durham
+158531|Albright Hussey Manor
+158532|Whitley Hall
+158535|Holiday Inn Express Bedford
+158536|Ibis London Elstree Borehamwood
+158539|Ryde Castle
+158540|Crown Spa
+158541|De Vere Venues Hunton Park
+158544|Ibis Swansea
+158551|Ramada Encore Doncaster Airport
+158556|St Michaels Manor
+158561|Ramada Telford Ironbridge
+158562|Travelodge Newcastle Central
+158564|De Vere Venues Uplands House
+158566|Radisson Blu Durham
+158568|Fraser Suites
+158571|The Gibside
+158574|Champneys Springs Health Resorts
+158576|Ibis Preston North
+158580|Best Western Cutlers
+158582|Yenton
+158586|Moreton Park Hotel
+158592|De Vere Venues Wokefield Park
+158597|DoubleTree Cambridge
+158602|Smiths at Gretna Green
+158604|Wotton House
+158609|Anacapri
+158614|Star
+158615|The Bull
+158618|Elizabeth Orwell
+158619|Casa dei Cesari
+158620|Champneys Forest Mere Health
+158633|Brook Meadow
+158635|The Lordleaze
+158636|The Manor
+158637|The Red Lion
+158640|Park Farm
+158641|Park Inn by Radisson Thurrock
+158649|The Manor House Hotel
+158650|Georgian House
+158654|Hunting Lodge
+158656|The Fountain Inn
+158659|Castle and Ball
+158660|De Vere Venues New Place
+158661|Lyndhurst Park
+158662|Bellplot House
+158663|Wainstones
+158665|Swan
+158666|Feversham Arms
+158667|Cromwell
+158670|Ibis London East Barking
+158672|Highfield House
+158673|Rye Lodge
+158674|Branksome Place
+158675|Hintlesham Hall
+158678|Barnham Broom
+158679|De Vere Venues Gorse Hill
+158690|Travelodge Cardiff Central
+158692|Scole Inn
+158697|Jesmond Dene House
+158703|Days Inn Corley NEC M6
+158709|Kettering Park & Spa
+158710|Holiday Inn Birmingham-Bromsgrove
+158711|The Bell
+158712|Sampson Barton Guest House South Molton
+158719|Toravaig House
+158720|Elstead Classic
+158724|Ibis Birmingham City Centre
+158725|Cotswold Water Park
+158729|Bell at Boxford
+158730|Travelodge Slough
+158732|Holiday Inn Express London-Epsom Downs
+158733|Langshott Manor
+158735|De Vere Venues Latimer Place
+158736|Rudloe Hall
+158737|The Legacy Preston International
+158740|Letchworth Hall
+158741|Lewtrenchard Manor
+158743|The Parkcity Kensington
+158744|De Vere Venues Theobalds Park
+158749|Humber Royal
+158750|Seiont Manor
+158752|Ramada Encore Derby
+158753|Marygreen Manor
+158758|Fines Bayliwick Country House
+158759|Ibis London Gatwick Airport
+158760|Felbridge
+158761|The Highwayman at Dunstable
+158763|Hempstead House
+158766|Longhirst Hall Golf & Spa - geschlossen
+158783|New Park Manor Spa & Equestrian Center
+158785|Careys Manor & SenSpa
+158786|Weathervane
+158800|Fox Country Inn
+158806|The Old Hall
+158807|The Worlds End
+158811|Beansheaf
+158814|Cottons
+158815|The Altrincham Lodge
+158817|Eastwood Hall
+158818|Mar Hall & Spa
+158820|Shore View
+158821|St Winifreds
+158829|The Kings Arms
+158831|The Fieldhead - Markfield
+158839|Old Manse
+158842|Ibis Coventry Centre
+158847|Holiday Inn Express Slough
+158848|De Vere Venues Milton Hill House
+158850|Ibis Rotherham
+158851|Lion Quays
+158870|Travelodge Nottingham EM Airport Donington Park M1
+158889|The Spa
+158894|Travelodge Nottingham Central
+158898|Newby Bridge
+158900|De Vere Venues Ponsbourne Park
+158901|Manor House
+158905|No. 5 Maddox Street
+158908|The Bridge Inn
+158911|Green Farm
+158914|The Langstone
+158916|Club Quarters Trafalgar Square
+158917|The White Horse Inn
+158924|The Wee Waif
+158928|Chequers
+158930|Royal York - geschlossen
+158932|Ramada Birmingham North Cannock
+158936|The Bull
+158938|Bryn Melyn
+158941|Best Western Park Hall Hotel
+158943|The Park Lodge
+158946|Ibis Rugby East
+158948|Patshull Park
+158949|Dartmoor Lodge
+158954|Ramada Encore Haydock
+158956|Sedgebrook Hall
+158957|Cotswold Grange
+158961|Polurrian Bay Hotel
+158965|Glen-Yr-Afon House
+158966|Latchmead
+158970|Powdermills
+158977|Travelodge Swansea Central
+158978|Ramada Plaza Southport
+158979|Travelodge Derby Pride Park
+158982|Ibis Bradford Shipley
+158984|The Dolby Liverpool
+158989|Raven Hall Country House
+158990|The Thames
+158992|Cornwallis
+158993|Red Lion Basingstoke
+158997|Rhinefield House
+158999|Richmond Hill
+159000|Richmond Gate
+159001|Travelodge Taunton
+159006|Rookwood Farmhouse B&B
+159009|Sandpiper Guesthouse
+159011|Ibis Lincoln
+159012|Travelodge Manchester Airport
+159014|The Queens Head
+159023|Scalford Hall
+159024|De Vere Venues The Mill & Old Swan
+159027|The Waters Edge
+159028|Travelodge Blackpool South Shore
+159029|Days Inn Sedgemoor M5
+159038|Park Inn by Radisson Northampton
+159042|Ibis Northampton Centre
+159048|Bannatyne Darlington
+159051|Pelham House
+159056|Ibis Leicester
+159060|Travelodge Scarborough St Nicholas Hotel
+159061|Marmadukes Classic
+159063|The Stafford London by Kempinski
+159068|Stanhill Court
+159070|Stapleford Park
+159071|Sleeperz
+159072|Great Northern
+159078|Malmaison Reading
+159079|The Raven
+159083|Drayton Lodge
+159086|The Wordsworth
+159089|The Olympic Lodge
+159094|Hilton Liverpool
+159097|Great Fosters
+159098|The George
+159101|Best Western Plus Henley Hotel
+159102|The Grovefield House
+159106|Park Inn by Radisson Peterborough Hotel
+159107|Holiday Inn Express Walsall M6, Jct. 10
+159109|Stanton House
+159113|Antoinette Wimbledon
+159114|London Tower Bridge Apartments
+159119|Manor House
+159124|Premier Apartments Manchester
+159125|Langdale Classic & Country Club
+159126|Luton Hoo Golf & Spa
+159127|Travelodge The Regent
+159134|De Vere Venues Warbrook House
+159136|Manor
+159139|Marwell
+159140|Thornbank Guest House
+159141|Premier Apartments Newcastle
+159142|De Vere Venues Harben (Near Milton Keynes)
+159144|De Vere Venues Denham Grove
+159145|Best Western Burn Hall
+159149|The Idle Rocks
+159153|The Millers
+159160|The Springs & Golf Club
+159161|The Legacy Mill Hotel
+159162|The Bridge
+159164|Trehellas House Hotel & Restaurant
+159166|Days Inn Membury M4
+159167|Days Inn Sheffield M1
+159168|Days Inn Leicester Forest East M1
+159169|Days Inn Michaelwood
+159170|Days Inn Abington M74
+159174|Ibis Southampton Centre
+159177|Merchants Manor
+159179|The Rothley Court
+159180|Ibis London Thurrock
+159181|Hawkstone Park
+159182|The Pinewood
+159186|Alexandra House
+159187|Whittlebury Hall & Spa
+159188|Tracy Park Hotel & Country Club
+159189|Champneys Tring
+159191|Downsview Guest House
+159192|Malmaison Liverpool
+159204|Seafield Lodge
+159206|Marriott Sprowston Manor & Country Club
+159207|The Roebuck
+159208|De Vere Venues Wychwood Park
+159209|The Glen
+159211|Angmering Manor
+159215|Regent by the Lake
+159218|City Nites
+159484|The Royal
+159485|Roscoe House By Urban Chic
+159487|Yanns At Glenearn House
+159490|Go Native Bermondsey Street
+159494|The Manor House Golf Club
+182265|Hotel 24seven - geschlossen
+182266|Best Western London Highbury
+182267|Jurys Inn Derby
+182268|Park Lane Mayfair
+182269|Greyfriars
+182271|Methuen Arms
+182528|Kilspindie House
+182533|SACO Bristol Broad Quay
+182534|MAX Meridian Terrace Cardiff
+182536|The Bermondsey Square
+182999|Campanile Northampton
+183000|Copthorne Sheffield
+183481|G&V Royal Mile Hotel
+183483|Sky Plaza - geschlossen
+183484|Holiday Inn Express London - Watford Junction
+183485|Apartments Edinburgh
+183488|Malmaison Belfast
+183489|Park Inn by Radisson Belfast Hotel
+183490|Croham
+183491|Radisson Blu Bristol
+183494|Doubletree Leeds City Centre
+184155|Eskdale
+185032|Allerdale Court
+185033|The Teesdale
+185040|The Greyhound Coaching Inn
+185155|Headlands
+185162|Dragon
+187188|Best Western Broadfield Park
+187191|Carlton Park
+187198|Days Inn Fleet M3
+187200|Eleven Didsbury Park
+187201|Skylark Hotel & Conference Center
+187203|Premier Inn Gatwick Airport Central
+187204|Georgian House
+187205|Great John Street
+187212|Kings
+187216|Manor of Groves Hotel, Golf & Country Club
+187220|Max at Reading Number 18 Serviced Apartments
+187231|Sir Christopher Wren Hotel & Spa
+187247|Thorpe Park
+187257|De Vere Village Urban Resort Maidstone
+187258|De Vere Village Urban Resort Swansea
+187259|De Vere Village Urban Resort Birmingham Walsall
+187264|Didsbury House
+187881|Apex London Wall
+187915|Days Inn Cambridge
+187922|Edinburgh House
+187937|Headland
+187939|Holiday Inn Express Lincoln City Centre
+187944|Jurys Inn Exeter
+187945|Jurys Inn Swindon
+187966|Peckham Lodge
+187971|Radisson Blu Cardiff
+187978|Royal London Hotel
+187994|The Rougemont
+188069|Swan
+188077|De Vere Village Urban Resort Leeds South
+188078|De Vere Village Urban Resort Farnborough
+188079|De Vere Village Urban Resort Manchester Ashton
+188080|De Vere Village Urban Resort London Elstree
+188130|Cove Bay
+188131|Jurys Inn Aberdeen
+188132|Red Lion
+188133|Cromwell Lodge
+188134|Ibis Belfast City Centre
+188135|The Kings Head
+188136|The Antelope Inn
+188137|Coed-Y-Mwstwr
+188138|The Lamb
+188139|The George
+188140|The White Hart
+188141|Princes Street Suites
+188142|Blythswood Square
+188143|Royal George Birdlip
+188144|The Trebovir
+188145|The Cock
+188146|North Beach
+188147|The Red Lion Inn
+188148|Holiday Inn Stevenage
+188149|Sun
+188151|Bell
+188152|Ye Olde Talbot
+195971|Holiday Inn Express Tamworth
+195972|The Bear Cowbridge
+195973|Best Western Maitrise Hotel
+195977|Lands of Loyal
+195978|Max Glasgow Centrale Serviced Apartments
+195981|Premier Inn Manchester Airport Runger Lane North
+196068|Branston Hall
+196069|Whitewater Spa & Leisure Club
+197154|H10 London Waterloo
+197243|Days Inn Bishops Stortford M11
+201578|Park Plaza Westminster Bridge
+201614|Mercure Altrincham Bowdon
+201657|Marlin Aldgate City East
+201658|Pavilion View
+201659|Westone Manor
+201842|Cityroomz Edinburgh
+202066|John Fowler Holiday Park
+202067|Great Engeham Cottages
+202373|Llanerch Vineyard
+202374|Lanteglos Country House
+202690|Craibstone Suites
+202691|The Legacy Cardiff International
+202692|Three Swans
+202693|The Chester Residence
+202694|The Uplawmoor
+202697|Marriott Twickenham
+202699|Dolphin Inn
+202702|Nelson Hotel Great Yarmouth
+202703|Prestwick Old Course
+202704|Latitude Apartments
+203108|Travelodge Edinburgh Airport
+203109|Travelodge Edinburgh Cameron Toll
+203111|St Mellion International Resort
+203112|Ossian Inn
+203113|Bridgestreet at Liverpool One
+203129|Du Vin Edinburgh
+203140|Priory
+203141|Brighton Pavilions
+203142|Paskins
+203146|Great House
+203152|Ty'n Rhos
+203153|Sychnant Pass House
+203641|146 Suites
+203649|198 Suites
+203656|274 Suites
+203658|291 Suites
+203664|39 Suites
+203736|Aachen
+203795|Abbeyfield
+203798|Abbington
+203816|The Abington Hotel
+203833|Access Apartments City
+203834|Access Apartments Marble Arch
+203851|Acorn Guest House
+203855|Acorns Guest House
+203860|Comfotel Blu
+203880|Adelphi Private
+203907|Adria
+203999|A-Haven Townhouse
+204013|Ailsa Craig
+204115|Alba Lodge
+204284|Alexandra & Victoria
+204309|Alhambra
+204400|Alpha Milton Guest House
+204511|Ambassador
+204533|Amherst Guest House
+204564|Anand Lodge
+204601|Angel House
+205080|Apple Tree Hotel
+205095|Aquae Sulis - B&B
+205162|Arden House
+205163|Arden House
+205202|Arinza Apartments
+205222|Armathwaite Hall Hotel
+205232|Aros Ard Bed & Breakfast
+205234|Arrandale Hotel & Apartments
+205275|Artist Residence
+205295|Ascot House
+205300|Ash House Country Hotel
+205304|Ashby's Boutique Hotel
+205312|Ashley House
+205316|Ashmira
+205320|Ashurst Lodge
+205324|Aslaich
+205328|Aspen Apartments
+205344|Conference Aston
+205365|At Home Ealing
+205397|Athol House
+205398|Atholl Arms
+205399|Atholl
+205411|Atlantic House
+205512|Auchterawe Country House
+205582|Avonmore Cartwright Gardens
+205595|Aynetree Guest House
+205598|Azalea Court
+205706|B&B Weymouth
+205711|Babbacombe Guest House
+205725|Badger Towers
+205740|Bahamas Hotel
+205763|Bakers Hotel - B&B
+205772|Balkan
+205829|Barcaldine House & Self-Catering Cottages
+205854|Barrington Lodge
+205860|Bartle Hall Hotel
+205862|Barton Cross Hotel
+205865|Cumberland Apartments
+205866|Base Serviced Apartments - Hudson Gardens
+205874|Batemans Mill
+205889|Bay Retreat Villas
+205901|Baylis House Hotel - Heathrow
+205997|Beech Mount Grove Suites
+206074|Belmore Court & Motel
+206102|Bentley Lodge Silver Award
+206103|Bentley Tower Hotel
+206154|Best Western Beachcroft Hotel
+206251|Blades - B&B
+206263|Bloomfield House
+206288|Fountain Court Apartments - Royal Garden
+206289|Blue Rainbow Aparthotel Manchester Central
+206344|Bonnington Hotel
+206368|Borough Arms Hotel
+206376|Boscundle Manor
+206385|Boston Court
+206421|Bowood Spa & Golf Resort
+206422|Bowood Park Golf Club
+206423|Boxmoor Lodge
+206439|Brambles Bed and Breakfast
+206440|Brambletye Hotel
+206445|Brampton Court Hotel
+206465|Breadalbane House Hotel
+206482|Brighton Breeze
+206488|Brisbane House
+206530|Brockenhurst Hotel
+206536|Brook Barn Country House - geschlossen
+206545|Brooklands
+206546|Brooklands Guest House
+206547|Brooklands Guest House
+206549|Brooks Guesthouse
+206550|Brookside Hotel
+206551|Broom Hall Country Hotel
+206552|Broome Park Golf & Country Club
+206568|Bryn Woodlands
+206585|Bude Haven
+206605|Bull Inn
+206633|Burton Villa Guest House
+206690|Cae Mor
+206728|Edgerton Guest House
+206730|Cambridge Lodge
+206804|Canal Court
+206870|Carlton Hotel
+206883|Carolina Guest House
+207062|Castle
+207063|Castle
+207064|Castle
+207074|Castle Studios Gloucester Rd
+207078|Castleton
+207079|Castletown House
+207091|Causeway Lodge
+207093|Cavalier House
+207106|Cecil House Hotel
+207109|Cedar Falls
+207145|Central
+207146|Central
+207150|Central Hotel
+207250|Charlies
+207298|Chequers Inn
+207438|City Lodge
+207440|City Lodge
+207452|City Stop Serviced Apartments Manchester
+207459|City Warehouse Apartments
+207461|City Wharf Apartments
+207470|Citystay
+207499|Claverton House
+207503|Cleehouse Hotel & Bistro
+207510|Best Western Cliff Head Hotel
+207524|Clovenfords
+207553|Cobham Lodge
+207561|Cocoon International Inn
+207589|Columba House
+207596|Columbus Hotel
+207597|Colwall Park
+207629|Commodore
+207767|Cosmopolitan 1
+207769|Cosmopolitan
+207786|Cotehele Lodge
+207819|Courtyard London Gatwick Airport
+207822|Coxley Vineyard
+207830|Craig Manor
+207831|Craigmoss guest house
+207832|Craig-y-Dderwen Riverside
+207833|Cranborne House
+207834|Cranleigh
+207845|Crescent Guest House
+207876|Crompton Court Apartments
+207877|Crompton House
+207901|The Craven
+207902|Croydon
+207907|Belle Cour Hotel
+207918|Cumberland
+207920|Cumbria Grand
+207937|Da Vinci Eastbourne
+208031|Days Inn Milton Keynes East M1
+208035|Days Inn Stevenage North
+208036|Days Inn Wetherby
+208173|Mercure Peebles Barony Castle
+208174|De Vere Venues Horsley Park
+208175|De Vere Venues Staverton Park
+208176|De Vere Venues Sunningdale Park
+208261|Dene House
+208308|Detling Coach House
+208311|Devonia
+208377|Dog House
+208390|Dolphin Bay Suites
+208465|Donnington Grove and Country Club
+208485|DoubleTree Milton Keynes
+208489|Cross Arms Hotel
+208494|Dover
+208581|Dukes At Queens
+208611|Durrants
+208626|Dylan Paddington
+208643|East Beach
+208644|East Cliff Cottage Hotel
+208648|Eastbourne Reymar
+208649|Eastbury Hotel
+208652|Eastleigh Hotel
+208700|Edinburgh Playhouse Apartments
+208784|Elements
+208823|Ellerbrook House
+208824|Ellerthwaite Lodge
+208831|Elmwood Hotel
+208839|Ely Guest House
+208883|Epchris House
+208929|Esplanade Hotel
+208970|Eurobar
+209000|Europa House Apartments
+209057|Executive Rooms London Kensington
+209081|Fairfield House
+209082|Fairfield House
+209083|Fairlawn House
+209086|Fairway Lodge
+209113|Farncombe Estate Centre
+209118|Farthings Country House
+209153|Featherstone Farm
+209168|Fenland Guest House
+209267|Firs Lodge
+209280|Five Kings Hotel
+209292|Flat 5
+209305|Flexistay Aparthotel
+209350|Best Western Forest Hills Hotel
+209362|Fortuna House
+209446|Future Inn Bristol
+209744|George & Falcon
+209745|The George & Pilgrims
+209747|The George Hotel, Amesbury
+209748|George Hotel
+209753|Georgian House
+209778|Gilpin Bridge Hotel & Inn
+209801|Glade End Guest House
+209817|Glendale Hyde Park
+209835|The Globe & Crown
+209836|Globe Hotel
+209924|Grainger Hotel
+210000|Grand Parade
+210004|Grand Royale London Hyde Park
+210009|The Grand Victorian
+210023|Grantly Hotel
+210024|Granville Lodge
+210036|Green Gables Hotel
+210060|The Greyhound Hotel Carshalton
+210069|Groarty House/Manor
+210077|Grosvenor
+210081|Grosvenor House
+210155|Guyers House Hotel & Restaurant
+210160|Gyllyngvase House
+210180|Hadley Park House
+210193|Halfway House Inn Country Lodge
+210197|Hallmark Hotel & Spa Bournemouth
+210212|Hampton by Hilton Corby
+210250|Hanover Hotel
+210265|Harbourlight Guest House
+210266|Harcourt Hotel
+210268|Harington's Hotel
+210278|Harrogate Boutique Apartments
+210294|Hastings House
+210296|Hatters Birmingham Hostel
+210297|Hatters Hostel Liverpool
+210357|Hawthorne Dene
+210361|Haytor Hotel
+210362|Hazel Wood Guesthouse
+210365|Hazelwood House
+210372|Heath Lodge
+210377|Heathrow Inn
+210386|Heights Hotel & Leisure Centre
+210422|Heritage Hotel
+210473|Highclere Hotel
+210475|The Highdown Hotel
+210476|Higher Faugan Parc
+210478|Highfield Guest House
+210483|Highland Inn
+210487|Highwaymans Bed & Breakfast
+210497|Hillingdon Prince
+210498|Hillthwaite House Hotel
+210500|Hillview Lodge
+210513|Hilton Reading
+210515|The Hind's Head
+210534|Hogarths
+210540|Holgate Bridge York
+210552|Holiday Inn Express Aberdeen Exhibition Centre
+210556|Holiday Inn Express Dundee
+210562|Holiday Inn Express Kettering
+210575|Holiday Inn Leeds Bradford
+210614|Holmwood House Hotel
+210629|Homelye Farm
+210653|Horse and Groom Hotel
+210655|Horton Grange
+210855|Hostel 639
+211466|Hot-el-apartments Edinburgh Waterfront
+211467|Hot-el-apartments Glasgow Central
+211573|Hubert House
+211584|Hunday Manor Country House Hotel
+211585|Hundith Hill Hotel
+211589|Hunters Hall Inn
+211592|Hunters Moon Guest House
+211607|Hydro Hotel
+211744|Inch Hotel
+211773|The Inn for All Seasons
+211817|Invergarry Guest House
+211819|Invernairne
+211871|Ivy House Country
+211936|Jewells Guest Accomodation
+211959|Journeys Kings Cross St.Pancras
+211961|Jubilee
+211991|Kaimes Guest House
+212068|Kemp Townhouse
+212075|Kenneth Mackenzie Suite
+212086|Keswick Hotel
+212103|Kildonan Lodge Hotel
+212117|Kings Arms
+212118|Kings Arms Hotel
+212119|Kings Arms Hotel
+212121|Kings Court Hotel
+212126|Kings Knoll
+212133|Kingsley Hotel
+212141|Kinmel Hotel Llandudno
+212157|TravelRest Bournemouth
+212643|Lamb & Lion Inn
+212644|The Corner House
+212649|Lampeter
+212735|Langham Apartments
+212745|Langtry Manor Hotel
+212796|Lattice Lodge Guest House
+213246|Staycity Serviced Apartments Liverpool
+213247|Leverdale
+213249|Lewinsdale Lodge
+213265|Liberty Apartments by Bridge Street Worldwide
+213268|Lichfield House
+213274|Lidos
+213296|Lincoln House
+213299|Linden Lodge
+213351|Llechwen Hall
+213356|Llwyn Hall
+213400|Milsoms Hotel & Loch Fyne Restaurant
+213475|London City
+213477|London Guest House
+213481|Longview Hotel
+213543|Lower Slaughter Manor
+213553|Luccombe Hall Country House Hotel
+213560|Lugo Rock
+213591|Lydney House
+213593|Lymehurst Hotel
+213603|Lyndricks House
+213605|Lynford Hall Hotel
+213609|Lyonesse Guest House
+213624|Macdonald
+213626|Mackenzies Highland Inn
+213763|Marchbankwood House
+213810|Marina Guest House
+213814|Marina Inn
+213820|Marine Court
+213823|Marine View
+213837|Marlborough
+213838|Marlborough Hotel
+213839|Marlborough Hotel
+213861|Marshall Meadows Country House
+213869|Martins Guest House
+213870|Martins
+213902|Masslink Guest House
+213952|Meadow Cottage Guest House
+213984|Melbourne House
+214012|Merith House Hotel
+214016|Merlindale
+214064|TheWesley
+214109|MiNC Mayfair Court
+214174|Mode
+214205|Moness Resort
+214217|Montagu Place
+214354|Murrayfield Park Guest House
+214365|MW Townhouse
+214443|Nent Hall Country House Hotel
+214467|New Flying Horse Inn
+214472|New Kent
+214477|New Westcliff Hotel
+214482|Newbury
+214487|Newmarket Inn
+214489|Newstead
+214490|Newton House Guesthouse
+214504|Nicolson Apartments
+214529|No11 Cadogan Gardens
+214536|Noir
+214557|North Grange
+214560|Best Western North Shore Hotel & Golf Club
+214564|Northumberland Hotel
+214565|Kings Cross Inn Hotel
+214566|Norton Lodge
+214570|Norwood
+214594|Novotel Liverpool Centre
+214636|Oakwood
+214661|Ocean View
+214695|Old Manse
+214698|Old Mill Hotel & Lodge
+214707|Old Thorns Manor Hotel Golf & Country Estate
+214741|Olympic Victoria
+214767|Opulence
+214858|Paddington Court Executive Rooms
+214860|Padhotels Bloom Apartments
+214861|Dreamhouse Deansgate Apartments
+214937|Palm Hills
+214938|Best Western Palm
+214943|Palmers Lodge Hostel
+214989|Parade Park
+215034|Park Hotel
+215058|Park Inn by Radisson Doncaster Hotel
+215060|Park Inn by Radisson Manchester, City Centre
+215061|Holiday Inn Express Rotherham - North
+215062|Park Lodge Hotel
+215085|Parklands
+215113|Pasha Boutique
+215127|Patterdale Hotel
+215167|Penny Farthing Hotel & Cottages
+215540|Pine Lake Resort
+215541|Pine Lodge
+215593|Plaza Hotel
+215605|Redhill House Bristol Airport Hotel
+215685|Posh Pads at The Casartelli
+215730|Pravonix - Jago House
+215761|Premier Inn Belfast City Centre (Alfred Street)
+215762|Premier Inn Belfast City Cathedral Quarter
+215768|Premier Inn Birmingham M6 Toll
+215769|Premier Inn Birmingham NEC/Airport
+215857|Days Inn Watford Gap
+215909|Days Inn Hamilton
+215930|Worplesdon Place
+215957|Premier Inn Kendal - Killington Lake
+216049|Premier Inn Newcastle Central
+216351|Presidential Kensington
+216352|Presidential Marylebone / Mayfair
+216359|Prestwick Guest House
+216400|Promenâd B&B
+216472|Quayside
+216478|Queens Guest House
+216480|Queens Head Inn
+216481|Queens Hotel
+216491|Queenswood
+216554|Railway House
+216567|Ramada Encore Barnsley
+216568|Ramada Encore Belfast City Centre
+216569|Pentahotel Birmingham
+216570|Ramada Encore Crewe
+216571|Pentahotel Inverness
+216572|Ramada Encore Ipswich
+216573|Ramada Encore Nec, Birmingham
+216574|pentahotel Warrington
+216595|Rangemoor Park Hotel
+216606|Rat Trap Hotel
+216613|Ravenstone Lodge
+216615|Ravna Gora
+216634|Red House Hotel
+216653|Regency Hotel - B&B
+216654|Regency House
+216659|Regent Maritime
+216660|Regents Park Residence
+216745|Best Western Rembrandt
+216752|Rennie Mackintosh City
+217192|Rhins of Galloway
+217289|Riding Farm
+217333|Riverside Hotel
+217336|Riverside House
+217344|Riviera
+217373|Best Western Rockingham Forest
+217391|Rokeby Guest House
+217419|Rookery Manor
+217426|Rooms At 29 Bruce Street
+217428|Roomzzz - Leeds City
+217444|Rose Park House
+217449|Roseglen
+217460|Roslin Beach Hotel
+217474|Rothay Manor
+217520|Royal Mile Accommodation
+217524|Royal Pavilion Townhouse
+217667|Salisbury Green Hotel
+217668|Salisbury House
+217818|Savoro Restaurant With Rooms
+217827|Savoy Park hotel
+217879|Sea Beach House
+217881|Sea Breeze House
+217900|Seacrest
+217904|Seafield House
+217905|Seaforth Guest House
+217915|Seaways
+217918|Seckford Hall Hotel & Restaurant
+217963|Best Western Seraphine Kensington Gardens
+217968|Serendipity House
+218018|Shepiston Lodge Heathrow
+218021|Sheriff Hotel
+218032|Sid Valley Country House
+218090|Skiddaw Hotel
+218097|Skylark Guest House
+218206|Soprano St Magnus Court
+218217|South Norfolk's Guest House
+218220|South Winchester Lodges
+218234|Southville Guest House
+218255|Spectrum Apartments by Stay Liverpool
+218257|Spencer Court
+218296|Square
+218304|St Bernards
+218315|St Marguerite
+218320|Chiswick Rooms
+218322|St Simeon
+218325|St. Hilary Guest House
+218355|Stags Head Hotel
+218377|Station Hotel
+218378|Station Hotel
+218379|Station
+218387|Stay Edinburgh City Apartments
+218397|Staying Cool at Rotunda
+218421|Stella Guest House
+218433|Stirling Management Centre
+218442|Stone Manor Hotel
+218451|Stracey Hotel
+218479|Stuart House Hotel
+218526|Summerhill Hotel
+218546|Sunbank House Hotel
+218590|Surtees Hotel
+218662|Tara Lodge
+218696|Templeton
+218756|The Adriatic Hotel
+218762|The Alexander
+218763|The Allison House
+218766|The Ambassador Heathrow
+218770|The Angus
+218776|The Aston
+218781|The Avenue Hotel
+218789|The Bannatyne Spa Hotel
+218793|The Baron
+218795|The Bath Arms
+218798|The Bath House
+218800|The Bay Horse
+218802|The Bay House Lake View Guest House
+218804|The Baytree
+218806|The Beach
+218810|The Beaufort Arms
+218818|The Beechwood Guest House
+218820|The Belhaven Hotel
+218821|The Bell
+218822|Best Western The Bell
+218826|The Belmont
+218827|The Belmont
+218829|The Berkeley
+218831|The Berwyn
+218832|The Beverley Hotel
+218835|The Bickford Arms
+218838|The Big Sleep
+218839|The Big Sleep
+218841|The Bird In Hand Country Inn
+218845|The Black Boy Inn
+218851|The Blackpool
+218853|The Blenheim Lakeside
+218855|The Blue Boar
+218856|The BlueBell
+218867|The Briar Court
+218869|The Brickwall Hotel
+218872|The Bridge House
+218879|The Bromley Hotel
+218886|The Bull
+218890|The Cameron B&B
+218899|The Carmen
+218904|The Cathedral
+218907|The Chadwick Hotel
+218919|The Chequers Guest House
+218921|The Chudleigh
+218924|The Claremont
+218928|The Cleveland
+218935|La Collinette Hotel - Apartments & Cottages
+218947|The Conigre Hotel
+218948|The Conningbrook Hotel
+218952|The Corona
+218964|The Croft Guest House
+218970|The Crown Inn
+218979|The Danescourt
+218986|The Diplomat
+218988|The Dog & Partridge Country Inn
+218990|The Dorchester Guest House
+219002|The Elephant
+219015|Euro Bloomsbury
+219017|The Faculty Serviced Apartments
+219021|The Falcon Inn
+219023|The Falmouth
+219025|The Famous Star Hotel Moffat
+219027|The Farmhouse At Yetholm Mill
+219029|The Fayreness Hotel
+219039|The Fountaindale Skegness
+219041|The Fox Inn
+219044|The Fylde
+219052|The Gardeners Country Inn
+219063|The George
+219064|The George Inn
+219065|The Georgian House
+219074|The Glen Hotel
+219087|The Grand at Trafalgar Square
+219092|The Grange
+219095|The Grange
+219096|The Grange Hotel
+219100|The Great House At Sonning
+219107|The Greno
+219114|The Groves
+219115|The Guards Hotel
+219116|The Guesthouse East
+219117|The Hafod
+219120|The Hamilton Hotel
+219125|The Harbour Lights
+219131|The Hawthorns
+219147|The Holcombe Inn
+219152|The Hollybrook Country Inn
+219155|The Hope Anchor
+219156|The Horn Of Plenty
+219162|The Howbeck & The Retreat In Windermere
+219165|The Hunting Lodge
+219174|The Inn On The Lake
+219175|The Inn With The Well
+219176|The Inverleith
+219186|The Kelvin Guest House
+219187|The Kelvin Hotel
+219191|The Kennard
+219194|The Kingfisher Hotel
+219206|The Lamb Inn
+219207|The Lambton Hounds Inn
+219210|The Langham Hotel
+219217|The Leeway
+219222|The Lerryn Hotel
+219223|The Lerwick
+219227|The Light Hotel
+219234|The Loco
+219236|The Lodge At Meyrick Park Guest House
+219255|The Manor Hotel
+219263|The Marstan
+219268|The Mayville Guest House
+219269|The Meadowsweet Hotel
+219278|The Midland
+219283|The Mill House
+219286|The Millers Arms Inn
+219290|The Moorland
+219293|The Mount Edgcombe
+219323|The Old House B And B
+219325|The Old Mill
+219327|The Old Orleton Inn
+219328|The Old Rectory
+219339|The Omega Hotel
+219343|The Ormond At Tetbury
+219344|The Osborne Hotel
+219346|The Palace Hotel - Guest House
+219350|The Parisienne Hotel
+219362|The Pebbles
+219371|The Pier Hotel
+219376|The Pines Country Guest House
+219377|The Pines Hotel
+219380|The Plough Inn
+219385|St. Ives Harbour Hotel & Spa
+219386|The Portland
+219394|The Promenade
+219403|The Queensgate
+219408|The Raven
+219413|The Red House Guest House
+219418|The Red Lion Hotel
+219426|The Ridings Guest House
+219429|The Roebuck Inn
+219435|The Royal Albion
+219436|The Royal Castle Hotel Ltd
+219437|The Royal Duchy
+219440|The Royal Hotel
+219443|The Royal Hotel
+219445|Comfort Luton
+219448|The Royal Wells Hotel
+219449|The Ruskin
+219452|The Rutland
+219454|The Sandhurst Hotel
+219463|The Scot House Hotel
+219470|The Shepperton
+219471|The Sherwood
+219472|The Shetland
+219473|The Ship & Trades
+219474|The Ship and Castle
+219480|The Shipwrights Arms Hotel
+219481|The Shirley
+219483|The Sibson Inn Hotel
+219485|The Silver Jubilee
+219494|The Springfield Hotel
+219496|The St Valery
+219503|The Stakis Cairn Lodge
+219504|The Star Hotel
+219515|The Sun Inn
+219520|The Swan Inn
+219521|The Swan Inn
+219523|The Sycamore Guest House
+219524|The Sydney Arms
+219527|The Talbot Hotel
+219552|The Victoria Hotel
+219554|The Villa Hotel
+219562|The Walnut Tree
+219563|The Walnut Tree Inn
+219577|The West Bank Guest House
+219588|The Wheatsheaf Inn
+219589|The Wheatsheaf
+219594|The White Hart
+219600|The White Horse Inn
+219605|The White House Experience
+219617|The Windmill On The Common
+219620|The Windward
+219626|The Wyndham Arms Hotel
+219641|Go Native London Bridge
+219657|Thorpe Thewles Lodge
+219664|Three Salmons Hotel
+219665|Three Ways House
+219666|Throstles Nest Hotel
+219669|Thurnham Hall
+219673|Tiffany's Hotel
+219847|Tudor Grange Hotel - B&B
+219866|Tulsi Croydon ApartHotel
+219871|Turas-Mara Guesthouse
+219913|Ullet Suites
+219983|Valentine Private
+220028|Velvet
+220080|Victoria Apartments
+220112|Viking Hotel
+220494|De Vere Village Urban Resort Solihull
+220603|Walton Cottage
+220613|Warrens Village Ltd
+220619|Washingborough Hall
+220624|Waterfoot
+220635|Wavecrest
+220678|Wensum Guest House
+220683|West Cliff Inn
+220692|The Sidmouth Harbour Hotel
+220697|Western House Hotel
+220701|Westhill Country
+220707|Westmorland Hotel
+220728|White Hart Nettlebed
+220738|White Waters
+220747|Widbrook Grange
+220792|Willowbeck Lodge BB
+220799|Wincham Hall
+220806|Windermere Suites
+220817|Winston Country House Spa
+220839|Woodfalls Inn
+220840|Woodford Bridge Country Club
+220854|Woolpack Inn
+220855|Woolpack Inn
+220864|Wykeham Arms
+220891|The Yarn Market
+220911|York House
+223887|Abbots Fireside
+223962|Alexandra Court
+223966|Alona
+223980|Anchor House
+224001|Ardwyn House
+224010|Ashleigh House
+224138|Bannview Bed & Breakfast
+224142|Walton Hotel
+224153|Best Western Beamish Hall Country House Hotel
+224160|Beaufort House
+224163|Beck Hall
+224195|Birches Guest Lodge
+224217|Brantridge Park
+224219|Bredbury Hall Hotel & Country Club
+224244|Bull Hotel
+224254|Cairn Bay Lodge
+224355|Chatsworth
+224365|Churston Court Inn
+224381|Clough Manor
+224383|Coach & Horses Hotel
+224384|Coach House - Melbourn
+224388|Coleshill Hotel - B&B
+224416|Croft Mill
+224417|Cromer Country Club
+224423|Crown
+224429|Dale Hill Hotel
+224430|Dales Country House Hotel
+224435|Dartbridge Inn
+224465|De Vere Venues Highfield Park
+224466|De Vere Venues Hartsfield Manor
+224467|Deer Park Country Hotel
+224524|Doxford Hall Hotel & Spa
+224554|Dumbleton Hall
+224558|Dunskey Guest House
+224561|Duxford Lodge
+224585|Eshott Hall Country House Experience
+224588|Esplanade Lodge Guest House
+224631|Feathers Inn
+224650|Fox & Hounds Country Hotel
+224661|Gatton Manor Hotel & Golf Club
+224665|The George Hotel
+224679|Glenisle Hotel
+224700|Grasmere Court Hotel
+224710|Happy Guests Lodge
+224713|Harrabeer Country House
+224716|Haselbury Mill
+224718|Headlam Hall Hotel
+224725|Hedgefield House Hotel
+224730|Hermitage Park Hotel
+224731|Herrislea House
+224736|Highbullen Hotel, Golf & Country Club
+224746|Holdfast Cottage
+224749|Holiday Inn London-Kingston South
+224781|Hotel 55
+224790|Houton Bay Lodge
+224812|Ilchester Arms
+224814|Inglewood Bed & Breakfast
+224836|Holland Park Hotel
+224837|Jingles
+224843|Keef Halla Country House
+224851|Kings Head Inn
+224852|Kingscliff Hotel
+224960|Langstone Cliff Hotel
+224962|Lastra Farm
+225130|Lennox Lea
+225185|Letham House
+225193|Lifton Hall Hotel
+225195|Lisnacurran Country House B&B
+225197|Liverpool House
+225284|London Inn
+225291|Lundin Links - geschlossen
+225294|Lyncombe Lodge
+225296|Lynwood Guest House
+225308|Maes Manor Country Hotel
+225313|Maitlandfield House Hotel
+225329|Marlborough
+225352|Meldrum House Golf & Country Estate
+225355|Melville Hall Hotel & Utopia SPA
+225380|Monk Fryston Hall Hotel
+225417|Nethybridge Hotel
+225420|New Forest Lodge
+225438|Oaklands House
+225471|Orsett Hall
+225502|Parklands Hotel
+225504|Best Western Passage House Hotel
+225525|Port Dinorwic Resort
+225526|Plas Hyfryd
+225674|Priory Bay Hotel
+225678|Purbeck House Hotel & Louisa Lodge
+225682|Railway Inn
+225687|Rayanne House
+225693|Redcliffe House Luxury B&B
+225793|Rock House Hotel Guest House
+225806|Roslyn House
+225809|Royal Deal
+225813|Rufford Arms Hotel
+225841|Sea Marge Hotel
+225854|Shard Riverside
+225865|Silverbirch Hotel
+225874|Solberge Hall Hotel
+225877|Solway Lodge Hotel
+225891|St Ives
+225911|Sundridge Park Manor
+225915|Swan Hotel
+225940|The Alexander Pope
+225941|Anchor Inn
+225942|The Angel Inn
+225943|The Angel Inn
+225944|The Ashbourne Hotel
+225945|The Auberge
+225948|The Battleborough Grange
+225958|The Black Lion
+225961|The Bridge Of Lochay
+225964|Brynafon Hotel
+225975|The Crown Inn Chislehurst
+225980|The Dog & Bear
+225983|The Emmbrook Inn
+225986|The Exmoor Manor
+225996|Marco Pierre White - The Frogmill Inn
+225997|The Galley of Lorne Inn
+226000|The George Hotel & Brasserie, Cranbrook
+226003|The Granary
+226006|The Grant Arms
+226017|Highwayman Inn
+226019|The Horseshoe
+226024|Sanctum on the Green
+226028|The Kings Arms
+226030|Kings Arms & Royal Hotel
+226036|The Lake Of Menteith Hotel
+226039|The Lamb Inn
+226041|The Limes Country Lodge
+226050|Malt House
+226052|The Manor House
+226053|The Marine
+226055|The Marquis at Alkham
+226061|The Moody Goose At The Old Priory
+226069|Ty Dderw Country Inn
+226072|The Old Bakehouse
+226078|The Old Registry Haworth
+226085|The Orchard House
+226097|Bel & the Dragon
+226104|The Rhinewood Country House Hotel
+226117|The Snooty Fox Country Hotel & Restaurant
+226122|The Swan
+226128|The Tower
+226138|The Wheatsheaf Inn
+226142|The White Hart Guest House
+226145|The White Horse
+226154|The Windsor
+226158|The Woolpack Inn
+226168|Toft Country House Hotel And Golf Club
+226188|Ty Morgan's Guest House
+226189|Ty Newydd Country Hotel
+226259|White Horse Hotel
+226261|White Lodge
+226264|Whoop Hall
+226274|Woodlands Country House
+226276|Yaxham Mill
+226280|York House
+226743|Rose Park
+226795|Pestana Chelsea Bridge
+226826|Greywalls & Chez Roux Restaurant
+227080|Arties Mill Lodge
+227081|The White Hart
+227082|The Four Sisters Boatel
+227084|Malmaison Aberdeen
+227085|The Glencoe Inn
+227088|Phoenix
+227495|Hampton by Hilton Liverpool City Centre
+227498|Icon
+227499|St Elizabeths
+227500|Newtown House
+227883|Hillspring Lodge
+227884|Rex
+227885|Roomzzz - Manchester City
+227886|The Halcyon
+227887|Woodberry Down
+228289|Holiday Inn Glasgow City West
+228949|A Great Escape Guest House
+229060|ABode Chester
+230680|At Home Chiswick
+230714|Bosco
+230722|Brandon House
+230768|Comfort Zone Cutlass Court Apartments Birmingham
+230932|George & Dragon
+230953|Hawksley House
+230968|Jorvik
+231018|Maenan Abbey
+231021|Marina Metro
+231035|Park Lodge
+231046|Queen's University Belfast, Elms Village
+231047|Rab Ha's
+231049|Red Lion Inn
+231053|Residence 6 Luxury Serviced Apartments
+231054|Riviera Lodge
+231141|Staybridge Suites Newcastle
+231150|Sun
+231170|The Bath
+231200|The Craighaar
+231271|The Grove Arms
+231273|The Grove House
+231279|The Holme Lea Manor
+231342|The Talbot Hotel
+231345|The Three Tees
+231347|The Thrums
+231369|Thornbury Golf Lodge
+231392|Urban Beach
+231403|Westview
+231407|Yardley Manor
+231982|The Britannia Inn
+232065|DoubleTree by Hilton London - Tower of London
+232586|Holiday Inn Express Liverpool Knowsley M57, Jct.4
+232668|Best Western Red Lion
+232670|Rowantree
+232673|Cheshire
+232676|Best Western Ilford Hotel
+232678|Town Hall
+232680|Clifton
+232682|Ramada Crawley Gatwick
+232685|Haymarket
+232689|Travelodge Birmingham Central Broadway Plaza
+232690|Cairndow Stagecoach Inn
+232794|Raemoir House
+232989|Boisdale
+232990|Oakhill Apartments
+232993|Max House Serviced Apartments
+233318|Bedruthan Steps
+233320|The Cornwall Hotel Spa & Estate
+233324|The Strand House
+233336|Allt-nan-Ros
+233442|Eaton Square
+233444|Crowne Plaza London - Battersea
+233445|Holiday Inn Reading - M4 Jct. 10
+233447|Macdonald Windsor
+233715|Camelot House
+233869|Youth Hostel Barkston
+234155|London Grove
+234158|Hatters
+234651|Holiday Inn Express City Centre - Oxford Road
+234860|Creag Mhor Lodge
+234861|Portree Hotel
+234942|Jurys Inn Bradford
+235287|Seraphine Kensington Olympia
+236167|The Wild Boar Country House
+236265|AB11 Town House Hotel
+236266|Bauhaus
+236267|Hilton Garden Inn Aberdeen City Centre
+236276|Micasa
+236277|Park Inn by Radisson Aberdeen Hotel
+236281|The Glengower
+236290|Hope and Anchor
+236330|Brathay Lodge
+236442|City Express Aparthotel
+236448|Fountain Court Stewart Apartments
+236474|Broadview Guest House
+236529|Frasers
+236540|Bluebell Barn
+236542|Duchally Country Estate
+236936|Ocean Apartments Edinburgh
+236937|Best Western Plus Seraphine Hammersmith
+237184|New Cross Inn Hostel
+237188|Boka
+237189|The Bridge
+237191|Premier Inn Gatwick Manor Royal
+237209|Clink78
+237210|Clink261
+237252|Access Apartments Maida Vale
+237253|Grange Moor
+237254|Royal Vincent
+237255|Mayfield
+237258|Indigo Liverpool
+237259|Days Inn Liverpool
+237508|St Joseph
+237972|The Montcalm At The Brewery London City
+237979|Grange Tower Bridge Hotel
+237981|The New French Partridge
+237989|Holiday Inn Manchester - Mediacityuk
+237992|Lansdowne Croydon
+237996|Camden Place Apartments
+238012|The Priory
+238268|Corinthia London
+238679|W London - Leicester Square
+239192|Best Western Maitrise Suites
+239194|Holiday Inn Express Cambridge-Duxford M11 J10
+239207|MiNC The Writers
+239208|Pontin's Southport Holiday Park
+239211|Hilton London Syon Park
+239368|Ardno House
+239370|Heywood House
+239371|Euro Hostel Newcastle
+239373|Altamount House
+239381|Diamond Lodge
+239383|Comfotel
+239385|Haven London
+241004|The Clarendon - Grange Hotels
+241516|City Reach Serviced Apartments
+241521|Holiday Inn Newcastle Jesmond
+241523|Jurys Inn Newcastle Gateshead Quays
+241528|Drayton Manor
+241531|Indigo Glasgow
+241544|Euro Lodge Clapham
+241864|The Hampton London Croydon
+242108|California
+242386|Best Western Plus Maldron Hotel Cardiff
+242387|Stirk House
+242388|Kirkdale
+242389|Hampton by Hilton Derby City Centre
+242390|Art Roch
+242391|Clarendon Luxury Apartments
+242392|Tingle Creek Hotel
+242394|Access Apartments Earls Court
+242395|Access Apartments Euston
+242396|Access Apartments Holborn
+242397|Access Apartments Paddington
+242398|Access Apartments Victoria
+242399|Britannia Inn
+242400|Hampton by Hilton Newport/East
+242401|Arisaig Guest House
+242402|Old Mill Inn
+242404|Brooklands Hotel
+243737|Holiday Inn Express Birmingham - South A45
+243738|Holiday Inn Bristol City Centre
+243739|Days Inn Chester East
+243742|Days Inn Charnock Richard M6
+243744|Hilton Heathrow Airport Terminal 5
+243745|Holiday Inn Derby - Riverlights
+243747|Smart City IQ
+243773|Lingfield Park Marriott Hotel & Country Club
+243774|Indigo London - Tower Hill
+243775|St. Pancras Renaissance London
+243792|Dakota Nottingham
+243793|Holiday Inn Express Nuneaton
+243794|Days Inn Peterborough
+243797|Holiday Inn Express Sheffield City Centre
+243803|Smart Hyde Park Inn
+243805|Smart Camden Inn
+243806|Smart Russell Square
+243812|Base2Stay Liverpool
+243813|Holiday Inn Winchester
+245151|Ashfield Guest House
+245161|Lower Thornton Farm
+245166|Bossiney House
+245265|Aloft London Excel
+245882|Indigo Birmingham
+245884|Indigo Newcastle
+245963|Conrad London St. James
+245975|Staybridge Suites London - Stratford City
+246039|Holiday Inn London Commercial Road
+246040|Holiday Inn London Stratford City
+246291|Macdonald Spey Valley Golf & Country Club
+246317|Holiday Inn Express Colchester
+246318|Holiday inn Express Harlow
+246401|Holiday Inn Express Manchester City Centre - MEN Arena
+247422|The Scarlet
+247491|Wookey Hole
+247493|Radisson Blu East Midlands Airport
+247494|Radisson Blu Edwardian Guildford Hotel
+247522|Ambassador Blackpool
+247523|Broadford Youth Hostel
+247526|Glencoe Youth Hostel
+247533|Harbour Inn / The Inns Over-by
+247536|Days Inn Winchester M3
+247537|Ferry Inn
+247543|Aberdeen Youth Hostel
+247544|Aviemore Youth Hostel
+247545|Travelodge Blackpool South Promenade
+247546|Travelodge Chester Central Delamere Street
+247547|Travelodge Stoke-on-Trent Trentham
+247548|Bloc Birmingham
+247550|Inverness Youth Hostel
+247551|Pine Guest House
+247552|St Bernards Guest House
+247553|Lochranza Youth Hostel
+247554|Oban Youth Hostel
+247555|Shenavallie Farm
+247557|The Belfray Country Inn
+247559|Salcombe Harbour
+247560|The Gallivant
+247561|Stirling Youth Hostel
+247646|Auchrannie Resort
+247741|Lifehouse Spa & Hotel
+248239|Travelodge London Ealing
+248389|The B Suites Glasgow
+249398|Prince's Gardens
+249898|Barnsdale Lodge
+249899|Cotswold House - Guest house
+249900|Abbey Court House - Guest House
+249903|Chequers Country Inn
+249905|Trinity Hotel - Guest house
+249960|The Place Edinburgh
+249961|Clarion Collection Birmingham
+250030|Beit Hall - Imperial College London
+250161|Endsleigh
+259659|Willoughby House
+259660|The Bold
+259662|Access Apartments Camden
+259663|Access Apartments Kensington Olympia
+259895|Eddrachilles Hotel Badcall Bay
+259896|Smart Sea View Brighton
+260075|Best Western Plus Manor NEC Birmingham
+260260|Hampton by Hilton Birmingham Broad Street
+260261|The Legacy Hertford House
+260262|Willington Hall
+260263|Fernhill Hotel
+260264|Kirroughtree Country House
+260265|Ibis budget Glasgow
+260266|Queen's Park
+260267|Durker Roods
+260268|The W14 Hotel & Hostel
+260269|The Ganton Greyhound
+260460|The Luttrell Arms
+260701|Apex Temple Court
+260704|Ramada Encore Luton Airport
+260732|BULGARI Hotel & Residences London
+260733|ME London
+261220|Castle Bromwich Hall
+261227|The Old Ship
+261948|Rocpool Reserve Apartments
+261949|Cottage 76
+261950|Cottage 3L
+261952|Forest Gate Cottage
+261955|Ingleby House
+261956|Silk House
+262187|The Commercial Hotel
+262196|The B+b Belgravia Team.
+262203|The B Suites Edinburgh
+264927|The Kings
+264928|The Park Central
+264935|The Merchant Hotel
+265042|Bedmond Hotel
+265045|Caroldene
+265046|Da Ville
+265052|Jesmond International Hotel
+265055|Marine Villa Hotel
+265058|New Douglas
+265062|Roselea Hotel
+265066|The Cardoun Hotel
+265175|The Malvern
+265600|Ibis Aberdeen Centre
+265601|Peebles Hydro
+265668|Doubletree by Hilton Newcastle Airport
+265754|BW Plus Park Grand London Heathrow
+266088|Rox Hotel
+266089|The Mariner Hotel
+266091|Arden House
+266092|Clover Spa and Hotel
+266094|Grimscote Manor Hotel
+266096|Hotel One Hundred - Bed & Breakfast
+266097|Kensington Court Hotel Notting Hill
+266098|St John Hotel
+266103|Brook Green
+266104|St James House - Concept Serviced Apartments
+266105|Rhodes Hotel
+266109|Winrose
+266113|Hamiltons Hotel
+266116|Jenkins Hotel
+266118|Metro Hotel
+266120|London Apartments Shoreditch
+266121|Hyde Park Apartments
+266123|Adria Boutique
+266128|Chelsea Bridge Apartments
+266130|Brewers Inn Hotel
+266132|The Luxury Inn
+266133|Macy's Hotel
+266134|New Market House
+266136|Sanctum Soho Hotel
+266137|Simply Rooms & Suites
+266141|Hotel 261
+266143|Atelier EC1 by Bridgestreet
+266144|Brompton Hotel
+266145|Old Street Apartments
+266146|Prince Regent Excel
+266147|Tommy Miahs Raj Hotel
+266151|The Antigallican
+266152|The Justin James Hotel
+266154|Judd Hotel
+266156|The Zetter Townhouse
+266157|Rochester
+266159|Coronation
+266160|Club Quarters Lincoln's Inn Fields
+266161|London Apartments Bethnal Green
+266164|Notting Hill - Concept Serviced Apartments
+266166|Fox and Grapes
+266167|Russell Court Hotel
+266168|Paddington Apartments
+266170|Chancery Lane Residence
+266171|Connaught House Hotel
+266172|Bingham
+266176|The Works Aparthotel
+266177|Rotana Apartments
+266179|Phantele Guest House
+266183|Royal Over-Seas League Hotel
+266184|Adria House
+266185|Dalmore Lodge Guest House
+266187|The Crescent
+266191|Sherwood Guest House
+266193|Lets Edinburgh
+266194|Rick's
+266195|The Causewayside Apartment @ The Southside
+266196|Abercorn Guest House
+266197|Grosvenor Gardens
+266200|Bield B&B
+266202|Merchiston Residence
+266203|Phoenix Apartments
+266204|The Beverley
+266205|Marchmont Main Door Apartment
+266207|Greyfriars Apartments
+266209|Kilmaurs Guest House
+266213|Bothwell Bridge Hotel
+266214|Castlecary House Hotel
+266215|38 Bath Street
+266217|Grasshoppers Hotel Glasgow
+266219|Logierait Pine Lodges - Apartments
+266221|Craigvrack
+266225|Iris Hotel
+272236|Sheil Suites
+272237|Signature Living
+272238|Base Serviced Apartments - Dockside
+273318|House at Woolverton
+273319|Brindleys
+273320|The Ayrlington
+273322|Aquarium Guest House
+273325|The Camberley
+273327|Primrose Valley Hotel
+273330|Pentire Hotel
+273331|Beachcombers Apartments
+273332|Sands Resort Hotel
+273334|Cabot Mews Apartments
+273335|Hamilton Court Serviced Apartments
+273337|Cotham Apartments
+273339|Brooks Guesthouse Bristol
+273340|Marsh House Serviced Apartments
+273341|Orchard Apartments
+273343|Summerlands Guest House
+273346|Cavendish Hotel
+273350|All Seasons Guest House
+273351|Weald of Kent
+273353|Cottonwood Boutique Hotel
+273354|Hinton Firs Hotel
+273358|Eastbourne Riviera
+273359|Bed & Breakfast at Ocklynge Manor
+273360|The Whittington & Cat
+273362|Rectory Farm
+273366|Abbeyfields Guest House
+273368|Grays Court
+273369|The Windmill
+273371|Chester Court Hotel
+273372|Royal George Hotel
+273373|Munro Luxury Apartment
+273374|Old Manse Guest House
+273375|Alt Na Craig - B&B
+273378|Hunters Quay Hotel
+273379|Royal Marine Hotel
+273389|Beechlawn House Hotel
+273494|Talana Hotel
+273668|The Yacht Inn
+273669|La Piette
+273670|La Fregate Hotel
+273677|Knap Guest House
+273736|Tricky's Hotel
+273737|Millers Beck Country Guest House and Self Catering
+273738|Stableyard
+273739|Langar Hall Hotel
+273740|Ash Hotel
+273742|Royal Beacon Hotel
+274078|Leathes Head Hotel
+274079|The Lodore Falls Hotel
+274082|Swinside Lodge Hotel
+274085|The City Gate Hotel
+274086|Broomhall Castle
+274087|The Old Tram-House Bed & Breakfast
+274088|Ravenswood Guest House
+274089|Hillhead Farm Lets - Guest House
+274091|Dunnet Head Bed and Breakfast & Self Catering
+274131|Hilden House
+274133|Number Four at Stow
+274134|The Birley Arms Hotel
+274135|The Cartford Inn
+274253|Stocks Hotel
+274259|Crinan Hotel
+274264|Rosemundy House Hotel
+274265|The Great Tythe Barn
+274267|The Crown
+274384|Hope House Woodstock
+274420|Knights Court Hotel
+274421|Willows Guest House
+274422|Burlington Palm Hotel
+274423|The White Lodge
+274469|Maypole Farm Bed & Breakfast
+274535|Howard
+274536|Le Papillon
+274537|Brayton
+274539|Windsor Park
+274540|Fairway Hotel
+274542|All Seasons
+274547|Westport Serviced Apartments
+274549|Kings Paget Hotel
+274550|Sidegate Guest House
+274553|The Tontine Hotel
+274556|Stoke Place
+274621|Langdale Chase Hotel
+274622|Gilpin Hotel & Lake House
+274624|Hilton House
+274625|The Mortal Man
+274626|Oldfield House
+274715|Shortstay MK
+274716|Vizion - Cotels Serviced Apartments
+274717|Sapphire House
+274779|Folly Hotel
+274795|The Star Inn 1744
+274908|The Traddock
+274928|Torrs Warren Country House Hotel
+274935|Drapers Hotel
+274937|Shanklin Hotel
+274939|Chadwick House Hotel
+274941|Rockliffe Hall
+274966|Castle
+275235|The Highfield
+275247|Elizabeth House Hotel
+275251|The Angel View Inn
+275270|Fernbank Hotel
+275271|Rowhill Grange Hotel & Utopia Spa
+275306|Nanteos Mansion Country House Hotel
+275337|The Management Centre
+275345|Jeffersons Hotel & Apartments
+275348|The New Inn
+275356|Boston West Hotel
+275364|Combe House Hotel
+275365|Burlington Quays
+275366|Mowbray Apartments
+275418|Riverside Inn
+275422|Neeld Arms Inn
+275425|Waters Reach Guest House
+275433|The Pheasant Inn
+275454|Linchens Bed and Breakfast
+275468|The Casterbridge
+275476|Chateau Impney Hotel
+275486|Colebrook Guest House
+275487|Park Lodge Guest House
+275681|Stoke Rochford Hall
+275682|The Tontine Hotel
+275684|Asperion Hillside
+275685|Asperion
+275732|Curran Court Hotel
+275737|Tidewater Cottage
+275740|Dartington Hall
+275741|Sidholme Hotel
+275742|Three Wells Hotel
+275745|The Pear Tree Inn & Country Hotel
+275746|Heacham Manor
+275747|The Riviera
+275748|Raithwaite Estate
+275750|Newcastle Jesmond Hotel
+275751|Sleeperz Hotel Newcastle
+275754|Waterside
+275755|Close House Hotel
+275756|Otterburn Castle Country House Hotel
+275757|The Lindley Suite
+275824|Sandwick Bay
+275874|Cleavers Lyng
+275898|Ugadale Hotel and Cottages
+275911|Robertson Arms Hotel
+276114|The Crescent Hotel
+276266|The Mourne Lodge
+276426|The Pyjama Factory
+276462|Roundhouse Barns
+276463|Coasters Hotel And Apartments
+276464|TyGlyn Restaurant & Conference Centre
+276467|Eagle House Hotel - Guest House
+276471|The Old Pheasant
+276508|The Pennyfarthing Hotel
+276511|Blotters Retreat
+276514|Shibden Mill Inn
+276516|The Ambers Guest House Gatwick
+276517|Wimblehurst
+276518|Dillington House
+276519|Rooms at Caravelli
+276523|The Royal Lodge
+276524|Raglan House
+276526|The Bear's Paw
+276528|River House - Guest House
+276529|The Littleton Arms
+276530|The Castle Inn
+276531|The Swan Tarporley
+276532|Peckforton Castle
+276534|Chale Bay Farm
+276535|St Rhadagunds
+276668|The Villa Hotel
+276669|Avonbridge Hotel
+276671|The York
+276716|Tonge Barn
+276760|Tregea Hotel
+276912|Tewitfield Marina
+276913|Lazaat Hotel
+276914|Dolbrodmaeth Riverside Hotel
+276916|Bear Inn
+276918|Lorne House
+276919|The Red Lion
+276921|Garden Lodge
+276924|Park House Hotel
+276925|Edinburgh Lodges
+276926|Sea Wood Bed and Breakfast
+276931|Amberley Inn
+276932|Molesworth Manor
+276933|Washington Central Hotel
+276934|The Keep
+276935|Yeovil Court
+277059|Halfway Bridge Inn
+277089|Mellington Hall Hotel
+277177|The Rose & Crown
+277198|The Exchange Coach House Inn
+277200|Newquay Lodge
+277202|The South Sands Hotel
+277364|Underwood House
+277418|The Douglas Hotel
+277568|The Globe Inn
+277569|Palm Court Hotel
+277573|Eaton Hotel
+277576|La Tour
+277577|Manor Hill House
+277580|The Laurels
+277585|Ridgeway Hotel
+277586|Point West Apartments by Crown Lawn
+277588|The Black Lion
+277589|Oxford Hotel
+277590|Tune Hotel Liverpool Street, London
+277592|The Westport Inn - B&B
+277594|Welby 20
+277595|Lanterns Court Apartments
+277596|Go Native Hyde Park Apartments
+277598|MB Hotels - B&B
+277599|The Harrison
+277604|Studios 2 Let Serviced Apartments
+277605|Welby 37
+277607|Belle Cour Hotel & Spa
+277612|Seacon Tower Serviced Apartment
+277613|Arinza Hotel
+277614|Welby 57
+277617|Earls Court Studios
+277618|Kings Boutique
+277621|South Quay Serviced Apartments
+277624|Fox Apartments
+277627|Laystall Apartments by stayManchester
+277629|Piccadilly Central Apartments by MAX
+277630|The Heart Apartments @ MediaCity UK
+277632|Number One
+277634|Alma Lodge Guest House
+277638|Barbican Reach Bed & Breakfast - B&B
+277640|Caledonia Guest House
+277642|Rainbow Lodge - Guest house
+277643|The Shakespeare Inn
+277646|Moorfield House Hotel
+277648|Priestville Guest House
+277650|Staycity Serviced Apartments West End
+277651|Panda Villa
+277652|Aaron Lodge Guest House
+277654|Hampton Hotel
+277661|Amaryllis Guest House
+277663|Heriott Park Guest House
+277664|Braveheart Guest House
+277670|Residence Inn by Marriott Edinburgh
+277671|Edinburgh Townhouse
+277674|Appin House - Guest house
+277677|Cruachan Guest House
+277678|Richmond Place Apartments
+277682|Leith House
+277683|Allburys Boutique B&B
+277685|Cherrytree Villa Guest House
+277686|Western Manor House Hotel
+277687|The White House Apartments
+277694|Kincaid House Hotel
+277695|Strathblane Country House Hotel
+277697|Hawthorn Lodge Guest House
+277698|The Ghillies Lodge
+277700|Melrose Villa
+277701|Highlander B&B
+277702|Heathcote B&B
+277704|Inchrye B&B
+277708|Struan Inn
+277713|Britannia Guest House
+277717|Mostyn House - Guest house
+277718|Beach House Hotel - Guest house
+277719|The Empire Hotel & Spa
+277720|Bryn Goleu B&B
+277721|Rose Cottage B&B
+279489|The Biarritz Hotel
+279614|Hotel Anfield
+279615|Prince Alfred
+280447|Hotel Pelirocco
+280448|Sea Breeze Brighton
+280452|The Old Palace Guest House
+280453|Brighton Marina House Hotel - B&B
+280456|Hollins House
+280457|Spring Lodge
+280458|The Franklin
+280462|Murray House
+280463|Ash Grove - Guest house
+280464|Belmont Guest House
+280465|Alamah Guest House
+280466|Wellington Inn
+280467|Tregony Guest House
+280469|The Anchorage B&B
+280472|Dewolf Guest House
+280473|Tir Chonaill Guest House
+280474|Longbeach Hotel
+280475|Surfside
+280476|Meadow View
+280477|Summer Breeze Guest House - B&B
+280479|St Breca
+280481|Pencrebar
+280482|Seashells Guest House
+280485|The Harbour - Guest House
+280487|Porth Lodge Hotel - Guest House
+280488|Westfield House - Guest house
+280490|Old Castle Green B&B
+280491|Rounceval House Hotel
+280492|Greyfield Farm Cottages - Farm
+280493|The Old Court - Guest House
+280494|Bethany Guest House
+280500|Tudor Cottage
+280501|Camelot House - B&B
+280502|Edgcott House
+280505|Sea View B&B
+280506|Burnells Gardens B&B
+280507|The Royal Oak Inn
+280509|Millers At The Anchor - Hotel
+280516|Bagbury Byre
+280517|Bosvean House
+280518|The Cliff Hotel
+280519|Oak Lodge - B&B
+280522|The Old Wainhouse
+280523|Widemouth Manor
+280525|The Southbank - Guest house
+280527|Ashwood Grange Hotel - B&B
+280530|Burleigh House - Guest house
+280531|Silverlands
+280533|Mariners Guest House
+280534|Wayfarer Guest House
+280535|Seabreeze at Babbacombe
+280536|Rutland Lodge
+280539|The Wellsway
+280541|The Norwood - Guest house
+280542|Tyndale Guest House
+280544|The Cimon - Guest House
+280545|Anchorage Hotel
+280546|Lanscombe House Hotel - Guest house
+280550|Court Prior Guest House
+280551|Whitburn Guest House
+280552|Camilla House - Guest house
+280555|Lugger Inn
+280556|Sea Waves B&B
+280561|Boswedden House
+280563|Loddington House Hotel
+280567|Argyle Lodge - Guest house
+280568|Forest Gate Lodge
+280571|Abbey Lodge - Guest house
+280572|Addenro House B&B
+280574|The Blue Keys Hotel
+280577|Days Inn Southampton Rownhams
+280578|The Old Black Horse - Inn
+280584|Waves In bed & breakfast
+280587|The Lodge
+280589|Dean Park Inn
+280590|The Chocolate Boutique Hotel - B&B
+280596|The Swan Guest House
+280598|Trevali Guest House
+280602|Iverna
+280603|Camelot Lodge Hotel
+280604|Sea View Hotel & Guest House
+280605|Ebor Lodge
+280606|The Langtons Guest House
+280607|The Sheldon
+280608|Ashgrove House - Guest house
+280611|St Govans Country Inn
+280612|Portclew House
+280616|Little Weghill Farm
+280617|The White Horse Inn
+280619|Shelford Lodge
+280620|Ayah Villa Guest House
+280623|Regency House
+280624|Home from Home Guest House
+280626|Silverwood Lodge Guest House
+280629|Cafe Valance
+280631|Ashmount Hotel
+280633|The Northwood - Guest house
+280636|Heworth Guest House
+280637|Midway House
+280641|Birchfield Guest House
+280642|Cumbria House
+280645|The Gillygate
+280651|The Saxon House - B&B
+280653|Friars Rest Guest House
+280654|Orillia House
+280656|High Belthorpe B&B
+280657|Newburgh House
+280659|Robeanne House - Guest house
+280661|Inn at Hawnby
+280663|Old Black Bull Inn
+280664|Burnley House
+280666|York Luxury Properties - Travel accommodation
+280667|Thompsons Arms B&B
+280669|Cedar Court Grand Hotel & Spa
+280670|The Granary
+280673|The Willows Bed & Breakfast - Guest house
+280675|Stone Villa Guest House
+280679|Ba Ba Guest House
+280681|Roseville Bed & Breakfast
+280683|Riverside Lodge Gardens
+280684|WestHaven B&B
+280690|Milton Lea B&B
+280695|Six Willows Bed & Breakfast
+280698|Cherrybank Guest House
+280699|Heidl Guest House
+280700|Roseneath Guest House
+280706|Bere House B&B Spa
+280711|Glebe House B&B
+280713|Shutta House
+280720|Victoria Hotel
+280721|Brean Sands Holiday Park
+280722|Yew Tree House - B&B
+280723|Jubilee House B&B
+280725|George and Dragon Inn
+280730|Caroline House
+280731|Primrose Cottage
+280732|Cara House B&B
+280736|Brock Mill Farmhouse
+280737|Meadow Hill Guest House
+280742|The Merchant House - B&B
+280744|Grovefield Manor Hotel - Guest house
+280745|The Beeches
+280746|Brunton House
+280753|Springfield B&B
+280755|Marine Guest House
+280757|Camera House - Guest house
+280758|Greenmount Bed & Breakfast
+280779|Eden Lodge - B&B
+280780|Rosemullion Hotel - Guest house
+280781|The Grove Hotel - Guest House
+280782|The Park View Townouse
+280783|Prince of Wales
+280784|Seaview Inn
+280786|Easy Stay Weymouth
+280787|Lacey's Guest House
+280791|Acqua Beach Weymouth
+280795|The Clarence
+280797|The Lugger Inn
+280798|Birch House B&B
+280803|The Wilton Guest House
+280804|Old Castle Hotel
+280805|The Royal Oak
+280808|St. Johns Guest House
+280811|Gleneagles Guest House
+280813|Heathwick House
+280815|The Cammarch Hotel - Guest house
+280816|Highfield House
+280817|Drynachan Bed & Breakfast
+280818|Kinkell House Hotel
+280819|Bay View Guesthouse
+281043|The Mytton & Mermaid Hotel
+281055|Tremollett Farm B&B
+281078|Royal Norfolk Hotel
+281079|Dalkeith Guest House
+281082|Cherry Trees Guest House
+281083|Lindisfarne House
+281085|Littlefield B&B
+281086|Hall Garth Guest House
+281087|Hunters Way
+281088|Lakeside House Hotel - Guest house
+281089|Fitz Guest House
+281090|Maple Bank
+281092|Moor End B&B
+281093|Nafferton Farm
+281095|Edwardian - B&B
+281099|Frogmill B&B
+281102|St Andrews Hotel - B&B
+281103|Culm Vale Country House
+281105|Woodhayes Country House
+281106|Linden Guest House
+281107|Brockenhurst Bed and Breakfast
+281109|Appledore House
+281110|The Village Inn
+281112|Rockmount B&B
+281114|Mary Tavy Inn
+281130|The Manor Guest House
+281132|High Beach Guest House - B&B
+281134|Arkle House - B&B
+281135|Elagh View B&B
+281136|Roe Park Resort
+281138|Homelands Bed and Breakfast
+281139|Broadlands Guest House
+281141|The Colesbourne Inn
+281149|Willowside House and Farm
+281150|Wheal Tor Hotel - Guest House
+281152|Caradon Inn
+281154|The Dunn Thing - Guest house
+281159|Langley Bank Guest House
+281163|Craigie Guest House
+281165|Ye Horns Inn
+281167|Holiday Inn Express Preston - South
+281179|Pandy Isaf Country House B&B
+281180|Dolgun Uchaf Guesthouse
+281181|Plas Dolmelynllyn Country Hotel
+281182|Albert
+281183|La Moinerie Hotel & Restaurant
+281184|Dixcart Bay Hotel
+281186|Number 64
+281190|The Riverbarn - Guest house
+281191|The Angel Inn
+281192|Hillcroft Bed & Breakfast
+281195|Hillside B&B
+281197|Kirnan House
+281198|Lochgair Hotel
+281199|The Roods B&B
+281201|St George's Country House
+281203|Peterville Inn & Surf Lodge
+281204|Oak House No.1
+281205|The Egryn
+281207|Homagen B&B
+281208|Cauldburn House
+281211|Carn Mhor Bed and Breakfast
+281459|Lodgehill Hotel
+281461|Deanswood B&B
+281462|Bosuns Chair
+281463|Sway Manor
+281464|The Crieff Hotel
+281473|Bellevue Guest House
+281477|Copperfields Guest House
+281478|Barnard House
+281481|The Merivon Guest House
+281482|Hooray Henrys
+281483|Taunton Guest House
+281484|Belvedere
+281486|3 Norfolk Square - Guesthouse
+281488|Danehurst House - B&B
+281493|Camber Sands Holiday Park
+281496|Penrose B&B
+281497|Cross Close House B&B
+281554|Peregrine House
+281556|Amanda House - Guest house
+281565|High Grassings B&B
+281566|Avonlea Guest House
+281567|Ashlea Guest House
+281574|Seabreeze Guest House
+281576|Fortywinks
+281579|Willow Grove
+281581|Glenroy Hotel
+281583|Lancastria
+281585|The Allendale Hotel
+281588|The Lexham Hotel
+281589|The Southview Hotel
+281590|Bringewood Hotel
+281591|The Holmeleigh Hotel - Guest house
+281592|The Hornby Villa
+281593|Ash Lodge - Guest house
+281596|Atlantis Hotel
+281597|Sussex Hotel
+281599|Chaplins
+281600|Marsden Hotel
+281602|Valdene Hotel
+281604|Sunnydale Hotel - Guest House
+281606|The Withnell Hotel
+281615|Earlsway
+281616|Trentham Hotel
+281618|Cardoh Lodge
+281626|Lichfield Hotel
+281630|Edward
+281632|Bronte House
+281636|The Sandalwood
+281637|Kirkstead
+281638|Libra
+281648|The Norwood
+281649|Rossall House
+281650|The Edelweiss
+281651|The Trentwood - Hotel
+281652|St Kilda - Guest house
+281655|ParkRoyal Blackpool
+281656|Shazron Guest House
+281658|Lynwood Hotel
+281659|Falcon
+281663|Waters Edge Hotel
+281665|The Chesterfield Hotel - B&B
+281666|Rock Dene Hotel - Guest House
+281668|Golden Nile
+281671|Alderley
+281672|Westdean Hotel
+281674|Doric House
+281675|Ellan Vannin Guest House
+281676|Manor House Hotel
+281678|Balmoral Guest House
+281680|Sherwood Hotel
+281681|Gordene
+281682|The Grosvenor View
+281684|Somerville Hotel
+281687|Pelham Lodge
+281689|The Craigmore - Guest house
+281690|The Berkswell Hotel
+281691|Birch House
+281692|De-Lovely
+281695|The Alpha Guest Accommodation
+281698|The Address - Guest house
+281699|Bridle Lodge Superior Apartments
+281704|Seagrave Arms
+281705|Highcroft Guest House
+281708|Kegworth House Hotel - Guest House
+281709|Blenheim House
+281712|Thorne Central Guest House
+281714|Errolbank Guest House
+281716|Centre Lodge Guest House
+281717|Longford Lodge Guest House
+281722|Ibis Gloucester
+281723|The Cheltenham Chase Hotel
+281724|Brookthorpe Lodge
+281726|Cranmoor House - B&B
+281727|Alpine Villa Guest House
+281728|Bridge Guest House
+281730|Murcott Mill Farmhouse - B&B
+281731|Cringleford Guest House
+281733|St. Edmundsbury Bed and Breakfast
+281735|Number 3 B&B
+281742|The Barns at Thorpe Market
+281743|Hall Paddock
+281744|Marsham Arms Coaching Inn
+281745|Wayside
+281748|Royal Hotel
+281749|Stower Grange
+281752|Falcon Hotel
+281753|Rose Marie Guest House
+281754|The Stilton Cheese Inn - B&B
+281755|The Towngate Inn
+281756|Bridge Cottage
+281757|Abbey Lodge Guest House
+281759|The New Reading Hotel
+281760|Little Park Farm
+281763|Swan At Streatley
+281766|The Garrison
+281767|Throapham House
+281768|Dusty Miller
+281769|Houseboat Hotels - Hotel Boat
+281772|Windsor Guest House
+281773|Furnival Lodge - Guest house
+281774|Holiday Inn Express Windsor
+281775|Charles House
+281776|London Heathrow Guest House
+281782|Harestock Lodge Hotel
+281784|Little Mead B&B
+281836|College House
+281838|Beckmead House - B&B
+281839|Holly Lodge Guest House
+281843|Queens Head Hotel
+281936|Meadowcroft Guest House
+281937|The Fox Inn
+281955|Drem Farmhouse
+281962|Highfield House - B&B
+281963|Eastwrey Barton - Guest house
+281964|Bovey Castle
+281967|The Tradesmans Arms
+281968|Wick House
+281969|The New Inn
+281970|Frog Street Farmhouse
+281976|Yallands Farmhouse
+281977|Days Inn Taunton
+281978|Canonsgrove Farm
+281979|Rock Inn
+281980|Alexandra Guest House
+281982|Ewenny Woods B&B
+281983|Chapel House B&B
+281989|Castle Park Hotel - Guest House
+281990|Ramada Encore Leicester
+281992|Hallam Guest House
+281994|Highlands of Highworth
+281995|The Highworth Hotel
+281996|Crown
+281997|Jessamine Cottage B&B
+281998|Fir Tree Lodge Hotel - Guest house
+282000|The Barrington Arms Hotel
+282001|The Rose & Crown
+282005|The Red Lion - Townhouse
+282009|Whitworth Falls
+282010|The Stamford
+282011|Bowden Lodge Hotel - Guest House
+282014|Carlton Lodge - Guest house
+282015|Clifton Villa
+282016|Edendale House - Guest house
+282018|Luton Airport Accommodation
+282023|Earle House Serviced Apartments
+282024|Balterley Green Farm - B&B
+282071|The Old Rectory Guest House
+282073|One Holyrood
+282076|Days Inn Magor
+282078|Tigh Na Mara Hotel - Inn
+282079|Witchingham B&B - Hostel
+282080|The Lodge on the Loch of Aboyne
+282083|Old Wills Farm
+282089|The Crown
+282090|Broadlea of Robgill
+282091|Days Inn Lockerbie Annandale Water
+282092|Atholl Court
+282094|St George's House Hotel - B&B
+282095|Curraghmore Hotel
+282098|The Richmond
+282100|The Birkdale - Guest house
+282103|Harbour House B&B
+282104|Birchgrove - Bed and Breakfast
+282105|Torran B&B
+282108|Fairshiels B&B
+282109|Tally Ho Bed and Breakfast
+282110|Stanley Villas B&B
+282113|The Beckford Inn
+282114|Nursery Court B&B
+282118|Woodland Guest House
+282119|Clow Beck House - Guest house
+282123|Ffynonwen Guest House and Restaurant
+282125|The Silverfjord
+282129|Mountview B&B
+282130|Langdale House
+282131|Acorn Villa B&B
+282133|Alexandra Heights
+282134|Kamary Guest House
+282135|Gwyndra House B&B
+282137|Bacchus B&B
+282139|Woodpeckers
+282141|Kernow Homes - Travel accommodation
+282142|The Rising Sun Inn
+282145|Little Grey Cottage B&B
+282147|The Cherries
+282161|Tennyson Court
+282163|The Tennyson
+282164|DoubleTree by Hilton Hotel Lincoln
+282165|Longdales House
+282180|Cartwright Hotel
+282181|The Manor Cullingworth - Guest house
+282182|Alpine Lodge Guest House
+282189|The Queen Anne
+282191|Rushop Hall
+282192|Hay Lane Lodge
+282194|Tudor Court Hotel
+282195|Grove House - B&B
+282196|The Henley Lodge
+282199|Coppid Beech Hotel
+282202|Ramada Encore Newcastle-Gateshead
+282205|Claireville Hotel
+282206|The Parkwood Hotel - Inn
+282207|Apartments Middlesbrough
+282212|Park Hill Gwesty Bryn Parc
+282213|Penmachno Hall
+282214|The White House - B&B
+282229|Ebborways Farm
+282231|Seekings
+282237|Surrone House
+282238|Greenlaw Guest House
+282241|Ashbank Guest House
+282251|Austons Down
+282359|Throckmorton Arms Hotel
+282361|Buckle House - B&B
+282363|Eaton House
+282366|Days Inn Chesterfield Tibshelf
+282372|Castle Gate Guest House
+282373|Ravensmede Cottage - B&B
+282374|Chestnut Tree House - B&B
+282375|The Market Tavern
+282379|Alnwick Lodge - B&B
+282380|Flossie's B&B
+282410|Ballyrobin Country Lodge
+282412|Bay Cottage B&B
+282432|Compton House - Guest House
+282434|Ardenwood B&B
+282447|Marlagh Lodge
+282449|Studio 101
+282450|Tregarth Homestay B&B
+282451|Groeslon Ty Mawr
+282454|Greenbank Guest House
+282455|East Mount House
+282456|Limpert Bay Guest House
+282460|The Spotted Cow - Restaurant with rooms
+282461|The Ferguson Fawsitt Arms & Country Lodge - Inn
+282463|Eve's B&B
+282464|Bexhill B&B
+282468|Dale End Hamsterley - B&B
+282469|Dales Farm Upper Weardale
+282472|True Lovers Knot - Inn
+282474|Hilltop Barn - B&B
+282478|Boston Lodge Hotel
+282480|Still Meadow
+282481|The Old House - Guest house
+282484|The Malt Shovel Inn
+282485|Castle of Comfort Country House - Guest House
+282487|The Hood Arms Hotel
+282490|Apple View & Bramley Lodge - Farm
+282491|Longcroft Hotel - Guest house
+282492|All Seasons B&B
+282494|The Stonmar
+282495|Malvern Guest House
+282499|The Tennyson
+282500|Windmill Guest House
+282501|Oakwell Holidays
+282504|Pembroke Seafront B&B
+282508|The Marina
+282513|The Lodge at Birkby Hall - B&B
+282514|Redlands Guest House
+282515|The Manor Inn
+282520|Thatched Cottage
+282522|Clay Farm Guest House
+282525|The Fox Inn
+282529|Dove Cottage B&B
+282530|The Old Joinery
+282540|East View Guest House
+282541|Holly Trees Hotel
+282542|Cherry Grove Guest House
+282545|Lolfa Cynin
+282547|Carrmoor Guest House
+282566|Nesfield Cottage B&B
+282567|Casa Hotel
+282570|Bell House
+282571|Manor Farm Bed & Breakfast
+282575|Damson Cottage B&B
+282580|Gleadhill Farm
+282584|The Avon Causeway Hotel- Inn
+282589|Priory Guest House
+282590|The Old Post House Hotel
+282591|Middle Flass Lodge
+282612|Marine Hotel
+282613|Bodlondeb Hotel
+282614|Min-y-Gaer Guest House
+282616|The Bulls Head
+282621|The Victorian House
+282625|Bayards Cove Inn - Guest house
+282626|Anchor House
+282629|The Granary at Fawsley
+282630|The Blenheim
+282640|Vine Cottage B&B
+282642|Rosemundy Cottage - B&B
+282649|Lantern House
+282650|Westwood Guest House
+282651|Bay Tree House - B&B
+282654|The Brace of Pheasants - Inn
+282657|The Red Lion
+282659|The Wold Cottage - B&B
+282660|The Anchor Inn
+282665|White Hart Hotel
+282666|Langlands B&B
+282667|The Auldgirth Inn
+282668|The Old Shop
+282672|Wood Fen Lodge
+282679|Trafalgar Guest House
+282680|The Albany - B&B
+282712|George Hotel
+282713|The Place to Stay
+282727|Uplands Hotel & Restaurant
+282728|Allington Manor
+282729|The Leather Bottle
+282736|The Steppes - B&B
+282737|Marshspools Country Inn
+282745|The Origin Educere Centre B & B
+282746|Gleann an Ronnaich
+282750|Gardenia Guesthouse B&B
+282751|Craigielea Guest House
+282753|Redshill B&B
+282755|The Crown
+282757|Dartmouth Golf & Country Club
+282758|Southcroft - B&B
+282759|Higher Coombe Farm
+282761|Cumberland House - B&B
+282763|The Hunters Moon - Inn
+282765|La Fleur de Lys - Restaurant with rooms
+282769|Splatthayes B&B
+282771|The Old Bakery
+282772|Bracken House
+282775|Moorlands - Guest house
+282776|Church Farm Guest House
+282784|Maeswalter
+282789|Bluebell Farm
+282790|The Boot Inn
+282791|The Swan Inn
+282797|The Beeches Guest House
+282799|The Nelson
+282800|The Old Rectory
+282803|The Waverley - Guest House
+282804|The Plough
+282806|Esklet Guest House
+282811|Netherby House Hotel
+282814|Sanders Yard B&B
+282817|Moorhouse B&B
+282819|Brandelhow Guest House
+282821|Stafford House
+282823|The Herdwick Inn
+282825|The Townhouse Hotel
+282826|West Park Hotel
+282827|The Reading Rooms - B&B
+282832|Sandman Signature Newcastle
+282835|Hall Bank Guest House
+282838|Fairshaw Rigg - B&B
+282843|Coach House
+282845|Thornley House - Guest house
+282847|Hadrian Hotel - Inn
+282849|The George & Dragon Inn
+282852|The Carriage House
+282853|Ailean Chraggan
+283023|Carradale Hotel
+283024|Dunvalanree Inn
+283031|The Pierhouse Hotel & Restaurant
+283109|The Trecastell Hotel
+283110|The Mount Pleasant Inn
+283480|The Palace Hill Hotel - B&B
+283484|The Sheridan - Guest house
+283485|Amrock Guest house
+283487|Tall Storeys
+283488|Kimberley Hotel
+283490|Hotel Catania
+283491|The Highlander Hotel
+283493|17 West Street
+283495|Powys Lodge
+283496|Airedale Guest House
+283497|Esplanade Gardens B&B
+283499|Gordon Hotel
+283500|Aartswood Guest House
+283501|Holly Croft
+283502|The Meltham Guest House
+283504|West Lodge
+283507|Miricia Hotel
+283508|Cavendish Hotel
+283510|Derwent House Hotel - Guest house
+283511|Chomley Holiday Flats
+283515|Troutsdale Lodge
+283568|The White House
+283570|Phoenix Guest House
+283573|Summerfields House - B&B
+283576|Prestatyn Sands Holiday Park
+283596|The Oystercatcher
+283597|The Lodge Elgin - Guest house
+283621|Copperfields Vegetarian Guest House
+283626|Portcaman House B&B
+283627|Causeway Tavern B&B
+283628|Rest A While B&B
+283733|Chycara House
+283737|The Victoria Inn
+283741|Cadgwith Cove Inn
+283748|JJs Hotel
+283749|The Clarendon Lodge
+283751|Stepping Stones
+283754|Katalena
+283755|The Peaceful Retreat Guest House B&B
+283757|Ty Mawr Mansion Country House
+283758|Merwerydd B&B
+283759|Grand Hotel
+283763|Waters End Farm B&B
+283764|Beech Lodge
+283765|Pebble Beach
+283775|The King's Arms Inn
+283779|The Exeter Arms
+283781|The Warwick Guest House
+283802|The Old Post Office
+283803|Brook House
+283807|The Ship Inn
+283808|Hardwicke Hall Manor Hotel
+283809|Staincliffe Hotel
+283810|The Bent Arms Badgers Inn - B&B
+283812|The Crown
+283813|Sillett House
+283814|Springfields
+283815|Mannings Heath Hotel
+283818|Bramble Corner - B&B
+283820|The Prince of Wales
+283822|Woodleigh B&B
+283824|The Five Dials Inn
+283834|Burleigh Court Hotel
+283836|The Royal Oak
+283838|Amanda's B&B
+283839|Riverbank Guest House
+283840|Temple Hotel Limited - Guest House
+283842|No 29 Well Street B & B
+283844|Tower - B&B
+283845|The Druid Inn
+283847|Lea Farm
+283850|Wall Hill Farm Guest House
+283852|Greystones B&B
+283857|The Trooper Inn
+283864|The Hope & Anchor Inn
+283870|The Coniston Hotel
+283871|Tennant Arms Hotel- Inn
+283872|Zarina's
+283874|Forest Guest House
+283875|Beechwood Guest House
+283876|Elmswood Guest House
+283878|Holiday Inn Southend
+283880|Felicitations - Guest house
+283884|Little Dane Court
+283890|Koala Cottage
+283894|Bankes Arms Hotel - Inn
+283895|Ammonite B&B
+283898|The Brocket Arms
+283901|Colston Hall B&B
+283903|Old School House B&B
+284041|The Saracens Head - Inn
+284043|Sturmer Hall - Guest House
+284048|The Mill Arms
+284050|The Dairy at Packridge Farm - B&B
+284054|Richmond - Guest House
+284055|The Milton Lodge
+284059|Rosita
+284062|Holly Lodge Guest House
+284063|Brooklands Guesthouse
+284064|Spreyton Guest House
+284191|The Abbey Hotel
+284195|Treglos Hotel
+284201|Holly Lodge
+284204|Links Lodge
+284353|The Crooked Inn
+284373|Mount Pleasant - B&B
+284374|Mennabroom
+284377|St. Benets Abbey - Guest house
+284382|The Old Mill House
+284385|Rainbow Ridge Guest House
+284386|The Olive Branch
+284390|Langleigh House
+284391|Sawmill Inn
+284393|Wirral Lodge
+284396|Rosemead Guest House
+284399|The Silver Cup - Inn
+284402|Leeming Wells Hotel - Guest house
+284404|Bridge House
+284408|The Lowther Hotel
+284412|The Mere Golf Resort & Spa
+284413|Laburnum Cottage Guest House
+284414|Whin Park Guest House
+284415|St Leonards Guest House
+284416|The Heath Inn
+284417|Beechwood B&B
+284418|Nelson Hotel
+284419|Derwent House
+284422|Angel House - B&B
+284423|The Cliffe
+284426|Shears Inn
+284429|Whaddon Grove House - B&B
+284432|Boars Head
+284438|Corder Apartments
+284442|The Willow House
+284443|Martineau Guest House
+284446|Castle View Bed & Breakfast
+284448|Clennell Hall Hotel
+284449|Newcastle Hotel
+284454|The Cook & Barker Inn
+284455|Farm Cottage Guest House
+284456|The Anglers Arms
+284462|Lobhill Farmhouse
+284465|Little Widefield Farm
+284468|Carrington Guest House
+284469|Beecroft Lodge - Guest house
+284475|Bristol House - Guest House
+284477|Braedene Lodge Bed and Breakfast
+284478|The Briars
+284480|Cleve Court Hotel - Guest House
+284482|Kingswinford Guest House
+284483|Birklands Guest House
+284484|Collerton Lodge
+284486|Easton Court
+284487|Trentham Guest House
+284488|Bronte Hotel - B&B
+284493|Bella Vista - Guest house
+284494|Earlston House - B&B
+284496|The Lamb Inn
+284500|Gidea Park Hotel
+284501|Douglashall B&B
+284502|Colton House
+284503|The Fishbourne
+284505|Casati House
+284506|Kasbah
+284508|Tan-Yr-Onnen Guest House
+284511|Belgrave B&B
+284517|The Ragged Cot - Restaurant with rooms
+284527|The Oxfordshire Golf Hotel and Spa
+284528|Highcroft House
+284530|Molesworth Arms Hotel
+284534|St Moritz Hotel
+284535|Park Farmhouse
+284537|The Resting Post
+284539|Spread Eagle Inn
+284540|The Walnut Tree Inn
+284541|The Grasshopper Inn
+284542|Armidale Cottages Bed & Breakfast
+284544|The Masons Arms
+284546|Hawk House - B&B
+284547|Cherry Pie B&B
+284548|Key Farm House
+284602|The White Hart
+284605|The Old Stables
+284606|Days Inn Milton Keynes East M1
+284620|Lew Barn - B&B
+284621|Oak Tree Farm
+284622|Headdons Bed & Breakfast
+284623|Court Barn Country House Hotel
+284624|Leworthy Farmhouse
+284638|Forresters Hotel and Restaurant
+284641|Homelands Guest House
+284649|The Whyte Harte Hotel - Inn
+284658|Aldercarr Hall
+284659|Eveleigh House B&B
+284660|The Stables
+284662|East Lyn House - B&B
+284664|Lorna Doone House
+284668|The Woolpack Inn
+284669|Orchard House
+284674|The Westfield
+284675|The Bernay - Guest house
+284677|Robertsbrook Guest House
+284678|Taunton House - B&B
+284683|Manor Farm Bed & Breakfast
+284684|La Fontana - Restaurant with rooms
+284760|The Pavilion
+284761|Foxcroft Bed and Breakfast
+284763|Wayside Guest Accommodation
+284796|Windmill Serviced Apartments
+284820|Apple House Guest House Heathrow Airport
+284822|Staycity London Heathrow Apartments
+284826|Manor Farm Barn B&B
+285065|Drayton Court Hotel
+285075|Hotel Xanadu
+285078|La Suite West
+285079|Lensbury Resort
+285080|Mercure London Greenwich
+285082|Oakwood at Farringdon
+285083|Oakwood At St John-s House
+285084|Phoenix Heights by Bridgestreet
+285087|Premier Apartments London
+285108|Travelodge London Stratford
+285116|Wembley Hotel
+285117|Leinster Gardens Apartments
+285118|Queens Drive Hotel
+285119|Grosvenor House Apartments by Jumeirah Living
+285120|Tooting Place Apartments
+285121|Hilton London Wembley
+285129|Motel One Edinburgh-Royal
+285131|Travelodge Edinburgh Central Queen Street Hotel
+285134|Edinburgh Central Guest House
+285135|Halcyon House
+286770|The Elphinstone Hotel
+287366|School Cottages B&B & Self-Catering
+287368|The George Inn
+287372|Homestead B&B
+287373|Tovey Lodge
+287376|Sophie's B&B
+287377|The Queens Hotel
+287379|Rolling Waves Hotel - Guest house
+287385|The Tithe Barn
+287387|The Crown
+287389|The Lorna Doone Hotel
+287393|The Briarfields
+287395|The Wellington Hotel - Inn
+287396|Rosalie Guest House
+287397|Westbourne House
+287407|Days Inn Maidstone
+287409|Crossways Hotel
+287411|Lovesgrove Country Guest House
+287418|Forresters Arms Hotel - Inn
+287420|The Old Rectory
+287423|Black Bull Inn
+287428|Travelodge Fort William
+287431|The Bankfoot Inn
+287436|Bridgeside Guest House - B&B
+287467|Mariners Hotel - Hotel
+287473|The Venue Hotel and Conference Centre
+287772|Melbreak House
+287773|Dalegarth House
+287774|Rickerby Grange Country House
+287775|The Bungalows Country Guest House
+287777|Days Inn Durham
+287780|Hotel Colessio
+287782|Northern Sands Hotel
+287812|Ellenborough Park
+287819|Bella Dorma
+287820|Lakes End Country Guest House
+287892|Greenbank B&B
+287896|The Porthvean - B&B
+288037|Blackberries Restaurant, Bar & Rooms - Restaurant with rooms
+288045|Netherleigh B&B
+288063|The Ship Inn
+288077|Alvanley Arms Inn
+288102|Wanslea Guest House
+288104|Horse & Groom Inn
+288106|The Brasenose Arms - Inn
+288115|Melbourne Hotel
+288125|The White Horse Inn
+288126|George and Dragon
+288134|Tudor House Hotel & Restaurant
+288136|The Shakespeare Inn
+288137|The Kings Head Hotel - Inn
+288177|Latimer House
+288316|Three Tuns Hotel
+288354|The Coach House
+288366|Morefield Motel
+288389|The Church House Inn
+288400|Dovecliff Hall Hotel
+288403|Allt Gynack Guest House
+288454|Rockingham Lodge
+288457|Knowle Country Accommodation
+288458|Church Farm
+288461|Ash Farm Country Guest House
+288645|Days Inn Cobham - M25
+289091|Crosskeys House - B&B
+289092|The Old George
+289104|The Olive Mill - Restaurant with rooms
+289107|Winston House
+289110|Bull's Head Hotel
+289131|Cairn Hotel - Inn
+289171|The Old Rectory - B&B
+289172|Red Lion - B&B
+289203|The Bear Hotel
+289206|The Bell Inn
+289257|Old House Hotel - Townhouse hotel
+289270|The George At Nunney
+289287|Nightel
+289313|Fife Arms Hotel
+289314|The Brig - Carronbridge
+289326|Days Inn Tewkesbury Strensham
+289328|The George at Wath
+289330|The Anchor Inn
+289331|The Cheviot Hotel
+289333|The Sun Inn
+289335|Westfield B&B
+289338|Thorney Hall - B&B
+289579|Kelham House Hotel
+289684|Chestnut Cottage B&B
+289685|The Windmill B & B
+289991|The Old Vicarage
+289992|The Three Tuns Hotel
+290001|Greetham Valley Hotel
+290121|The Wool Merchant Hotel
+290124|Red Lion
+290128|Fullards Farm
+290129|The Duke of York
+290132|Sir Douglas Haig- Inn
+290133|Old Rectory - Bed & Breakfast
+290136|Pakefield Holiday Park
+290137|Horse And Groom Inn
+290139|The Fox Inn - B&B
+290140|The Jug & Glass Inn
+290141|The Red Lion Hotel
+290142|The Swan Inn - Restaurant with rooms
+290144|Pavilion House
+290150|Park Inn by Radisson Palace, Southend-on-Sea
+290152|Gothic View Gourmet B&B
+290153|Frome Dale
+290154|The Royal Oak Hotel
+290156|The Vine House
+290513|The Royal Hotel Woolacombe
+290539|The Bell Inn
+290540|Kester House B&B
+290953|Paths End - B&B
+290955|Westwood - B&B
+290957|Saffron House Hotel
+290958|Park View B&B
+290959|Sherborne Lodge - Guest house
+290960|The Woodlands Hotel - Guest house
+290962|Falcon Inn
+290964|Inn on the Hill
+290967|The Cherry Tree Inn
+290969|Radnorshire Arms Hotel
+290971|The Windmill at Tabley
+290972|The Cottage
+290973|Pickmere Country Guest House
+290974|The Hinton Guest House
+290981|The Shaw Country Hotel
+290987|The Vines B&B
+290989|The Old Hall
+290990|The Village Inn
+290991|Queens Head
+290992|Springfield Guest House
+290999|North Laurels House - Guest house
+291001|Whitehouse Cottage
+291003|Wild Garlic Restaurant & Rooms
+291009|Days Inn Sevenoaks Clacket Lane
+291352|Langaton Farm
+291582|The Cliffemount
+291609|The Bay
+291614|Ardanaiseig Hotel
+291615|Gadlys Country House Hotel
+291618|Tullylagan Country House Hotel
+291622|Boars Head
+291623|2 The Crofts
+291627|The Black Swan Inn
+291628|Gun Rock
+291632|Wheyrigg Hall
+291633|Wellington Hotel
+291634|Port Gaverne Hotel
+291636|Five Alls
+291638|Saffron Hotel - Inn
+291641|Bannatyne Charlton House
+291642|Cantley Lodge
+291703|Quality Wolverhampton
+291779|Purley Place Apartments
+291780|Ibis Styles London Croydon
+292035|Travellers Inn
+292036|Birmingham Best Inn Hotel
+292039|Bridge Inn
+292040|Pack Horse Inn
+292041|The Old Post Office
+292047|Lomond Park Hotel
+292208|The Richmond Park Hotel Bo'nes
+294335|Cantley House Hotel
+295450|Milton House
+295601|The Castle
+295627|Kings Arms Hotel
+295636|Fountain Court Apartments - Grove Executive
+295656|The Fairhaven Hotel
+295780|Best Western Plus Coniston Hotel & Restaurant
+296371|Novotel London Blackfriars
+296781|Cafe Royal
+296782|RestUp London Hotel
+297289|Caddon View
+297366|The Lindum Hotel Limited
+297647|Ruskin Hotel
+297650|Glencoe House
+298238|The Westbridge
+298313|Yeoldon House
+298598|Beach House
+298618|The Alverton
+298637|The Columba Hotel
+298755|The Grosvenor Arms
+299803|Sunnyside B&B
+299840|Fairview
+299841|Hazelwood Guest House
+299842|Hilbre Hotel
+299849|The Franklyn Hotel
+299853|Bryn Meadows Golf, Hotel & Spa
+299858|The Cremona
+299859|Abbey Bridge
+299868|Hensleigh House
+299871|Hilton at St George's Park
+299893|Rye Flatt B&B
+299902|The New Inn
+299911|Pleasington Suites
+299987|Bostrase
+299994|Old Riverview Guesthouse
+300019|Colossus B&B
+300035|Throstle Nest Farm
+300037|Eagle Child Inn
+300038|Guest House Lake View
+300039|The Grange Hotel
+300083|Malin Court
+300086|The Lamb Inn
+300094|Causeway Hotel
+300129|Park Inn By Radisson Glasgow City Centre
+300218|Avondale
+300223|Fountain Inn
+300241|Abbey House B&B
+300242|The Trevelyan Arms
+300288|Heywood Homes
+300290|Little Hazels B&B
+300297|Woodside of Glasslaw Guest House
+300310|Lynton House
+300314|Langham Court
+300316|Cannards Grave Farmhouse
+300318|The Cannards Well
+300321|The Carpenters Arms
+300358|Spencer Guest House
+300364|Overdale Guesthouse
+300367|Wychnor Park Country Club
+301299|Mortham Cottage
+301820|Adagio Liverpool City Centre
+301822|Ibis London Blackfriars
+301825|Mercure Newcastle George Washington Hotel Golf & Spa
+302190|Avni Luxury Serviced Apartments
+311082|Garden Court
+314663|Kelvin Hotel
+314685|Adcote House
+322949|Beach House Hotel
+323006|Faviere Guest House Stratford-upon-Avon
+323043|Ascot House Hotel York (England)
+323260|Arcadia Guest House
+324508|Avonlea House
+324516|Aurora Hotel
+325154|The Merginn Hotel Blackpool
+325161|New Derina
+325344|Rayrigg Villa Guest House
+325346|Briery Wood Hotel
+325556|The Swan Hotel Staines
+325870|Baytrees Hotel - B&B
+325971|Elm House Hotel
+326033|Medehamstede Hotel
+326228|Craven Heifer Inn
+327689|Potts of Flemingate Hotel Beverley
+327968|Crown & Cushion Inn
+328054|Birchleigh Guest House
+328148|Hadley Bowling Green Inn
+328165|The Poplars - Rooms & Cottages
+328880|Angel
+329306|Blacksmiths Arms Inn
+329576|Seaspray Guest House St Leonards
+329577|Alexander's
+330251|Grand Hotel - Lerwick
+333136|The Crown at Marnhull Inn
+333144|Swan Inn Wadebridge
+334175|The Rosemont
+334176|Barnabas House
+335012|Comfort Zone Parkside Apartments Birmingham
+335034|Macdonald Aviemore Resort - Luxury Woodland Lodges
+335035|Macdonald Aviemore Resort - Highlands Hotel
+335036|Macdonald Aviemore Resort - Strathspey Hotel
+335037|Macdonald Aviemore Resort - Morlich Hotel
+335038|Medburn Apartments
+335048|So Park
+359490|Hyde Park Boutique
+359709|The Swan Inn
+359787|Holiday Inn Express Birmingham Snow Hill
+359850|Twelve Picardy Place
+359882|Shangri-La Hotel, At The Shard, London
+363360|Xenia
+363400|Ben Nevis Guest House
+366662|Oakwood at Point West
+366936|Courtyard Aberdeen Marriott
+366937|Hampton by Hilton Birmingham City North
+366948|Abc Hyde Park
+366950|Bridgestreet Suffolk Lane Apts
+366952|Cheval Gloucester Park
+366953|Cheval Knightsbridge
+366954|Cheval Phoenix House
+366955|Cheval Thorney Court
+366960|Dreamhouse Apartments City Of London
+366961|Dreamhouse Apartments London
+366988|The Pillar Hotel London
+366989|The Wellesley
+367001|Dreamhouse Apartments
+367011|Edinburgh Conference Centre
+367012|Edinburgh West End Church Apt
+367019|Travelodge Glasgow Airport
+368384|Doubletree by Hilton Liverpool
+368385|Ibis Style Liverpool Dale Street
+368893|Ibis Brighton City Centre
+368910|Oddfellows
+369058|De Vere Venues Orchard Hotel
+369157|Hampton By Hilton Exeter Airport
+369404|Hampton by Hilton Sheffield
+369405|The Manor House-dronfield
+369543|Hampton by Hilton London Luton Airport
+369605|Bankton House Hotel
+370280|Balmule House
+371053|Alison House Hotel
+371310|Victoria Mansions-weston Super Mare
+372674|Ackergill Tower
+372695|The Highlands Hotel
+373238|Hillscourt
+373248|York - Albany
+373257|The Kensington Studios
+373260|27 Paddington
+373267|Waterside Hotel & Leisure Club
+380634|Dunedin
+380644|Clenaghans
+383993|Dovedale
+384295|Lighthouse
+386858|Buccleuch Arms
+389967|Cavendish
+390375|Lambert Arms
+391321|London City Suites By Montcalm
+391327|Mondrian London
+391342|Dorsett Shepherds Bush
+391575|W12 Rooms
+391873|ibis Edinburgh Centre South Bridge
+392155|Go Native Mayfair
+392163|The Bridge
+392164|Camelot Castle
+399644|Hampton by Hilton Waterloo
+399783|Staybridge Suites Birmingham
+400938|So Arch Hotel
+401126|Marriott London West India Quay
+401445|Grassington Lodge
+401516|The Harlequin Guest House
+403286|Go Native Aldgate East - geschlossen
+403287|Go Native Oxford Street / Regent's Park
+403288|Go Native Stratford East
+404404|The Mitre
+404405|Ingliston Country Club
+404706|Holiday Inn Express Manchester Airport
+404707|Victoria Warehouse
+404711|Old Town Chambers
+404831|The Richmond Luxury Hotel and Spa
+404925|The Legacy Farnham Hog's Back Hotel
+404940|College Court Conference Centre
+404968|National Hotel
+404971|Burford House Hotel
+404978|Poets House
+405020|The Old Rectory Hotel
+405085|The Pykkerell Inn
+405086|Elme Halll Hotel
+405152|The Royal Hotel
+406491|Arden Hotel & Leisure Club
+406696|Novotel London Brentford
+406698|ibis Styles Edinburgh Centre St Andrew Square
+406700|Novotel London Wembley
+407946|Aparthotels London
+412182|Sandford Springs Hotel & Golf Club
+412183|Aloft Liverpool
+412933|Norfolk Hotel
+413259|Hotel Lemon Apartments
+414823|London Bridge Apartments
+414834|Waterside Apartments
+417512|Howthorn Cottages
+417514|Hilton Royal Parade
+417518|Shoyswell Cottage B&B
+417519|St Paul's Hotel
+417520|Summer Isles Hotel
+424501|The Exhibitionist

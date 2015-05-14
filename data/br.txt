@@ -1,0 +1,2035 @@
+165|Sol Belo Horizonte
+166|Rio Buzios Beach
+169|Catussaba Resort
+170|Maceió Atlantic Suites
+174|Tivoli Ecoresort Praia do Forte
+175|Atlante Plaza
+177|Best Western Manibu Recife
+178|Golden Tulip Recife Palace
+179|Atlantico Copacabana
+180|Golden Tulip Regente
+181|Merlin Copacabana
+182|Pestana Rio Atlantica
+183|Bahiamar
+185|Deville Salvador
+187|Sol Victoria Marina
+189|Tsue Bienal Flat
+192|Mercure São Paulo Pamplona
+8521|Bandeirantes
+9134|Vila Galé Eco Resort do Cabo
+9249|Brasil Tropical Hotel - Residence
+10100|Casas Brancas
+10746|Copacabana Palace
+11140|Das Cataratas
+12366|Windsor Excelsior
+13524|Grande da Barra
+14882|International Palace
+15049|Jatiuca Resort - Hotel & Suites
+15562|Kubitschek Plaza
+16081|Windsor Atlântica
+16762|Manhattan Plaza
+16786|Mar
+17036|Costa do Sauipe Golf & Spa
+17548|Mirasol Copacabana
+17666|Monte Pascoal Praia
+18194|Ocean Palace Beach Resort & Bungalows
+18209|Oceano Copacabana
+18301|Mareiro
+18406|Othon Palace
+19192|Windsor Plaza
+19264|Pontal de Ocapora
+19317|Portobello Resort & Safari
+19367|Byblos Pousada
+19373|Porto da Lua
+19376|Sauipe Resort - Sauipe Pousadas
+20033|Regente
+20371|Rio Othon Palace
+20740|Royalty Copacabana
+20978|San Martin
+20995|San Raphael
+21556|Tivoli São Paulo Mofarrej
+21576|Sheraton Rio
+21799|Sauipe Resort - Sauipe Park
+21819|Sofitel Rio de Janeiro Copacabana
+21833|Sol Bahia
+21993|South American Copacabana
+22281|Suica
+22407|Sauipe Resort - Sauípe Club
+23373|Sheraton da Bahia
+23374|Tropical Manaus
+23728|Vila Boa Vida
+24480|Windsor Palace
+24908|Navegantes Praia
+26354|Vilangelim Eco Pousada
+26355|Summerville Beach Resort
+26356|Armação de Porto
+26358|Pizzato Praia
+26359|Visual Praia
+26360|Manary Praia
+26361|Rifoles Praia
+26363|Golden Tulip Ipanema Plaza
+26402|Transamérica Ilha de Comandatuba
+26404|Pousada do Amparo
+26495|Marazul
+27005|Olinda Rio
+27210|Bourbon Curitiba Convention
+27211|Imperial Othon
+27212|Solar do Rosário
+27215|Golden Tulip Continental
+27216|Savoy Othon Travel
+27217|Bahia Othon Palace
+27218|Club Med Rio das Pedras
+27219|Club Med Itaparica
+31802|Pantanal Araras Eco Lodge
+31806|Pestana Natal Beach Resort
+31807|Pestana São Paulo
+31808|Pestana Bahia
+32661|Ibis Porto das Dunas
+32662|Vila Gale Fortaleza
+32663|Eco Paradise Cumbuco
+34088|Carlton
+38543|Pousada dos Gravatas
+38956|Marriott Sao Paulo Airport
+38957|Best Western Solar Porto De Galinhas
+38958|Othon Palace Fortaleza
+47432|Miramar Hotel by Windsor
+47433|Tulip Inn Copacabana
+47434|JW Marriott
+47436|Mabu Thermas
+47438|Iguassu Resort
+47442|Do Frade Golf & Resort
+47444|Portogalo Suite
+47446|Melia Brasil 21
+47984|Pousada Porto Zarpa
+47985|Luzeiros
+47986|Lisboa Praia
+48004|Golden Tulip Iate Plaza
+48014|Hotel 7 Colinas
+48016|Villa Mayor
+48195|Grand Hyatt
+51392|Pousada Porto Imperial
+51393|Golden Tulip Rio Vermelho
+52646|Vila Galé Eco Resort de Angra
+52647|Colonna Park
+52649|Royal Tulip Rio de Janeiro
+52650|Marina Park
+52651|Seara Praia
+52652|Quality Inn Fortaleza
+52774|Recanto Cataratas Thermas Resort & Convention
+52775|Mar Palace
+52776|Natal Mar
+52777|MyBlue Hotel
+54214|Hotel Iracema Flat
+54215|Holiday Inn Fortaleza
+54217|Comfort Fortaleza
+54662|Max Savassi
+54663|Quality Alfonso Pena
+54664|Liberty Palace
+54666|Radisson Barra
+54667|Rio Design
+54668|Everest Rio
+54669|Center
+54671|Caesar Park Rio de Janeiro Ipanema Managed by Sofitel
+54672|Regina
+54673|Promenade Barra First
+54674|Premier Copacabana
+54675|Orla Copacabana
+54676|Ibiza Copacabana
+54677|Ducasse Rio
+54679|Sia Park
+54680|Comfort Suites Brasilia
+54681|Altareggia Plaza
+54682|Four Points Curitiba
+54683|Holiday Inn Porto Alegre
+54684|Radisson Hotel Porto Alegre
+54686|Sheraton Porto Alegre
+54687|Duque Center
+54688|Ritter
+54965|Estanplaza International
+54967|Estanplaza Berrini
+54968|Century Paulista
+54969|Sheraton WTC
+54971|Quality Suites Bela Cintra
+54972|Massis Five Stars
+54973|HB Sequoia
+54974|Clarion Faria Lima
+54975|Plaza Inn American Loft
+54977|Gran Estanplaza
+54980|Comfort Ibirapuera
+54981|Transamérica São Paulo
+54982|Prodigy Grand Hotel & Suites Berrini
+54983|InterCity Premium Berrini
+54985|Estanplaza Funchal-Faria Lima
+54986|Holiday Inn Parque Anhembi
+54987|Blue Tree Premium Paulista
+54988|Quality Faria Lima
+57672|Hilton Sao Paulo Morumbi
+57673|La Chimère Pousada
+57675|Royal Tulip Brasilia Alvorada
+57676|The Time Othon Suites
+57677|Pestana Angra
+57678|Renaissance Sao Paulo
+57679|Othon Classic
+57680|Nannai Beach Resort
+57681|Bristol Merit
+57682|Pousada Vila d'Este
+58250|Pousada Caminho do Mar
+59204|Komplex Oasis Atlantico Fortaleza / Oasis Atlantico Imperial
+59849|Blue Tree Premium Morumbi
+59851|Ibis Salvador Rio Vermelho
+59854|Acapulco Copacabana
+59858|California Othon Classic
+59859|Marante Plaza
+61177|A Casa das Portas Velhas
+61178|Via dos Corais
+61179|Dorisol Recife Grand
+61180|Pousada Toca da Coruja
+62775|Isca Do Sol
+62894|Boa Viagem Praia
+62895|Vila Rica
+62898|Prodigy Hotel Recife
+62908|Maceio Mar
+62909|Le Palmier
+62913|Pedra da Laguna
+62915|Caminho do Sol
+62916|Debret
+63175|Porto Seguro Praia
+63889|Vela Branca
+63891|Brisa da Praia
+63908|Iberostar Bahia
+63910|Vila Galé Mares
+64477|Porto Bay Rio Internacional
+64478|Beach Class Suites
+64509|Vila Galé Salvador
+64573|Pousada Eco Atlantico
+64577|Solar do Carmo
+64578|Abracadabra Pousada
+64579|Marina All Suites
+64580|Marina Palace
+65305|Hilton Belem
+66239|Bourbon Cataratas Resort & Convention
+66242|Best Western Falls Galli
+66249|Convento do Carmo
+66253|Vela e Mar
+66342|Club Med Trancoso
+67460|Radisson Sao Paulo Faria Lima
+68177|La Torre
+68577|Tryp Campinas
+68584|Quality Porto Alegre
+68585|Tryp Brasil 21 Suites
+68587|Bristol Jangada Fortaleza
+68602|Quality Berrini
+68603|Tryp Tatuape
+68604|Tryp Paulista
+68606|Tryp Naçoes Unidas
+68607|Tryp Jesuino Arruda
+68608|Slaviero Executive Jardins
+68609|Tryp Itaim
+68610|Tryp Iguatemi
+68611|Slaviero Executive Guarulhos
+68612|Tryp Berrini
+68614|Melia Jardim Europa
+68628|Melia Angra Marina
+68631|Parkhotel
+68804|Parque da Costeira
+68805|Marsol
+68806|Porto do Mar
+68807|Imira Plaza
+68808|Esmeralda
+69369|Pousada Gabriela
+69421|Costao do Santinho
+69422|Ponta Mar
+69423|Hampton Park
+69424|Plaza Praia Suites
+70914|Maredomus
+70915|Tulip Inn Saint Martin
+70916|Recanto das Aguas
+70917|Clarion Lourdes
+71022|Transamérica Executive Congonhas
+71023|Transamérica Executive Faria Lima
+71024|Transamérica Executive Perdizes
+71025|Transamérica Executive The Advance
+71026|Transamérica Executive The Special
+71027|Transamérica Executive 21st Century
+71028|Transamérica Prime Paradise Garden
+71029|Transamérica Prime International Plaza
+71030|Transamérica Executive Chácara Santo Antônio
+71031|Tulip Inn Interactive Jardins
+71032|Recife Flat Service
+71033|Transamerica Classic La Residence
+71034|Grand Plaza
+71035|Tulip Inn Paulista Convention Flat
+71036|Radisson Sao Paulo Vila Olimpia
+71037|Comfort Downtown
+71038|Quality Moema
+71039|Quality Jardins
+71040|Quality Suites Imperial Hall
+71042|Blue Tree Premium Congonhas
+71043|Comfort Nova Paulista
+71044|Quality Suites Vila Olimpia
+71045|Comfort Suites Oscar Freire
+71046|Fasano
+71047|Estanplaza Nacoes Unidas
+71048|Estanplaza Ibirapuera
+71049|Estanplaza Paulista
+71050|Golden Tulip Paulista Plaza
+71051|Golden Tulip Park Plaza
+71052|Marriott Executive Apartaments
+71053|Potengi Flat
+71054|Morumbi Business
+71065|Travel Inn Pituba
+71066|Sauipe Resort - Sauípe Premium
+71075|Marupiara
+71077|Muro Alto Marupiara Suites
+71078|Village Porto de Galinhas
+71079|LG Inn Recife
+71159|Comfort Inn Porto Alegre
+71199|Quality Hotel & Suites Natal
+71281|D'Anatureza Resort
+71282|Ritz Lagoa da Anta
+71283|Blue Tree Premium Fortaleza
+71284|Residenza Casa del Sole
+71285|Costamar
+71286|Salinas do Maragogi Resort
+71287|Transamerica Prime Batel
+71288|Vilamar Suites
+71289|Gran Marquise
+71290|Village Barra
+71294|Praia Mansa Suíte
+71295|Chambertin Classic
+71296|Ponta Verde Maceio
+71298|Nobile Lakeside Convention & Resort
+71330|Carmel Express
+71331|Magna Praia
+71332|Beira Mar
+71333|Sonata de Iracema
+71334|Golden Beach
+71335|Praiano
+71336|Spazzio Residence
+71337|Aquaville Resort
+71338|Beach Park Resorts - Acqua Beach Park Resort / Suites Beach Park Resort / Wellness Beach Park Resort / Oceani Beach Park Resort
+71653|Serhs Natal Grand
+72151|Quality Curitiba
+72153|Suarez Campo Bom
+72154|Sambura Praia
+72775|Super Economico
+72776|Iracema Travel
+72777|Class Suites London Flat
+72778|Le Premier Suites
+72779|Arena Copacabana
+72780|Lancaster Othon Travel
+72781|Windsor Leme
+72782|Fiesta Bahia
+72783|Deville Express Curitiba
+72784|Praia Ipanema
+72785|Deville Porto Alegre Aeroporto
+72786|Deville Curitiba
+72787|Ouro Minas Palace
+72788|Majestic Palace
+72790|Novotel Manaus
+72792|Golden Park Viracopos
+72793|Matiz Guarulhos
+72794|Matiz Manhattan
+72795|Universe Flat
+72796|Comfort Inn Taguatinga
+72797|Days Inn
+72798|Comfort Uberlandia
+72799|Quality Aracaju
+72800|Gandini
+72802|Comfort Vitoria Praia
+72803|Blue Tree Park Lins
+72804|Comfort Suites Flamboyant
+72805|Grand Mercure Sao Paulo Ibirapuera
+72806|Aparthotel Adagio Curitiba Parque Barigui
+72807|Mercure Leblon
+72809|Transamérica Prime The World
+72811|Mercure Sao Paulo Itaim Bibi
+72812|Mercure The Privilege
+72815|Mercure Sao Paulo Pinheiros
+72819|Parthenon Saint Joseph
+72820|Mercure Sao Paulo Alamedas Hotel
+72821|Aparthotel Adagio Sao Paulo Berrini
+72822|Quarto Rodas Olinda
+72823|Mercure Sao Paulo Nortel
+72825|Blue Tree Premium My Place Savasi
+72826|Novotel São Paulo Jaragua Convention
+72827|Mercure São José dos Campos
+72828|Mercure São Caetano do Sul
+72833|Marulhos Suites
+72835|Mercure Florianopolis Centro Hotel
+72838|Apartotel Adagio Porto Alegre Moinhos de Vento
+72839|Parthenon Guaratingueta
+72841|Mercure Florianopolis Convention
+72844|Mercure Central Towers Hotel
+72847|Mercure Rio de Janeiro Botafogo
+72852|Slaviero Suites Curitiba Batel
+72855|Mercure Batel
+72856|Novotel São José dos Campos
+72857|Comfort Franca
+72858|Blue Tree Towers Santo Andre
+72859|Comfort Suites Londrina
+72860|Comfort Ribeirão Preto
+72861|Quality Suites Vila Velha
+72862|Comfort Suites Campinas
+72863|Comfort Suites Alphaville
+72865|Sleep Inn Ribeirao Preto
+72866|Quality Suites Garden
+72867|Quality Suites Alphaville
+72868|Quality Inn Saint Paul
+72870|Novotel Center Norte
+72871|Belmar
+72872|Tulip Inn Centro de Convencoes
+72873|Rafain Palace & Convention Center
+72874|Mabu Curitiba Business
+72875|Mabu Curitiba Convention
+72878|Mercure Brasilia Lider Hotel
+72879|Mercure Joinville Prinz Hotel
+72880|Mercure Mogi das Cruzes
+72881|Ibis Vitoria Praia do Canto
+72882|Ibis Teresina
+72883|Ibis Sao Paulo Expo Barra Funda
+72884|Ibis Porto Alegre Aeroporto
+72885|Ibis Piracicaba
+72886|Ibis Maceio Pajuciara
+72887|Ibis Macae
+72888|Ibis Fortaleza
+72889|Ibis Campinas
+72890|Ibis Blumenau
+72891|Ibis Betim
+72892|Ibis budget Sao Paulo Paraiso
+72893|Pestana Curitiba
+72894|Harbor Saint Michel
+72896|InterCity Premium Nacoes Unidas
+72897|Blue Tree Towers Millenium Porto Alegre
+72898|Blue Tree Towers Joinville
+72900|Blue Tree Towers Florianopolis
+72901|Blue Tree Premium Faria Lima
+72902|Monthez
+72903|Paradise Golf & Lake Resort
+72904|Piramide Natal Resort
+72905|Blue Tree Towers Anália Franco
+72906|Monreale Classic
+72907|Blue Tree Towers Caxias do Sul
+72908|Mercure Sao Paulo Paulista
+72909|Mercure Santo Andre
+72910|Mercure Salvador Rio Vermelho
+72911|Mercure São Paulo Jardins
+72912|Siena Laghetto
+72913|Mercure Campinas
+72914|Bristol International Airport
+72915|Mercure Curitiba Centro Hotel
+72916|Mercure Brasilia Eixo Hotel
+72917|Mercure Lourdes
+72918|Pullman Ibirapuera
+72919|Four Towers
+72920|Novotel São Paulo Morumbi
+72921|Mercure Sao Paulo Ibirapuera
+72922|Novotel São Bento do Sul
+72923|Mon Jardin
+72924|Novotel Natal Ladeira do Sol
+72925|Novotel Campo Grande
+72926|Lider Palace
+72928|Deville Maringa
+73384|Caesar Business Belo Horizonte Belvedere Managed by Mercure
+73385|Villa Real
+73387|Bristol Saint Emilion
+73388|Edifico QI Intelligent Flat
+73389|Turrance Green
+73390|Lang Palace
+73391|Sobrado da Vila
+73392|Atlantic Towers
+73395|Radisson Curitiba
+73396|Golden Tulip Belas Artes
+73397|Bristol Multy Exceler Plaza
+73399|Sol Inn Barão Geraldo
+73400|Hotel Matiz Jaguariúna
+73401|Fildi Hotel & Eventos
+73402|Parthenon Uberlandia Ilha Bela
+73404|Mercure Ipanema
+73405|Transamérica Classic Pasárgada
+73406|Parthenon Giardino Jardim Botanico
+73407|Novotel Porto Alegre Tres Figueiras
+73408|Sleep Inn Galleria
+73409|Sleep Inn Varginha
+73410|Comfort Saint Peter
+73411|Transamérica Classic Opera
+73412|Transamerica Classic Victória Place
+73413|Bourbon Convention Ibirapuera
+73414|Provence Via Venetto
+73415|Golden Tulip Golden Beach
+73416|Luz Plaza
+73417|Transamérica Executive The First
+74861|Windsor Martinique
+74862|Royal Rio Palace
+74870|Augustos Copacabana
+74971|Sol Barra
+75072|Bristol Costa Victoria
+75073|Bristol Ocean Flat
+75328|Plaza Blumenau
+75329|Plaza Sao Rafael
+75330|Canarius Palace
+75333|Plaza Porto Alegre
+75458|Tropical Oceano Praia
+75459|Bourbon São Paulo Business
+75460|Actuall
+75461|Alpenhaus Gramado
+75462|InterCity Premium Caxias do Sul
+75463|InterCity Premium Florianopolis
+75464|InterCity Premium Porto Alegre
+75467|Comfort Hotel & Suites Osasco
+75550|Amazon Jungle Palace
+75551|Tiwa Amazonas Eco Resort
+75598|Parque das Fontes
+75736|Pousada Praia das Ondas
+75749|Xurupita Holiday Resort
+75766|Rio Aeroporto Hotel
+76142|Pousada Jambo
+76143|Serrambi Resort
+76144|Pullman SP International Airport
+76269|Pelourinho
+76272|InterContinental São Paulo
+76283|Adrianopolis Apart Service
+76287|Saint Paul Apart Service
+76330|Pousada Corsario
+76408|Perola de Buzios
+76409|Ponta do Madeiro
+76533|Transamérica Prime Barra
+76591|Colonial Chile
+76594|Refugio da Vila Pousada
+76596|Pousada da Espera
+76601|Patachocas Eco Resort
+77062|Diogo
+77105|Aubergue de la Langouste
+77106|Pousada Dos Reis
+77107|Joao Fernandes Pousada
+77108|Bourbon Londrina Business
+77961|Ilha Branca
+77964|Piazza Navona Flat
+77965|InterCity Express Porto Alegre
+77966|Bristol Centro Cívico
+77967|Bristol Brasil 500
+77968|Carima Resort & Convention
+77969|Bristol Metrópole
+77970|Riverside Park
+77977|Tropical Tambau
+77979|Bourbon Joinville Business
+77982|Marathi Park
+77983|Deville
+77984|InterCity Premium Cuiaba
+77985|Villaggio Arcobaleno
+77986|Pousada Lestada
+77987|San Francisco Flat Service
+77988|Comfort Suites Macae
+77989|Brisol Upper Residence
+77990|Slaviero Suites Curitiba Soho
+77991|Bristol Londrina
+77992|Castelmar Hotel
+77994|Golden Tulip Internacional Foz
+77995|Pousada do Sandi
+77996|Beach Class Resort Muro Alto
+77997|Aeroporto Othon Travel
+77998|Othon Pousada Villa del Sol
+77999|Atlantico Praia Hotel
+78000|San Rafael
+78001|Plaza Baía Norte
+78002|Marrua
+78004|San Marino Suite
+78005|Wetiga
+78369|Himmelblau Palace
+78370|Buzios Guest House
+78371|Enseada dos Corais
+78372|Canarius D'Gaibu
+78373|Pousada Corais & Conchas
+78374|Girassol
+78375|Solar do Imperador
+78378|Reynolds International
+78380|Pousada Carnaval
+78381|Pousada Torre
+78382|Blue Tree Premium Verbo Divino
+78383|Victoria Villa
+78385|Tryp Higienopolis
+78386|InterCity Express Jundiai
+78387|Executive Inn
+78524|Melia Paulista
+78525|Caesar Business Sao Paulo Faria Lima & Pullman Sao Paulo Vila Olimpia
+78526|Mercure Belo Horizonte Lagoa dos Ingleses
+78527|Nacional Inn São José dos Campos
+78733|Best Western Plus Sol Ipanema
+79161|Bavaria
+79900|Best Western Augusto's Rio Copa
+81734|Continental Business
+81740|Juma Amazon Lodge
+81748|Txai Resort
+81755|Pousada Tabapitanga
+81756|Long Beach
+81957|Pousada Surfing Jeri
+81958|Pousada Blue Jeri
+82057|Sofitel Florianopolis
+82058|Mercure Botafogo Mourisco
+82385|Nobile Suites Ponta Negra
+82386|Praia da Sereia
+82387|Atlantico Buzios Convention & Resort
+82389|Don Quijote
+82390|Ariau Amazon Towers
+82392|Harbor Hotel Colonial
+82395|Harbor Hotel Regent Suítes
+82396|Harbor Self Graciosa
+82714|Swan Tower Caxias
+82715|San Marino
+82716|ibis Styles Joinville
+82717|Estanconfor Moema
+82718|Emiliano
+82719|Faial
+82720|Harbor Hotel Batel
+82721|Zagaia Eco Resort
+83267|Caravelle Palace
+83276|Jatoba Praia
+83301|Apa
+83315|Mercure Golden
+83316|Mercure Sete de Setembro
+83317|Mercure Vila da Serra
+83318|Mercure Sao Paulo Funchal
+83326|Mercure Recife Metrópolis
+83327|Del Rey
+83328|Real Castilha
+83329|Slaviero Slim Centro
+83330|Slaviero Palace
+83331|Transamérica Classic Jundiaí
+83338|Transamérica Classic Higienópolis
+83339|San Juan Royal Curitiba
+83343|San Juan Eco
+83344|Plaza Inn Executive
+83347|Bristol Diamond Suites
+83348|Bristol La Residence Victoria
+83351|Howard Johnson Sao Jose dos Pinhais
+83353|Mar Ipanema
+83354|Aparthotel Adagio Belo Horizonte Minascentro
+83402|Slaviero Rockefeller
+83403|Slaviero Slim Alto da XV
+83410|Slaviero Full Jazz
+83650|Slaviero Executive Pinhais
+83651|Slaviero Executive Batel
+83791|Astron Saint Moritz
+83792|Travel Inn Space Valley
+83793|Twin Towers Flat
+83794|Mercure Apartaments Blumenau
+83797|Mercure Beverly Hills
+83799|Mercure Times Square
+83821|InterCity Golden Fortaleza Flat
+83823|Mercure Apartaments Fortaleza Meireles
+83824|Mercure Mont Blanc
+83841|Mercure Lifecenter
+83914|Lira
+83986|Copacabana Rio
+83996|Niagara Flat
+84012|Mercure São Paulo Moema
+84022|Mercure São Paulo Paraiso
+84049|Mercure São Paulo Nações Unidas
+84094|Tulip Inn Bellagio
+84096|Howard Johnson São Paulo
+84151|Foz Presidente I
+84154|Foz Presidente II
+84169|Luz
+84208|Promenade Palladium
+84209|Promenade Visconti
+84211|Promenade Princess
+84212|Promenade Paradiso
+84213|Promenade Champagnat
+84226|Mc Flats The Claridge
+84227|Promenade Casa del Mar
+84229|Promenade Volpi
+84240|Benidorm Palace
+84476|Atlantis Copacabana
+85188|Amazon Plaza
+85193|Pousada do Pilar
+85194|Solar dos Deuses Pousada
+85209|Pousada Rancho do Peixe
+85404|Copacabana Praia
+85469|Porto Farol
+85659|Portal Recanto do Sol
+85660|Coral Tower Trade Center
+85838|Jurere Beach Village
+86345|Vila do Mar
+86346|Atelier Molinaro Boutique
+87041|Pousada do Rio Mutum
+87406|Pousada Barroco na Bahia
+87407|Gran Hotel Stella Maris Resort & Convention
+87409|Copa Sul
+87410|Lord Manaus
+87679|Bella Italia
+87681|Columbia
+87703|Golden Park
+87711|San Juan Tour
+87712|Plaza Inn Nacional
+87713|Plaza Inn Sao Conrado
+87714|Plaza Inn Flat Araxa
+87715|Plaza Inn Master
+87717|Bristol Metropolitan
+87719|Bristol La Place Apart
+87721|InterCity Premium Gravatai
+87753|Boulevard Express
+87754|Bristol Golden Plaza
+87755|Feller Avenida Paulista
+87760|Novo Vernon
+87767|Lhirondelle Apart
+87770|San Diego Belo Horizonte
+87788|Pisa Plaza
+87790|Yak
+87799|San Juan Business Sao Paulo
+87807|Areia de Ouro Suite
+87815|Windsor Guanabara
+87883|Travel Inn Guaratingueta
+87945|San Diego Ipatinga
+87946|San Diego Suites Uberlandia
+87968|Cassino
+87975|Everest Park
+88175|InterCity Premium Ibirapuera
+88242|Bristol Metropolitan
+88251|Bourbon Dom Ricardo Aeroporto Curitiba Business
+88426|Green Place Flat Service & Residence
+88433|HB Hotels Ninety
+88435|Plaza
+88508|The Capital
+88548|Mercure São Paulo Stella Vega
+88555|Riema Austria Flat Service
+88558|Riema Saint Charbel
+88559|Riema Paulista Classic Flat
+88610|Comfort Inn Joinville
+88635|Nobile Inn Thermas Place
+88662|Rios Presidente
+88663|Rios Nice
+88665|Natur Campeche Hotel & Pousada
+88715|Oasis Plaza
+88716|Intervale Othon Travel
+88749|Deville Express Florianopolis - geschlossen
+88753|Bourbon Batel Express
+88754|Bourbon Atibaia Convention & Spa Resort
+88755|Bourbon Cascavel
+88811|Mercure Rio de Janeiro Appoador
+88976|Everest Porto Alegre
+88987|Monsieur Le Blond Apart
+88994|Real Residence
+88995|Majestic Rio Palace
+89025|Real Palace
+89037|Windsor Barra
+89046|Windsor Florida
+89051|Oceanico Ondina
+89052|Oceanico Armação
+89063|Pipa Ocean View
+89064|Perola do Morro Pousada
+89101|O Casarao Pousada
+90754|Casa do Amarelindo
+90797|Enotel Porto de Galinhas Resort & Spa
+90798|Porto Bay
+91223|Normandie Design
+91225|L'Hotel Porto Bay Sao Paulo
+91231|Pousada Arco Mundial
+91232|Continental Inn
+91236|De Lencois
+91237|Canto das Aguas
+91239|Catavento Praia
+91240|Natureza Pousada
+91243|Aldeia da Mata Eco Lodge
+91244|Pousada dos Quatro Cantos
+91247|Marinas Tibau do Sul
+91248|Pousada Vila Kalango
+91254|Pestana Sao Luis Resort
+91394|Villa dos Corais Pousada
+91482|Fasano
+91534|Ferradura Resort
+91535|Portobello Ondina Praia
+91559|Pousada Solar das Flecheiras
+91670|Astoria Palace
+91900|Anavilhanas Jungle Lodge
+91904|Colonna Galápagos Garden
+91905|Estrela d'Agua
+92217|Crowne Plaza Belem
+92218|Castro's Park
+92233|Pousada Ilha do Papagaio
+92236|La Pedrera Pousada
+92239|Jardim Atlantico
+92241|Pousada Etnia
+92244|Arraial d'Ajuda Eco Resort
+92245|Maitei Pousada
+92246|Cocoon Hotel & Lounge
+92248|La Villa Bahia
+92250|Kiaroa Eco Luxury Resort
+92255|Village Pratagy Resort
+92258|D Beach Resort
+92261|Orixas Art
+92262|Pousada California
+92430|Fazenda Vila Guaiamu
+93203|Ponta dos Ganchos
+93277|Aconchego do Porto
+93278|Aconchego Recife
+93457|Astoria Copacabana
+93459|Zank Boutique
+93462|Braston São Paulo
+93606|Nacional Inn Ribeirão Preto
+93607|Dan Inn Ribeirão Preto
+93608|Village Inn Ribeirão Preto
+93609|Plaza
+93610|Best Western Caiçara
+93611|Plaza Itapema Resort
+93612|Plaza Camboriu
+93618|Bristol Quartier Latin
+93619|Bristol Praia do Canto
+93621|Bristol Evidence Apart
+93623|Vila Rica Campinas
+93624|Royal Palm Residence
+93625|Royal Palm Plaza / The Palms
+93626|Nacional Inn Campinas
+93794|Mercure Manaus
+93796|Ingleses Praia
+93797|Plaza Caldas da Imperatriz
+93798|Vila Rica Belem
+93926|Maksoud Plaza
+93927|Panamby
+93929|São Paulo Inn
+93933|Dan Inn Planalto
+93935|Sol Plaza Sleep
+93937|Rondonia Palace
+93938|Arcos Rio Palace
+93939|Ok
+93940|Monte Alegre
+93941|Novo Mundo LTDA
+93944|Nacional Inn Recife
+93945|Recife Monte
+93947|Bristol Pampulha Lieu
+93948|Nacional Inn
+93966|Vila Rica
+94035|Blue Tree Towers Macae
+94038|Nacional Inn Limeira
+94040|Dan Inn Sorocaba
+94041|Dan Inn Franca
+94042|Dan Inn Uberaba
+94066|Golden Blue Express
+94069|Golden Tulip Porto Bali
+94070|Village Inn
+94072|Nacional Inn Piracicaba
+94084|Slaviero Executive Ponta Grossa
+94264|Tulip Inn Santa Felicidade
+94266|Tulip Inn Batel
+99221|RH Serena Boutique Resort
+99696|Hotel Casa Blanca Business & Spa
+100256|Ancorar Porto de Galinhas Flat Resort
+100434|Pousada das Canoas
+100448|Venezia
+100947|Miramar Maragogi Resort
+101013|Santa Fe
+102629|Loi Suites Belgrano
+102691|Iberostar Praia do Forte
+103261|Amoaras Resort
+104568|Augusta Park
+105459|Black Stream
+105503|Brava
+105535|Duomo Park
+105710|Celi
+105900|Matiz Square Belo Horizonte
+106793|Rosa dos Ventos
+107131|Floph Hotel
+107227|George V Alto De Pinheiros
+107269|Golden Park
+107300|Golden Tulip Interatlantico
+107409|Atlantico Praia
+107561|Hibiscus Beach Pousada
+107667|Tulip Inn São José dos Pinhais
+107681|Holiday Inn Express Sumare Ave. / Sao Paulo
+108065|Ipanema Inn
+108328|Lancaster
+108704|Matsubara
+108744|Mendes Plaza
+108767|Mercure Jaragua do Sul
+108768|Mercure Manhattan
+108769|Mercure Recife Navegantes
+108771|Mercure Vitoria
+109042|Plaza Inn Michelangelo
+109111|Mirador Rio
+109505|Pousada Corsario
+109593|Parque Balneario
+109595|Parthenon Campinas Arcadas
+109596|Cosmopolitan Praia Flat
+109600|Laghetto Toscana
+109603|Paulista Wall Street Suites
+109634|Pergamon
+109995|Rafain Centro
+110379|Pousada Santo Antonio
+110564|Sagu Mini Resort
+111007|Staybridge Suites Sao Paulo
+111025|Stream Palace
+111106|Taj Mahal Continental
+111444|Unique
+111780|Colinas Residencia
+122417|Royalty Barra
+122418|Bello Mare
+124151|Panorama & Acquamania Resort
+125023|Atol Das Rocas
+125024|Araca Praia Flat
+127637|Pousada Girassois
+127638|Varandas
+129257|Pousada Chez Pitu
+129258|Augustos Paysandu
+133739|Aquarios Praia
+133746|Promenade Ianelli Residence
+133747|Promenade Pancetti
+133748|Promenade Guignard Residence
+133750|Allia Gran Brasília Suites
+133751|Armação dos Búzios Pousada Design
+133758|Roochelle Corporate
+133759|Deville Rayon
+133760|Praia Centro
+133762|Cana Brava Resort
+133763|Ouro Branco Praia
+133764|Four Points
+133766|7 Coqueiros
+133769|Villas Da Pipa
+133771|Praiamar Natal Hotel & Convention
+133773|Pousada Do Arcanjo
+133774|Costa Brasilis
+133776|Bahia Plaza Resort
+133780|Brisamar
+133782|Excelsior Ipiranga
+133783|Meliá Ibirapuera
+133785|Matsubara
+133786|Nobilis Express
+134458|Paraiso Do Sol
+135788|Casa Grande
+135789|UeSo Pousadas Cerrado & Pantanal
+135794|Pousada Zé Maria
+136373|Windsor Asturias
+136615|Pousada Vida Sol e Mar
+136618|Aram Yami
+136628|Sombra e Agua Fresca
+137559|Monte Pascoal Praia
+138553|Blue Tree Towers Goiania
+138558|Plaza Inn Economic
+138583|Golden Tulip Address
+138587|Aguas do Iguacu
+138589|Airam Brasilia
+138651|Arituba Park
+138662|Augusta Boulevard
+138668|Bahamas Apart
+138679|Bay Park Resort
+138717|Best Western Tamandare Plaza
+138724|Blue Tree Premium Londrina
+138725|Blue Tree Towers São José dos Campos
+138732|CWB Express
+138735|Brasil Palace
+138737|Brasilia Palace
+138769|Charm Iguassu Suites
+138790|Comfort Manaus
+138805|Costa Norte Inglesses
+138806|Costa Norte Ponta Das Canas
+138853|Del Rey
+138891|Tulip Inn Batista Campos
+138925|Gloria
+138927|Gold Mar
+138928|Golden Star
+138933|Gran Roca
+138950|Master Express Grande Hotel
+138965|Harbor Querência Hotel
+139022|InterCity Premium Natal
+139029|Itapetinga Plaza
+139083|Litoraneo
+139090|Maraba
+139093|Marina Travel Praia
+139101|Master Express
+139102|Master Express Perimetral
+139103|Master Palace
+139109|Metropolitan
+139125|Netuanah Praia
+139142|Oitis
+139153|Ouro Branco Maceio
+139164|Park e Pousada Villabella Villaggio
+139182|Planalto Bittar
+139188|Plaza Inn Augustus
+139189|Condominio Week Inn
+139193|Pontal da Ferradura
+139194|Porto D' Aldeia Resort
+139197|Unidade II - Caju Economic
+139198|Unidade III - Caju Flat
+139202|Caju Praia Azul
+139205|Praiatur
+139211|Privillage Praia Pousada de Charme
+139308|Royal Palace Brazil
+139319|Pietro Angelo
+139324|Hotel San Marino
+139325|San Michel
+139409|St. Paul Plaza
+139446|Taiyo Thermas
+139450|Best Western Tarobá
+139469|Timbiras Palace
+139477|Mocambique Praia
+139478|Brisol Hotel
+139490|Valerim Center
+140561|Promenade Platinum
+140562|Royal Center
+140563|Royal Savassi
+140564|Toronto Tower Residence
+140567|Le Relais La Borie
+140569|Pousada Barla Inn
+140570|Pousada Barlavento
+140572|Azeda Boutique
+140575|Pousada Ville La Plage
+140578|Rieger
+140580|Porto Ingleses
+140581|Torres Da Cachoeira
+140582|Cocal
+140583|Dom Pedro I Palace
+140584|Foz Plaza
+140587|Igatu Praia
+140588|Littoral
+140589|Littoral Express
+140590|Littoral Tambaú Flat
+140591|Ritz Plazamar
+140592|Ritz Praia
+140595|Monaco
+140598|Ponta Negra Flat
+140600|Pousada Bromélias
+140603|Pousada Villa Harmonia
+140605|Estalagem
+140606|Porto Calem Praia
+140608|Fazenda Amaragi
+140611|Copacabana Sol
+140612|Ingles
+140619|Scorial Rio
+140622|Rio Poty
+140623|Braston Augusta
+140962|Tauá Grande
+140963|Beira Rio
+141667|Barra da Lagoa
+144051|Intercity Píer Vitória
+144053|El Cazar
+144054|George V Casa Branca
+144055|Bourbon Alphaville Business
+144057|Radisson Alphaville
+144059|Brisa Tower
+144060|Mercure Camboriu
+144062|Praia Bonita
+144069|Pousada das Canoas
+144073|Vila Tamarindo Ecolodge
+144074|Parnaso
+144075|Holiday Inn Express Natal Ponta Negra
+144077|The Falls
+144079|Itapemar
+144083|Da Costa
+144084|Crillon Palace
+144085|Sheraton Vitoria
+144089|Mercure Macae
+144091|Ibis Aracatuba
+144092|Sao Sebastiao da Praia
+144095|Bristol Century Plaza
+144099|Ibis Manaus
+144100|Kalamari
+144107|Sleep Inn Manaus
+144109|Quality Anaca
+144111|Ibis Vitoria Aeroporto
+144112|Tulip Inn Campo Largo
+144113|Aquabarra Guest House
+144118|George V Etoile Jardins
+144123|George V Etoile Itaim
+144125|Xales de Maracaipe
+144126|Pousada Sitio Phoenix
+144129|Pousada Aguas de Paratii
+144132|Ibis Guarulhos
+144133|Ilha de Toque Toque Boutique
+144134|Hotel & Spa do Vinho, Autograph Collection
+144136|Hotel Porto Real
+144143|Quality Niteroi
+144145|Address Faria Lima
+144146|Maison Joly
+144147|Pousada Coqueiro Verde
+144148|The Royal Palm Tower
+144152|Pontal Mar Praia
+144153|Bristol Dobly Oceania Park
+144154|Nauticomar All Inclusive Hotel & Beach Club
+144159|Villa Di Capri
+144160|Arpoador Inn
+144162|Pousada Joao De Barro
+144163|Antibes Residence
+144168|Premium Norte
+144169|Regent Park Suite
+144171|Mercure Sao Paulo Vila Olimpia
+144172|Vitoria Newport Residence
+144174|Ibis Rio de Janeiro Centro
+144176|Best Western Dubai Macae
+144198|Deauville Pousada
+163445|Meu Sonho
+182532|L'Authentique Cristal
+182820|Insólito Boutique & Spa
+183117|Villa da Praia
+183300|Pajucara Praia
+183304|Grande Canada
+183306|Bristol Viale Cataratas
+183309|Pousada Blauset
+183311|Ritz Coralli Boutique
+183313|Costa do Atlantico
+183314|Soleil Suite
+183316|Real Classic
+184020|Itacimirim Eco Resort
+185361|Pousada Jeriba
+185362|Pousada Vila Bacana
+187348|Plaza
+189402|Pousada des Arts
+189403|Duro Beach
+195893|Cores do Mar
+201308|Grand Palladium Imbassai Resort & Spa
+201870|Pousada do Principe
+202432|Kariri Beach
+202484|Vistamar
+203133|Victoria Palace
+203134|Luisa Palace
+203135|Mar del Plata
+203136|Mar de Canasvieiras
+204694|Apart Primo
+205745|Bahia Sol e Mar
+205746|Bahiacafé
+206205|Biarritz
+206455|Brasília Imperial
+206830|Capitania de Porto Seguro
+207156|Central Park Jardins
+207863|Cristal Palace
+207966|Dan Inn
+208368|Divi-Divi Praia
+208967|Euro Suit
+209293|Travel Inn Saint Charles
+209465|Galeão
+209867|Golden Tower São Paulo
+209872|Golden Tulip Brasília Alvorada
+209932|Granada
+210202|Hamburgo Palace
+210258|Harbor Self Buriti Suítes
+210873|Hostel Jucati
+210983|Bahia do Sol
+211083|Continental Porto Alegre
+211374|Praia Mar
+213754|Mar Brasil
+213757|Marambaia Aparthotel
+213997|Mengo Palace
+214128|Mirador Praia
+214199|Moncloa
+214228|Monte Castelo
+214417|Nautilus Apart
+214514|Nikko
+214995|Paradise Flat
+215666|Porto Verano Residence
+215698|Alvorada do Farol Pousada
+215699|Pousada Aroma Do Mar
+215700|Pousada Beija Flor
+215707|Pousada do Baluarte
+215709|Encanto de Itapoan Pousada
+215710|Estrela do Mar Pousada
+215712|Pousada Janellas do Mar
+215713|Pousada Laguna
+216548|RAH Classic
+216549|RAH Ocean View
+216550|RAH Porto Jangada Flat
+217299|Rio 180° Suites & Cuisine
+217613|Safari
+217719|San Michel
+218101|Slaviero Executive Florianópolis
+218103|Slaviero Slim Alice Vitoria
+218483|Studio do Carmo
+218537|Dan Inn
+218652|Tamboleiro Hospedaria
+218735|Terrazzo da Bahia Flats
+219763|Travel Inn Conde Luciano
+219766|Travel Inn Moema
+219829|Trópico de Capricórnio
+220012|Varanda das Bromélias Boutique
+220140|Vila Velha
+220396|Villa Rasa Marina
+220401|Villa Rica
+220447|Villa Terra Viva
+220639|Web Salvador
+222530|Lago das Pedras
+222716|Macaé Othon Suítes
+222741|Maratea Mare
+222848|Mykonos Residência
+223100|Pousada O Forte
+223139|Quinta das Videiras
+223600|Tibau Lagoa
+226544|Atoba Praia
+226545|Pires
+226781|Pousada Santorini
+226782|Leblon Flat Service
+226784|D'Sintra
+227107|Salinas de Maceio Beach Resort
+227110|Spotlight Pinheiros
+227306|Holiday Inn Manaus
+227317|Eurosol Tibau Resort
+227402|Radisson Maceio
+227405|Pousada Casa do Catavento
+227427|Villa del Sol Residencia
+227627|Bourbon Barra Premium Residence
+227773|Cumbuco Pousada Praia
+228246|Pousada do Frances
+228248|Eco Resort Cajú
+228249|Vila Galé Cumbuco
+228381|Ramada Lagoa Santa International Airport
+228907|Dom Pedro Laguna Hotel
+229410|Angra Fashion Resort
+229416|Coimbra Residence Flat
+229417|Costa do Mar
+229418|Sables
+229423|Harbor Inn Londrina
+229427|Vip Praia
+229428|Boulevard da Praia Apart
+229431|Atlantico Sul
+229433|Gávea Tropical
+229434|Pousada O Ninho
+229439|Intercity Campobelo - Congonhas
+229915|Park Suites Manaus
+229917|The Chili Beach
+230270|Caesar Business Manaus
+232354|Serantes
+232355|Aquarela Do Brasil
+232356|Canto Da Ilha
+232357|Nikkey Palace
+232358|Verde Mar
+232852|Blue Tree Premium Manaus
+233099|Travel Inn Arembepe Beach
+233100|Capcana Hotel Sao Paulo - Jardins
+233101|Pousada do Capitao
+233191|Travel Inn Porto Pero
+233192|Pousada Kopenhagen Beach
+233195|Lizon Curitiba
+233196|Mabu Capivari Eco Resort
+233197|Il Campanario Villaggio Resort
+233198|Lexus Beiramar
+233199|Lexus International
+233203|La Residence
+233204|Papillon
+233208|Delphia Marsallis Residence Flat
+233209|Delphia Terrazo Ponta Negra Flat
+233210|Littoral Maximum Flat
+233212|Ponta do Sol Praia
+233215|Rua da Praia
+233216|Flamingo Beach
+233218|Travel Inn Quari Quara
+233219|America Towers
+233711|Delphia Praia de Iracema
+233712|Cult
+233933|Marambaia Casino & Convention
+233934|Ferradura Private
+234087|Mercure Aracaju Del Mar
+234088|Quality Hotel Joao Pessoa
+234331|JP
+234473|Kiteworldwide Pousada
+235033|Pousadas Unicornio
+235173|Meridional
+235175|Tropico Praia
+235476|Blue Mountain Hotel & Spa
+235613|Coronado Beach
+236071|Express Salvador
+236271|Metropolitan Flat Brasilia
+236339|Patamares Praia
+236498|Travel Inn Apa Pau Brasil
+236500|Pousada Aquarium
+236686|Nacional Inn Previdência
+236691|Granville Park
+236693|Laguna Blu
+236694|Marbello Ariau
+236695|Royal Iguassu
+236696|Dan Inn Mar
+236697|Intercity Premium Joao Pessoa
+236698|Borekoko
+236699|Sunshine Praia
+236700|Transoceanico Praia
+236701|Pituba Plaza
+236702|Dan Inn São José Dos Campos
+236703|Linson Augusta
+236704|Nacional Inn Sorocaba
+238500|Ponta Negra
+238533|Porto da Ilha
+238534|Plaza Inn Paineiras
+238535|Mirante
+238537|Praia Bonita Resort & Conventions
+238539|Guara Pousada
+238542|Atlântico Business Centro
+238579|Estação Porto Praia
+238580|Mercure Salvador Pituba
+238770|Pousada Tamanduá
+239250|Miratlantico
+239255|Holiday Inn Sao Luis
+239256|Brasil Tropical Village
+239323|Leao da Montanha
+239356|Golden Tulip Pantanal
+239857|Sauipe Resort - Sauipe Class
+239858|Umbu
+239859|Tulip Inn Praiabella
+239860|Golden Tulip Porto Vitoria
+240018|Aram Praia
+240023|Aquaria Natal
+240073|Tulip Inn Centro Histórico
+241562|Go Inn Manaus
+241600|Slaviero Suites Foz do Iguaçu
+241762|Mussulo Resort By Mantra
+241763|Flat Mar do Cabo Branco
+241765|Quality Manaus
+241766|Paradies
+241767|Comfort Inn & Suites
+241768|Comfort Sao Jose dos Campos
+243123|Hotel & Flat Caju Intermares
+243128|Slaviero Executive Viacatarina
+243130|Natal Dunnas
+243161|Unidade I - Caju City
+243509|Novotel Rio De Janeiro Santos Dumont
+243510|Nadai Confort
+243513|Vila Dos Orixas Boutique
+243515|Girassois Lagoa Resort
+243517|Holiday Inn Express Cuiaba
+243518|Nobile Hotel Royal João Pessoa
+246216|Pousada Aguazul
+246217|Pousada dos Tangaras
+246218|Carmel Charme Resort
+246417|Iguassu Express
+246846|Al Mare
+246850|DPNY Beach
+246855|Royal Jardins
+247996|Royal Golden
+247997|Latitud Buzios
+247998|Raio de Sol Praia
+247999|Oasis Tower
+248000|Refugio Cheiro de Mato
+248001|Pousada Manga Rosa
+248002|Ambassador Flat
+248003|Hardman Praia
+248004|Pipas Bay
+248005|King's Flat Natal
+248007|Vivence Suites
+248008|Magic Palace
+248009|Acrópolis Marina
+248010|Terra Nobre Plaza
+248011|Du Lac
+248012|Serrano Resort Gramado
+248014|Laje de Pedra Hotel & Resort
+248271|Sauipe Resort - Sauipe Fun
+248272|Sauipe Resort - Premium / Club / Park / Class / Fun / Pousadas
+249234|Monte Rei
+249238|Nacional Inn Curitiba
+249239|Atlántico
+249358|Itapoã Praia
+249359|Praia Mole Eco Village
+249360|Palmleaf Premium
+249365|Pousada Beco da Lua
+249366|Gelps
+249368|Coqueiral Praia
+249370|Pousada Italia
+249451|Grand São Luis
+249454|Slaviero Slim Joinville
+249456|City
+249461|Best Western Premier Majestic Ponta Negra Beach
+249462|Nobile Porto Firme
+249467|Higienopolis Hotel & Suítes
+249469|Bahia Park
+249473|Condor
+249478|Nord Blue Sunset
+249487|Planalto Ponta Grossa
+249488|Nord Imperial Hotel
+249495|Boulevard Park
+249496|Boulevard Plaza
+249500|Absolutte
+249516|Nobile Suites Monumental
+249520|Gran Rio
+249522|Amazônia Golf Resort - By Nobile
+249532|The Palace Flat
+249538|Matiz Salvador
+249540|Village Eldorado
+249544|Littoral Varandas de Ponta Negra
+249547|Nord Green Sunset
+249551|Quintas Private Residences by Nobile
+249560|Arraial Bangalô
+249561|Sueds Mairypora Hotel
+249562|Bristol
+249584|Nord Ondas Do Atlantico
+249586|Pousada Do Tesouro
+249587|Collins Trade Hotel
+249589|Arambare
+249592|Aldeia do Mar
+249601|Palmleaf Grand Premium
+249604|Brisa Tropical de Macae
+249607|Slaviero Slim Congonhas
+249608|Palmleaf Residence
+249739|Cores do Mar
+250151|Comfort Araraquara
+250152|Tulip Inn Nazare
+250153|Golden Tulip Belém
+250154|Sleep Inn Goiania
+250155|Quality Resort & Convention Center Itupeva
+252719|Asalem
+252720|Engenho do Bracuhy
+252722|Pampulha Flat
+252723|Via Contorno
+252726|Ambassy Hotel
+252727|Serrana Palace
+252728|Hotel Rio Jordao
+252729|Cheverny Apart
+252730|Belo Horizonte Plaza
+252731|Pousada Solar de Buzios
+252733|Pousada Baia Bonita
+252734|Pousada A Casa do Torrely
+252735|Pousada Afrika
+252736|Luar de Buzios
+252737|Buzios Internacional Apart Hotel
+252738|Blue Tree Park Buzios
+252739|Rio Buzios Boutique
+252741|Costa do Sol Boutique
+252742|Casagrande Boutique
+252743|Pousada dos Buzios
+252744|Pousada Paraju
+252745|Pousada Marbella
+252746|Mar e Terra Pousada
+252747|Che Lagarto Hostel Buzios
+252748|Baía do João Pousada
+252749|Pousada Praia Bella
+252750|El Misti Buzios Hostel & Pousada
+252753|Pousada Calmaria
+252755|Palmanova
+252756|Mercure Maceio Pajucara
+252757|Tropicalis
+252758|Marinas Maceió
+252759|Pousada Pura Vida
+252760|Porto Suítes Natal & Porto Mirim
+252764|Morro do Careca
+252769|Bruma
+252772|Caju Montebello
+252773|Alimar
+252774|Bela Silvia Flat
+252775|Condominio Pipa Park
+252776|Pousada Mirante de Pipa
+252780|Praia Azul Mar
+252781|Jardim Oceano
+252783|Tubarao
+252785|TooCool na Bahia
+252787|Cosmopolitan Hostel
+252789|Entremares
+252791|Ipanema Vieira Souto 500 Residence Service
+252792|Ipanema Vieira Souto 510 Residence Service
+252796|Quinta da Paz Resort
+252797|Le Relais de Marambaia
+252798|Clarion Itaipava
+252800|Quinta Azul Boutique Pousada
+252801|Santa Teresa
+252804|Casa Áurea
+252805|Copacabana Suites
+252806|Ipanema Copa Posto 6
+252808|Pouso Real
+252809|Casa 579
+252812|Rio Hostel Santa Teresa
+252814|Americano
+252815|Vina del Mar
+252817|Villa Laurinda
+252826|Hostel Villa Santana
+252829|Angrense Hotel
+252832|Village Novo Beach Suites
+252833|Villetta Dunas
+252834|Alah Mar
+252836|B Hotel
+252837|Flat Jardim de Alah
+252840|Villetta Safira
+252842|Pousada Cancun
+252843|Pousada Corais da Barra
+252844|Andarilho Hostel Pousada
+252845|Hostel Porto Salvador
+252847|Pousada Manga Rosa
+252848|Pousada Poesia
+252849|Solar das Artes Pousada Boutique
+252853|Pousada Casa Vila Bela
+252858|Laranjeiras
+252859|Solar dos Romanos Hostel
+252864|Don Juan
+252866|Trianon Paulista
+252867|WZ Jardins
+252869|Republica Park
+252870|Go Inn Jaguare
+252872|Rojas All Suites
+252874|Monaco Convention & Hotel
+252875|Mercure Guarulhos Aeroporto
+252876|Carillon Plaza
+252878|Bella Augusta Residence
+252879|Pan Americano
+252884|155 Hotel
+252885|Amaralina
+252886|La Guardia Hotel
+253562|Opaba Praia
+253563|Terra Nossa Resort
+253585|Barrudada Palace
+253587|Rah Vila Costeira
+253588|Seamar
+253589|Aldeota Praia
+253590|Portal da Praia
+253591|Eldorado Cafe
+253594|Navegantes Praia
+253597|Pau Brasil Praia
+253598|Portal do Mundai Praia
+253599|Beach Hills
+253607|Vilage Capoeira
+253609|Residence Karimbo Amazonia
+253610|Ecopousada Miriti
+253612|Esplanada Brasilia Hotel
+253613|Flat Petras
+253616|Estancia Santa Cruz
+253617|Dan Inn Curitiba
+253619|Garden Curitiba
+253620|San Martin
+253621|Oscar
+253625|Porto Sol Quality
+253626|Maria Do Mar
+253627|Pousada Verdes Mares
+253628|Vila das Palmeiras
+253629|Farol da Ilha
+253630|Hola
+253632|Varadero Palace
+253633|Valerim Plaza
+253634|Pousada dos Chás
+253635|Sete Ilhas
+253641|Geranius
+253644|Samuka
+253645|Millennium
+253647|Lider Manaus
+253649|Casa Teatro Boutique
+253650|Krystal Hotel Manaus
+253651|Ideal
+253654|Minas Gerais Pousada
+253655|Eko Residence
+253657|Coral Tower Express
+253660|Ornatus Palace
+253772|Che Lagarto Hostel Ilha Grande
+253773|Pousada Casablanca
+254801|Pousada Baobá
+256071|Pousada Vila Coqueiros
+256072|Pousada Beleza das Ondas
+256436|Pousada Omnimare
+256437|Pousada Ilha de Itaka
+256629|Pousada Vila dos Pássaros
+256639|Pousada Jardim de Trancoso
+256641|Trancoso Residence
+256643|Etnia Clube de Mar
+256644|Aldeia do Sol
+256645|Pousada O Jardim das Margaridas
+256646|Pousada Quarto Crescente
+256652|Radisson Aracaju
+256653|Aruana Eco Praia
+256687|Casa Dois Gatos
+256695|Dan Inn Anhanguera
+256765|Iguassu Holiday
+256767|Baviera Iguassu
+256768|Villa Canoas
+256769|Florença Iguaçu
+256770|Canzi Cataratas
+256772|El Shaddai Hostel Pousada
+256773|Marica
+256775|Pousada Sonho Meu
+256776|Iguassu Guest House
+256782|Biss Inn
+256787|Casa da Montanha
+256788|Petit Casa da Montanha
+256789|Alpestre
+256825|Pousada Rancho Fundo
+256836|América Palace
+256837|Presidente
+256841|Luzeiros
+256843|Pousada Ceu De Estrelas
+256845|Internacional
+256917|Solar das Artes Pousada Boutique
+256918|Pousada Tia Glória
+256920|Pousada Mar e Flores
+256921|Tatiba Beach
+256922|Karapitangui
+256924|Pousada Fazenda Caeira
+256925|Pousada Chez Max
+256928|Pousada Iguana
+256948|Pousada Mache
+256949|Villa 2 Santos
+256950|Casa Grande São Vicente
+256951|Saint Tropez Praia
+256952|Atmosphera Pousada
+256953|Tauá
+256954|Sandri City
+256956|Unidade V - Caju Premium
+256958|Beach Jacumã
+256959|Lagoa Park
+256960|Unidade IV - Caju Executive
+256961|Quality Jundiai
+256964|Pousada Cabana
+256967|Pousada Naquela
+256968|Vila Bela Vista
+256970|Estrela d'Alva Pousada
+257077|Cipó Veraneio Hotel
+257084|Casa dos Patos
+257122|Peroba Villa
+257125|Kilombo Villas & Spa
+257126|Pipa Atlântico
+257127|Pousada da Ladeira
+257128|Pousada Oka da Mata
+257129|Solar Pipa
+257130|Thalassa
+257131|CostaSol Pipa
+257132|Morada dos Ventos
+257133|Pousada Catavento Praia da Pipa
+257134|Pipa Panorama
+257151|Hotel Maranata
+257358|Pousada La Toscana
+257359|Pousada Villa de Campos
+257360|Toriba
+257365|Pousada das Hortênsias
+257366|Pousada Recanto Almeida
+257369|Matsubara
+257505|Parajuru Praia
+257549|Pousada Casa Rosa
+257550|Pousada Casa de Pedra
+257552|Pousada Praia do Portinho
+257553|Pousada Villa da Prainha
+257554|Caravela Pousada
+257555|Refúgio da Harmonia Pousada
+257781|Pousada Cabore
+257784|Geko Hostel Paraty
+257785|Pousada Mar Azul
+257787|Laguna Blue Pousada
+257788|Rumo dos Ventos Pousada
+257789|Pousada Abayomi
+257790|Refugio Tropical
+257792|Pousada do Careca
+257793|Pousada Rio Paraty
+257794|Pousada da Terra Paraty
+257796|Pousada Paisagem
+257797|Velejador
+257800|Pousada do Ouro
+257801|Pousada Bambu Bamboo
+257806|Pousada Doce Paraty
+257807|Misti Chill Hostel & Pousada
+257808|Paraty Bay Flats
+257809|Eliconial Paraty Pousada
+257810|Pousada Aurora
+257815|Villa Araca
+257816|Villa Flamboyan
+257871|Sofitel Jequitimar Guaruja
+257872|Palmar
+257873|Ilhas do Caribe
+257879|Laghetto Viverone
+257880|Pousada Bem te vi
+257938|Encantes do Nordeste
+257952|Mercure Niteroi Orizzonte
+257953|Pousada The Goldeneye
+257955|Villa Bebek
+258106|Mercure Santos
+258231|Locanda
+258240|Ecos Classic
+258244|D'Luz
+258325|Mahon Mar Pousada
+258327|Alpina Teresopolis
+258379|Dubai Bungalows Bombinhas
+258380|Pousada Dom Capudi
+258381|Pousada Palmeiras
+258389|Sandri Palace
+258390|Golden Executive
+259177|Canoa Quebrada Hotel Pousada
+259178|Il Nuraghe
+259398|Sant'Anna
+260317|Soft Inn Batista Campos
+260397|Comfort Sertãozinho
+260828|Via Mar Praia
+260831|Sibara Flat Hotel & Convenções
+260833|Pousada Solar das Bougainvilleas
+260843|Coronado Inn
+260851|Pousada Nova Villa Tortuga
+260855|Pousada Praia e Conforto
+260865|Gran Odara
+260869|Aguas Claras
+260870|Estrelas da Serra
+260871|Laghetto
+260872|Laghetto Premium
+260878|Pousada Ald Mama
+260879|Monreale
+260890|Brisa Mar
+260892|Villa Park Hotel
+260894|Best Western Plus Viva Porto de Galinhas
+260895|Pousada Porto Tropical
+260896|Hotel da Praia Bahia
+260897|Portobello Park
+260898|Sarana Praia
+260899|Shangrilá
+260909|Nacional Inn
+260915|Veleiros Mar Hotel
+261289|Flat Bassano Vaccarini
+262041|Gaivota
+262042|Ipanema Tower Residence
+262046|Praia Linda
+265797|Impar Suites Cidade Nova
+265799|Pousada Bucaneiro
+265803|Pousada Porto Praia
+265804|Pousada Amancay
+265806|Bella Vista Village
+265807|Ritz Suites
+265809|Apart Hotel Ponta do Sol
+265811|Aparthotel Margherita
+265813|Ponta do Mar
+265814|Pousada Residencial Tucano
+265815|Maravista Pousada
+265816|Pousada Vale do Sul
+265817|Transamérica Prestige Beach Class International
+265819|Windsor Copa
+265832|Hotel Caracas Rio
+265833|Ipanema Copa Rooms
+265837|Bed & Breakfast Copacabana Dulce
+265838|Leblon Cupertino House
+265842|Quintal de Santa
+265844|Casa Mosquito
+265845|Ace Hostel
+265848|Bed & Breakfast Vitoria
+265850|Corsário Praia
+265853|Pousada Noa Noa
+265858|InterCity Premium Salvador
+265861|Pousada Praia do Flamengo
+265862|Pousada Pedra da Concha
+265863|Spanda Pousada Spa
+265865|NEWCiti Sao Paulo
+269138|Pousada Veraneio
+269139|Datamar
+269140|Atlantic Ocean Residence
+269142|Coliseum
+269143|Boreas Apart Hotel
+269145|Flat Residencial La Perla
+269149|Bello Mar Ariaú
+269150|Romeu & Julieta Residence Suites
+269152|Vale Verde
+269153|Baixú Village
+269154|Barra Sol Praia
+269155|Pousada Pé-na-Estrada
+269156|Portas da Amazônia
+269157|Guaira Palace
+269158|Porto Sol Beach
+269159|Praias Brancas
+269160|Ingleses Acquamar
+269162|Brisamar Suite Hotel
+269163|Pousada Oceanomare
+269164|Villas Jurere Boutique
+269169|Amazon EcoTourism Arowana Lodge
+269170|Central Manaus
+269171|Bragança Suites
+269771|Pousada Caúca
+274679|Che Lagarto Hostel Paraty
+274681|Pousada Magia Verde
+274682|Viva Brasil Pousada
+275267|Big Bambù
+275268|Hotel Fazenda Calá & Divino
+275269|Pousada Jacarandá
+275315|Simas Praia
+275316|Algas Marinhas
+275381|Noumi Plaza
+275492|Pipa Privilege
+275493|Media Veronica Hostel
+275664|Foz do Iguaçu
+275665|Casa do Turista
+275666|Paudimar Campestre
+275667|Flor Foz
+275669|Itaipu
+275674|Pousada Engenho
+275680|Recanto da Serra
+275788|Pousada Sucuri
+275789|Pousada Aguas de Bonito
+275976|Oscar Hotel Executive
+275977|Pousada Bahia Brasil
+276004|Felissimo Exclusive
+276007|Maria Bonita Pousada
+276008|Verdegreen
+276009|Guarany Hotel Express
+276010|JR Hotel
+276011|Monreale Ribeirão Preto
+276013|Pousada Araxá
+276014|Pousada Aqua
+276015|Pousada do Serrote
+276111|Century Park
+276112|Century Horto
+276199|Gaia Apartments
+276200|Pousada Berro do Jeguy
+276244|Trevo
+276460|Chalé da Montanha
+276482|Frontenac
+276487|Pousada Porto Suites
+276488|Etalan
+276489|Urikana Boutique Hotel
+276840|Marina Barro Preto
+276841|Barra do Piuva Porto
+276843|Pousada Recanto da Villa
+276845|Marambaia Cabeçudas
+276846|Icaraí Praia Hotel
+276847|Pousada Porto Mare
+276848|Pousada das Cachoeiras
+276851|Coquille
+277333|Bristol Guarapari Residence
+277497|Pousada Aquavilla
+277498|Buzios San Francisco
+277499|Ferradura Parque Pousada
+278503|Novotel Porto Alegre Aeroporto
+282709|Muffato Plaza
+282710|Maria Ricca Palace
+282723|Mercure Goiania
+282855|Blue Tree Towers Rio Poty
+283566|Holiday Inn Express Maceio Ponta Verde
+284825|Lake Villas Charm
+284944|San Diego Suites Pampulha
+284946|Castelar da Alvorada
+284947|Estalagem do Porto
+284948|Da Canoa
+284958|Guaratiba Parque
+284964|Portal Rio Una
+284970|Pousada Martin de S?
+284972|Vila Olaria Hotel
+284976|Palais
+284977|Cinelandia Hotel
+285775|Benkos Praia
+285777|Pousada Sao Luiz
+285780|Radisson Maiorana Belem
+285781|Tulip Inn Hangar
+285785|Windsor Plaza Brasília
+285786|Saint Moritz
+285789|Bristol Multy Portal Do Iguacu
+285790|Ibis Curitiba Shopping
+285791|Master Express Curitiba
+285794|Slaviero Slim Balneário Camboriú
+285798|Express Aeroporto
+285800|Expressinho
+285803|Royal Palace Airport
+285886|Pousada Tropicalia
+285899|Real Pousada
+286035|Pousada Pedras Secas
+286037|Pousada Solar Dos Ventos
+288205|Don Juan Pousada E Spa
+288638|Pousada Pedra Torta
+288639|Pousada Terra Boa
+289067|Del Canto
+289068|Riverside Farol
+289069|Pousada Do Sol
+289070|Sandrin Praia
+289071|Gran Hotel Morada do Sol
+289123|Dan Inn Cambui
+289281|Gramado Master Palace
+289282|Villa Bella Gramado
+289288|Iracemar Boutique
+289289|Delphin
+289290|Il Faro
+289296|Faro
+289308|Kenoa Resort
+289346|Express Executive Hotel
+289347|Suarez Internacional
+289358|Ibis Vitoria Praia De Camburi
+289359|Quality Hotel Aeroporto Vitoria
+289363|Cedro
+289366|LondriStar
+289368|Sumatra Hotel & Centro de Convencoes
+289470|Ryan
+289471|Sanfelice
+289472|San Marino Cassino
+289473|Infinity Blue Spa & Resort
+289479|Taiwan
+289730|Riviera Araçatuba
+289745|Holiday House
+289762|Pousada Pérolas do Mar
+289763|Tambaqui Praia
+290018|Grande Campos do Jordão
+290019|Saha Campos
+290766|Marlin
+290854|Hotel Continental Canela
+290857|Klein Ville
+290860|Vitoria Hotel Indaiatuba
+291679|Pousada Vila Solaris
+291683|Laje de Itaúna Hotel & Spa
+291684|Casarao da Amazonia
+291685|Paracauary Eco Pousada
+291844|Express Canoas
+291845|Metropolitan
+291883|Pousada Residenza Canoa
+291884|Pousada Aruana
+291885|Pousada La Dolce Vita
+291886|Pousada Latitude
+291887|Pousada Lua Cheia
+291888|Vila Alaide Praia
+291897|Garopaba Mar
+291899|Fazenda Monte Castelo
+291900|Harbor Baroni Guarapuava
+291902|Pousada Suruby
+291904|Harbor Inn Medianeira
+291905|Cabeça de Boi
+291906|Bonjuá Fazenda
+291907|Villaoeste
+291910|Praia Sol
+291911|Odara Sorriso
+291912|Baviera Park Hotel
+291913|São Paulo
+292146|Hotel Gran Minas
+292147|San Diego Expresso Vespasiano
+292149|Comfort Campos dos Goytacazes
+292151|Mercure Rio de Janeiro Nova Iguacu Hotel
+292154|Villa di Mantova Resort
+292155|Grande Hotel São Pedro - Hotel Escola Senac
+292330|Express Confort
+292331|Express São Leopoldo
+292332|Suarez
+293438|Bristol Zaniboni
+293551|Ipe Park
+293658|Fasano Boa Vista
+294840|Mangabeiras
+294897|Barrudada
+294911|San Diego Passos
+294916|Quality Hotel & Convention Center
+295460|Pousada Des Basques
+295518|Port Louis Pousada
+295520|Confraria Colonial
+295522|Villa Passaredo
+295821|Pousada Naturalia
+295822|Solar Do Imperio
+296364|The Sun
+296373|Pousada Blue Marlin
+296376|Marlim
+296949|Marambaia do Porto
+297894|Pousada Doce Cabana
+298291|Daher Center
+300669|Pousada Evelina
+300670|Residence Praia
+301407|Mercure Salvador Boulevard
+310964|Komplex Oasis Atlantico Fortaleza / Oasis Atlantico Imperial - Oasis Atlantico Fortaleza
+310965|Komplex Oasis Atlantico Fortaleza / Oasis Atlantico Imperial - Oasis Atlantico Imperial
+311061|Meridiano
+311064|Neo Maceió
+311066|Água de Coco Hotel-Pousada
+311071|Express Vieiralves
+311072|InterCity Premium Manaus
+311073|Pousada Stella Tropical
+311074|Sotero
+311075|Pousada Villas do Atlântico
+311106|Abrolhos Praia
+311107|Andimar
+311108|Bahiabacana
+311110|Terra Brasil
+311111|Malibu Porto
+311112|Portobacana
+311113|Pousada Aldeia Portuguesa
+311116|Pousada Village Arraial
+311155|Scala Residenza
+311165|Lord Palace
+311168|Tulip Inn Saint Louis
+311169|Bristol Jaraguá
+311175|Nascentes da Serra
+311177|Uberaba
+311179|Druds Três Lagoas
+311180|Odara Lucas
+311219|D'Luca
+311221|Serras
+311227|Harbor Inn Rondonópolis
+311228|Smart
+311230|Nobile Beach Class Executive
+311243|Pousada Radiante
+311248|Golden Park Curitiba
+314215|Ramada Riocentro
+314216|Angra dos Reis Boutique
+314244|Itatiaia Premium
+314248|Miramar Hotel
+314251|HM Plaza
+314277|Pousada Olá
+314279|Prodigy Beach Resort & Conventions
+314300|Travel Inn Boulevard Riviera
+314301|Pousada Aroeira
+314302|Pousada Bico Verde
+314303|Pousada Moryba
+314304|Pousada Tupinambá
+314309|Nacional Inn Campos do Jordão
+314311|Park Tower Hotel
+314316|Pirassununga Othon Suítes
+314317|Panorama Hotel & Spa
+314402|Barracuda Resort
+314406|Pousada Azzurra
+314415|Elegance Hotel
+314422|Ipanema Beach House
+325017|Ville Atlântico Hotel
+327978|Pousada Ecovila Spa da Alma
+328207|Senac Ilha do Boi
+328213|Araucária
+363674|Recife Plaza
+363679|Pousada das Pedras
+363680|Golden Park Uberaba
+363705|Canasvieiras Internacional
+366794|ibis Belo Horizonte Afonso Pena
+366804|Hotel Panamby Sao Paulo
+366805|Merak Hotel
+367611|Holiday Inn Exp Belem Ananinde
+367612|Hotel Metropolitan
+370306|Hotel Rio Vermelho
+370312|Saint Andrews Gramado
+370441|Ancora Pantanal
+370468|Holiday Inn Express Porto Velho
+370730|Limeira Othon Suites
+372099|Blue Tree Towers Rio Verde
+372131|Ibis Mossoro
+372139|Quality Hotel Petrolina
+391664|Village Mutá
+399770|Ponta Verde Praia do Francês
+399772|Pousada República do Sol
+399774|Arraial d?Ajuda Gold Hotel
+399775|Harbor Self Salvador
+399777|Praia Mar Hotel
+399825|Days Inn
+400779|Santíssimo Resort
+400784|Delcas Hotel
+400785|Roari Hotel
+400786|Skala Traveling Hotel
+400889|Araraquara Othon Suítes
+400891|Nau Royal
+400892|Linx Hotel International Airport Galeão
+400893|Plaza Florianopolis
+400904|Pousada Ares de Noronha
+401166|Harbor Self Cidade Verde
+401311|Ecoresort Serra Imperial
+401317|Experience João Fernandes
+401329|Pousada La Foret
+401335|Blue Marlin Apartments
+401339|Açores Premium Hotel
+401340|Dall´Onder Grande Hotel
+401341|Dall'Onder Vittória
+401493|Bello Mar Praia
+401496|Le Renard
+401500|Vivendas do Sol e Mar
+401506|Slaviero Executive
+401681|Vila Gale Rio de Janeiro
+404319|Zoghbi Apart Hotel
+404324|Quality Hotel Pampulha
+404351|Bessa Beach Hotel
+404357|Pousada Vila dos Corais
+404369|Quinta do Sol
+404371|Pousada da Bica
+405170|Sheraton Reserva do Paiva Hotel & Convention Center
+405171|Tulip Inn Savassi
+405172|Tulip Inn Sobral
+405907|Promenade Prime Residence Service
+406608|Novotel Salvador Hangar Aeroporto
+407173|Mabu Iloa Resort
+407190|Florida Inn Ocean
+407200|Pousada Ogum Marinho
+407201|Kembali
+407202|Pousada Praia dos Carneiros
+407220|Quality Hotel & Suites Brasilia
+407222|Bristol Alameda Vitória
+407259|Comfort Hotel Confins
+407261|Getúllio Hotel by Nobile
+407265|Dublê Hotel
+407276|Pousada Vila do Galo
+407334|Hotel La Plage
+407722|Aeroporto Express Hotel
+407726|Golden Park Ribeirão Preto
+407728|Pousada Magic City
+407754|Viale Tower Hotel
+407756|Pier Beach Hotel
+407757|Pousada Tankamana
+407792|Holiday Inn Belo Horizonte Savassi
+407799|Blue Residence
+407801|Pestana Bahia Lodge
+408788|Eurostars Brisas Do Lago
+409041|Campo Bahia
+409173|Jatiuca Resort - Hotel
+409174|Jatiuca Resort - Suites
+412369|Beach Park Resorts - Acqua Beach Park Resort
+412371|Beach Park Resorts - Wellness Beach Park Resort
+413243|Mountain Village
+414681|Natur Campeche Hotel & Pousada - Natur Campeche Hotel
+414683|Natur Campeche Hotel & Pousada - Natur Campeche Pousada

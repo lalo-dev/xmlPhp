@@ -1,0 +1,190 @@
+7763|Angkor Hotel
+10427|City Angkor
+13453|Raffles Grand Hotel d'Angkor
+14830|InterContinental
+15114|Juliana
+16154|Raffles Le Royal
+21335|Seaside
+21794|Cambodiana
+22396|Sunway
+26008|Sofitel Angkor Phokeethra Golf & Spa Resort
+33084|Princess Angkor
+35384|Angkor Century
+39166|Bopha Angkor
+39399|Apsara Angkor Resort & Conference
+39400|Amanjaya a Pancam Hotel
+39401|Khemara Angkor
+51333|Shinta Mani Resort
+52355|Princess
+52357|Grand Soluxe Angkor Palace Resort & Spa
+52905|Angkor Saphir
+53048|Victoria Angkor Resort & Spa
+53049|Sokha Beach Resort
+60841|Borei Angkor
+60859|Le Meridien Angkor
+60892|Holiday Villa
+62721|Park Hyatt Siem Reap
+62722|Royal Bay Inn Angkor Resort
+62920|Phnom Penh Hotel
+62953|Belmond La Residence d'Angkor
+62954|Prince d'Angkor
+62955|Lotus Blanc Resort
+63547|Casa Angkor
+63548|City River
+63760|Amansara
+64493|Golden Sea Hotel & Casino
+72628|Golden Sand
+73088|New York
+75320|Angkor Paradise
+77037|Bougainvillier
+77038|FCC Angkor
+77471|Royal Angkor Resort
+77520|Goldiana
+82240|Sokha Angkor Resort
+88318|Goldiana
+88321|Angkor Village Hotel
+88325|Ta Prohm
+88326|Royal Crown
+88328|La Noria
+90763|Steung
+92420|La Maison d'Angkor
+92868|Veranda Natural Resort
+93225|Orient d'Angkor
+95749|Knai Bang Chatt
+95915|Imperial Garden
+95918|Prum Bayon
+96004|Monoreach Angkor Hotel
+97802|Soria Moria Boutique
+103442|Tara Angkor
+122633|Independence
+124107|Villa Langka
+124635|Angkor Holiday
+124636|Golf Angkor
+124638|Angkor Riverside
+124639|Empress Angkor Resort & Spa
+124640|Memoire d'Angkor Boutique
+129680|Claremont Angkor
+132619|Mittapheap
+132620|Himawari
+132621|Salina
+132625|Somadevi Angkor
+134301|Tai Ming Plaza
+134302|Majestic Oriental Hotel
+134303|Lin Ratanak Angkor
+134453|Angkor Monica
+135383|Diamond
+139174|Pavillon d'Orient Boutique
+139842|Anise
+157256|Pacific
+159335|Almond
+159338|Anantara Angkor Resort & Spa
+159339|Heritage Suites
+182502|Smiling
+182503|Ree
+182504|Angkor Miracle Resort & Spa
+182829|The Quay
+182920|Casa Phnom Phen
+183634|Suorkear Villa
+183635|Dara Reangsey
+183637|Frangipani Villas 60s
+188087|Koh Kong Resort
+201750|Paradise Angkor Villa
+201751|Pacific
+201752|La Parranda Residence & Hotel
+201753|Angkor Home
+201754|Shining Angkor
+201875|Royal Empire
+202543|Holiday International
+226503|Ohana
+226633|Naga World
+228072|Comfort Star
+228073|La Petite Indochine
+228074|Lucky Angkor
+228390|Angkor Deluxe Inn
+228567|Sofitel Phnom Penh Phokeethra
+228924|Mekong Angkor Palace
+229116|Hang Neak
+229250|4 Rivers Floating Lodge
+230798|Cardamom Hotel & Apartment
+230807|The Kabiki
+230810|Siem Reap Bat
+230813|Angkor Way
+231013|Angkor Parklane
+231919|River 108
+232346|Angkor Era
+232350|Angkor Extra
+232352|Lotus Lodge
+232353|Hanuman Alaya Boutique Residence
+234407|Blue River
+234408|Landscape
+234409|Lebiz & Library
+234411|Myhibiscus Hotels & Resort
+235061|Vimean Angkor Pich
+235555|FCC Boutique
+235556|Sre Thmey
+235615|Frangipani Villas 90s
+236632|Mekong Boutique
+236805|Salita
+236807|Rithyrine Angkor
+236808|Bun Win Boutique
+236809|La Tradition d'Angkor Boutique Resort
+236811|Bambu Battambang
+237353|Cambodian Resort
+239301|Cara
+239302|Petit Villa Boutique & Spa
+239861|Karavansara Retreat and Residences
+239862|New Siem Reap Town Hotel
+239914|Song Saa Private Island
+239981|The Plantation
+240210|Macau Phnom Penh
+240211|Jockey
+240848|Phka Villa
+240860|Asia
+240864|Blue Lime
+240881|Eureka Villas
+240908|Queen Boutique
+240913|Sokha Club
+240915|The 252
+240924|Trasak Pa-Em
+240931|Ancient Angkor
+240934|Angkor Pearl
+240939|Apsara Holiday
+240959|Frangipani Villa Hotel
+240992|Okay 1 Villa
+241003|Siddharta Hotel
+241008|Skyway
+241011|Frangipani Villa Hotel II
+241024|The Villa Siem Reap
+241679|King Grand Boutique Hotel
+243841|Frangipani Villa Fine Arts
+245559|Ancient Angkor Village
+247772|Australia
+253760|Royal Palace
+256048|Angkor Sayana Hotel & Spa
+256049|The Privilege Floor
+256052|Check Inn
+256055|Wooden Angkor
+259440|Spring Valley Resort
+260212|Siem Reap Evergreen
+261135|Reflections Boutique
+261324|Grand Diamond City Hotel & Casino
+261325|Poipet Resort Casino
+261326|Starry Angkor
+261327|Indradevi Angkor Hotel & Spa
+261328|Tropical Boutique Spa
+261762|Nibbana Resort
+261812|Sambor Village
+278856|River Palace Hotel
+278857|White Mansion Boutique Hotel
+281004|Navutu Dreams Resort & Spa
+299731|ReakSmey Chan Reash
+359680|La Rose Boutique Hotel & Spa
+363750|Frangipani Living Arts Hotel & Spa
+363751|Frangipani Royal Palace Hotel & Spa
+364098|Dara Airport Hotel
+372569|Patio
+391056|Angkor Heritage Boutique
+404425|Shinta Mani Club
+409312|Angkor Village Resort
+413669|Queen Grand Boutique Hotel and Spa
+413792|Moha Mohori By Sokha Hotels Resorts

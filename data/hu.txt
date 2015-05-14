@@ -1,0 +1,656 @@
+7030|Abbazia Country Club Nemesnep
+7799|Danubius Hotel Annabella
+7903|Aquamarin
+7938|Aranypart
+8051|art'otel budapest, by park plaza
+8122|Danubius Hotel Astoria City Center
+8471|Balatonfenyves
+8806|Benczur
+8887|The Three Corners Hotel Art
+9765|Carlton Budapest
+10441|City Pension Pilvax
+10442|City Ring
+10520|Dobogomajor
+10821|The Aquincum Hotel Budapest
+11122|Danubius Hotel Gellért
+11123|Helikon
+11124|Danubius Grand Hotel Margitsziget
+11125|Danubius Health Spa Resort Helia
+11126|Danubius Health Spa Resort Bük
+11127|Danubius Health Spa Resort Aqua
+12194|Danubius Hotel Erzsébet City Center
+12314|Europa Fit
+12988|Freya
+13625|Gründner
+13952|Danubius Health Spa Resort Hévíz
+14032|Hilton Budapest
+14465|Best Western Hotel Hungaria
+14467|Hunguest Beke
+14468|Hunguest Flora
+14580|Ibis Centrum Budapest
+14615|Ibis Váci Ut - geschlossen
+14857|Intercontinental
+15150|K+K Opera
+15168|Kakadu
+15316|Kempinski Hotel Corvinus
+15335|Kentaur
+15543|Kristaly
+16157|Le Meridien Budapest
+16338|Ibis Budapest Heroes Square
+16564|Lucky
+16924|Danubius Hotel Marina
+16950|Marina Port
+17042|Budapest Marriott Hotel
+17128|City Matyas
+17289|Mercure Buda
+17330|Mercure Korona
+17339|Mercure Budapest Metropol Hotel
+17341|Mercure Museum
+17342|Hotel Nemzeti Budapest - MGallery Collection
+17352|Mercure Budapest Duna Hotel
+18075|Novotel Budapest Centrum
+18364|Best Western Hotel Orion
+18601|Club Siofok - Hotel Hungaria
+18603|Pannonia Nemzeti
+18604|Neptun
+18619|Panorama
+18625|Panorama
+18656|Papillon
+18775|Danubius Hotel Flamenco
+19128|Hunguest Hotel Platánus
+19785|Radisson Blu Béke Hotel
+20557|Lotus Therme Hotel & Spa
+20748|Rubin Wellness & Conference Hotel
+22145|Starlight Suiten Merleg
+22563|Mercure Budapest City Center
+23113|Thomas
+23494|Unio
+23595|Villapark Vargesztes
+23634|Ventura
+23639|Venusz
+26193|Danubius Health Spa Resort Sarvar
+26194|Club Tihany - Hotel und Ferienhäuser
+26196|Park Hotel Hévíz
+26198|MenDan Magic Spa & Wellness Hotel
+27972|Palace
+27976|Diana Hotel
+27977|Napfeny
+27978|Piknik Wellness & Conference Hotel
+27980|Familia
+27981|Villa Rosa
+27984|Drei Schwäne/ Harom Hattyu
+27985|Real
+27988|Cseri Kastely
+28090|Panorama
+28157|Lido
+28159|Club Siofok - Hungaria / Europa
+28160|Sommer
+28165|Schröder
+28465|Landal Residence Duna
+28606|Napsugar
+28607|Danubius Hotel Lövér
+28963|Botel Hotel Lisa
+30417|Maria
+30418|Margareta
+30489|Alfa Fiesta
+31167|Ket Korona
+31169|Erzsebet
+31173|Best Western Janus Atrium Hotel
+31734|Ibis Aero
+32747|Fortuna Boat
+32822|Magistern
+32825|Holiday
+32872|Naturmed Hotel Carbona
+33294|Kis Helikon
+34316|Corinthia Budapest
+34428|Romai
+34433|Kek Duna
+34434|Hunguest Palota
+34438|Batthyany Schlosshotel
+34439|Bacchus
+34445|La Villa
+34446|Ramona Schlosshotel
+35678|Novotel Budapest City
+35679|Komplex Hotel Bara - Hotel Bara
+35821|Fönix
+36397|Piknik Apartman
+36651|City Hotel
+37741|Molo
+38086|Mamaison Hotel Andrassy Budapest
+38761|NH Budapest City
+38967|Greenfield Golf & Spa
+39564|Hunguest Hotel Pelion
+39583|Hotel Azúr Wellness & Conference Hotel - Azur Hotel
+39904|Kehida Thermal
+39920|Residence Wellness
+40209|Karos Spa
+40212|Somogy Kertje Üdülöfalu
+40214|Admiral
+40216|Uni
+40472|Four Seasons Gresham Palace
+40662|Family
+42261|Hilton Budapest City
+46769|Sofitel Budapest Chain Bridge
+46824|Holiday Inn Budapest Budaörs
+48459|Thermal Visegrad
+51485|Normafa
+53265|CEU Konferenzzentrum
+53266|Ibis Budapest City
+54462|Venus & Aphrodite Spa
+54722|Kalma
+55558|Hunguest Griff
+55745|Camping Füred
+56102|Baross
+56105|Frankfurt
+56107|Berlin
+56109|Star City Hotel
+56113|Marco Polo Hostel
+56480|Europa Hotels & Congress Center - geschlossen
+56483|IBS Garden
+56484|Golden Park
+56486|Agro Panorama Kft
+56612|Danubius Hotel Arena
+56668|Danubius Hotel Palatinus City Center
+56687|Swing City
+56694|Gerand Touring
+56696|Eben
+56778|Gloria
+56789|Pólus Palace Thermal Golf Club Hotel
+56867|Mediterrán
+56984|Leonardo Budapest
+56985|Wien
+56988|Delibab
+57101|Budapest
+57110|Viktoria
+57111|Oriental
+57343|Kalvin House
+58480|Aqua Sol
+58481|Silver
+59369|Best Western Plus Hotel Ambra
+59370|Dominik Panzio
+59371|Nap
+59372|Molnar
+59373|Gold Hotel Premium
+59375|Amadeus
+59376|Charles
+60100|Club Siofok - Hotel Europa
+60739|Atlas City Hotel
+62737|Veritas
+63215|Korona Pension
+63216|Lido
+63387|Classic
+63531|Hunguest Helios - Haus Benjamin / Haus Anna
+63532|Hunguest Panorama
+63631|Sunlight
+63771|Aquarius
+63919|Attila
+64425|Happy
+68279|Schlosshotel Szidónia
+68901|Ramada Hotel & Resort Lake Balaton
+69114|Tulip Inn Budapest Millennium
+69525|La Riva
+69526|Renegade
+69562|Caramell
+70110|Parlament
+70446|Yacht Club
+70449|Tihany Atrium
+70450|Laroba
+70774|Atlantic
+70965|Petneházy Club Hotel
+72593|Holiday Beach Budapest Wellness & Conference Hotel
+76008|Hunor Hotel Budapest
+76314|Boscolo Budapest - Hotel
+76519|Boutique Hotel Budapest
+76528|Alfa Art Hotel
+76789|Central Green
+77324|King's
+77393|Novotel Budapest Danube
+77602|Park Inn by Radisson Sárvár Resort & Spa
+78013|Hunguest Repce Gold
+78221|City Inn
+78253|Beatrix
+78647|Daruvar
+78648|Fagus
+78682|Monte Christo
+79682|Kiss Family
+79764|Walzer
+79766|Aqua Therm
+79767|Villa Dorottya
+80042|Camping Autós
+80043|Camping Napfény
+80259|Rila
+80479|Kolping Hotel Spa & Family Resort
+80493|Anna Grand Hotel
+80552|Spirit Hotel & Thermal Spa
+81962|Corvin
+84157|Adina Apartment Hotel Budapest
+84164|Bobbio Hotel
+85153|Hasik
+86094|Anna
+86753|Mamaison Residence Izabella
+86992|Casa Sol
+87176|Piroska
+87983|Danubius Hotel Rába City Center
+88105|Laterum
+88108|Park Hotel Pelikan
+88500|Polus
+88774|Atrium Fashion Hotel
+88909|Danubius Hotel Pátria
+88968|Queen's Court Hotel & Residence
+90110|Lanchíd 19
+90129|Hid
+91414|Regency Suites
+91473|Thermal Hotel
+91476|Rudolf
+91676|Zuglo
+91677|Strand
+93483|Villa Uhu
+93484|Aquamarina
+93566|Carat Boutique Hotel
+95257|BL Yacht Club
+95259|Tisza Balneum
+95859|218 App.
+96218|Agape Guesthouse
+96220|Club Hortobágy
+96547|Novotel Szeged
+98242|Central Basilica
+99692|Aquarell Hotel
+99968|Cosmo City
+100994|Promenade
+102393|Belvedere
+102394|Soho
+102721|St. George Residence
+102834|Orchidea
+102969|Lion's Garden Hotel Budapest
+105125|Best Western Pannonia Med Hotel
+105890|Lajta Park
+107448|Grof Degenfeld Castle
+107960|Hunguest Repce
+108151|Kalvaria
+108216|Kristal
+108654|Marriott Executive Apartments Millennium Court
+109403|Novotel Szekesfehervar
+110512|Airport
+111482|Victoria
+111865|Sissi
+122244|Danubius Health Spa Resort Margitsziget
+122344|Fortuna
+122638|Casati Budapest
+125439|Jagello Business
+125441|Helios Panzió
+125720|Vertes Konferenz und Wellness
+126174|Albergo Giardino
+127356|Hunguest Forras
+128519|Hunguest Grand Galya
+128521|Hunguest Szieszta
+129536|Lido
+129537|Nagyerdo
+131644|Judit Apartment
+131645|Stacio
+131648|Sopron
+135049|CE Fit
+135415|Beachhotel
+135524|Dominika
+136129|Pension Agnes
+136243|Relax Apartman Sarvar
+136405|Drive Inn
+136548|Klastrom
+136550|Velence Resort & Spa
+136840|Buda Castle
+137725|Timon
+137726|Corvus Bük
+139626|Eger Park
+139685|Rácz Thermal Spa
+139750|Belenus Thermalhotel
+139991|Luna
+142270|Ferihegy
+142272|Palazzo Zichy
+143455|Akacfa Holiday Apartments
+144360|Familienhotel Balatonszarszo
+157516|Castle Garden
+157518|Regnum Residence
+157519|Villa Korda
+157520|Panda
+157522|Budapest Museum Central
+157523|Galilei Hotel
+157528|Locust Tree Apartments
+157530|Boulevard City Guesthouse and Apartments
+157531|Budai Hotel & Restaurant
+157532|Premium Apartment House
+157535|Oswaldo Hotel Budapest
+157536|Waterfront
+157539|To
+157543|Hajnal
+157546|Levay Villa Hotel
+157550|Centrum
+157552|Divinus
+157559|Tisza
+157561|Tisza Sport
+157562|Hertelendy Kastely Hotel
+157565|Ametiszt Hotel Harkany
+157566|Jancsar
+157568|Majerik Hotel
+157574|Hullam Villa
+157575|Vital
+157576|Ibis Gyor
+157577|Fonte Hotel & Restaurant
+157578|Isabell
+157579|Arany Szarvas Fogado
+157580|Gasthof Amstel Hattyu
+157581|Famulus
+157584|Viktoria
+160239|Aqua
+161813|Marmara Hotel
+163464|Central 21
+182234|The Three Corners Hotel Bristol
+183049|Art & Fit Hotel Kikelet
+183526|Ramada Resort Budapest Aquaworld
+183527|Burg
+184234|Hotel Golden Ball Club
+185357|Star Inn Hotel Budapest Centrum
+188084|Actor Hotel Budapest
+196322|Vital Nautis
+197219|Hotel Kapitany
+197220|Szarszo
+202301|Royal Club
+202302|Crocus Gere Weinhotel
+202303|Abbazia Club Hotel
+203006|Forras
+203117|Expo Congress Hotel
+203519|Eurostars Budapest Center
+203674|7Seasons Apartments Budapest
+203803|Abel Pension Budapest
+203820|Aboriginal Budapest Apartments
+203890|Adler Apartments
+204304|Alfréd Panzió
+204346|All-4U Apartments
+204934|Apartman Bella Hotel
+204940|Apartment Buda Budapest
+204948|Apartment Pension Rideg Heviz
+204990|Apartments Leslie
+205109|Aquaticum Debrecen Termal & Wellness
+205125|Arboretum Hotel Harkany
+206414|Boutique Hotel Sopianae
+206427|Bphome Apartments
+206527|Broadway Hostel
+206581|Budai Sport Hotel
+206583|Budapest Best Apartments
+206584|Budapest Panorama Central
+207136|Central
+207159|Central Passage Budapest Apartments
+207185|Centrooms House
+207305|Chesscom
+207431|City Hotel Szeged
+207529|Club Apartments & Rooms
+207874|Crocus Gere Bor Hotel Wine Spa
+208809|Elite Apartments Budapest
+208870|Engler Hotel-Étterem
+208995|Europa Centerpoint Guesthouse
+209033|Evergreen Guest House
+209075|Fabius Panzió
+209171|Fenyves Panorama
+209313|Flora Villa
+209636|Gasthaus Joó
+209864|Golden Ship Hotel / Aranyhajo Fogado
+209914|Gozsdu Court
+211445|Hotel Szabadi
+211572|Hozam Hotel
+211593|Hunyadi Panzio
+211833|Írisz Panzió
+212017|Kapu Pansion
+212027|Karma Boutique Apartments
+212109|King Apartments
+212181|Ködmön Wellness
+212216|Korona
+212233|Kristály Imperial Hotel
+213275|Liechtenstein Apartments
+213496|Lorelei Pension
+213588|Lycium Debrecen
+213693|Makartanya Sport & Wellness
+213915|Maverick Hostel
+213974|Medosz
+214095|Millennium
+214314|Motelnet.T
+214539|Nomad Hotel & Campsite
+214586|Nova Apartments
+214763|Opera Garden
+214765|Opera Residence
+214892|Palatinus Pension
+215570|Platan
+215571|Platan
+215572|Platan Hotel
+216345|Hotel President
+217164|Revesz Hotel
+217537|Róz
+217789|Sante
+217953|Senator Apartments Budapest
+218044|Siesta Club Hotel
+219748|Town Hall Apartments
+219961|Vadaszkurt Pension
+220195|Villa Campana
+220563|Vivaldi Apartments Budapest
+220666|Wellness Hotel Katalin
+220829|Wollner
+224371|Cívis Hotel Phönix
+224576|Elizabeth Hotel
+224583|Erzsebet Kiralyne
+224586|Espa Bio and Art Hotel
+224591|Esztergom
+224653|Fried Castle Hotel and Restaurant
+224659|Gastland M0 Hotel
+226173|Tornácos Panzió
+226174|Touring
+226239|Vineyard Inn
+226252|Wesselényi
+227069|Apartments Opera - Hajos 2
+227166|Continental Hotel Budapest
+227533|Alta Moda Fashion
+228042|Courtyard Budapest City Center
+228053|Royal Park Boutique Hotel
+228142|ACHAT Premium Budapest
+231721|Alfa
+231800|Villa Alexander
+231802|Thermal Harkány
+231805|Amira Boutique Hotel Hévíz
+231812|Park Ambrózia
+231814|Omnibusz
+231820|Kata Panzió
+231824|In
+232191|Design Apartments
+232258|Nereus Park Hotel
+232453|Balaton
+232454|Wellamarin
+233347|La Prima Fashion Budapest
+233348|Silver Budapest City Center
+233406|Aqua Eger
+233407|Ipoly Residence
+235324|Bo18
+236295|Bohem Art
+237515|Zenit Balaton
+238030|Buda Hill Residences
+239223|Canada
+240057|Corso Pecs
+240068|Bonvino
+240503|Iberostar Grand Hotel Budapest
+241402|Abacus
+241403|Diamant
+241490|Green Budapest
+241536|La Contessa Schlosshotel
+241685|Hunguest Erkel
+242866|Lido
+242913|Buddha Bar Budapest Klotild Palace
+245873|City Gardens
+245874|Residence Baron
+245983|Drava Thermal Resort
+246168|Residence Ózon
+246171|Hubertus-Hof
+247376|Hunguest Helios - Haus Benjamin
+247377|Hunguest Helios - Haus Anna
+247380|Venus & Aphrodite Spa - Venus
+247381|Venus & Aphrodite Spa - Aphrodite Spa
+247697|Best Western Ginkgo Sas
+248501|Boscolo Budapest - Residence
+259334|Gotth'Art Wellness & Conference
+260391|Estilo Fashion
+260406|Zenit Budapest Palace
+260571|Hotel Azúr Wellness & Conference Hotel - Azur Premium
+261113|Fraser Residence Budapest
+261307|Mirage
+263562|Budapest City Central
+263563|Budapest Hotel Apartments
+263571|Rege
+265747|Club Kehida
+267849|Mohácsi Panzió
+267852|Sunny Riverside
+267853|Bed-Breakfast Hotel Budapest
+267854|Connection Guest House
+267857|Empedocle Comfort Suite
+267861|Animation City Hostel
+267862|Gerlóczy Rooms deLux
+267863|Happy Hostel
+267864|Gaia Hostel
+267865|Ferenciek tere Apartment
+267866|Butterfly Home
+267867|Dandy Deluxe Apartments
+267871|Parisien Apartment
+267873|Parliament Apartment Downtown
+267874|Golden Stars DELUXE Budapest Apartment
+267876|Vaci Street Apartments
+267877|Golden Stars DREAM Budapest Apartment
+267879|Golden Stars ROYAL Apartment Budapest
+267880|Fõvám Square Apartment
+267881|Elisabeth Studio
+267883|Trendy Deluxe Apartments
+267884|Andrássy út Apartments
+267885|Andrássy Budapest Apartment
+267886|Shakespeare Appartamento Opera
+267888|Hajos Bed and Breakfast
+267889|Piano Apartment
+267890|Friends Hostel
+267891|Eitan's Guesthouse
+267892|Dunaflat - Opera Romantica Apartment
+267893|Lord Apartment Hotel
+267894|Teréz körút Apartment
+267895|City Center Guesthouse Budapest
+267900|Oktogon apartment
+267901|The Dylan
+267903|Paprika Apartman
+267904|Claudia Rooms
+267905|City Heart Guesthouse
+267906|Paradise Apartments
+267908|Synagogue Residence
+267910|Elit Hotel
+267911|Hipster Hostel
+267914|Corvin Point Hostel
+267915|Prater Residence Budapest
+267917|Rákóczi tér Apartment
+267918|A' Margit Guesthouse
+267919|RingAvenue Apartments
+267920|József Körút Apartment
+267921|Budapest GuestRooms
+267923|Casa de la Musica Hostel
+267924|Brody House
+267926|Budapest Rooms - Bed & Breakfast
+267927|Manzard Panzio
+267929|Lónyay utca Apartment
+267931|Villa Korall Panzio
+267934|Kadar Apartments
+267935|Budapest Center House
+267936|Visegradi Street Apartment
+267937|Balcony Apartment Budapest
+267939|Graphic Apartment
+267940|Painter Apartment
+267941|Fortuna Panzio
+267942|Romantik
+267945|Farhome Hotel
+267950|Bai Panzió
+267954|Park Inn by Radisson Budapest
+267955|Villa Valeria
+267956|Astoria Hévíz Panzio Cafe
+267957|Korona Pension Restaurant
+267958|Feng Shui Wellness Apartmanház
+267959|Hevizquelle 2 Apartmenthaus
+267961|Joker Villa Apartementhaus
+267962|Blue Villa Appartement House
+267963|Hevizquelle 1 Apartmenthouse
+270407|Balaton Apartman House 1
+270410|CE Plaza Hotel
+270411|Jókai Villa
+270412|Haus Csanaky
+270515|Balaton
+270989|Quelle Azur
+270990|Quelle Smaragd
+270991|Family Apartman Harkány
+270992|Baranya Hotel
+270994|Romantik
+270995|Rubinia
+271782|Gibraltár
+271785|Aurum Hotel Hajduszoboszlo
+271786|Sunset Apartments
+273949|Soho Pension
+273950|Buda Panzio
+273951|WHB Hotel
+274416|Dóm Hotel
+274418|Szent János Hotel
+274419|Tisza Corner Hotel
+274670|Silvanus
+274671|Patak Park Hotel
+274785|Villa Medici
+274787|Historia & Historante
+274788|Betekints Wellness és Konferencia Hotel
+275847|Stop Pension
+275848|Hotel Óbester
+276267|Andrassy Rezidencia Hotel Wine
+276539|Hotel Szárcsa
+276908|Bodrogi Mansion
+276909|Aventinus Hotel
+276910|Svájci Lak - Swiss Lodge
+276911|Hotel Panzió 100
+277118|Hotel Cabernet
+278272|Williams Village Country Club
+279564|Club Aliga Hotel
+292270|Kikelet Panzio
+292271|Vis Vitalis Medical Wellness Hotel
+292915|Bajor Panzio Aparthotel Restaur
+293061|Farmotel Stefania - Guest House
+293673|Hotel BorsodChem
+293674|Gold Barrel Inn and Restaurant
+294254|Patyi Étterem & Hotel
+294352|Colosseum Hotel Mórahalom
+294353|Keszi Panzió
+294877|Bellevue Conference & Wellness Hotel
+294880|Magita Hotel
+294881|The Bat Barn
+298287|Schlosshotel Rex Clinic
+299680|Hunguest Hotel Mirage
+300558|Borhotel
+300562|Erdospuszta Club Hotel
+300564|Eto Park Hotel
+300573|Gosztola Gyöngye Wellness Hotel
+300577|Lifestyle Hotel Matra
+300583|Old Lake Golf Hotel
+302424|Komplex Hotel Bara - Junior House
+302642|Varga Tanya
+317725|Andrea Panzió
+365338|JUFA Vulkan Thermen Resort
+365513|Andante
+367323|K9 Residence - Budapest
+367325|Sunshine Hotel - Budapest
+370791|Four Points Kecskemet Hotel
+372529|Klosterhotel Wandorf
+373769|Bliss Hotel and Wellness
+373771|Corvin Plaza Apartments - Suites
+374433|Bella Villa Siofok
+375980|Villa Voelgy
+382899|Kafka Fogado
+389893|Lipa
+390752|Fonix Medical - Wellness Resort
+392306|Hotel Azúr Wellness & Conference Hotel - Azur / Azur Premium / Deluxe Klub
+392410|Six Inn Budapest
+392422|Aquacamp Camping Park - Balaton
+401050|Hotel SPA Heviz
+405414|Maverick City Lodge
+405594|Art Hotel
+408731|Arcadia Hotel Budapest
+414642|Osiris Budapest Apartments
+415538|Piknik Holiday Village

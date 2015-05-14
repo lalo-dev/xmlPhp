@@ -1,0 +1,207 @@
+2252|Holiday Inn Atrium
+2253|Village Hotel Bugis
+2254|Grand Park City Hall
+2255|Intercontinental
+2257|Orchard Parade
+2258|Peninsula Excelsior
+6980|Grand Pacific
+7003|Parkroyal on Kitchener Road
+7004|Parkroyal on Beach Road
+7007|Hotel Jen Tanglin Singapore
+7282|Albert Court
+10711|Conrad Centennial Singapore
+10757|Copthorne King's Singapore
+10759|Copthorne Orchid - geschlossen
+12925|Four Seasons
+13111|Garden Hotel Singapore
+13432|Grand Copthorne Waterfront Singapore
+13478|Grand Hyatt Singapore
+14300|Holiday Inn Orchard City Centre
+16114|Concorde Singapore
+16944|Marina Mandarin Singapore
+17266|Swissotel Merchant Court
+17374|Pan Pacific Orchard
+18067|Furama Riverfront
+18583|Pan Pacific Singapore
+19833|Fairmont Singapore
+20031|Regent
+20161|Rendezvous Hotel Singapore
+20712|Royal Plaza on Scotts
+21462|Shangri-La Singapore
+21477|Shangri-La's Rasa Sentosa Resort
+21590|Sheraton Towers Singapore
+21684|Hilton
+21685|Singapore Marriott
+22745|The Elizabeth
+22890|Mandarin Oriental Singapore
+22980|The Ritz-Carlton Millenia
+24584|York
+26029|Swissotel The Stamford
+26031|Gallery
+27425|Royal
+27426|The Fullerton Hotel Singapore
+30587|Carlton
+30588|Riverview
+37835|Orchard Singapore
+37839|Raffles Singapore
+37913|The Singapore Resort & Spa Sentosa Managed by Accor
+40606|Miramar Singapore
+47484|Goodwood Park
+52443|Grand Park Orchad
+52444|Jen Orchardgateway Singapore
+57653|Amara Singapore
+60895|Novotel Singapore Clarke Quay
+63747|Bayview
+64603|Furama City Centre
+72685|Mandarin Orchard Singapore
+77355|Hangout @ Mt. Emily
+77627|M Hotel Singapore
+78406|Changi Village
+78867|Grand Mercure Roxy Singapore
+80771|The Duxton
+80780|Village Katong
+81570|Quality
+82671|Fragrance Selegie
+82672|Hotel 81 - Bencoolen
+82673|Hotel 81 - Palace
+82674|Hotel 81 (PREMIER) Star
+82676|Fragrance Balestier
+82677|Fragrance Joo Chiat
+85021|Fragrance Emerald
+85022|Fragrance Crystal
+85023|Fragrance Rose
+85218|Hotel 81 - Elegance
+85219|Venue Hotel The Lily
+85220|Hotel 81 - Princess
+85221|Hotel 81 - Geylang
+85222|Fragrance Pearl
+85223|Fragrance Ruby
+85225|Chinatown
+85227|Summer View
+85228|New Majestic
+85235|Fragrance Sapphire
+85632|The Scarlet
+86020|Amara Sanctuary Resort Sentosa
+93989|Grand Central Limited
+95687|Naumi
+96493|The St. Regis
+98152|Mövenpick Heritage Sentosa
+98812|Royal at Queens
+99570|Link
+99571|Victoria
+99572|Hotel 81 - Orchid
+99573|Hotel 81 - Bugis
+100329|Hotel 81 - Tristar
+100330|Hotel 81 - Rochor
+100835|Siloso Beach Resort
+100836|Robertson Quay
+102371|Regency House
+102729|Orchard Scotts Residences
+102730|Re!
+102780|Fort Canning Lodge
+103529|Fragrance Imperial
+103530|Summer Tavern
+103531|Crowne Plaza Changi Airport
+103546|Orchard Parksuites
+108027|Inn at Temple Street
+109017|Metropolitan YMCA Singapore
+110942|Somerset Liang Court Singapore
+133139|Supreme
+133142|Venue
+134223|Hotel 81 - Chinatown
+134316|Hotel 81 - Selegie
+134481|Park Hotel Clarke Quay
+136376|Ibis Singapore on Bencoolen
+136678|Santa Grand Aljunied
+137258|Hotel 81 - Dickson
+137361|1929
+138912|Fragrance Oasis
+145151|Cultural
+157713|Citadines Singapore Mount Sophia
+157714|Ascott Raffles Place Singapore
+157715|Capella
+157716|Fragrance Waterfront
+157717|Fragrance Ocean View
+159461|Santa Grand Little India
+162453|Riders Lodge
+162455|Harbour Ville
+183719|Fragrance Sunflower
+183720|Value Balestier
+195918|Value Thomson
+201616|Le Peranakan
+201667|Fragrance Royal
+201668|Nostalgia Urban Boutiquehotel
+201704|Marina Bay Sands
+202574|Santa Grand Bugis
+203218|Wangz
+205111|Aqueen Balestier
+205112|Aqueen Lavender
+209881|Goldkist Beach Resort
+210946|Hotel 81 - Classic
+210947|Hotel 81 - Sakura
+214773|Orchid Country Club
+216501|Quincy
+217773|Santa Grand West Coast
+219996|Value Nice
+226690|Hotel Michael
+226691|Hard Rock Hotel Singapore
+226692|Resorts World Sentosa - Festive
+226818|Studio M Singapore
+227439|Aces Lodges
+228399|The Fullerton Bay Hotel Singapore
+230364|Sandpiper
+232197|Santa Grand Chinatown
+232198|Grand Imperial Hotel
+232200|Park Regis
+234611|Hotel 81 - Gold
+234612|Hotel 81 - Kovan
+234613|Hotel 81 - Lucky
+234614|Hotel 81 - Osaka
+234956|Lanson Place Winsland Residences
+235205|Ibis Singapore Novena
+235352|Fort Canning Hotel
+235353|Le Hotel Carpenter Street
+236508|Innotel
+236509|Wanderlust
+236510|Parc Sovereign
+237038|V Lavender
+237040|Oasia
+237280|Porcelain
+237282|Moon Hotel Singapore
+240237|Fragrance Bugis
+243628|Arianna
+246390|Hotel 81 - Hollywood
+246391|Hotel 81 - Heritage
+246392|Hotel 81 - Cosy
+246394|Village Residence Clarke Quay
+246395|The Chancellor Hostel
+246397|The Sultan
+246399|Village Residence Robertson Quay
+246400|Far East Plaza
+246409|Breezee Room at Resort
+246947|Society Backpackers' Hotel
+247754|Santa Grand Lai Chun Yuen
+247756|Fragrance Riverside
+259557|Bay Hotel Singapore
+259559|Kam Leng
+260286|Resorts World Sentosa - Equarius
+260958|Hotel 81 - Balestier
+261061|W Singapore Sentosa Cove
+261323|Backpackers Inn Chinatown
+261614|Capri by Fraser, Changi City
+286797|Days Hotel Singapore at Zhongshan Park
+286800|Park Avenue Rochester Singapore
+286801|Ramada Hotel Singapore At Zhon
+301653|Sofitel So Singapore
+302543|Parkroyal on Pickering
+302577|Dorsett Singapore
+302582|The Seacare
+359531|Carlton City Hotel
+363727|V Hotel Bencoolen
+365385|The Westin Singapore
+368484|Big Hotel
+368487|Pan Pacific Serviced Suites Beach Road
+399691|Park Avenue Changi
+401210|Holiday Inn Express Singapore Clarke Quay
+405143|One Farrer Hotel & Spa
+407761|Parc Sovereign Hotel - Tyrwhitt

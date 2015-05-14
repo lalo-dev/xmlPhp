@@ -1,0 +1,186 @@
+34196|Lwow Grand
+34197|Dnipro
+34198|Dnister
+34199|Lybid
+34200|Natsionalny
+34201|Premier Palace
+34202|Premier Hotel Rus
+34203|Odessa
+34204|Astoria Luxe
+34205|Central
+34206|Bristol
+34207|Londonskaja
+34208|Oreanda
+34209|Intourist Jalta
+34210|Levant
+40426|Charkov
+40427|Mozart
+41231|Adria
+56433|Radisson Blu Kiew
+56492|Victoria
+56493|Bristol
+56495|Lydia
+56496|Moskwa
+56497|Ukraina
+56498|Ukraine
+70835|Palmira Palace
+74954|Rotonda
+76992|President Hotel
+86620|Prolisok
+88157|Continental
+90212|Opera
+90213|Hyatt Regency
+95269|Vozdvyzhensky
+95270|Podol Plaza
+96964|1001 Nacht
+96966|Radisson Alushta
+104131|Arcadia Plaza
+104421|Ramada Donetsk
+104427|Bratislava
+105826|Chichikov
+106449|Cosmopolit
+106752|Donbass Palace
+107407|Grand Ukraine
+108021|Impressa
+108536|London
+109108|Mir
+109170|Morskoy
+109488|Panorama Hotel
+109507|Otrada
+109525|Palace Del Mar
+109709|Prague
+110182|Rialto
+110860|Slavutich
+111343|Tourist Kiev
+111436|Hotel Ukraine
+133282|Khreschatik
+133283|Riviera On Podol
+139980|Leopolis
+163052|La Perle Royale
+163055|Aurora
+163060|Park
+163061|Ayvazovsky
+163064|Swiss
+163065|Victoria
+163066|Eva
+163069|Express
+163073|OK-Odessa in Arcadia
+163076|Sport
+163077|Senator Apartments City Centre
+163078|Eurohotel
+163082|Alye Parusa
+163083|Kozatskyi Stan
+163087|Grand European
+163091|Best Western Sevastopol Hotel
+163092|Black Sea Pantelyeimonovskaya
+163093|Gintama
+163336|Intourist Zaporozhie
+187467|Grand Pettine
+187597|Attache
+187942|InterContinental Kiev
+202402|Black Sea Rishelevskaya
+226688|Senator Apartments Executive
+226888|Bakkara Accord Art
+227652|Citadel Inn
+227766|City Park
+227767|Senator's Park
+227768|Kozatskiy
+228862|Maristella Club
+229151|Reikartz Dworzec
+232205|Liverpool
+232206|Lion's Castle
+232808|Diarso
+232809|Roche Royal
+233520|Kapri
+233521|Dnipro
+233522|Soborniy
+234947|Mir
+234948|City Club Hotel
+234949|George
+234950|Prominada
+234951|Axelhof Boutique
+238324|Royal Village Resort
+238328|Royal City Apartments Kiev
+238331|Royal Spa Geneva
+238963|Aquamarine Resort
+238964|Royal Hotel de Paris
+240282|Royal Park
+240284|Frederic Koklen Boutique
+240286|Atrium - Kings Way
+240288|Royal Spa Caesar
+242385|Black Sea Otrada
+243157|Park Hotel
+245897|Reikartz Dnipropetrovsk
+245901|Tsunami Spa
+246363|Reikartz Sevastopol
+248424|Four Points Zaporozhye
+249346|Kharkiv Palace
+249347|Compass
+249349|Nobilis
+259475|Aurora
+259476|John Hughes
+259477|Park Hotel Villa Bogatir
+259478|Melnitsa
+259479|Ibis Kiev Shevchenko Boulevard
+259480|Kyiv
+259481|Predslava
+259482|Trypillya
+259483|Druzhba
+259619|Fairmont Grand Hotel Kyiv
+259769|Greguar
+259770|Vettriano
+259771|Kozatskiy on Antonova
+260252|Visak
+260253|Ozerniy
+260873|Congress Complex Kirsha
+260875|Ekos Osvity St.
+260876|Terra Nova
+261337|Holiday Inn Kiev
+273441|Golosievo Park
+273442|Guest House 1812
+273819|Sonata Hotel
+273835|Villa Elena Hotel & Residences
+273848|Villa le Premier
+273855|Osobnyak Residence
+273860|Corona Hotel & Apartments
+274392|Mirax Boutique
+275724|Villa Kristina
+280772|Ramada Encore Kiev
+280776|Staro
+281062|Shakhtar Plaza
+281471|Kievskiy
+287455|Cityhotel
+287456|Cosmopolite
+287459|Royal Congress
+287460|Royal Grand
+287461|11 Mirrors
+287690|Passage Hotel
+289300|Royal Grand Hotel Truskavez
+289301|Royal Spa Hotel Promenade
+289302|Morskoy Hotel
+294164|Kleopatra Hotel
+294166|Palazzo Hotel
+295212|Accord Hotel Deluxe
+295213|Reikartz Avrora Krivoy Rog
+295214|Accord Hotel Business
+295349|Ukraina Hotel
+295350|Diligence Hotel
+295361|Mir Hotel In Rovno
+299443|Alfavito
+299559|Liwadijskij Spa
+363286|De Gaulle Boutique
+363346|Alexandria
+363347|Radisson Blu Kyiv Podil
+365042|Old Continent
+368937|Iq Hotel
+369095|Astoria Hotel
+369098|Continental 2 Hotel
+369101|Geneva Resort Hotel
+369103|Stolichniy Hotel
+369104|Menorah Hotel
+369320|Viva Hotel
+372191|Royal Village Resort Bukovel
+380686|Royal Olimpic Hotel
+390988|Senator Apartments Maidan
+407982|Panorama De Luxe
+409408|Palais Royal Odessa

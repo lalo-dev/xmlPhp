@@ -1,0 +1,287 @@
+3776|Bentota Beach
+3777|Centara Ceysands Resort & Spa
+3778|The Surf
+3779|Paradise Island Resort
+3780|Avani Bentota Resort & Spa
+3781|Vivanta by Taj Bentota
+3784|The Eden Resort & Spa
+3785|Lanka Princess
+3786|Club Palm Garden - geschlossen
+3787|Riverina - geschlossen
+3791|Chaaya Tranz Hikkaduwa
+3793|Lanka Supercorals
+3794|Induruwa Beach
+3795|Royal Palms Beach
+3796|Tangerine Beach
+3797|Villa Ocean View
+3798|Mahaweli Reach
+3799|Club Koggala Village & Koggala Beach
+3801|Jetwing Lighthouse
+3802|Palm Bay
+3803|Mount Lavinia
+3804|Jetwing Blue
+3805|Catamaran Beach
+3806|Golden Star Beach
+3807|Goldi Sands
+3809|Jetwing Beach
+3810|Paradise Beach (ex: Sunflower)
+3811|Calamander Beach Resort
+3812|Dolphin Club
+3813|Ranweli Holiday Village
+6022|The Sands
+6025|Pegasus Reef
+6026|Amaya Hills Kandy
+8373|Ayurveda - Aida
+8374|Ayurveda Walauwa
+8844|Berjaya Colombo
+9319|Browns Beach
+9524|Camelot Beach
+10279|The Kingsbury
+10544|Club Villa
+10787|Coral Sands
+11026|Amaya Lake
+13412|Grand
+13956|Hibiscus Beach Hotel & Villas
+13968|Hill Club
+13986|Hilton Colombo
+14160|Ramada Colombo
+14464|Hunas Falls by Amaya
+15501|Kosgoda Beach Resort
+17378|Mermaid Hotel & Club
+19126|Plantation Villa
+19999|Citrus Hikkaduwa
+20516|Club Bentota
+20904|Saman Villas
+21322|Sea Garden
+21330|Jetwing Sea
+21681|Avani Kalutara Resort
+22063|Jetwing St. Andrew's
+22283|Suisse
+22352|Sunils Beach
+22383|Sunset Beach
+22426|Susantha Garden
+22500|Taj Samudra
+22693|The Blue Water Hotel
+22823|Cinnamon Grand Colombo
+23016|The Tea Factory
+23276|Cinnamon Lakeside Colombo
+23355|Heritance Ahungalla
+23377|Tropical Villas - geschlossen
+24590|Ypsylon
+26470|The Privilege Ayurveda Beach Resort
+26471|Siddhalepa Ayurveda
+26674|Heritance Kandalama
+26877|Sigiriya
+27342|Casa Siena
+28285|Pandanus Beach Resort & Spa
+32038|Jetwing Ayurveda Pavillons
+32078|Tamarind Tree
+38604|Palm Beach
+40234|Chaaya Blue Trincomalee
+41717|Earl's Regency
+41718|Galway Forest Lodge
+41719|The Deer Park
+46553|Ayurveda-Center-Maho
+46562|Coral Rock by Amaya - demnächst Bansei by Hotel J
+46570|Galle Face
+46579|Nilaveli Beach Hotel
+46581|Olenka Sunside Beach
+51313|Barberyn Beach Ayurveda Resort
+52537|Galadari
+56173|Heritance Ayurveda Maha Gedara
+58240|Priyankara
+59168|Airport Garden
+59496|Flower Garden
+59497|Cinnamon Citadel Kandy
+59503|Wunderbar Beach Club
+63297|Queens
+63299|Grand Oriental
+63303|Thilanka
+63304|Hotel Topaz
+63305|Tree of Life
+63562|Barberyn Reef Ayurveda Resort
+64583|The Palms
+64778|Cinnamon Wild Yala
+64992|Amanwella
+64993|Amangalla
+64994|The Fortress
+65119|Hill Top
+65120|Windsor
+65447|Hilton Colombo Residence
+68930|Sanmali Beach
+74680|The Palace
+74802|Sapphire
+75755|Bandarawela
+76199|Galle Fort
+76984|Jetwing Vil Uyana
+76985|Aditya Resort
+77056|The River House
+77264|The Kandy House
+77476|Renuka
+78414|Manor House Boutique
+79815|Dickwella Resort
+81259|Villa Paradise
+85904|Taprospa Footprints
+86535|Palm Village
+87329|Elephant Reach
+89210|Weligama Bay Resort
+90046|Garden Beach
+90816|Chaaya Village Habarana
+91061|Cinnamon Lodge Habarana
+91064|Palm Garden Village
+91065|La Maison Nil Manel
+91066|Mandara Rosen
+92073|Insight
+95873|Taprobane Island
+97059|Ella Jungle Resort
+97062|The Swiss Residence
+100791|The Lady Hill
+110496|Taru Villas - The Park Street
+122219|Sigiriya Village
+124671|Giritale
+124672|Peacock Beach
+132677|City
+136108|Boulder Garden
+136205|Temple Tree Resort & Spa
+137455|Ramada Katunayake Colombo International Airport
+159388|Global Tower
+182162|Mandara Resort
+182823|Spring of Life Ayurveda Resort
+183134|Muthumuni Ayurveda Beach Resort
+183135|Muthumuni Ayurveda River Resort
+183136|Bentota Village
+183224|Clingendael
+184021|Tisara Villas
+188840|Mount Lavinia House
+201621|Life Ayurveda Resort
+227297|Carolina Beach
+227854|Serene Pavilions
+228049|Reef Villa
+228184|The Villa
+228343|Kassapa Lions Rock
+228345|Sorowwa Resort & Spa
+228346|Randholee Luxury Resort
+228515|Paradise Holiday Village
+230101|Sudu Araliya
+230104|Casamara
+230112|Tamarind Hill
+230113|Casa Colombo
+230854|Paradise Beach Club Mirissa
+232066|Pigeon Island Beach Resort
+232067|Ulagalla Resort
+232068|Maalu Maalu Resort & Spa
+232880|Heritage
+232882|Janaki
+234178|Tintagel Colombo
+234298|Tangalla Bay
+234978|Rani Beach Resort
+235290|Cinnamon Garden
+235299|Dalawella Beach Resort
+235561|Senani
+235564|Yapawwa Paradise
+236644|Park Street
+236803|Fort Printers
+236804|Windmill Beach
+237186|C & I Beach
+237335|The Safari
+237784|The Long Beach Resort
+238149|Glenross Country Estate
+238315|Amaya Langdale
+238639|Owinka Lake Resort
+238640|Panorama
+238641|Polhena Reef Garden
+238642|Full Moon Garden
+238643|Palm Grove Holiday Inn
+238644|Sairas Garden
+238645|Kandyan Reach
+238646|Windsor Park
+238647|Devon
+238648|Olympus Plaza
+239137|Avenra Garden
+239429|Ratnaloka Tour Inns
+241507|St. Lachlan Hotel & Suites
+242285|Grand Concord
+242286|Centauria Tourist
+242288|Seruwa
+242290|Palm Paradise Cabanas
+242291|Frangipani Tree
+244018|Cinnamon Bey Beruwela
+245513|Club Koggala Village & Koggala Beach - Club Koggala Village
+245514|Club Koggala Village & Koggala Beach - Koggala Beach
+245520|Jetwing Kurulubedda
+245712|Turtle Bay
+246183|Talalla Retreat
+247248|Ranna 212 Beach Resort
+248481|Cantaloupe Aqua
+248657|Haridra Resort & Spa
+248660|Sea Lotus Park
+249576|Anjayu Villa
+250040|Marina Bentota
+250058|Jetwing Lagoon
+252673|Orient
+260061|Bojangles Beach House
+260273|Zylan Luxury Villa
+260274|Siyanco Holiday Resort
+260275|Amanda Hills
+260757|Arugam Bay Surfing Resort
+260763|Jungle Beach Resort
+260764|Neela Kuda
+260786|St. Anne's Lagoon House
+260860|Boulder Range Resort
+260863|Forest Villa
+261410|Kamili Beach Villa
+261649|Amaya Beach Passikudah
+278371|Paradise Road The Villa Bentota
+295907|Amethyst Resort
+296441|98 Acres
+296786|Uga Bay
+296788|Cinnamon Citadel
+298720|Grand Ella Motel
+299241|Belihuloya Rest House
+299660|Elements Watersports & Nature Resort
+299682|Shanti Lanka
+299900|Palace Mirissa
+300526|Green Paradise Resort
+300598|Rivi Ras
+300599|Ranveli Beach Resort
+300600|Riverdale Eco Resort
+300601|Supun Arcade Residencies
+300602|Sakura Villa
+300603|Roy Villa Beach
+300604|Blue Gum
+300605|Leisure Village
+300606|Divyaa Lagoon
+301388|Palm Beach Inn & Sea Shells Cabana
+301394|Rainforest Eco Lodge
+301396|Kirinda Beach Resort
+302356|Michelle Boutique Hotel
+310994|Citrus Waskaduwa
+311207|Coco Bay Unawatuna
+314328|Thaproban Beach House
+314329|Thaproban Pavilion
+314330|Hotel J
+359358|Anilana Pasikuda
+359359|Jetwing Yala
+359365|Rockside Cabanas Unawatuna
+359391|Suriya Resort & Spa
+359568|Beach House Pasikudah
+359730|Anilana Nilaveli
+359937|Deco on 44
+363213|Villa Yasmin Guesthouse
+363704|Colombo Courtyard
+363917|Aliya Resort & Spa
+372463|Amagi Lagoon Resort & Spa
+392456|Lavanga Resort & Spa
+399787|Anantaya Resort & Spa
+400833|Shinagawa Beach
+406377|Heritance Negombo
+406577|The Beach Cabanas
+407123|Cinnamon Red Colombo
+407145|Ozo Hotel Colombo
+407182|Villa Mayurana
+409673|Dalmanuta Gardens
+411027|The Tourmaline
+411569|Cape Weligama
+413750|Taprobana Wadduwa
+414399|Alfred Court Accomodation
+414654|98 Acres Resort

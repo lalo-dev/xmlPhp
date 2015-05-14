@@ -1,0 +1,138 @@
+2234|La Digue Island Lodge
+2235|Blue Lagoon Chalets
+2237|The Plantation Club / Beach Resort
+2238|Avani Seychelles Barbarons Resort & Spa
+2239|Berjaya Beau Vallon Bay Resort & Casino
+2240|Coco d'Or
+2241|Coral Strand
+2242|Le Meridien Fisherman's Cove
+2244|Berjaya Mahe Beach Resort
+2245|Coco de Mer & Black Parrot Suites
+2246|Le Domaine de La Réserve Hotel
+2247|Paradise Sun
+2248|Berjaya Praslin Resort
+2249|Indian Ocean Lodge
+7053|Acajou
+7402|DoubleTree Resort & Spa by Hilton Hotel Seychelles - Allamanda
+8301|Augerine
+8641|Beach Villa
+8643|Beachcomber Anse Soleil
+8661|Beau Vallon Bungalows
+8867|Bernique's Guesthouse
+9069|Bird Island Lodge
+9304|Britannia
+9501|Calou
+10286|Chalet Anse Forbans
+10288|Chalet Côté Mer
+10314|Chateau de Feuilles
+10323|Chateau St. Cloud
+10338|Villa Chez Batista
+10944|Cousine Island Resort
+11110|Daniellas Bungalows
+11372|Denis Private Island
+11429|Desroches Island
+12404|Fairyland Small Hotel
+12802|Fleur de Lys
+14950|Islander's
+15607|L'Archipel
+15618|L'Ocean
+15621|L'Union Chalets
+15818|La Vanille
+16034|Lazare Picault
+16060|Le Duc de Praslin
+16171|Le Tournesol
+16175|Le Tropique Villa
+16213|Constance Lemuria Resort
+18043|Hilton Northolme Resort & Spa
+18678|Paradise Flycatchers Lodge
+18861|Patatran Village
+20578|Romance
+22382|Sunset Beach
+24065|Village du Pêcheur
+24137|Villas de Mer
+26465|L'Habitation
+26673|Banyan Tree
+32028|Beachcomber Sainte Anne Resort
+32931|Valmer
+33074|Le Jardin des Palmes
+33075|Les Villas d'Or
+33076|Palm Beach
+38179|Frégate Island Private
+38180|North Island
+38905|Gregoire's Apartments
+38906|New Emerald Cove
+39229|Eden's Holiday Resort
+39391|Pension Michel
+40197|Cerf Island Marine Park Resort
+47862|Mango Lodge
+48093|La Roussette
+48094|Le Grand Bleu
+48095|Amitie Chalets
+48099|Casuarina Beach - geschlossen
+48100|L'Hirondelle
+48101|Les Lauriers
+48102|Panorama Guesthouse
+60340|Auberge D'Anse Boileau
+63368|Le Domaine de L'Orangeraie
+63408|Flamboyant
+75877|Hilton Seychelles Labriz Resort & Spa
+76838|Maia Luxury Resort & Spa
+77738|South Point Chalets
+85003|Sun Resort
+85005|The Wharf Hotel & Marina
+90627|Birgo Guest House
+92009|Le Relax Hotel & Restaurant
+95779|Castello Beach
+99777|Le Relax Beach Resort
+99929|Creole Villa
+100069|Côte d'Or Chalets
+100078|Villas des Alizes
+103257|Four Seasons Resort Seychelles
+134444|Reef Holiday
+135074|La Diguoise
+150046|Iles des Palmes
+182518|Constance Ephelia Resort
+184008|Hideaway Holiday
+187828|Marie Laure Suites
+195958|Ocean Jewels
+195959|Casa de Leela
+227311|Hanneman Holiday Residence
+227477|Bliss Hill Seychelles
+227731|Chateau Sans Souci
+228180|Bliss Sea Side Boutique & Spa
+230157|Bord Mer
+232367|Raffles Praslin
+233117|Carana Hilltop Villa
+234822|Pieds dans l'Eau
+235962|Divers Lodge
+238304|Kempinski Seychelles Resort
+238307|La Fontaine Holiday Apartment
+238310|Le Relax Beach House
+239853|Anse Severe Beach Villa
+247591|Dhevatara Beach
+248502|Villa de Cerf
+260481|Le Surmer
+260643|La Villa Guesthouse
+260644|The Palm Seychelles
+260966|Villas de Jardin
+299251|La Digue Self Catering
+299659|Le Repaire
+354438|Au Fond de Mer View
+359357|Sea View Lodge
+359551|Savoy Resort & Spa
+359689|Enchanted Island Resort
+363237|Copolia Lodge
+363505|Cote d'Or Apartements
+391038|Crown Beach
+391257|Treasure Cove
+392383|Pirogue Lodge Praslin
+392384|Villa Veuve
+404310|Coco de Mer & Black Parrot Suites - Coco de Mer
+404311|Coco de Mer & Black Parrot Suites - Black Parrot Suites
+406378|Cabanes des Anges
+406674|Sables´ d Or Luxury Apartments
+406680|Cote d'Or Footprints
+407203|Le Relax Self-Catering
+408960|Surfers Beach Self Catering Chalets
+411548|Acquario Villa
+411625|Bois d'Amour Guesthouse

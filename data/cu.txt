@@ -1,0 +1,227 @@
+1715|Tryp Cayo Coco
+1717|Sol Pelicano
+1719|Club Amigo Atlantico
+1721|Tryp Habana Libre
+1723|Melia Cohiba
+1724|Plaza
+1725|Blau Arenal Club
+1726|Tropicoco
+1727|Sol Rio de Luna/Mares Resort
+1729|Club Amigo Mayanabo
+1730|Brisas Santa Lucía
+1731|Gran Club Santa Lucia
+1732|Ancon
+1734|Las Cuevas
+1735|Roc Arenas Doradas
+1736|Brisas del Caribe
+1737|Sol Palmeras
+1741|Aguas Azules
+1744|Club Amigo Tropical
+1745|Varazul
+1746|Roc Barlovento
+1747|Gran Caribe Club Kawama
+1748|Melia las Americas
+1749|Melia Varadero
+1750|Bellevue Puntarena Playa Caleta - Playa Caleta
+1751|Sol Sirenas Coral
+1753|Gran Caribe Club Villa Cuba Resort
+5710|Club Amigo Caracol
+5711|Breezes Bella Costa
+5903|Sol Club Cayo Coco
+5904|Iberostar Daiquiri
+6950|Melia Cayo Coco
+6952|Gran Caribe Villa Coral
+6955|Club Amigo Carisol Los Corales
+6956|Acuazul
+6957|Barceló Solymar Arenas Blancas - Arenas Blancas
+6958|Tuxpan
+6961|Hotel Starfish Cuatro Palmas & Nebengebäude
+7644|Ambos Mundos
+8256|Atlantico
+8649|Melia Las Antillas
+9284|Brisas Trinidad del Mar
+9340|Bucanero
+9522|Brisas Guardalavaca - Hotel/Villen
+9693|NH Capri La Habana
+9933|Casa Granda
+10207|Villa Cayo Saetia
+10677|Comodoro
+10695|Conde de Villanueva
+10800|Hotel Mercure Playa de Oro
+10906|Costa Sur
+11265|Deauville
+11312|Del Tejadillo
+11729|Islazul Dos Mares
+12831|Florida
+13307|Iberostar Parque Central
+13377|Gran Caribe Varadero Internacional & Cabanas del Sol
+13379|Copacabana
+13380|Gran Caribe Neptuno Triton
+13939|Herradura
+14547|Iberostar Tainos
+14788|Inglaterra
+14997|Jagua
+15451|Kolhy & El Bosque - Kohly
+15671|Horizontes La Ermita
+15952|Islazul Las Americas
+16499|Horizontes Los Jazmines
+16552|Blau Costa Verde - Beach Resort / Plus Beach Resort
+16792|Islazul Mar del Sur
+16844|Club Amigo Marea del Portillo
+17210|Villa Megano
+17224|Melia Cayo Guillermo
+17233|Paradisus Rio de Oro Resort
+17235|Melia Santiago de Cuba
+17598|Moka
+17802|Nacional de Cuba
+18694|Paradisus Varadero
+19157|Horizontes Playa Larga
+19312|Porto Santo
+19407|Roc Presidente
+20424|Be Live Experience Las Morlas
+20463|Be Live Experience Turquesa
+20868|Gran Caribe Saint John's
+20964|Islazul San Juan
+21075|Santa Isabel
+21451|Mercure Sevilla
+21713|Islazul Oasis
+21714|Playa Giron
+21726|Horizontes Villa Soroa
+21729|BelleVue Sunbeach
+21835|Sol Club Cayo Guillermo
+21836|Sol Cayo Largo
+21986|Islazul Sotavento Villas
+22406|Playa Costa Verde
+22408|Memories Jibacoa
+22411|Superclubs Breezes Varadero
+22416|Brisas Sierra Mar
+23408|Melia Peninsula Varadero
+23589|BelleVue Palma Real
+23599|Gran Caribe Vedado
+23831|Brisas Covarrubias
+23914|Villa Islazul La Mar
+24018|Villa Soledad
+24145|Villa Gaviota
+24159|Gran Caribe Villa Tortuga
+26298|Telegrafo
+26422|Los Frailes
+26429|La Union
+26469|Iberostar Playa Alameda
+26600|Gran
+26786|Versalles
+27297|El Castillo
+27380|Villa Islazul Bacuranao
+27776|Barceló Solymar Arenas Blancas - Solymar
+27848|Melia Habana
+28489|Park View
+29665|Villas Islazul Mirador del Mar
+29666|Villa El Bosque
+29674|Villa Yaguanabo
+29677|Memories Miramar Havana
+29679|Villa Cubanacan La Granjita
+29680|Horizontes Villa El Saltón
+31438|Playa Pesquero
+32005|Royal Hicacos Resort and Spa
+32095|H10 Habana Panorama
+32100|Sol Cayo Santa Maria
+33097|Gran Caribe Playa Blanca
+34003|Allegro Club Cayo Guillermo
+35710|Horizontes Finca Ma Dolores
+35711|Del Rijo
+35858|Gran Caribe Habana Riviera
+35925|Cayo Levisa
+38261|Raquel
+38262|Naviti Varadero Resort
+38527|Gran Caribe Club Karey
+39475|Memories Holguin Beach Resort
+40866|Colonial Cayo Coco
+40991|El Comendador
+40992|Armadores de Santander
+41269|Beltran de Santa Cruz
+41270|Hostal Valencia
+41271|El Meson de la Flota
+41272|San Miguel
+41273|Palacio O'Farrill
+41331|Chateau Miramar
+41471|Maria La Gorda
+47930|Iberostar Varadero
+47931|Melia Cayo Santa Maria
+48382|Blau Varadero
+51321|Paradisus Princesa del Mar
+54390|Blau Marina Varadero Resort & Blau Privilege Cayo Libertad Hotel
+54576|Saratoga
+57829|Bellevue Puntarena Playa Caleta - Club Puntarena
+63180|Islazul Colina
+63902|Club Amigo Rancho Luna
+64553|Iberostar Ensenachos
+68996|Iberostar Grand Trinidad
+75553|Iberostar Mojito
+75603|Palacio del Marqués de San Felipe y Santiago de Bejucal
+76308|Melia Las Dunas
+77624|La Mansion
+77769|Memories Montehabana
+77856|Villa las Brujas
+77875|Playa Coco
+77931|Grand Memories Varadero Beach Resort
+78007|Villa Los Caneyes
+78156|Gran Caribe Victoria
+78183|Villa Los Pinos
+79748|Luxury House 27
+79749|Luxury House 7
+79750|Luxury House 29
+79752|Luxury House 32
+82398|Complejo Topes de Collantes
+91341|Mascotte
+91612|Kolhy & El Bosque - El Bosque
+102660|Islazul Vueltabajo
+102661|Starfish Cayo Santa Maria
+103241|Club Acuario
+103242|Islazul Sierra Maestra
+103805|Villa Tropico
+103806|Colony Bungalows
+124224|Palco
+124225|Marina Hemingway
+124226|Horizontes Villa Guamá
+135084|Islazul Mirador de Mayabe
+135966|Villa Gaviota Santiago de Cuba
+136017|Iberostar Laguna Azul
+140194|Memories Caribe Beach Resort
+140918|Villa Gaviota Baracoa
+182753|Quinta Avenida Habana
+182894|Grand Memories Varadero
+183133|Marqués de Prado Ameno
+195895|Villa Marinera Diving Resort
+231550|Melia Buenavista
+233058|Hotel E Palacio Azul
+236268|Atlantic
+245493|Sol Rio de Luna/Mares Resort - Sol Rio de Luna
+245494|Sol Rio de Luna/Mares Resort - Mares Resort
+245885|Barceló Solymar Arenas Blancas Resort
+250108|Horizontes Rancho San Vicente
+259983|Ocean Varadero El Patriarca
+260579|Memories Paraiso & Azul - Paraiso Beach Resort
+260601|Blau Marina Varadero Resort & Blau Privilege Cayo Libertad Hotel - Blau Marina Varadero Resort
+260602|Blau Marina Varadero Resort & Blau Privilege Cayo Libertad Hotel - Blau Privilege Cayo Libertad Hotel
+261031|Memories Paraiso & Azul - Azul Beach Resort
+261032|Memories Flamenco Beach Resort
+261112|Playa Cayo Santa Maria
+261215|Terral
+261582|Villa Cabo de San Antonio
+297311|Royalton Cayo Santa María
+300460|Iberostar Cayo Coco
+310918|Eurostars Cayo Santa María
+311121|Meliá Marina Varadero
+354470|Islazul Costa Morena
+359386|Memories Paraiso & Azul
+367781|Pasacaballo
+372735|Pestana Cayo Coco Beach Resort
+403320|Blau Costa Verde - Beach Resort
+403321|Blau Costa Verde - Plus Beach Resort
+405275|Bellevue Puntarena Playa Caleta - Playa Caleta / Club Puntarena
+405946|Melia Jardines del Rey
+406005|Valentin Perla Blanca
+406553|Camino de Hierro
+407142|Cadillac
+407229|Mesón del Regidor
+407230|Perla del Mar
+407238|Santa Maria

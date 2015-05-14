@@ -1,0 +1,87 @@
+4976|Coche Paradise
+4980|Coral Caribe
+4981|Golden Paradise
+4984|Costa Caribe Beach Resort
+4988|Marlin
+4989|Hesperia Playa El Agua
+4990|Sunsol Isla Caribe
+6686|Flamenco Villas & Beach Club
+6687|Tropical Refuge
+6688|Costa Linda
+7410|Lagunamar Resort
+8290|Atti
+8356|Avila
+8554|Dunes Beach Resort
+9283|Brisas de Coche/ del Mar
+10035|Casa Rita
+10704|Confortel California
+11028|Savoy Caracas
+12289|Eurobuilding Hotel & Suites Caracas
+13403|Gran Melia Caracas
+15801|La Samanna de Margarita
+15995|Las Palmeras
+16062|Le Flamboyant
+16554|Marina Bay
+16856|Margarita Royal Plaza
+18524|Palm Beach
+19323|Portofino
+24482|Surf Paradise
+26393|Hesperia Isla Margarita
+26482|El Yaque Paradise
+27489|Puerta del Sol
+32098|Intercontinental Tamanaco
+55752|Posada Mediterraneo
+59199|Crowne Plaza Maruma & Casino
+65383|Embassy Suites by Hilton Caracas
+72688|Bella Vista
+76134|Posada La Cigala
+76152|Punta Blanca
+78674|Altamira Suites
+78675|Best Western CCT
+79342|Costa Real Suites
+79986|Venetur Maracaibo
+80779|Howard Johnson Tinajeros
+81548|Best Western Margarita Dynasty
+81549|JW Marriott Caracas
+81952|El Yaque Beach
+81953|Jump'n Jibe
+87403|Puerta Del Sol Porlamar
+87441|Posada Angostura
+87442|Posada Casa Grande de Angostura
+92400|Eurobuilding Express El Tigre
+100706|Casa Viento
+102683|Dunes Puerto Cruz
+105725|Centro Lido
+105736|Cumberland Chacao
+106913|Eurobuilding Express Maracay
+108217|Kristoff
+109952|Continental Altamira
+110378|Sun Sol Hotel & Condominium
+133288|Lincoln Suites
+137554|InterContinental Maracaibo
+139178|Pestana Caracas
+163104|Venezuela Marriott Playa Grande
+163110|The Hotel Caracas
+163335|Eurobuilding Express Maiquetia
+182537|Kokobay
+182819|IKIN Margarita Hotel & Spa
+229985|Posadas Aerotuy
+240432|Boca De Ovejas
+259348|The Vip Caracas
+269865|Lidotel Hotel Boutique Margarita
+275299|Lidotel Boutique Barquisimeto
+275300|Tiffany
+276617|Lidotel Boutique Valencia
+278577|Renaissance Caracas La Castellana Hotel
+283567|Eurobuilding Hotel Plaza Guayana
+284035|Hesperia World Trade Center
+292280|Hotel Patrick
+292281|Posada La Mar
+295369|Lidotel Hotel Boutique Paraguana
+295370|Lidotel Hotel Boutique San Cristobal
+297803|Pueblo Caribe
+359650|Maloka Boutique & Spa Hotel
+367366|Agua Dorada By Lidotel
+401030|Altamira Village Hotel & Suites
+404217|Cristina Suites
+404261|Alex

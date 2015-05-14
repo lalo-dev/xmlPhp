@@ -1,0 +1,429 @@
+3944|Caribbean World Thalasso Djerba
+3946|Al Jazira Beach
+3947|Aldiana Djerba Atlantide
+3948|Djerba Les Dunes
+3950|Cédriana Djerba
+3954|Sentido Djerba Beach
+3955|Club Djerba Jasmina
+3956|SunConnect Djerba Aqua Resort
+3957|Hasdrubal Thalassa & Spa
+3958|Ksar Djerba
+3959|Djerba Holiday Beach
+3960|Joya Paradise & Spa
+3962|Iberostar Mehari Djerba
+3963|El Mouradi Djerba Menzel
+3966|Venice Beach
+3968|RIU Palm Azur
+3969|Palm Beach Club Djerba
+3971|MAGIC LIFE Penelope Beach Imperial
+3972|Djerba Plaza
+3973|RIU Palace Royal Garden
+3974|Sangho Village Djerba
+3975|Sangho Zarzis
+3976|Sidi Slim
+3977|Homere
+3979|Club Telemaque
+3980|Radisson Blu Ulysse Resort & Thalasso Djerba
+3981|Yadis Djerba Golf Thalasso & Spa
+3982|Zita Beach
+3983|El Mouradi Douz
+3986|Djerba Sun Club
+3988|Zarzis
+3989|Aziza Beach Golf & Spa
+3990|Bel Air
+3991|Bel Azur Thalassa
+3992|Byblos
+3993|Kinza Zenith Hotel Complex - Zenith
+3995|Dalia
+3997|Khayam Hammamet Resort - Dar Khayam
+3998|Bousten Long Beach Club
+3999|Emira
+4000|Lti Les Orangers Garden Villas & Bungalows
+4003|Albatros
+4004|Le Hammamet
+4005|Les Colombes
+4006|Les Orangers Beach Resort
+4007|Hammamet Garden
+4008|Holiday Village Manar
+4011|Méditerranée Thalasso Golf
+4012|Movie Gate Miramar
+4013|Nahrawess Hotel & Spa
+4014|Nesrine
+4015|Vincci Nozha Beach & Spa
+4017|RIU Palace Oceana Hammamet
+4018|PrimaSol Omar Khayam Resort
+4019|Palm Beach Club Hammamet
+4022|Sentido Phenicia
+4024|Hammamet Regency
+4025|Residence Hammamet
+4026|Residence de la Paix
+4027|Residence Mahmoud
+4030|Riu Palace Hammamet Marhaba
+4031|Sol Azur Beach
+4032|Caribbean World Hammamet Garden
+4037|El Fatimi Mahdia
+4038|RIU El Mansour
+4039|LTI Mahdia Beach
+4040|Mahdia Palace Thalasso
+4041|El Mouradi Mahdia
+4043|Thapsus
+4044|Topkapi Beach
+4045|Eden Club
+4046|Esplanade
+4047|Garden Beach Club
+4049|Mezri
+4052|Dessole Ruspina Resort
+4053|Tropicana
+4055|Les Pyramides
+4056|Caribbean World Nabeul
+4058|Iberostar Diar El Andalous
+4059|Seabel Alhambra Beach Golf & Spa
+4060|RIU Bellevue Park
+4061|Dessole Abou Sofiane Resort
+4062|Dessole Riviera Hotel
+4064|El Hana Hannibal Palace
+4065|El Hana Palace Caruso
+4067|RIU Palace Green Park
+4068|Hasdrubal Thalassa & Spa Port El Kantaoui
+4069|Houria Palace
+4070|Kanta
+4071|Les Maisons de la Mer
+4072|MAGIC LIFE Africana Imperial
+4073|RIU Imperial Marhaba
+4074|Marhaba Palace
+4075|El Mouradi Palace
+4077|Coralia Jawhara Palm Beach Sousse
+4078|El Mouradi Palm Marina
+4081|Royal Kenz
+4082|El Mouradi Club Selima
+4083|El Mouradi Club Kantaoui
+4084|El Mouradi Port El Kantaoui
+4085|Soviva Resort
+4086|Amir Palace
+4087|Dessole Bella Vista
+4088|Golden Beach
+4090|Houda Golf & Beach Resort
+4091|Kuriat Palace
+4092|Les Palmiers
+4093|Ramada Liberty Resort
+4095|Dessole Saadia Resort
+4096|Sahara Beach
+4098|Skanes El Hana
+4100|LTI Thalassa Sousse
+4102|Nahrawess Boujaafar
+4103|Daphne Club Skanes Beach
+4104|Helya Beach & Spa
+4105|Chems El Hana
+4106|Cleopatra
+4108|El Hana Beach
+4109|El Jinene Royal / Beach
+4110|El Menchia
+4111|Hill Diar
+4113|Justinia
+4114|Kaiser
+4115|Karawan
+4116|Marabout
+4117|Marhaba Resorts - Marhaba Hotel
+4118|Marhaba Beach
+4119|Marhaba Royal Salem
+4120|Marhaba Salem
+4122|Abou Nawas Nejma
+4123|Nour Justinia
+4124|Orient Palace
+4127|Riadh Palms
+4128|Royal Beach
+4131|Scheherazade
+4132|Sindbad Inn
+4134|Tej Marhaba
+4135|Tergui
+4136|Tour Khalef
+4139|Les Mimosas
+4141|Yadis Morjane Tabarka
+4142|Royal Golf Marhaba
+4143|Club Acqua Viva
+4144|Marina Garden
+4146|Solymar
+4148|Laico Tunis
+5744|Odyssee Resort
+5753|Hotel El Fell
+5754|Le Sultan
+5788|Le Enjoy Djerba
+6061|Isis
+6062|Dar Sofiane
+6063|Djerba Haroun
+6064|SENTIDO Cesar Thalasso
+6065|Le Palais des Iles
+6066|Giktis
+6505|Ramada Plaza Tunis
+6508|L'Ecrin
+6510|El Mouradi Beach
+6511|Riu Marillia
+6512|El Mouradi El Menzah
+6514|Prima Life Safa
+6515|Riu Marco Polo
+6516|Hammamet Serail
+6517|El Mouradi Cap Mahdia
+6520|Skanes Family Resort
+6521|Kheops Dolce Vita
+6522|Golf Residence
+6877|Ksar Rouge
+7036|Abir
+7039|Caribbean World Monastir
+7040|Abou Nawas Montazah Club
+7041|Abou Nawas Tozeur
+7666|Amilcar
+8418|Daphne Bahia Beach
+9386|Byzance
+9493|Calimera Yati Beach
+10265|Ceramic
+10795|Coralia Club Monastir
+10822|Chich Khan
+10823|LTI El Ksar Resort & Thalasso
+10831|Corniche
+11132|Dar Dhiafa
+11133|Caribbean World Gammarth - Dar Naouar Fiesta / Dar Nawar
+11134|Dar Salem
+11137|Dar Taoufik
+11138|Ezzahra Dar Tunis
+11541|Djerba Orient
+11750|Dreams Beach
+11831|Thalassa Mahdia
+11966|El Hana Residence
+11974|PrimaSol El Mehdi
+11983|Dar El Olf Hotel
+12514|Fiesta Beach
+13301|Golden Tulip Carthage Tunis
+13569|Green Golf
+13699|Hacienda des 4 Saisons
+13823|Hasdrubal Thalassa & Spa Yasmine Hammamet
+14384|Meninx
+14541|Iberostar Averroes
+14546|Dessole Royal Lido Resort & Spa
+14554|Zephir
+15396|Kinza Zenith Hotel Complex - Kinza
+15560|Ksar Jerid
+16077|Le Khalife
+16124|Le Palace
+16145|Khayam Garden Beach & Spa
+16260|Les Maisons de Jardin
+16269|Les Quatre Saisons
+16274|Komplex Les Sirenes Beach & Les Sirenes Thalasso Spa
+16347|Menara
+16658|Djerba Mare Beach Resort
+16946|Marina Palace
+17173|Houda Yasmine
+17174|Medi Sea
+17213|Mehari
+17227|El Mouradi Hammamet
+17301|Dar Hayet
+17540|Carthage Thalasso Resort
+17627|Monastir Center
+17890|Neptunia Beach
+18523|Palm Beach Palace
+18613|Panorama
+18772|Park Inn by Radisson Hammamet
+19840|Partner Rais
+20192|Residence Dar Ali
+20208|Residence Le Beau Rivage
+20224|Residence Mehari Tabarka
+20233|Residence Sultana
+20426|Méhari Hammamet, Thalasso & Spa
+20606|Sentido Rosa Beach
+20663|Royal Azur Thalasso Golf
+20716|Royal Residence
+20791|Seabel Rym Beach
+20905|Samara
+20914|Samira Club
+21457|Shalimar
+21680|Sindbad
+21815|Palm Beach Palace Djerba
+21992|Hotel Sousse Palace
+22324|Sun Holiday Beach
+22528|Tamerza Palace
+22585|Tennis Resort / Mediterranee
+22649|Royal Thalassa Monastir
+23400|Dar Cherait
+23402|Vincci Flora Park
+23409|Tulip Inn Phebus
+23635|Caribbean World Venus Beach
+24575|Yasmine Beach
+24728|Seabel Aladin
+26746|Zodiac
+27319|Enjoy Thalassa
+27379|Miramar Petit Palais
+28050|Laico Djerba
+28168|El Mouradi Skanes
+28170|Nour Palace Resort & Thalasso
+28172|Bravo Club Djerba
+28173|Vincci Djerba Resort
+28217|Valtur Tabarka
+28238|Djerba Castille
+28306|Boujaafar Aparthotel
+28322|Dar Zakarya
+28942|Thalassa Village Skanes
+29563|El Kantaoui Center
+32292|Minotel Djerba Resort
+33196|Laico Hammamet
+33197|Saphir Palace
+33317|Dar Ismail
+34614|Aldiana Tunesien
+38013|The Residence Tunis
+38289|Eden Star
+38319|Vincci Taj Sultan
+38776|Le Royal Hammamet
+39050|Club Med Djerba La Douce
+39061|Mirage Beach Club
+39639|La Gondole
+40620|Bravo Garden
+41074|Djerba Playa Club Hotel
+41409|Grand Oasis Hammamet
+51440|Aqua Life Yasmine
+52542|Africa
+52662|Oasis Marine
+53023|Medina Belisaire & Thalasso
+53093|Jasmina Playa
+53278|Villa Azure
+55577|El Mouradi Gammarth
+55898|Vincci Lella Baya
+57031|Royal Nozha
+57032|Caribbean World - Borj Cedria / Sun Beach Resort
+60073|La Kasbah
+60983|Caribbean World Venus Garden
+61291|Majesty Golf
+61401|SprinClub Djerba Golf & Spa
+61402|Club Lookéa Authentique Hammamet Village
+62289|Medina Solaria & Thalasso
+62553|Marhaba Resorts - Marhaba Club
+63706|Club Colisee Beach
+63822|Alhambra Thalasso
+64606|Grand Hotel des Thermes
+64820|Tunisia Lodge
+65026|Sheraton Tunis Hotel & Towers
+66343|Welcome Meridiana Djerba
+69496|Lti Rimel Beach Resort
+69524|Radisson Blu Palace
+70937|Caribbean World Mahdia
+71434|Caribbean World Palma
+72369|Golden Tulip El Mechtel
+72370|El Hana International
+73161|Henry Morgan Village
+73471|Daphne Club Sousse
+74033|One Resort Monastir
+75404|Jawhara Coralia Club - geschlossen
+75511|Diar Lemdina
+75512|Going Villaggio Iliade
+76574|African Queen
+76846|Jasmina Thalassa
+78499|Tanfous
+78683|La Perla
+79874|Paradis Palace
+81850|Dar El Bhar
+82404|Dar Said
+85729|Excel
+86781|Djerba Azurea
+87401|Cyclamens Mechmoum
+87464|Safira Palms
+92902|Villa Didon
+92924|Sangho Privilège
+92925|Tabarka Beach Resort
+92926|Yadis Ibn Khaldoun
+95050|Marhaba Resorts - Marhaba Neptune
+96991|Skanes Serail
+97873|Eldorador Salammbo
+99919|Rodes
+100134|Residence Villamar
+103697|Residence El Fatimi
+108467|Les Berges du Lac Concorde
+110477|Plus Hammamet
+122522|Hasdrubal Prestige Thalassa & Spa Djerba
+122525|Yadis Oasis Tozeur
+122527|El Mouradi Tozeur
+122529|Yadis Oasis Kebili
+122533|Pan Sea
+122854|Tunisia Palace
+122855|Belvedere Fourati
+122946|Le Pacha
+129830|Le Diplomat
+133197|La Maison Blanche
+134546|Le Charmilles & Spa Apartments
+134691|Sangho Syphax
+134707|Rym Hotel
+135075|El Mouradi Hammam Bourguiba
+135309|Mövenpick Resort & Marine Spa Sousse
+139945|Diana Beach
+140278|Flamingo Beach
+157709|Sunshine Kids Rosa Rivage
+161824|Delphin Habib Komplex - Delphin Habib
+162808|Les Oliviers Palace
+162809|Golf Royal
+162810|du Parc
+162812|Hamilton
+162816|Sun Palm Douz
+162826|Residence Romane
+162827|Les Citronniers
+162829|Villa Noria
+162830|Ras El Ain
+163358|Regency Tunis
+182164|Valtur El Kebir
+182239|Yadis Hammamet
+182371|Les Alizes
+182433|Hammamet Azur Plaza
+182869|Residence Le Corail
+185663|Happy Days Sultan Beach
+188211|Vincci Helios Beach
+188256|El Faracha
+197245|Iberostar Royal El Mansour & Thalasso
+201559|Framissima Golf Beach
+202412|Golden Tulip Carthage Residence
+202636|Golden Tulip Sfax
+202638|Tunis Grand Hotel
+202959|Les Jardins de Toumana
+207993|Dar El Medina
+212970|Le Monaco Hôtel & Thalasso
+220217|Villa Dar Zargouni
+227043|The Russelior Hotel & Spa
+227077|Alyssa
+227476|Green Palm
+227558|Les Ambassadeurs
+228877|Sahara Douz
+230264|Majestic
+230352|Mövenpick Gammarth Tunis
+232243|Yadis Imperial Beach & Spa Resort
+234597|Menzel Dija
+235088|Africa Jade Thalasso
+235620|Club Président & Tunisian Village
+239846|Dar Sabri
+245535|El Jinene Royal / Beach - Jinene Royal
+245536|El Jinene Royal / Beach - Jinene Beach
+247394|L' Atrium
+247615|Khayam Hammamet Resort
+250043|Caribbean World - Borj Cedria
+250044|Caribbean World - Sun Beach Resort
+260305|Dar HI
+260641|Komplex Les Sirenes Beach & Les Sirenes Thalasso Spa - Les Sirenes Beach
+260642|Komplex Les Sirenes Beach & Les Sirenes Thalasso Spa - Les Sirenes Thalasso Spa
+260795|Novotel Tunis Mahamed V
+261121|Negresco
+261167|Club Président & Tunisian Village - Club Président
+261168|Club Président & Tunisian Village - Tunisian Village
+261183|Djerba Saray
+261500|La Jetee
+261533|Eden Yasmine
+285388|Dessole Le Hammamet Resort
+295486|Regency Hotel & Spa
+296890|Cesar Palace
+297777|Radisson Blu Resort & Thalasso Hammamet
+301158|Bravo Hammamet
+316904|Palmyre
+366532|Lella Meriam Hotel & Club
+366644|Marhaba Resorts - Hotel / Club / Neptune
+372903|Aqualife Yasmine Hammamet
+391948|Caribbean World Hammamet Village
+392308|Kinza Zenith Hotel Complex
+400747|Delphin Habib Komplex - Delphin Habib / Delphin Ribat
+400748|Delphin Habib Komplex - Delphin Ribat
+402684|Marine & Spa Resort
+411823|One Resort Aqua Park & Spa
+412181|Robinson Club Djerba Bahiya
+413997|La Couronne Hotel Club
+414796|Menara

@@ -1,0 +1,7109 @@
+7029|Abacus Tierpark
+7075|Acora Bochum
+7082|Acron
+7088|Adalbert Stifter
+7100|Adler
+7104|Gasthof Adler
+7106|Flair Hotel Adlerbad
+7108|Adlon Kempinski
+7119|GOLD INN Adrema
+7180|Romantik Seehotel Ahlbecker Hof
+7181|Sporthotel Ahornhof
+7212|Romantisches Geniesser Hotel Südharz
+7213|Rennsteighotel Kammweg
+7257|enjoy hotel Berlin City Messe
+7284|Park Inn by Radisson Dresden Hotel
+7290|Albrechtshof
+7329|Alexander Plaza
+7333|Alexanderbad
+7347|GOLD INN Alfa
+7414|Allgäu Stern
+7415|Allgäublick
+7417|Allgäu Resort - Helios business & health Hotel
+7429|Almberg
+7449|Löwen Alpengasthof
+7460|Alpenresidenz
+7483|Alpspitz
+7485|Alster-Hof
+7486|Hotel Scandic Berlin Kurfürstendamm
+7487|Best Western Premier Alsterkrug
+7494|Altberlin
+7497|Alte Bauernschänke
+7498|Alte Mühle am Ried
+7507|Altes Land
+7517|Parkhotel Altmühltal
+7520|Ferienpark Altreichenau
+7525|Altwernigeröder Apparthotel
+7528|Am Alten Deich
+7529|Am Anger
+7530|Am Badersee
+7533|Am Bühl
+7534|Am Buchberg
+7535|Am Buchenpark
+7536|Am Damenpfad mit Haus Seeblick
+7540|Am Eichenberg
+7541|City Partner Am Gendarmenmarkt
+7542|Parkhotel Am Glienberg
+7545|Feriendorf am Hohen Bogen
+7546|Novum Hotel Holstenwall Hamburg Neustadt
+7547|Waldhotel Am Ilsestein
+7548|Am Jägertor
+7550|Am Kranichsee
+7552|Am Kurpark
+7554|Am Markt
+7556|Ferienpark Am Meer
+7558|Familotel Am Rennsteig
+7560|Am Rosengarten
+7566|Am See
+7567|Am Sonnenhang
+7572|Am Waldschlößchen
+7574|Am Weberfeld
+7576|Am Wiesenhang
+7577|Am Yachthafen
+7620|Ibis Styles Köln City
+7623|Ambassador Hotel & Spa
+7626|SORAT Ambassador Berlin
+7628|Quality Ambassador
+7638|Antares
+7640|TOP Hotel Amberger
+7693|Ibis Styles Berlin an der Oper
+7695|An der Seebrücke
+7696|Hotel an der Therme - Haus 1 / 2 / 3
+7731|Best Western Hamburg International
+7754|Gästehaus Angela
+7775|Am Kurpark
+7776|Anlage Am Neuensiener See
+7778|Anlage Dünenstraße
+7779|Anlage Fördeblick
+7780|Hafenblick
+7781|Kirchdorf Ferienanlage
+7786|Sonnenwald
+7787|Anlage Strandhotel
+7811|BelAhr
+7870|Leonardo Residenz
+7871|Ludwig der Bayer Klosterhotel
+7873|Gersfelder Hof & Apart-Hotel Sternkuppe
+7874|Jägerhof
+7876|Familotel Sonnenhügel
+7880|Zartenbach
+7902|Aquamarin
+7910|Aquamaris Strandresidenz Rügen
+7911|Aquantis Bensersiel - Hotel / Ferienwohnungen
+7912|Aquantis Am Kurviertel
+7914|Ringhotel Aquarium Boddenberg
+7924|Sheraton München Arabellapark
+7927|Sheraton München Westpark
+7928|The Westin Grand Arabellapark
+7943|Waldwinkel Hotels - Arberblick / Waldspitze
+7965|Morada Hotel Arendsee
+7980|Novum Hotel Franke Berlin am Kurfürstendamm - Opening Januar 2015
+8011|Steigenberger Hotel Remarque
+8012|Arkona Strandhotel
+8029|Ferienpark Twistesee
+8048|Artis
+8050|art'otel berlin-mitte, by park plaza
+8052|art'otel dresden, by park plaza
+8054|arcona Hotel am Havelufer
+8060|Aschau Burghotel
+8062|The Ascot
+8070|Asgard Haus Meereswarte
+8160|NH Dresden Neustadt
+8161|NH München Unterhaching
+8162|Golf Resort Achental
+8163|NH Berlin Mitte
+8165|NH München Deutscher Kaiser
+8166|NH Düsseldorf City
+8168|NH Berlin Alexanderplatz
+8169|NH Heidenheim
+8170|NH Berlin Potsdam Conference Center
+8171|NH Berlin Treptow
+8172|NH Dessau
+8173|Quality Dresden West
+8174|NH Forsthaus Fürth Nürnberg
+8175|Park Inn by Radisson Gottingen
+8176|NH Hamburg Horn
+8177|NH Heidelberg
+8178|NH Klösterle Nördlingen
+8179|ACHAT Plaza Kulmbach
+8180|NH Leipzig Messe
+8181|NH Magdeburg
+8182|NH Frankfurt Mörfelden Conference Center
+8183|NH München Airport
+8184|NH Oberhausen
+8187|NH Schwerin
+8188|NH Postdam
+8189|NH Weinheim
+8190|NH Deggendorf
+8191|Schillingshof
+8193|NH Hamburg City
+8195|NH Dortmund
+8234|Atlanta Ferienwohnungen
+8242|Romantik Strandhotel Atlantic & Villa Meeresstrand - Strandhotel Atlantic
+8244|Atlantic
+8250|ATLANTIC Airport
+8251|ATLANTIC Universum
+8277|Atlantis am Meer
+8299|Wellnesshotel Auerhahn
+8304|Augustiner Kloster
+8329|Aussen Alster
+8378|Azenberg
+8397|Bad Hotel Ãœberlingen
+8402|Waldhotel Bächlein
+8404|Bäckerwiese
+8405|Bäder Parkhotel & Sieben Welten Therme & Spa Resort
+8406|Bären
+8503|Seehotel Baltic
+8504|Baltic Sport- und Ferienhotel
+8528|Sporthotel Bannwaldsee
+8531|Ostseehotel Villen im Park - Parkhotel
+8583|Baseler Hof
+8587|Bastei
+8588|Schloss Basthorst
+8594|Bauernhof Theresienhof
+8598|Amber Residenz Bavaria
+8601|Bavaria
+8611|Bayerischer Hof
+8613|Sonnenhotel Bayerischer Hof
+8614|Bayerischer Hof
+8616|Das Tegernsee Spa
+8687|Bel Air Strandhotel Glowe
+8728|Bellaria
+8739|Belle Epoque
+8751|Relexa Bellevue
+8753|Bellevue
+8759|Bellevue
+8766|Best Western Premier Bellevue Rheinhotel
+8788|BELVEDERE - das BIO HOTEL garni & Suite Hotel am Edersee
+8817|Maritim Berghotel
+8819|Bergblick
+8823|Berger
+8826|Bergheimat
+8828|TOP CountryLine Berghof
+8829|Berghof
+8831|Waldhotel Berghof
+8834|Bergkranz
+8839|Bergpanorama
+8840|Bergruh
+8853|Berlin, Berlin
+8854|Wyndham Garden Hamburg City Centre Berliner Tor
+8856|Wyndham Berlin Excelsior
+8857|Hilton
+8859|Berlin Mark
+8860|Berlin Plaza
+8861|Berliner Hof
+8868|Travel Charme Bernstein
+8890|Best Western Atrium
+8903|Boulevard
+8937|Best Western Hanse Warnemünde
+8941|Best Western Ahorn Birkenhof
+8943|Best Western Schwarzwald Residenz
+8944|Best Western Sonnenbühl & DEKRA Congress Center
+8947|Panorama Berghotel Wettiner Höhe
+8958|Best Western Kantstrasse Berlin
+8959|Novum Hotel Boulevard Stuttgart City
+8988|Best Western Parkhotel Oberhausen
+8994|Best Western President
+8999|Best Western Raphael Altona
+9008|Störtebeker Sporthotel
+9030|Best Western Zur Post
+9047|Bilgeri
+9061|Seehotel Binz-Therme Rügen - Hotel / Strand-Appartements
+9062|Binzer Hof
+9074|Mindness Hotel Bischofschloss
+9076|Ferienpark Bischofsmais
+9091|Blaue Gams
+9095|Bleibtreu Berlin
+9097|Blesius Garten
+9155|GreenLine Parkhotel Böhmerwald
+9156|Best Western Plus Hotel Böttcherhof
+9159|Bogota
+9166|Bollmannsruh
+9168|Boltenmühle
+9195|Familotel Borchard's Rookhus
+9211|Bornmühle
+9213|Borsteltreff
+9240|Braband
+9246|DORMERO Berlin Ku'damm
+9254|Hotelpark Stadtbrauerei Arnstadt
+9256|Braunschweiger Hof
+9263|GreenLine Hotel Schloss Breitenfeld
+9264|Bremer Haus
+9289|Bristol
+9302|Brita Obertürkheim
+9314|Brockenblick
+9329|Brunnenhof Ferien-& Reithotel
+9330|Inselhotel Bruns
+9342|Buchenhöhe
+9348|Büchelberg
+9349|Schlosshotel Bühlerhöhe
+9350|Bülow Residenz
+9355|Büsum
+9374|Burghotel Am Hohen Bogen
+9717|Carat
+9718|Carat Golf- u. Sporthotel & Carat Residenz - Carat Golf- u. Sporthotel
+9782|Carmen
+10234|Ringhotel Central
+10289|Chalet Jochpass
+10346|Chiemgau Appartements
+10347|Erlebnis-Hotel Chiemgauer Hof
+10349|Yachthotel Chiemsee
+10371|Christiane
+10384|Chrysantihof
+10435|Hilton City
+10436|City Hotel Bremerhaven
+10438|City House
+10439|City Krone
+10494|Cliff Hotel Rügen
+10550|CityClass Residence am Dom
+10609|Comfort Lichtenberg
+10727|Novum Hotel Continental Hamburg Hauptbahnhof
+10760|DORMERO Stuttgart
+10917|Park Inn by Radisson Erfurt Apfelstädt Hotel
+10918|Best Western Am Strassberger Tor
+10919|Park Inn Chemnitz Hartmannsdorf
+10921|Country Inn & Suites Timmendorfer Strand
+10936|Courtyard Düsseldorf Seestern
+10947|AZIMUT Hotel Dresden
+10964|Best Western Cristal
+10967|Cristall
+10998|Barcelo Cologne City Center
+11041|Cuxland Ferienpark Bad Bederkesa
+11042|Cuxland Ferienpark Dorum-Neufeld - Hotel / Ferienpark
+11043|Cuxland Ferienpark Nordseebad Wremen
+11052|nordic Domicil Berlin
+11093|Ostseebad Resort Damp - Hotel/ Ferienhäuser
+11290|Deichblick
+11292|Deichgraf
+11368|Alpina Ros Demming
+11376|Alpenblick Bio- & Wellnesshotel
+11377|Der Berghof am See
+11379|Schnuck Landhotel
+11380|Ifenblick Balance Resort
+11382|Der Kleine Prinz
+11388|Sonnenhotel Wolfshof
+11430|Deutscher Hof
+11432|Deutscher Kaiser
+11473|Diekseepark
+11475|Parkresidenz Dierhagen
+11509|Dirsch
+11578|Döllnsee-Schorfheide
+11610|Le Meridien Dom Köln
+11674|Mercure am Johannisplatz
+11675|Leonardo Hotel Hamburg Airport
+11676|Sofitel Hamburg Alter Wall
+11678|Dorint Am Goethepark Weimar
+11679|Novotel Freiburg am Konzerthaus
+11681|Mercure Stuttgart City Center
+11682|Novotel Hildesheim
+11684|Dorint Halle Charlottenhof
+11686|Dorint Dresden
+11688|Sofitel Gendarmenmarkt Berlin
+11689|Novotel Gera
+11690|Dorint Hotel & Sportresort Arnsberg Sauerland
+11691|Pullman Stuttgart Fontana
+11692|Sporthotel & Resort Grafenwald
+11694|Dorint Hotel & Sportresort Winterberg/Sauerland
+11695|Wyndham Stralsund HanseDom
+11696|Mercure Köln City Friesenstraße
+11698|Dorint Parkhotel Bad Neuenahr
+11700|Mercure Trier Porta Nigra
+11701|Pullman Aachen Quellenhof
+11705|Dorint Sanssouci Berlin-Potsdam
+11706|Pullman Schweizerhof
+11708|Dorint Resort & Sporthotel Garmisch-Partenkirchen
+11709|Dorint Resort & Spa Bitburg
+11710|Dorint Strandhotel Binz - Rügen
+11711|Dorint Resort & Spa Ostseebad Wustrow
+11712|Dorint Venusberg Bonn
+11713|Dorint Golf & Spa Windhagen/Siebengebirge - geschlossen
+11714|Dorint Pallas Wiesbaden
+11715|Novotel Würzburg
+11717|sunotel Kreuzeck
+11752|Drei Löwen
+11753|Hilton Dresden
+11754|Dribischenhof
+11798|Dünenhus
+11799|Dünenpark Binz
+11801|Dürer
+11842|Ebi's Einklang
+11844|Aparthotel Oberhof
+11851|Econtel München
+11852|Econtel Berlin Charlottenburg
+11853|Edelsberg Berg- und Aktivhotel
+11864|Centro Hotel Eden
+11866|NH Düsseldorf City Center
+11908|Ringhotel Waldhotel Eiche
+11910|Eickstädt
+11912|Arthotel Munich
+11924|Europa-Park Resort - El Andaluz Erlebnishotel
+12030|Elbflorenz Dresden
+12032|Elbschlößchen
+12049|Elephant Weimar
+12088|Elvira
+12092|Grand Elysee Hamburg
+12107|Emer Hof
+12133|Engel
+12135|Engel / Residenz Roseneck
+12146|EntrÃ©e Groß Borstel Garni
+12149|Enzian
+12161|Erbgericht Buntes Haus
+12164|Erdrichshof
+12191|Erzgiesserei Europe
+12229|TOP CityLine Essener Hof
+12274|Estrel
+12285|Tryp by Wyndham Köln City Centre Hotel
+12286|Wyndham Köln
+12300|Europa
+12310|Europa City Berlin
+12315|Europa
+12318|Europäischer Hof
+12319|Europäischer Hof
+12322|Kongresshotel Europe
+12353|Excelsior
+12367|Excelsior Ernst
+12390|Fährhaus
+12413|Ferienpark Falkenstein
+12418|Falter
+12458|Nordsee Ferienpark Fedderwardersiel
+12462|Pension Feist
+12463|Sonnenhotel Feldberg am See
+12464|Familotel Feldberger Hof - Hotel
+12477|Ferienanlage Schwarzeck
+12482|Die Wutzschleife
+12490|Ferienpark Waldsee
+12762|Fischer
+12763|Fischer
+12767|Strandhotel Fischland
+12795|Flandrischer Hof
+12816|Fora Hotel Hannover
+12820|Flora
+12859|Golden Leaf Stuttgart Airport & Messe
+12864|Bungalows & Ferienhäuser Forsthaus Damerow
+12887|Holiday Inn City Centre
+12892|Park Inn by Radisson Berlin Alexanderplatz
+12902|Four Points Central
+12903|DORMERO Königshof Dresden
+12906|Four Points Olympiapark
+12918|The Regent
+12969|Flair Vier Jahreszeiten
+12972|Frankenland
+12973|Frankenwald
+12979|Frauenberger
+12993|AHORN Berghotel Friedrichroda
+12994|Friedrichshöhe
+12999|Familotel Frieslandstern
+13001|Frisia
+13010|A.L. Hotel Fünf Linden
+13011|Fürst Bismarck
+13015|Fürstenhof
+13018|Fürstenhof und Villa Seeblick
+13089|Ganter Mohren
+13107|Garden Bremen
+13133|Hostel 2962
+13139|Gartow Am See
+13142|Gastager
+13152|Gastwerk Hamburg
+13160|Geesthof & Gasthof Raubritter
+13196|Ferienpark Geyersberg
+13213|Morada Isetal
+13242|GreenLine Glashotel Zwiesel
+13250|Globana Airporthotel
+13259|Ferienwohnanlage Ostseeblick
+13260|Strandhotel Glücksburg
+13263|Godewind
+13264|Göbel's Landhotel
+13270|Göttsche
+13306|NH Hamburg Mitte
+13340|Gorch Fock
+13348|Travel Charme Gothisches Haus
+13359|IFA Graal Müritz
+13366|Graf Eberhard
+13367|Novum Hotel Graf Moltke Hamburg
+13369|Bayernpark Grafenau
+13373|Grainauer Hof
+13389|Park Hochsauerland - Park Center Parcs
+13440|Sheraton Berlin Grand Hotel Esplanade
+13477|Grand Hyatt Berlin
+13537|Familotel Granfamissimo
+13608|Villa Röhl
+13610|Van der Valk Schlosshotel Ballenstedt
+13611|Derag Livinghotel Grosser Kurfürst
+13612|Seehotel Großherzog von Mecklenburg
+13624|Grünberger
+13628|Wellnesshotel Grüner Wald
+13660|Günnewig Esplanade
+13661|Günnewig Uebachs
+13671|Golfpark Gut Düneburg
+13672|Gut Feuerschwendt
+13673|Gut Frauendorf
+13676|Gut Ising
+13682|Guter Tropfen
+13692|Hallighäuser - Habel & Südfall
+13693|Habichtstein
+13721|Hackescher Markt
+13724|Häcker's Kurhotel
+13731|Haidmühler Hof
+13748|Golden Tulip Hamburg
+13749|Apartment-Hotel Hamburg Mitte
+13752|Hamburger Hof
+13780|City Gallery
+13782|Hotel Hanseatic Rügen & Villen
+13787|Happy Kienberg
+13799|Harde
+13800|AZIMUT Hotel Berlin Kurfürstendamm
+13818|Hartung's Hoteldorf
+13831|Haus Alpenrösle
+13836|Haus am See
+13841|Haus Bayerwald
+13842|Haus Berghof
+13843|Haus Bergland
+13845|VCH Haus Chorin
+13846|Haus Cosim
+13851|Haus Margarete
+13852|Haus Monika
+13854|Schwarzbachtal
+13860|Hauschild
+13876|Hecker's
+13877|Hedde
+13881|Seehotel Heidehof
+13882|Heidehof
+13883|Best Western Hotel Heidehof
+13888|Heiligenhafen Ferienpark
+13890|NH Berlin Heinrich Heine
+13896|Helgoland
+13918|KNAUS Campingpark - Hennesee
+13940|Herzog
+13941|Herzog Heinrich
+13965|Highway
+13974|Leonardo Weimar
+14000|Hilton Frankfurt
+14034|Ferienpark Himmelberg
+14035|Kur- und Sporthotel Bad Hindelang
+14046|Hirsch
+14049|Hirschen
+14056|Parkhotel Hitzacker
+14058|Hochfirst
+14059|Hochkalter
+14062|Landal Hochwald
+14073|Hofgut Imsbach
+14074|Hofgut Kürnach
+14078|Ferienpark IFA Schöneck Hotel & Appartements
+14102|Holiday Inn Dresden
+14128|Holiday Inn Berlin Mitte
+14129|Holiday Inn Berlin Airport - Conference Centre
+14133|Mercure Hotel Bochum City
+14134|Radisson Blu Hotel Bremen
+14152|Holiday Inn Berlin City Center East Prenzlauer Allee
+14155|Holiday Inn Essen - City Centre
+14165|Crowne Plaza Hamburg - City Alster
+14176|Mercure Hotel Dormund Centrum
+14184|Holiday Inn Düsseldorf Airport - Ratingen
+14187|Holiday Inn Express Essen - City Centre
+14205|Holiday Inn Express Köln - Mühlheim
+14215|Holiday Inn Günthersdorf
+14217|Best Western Leipzig City Center
+14218|Best Western Berlin Kurfürstendamm - geschlossen
+14235|Leonardo Hotel Hannover Airport
+14250|Tryp by Wyndham Hamburg Arena
+14252|Park Inn by Radisson Köln City West
+14253|Mercure Hotel Köln Belfortstraße
+14254|Leonardo Royal Hotel Düsseldorf Königsallee
+14308|Center Parcs Park Nordseeküste - Hotel & Ferienhäuser
+14349|Holländerei
+14351|Hollywood Media
+14359|Zur Kanone
+14361|Holzschuh's Schwarzwaldhotel
+14369|Hopper Et Cetera
+14389|Standhotel Horumersiel - zur Krabbe
+14450|Hubertus Alpin Lodge & Spa
+14451|Hubertusbaude
+14457|Hübner's Strandhotel
+14470|Hunsrück Ferienpark Hambachtal
+14486|Hyatt Regency Köln
+14566|Ibis Hamburg Alster Centrum Hotel
+14568|Ibis Hotels Dresden - Bastei
+14570|Ibis Berlin Messe
+14571|Ibis Berlin Mitte
+14572|Ibis Berlin Ostbahnhof
+14573|Ibis Styles Bochum Hauptbahnhof
+14574|Ibis Bochum Zentrum
+14575|Ibis Bremen Altstadt
+14582|Ibis München City
+14584|Ibis Hotels Dresden - Königstein
+14585|Ibis Hotels Dresden - Lilienstein
+14593|Zleep Hamburg City
+14595|Ibis Frankfurt Centrum
+14596|Ibis Heidelberg Hauptbahnhof Hotel
+14598|Ibis Leipzig City
+14599|Ibis München City Nord
+14608|Ibis Bremen City Hotel
+14616|Ibis Hamburg Alsterring
+14632|IFA Fehmarn Hotel & Ferien Centrum - Hotelzimmer / Ferienwohnungen
+14634|IFA Rügen - Hotel / Ferienpark
+14709|Berghotel Ilsenburg
+14710|Kurpark im Ilsetal
+14713|Im Schwedischen Hof
+14714|Im Tannengrund
+14716|Immenstaad Ferienwohnpark
+14727|Imperial
+14785|Alpenhotel Bergzauber
+14806|Innside by Melia Berlin
+14809|INNSIDE by MeliÃ¡ Düsseldorf Seestern
+14834|InterCityHotel Stuttgart
+14835|InterCityHotel Berlin Ostbahnhof
+14836|InterCityHotel Hamburg-Altona
+14837|InterCityHotel Erfurt
+14838|InterCityHotel Augsburg
+14839|InterCityHotel Freiburg
+14840|InterCityHotel Göttingen
+14841|InterCityHotel Kassel
+14842|InterCityHotel Kiel
+14843|InterCityHotel Magdeburg
+14844|InterCityHotel Rostock
+14845|InterCityHotel Schwerin
+14849|InterCityHotel Wuppertal
+14850|InterCityHotel München
+14851|Kaiserin Augusta
+14852|InterCityHotel Nürnberg
+14853|InterCityHotel Gelsenkirchen
+14858|Intercontinental
+14862|The Westin Leipzig
+14866|Intercontinental Berlin
+14889|Strandhotel Bene
+14990|Jägerhof
+14999|Jagdhaus Waldidyll
+15016|Jann-Berghaus-Strasse
+15041|Jasmund
+15059|Jeddinger Hof
+15078|John Brinckman
+15093|NH Köln Mediapark
+15125|Junges
+15145|K+K am Harras
+15166|Kaiserhof
+15167|Center Hotel Kaiserhof
+15219|Kamp
+15230|Kapitänshäuser
+15243|Karl Müller
+15246|Karlslust
+15253|Panorama Hotel Kaserer
+15259|Kastell
+15262|Kastens Luisenhof
+15313|Atlantic Kempinski Hamburg
+15315|Kempinski Bristol
+15317|Fürstenhof
+15321|Hotel Taschenbergpalais Kempinski
+15322|Vier Jahreszeiten Kempinski
+15349|Kessler
+15361|Kiebitzhof
+15363|Kienles Adlerkönig
+15388|King's Center
+15412|Schlosshotel Kittendorf
+15421|Strand-Hotel Fehmarn
+15428|Klingberg am See
+15430|Schlosshotel & Orangerie Klink
+15435|Donna Hotel Klosterhof
+15436|Klünderberg
+15438|Knaus Lackenhäuser
+15439|Knechtsand
+15445|Inselhotel König
+15446|Derag Königin Luise
+15447|Königshof
+15448|Königshof Resort
+15449|Königssee
+15495|Kormoran
+15496|Kormoran
+15525|Ferienidyll Krakow am See
+15526|Lindner Sport & Aktiv Hotel Kranichhöhe
+15528|Kreidesee
+15529|Kreta
+15531|Kreuz
+15532|Kreuzbachhof
+15550|Kronberg
+15551|Kronberg
+15556|Kronprinz Berlin
+15557|Novum Hotel Kronprinz Hamburg Hauptbahnhof
+15558|Familotel FamilienKlub Krug
+15568|Kühlungsborn Ferienwohnungen
+15574|Kupferkanne
+15576|Romantikhotel Waxenstein
+15581|Kurfürstendamm am Adenauerplatz
+15582|Travel Charme Kurhaus Sellin
+15583|Kurhotel Heringsdorf
+15584|Kurpark Warnemünde
+15585|Westend
+15595|Kyp am Wasser
+15896|Lamm
+15902|Land & Golf Stromberg
+15908|Herrihof Landhotel & Chalets
+15911|Landhaus Maria
+15912|Sommer Wellness-Hotel
+15913|Landidyll Forellenhof
+15914|Familotel Leiner
+15921|Langenwaldsee
+15925|Lanig Resort und Spa
+16027|Berghof Lauterbad
+16028|Ferienpark Lauterdörfle
+16115|Le MÃ©ridien Hotel Hamburg
+16186|Feriendorf Hochbergle Lechbruck am See
+16188|Lederer am See - geschlossen
+16199|Sinneo am Park
+16207|Lemkenhafen
+16225|Ostseehotel Klützer Winkel - Hotel
+16288|Leuchtfeuer
+16363|Lindauer Hof
+16364|Lindenhof
+16365|Lindenhof
+16367|Lindenhof
+16370|Lindner Parkhotel & Spa
+16371|Lindner Hotel Dom Residence
+16372|Lindner Hotel & Sporting Club Wiesensee
+16374|Indigo Düsseldorf - Victoriaplatz
+16380|Lindtner
+16419|Hotel Müllers Löwen
+16532|Louis C. Jacob
+16566|Winters Hotel München - Am Hauptbahnhof
+16571|Lugsteinhof
+16575|The Dude Hotel
+16576|Luisenhof
+16606|Lyskirchen
+16609|Maasberg Therme
+16627|Madison Hamburg
+16633|The Mandala Suites
+16634|Mado
+16676|Maibrunn
+16760|Manhattan
+16784|Manzenstuben
+16858|Margeritenhof
+16873|Maria Gern
+16907|Marin Sylt
+16981|Maritim Badehotel
+16982|Maritim Bremen
+16983|Maritim Clubhotel
+16984|Maritim Grand Hannover
+16985|Maritim Nürnberg
+16986|Maritim am Schloßgarten
+16987|Maritim Bellevue
+16988|Maritim Frankfurt
+16989|Maritim Gelsenkichen
+16990|Maritim Halle
+16991|Maritim Königswinter
+16992|Maritim Magdeburg
+16993|Maritim Ulm
+16994|Maritim Würzburg
+16995|Maritim Kaiserhof
+16996|Maritim Köln
+16998|Maritim München
+16999|Best Western Premier Parkhotel Bad Mergentheim
+17000|Maritim Parkhotel Mannheim
+17002|Maritim Pro Arte
+17003|Maritim Hotel Reichshof Hamburg - closed
+17004|Maritim Stuttgart
+17005|Maritim Titiseehotel
+17015|Mark Apart Hotel Berlin
+17019|Ferienpark Baltic Markgrafenheide
+17021|Markus
+17043|Marriott München
+17051|Swissotel Bremen
+17064|Marriott Leipzig
+17073|Steigenberger Hotel Treudelberg
+17135|Mauthäusl
+17206|Meeresblick
+17207|Meeresburg
+17214|Meier City München
+17270|Ibis Styles Stuttgart
+17273|Mercure Garmisch-Partenkirchen
+17276|Arcadia Günzburg
+17286|Arcadia Berlin
+17287|Mercure Potsdam City
+17294|Mercure München City Center
+17295|Star Inn Hotel Bremen Columbus
+17309|Radisson Blu Leipzig
+17311|Ramada Hotel Leipzig City Centre
+17338|Arcadia Hannover
+17344|Pullman Dresden Newa
+17354|Mercure Residenz Frankfurt Messe
+17359|Mercure Severinshof
+17360|Mercure Stuttgart Airport Messe
+17364|Mercure Wöhrdersee
+17375|Merker's Bostal
+17386|Schlosshotel Mespelbrunn
+17396|Novum Hotel Eleazar Hamburg City Center
+17413|Memphis
+17430|Michaelis
+17523|Miramar
+17524|Miramar
+17555|Ferienpark Mirow
+17561|Hotel Mitterdorf
+17585|Mörsdorf
+17587|Möve
+17589|Mövenpick Stuttgart Airport & Messe
+17590|Mövenpick Essen
+17594|Möwchen
+17595|Möwe
+17596|Mohren
+17640|Monopol
+17645|Landal Mont Royal
+17716|Morada Resort Kühlungsborn
+17727|Morgensonne
+17736|Moselpark
+17738|Moselromantikhotel Kessler-Meyer
+17739|Moselromantik Panorama
+17766|Sporthotel Mühlhausen
+17768|Müritz Hotel
+17769|Müritzgarten
+17806|Hotel Nagel rest. Melbo's
+17834|National
+17843|Naturerlebnispark Blauvogel
+17844|Naturpark
+17872|Neotel
+17884|Hotel Neptun & Spa
+17885|Neptun
+17975|Niedersächsischer Hof
+17999|Nippon
+18026|Novum Hotel Norddeutscher Hof Hamburg
+18028|Travel Charme Nordperd
+18055|Hotel Novalis Dresden
+18087|Mercure Hamburg City
+18088|Park Inn by Radisson Hamburg Nord Hotel
+18089|Mercure Hamburg am Volkspark
+18094|Novotel Leipzig City
+18123|Novum Hotel Hamburg Hamburg Stadtzentrum
+18136|Nymphenburg
+18143|Moselschlößchen
+18168|Ferienpark Oberallgäu
+18171|Berghotel Oberhof
+18174|Best Western Obermühle
+18178|Elldus Resort
+18345|Orbtal
+18387|Orther Reede
+18398|Ostrauer Scheibe
+18402|Landhaus Ostseeblick
+18403|Ringhotel Ostseehotel Ahlbeck
+18404|Ostseehotel Intermar
+18408|Familotel Ottonenhof
+18430|Oybiner Hof
+18478|Palace Berlin
+18615|TOP CityLine Panorama Billstedt
+18620|TREFF HOTEL Panorama Oberhof
+18621|Panorama Oberwiesenthal
+18627|Panorama Inn Hotel & Boarding Haus
+18631|Panorama-Appartements Oberhof
+18633|Apart & Familienhotel Panoramic
+18657|Papillon
+18766|Dorint Park Bremen
+18768|Golden Tulip Park Consul
+18777|Park Hyatt
+18796|Park Plaza Berlin Prenzlauer Berg
+18797|Quality Plaza Dresden
+18810|Villa im Park
+18811|Parkhotel Bad Schandau
+18812|Ringhotel Parkhotel am Soier See
+18814|Parkhotel Lindau
+18815|Golden Leaf Parkhotel im Lehel
+18821|Parkresidenz
+18824|Parkschlössl Zu Thyrnau
+18983|Petershof
+19134|Platzl
+19135|Seehotel Plau am See
+19244|Wald- und Sporthotel Polisina
+19254|Pommerscher Hof
+19338|Poseidon
+19348|Post
+19349|Post
+19394|Predigtstuhl Resort
+19418|Days Hotel Liebenwalde Preussischer Hof
+19458|BEST WESTERN Hotel Timmendorfer Strand
+19481|Göbel's Schlosshotel Prinz von Hessen
+19486|Landgasthof Probstei Zella
+19520|Pullman
+19568|Novum Business Hotel Belmondo Hamburg Hauptbahnhof
+19581|Holiday Inn Berlin City East
+19644|Leonardo Hotel Berlin City West
+19645|Leonardo Hotel Düsseldorf City Center
+19646|Leonardo Hamburg City Nord
+19647|Queens
+19648|Leonardo Royal Hotel Baden Baden
+19653|Quellenhof
+19779|Radisson Blu Hamburg
+19786|Radisson Blu Berlin
+19789|Radisson Blu Scandinavia Düsseldorf
+19790|Radisson Blu Gewandhaus
+19794|Radisson Blu Erfurt
+19806|Schlosshotel Fleesensee
+19810|Lindner Hotel & Spa Rügen
+19890|Pullman Munich
+19921|Randsberger Hof
+19931|Rappenhof
+19937|Rathener Hof
+19941|Rauchfang
+19943|Rausch
+19965|Rebstock Gasthof
+20002|Birkenhof - geschlossen
+20010|Waldferiendorf Regen
+20055|Regina Maris
+20062|Best Western Plus Berghotel Rehlegg
+20064|Naturhotel Reifenstein
+20068|Reindls Partenkirchner Hof
+20070|Reinhart
+20071|Reinsberger Dorf
+20075|Aktiv & Wellnesshotel Reissenlehen
+20079|Reiterhof Runding
+20080|Reiterhof Wirsberg
+20101|Relexa Harz-Wald
+20102|Relexa Bad Steben
+20105|Bayrischer Hof
+20106|Bristol
+20107|Wyndham Garden Düsseldorf City Centre Königsallee
+20108|Düsseldorf Mitte
+20109|Conti
+20110|Nordic Hotel Domicil
+20112|City Essen
+20113|AZIMUT Hotel Nuremberg
+20115|Ibis Styles Hamburg Alster City
+20117|Mercure Plaza
+20118|Posthotel
+20119|Leonardo Berlin City Süd
+20121|Best Western Savoy Hotel Düsseldorf
+20122|Centro Hotel Vier Jahreszeiten
+20130|Lindner Hotel City Plaza
+20136|Renaissance Hamburg
+20139|Riessersee Hotel Resort Garmisch-Partenkirchen
+20164|Renn Bodenseehotel
+20259|Hotel Residenz Berlin
+20260|Residenz
+20261|Residenz
+20262|Residenz am Motzener See
+20263|Residenz An der Bode
+20265|Aktiv & Vital Residenz
+20266|Hafen Hamburg
+20267|Residenz König Ludwig
+20283|Ramada Residenzschloss Bayreuth
+20291|Reutemann & Seegarten
+20292|Reutmühle
+20295|Revita Park- und Sporthotel
+20301|Rex
+20309|Wyndham Garden Lahnstein Koblenz
+20314|Rhön Residence
+20315|Rhön Park Hotel
+20357|Ringberg
+20358|NordWest Bad Zwischenahn
+20359|Kleber Post
+20360|Ringhotel Residenz Alt Dresden
+20361|Schlossmühle
+20383|Ritter
+20505|Ambiance Rivoli
+20519|Robinson Club Fleesensee
+20555|Ringhotel Roggenland
+20587|Romantik Berg- & Jagdhotel Gabelbach
+20589|Parkhotel Wehrle
+20592|Romantischer Winkel - Spa & Wellness Resort
+20601|Ferienpark Ronshausen
+20623|Hauzenberger Hof
+20624|Landhotel Rosenberger
+20636|Rothbacher Hof
+20652|Royal
+20660|Am Augustinerplatz
+20752|Rügen
+20753|Rugana
+20754|Rugard Strandhotel
+20755|Ruhpoldinger Hof
+20777|Harmonie Rust
+20783|Gresham Carat
+20828|Frankenwald
+20829|Landhotel Saarschleife
+20842|Sachsenbaude
+20844|Sachsensteinblick
+20845|Hotel Sackmann
+20851|Excelsior
+20861|Saigerhütte
+20896|Landal Salztal Paradies
+21145|Seepark Sellin
+21160|Sauerland Stern
+21174|Savoy Berlin
+21208|Mercure Berlin Zentrum
+21210|Schäfereck
+21212|Seehotel Südhorn
+21213|Naturpark Ebnisee
+21214|Schauinsland
+21217|Waldschlösschen Schierke
+21218|seevital Hotel Schiff
+21220|Resort Stromberg
+21225|Grandhotel Schloss Bensberg
+21228|Schloss Eckberg
+21229|Schloss Herrenstein
+21230|Van der Valk Parkhotel Schloss Meisdorf
+21233|Schloß & Park Kaarz
+21235|Schloß Schorssow
+21237|Landhotel Schloss Teschow
+21238|Schloss Waldeck
+21240|Feriendorf Schlossberg
+21248|Schönblick
+21252|Schorschl Wesch
+21260|Schwabenwirt
+21263|Schwanefeld
+21264|Schwanen
+21265|Vitalhotel Am Thüringer Wald
+21266|Schwarzbeerschänke
+21268|Schwarzenbach
+21271|Schwarzenberg
+21274|Feriendorf Schwarzholz
+21275|Ferienpark Schwarzwald
+21276|Schwarzwald Parkhotel Königsfeld
+21278|Schwarzwaldgasthof Linde
+21279|Schwarzwaldgrund
+21280|Schwarzwaldhotel Ruhbühl
+21285|Schweiz
+21336|Seaside Park Hotel
+21351|Salve
+21355|Seeblick
+21356|Seeblick
+21360|Landhotel Seeg
+21362|Seehof
+21364|Flair Seehotel Zielow
+21365|BioSeehotel Zeulenroda
+21367|Best Western Seehotel Frankenhorst
+21369|Victor's Seehotel Weingärtner
+21370|Seehotel zur Post
+21372|Seela
+21373|Seepark Burhave
+21374|Seepark Kirchheim
+21378|Seepferdchen
+21379|Seerose
+21381|Seerose
+21383|Seeschlößchen Dreibergen
+21385|Ostseeresidenz Seeschloß Bansin
+21386|Seestern
+21389|Seevilla
+21395|Gut Edermann
+21411|Seminaris Seehotel Potsdam
+21417|Senator
+21501|Sheraton Essen
+21609|SI-Suites
+21620|Side Hamburg
+21641|Silbermöwe
+21643|Ferienwohnpark Silbersee
+21645|Moselromantik Hotel Weißmühle
+21673|Simone
+21764|Romantik Hotel das Smolka
+21846|Tryp Bochum Wattenscheid
+21847|Tryp Centro Oberhausen
+21928|Steigenberger Hotel Sonne
+21930|Sonne
+21931|Sonneck
+21932|Tyrol
+21935|Landal Sonnenberg
+21939|Sonnenblick
+21941|Sonneneck
+21944|Sonneneck
+21945|Sonnenhaken
+21946|Sonnenhang
+21947|Landhaus Sonnenhof
+21949|GreenLine Sporthotel Sonnenhof
+21950|Sonnenhof
+21951|Sonnenhof
+21953|Sonnenhof
+21960|Sonnenstube
+21963|Sonnenwinkel
+21965|Sonnleiten
+21972|Göbel's Sophien Hotel
+21975|art'otel berlin kudamm, by park plaza
+21976|Mercure Düsseldorf Hafen
+21979|SORAT Insel-Hotel
+21980|Ameron Abion Spreebogen Berlin
+22022|Maravilla Beauty Spa Hotel
+22052|Ferien Hotel Spreewald
+22059|Schloss Spyker
+22070|St. Georg
+22078|St. Hubertus
+22088|Parkhotel St. Leonhard
+22090|St. Leonhard am See
+22110|St. Stephanus
+22115|Steigenberger Hotel Stadt Hamburg
+22158|Best Western Premier Hotel Sonnenhof
+22161|Steigenberger Hotel & Spa
+22163|Steigenberger Hotel Berlin
+22164|Steigenberger Aparthotel
+22165|Steigenberger Frankfurter Hof
+22167|Steigenberger Graf Zeppelin
+22168|Steigenberger Hotel Hamburg
+22169|Steigenberger Inselhotel
+22172|Best Western Plus Marina Wolfsbruch
+22173|Steigenberger Hotel Sanssouci
+22174|Steigenberger Hotel Dortmund
+22175|Precise Resort Rügen
+22176|Radisson Blu Park Hotel & Conference Centre
+22179|Steinbach
+22180|Gut Steinbach
+22185|Ostseeresidenz Steinwarder
+22212|Best Western Ahorn Hotel Stephanshöhe
+22214|A&O Hamburg Reeperbahn
+22216|Seehotel Sternberg
+22221|Oberdeisenhof
+22222|Stöcklholz
+22224|Stoll's Alpina
+22237|Strand Residenz Wasserleben
+22240|Ringhotel Strandblick
+22242|Strandhof
+22243|Strandhof & Appartements Strandschlösschen
+22245|Ferien- und Freizeitpark Weissenhäuser Strand - Strandhotel / Ferienwohnungen
+22247|Tryp by Wyndham Ahlbeck Strandhotel
+22248|Travel Charme Strandidyll
+22331|Sun Parc Hotel
+22433|Svenson
+22461|Strandhotel Sylt
+22462|GreenLine Sylter Domizil
+22463|Sylter Hof
+22464|Sylter Seewolf
+22537|Tanne
+22540|Tanneck
+22543|Tannenhof
+22545|Berghotel Schwarzwaldblick
+22546|Tannenhof
+22547|Tannenhof
+22548|Tannenpark
+22561|Tauernhof
+22580|AHORN Seehotel Templin
+22584|Tennenbronn
+22597|Terrassenhof
+22641|Teuchelwald
+22973|The Ritz-Carlton Wolfsburg
+23044|The Westin Bellevue Dresden
+23051|The Westin Grand Berlin
+23121|Thüringen
+23123|Steigenberger Hotel Thüringer Hof
+23134|Tiefenthal
+23137|Tietzowsee
+23158|Timmy
+23188|Tölzer Hof
+23215|Torbräu
+23283|Traube am See
+23285|Traunbachhäusl
+23312|TREFF ALPENHOTEL Kronprinz Berchtesgaden
+23315|Sport- und Familiendorf Glocknerhof
+23317|Ramada Magdeburg
+23318|Best Western Bad Herrenalb
+23320|Ramada Bären Goslar
+23322|Ramada Kassel City Centre
+23323|Tryp by Wyndham Bad Bramstedt
+23325|Ramada Limes Thermen Aalen
+23326|Tryp by Wyndham Lübeck Aquamarin
+23327|Göbel's Quellenhof
+23329|Parkhotel Rügen
+23330|Ramada Willingen
+23332|Ramada Hahnenklee
+23333|HKK Wernigerode
+23334|Luitpoldpark Füssen
+23335|ACHAT Premium Neustadt
+23336|Park Blub
+23337|Ramada Resident Dresden
+23338|Ramada Ãœberseehotel Bremen
+23339|TREFF Ferienpark Usedom
+23341|Panoramahotel Fohlenhof
+23361|Trixi Park Zittauer Gebirge
+23430|Tryp by Wyndham Dresden Neustadt
+23431|Georghof Berlin
+23435|Hanseport Hamburg
+23480|Ulrichsgrün
+23490|Hotel und Feriendorf an der Ostsee
+23511|Up'n Diek
+23513|Strandhotel Upstalsboom
+23514|Parkhotel Upstalsboom
+23515|Upstalsboom Seehotel Borkum
+23518|Upstalsboom Friedrichshain
+23519|Upstalsboom am Strand
+23520|Ratswaage
+23522|Upstalsboom Ostseestrand
+23523|Upstalsboom Seehof
+23524|Upstalsboom Spiekeroog
+23529|Useriner See
+23578|Van der Valk Resort Linstow - Hotel & Ferienhäuser
+23665|Victoria
+23669|Victor's Residenz Schloß Berg
+23676|Victoria
+23678|Victoria
+23698|Vier Jahreszeiten Hamburg
+23700|Vier Jahreszeiten Binz
+23701|Berghotel Ullr
+23702|Vier Jahreszeiten
+23704|Aalernhüs Hotel & Spa
+23705|Vier Jahreszeiten
+23706|Vier Linden - geschlossen
+23708|Vier Jahreszeiten
+23709|Vier Jahreszeiten
+23756|VILA VITA Burghotel Dinklage
+23821|Villa Charlott
+23891|Villa Granitz
+23912|Vier Jahreszeiten Kühlungsborn - Hotel / Appartements
+23948|Maritim Staatsbadhotel
+24053|Villa Viktoria
+24177|Loev
+24178|GreenLine Hotel Forsthaus Damerow
+24212|GreenLine Vital- und Wellnesshotel Albblick
+24235|Nordic Hotel Leipzig
+24243|Vogtland
+24249|Villa Wally
+24254|Vorbach
+24296|Hotel im Himmelreich
+24297|Waldblick
+24299|Waldeck Spa Resort
+24300|Parkhotel Waldeck
+24304|Waldfrieden
+24306|Waldhof Hotel- & Ferienanlage
+24308|Waldhotel Stuttgart
+24310|Waldidyll
+24314|Waldsee Wirchensee
+24320|Walpurgishof
+24329|Ringhotel Warnemünder Hof
+24330|Landal Warsberg
+24340|Wasserschloß
+24341|Wasserschloss Westerburg
+24342|Hotel im Wasserturm
+24347|Wattkieker
+24351|Weide
+24352|Weiler
+24354|Gräfs-Mühle
+24360|Weißer Hirsch
+24363|Flair Parkhotel Weißkirchen
+24365|Breitenberg Panorama
+24367|Welcome Hotel Meschede / Hennesee
+24371|Wenkendorf
+24372|Wennhof
+24376|Am Sommerberg Ferienhäuser
+24377|Heubacher Höhe
+24426|Wettin
+24440|Wiener Hof
+24442|Waldhotel Wiesemann - Hotel / Apartmenthaus Seeschwalbe
+24446|Wieshof
+24448|Wiesseer Hof
+24449|Heikotel - Wiki
+24455|Wildgatter
+24471|Windland
+24474|Windrose
+24483|Winklmoosalm
+24489|Landal Wirfttal
+24491|Wissers Sonnenhof
+24493|Wochners Sternen
+24494|Wölkhammer
+24506|Wulf
+24507|Wurmbergblick
+24553|Xenia
+24563|Yachthof Edersee
+24602|Gasthof Zacher
+24635|Seehotel Zeuthen
+24641|Travel Charme Strandhotel
+24662|Zu den Rothen Forellen
+24666|Zum Freischütz
+24669|Zum Gutshof
+24671|Zum Jägerstöckl
+24673|Zum Kranz
+24674|Landidyll Zum Kreuz
+24676|Zum Mühlenberg
+24684|Bei Schumann
+24685|Zum Wikinger
+24687|Zur Bleiche
+24690|Zur Guten Quelle
+24695|Hotel Zur Post
+24696|Zur Post
+24697|Zur Post
+24704|Aparthotel Zwiesel - Hotel / Ferienwohnungen
+24785|InterCityHotel Frankfurt
+24996|Zum Arber
+25000|Hammerhof
+25009|H+ Alpina Garmisch-Partenkirchen
+25017|Hubertus
+25019|Nuss
+25021|Hochstein
+25026|Sonne
+25027|Bayerischer Hof
+25028|Bergland Hof
+25029|Sonnenhotel Eichenbühl
+25037|Zellerwirt
+25058|Schachten
+25482|Jäger von Fall
+25509|Seehotel Hohenau
+25520|mD-Hotel Alpenrose
+25550|Familotel Allgäuer Berghof
+25611|Neubichler Alm
+25616|Ulrichshof
+25636|Schwangauer Hof
+25643|Schürger
+25644|Traxenberg
+25776|Center Parcs Park Eifel
+25777|Mercure Hotel & Residenz Berlin Checkpoint Charlie
+25780|Novotel Hannover
+25811|Rex
+25814|Bayerischer Hof
+25816|Parkhotel Adler
+25817|Genusshotel Rathaushotels
+25831|Arcadia
+25835|Hohenzollern
+25842|AVITAL Resort Winterberg
+25862|Travel Charme Kurhaus Binz & Residenzen
+25900|Panorama
+25904|Dorint Resort & Spa Westerland/Sylt
+25993|Wyndham Garden Hennigsdorf Berlin
+26003|Mercure am Mainufer
+26030|Marc Aurel Spa & Golf Resort
+26034|Sonnengarten
+26093|ROEWERS Privathotel
+26095|Golf- und Wellnesshotel Balmer See
+26102|Alter Meierhof
+26133|Tannhof
+26134|Schloß Warnsdorf
+26139|Gollee / Landhaus Tannenhof
+26141|Waldwinkel
+26143|Sommerfeld
+26149|Birkenhof Therme
+26150|St. Wolfgang
+26151|Das Ludwig
+26153|The Monarch
+26161|Zechmeisterlehen
+26162|Seehotel Ãœberfahrt
+26163|Arabella Alpenhotel am Spitzingsee
+26164|Wyndham Grand Bad Reichenhall Axelmannstein
+26165|Mangler
+26169|Mondi Holiday Mitterfels
+26271|Mondi-Holiday Alpenblickhotel
+26285|Mercure Panorama
+26300|Riesberghof
+26305|Sporthotel Am Pfahl
+26432|Prinz Luitpold Bad
+26433|Alpenhotel Oberjoch
+26434|Filser
+26435|Eibsee
+26437|Bachmair am See
+26512|Göbel's Seehotel Diemelsee
+26651|Limbacher Hof Landgasthof
+26671|Kaiseralm
+26672|Sonneck
+26678|Adlib - geschlossen
+26679|Liberia
+26680|Dollenberg
+26681|Josen
+26682|Bavaria
+26683|Grand Sonnenbichl
+26684|Am Steinbachtal
+26689|Der Kräuterhof
+26889|Eisenacher Haus
+26893|Thüringer Schieferhof
+26894|Musikhotel am Rennsteig
+26896|Ramada Friedrichroda
+26902|Zum Bären
+26906|Kreuztanne
+26907|Osterlamm
+26908|Altes Zollhaus
+26912|Hotel Liebesglück
+26913|Berghotel Hoher Knochen
+26917|Sauerland Alpin
+26918|Travel Charme Ostseehotel
+26919|Grand Hotel Binz
+27604|Hubertus
+27606|Waldhaus
+27607|Arcadia Sonnenhof
+27608|Ferien Vom Ich
+27612|Hotel Königshof Garmisch
+27617|Arabella Brauneck
+27623|Alpspitz
+27627|Landgasthof Schützen
+27629|Wellnesshotel Palmenwald Schwarzwaldhof
+27630|Das Landhaus
+27634|Berghotel Mummelsee
+27641|Eifelgold Rooding
+27643|Puchtler's - Gasthof Deutscher Adler & Kurhotel
+27651|Morada Hotel Alexisbad
+27654|Harzer Land
+27656|Am Kurpark
+27658|Drei Annen
+27661|Stadt Wernigerode
+27662|Harz
+27672|Knappensaal
+27674|Zum Erzgebirge
+27676|Alte Schleiferei
+27682|Grünes Gericht
+27683|AHORN Hotel Am Fichtelberg
+27689|Deichgraf
+27863|Präsident
+27873|Arcadia Trier
+27901|Hofmann
+27904|Grand City Zentrum - geschlossen
+27909|Seehotel Ecktannen
+28046|Weisser Hase
+28047|Passauer Wolf
+28048|Columbia Bad Griesbach
+28053|Free Steil
+28054|Seehotel Dreiklang
+28055|Freesenholm
+28057|Preussenhof
+28058|Strandpalais Zinnowitzer Hof
+28059|Kormoran
+28060|Sonnhotel Maja
+28075|Avendi Hotel Am Griebnitzsee
+28076|Flairhotel Am Uckersee
+28077|Best Western Branitz - geschlossen
+28078|Welcome Wesel
+28079|Best Western Domicil Hotel
+28081|Best Western Des Nordens
+28087|Zum Roten Ochsen
+28092|Mosel Hähn
+28143|Waldhotel am Notschreipass
+28540|Travel Charme Strandhotel Bansin
+28542|Vitalia Seehotel
+28551|Dorint Resort & Spa Bad Brückenau
+28558|Lindner Hotel & Spa Binshof
+28572|Parkhotel Residence
+28574|Eggensberger
+28706|Star Inn München Nord
+28803|Schlosshotel Burg Schlitz
+28804|Schlosshotel Ralswiek
+28805|Neuklostersee
+28806|Reiter- & Bauernhof Berlinchen
+28808|Friesenhof
+28835|GolfResort Semlin am See
+28849|Krähenberg
+28862|Landhaus an de Dün
+28863|Parkhotel
+28867|Witthus
+28877|Hotel am See
+28884|Arcadia Bottrop
+28885|Schloss Edesheim
+28886|Angel's
+28887|Ringhotel Giffels Goldener Anker
+28888|Krupp
+28890|Enjoy-Heide Hildfeld
+28891|Parkhotel Schlangenbad
+28929|Romantik Hotel auf der Wartburg
+28932|Churfuerstliche Waldschaenke
+28935|Dorint Maison Messmer
+28936|Lindenwirt
+28937|Rosenhof
+28939|Quellness- & Golfhotel Maximilian
+28940|Quellness- & Golfhotel Fürstenhof
+28943|Seimler
+28944|Seehotel Waltershof
+28966|Avalon Hotelpark Königshof
+28968|Seminaris Lüneburg
+28970|Steiger Sebnitzer Hof
+28971|Schloßhotel Althörnitz
+28978|Euro-Hotel Salzunger Hof
+28981|Am Jüdenhof
+28982|Vital Resort Mühl
+28984|Best Western Premier Park
+28985|Gräflicher Park Hotel & Spa
+28987|avendi Hotel Bad Honnef
+28988|Dr. Becker Klinik Juliana
+28989|Doerr
+28994|Aqualux Wellness- & Tagungshotel
+28996|Eden Parc
+29001|Ramada Hotel Micador Wiesbaden-Niedernhausen
+29007|Caravelle
+29011|Terraventura
+29015|Zum Löwen
+29016|Residence von Dapper
+29018|Central
+29022|Heidehof
+29024|Mercure Berlin Mitte
+29026|Schnitzmühle
+29027|Concordia
+29029|Swissotel Berlin
+29039|NH Hamburg Altona
+29040|NH Köln City
+29047|Comfort Hotel Weimar
+29049|Le Meridien Parkhotel Frankfurt
+29055|Creatif Elephant
+29057|Van der Valk Naturresort Drewitz
+29060|Le Meridien München
+29064|Lagunenstadt
+29066|Aktiv Schweiger
+29069|Villa Sommerfreude
+29072|Strandperle
+29074|Am Buchenhain
+29078|Helvetia
+29080|Undine
+29085|Ostsee mit Dependencen
+29088|Boddenhof Stedar
+29101|Haffblick
+29102|Dietz
+29103|A-ROSA Scharmützelsee
+29115|Malcha
+29121|Niendorf
+29122|Am Mühlenteich
+29136|Seeburg
+29138|Albatros
+29150|Deichvogt
+29154|Im Herrenhof
+29162|Inselkieker
+29168|An der Westernstadt
+29230|Hilton Airport Munich
+29234|Anlage Mättle -Buche/Birke/Bergwiese/Sonnenbühl/Sonnenmätt/Sonnenweg/Tannenblick
+29237|Bergschlösschen
+29242|Landhotel Alte Tränke
+29260|Victor's Residenz Teistungenburg
+29264|VILA VITA Rosenpark
+29265|Steigenberger Hotel Bad Neuenahr
+29266|Schloss Reinhartshausen Kempinski
+29270|Bollant's Im Park
+29271|An der Therme
+29273|Steigenberger Bad Kissingen - geschlossen
+29275|Radisson Blu Badischer Hof Hotel
+29277|Steigenberger Europäischer Hof
+29281|Parkhotel Bad Griesbach
+29284|Mürz Spa & Wellness
+29285|Wittelsbach
+29291|Steigenberger Hotel Der Sonnenhof
+29293|Alpenhof Murnau
+29303|Allgäu Sonne
+29684|Tryp Celle
+29685|Meyn
+29686|Luisenhöhe
+29687|Mercure Walsrode Lüneburger Heide
+29688|City Partner Parkhotel
+29689|Tryp Wolfsburg
+29690|Innside by Melia Bremen
+29691|Landgut Horn
+29692|Best Western Grand City Hotel Bremen
+29693|Van der Valk Gladbeck
+29694|Ibis Gelsenkirchen
+29696|Parkhotel Marl
+29699|Mercure Hotel Duisburg City
+29700|Mercure Hotel Koeln West
+29701|Mercure Hotel Bonn Hardtberg
+29702|Novotel Köln City
+29704|Mercure Hotel Duesseldorf Neuss
+29706|Sonnenhotel Carpe Diem
+29707|Park Inn by Radisson Mannheim Hotel
+29709|Herzogskelter
+29711|SensConvent Michendorf
+29713|Krone
+29714|Euro-Hotel
+29722|Mercure Messeplatz
+29912|Mercure Freiburg Am Münster
+30246|Am alten Deich
+30247|Am Medemufer
+30251|Nordica Hotel Berlin
+30254|Sand
+30255|Zur Schönen Aussicht
+30256|mD-Hotel Schützenhof
+30257|Seewind
+30258|Schwabe
+30259|Ostseeland
+30260|Wittenbeck
+30261|Inselwind
+30262|The Royal Inn Park Hotel Fasanerie
+30376|Novum Hotel Aldea Berlin Zentrum
+30377|Winters Hotel Berlin - Im Spiegelturm
+30378|Citadines Kurfürstendamm Berlin
+30379|Burghof
+30380|Novum Hotel Gates Berlin Charlottenburg
+30382|TIPTOP Edelhof
+30389|Morada Hotel Nordrach
+30391|Gaistaler Hof
+30394|Kull von Schmidsfelden
+30395|Mercure Düsseldorf City Center
+30396|Schloß Hornberg
+30399|Ochsen Landgasthof
+30401|Dorint An Der Messe Köln
+30403|Classic Harmonie
+30404|Leonardo Hotel Munich City Olympiapark
+30410|Brugger
+30411|Schlierseer Hof am See
+30412|Atlas Grand
+31304|Strandhotel Baabe
+31306|Parkhotel Sellin
+31307|Centralhotel Binz
+31447|Aparthotel Panoramic
+31516|Landhaus Ludwig
+31518|Feriendorf Zandt
+31521|Ferienpark Missen
+31523|Panoramablick
+31526|Hotel Quedlinburger Hof
+31529|Altstadthotel Ilsenburg
+31531|Zum Goldenen Hirsch
+31533|Ladenmühle
+31537|Kathmeyer's Landhaus Godewind
+31542|Feriendorf Ã–fingen
+31543|Pension Schwarzhölzl
+31544|Am Weissen Regen
+31545|Amberger Hof
+31547|Schobsetal Waldhotel
+31550|TUI best FAMILY Dorfhotel Fleesensee
+31673|Ku'Damm 101
+31675|Central Kaiserhof
+31677|Dorint Köln Junkersdorf
+31678|Leonardo
+31679|Schlossblick
+31680|Derag Max Emanuel
+31681|Tryp München City Center
+31683|Tryp Dortmund
+31684|Bredeney
+31686|Schloss Lerbach
+31687|Celler Hof
+31688|Van der Valk Hildesheim
+31689|Eurostars Park Maximilian
+31690|Romantik Jugendstil Bellevue
+31691|Roter Hahn
+31692|pentahotel Trier
+31693|Albergo
+31694|Albatros Airport
+31695|Leonardo Hotel Köln Bonn Airport
+31698|Steigenberger Esplanade
+31699|arcona Hotel Baltic
+31700|Steigenberger Drei Mohren
+31702|Dorint An der Kongresshalle Augsburg
+31875|Holiday Inn Lübeck
+31876|Wyndham Garden Wismar
+31877|Inselhotel Poel
+31878|GreenLine Wellness- und Strandhotel Möwe
+31879|Trihotel am Schweizer Wald
+31880|Bernstein
+31883|Forsthaus Langenberg
+31885|Crowne Plaza Berlin City Center
+31888|Mercure Berlin am Alexanderplatz
+31889|Relexa Stuttgarter Hof
+31890|Schlosshotel Cecilienhof
+31892|Best Western Spreewald
+31893|Andree
+31894|Am Schloß
+31895|DORMERO Am Theater
+31896|pentahotel Eisenach
+31897|Mercure Erfurt Altstadt
+31898|Park Inn by Radisson Weimar
+31900|Rosenthaler Hof
+31901|relexa hotel Bad Salzdetfurth
+31902|Ramada Britannia Hannover
+31905|Welcome Bad Arolsen
+31906|Ramada Bad Laasphe
+31907|Schlosshotel Wilhelmshöhe
+31910|Maritim Schnitterhof
+31911|Mercure Lüdenscheid
+31912|NH Bingen
+31913|Zum Bären
+31915|Trabener Hof
+31916|Crowne Plaza Heidelberg
+31917|Relexa Waldhotel Schatten
+31918|Best Western Am Schlossberg
+31920|Goldene Traube
+31921|Welcome Residenzschloss Bamberg
+31922|bis Styles Regensburg
+31924|Lindner Hotel Kaiserhof
+31925|Holiday Inn Munich - Schwabing
+32059|Familotel Bavaria
+32060|Alpenhotel Tiefenbach
+32061|Birnbachhöhe
+32062|Feriendorf Glasgarten
+32069|Bichlerhof
+32145|Marriott Frankfurt
+32214|Oberstdorf
+32215|Landhaus am Dorfbach
+32436|Lindner Hotel Windrose
+32437|Bruhn's Koppel
+32440|Best Western Theodor Storm
+32441|Garni Hotel Nordstrand
+32443|Familienferien in Friedrichskoog
+32444|Feriendorf Sehestedt
+32445|Graf Bentinck
+32447|Friedeburg
+32448|Atlantis
+32449|Windrose Residenz
+32455|Albatros
+32456|Hotel Waldfrieden
+32457|Zum Kranich Ferienwohnungen
+32460|Ludorf Gutshaus
+32461|Speicher am Ziegelsee
+32462|Stadt Güstrow - geschlossen
+32466|Landhotel Burg im Spreewald
+32467|Van der Valk Spreewald Parkhotel
+32468|Caroline Mathilde
+32470|Ringhotel Schloss Schkopau
+32472|Adelheid Hotel garni
+32473|Parkhotel Neustadt
+32474|Welcome Parkhotel Meissen
+32476|Oberhof Sporthotel
+32477|Weiß Ferienwohnungen
+32480|Thomasmühle Familie Ballheim
+32481|Fahrenbach Golfhotel
+32482|Alter Wirt
+32483|Bonnschlössl
+32484|Alpenhof
+32487|Haus Schönbrunn Ferienwohnungen
+32489|Mattlihaus
+32491|Kleiner König
+32492|Gerberhof
+32493|Bayerischer Hof
+32494|Hotel Halm Konstanz
+32496|Buchhorner Hof
+32497|Alpenpanorama
+32499|Tobererhof
+32640|Le Meridien Grand
+32642|Denninglehen Alpenhotel
+32643|Sonnenhotel Hoher Hahn
+32644|Nussknacker Erzgebirge
+32648|Nordseebrandung Ferienwohnungen
+32684|Vier Jahreszeiten Inselhotel
+32685|Vier Jahreszeiten Strandhotel
+32686|Der Seehof
+32687|alter landsitz Sommerstorf
+32688|Esplanade Resort & Spa
+32690|Erbgericht
+32691|Ringhotel Parkhotel ambiente Hohnstein
+32692|Forsthaus Grüna
+32694|Thalfried
+32695|Villa Heine
+32696|Hilton Bonn
+32697|Sporthotel de Poort
+32698|Ringhotel Waldhotel Bärenstein
+32700|Bürgerstuben
+32701|Zugbrücke Grenzau
+32702|Parkhotel Kurhaus
+32703|Drei Quellen Therme
+32704|Parkhotel Luisenbad
+32705|Johannesbad
+32706|Residenz Maximilian
+32707|Bären
+32708|Sonneck
+32709|Justina Club Vital
+32711|Höri am Bodensee
+32712|Dorint Resort An den Thermen
+32714|Zum Ochsen
+32721|Mercure Berlin City
+32722|Novotel Berlin Mitte
+32723|Central
+32724|Dorint am Heumarkt Köln
+32725|Kastens
+32726|Victor's Residenz Leipzig
+32761|Aparthotel
+32764|Knaus Feriendorf Wingst
+32768|Pantry Back Residenz
+32769|Ferien-Appartement-Haus Alexandra
+32770|Anlage Ostseeblick
+32771|Sola Bona
+32774|Landhotel Herrenhaus Bohlendorf
+32775|Binz Feriendomizil
+32777|Mönchsgut Ferienvillen
+32783|Am Wiesengrund
+32786|Müritzparadies
+32787|Familienpark Senftenberger See
+32788|Simke Landgasthof
+32795|Schloss Schweinsburg
+32796|Zum Erbgericht
+32797|Weisses Ross
+33159|Maritim Strandhotel Travemünde
+34250|Alpenhof
+34267|Generator Berlin-East
+34268|Sheraton Carlton
+34269|Holiday Inn Express Frankfurt Airport
+34271|Heliopark Bad Hotel zum Hirsch
+34273|Grand Hotel Heiligendamm
+34274|NH Aukamm Wiesbaden
+34275|NH Frankfurt City Center
+34416|Golden Tulip Parkhotel Neu-Ulm
+34417|Park Inn by Radisson Lübeck
+34922|Steigenberger Grandhotel Petersberg
+35037|Hotel Residenz
+35039|GreenLine Hotel Rügen Park
+35040|Klaus Störtebeker Pension
+35043|Forsthaus Bansin
+35052|Pommern Mühle
+35053|Haus Antje
+35054|Schlösschen Sundische Wiese
+35056|Linde
+35058|Ostseetraum
+35060|Möwe
+35063|Arthotel Mare
+35067|Albatros
+35070|Yachthus
+35071|Harlesiel
+35072|Nordstern
+35075|Ringhotel Am Badepark
+35077|Bothe
+35078|Waldsegler
+35080|Hotelferienanlage Friedrichsbrunn
+35081|Hermannshöhle
+35082|Schlosspalais
+35087|Morada Hotel am Mellensee
+35091|Moosbach
+35092|Kurpark
+35093|Karlsteiner Stuben
+35095|Vier Jahreszeiten
+35096|Hochpasshaus
+35098|Pti Eichwald
+35099|Steinle
+35103|Best Western Goldenes Rad
+35105|Hirsch & Nebenhaus
+35106|Schwarzwaldhof
+35107|Lindenwirt
+35108|Altdeutsche Weinstube
+35112|Rheinpark Rees
+35113|Schepers
+35115|TOP Consul
+35122|Ramada Brühl-Köln
+35123|Stadthotel & Restaurant Convikt
+35471|New Berlin
+35472|Myer's Berlin
+35473|Wyndham Garden Potsdam
+35474|Golden Leaf Altmünchen
+35475|Monopol
+35477|Golden Leaf Hotel & Residence Frankfurt
+35668|Delta Pension
+35669|Tryp by Wyndham Berlin am Ku'Damm
+35670|Delta
+35680|Reiterhof Stechow
+35681|Kyp Yachthafen Residenz
+35683|Havelberge Camping und Ferienpark
+35684|Gravelotte
+35687|Reichenbach
+35719|Schloss Groß Plasten
+35720|Romantik Hotel Esplanade
+35723|Am Meer
+35724|Solthus am See
+35729|Natur- und Ferienpark Labenzer See
+35730|Gutshof Sparow
+35732|Steigenberger Conti-Hansa
+35736|Uthland
+35739|Atoll Ocean Resort
+35740|Menzhausen
+35744|Ringhotel Mutiger Ritter
+35749|Jagdschloss Niederwald
+35751|Kastenholz
+35753|Richtershof Weinromantikhotel
+35754|Clostermanns Hof
+35758|Am Schlosspark
+35759|Brauhaus zum Löwen
+35761|Fair Resort
+35762|Schwarzwald Panorama
+35763|Schwarzwald-Sonnenhof
+35765|Ã–denhof
+35768|Hohenried
+35770|Wiedener Eck
+35771|Saigerhöh
+35837|Brunner Hof
+35838|Anger Residenz
+35839|IBB Passau
+35841|Guglhupf
+35843|Karma Bavaria
+35845|Seehof Hotel & Restaurant
+36253|Regena
+36254|König Ludwig Spa & Golf Vital Resort
+36255|Frank Parkhotel
+36275|Ströbinger Hof Thermenhotel
+36520|art'otel berlin city center west, by park plaza
+36521|pentahotel Leipzig
+36522|Mercure Hamburg Mitte
+36524|Mercure Münster City
+36567|Holiday Inn Hamburg
+36568|Grassauer Hof
+36653|Derag Maximilian
+36654|Agneshof
+36655|Lindner Hotel Leipzig
+36656|Holiday Inn München Süd
+36657|Radisson Blu Cottbus
+36658|Mercure Parkhotel Görlitz
+36659|Ramada Stade
+36661|Kurparkhotel
+36663|Leonardo Heidelberg
+36664|Bergström
+36665|Ramada Hotel Leipzig
+36666|Zum Rappen
+36669|Best Western Premier Grand Russischer Hof
+36670|Eifelstern
+36671|Bären
+36674|Ramada Europa Hannover
+36676|Comfort Bremerhaven
+36677|Ramada Hotel Leipzig-Halle
+36678|Mercure Hameln
+36681|Mercure Porta Westfalica
+36682|Landhotel & Gasthof Cramer
+36683|Rilano 24/7 Wolfenbüttel
+36731|ACHAT Comfort Messe-Chemnitz
+36732|ACHAT Comfort Dresden
+36733|ACHAT Comfort Lausitz
+36734|ACHAT Comfort Messe-Leipzig
+36735|ACHAT Premium Zwickau
+36736|Forsthaus Hotel
+36737|Best Western Macrander Dresden
+36738|Quellenpark
+36740|Berghotel Steiger
+36747|Kreischaer Hof
+36748|Berlin
+36749|Kristall
+36750|Holiday Inn
+36752|Mercure Hotel Dresden Elbpromenade
+36754|Rothenburger Hof
+36755|Wyndham Garden Dresden
+36756|Days Inn Dresden
+36757|Günnewig Chemnitzer Hof
+36760|Days Inn Leipzig City Centre
+36782|Europa-Park Resort - Gästehaus Circus Rolando, Camp Resort (Tipi), Camping
+36783|Diem
+36786|Familotel Deichkrone
+36791|Uta Gästehaus
+36798|Sünnslag
+36800|Upstalsboom Inselstrand
+36804|Der Achtermann
+36812|Waldeck
+36816|Alpenglühn
+36817|Roter Hahn
+36824|Zur Post
+36829|Knaus
+36830|Blume
+36834|Askania
+36835|Löwen
+36836|Käppelehof
+36839|Kellners SPA
+36854|Mönchneversdorfer See Ferienpark
+36855|Am Waldrand
+36857|Landal Dwergter Sand
+36860|Brühls Trapp
+36862|Ringhotel Bömers Mosellandhotel
+36863|Sonnenschein
+36864|Drei Franken Hof
+37132|Ling Bao
+37300|Mercure Aachen am Dom
+37301|Ibis Aachen Hauptbahnhof
+37302|Ibis Styles Aachen City
+37305|Richthofen
+37306|Deutscher Kaiser
+37307|Am Friedrichsbad
+37308|Günnewig Bristol Bonn
+37309|mD-Hotel Aigner
+37311|Insel
+37312|Allegra
+37313|Ibis Berlin Airport Tegel
+37314|Mercure Tempelhof Airport
+37315|Dorint Adlershof Berlin
+37316|Hotel Schöneberg
+37317|VCH Albrechtshof
+37318|VCH Augustinenhof
+37319|Park Inn by Radisson Berlin City West Hotel
+37321|Ibis Duisburg Hauptbahnhof
+37322|Best Western Schaper-Siedenburg
+37323|InterCityHotel Bremen
+37324|Ibis Düsseldorf Hauptbahnhof
+37325|Ibis Düsseldorf City Hotel
+37326|IBB Erfurt
+37328|Welcome Essen
+37329|Amadeus am Hessen-Center
+37330|Excelsior
+37331|Central
+37334|BEST WESTERN PLUS Kassel City
+37335|Leonardo Heidelberg City Center
+37338|Ibis Köln Centrum
+37339|Novum Hotel Leonet Köln Altstadt
+37340|Hilton Cologne
+37341|Alter Speicher
+37342|Radisson Blu Senator Lübeck
+37344|König
+37345|mD-Hotel Amba
+37347|Mercure München Schwabing
+37349|Arvena Park
+37350|Arvena Messe
+37351|Ibis Nürnberg Hauptbahnhof
+37352|Ramada Nürnberg Parkhotel
+37353|Ramada Landhotel Nürnberg
+37356|Ibis Stuttgart City
+37357|Rega Hotel City Center
+37358|Am Schlossgarten
+37359|City Partner Alter Speicher
+37360|Best Western Premier Rebstock
+37361|SORAT Brandenburg
+37363|SORAT Cottbus
+37364|Seehotel Friedrichshafen
+37365|Best Western Der Lindenhof
+37366|Am Goldenen Strauss
+37368|Mercure Koblenz
+37369|Goldenes Fass
+37370|Victor's Residenz Saarlouis
+37373|Arcadia Bad Oeynhausen
+37374|Best Western Plus Bautzen
+37376|Hotel Stadt Coburg
+37378|Maritim Bonn
+37380|Arcadia Flensburg
+37381|Mercure Kongress Chemnitz
+37382|Mercure Landhaus Syburg
+37383|Mercure Saarbrücken City
+37426|Vita Wellnesshotel
+37427|Adrion
+37434|Schweizerblick
+37436|Bergfrieden
+37437|Weingärtner
+37438|Regent
+37439|Wellness-Privathotel Post
+37442|Watthalden
+37443|Winterhaldenhof
+37446|Neckarblick
+37450|Europa
+37454|Seminaris
+37457|Ringhotel Goldener Knopf
+37460|Breggers Schwanen
+37462|Hofgut Sternen - Best Western Hofgut Sternen, Goethehaus, Glashaus
+37464|Schloss Reinach
+37465|Kolping Freiburg Stadthotel
+37476|Sonne
+37477|Forellenhof Rössle
+37478|Parkhotel Pforzheim
+37484|Bär
+37486|Ringhotel Zum Goldenen Ochsen
+37491|Suggenbad
+37494|Heidelberg Marriott Hotel
+37495|ACHAT Comfort Karlsruhe
+37496|Berliner Hof
+37499|Kübler
+37500|Rio
+37504|Leonardo Hotel Karlsruhe
+37505|Renaissance Karlsruhe
+37506|Schloßhotel Karlsruhe
+37507|Wörtz zur Weinsteige
+37508|Ochsen
+37510|Bavaria Münchner Hof
+37511|Golden Leaf Stuttgart Zuffenhausen
+37512|Hansa Stuttgart
+37513|Filderland
+37515|Gloria
+37516|Novum Hotel Rieker Stuttgart Hauptbahnhof
+37517|Hotel Garni Körschtal
+37523|3 Könige
+37525|ACHAT Comfort Heidelberg/Schwetzingen
+37526|ACHAT Comfort Mannheim/Hockenheim
+37527|ACHAT Comfort Stuttgart
+37529|Krone Lamm
+37532|Alte Linde
+37533|Rothfuss
+37534|Sonnenhof
+37536|Comfort Ulm-Blaustein
+37541|Gasthof zum Ochsen
+37543|Schwarzwaldhotel Gengenbach
+37544|Holländer Hof
+37545|Löwen
+37547|Eden
+37548|Engel
+37549|A&O Karlsruhe Hauptbahnhof
+37550|Balladins Superior Mannheim
+37552|Ehrich Hotel-Restaurant-CafÃ©
+37555|Berlin
+37556|Best Western Lamm
+37558|Stuttgart Marriott Sindelfingen
+37560|Burgard's Gasthaus Sonnenmatte
+37565|Am Kurpark
+37566|Panorama Waldenburg
+37570|Sackwitzer Mühle
+37571|Radisson Blu Fürst Leopold Hotel
+37574|Zur Kaiserpfalz
+37575|Ramada Erfurt
+37576|Ringhotel Lutherhotel Eisenacher Hof
+37577|Victor's Residenz Erfurt
+37579|Best Western Geheimer Rat
+37583|Askania
+37584|Im Kräutergarten
+37590|Landhotel Alte Fliegerschule
+37591|Acron
+37592|Best Western Stadtpalais Wittenberg
+37595|Plaza Magdeburg
+37596|Am Marienturm
+37597|Bohlenblick
+37894|Bayrischer Hof
+37897|NH Berlin Frankfurter Allee
+37933|Mövenpick Braunschweig - geschlossen
+37934|pentahotel Berlin-Köpenick
+37935|TRYP by Wyndham Berlin City East
+37936|Grüner Baum
+37939|Sheraton Offenbach
+37941|Radisson Blu Hannover
+37942|Radisson Blu Neubrandenburg
+37943|Ramada Siegen
+37944|Sunderland Hotel
+37945|Michel Hotel Wetzlar Kongress- und Freizeithotel
+37991|Hotel Innsento
+38053|Schlosshotel im Grunewald
+38054|NH Berlin Friedrichstraße
+38055|Marriott Hamburg
+38056|Mandarin Oriental Munich
+38057|Anna
+38066|Landhaus Stricker
+38067|Brenners Park-Hotel & Spa
+38102|Sheraton Pelikan
+38116|Hyatt Regency Mainz
+38139|Der Europäische Hof
+38145|Nassauer Hof
+38182|Sportchalet
+38183|Courtyard Marriott Hannover Maschsee
+38184|Mercure Hannover City
+38186|Center Parcs Bispinger Heide
+38198|Adler
+38200|Residenz Fleesensee
+38216|NH Trier - geschlossen
+38385|Holiday Inn Minden
+38386|Mövenpick Münster
+38387|Velen Sportschloss
+38391|Wallgau Parkhotel
+38412|Angleterre Hotel Berlin
+38414|East Hotel & Restaurant
+38415|25hours Hamburg Number One
+38416|Park Plaza Trier
+38698|Schlosskrone
+38754|Radisson Blu Köln
+38756|InterCity Hahn Airport
+38850|Reutereiche
+38854|Ameron Hotel Königshof Bonn
+39014|Pusl
+39019|Markersbach
+39116|Bavaria Kur & Sporthotel
+39117|Forsthaus Graseck
+39118|Aktivhotel Gasthof Schmelz
+39120|Fünfjahreszeiten
+39216|Ramada Berlin Mitte
+39217|Ramada Plaza Berlin City Centre Hotel & Suites
+39218|InterContinental Frankfurt
+39219|Fleming's Frankfurt Main-Riverside
+39220|Tryp Düsseldorf Krefeld
+39221|Radisson Blu Hotel Halle-Merseburg
+39243|Mövenpick Berlin
+39244|Ibis Hamburg St. Pauli Messe
+39246|Novotel Karlsruhe City
+39248|NH Hirschberg Heidelberg
+39423|Goldener Anker
+39424|Vier Jahreszeiten
+39425|Helene Parkhotel
+39427|Spree Hotel Bautzen
+39428|Zum Weissen Ross
+39430|DORMERO Rotes Ross
+39432|Stadt Naumburg
+39433|artepuri meerSinn
+39434|Ringhotel ambiente Bad Wilsnack
+39435|Gerry Weber Sportpark Hotel
+39436|Posthotel Rotenburg
+39437|Dolce Bad Nauheim
+39438|Concordia
+39439|Bachmair Weißach
+39440|Schnitzer
+39525|Seelust
+39529|Ostseeresidenz Heringsdorf
+39530|Landhotel Schorssow
+39531|Boltenhagen Urlauberdorf
+39532|Edison
+39533|Villa Seefrieden
+39534|Residenz Seeufer
+39535|Müritz Park
+39569|Europa-Park Resort - Colosseo
+39635|Vier Jahreszeiten Zingst
+39643|Birke
+39644|Carstens Landhaus
+39645|Columbia Hotel Casino Travemünde
+39646|Wünschmann
+39647|Sylter Hahn
+39649|Rheinhotel Dreesen
+39650|Hirschen
+39651|Treschers Schwarzwald Romantikhotel
+39652|GreenLine Hotel Schloss Rattey
+39653|Schlosshotel Neetzow
+39715|HSH Serviced Appartements Mitte
+39716|Marriott
+39718|NH München Dornach
+39720|Deutsches Theater Stadtmitte
+39749|A&O Hostel am Zoo - geschlossen
+39750|InterCityHotel Hamburg-Hauptbahnhof
+39751|Hilton München Park
+39817|Familotel Friedrichs-Hof
+39883|Michels Kurhotel Germania
+39884|Ferien Hotel Bad Malente
+39885|Strandhotel Heringsdorf
+39886|Best Western Premier Castanea Resort - Hotel
+39887|Aselager Mühle
+39888|Einbecker Sonnenberg
+39889|Freizeit In
+39891|Best Western Brenner'scher Hof
+39892|Ringhotel Posthotel Usseln
+39894|Ringhotel Nassau Oranien
+39895|Waldhotel Schäferberg
+39897|Apollo
+39899|Rübezahl
+39911|Ostseehotel Waldschlösschen
+39912|Steigenberger Bad Homburg
+39913|Pfalzblick
+39924|Altes Brauhaus
+39925|Reichs-Küchenmeister
+39926|Krämer
+39927|Alago Cambs am See
+39930|Vitalis
+39960|Schloss Hubertushöhe
+39961|Christinenhof
+39962|Schloss/Land-gut-Hotel Schloss Rheinfels
+39963|Jodquellenhof Alpamare
+39969|Sheraton Düsseldorf Airport
+39970|Günnewig Residence
+39974|Novotel München City
+39975|Am Triller
+39976|Mercure Hotel Saarbruecken Sued
+39977|Victor's Residenz Saarbrücken
+40008|Sheraton Congress Frankfurt
+40009|Sheraton München Airport Hotel
+40010|Lindner Hotel & Residence Main Plaza
+40011|Radisson Blu Hotel, Dortmund
+40012|Hilton Düsseldorf
+40013|Hilton Nürnberg
+40014|Lindner Congress Hotel Frankfurt
+40015|Lindner Hotel BayArena
+40016|Lindner Hotel Am Ku'damm
+40017|Wyndham Duisburger Hof Hotel
+40019|Ramada Hamburg-Bergedorf
+40365|Atlanta Hotel International Leipzig
+40366|Seehof
+40390|Reke
+40391|Klüschenberg
+40392|Garni Eden
+40393|Weisses Schloss
+40394|Ostseehotel Villen im Park - Seeadler
+40395|Baltisches Haus
+40396|Hafenidyll
+40399|Am Markt
+40401|Amselhof
+40405|Sonnenhof
+40407|Seeblick
+40408|Dreiburgensee
+40414|Sonnenhof
+40415|Die Mittelburg
+40417|Neues Landhotel Vogelsberg
+40418|Resort Winterberg
+40512|Seeterrasse
+40524|Clipper Elb Lodge
+40525|Hanse Clipper Haus
+40526|Arcotel Velvet Berlin
+40527|Renaissance Bochum
+40533|Schloss Lüdersburg
+40539|Margarethenhof Golf
+41013|Lindenhof
+41077|InterCityHotel Düsseldorf
+41110|Regenbogen Camp Göhren
+41112|Regenbogen Camp Tecklenburg
+41146|Südwesthörn
+41147|Leuchtfeuer
+41148|Dreiklang
+41150|Familien Wellness Hotel Restaurant Seeklause
+41184|Alpen Sonne
+41185|Atlas Posthotel
+41383|Best Western Premier Victoria
+41388|City Partner Strauss
+41389|Ringhotel Wittelsbacher Höh
+41392|Oranien
+41393|Radisson Blu Schwarzer Bock Wiesbaden
+41395|Steigenberger Deidesheim
+41396|Novotel Mainz
+41398|Ebernburger Hof
+41399|Pinger & Old Inn Aparthotel
+41400|Parkhotel Bad Bertrich
+41401|Nicolay
+41402|Zum Kurfürsten Vital- & Wellnesshotel
+41404|Zum Edelacker
+41405|Goldener Löwe
+41406|Best Western Elbland - geschlossen
+41682|Freizeitdomizil
+41683|Flessenow Ferienanlage
+41686|Villa Daheim
+41687|Havelschloss
+41781|Center Hotel Alte Spinnerei
+41945|Ferienpark Rhein-Lahn
+42104|Avantgarde
+42105|Garmischer Hof
+42106|Rheinischer Hof
+42107|Zugspitze
+42112|Schlosshotel Kronberg
+42114|Burg Wernberg
+42116|Astor
+42117|The Westin Grand
+42118|National
+42119|Ibis Styles Frankfurt City
+42120|Best Western Domicil
+42121|Am Hopfensee
+42124|Schlosshotel Lisl
+42149|Centro Hotel Royal
+42161|Ascot-Bristol
+42162|Alemannenhof
+42163|pentahotel Rostock
+42297|Dormotel Europa Halle
+42312|Hotelissimo Hotel Haberstock
+46279|Mercure Regensburg
+46357|TOP CityLine Conrad-Hotel de Ville München
+46474|Via Claudia
+46476|Brunnenhof
+46478|Colombi
+46483|ACHAT Premium Schwarzheide/Spreewald
+46484|HK-Hotel Der Jägerhof
+46485|Wyndham Garden Düsseldorf Mettmann Hotel
+46486|Best Western Leverkusen
+46487|Ramada Hürth-Köln
+46488|Best Western Alzey
+46489|Ramada Bad Soden
+46490|Mercure Bensheim
+46491|Ramada Darmstadt
+46492|Ramada Frankfurt Airport West
+46493|Ramada Hockenheim
+46494|Ramada Lampertheim
+46495|Best Western LudwigshafenÂ 
+46496|Ramada Mannheim
+46499|pentahotel Wiesbaden
+46500|Courtyard Wiesbaden-Nordenstadt
+46514|Ramada Herzog Widukind Stade
+46515|Ramada Schwerin - geschlossen
+46517|Ramada Frankfurt Oder
+46589|arcona Mo.Hotel
+46816|The Ritz-Carlton Berlin
+47047|Nikko Düsseldorf
+47048|Holiday Inn Neuss-Düsseldorf
+47225|Leonardo Royal Hotel Frankfurt
+47303|Bayrischer Hof
+47304|Exzellenz Heidelberg
+47306|Holiday Inn Stuttgart
+47309|Savoy Frankfurt
+47351|NH Düsseldorf City Nord
+47659|Gerberhaus
+47778|Alpenland
+47779|Ferienwohnung Appartments Schneck
+47780|Köppeleck
+47923|Sporthotel Wilder Kaiser
+47926|Welcome Kongresshotel Bamberg
+48229|Steigenberger Parkhotel
+48258|Novum Business Hotel Madison Düsseldorf Hauptbahnhof
+48267|Breuer's Rüdesheimer Schloss
+48268|Schloss Elmau Luxury Spa & Cultural Hideaway
+48271|Caprice City Class
+48272|Hohenstaufen
+48275|Hilton Mainz
+48276|TOP Hotel Hammer
+48282|mD-Hotel Turmwirt
+48286|Hotel Eisenhut
+48287|Tilman Riemenschneider
+48288|Maritim Seehotel
+48290|Miramar
+48384|QGreenhotel by MeliÃ¡
+48385|Niederländischer Hof
+48386|Sofitel Bayerpost Munich
+48450|Yachthafenresidenz Hohe Düne
+48451|Centrovital
+48452|Vitalis Greetsiel
+48453|Sport- & Wellness Hotel laVital
+48455|Gartenhotel Heusser & Doggy Wellness
+48456|Urihof - Chalet & Spa
+48488|Pullman Cologne
+48497|Holiday Inn Berlin City West
+48499|carathotel Schwerin
+48500|Holiday Inn Express Dusseldorf - City North
+48501|NH Mannheim Viernheim
+48505|Tryp Kongresshotel Münster
+48536|Ferienpark Alpina
+48537|Falkenstein
+49841|Crowne Plaza Hannover Schweizerhof
+49842|Müller
+49843|Eden Wolff
+49844|Prinz
+49845|Schranne
+49846|Komplex carathotel Rheingau / hoteltraube Rüdesheim
+50122|Hirschgasse
+50123|Zum Ritter St. Georg Romantikhotel
+50236|König Ludwig
+50699|President Frankfurt
+50718|pentahotel Kassel
+50747|Leonardo Royal Hotel Mannheim
+50754|Luxor
+50812|Schloss Steinburg
+51159|Maritim Konferenzhotel
+51330|Gasthof Pension Prinzregent
+51336|Berliner Bär
+51442|Brennerbascht
+51525|Genusshotel Rathaushotels - Hotel am Kirchberg
+51650|Maritim Hannover Airport
+51756|Kranz Parkhotel
+51789|Stella Maris
+51790|Novotel Hamburg City Alster
+51791|Best Western Hansa
+51792|Ibis Styles Speyer
+51806|Germania
+51807|Merian
+51808|Monopol
+51844|Steigenberger Hotel Metropolitan
+51845|Sonne
+51846|Leonardo Hamburg-Stillhorn
+51847|Leonardo Hotel Mannheim City Center
+51848|Rothenburger Hof
+51963|Hirsch
+51964|Zur Linde
+52005|Leonardo Hotel München Arabellapark
+52115|Mainzer Hof
+52295|Stadthotel Viechtach - geschlossen
+52297|Mercure Hotel am Centro Oberhausen
+52298|The Lakeside Burghotel zu Strausberg
+52326|Holiday Inn Express Frankfurt - Messe
+52445|Van der Valk Spornitz
+52446|Best Western Köln
+52447|Residence Starnberger See
+52448|Hanseatischer Hof
+52473|Ostseehotel Villen im Park - Parkhotel / Arnika / Seeadler / Anemone / Silbermöwe
+52474|Elbotel Rostock
+52509|TOP Europe Senator
+52510|Meininger München City Center
+52511|Happy Bed Hostel
+52512|Novotel Frankfurt City
+52513|Le MÃ©ridien Stuttgart
+52549|Zur Alten Post
+52550|Arlau - Schleuse
+52551|Die kleine Sonne
+52552|Strauers Hotel am See
+52554|Villa Augusta & Villa Am Meer - Villa Augusta
+52555|GreenLine Landhotel Potsdam
+52558|Mercure Düsseldorf City Nord
+52559|Kunsthotel Residenz
+52560|Landidyll Baumwiese
+52564|Altes Haus
+52578|Erbprinz
+52586|Alexa Komfort-Kurhotel
+52588|Pollmanns Familienhotel
+52642|Zur Schönen Aussicht
+52730|Aparthotel Klassik Helgoland
+52732|Novum Hotel Lichtburg Berlin am Kurfürstendamm
+52733|Welcome Hotel & Freizeitpark Dorf Münsterland
+52746|Parkhotel Bad Brambach
+52752|Wilder Mann
+52753|Amadeus
+52754|GreenLine Landhotel Dresden
+52755|Schlosshotel Dresden-Pillnitz
+52756|Schlosshotel Himmelscheibe & Hotel Himmelsscheibe
+52758|Goldener Fasan
+52761|TRYP by Wyndham Halle
+52762|Parkhotel Unter den Linden
+52764|Best Western Stadt Merseburg
+52829|Pistono
+52830|Landhotel Kauzenberg
+52833|Am Kaiserbrunnen
+52834|Parkhotel Schweizerhaus
+52836|Friesenhof
+52838|Der Westerwald Treff
+52841|Hotel Lellmann
+52842|Anker
+52843|Hotel-Weinhaus Treis
+52846|Primula
+52850|Binderhäusl
+52851|Bärenstüberl & Nebenhaus
+52854|Luitpold am See
+52855|Landhaus Ertle
+52858|Beck
+52920|Sonnenhof
+52922|Waldhotel Weinböhla
+52927|Airport
+52934|Bliesbrück
+52942|Roger
+52944|Hotel Speyer Am Technik Museum
+52945|Regina Sankt Augustin
+52962|Waldhorn
+53037|Maxx Hotel Jena
+53038|Steigenberger Hotel Frankfurt-Langen
+53039|Steigenberger Airport Hotel
+53040|Hotel Fürstenhof
+53085|Best Mindeltal
+53086|Mercure Bad Duerkheim an den Salinen
+53115|Seeblick
+53121|Sarcon Marinapark Rheinsberg
+53122|Müggelsee Berlin
+53123|Hasseröder Ferienpark
+53139|Sportwelt
+53184|A&O Berlin Mitte
+53185|Ibis Berlin City Potsdamer Platz
+53186|Days Inn Berlin City South
+53219|balladins SUPERIOR Bad Bramstedt
+53223|Am Luisenplatz
+53231|Courtyard by Marriott Bochum Stadtpark
+53234|Leipzig West
+53235|GOLD INN Prinz Eugen
+53236|Nell's Park
+53237|NH Frankfurt Villa
+53238|Park Inn by Radisson München Ost
+53239|Prinzregent am Friedensengel
+53240|NH Frankfurt Niederrad
+53241|Ottheinrich
+53302|Romantik Hotel Bösehof
+53303|Aparthotel Kachelot
+53304|Zur Post Pension
+53305|Ferienresidenz Seestern
+53307|Wyndham Garden Bad Kissingen
+53308|Landhotel Rittersgrün
+53311|Vis Ã  vis
+53312|Berghotel Baader
+53313|Morada Hotel Bischofsmais
+53315|Hirsch
+53317|Müritz Strandhotel
+53320|Seewisch
+53321|Resort Schwielowsee & Seaside Garden
+53323|Schloßhotel Münchhausen
+53324|Gut Rothensiek
+53726|Renaissance Düsseldorf
+53727|Lindner Congress Hotel
+53730|Lindner Hotel Airport
+53733|Leonardo Hotel Wolfsburg City Center
+54411|Seminaris
+54413|Zum Rössle Gasthof
+54715|Mühlbach Thermal Spa & Romantik Hotel
+54716|InterContinental Resort Berchtesgaden
+54717|Kneipp-Kurhaus Bartholomäus
+54762|Holiday Inn Express München Messe
+54764|München Palace
+54766|pentahotel Berlin-Potsdam
+54767|Q! Casa Berlin
+54768|Am Terrassenufer
+54769|Centro Hotel Le Boutique
+54771|Günnewig Kommerz
+54772|Leonardo Royal Hotel Köln - Am Stadtwald
+54774|Leonardo Hotel Aachen
+54778|Holiday Inn Frankfurt Airport-North
+54780|Leonardo Mannheim Ladenburg
+54782|Continental Hotel
+54783|Crowne Plaza Wiesbaden
+54784|Ramada Frankfurt Messe
+54788|pentahotel Braunschweig
+55291|Frankenblick
+55292|Ringhotel Zum Stein
+55293|Wyndham Garden Quedlinburg Stadtschloss
+55294|TOP Hotel Residenz Am Festspielhaus
+55295|Sporthotel Landhaus Wacker
+55501|Hofgut Georgenthal
+55502|Kunzmann's
+55503|Flair & Kurhotel Am Thermalbad
+55504|Franziskaner
+55505|Am Schloß Ernestgrün
+55507|Ludwig Thoma
+55509|Mercure Panorama Freiburg
+55510|Sonnenhotel Raitelberg
+55556|Cocoon Stachus
+55564|Romantik Hotel Historischer Krug
+55565|Bayrisches Haus
+55566|Rüters Parkhotel
+55568|Schlosshotel Weyberhöfe
+55572|Ringhotel Antoniushof
+55665|GreenLine Hotel Selliner Hof
+55674|Seeschlösschen
+55703|Best Western MUC Airport
+55705|Novotel München Messe
+55726|Pullman Erfurt Am Dom
+55727|InterContinental
+55728|Holiday Inn Express Berlin City Centre
+55729|Maritim Berlin
+55807|Seesonne
+55808|Seehof
+55810|Rickmer's Insulaner
+55811|ATLANTIC SAIL City
+55812|Best Western Frisia
+55813|Hermes
+55814|Saller See - geschlossen
+55817|Seeschlösschen
+55818|Ostseehotel
+55819|Park-Hotel
+55821|Kleines Meer
+55822|Gut Voigtländer
+55823|Schloss Landsberg
+55827|Zur Post
+55829|Landgasthof Bayerwald
+55830|Alp Inn
+55831|Seehotel Leoni
+55832|City Hotel
+55834|Waldsägmühle
+55870|Villa Strandschloss
+55871|Aurelia Hotel St. Hubertus
+55872|Coralle
+55873|Best Western Hanse Kogge
+55875|Glückauf
+55886|Eisenberger Hof
+55892|Brauereigasthof Bürgerbräu
+55895|Vitalhotel Grüner Baum
+55977|Suite Novotel Berlin Potsdamer Platz
+56178|Dorint Airport Berlin Tegel
+56179|Savigny Hotel Frankfurt City Messe
+56180|balladins SUPERIOR Bremen
+56263|Best Western Premier Airporthotel Fontane Berlin
+56270|Come Inn Berlin Kurfürstendamm Opera
+56282|Herzog Wilhelm & Der Tannenbaum
+56284|Wallis
+56436|Zur Post
+56437|Uhu Köln
+56439|Star am Dom
+56441|The New Yorker
+56442|Am Hohenzollernplatz
+56444|Hotel Viktoria
+56445|Burgblick
+56578|Brack
+56579|Servatius
+56629|Euro Park Hennef
+56779|EuroHotel Günzburg
+56780|Bayerischer Hof
+56781|Kneipp-Kurhotel Emilie
+56783|Diana
+56784|GreenLine Schloss Auerstedt
+56787|Gutshof Penning Hartl Resort
+56881|ACHAT Plaza Frankfurt/Offenbach
+56883|ACHAT Comfort Köln/Monheim
+56884|ACHAT Premium Bochum
+56885|Alte Post
+56886|ACHAT Comfort Airport Frankfurt
+56887|Tryp Munich North
+56888|Franziskushöhe
+56893|Schmidt-Mönnikes
+56945|balladins SUPERIOR Offenburg
+56946|Best Western Plus Fellbach Stuttgart
+56948|Mainpromenade
+56950|Rheinhotel Nirstein
+56951|Zum Weißen Schwanen
+56955|Horizont
+56956|Arte Schwerin
+56978|Marienburger Bonotel
+56983|Mauritius mD-Komforthotel in der Altstadt
+57006|Kannenbäckerland
+57007|Zur Grünen Kutte
+57288|Gross
+57289|Chrysantihof
+57290|Romantik Gut Schmelmerhof
+57291|Bayerischer Hof
+57352|TOP Post Airport
+57356|Cascade
+57361|Burns Fair & More
+57363|Country Park - Hotel
+57433|Frauensteiner Hof
+57434|Oberland
+57491|HappyGoLuckyhotel
+57492|Berolina Airport
+57518|Best Western Wittekindshof Parkhotel
+57525|Chelsea
+57684|A&O Hostel Friedrichshain
+57792|SensCity Hotel Berlin Spandau
+57804|Gutshaus Stolpe
+57806|Falkenstein Grand Kempinski
+57808|Deidesheimer Hof
+58025|Zur Post Hotel & Gasthof
+58026|Elbresidenz Birkwitz
+58033|Am Rosenberg
+58040|Winters Hotel Offenbacher Hof
+58046|Mercure Hotel Schloss Neustadt-Glewe
+58059|Strandhotel Seestern
+58060|Badehaus Goor
+58085|Best Western Premier Krautkrämer
+58087|Kaiserhof
+58089|Göbel's Hotel Rodenberg
+58096|Mercure Stuttgart Sindelfingen Messe
+58209|Breitbach
+58283|Neuthor
+58284|Am Segelhafen
+58285|Kieler Kaufmann
+58286|Schempp
+58287|Romantikhotel Augsburger Hof
+58288|Best Western Parkhotel Ropeter
+58409|Global Inn
+58439|Holiday Inn Fulda
+58448|Alter Kaiser
+58508|Gasthof Hanselewirt
+58516|Center Hotel Main Franken
+58519|Arcadia Coburg
+58524|Pension Am Wassertor
+58528|Star Inn Hotel Regensburg Zentrum
+58529|Atrium Regensburg
+58540|Gästehaus Linsinger
+58578|NH Fürth Nürnberg
+58579|Novotel Nuernberg Messezentrum
+58581|TIPTOP Burghotel Stammhaus
+58582|Grandhotel Hessischer Hof
+58585|Falk
+58587|Mercure Hotel Frankfurt Eschborn Ost
+58588|Alexander am Zoo
+58598|Ringhotel Jensen
+58600|La Strada Grand Hotel
+58622|Kurfürstliches Amtshaus
+58633|Traube
+58638|Neue Post
+58642|Arnika
+58650|Landhotel Hütter
+58653|Quality Kieferneck
+58660|Residenz Waldkrone
+58661|Schloss am Meer
+58669|Ringhotel Hohe Wacht
+58730|Gasthof Fraundorfer
+58731|Staudacherhof
+58732|Wittelsbacher Hof
+58737|Romantikhotel Zur Sonne
+58815|Am Leuchtturm
+58818|Strandhotel Binz
+58821|Romantik & Wellness Hotel Achterdiek
+58823|Carolinenhof
+58884|Best Western Plus Ypsilon
+58885|Buchholz
+58888|Europäischer Hof
+58890|Cerano
+58893|Thai Royal
+58894|Coellner Hof
+58895|Esplanade
+58896|Central am Dom
+58897|Ascari
+58904|Schümann am Airport
+58908|Bee Fang
+58909|Suite Novotel Hamburg City
+58910|Ibis Hamburg Airport
+58912|Lumen am Hauptbahnhof
+58918|Inselhotel Potsdam
+58920|California am Kurfürstendamm
+58921|Waldrestaurant Müggelhort
+58922|Azur
+58923|Hotel Zoo Berlin
+58927|Quentin Berlin
+58928|Apartcity
+58930|Amary City Residence
+58932|Motel One Berlin-Ku'Damm
+58933|Leonardo Airport Berlin Brandenburg
+58935|Best Western Am Borsigturm
+58937|Brandies Berlin
+58939|Alt Tempelhof
+58943|City Hotel Ansbach
+58944|Comfort Weißensee
+58945|Adam
+58946|Sperlingshof
+58948|Q! Hotel Berlin
+58950|SensCity Hotel Albergo
+58985|Birkenhof
+59788|Relax & Wellnesshotel
+59789|Espenlaub
+59792|Residenz Oberhausen
+59793|Mercure Orbis München Süd
+59794|Best Western Seidlhof Landhotel
+59797|Admiral
+59798|Montree
+59799|City Partner Hotel ADRIA
+59800|Regent
+59801|Zum Kurfürst
+59802|Orly
+59806|H'Otello B'01
+59807|Regent
+59809|Exquisit
+59810|Italia
+59811|Seibels Park
+59813|Leonardo Hotel Munich City North
+59814|Mövenpick Airport
+59816|Novum Apartment Hotel am Ratsholz Leipzig
+59817|Tryp by Wyndham LeipzigÂ North
+59818|Best Western Windorf
+59822|Avalon
+59825|Andor Plaza
+59828|Stadt München
+59831|Karolinger
+59833|Mercure Dortmund City
+59835|balladins SUPERIOR Dortmund Airport
+59836|Hotel An der Oper
+59897|Schwarzwälder Hof
+59908|Frankenhöhe
+59924|Jammertal Golf & Spa-Resort
+59933|Ampervilla
+59978|Rittergut Nustrow
+60000|Gotisches Haus
+60001|Landhaus Wachtelhof
+60013|Ratskeller Thum
+60014|Holiday Inn Express Cologne Troisdorf
+60020|Landhaus Gardels
+60030|Schalchenhof
+60039|Feiler
+60040|Landhaus Hotel Waitz
+60049|Erholung
+60054|Landgasthof Karner
+60059|Ringhotel Sellhorn
+60062|Landhotel Laube
+60064|Ramada Stuttgart-Herrenberg
+60067|Waldschänke Hohenwarthe
+60071|Bayerischer Hof
+60093|Idingshof
+60109|Adler Häusern
+60111|Kult
+60112|Bielefelder Hof
+60113|Park Hotel Bilm
+60114|Mercure Hotel Stuttgart Boeblingen
+60116|Clarion Burghotel Blomberg
+60127|Parkhotel Rödermark
+60136|Ringhotel Landhaus Nicolai Lohmen
+60201|Kloster Hornbach
+60366|Oberwirt
+60370|Balance Alte Messe
+60407|Atlantic
+60412|Kurfürst
+60417|Alte Feuerwache
+60568|Rilano 24/7 Hotel München Schwabing
+60732|British Bed & Breakfast
+60767|City Hotel Dortmund
+60768|Holiday Inn Express Dortmund
+60878|Ambiente Dortmund
+60987|Ferienanlage Wandhoff/Gut Bundhorst
+60988|Ferienwohnungen Blaues Haus
+60989|Reetdachhäuser Krienke
+60991|Ferienanlage Schweriner See
+61047|Königshof
+61103|Breslauer Hof
+61128|Königshof
+61222|Prodomo
+61258|InterCityHotel Frankfurt-Airport
+61620|Van der Valk Berliner Ring
+61734|Aquis Grana City
+61744|Ibis Berlin City West
+61745|Mercure Airport Hotel Berlin Tegel
+61746|Mercure Hagen
+61747|Wyndham Hannover Atrium
+61748|Mercure Hannover Medical Park
+61779|Mardin
+61785|Fürstenberger Hof
+61805|Zur Igelstadt
+61873|Mövenpick Airport
+61877|Best Western Stuttgart-Winterbach
+61909|Innside by Melia München Parkstadt Schwabing
+61931|TOP Buschhausen
+62063|Carat
+62288|Bastion Düsseldorf/ Neuss
+62345|Victor's Residenz Berlin Tegel
+62420|Astoria am Kurfürstendamm
+62423|City Partner Villa Fiore
+62424|Sedes
+62491|Friedrichsruh
+62587|City Partner Sittardsberg
+62701|NH München Messe
+62734|Swissotel Düsseldorf Neuss
+62735|H4 Hotel Hannover Messe
+62771|NH Frankfurt Rhein-Main
+62864|City Partner Klein
+62963|Schloss Diedersdorf - Schlosshotel & Landgasthof
+63146|Heide-Park Holiday Camp
+63300|Eggers
+63302|Park Inn by Radisson Bielefeld
+63308|Radisson Blu Rostock
+63415|Derag Henriette
+63417|Auszeit
+63419|Radisson Blu Hotel Frankfurt
+63420|Mercure Hotel Hannover Oldenburger Allee
+63516|Waldhotel Roggosen
+63517|Göbelâ€™s Hotel Aquavita
+63716|Altstadthotel Arch
+63788|ATLANTIC an der Galopprennbahn
+63801|Sonnenhof
+63806|Schmaus
+63808|Weinforth
+63809|Hapimag Resort Winterberg
+63824|Golden Tulip Mecklenburger Hof
+63825|InterCityHotel Celle
+63875|Traube
+63886|Gud Höb
+63887|Haus Maaskap
+63888|Seeblick Spa Resort
+64038|Lindner Congress Hotel
+64039|Ibis München Parkstadt Schwabing
+64040|NH München am Ring
+64424|Villa Kastania
+64618|Kaiser Spa Zur Post
+64619|Ringhotel Köhlers Forsthaus
+64623|Johanniter-Kreuz
+64811|Fürstenhof
+64816|Schlosshotel Hugenpoet
+64817|Schreiberhof
+64862|Märkisches Tagungshotel
+64863|Best Western Hotel Schmöker-Hof
+64864|ACHAT Premium City
+64865|Pension Eberl
+64866|ACHAT Comfort Rüsselsheim
+64879|Park-Hill
+64984|Boulevard
+65093|pepb Schulungshotel
+65095|Landhaus Alpinia
+65100|Alpenhotel Sonneck
+65101|Sonnenbichl
+65104|Rupertus
+65105|Weßner Hof
+65107|Kains Hof
+65130|Novotel Berlin Am Tiergarten
+65133|Landhaus Anötzlehen
+65134|Hanauerlehen
+65139|Bayerwald
+65141|Bayernstern
+65147|Auerhahn am Rennsteig Kurhotel
+65151|Kongresshotel am Templiner See
+65152|Neuer Hennings Hof
+65169|Ibis Styles Berlin City Ost
+65172|Arcadia Schwaghof Bad Salzuflen
+65535|Radisson Blu Karlsruhe
+65853|Golden TulipÂ Frankfurt Offenbach
+66202|Wimmer Weißbräu
+66205|Sternsteinhof
+66230|Ringhotel Fährhaus
+66250|Bayerwaldhotel Hofbräuhaus
+66296|Hotel 103
+66297|Adler
+66381|Carat Kur- und Sporthotel
+68168|ACHAT Comfort Darmstadt/Griesheim
+68169|Berlin City Lounge
+68225|Emstaler Höhe Parkhotel
+68226|Arcadia Düsseldorf
+68227|Park Inn by Radisson Düsseldorf Süd Hotel
+68229|Am Bach
+68230|Parkhotel Schotten
+68233|Best Western Plaza
+68234|Best Western Scala
+68235|balladins SUPERIOR Braunschweig
+68237|Best Western Plus Palatin Kongress Hotel
+68238|Relexa Airport Düsseldorf - Ratingen
+68239|Relexa Ratingen City
+68240|Ameron Hotel Regent Köln
+68246|AZIMUT Hotel Erding
+68256|Kieler Hof
+68276|Landgasthof Simon
+68277|Vierseithof
+68278|Stadthotel Geis
+68288|WellVital Erika
+68345|Mercure Hotel Düsseldorf Kaarst
+68372|Mercure Hotel Kamen Unna
+68410|Park Inn by Radisson Munich Frankfurter Ring
+68498|Dreisonnenberg
+68500|Schwanen
+68645|City Hotel Bad Vilbel
+68717|Anker Garni
+68718|Zur Eldenburg
+68719|Stranddistel Garni
+68721|Ferienpark am Glubigsee
+68723|Am Schlossberg
+68734|Weisser Hof
+68736|A-ROSA Travemünde
+68748|Amadeus
+68753|Krone Gasthof
+68760|Horner Eiche
+68767|Ringhotel Voss
+68768|Eichenhain
+68769|Friedrich Franz Palais
+68770|Seeschlösschen Ayurveda & Naturresort
+68773|Calluna
+68775|Regenbogenland Zum Kramerwirt
+68794|Gasthof Freihof
+68851|Edelweiss
+68852|Bichlhof
+68857|Mainaublick
+68906|ACHAT Comfort Bretten
+68907|ACHAT Plaza Hamburg/Buchholz
+68908|Avantgarde
+68909|TOP CountryLine Roth am Strande
+68911|Steigenberger Hotel de Saxe
+68913|Kur- und Vitalhotel Königshof
+68914|Jagdhof
+68917|Zur Post
+68919|ACHAT Comfort Frankenthal
+68921|Santo
+68937|Reuterhof
+68960|Landhotel Marion
+68964|Airport Dresden
+68965|NH Nürnberg City
+68966|Rheinhotel Vier Jahreszeiten
+68967|Schiller 5
+68968|ACHAT Comfort Passau
+68969|Atrium
+69007|Linde
+69019|Bellevue
+69020|Bergseeblick
+69027|Schwarzwaldhof
+69148|Dolomit
+69149|Friends
+69150|Ringhotel Munte am Stadtwald
+69247|Sofitel Berlin Kurfürstendamm
+69248|Clipper City Home
+69249|Suite Novotel München Parkstadt Schwabing
+69250|President
+69251|Rappensberger
+69431|Friends
+69432|Al Vita
+69462|Steigenberger Strandhotel & Spa
+69463|Seelust
+69464|Zur Krone
+69466|Tryp by Wyndham Stadtoldendorf
+69469|Bel Air Forsthof
+69470|Oberwiesenhof
+69472|Ringhotel Bundschu
+69473|Hagnauer Hof
+69556|Reischberg
+69557|Quellenhof
+69558|Schüle's Gesundheitsresort & Spa
+69636|Bellamontis Hostel
+69653|Veranstaltung - Starlight Express
+69692|Veranstaltung - Stars in Concert
+69693|Maritim Dresden
+69694|Veranstaltung - Der König der Löwen
+69696|Marriott Köln
+69697|NH Ingolstadt
+69698|Fleming's München-Schwabing
+69708|mD-Hotel Johannisbad
+69710|Sporthotel Malchow
+69720|Best Western Premier Parkhotel Kronsberg
+69721|Best Western Der Föhrenhof
+69722|Best Western Hotel Am Drechselsgarten
+69723|Mondial am Dom Cologne
+69976|Upstalsboom Holiday Residenz
+69978|Haus 4 Jahreszeiten
+69984|arcona LIVING Goethe87
+69987|Schloß Triestewitz
+69988|Zumnorde Am Anger
+69991|Maritim Kurhaushotel
+69999|nestor Ludwigsburg
+70000|Alte Post
+70001|Best Western Premier Bayerischer Hof
+70002|Klostergasthof Roggenburg
+70041|Euro Park International
+70059|Kim Hotel Dresden
+70061|Sauerländer Hof
+70064|Zur Post Wellness und Sporthotel
+70187|Landhotel beim Has'n
+70376|Inselhotel Kröger
+70380|Schleimünde
+70383|Villa Subklew
+70384|Am Gothensee
+70387|Schmelmer Hof
+70388|Stoll's Sporthotel
+70712|Derag Hotel Kanzler
+70766|Batavia
+70809|Deutsche Eiche
+70810|Atrium Rheinhotel
+70811|Atrium Amadeus Osterfeld
+70883|TOP CityLine Panorama Harburg
+70887|Heidelberg
+70888|Christel
+70889|Landhaus Preißinger
+70890|Ferienidyll Maxhöhe
+70899|St. Lukas
+70967|Südseecamp
+70999|Forsthaus
+71091|Hanusel Hof
+71202|Leonardo Hotel Mönchengladbach
+71261|Hotel Hofwirt & Nebenhaus Eva Maria
+71356|Ostseehotel Baabe
+71358|Granitzeck
+71359|Gutshaus-Kajahn
+71360|Augustusbad
+71361|Landhaus Foresta
+71362|Morada Hotel Gothaer Hof
+71365|Ringhotel Nebelhornblick
+71366|Heckelmiller
+71471|Pension ABC
+71622|Villa Osada
+71724|An der Wasserburg
+71872|Mirage
+71878|Rheinhotel Vier Jahreszeiten
+71946|Zum Hirsch
+71960|KNAUS-Campingpark
+71961|KNAUS Campingpark Walkenried
+71963|KNAUS-Campingpark
+71965|KNAUS-Campingpark
+71966|KNAUS Campingpark Nürnberg
+71967|KNAUS-Campingpark
+71968|KNAUS Campingpark Viechtach
+71994|Wreecher Hof
+71995|Hotel Stadt Hamburg
+71996|Resort Mark Brandenburg
+71997|Am Sonnenbichl
+72022|Innside by Melia München Neue Messe
+72027|Berg-Hotel Hohegeiß
+72028|Lux 11 Berlin-Mitte
+72031|Radisson Blu Media Harbour Düsseldorf
+72033|Rocco Forte Villa Kennedy
+72038|Rivoli
+72062|Kühlungsblick
+72068|Strandhotel Ostseeblick
+72071|Am Grundlossee
+72073|Marinapark Scharmützelsee
+72135|baxpax Kreuzberg
+72183|baxpax Mitte Hostel Berlin
+72184|Waldschlösschen
+72185|Airport
+72186|A&O Hamburg Hammer Kirche
+72187|El Condor
+72188|Alt Nürnberg
+72189|Residenz Heidelberg
+72190|Wyndham Garden Kassel
+72447|Park Plaza Wallstreet
+72615|Mercure Mannheim am Rathaus
+73127|NH Erlangen
+73162|Am Schillerpark
+73166|Schloß-Hotel Petry
+73167|Roemer
+73281|Tropical Islands
+73300|Villa Thea Kurhotel am Rosengarten
+73338|Tryp by Wyndham Bremen Airport
+73340|Mercure Düsseldorf-Ratingen
+73341|Mercure Düsseldorf Airport
+73342|balladins SUPERIOR Frankfurt Airport
+73343|Mercure Hotel Frankfurt Airport
+73346|Best Western Hotel Rüsselsheim Frankfurt-Airport
+73347|Sheraton Frankfurt Airport Hotel & Conference Center
+73348|Leonardo Inn Airport Hotel Hamburg
+73350|Ibis Köln Airport
+73358|Regentpark Munich Airport
+73359|Arcadia München Airport
+73360|Marriott München Airport
+73361|Fuerther Hotel Mercure Nuernberg West
+73362|Quality Schwanen Stuttgart Airport/Messe
+73363|Best Western Stuttgart Airport-Messe
+73741|Hotel Kitzinger Hof
+73781|Park - Erlebnispark Tripsdrill
+73791|Park - Freizeit-Land Geiselwind
+73795|Park - Phantasialand
+73841|Derag Prinzessin Elisabeth
+73842|Derag Karl Theodor
+73843|Fjord Berlin
+73991|Gasthof zum Hirschen
+73993|SORAT Hotel Saxx Nürnberg
+73994|Burgschmiet
+73996|Gani Arnimsruh
+73997|Hirt
+73998|Meistertrunk
+73999|Pfauen garni
+74000|Steiger
+74001|Braunes Ross
+74002|Landhotel Weinrich
+74004|Landhotel Eibl
+74005|Rheinhotel Bellavista
+74006|Rheinhotel Rüdesheim am Rhein
+74008|Zum Fährmann - Hotel am Hochrhein
+74009|Zum Stemplinger Hansl
+74228|DORMERO Hannover
+74258|Albert-Schweizer-Haus
+74259|Buckmann
+74260|Burgblick
+74262|Hiltruper Hof
+74263|Stadt Pasing
+74264|Wasserspiel
+74265|TIPTOP Lebert Landhaus
+74266|Landhaus Michels
+74267|Bären
+74438|City Hotel Bremen
+74502|Brunner
+74503|mD-Hotel Schwan & Post
+74504|Residenz
+74506|Büscher
+74507|mD-Hotel Stadt Bremen
+74509|mD-Hotel Wilhelm von Nassau
+74510|Eurohof
+74511|Jagdhotel Rose
+74512|Berghotel Eisenach
+74514|Pius-Hof
+74515|Altstadthotel
+74516|Rabe's Hotel
+74517|Sonne
+74518|Forsthaus St. Hubertus
+74520|mD-Hotel Hauser
+74521|mD-Landhotel zum Böhm
+74522|Stratmann
+74523|Apollo
+74525|mD-Hotel Meerfräulein
+74526|Hirsch
+74527|Lamm
+74528|mD-Hotel Walfisch
+74561|Moosgrund
+74604|Comfort Frankfurt City Center
+74609|NH Stuttgart Sindelfingen
+74628|Aparthotel Aquantis Am Strand
+74629|Strandhotel Wietjes
+74630|Parkhotel am Südwäldchen
+74632|Forellenbach
+74704|Ramada Frankfurt City Centre
+74723|Abendstern
+74731|City Hotel München
+74762|Mercure Chateau Berlin am Kurfürstendamm
+74784|Novotel Düsseldorf City West (Seestern)
+74822|Europa
+74823|Astralis Domizil
+74825|Ringhotel Winzerhof
+74826|Dormotel Business Bruchsal
+74827|Best Western Victor's Residenz Frankenthal
+74828|TOP Hotel am Bruchsee
+74833|Best Western De Ville
+74836|Avalon Hotel Mayschoß
+74839|Scheid
+74840|Zur Mühle
+74842|Ambiente
+74845|Dorint Hotel Kaiserslautern
+74852|Coenen
+74853|Amadeo
+74860|Country Partner Waldhotel Wandlitz
+75013|TOP CountryLine Meerane
+75104|Rennsteig
+75109|Haus Arkona
+75115|Ostseehotel Dierhagen
+75123|Strengliner Mühle
+75124|Arcadeon Landhotel
+75126|Landsknecht
+75127|Flair Hotel Nieder
+75128|Ringhotel Lindenhof
+75131|Pfalzhotel Asselheim
+75132|Gutshof Ziegelhütte Hotel & Restaurant
+75133|Flair Weinstube Lochner
+75134|Flair Park Ilshofen
+75136|Jordanbad
+75140|Struck
+75142|Schröder
+75144|Landhaus Schellhorn
+75145|Pommernyacht
+75149|Forellenhof
+75156|Zum Rehberg
+75158|Falken
+75163|Alte Linde Wieling
+75164|Eurostrand Resort Lüneburger Heide
+75166|Riehmers Hofgarten
+75167|Am Tierpark
+75170|Schoch
+75172|Alt-Connewitz
+75173|Deutsches Haus
+75176|Frankenbrunnen
+75178|Eurostrand Resort Moseltal
+75179|Bergwirt
+75184|Kloster Hirsau
+75185|Flair Hotel Gruener Baum
+75186|Filderhotel
+75187|Waldhorn
+75189|Maselheimer Hof
+75196|Waldhotel Rheingau
+75198|Sarbacher
+75199|Tannenhof RelaxHotel
+75213|Kaiserhof Eisenach
+75221|Ibis Hotel Eisenach
+75287|Zur Post
+75337|Halbersbacher Airport Hotel Frankfurt
+75411|Bären
+75425|Sporthotel Schulenberg
+75445|Sporthotel Kirchmeier
+75731|SantÃ© Royale Hotel - & Gesundheitsresort Bad Brambach
+75743|Strandhotel Graal-Müritz
+75782|Moselterrasse Conzen
+75830|Zum Löwen Moselromantik-Hotel
+75846|NH Berlin City West
+75870|Appartementhaus Jahreszeiten
+75871|A&O City Hackerbrücke
+75892|Hotel am Solegarten
+75895|Rennsteighotel Herrnberger Hof
+75920|Kurbad Am Park
+75921|Kurbad Franziska Am See
+75925|Zur Pinge
+75926|Köhlerhütte-Fürstenbrunn
+75931|Kurhotel Sassnitz
+75966|Baxpax Downtown
+76117|Welcome Marburg
+76119|FFF City Hotel Leonardo Dresden
+76194|Ringhotel Villa Margarete
+76196|Schindelbruch
+76204|Veranstaltung - Tanz der Vampire
+76205|Melia Berlin
+76219|Winters Hotel Berlin Mitte - Am Checkpoint Charlie
+76237|Schweizer Hof Kassel
+76240|Quality Augsburg
+76254|Best Western Premier Park Consul Stuttgart/Esslingen
+76270|Mokni's Palais Hotels & Spa - Rossini & Badhotel
+76271|Lamm
+76284|Seehotel Töpferhaus
+76290|Best Western Donner's Hotel
+76311|Rocco Forte Hotel de Rome
+76373|Das Ahlbeck
+76375|Klosterpforte
+76386|Strandhotel Plau am See
+76460|Avalon Bad Reichenhall
+76518|Meininger Köln City Center
+76696|Bad Griepshop
+76916|Kronenhof
+76917|Neu Wirt Gelting
+77010|Am Burgholz
+77014|Altes Gymnasium
+77032|Upstalsboom Ferienwohnungen im Dünenschloss
+77060|Rex Appartementhaus
+77085|Mercure München Neuperlach Süd
+77086|Leonardo Hotel Köln
+77100|City Comfort Hotel Burghausen
+77216|Arcadia Schloss Goldschmieding Castrop-Rauxel
+77221|Innside by Melia Frankfurt Niederrad
+77239|Romantik Landschloss Fasanerie
+77414|Seminarhaus Bayern
+77428|Parkhotel Deutscher Hof
+77429|Campus Lounge
+77453|NH Frankfurt Airport
+77465|Arminius
+77499|Thermalis
+77501|Esperanto
+77510|Holiday Inn City Centre
+77512|Hilton Garden Inn Stuttgart NeckarPark
+77578|Waldesruh
+77579|Unterstein
+77580|Hochkopfhaus zum Auerhahn
+77581|Princess Romantic
+77678|Sentido Zugspitze Berghotel Hammersbach
+77883|Europa-Park Resort - Castillo Alcazar
+77890|Elbresidenz Bad Schandau
+77942|Ostseehotel Schlampmühle
+77971|Zum Bahnhof
+77972|Ferienpark Müritz
+77974|Zum Harzer Jodlermeister
+77976|Atrium Am Meer
+77978|Ameron Parkhotel Euskirchen
+77980|Heide Spa & Resort
+78018|Appartementhof Aichmühle
+78019|Sammareier Gutshof
+78021|Gutshof Sagmühle Hartl Resort
+78022|Rottaler Hof
+78076|Ferienpark Pelzkuhl Wesenberg
+78102|Die Boofe Hostel Dresden
+78113|Riso Schlotheim
+78439|Ellington
+78452|Ramada Bochum
+78456|Relexa Hotel Frankfurt/Main
+78457|Mövenpick Frankfurt City
+78460|QF Hotel Dresden - Quartier an der Frauenkirche
+78463|NH Stuttgart Airport
+78465|Tessin
+78469|Zum Bären Biohotel
+78543|Europa-Park Resort - Santa Isabel
+78605|Lindenhof
+78740|Panland Kurhotel
+78759|Zum Alten Senn & Appartementhaus Jagdhof
+78808|Ulrichshof
+78816|Dorfhotel Sylt
+78817|Strandgut Resort
+78820|TOP CountryLine Nordseehotel Freese
+78821|Spiekerooger Leidenschaft - Hotel Künstlerherberge / Hotel Spiekerooger Leidenschaft
+78835|Mövenpick Hamburg
+78849|Van der Valk Alpincenter Hamburg-Wittenburg
+78871|Fleming's München City
+78884|Mercure Aachen am Europaplatz
+78888|Kempinski Gravenbruch
+78899|Viva Broeckel
+78900|Familotel Averbeck
+78901|Wunderland Kalkar
+78902|Port Royal
+78905|Königslinie
+78906|Pinamar-Miramar
+78909|Seebrücke
+78911|Villa Sano
+78913|Residenz Am Ostufer
+78914|Seegarten
+78917|Panoramahotel Grobauer
+79086|Ibis Styles München Ost
+79087|Elb-Residence
+79088|Am Brandenburger Tor
+79090|Bi de Ley
+79092|Residence
+79093|Lexow
+79094|Am Jungfernstieg
+79095|Residenz
+79096|Speicher
+79098|Maritim Hafenhotel Rheinsberg
+79100|Niemeyers Romantik Posthotel
+79101|Heide-Kröpke
+79102|The Royal Inn Regent Gera
+79104|Rheinhotel Schulz
+79106|Seehotel Kell am See
+79107|Waldhotel Eisenberg
+79108|Sägmühle
+79109|Zum Ritter
+79110|Zum Alten Schloss
+79111|Goldner Stern & Sternla
+79113|Morada Kurhotel Unter den Linden
+79114|Sonnhof's Ferienresidenz
+79115|Landhotel Goldener Pflug
+79118|Wyndham Garden Donaueschingen
+79183|Ringhotel Heilbronn - geschlossen
+79252|Waldhotel Humboldt
+79253|Alter Gutshof Demern
+79254|Tannhäuser Hotel Rennsteigblick
+79412|Jakobsberg
+79463|Hartl's Lindenmühle
+79510|Dünenmeer
+79511|Schloss Wedendorf
+79712|GHOTEL hotel & living Hamburg
+79713|GHOTEL hotel & living München-Zentrum
+79796|Landhaus am Grün
+79801|pentahotel Gera
+79802|Helvetia
+79805|Hotel Therme Bad Teinach
+79807|Landhaus Hohenrodt
+79808|Ochsenwirtshof
+79809|Sonne
+79810|Mittermeier
+79812|Bad Hotel
+79813|Seehotel Litz
+79823|Parkhotel Maximilian
+79844|Adam-Bräu
+79845|Bodenmaiser Hof
+79870|Mercure München am Olympiapark
+79936|Schlossgut Gross Schwansee
+79937|Berghotel Astenkrone
+79943|Bad Schachen
+79950|Ringhotel Landhotel Böld
+79951|The Rilano Hamburg
+79953|The Mandala
+79961|Holiday Inn Express Baden-Baden
+79971|Days Inn Dessau
+79989|CVJM Düsseldorf
+79990|Alecsa Am Olympiastadion
+80116|Galerie Leipziger Hof
+80117|Ringhotel Loew's Merkur
+80167|Inselkieker
+80168|Strandhus
+80173|Margarethenhof
+80174|Gutshaus
+80176|Naturcamp Zu den zwei Birken
+80177|Altes Lotsenhaus
+80180|Villa Linde
+80181|Villa Eintracht
+80184|Feriendorf Alte Schmiede
+80186|Eldepark
+80188|Schwarzer See
+80189|Am Weinberg
+80192|Hotel zum Walde
+80195|Alp Chalets
+80206|Fortuna Reutlingen Tübingen
+80208|Christopherhof
+80215|Sonnbichl
+80217|HEP Berlin
+80221|Stadt Cuxhaven
+80226|Mercure Greifswald Am Gorzberg
+80235|Landhaus Höpen
+80448|Residenz Pforzheim
+80449|Haus Duden Wesel
+80546|Balneolum
+80555|Summerhof
+80559|Mercure Halle Leipzig
+80560|Sachsenpark-Hotel
+80593|Dorint Hotel Frankfurt Niederrad
+80597|Ibis Styles Leipzig
+80598|Mercure München Airport Aufkirchen
+80661|Zehntscheune
+80662|Trend Hotel
+80734|Brückenkopf
+80784|Holsteinische Schweiz
+80839|Phönix
+80840|Füssinger Hof
+80841|Hotel Ursula
+80842|Zur Mühle
+80858|Griesbacher Hof
+81240|Mercure Kaiserhof Frankfurt City Center
+81247|Union
+81249|Seeblick
+81279|Dorint am Nürburgring
+81283|Alte Thorschenke
+81286|Sporthotel am Stadtpark
+81292|Pullman Dortmund
+81497|Parkhotel Olsberg
+81498|Brixiade & Triton
+81499|Hotel Weinhaus Fuhrmann
+81506|Callas Am Dom
+81508|Stachus
+81749|Quality am Tierpark
+81750|Best Western Parkhotel Krone
+81751|Best Western Rosenau
+81760|Comfort am Medienpark
+81762|Comfort München Ost
+81885|GreenLine Landhaus Geliti
+81964|EntrÃ©e Glinde
+81965|H+ Solingen City Centre B&B
+81997|Best Western Parkhotel Leiss
+81999|Schloß Döttingen
+82003|Laupheimer Hof
+82004|Seehotel Adler
+82005|Heuherberge Elbetourist
+82021|Wersetürm'ken
+82024|Haus Amberger
+82031|Waldhotel Rügen
+82032|NaturKultur Hotel Stumpf
+82065|Elbe
+82066|Djaran
+82197|Familotel Family Club Harz
+82198|Familotel Sonnenpark
+82201|Familotel Schreinerhof
+82202|Familotel Zum Steinbauer
+82205|Appartement-Hotel Seespitz
+82400|CityBlick
+82450|Helnan Hotel Reinstorf
+82457|Gasthof Hillig
+82461|Vitalhotel Am Stadtpark
+82465|Haus Yoga Vidya
+82507|Gasthaus & Hotel Zur Henne
+82548|Best Western Frankfurt Airport
+82549|NOVINA Hotel Herzogenaurach
+82569|Parkhotel Ahrensburg
+82571|INNdependence
+82576|Nordischer Hof
+82577|Bavaria
+82636|balladins Superior Hotel Peine
+82648|balladins SUPERIOR Köln Airport
+82665|Schloss Neuhardenberg
+82705|Mercure Wings Frankfurt Airport
+82727|Monaco
+82728|Leonardo City West
+82733|Cosmopolitan
+82734|Mercure München Altstadt
+82753|Ibis Kassel Melsungen
+82787|City-Herberge Dresden
+82834|Ferienpark Min Herzing
+82847|Best Western Prisma
+82848|TOP CountryLine Seebad Casino
+82849|Seehof Berlin
+82850|Axxon Brandenburg
+82852|Lippischer Hof Altstadt-Palais
+82853|Welcome Lippstadt
+82854|Krone Assmannshausen
+82858|Parkhotel Sächsisches Haus
+82860|Jagdhaus Wiese
+82862|JUFA Sporthotel Wangen
+82863|Kneippianum
+82865|Das Kranzbach
+82866|Arcadia Landsberg
+82868|Sonneck
+82875|Best Western Jena
+82876|Alpensonne
+82880|Hotel im GVZ
+82882|Ringhotel Alpenhof
+82883|Adler
+82884|Best Western am Münster
+82890|Wyndham Stuttgart Airport Messe
+82917|Landhotel Pyratal
+83283|Olivaer Apart am Kurfürstendamm
+83616|Comfort Frankfurt Karben
+83658|Acora Düsseldorf
+83696|Mercure Hannover Mitte
+83741|Best Western Premier Park Consul Köln
+83779|Räter Park Hotel
+83880|Little Paris Hotel
+84411|Lenz
+84413|City Partner Parkhotel Am Posthof
+84414|Hessen Hotelpark Hohenroda
+84420|City Partner Alarun
+84421|City Kaiserhof
+84423|Conference Partner Park Soltau
+84483|Concorde Am Leineschloss
+85071|Helenenquelle
+85072|Fachklinikum Sachsenhof
+85073|Fröbelhof
+85075|Kurhotel Bad Suderode
+85077|Ostseewoge
+85261|Galerie Design Bonn
+85402|Waldhotel Soodener Hof
+85500|Gästehaus Spieker
+85501|Quality Vital zum Stern
+85502|Kursana Residenz & Seniorenhotel
+85507|Am Kurpark
+85508|Am Park
+85511|Meschenmoser
+85519|Wehrburg
+85520|Seelust
+85529|Haus Greifenstein
+85541|Matinee
+85542|Zur Amtsheide
+85543|Ilmenautal
+85544|Parkhotel Bad Bevensen
+85549|Haus Ammerland
+85555|Naturkost-Hotel Harz
+85563|Kurpark Hotel
+85568|Pension Sonnenheim
+85569|Alte Villa Schlossblick
+85570|Römerschanze
+85576|Park-Hotel
+85577|Zur Mühle
+85581|Kurhaus Klement
+85583|Landkomfort Hotel Elsenmann
+85584|Fürst von Waldeck
+85595|Parkhotel Wehner
+85597|Villa Am Park
+85598|Hotelanlage Spessart
+85599|Westpark Hotel
+85601|Privat-Hotel Promenade
+85602|Modena
+85603|Hotel garni Alpenblick
+85604|Haus Reichert
+85605|Krähenbad
+85607|Hirsch
+85608|Nora
+85609|Ott
+85612|Schweizer Hof
+85613|Zur Post
+85616|Wittelsbacher Hof
+85621|Quality Hof
+85622|Landhotel Wasgau
+85645|Parkblick Aparthotel
+85646|Zum Zeppelin
+85665|Best Western Hotel Nürnberg am Hauptbahnhof
+85683|Vornbach am Inn
+85756|Tryp Düsseldorf Airport
+85820|Altenburger Hof
+85826|Haffidyll
+85827|Am Alten Strom
+85828|Nordkap
+85829|Tagungs- & Wellnesshotel Töwerland
+85835|Marschall Duroc
+85881|Am Schloßpark
+85882|Residenz Bad Windsheim
+85886|Strandhotel Fernsicht
+85909|A&O City Hauptbahnhof
+85910|AZIMUT Hotel Berlin City South
+86007|Pyramide
+86060|Berghof
+86061|Landhotel Alt-Jocketa
+86081|Eskeshof
+86086|Nordic Hotel Dänischer Hof
+86097|NH Berlin Kurfürstendamm
+86106|Gasthaus Rogge
+86108|Wedina
+86109|Heidelberg
+86114|Leonardo Boutique
+86116|Alfa
+86117|Zur Erholung
+86119|Markgräfler Hof
+86120|Am Sonnenhang
+86135|Albert
+86173|Ammerland
+86198|Zum Alten Rathaus
+86205|Comfor Frauenstrasse
+86208|Apart Hotel Gera
+86214|Parkhotel Pretzsch
+86226|Heil
+86266|Haus Waldesruh
+86268|Grüner Baum
+86269|Christinenhof
+86284|Hotel Juwel
+86287|Kurzentrum Weissenstadt am See
+86350|Best Western Berlin Mitte
+86534|Comfort Lüneburg
+86560|Best Western Plus Hotel Erb
+86575|Hotel & Gasthof "Zum Goldenen Hirsch"
+86588|Landhotel Betz
+86659|Seehotel Zur Münz
+86678|Haus Gabriele
+86681|Erika Gästehaus
+86687|Bergstüberl
+86689|Parkhotel
+86690|Bellevue Garni
+86691|Vier Jahreszeiten
+86694|Berggaststätte Götschenalm
+86698|Kulturhotel Kaiserhof
+86701|Posthotel Hofherr
+86704|GreenLine Hotel Holst
+86707|Best Western Quintessenz Forum
+86713|Rotgiesserhaus
+86721|Grüner Hotel Cafe
+86725|Casa Familia / Naturfreundehaus Usedom
+86727|Noris Nürnberg
+86729|Best Western Hotel Heide
+86740|Birken
+86744|Ottilie
+86747|Augusta
+86751|Seifert Pension
+86752|Hotel Tiergarten Berlin Mitte
+86760|Townhouse
+86761|Stadt Freiburg
+86765|Loccumer Hof
+86767|Eden Hotel Früh am Dom
+86862|Days Inn Kassel Hessenland
+86976|Motel One Frankfurt-Airport
+86977|A&O Hamburg Hauptbahnhof
+86981|Collegium Leoninum
+86982|Villa Esplanade
+86983|A&O München Hauptbahnhof
+86991|Quentin Design
+87011|Best Western Plus Hotel Excelsior
+87029|Vier Jahreszeiten
+87032|Tannenhof
+87034|Spreewald Inn
+87104|GHOTEL hotel & living Hannover
+87106|Minerva
+87107|Stella Hotel - geschlossen
+87113|Zum Gründle
+87136|Erblehngericht
+87137|Am Jakobsmarkt
+87217|Achtermann
+87219|Alpenglück
+87336|Courtyard by Marriott Berlin City Center
+87353|Rocco Forte The Charles
+87382|Empire Riverside
+87657|Concorde
+87822|Niederrader Hof
+88074|Best Western City Braunschweig
+88093|City Partner Suite
+88095|City Partner Augusta
+88115|Kolumbus
+88116|Flair Hotel Deutsches Haus
+89165|City Apart
+89303|Congress Hotel am Stadtpark
+89409|Brenner Hotel Diekmann
+89488|City Hotel West
+89489|City Hotel Mercator
+90022|Mercure Stuttgart-Gerlingen
+90034|Wald Hotel Willingen
+90040|Sonnenbichl, Hotel am Rotfischbach
+90058|Centro Hotel Ayun
+90079|Arcotel Rubin Hamburg
+90082|Haubers Gutshof
+90083|Edelweiss
+90176|An der Stadthalle
+90197|Seaside Residenz Hotel
+90199|Victor's Residenz Berlin
+90201|Courtyard City Center
+90265|Courtyard Hamburg Airport
+90292|Louisa's Place
+90294|Altstadthotel Arte
+90296|Tryp by Wyndham Kassel City Centre
+90297|Arcadia Heidelberg
+90503|Klinik am Haussee
+90670|Bayerischer Hof
+90848|Appartementhaus Thermenhof
+90891|Van der Valk Melle-Osnabrück
+90894|Kurhotel Fürstenhof
+90896|Tuchmacher
+90907|Gasthof Kienberg
+90914|Flora
+90915|Rosenburg
+90981|Mercure Berlin City West
+91260|Englischer Hof
+91406|CerÃªs, Am Meer
+91407|Seesteg
+91441|Pension Am Goethepark
+91443|Rehabilitations- und Präventionszentrum
+91444|Asklepios Burgseekliniken - Parkklinik
+91445|Klinik Malchower See
+91456|Seeresidenz Klink Lifestyle Appartements
+91458|Residenz
+91459|Kaiserhof
+91696|TOMESA Gesundheitszentrum
+91749|Best Western Nordic Hotel Lübecker Hof
+91763|Savigny
+91766|Best Western Plus Steglitz International
+91910|Ross
+91954|Mercure
+92008|Hof Beverland
+92010|Welcome Paderborn
+92039|Landhotel Allgäuer Hof
+92045|Seeschlößchen
+92051|Aqua Line
+92053|Senator Kur- und Pflegehotel
+92055|Kur- und Sporthotel Alter Römer
+92081|Avia
+92098|Füllhorn
+92124|Bayernpark Ruhpolding
+92125|Haus Zauner
+92128|Bayerwald Pension
+92163|Schlosshotel Fürstlich Drehna
+92197|WEST Hotel an der sächsischen Weinstraße
+92199|Schlossberghotel
+92397|Ringhotel Stempferhof
+92399|Dorf Wangerland
+92408|Deichgraf Strandhotel
+92411|Nymphe Strandhotel & Apartments
+92418|Seeresidenz Gesundbrunn
+92422|Schwanen
+92424|Valsana am Kurpark
+92433|Best Western Am Vital-Park
+92435|Staufner Hof
+92464|Ebner
+92726|GreenLine Schützenhof Jever
+92734|Dorint Frankfurt am Main Taunus Zentrum
+92790|Leonardo Freital
+92791|ArcotelÂ Camino Stuttgart
+92794|Luther Wittenberg
+92796|Tulip Inn Düsseldorf Arena
+92909|Ibis Kassel
+92919|Best Western Am Schloss Köpenick
+92920|Lindner Hotel Am Michel
+92921|Polo Novum Hamburg Zentrum
+92922|Acora Bonn
+92923|Best Western Domicil
+92929|Aparthotel Neumarkt by Aparthotels An der Frauenkirche
+93000|Ibis Köln Messe
+93013|Terra Nova
+93018|Zum Bürgergarten
+93020|Schlossblick
+93021|Altora
+93028|Landhotel Berghof
+93051|Bergmühle
+93055|Landal Travemünde
+93208|Lindenhotel
+93224|InterCityHotel Dresden
+93229|Wyndham Garden Gummersbach
+93231|TOP Hotel Esplanade
+93234|artFabrik
+93298|Meerlust
+93299|Iberotel Boltenhagen
+93437|Günnewig Bristol Mainz
+93444|Gutshof Uttlau Hartl Resort
+93445|Gutshof Brunnwies Hartl Resort
+93477|Everest
+93925|V.I.P.
+94578|Best Western Rastatt
+94656|Holiday Inn Frankfurt Airport Neu Isenburg
+95009|Sir & Lady Astor
+95034|Adina Apartment Hotel Berlin Checkpoint Charlie
+95056|Ibis Rostock am Stadthafen
+95068|Nordsee-Resort Friesland
+95070|Adler Leipzig
+95072|Urlaubsräume Am Meer
+95073|Strandpark
+95083|Bensemann
+95086|Domstern
+95090|Hafen Büsum
+95091|Der Romantik-Hof Greetsiel
+95093|Seedomizil
+95094|Halbersbacher Hotel Prinzenpalais Bad Doberan
+95097|Schlosspark Bad Saarow
+95100|TUI best FAMILY Dorfhotel Boltenhagen
+95106|Haus Schiefertal
+95107|GreenLine Landhotel Im Fläming
+95110|Serengeti Safari Lodge
+95112|Hotel Schäferhof
+95113|Rosstrappe
+95115|Haus Sonnwies
+95116|Haus Lofertal
+95117|Welcome Darmstadt
+95120|Der Bayerische Hof
+95123|Seepark Auenhain
+95129|Aying Brauereigasthof
+95130|Sonnenhof
+95131|Drexel's Parkhotel
+95173|Villa Konstanz
+95175|Domus Hotel Berlin Ku'Damm
+95177|Rheingold
+95329|Artim
+95332|Sachsenhof
+95337|Amaryl
+95340|Atlanta
+95345|Rewari Hotel
+95367|Hotel 38
+95368|Adele
+95373|Jurine
+95374|Alex
+95375|Augusta
+95377|Flowers Boarding House
+95436|Königshof
+95437|Haus Rehwinkel
+95439|Bergknappenhof
+95446|Waldblick
+95450|Pension Anke
+95456|Landhaus Korte
+95462|Haus Iris
+95465|Haus Mariele
+95469|Lenerls Gästehaus
+95471|Landhaus Meine Auszeit
+95472|Haus Eleonore
+95475|Landhaus Paul-a
+95477|Pension Jägerheim
+95495|Meininger City Hostel - Prenzlauer Berg
+95541|Residenz Am Deutschen Theater
+95543|MIDI Inn - Parkhotel Berlin
+95545|Amelie Berlin West
+95558|Monbijou
+95559|Air in Berlin
+95590|Landhaus Reiher
+95592|Etzhorner Krug
+95593|Haverkamp
+95595|Best Western Plus St. Raphael
+95598|Diekseehöh
+95603|Residenz Ostseestrand
+95607|Nautilus
+95608|De witten Hüs
+95609|Kojenhus
+95612|In der Grünen Zitadelle
+95614|Zum Schaumburger Ritter
+95615|GreenLine Waldhotel Forsthaus Dröschkau
+95617|Das MutterHaus & Tagungszentrum
+95621|Ferien- und Golfresort Cochem
+95626|Ochsenwirt
+95627|Seegarten
+95635|Bayernpark Lindenberg
+95638|Landhaus Hubert's Hüs
+95639|Grandhotel Römerbad
+95645|Art Nouveau
+95646|Pension Elegia
+95649|Alexandra
+95778|advena Hotel Hohenzollern
+95789|Pension Haus Leutner
+95825|Gästehaus am Schlosspark
+95832|Gästehaus am Goldberg
+95834|Gasthof Sonnenbichl
+96025|Landhotel Haus zur Sonne
+96049|Alper Am Potsdamer Platz
+96055|Art' Appart Kempinski Plaza
+96056|Mondial
+96060|Comenius
+96061|Pension Dittberner
+96063|Majestic
+96064|Elba
+96074|Ibis Styles Berlin Alexanderplatz
+96081|Otto
+96083|Arktur City
+96085|AI Königshof
+96086|Spreewitz
+96090|Charlottenburger Hof
+96101|Comfort Auberge
+96103|Hotel-Pension Castell
+96118|Haus Talblick
+96228|Gästehaus Kollmaier
+96229|Gästehaus Helga
+96232|Pension Bayerwald
+96503|Haus am Berg
+96522|Burg Wanzleben
+96554|GreenLine Hotel Ascona
+96603|Regenbogen
+96667|Wald- & Schlosshotel Friedrichsruhe
+96683|Pension Gästehaus Ismair
+96686|Dolce Vita
+96687|Haus Carola
+96694|Gästehaus Rainer
+96802|Cristal
+96887|Best Western City Ost
+96895|Gasthof Inzeller Hof
+96995|Ringhotel Theophano
+96996|Ebertor
+96998|Stryckhaus
+96999|Villa Marburg im Park
+97052|Alpengasthof Seegatterl
+97262|Reiterhof an der Talsperre
+97347|Landhaus Lengg und Haus am Kurpark
+97455|Wikingerhof
+97456|Johann Tullius Weingut
+97750|Richterhof
+97795|Best Western Wein- und Parkhotel
+97847|Wartburg Winterberg
+97848|Zur Post
+97857|Bio-Hotel Miramar
+97862|Zum Schildhauer Landgasthof
+97877|GreenLine Landhotel Henkenhof
+97892|Mirage
+97894|Victor's Residenz Gummersbach
+97912|Höhn
+98093|Landhaus Florian
+98095|Haus Manuela
+98098|Pension Strohmeier
+98099|Haus Maria
+98100|Schnitzbauer
+98101|Haus Weinberger
+98132|Schmied von Kochel
+98133|Gästehaus Saller
+98140|Haus Alhambra
+98146|Wyndham Mannheim Hotel
+98165|Neptun
+98166|Villa Möve
+98183|Mariandl
+98186|freiRaum stattHotel
+98189|Mercure Bristol Stuttgart Sindelfingen
+98190|Am Wasser
+98191|Haus Hubertus
+98820|Zur Tanne
+99245|Ringhotel Residenz
+99339|Am Hafen
+99340|Villa Gropius
+99634|Scholz
+99636|Landgasthof Herrendeich
+99646|Wulff
+99655|Birkenhof
+99658|Atrium
+99659|Schnepple
+99664|Alpina
+99670|VCH Am Kurpark
+99691|Ringhotel Altstadt
+99874|LEGOLANDÂ® Deutschland - LEGOLANDÂ® Feriendorf
+99948|Best Western Dasing Augsburg
+99975|St. Annen
+100004|King's First Class
+100057|Steimker Hof
+100063|Grotthamer Hof
+100065|Waldhotel Zollernblick
+100083|Alte Innbrücke
+100275|Innside Premium Düsseldorf Derendorf
+100277|Domblick garni
+100278|Godorfer Mühle
+100279|Rheingold
+100389|Stadt Hameln
+100390|Van der Valk Golfhotel Serrahn
+100391|Schloss Hohenfeld Parkhotel
+100394|Best Western Plus Konrad Zuse
+100395|Die Sonne Frankenberg
+100399|Fährkrug
+100415|Sonnengarten
+100571|Herzog Georg
+100580|Haus Hufeland
+100698|Schloss Passow
+100713|Bio/Sportpensionpension Adam
+100722|Benn
+100723|Am Kurpark
+100738|Gnacke
+100774|Baccara
+100776|Jugendherberge Köln-Riehl
+100803|Waldhotel Marienhöhe
+100804|Menschels Vitalresort
+100929|Boston
+100934|Holiday Inn Express Berlin City Centre-West
+100976|Central Wesseling
+101142|Airporthotel Berlin-Adlershof
+102282|Reichskrone
+102337|Country Partner Alpenrose
+102475|Hambergers Posthotel
+102485|Arcadia Play Off Braunschweig
+102524|Diana
+102540|Rodebachmühle
+102546|Dorfclub Bodenmais
+102578|Wyndham Garden Berlin Mitte
+102584|Matamba Erlebnishotel
+102588|Alpenhof
+102589|Viktoria
+102590|Hirsch Alpengasthof
+102591|Tanneck
+102592|Columbia Hotel Wilhelmshaven
+102710|Hesse
+102711|Grünau
+102712|Villa Weltemühle
+102713|Sophien
+102770|Hochsauerland 2010
+102800|Park Inn by Radisson Heppenheim Hotel
+102806|Suite Novotel Hannover
+102826|Lindengarten
+102872|add on Kolpinghotel
+102873|Park Inn by Radisson Nürnberg
+102913|Alpenhotel Krone
+102918|Landhotel Lindenhöhe
+102928|AMEDIA Express Passau
+102929|Rammersweier Hof
+102956|Carea Residenz Harzhöhe
+102959|Windsor
+103009|Holiday Inn Express Airport
+103014|GHOTEL München-Nymphenburg
+103127|Post
+103168|Breidenbacher Hof
+103173|Maximilian
+103195|Waldhotel am Aschergraben
+103196|Upländer Hof
+103403|H+ München City Centre B&B
+103558|Ibis Hotel Erfurt Ost
+103559|JFM
+103562|The George
+103584|Eden am Park
+103590|Leonardo City Center
+103591|Ferien Hotel Lewitz Mühle
+103596|Best Western Crown
+103597|Dorint Parkhotel Mönchengladbach
+103606|angelo Munich Leuchtenbergring
+103641|Mercure Schweinfurt Maininsel
+103691|City 54 Hostel & Hotel Berlin
+103701|Best Western Am Spittelmarkt
+103744|Cafe Hochstadt
+103746|Am Schloß Klink Gutshaus
+103849|ACHAT Premium Airport Hannover
+103850|Acora Karlsruhe
+103860|Adler
+103864|Admiral
+103868|advena Europa Hotel
+103870|Parkhotel Leipzig West
+103885|Airport Fashion
+103892|Borchers
+103987|Am Mühlenteich
+103989|Am Spichernplatz
+103992|Am Vogelsanger Weg
+104008|AMBER Chemnitz Park
+104009|AMBER Hilden/Düsseldorf
+104010|AMBER Leonberg/Stuttgart
+104021|An der Klosterpforte
+104022|an der Messe
+104023|An der Philarmonie
+104157|Arosa
+104160|Art' Appart Berlin Suiten
+104170|Hotel Like Apart
+104211|Dampfmühle
+104215|carathotel Basel
+104216|Atrium Berlin
+104217|Atrium Mainz
+104330|Bauer
+104334|Bawelsberger Hof
+104344|Becksteiner Rebenhof
+104386|Belle Blue
+104506|AMEDIA Zwickau
+104521|Best Western Alte Mühle
+104525|Best Western Am Schlosspark
+104530|Best Western Hotel Ambassador
+104562|Best Western Atrium
+104563|Arona Atrium
+104613|Nordic Frankfurt-Offenbach
+104776|Best Western Frankfurt Maintal
+104912|Best Western Helmstedt
+104933|Novum Business Imperial Frankfurt Messe
+105031|Best Western Macrander Frankfurt/Kaiserlei
+105037|BEST WESTERN Hotel Düsseldorf City
+105111|Best Western Oldentruper Hof
+105133|Best Western Park Engelsburg
+105134|Best Western Plus Hotel Darmstadt
+105159|Best Western Premier Arosa Hotel
+105179|Best Western Premier Villa Stokkum
+105189|Best Western Parkhotel Velbert
+105195|Best Western Regence
+105210|Tulip Inn Roadhouse Kirchheim
+105284|Best Western Steinsgarten
+105286|Best Western Premier Steubenhof
+105380|Best Western Victor's Residenz Rodenhof
+105399|Best Western Wetzlar
+105636|Carlton
+105884|City Ost am Kö
+105891|City Partner Servicehotel Gewürzmühle
+105934|Clarion Hirschen
+105953|Classik Magdeburg
+105988|Comfort Am Kurpark
+106334|Comfort Andi München City Center
+106395|Concorde Ascot
+106410|Hotel Ullrich
+106436|Corbin
+106482|Courtyard Düsseldorf Hafen
+106502|Crown
+106704|Design Wienecke XI.
+106744|Avalon Domicil Rüsselsheim
+106757|Novotel Aachen City
+106760|Dorint Hotel Kongresshalle Neuss
+106762|Dorint Airport München / Freising
+106844|Eden
+106920|Europa Life
+107075|Fidelio
+107126|Fleming's Frankfurt-Messe
+107129|Flora Stuttgart-Möhringen
+107168|Friederike
+107176|Novum Hotel Maxim Düsseldorf City
+107181|Senator
+107191|Galleria
+107204|Garten Luisental
+107265|Golden Leaf Perlach Allee Hof
+107296|HK-Hotel Düsseldorf City
+107310|Golden Tulip Olymp
+107535|Heidenschanze
+107586|Hirsch Gehrung
+107589|Historisches Herrenkrug Parkhotel
+107707|Leonardo Heidelberg-Walldorf
+107825|Holiday Inn München-Unterhaching
+107928|Hotel-Pension Spree
+107985|Ibis Lübeck
+108107|Jedermann
+108160|Kempe Komfort Düsseldorf
+108161|Kempe Komfort Plus
+108169|City Hotel Frankfurt
+108206|Koeniger
+108207|Kolping Stadthotel Münster
+108210|Königshof am Funkturm
+108319|Laimer Hof München
+108335|Klingerhof
+108336|Landsknecht
+108483|Lessing Düsseldorf
+108637|Maritim Rhein-Main
+108697|VCH Martha Hospiz Dresden
+108720|Median
+108754|Mercure Am Entenfang Hannover
+108755|Mercure am Franziskaner
+108777|Mercure Bad Homburg Friedrichsdorf
+108778|Mercure Bad Oeynhausen City
+108787|Mercure Hotel Bielefeld City
+108824|Quality Hotel Erlangen
+108831|Mercure Frankfurt Dreieich
+108832|Mercure Frankfurt Eschborn Süd
+108833|Mercure Frankfurt Airport Neu-Isenburg
+108847|Mercure Hamm
+108848|Arcadia Hanau
+108860|Mercure Itzehoe Klosterforst
+108932|Mercure Parkhotel Krefelder Hof
+108939|Mercure Remscheid
+108946|Mercure Riesa Dresden Elbland
+108991|Merkur
+109182|Mövenpick Frankfurt/Oberursel
+109220|Nestor Neckarsulm
+109413|Tryp by Wyndham Wuppertal
+109434|Oberkirch Weinstuben
+109486|Opera
+109545|Palmenhof
+109582|Park Saint Georg
+109665|Novum Hotel Plaza Düsseldorf Zentrum
+109742|Prinz
+109744|Prinzregent an der Messe
+109781|Quality Bielefeld-Sennestadt
+109816|Quality Huntetal
+109934|Leonardo Hotel Hannover
+110049|Novum Hotel Ravenna Berlin Steglitz
+110087|Ambassador
+110140|Residenz Heinz Winkler
+110141|Residenz Joop Magdeburg
+110150|Engeln
+110208|Ringhotel Adler
+110211|Ringhotel Ahrensburg
+110215|Ringhotel am See
+110217|Best Western Nordic Hotel Ambiente
+110218|Bargenturm Lüneburg
+110221|Ringhotel Bokel-Mühle am See
+110224|Ringhotel Celler Tor
+110225|Dehner Blumen
+110226|Schwarzwald-Hotel Silberkönig Ringhotel
+110228|Deutsche Eiche
+110229|Deutsches Haus
+110231|Ringhotel Drees
+110233|Felsentor
+110234|Ringhotel Friederikenhof
+110235|Ringhotel Hasen
+110236|Ringhotel Germanenhof
+110239|Golf- und Landhotel Haghof
+110247|Ringhotel Katharinen Hof
+110249|Ringhotel Landhaus Eggert
+110253|Ringhotel Mohren
+110256|Ringhotel Park Witten
+110257|Ringhotel Paulsen
+110260|Ringhotel Reubel
+110262|Rosenau
+110263|Ringhotel Schiff am See
+110274|Hotel St. Georg
+110281|Ringhotel Waldhotel Heiligenhaus
+110282|Ringhotel Waldschlösschen Schleswig
+110283|Ringhotel Wassersleben
+110291|Zur Heidschnucke
+110292|Ringhotel Zweibrücker Hof
+110328|Romantik Fürstenhof
+110338|Romantik Spielweg
+110339|Hotel Waldhorn
+110437|Schlossgut Oberambach
+110449|A&O Leipzig Hauptbahnhof
+110450|L'Hotel Altstadt
+110492|Arcadia Hotel Wuppertal
+110661|Sachsentor Hamburg-Bergedorf
+110750|Scheffelhöhe
+110786|Seibel
+110791|Rasthaus Seligweiler
+110793|Invite Nürnberg
+111028|NOVINA Hotel Südwestpark
+111321|TOP CityLine Zettler
+111322|TOP CountryLine Schloss Monrepos
+111324|Garden
+111326|La Residence
+111330|Top Schlosshotel Weilburg
+111396|Ibis Styles Hannover West
+111415|Tulip Inn München Center Concorde
+111607|Wald-Cafe
+111656|Wikinger Hof
+111657|Wilder Mann
+111730|Zur Burg Sternberg
+111751|Residenz Limburgerhof
+111772|ACHAT Plaza Herzog am Dom
+111804|Dorint Kongress Mannheim
+111838|Splendid Dollmann
+121504|Hilton Mainz City
+121510|Munich City
+121515|Best Western Nürnberg City West
+122277|Villa Kunterbunt
+122278|AZIMUT Hotel Cologne City Center
+122305|Eibl-Brunner
+122338|InterCityHotel Essen
+122353|Birnbacher Hof
+122440|VCH Akademie Berlin
+122441|Barbarossa
+122442|Monte Cristo
+122443|Wartburg
+122609|Johanneshof
+122641|Residenz Bleichröder/ Villa Rosengarten/ Villa Rondell
+122770|Best Western Alexa
+122815|Haus Wiesenlehen
+124233|Citylight Berlin
+124234|Suitess Hotel
+124237|Topas
+124238|Cristall
+124239|Am Moosfeld
+125012|Parkhotel Meppen
+125049|Centro Hotel Senator
+125053|Nizza
+125054|Terminus
+125055|Flora
+125056|Hanseat
+125057|Am Volksgarten
+125065|Central
+125066|Haus am Zoo
+125077|Schlafgut
+125083|Thüringer Hof
+125084|Parkhotel Welfenhof
+125086|Motel One Hannover
+125087|Savoy
+125092|Garden Krefeld
+125093|Romantisches Geniesser Hotel Dübener Heide
+125094|Parkhotel Diani
+125097|Amadeo Garni
+125098|City Inn Hotel Leipzig
+125100|Hotel Zur Grünen Aue
+125102|Markgraf
+125103|Merseburger Hof
+125105|Adagio
+125112|Wetterstein
+125122|Acomhotel München-Haar
+125124|Pension Seibel
+125137|Motel One Stuttgart
+125138|Astoria am Urachplatz
+125143|Keinath
+125693|Best Western Yachtclub
+125694|Strandidyll
+125700|Aktiv Pension
+125701|Friederike
+125738|Alter Markt
+125743|Bornholmer Hof
+125745|
+125746|Am Forum Steglitz
+125747|Motel One Berlin-Alexanderplatz
+125748|Zarenhof Mitte
+125749|Bellevue
+125750|Morgenland
+125754|Motel One Berlin-Dreilinden
+125756|Bongard
+125759|Ibis Berlin-Neukölln
+125761|D-Apart Hotel
+125762|Days Inn Berlin West
+125765|am Hermannplatz
+125767|Savoy
+125772|Pankow
+125773|Inn-Berlin
+125776|Berliner Bär
+125777|Eckstein
+125781|Nova Berlin
+125788|Villa Monte Vino
+125789|Apart Vivaldi
+125792|Anna Amalia
+125799|Artushof
+125802|Pension Altstadtperle
+125803|Gästehaus Loschwitz
+125804|Hexenhaus
+125809|Adler Dresden
+125813|Lindenhof
+125814|Smetana
+125818|Heikotel - Am Stadtpark
+125819|Motel Hamburg
+125822|Motel One Hamburg-Altona
+125824|Kocks
+125827|Oberhouse Apartments
+125832|Alsterblick
+125838|Hanseat Garni
+125839|Novum Budget Hotel Hansahof Bremen
+125849|Domspatz
+125853|Ihr Hotel Garni
+125854|SKADA-City Cölln
+125858|AAA Budget
+125859|Hayk
+125860|Concorde Astor & Aparthotel
+125861|City Storch
+125865|Dom Hotel Am Römerbrunnen
+125869|Motel One Köln-West
+125870|Elite an der Universität
+125873|Engelbertz
+125875|Novum Business Hotel Silence Garden Köln Brück
+125891|Atelier Garni
+125982|Schweizer Hof
+125983|Abarin Wohlfühlhotel
+125989|City Hotel Antik
+125990|Best Western Hotel Soleo am Park
+125993|Kneipp-Kurhotel Aenny
+125996|GreenLine Hotel Irmgard Kneipp & Thermal
+125999|Kur- und Tagungshotel Luitpold
+126007|Diana Wellness- & Wanderhotel
+126011|Hotel-Pension Gablerhof
+126015|Alpenhof
+126020|Best Western Plus Kurhotel an der Obermaintherme
+126021|Säumerhof
+126023|Reinerhof
+126024|Kissinger Hof
+126029|Doctor Weinstube
+126030|Märchenhotel
+126032|Kölchens
+126034|Romantik Residenz am See
+126035|Goethe-Haus
+126040|Bergkurpark
+126049|Ringhotel Amsterdam
+126055|Hotel Moritzdorf
+126133|Schweriner Hof
+126137|Pension Haus Ursula
+126146|Am Wartturm
+126150|Luisenstuben
+126152|Waldhotel am Christlessee
+126153|Best Western Plus Alpenhof
+126155|Oberstdorfer Ferienwelt
+126159|Fuggerhof
+126162|Garni Brunnthaler
+126163|Gasthof Rösslwirt & Ferienhaus
+126217|Hotels & Appartements Feuerschiff - Hotelzimmer / Ferienwohnungen
+126221|Achtert Diek
+126226|Haus Seeschwalbe
+126227|Muschelgrund
+126228|Zum Wattenmeer
+126230|Dorn
+126231|Windjammer
+126233|Bootshaus - Bernstein Hotel Garni
+126241|Sprenz
+126242|Altera
+126245|Wanner
+126248|Haus Boltenhagen
+126252|Romantik Kaufmannshof
+126255|Pension Klaashof
+126256|Camp Reinsehlen
+126259|Sonnenhügel
+126261|Die Tanne
+126270|SoleTannenhof
+126272|Hotel Engel Altenau
+126276|Askania
+126279|Gesund Wohnen Appartements & Zimmer
+126283|Domschatz
+126286|Zur Goldenen Sonne
+126306|Klingelhöffer
+126309|Weißer Schwan
+126310|Jägerklause
+126315|Moosbach
+126316|Residenz
+126319|Bodoni
+126320|Höhenblick
+126339|Pension Enzianhof
+126345|Landhaus Schäfer
+126350|Wittelsbach
+126355|Zum Postillion
+126363|Bavaria
+126367|Böhmhof
+126374|Schwarzwald Krone
+126381|Krone Igelsberg
+126383|Gasthof Adler
+126390|Markgrafenresidenz
+126393|Fichtelberghaus
+126395|Ferienpark Seiffen
+126397|Grundmühle
+126401|Zum Goldenen Fässchen
+126403|Waldhotel Brezing - geschlossen
+126408|Casa Chiara
+126409|Aulmann
+126451|Adesso Astoria
+126453|Motel One Kassel
+126454|Stadthotel Kassel
+126455|Hanseatic
+126456|Baltic
+126457|Excelsior
+126459|Kaiserhof DeLuxe
+126477|Klemm
+126480|carathotel Klee am Park Wiesbaden
+126481|Am Schloß Biebrich
+126483|Trüffel
+126486|Franziskaner
+126491|Ritter
+126492|Motel One Frankfurt-East Side
+126498|Arosa
+126501|Neue Kräme
+126502|Cult
+126504|Zentrum an der Hauptwache
+126505|Maingau
+126506|Motel One Nünberg-City
+126509|Am Heideloffplatz
+126510|Avenue
+126512|Motel One Nürnberg-Plärrrer
+126514|Alt Schweriner Schankstuben
+126515|De Schün
+126516|Am Hauptbahnhof
+126517|Am Schloß
+126520|Zur Alten Brücke
+126521|Ruchtis
+126522|Bergruh
+126523|Wiedemann
+126526|Gästehaus Hubertus
+126573|Landgasthof & Hotel Sommerau
+126576|Schöngarten
+126578|am Kureck
+126581|Ritter am Tegernsee
+126601|Altstadthotel am Pach
+126602|Kurhaus am Inselsee
+126605|Stettiner Hof
+126613|Sieben Schwaben
+126614|Maier
+126616|Waldhaus Jakob
+126619|PARK Bad Salzig
+126622|Park-Hotel
+126644|Am Wald
+126651|Kolberbräu
+126656|Historisches Gast- und Logierhaus Goldene Henne
+126707|Neuhäusl
+126738|Haus Schons
+126739|Blauer Wolf
+126747|Anneliese
+126775|Europa Fürth
+126776|Ambient am Europakanal
+126816|Goya
+126827|Noss
+126830|Stumbergers
+126834|Tenner
+126837|Lothar-Mai-Haus
+126840|Der Bergbauernwirt
+126884|Bettina
+126963|Hermann
+126964|Rittmeister
+126966|Adesso Schweizer Hof
+126967|Stadt-gut-Hotel Hirsch
+126972|An der Hörn
+126973|Nordic Hotel Astor
+126975|Berliner Hof
+126976|Wiking
+126977|LeoMar Flatrate Hotel
+126978|Engel
+126983|Zur Krone
+127014|Kaiserhof
+127028|Krögers
+127029|Vital
+127041|Waldhaus Eifel
+127049|Stadt-Hotel Gladbeck
+127055|Best Western Comfort Business Hotel
+127093|Gronauer Tannenhof
+127095|Thomas
+127102|Luisen-Mühle
+127104|Arneggers Adler
+127123|Favorite Parkhotel
+127131|Sonnenbring Christliches Nichtraucher-Hotel
+127132|Keindl
+127149|Berggasthof Mooshütte
+127153|Dorer
+127154|an der Sonne
+127180|Schmankerl - Hotel Bauer
+127181|Farbinger Hof
+127188|Continental Saarbrücken
+127203|Vier Jahreszeiten am Yachthafen
+127220|Am Brenner
+127221|Conference Partner Haus Oberwinter
+127223|zur Riede
+127225|Ayun Hotel
+127245|LandHermannshöhe
+127247|Ambassador
+127253|Landidyll Hirschen
+127267|Torgauer Hof
+127282|Hampshire Ahaus
+127284|Zum grünen Kranz
+127286|Conti
+127289|Europa
+127297|Gasthof Falk
+127298|Heidehotel Bockelmann
+127310|Victoria
+127319|Wallburg
+127326|Schloss Auel
+127329|Villa am Kurpark
+127330|Hardtwald
+127341|Waldesblick Hotel & Ferienwohnungen
+127344|Landgasthof Rüppel
+127345|Markkleeberger Hof
+127377|Parkhotel Waldschlösschen
+127379|Ritschlay
+127393|Pallas-Hotel
+127395|Excelsior Ludwigshafen
+127399|Europa Offenbach
+127417|Gut Höhne
+127419|Goldene Rose
+127423|Loosen
+127447|Bayerischer Hof
+127468|Nummerhof
+127475|FS Hotel Stuttgart Böblingen
+127480|Schönblick
+127485|GreenLine Hotel Berlin
+127486|Tryp by Wyndham Rosenheim
+127491|Landhotel Goldenes Kreuz in Wiggensbach
+127516|Zum Goldenen Stern
+127521|Graf Rolshausen
+127534|Bodensee Yachthotel Schattmaier
+127543|Aquamarin
+127546|Alte Werft
+127586|An der Linah
+127592|Columbia Hotel Rüsselsheim
+127597|Am Schloß Ahrensburg
+127604|Wellnesshotel Ziegelruh
+127633|Crystal
+127662|Moosleitner
+127677|Best Western Favorit
+127679|Schacherer Garni
+127685|Hof Sierksdorf
+127707|Binder
+127723|Airport Paderborn
+127724|Heideresidenz
+127735|Nordic Hotel Plön
+127736|Fürstenhof
+127753|Ambiente
+127765|Theresientor
+127773|GreenLine Hotel Hof Idingen
+127778|Graf von Mansfeld
+127795|Astrid
+127830|Gemündener Hof
+127835|Alt-Tegel
+127849|Alte Post
+127855|Alpenhof Postillion
+127895|Alpenglühn
+127915|Mühlenthaler's Park
+127916|Landhotel Gasthof Albers
+127927|Wassermann
+127937|Halbersbacher Parkhotel Biedenkopf
+127944|Atrium Gerber
+127946|Flair Alber
+127949|Hotel-U
+127951|Am Ruhrufer
+127953|Remscheider Hof
+127954|Ascot
+127961|A1
+127962|Demas
+127963|Residenz Beckenlehner
+128064|Terrassen Cafe
+128071|Ochsen
+128078|Advance zum Hahn
+128085|Waldschlösschen
+128087|Central Dachau
+128097|Mecklenburger Mühle
+128102|Acht Linden
+128107|Hof Sudermülen
+128110|Parkhotel Sonnenberg
+128113|Empfinger Hof
+128117|Haus Waldesruh
+128119|Talblick
+128129|garni Vergissmeinnicht
+128138|Zur Post
+128148|Dormotel Havelland
+128151|Adler Golf- & Tagungshotel
+128161|Goldener Adler
+128164|Zur Heideblüte
+128178|Haus Iris
+128179|Leist-Sonne-Engel
+128206|Center Hotel Altmark
+128207|Zum Prinzen
+128210|GreenLine Landhaus Beckmann
+128211|WaldKelkheim
+128220|Ochsen
+128223|Birkenhof
+128225|Best Zeller
+128226|Wolff
+128227|Abacco
+128230|Witts Gasthof
+128233|Berghotel Wolfshagen
+128243|Airport-Fortuna-Am Flughafen Hahn
+128246|Flair-Neeth
+128253|Waldsee
+128255|Parkhotel Lingen
+128260|Ferienclub Maierhöfen
+128262|Anker
+128263|Zwei Linden
+128265|Ringhotel Maarium
+128268|Van der Valk Moers
+128271|Ringhotel Seehotel Schwanenhof
+128272|Quellenhof
+128273|Am Wald
+128284|Rheingoldhof
+128307|Landhaus Biehl
+128314|Liebl
+128319|Seegarten
+128328|Kaufmann
+128330|Adersberg
+128340|Schildow
+128343|Niederthäler Hof
+128346|Schwarzacher Hof
+128348|Zum Stern
+128356|Fürstenhof
+128370|Zur Freystatt am Wasserschloss
+128381|Hotel Garni Zur Post
+128385|Wirtshaus Spundloch
+128400|Freihof am Roland
+128417|Leeste
+128426|Am Kellerberg
+128437|Deutschherrenhof
+128834|Appartement-Haus Usedom
+128835|ParkCham
+128879|Congress Mercure An der Messe
+128880|Atrium Charlottenburg
+128940|Residenzpark Willingen
+128948|K1 Sporthotel
+129026|Meininger City Hostel - Tempelhofer Ufer - geschlossen
+129027|aletto Jugendhotel Schöneberg
+129028|aletto Jugendhotel Kreuzberg
+129032|Meininger Hamburg City Center
+129034|Jugendbildungsstätte Yes
+129419|Feringapark
+130765|carathotel Düsseldorf
+130769|Asahi
+130770|Clarion Collection Frankfurt City
+130771|Best Western Premier Friedberger Warte
+130773|Ibis City Messe
+130774|Fair - An der Messe
+130775|Alleenhof
+130776|The Pure
+130777|Columbus
+130778|Fair
+130779|Jaguar
+130788|Hopper St. Antonius
+130795|Zur Post
+130796|Imperial
+130798|Stadt Rosenheim
+130801|Hotel Victoria
+130802|Prinzregent
+130808|balladins SUPERIOR Sindelfingen
+130810|Nordic Hotel Stuttgart-Sindelfingen
+133294|Zur Linde
+134115|Terminus am Hauptbahnhof
+134116|Motel One München-Putzbrunn
+134194|Arcadia Amberg
+134225|Burg Schmidtheim
+134241|Wyndham Garden Bad Malente Dieksee
+134267|AZIMUT Hotel Munich City East
+134273|Gut Klostermühle
+134284|Landhotel Voshövel
+134288|Zum Hohen Eimberg
+134293|Weisser Bär
+134311|Park-Hotel Egerner Höfe
+134361|Spreewaldresidenz
+134377|Bacchus Am See
+134386|Waldecker Hof
+134441|Vital- und Wellness-Hotel Basler Hof
+135058|Seehotel Burg
+135073|Recknitztal Hotel
+135201|Kurhaus am Burgsee
+135381|Union
+135458|Willinger Hof
+135459|Pension Vitalis
+135461|Lindner Park-Hotel Hagenbeck
+135465|Atlantic Juist
+135469|Upstalsboom Deichgraf
+135474|Schloss Krugsdorf Hotel & Golf
+135477|H4 Hotel Lübeck City Centre
+135478|Iberotel Fleesensee
+135479|Hinrichs
+135501|Feriendorf Weissensee
+135514|Vitalhotel Falkenhof
+135517|Erdinger Weissbräu
+135605|Axel
+135607|andel's Berlin
+135617|Novum Hotel Savoy Hamburg Mitte
+135651|Kunz
+135655|Helvetia München City Centre
+135773|Arcotel John F Berlin
+135798|Eberl Kurhotel
+135801|Suitenhotel Aqua Aurelia
+135805|Best Western Hotel Kiel
+135806|Arcadia Bielefeld
+135808|Holiday Inn Express Nürnberg-Schwabach
+135842|Schlangenbader Hof
+135844|Pension Weigert
+135876|Ameron Die Welle Frankfurt
+135878|rostock apartment LIVING HOTEL
+135880|Schloss Burgellern
+135881|Witthüs
+135884|Kiek ut
+135890|Aqua Marina
+135892|Park Inn by Radisson Papenburg
+135905|InterCityHotel Mainz
+135906|GreenLine Hotel ACÃ Mönchgut
+135908|Pension Peters
+135913|Schloss Gehrden
+135914|Linslerhof
+136084|Landhotel Haus Waldeck
+136088|TIPTOP an der Seepromenade
+136089|Pommernland
+136090|Berghotel Wernigerode
+136103|A&O City Hauptbahnhof
+136123|Sylt Boardinghouse an der Düne
+136161|Höpfigheimer Hof
+136196|Almenrausch und Edelweiss
+136232|Landhaus Bondzio
+136413|Port Inn
+136456|Gasthof-Pension Vroni
+136476|Strandhafer - Aparthotel & Ferienwohnungen
+136483|Schwarzwaldhotel
+136523|Bridge Inn
+136529|Art Hotel Körschen
+136531|Phönix Reuterhaus
+136606|Upstalsboom Landhotel Friesland
+136742|hotelmüller München
+136813|Strandlust Vegesack
+136823|Astor
+136824|Days Inn Leipzig Messe
+137518|Holiday Inn Express
+137589|Friends
+137712|Fair West
+137812|Grand City Berlin East
+138007|Aparotel
+138270|Leonardo Airport
+138890|Holiday Inn Express Stuttgart Airport
+138917|GHOTEL München-City
+139016|Ibis Leipzig Nord-Ost
+139550|Villa Strandkorb
+139600|Pension Gästehaus Egger
+139604|Ferienzentrum Holm Haus Flensburg
+139606|Sarcon Hansa-Park Resort am Meer
+139612|Feriensiedlung Schmöldesee
+139613|Eifel-Ferienpark Prümtal
+139631|Pappritzer Hof
+139689|Hirschen Landgasthof
+139740|Pacific
+139743|Schawi Sport & Jugendhotel
+139747|Feriensiedlung Herberge Nr. 1
+139756|Europäische Gästehaus
+139761|Smart Stay Hotel Munich City
+139776|Hof von Hannover
+139777|Auerhahn
+139778|Hotel Ostseestern
+139779|Hotel von Jutrzenka
+139799|GreenLine Hotel Residenz Leipzig
+139845|Aparthotel Münzgasse by Aparthotels An der Frauenkirche
+139846|Kaiserhof
+139898|Löwen
+139912|Lindner Ferienpark Nürburgring
+139913|Lindner Eifeldorf Grüne Hölle
+140011|Kaiserhof Victoria
+140109|Leonardo Frankfurt City
+141136|Burg-Hotel
+141176|Central Apart München
+141368|Landhof Meinl
+141645|Ibis Erfurt Altstadt
+142144|Astoria
+142168|arcona LIVING Batschari8
+142199|Altes Dresden by Aparthotels An der Frauenkirche
+142204|Traube
+142235|Sebastianeum
+143780|Landhotel Sportalm
+143850|Park Inn by Radisson Mainz Hotel
+143857|Njord
+144206|Glöcklhofer
+144370|Winters Hotel Berlin Mitte - Am Gendarmenmarkt
+145254|Haus Leugermann
+145257|Badehof
+145263|Raupennest Gesundheitszentrum
+145279|Grand Hotel Seeschlösschen SPA & Golf Resort
+145295|Schwarzwaldhotel Gasthof Hirsch
+145296|Kim Hotel im Park
+145349|Altmark Hotel Gasthof Gose
+145354|Sahlenburger Strand
+145362|Kurhotel Diana
+145373|mi1A businessHOTEL
+145374|25hours by Levi's
+145376|A&O Apartmenthaus Leipzig
+145383|ABC Hotel
+145385|Abotel-Regensburg
+145396|Arta Lenz Hotel
+145401|Airport Business Koeln
+145412|City Düsseldorf
+145418|Goldener Ochsen
+145424|Körner Hof
+145430|Sauerbrey
+145432|Tietmeyer
+145438|Stadthotel Heilbronn
+145440|Bayerwald-Residenz
+145444|Alfa
+145445|Alla Fonte
+145450|Alpen München
+145458|Altenberg - geschlossen
+145460|Altes Kurhaus Trabelsdorf
+145463|Altstadt
+145465|Altstadt Pension Peiß
+145476|Zum Hechten Altstadt-Hotel
+145480|Stuttgarter Eck
+145483|Amalienburg
+145485|Ambassador Parkhotel
+145487|Ambiencehotel Zur Wolfsschlucht
+145492|Amical
+145494|Andante
+145496|Andi's Steakhüsli Hotel
+145500|Antik Bristol
+145502|Antikhotel am Völkerschlachtdenkmal
+145503|Apart Business
+145518|Apartment Hotel Konstanz
+145519|Apartmenthotel & Gästehaus Kral
+145521|Hamburg
+145522|Apartmenthaus Hecke
+145524|Apartment-Hotel Dahlem
+145528|Apartmenthotel New Angela
+145532|Apollon
+145533|Appart Hotel Tassilo
+145535|Appartement Hotel Magnet
+145539|Appartementhotel Hamburg
+145541|Appartements Biedermeier
+145544|Ringhotel Aparthotel Badblick
+145548|Rottalblick
+145554|Arena
+145555|ARIVA Boardinghouse Platanenhof
+145557|Arkadia
+145560|Ars vivendi
+145563|art'otel cologne, by park plaza
+145565|Art Royal
+145566|Art Superior
+145570|Arte Luise Kunsthotel
+145574|Arthotel city
+145577|Riverside City Hotel & Spa
+145578|Mercure Hotel Art Leipzig
+145585|Atlantic Parkhotel
+145588|Atrium Hotel
+145594|Aurelia Villa Flora
+145600|Avantgarde
+145602|Avidon Hotel Düsseldorf
+145610|B&O Parkhotel
+145612|Badhotel Bad Brückenau
+145620|Bärenturm Hotelpension
+145621|Nordic Hotel am Kieler Schloss
+145622|Basic Hotel City
+145624|Basic Hotel Wandsbek
+145625|Basic Hotel Ostseehalle
+145629|BB-Hotel Birth Berlin
+145632|Becker's
+145639|Berg-Gasthof Honigbrunnen
+145640|Berggasthof-Hotel Igelwirt
+145643|Berghotel Drei Brüder Höhe
+145645|Berghotel Rheinblick
+145650|Berlin Apartments
+145655|Best Western Im Forum Mülheim
+145660|Best Western Plus Hotel Willingen
+145662|Best Western Premier Regensburg
+145666|BioHotel am Lunik Park
+145682|Brauerei-Gasthof Flair Post
+145695|Brocki's Hotel Stadt Hamburg
+145699|smart-hotel
+145702|Burg Hotel Ziesar
+145714|Am Rennsteig Business-Vital-Hotel
+145721|Sonnenkanzel Cafe-Pension
+145730|carathotel Frankfurt Airport - geschlossen
+145739|Center Hotel Drive Inn
+145753|City Holiday Apartments Berlin
+145755|City Hotel
+145760|City Hotel Diez
+145765|City Hotel Köln
+145766|City Mannheim
+145770|Das Pelikan
+145771|City Hotel Roding
+145773|City Hotel Stolberg
+145782|Cityart
+145788|City-Hotel Neubrunnenhof
+145792|Classic Hotel Kaarst
+145799|Parkhotel Papenburg
+145803|Best Western Mainz
+145804|Convention Hotel
+145807|Country Partner Golf Club Gut Heckenhof
+145808|ACHAT Premium Walldorf/Reilingen
+145812|Das Gästehaus der Elb Lounge
+145813|Das Gesundheitshotel co.med
+145820|Das Weisse Hotel an der Elbchaussee
+145824|Designhotel Ãœberfluss
+145826|Commundo Tagungshotel Darmstadt
+145827|Commundo Tagungshotel Leipzig
+145828|Commundo Tagungshotel Königs Wusterhausen
+145836|Dom Hotel Limburg
+145838|domicil Residenz Bad Aachen
+145851|Eden an den Thermen
+145861|Erikson
+145870|Comfort Wiesbaden Ost
+145874|Eurostar
+145876|Factory
+145877|Fair Europaallee
+145879|Familien- und Ferienhotel Alpenhof
+145880|Familienherberge & Wohnheim
+145889|FFFZ Hotel & Tagungshaus
+145903|Flair Hotel Obermüller
+145909|ClassicFlairHotel Bad Pyrmont
+145910|Flairhotel Central
+145914|Fleming's Deluxe Frankfurt-City
+145917|Forsters Posthotel
+145940|Gäste- u. Boardinghaus Klara Birnbaum
+145946|Gästehaus Balthasar Neumann
+145949|Gästehaus Edelweiss
+145954|Gästehaus Havergoh
+145963|Gästehaus Riesenbühl
+145979|Gästeresidenz Pelikan Viertel
+146015|Gasthof Hausmann
+146021|Gasthof Hotel Zum Ross
+146035|Gasthof Rotes Roß
+146046|Gasthof zum Biber
+146048|Gasthof zum Fürstenthal
+146066|Gasthof-Hotel Zur schönen Aussicht
+146074|Gerbermühle
+146076|GHOTEL hotel & living Kiel
+146079|GlaslÂ´s Landhotel
+146085|Cleve by Rilano - geschlossen
+146094|Golfhotel Kaiserin-Elisabeth
+146111|Familotel Gutshof Groß Behnkenhagen
+146113|Gut Merödgen
+146114|Gut Moierhof
+146117|Halong
+146121|Hampshire Inn Bentheimer Hof
+146122|Hansa
+146126|Harz Resort Waldesruh
+146128|Haus am Kurpark
+146141|Haus Mooren
+146145|Haus Ridder
+146149|Haus Waldblick
+146152|Heidelberg Suites
+146154|Heikotel - Windsor
+146159|Hezelhof
+146164|Hoerstgener Landhotel zur Post
+146173|Hörger Biohotel
+146174|Hospederia La Casa
+146175|Der Krug
+146176|Bezold
+146179|Zur Traube
+146191|Bärenkrug
+146195|GreenLine Hotel & Restaurant Lamm
+146196|Sächsischer Hof
+146197|Ziegenkrug
+146203|1A Apartment Pension & Gästehaus
+146208|Acarte
+146221|Adlerbräu
+146222|Adler-Post
+146227|Aida
+146229|Albergo
+146238|Hotel Rüttenscheider Stern
+146239|Alpenblick
+146246|Alt Büttgen
+146247|Alt Düsseldorf
+146265|Alte Redaktion
+146271|Altenberger Hof
+146278|Altes Forsthaus
+146289|Alt-Ringlein
+146297|Am Berg
+146299|Am Berghang
+146304|Brandenburger Tor
+146306|Am Charlottenplatz
+146311|Am Düsseldorfer Platz
+146315|Am Ellinger Tor
+146330|Am Hirtenberg
+146339|Zi Hotel & Lounge
+146347|Am Kurhaus
+146348|Am Kurpark
+146356|Am Markt Residenz
+146363|Am Nockherberg
+146367|Am Olivaer Platz
+146369|Am Park
+146372|Am Park
+146374|Am Park
+146383|Fair Am Rathaus
+146388|Am Rugard
+146389|Hotel-Pension am Savignyplatz
+146390|Am Schelztor
+146393|Am Schloß
+146406|Am Schwedenkai
+146411|Am Siebersturm
+146412|Am Sonnenhang
+146415|Am Stadtgarten
+146419|Am Stadtpark
+146425|Am Tiefwarensee
+146428|Am Turm
+146434|Am Wehrhahn
+146437|Am Wilhelmsplatz
+146464|An der Gruga
+146465|An der Hasenheide
+146474|Anders
+146479|Annaberg
+146483|Antoniushof
+146486|Zarenhof Prenzlauer Berg
+146487|Appartement-Villa Ulenburg
+146493|Queenspark
+146495|Arkadenhof
+146499|Arthus
+146508|Astoria
+146513|Mercure Frankfurt City Messe
+146518|Atlas City
+146519|Attache an der Messe
+146529|Best Western Aurora
+146537|Bad Minden
+146538|Bad Schmiedeberger Hof
+146543|Barbarossa
+146549|Bärlin
+146557|Bayerischer Hof
+146586|Bergschlößchen
+146588|Berial
+146594|Bessunger Forst
+146607|Blankenfeld
+146610|Blauer Karpfen
+146612|Blauzeit
+146615|Blumlage
+146619|Bockshaut
+146620|Böhler
+146627|Brandbach
+146631|Braun
+146643|Britzer Tor
+146651|Bühleneck
+146655|Burg Edelhof
+146656|Burg Staufenberg
+146663|Burgk
+146668|Busch
+146673|Amadeus Hotel & Cafe
+146678|Carlton Mayfair
+146682|Casa Rustica
+146689|Central
+146692|Central Vital
+146694|Chalet Valley
+146703|Classic
+146705|Cocoon
+146708|Colour
+146715|Concorde
+146716|Parkside Hotel Concorde
+146725|Cornelia
+146735|Dammenmühle
+146738|Daniel's
+146739|Danner
+146745|Das Goldene Lamm
+146747|Daub
+146749|Hotel de France - Centre Francais de Berlin
+146761|Deutscher Kaiser
+146762|Deutscher Kaiser
+146776|Dittrichs Erben
+146782|Domino
+146787|Doppeladler
+146788|Doria
+146797|Drei Lilien
+146804|Dresdner Hof
+146806|Eberhardt-Burghardt
+146810|Ehranger Hof
+146815|Elbroich Garni
+146820|Etab
+146829|Hotel Engelhorn
+146831|Hotel Eppelborner Hof
+146843|Essinger Hof
+146844|Etol
+146851|Europa
+146853|Europarc
+146857|Exquisit
+146864|Hotel Fährhaus Sylt
+146867|Falk
+146871|Hotel Falkenhorst
+146885|Fischerhaus garni
+146890|Flämingsthaler Hof
+146915|Hotel Fresh Inn
+146918|Hotel Friedrichs
+146920|Friends Mittelrhein
+146922|Hotel Friesenhaus
+146965|Carolinenhof
+146971|Maria Aurora
+146978|Hotel Garni Kleindienst
+147007|Löwen Gästehaus
+147009|Gasteiner Hof
+147020|Gasthof Heckl
+147023|Hölzerbräu
+147024|Hörterer
+147032|Neuwirt
+147035|Hotel Gasthof Oldenwöhrden
+147047|Zum Rössle
+147050|Gasthof Zur Linde
+147058|Hotel Geiger
+147064|Germania
+147068|Germersheimer Hof
+147089|Goldener Falke
+147093|Goldener Hirsch
+147096|Goldener Pflug
+147097|Goldener Stern
+147100|Goldenes Lamm
+147102|Hotel Goldinger
+147106|Gotland
+147107|Gottinger
+147112|Green Place
+147118|Country Partner Grossfeld
+147124|Grüner Baum
+147131|Gude
+147144|BIO Landwerthotel Gutshof Insel Usedom
+147146|Haase
+147154|Halfenstube
+147155|Frechener Hof
+147160|Hammermühle
+147165|Hansa
+147168|Harzer Hof
+147172|Haus am Landgrafenteich
+147174|Haus am See Wellness- & Sporthotel
+147179|Haus am Weinberg
+147180|Haus Appel
+147185|Haus Daheim
+147188|Haus Hillesheim
+147217|Heidelberger Hof
+147223|Hotel Heimathenhof
+147227|Hotel Heinz
+147229|Heldt Dependance
+147235|Herrenhaus von Löw
+147246|Hirsch
+147251|Hotel Hochfirst
+147252|Höchster Hof
+147258|GreenLine Hotel Hohenzollern
+147262|Seehotel Lönö
+147265|Hotel Horizont
+147266|Hornung
+147271|Huberhof
+147281|Hufeland Schlösschen
+147286|Ifen
+147295|Im Rheintal
+147298|Imperial
+147303|Insel Rügen
+147305|Isartor
+147313|Kurhotel Jakob
+147315|Hotel Jan van Werth
+147321|Jung
+147322|Hotel Jungclaus
+147334|Kaiserstuhl
+147348|Hotel Kehrenkamp
+147355|Kipping
+147357|Kirchner - Hartha
+147359|Kirnbacher Hof
+147362|Klassik Berlin
+147363|Kleefelder Hof
+147375|Klusenhof
+147395|König Ludwig II
+147398|Königsteiner Hof
+147399|Kontorhaus
+147401|Kosel
+147406|Krasemann
+147411|Kreuzberghof
+147413|Kriemhild
+147414|Krokodil
+147419|Krone
+147439|Kronsberger Hof
+147445|Kulturbrauerei Heidelberg
+147458|La Maison
+147468|Hotel Landgasthof Falken
+147470|Hotel Landgasthof Güby
+147479|Hotel Landhaus Absalonshorst
+147483|Hotel Landhaus Feldmeier
+147494|Hotel Landhaus Rabenhorst
+147505|Lechnerhof
+147507|Lehrertal
+147513|Hotel Les Nations
+147516|LEX garni im Gartenhof
+147523|Lindemanns
+147524|Astoria by Centro Comfort
+147528|Lindenhof
+147543|Lloyed Frankfurt
+147551|Löwen
+147554|Ludwig im Park
+147565|Luv und Lee
+147568|M68
+147571|Mack
+147577|Majesty
+147580|Hotel Marburger Hof
+147582|Mariaweiler Hof
+147583|Marienbad
+147587|Hotel Marina
+147593|Marktterrassen
+147608|Mecklenheide
+147610|Hotel Meisnerhof / Gästehaus Tenne
+147621|Hotel Michels Stern
+147626|Miramar
+147628|Mitte Berlin
+147636|Mondial
+147637|Monopol
+147655|Munich Inn
+147660|My Poppelsdorf Bonn
+147673|Nevada
+147690|Hotel Nordsee
+147692|Novalis
+147695|Oase
+147697|Oberschmied
+147701|Odenwaldblick
+147702|Oelberg garni
+147713|Ã–schberghof
+147719|Oyten am Markt
+147721|Palatino
+147734|Parkidyll
+147739|Paulushof
+147744|Fischer
+147753|Lugerhof
+147759|Hotel Pension Störtebeker
+147764|Perlach
+147765|Hotel Pesterwitzer Siegel
+147770|Petronella
+147790|Poppenbütteler Hof
+147793|Post
+147795|Posthotel Riehemann
+147796|Tryp by Wyndham Frankfurt
+147799|Preysing
+147813|Hotel Quickborn
+147817|Raj Mahal
+147825|Rebenhof
+147850|Hotel Residenz Royal
+147852|Residenz Waldoase
+147853|Alter Hof
+147862|Am Markt
+147865|Daucher
+147873|Hof Hueck
+147879|Kannenkeller
+147889|Lüdenbach
+147897|Ritter
+147916|Rhein Residenz
+147922|Rheinfels
+147930|Rhöner Land
+147931|Rhönhof
+147934|Hotel Riemann
+147943|Rolandsburg
+147945|Römer
+147947|Römerhof
+147955|Rosengarten
+147959|Rosenhof
+147961|Rosenpark Laurensberg
+147962|Rosenstock
+147972|Royal
+147973|Royal
+147979|Rügenblick
+147982|Rupertihof
+147983|Hotel Ruppert
+147987|Best Western Sachsen-Anhalt
+147993|Sandstrand Ostseeperle
+148001|Sauerländer Hof
+148006|Schauinsland
+148012|Hotel Schiller
+148017|Schlicker - Zum Goldenen Löwen
+148026|Schloss Heinsheim
+148027|Schloss Neuburg
+148043|Schmidt
+148052|Hotel Scholl Garni
+148068|Schwarzes Ross
+148083|Mango's Strandhotel
+148084|Hotel Seegarten
+148088|Seelust
+148097|Sewenig
+148108|Sinsheim
+148112|Sleepinger
+148113|Hotel Söderberg
+148120|Sonneck
+148130|Sonnhalde & Sonnenhof
+148138|Hotel Spreewaldeck
+148141|St. Josef
+148149|Stadt Gadebusch
+148150|Hotel Stadt Gehrden
+148153|Comfort Hamburg
+148159|Hotel Stadt Lübeck
+148166|Stadt Spremberg
+148167|Alt Ilsenburger Hof
+148170|Stadthaus
+148190|Störtebeker
+148192|Strampenhof
+148193|Hotel Strand-Cafe
+148194|Hotel Strandpavillon
+148198|Strohofer
+148199|Hotel Stümpelstal
+148200|Sturm
+148216|Arthotel Ana Gold
+148221|Thomsen
+148224|Kay's Loungehotel
+148231|Toskana
+148232|Town
+148244|Landwehrbräu
+148249|Zur Sonne
+148250|Zum Bockshahn
+148270|Hotel Union
+148273|Hotel upt Fehn
+148286|Hotel Viktoria
+148289|Villa Amber
+148292|Villa Constantia
+148293|Fair Villa Diana Westend
+148296|Hotel Villa Florentina
+148302|Villa Hügel
+148309|Villa Medici
+148311|Hotel Villa Oriental
+148318|Villa Sommer
+148319|Hotel Villa Sophienhöhe
+148324|Village
+148329|Von Heyden
+148335|Waizenegger
+148337|Waldeck
+148350|Waldschlößchen
+148351|Hotel Waldschlösschen
+148355|Wallauer Hof
+148356|Hotel Walz
+148362|Wasserschloss Mellenthin
+148363|Wasserschloss zu Gommern
+148365|Weber
+148368|Wegner
+148388|Weisse Düne
+148401|Hotel Wessinger
+148402|Westend
+148405|Westerkamp
+148417|Wiedfriede
+148419|Arthotel Haar
+148444|Hotel Württemberger Hof
+148492|Göbel's Zum Löwen
+148495|Zum Löwen
+148498|Zum Neckartal
+148499|Zum neuen Schwan
+148501|Zum Norden
+148511|Zum Sänger an der Ahr
+148518|Zum Schwarzen Bären
+148521|Zum Sonnenhof
+148523|Zum Stern
+148538|Zur Alten Schmiede
+148548|Zur Friedrichsschleuse
+148574|Zur Post
+148575|Zur Post
+148580|Zur Post
+148586|GreenLine Hotel zur Post
+148597|Zur Stadt Mainz
+148604|Hotelanlage Starick Am Mühlberg
+148628|Imhof-Hotel-Gasthof Zum letzten Hieb
+148652|Landgasthof Rebstock
+148657|Hotel-Maison Appartements am Kolk
+148660|Am Kurmittelhaus
+148664|Hotel-Pension Arche
+148669|De Ela
+148682|Hotel-Pension Kastanienhof
+148684|Hotel-Pension Messe
+148689|Quellenhof
+148695|Hotelpension zum Gockl
+148701|Adria Stuben
+148702|Akazienhof
+148711|Ringhotel Appelbaum
+148714|Brielhof
+148732|Gelber Hof
+148740|Landgasthof Hallnberg
+148755|Klostermühle
+148766|Mühlentor
+148771|Pflug
+148782|Schwanenhotel Sundheim
+148785|Sonne
+148792|Villa Sorgenfrei
+148801|Weinlaube
+148819|Haffhus
+148822|Engel
+148829|HSG Training Center
+148832|Hüs Weeterkant
+148836|ibis Aachen Marschiertor (Aix la Chapelle)
+148838|Ibis Bamberg Altstadt
+148839|Ibis Berlin Brandenburg Park
+148840|Ibis Berlin Dreilinden
+148842|Ibis Styles Duesseldorf-Neuss
+148843|Ibis Frankfurt Airport
+148845|Ibis Frankfurt City West
+148846|Ibis Fulda City Hotel
+148847|Ibis Hannover City
+148848|Ibis Heilbronn City
+148849|Ibis Jena City
+148851|Ibis Köln Leverkusen
+148853|Ibis München Garching
+148854|Ibis München Messe
+148855|Ibis Münster
+148856|Ibis Styles Osnabrück
+148861|Ibis Ulm City
+148862|Ibis Wuppertal City
+148865|ibis Nürnberg City am Plärrer
+148867|Ibis Stuttgart Marienplatz
+148868|Ibis Wiesbaden City
+148879|Insel
+148891|Isaak Miles
+148893|Allgäuer Terrassen Hotel
+148894|Ivbergs Berlin Messe
+148895|Ivbergs Hotel Charlottenburg
+148900|Jugendgästehaus Berlin Mitte
+148903|The Corner
+148904|Kapuzinergarten
+148906|Kasino
+148907|Astoria City Resort
+148916|Klosterhotel Marienhöh
+148917|Kneipp-Kurhotel Heikenberg
+148922|TOP KHR Hotel am Römerturm
+148926|mainhaus Stadthotel Frankfurt
+148932|Krone
+148942|Kurhaus Devin
+148944|Kurhotel Austria
+148950|Kurhotel Quellenhof
+148952|Kurhotel Sonnenhof
+148954|EKKOs Kultur- und Tagungshotel
+148958|Kyritzer Landhotel Heine
+148960|Nordic Berlin Mitte
+148971|Zur Linde
+148978|Landgasthof Deutsche Eiche
+148986|Ringhotel Landhotel Gockelwirt
+149010|Landgasthof Niebler
+149015|Rössle Landgasthof
+149039|Gentner
+149043|GreenLine Landgasthof Wemmer
+149049|Land-gut-Hotel Berghof
+149050|Land-Gut-Hotel Forsthof
+149054|Haus Herzberger
+149065|Zur Burg
+149067|Landhaus Am Hirschhorn
+149085|Landhaus Keller
+149095|Landhaus Schulze-Hamann
+149096|Landhaus Seela
+149099|Landhaus Steinfeld
+149108|Landhaus Zur Alten Gärtnerei
+149119|Landhotel Alt Wittower Krug
+149132|Landhotel Behre
+149135|Landhotel Binderhausl
+149137|Landhotel Burkartsmühle
+149142|Felchow Landhotel
+149143|Landhotel Garni Engelhard
+149147|Landhotel Glesien
+149149|Landhotel Groß Schneer Hof
+149168|Landhotel Lindenhof
+149172|Landhotel Martinshof Neue Messe
+149189|Landhotel Salmen
+149195|Landhotel Seerose
+149196|Landhotel Sonnenhalde
+149197|Steigerwaldhaus
+149198|Landhotel Stemp
+149201|Landhotel Ulmenhof
+149207|Hotel FreiWerk
+149212|Landhotel Wesenitz
+149228|Ringhotel Fuchsbau
+149232|Landschloss Korntal
+149234|Lechpark Hotel
+149241|Lind Hotel
+149245|Lindenkrug Guetersloh
+149250|Lobinger Hotel Weisses Ross
+149252|Lorenz Hotel Zentral
+149257|Mainstreet Hotel
+149262|Maritim
+149263|Days Inn Dortmund West
+149278|Melarose Feng Shui Hotel
+149280|Mercure Köln Airport
+149281|Merian
+149284|Metropolitan Hansa Hotel
+149287|Braun
+149289|Mintrops Land Burgaltendorf
+149292|Morada Gifhorn
+149318|St. Peter
+149337|Panorama Hotel Heimbuchenthaler Hof
+149339|Am Rosengarten Panoramahotel
+149341|Panoramahotel Karwendelhof
+149346|Park Hotel Am Lindenplatz
+149349|Park Laim
+149354|Parkhotel
+149363|Parkhotel Atlantic
+149364|Parkhotel Bad Faulenbach
+149365|Parkhotel Bad Homburg
+149367|Reichel's Parkhotel
+149373|Parkhotel Friedrichstraße
+149374|Kolping Parkhotel Fulda
+149377|Parkhotel Gütersloh
+149379|Parkhotel Helmstedt
+149386|Parkhotel Landau
+149387|Parkhotel Meerane
+149395|Parkhotel Schmid
+149401|Park-Kurhotel Weber-Müller
+149408|Gästehaus Alpina
+149430|Heidi
+149445|Pension Teichblick
+149458|pentahotel Chemnitz
+149463|Pfrontener Hof
+149469|Pommernhotel Barth
+149472|PP-Hotel Grefrather Hof
+149482|Quality Bavaria
+149496|Residence Hamburg
+149503|Residenz Eurostar
+149511|Rheinhotel Lamm
+149513|Merkelbach
+149514|Rheinland
+149522|Ringhotel Blaue Ecke
+149538|Romantik Hotel Stollen
+149541|Romantik Zum Stern
+149544|Romantikhotel Neuhaus
+149547|Romantiklandhaus Hazienda
+149552|Royal International Leipzig
+149553|Ruhr Hotel
+149556|Galerie-Hotel Bad Reichenhall
+149564|Auszeit Garni Hotel Hamburg
+149574|Schlossberg Hotel
+149577|Schlosshotel Bunter Hund
+149584|DORMERO Schlosshotel Reichenschwand
+149599|Zum Goldenen Adler Schwarzwaldgasthof
+149601|Hohritt
+149607|Seehotel am Stausee
+149611|Seehotel Grauer Bär
+149613|Luitpold Seehotel
+149615|Seehotel Mühlenhaus
+149617|Seehotel
+149621|GreenLine SeeSchloß am Kellersee
+149628|Seminaris Campus
+149631|SETA Hotel
+149636|Siegerland-Hotel Köhler's Haus im Walde
+149644|Smartmotel
+149645|Smile - Hotel
+149661|Sporthotel Quellberg-Park
+149672|Stadt-gut-Hotel Schleuse
+149679|Kolping Stadthotel Düsseldorf
+149690|Stadthotel Schwarzer Baer
+149691|Stadthotel Village
+149696|Stage47
+149697|Star Hotel
+149700|Alpenhotel Beslhof
+149714|Strandhotel Mirow
+149720|Suite Hotel Falk
+149724|Tagungshotel am Schlossberg
+149725|Tagungs- & Sporthotel Aramis
+149728|Maria an der Aue Tagungshotel
+149730|Tagungshotel Eifelkern
+149736|Commundo Tagungshotel Neuss
+149737|Commundo Tagungshotel Stuttgart
+149742|Thang Long
+149747|Therese-Malten-Villa
+149749|Tom's Hotel
+149750|TOP CityLine Klassik Altstadt
+149752|TOP CountryLine Schrenkhof
+149760|Traveller Hotel Lübeck
+149767|Tu-Casa Apartments
+149770|Arcadia Limburg
+149777|VCH
+149780|Das Spenerhaus
+149781|Venusberghotel
+149783|Vi Vadi
+149784|VIA Seminarhaus
+149787|Villa Belvedere
+149790|Villa Fortuna
+149796|Villa Rothschild Kempinski
+149797|Villa Siegfried
+149804|BEST WESTERN PLUS Göbel's Vital Hotel
+149826|Waldhotel Felschbachhof
+149828|Waldhotel Forellenhof
+149834|Waldhotel Nachtigall
+149842|Waldhotel Unterbach
+149862|Werners
+149884|WIP Hotel Stralsund
+149886|Landgasthof Hubertus
+149887|Jagdhof Negast
+149889|Jöckel
+149907|Diehls
+149910|Kardinal Schulte Haus
+149923|Bach Hotel Zur Porta
+149924|Hotel Lamm
+149926|Sachsenwald Hotel Reinbek
+149927|Ritter Durbach
+149931|Ringhotel Krone Schnetzenhausen
+149932|Barbarossahof
+149935|Ringhotel Rhein-Ruhr
+149940|City Kleve
+149943|Quality München Messe
+149944|West an der Bockenheimer Warte
+149946|Akademie Berlin-Schmöckwitz
+149947|Zur Hopfenkönigin
+149948|Ibis Mainz City
+149951|Innside by Melia Frankfurt Eurotheum
+149952|Inntalhof
+149957|Ringhotel Mönch's Waldhotel
+149962|Victor's Residenz München
+149964|Fleming's Conference Frankfurt
+149967|Parkhotel Ostfildern
+149968|KTC Koenigstein
+149969|Mintrops Stadt Hotel Margarethenhöhe
+149972|Magnetberg Baden-Baden
+149977|Commundo Tagungshotel Hamburg
+149978|U-NO 1
+149979|Landidyll Hotel LinderHof
+149982|Hotel HerzogsPark
+149987|Mercure Seestern
+149988|Commundo Tagungshotel Ismaning
+149989|Am Froschbächel
+149990|Commundo Tagungshotel Bad Honnef
+149994|Hotel Villa Toskana
+149996|Courtyard by Marriott Gelsenkirchen
+149998|VierJahreszeiten
+150003|Hotel Lousberg
+150014|Hotel Gut Gremmelin
+150016|Schlosshotel Klaffenbach
+150018|Mercure Hotel Stuttgart Schwieberdingen
+150021|Best Western Ostertor
+150022|Ochsen
+150025|Wellings Romantik Hotel zur Linde
+150026|Otterberger Hof
+150027|Adler
+150031|Holland Sophienpark
+150032|Landhotel Geiselwind
+150033|Nickisch
+150035|Bonjour Tagungshotel Stuttgart-Gerlingen
+150037|Haus Friedrichsbad
+150050|Schloßhotel Eyba
+151008|Hotelresort Freudenstadt
+151579|Weisses Ross
+151802|Novum Business Hotel City B Berlin Centrum
+151804|Villa am Meer
+151805|BSW - Ferienhotel Festenburg
+154126|Central Regensburg City Centre
+161786|Schiff am Schluchsee
+162685|Schloss am Meer
+162695|Kornauer Stuben
+163406|Alphotel Ettal
+163453|ThomÃ¨
+163454|Arcadia Hotel Neckarsulm
+182146|Goethe
+182305|Kurhotel ViktoriaQuelle
+182415|Adler
+182418|Kurparkklinik
+182441|Erzgebirgshotel Freiberger Höhe
+182470|Adenia
+182607|Landhotel Gasthof Zwota
+182608|Post Hiddensee
+182649|Leonardo Berlin
+182650|Leonardo Royal Berlin
+182671|Kohlerhof Gästehaus
+182672|Zum wilden Zimmermann
+182673|Waldhotel am Fichtelsee
+182713|Holiday Inn Express Hamburg City Centre
+182714|Holiday Inn Express Bremen Airport
+182715|Amano
+182716|A&O Köln Neumarkt
+182736|Meininger Berlin Hauptbahnhof
+182740|H4 Hotel Münster City Centre
+182748|Boulevard Hamburg
+182750|Behrmann
+182751|Blankenese
+182756|My Place
+182914|Roomers
+182915|Ferien- und Sporthotel Sankt Englmar
+182924|abba Berlin
+182926|Radisson Blu Hamburg Airport
+182936|Adina Apartment Hotel Frankfurt Neue Oper
+183007|Lindner Nürburgring
+183058|Ostseehotel Scandinavia
+183083|Appartementhaus Fürstenzeche
+183084|Appartementhaus Tannenhof
+183085|Haus am Wald
+183109|Strandhotel Goldberg
+183119|Kurhotel Allgäu
+183152|Tennishotel & Sportpark Pinnow
+183153|Sportlife-Hotel Elmshorn
+184028|Silbersee
+184042|Zum Postillion
+184049|Traube
+184079|Landhotel Combecher
+184081|Schäfer
+184102|Landgasthof Stössel
+184113|Landhaus Nassau
+184127|Berghotel Glück Auf
+184131|Haus Am Niederfeld
+184539|Landgasthof Röfleuten
+184554|Hotel Stadt Neustadt
+184589|Schwalenberger Malkasten
+184604|Residenzhotel Annahof
+184667|Zur Linde
+184735|Haus Oberland
+184745|Haus Hohenzollern
+184811|Pension Wimbachklamm
+184828|Almrausch
+184829|Schloss Kropstädt
+184832|Hotel Volapük
+185062|Waldhaus Wittgenthal
+185064|Friesengeists
+185071|Auerhahn
+185086|Hannes Ossenkopp
+185094|St. Florian
+185119|Burghotel
+185122|AMEDIA Express Hamburg Moorfleet
+185138|Waltraud
+185139|Auszeit
+185145|Krone
+185333|Schelf
+185338|Ibis München City West
+185339|Parkhotel Krähennest
+185345|Pension Beck Böttcher
+185351|Bayern Vital
+185352|Wittelsbach
+185355|World Conference Center Bonn
+185356|Innside by Melia Dresden
+185358|Bauer
+187273|Best Western Premier Park Consul Schlosshotel
+187372|Deutsches Haus Hamburg
+187691|Grünwald
+187713|Ibis Styles Frankfurt Offenbach
+187842|Landhotel Arber Wellness
+187905|City am Kurfürstendamm
+188028|Seehotel Hubertus
+188083|Eurostars Grand Central
+188255|Melia Düsseldorf
+188355|A-ROSA Sylt
+188834|Ringhotel Kulturhotel Fürst Pückler
+188836|Ferienpark Bernstein
+188845|Landhotel Gulewitsch
+195901|Pension Kreuzhafner
+196327|Morada Strandhotel Kühlungsborn
+196330|Ferienpark Templin
+196924|Schwanstein
+197161|Dolce Munich
+197228|Meininger Berlin Mitte
+197229|Meininger Frankfurt Messe
+197259|Mühlengrund
+197274|Familotel Storchen
+197303|Krögers Gasthof
+197304|Kröger
+197308|Ambiente
+197318|Grand Hotel Dream Main City Center
+197352|Flair & Berghotel Talblick
+197382|Rheinischer Hof
+197389|Bischofslinde
+197391|Kameha Grand
+197413|Ferienhotel St. Andreasberg
+197416|Golfresidenz
+197429|Hochwald
+197453|Altes Badhaus
+197456|Alte Post
+197467|Zum Winzergarten
+197478|Uhl
+197495|Schloss Rühstädt
+197501|Jagdschloss Waldsee
+197515|GreenLine Hotel Burgunderhof
+197531|Rüsselsheimer Residenz
+197548|An den Bleichen
+197556|Ringhotel Altes Forsthaus
+197559|Axxe Motel Leipheim Süd
+197588|Villa Nause
+197600|Danelchristelgut Hotel & Restaurant
+197602|GolfGut Apeldör
+197612|Citadines Munich Arnulfpark
+197643|Gästehaus Schmidt
+197649|Alte Mühle
+197653|Arte Vita
+197655|Neuenfels Garni
+197667|Traunsteiner Hof
+197670|Gasthof Alter Wirt
+197673|Sechzehn
+197675|Bernstein Pension
+197677|Herrlichkeit Dornum
+197705|Muldenschlösschen
+197711|Schober am Kurpark
+197714|Imperial
+197718|Verona
+197721|Würzburger Hof
+197731|Altstadthotel an der Werra
+197749|ackselhaus & bluehome
+197785|Stadt Beelitz
+197812|Komfort- Haus Christel & Guesthouses
+197815|Auguste Viktoria
+197834|Heigl
+197838|Kerzenstüble
+197879|Zum Hirschhaus
+197889|Avantage Sporthotel
+197902|Ambassador Apparthotel
+197945|Heckenrose
+197952|Burggasthof Zur Alten Münze
+197953|Burghaus Kronenburg Schlosshotel
+197997|Apartments Checkpoint Charlie
+198003|Smartloft
+198014|Gasthaus Sternen
+198020|Lüneburg-Haus
+198050|Ochsen
+198053|Fritz
+198054|Eden
+198097|Lauterbach am See
+198116|Am Peenetal
+198130|Haus Christl
+198135|Romantik Hotel Hirschen
+198142|Hopper St. Josef
+198147|De Lange Man
+198153|Seeschlößchen
+198159|Usedom Palace
+198189|Eilenau
+198203|Qualitel
+198212|Weisse Elster
+198218|Kandler
+198236|Petul Residenz
+198247|Schwarzer Bär
+198248|An der Oper
+198256|Sonnenbichl Gästehaus
+198258|Feldmochinger Hof
+198290|Heidekranz
+198313|Figo
+198321|Amadeus
+198340|Veldscholten Garni
+198341|Konradshof Garni Cafe
+198363|Schluister Park
+198364|Handelshof
+198365|Von Stephan
+198369|Golf-Vesper
+198371|Irenensee
+198381|BEST WESTERN Amedia Hotel
+198430|Schloss Gnadenthal
+198434|Gebhards
+198446|Strandhaus Mönchgut
+198461|V8 im Meilenwerk
+198486|Novum Hotel Primus Frankfurt Sachsenhausen
+198494|Rote Lache Höhenhotel
+198519|Ole Liese
+198521|Gut Tribbevitz
+198523|Gutenberger
+198534|Hiddenseer am OZEANEUM
+198539|Alter Hafenspeicher
+198540|Tum Stürmann
+198578|St. Fridolin
+198623|mD-Hotel Frankenhof
+198629|Schöll-Gasthof
+198638|Bommersheim
+198644|Sonnenhof
+198661|Bastenhaus am See
+198677|Weide
+198686|Straßer's Landgasthaus Rössle
+198694|Weinberg-Schlößchen
+198698|Löwen
+198720|Bad Bogensporthotel
+198728|My Place airport business & conference
+198729|Alte Post
+198777|Harzhaus
+198778|Amadeus am Park
+198787|Zum Ratsherrn
+198798|Mikon Eastgate
+198810|Classico Boutique
+198821|Zum weissen Lamm
+198910|Waldhütte Heidehotel
+198944|Matheisen
+198950|Harzresidenz
+198957|Itzumer Paß
+198969|Astoria
+198989|Landhaus Ohnesorg
+198990|Rosen
+199000|Reussenstein
+199010|Hochheide
+199016|Ringhotel Kurhaus Ochs
+199031|Ashleys Garden
+199032|Alexanderplatz Apartments
+199041|Aspria Berlin & Spa & Club
+199052|Golfpark Strelasund
+199060|Katharinenhof
+199066|Altes Kaufhaus
+199067|Brauhaus
+199070|Hotel Lützow
+199073|Bayernwinkel
+199103|Gasthof Kern
+199115|Jägerstube
+199128|Pension Waldoase Hirschbuchenkopf
+199138|Ivbergs Hotel Premium
+199142|Villa Lucie Else
+199155|Kimmig
+199172|Akademiehotel Dresden
+199192|Neu Heidelberg
+199204|Tryp by Wyndham Düsseldorf City Centre
+199228|Villa Herzog
+199243|Löwen Landgasthof
+199244|Company Flair
+199258|Posthotel Kreuz Post
+199266|Deutsches Theater Garni
+199293|Cortiina
+199299|Acomhotel Nürnberg
+199316|Adagio Berlin Kurfürstendamm
+199319|Panorama
+199354|Hotel Royal Elmshorn
+199365|Gasthof zum Rassen
+199366|Anhalt
+199369|Gästehaus Spoth
+199379|Linde
+199384|Best Western Bamberg
+199392|Birnbaumhof
+199400|Opal
+199412|Ritzi
+199414|Gasthof Goldener Hahn
+199452|Hirsch Brauerei Hotel
+199467|Zum Alten Flecken
+199470|Kempf
+199497|Romantica Central Stuttgart Winnenden
+199504|Bei Liebe's
+199509|Sarotti Höfe
+199515|Sauerländer Hof
+199539|YoHo The Young
+199541|Moosburger Hof
+199545|Landhotel Löwen
+199547|Weinhof
+199549|Mosel-Landhaus
+199563|Kocks am Mühlenberg
+199565|Excelent Designhotel
+199571|Kurpark Villa ASLAN
+199614|Dünenschloß
+199629|Central
+199632|aktivim FRIZ
+199653|Grand City Hotel Dresden Radebeul
+199659|Zur Post
+199669|Privatzimmer Bellevue
+199670|Fürstenhof
+199671|Morsum Kliff
+199705|Post Garni
+199707|Villa Dürkopp
+199709|Höpkens Ruh Landhaus
+199712|Felsenkeller
+199714|Räucherhansl Landgasthof
+199720|Brilliant Apartments
+199721|Hesborner Kuckuck
+199726|Gasthof Braun
+199728|Der Westerhof
+199731|Central
+199794|Park-Hotel
+199809|Seeblick
+199812|ACHAT Premium München-Süd
+199821|Schwarzer Bock
+199824|Landhaus Hof Wasserkuppe
+199825|City Krefeld
+199836|Götz
+199843|Eifelstube
+199879|Vier Jahreszeiten
+199886|Achental Gästehaus
+199914|Am Bad-Wald
+199932|Spree Balance Kur- & Wellnesshaus
+199934|Hotel Landhaus Knappmann
+199939|Apartmenthaus Potsdam-Quartett
+199971|Panorama Superior
+199990|Gasthof zur Post
+200042|Tryp by Wyndham Bad Oldesloe
+200067|Backmulde
+200078|SchlossBantikow
+200118|Goethe Frankfurt
+200123|The Grey
+200130|AS - Apartmenthaus - Berlin
+200131|Schoenhouse Apartments
+200132|Old Town Apartments Schönhauser
+200146|Waldblick
+200157|Roseneck
+200165|Feldbergblick CafÃ© Pension
+200166|Gästehaus Alba
+200167|Blauer Hecht
+200171|Erbprinz Ludwigslust
+200237|Star Inn Hotel Karlsruhe Siemensallee
+200257|Pension Im Sunnegässle
+200264|Goldene Rose
+200266|Zum Schwan
+200279|Schindlerhof
+200297|Haselünne Burghotel
+200305|Gasthof Stift
+200310|Romantik Sim-JÃº
+200312|Landhotel Rügen
+200338|Ancora
+200346|PromenadenAdmiral
+200355|Hohwachter Hof
+200356|Villa Aranka Aparthotel
+200376|Europa
+200384|Am Südtor
+200404|Schloßmühle
+200419|De France
+200433|Sonnleiten-Rupert
+200460|das HOTEL in München
+200469|Seehotel Off
+200471|Hannover
+200482|Merian
+200483|Prinzregent
+200516|Louis
+200519|Goor Suiten
+200535|Goldenes Fass Meissen
+200556|WaldTwiehaus
+200565|Ferienhotel Mühlleithen
+200572|NOVINA Hotel Tillypark
+200589|Wasserburg
+200610|casa camper berlin
+200637|Zur Schönen Aussicht
+200648|Garni Hotel Andrea
+200673|KV Appartmenthaus Haus Miramar
+200683|Romantik- und Wellnesshotel Deimann
+200694|Wellnesshotel Legde
+200705|Wöltingerode Klostergut
+200717|Friendly Cityhotel Oktopus
+200720|Appartementhaus Altes Postamt
+200723|Landgasthof Ratz
+200724|Im Ziegelweg
+200732|Zollenspieker Fährhaus
+200738|Aria
+200762|Fährhaus
+200766|Zur Lochmühle
+200769|Milser Landhaus
+200775|Schanzenhaus
+200786|Köln Apartments
+200796|Jägerstüberl Waldpension
+200799|Vital Hotel Meiser
+200805|Haus am Park
+200814|Eichenhof
+200817|Barbara
+200823|Feckl's Apart
+200824|Landhaus Feckl
+200829|Höhenhotel-Restaurant Kalikutt
+200857|Anitas Ferienhaus
+200858|Wellings Parkhotel
+200868|AGA'S & Restaurant
+200870|Gendarm Nouveau
+200875|Gasthaus Kranz
+200876|GreenLine Hellfeld
+200892|Alter Packhof
+200895|Ostfriesland
+200904|Arthotel
+200909|Gasthof Zum Kreuz
+200917|Am Adenauerplatz-Maison
+200921|Gasthof Hirsch
+200925|City-Aschaffenburg
+200927|Ascania
+200928|Platte Romantik-Hotel
+200929|Parkhotel am Rehazentrum
+200934|Lindenhof
+200941|Weiherbach
+200943|Potsdamer Inn
+200946|Marienthal Garni
+200966|Adina Apartment Hotel Berlin Hauptbahnhof
+200979|Regina
+200983|Qube
+200997|Villa Im Park
+201002|Villa am Waldschlösschen
+201006|Gasthaus Waldeslust
+201017|Gästehaus Zeranka
+201032|Tannenhäuschen Waldhotel
+201035|Hackteufel
+201064|Waldhotel Wilhelmshöhe
+201066|Balance am Blauenwald
+201070|Zum Röddenberg
+201093|Stay2Munich
+201100|Rödelheimer Hof - Am Wasserturm
+201130|Sonnenhang Cafe
+201132|Hubertus
+201337|Hilton Garden Inn Frankfurt Airport
+201356|Kurhaus - grand hotel moderne
+201358|Hübners Park-Hotel
+201365|Ringhotel Zum Harzer
+201368|Alte Dorfschule
+201372|Elbiente
+201377|Edelweiss
+201380|Holiday Inn Express Hamburg St. Pauli Messe
+201381|Havenhostel Bremerhaven
+201383|Residenz am Schloß
+201384|ATLANTIC Congress Essen
+201392|Pension Jensen
+201394|Mein Inselhotel
+201397|Upstalsboom Haus Fresena
+201404|Residenz Ostseestrand
+201421|Zum Kronenhof
+201446|Ferienresidenz Hohe Lith
+201447|Feriendorf Falkenburg
+201451|Haus Undine
+201454|Holiday Vital Resort
+201456|Burg Freienstein
+201457|Villa Ostseeland
+201462|Leuchtturmblick Ferienwohnungen
+201467|Haff Hotel
+201469|Goldener Löwe Appartementhaus
+201471|Villa Rosenburg
+201472|Am Brockenblick
+201474|Ferienpark Mais Kühberg
+201475|Ferienpark Viechtach
+201476|Casa Monica
+201478|Sonnenhof
+201479|Haus Conny
+201481|Haus Ranker
+201518|Steinweidenhof
+201522|Haus Linden
+201593|Parkhotel Cup Vitalis
+201594|Malteser Klinik Von Weckbecker
+201685|Budersand
+201771|Dünenhotel Alt Rantum
+201937|Seminarhotel - Akademie Gesundes Leben
+201973|Künstlerquartier Seezeichen
+202023|Mühlenholz
+202024|Zum Biber
+202025|Little Boom Ranch
+202027|Seeblick
+202028|Schoppe
+202029|Ferienanlage funny-friesland
+202101|RUF Kids-Camp
+202805|Garni La Maison
+202943|Veranstaltung - Hinterm Horizont
+202946|Veranstaltung - Ich war noch niemals in New York
+202992|Kurhotel Lechmann
+202993|Uibeleisen Sanatorium & Gesundheitszentrum
+202994|Dr. Wüsthofen Gesundheits-Resort
+202995|Beauty Cottage
+203385|Wohlfühl-Hotel Sonnentau
+203393|Romantik Neumühle
+203409|Landhaus Schönblick
+203525|Eisenberg Ferienanlage
+203530|Kaak
+203624|Grenzfall
+204275|Alexander der Grosse II
+204433|Alte Laterne
+204457|Altstadthotel Wienecke
+204470|Am Kloster Wienhausen
+204943|Apartment Hotel Landhaus Lichterfelde
+204956|Apartmentconcept
+204983|Apartments in Friedrichshain
+205070|Apparthotel Minerva Diana Octavia
+205255|Art Inn Hotel Dinslaken
+205589|Serways Hotel Bruchsal West
+205895|Bayerischer Hof
+205896|Bayerischer Hof
+206619|Burg Trendelburg
+206628|Burns Art Cologne
+207149|Central
+207153|Central Inn
+207416|City Guesthouse Pension Berlin
+207427|City Hotel Gotland
+207432|City Inn
+207468|City-Oase
+207599|Come 2 Friends Apartmenthaus
+207844|CREO living
+208324|Diana
+208431|Domspitzen
+209006|Europe Apartments
+209107|Famosa
+209172|Ferienanlagen Rügen
+209174|Ferienappartements Locke
+209241|Figaro
+209278|Five Elements Hostel
+209419|Freiämter Hof
+209425|Friedenshöhe
+209499|Garden House
+209576|Gästehaus am Turm
+209577|Gästehaus Berlin Mitte
+209589|Gästehaus Flensburg Engelsby
+209602|Landhaus LiebÂ´Lommerke
+209603|Gästehaus Mann
+209640|Gasthaus Löffelschmiede
+209722|Gay Hostel
+209734|Gendarm Ostseeresidenz
+209946|Grand Hostel Berlin
+210382|Hedwig-Pfeiffer-Haus
+210459|HH-Quartier
+210558|Holiday Inn Express Gütersloh
+210592|Holl
+210641|Honigmond
+210877|Hostel Köln
+210879|Hostel Mondpalast
+210933|Kirchmayer
+210935|Hallbergerhof Hotel & Hostel
+210967|Arena
+211059|Brunnenhof
+211368|Hotel-Pension Bolgerini Inn
+211515|Hotel-Pension Marga
+211522|Hotelpension Windflüchter
+211536|Rizz City
+211576|Hudewald Resort
+211623|Ibis Friedrichshafen Airport Messe
+211791|InterCityHotel Berlin-Brandenburg Airport
+211965|JUFA Nördlingen im Ries
+211967|Jugenddorf am Ruppiner See
+212005|Kallmeyer
+212606|Labyrinth Hostel Weimar
+212631|Lakeside Bed & Breakfast Berlin - Pension Am See
+212650|Lamti
+212668|Landgasthof Göbel
+212681|Zur Post
+212717|Landhotel Altastenberg
+213541|Löwenbräu
+213923|Maxhotel - Lindau
+214001|Mercure Frankfurt Eschborn Helfmann-Park
+214161|CALMA Berlin Mitte
+214303|Motel One Berlin-Bellevue
+214304|Motel One Berlin-Tiergarten
+214358|Musa's Grüne Tanne
+214768|Orange
+214817|Ottersleben
+215229|Pension Bolle
+215268|Hotel-Pension Charlottenburg
+215274|Pension Hartmann
+215310|Pension Marienburg
+215321|Pension Nordland
+215344|Pension Schweizerhaus
+215355|Pension Tachensteiner Hof
+215359|Pension To De Blauen Wellen
+215365|Pension Vanii
+217440|Rose
+217853|Schloss Purschenstein
+218073|Sir F.K. Savigny Berlin
+218197|Sonnenhof
+218287|SportScheck
+218345|Stadt Gernsbach
+218351|Stadthotel-Garni
+218353|Stadtperle Rostock
+218395|StayInCologne
+218425|Steps Hotel Wedding
+218638|t&c apartments Prenzlauer Berg
+218655|Tandem
+220591|Waldhaus Obergrasmühle
+220594|Waldhotel Seebachschleife
+220607|Wannsee Hof
+220752|Wiesbadener Hof
+220951|Zollhof
+220973|Zur Allacher Mühle
+220975|Zur alten Stadtmauer
+220989|Zur Schönen Aussicht
+221179|Appartement Hotel zur Kranengasse
+221406|Burg Staufeneck
+221921|Ferienwohnungen Weichaer Hof
+222008|Gasthof Mayrwirt
+222015|Gasthof Müntzer
+222143|Landhotel Karrenberg
+222445|Klozbücher - Das Landhotel
+222548|Schweizerhof Landgasthof
+222574|Schwalbennest
+222967|Paulsen's
+223022|Pension Waldesruh
+223403|Schmidt mit Gästehaus Am Vogelsang
+223795|Waldhof
+226709|Cosmo Hotel Berlin Mitte
+226771|InterCityHotel Mannheim
+226834|ATLANTIC Grand
+226835|Courtyard by Marriott Bremen
+226933|Burghotel Bären
+226985|Yachthafenresidenz Kühlungsborn
+226993|Günnewig Stadtpalais
+227061|NH Ludwigsburg
+227074|Landhof Insel Usedom
+227102|Gästehaus Lärchenhang
+227122|NH Berlin Potsdamer Platz
+227217|Goldener Helm
+227326|Burghotel Lenzen
+227544|Anker's Hörn
+227556|A&O Berlin Hauptbahnhof
+227734|ATLANTIC Kiel
+227812|Sonneneck
+227815|Landal Winterberg
+227821|4 Youth Am Mauerpark
+227835|H10 Berlin Ku'damm
+227847|Romantik Apartments Glashütt
+227848|Novotel München Airport
+227861|carathotel Wittelsbacher Hof Kelheim
+227891|Hotel Zwickau Mosel
+227931|Scandic Berlin Potsdamer Platz
+227955|Explorer Hotel Oberstdorf
+227965|Adina Apartment Hotel Berlin Hackescher Markt
+227972|Adina Apartment Hotel Hamburg Michel
+228002|Tryp by Wyndham Berlin Mitte
+228048|Ibis Konstanz
+228150|ATLANTIC Lübeck
+228221|Schlosshotel Blankenburg
+228366|Park Inn by Radisson Hotel in Stuttgart
+228415|Sonnleit'n
+228568|Haus Möwe
+228655|Hampton Berlin City West
+228678|Best Western Premier Moa
+228679|Zum Himmel
+228698|Haus Bergblick
+228699|Stoll's Ferienwohnungen
+228702|NH Dresden Altmarkt
+228733|Vitalhotel König am Park
+229062|Old Town Apartments Gartenstr.
+229063|Old Town Apartments Zehdenicker Str.
+229066|Old Town Apartments Metzer Str.
+229119|Gesundheitszentrum Saarschleife
+229375|Schwarzwaldhotel Adler
+229406|Ibis Styles Berlin Mitte
+229419|Leonardo Royal München
+229477|Comfort Hotel tom Kyle
+229484|Younior Stralsund
+229536|Getreuer Eckart
+229860|Leinsweiler Hof
+230119|Spessartruh Landhotel-Gasthof
+230287|Waldhaus Lahnstein
+230328|Am Seebogen Hotel-Gasthof
+230735|Upstalsboom Hotelresidenz & Spa Kühlungsborn
+231608|Zar Hotel Vitalis
+231628|nhow Berlin
+231630|Cochemer Jung
+231654|Steigenberger Grandhotel & Spa
+231922|H2 Hotel Berlin Alexanderplatz
+231943|Ramada Berlin Alexanderplatz
+231944|Holiday Inn Express Dresden City Centre
+231989|Scheelehof Stralsund
+232063|25hours HafenCity
+232064|Steigenberger Grandhotel Handelshof
+232084|Motel One Dresden-Palaisplatz
+232087|Hochwälder Wohlfühlhotel
+232090|Nesselwanger Hof
+232241|Adagio München City
+232297|Hafenresidenz Stralsund
+232299|Strandhotel Dranske
+232406|Kurhaus
+232417|Rothweinhotel
+232420|Rabenstein
+232427|JUFA Kempten im Allgäu
+232428|JUFA Meersburg am Bodensee
+232429|Gasthaus Hirsch
+232465|Jumeirah Frankfurt
+232567|Welcome Frankfurt
+232619|Berg Lodge
+232707|Kurgarten-Hotel
+232807|Hyatt Regency Düsseldorf
+232952|Industriepalast Hotel & Hostel
+233252|Residenz Passat
+233333|Ferienanlage Schuldt
+233338|Residence Park am Schweriner See
+233344|Lausitz Resort
+233358|Klinik Graal-Müritz
+233359|Median Klinik
+233371|GHOTEL hotel & living Koblenz
+233383|Bayerischer Wald Resort
+233454|SANA Berlin Hotel
+233494|A2
+233497|Seeblick
+233533|Eurostars Berlin
+233551|Gästehaus Germania
+233657|Atlantis Dorsten
+233662|Park - Thermenwelt Erding
+233681|Waldcafe Jäger
+233697|Gesundheitszentraum Waldsee-Therme
+233700|Gesundheitszentrum Winterstein
+233702|MediClin Schlüsselbad Klinik
+233704|MediClin Rose Klinik
+233870|Acamed Resort
+233962|Festivalcamp Rügen
+233963|Connections Binz Camping
+234643|Störtebeker Camp
+234691|Osterheide
+234784|Suite Hotel Binz
+234865|Domizil Karin
+235200|Gasthaus Hotel Bremen
+235201|A&O Dortmund Hauptbahnhof
+235415|A&O Nürnberg Hauptbahnhof
+235436|LetoMotel
+235598|Ludwig 2 - Das Musical
+235600|Appartementanlage Vierjahreszeiten
+235623|Ludwig Eins
+235625|Katerberg & Ferienhaus Tobie
+235652|Residenz Babenhausen
+235671|Haus Diana
+235674|4 Pfoten Resort
+235676|Doberaner Hof
+235681|Monomach
+235689|Richstein's Posthotel
+235751|Gartenhotel Triest
+235755|Gästehaus Prinzregent Luitpold
+235772|Landhotel zum Pottkuchen
+235774|Buchenhain Waldgasthof
+235781|Am Rathaus | Appartement Bamberg
+235787|St. Thomas am Brunnenhof
+235789|Krone Gasthof
+235790|Pension Traumblick
+235795|Tannenhof Refrath
+235800|Apartmenthaus Berlin-Holiday
+235801|Classic Apartment
+235804|Gat Point Charlie
+235805|Great Home Berlin
+235807|Victoria
+235810|Metropol Hostel Berlin
+235811|Motel One Berlin-Spittelmarkt
+235813|Pension Reiter
+235815|Plus Berlin
+235817|Soho House Berlin
+235819|The Weinmeister Berlin-Mitte
+235821|Apart-West
+235828|Hotel-Pension Insor
+235854|Hotel Rieth
+235860|Waldhotel Sonnenberg
+235863|Baden
+235874|Sonnenberg Schlößchen
+235897|Hermann's Neue Post
+235917|Gästehaus Meereswoge
+235920|Palazzio
+235938|Road Stop Dortmund
+235944|Hostel Lollis Homestay Dresden
+235954|Van der Valk Airporthotel Düsseldorf
+235971|Schlosshotel Bad Griesbach
+235984|Landhotel Westerwald
+235985|Landgasthof Pröll
+236007|Stocker
+236010|Villa-Soy
+236012|Zeitwohnhaus
+236034|Wellnesshotel Am Birkenhain
+236036|iO Hotel Eschborn
+236045|Schlosshotel Linderhof
+236065|Fritzis Art
+236066|AMH Airport-Messe-Hotel Stuttgart
+236077|Am Markt Ratingen
+236093|Park Inn by Radisson Frankfurt Airport Hotel
+236118|Gästehaus Hornstein
+236119|Hanselehof
+236122|Haus Berghoff-Stute
+236168|Villa Hohenwald
+236172|Holiday Inn Express Frankfurt City - Hauptbahnhof
+236173|Lindner Hotel & Sports Academy
+236176|Star Inn Hotel Frankfurt Centrum
+236178|Rennsteighöhe Waldhotel
+236199|Heidegrund
+236232|Am Markt
+236241|Meerzeit
+236382|Motel One Hamburg am Michel
+236383|Motel One Hamburg-Alster
+236389|Landhaus Hammoor
+236392|Grand Palace Hannover
+236407|Waldhaus Prieros
+236420|Schlossberg
+236431|Titanic Comfort Berlin Mitte
+236433|Panorama Hotel Cursdorfer Höhe
+236440|Rheingauer Tor
+236477|Hotel Lindner
+236681|Almdorf Rauschbergblick
+236845|Courtyard München City East
+236995|Vitalhotel Weisse Düne
+237091|Bülow Palais
+237119|InterCityHotel Bonn
+237120|RUF Kinder- und Jugendhotel
+237154|Michels Hanseatic
+237169|Pension Meisl
+237203|Schwarzwälder Hof
+237205|Maxis
+237220|Ostseehaus Bünger
+237221|Landgasthof zum Raben
+237240|First Domizil
+237256|Bodensee-Hotel Sonnenhof
+237286|Zum goldenen Stern
+237291|Parkhotel Stuttgart Messe-Airport
+237298|Schwörer
+237299|Landgasthof Blume
+237331|Haus am See
+237337|Strand-Hotel Lobbe
+237340|Ferienwohnungen Haid
+237349|Vier Jahreszeiten Lübeck
+237369|Kochsberg Europa-Akademie
+237374|Sky Hotel Merseburg
+237378|Waldhalle
+237383|Bilz-Kurhotel & Pension
+237394|Andra
+237395|Concept Living München
+237440|Fire & Ice
+237469|Kopa
+237474|Oberhof 810 M
+237505|Rebstock
+237645|Zur Perle
+237707|Haus Wildbach
+237822|NH Frankfurt Messe
+237845|Brinckmansdorf
+237858|Gästehaus Milella
+237888|Haus Drei Tannen
+237900|Hubertushöhe
+237929|Mainzer Rad
+237931|Wald und See
+237947|Heideparadies
+237975|Backmulde
+237976|Alt Speyer
+237977|Berlin
+238021|Neuwirtshaus
+238029|LÃ©gÃ¨re
+238035|Inspiration
+238050|Hotel Pilgerhof und Rebmannshof
+238062|Klippenhotel Garni
+238073|Central am Königshof
+238081|Am Sonnenhang
+238119|Radlerhotel Wassertrüdingen
+238123|Schwarzburger Hof
+238126|Schlosshotel Wendorf
+238138|City Hotel Wiesbaden
+238140|Friesen-Hotel
+238262|Waldorf Astoria Berlin
+238494|Ameron Abion Villa Berlin
+238590|Swissotel Dresden am Schloss
+238613|Ringhotel Schorfheide - Tagungszentrum der Wirtschaft Joachimsthal
+238623|Novum Style Hotel Hamburg-Centrum
+238665|Beach Motel
+238671|Michels Apart Hotel Norderney
+238690|EVE Resort & Spa
+238756|Aarnhoog
+239093|Plumbohms Bio-Suiten
+239102|Pension Bayerwald
+239106|Landhaus Berger
+239136|Pangea People Hostel & Hotel
+239524|Havellandhalle Resort
+239607|Sonne
+239639|Kurhotel Regina
+239691|Ferienzentrum Oberhof
+239900|Logierhus Langeoog
+240471|Best Western Plus Hotel Vier Jahreszeiten
+240526|Sporthotel Fränkische Schweiz
+240568|Jugendherberge Heringsdorf
+240571|IB Jugendgästehaus Furtwangen - Wohnheim/Gästehaus
+241202|Cityrentals Berlin
+241404|Hilton Frankfurt Airport
+241645|Wellnesshotel Mönchgut
+241646|Aktiv & Vital Hotel Thüringen
+241776|Median Hannover Messe
+241871|Europa-Park Resort - Bell Rock Erlebnishotel
+241900|Inselhof Vineta
+241912|Schloss Reichmannsdorf
+241957|Haus Am Kurpark
+241958|Karoli
+242473|Ferienpark Daktylus
+242508|Best Western Bierkulturhotel Schwanen
+242863|Sonnenhotel Fürstenbauer
+242864|Hirschen
+242867|See-Eck
+243409|Hotel Scandic Hamburg Emporio
+243678|arcona LIVING Bach14
+243680|Wilhelm-Augusta
+243725|BarcelÃ³ Hamburg
+243726|Arcotel Onyx Hamburg
+243749|Pension Kühne
+243935|Generator Hostel Hamburg
+244934|Indigo Berlin - Ku'damm
+244955|Landhotel Hanfland
+245302|City Inn Magdeburg
+245324|Artisthotel Naumburg
+245349|Burg Rabenstein
+245367|Pension Gabriela
+245369|Gästehaus Steker
+245477|Dr. Ebel Fachklinik 'Moorbad'
+245554|Dorint Hamburg-Eppendorf
+245668|Anka
+245886|Indigo Berlin - Centre Alexanderplatz
+245972|Pestana Berlin Tiergarten
+246125|Kurhotel Schatzberger
+246178|A&O Hamburg City
+246181|Ferienpark Berum
+246206|Gutshaus Zicker
+246209|Port Puddemin
+246222|Ferienhof Theeßen
+246302|Neuwirt
+246419|Seidel
+246793|Grüner Jäger
+247164|Freizeit-Oase Tillessensee
+247210|Vital Camping Bayerbach
+247412|Pension im Lieth-Cafe
+247451|Stranddistel
+247464|Oversum Vital Resort Winterberg
+247467|Ibis Hotels Dresden - Königsstein/ Bastei/ Lilienstein
+247652|Müritz Klinik
+248344|Landhaus Wächter
+248345|Mani
+248445|Sporthotel Bloemfontein
+248910|Bayerischer Hof
+249725|Alte Gärtnerei Dresden
+249771|Residence Inn Munich City East
+249826|Alte Schule
+250047|Alpin Lifestyle Löwen & Strauss
+250053|The Rilano München
+250054|Rilano 24/7 München City
+252953|Hotel Plagwitzer Hof
+252957|Hotel Demas City
+252958|Derag Living Campo Dei Fiori
+254115|Meininger Hotel Berlin Flughafen
+254117|LebensQuelle
+254118|Atlas Berlin
+254121|Villy-Berlin
+254122|AS-Christinen
+254126|Pension Absolut Berlin
+254133|Wyndham Grand Berlin Potsdamer Platz
+254134|Art Flat 27
+254135|Pfefferbett Apartments Berlin - Regierungsviertel
+254136|Heart of Gold Hostel Berlin
+254138|H'Otello K'80 Berlin
+254139|Inn Sight - Potsdamer Platz
+254140|Hotel Prens Berlin
+254141|City Center Checkpoint
+254145|Judits House
+254148|Mittendrin - Gaestezimmer am Kurfuerstendamm
+254151|Artflats 16
+254152|Pension Brinn
+254157|EnergieHotel Berlin City West
+254158|Holi Hostel Hotel
+254159|Zims
+254161|Ringhotel Bellevue
+254162|Appartements Am Theater
+254163|Elbvilla Dresden
+254168|Petul City Garden
+254473|Haus Hohenzollern Hotel-Garni
+254523|Appartementanlage Laboe
+254734|Pension Elan
+254735|Wellness-Hotel Elisabeth
+254736|The English Garden
+254776|Meininger Hotel Frankfurt/Main Flughafen
+254777|Hotel Expo
+254778|mk hotel frankfurt
+254779|DORMERO Frankfurt Messe
+254780|Weinhaus Wöhler - Inn
+254783|Gundl Alm
+254784|Villa Toscana
+254848|Setzberg
+254978|Am Schwanenweiher
+255001|Hotel Villa Vinum Cochem
+255003|Familotel Storchen - Storchennest
+255809|Krahnstöver
+255815|Nordic Hotel Konigstein
+255938|Reethäuser auf Rügen
+256146|RheinHotel Arte
+256147|Flensbed Hostel & Boardinghouse
+256171|Gästehaus Kaiserpassage
+256345|Am Märchenbrunnen
+256346|Goldener Adler Delitzsch
+256368|Dreiländerbrücke
+256373|SAKS Urban Design Hotel
+256383|Pension am Stadtpark
+256475|Smart-Inn
+256541|Stadthotel Werther
+256542|Parkhotel 1970
+256561|Zum Ruecking
+256858|Lamm
+257024|Einfelder Hof
+257025|Flämingrose
+257029|49 Landhaus Wildemann
+257182|Talblick Flair- & Berghotel
+257568|Hotel Pension Dettmar
+257758|Cityhotel Ahlen Garni
+257818|Derag Living Düsseldorf
+257820|Haus Rheinblick
+258103|Schloss Ranzow
+258201|Hammermühle Landgasthof
+258215|Salinen Parc
+258282|Fellner
+258371|Georgenhof
+258400|Zum Spitzbuam
+258402|Gästehaus am Sonnenhang
+258404|Fährhaus Ziehl
+258406|Karlsmühle
+258407|Dream Inn Regensburg
+258490|Alte Schule
+258629|Waldhotel Maum
+258664|Rothenfels
+258665|Avenon Privat-Hotel Am Steinberg
+258666|Parkhotel Surenburg
+258905|Boardinghouse HOME
+259101|Hotel Gasthof Handewitt
+259401|Strandhotel Buckow
+259407|Alphotel
+259487|Holiday Inn Berlin - Centre Alexanderplatz
+259531|Arena Hotel Leipzig City
+259572|Motel One Berlin-Hauptbahnhof
+259727|Bastei
+259788|AlmodÃ³var
+259800|Weisses Ross
+259906|Michels Thalasso Nordseehaus
+259907|Sibyllenbad
+260020|Seminarhotel Kunze-Hof
+260021|Spiekerooger Leidenschaft - Hotel Künstlerherberge
+260035|Hannes Hof
+260036|Alpenland Vital Hotel
+260059|Grand City Hamburg Mitte
+260083|Zu Hause
+260209|Kurzentrum Waren
+260493|Alpchalet Schwanstein
+260531|Gasthaus Drei Rosen
+260535|Altes Stahlwerk Business & Lifestyle Hotel
+260536|a-ja Warnemünde. Das Resort
+260539|Panoramahotel Oberjoch
+260544|Zum Josefshof
+260577|Zarenhof Friedrichshain
+260584|Haus Wiesengrund
+260585|Reha-Klinik Am Kurpark & Haus Sonnenblick
+260647|LEONARDO Völklingen
+260652|KurOase im Kloster
+260653|Airport BERGER'S Park
+260730|Das Stue
+260765|Raphael Hotel Wälderhaus
+260771|Freihof
+260789|Spreewald Thermenhotel
+260877|Steigenberger Airport Hotel
+260880|Say Cheese Leipzig Hostel & Hotel
+260992|Waldachtal Business & Balance
+261065|Zur Linde
+261180|Landal Eifeler Tor
+261188|Hotel Nautic
+261202|Petul Apart Hotel Stadtgarten
+261203|Petul Aparthotel Am Ruhrbogen
+261258|Gasthof Terofal
+261264|Sagen- und Märchenhotel Rügen
+261277|Motel One München-Garching
+261280|Motel One Stuttgart-Hauptbahnhof
+261447|Schloss Gartrop
+261496|Appartementhaus Himmelreich
+261516|Reiterhof Schober
+261575|Center Parcs Park Bostalsee
+261578|WELTRAD Quartier
+261650|United Hostel Frankfurt City Center
+261657|Gasthof Adler
+261746|Aspria Uhlenhorst
+261881|Zuflucht
+262071|Domus
+264484|Hampshire Hotel - Nitteler Hof
+265645|Reetdachhaus Burhave
+265692|angelo Munich Westpark
+265711|Eurostars Book
+265878|Waldesruh
+265880|ABT Apartments - Hannover
+265881|Space Hotel & Hostel Leipzig
+265884|Eastpark Apartments
+270550|The Brandenburg Gate Hostel
+270552|Apartment Cosy Home Rosenthaler Platz
+270554|Apartment Heinrich Heine Platz
+270557|Luxoise
+270558|Apartment Berlin 1
+270563|Feels Like Home Prenzlauer Berg Kulturbrauerei- Apartments
+270565|Paulas Kiez
+270566|Cab City Apartments Waldstrasse
+270567|Apartments Emdener Strasse
+270568|Apartment Oldenburger Straße
+270570|Excellent Apartments
+270571|CAB City Apartments Perleberger Strasse
+270572|Main Station Hostel
+270574|Get in Berlin - Apartments
+270576|AMC Apartments Ku'damm
+270579|Price Apartments Berlin
+270584|Arena Inn
+270587|City-Apartment
+270588|Apartment Dresden Neustadt
+270589|Ferienwohnung Fricke
+270590|Ferienwohnung Villa Kadenstrasse
+270591|Ferienwohnung Herzig
+270593|Ferienhaus Enderlein
+270594|A-partment -Mediapark
+270595|A-partment Schokoladenmuseum
+270596|A-Partment Basic
+270879|Hotel H3
+270880|Waldruh
+271184|Moin
+271186|Das Haus am Walde
+271188|Apartment Erfordia
+271189|Ilmenauer Hof
+271364|Goethe Apartment Frankfurt
+271586|Stadthotel Stern
+271780|Royal
+272937|Heiner's
+273505|Malerwinkel Hotel
+273606|Raffelsteiner Hof
+274252|Europa Hotel
+274382|Hotel-Pension Südring
+276193|Apartments Mester
+276495|Villa am Ruhrufer Golf & Spa
+276858|L' Auberge Gutshof
+276860|Rebstock
+276862|HRC Pfeffermühle
+276863|Schloss-Hotel Landstuhl
+277084|Weiße Elster
+277507|Ibis budget München City Süd
+279296|aletto Kudamm Hotel & Hostel
+279317|Ibis Styles Aalen
+279449|Golden Tulip Kassel Hotel Reiss
+284882|Camping Meyersgrund
+284883|Enso Hotel
+284885|Harzhotel Güntersberge
+284888|Brixiade & Triton - Brixiade
+284889|Brixiade & Triton - Triton
+284983|Rheinischer Hof
+286094|Haibach Gästehaus
+286117|Pension Am Park Lietzensee
+286119|Henri Downtown
+286373|Sölden Appartement
+286377|GHOTEL hotel & living Wuerzburg
+286592|Boehm Gästehaus
+287728|Leinegarten
+288229|Hotel Near By
+289229|Hotel Herrnbrod Staendecke
+290902|Haus am Markt
+291367|Hotel an der Hasenheide
+291368|Hotel Novum
+291370|Haus Hubertus
+291371|Ferienhaus zur Blautanne
+291971|Großwallstadt Business Sporthotel
+291975|Zur Linde
+293036|TK Appartements
+295565|Haus Kroneneiche
+295567|Haus am Klostersee
+295693|InterCityHotel Leipzig
+295725|Hotel Klosterhof Eckelsheim
+295726|Motel Stralsund
+295729|Ibis Styles Nagold
+295928|Kloster Holzen
+295929|Friedrich
+295930|Seehotel Hartung
+295931|Pension Deichgraf
+295932|Landgasthof Sauer
+296173|Fischerwiege am Passader See
+296174|Admiral Scheer
+296177|GreenLine Landhotel Rosenhof
+296183|Klosterhof Aldersbach
+296615|GreenLine Thermen Club Hotel
+296651|Adagio Köln City
+296656|Gasthof Fantenberg
+297030|L'ArrivÃ©e Hotel & Spa
+297034|Romantik Hotel Hüttmann
+297037|Pommerscher Hof
+297409|Alpenhof
+297968|Fini Resort Badenweiler
+298085|Green Resort Jade
+298175|Residenz Casanova
+299290|Best Western Plus iO Hotel
+299679|Vitalhotel Oase
+299918|Park Hochsauerland - Center Parcs & Hotel Hochsauerland
+299919|Park Hochsauerland - Hotel Hochsauerland
+300109|Explorer Hotel Neuschwanstein
+300141|Nordic Hotel Dresden
+300145|Wyndham Grand Frankfurt
+300463|Familotel Feldberger Hof - Ferienwohnung am Feldberg
+301169|A&O Hostel Frankfurt Galluswarte
+301238|Best Western Amedia Hotel Berlin Kurfürstendamm
+301523|Ibis München Süd
+301886|Jugendherberge Warnemünde
+301887|NoHotel Hostel Rügen
+301917|Haus Hirschmann
+302252|Franz Stadt- und Tagungshotel
+302275|Vinum
+302278|Hotel Sportforum Rostock
+302283|Landgasthof Puck
+302286|Seehotel Brandenburg a.d. Havel
+302334|Generator Berlin-Mitte
+302354|Bora HotSpaResort
+302468|Residenz Sonnenhang I / Sonnenhang II / Hopfensee
+302495|InterCityHotel Berlin Hauptbahnhof
+302496|Boutique Hotel i31
+302569|Boardinghaus Norderney
+302641|Silberberg-Klinik
+302646|Espan-Klinik
+302963|7THINGS-my basic hotel
+303760|Frühstückspension Maier
+303781|Landhotel Maiergschwendt
+304344|Gasthof-Pension-Metzgerei Meindl
+304701|Gästehaus Bodman
+305283|Vitalhotel Bad Birnbach
+305573|Keramikhotel
+305588|TAOme Feng Shui Stadthotel Breisgau
+305771|DJH-Resort Club-Jugendherberge
+306265|Hotel Winzerstube
+306924|Zur Krone
+307633|Löwen
+307736|Altes Kloster
+307996|Gasthof Schlosskeller
+308983|Hof Carmshausen
+309141|Waldwinkel Hotels - Waldspitze
+309142|Waldwinkel Hotels - Arberblick
+309146|Holzapfel
+309188|Lindner Spa & Golf Hotel Weimarer Land
+309741|ARTHOTEL Kiebitzberg
+310005|Landhotel Allgäublick
+310790|Niedersachsen
+310889|Familotel Golchener Hof
+310893|Torfhaus Harzresort - Hotel
+310935|Genusshotel Rathaushotels - Genusshotel Rathaus
+310936|Genusshotel Rathaushotels - Genusshotel Keilberg
+310945|Alte Gärtnerei
+310961|Residenz Mühlenberg
+310978|Mosellandhotel Waldeck
+310983|Legere Hotel Tuttlingen
+311122|City Partner Webers - Das Hotel im RUHRTURM
+311186|Zum Mühlental
+313678|Haus Lukaswinkel
+314245|Pharisäerhof
+314327|Feriendorf Bakenberg
+317966|Villa Neander
+318587|Birgsauer Hof
+327631|Deutscher Hof
+332949|Midori Guesthouse
+332956|Landhotel Irschenberg
+334989|Best Western Plus Hotel Baltic Hills Usedom
+335031|Seetel Ostseeresidenz Ahlbeck
+335041|ArtHotel Connection
+335045|Berghotel Oberhof - Villa Silva
+335566|Rhönhotel Sächsischer Hof
+335633|Kur-und Sporthotel Am Badehaus
+335820|Komplex carathotel Rheingau / hoteltraube Rüdesheim - carathotel Rheingau
+336381|Villa Sommerschuh
+336513|Alpenchalet Reit im Winkl
+336686|Landgasthof Rosi Mittermaier
+338169|Am Steinbach
+343454|Ulfers, Siebelt Steinhaus Germania
+343861|Strandhof Möhnesee
+349752|Haus Rottauenblick
+349991|Haus Sonnenuhr
+350404|Sonnenpark
+353613|Apartments an der SaarowTherme
+353767|Spree Chalet Appartements - Ferienwohnungen
+354131|Mühlhäuser Hof
+354408|Blümelhuber
+354432|Steigenberger Parkhotel Braunschweig
+354439|JUFA Jülich Energiewelt Indeland im Brückenkopf-Park
+354452|Zweite Heimat
+354457|Birkenhaus am Quell
+354506|Aparthotel Bernstein
+356004|Toni's Appartements
+357413|Schleiblick Appartements
+359387|Steigenberger Hotel Bremen
+359436|Iglu-Dorf - Garmisch-Partenkirchen
+359478|INNSIDE Düsseldorf Hafen
+359480|Veranstaltung - Das Phantom Der Oper
+359489|Landhaus Im Sonnenfeld
+359598|Friesenhaus Sylter Domizil
+359608|Exe Hotel Klee Berlin
+359612|AMEDIA Express Werther
+359649|Strandresort Markgrafenheide
+359705|Bayside
+359767|Steigenberger Hotel Am Kanzleramt
+359870|Aquantis Bensersiel - Hotel
+359871|Aquantis Bensersiel - Ferienwohnungen
+359872|Cuxland Ferienpark Dorum-Neufeld - Hotel
+359873|Cuxland Ferienpark Dorum-Neufeld - Ferienpark
+359874|Ferien- und Freizeitpark Weissenhäuser Strand - Strandhotel
+359875|Ferien- und Freizeitpark Weissenhäuser Strand - Ferienwohnungen
+359876|IFA Fehmarn Hotel & Ferien Centrum - Hotelzimmer
+359877|IFA Fehmarn Hotel & Ferien Centrum - Ferienwohnungen
+359878|Regenbogen Ferienanlage - Ferienhäuser
+359879|Regenbogen Ferienanlage - Camping
+359880|Vier Jahreszeiten Kühlungsborn - Hotel
+359881|Vier Jahreszeiten Kühlungsborn - Appartements
+359883|Strandhafer - Aparthotel
+359884|Strandhafer - Ferienwohnungen
+359885|Am Alt Gaarzer Eck - Hotel
+359886|Am Alt Gaarzer Eck - Ferienwohnungen
+359887|Seehotel Binz-Therme Rügen - Hotel
+359888|Seehotel Binz-Therme Rügen - Strand-Appartements
+359889|IFA Rügen - Hotel
+359890|IFA Rügen - Ferienpark/Appartements
+359891|Waldhotel Wiesemann - Hotel
+359892|Waldhotel Wiesemann - Apartmenthaus Seeschwalbe
+359893|Hofgut Sternen - Best Western Hotel Hofgut Sternen
+359894|Hofgut Sternen - Goethehaus
+359896|Aparthotel Zwiesel - Hotel
+359897|Aparthotel Zwiesel - Ferienwohnungen
+359902|Hotels & Appartements Feuerschiff - Hotelzimmer
+359903|Hotels & Appartements Feuerschiff - Ferienwohnungen
+359919|Ramada Hotel & Conference Center München Messe
+359920|H2 Hotel München Messe
+359921|Motelplus Berlin
+359936|Ferienpark Dagebüll - Mien Huus an de Nordsee
+359940|Ameron Speicherstadt Hamburg
+359948|Strandhotel Baabe - Appartmentanlage Strandhotel
+360114|Centurio an der Therme
+360184|Europa Residenz
+360301|Neue Seelust - Iben
+361058|Alpinhotel Berchtesgaden
+361312|Sauerland Haus
+361374|Best Western Plus Hotel Bremerhaven
+363233|Aparthotel Sylt Vital
+363284|Landhaus Eifelsicht
+363403|Holiday Inn Express Neunkirchen
+363404|Sportcamp Inzell
+363510|Ferienpark IFA Schöneck Hotel & Appartements - Hotel
+363511|Ferienpark IFA Schöneck Hotel & Appartements - Appartements
+363605|47 Grad
+363714|Strandhaus am Inselsee
+363789|Comfort Hotel Friedrichshafen
+363790|Der Leuchtturm
+363869|Novum Style Hotel Berlin-Centrum
+363884|Ostseehotel Boltenhagen
+363915|25hours Bikini Berlin
+363956|A&O Aachen Hauptbahnhof
+363975|Steigenberger Villa Augusta & Villa Am Meer
+364973|Cityhotel am Thielenplatz & Smartcity Designhotel - Smartcity Designhotel
+365438|Familien-Vitalhof Bayerbach
+365452|Am Steinplatz
+365507|Holiday Inn Express Heidelberg City Centre
+365598|Ferienpark Mirow - Seepanorama Aparthotel
+366528|Grand Village Resort & Spa Weissenhaus
+366649|Ekkehard Haus Benediktinerkloster Huysburg
+366862|Motel One Duesseldorf Hbf
+366864|The Red
+367872|Catalonia Berlin Mitte
+367873|Ibis Berlin Kurfürstendamm
+367874|Mondrian Suites Berlin
+368039|Strandhotel Sylt
+368097|Bonnox
+369183|ibis Styles Karlsruhe Ettlingen
+369435|Milbor Hotel
+369562|bigBOX Hotel Kempten
+371578|Serways Hotel Spessart Sud-rohrbrunn
+372501|Michels Hotels - Villa Nordsee
+372502|Hotel Rügen
+372503|Villa Karina
+372507|Schloss Oberstaad
+372728|InterCityHotel Ingolstadt
+372731|InterCityHotel Hamburg Dammtor-Messe
+372743|Fürstenberger Hof
+373125|Aplerbecker Hof
+373169|Blauer Bock
+373170|Lindwurm70 Apartmenthaus
+373177|Beer
+373183|Gs Hotel Geiger Good Sleep
+373191|Messehotel Europe
+374569|Fasanenhaus Hotel-Pension
+374576|AapHotel.com
+374605|Stillhorn Ost BAB Raststätte
+374617|Aparion Design-Apartments
+374618|Strandhotel
+374621|Buthmann
+374623|Marion Weber Gaestehaus
+374795|Deutsche Flagge
+374796|Arkona Strandresidenzen
+374798|Villa Usedom Strandhotel Ostseeblick
+375763|Parkhotel Stopp
+376195|Retro Design Garni
+376196|Mitten Mang
+376208|Haus Am Meer
+376211|Weisst Du Noch Ferienwohnung
+376214|Sailer's Inn
+376463|Arena Villa Am Wasserpark
+377197|Seehotel Krakow am See
+377460|Kuehnauer Hof
+380097|Pension An Der Werft
+380104|Warnow
+380115|Am Zehntstadl Garni
+380119|Park Villa
+380124|Youngstar Designhotel
+380519|Marlis Pension
+381317|Schwibbogen
+381349|Hostel Flensburg
+381432|Bad Rappenau
+382229|Eos
+382240|Gerry Weber Landhotel
+382462|Darmstaedter Hof
+382466|Palatina
+383803|Olive Inn
+384317|Altes Rathaus Hotel-Restaurant
+384431|Kaiser
+384608|Reutlinger Hof
+388499|McDreams München-Messe
+388510|Gut Neuenhof Golfhotel
+388639|Streng
+388668|Rhein-Mosel-View
+388676|Kleiner
+389602|Abasto
+389612|Hoelzl Appartement-Hotel
+389648|Ripken
+389699|Arena
+390912|Hotel Jakob Regensburg
+391259|Citadines City Centre Frankfurt
+391418|Romantik Strandhotel Atlantic & Villa Meeresstrand
+391532|mönchgut living
+391536|KEDI Hotel Papenburg
+391596|Natur-Resort Tripsdrill
+391902|Stern am Rathaus
+391971|Herman's Hof
+392112|The Rilano Cleve City
+392230|AMC Apartments - Bundesallee
+392301|Bayerwald Ferienpark
+400762|Lanserhof Tegernsee
+401029|Explorer Hotel Berchtesgaden
+401159|Ferien- & Erholungspark Schindeldorf
+401355|Ayubowan Ayurveda Center
+401646|A&O Weimar
+402346|Augusten Hotel
+402356|Ariadna Apart Hotel
+402357|Big Mama
+402372|Smart Stay Hotel Berlin City
+402480|RiKu Hotel Neu-Ulm
+402505|Apfelbaum Hotel
+402615|Forsthaus Wörnbrunn Restaurant & Hotel
+402627|Europe Apartments Downtown
+402645|Spiegelburg
+402711|McDreams Hotel Leipzig-City
+402782|Resort Hotel Jodquellenhof Alpamare
+402822|Ratsstube
+402974|Hotel im Schulhaus
+403006|Courtyard by Marriott Köln
+403262|KNAUS Campingpark Hamburg
+403264|Quentin Boutique
+403274|Parkhotel 1888 Traunstein
+403303|Midi Inn City West am Ku'damm
+403304|Hotel Idyll am Wolgastsee
+404386|Troll's Brauhaus Hotel
+404395|a-ja Grömitz. Das Resort
+405150|Ferienland Sonnenwald
+405182|Element Frankfurt Airport
+405290|Victory Therme Erding
+405330|LAGOVIDA - Das Ferienresort am Störmthaler See
+406635|ibis Hamburg City
+406637|ibis Styles Hildesheim
+406639|Aparthotel Adagio Access München City Olympiapark
+407206|Holiday Inn Express Nürnberg City Hauptbahnhof
+407760|Innside Wolfsburg
+407822|arcona LIVING München
+408728|Hotel Kaiserstrand
+408898|SantÃ© Royale Hotel- & Gesundheitsresort Warmbad Wolkenstein
+409036|Roompot Ferienresort Bad Bentheim
+409197|Gasthof Forst's Landhaus
+409267|Ostseebad Resort Damp - Hotel
+409268|Ostseebad Resort Damp - Ferienhäuser
+411460|Strandhäuser Blankenfohrt
+411461|Windflüchter
+411502|Waldhof Hotel- & Ferienanlage - Hotel
+411503|Waldhof Hotel- & Ferienanlage - Ferienwohnungen
+411504|Best Western Plus Marina Wolfsbruch - Hotel
+411505|Best Western Plus Marina Wolfsbruch - Ferienwohnungen
+411506|Center Parcs Bispinger Heide - Parkhotel
+411507|Center Parcs Bispinger Heide - Ferienwohnungen
+411508|Alte Mühle am Ried - Landhotel
+411551|elements pure Feng Shui Hotel Bremen
+411589|havenhostel Cuxhaven
+411695|Clubhotel Ferienpark Hochsauerland
+411733|Hotel Wetzstein
+411793|Leonardo Berlin Mitte
+411794|mein inselglück
+411838|Mawell Resort
+412211|Hochriegel
+412248|Citadines Michel Hamburg
+412275|Schassberger - Hotel am Ebnisee
+412356|
+412361|Hotel Zum Franziskaner Garni
+413202|Upstalsboom Ferienvillen Anna Düne
+413204|Lodge am Meer
+413205|Ferienanlage LandKogge
+413208|Remise Schloss Stolpe
+413210|Hapimag Resort Unterkirnach
+413221|Hotel Wellnessgarten
+413268|Hotel Kattenbusch & Kattenbusch Economy - Kattenbusch Economy
+413334|
+413527|Bergsonne Golf- & Vitalchalets
+413543|Ferienanlage Brockenblick
+414626|Center Parcs Park Nordseeküste - Hotel
+414627|Center Parcs Park Nordseeküste - Ferienhäuser
+414629|Carat Golf- u. Sporthotel & Carat Residenz
+414630|Carat Golf- u. Sporthotel & Carat Residenz - Carat Residenz
+414638|Torfhaus Harzresort - Ferienhäuser
+414643|Amber Residenz Bavaria - Hotel
+414644|Amber Residenz Bavaria - Ferienwohnungen
+414780|LEGOLANDÂ® Deutschland - LEGOLANDÂ® Feriendorf / LEGOLANDÂ® Ritterburg & Königsburg
+414781|LEGOLANDÂ® Deutschland - LEGOLANDÂ® Ritterburg & Königsburg
+414782|RÃ©sidence Bellevue
+415537|Upstalsboom Resort Deichgraf Ferienwohnungen
+416410|Seepark Heidenholz
+416421|Ferienwohnungen Trinkl

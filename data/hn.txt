@@ -1,0 +1,22 @@
+11915|Ejecutivo
+13399|Gran Sula
+16933|Marina Copan
+59952|Paradise Beach Club
+77551|Mayan Princess
+88400|Clarion Real Tegucigalpa
+90568|Hilton Princess
+90572|Villas Telamar
+90693|Palmetto Bay & Beach Plantation
+90694|Anthony's Key Resort
+100732|Turquoise Bay Resort
+105944|Clarion San Pedro Sula
+108690|Marriott Tegucigalpa
+157620|Henry Morgan & Beach Resort
+234475|Fantasy Island Dive Resort
+234476|Las Sirenas Hotel & Condo
+235322|Media Luna Resort & Spa
+237519|Clarion Suites Mediterraneo San Pedro Sula
+237521|Honduras Plaza
+246904|Parrot Tree Beach Resort
+285714|Bananarama Dive And Beach Reso
+329394|Humuya Inn

@@ -1,0 +1,4093 @@
+7068|Das Kronthaler
+7085|Activ Sunny Hotel Sonne
+7099|Adler
+7102|Adler
+7256|Austria Trend Albatros Hotel - geschlossen
+7322|Alexander
+7336|Alexandra
+7426|Almajur
+7430|Almdorf Grassler
+7432|Almesberger
+7433|Almhof
+7434|Almhof
+7435|Almhof Lackner
+7443|Aloisia
+7446|Alpenblick
+7447|Alpenfriede
+7448|Kleon
+7450|Alpengasthof Wochenbrunn
+7452|Alpenhof
+7453|Alpenhof
+7454|Alpenhof
+7455|Alpenhof Kristall
+7458|Alpenland
+7459|Alpenland
+7461|Alpenrose
+7462|Alpenrose
+7465|Alpenschlössl
+7466|Alpenwelt
+7470|Alpin
+7471|Alpin
+7472|Alpinresort Sport & Spa
+7474|Alpina
+7476|Alpina
+7478|Alpina
+7491|Altachhof
+7496|Alte Bachmühle
+7521|Radisson Blu Hotel Altstadt Salzburg
+7522|Altstadt Vienna
+7523|Altstadthotel Wolf-Dietrich
+7532|Am Brillantengrund
+7553|Am Kurzentrum - geschlossen
+7557|Am Parkring
+7559|Am Riedl
+7563|Am Schubertring
+7565|Strandhotel Entner
+7581|Amadeus
+7594|Allegro
+7618|Ambassador
+7699|Grand Wien
+7710|Austria Trend Ananas
+7717|Austria Trend Anatol
+7735|Andreas
+7761|Aktiv Hotel Elan
+7956|Boltzmann
+7957|Elisabethpark
+7959|Arcotel Wimberger Wien
+8009|Arkadenhof
+8045|Arthur Strolz
+8047|Enziana Hotel Vienna
+8061|Aschauerhof / Aschauer Hof
+8123|Austria Trend Astoria
+8186|NH Salzburg City
+8194|Hotel NH Atterseehaus Suites
+8196|NH Wien Belvedere
+8232|Atlanta
+8280|Atlantis Vienna
+8291|Attila
+8300|Auf der Wiese
+8311|Auhof
+8334|Austria
+8335|Austria
+8337|Austria Trend Lassalle
+8339|Alphotel Innsbruck
+8340|Hotel am Mirabellplatz
+8395|Eurothermen Resort Royal
+8400|Badhaus
+8403|Bäckelarwirt
+8612|Der Salzburger Hof
+8671|Beethoven
+8678|Austria Trend beim Theresianum
+8761|Mondi Holiday Bellevue
+8762|Hotel Ferienclub Bellevue am Walchsee
+8789|Belvedere
+8818|Bergblick
+8820|Bergblick
+8833|Bergkräuterhof Hotel Steinbock
+8835|Bergkranz
+8837|Bergland
+8945|Best Western Imlauer Stieglbräu
+8957|Best Western Premier Kaiserhof Wien
+9072|Birkenhof
+9082|Blaiken
+9092|Blaue Gans
+9140|Blumberg
+9151|Bodner
+9245|Brandauerhof
+9287|Hotel Bristol Wien
+9321|Brugger
+9322|Bruggerhof
+9323|Bruggerhof
+9341|Kinderhotel Buchau
+9372|Burgenland
+9373|Burgfellnerhof
+9703|Capricorno
+9760|Villa Carlton
+9774|Carlton Opera
+9788|Carossa
+10235|Central
+10236|Alpen-Comfort-Hotel Central
+10380|Christophorus
+10431|Austria Trend Eventhotel Pyramide
+10437|City Tabor
+10485|Claudia
+10706|Congress
+10725|Continental
+10805|Sanotel Cordial
+10806|Cordial Familien- & Sporthotel Going
+10807|Goldenes Theaterhotel
+10808|Cordial Theaterhotel
+10942|Courtyard Linz
+10968|Cristall
+11076|Dachsbrücke
+11077|Dachstein
+11129|Danzer
+11145|Das Triest
+11146|Das Weitzer
+11154|Daxer
+11213|De France
+11375|Mate Dependance
+11384|Der Lindenhof
+11386|Der Steirerhof
+11387|Der Waldhof
+11433|Crystal & Sportiv - Sportiv
+11434|Deutschmeister
+11477|Familotel Dilly
+11586|Doktorwirt
+11628|Domizil
+11657|Donnerhof
+11677|Mercure Wien Westbahnhof
+11680|Mercure Grand Hotel Biedermeier
+11687|Fuchs-Palast
+11702|Feriendorf Königsleitn
+11704|Rogner Bad Blumau
+11724|Dorothy
+11751|Drei Kreuz
+11856|Alpenhotel Edelweiss
+12069|Alpin Juwel
+12100|Embacher Sporthotel
+12148|Enzian
+12177|Erika
+12190|Ertl
+12192|Erzherzog Johann
+12193|Erzherzog Rainer
+12209|Eschenhof
+12299|Austria Trend Europa
+12414|pentahotel Vienna
+12415|Falkner
+12416|Falkneralm
+12420|Familienresidenz
+12453|Favorita
+12470|Felsenhof
+12471|Erlebnishotel Fendels
+12472|Feneberg
+12487|Hotel Lerch
+12489|Ferienpark Waldpension Putz
+12766|Fischerwirt
+12974|Bergjuwel
+13012|Fürst Metternich
+13016|Naturhotel LechLife
+13029|Falkensteiner Funimation Katschberg
+13044|Centralhotel Gablerbräu
+13051|Gaislachalm
+13125|Garni Almhof
+13127|Belmont
+13129|Garni Hutter
+13130|Garni Obermair
+13137|4* Gartenhotel
+13140|Gaspingerhof
+13141|Gassner
+13144|Gasthof Moser
+13147|Gasthof Stern
+13186|Georgshof
+13190|Germania
+13244|Glemmtalerhof
+13253|Glocknerhof
+13309|Kunsthof
+13313|Goldener Hirsch
+13318|Goldried Park
+13347|Vitalhotel Gosau
+13360|Graben
+13368|Graf Stadion
+13451|Grand Hotel
+13547|Grauer Bär
+13599|Gridlon
+13627|Grüner Baum
+13775|Hannes
+13776|Hanneshof Resort - Hanneshof & Bischofsmütze & Nebenhäuser (Anneliese, Maier, Appartements Raika)
+13785|Haller´s Genuss & Spa
+13802|Harfenwirt
+13806|Best Western Premier Harmonie Vienna
+13824|Hasenau
+13837|Haus am See
+13840|Haus In der Sonne
+13887|Hunguest Heiligenblut
+13891|Heitzmann
+13892|Held
+13912|Helvetia
+14039|Hinterronach
+14060|Hochland
+14061|Hochpustertal
+14067|Parkhotel am Großglockner
+14075|Hofwirt
+14079|Hohenfels
+14167|NH Danube City
+14172|Crowne Plaza The Pitter
+14338|Holiday Inn Vienna City
+14339|Hilton Vienna Danube Waterfront
+14360|Holzmannhof und Michis Appartementhaus
+14445|Huber Appartementhaus
+14448|Hubertus
+14452|Hubertushof
+14592|Ibis Graz
+14601|Ibis Linz City
+14617|Ibis Wien Mariahilf
+14712|Im Palais Schwarzenberg
+14726|Imperial
+14826|InterContinental Vienna
+14848|InterCityHotel Wien
+14926|Luzenberg
+14985|Jagdhof
+15076|Sonnwirt
+15149|K+K Maria Theresia
+15151|K+K Palais
+15201|Kaltschmid
+15247|Karlwirt
+15254|Kasper-Melchior-Balthasar
+15266|Kaswurmhof
+15374|Kinderbauernhof Moabauer
+15401|Kirchbichlhof
+15413|Kitzbühler Horn
+15414|Seeappartement Kitzsteinhorn
+15416|Klara
+15422|Kleinwalsertal
+15444|König
+15524|Krainerhütte
+15533|Krimmlerfälle
+15538|Kristall
+15540|Kristall
+15552|Euro Youth Hotel & Krone
+15555|Schachner Krone-Kaiserhof
+15573|Kummer
+15845|Lärchenhof
+15847|Lafairserhof
+15895|Alpenhotel fall in Love
+15907|Landhaus Foidl
+16184|Lebzelter
+16282|Almwellness-Hotel Tuffbad Dörfl
+16366|Lindenhof
+16560|Lucia
+16654|Magdalena
+16768|Mannis
+16816|Marcell
+16849|Margarete
+16866|Maria
+16878|Q! Hotel Maria Theresia
+17022|Markus Sittikus
+17040|Marriott Vienna
+17090|Martinspark
+17122|Mathiasl
+17216|Mein Almhof
+17271|Mercure Graz City
+17275|Leonardo Hotel Vienna
+17343|Nestroy Wien
+17358|Mercure Salzburg Central
+17363|Mercure Wien Zentrum
+17560|Mittagskogel
+17562|Mitterhof
+17563|Mittermooshof
+17575|Moarhof
+17584|Mölltal
+17631|Mondial
+17700|Montjola
+17760|Mozart
+17911|Neubergerhof
+17913|Neutor
+17974|Niederreiter
+18022|Norica
+18025|Austria Classic Wien
+18125|Nudelbacher
+18169|Oberdanner
+18176|Oberreiter
+18287|Regina's Apart
+18337|Hotel Das Opernring
+18581|Pamina
+18618|Panorama
+18628|Panorama Binter
+18645|Panther
+18653|Austria Classic Papageno
+18819|Austria Trend Parkhotel Schönbrunn
+18877|Paulina
+19073|Pillerseehof & Bräuwirt
+19103|Pinzgauerhof
+19267|Feriendorf Ponyhof Hollaus
+19346|Post
+19350|Landhotel Post
+19361|Postwirt
+19391|Pramstraller
+19480|Prinz Eugen
+19490|Marolt Strandhotel
+19650|Quehenberger
+19654|Quellenhotel Heiltherme
+19800|Radisson Blu Palais
+19936|Austria Trend Rathauspark
+19967|Rechenau
+20037|Regina
+20043|Regina
+20044|Regina
+20073|Reisinger
+20147|Renaissance Imperial Riding School
+20149|Wyndham Grand Salzburg Conference Centre
+20157|Renaissance Wien Hotel
+20334|Rieder
+20335|Riedl
+20337|Riepel am See
+20338|Riesen - geschlossen
+20340|Sport- & Familienhotel Riezlern
+20551|Best Western Premier Schlosshotel Römischer Kaiser
+20585|Romantica
+20591|Romantikhotel Gersbergalm
+20619|Rose
+20620|Rose
+20629|Am Augarten
+20631|Appartements Rosmarie / Haus Reinhard
+20651|Royal
+20741|Sporthotel Royer
+20839|Sacher
+20840|Sacher
+20891|Salzburg
+20892|Salzburger Hof
+20894|Salzburgerhof
+20895|Salzburgerhof
+21046|Sanna
+21061|Santa Barbara
+21209|Schabus
+21216|Scheulinghof
+21234|Family Hotel Schloss Rosenegg
+21245|Schönachhof
+21247|Schönblick
+21257|Schüttdorf
+21272|Schwarzes Rössl
+21282|AlpineResort Zell am See
+21288|Schweizerhof
+21289|Schwendberger Hof
+21352|Seebad
+21363|Seehof
+21380|Seerose
+21388|Seetal
+21390|Seewinkel
+21495|Sheraton Salzburg
+21784|Am Konzerthaus - MGallery Collection
+21925|Erlebnishotel Sonnalp
+21926|Sonnblick
+21929|Sonne
+21934|Familotel Sonnberg Ferienanlage
+21936|Sonnbichl
+21952|Sonnenhof
+21956|Sonnenhügel
+21959|Aktiv & Spa Resort Alpenpark
+21964|Sonnhof
+21966|Sonnrain
+21967|Harmony Sonnschein
+22042|Sportalm
+22067|St. Florian
+22069|St. Georg
+22077|Hubertus
+22079|St. Hubertushof
+22089|Leonhard
+22144|Starlight Suiten Renngasse
+22155|Stefanie
+22157|Steger
+22160|Das Alpenhaus Kaprun
+22181|Steinberghof
+22182|Steinbock
+22183|Steindl
+22184|Steiner
+22232|Stotterhof
+22255|Strass Fun & Spa Hotel - Sporthotel / Hotel Garni / Aparthotel / Hotel Strass / Landhaus Roscher / Villa Strass
+22259|Stubaierhof
+22269|Subretta/Jäger
+22363|Goldener Löwe
+22466|Sylvia
+22512|Talblick
+22527|Appartementhaus Langenfeld
+22655|Thalerhof
+23122|Tulip Inn Vienna Thüringer Hof
+23126|Tia Monte & Tia Monte Smart - Tia Monte
+23127|Tia Monte
+23142|Best Western Plus Das Tigra
+23165|Tiroler Zugspitze
+23166|Tirolerhof
+23167|Tirolerhof
+23168|Tirolerhof
+23251|Tourotel Breinössl
+23252|Tourotel Mariahilf
+23282|Traube
+23284|Traublingerhof
+23392|Truyenhof
+23425|Bergresort Seefeld
+23470|Tyrolerhof
+23506|Unterdacheben
+23510|Unterzeiser
+23604|Veit Fiegel
+23658|Versalerhof
+23692|Hilton Vienna
+23694|Hilton Vienna Plaza
+23703|Vier Jahreszeiten
+23707|Vier Jahreszeiten
+23721|Viktoria
+23723|Viktoria
+23792|Villa Auersperg
+23877|Villa Flora
+24213|Spa Resort Therme Geinberg
+24255|Vorderriedhof
+24256|Vorderronach
+24286|Sporthotel Wagrain
+24302|Waldesruh
+24305|Waldhof
+24318|Wallerwirt
+24325|Krone Romantikhotel
+24343|Wastlhof
+24355|Weinhof
+24364|Weisskugel
+24366|Alpenhotel Weitlanbrunn
+24425|Wetterstein
+24444|Wieser
+24447|Wiesler
+24452|Wildauerhof
+24458|Wildschwendt
+24490|Wirlerhof
+24611|Zanker
+24616|Landgut Zapfenhof
+24629|Zentral
+24630|Zenzerwirt
+24640|Zinkenbachmühle
+24644|Zipser
+24683|Tiroler Buam
+24688|Zur Burg
+24791|Berghof
+24792|Weismayr & Appartements Europa
+24793|Familotel Sonngastein
+24796|Mozart
+24799|Kur- und Sporthotel Alpina - Hotel Alpina / Hotel Tauernblick / Villa Angelika / Villa Frohsinn
+24802|Impuls Tirol
+24803|Grand Park
+24804|Almrausch
+24805|Sammers Nockresort - Kristall
+24806|Trattlerhof
+24807|Harmony's Kirchheimerhof
+24809|Lukasmayr
+24810|Burgstaller
+24811|Zur Post & Appartementhaus Kern
+24815|Kaiserblick
+24816|AktivHotel Hochfilzer / AlpenPension Claudia / Haus Garden - AktivHotel Hochfilzer
+24819|Alte Post
+24821|Der Bär
+24824|Obermair
+24826|Alte Post
+24827|Sporthotel Fontana
+24828|Unterhof
+24829|Jagdhof
+24831|Alpenkrone
+24833|Filzmooserhof
+24835|Tauernhof
+24838|Flattacher Hof
+24839|Fraganter Wirt
+24844|Europäischer Hof
+24847|Regina
+24848|Kur- & Sport-Hotel Palace
+24890|Gartenhotel Crystal
+24891|Bruno
+24892|Post
+24893|Malerhaus
+24894|Kohlerhof
+24895|Hubertus
+24897|Cristall
+24898|Römerhof
+24899|Fluchthorn
+24901|Tirol
+24902|Alpenrose
+24904|Alpina
+24905|Elisabeth
+24907|Marco Polo Alpina
+24910|Blattlhof
+24913|Sommerhof
+24914|Kirchenwirt
+24916|Post
+24919|Glocknerhof
+24964|Neue Post
+24967|Schwarzer Adler
+24970|Suitehotel Kleinwalsertal
+24972|Frieden
+24973|Alpenfriede
+24974|Hotel Schöne Aussicht
+24975|Edelweiss
+24976|Sonnenhotel-Hochsölden
+24977|Weisses Kreuz
+24978|Maximilian
+24979|Sailer
+24980|Grauer Bär
+24981|Best Western Plus Goldener Adler
+24982|Grand Hotel Europa
+24983|Central
+24984|Seiblishof
+24987|Birkheim
+24990|Lesacherhof
+24991|Post
+24992|Silvretta
+24994|Edelweiss Schlössl
+24995|Rudolfshof
+24997|Falkenstein Sporthotel
+24998|Antonius
+24999|Hotel Sonnblick
+25001|Sonnhof
+25003|Bergwelt
+25007|Zur Mühle
+25008|Best Western Sonne
+25012|Tauernhof
+25013|Kaprunerhof
+25014|Orgler
+25015|Grüner Baum
+25020|Elisabeth
+25022|Adler
+25024|Küchl
+25038|Gasthof Skirast
+25041|Berghof
+25043|Tyroler Hof
+25045|Schweizerhof
+25046|Tiefenbrunner
+25047|Kitzbühel
+25048|Kitzhof Mountain Design Resort
+25049|Vordergrub
+25050|Kitz Garni
+25051|Gasthof Unterm Rain
+25053|Reisch
+25054|Schloss Lebenberg
+25055|Zur Tenne
+25057|Post
+25060|Edelweiß
+25061|Forsthofgut
+25062|Landhotel Rupertus
+25063|Der Löwe
+25066|Koidl
+25088|Hinteregger
+25090|Outside
+25092|Panzlwirt
+25093|Rauter
+25094|Seehotel Mauracherhof
+25095|Lärchenhof
+25100|Garni Villa Angela
+25101|Neuhaus
+25102|Elisabeth
+25103|Schrofenblick
+25104|Edenlehen
+25105|Berghof
+25106|Hotel-Pension Strolz - Pension Strolz
+25107|Neuwirt
+25108|Garni Ferienhof
+25109|Anemone
+25112|Zillertalerhof
+25113|Perauer
+25114|Brücke
+25115|St. Georg
+25119|Rauchenwalderhof
+25121|Carla
+25124|Stoanerhof
+25129|Rosenhof
+25130|Serles
+25140|Neue Burg
+25141|Post
+25142|Tirolerhof
+25143|Maultasch
+25144|Naudererhof
+25145|Lamm
+25147|Unterbrunn
+25148|Venedigerblick
+25151|Spa Hotel Jagdhof
+25152|Happy Stubai
+25153|Burgstall
+25158|Bergkönig
+25159|Almrausch-Danler
+25160|Helga
+25161|Mildererhof
+25162|Familotel Alpenhotel Kindl
+25163|Brennerspitz
+25165|Cappella
+25167|Zum Holzknecht
+25169|Olympia
+25170|Alpina deluxe & Nebenhaus Sonnberg
+25172|Bellevue & Austria
+25173|Hochfirst
+25176|Bergwelt
+25177|Vitalhotel Mühle
+25179|Kaiserhotel Neuwirt
+25181|Christina
+25182|Kristall
+25183|Rieser
+25185|Lavenar
+25188|Mooserkreuz
+25189|Rauriserhof
+25190|Alpina
+25192|Grimming
+25193|Platzwirt
+25194|Salzburgerhof
+25196|Kristall
+25197|Gasthof Pension Alpenrose
+25201|Linde
+25203|Mozart Vital Hotel
+25206|Bellevue
+25225|Bergheim
+25226|Schönblick
+25228|Alpenruh
+25231|Bergblick
+25232|Franz Riml
+25235|Liebe Sonne
+25236|Fiegl
+25241|Jörgele
+25243|Alpengasthof Grüner
+25244|Tyrol
+25247|Arlberg
+25249|Post
+25254|Kertess
+25257|Renate
+25258|Brückenwirt
+25259|Sonnalm
+25262|Romantikhotel im Weissen Rössl
+25263|Cortisen am See
+25264|Försterhof
+25267|Seestrand
+25269|Post
+25270|Similaun
+25271|Familienhotel Vent
+25273|Karawankenhof
+25274|Brunner
+25275|Hotel Schick - geschlossen
+25276|Warther Hof Wellnesshotel
+25277|Weererwirt
+25279|Sonnalp
+25280|Eva Village
+25281|TUI best FAMILY Gut Wenghof
+25282|Bauer
+25287|Saalbacher Hof
+25288|Huttersberg
+25289|Brückenhof
+25290|Jägerhof
+25299|Post
+25300|Berger's Sporthotel
+25301|Kaltenegger
+25302|Ederbauer
+25311|Bernhofer
+25312|Elisabeth
+25313|Ellmauhof
+25314|Salzburger Hof
+25316|Seehotel Freiberg
+25317|Unterellmau
+25319|Talblick
+25321|Pinzgauerhof
+25326|Latini
+25329|Stadt Wien
+25331|Glocknerhof
+25332|Traube
+25333|Müllauer
+25335|Berner
+25336|Dörflwirt
+25338|Kristall
+25341|Wechselberger
+25342|Sonnleiten
+25343|Schattberg
+25344|GreenLine Sporthotel Matschner
+25345|Arlberghaus
+25349|Knollhof
+25354|Seespitz-Zeit
+25357|Post
+25358|Hermann
+25364|Türlwand
+25365|Sonnenhügel
+25367|Berghof
+25372|Reither Hof
+25375|Kaiser in Tirol
+25376|Ritzlerhof
+25378|Gisela
+25379|Daniel
+25380|Alte Post/ Posthotel
+25386|Jäger Gasthof
+25393|Bellevue
+25395|Mörisch
+25397|Clubdorf See
+25399|Panorama Sonnenresidenz Waldhotel
+25401|Veronika
+25403|Lärchenhof
+25404|Klosterbräu
+25405|Karwendelhof
+25406|Kronenhotel
+25407|Bär
+25408|Schönruh
+25410|Seefelderhof
+25412|Eden
+25414|Solstein Hotel & Pension
+25415|Alpina
+25418|Klaus
+25423|Dolomiten Residenz Sporthotel Sillian
+25427|Familotel St. Zeno
+25430|Silvretta
+25433|Rex
+25435|Grandhotel Panhans
+25438|Alphof
+25440|Regina
+25441|Erhart
+25443|Bergland
+25445|Alpina
+25447|Hotel Sölderhof & Residenz Tamara
+25449|Stefan
+25452|Bruno
+25454|Silbertal
+25457|Grünwald
+25463|Gewürzmühle
+25465|Stegerbräu
+25466|Familotel Seitenalm
+25468|Schneeberghof
+25469|Mooshaus
+25471|Tannenhof
+25477|Patscher Hof
+25481|Stecher
+25485|Drei Mohren
+25486|Linserhof
+25488|Anita
+25492|Gasthof Piburger See
+25493|Waldhof
+25495|Marko
+25499|Hotel Habicher Hof
+25500|Alpenhotel Oetz
+25501|Angerer Alm
+25502|Riml
+25505|Berghotel Hochfügen
+25506|Das Schütz am Obertauern
+25508|Inntalerhof
+25510|Hotel - Restaurant Winkler
+25511|Bräurup
+25513|Alte Krone
+25514|Neue Krone
+25515|IFA Alpenrose
+25516|IFA Alpenhof Wildental
+25517|Hoppet
+25527|Schwarzer Adler
+25531|Edelweiss
+25532|Königshof
+25533|Lindenhof
+25534|Ferienhotels Alber Mallnitz - Alpenhotel / Tauernhof
+25535|Alpenhof
+25537|Reiterklause
+25538|Leutascherhof
+25539|Kreith Alm
+25540|Sporthotel & Gästehaus Xander - Sporthotel Xander
+25543|Hubertushof
+25545|Edelweiss
+25553|Sonnenuhr
+25557|Heimathaus
+25558|Kristal
+25559|Ronach Mountain Club
+25562|Seiwald
+25564|Schönfeld
+25567|Gruberhof
+25568|Bon Alpina
+25571|Sporthotel Igls
+25572|Unterbräu
+25574|Familotel Hopfgarten
+25575|Moscher
+25576|Lanz
+25578|Wurmkogel
+25582|Laurin
+25583|Olymp
+25586|Thaler Hotel Hinterthiersee
+25587|Ayurveda Resort Sonnhof
+25591|Berghotel Schlosserwirt
+25593|Dirninger
+25594|Vital-Hotel Post
+25595|Platzer
+25599|Gasthof Schöpf
+25604|Posthotel Rössle
+25605|Basur
+25606|Fliesserhof
+25607|Wieseneck
+25609|Römerhof
+25610|Schwaiger
+25615|Neuwirt
+25618|Singer
+25619|Kaiserhof & Nebenhaus Thanellerhof
+25621|Kirchner
+25622|Scesaplana
+25623|Krone
+25624|Thaler
+25625|Neuwirt C+M+B
+25629|Familotel Aschauerhof
+25632|Aldranser Hof
+25635|Dachstein West Sporthotel
+25640|Der Abtenauer
+25775|Maximilian
+25781|Weisseespitze
+25803|AlpenParks Parkhotel
+25820|Clubhotel Edelweiß
+25822|Alpinhotel Traubenwirt
+25825|Bergland
+25827|Familien- und Landhotel Stern
+25828|Bergcristall
+25829|Garni Sonne
+25830|Sunny
+25837|Elisabeth
+25841|Vier Jahreszeiten
+25843|Pitztaler Kirchenwirt
+25844|Austria
+25845|Hohe Burg
+25846|Trinserhof
+25848|Steinacherhof
+25849|Tirolerhof
+25853|Magdalena
+25855|Schnablwirt
+25856|Tyrol
+25857|Hotel & Sporthotel Mödlinger
+25860|Kitz Spitz Alpenhof
+25863|Hotel Zum Lamm
+25865|Liebes Rot-Flüh
+25869|Waldschlössl
+25871|Komperdell
+25873|Edelweiss
+25874|Post
+25875|Alpenhotel Auer
+25881|Die Sonnigen
+25882|Zamangspitze
+25883|Lagant
+25884|Widderstein
+25889|Sonnalm
+25890|Sonnenhotel St. Urbanerhof
+25891|Brunner
+25892|Almdorf & Sporthotel Hochlienz
+25893|Land-gut-Hotel Radnighof
+25894|Oswald
+25895|Alpenhof St. Jakob
+25898|Dax
+25899|Hotel Alpenblick
+25902|Familienhotel by Rainhardt
+25903|Ebners Waldhof
+25906|Thomalwirt
+25907|Waldheimathof Almdörfl
+25909|Alparella Vital Resort
+25911|Alpina
+25913|Pension Wieser
+25919|Robinson Club Alpenrose
+25921|Robinson Club Landskron
+25922|Robinson Club Schlanitzen Alm
+25925|Robinson Club Ampflwang
+25987|IFA Breitach Apartments
+25989|Zum Hirschen
+25995|Zum Mohren
+25997|Maximilian
+25998|Aktivhotel Tyrol - geschlossen
+26000|Am Römerweg
+26001|Risserhof
+26007|Central
+26009|Alphof
+26012|Weinberghof
+26015|Jägerhof
+26016|Panorama
+26017|Dorfschmiede
+26024|Gasthof Neuhof & Gästehaus Jager-Hansl
+26026|Rosengartl
+26089|Hettlerhof
+26090|Austria Trend Europa
+26091|Zur Post
+26124|Casa Alpina
+26130|Moser
+26135|Isabel
+26137|Annerlhof
+26142|Kastner
+26148|Mondi Holiday Grundlsee
+26155|Berghof Tauplitzalm
+26170|Schlank Schlemmer Hotel Kürschner
+26171|Kobenzl
+26172|St. Georg
+26173|Astoria
+26174|Trofana Royal
+26175|Bad Mitterndorf
+26177|Dorint Alpin Resort Seefeld
+26178|Naturerlebnisdorf Rosental
+26179|Alpenrose
+26440|Alte Post
+26441|Zum Stern
+26443|Romantikhotel Zell am See
+26446|Neuhaus
+26448|Hindenburg
+26449|Der Seehof
+26451|Harisch Weisses Rössl & Harisch Suites
+26452|Cordial Hotel Kitzbühel
+26453|Cordial Familien & Vital Hoteldorf
+26456|Alpenresort Schwarz
+26457|Interalpen-Hotel Tyrol
+26458|Talhof Panoramahotel
+26459|Central Spa
+26514|Sporthotel Fuchs Hopfgarten
+26526|Brandstetterhof
+26534|Das Moser
+26576|Tirolerhof
+26577|Ramsauerhof
+26652|Vitalhotel Sonnblick
+26653|Mohrenwirt
+26655|Stefanihof
+26675|Bayrischer Hof
+26692|Dolomitenhof
+26695|Obwexer
+26698|Tirol
+26699|Katschberghof
+26701|Alpengarten
+26702|Kärntnerhof
+26703|Kofler
+26705|Gasthof zum Richter
+26706|Alpenhof
+26709|Panorama
+26710|Post
+26713|Sporthotel Tirolerhof
+26716|Geisler
+26717|Bergland
+26719|Sportiv-Hotel Mittagskogel
+26720|Piz-Hotel
+26721|Rifflsee
+26722|Gasthof Post
+26724|Schwarzbrunn
+26726|Hotel Oberhofer
+26727|Tyrol
+26728|Geisler
+26729|Pachmair
+26732|Reinthaler
+26734|Wasserfall
+26735|Dorfschmiede
+26739|Ski & Golfresort Tauernresidence
+26740|Jägerwirt
+26742|Zum Pinzger
+26755|Bodner
+26758|Senger
+26759|Marina
+26764|Stefan Klotz
+26773|Holzmeister
+26776|TirolApart am Lift
+26778|Kitz Aktiv
+26779|Gasthof Schütthof
+26788|Weissenbach
+26789|Kielhuberhof
+26922|Olympia
+26924|Kröll
+26927|Sport & Vital Seppl
+26937|Söldenkogel
+26938|Crystal & Sportiv - Crystal
+26940|Sporthotel Kühtai
+26942|Bergland
+26945|Furtners Lebensfreude
+26949|St. Georg
+26950|Bräu
+26953|Hohenhaus
+26954|Pirchner Hof
+26955|Iris
+26958|Eggerwirt
+26962|Schranzhofer
+26965|Kirchberg Parkhotel
+26975|Wachter
+26979|Klockerhaus & Gästehaus Edelweiß
+26989|St. Georg
+26990|Trauner
+27003|Happy Filzmoos
+27018|Zum Stadttor
+27020|Apartment Hotel Waldrand
+27524|Unterwirt
+27526|Das Kleine Salzburger Nationalparkhotel
+27527|Paletti
+27868|Hochsölden
+27880|Granat
+27902|Warmbaderhof
+27914|Büntali
+27916|Pension Krinserhof
+27917|Fügenerhof
+27918|Waldfriede
+27920|Neue Post
+27921|Holunderhof
+27923|Sonnenresort Ossiacher See - Hotel / Appartements
+28098|Riederalm
+28099|Unterberg
+28102|Alpenkönigin
+28105|Färberwirt
+28108|Kaiserhotel Kitzbühler Alpen
+28199|Glocknerhof
+28203|Austrialia
+28204|Herrenhaus
+28206|Frühauf
+28209|Kesselgrub
+28224|Central
+28236|Residenz Hochalm
+28362|Naturel Dorf Seeleitn
+28367|Kaiser Franz Josef
+28377|Werndl
+28380|Lindenhof
+28381|Birkenhof
+28382|Grafhube
+28393|Finkensteiner Hof
+28394|Dietrichsteinerhof
+28396|Josefinenhof
+28398|Schönblick
+28399|Carinthia
+28404|Morak
+28406|Pörtschacher Hof
+28410|Parkhotel Pörtschach
+28411|Astoria Seehotel
+28412|Wörthersee Ferienhotel
+28414|Karawankenblick
+28416|Gaby
+28420|Rosenheim und Dependance
+28422|Rosentaler Hof
+28424|Krainz See-Residenzen Klopeiner See
+28425|Garni Koralmblick
+28426|Amerika-Holzer
+28428|Kärntnerhof
+28431|Harmony's Prägant
+28434|Nockalm
+28436|Edelweisshof
+28437|Paternwirt
+28440|Furian
+28443|Föttinger
+28444|Schloss Mondsee
+28445|Traunsee
+28447|Alpenhotel
+28449|Agathawirt
+28454|Gasthof Alte Post
+28455|Guggenberger
+28457|Sportalm
+28459|Alpenrose Zauchensee
+28460|Magic Mountain Salzburgerhof
+28461|Alpenhof
+28494|Martinerhof
+28495|Bruckwirt
+28497|Moorhof
+28499|Schlierbach
+28502|Almfrieden
+28503|Ferienalm Schladming
+28505|Maikircher
+28506|Leitenhof
+28516|Almdorf Wildschönau
+28522|Garni Victoria
+28525|Galtenberg
+28573|Travel Charme Ifen Hotel Kleinwalsertal
+28589|Toni
+28591|Übergossene Alm
+28593|Hubertus
+28617|Herlinde
+28623|Austria Classic Schlosshotel Oth
+28626|Sacher
+28630|Steigenberger Hotel & Spa
+28642|Seehotel Rust
+28645|Hoteldorf Seepark Weiden
+28659|Hotel Am Sachsengang
+28680|Weisses Lamm Alpenhof
+28681|Apartment Brandau
+28683|Hotel-Garni Zangerle
+28684|Mallaun Sportappartements
+28685|Erika
+28686|Zur Post Hotel & Gasthof
+28687|Am Sonnenhang
+28689|Hotel Jenny's Schlössl - Hotel
+28691|Schlosshotel
+28747|G'sund- und Vitalhotel Zum Ritter
+28755|Garni Romantika
+28760|Zur Rose
+28810|Berghof
+28811|Auracher Löchl
+28812|Postwirt Wohlfühl- und Vitalhotel
+28813|Sonneck
+28817|Sieglhub
+28819|Schörhof
+28820|Sonnenhof
+28822|Batzinger
+28824|Traube
+28825|Hauserwirt
+28826|Ambassador
+28827|Kirchenwirt
+28910|Alpha
+28911|Hotel Mercure Bregenz City
+28912|Best Western Premier Hotel Weisses Kreuz
+28913|Steigenberger Hotel Linz
+29311|Schloss Fuschl
+29315|Schloss Pichlarn SPA & Golf Resort
+30472|Tramserhof
+30475|Tyrol Alpenhof Seefeld
+30493|Geisler
+30494|Schneeberger
+30495|Weissbacher
+30497|Sonnalp
+30498|Bernhard
+30505|Wagrainerhof
+30509|Hubertus
+30908|Bier Peter
+30915|Alpengasthof Bacher
+30918|Haus am Wald
+30919|Steirerhof
+30920|Lorenzihof
+30921|Turnersee
+30922|Seerose Appartement
+30924|Grosslehen
+30925|Knappenstuben
+30926|First Mountain Ötztal
+30936|Schwarzer Adler
+30938|Enzian
+30943|Fuchs
+30953|Steinschalerhof & Vierkanthof
+30960|Kaltenhauser
+30965|Schüttalm
+30969|Kristiana
+30970|Enzian
+30972|Zum Hirschen
+30999|Alpina
+31002|Brixental
+31003|Alpina
+31005|Jakobshof
+31007|Wieslbauer
+31009|Königshaus
+31010|Baumanngut
+31012|Landhotel Haagerhof
+31014|Die Wasnerin
+31016|Weinebene
+31271|Am Dom
+31452|Berggasthof Groderhof
+31456|Berggasthof Alpenrose
+31459|Gasthof Bergheimat
+31460|Seethaler
+31461|Wiesenhof
+31465|Pony- und Reitergasthof Urban
+31467|Russbach
+31468|Landal Rehrenberg
+31469|Pension Pinzgauerhof
+31470|Apartmenthaus Arcadia/Arkadia
+31472|Freiensteinerhof
+31476|Aflenzerhof
+31477|Hotel Post Karlon
+31482|Lercher
+31483|Landgasthof Ledererwirt
+31555|Zur Pfeffermühle
+31558|Chalet Paradiso
+31560|Appartements Sportiv
+31561|Kreuzseehof
+31563|Bergland Hotel-Pension
+31565|Appartements Kröll
+31566|Villa Haidacher
+31568|Schatzberg Haus
+31569|Schwarzer Adler
+31570|Appartements Tirolerhaus
+31574|Feinschmeck
+31576|Prantner Appartements
+31577|Hotel Gasthof Bräu
+31578|Pension Christa
+31579|Alpenblick Kur- und Sporthotel
+31580|Salzburger Hof
+31583|FIS-Ferienwohnungen im Salzkammergut
+31584|Erzherzog Johann
+31586|Pichlmayrgut
+31587|Landhaus Schlosserwirt
+31589|Alpenblick Ferienhaus
+31592|Pulverer
+31593|Naturel Dorf Schönleitn
+31696|NH Wien Airport
+31733|Zum Dom
+31927|Stangl
+31933|Spes
+31935|Lembacher Hof
+32043|Klammers Kärnten
+32045|Grüner Baum
+32047|Neuhintertux
+32049|Elisabeth
+32050|Ronacher Thermenhotel
+32051|Hotel St. Oswald
+32052|Kolmhof
+32053|Kärntnerhof
+32071|Astoria
+32072|Krumers Post
+32073|Sheraton Fuschlsee - Salzburg Jagdhof
+32194|Pichler
+32195|Obermayr
+32203|Mitterwirt
+32206|Tirolerhof
+32207|Arzlerhof
+32209|Glückauf
+32211|Bergland
+32212|Neuwirt
+32510|Rasmushof
+32518|Wildspitz Appartements
+32521|Obwiesen
+32523|Tannweg
+32524|Familotel Central & St. Johanner Hof
+32526|Metzgerwirt
+32715|Bad Leonfelden Kurhotel
+32745|Mercure Josefshof Wien
+32746|Best Western Plus Hotel Leipziger Hof
+32925|SCOL Sporthotel Großglockner - Haus Figol / Haus Jenshof
+33164|Hollweger
+33165|Kaisergasthof
+33299|Linde Eckwirt
+33300|Obirblick
+33301|Lindenhof
+33302|Breznik
+33304|Silberhof
+33305|Fasching
+33306|Ratz
+33307|Lifthotel
+33308|Nigglgut
+33309|Limberghof
+33310|Gasthof Mentenwirt
+33313|Bergrose
+34252|Ferienschlössl
+34257|Haflingerhof
+34258|Posthansl Pension
+34259|Parcours
+34312|Arcotel Nike Linz
+34313|Spitz Hotel
+34314|Gollner
+34315|Derag Kaiser Franz Josef
+34374|Afritzer See Ferienpark
+34379|Campiente Feriendorf Maltschacher See
+34381|Sonnengrund
+34385|Sonnenhotel Hafnersee
+34386|Wende
+34387|Kogler
+34388|Schwaiger
+34389|Parktherme Vitalhotel
+34390|Appesbach Landhaus
+34391|Leitnerbräu
+34397|Haus Austria
+34398|Rieder
+34403|Brückenwirt
+34405|Schönblick Appartements
+34407|Aigner
+34409|Alpin - Apart
+34410|Appartement Albarella
+34418|Domig
+34419|Mittagspitze Alpenhotel
+34420|Linde
+34633|Gasthof Hamberg
+34635|Ariell
+35671|The Art Hotel Vienna
+35672|Wilhelmshof
+35798|Tirolerhof
+35799|Kammerlander
+35806|Jaga Alm
+35809|Schönblick
+35811|Familotel Kinderhotel Sailer
+36197|Hammerwirt Forellenhof
+36198|Oberwirt
+36199|Salzburg
+36202|Hotel Pension Bruderhofer
+36207|Berghof Predigtstuhl
+36208|Crystal
+36209|Almhof
+36210|Höhlenstein
+36211|Jägerhof
+36212|Wirtlerhaus
+36213|Terrazena
+36256|Agathenhof Vitalhotel
+36280|Wandl
+36281|Stefanie
+36283|Landhaus Falkner
+36287|Raudaschl
+36288|Gasthof Neue Post
+36290|Il Giardino
+36291|Schmid
+36295|Milders
+36300|Landhaus Condin
+36301|Sterngucker
+36302|Jägerhof
+36303|Laurenzhof
+36304|Kunzhof
+36306|Mountain Resort Feuerberg
+36309|Seebungalows Excelsior
+36312|Thermenblick
+36313|Interstar Alpin
+36315|Isegrim
+36318|Pehab Kirchenwirt
+36322|Sonnleitalm
+36323|Schlosshotel an der Eisenstrasse
+36324|Hotel Althof Retz
+36327|Fertinghof
+36329|Bavariahof
+36332|Peatershof
+36333|Walcherhof
+36336|Chalets Gasteig
+36532|Small Luxury Hotel Das Tyrol
+36533|Austria Trend Schillerpark
+36569|Stigenwirth
+36652|Capri
+36848|Garfrescha
+36849|Sonne Lifestyle Resort
+36850|Hotel Tannbergerhof
+36851|Alpenheim
+36865|Alpen Residence
+36866|St. Peter de luxe
+36867|Hocheder
+36868|Pachmairhof
+36869|Wohlfühlhotel Schiestl
+36872|Strasserwirt Reiterhof
+36875|Unterreith
+36879|Wimmhof
+36880|Römerhof
+36881|Marten
+36882|Ferienwohnungen Wastlhof
+36884|Stadler
+36886|Kogler Sporthotel
+36889|Huberhof
+36890|Seiterhof
+36893|Gut Enghagen
+36894|Seehang
+36895|Strandhotel Weyregg
+36896|Schenner
+36899|Trefflingerwirt
+36900|Moserhof
+37386|Messmer
+37388|Tautermann Garni
+37389|Daniel
+37899|Schloss Weikersdorf
+37900|At the Park Hotel
+37960|Weinfurtner
+37992|Mühlviertler Hof
+38011|Luxnachmühle
+38012|Thurner's Alpenhof
+38103|Augartenhotel art & design
+38150|Schlossberghotel
+38264|Lohmann
+38336|Aldiana Hochkönig
+38338|Singer Sporthotel
+38339|Alpenkönig Tirol
+38340|Post
+38341|Tirolerhof
+38343|Almerwirt
+38344|Oberhof
+38345|Pichler
+38346|Turracherhöhe
+38395|La Pura - Women's Health Resort Kamptal
+38398|Castello Falkner
+38399|Astoria
+38417|Le Meridien Wien
+38700|Feldrose
+38701|Schermer Landhotel
+38872|Zur Post & Nebenhaus Prinz
+38874|Austria Trend Metropol
+38965|Miraverde
+38966|VILA VITA Pannonia
+38973|Simmerlwirt
+38980|Bacher Gasthof
+38982|Best Western Plus Central Leonhard
+38984|Bergfrieden
+39002|Jagdhof
+39007|Gasthof Andreas
+39008|Sabine App.
+39101|Rohskopf
+39104|JUFA Mariazeller Land - Sigmundsberg
+39114|Walzl
+39271|Seethurn
+39272|Hotel Gasthof Adler
+39288|Gasthof Lamm
+39542|Bergfried
+39544|Jägerwirt
+39545|Chalet Montana
+39546|Alpenroyal
+39547|St. Nikolaus
+39738|Falkensteiner Am Schottenfeld
+39752|Raffl's Tyrolhotel
+39753|Sulzer
+39880|Felsenhof
+39902|Wiesenhof
+39964|Huber Seehotel
+39967|Hall Parkhotel
+40200|Romantikhotel Post
+40201|Goldenes Schiff
+40202|Mader Landhotel
+40204|Goldene Krone
+40205|Hochhäderich Almhotel
+40313|Egger
+40314|Sportalm
+40315|Schindlhaus
+40316|Hinteregger
+40317|Gabriel
+40321|Mirnock
+40326|Thurner
+40327|Auderer
+40328|Madlein
+40329|Nassereinerhof
+40330|Valluga
+40331|Stadlmühle
+40333|Weinpress
+40352|Guglwald
+40442|Schlosshotel Igls
+40443|Post
+40475|Schloss Seefels
+40509|Blümchen
+40535|Waidringer Hof
+40536|Haugschlag Golfresort
+40553|Löwen Hotel Montafon
+40554|Panorama Royal
+40954|Stein
+41106|Familotel Zauchenseehof
+41172|Dallarosa - geschlossen
+41174|Stacklerhof
+41696|Haus Hirt
+41697|Grand Hotel Sauerhof
+41698|Herzoghof
+41705|Starlight Suiten Heumarkt
+41709|Stroblerhof
+41711|Seethurnhof
+41712|Saalbach Alpenhotel
+41890|Schloss Leonstain
+41892|Seehotel Europa
+41894|Villa Rainer
+41895|Menthof
+41897|Alpinpark
+41899|Hilton Innsbruck
+41900|Innsbruck
+41901|Schwarzer Adler
+41902|The Penz
+41905|Elisabeth
+41907|Fliana Apart
+41911|Tennerhof
+41912|Erika
+41913|Goldener Greif
+41914|Hahnenhof
+41917|Gästehaus Marko
+41920|Kristiania
+41923|Haldenhof
+41926|Lech Pension Chesa Rosa
+41927|Alpenhotel Kramerwirt & Altes Forsthaus
+41929|Enzian
+41933|Raffl's St. Antoner Hof
+41934|Grieshof
+41935|Best Western Alte Post
+41936|Karl Schranz
+41939|Sporthotel St. Christoph
+41940|Kirchplatz
+41941|Der Wastlwirt
+42274|Tirol
+42477|Bauernhof Mamooserhof
+46480|Gasthof Tannenhof
+46482|Castellani Parkhotel Salzburg
+47007|Austria Trend Europa
+47933|Sammers Nockresort - Sporthotel Kostmann
+48230|Wilder Mann
+48457|Reiter's Allegriahotel - Spa Resort Stegersbach
+48540|Lux Alpinae
+49899|Kaiserin Elisabeth
+50108|Austria Trend Bosei
+50109|Arion Cityhotel Vienna
+50233|Seehotel Schwan
+50234|Schwärzler
+50648|Bristol Salzburg
+50685|Goldener Brunnen
+50724|Scalaria the Event Resort
+50775|Ramada Graz
+50776|Strandhotel Margaretha
+51279|Platzlhof
+51280|Bichlingerhof
+51307|Aqua Dome
+51435|Robinson Club Amade
+51459|Parkhotel Matrei
+51462|Trattnig Ferienhotel
+51463|Verwöhnhotel Vötters Sportkristall
+51464|Goisererhof
+51496|Novapark
+51507|Zillertalerhof
+51508|Österreichischer Hof
+51708|Torrenerhof
+51768|Hanneshof
+51773|Ischgl
+51793|Strudlhof
+51816|Best Western Hotel Neue Post
+51817|Bellevue
+51960|Penz Hotel West
+52222|Romantik Traube
+52290|Park
+52291|Itterwirt
+52293|Bärenhof
+52294|Unterkrämerhof
+52480|Ferienpark Kreischberg
+52506|Boutiquehotel Stadthalle Wien
+52507|Savoy
+52567|Genuss- und Vitalhotel Moisl
+52571|Gasthof Cafe Zillertal
+52645|Austria
+52740|Gasthof Rose
+52820|Reitlwirt
+52822|Alpenhotel Fernau
+52823|Marienhof
+52826|Hochwimmer
+52963|Seewirt
+53035|Panorama
+53110|Hotel Gut Raunerhof
+53126|Appartements Harrich
+53129|Sonnwend
+53131|Gasthof Mösl
+53140|Berghotel Rudolfshütte
+53191|Vitalhotel Edelweiss
+53192|ASI Lodge Tirol
+53193|Travel Charme Fürstenhaus am Achensee
+53199|Almresort Katschberg - Hinteregger/ Lärchenhof
+53200|Montanara
+53201|Waidmannsheil
+53203|Accord & Alpin
+53205|Hofweyer
+53206|Familiengasthof Weiss
+53207|Romantik Resort Bergergut
+53233|Mercure Wien City
+53264|Best Western Imlauer Altstadt
+54718|Karwendel
+54869|Ad Laca
+55534|Inselhotel Faakersee
+55677|Menüwirt
+55679|Kreinerhof
+55680|Gasthof Brixnerwirt & Nebenhaus Freidhof
+55682|Hotel Almrausch
+55691|Gamsspitzl
+55692|Tauernkönig
+55693|Schwaiger
+55694|Moserwirt
+55706|Rathaus Wein & Design
+55707|Springer Schlößl
+56632|Landhotel Reiberstorfer - geschlossen
+56633|AMEDIA Hotel Wels
+56635|Toni
+56637|Achentalerhof
+56638|Schrofenstein
+56639|Schloss Dörflinger
+56640|Aktivhotel Kanisfluh
+56674|Wiesenegg
+56838|Adler
+57120|Hotel-Gasthof Lürzerhof
+57216|Gasthof Schroll
+57217|Rissbacher Hof
+57228|Tyrol
+57230|Sonnenhof
+57231|Tannenhof
+57235|Parkhotel Zur Klause
+57431|Aurach
+57439|Wiese
+57454|Schladmingerhof
+57797|Alpenhotel Speckbacherhof
+57799|Berghotel Holzer
+57800|Jägerhof
+57801|Mozart
+57802|Neuwirt
+57803|Sonne
+57841|Schipflinger
+57896|Bräuwirt
+58020|Arcotel Moser Verdino Klagenfurt
+58021|Dermuth
+58083|Hubertus
+58187|Landhotel Gasthof Grünberg am See
+58230|Vitaloase zu den drei Brüdern
+58231|Alpengasthof Heutal
+58256|GesundheitsRessort Bad Tatzmannsdorf - Kur- und Thermenhotel
+58257|Avita Resort Hotel & Therme
+58273|Kristall
+58274|Solaria
+58275|Marietta
+58443|Loipersdorf Spa & Conference
+58446|Maiers Kuschelhotel
+58451|Beim Dresch
+58490|Gasthof Laudersbach
+58491|Das Urbisgut
+58495|Eberl
+58504|Bierwirt
+58534|Bergland
+58535|Hotel Berghof, Crystal Spa & Sports
+58553|Alte Post
+58557|Kinderhotel Habachklause
+58561|Tieflehner Hof
+58607|Sportpension Ischi
+58609|Holzleiten
+58611|Jagdhof
+58615|Fisser Hof
+58698|Zontaja
+58705|Landhaus Paradies
+58706|Cervosa
+58709|Lärchenhof
+58711|Venetblick
+58716|Josl
+58718|Zum Hirschen
+58719|Rotspitz
+58724|Hochfeldhof
+58745|Alpenhof
+58749|Neue Post
+58751|Hubertus
+58757|Familotel Landgut Furtherwirt
+58761|Krallerhof
+58764|Steiger
+58771|Schützenhof Landhotel
+58772|Alpina
+58773|Defereggental Hotel & Resort
+58775|Seehotel Princes
+58777|Sonne
+58779|Tennis & Yacht Hotel
+58851|Schloss Mönchstein
+58854|Domizil
+58855|Suite Novotel Wien City
+58859|Kavalier
+58864|Hotel Vienna South
+58865|Hadrigan
+58868|Corvinus Pension
+58871|Donauwalzer
+58876|Arpi
+58879|Baron am Schottentor
+58880|Austria Trend Schloss Wilhelminenberg
+58881|Kugel
+58972|Salzburgerhof
+58979|Forster
+59904|Pfleger
+60045|Madseiterhof - geschlossen
+60138|Kinderhotel Semi
+60139|Thermenhotel Vier Jahreszeiten
+60296|Gasthof zum Löwen
+60310|Urbani Ossiacher See
+60316|Gasthof Almhof
+60324|Podobnik
+60334|Pension Austria
+60335|Wiedersbergerhorn
+60350|Königsleiten
+60374|Tipotsch
+60375|Tiroler Adler
+60376|Kongress
+60397|Vital-Hotel Post
+60867|Austria Trend Donauzentrum
+60869|Westbahn Hotel
+61021|Gästehaus Groder
+61483|Gasthof Innertalerhof
+61815|Marco Polo Club
+61927|Joe's Aparthotel
+62578|Stillebacherhof
+62739|Lukashansl
+63519|Eggerbräu
+63525|Konrad
+63526|Stadt Kufstein
+63527|Taxacher
+63565|Austria Trend Messe Wien
+63637|Pezina
+63657|Alpenhof
+63658|Astoria
+63660|Albin
+63667|Stefanie
+63668|Pension Waldesruh
+63672|Alpenhof
+63674|Julia
+63677|Gästeheim Rätikon
+63685|Bellis
+63692|Gästehaus Waltraud Rauch & Nebenhaus
+63694|Tipotsch
+63790|Cube Nassfeld
+63791|Steffisalp Sporthotel
+63792|VAL BLU Resort SPA & Sports
+63795|Sportalm
+63796|Best Western Premier Kaiserhof Kitzbühel
+63797|Landhaus Fischer
+63884|Ibis Styles Linz
+63930|Gundolf
+64042|Birkenhof
+64101|Plankenhof
+64103|Ferienanlage Central
+64433|Airo Wien
+64607|Mavida
+64608|Das Paradiso
+64609|Seefischer am Millstätter See
+64610|Falkensteiner Hotel & Spa Carinzia
+64628|LOISIUM Wine & Spa Resort Langenlois
+64630|Lebensquell Bad Zell
+64831|Star Inn Hotel Graz
+64834|Zillertalerhof
+64835|Erika
+65053|City
+65099|Stadt Salzburg
+66208|Prielmayerhof
+66220|Hoch Tirol
+66221|Hoppeter
+66222|Belmont
+66223|Naturhotel Family Alm Tirol
+66225|Nindler
+66229|Passhöhe
+66283|Marienhof
+66319|Sonnenhof
+67850|Stadthotel Deutsch-Wagram
+68150|Kaunertalerhof
+68151|Latschenhof
+68152|Tauernhaus Wisenegg
+68200|Landhof Ellmau
+68249|Oberwirt
+68252|Therme Laa Hotel & Spa
+68253|GesundheitsRessort Bad Tatzmannsdorf
+68254|Falkensteiner Balance Resort Stegersbach
+68259|Red Thermenhotel
+68262|Thermenhotel Stoiser
+68264|Thermalhotel Leitner
+68269|Thermenhof Paierl
+68271|Nova Köflach
+68272|Falkensteiner Bleibergerhof
+68281|Minotel Resch
+68282|Hechenmoos
+68283|Post am See
+68284|Schloss Prielau
+68285|Salzburger Hof
+68286|Barbarahof
+68291|Gasthof zur Post
+68292|Landhotel Postgut
+68522|Mercure Secession Wien
+68523|Am Stephansplatz
+68532|Best Western Drei Raben
+68747|Gasthof Garberwirt
+68772|Lärchenhof
+68782|Christoffel
+68787|Lindner
+68796|Bacherlwirt
+68849|Pension Bischofer
+68850|Bernhard
+68862|Hochthron
+68863|First Mountain Kaprun
+68877|Gasthof Schwendterwirt
+68896|Flachauerhof
+68897|Hotel Vitaler Landauerhof
+68898|Schwaigerhof
+68991|Attache
+69036|Koralpenblick
+69071|Sporthotel Neustift
+69081|Berghotel Am Reisseck
+69082|Gartnerkofel
+69084|Der Klugbauer
+69086|Appartements Hubertushof
+69087|Gasthof Dorfwirt
+69089|Valentin
+69252|Courtyard by Marriott Vienna Schönbrunn
+69304|Sieghard
+69403|Park's
+69405|Hubertus
+69407|Kaiserhof
+69408|H2O Therme Resort
+69436|Falknerhof
+69437|Margretenhof
+69438|Kristall
+69439|A-ROSA Kitzbühel
+69440|Alexanderhof
+69441|Malteinerhof
+69442|Balance
+69643|Veranstaltung - Romeo & Julia
+69699|Goldene Ente
+69780|Wolf
+69782|Sonne
+69787|Pension Milan
+69794|Grand de l'Europe
+69806|Tirolerheim Grüner
+69811|Haus Bergfriede
+69812|Bliem
+69823|Honserhof
+69826|Garni Maximilian
+69835|Putzer
+69839|Axamer Lizum Clubhotel
+69843|Ferienhof Oblasser
+69848|Alpenpanorama
+69850|Landhaus Strasser
+69851|Hotel Elisabeth
+69858|Andreas
+69863|Zorn-Pauli
+70369|Apartmenthaus Holzknecht
+70398|Hotel Charlotte
+70399|Post
+70414|Müllnerhof
+70604|Palais Porcia
+70711|Hotel Terminus
+70881|Eder
+70979|Kitzbüheler Horn
+70981|Haiminger Hof
+70982|Ideal
+70998|Austria Trend Salzburg West
+71095|Stenitzer
+71260|Amadeus-Micheluzzi
+71327|Gasthof Post
+71328|Liesele-Sonne
+71329|Pension Laura
+71350|Delta Hotel Vienna
+71464|Pension Alpenrose
+71465|Jagdhof
+71869|Tirolerhof
+71959|Seecamping Schluga
+72051|Andrea Cäciel
+72052|Kristall
+72053|Knaller Möd
+72097|Tauernstüberl
+72098|Post
+72099|Samonig
+72100|Kärnten
+72101|Terrassenhotel Reichmann
+72102|Reichmann
+72103|Wellness- und Geniesserhotel Karnerhof
+72104|Strasserwirt
+72106|Am Hammerrain
+72112|Gasthof zum Kaiserweg
+72114|Pfeffel
+72117|Schusternazl
+72118|Pension Drahteselböck
+72119|Seewirt & Attila
+72142|Rokohof
+72143|Aragia
+72352|Sunnbichl
+72498|Reslwirt
+72632|Zillerhof
+73040|Bergsee
+73168|Schloss Haindorf
+73312|Christophorus
+73313|Pass Thurn
+73549|Purner
+73555|Falkensteiner Cristallo
+74235|Holiday Inn Salzburg City
+74557|Arion
+74586|Mitterwirt Wellnesshotel
+74634|Alpenland
+74635|Zistelberghof
+75532|Landgasthof Dorferwirt
+75690|Austria
+75781|Posthotel Strengen
+75802|Alpenhotel Wurzer
+75804|Happy Flachau
+75812|Abendstein
+75816|Pankraz
+75820|Robert Fankhauser
+75823|Franz Josef
+75880|Four Points by Sheraton Panoramahaus
+75881|Walisgaden
+75883|Landhaus Schatz
+75884|Congress
+75886|Erzherzog Johann
+75938|Goldene Rose
+75939|Grüner Baum
+75940|Seppl
+75941|Zerres
+76015|Forer
+76016|Q! Resort Health & Spa Kitzbühel
+76017|Familienhotel Berghof
+76019|Landal Katschberg
+76020|Monarchia Park
+76083|McTirol
+76084|Gasthof Ködnitzhof
+76085|Stöcklwirt
+76086|Forellenhof
+76087|Der Fichtenhof
+76121|The Levante Laudon
+76140|Park Inn by Radisson Uno City Vienna Hotel
+76141|Das President
+76198|Hotel Post
+76263|Schloss Mühldorf
+76381|Gasthof Bad Hochmoos
+76464|Romantik Minichmayr
+76466|Faakerseehof
+76507|Altwienerhof
+76711|The Levante Parliament
+77002|Sunshine
+77083|AMEDIA Express Salzburg City
+77101|Landgasthof Pointner
+77102|Zum Auerhahn
+77104|Alpenaussicht
+77149|Naturdorf Oberkühnreit
+77154|Oberreit
+77362|Gasthof Mitteregger
+77363|Seerose
+77364|Gasthof Brandwirt
+77366|Landhaus Rainer
+77369|Hagan Lodge
+77390|Caruso - geschlossen
+77422|Jagdhaus
+77500|Almhof Roswitha
+77521|Bauernhof Haflingertränke
+77648|Amadeus Appartements
+77650|Saskia
+77665|Gasthof Mariandl
+77669|Posthotel Mayrhofen
+77671|Eckartauerhof
+77672|Putzer II
+77673|Pension Elisabeth
+77675|Landhaus Mayrhofen
+77676|Haus Waldruh
+77840|Landhotel & Aparthotel Almrösl
+77891|Brunnenhof
+77896|Jörglerhof
+78023|Botenwirt
+78053|Central Löwen
+78327|Pirkdorfer See
+78329|Sablatnighof Gasthof-Pension
+78427|Exe Vienna
+78436|Schnitzleck
+78514|Fleming's Hotel Wien - Westbahnhof
+78550|Ferienanlage Brunnleiten
+78609|Feriendorf Koralpe
+78610|Löffele
+78611|Stieglerhof
+78612|Gasthof Rosentalwirt
+78614|Alpengasthof Reiter
+78615|Alpenhotel Erzherzog Johann
+79050|Gasthof Am See
+79053|Astner
+79056|Feichtnerhof
+79057|Alpenruh
+79058|Schwarzer Adler
+79062|Haflingerhof
+79152|Goldener Berg
+79175|Die Forelle
+79188|Strasshofer
+79189|Dorfhotel Kirchenwirt
+79191|Gutjahr
+79519|Bären
+79661|Klinglhub
+79743|Schloss Gabelhofen
+79744|Schlosshotel Post
+79746|Berghotel Malta
+79751|AlpenParks Maria Alm & Residence
+79872|ACHAT Plaza Zum Hirschen
+79892|Pension Gratlspitz
+79893|Bergresidenz Mühle
+79897|Zillertaler Weinstadl
+79899|Maria Dornauer
+79904|Zeller Stuben
+79905|Appart Central
+79939|Artis Schloss Krumbach
+79947|Vötterl
+79948|Oberforsthof
+79997|Arcotel Kaiserwasser Wien
+79998|Radisson Blu Style
+80152|Villa Cattina
+80153|Gasthof Rosenheim - geschlossen
+80154|Haus Wandaler
+80155|Rapplhof
+80157|Villa Laura
+80159|Resort Relax
+80163|Bäckenhäusl
+80230|Sandwirth
+80237|Sporthotel Silvretta Montafon-Gaschurn
+80292|Bruggner Stubn
+80403|Elisabeth
+80421|Hotel Astoria & Pension Tirol
+80466|Bärenbachhof
+80467|Aparthotel Alpenchalet
+80469|Pension Wartenfels
+80470|Allmer
+80471|Larimar
+80472|Vier Jahreszeiten
+80473|Im Park
+80481|Biohotel Ramsauhof
+80486|Best Western Drei Königshof
+80502|Bartlwirt
+80503|Gasthof-Hotel zur Post
+80507|Reitingblick und Nebenhaus
+80527|Alpenhotel Badmeister
+80529|Seemüllnerhaus
+80530|Am Silbersee
+80531|Angelika
+80533|Bronte House
+80534|Holiday Appartements
+80535|Reiter
+80536|Oebster
+80538|Ebner
+80539|Oberreiter
+80540|Bacher
+80541|Katharina
+80542|Wieshof
+80544|Ferienhaus Schiwiese
+80545|Sonnhof
+80547|Leit'n Franz
+80549|Der Seebacherhof
+80550|Ferienland Stubai
+80707|Romantik Hotel Gmachl
+80709|Zierlinger
+80781|Gasthof Waidachhof
+80782|Edelweiß
+80793|Hinteregger Familienhotel
+80794|Haflingerhof
+80795|Planaihof
+80838|Schattauer
+81466|Luciani Casa d'Oro
+81500|Plainbrücke
+81501|Altstadthotel Kasererbraeu Salzburg
+81502|Stoiser's Hotel Garni
+81768|Gasthof-Pension Schöntal
+81774|Hotel12
+81779|Zirbenhof
+81969|Krone
+81978|St. Hubertus
+82008|Moorquell
+82009|Liebnitzmühle
+82012|Filomena
+82056|Orange Wings Krems
+82068|Johann Strauss
+82287|Thermenhotel Kurz
+82326|Familienhotel Bad Neunbrunnen
+82327|Pension Steirerhof
+82328|Schilcherlandhof
+82345|Faulenzerhotel
+82579|Tyrol
+82580|Klingler
+82581|Frühstückshotel Margret
+82582|Sonnwend
+82583|Haus Rofan
+82584|Mauth
+82585|Achenwirt
+82587|Alpina
+82588|Stockinggut
+82589|Haus Alpengruß
+82590|Gasthof Neuwirt
+82592|Seehof
+82743|Aviano
+82745|City Central
+82746|Pension Baronesse
+82747|Pertschy Palais Hotel
+82888|Brunnwirt
+82895|Austria Trend Böck
+83707|Das Reinisch - Hotel
+83780|Lasserhof
+83883|Tyrolis
+85007|Feriengutshof Kampfl
+85168|First Mountain Zillertal
+85419|Glaserer Haus
+85495|Gasthof Aschenwald
+85617|Gasthof Zum Schweizer
+85619|Salzburger Hof
+85620|Edergut
+85649|Pension Montiel
+85684|Jochberger Hof
+85726|Hotel Mercure Salzburg City
+85774|Pension Schmiedhof
+85784|Alpenhotel zum See
+85785|Gramaser
+85793|Donauhof
+85836|Ferienhof Lackner
+86085|Feriengut Buasen
+86087|Klausenhof
+86148|Praterstern
+86316|Neuwirt
+86317|Martin
+86407|Pension Norika
+86416|Pension Költringer
+86436|Eschbacher
+86437|Landhotel Martha
+86548|Allesch
+86554|Semriacher Hof
+86559|Alpenwelt Alpenrose
+86562|Bergland
+86563|Landgasthof Gappen
+86564|Pension Alpina
+86578|Huber Hochland
+86579|Pension Englhof
+86580|Finkenberger Hof
+86584|Zum Goldenen Löwen
+86585|Schöne Aussicht
+86617|Mariandl
+86635|Eschenhof
+86650|Eden Hotel-Pension
+86696|Donauschlinge
+86764|Stadthalle Johannes
+86786|Trumer Stube
+86803|Pension Flatscher
+86994|Roomz
+86996|Lindner Hotel Am Belvedere
+87021|Jenbacherhof
+87024|Muttererhof
+87028|Walserberg
+87030|Sonnalp
+87037|Gasthof Post
+87040|Taxenbacherhof
+87042|Hotel zum Weißen Stein
+87051|Alpendorf Dachstein-West
+87156|Meixner/Obermoser Pension
+87157|Zur schönen Aussicht
+87164|Fischerwirt Gasthof
+87322|Burgstein
+87355|Falkensteiner Schlosshotel Velden
+87653|Eurohotel Vienna Airport
+90005|Berghotel Madlener
+90006|Grieserhof
+90007|Pension Trofana
+90008|Luchnerwirt
+90012|Nussbaumhof
+90015|Sonnblick
+90016|Rietzer Hof
+90020|Aigner
+90023|Ferienhotel Aussicht
+90024|Heinrichshof
+90028|Sonnwies
+90029|Bergzeit
+90047|Pension Bergblick
+90048|Academia
+90049|Gletscherblick
+90050|25hours Wien
+90053|Bellaria Pension
+90061|Stubaierhof
+90078|Hotel Gastof Grünholz
+90084|Almwelt Austria
+90089|Kellerwirt
+90095|The Ring
+90159|Almdorf Reiteralm mit Almhotel Edelweiss
+90279|Admiral
+90303|Kirchenwirt
+90307|Helenenburg
+90309|Nefer Pension
+90323|Alpenhof St. Georg
+90328|Sonnblick Appartement
+90339|Garni Martina
+90340|Garni Mirabell
+90346|Haus Fahringer
+90349|Blaiken Gästehaus
+90351|Hüttwirt Gasthof
+90352|Post Gasthof
+90355|Zasserl Appartement
+90356|Riemenerhof Pension
+90358|Dornauer Pension Gästehaus
+90375|Braunegger Gästehaus
+90377|Kopp Gästehaus
+90398|Ferienwohnungen Kröll
+90405|Vierjahreszeiten Gästehaus
+90414|Brindlinger Gästehaus
+90415|Hofer Chalet
+90418|Haus Stock
+90700|AVIVA Single Resort
+90702|Landal Hochmontafon
+90703|Banyan
+90704|Sportalm
+90707|Kirchdach
+90708|Hintertuxerhof
+90721|Feriendorf Kirchleitn - Dorf Kleinwild/ Dorf Großwild
+90722|Landal Bad Kleinkirchheim
+90933|Landgasthof Neuwirt
+90958|Elvira
+90959|Mariasteiner Hof
+90965|Sonnhof
+91006|Schlosswirt
+91007|Martini
+91034|Köberl
+91256|Das kleine Hotel Ortner
+91319|Starlight Suiten Salzgries
+91575|Brückenwirt
+91604|Alexander Ferienanlage
+91607|Tirolerhof
+91609|Mozart
+91844|Landgasthof Reitherwirt & Jagdhof Hubertus
+91960|Landhof Lenzhofer
+91968|Pension Sonja
+91969|Starchenthof
+91971|Pfisterhof
+92037|NH Wien City
+92077|Phoenix Apartments
+92084|Weisses Kreuz
+92086|Sattlerwirt
+92097|Der Schmittenhof
+92100|Traunstein Gasthaus
+92103|Austria Trend Savoyen
+92134|Wöscherhof
+92202|Tasma
+92203|Franglhof
+92212|Riezlerhof
+92256|Meininger Hotel Wien Hauptbahnhof
+92416|Stern
+92425|Karwendel
+92426|Tirolerhof
+92427|Sporthotel Alpenhof
+92468|Aubauerngut
+92470|Tscharnighof
+92706|Jagdhaus am Großvenediger
+92707|Oberkühnreit Ferienhaus
+92749|Gasthof Rösslwirt
+92751|Naturhotel Taleu
+92752|Pension Haueis
+92756|Alpenhotel Tirolerhof
+92757|Alte Post
+92759|Pfandler
+92874|Landgraf
+92896|Birkenhöhe
+92900|Holiday Inn
+92991|Star Inn Hotel Salzburg Zentrum
+92992|Ramada Salzburg City Centre
+93016|Samerhof
+93019|Ferienhof Rosslwirt
+93077|Landgasthof Zur Post
+93088|Alpenhof
+93093|Alpenrose
+93102|Hinteraigengut Landhotel
+93106|Alpenhof
+93150|Hillinger
+93179|Erholungshotel Margarethenbad
+93192|Zur Post
+93195|Zur Post
+93251|Courtyard Vienna Messe
+93255|Hirschen
+93257|Haas
+95024|Haus Lach
+95036|Landhaus Franzel
+95038|Elisabeth Haus
+95039|Haus Kelle
+95040|Chalet Montana
+95041|Haus Gufler
+95042|Merlenhütte
+95043|Chalet Bärlerhof
+95045|Lärchenwiese
+95047|Fehlehof
+95048|Almdorf Zillertal
+95154|Pension Bergheil
+95157|Pension Sonnhof
+95159|Appartement Haus Renate
+95183|Gasthof Hochsteg
+95480|Landhaus Legenstein
+95485|Gasthof Hirschen
+95488|Moselebauer
+95492|Hasenauer
+95499|Jagdhof
+95847|Fischinger
+95848|Alpenblume
+95851|Bruckreiterhof
+96191|Silvia
+96193|Ledererwirt Landgasthof
+96195|Der Berghof
+96409|Ottenhof Bergbauernpension
+96441|Dunza
+96442|Adler
+96450|Tirolerhaus Appartments
+96506|Gasthof Sebi
+96726|Alpine Palace & Haus Wolf
+96841|Kolberhof Gasthof
+97125|Dorfstadl
+97333|Nussdorferhof
+97339|Neue Post
+97342|Pension Herzog
+97343|Christophorus Gasthof
+97344|Pension Karlberger
+97345|Pension Sonnblick
+97346|Kirchbergerhof
+97380|Teichwirt Panoramapension
+97719|Lampenhäusl
+97720|Gästehaus Elisabeth
+97853|TOP Hotel Modul - geschlossen
+97875|Thermenhotel Puchasplus
+97902|Kärntnerhof
+97927|Arlberger Hof Vital
+97991|Hirschen
+98174|Huter Hotel-Pension
+98175|Fischer
+98179|Viktoria Garni
+98180|Neuwirt
+98187|Wolfgang
+98219|Kartause Gaming
+98404|Monika Landhaus
+98405|Villa Marie
+98406|Hohe Schule
+98408|Landhaus Bergkristall
+98425|Haus Ortner
+98428|Das Sonneck - Appartement Hochkönig / Blaues Appartement / Sonnenwohnung
+98431|Heimatsberg - geschlossen
+98466|Landhaus Ingrid
+98488|Haus Zonnen-Alp
+98489|Pension Appartements Grillhofer
+98490|Schuastaschneida-Hof
+98500|Landhaus Oberegg
+98501|Landhaus Hühneregg
+98509|Haus Berlin
+98510|Appartementen Montana
+98517|Schindlhütte
+98521|Reithgut
+98524|Landhaus Höring
+98535|Appartementhaus Stefanie
+98538|Villa Alpen Rose
+98540|Chalet am Breitenberg
+98548|Ferienhaus Rosina
+98557|Haus Helga
+98560|Landhaus Schmidl
+98568|Landhaus Hollin
+98569|Chalet Grossglockner
+98571|Ferienhaus Rosi
+98575|Strubergasse
+98576|Junges Hotel Zell am See
+98585|Panorama
+98586|Mariandl's
+98589|Haus Christine
+98605|Scherer-Gütl
+98610|Auhäusl
+98611|Haus Lemmel A, B, C, D, E
+98615|Chalet Lahntal
+98616|Rupertihof
+98617|Landhuis Bartolot
+98623|Hüttl Delux
+98624|Landhaus Gabriëlle
+98625|Landhaus Möschl
+98626|Ferienhaus Kehlbach
+98629|Mosshamhof
+98633|Chalet Sonnberg
+98634|Brandstatthof
+98638|Barbara
+98641|Landhaus Menardi
+98643|Appartement Kerber
+98644|Landhaus Schöpf
+98649|Landhaus Beim Bartler
+98652|Landhaus Perktold
+98658|Alfaierhof & Alfaier Bergheimt
+98665|Landhaus Mair
+98673|Scheffacheralm
+98675|Chalet Sonnwend
+98678|Schneiderhäusl
+98685|Landhaus Monika
+98687|Landhaus Hauser
+98693|Landhaus Köblhof
+98700|Haus Tanja
+98701|Michael Ferienhaus
+98702|Alpenrose
+98705|Rieser Appartement
+98709|Rainer Ferienhaus
+98746|Landhaus Pfister
+98757|Haus Hofer
+98760|Landhaus Pirchach
+98761|Adamerhof
+98763|Landhaus Rosa
+98765|Landhaus Egger
+98785|Landhaus Zottl
+98789|Schwalbennest
+98807|Waldhof
+98808|Gasthof Dorfwirt
+98811|Hohe Salve
+98813|Haus Schneller Meyer
+98814|Landhaus Nadine
+98817|Seewaldhof II
+98822|Papalapub
+98823|Haus Katherina
+98825|Haus Sonnberg
+98826|Haus Simone
+98828|Chalet Kirchberg
+98829|Pension-Cafe Fuchs
+98835|Huber
+98836|Landhaus Zehentner
+98837|Haus Michael
+98850|Landhaus Stigger
+98865|Landhaus Knabl
+98895|Landhaus Christian
+98902|Landhaus Friedl
+98904|Vier Jahreszeiten
+98905|Silvana
+98910|Landhaus Nadine
+98936|Christine
+98938|Sport Appartementen
+98942|Sesselebenerhof
+98944|Alpengruß
+98947|Arosa
+98950|Hohspitz an der Piste
+98951|Aurora
+98953|Pirchheim
+98956|Lastretta
+98959|Ingrid
+98965|Chalet Danninger
+98966|Gerda
+98971|Ferienhaus Lumper
+98973|Monteschiel
+98991|In der Schoß
+98998|Landhaus Säly
+99001|Landhaus Wirnsberger
+99002|Landhaus Eveline
+99004|Landhaus Petra
+99011|Chalet in Montafon
+99012|Haus Buchholz
+99014|Am Kristberg
+99015|Anton & Rita
+99017|Julia
+99020|Herlinde
+99033|Landhaus Simone
+99037|Landhaus Mimi
+99041|Landhaus Rudigier
+99045|Haus Flöry
+99051|Haus Waldheim
+99052|Haus Rifa
+99053|Haus Valüllablick
+99055|Haus Mathies
+99056|Sylvia
+99063|Chalet an der Piste
+99082|Haus am Himmel
+99084|Ferienwohnung Schuster
+99090|Troadkastenhaus
+99094|Troadkasten
+99098|Landhaus Heiderand
+99101|Knauss
+99105|Alter Kindergarten
+99113|Landhaus Plesnik
+99115|Landhaus Sofka
+99117|Landhaus Florian
+99121|Bernhardt
+99123|Chalet Bauer
+99126|Ferienhaus Hollinger
+99128|Brugger Ferienhaus
+99130|Haus Christine
+99131|Landhaus Margit
+99133|Haus Anita
+99134|Villa Ossiachersee
+99136|Bungalow Pitzler
+99137|Landhaus Tirol
+99140|Landhaus Dieter
+99141|Landhaus Arbeiter
+99143|Landhaus Schatzmayr
+99144|Ferienhaus Schwarzenbacher
+99145|Landhaus Fuchs
+99147|Landhaus Schmitzer
+99150|Gatternighof
+99153|Ferienhaus Maria
+99161|Ferienhaus Aschbacher
+99165|Landhaus Schwarzbach-Brugger
+99167|Landhaus Steiner I
+99168|Ferienhaus Riepler
+99269|Maria Theresia
+99412|Almhüttendorf Turracher Höhe
+99413|Edelweiss Gasthof
+99448|Tauernhof
+99520|Lenas Donau
+99701|JUFA Wipptal
+99727|Neuwirt
+99792|Flairhotel am Wörthersee
+100035|Batzenhäusl
+100036|Schönegg
+100152|Jägerklause Gasthof
+100193|Bauernhof Kloohof
+100338|Seehotel Dr. Jilly
+100346|Pfeilerhof
+100502|Vital
+101004|Novotel Wien City
+101140|Gollingerhof
+101346|Almhof
+102054|Matzelsdorfer Hof
+102427|Andreas Hofer
+102473|Schmiedhof
+102523|Rössle
+102539|Falkensteiner Asia Spa Leoben
+102609|Best Western Mondschein
+102614|Ferienhotel Fernblick
+102616|Dornauhof
+102617|Alpinahotel
+102618|Rilano Resort Steinplatte
+102621|aqi Schladming
+102624|Lambrechterhof Das Naturparkhotel
+102665|Dreiländerblick
+102671|Alpenjuwel Garni
+102672|Zum Gourmet Wellnesshotel
+102676|Hammerschmied Gasthof
+102748|Sporthotel Kurz
+102818|Dolomitengolf Hotel & Spa
+102819|CheckIN
+102877|JUFA Schloss Röthelstein
+102879|JUFA Seckau
+102906|Stolz Alpenhotel
+102907|Alpina
+102910|Zirmhof Familiengasthof
+102911|JUFA Veitsch
+103007|Kurhaus Gastein
+103072|Landhaus Salzburg
+103105|Pension Eberharter
+103106|Hotel Garni Nill
+103109|Gästehaus Christoph
+103123|Eggerhof
+103125|Gasthof Bärnstatt
+103126|Jägerhof
+103177|Gasthof Alpina
+103179|Alpinhotel Berghaus
+103180|Appartementanlage Scheffauer Hof & Gasthaus
+103181|Sporthotel Brixen
+103183|Urslauerhof
+103186|Salzburger Dolomitenhof
+103187|Wanderhotel Bad Mitterndorf
+103239|Kroneck
+103416|Eurostars Embassy Hotel
+103586|Alpenschlössl
+103743|Bürglstein
+103862|Adlerhof
+103865|Admiral am Kurpark
+103995|Amadeus
+104114|Appartements Hartlbauer
+104243|Austria Classic Bleckmann
+104244|Life Resort Loipersdorf
+104537|Ammerhauser
+104797|Best Western Elefant
+105147|Pfeifer Kirchenwirt
+105427|Best Western Pension Arenberg
+105882|City Hotel Linz
+105888|Hotel- und Gasthof Dollinger
+105960|Clima Cityhotel
+106729|DO & CO Hotel Vienna
+106851|Ekazent Schönbrunn
+107066|Feichtinger Graz
+107122|Hotel Scherer
+107209|Gasthof Post
+107375|Globo Plaza Hotel Villach
+107516|Harry's Home
+107593|Hotel Munde
+108147|Kaffeemuehle
+108332|Landhaus Sonnenzauber
+108709|Living Max
+109090|Kirchenwirt
+109141|Montafoner Hof
+109531|Palais Coburg Residenz
+109623|Pension Neuer Markt
+109701|Post Ischgl
+110143|Resonanz
+110418|Linsberg Asia Hotel & Spa
+110439|Alpeiner - Nature Resort Tirol
+110582|Blumenhotel
+110753|Schloss Dürnstein
+110760|Schoene Aussicht
+110782|Seelos
+111001|Star Inn Hotel Salzburg Airport-Messe
+111096|Symposion City Stockerau
+111490|Vienna
+111491|Vier Jahreszeiten
+111600|Vitalhotel Quellengarten
+111619|Wander-Vitalhotel Steirerhof
+111658|Willms
+111776|Amadeo Schaffenrath
+122280|JUFA Hotel zum Sternenturm Judenburg
+122284|JUFA Murau
+122285|JUFA Oberwölz
+122437|Das Eisenberg
+122455|Schönblick Mountain-Resort
+122462|Garni Alpenstern
+122463|Central
+122470|Gratzerhof Gästehaus
+122471|Eberharter Appartement
+122472|Garni Robert
+122483|Pension Bergwald
+122484|Haus Margit
+122487|Rottenspacher Gästehaus
+122488|Pension Schmid
+122492|Sonnenhof Appartementhaus
+122497|Hinterankerwald Appartementhaus
+122499|Pension Daxauer
+122605|Sonnleitn
+122733|Pension Rofangarten
+122743|Haus Simmering
+122746|Platzwirt
+122759|Chalet Hochstaffl
+122777|Hintermoos
+122825|Hotel Hahn
+122840|Tirolerhof
+122916|Red Eagle
+124061|Academia Graz
+124101|Aparthotel Kathrin
+125578|Hinterglemm
+125580|ACTIVE by Leitners
+125584|A-VITA Viktoria
+125585|Alte Schmiede
+125586|Parkhotel Seefeld
+125709|Ski-In-Ski-Out Hotel Berghof - Hotel Berghof
+125717|Wenger Alpenhof
+125902|Pension Excellence
+125903|Mailberger Hof
+125904|Bajazzo
+125905|Hotel Pension Alla Lenz
+125908|Opera Suites Vienna
+125911|Pension Stadtpark
+125918|Stalehner
+125919|Riemergasse Appartements
+125920|Pension Pharmador
+125921|Hoffinger
+125925|Strandhotel Alte Donau
+125929|Romantik Parkhotel Graz
+125935|Kolpinghaus Salzburg
+125936|Arena City Salzburg
+125937|Haus Arenberg
+125938|Austria Classic Hölle
+125939|AirportSalzburg
+125940|Hohenstauffen
+125942|Frauenschuh
+125944|Friesacher's Aniferhof
+125945|Laschenskyhof
+125946|Altstadt Weisse Taube
+125947|Stadtkrug
+125948|Astoria Salzburg
+125949|Zur Post
+125950|Via Roma
+125952|Lilienhof
+125954|Gabi
+126071|Barry-Memle
+126076|Das Landhaus Hauptmann
+126077|Familien & Wohlfühlhotel Elisabeth
+126085|Baby- und Kinderhotel Sonnelino
+126090|Lärchenhof
+126092|Christerbauer
+126094|Seeböckenhotel Zum weissen Hirschen
+126095|Weisser Bär
+126101|Parkhotel
+126104|Land/Schloss-gut-Hotel Jagdhof Breitenthal
+126106|Aktivhotel Rohrmooserhof
+126107|Sonneck
+126111|Verwöhnhotel Berghof
+126112|Alpenland Sporthotel
+126113|Alpengasthof Kirchboden
+126116|Miramonte
+126117|Villa Excelsior
+126118|Pension Gruber
+126119|Forsthofalm
+126121|Feldwebel
+126127|Panorama Garni
+126128|Seebichl
+126129|Metzgerwirt
+126130|Waldhof Ferienhotel
+126131|Family Resort Stubai - Hotel Atzinger
+126132|Sonnenspitze
+126164|Ritzenhof
+126169|Kreuz
+126193|Jägerhof
+126205|Seestuben
+126429|Hotel Genussgasthof Sonnenburg
+126433|Kögele
+126549|Grandau
+126550|Erlebnishotel Kristall
+126552|Blue Mountain
+126555|Gasthof Klammstein
+126556|Landhotel Hauserbauer
+126557|Unterbergerwirt
+126582|Bed & Breakfast Jungholz
+126583|Rosenhof bei Kitzbühel
+126584|Heigenhauser
+126585|Hotel-Pension Gschwentner
+126626|Arthotel Binders
+126628|Hotel Engl Garni
+126629|Altpradl
+126630|Kolping Linz
+126637|Zum jungen Römer
+126639|Schartner
+126697|Goldener Ochs
+126698|Oase
+126699|Gutenbrunn
+126713|Schloss Moosburg
+126773|Germania
+126872|Sattlegger's Alpenhof & Feriensternwarte
+126998|Gams Genießer- & Kuschelhotel
+127024|Arte Krems
+127025|Goldener Löwe
+127101|Panoramahotel Gürtl
+127103|Momentum Hotel
+127119|Austria Classic Heiligkreuz
+127215|Auwirt
+127234|Landhaus Knura
+127236|Alpen Adria & Spa
+127238|Forstinger
+127362|Rainsberghof
+127450|DachAtrigon
+127451|Geyer
+127452|Rösch in Viktring
+127495|Goies
+127501|Arlberg Stuben
+127681|life medicine RESORT
+127729|Ertl
+127814|Hein
+127903|Marc Aurel
+127908|Post Illmitz
+127931|Der Laternd'l Hof
+127983|Postgasthof Thaller Apfelland
+127984|Gasthof-Hotel Stockinger
+127987|Das Gogers Golf & Spahotel
+127995|Herberts Stubn
+128000|Sallerhof
+128002|GIP
+128008|Mader
+128012|Brennerei- und Wellnesshotel Lagler
+128014|Hotel Liebmann
+128021|Tonnerhütte
+128022|Gasthof Zur Traube
+128025|Hirschen
+128027|Revita Kocher
+128036|Bergkristall Wildalpen
+128840|Alpenrose
+128953|Hohe Tauern Sporthotel
+128974|Pension Sonnhof
+128995|Familiengut Ertlhof
+129058|Kolping Wien Zentral
+133326|Allyouneed Salzburg
+133328|Austria Trend Salzburg Mitte
+133330|Vogelweiderhof
+133334|Allyouneed Vienna Two
+133337|Allyouneed Vienna Four
+134381|Senator
+134385|Rainers
+134456|Einwaller
+135005|Schloss Münichau
+135048|Zedern Klang
+135143|Ferienappartements Gadenstätter - Sonnberg I
+135147|Del Europe Appartementhaus
+135151|Café Klingler
+135154|Pension Eppensteiner
+135156|Bellevue
+135157|Auerhof Appartementhaus
+135161|Landhaus Zillertal
+135165|Schneeberger Appartementhaus
+135217|Aldiana Salzkammergut
+135372|Panoramahotel Friesacherhof
+135373|Regitnig
+135374|Almhotel Kopphütte
+135378|Aumühle
+135379|Holidayresort Franzlhof
+135404|Gutshof zum Schluxen
+135547|Zum Lebzelter Alpengasthof
+135703|A&O Wien Stadthalle
+135724|Sun Valley
+135725|JUFA Eisenerzer Ramsau Almerlebnisdorf
+135733|Krakolinig
+135734|Fantur
+135740|Berghof
+135750|Hubertushof
+135756|Landhaus Kerschdorfer
+135758|Familienhotel Finkau
+135760|Eva Garden
+135761|Neuwirt
+135762|Erzherzog Johann
+135763|Lavendel
+135764|Symposion Hotel Post
+135911|Steigenberger Hotel Herrenhof
+136029|Kramerhof
+136048|Vital-Seminarhotel Wienerwald
+136051|Kaisermann
+136052|Saladina
+136053|Gasthof Rhätikon
+136055|Castel
+136056|St. Georg Garni
+136058|St. Leonhard Appartements
+136059|Pension Andrea
+136063|Camping Resort Brixen
+136064|Heisenhof
+136065|Haus Sonne
+136067|Wildbach City Appartement
+136109|Taxerhof Wellness & Aparthotel
+136137|Peterbauerhof
+136138|Poserhof
+136140|Relax Resort Kreischberg
+136142|Schernthaner
+136172|Kaiservilla
+136178|Ferienwohnung Waldstraße
+136180|Böhmerwald
+136181|Appartement Christa
+136182|Appartementhaus Kolpinghaus
+136183|Hotel & Appartement Rösslwirt
+136184|Garni Passeier
+136192|Milchbar & Gerlosperle
+136240|Alpina
+136446|Grissemann
+136457|Gästehaus Bendler
+136458|Pension Eberharter
+136459|Gasthof Christlwirt
+136466|Gell
+136501|Strobl
+136522|Gästehaus Hummerau
+136532|Penzinghof
+136604|Kirchenwirt
+136611|Familien Ferien Dorf
+136764|Sport Vital Hotel Central
+137730|Goldenes Lamm
+138271|Youthotel Linz
+138409|Plattenwirt
+139376|Yscla
+139388|Niedermühlbichler
+139391|JUFA Schladming
+139406|Pension Thainerhof
+139551|Goldener Adler
+139599|Cristallago
+139615|Haus Mitsche
+139616|Haus Jacqueline
+139617|Appart Fliana
+139618|Chalet Rose & Chalet Rotenstein
+139619|Panoramaalm
+139620|Haus Hubertus
+139622|Ante Portas
+139624|Leitzinger
+139640|Konradin
+139645|TUI best FAMILY Falkensteiner Sonnenalpe
+139787|Alpenhotel Waldfrieden
+139927|Sporthotel Neuwirt
+140024|Mountain Inn Chalet
+140125|Familienhotel Grundlhof
+140264|Pinzgauer Hof
+140322|Sporthotel am Semmering
+140323|Hartweger
+140327|Sonnhof
+140329|Fuxhof
+140374|Babymio
+142176|Kernwirt
+143428|Gamper
+143453|Am Domplatz
+143454|Hotel Evido
+143767|Pension Stocker
+143768|Gasthof Martinhof
+143770|Blitz
+143789|Grandhotel Lienz
+143793|Mallaun Familienhotel
+143794|Wagraineralm
+143795|Tyrol
+143851|Tirolerhof
+144221|Hubergut
+144767|Das Goldberg
+144769|Montana
+144771|Walchs Camping & Landhaus
+144774|Ibis Bregenz
+144777|Krone
+144778|Sonne
+144780|AktivHotel Hochfilzer / AlpenPension Claudia / Haus Garden - AlpenPension Claudia
+144782|Zum Schwarzen Bären
+144783|Gasthof Kreuzwirt
+144784|Lauriacum
+144785|Der Laerchenhof
+144787|Csejtei
+144790|Familienhotel Herbst
+144791|Almwellness Pierer
+144803|Kern Buam
+144804|Comfort Appartementhaus Blümel
+144806|Landhaus St. Georg
+144814|Neue Post
+144817|Zillertal
+144819|Kapeller
+144820|Ibis Innsbruck
+144821|Sporthotel Piz Buin
+144824|Panoramahof
+144825|Panorama Hotel Cis
+144838|Seewirt
+144842|Pension Schlossberg
+144854|Werzer's Resort Pörtschach
+144855|Gasthof zum Kirchenwirt
+144856|Am Mühlengrund
+144859|Landgasthof Lilie
+144861|Der Kaiserhof
+144864|Rössle
+144866|Ibis Salzburg Nord
+144869|Turnerwirt
+144870|Villa Ceconi
+144871|Snooze
+144872|Pension Lechner
+144876|Frankenhof
+144879|Hotel Olympia & Herbs
+144880|ResidenzHochland
+144888|Gondelblick
+144891|Narnhoferwirt
+144892|Alpendorf
+144893|Landhotel Lerch Plankenau
+144895|Landhotel Stofflerwirt
+144900|Gartenhotel Ochensberger
+144901|Kogler's Pfeffermühle
+144903|Stadthotel Styria
+144906|ibis Woerthersee
+144910|Wienerhof
+144911|Wienerwaldhof
+144912|Brugger's Genießerhotel Lanersbacher Hof
+144917|Actilingua Apartment
+144918|Amira
+144919|Ramada Vienna South
+144920|Edelweiss Wagrain
+144921|Golfresort Waidhofen
+144922|Gasthof Spullersee
+144923|Familiengasthof Schranz
+144924|Walserwirt
+144925|Servus Europa am Walserberg
+144926|Königgut
+144931|Alexandra
+144933|Korotan
+144934|Appartements in der Josefstadt
+144935|Pension Vera
+144941|Bella Vienna Apartment
+144942|Alma Boutique
+144943|Cortina
+144946|Pension Dormium
+144949|Hollmann Beletage - Design & Boutique
+144950|Gartenhotel Gabriel
+144952|Birg - Cyrus
+144953|Stanys - Das Apartmenthotel
+144954|Pension Mariahilf
+144955|Pakat Suites
+144956|Schild
+144957|Rothensteiner
+144959|Drei Kronen
+144961|Ibis Wien City
+144994|Marc Aurel
+145020|Gasthof Hauser
+145073|Pension Elisabeth
+145081|Pension Pepi
+145108|Klammer Erlebnisgasthof
+145109|Spertendorf
+145122|Pension Larchbrunn
+145124|Hüttl
+145125|Landhaus Rohregger
+145286|Bayrischer Hof
+145357|Unterberger Appartements
+151309|Falkensteiner Hotel & Spa Bad Leonfelden
+151315|Norbertshöhe Alpengasthof
+151797|Pannonia Tower
+151800|Sunshine
+160241|Valentina
+161725|Hauslwirt
+161794|Christian
+161795|Pension Rainhof
+161803|Gasthof Untermetzger
+161833|Wolfgangstuben Gasthof
+161840|Astrid
+161845|Birkleiten
+161849|Am Bach
+161851|Apartmenthaus Brixen & Haus Central
+161853|Auf Bauernhöfe Appartements
+161854|Bergheim
+161859|Faistenauer Söll
+161861|Pension Gerlinde Feichter
+161862|Fleidingerhof
+162684|Aktiv Hotel Karnia
+163365|Lachtalhaus
+163389|Vienna Sporthotel
+163392|Dom
+174973|Edelweiss
+182153|Thermenhof Koch
+182155|Alpin
+182172|Vallüla
+182228|Christkindlwirt
+182285|Mountain & Soul Lifestyle
+182309|Pension Claus
+182312|Pension Luzia
+182313|Marklhof
+182314|Bauernhof Neubauhof
+182316|Tramberger
+182440|Gasthof Gfrerer Lipp
+182585|Apartementhaus Seiwald
+182615|Heimgartl
+182629|Kempinski Hotel Das Tirol
+182631|Austria Trend Alpine Resort Fieberbrunn
+182635|JUFA Kaprun/Zell am See
+182636|JUFA Bleiburg/Pliberk Sport Resort
+182637|JUFA Montafon
+182639|Landal Brandnertal
+182640|Mitterhofer
+182642|Schneedorf Hochötz
+182643|Apartments Talblick
+182651|Feriengasthof Grundner
+182652|Natur & Wellnesshotel Höflehner
+182653|Activhotel Weißer Hirsch
+182679|Alpinara
+182684|Hotel s' Schlössl im Park
+182689|Römerhof
+182691|Alpenjuwel Jäger
+182770|Seminar-Park-Hotel Hirschwang
+182774|Park Inn Klosterneuburg
+182780|Johann
+182800|Sporthotel Ellmau
+182854|Gasthof Friedlwirt
+182855|Dahoam Appartements
+182856|Landhaus Emmy
+182858|Pinguin Koralpe
+182868|Carolin Apparthaus
+182872|Seepark Hotel
+182873|Jäger
+182880|St. Martins Therme & Lodge
+183005|Iris Porsche
+183011|Heritage Hallstatt
+183013|Almdorf Seinerzeit
+183062|Val Sinestra
+183063|Haus Alpenblick
+183064|Appartements Martin
+183065|Ladina Apparthotel
+183068|Tyrol Appartementhaus
+183073|Appartements Hauser
+183075|Bergresidenz
+183078|Chalets Steiner
+183080|Vive Diem
+183082|Baumgarten
+183146|Post
+183160|Torri di Seefeld
+183161|Wohlfühlhotel Goiserer Mühle
+183183|Nova
+183281|AMEDIA Hotel Graz
+184055|Thermenlandhotel St. Magdalenahof
+184062|Ferienhof Unterhochstätt
+184067|Naturerlebnishotel Kehlbachwirt
+184068|Hotel Gasthof Eschbacher
+184069|Hotel Gasthof Kröll
+184070|Seminar- Und Ferienhotel Trattnerhof
+184453|Hotel Haymon
+184457|Seehotel Schlick
+184464|Gasthof Inntalerhof
+184484|Pfefferkorn's Hotel
+185332|Aktiv & Wellness Alpina
+185336|Gasthof Tannberg
+185381|Ballonhotel Thaller
+187708|Walkner
+187765|Pension Dr. Geissler
+187855|Appartements Kulmhof
+187856|Ferner's Rosenhof
+187863|Sporthotel & Gästehaus Xander - Gästehaus Xander
+187984|Sporthotel St. Anton
+188155|Klausnerhof
+188259|Charly
+188262|Familotel Kinderhotel Stefan
+188311|Gasthof Mitterjager
+188361|Hotel Adlon Vienna
+188363|Aktiv Hotel-Pension Klingler
+188364|Aldano Apartments
+188368|Alpenappartement Europa
+188369|Alpen Hotel Kitzbuhel
+188373|Alpenhotel Dachstein
+188377|Alpina
+188383|Angerer Appartements
+188384|Ansitz Felsenheim
+188399|Appartementhaus Sonne
+188403|Appartements Hermine Vienna
+188409|Arian
+188415|Attergauhof
+188422|Familotel Bauernhof-Hotel Oberkarteis
+188425|Belvedere Apartments Vienna
+188435|Carina
+188437|Chalet Kammleitn
+188440|City Rooms
+188445|Crystls Aparthotel Flachau
+188448|Das Beck
+188453|Doktorschlössl
+188459|Falkensteiner Therme & Golf Hotel Bad Waltersdorf
+188461|Familiengasthof Maier
+188464|Tirolerhof
+188465|Ferchergasse Vienna
+188477|GAL Apartments
+188478|Zimmermann
+188479|Garni Klausnerhof
+188489|Gasthaus Pension Marienhof
+188490|Gasthof & Hotel Dorfkrug
+188494|Gasthof Innbrücke
+188496|Gasthof Löwen
+188501|Gasthof Pension Reisenberger
+188502|Pension Seelos
+188507|Künstleralm Hotel & Apartments
+188514|Golfhotel Villa Drachenwand Mondsee
+188515|Gourmethotel Habhof
+188516|Gratt Schlössl
+188518|Hagleitner
+188519|Harml's Aparthotel Flachau
+188521|Harry's Home Linz
+188522|Hartlwirt
+188524|Haus Enzianbrenner
+188533|Heutaler Hof
+188539|Alpbacherhof
+188545|Hotel Auenhof
+188546|Hotel Aurelio
+188548|Batzenhäusl
+188549|Berghof Graml
+188550|Bokan Exclusiv
+188551|Caroline Vienna
+188554|Lammertal Resort
+188556|Hotel am Garnmarkt
+188557|Erla
+188558|Forelle
+188561|Haus Die Barbara
+188562|Garni Tenne
+188564|Gartenauer - geschlossen
+188582|Kristall
+188585|Lohningerhof
+188591|Oasis
+188592|Paradies
+188595|Hotel Pension Schwaighofen
+188596|Pension Schweizerhof
+188598|Pension Sonnleiten
+188602|Landhotel Pettneuerhof
+188605|Holdrichsmühle
+188611|Rumer Hof Innsbruck
+188612|Hotel Schlosspark Mauerbach
+188617|Sonnbichl
+188618|Sonnenkönig
+188621|Sonnhof Family & Spa
+188622|Sonnleitn
+188624|Steffner-Wallner Landgasthof
+188625|Natur Aktiv Hotel Tannenhof
+188628|Untersberg
+188630|Vergeiner
+188638|Zur Post
+188640|Jakober
+188647|Jordan
+188648|JUFA Bad Aussee
+188654|Kolpingsfamilie Wien-Meidling Vienna
+188660|Kunst & Kultur Seminarhotel Geras
+188661|La Scala
+188680|Landhotel Hubengut
+188682|Landhotel Locker
+188688|LiV'iN Hotel & Residence Wien
+188689|Lumes & Co. Pension
+188690|Maiers Oststeirischer Hof
+188693|Hotel Tuxertal
+188697|Muffin Hostel Salzburg
+188700|MyPlace City Centre
+188701|MyPlace Riverside
+188704|Natur Residenz Villgraten
+188706|Obertrauner Hof
+188712|Park Inn by Radisson Linz Hotel
+188721|Pension Berghof Gerlos
+188722|Pension De Lux
+188724|Pension Elisabeth
+188736|Pension Liechtenstein
+188741|Pension Residenz
+188745|Pension Schweigerhof
+188752|Pension Waldkrieber
+188756|Princess Bergfrieden
+188757|Quilters Home Vienna
+188767|Schloss Leopoldskron
+188769|Schlosswirt zu Anif
+188770|Schluga
+188777|Saint Shermin
+188778|Sporthotel Zugspitze
+188779|Skihotel Galzig
+188783|Sport & Golf Hotel Kaprun
+188796|Sun-Matrei
+188802|Towns Apartments Vienna
+188806|Vienna Hietzing 4
+188810|Viktoria
+188811|Villa Klothilde
+188813|Villa Solitude
+188818|Wein Genuss Pössnitzberg Hotel Leutschach
+188820|Hotel Raxalpenhof
+188821|Wellnesshotel Kendler
+188827|Haus Pfaffenberger
+189417|Golfblick Garni
+196056|Knappenwirt
+196101|Alpenhof
+196114|Pension Marxenhof
+196124|Appartements Grünfelder
+196130|Gasthof Brunnerhof
+196131|Edis Erlebniswelt Edthof
+196141|Huber's Boutique
+196178|Pension Gruberhof
+196180|Pension Hinterleiten
+196187|Pension Kristall
+196190|Pension Leo
+196194|Pension Pfeifer
+196201|Pension Schusterbauer
+196343|Druschhof
+196344|Sonne
+196352|4 Sterne Nature Resort Ötztal
+196356|Grubachhof
+196357|Achensee Pension
+196358|Achental Apartements Haus Regenbogen Pension
+196361|Adagio Vienna City
+196365|Aktiv-Sporthotel Christoph Pitztal
+196368|Alpen Adria Gasthof Rausch
+196374|Alpenherz
+196375|Alpenhof
+196376|Alpenhof
+196377|Hotel Jacobwirt
+196379|Alpenhotel St.Christoph
+196380|Hotel Garni Alpenrose
+196382|Alpen Royal
+196383|Alpenstern
+196401|Andrè Arnold Pension
+196419|Hotel Garni Fiegl Apart
+196421|Appartements Austria
+196435|Ascherwirt Gasthof
+196437|Auffacherhof
+196447|Bärnthaler
+196450|Belvedere
+196451|Bentleys House
+196455|Berghof
+196458|Bergland
+196463|BioVital Hotel Sommerau
+196466|Böhmerwaldhof
+196468|Boutique Hotel Steinerwirt
+196479|Boutique-Hotel & Apartments am Essigmanngut
+196483|Berghotel Tirol
+196484|Chalet Hilde
+196499|Döllacher Dorfwirtshaus
+196500|Döllerer's Geniesserhotel
+196503|Gasthof Dorfstadl
+196506|Eagles Astoria
+196527|Karnischer Hof
+196533|Hotel Brennseehof - Alte Post
+196534|Fast
+196537|Hotel Gasteiger Jagdschlössl
+196545|Florianerhof
+196569|Gästehaus Schneider
+196575|Hotel Gasthof Gribelehof
+196581|Gasthof Lendwirt
+196593|Genusshotel Riegersburg
+196597|Gesundheitsresort Bad St. Leonhard
+196605|Goldener Stern
+196611|Grand Tirolia Golf & Ski Resort
+196618|Gutshof Zillertal
+196663|Hochzeitsschloss Obermayerhofen
+196670|Holiday
+196673|Hospiz Alm Residenzen
+196676|Hotel Aberseehof
+196679|Hotel am Dorfplatz
+196682|Hotel Christina
+196685|Fabrik
+196686|Hotel Fernsicht
+196688|Gamshag
+196699|Hirschen
+196701|Hotel Garni Laaxerhof
+196707|Pariente
+196709|Rita
+196710|Rosengarten
+196711|Rustika
+196715|Hotel Sonnenburg
+196716|Sonnwendhof
+196717|Tauernstern
+196718|Toscanina
+196729|Hubertushof Landhotel
+196732|Sporthotel Ideal
+196743|JUFA Pöllau Bio-Landerlebnisdorf
+196759|Klimt
+196764|Krone
+196772|Landgasthof Hocheck
+196790|Lenas Vienna
+196797|Macher's Landhotel
+196814|Montfort - das Hotel
+196816|Moserhof
+196860|Pension-Appartements Schipflinger
+196868|Pfeiler´s Bürgerstüberl
+196870|Alpenhotel Plattner
+196880|Relax & Wanderhotel Poppengut
+196884|Riedl's Genießerschlössl
+196887|Hotel Richard Löwenherz
+196894|Sagritzerwirt
+196903|Sarotla - 4 Oase der Gemütlichkeit
+196907|Alpinresort Schillerkopf
+196912|Schlössl Hotel Kindl
+196925|Schwarzer Adler
+196937|Silvretta
+196942|Hotel Sonne
+196948|Sporthaus Troger
+196963|Steffelbauer Landgasthof
+196967|Stockerwirt
+196985|Traube
+196996|Verwöhnhotel Wildspitze
+197001|Villa Seilern Vital Resort
+197005|Walliserhof
+197028|Winzerhotel Vöhringer
+197030|Felsenhof
+197031|Wohlfühl Hotel Eder
+197033|Zillergrund
+197039|Zum Lammwirt
+197047|Landgasthof zur Linde
+197050|Zur Post
+197057|Post
+197058|Koreth
+197061|Vitalhotel Krainz
+197066|Gasthof Pension Bürger
+197075|Tschirgantblick Hotel
+197080|Verwöhnhotel Chesa Monte
+197088|Goldener Engl
+197092|Adlerhof am Sonnenplateau
+197098|Alpensonne
+197099|Waldhotel Klopeiner See
+197101|Drauhof Landhotel
+197169|Hotel-Pension Strolz - Hotel Strolz
+197171|Hoferwirt
+197174|Senningerbräu
+197175|Tauernblick
+197190|Zur Post
+197193|Family Play Resort Vulcanino
+197204|Schillerhof
+197207|Seehotel am Hallstättersee
+197227|Appartementhaus Hubertus
+201321|Sentido Seehotel am Kaiserstrand
+201483|Villa Carla
+201484|Haus Kesslerhof
+201486|Landhaus Waldeck
+201487|Haus Stocker
+201488|Haus Taxacher
+201783|Ursula
+201784|Appartements Alpin
+201803|Garni Litzner
+202125|Kulmwirt Gasthof & Ferienwohnungen
+202128|AlpenParks Residence Bad Hofgastein
+202130|Alpenrose-Egghof
+202161|Alp-Resort Tiroler Adler
+202162|Haus Central
+202168|Appartement Taps
+202171|Schönpflug
+202426|Landhotel Schloss Kammer
+202430|Landhaus Wieshof
+202529|Appartements Tuxer
+202831|Hotel Holzer
+202838|Alpengasthof Enzianhof
+202857|3* Designhotel
+202913|Appartement Martin
+202916|Appartements Ruetz
+202917|Pension Gabriela
+202919|Pension Sunnhäusl
+202923|Das Posthotel
+202951|JUFA Waldviertel
+203008|Pirawarth Kurhotel
+203009|Gasthof Waldcafe
+203010|Lebens.Resort Ottenschlag
+203299|Hauserwirt
+205064|Das Landhaus Prägant - Ferienappartements
+205065|Appartements Tritscher
+205967|Das Reinisch - Bed & Breakfast Hotel
+209101|Andreas Hofer
+209183|Ferienhaus Sonnenhang
+209212|Ferienwohnungen Buchauer - Georg Appartement
+209438|Haus Glanzer
+210333|Haus Semmering
+211521|Pension Wild
+211962|JUFA Donnersbachwald Almerlebnisdorf
+211963|JUFA Graz City
+211966|JUFA Salzburg City
+212691|Landhaus Edelweiss
+212701|Landhaus St. Georg
+214969|Panoramahotel
+215110|Party & Eventhotel Knappenhof - geschlossen
+215226|Bergbauernhof Irxner
+215351|Pension Stoi
+215356|Pension Talblick
+216743|Adler Relax- und Vitalhotel
+217849|Hotel Schloss Fernsteinsee
+218199|Sonnenhof Bed & Breakfast
+218493|Stülzis
+218545|Sun, Snow & Golf apart-hotel
+220672|Karla Wellness- & Vitalhotel
+222406|JUFA Gnas Sport Resort
+226481|Andrelwirt
+226484|Seehotel Frank
+226488|Haus Taurachblick
+226525|Pension Da Capo
+226553|Edelweiss
+226738|Adler/Rössle
+226934|Auhof
+227015|Gasteigerhof
+227016|Pension Wasserfall
+227017|Standlhof
+227054|Appartments Laura
+227058|ViennArt
+227076|Grünwalderhof
+227285|Pension Angelika
+227286|Pension Daum
+227287|Fürstenhof Pension
+227309|Ski-In-Ski-Out Hotel Berghof - Appartments Bergland
+227310|Feel free Adventure Camp
+227346|Eder
+227575|Haus Andrea
+227577|Pension Uhl
+227676|Hubertushof
+227705|Petzen
+227759|HB1 Design & Budgethotel Wiener Neudorf
+227764|Tauern Spa Kaprun
+227765|Rosengarten
+227850|Sofitel Wien Stephansdom
+227876|Sonnenresidenz Friedheim
+227877|Alpenrose
+227878|Wahaha Paradise
+227958|Appartementhaus Jagdhaus
+228127|Wohlfühl- & Familienhotel Johanneshof
+228130|AlpenParks Matrei
+228192|Gasthof Laggner
+228194|Hinterwies
+228196|Saliter Hof
+228197|Tauplitzerhof
+228232|Pension Wassererhof
+228274|Georgshof
+228367|Best Western Plus Amedia Art Salzburg
+228476|Alphotel Kuhstadl
+228477|Alpin Am Kreischberg
+228478|JUFA Semmering
+228555|Pension Gabi
+228571|Eulersberg Appartements
+228686|Apart Aurora
+228687|Haus Mayer
+228689|Feriendorf Wildschönau
+228690|Vicky Appartements
+228691|Almdorf Großarl
+228692|Landhaus Rieser
+228693|Feriendorf Gröbming
+228694|Ferien Idyll Alpine Spa Residence
+228704|Appartementhaus Mühle
+228706|Appartementhaus Chalet Sofie
+228713|Adler Resort Kaprun
+228732|Alpenstern Heuberg
+228745|Jägerhof
+228763|Iglu Village Kühtai
+228793|Lake's - my lake hotel & spa
+228844|Allyouneed Klagenfurt
+229115|Wiesenhof
+229153|Gesundheitszentrum Golfhotel am Wörthersee
+229497|Meininger Hotel Salzburg City Center
+229561|Sperlhof
+230247|Alpinlife Gebhard
+230286|Der Hahnbaum
+230855|Aktivhotel Eberleiten
+231269|Hotel 24/7
+231423|Gasthaus Rössl
+231714|Tannerhof
+231716|Alpenrose Postalm
+231889|Pension Wallnöfer
+231891|Kaysers Tirol Resort
+231894|Bio-Vitalhotel Weissenseerhof
+231898|Fleming's Deluxe Wien-City
+231970|Haus Patricia
+231983|Vomperhof
+232133|Der Rindererhof
+232161|Kaiser von Österreich
+232162|Alpen-Karawanserai Time Design Hotel
+232163|Artvita
+232281|Pension Pertisauerhof
+232282|Park - Area 47
+232373|Ramada Encore Vienna City Center
+232416|Wiesengrund
+232425|Taferne
+232476|Gasthof Bachschmied
+232495|Biohotel Jesch
+232623|Aenea Designhotel
+232625|Aparthotel Legendär
+232718|Vienna Urban Resort
+232799|Gasthof Brentwirt
+232908|JUFA Tieschen Landerlebnisdorf
+232909|Gasthof Neumayr
+232911|Gästehaus Neuried
+233160|Ramada Hotel & Suites
+233173|Pension Hofer
+233331|Pension Wildauer
+233400|Camping Bella Austria
+233492|Pension Tuxerhof
+233552|Tia Monte & Tia Monte Smart - Tia Monte Smart
+233574|Sole-Felsen-Bad
+233575|Colora
+233696|Berghaus Hecher
+234057|Gästehaus Weinberger
+234064|Hotel Landhaus Tannenberg
+234071|Hotel Salzburg
+234575|Appartementhaus Hongmei
+234576|Landhaus Innrain
+234652|Jugendpension Müllauerhof
+234739|Parkhotel Igls
+234958|Cityhotel D&C
+235297|Gasthof Almblick
+235313|Garni Maximilian
+235314|Gailbergerhof
+235738|Tunzendorfer Wirt
+235857|Zeferer
+235891|Lti Alpenhotel Kaiserfels
+236031|Fliana
+236091|Kneipp Traditionshaus der Marienschwestern
+236181|Markterwirt
+236344|Tatzlwurm
+236676|Alp Art
+236690|Garni Valerie
+236720|Castello Königsleiten
+236921|Appartement Auszeit
+236946|Schermer
+236947|Pension Silian
+237052|Pension Edelweiß
+237083|Apart Lechner
+237089|Meininger Wien Downtown Sissi
+237097|Austria Trend Park Royal Palace
+237142|Zehenthof
+237170|Steindlhof
+237236|Schwarzer Adler
+237308|Pension Brunelle
+237549|Post
+237603|Gasthof Werfenerhof
+237612|Jäger
+237613|Sissi
+237798|Explorer Montafon
+237876|Jagdschloss Kühtai
+237883|Apparthotel Garni BERGLAND
+238452|Imlauer Wien
+238797|Maierl-Alm
+238798|Gartenhotel Theresia
+238806|Hotel Ramada Innsbruck Tivoli
+239079|Haus Ausserbach
+239206|Naturhotel Grafenast
+239271|Gasthof Schwarzenstein
+239274|Voglauerhof
+239399|Feriendorf Hohentauern
+239640|Gasthof Gailberghöhe
+240256|Gasthof Johannesmesner
+240258|Gollner
+240259|Gasthof Hubmann
+240369|Birkenhof Hotel
+240583|Jugendferienhaus Salitererhof
+240667|JUFA Grundlsee
+240751|Gästehaus Wöll
+240782|Briem
+240783|Haus am Brixenbachl
+240909|Wiesenhof
+241037|Völserhof
+241057|INNs Holz
+241058|Kirchenwirt
+241064|Goldener Brunnen
+241296|Schwarzer Adler
+241340|Berghotel Dachstein
+242078|Sporthotel Achensee
+242862|Gut Vögeihof
+242871|Iris
+242875|First Mountain Montafon
+242876|Walserhof
+242878|Am Reiterkogel
+242879|Pension Riedlsperger
+242880|Alta Vista
+242881|Hüttenwirt
+242882|Alpen Aurora
+242883|Resort Obertraun
+243214|Bergland
+243378|adeo Hotel Puch/Urstein
+243667|JUFA Weinviertel Landerlebnisdorf
+243668|JUFA Nockberge Almerlebnisdorf
+243679|Alpenwelt
+243728|Stockers Rohrmooser Erlebniswelt
+243762|Gasthof Raufner
+244123|LOISIUM Wine & Spa Resort Südsteiermark
+244124|Stainzerhof
+244125|Lindenhof Landgut
+244126|Nagglerhof am Weissensee
+244298|Ansitz Gasthof Burg Heimfels
+244299|Gasthof Pension Kohlplatzl
+244869|JUFA Gitschtal Landerlebnisdorf
+245012|Both
+245384|Kufsteinerhof
+245623|Gasthof Reiter
+245667|Daniel
+245677|Appartementhaus Andrea
+245678|Noldis
+245682|Hotel Garni Philipp
+245706|Appartementhaus Anton-Wallner Str.
+245707|Appartementhaus Edelweiss
+245708|Appartementhaus Elisabeth
+245709|Appartementhaus Kögl
+245710|Appartements Zillerufer
+245756|Hubers Chalets
+245830|Familien Resort Petschnighof
+245840|Educare
+246119|Asten Hütten / Ast'n
+246503|Gasthof Burkert
+246830|Vital- & Familienhotel Angerwirt
+246833|Rössl
+247126|Alpenhotel Marcius
+247397|AMEDIA Hotel Wien
+247476|Kurhotel Dr. Petershofer
+247489|Angel's Place
+247492|Hotel Lenas West
+247495|Harml Aparthotel
+247531|Feriendorf Kirchleitn - Dorf Kleinwild
+247532|Feriendorf Kirchleitn - Dorf Großwild
+247740|Gutwenger Ferienwohnungen & Almhütten
+247752|Moser´s Hotel
+247761|Alpenklang
+247763|Romantikhotel Böglerhof
+248394|Taxi Aschaber
+248493|Ferienhotel Kreischberg
+248587|Appartements Austria
+248969|Landhaus Savisalo
+249252|Almresort Gerlitzen Kanzelhöhe Hotel & Ferienwohnungen
+249338|Alpenhof Grafleiten
+249355|Garni Dietrich
+249384|Alpengasthof Wolfgruber
+249692|Almresort Katschberg - Hinteregger
+249693|Almresort Katschberg - Lärchenhof
+249714|JUFA Wien City
+250020|Roomz
+250041|Alpenhotel Kramerwirt & Altes Forsthaus - Kramerwirt
+250042|Alpenhotel Kramerwirt & Altes Forsthaus - Altes Forsthaus
+250048|Wintergarten
+250065|Austria Trend Doppio
+253775|Alpen-Wellness Resort Hochfirst
+253776|Haus Romana
+253777|Edelweiss
+253786|Olivia
+254084|Bad & Ski Pension
+254085|Kratzerwirt
+254208|City Centre Anilin
+254209|Vienna City Apart
+254211|Central Vienna
+254212|Hostel & Guesthouse Kaiser 23
+254214|Vienna Garden
+254216|Central Vienna-Living Premium Suite
+254220|Luxury Design Home Stroheckgasse
+254221|Pension Vienna Happymit
+254223|EB Hotel Garni
+254225|Annex Der Salzburger Hof
+254226|Goldene Krone 1512
+254227|Star Inn Hotel Salzburg Gablerbräu
+254261|Fair-Price-Hotel
+254277|Pension Rauchkuchl
+254278|The Farberhaus
+254279|Chalet Enzian
+254280|Aparthotel Lothringen
+254283|Hotel Alpenhaus Evianquelle
+254284|Chalet Embacher
+254285|Kur-Sportpension Villa Anna
+254286|Alpenhof
+254287|Chalet Charlotte
+254288|Sport Und Familienhotel Klausen
+254289|Haus Thuss'n
+254476|Hotel St. Georg zum See
+254480|Der Waldhof
+254740|Tirol
+254741|Schloss Saalhof
+254802|Gasthof Kreuz
+254811|Hotel Grossarler Hof
+254906|Kleinmünchen Garni
+254909|Waldruhe
+255876|Kerschbaumer / Zur Weinstube - Kerschbaumer
+255879|Hotel Angela
+255880|Omesberg
+255915|Appartements Bergsonne
+255916|Vital Hotel Sportalm & Schwaigeralm
+256047|Jerà am Furtnerteich
+256148|Hotel Platzl
+256150|Appartements De Luxe Schluga
+256361|Gasthof Pöchhacker
+256824|JUFA Altaussee
+257146|Familienhotel Krainz
+257849|JUFA Leibnitz Sport Resort
+257991|JUFA Deutschlandsberg Sport Resort
+258027|Gasthof Goldener Stern
+258118|Landhaus Sonnblick
+258135|Goldener Adler Wattens
+258182|JUFA Bruck an der Mur/Weitental
+258274|Sissi Park
+258289|Alpin Lodges Kühtai
+258308|JUFA Fürstenfeld Sport Resort
+258482|Frühstückpension Feiken
+258576|Ski Vital
+258578|Berau Landhotel am See
+258579|Falkeis Gasthof-Pension
+258581|Schachtner Hof
+258607|Landgasthof Bogner
+258657|JUFA St. Martin am Tennengebirge
+258906|JUFA Erlaufsee Sport Resort
+259156|Feriendomizil Gasthof Scheer
+259276|Gasthof zur Post
+259298|Wiesenegg
+259311|Altneudörflerhof
+259313|Berggasthof Schwengerer
+259346|Lammerhof
+259350|Reinbach Stube
+259354|Strudlwirt
+259358|arx Genusshotel
+259360|Karlshof
+259444|JUFA Bregenz am Bodensee
+259445|Gradonna Mountain Resort - Hotel / Chalets
+259446|Landhotel Heitzmann
+259447|Sonnenhof
+259735|Hotel Topazz
+260043|Haus Katharina
+260086|Gasthof Lechner
+260099|Gästehaus Lärchenheim
+260100|Pension Albert
+260103|Travel Charme Bergresort Werfenweng - Hotel / Apartments
+260180|Landhotel Wolf
+260198|Erlebnisgasthof Moasterhaus
+260201|Brunner - Reiteralm
+260203|Gut Hanneshof
+260205|Sportpension Katharinenhof
+260207|Schwarzer Adler
+260291|Arlmont
+260307|Gästeheim Prantl
+260349|Alpenpark Turracher Höhe
+260352|Pauli's Golf- & Familienhotel Pogöriacherhof
+260456|Hauser's Ferienhof & Landhaus Maridl
+260486|Gasthof Pension Kirchenwirt
+260512|Lammwirt
+260530|Alm Resort Nassfeld
+260548|Eder Michaela
+260558|Lindwurm
+260559|A&O Wien Hauptbahnhof
+260568|Gradonna Mountain Resort - Hotel
+260569|Gradonna Mountain Resort - Châlets
+260570|Sporthotel & Gästehaus Xander - Sporthotel Xander / Gästehaus Xander
+260680|Aignerhof
+260681|Apartpension Julia
+260682|Hotel Park
+260695|aDLERs Mountain View Design
+260731|The Ritz-Carlton, Vienna
+260751|Pension Bellevue
+260787|Jagdgut Wachtelhof
+260986|Landal Chalet Matin
+261004|Ransburgerhof
+261128|Panoramahotel Burgeck
+261160|JUFA Lungau
+261161|Grizzly Sport & Familien Resort
+261166|Sportpension Sonnhof
+261185|Berghof Schöpf
+261437|Gasthof Edelweisshaus
+261438|Kaiserstubn
+261503|Sammers Nockresort - Sporthotel Kostmann/ Kristall
+261534|Kaiserhof & Nebenhaus Thanellerhof - Kaiserhof
+261535|Kaiserhof & Nebenhaus Thanellerhof - Thanellerhof
+261547|Steirisch Ursprung
+261557|Falkensteiner Hotel Schladming
+261721|Almis Berghotel
+261944|Abelhof
+264475|Derag Livinghotel City Apartments Wien
+264476|Meininger Wien Downtown Franz
+265494|Kristall
+265534|A&O Graz Hauptbahnhof
+265552|Appartements Alpenmond
+265559|Appartementhaus Hubertus
+265560|Haus Höllwart
+265563|Villa Constanze
+265580|Alex
+265606|Alpenhotel Ischglerhof
+265669|Schmiedererhof
+265680|Lamee
+265693|Schiederhof
+265740|Gasthof Musikantenwirt
+265765|Hubertushof
+269776|Sonnenhang
+269777|Appartementhaus Leni
+270609|Vienna Star Apartments Maria-Theresien-Straße 24
+270612|Vienna Star Apartments Czerningasse 22
+270613|Apartment Vienna - Ferdinandstraße
+270614|Blue Danube Apartments
+270615|Old Vienna Apartments
+270616|Imperial Vienna Apartments
+270617|Flower Apartment
+270619|Vienna Star Apartments Praterstrasse 47
+270620|Apartment Vienna - Untere Donaustraße
+270621|Apartment Vereinsgasse 9
+270622|Apartments Maximillian
+270623|Hahn Apartment
+270624|Studio Apartment Prater
+270625|Vienna Star Apartments Nordbahnstrasse
+270626|Apartments Heine W16
+270627|Luxury City Center Apartment
+270628|Adam Apartments
+270629|Design Apartment Vienna 1 - Göllnergasse 29
+270630|Boutique Apartments Wien
+270631|Belvedere Apartment Wien
+270632|Premium Apartments Am Belvedere
+270633|Trend Apartment Wien
+270635|Vienna Star Apartments Untere Viaduktstrasse
+270636|Vienna Star Apartments Barichgasse
+270637|Vienna Star Apartments Ruedengasse
+270638|Vienna Star Apartments Schnirchgasse
+270639|Vienna Opera Apartment
+270640|Margareten Apartment Wien
+270641|City Apartment Margareten
+270642|Vienna Star Apartments Spengergasse
+270643|Vienna Apartment Wiedner Haupstrasse
+270644|Vienna Star Apartments Gießaufgasse
+270645|Vienna Star Apartments Siebenbrunnen 61
+270647|Vienna Star Apartments Mollardgasse 31
+270648|Pension Lehrerhaus
+270649|Kaiser Apartments
+270651|Star Apartments Buchengasse
+270652|Cosy Apartment Wien
+270653|Vienna Star Apartments Karmarschgasse 53
+270654|Laxenburg Apartment Wien
+270655|Apartment Strohgasse
+270656|Favorite Apartment Wien
+270657|Vienna Star Apartments Davidgasse
+270658|Vienna Star Apartments Dieselgasse
+270659|Royal Living Apartments
+270660|Vienna Star Apartments Reumannplatz
+270661|Vienna Star Apartments Troststrasse
+270662|Vienna Star Apartments Quellenstrasse
+270663|Vienna Star Apartments Van der Nüllgasse
+270664|Vienna Star Apartments Simmeringer Hauptstrasse
+270665|Vienna Star Apartments Albrechtsbergergasse
+270666|14 Mandl Apartment Wien
+270667|III Mandl Apartment Wien
+270668|IV Mandl Apartment Wien
+270669|8 Mandl Apartment Wien
+270670|Luxury Schönbrunn Apartment
+270671|Apartment24 Schönbrunn
+270672|Wilhelm Apartment Wien
+270674|Apartment Vacha Linzerstrasse
+270675|Apartment Vacha Vogtgasse
+270676|Vienna Star Apartments Hütteldorferstraße 69
+270678|Vienna Star Apartments Ölweingasse
+270680|Vienna Star Apartments Johnstrasse 34
+270681|Mini Apartment Wien - Karmeliterhofgasse
+270682|Vienna Star Apartments - Haberlgasse
+270683|Enenkelstrasse Apartment Wien
+270684|Vienna Star Apartments Menzelgasse
+270688|Hernals Apartment Wien
+270689|Vienna Star Apartments Römergasse
+270690|Vienna Star Apartments Sternwartestraße B
+270691|Vienna Star Apartments Sternwartestraße A
+270692|Isidex Apartments
+270693|Wienerwald Apartment Wien
+270694|B&B Graz
+270973|Gasthof Hotel Fürberg
+270974|Familienhotel Loipenstub'n
+270975|Hotel Alexander
+270977|Landhaus Cornelia
+270979|Haus Daniela
+270987|Das Alphotel
+271387|Appartement Eggerwirt
+271388|Apartmenthaus Vergissmeinnicht
+271446|Seehotel Grundlsee
+271591|Hotel Montana
+271593|Aparthotel Kristall
+272996|Villa Wellspacher
+273596|Steinbock Appartements
+274312|Haus Gatterer
+274685|Zur Sonnen
+275354|Rosenberger Motor-Hotel Deutsch-Wagram
+276122|Landhaus Moserhof
+276354|Appartement Hofmann
+276400|Hotel Schloss Matzen
+277116|Ernberg
+279303|Edelhof Apartments
+279304|Apartment Rentals Vienna
+284868|Ferienclub Schlösslhof
+284879|Cresta
+284880|ALFA Hotel Serfaus
+284881|Aparthotel Dolomit Royal
+284896|Palais Hansen Kempinski Vienna
+286038|Appartements Buggl's
+286067|Hotel Birgkarhaus
+286132|Villa Becker
+286269|Apart Garni Erna
+286270|Chasa Valletta
+289421|Schloss Ernegg
+289436|Landhotel Lacknerhof
+289774|Maiers Wellnesshotel Loipersdorf
+289870|Design Hotel Römerhof
+290174|Residenz Koasa Schloessl
+290391|Antonie Sporthotel
+291864|Hotel Moser
+292130|St. Georg
+292438|Hotel Altes Kloster
+293654|Maiers Hotel Elisabeth
+294255|Stadthotel Waidhofen an der Thaya
+295452|Sternenhütte
+295463|Hotel Planai
+295492|Haus Mathias
+295510|Vienna Cityapartments
+295639|Das Reinisch - Apartments
+295753|Edel:Weiss Residences Katschberg
+295779|Gasthof Kirchenwirt
+295860|SIMM's Hotel
+295880|Alpinresort Damüls
+295884|Bad Blumauerhof
+295885|Basemontafon
+295886|Bella Vista
+295889|Birkenhof
+295890|Am Breitenfelder Hof
+295892|Kloepferkeller
+295895|Spengerwirt
+295896|Mühlenhof
+295897|Golfpark Metzenhof
+295898|Zum Brüdertor
+295899|Residenz Glöckner & Gasthof Glöckner
+295900|Mönichwalderhof
+295903|Flackl-Wirt
+295905|Appartementhaus Nassfeld
+295911|Heilmoorbad im Kloster Schwanberg
+295912|Camp Royal X
+295913|Zauberblick
+295914|Schlosshotel Kassegg
+295915|Vermala
+295917|Kirchenwirt
+295918|Gasthof Luftenstein
+295920|Panorama Schlössl
+296001|Ferienhof Lürzergut
+296312|Alpenblick
+296400|Venet Gipfelhütte
+296616|Garni Schönblick
+296622|Bergsommer Wagrain & Kleinarl
+296760|Star Inn Wien Schönbrunn
+296939|Schlosshotel Mailberg
+297031|Hotel-Pension Strolz - Hotel & Dependance
+297087|Weingartenhotel Heinz Harkamp
+297383|4 You(ng)
+297407|Gasthof Alpina
+297569|Replerhof
+297772|Thermenhotel EMMAQUELLE
+297839|Ferienpark Gaal
+297954|Gasthof Auwirt
+298305|Sport Girbl
+298495|Gasthof Lublass
+298826|Hotel Sans Souci
+298846|Panoramahotel Pawlik
+299291|Best Western Plus Hotel Arcadia
+299322|Hannes
+299626|Appartementhaus Caroline
+299666|Aktivhotel Fortuna
+299722|Zuersersee
+300487|Hotel-Pension Siegelerhof
+300908|Apart Garni Sonnenplateau
+301159|Villa Sepp
+301178|Spiess & Spiess Appartement-Pension
+301631|Landhotel Spreitzhofer - Braunhof
+301905|La Prima
+302303|Traube
+302380|Hanneshof Resort - Hanneshof
+302381|Hanneshof Resort - Bischofsmütze
+302382|Hanneshof Resort - Nebenhäuser (Anneliese, Maier, Appartements Raika)
+302462|Pension Gasser
+302463|Bergkristall
+302566|Haus Zillertalblick
+302567|Castel
+302649|Schloss Seggau
+304375|Hotel Möderle
+304377|Hotel-Pension Mittagskogel
+305179|Hotel Anemone
+309144|Resi & Obermoser
+309192|The Hotel 1060 Vienna
+309418|Plattenrainalm
+309773|Gasthof Post
+310802|Gasthof Post
+310804|Landhaus Schermer
+311053|Eisenerzer Hof
+311091|Sonnenhof
+311099|Gästehaus Klammerschneider
+311101|Garni Jagdhof
+317363|Bauernhäusl
+317368|Prantl Bernhard, Ferienhaus
+317854|Schlossalm Appartements
+318137|Tirolerhof
+318671|Garni Flori
+323592|Hotel - Café - Gasthaus Hubertus
+325443|Vitalhof der Veitenhof
+333834|Der Gannerhof
+335005|Zeitgeist
+335021|Lesachtalerhof
+335047|Pension Rosengarten
+335818|Seehotel Seerose
+336031|Ferienhaus Gundolf Peter
+354420|Schloss Mittersill
+354422|Zhero Hotel Ischgl/Kappl
+354444|Gut Drasing
+354491|Smiley Hotel - Kinderhotel
+354494|Anthonys Life&Style
+359484|Falkensteiner Wien Margareten
+359702|Berghotel der Königsleitner
+359810|Strass Fun & Spa Hotel - Sporthotel
+359811|Strass Fun & Spa Hotel - Hotel Garni
+359812|Strass Fun & Spa Hotel - Aparthotel
+359813|Strass Fun & Spa Hotel - Hotel Strass
+359857|Kur- und Sporthotel Alpina - Hotel Alpina
+359858|Kur- und Sporthotel Alpina - Hotel Tauernblick
+359860|Travel Charme Bergresort Werfenweng - Hotel
+359861|Travel Charme Bergresort Werfenweng - Apartments
+359864|Sonnenresort Ossiacher See - Hotel
+359865|Sonnenresort Ossiacher See - Appartements
+359900|Almresort Gerlitzen Kanzelhöhe - Hotel
+359901|Almresort Gerlitzen Kanzelhöhe - Ferienwohnungen
+359931|Appartement Alpina
+363265|Schatz.Kammer - Burg Kreuzen
+363266|Spirodom Admont
+363268|Appartment Schwarzenbacher
+363359|Pension Gabriele
+363466|Tia Monte & Tia Monte Smart
+363489|Panoramapension Weisses Rössl
+363495|Landhaus Alpengruß
+363496|Landhaus Steinberger
+363498|Haus Tuxerklamm
+363501|Haus Voglreiter
+363503|Alpenstern Appartements
+363521|Lizum 1600
+363587|Hotel Melanie
+363589|a&t Holiday Hostel Wien
+363639|Alpenrose Sport Hotel
+363646|Hotel Feichter
+363711|Hotel - Cafe Auer
+363713|Pension Platzer
+363977|Ferienanlage Färberhof
+363979|Weberhof
+364088|Steiner
+365067|Haus Martha
+365068|Jagdhof
+365074|Pension Monika
+365088|Resort Brixen
+365089|Riederhof
+365095|Waldhof
+365110|Rosa Canina
+365147|Landhotel Häuserl im Wald
+365217|Resort Tirol Am Wildenbach
+365324|Herzblut
+365353|Gasthof Sagwirt
+365371|Active Hotel Wildkogel
+365409|Klausnerhof
+365437|HB1 Design- & Budgethotel Wien-Schönbrunn
+365479|Bauernhof Sattlerhof
+365607|Gasthof Krisplwirt
+366576|Melia Vienna
+367894|Ibis Styles Wien City Hotel
+367896|The Guesthouse Vienna
+367927|Genusslandhotel Hochfilzer-soell Am Wild
+372423|Ferienhaus Antonia
+372525|Schlossmühle
+372526|Gasthof Oberwirt
+372543|Hinterduxerhof
+372608|Sonne
+372949|Hotel Moorbad Neydharting
+372950|Rubin
+372951|Schloss Halbturn Knappenstöckl
+372970|Appartement Wolfgang
+374168|Latini Gaestehaus
+374314|Nockresort
+374358|Christoph
+374682|Vienna Family Apartments
+374689|Livingpoint Luxury Apartments
+374694|Harry's Home Hotel Wien
+374954|Marienschloessl Eichingerbauer
+375006|JoSchi Sporthaus
+375220|Bruggerhof Pension
+375858|Jenewein
+375913|Traube
+375916|Fuchs Pension
+375946|Alpenresidenz Ballunspitze
+375955|Bergschloessl
+376323|Aschlandhof Pension
+376534|Bauernhof Gidnhof
+376541|Valavier Aktivresort
+376894|Kaiserhof Land-Pension
+377200|Kneipp Traditionshaus
+380270|Pension Alt Hubertus
+380333|Landgasthof Klause
+381365|Wulfenia
+382155|Cleverhotel Herzogenburg
+382404|Wallner
+385082|Das Himberg
+385098|Alpenappart Rimlhof
+385409|Airport S1
+385984|Rutar Lido
+388994|Jägerhof
+389395|Arche Biolandhaus
+389529|Hochficht Gasthof
+391022|Hotel Sölderhof & Residenz Tamara - Hotel Sölderhof
+391023|Hotel Sölderhof & Residenz Tamara - Residenz Tamara
+391141|Bergparadies
+391228|Lün
+391237|Alpine Palace & Haus Wolf - Alpine Palace
+391238|Alpine Palace & Haus Wolf - Haus Wolf
+391477|Grafenbergresort Wagrain
+391722|Apartmenthaus Brixen & Haus Central - Apartmenthaus Brixen
+391723|Apartmenthaus Brixen & Haus Central - Haus Central
+391724|Park Hyatt Vienna
+391982|Wesenauerhof
+392030|JUFA Knappenberg
+392170|Panoramadorf Saualpe
+392181|Hotel Gurglhof
+392182|Hochkogelhaus
+392184|Haus Kolmblick
+392187|Orthofer
+392189|Strandpension Prinz
+399719|Hotel Jenny's Schlössl - Jenny's Huamatl
+399720|Hotel Jenny's Schlössl - Jenny's Ferienwohnungen
+399823|Landhaus Hubertus
+399837|JUFA Neutal Landerlebnisdorf
+401267|Windau Lodge
+401402|Posthotel Pfunds
+401419|Hotel Sporer
+401438|fairhotel Hochfilzen
+402682|JUFA Altenmarkt-Zauchensee
+403012|motel22
+403038|Hotel Alphof
+403164|JUFA Almtal Hotel
+403226|Hotel Steirerschlössl
+403283|Sport Residenz Zillertal
+403314|Heilstollen Oberzeiring
+403315|Kurhotel Salzerbad
+403316|Kurhotel St. Josef
+403317|Thermalbad Weissenbach
+403509|Auwirt Saalbach
+404559|Botenwirt
+405184|Das Kaltenbach
+405208|Ponyhof Sulzbach
+405284|Rohrmooser Schlössl
+405296|mama thresl
+405379|Hotel Hirschen
+405865|Grabenbauer
+405962|Alpenblick Gasthof & Pension
+406490|Alois Arnold
+407941|Appartements Christine
+408652|Kaprun Glacier Estate
+408667|Edelweiss Residences
+408881|Hotel Petersbühel
+409103|Pension Nagele
+411021|Naturparkhotel Bauernhofer
+411081|Wohlfühlappartements Der Wildbachhof
+411371|Sportresort Gasthof Karlsruhe
+411787|Gästehaus Karl August
+411788|Hotel Paunger
+411983|Appartements Holzbox Niederalpl
+412257|Ferienhotels Alber Mallnitz - Alpenhotel
+412258|Ferienhotels Alber Mallnitz - Tauernhof
+413029|Haus Goldeck
+413449|Appartementhaus Aurora
+413517|Feriendorf Murau
+413518|Apparthotel Hubertus
+413519|L'Hotel 360° Tirol
+413524|Pension Schwemberger
+414022|AktivHotel Hochfilzer / AlpenPension Claudia / Haus Garden
+414109|Hotel Schütterhof
+415540|JUFA Hochkar Sport Resort
+416422|Kreischberg Chalets
+416423|Alpinhütten Turracher Höhe
+416427|Ferienhaus Alpenblick
+416435|Landhaus Franzel
+416438|Wildschönauer Hof - Kellerwirt Apartments
+417548|Frühstückspension Johanna

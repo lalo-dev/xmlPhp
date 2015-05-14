@@ -1,0 +1,7485 @@
+2269|Ida Ines
+2272|Parador de El Hierro
+2275|Melia Alicante
+2277|Marina Almerimar Apartamentos
+2278|Vera Playa FKK Club
+2280|Golf Almerimar
+2282|Almerimar
+2283|Parador de Mojacar
+2284|HLG Porto Magno
+2286|Helios Costa Tropical
+2292|Parador de Merida
+2293|Parador de Zafra
+2296|Alexandra Barcelona
+2298|Barceló Sants
+2299|Melia Barcelona
+2300|Tryp Apolo
+2301|Melia Gran Sitges
+2302|Parador de Cardona
+2304|La Fonda Hotel & Appartements
+2307|Alay
+2308|Bahia
+2309|Servigroup Pueblo Benidorm (ex. Barcelo)
+2310|Cavanna
+2311|El Palmeral
+2312|Entremares
+2314|Poseidon Playa
+2315|Sol Costablanca
+2316|Sol Pelicanos / Ocas
+2317|Servigroup Torre Dorada
+2320|NH Palacio de Oquendo
+2321|Parador de Caceres
+2322|Parador de Guadalupe
+2323|Parador de Jarandilla de la Vera
+2324|Parador de Trujillo
+2326|Tryp La Caleta
+2327|Parador de Arcos de la Frontera
+2328|Parador Atlantico Cadiz
+2329|Parador de Calahorra
+2330|Parador de Fuente De
+2331|Parador de Santillana del Mar
+2332|Parador de Benicarlo
+2333|Tryp Ceuta
+2334|Parador de Ceuta La Muralla
+2335|Aldiana Andalusien
+2336|Brasilia
+2338|Parador de Almagro
+2339|Tryp El Hidalgo
+2341|Parador de Cordoba
+2342|Tryp Gallos
+2343|Parador de Santiago de Compostela (dos Reis Catolicos)
+2344|Flamingo & Frigola
+2345|Villa Garbi
+2346|Evenia Hawai & Montevista
+2348|Ridomar
+2349|Santa Ana
+2351|Parador de Alarcon
+2352|Parador de Cuenca
+2353|Parador de Manzanares
+2354|Parador de Ferrol
+2355|Parador de El Saler
+2357|Florida Spa
+2358|La Jabega
+2359|Las Piramides
+2360|Pyr
+2361|Melia Confort Girona
+2362|Parador de Aiguablava
+2363|Melia Granada
+2364|Vincci Seleccion Rumaykiyya
+2365|Meliá Sierra Nevada
+2366|Melia Sol y Nieve
+2367|Parador de Granada
+2368|Parador de Sigüenza
+2371|Parador de Hondarribia
+2374|Iberostar Isla Canela
+2376|Parador de Ayamonte
+2377|Parador de Mazagon
+2378|Playa Alta
+2379|Parador de Bielsa
+2380|Confortel Islantilla
+2381|Leo Las Americas
+2382|Parador de Cazorla
+2383|Parador de Jaen
+2384|Parador de Ubeda
+2386|Parador de Javea
+2387|Tryp Coruna
+2389|Sol Los Fenicios
+2390|Parador de León
+2391|Parador de Villafranca del Bierzo
+2392|Parador de Seu de Urgell
+2394|Los Bracos Logroño
+2395|Gran Hotel Lugo
+2396|Parador de Ribadeo
+2397|Melia Avenida America
+2398|Melia Castilla
+2399|Melia Galgos
+2400|Melia Madrid Princesa
+2401|Parador de Chinchon
+2402|Tryp Madrid Chamberí
+2403|Parador de Antequera
+2404|Parador de Malaga Gibralfaro
+2405|Parador de Malaga del Golf
+2406|Parador de Nerja
+2407|Parador de Ronda
+2408|Sol Aloha Playa
+2409|Los Patos Park
+2410|Atalaya Park Golfhotel & Resort
+2411|Diana Park
+2412|Globales Cortijo Blanco
+2413|TRH Paraiso
+2414|El Rodeo
+2415|Gran Melia Don Pepe
+2416|Guadalmina Spa & Golf
+2418|Las Chapas & Palacio del Sol
+2419|Marbella Diverhotel
+2420|Princesa Playa
+2421|BlueBay Banús
+2422|Royal Romana Playa - geschlossen
+2423|San Cristobal
+2424|Hotel Carabela Beach & Golf
+2425|El Flamero
+2427|Parador de Melilla
+2428|Parador de Baiona
+2430|Parador de Puerto Lumbreras
+2431|Servigroup Galua
+2432|Parador de Olite
+2433|Balcon de Europa
+2434|El Capistrano Village
+2436|Marinas de Nerja Beach & Spa
+2437|Perla Marina
+2438|Rio Marinas
+2439|Villa Flamenca
+2440|Hipotels La Barrosa Complex - Barrosa Park
+2441|Iberostar Royal Andalus
+2442|Hipotels La Barrosa Complex - Playa La Barrosa
+2444|Vincci Costa Golf
+2445|Sol Sancti Petri Apartments
+2446|Francisco 2
+2447|Gran Hotel San Martin
+2448|Parador de Verin
+2449|Parador de Cervera de Pisuerga
+2450|Parador de Cambados
+2451|Parador de Pontevedra
+2455|Bahia Serena
+2456|Roc Golf Trinidad
+2458|Mediterraneo Park
+2459|El Minarete Playa
+2460|Moguima
+2461|Playacapricho
+2462|Playasol Spa Hotel
+2465|Hesperia Sabinal
+2466|El Zafiro
+2467|Evenia Zoraida Resort - Evenia Zoraida Garden
+2468|Evenia Zoraida Resort - Evenia Zoraida Park
+2469|Playa de la Luz
+2470|Tryp Salamanca
+2471|Horus Salamanca
+2472|Parador de Ciudad Rodrigo
+2473|Parador de Salamanca
+2474|Best Western Salobreña
+2475|Parador de Santo Domingo de la Calzada
+2476|Parador de Segovia
+2477|Tryp Macarena
+2478|Melia Lebreros
+2479|Melia Sevilla
+2480|Parador de Carmona
+2481|Parador de Soria
+2482|Parador de Tortosa
+2483|Parador de Alcaniz
+2484|Parador de Teruel
+2485|Parador de Oropesa
+2486|Parador de Toledo
+2487|Bajondillo
+2488|Balmoral
+2489|Barracuda
+2490|Pueblo Camino Real
+2491|Vita Fenix
+2492|Marconfort Griego Mar
+2494|Las Palomas
+2495|Los Jazmines
+2496|Melia Costa del Sol
+2497|Melia Torremolinos
+2499|Palmasol
+2500|Pez Espada
+2501|Puente Real
+2502|RIU Belplaya
+2503|Al Andalus
+2504|Royal Costa
+2505|San Fermin
+2506|Best Siroco
+2507|Don Paquito
+2508|Sol Don Resort - Sol Don Pedro
+2509|Sol House Costa del Sol
+2510|Sol Don Resort - Sol Don Pablo
+2511|Sol Principe & Sol Principito
+2513|Sol Timor
+2514|Tarik
+2515|Best Triton
+2516|Hotel MS Tropicana
+2519|Playabonita
+2522|Beatriz Rey Don Jaime
+2523|SH Valencia Palace
+2524|Parque
+2525|Melia Olid
+2526|Parador de Tordesillas
+2527|Parador de Arties
+2528|Parador de Vilalba
+2529|Parador de Benavente
+2530|Parador de Puebla de Sanabria
+2531|Parador de Zamora
+2532|Melia Zaragoza
+2533|Parador de Sos del Rey Catolico
+2534|Cala Saona
+2535|Punta Rasa
+2536|Entre Pinos
+2537|Castavi
+2539|Es Pujols
+2540|Levante
+2541|Portu Saler
+2542|Club Punta Prima
+2543|Roca Plana
+2544|Rocabella
+2545|Rosales
+2546|Tahiti
+2547|Voramar
+2548|La Savina
+2549|Lago Dorado
+2552|Ca Mari
+2553|Casbah Migjorn
+2554|Insotel Maryland
+2555|Es Pins
+2556|Insotel Formentera Playa
+2557|Las Dunas Playa
+2559|Hotel Maysi
+2560|RIU La Mola
+2561|Sa Sargantana
+2562|Ses Eufabietes
+2564|Lago Playa
+2565|Rosamar
+2566|Sa Roqueta
+2569|Castillo Mar
+2570|Castillo Playa
+2573|La Luna
+2574|La Piramide
+2575|Puerta del Sol
+2576|La Tahona Garden
+2577|Villa Florida
+2579|Suite Hotel Atlantis Fuerteventura Resort
+2580|Fresh Corralejo Garden
+2581|Atlantis Dunapark
+2582|Fuentepark
+2585|Las Palmeras I & II
+2586|Bahia de Lobos
+2587|Atlantis Los Barqueros
+2588|RIU Oliva Beach Resort - Hotel & Village
+2589|RIU Palace Tres Islas
+2590|Apartamentos San Valentin
+2591|Appartements Bahia Calma
+2592|Casa Catalina
+2593|SBH Crystal Beach
+2594|Green Oasis Fuerteventura
+2595|SBH Monica Beach
+2596|Morasol Apartments & Atlantico Aparthotel - Morasol Apartements
+2597|Fuerteventura Playa
+2599|Los Hibiscos Residencial
+2600|Best Age Fuerteventura
+2601|SBH Taro Beach
+2603|Aldiana Fuerteventura
+2604|Sentido Buganvilla Hotel & Spa
+2605|IFA Altamarena
+2606|Iberostar Palace Fuerteventura
+2608|Palm Garden
+2609|Sensimar Calypso Resort & Spa
+2610|SBH Jandía Resort - Maxorata/ Ventura/ Tamango
+2611|RIU Palace Jandia
+2613|Melia Gorriones & Casas del Mar - Melia Gorriones
+2616|Sol Jandía Mar
+2617|Costa Tropical
+2619|Club Jandia Princess
+2620|Monte del Mar & Esquinzo Aparthotel - Monte del Mar
+2622|R2 Bahia Playa Design Hotel & Spa Wellness - R2 Romantic Fantasia Suites Design Hotel & Spa / R2 Romantic Fantasia Dream
+2625|Escuela
+2628|del Lomo
+2631|Parador de la Gomera
+2632|Ibo Alfaro
+2633|Jardin Tecina
+2635|Quintero
+2638|Charco del Conde
+2642|Gran Rey
+2643|Jardin del Conde
+2645|Tres Palmeras
+2646|Los Tarajales
+2651|Finca Las Longueras
+2657|Duna Flor Maspalomas
+2659|Cordial Green Golf
+2660|Green Oasis Club
+2661|La Suerte del Golf
+2662|Club Calimera Esplendido
+2664|Cordial Sandy Golf
+2665|Tara Bungalows
+2668|Astoria
+2670|Best Western Plus Cantur
+2671|Faycan
+2672|NH Imperial Playa
+2675|Cristina Las Palmas
+2676|Parque
+2677|NH Playa Las Canteras
+2678|Reina Isabel
+2681|Tinoca
+2682|Beach Flor
+2683|Chiripa
+2684|MRC Maspalomas Resort
+2685|Duna Beach
+2687|IFA Faro
+2688|Los Claveles Park
+2689|Dunas Suites & Villas Resort
+2690|Appartements Oasis Maspalomas
+2692|Mirador Dunas
+2694|Seaside Palm Beach
+2695|Santa Monica
+2696|Sol Barbacan
+2697|El Palmeral
+2698|Sonnenland Club 2+3
+2699|Surycan
+2700|Maspalomas & Tabaiba Princess Resort - Tabaiba Princess
+2701|Tisalaya Park
+2702|Villa Eden
+2703|Vista Dorada
+2707|Curasol
+2710|Alegranza 2
+2711|Andalucia Park
+2712|Arco Iris Apartments
+2713|Barceló Margaritas - Hotel
+2714|Belmonte
+2715|Betancuria
+2716|Beverly Park
+2717|Cordial Biarritz
+2718|Bronze Playa
+2719|IFA Buenaventura
+2720|Buenos Aires
+2721|Caserio
+2722|IFA Catarina
+2724|Corona Blanca
+2725|Corona Playa
+2728|Dolores
+2731|Ecuador
+2732|El Palmital
+2733|El Paseo
+2734|Veril Playa
+2735|Eugenia Victoria
+2736|Europalace
+2737|SENTIDO Gran Canaria Princess
+2738|Green Garden
+2739|Green Ocean
+2740|Green Sea
+2741|Guinea
+2742|Aparthotel GOLD by MARINA
+2743|IFA Continental Hotel
+2744|IFA Dunamar
+2745|Anamar Suites
+2746|Iguazu
+2748|Koka
+2749|Las Arenas
+2750|Las Dunas
+2751|Las Faluas
+2753|Los Aguacates
+2754|Los Ficus
+2756|Los Porches
+2757|Hotel Playa Bonita
+2758|Los Tilos
+2759|Lucana
+2760|Maba Playa Apartamentos
+2761|Marbella Golf
+2762|Maritim Playa
+2763|Marivista
+2765|Bungalows HL Miraflor Suites
+2768|Montemayor
+2769|Neptuno
+2770|Nogal
+2771|Nogalera
+2772|Paraiso Maspalomas
+2773|Bungalows Parque Romantico
+2774|Parque Tropical
+2775|Playa del Ingles
+2776|Playamar
+2777|Principado
+2778|Rey Carlos
+2779|RIU Don Miguel
+2780|RIU Palace Maspalomas
+2781|RIU Papayas
+2782|Roca Verde
+2783|Rondo
+2784|Sahara Beach
+2785|San Agustin Playa - geschlossen
+2786|San Valentin & Terraflor Park
+2787|San Valentin Park III / Artemisa
+2788|Rebecca Park
+2789|Seaside Sandy Beach
+2790|Santa Barbara
+2791|Sun Club Playa del Ingles
+2792|Taboga
+2793|Tagoror
+2794|Tamaragua
+2797|Tivoli Apartementos
+2798|Valparaiso
+2799|Vistalmar
+2801|Aquapark Paradise Taurito - Paradise Lago Taurito
+2802|Suite Princess
+2803|Taurito Princess
+2804|THe Hotel Puerto de Mogán
+2805|Mocanes
+2806|Puerto Azul
+2807|Rio Piedras
+2808|Suitehotel Alyssa
+2809|XQ Vistamar
+2810|Don Gregory
+2811|Flamboyan
+2812|Gloria Palace San Agustin Thalasso & Hotel
+2813|Hotel Costa Canaria
+2814|IFA Beach
+2815|Melia Tamarindos
+2817|Orquidea
+2818|Side Shore
+2819|Sirena Mar Appartements
+2820|Escuela Santa Brigida
+2822|Ataitana Faro
+2824|Vista Oasis
+2826|Calador
+2827|Petunia
+2828|Club Calimera Delfin Playa
+2829|Club Stella Maris Paraiso
+2830|Fiesta Tanit
+2832|Sirenis Cala Llonga Resort - Playa Imperial / Playa Dorada / Club Playa
+2833|Grupotel Cala San Vicente
+2834|Grupotel Imperio Playa
+2837|Club Cala Tarida
+2838|Insotel Tarida Beach Resort
+2839|Aquarium
+2841|Invisa Ereso
+2842|Cenit
+2843|Central Playa
+2844|Don Quijote
+2845|Figueretas
+2847|Ibiza Playa
+2848|THB Los Molinos
+2849|Mar y Playa 1 & 2
+2850|Maritimo
+2851|Nautico Ebeso
+2852|Hotel Argos
+2853|Club Can Bossa
+2854|Ibiza Corso Hotel & Spa
+2855|Montesol
+2856|Algarb
+2857|Club Bahamas
+2858|Bossa Park
+2859|Hard Rock Ibiza
+2861|LTI fashion Garbi
+2862|Sirenis Goleta & Sirenis Tres Carabelas - Goleta
+2864|Jet Bossa
+2865|La Noria Komplex - Club La Noria / Playa Grande Apartments / Atzaro Apartments
+2866|Mar y Huerta
+2867|Mare Nostrum
+2869|Grand Palladium White Island Resort & Spa
+2870|Ushuaia Ibiza Beach - Ushuaia Club
+2872|Torre del Mar
+2873|Fiesta Cala Nova
+2874|Caribe
+2875|Flamingo
+2876|Intertur Miami Ibiza - Hotel
+2877|Invisa Cala Blanca & Cala Verde
+2878|Apartamentos Del Rey
+2879|Grupotel Sensimar Ibiza Beach Resort
+2880|Presidente
+2881|Hotel Club Cartago
+2882|azuLine Club Punta Arabi
+2883|Arenal
+2884|SunConnect Barceló Pueblo Ibiza
+2885|azuLine Bergantin
+2886|Els Pins
+2887|Es Calo Playa
+2888|Invisa Es Pla
+2890|Intertur Hotel Hawaii Ibiza
+2891|azuLine Mar Amantis 1 & 2
+2892|La Sirena
+2893|Fiesta Milord
+2894|Nautilus Green Oasis
+2895|Nereida
+2896|Osiris Ibiza
+2897|Piscis Park
+2898|Puchet
+2899|Reco d'es Sol
+2900|Sirenis Seaview Country Club
+2901|Ses Savines
+2902|Sol Pinet Playa
+2903|Tagomago
+2904|Tarba
+2908|San Miguel / Esmeralda Mar
+2910|MAGIC LIFE Cala Pada
+2911|Invisa La Cala
+2912|Mayol
+2913|Riomar
+2914|ME Ibiza
+2916|Playa Real
+2917|Ses Figueres
+2918|Simbad
+2919|Talamanca
+2920|Victoria
+2921|Miranda
+2924|Finca Colón Appartements & Bungalows
+2927|H10 Costa Salinas
+2928|Hacienda San Jorge
+2929|H10 Taburiente Playa
+2931|Finca Monte Mar 1+2
+2932|Valle Aridane
+2933|Corea
+2939|Los Dos Caminos
+2943|Las Tias
+2946|Centro Cancajos
+2947|La Cascada
+2949|Los Rosales
+2950|Los Lajones
+2951|Sol La Palma Hotel & Appartements
+2952|Maritimo
+2957|San Isidoro
+2958|Piedra Verde
+2959|Casitas Palmeras
+2964|Casa Bella
+2969|Francisco
+2974|Monika
+2976|Finca Alcala
+2984|El Castano
+2985|El Moral
+2986|Hacienda El Rancho
+2987|Hermosilla
+2988|Huerto Conejo
+2989|La Palma Jardin
+2990|La Plantacion Resort - Bungalows La Plantacion / Hacienda El Pedregal
+2991|La Villa
+2993|Villa El Gallo
+2994|Barcelo Lanzarote Resort
+2995|Beatriz Costa & Spa
+2996|Celeste
+2997|Barceló Teguise Beach
+2998|BlueBay Lanzarote
+2999|H10 Lanzarote Gardens
+3000|Las Coronas
+3001|Los Naranjos
+3002|Los Zocos
+3003|Gran Melia Salinas
+3004|Be Live Family Lanzarote Resort
+3005|Be Live Experience Lanzarote Beach
+3006|Blue Sea Costa Teguise Beach
+3007|Be Live Experience Grand Teguise Playa
+3008|Blue Sea Costa Teguise Gardens
+3009|El Trebol
+3010|Tuscan
+3011|La Santa
+3012|H10 Sentido White Suites Boutique
+3013|Royal Monica
+3014|Casas del Sol
+3015|Hotel THB Corbeta
+3016|Jardines del Sol
+3017|Iberostar Lanzarote Park
+3018|H10 Lanzarote Princess
+3020|Hesperia Playa Dorada
+3021|Playa Limones
+3022|Alyssa Suite
+3023|Sun Park
+3024|H10 Timanfaya Palace
+3025|Valparaiso
+3026|Beatriz Playa & Spa
+3027|Apartamentos The Las Gaviotas
+3028|Sol Lanzarote
+3029|Sentido Lanzarote Aequora
+3030|Costa Mar
+3033|Hipotels La Geria
+3034|La Perla
+3035|Lancelot
+3036|Las Costas
+3037|Seaside Los Jameos Playa
+3039|Playa Park
+3041|Riu Paraiso Lanzarote Resort ClubHotel
+3042|VIK San Antonio
+3043|Acuario Sol
+3044|BelleVue Aquarius
+3045|Arena Dorada
+3046|Atalaya
+3047|La Isla y el Mar Hotel Boutique & Restaurante
+3048|Barcarola
+3049|Bitacora Lanzarote Club
+3051|Fariones Playa
+3052|Fariones Apartments
+3054|THB Flora
+3055|Floresta
+3056|Hyde Park Lane
+3057|Jable Bermudas
+3058|La Peñita
+3059|Lanzarote Village
+3060|Spice
+3061|Las Acacias
+3062|Gloria Izaro Club Hotel
+3063|HG Lomo Blanco
+3065|Blue Sea Los Fiscos
+3066|Ereza Los Hibiscos
+3067|Playa Club Apartments
+3068|Puerto Carmen
+3070|Iberostar Albufera Park
+3071|Iberostar Albufera Playa
+3072|Alcudia
+3073|JS Alcudi Mar
+3074|Iberostar Alcudia Park
+3075|Bahia de Alcudia
+3076|BelleVue Club
+3077|Roc Boccaccio
+3079|Casal Santa Eulalia
+3080|Iberostar Ciudad Blanca
+3081|Globales Condes de Alcudia
+3082|Eden Alcudia
+3083|Eden Lago
+3084|Elisa
+3085|Vanity Golf
+3087|Prinsotel La Dorada
+3088|Las Gaviotas
+3089|Grupotel Maritimo
+3091|More
+3092|Hi! Panoramic
+3093|Paraiso de Alcudia
+3094|Piscis
+3095|Platja Daurada
+3096|Iberostar Playa de Muro
+3097|HSM President
+3098|Hotel Rei del Mediterrani
+3100|Sofia
+3101|Sol Alcudia Center
+3102|JS Sol de Alcudia
+3104|Hotel Son Esteve
+3105|Es Castell
+3106|Vita Delta
+3107|Ola Club Maioris
+3108|Sun Club El Dorado
+3109|Prinsotel Alba
+3110|Bienvenidos
+3111|Inturotel Esmeralda Park
+3112|Inturotel Cala Azul Park
+3113|PrimaSol Cala d'Or Gardens
+3114|Hostal de la Caravela
+3115|Marina Resort - Corfu & Skorpios
+3117|Roc Las Rocas Aparthotel
+3118|Club Marthas Resort - Ses Cases d'Or / Es Bolero / Aparthotel
+3119|Mistral
+3120|Playa Ferrera
+3121|Barcelo Ponent Playa
+3122|Rocador Playa & Rocador
+3124|Ses Puntetes
+3126|Sol Cala d'Or
+3127|S'Olivo
+3129|SENTIDO Tucan
+3130|Cala Figuera
+3131|Mar Blau
+3135|Salas
+3136|Villa Sirena
+3137|Vista al Mar
+3138|Cala Mandia Park
+3139|TUI best FAMILY Cala Mandia
+3140|Blau Punta Reina
+3142|Sol Romantica
+3143|Vanity Hotel Suite & SPA
+3144|D-H Anba Romani Hotel - ab 01.05.2015 smartline Anba Romani
+3145|Atolon
+3146|Bahia del Este
+3147|Hipotels Bahia Grande
+3148|Borneo & Sumba - Borneo
+3149|Hipotels Cala Millor Park
+3150|Cala Nau
+3151|Cap de Mar
+3152|Sentido Castell de Mar
+3154|Blue Sea Don Jaime
+3155|Hipotels Don Juan
+3156|Hipotels Dunas Cala Millor
+3157|Hipotels Flamenco
+3158|Protur Floriana Resort
+3159|Fortuna Apartments
+3160|Girasol 1
+3161|Girasol 2
+3162|Gran Sol
+3163|Hipotels Hipocampo
+3165|Hipotels Hipocampo Playa
+3166|La Nina
+3167|La Santa Maria - La Santamaría / La Santamaría Playa / Apartamentos La Santamaría
+3168|Los Alamos
+3169|Marins Playa
+3170|Melis
+3172|Smartline Millor Sol
+3174|Protur Monte Safari Aparthotel
+3175|Morito
+3176|SENTIDO Playa del Moro
+3177|RIU Playa Cala Millor
+3178|allsun Rosella
+3179|Sabina Hotel
+3180|Hipotels Said
+3182|Borneo & Sumba - Sumba
+3184|Tropicana
+3185|Veronica & Midas - Veronica
+3186|Elegance Vista Blava
+3187|Voramar
+3188|Iberostar Club Cala Barca
+3189|Condemar
+3190|Playa Mondrago
+3191|Alfonso
+3192|Alondra
+3193|Baviera
+3194|Bella Playa
+3195|Smartline Bellavista & Spa
+3196|THB Cala Lliteras
+3197|Club Cala Ratjada
+3198|Can Moragues
+3200|Capricho
+3201|Roc Carolina
+3202|Iberostar Pinos Park
+3203|Ca's Bombu
+3204|Clumba
+3205|THB Dos Playas
+3206|Casa Esteva
+3208|Eva Park
+3210|Hostal Gami
+3212|THB Guya Playa
+3213|Illot Suites & Spa
+3214|Prinsotel La Pineda
+3216|Illot Park
+3219|Hotel Vincci Bosc de Mar
+3220|Moron
+3223|Port Corona
+3224|HSM Regana
+3225|S'Entrador Playa Hotel & Spa
+3226|Serrano Palace
+3227|Finca Son Gener
+3228|Son Moll Sentits Spa
+3230|Protur Turó Pins Aparthotel
+3232|Villa Massanet
+3233|Vista Pinar & Hostal Montesol
+3236|Pinos Playa
+3237|Barcelo Cala Viñas
+3238|Cala Romani
+3239|Globales America
+3240|Club Eurocalas
+3241|Samoa
+3242|Calas de Mallorca - Balmoral, Chihuahuas, Mastines
+3243|HSM Canarios Park
+3245|Valparaiso
+3247|Finca Son Malero
+3248|Gran Camp de Mar
+3249|Es Fangar Campanet
+3250|Monnaber Vell
+3253|Sunprime Waterfront Palma Beach
+3254|BQ Apolo
+3255|Balear
+3256|Amic Can Pastilla
+3257|Colon Palma
+3258|THB El Cid
+3259|Amic Gala
+3261|Java
+3262|Roc Leo
+3263|Roc Linda
+3264|Marbel
+3266|JS Palma Stay
+3268|Alzinar Mar
+3269|Villa Barbara
+3270|Petit Es Bauló
+3271|JS Can Picafort
+3272|Exagon Park
+3273|Grupotel Farrutx
+3274|Galaxia
+3275|Gran Bahia - Hotel & Appartement
+3276|THB Gran Playa
+3277|Grupotel Gran Vista & Spa - Gran Vista Hotel
+3278|Vent-I-Mar
+3279|Markus Park
+3280|JS Miramar
+3281|Grupotel Montecarlo
+3282|Nordeste Playa
+3283|Grupotel Picafort Beach
+3284|Rural Predio Son Serra
+3285|Son Baulo
+3287|JS Sol de Can Picafort
+3289|Sultan
+3291|JS Horitzo
+3293|Club Hotel Tonga
+3294|Vista Park Hotel / Apartments
+3295|JS Yate
+3297|Canyamel Classic
+3298|Canyamel Garden
+3300|Massanet
+3302|Aparthotel Canyamel Sun
+3304|Sa Torre
+3306|Blau Colonia Sant Jordi
+3308|Es Salobrar
+3309|Isla de Cabrera Aparthotel & Hotel - Aparthotel
+3310|Lemar Hotel / Apartments
+3311|Apartamentos Estanques
+3312|Martorell
+3313|Sa Bassa Plana
+3314|THB Sur Mallorca
+3315|Hipotels Eurotel Punta Rotja
+3316|Hotel HSM Alejandria
+3317|Amazonas
+3320|Arcadio / Arcadia
+3322|BQ Augusta
+3323|Bahamas
+3324|Piñero Bahia de Palma
+3327|Costa Verde by Blue Sea
+3328|Palma Mazas & Palma Mazas II- Palma Mazas II
+3329|Encant
+3330|Fleming
+3331|Ipanema Park & Beach
+3332|Paradise Beach Music Hotel
+3333|Leblon
+3334|Luna & Luna Park
+3337|Manaus
+3338|Mediodia
+3339|Kross Bahia de Palma
+3340|Nets
+3341|Mediterranean Bay
+3342|Ondina
+3343|Palma Mazas & Palma Mazas II - Palma Mazas
+3344|Planells
+3346|Playa Sol
+3348|Playas Arenal
+3349|HSM Reina del Mar
+3350|HSM Reina Isabel
+3351|Riutort
+3352|Caribbean Bay
+3354|whala!beach - San Diego
+3355|Sant Jordi
+3356|whala!beach - Solimar
+3357|Costa Mediterraneo
+3359|Pinero Tal
+3361|Blue Sea Torre Arenal
+3362|Torre Azul
+3364|Posada de's Moli
+3366|Maristel
+3368|S'Horabaixa
+3371|Finca Son Valls
+3373|Barceló Illetas Albatros
+3374|Europe Playa Marina
+3375|Roc Illetas Playa - Hotel / Apartments / Bugambilia Studios / Mimosa
+3376|Melia de Mar
+3379|Es Reco de Randa
+3380|Agroturisme Perola
+3383|Finca Son Sama
+3386|Sol Wave House
+3388|Bahia Principe Coral Playa
+3389|HSM Atlantic Park
+3390|Sol Antillas Barbados
+3391|Sol House Guadalupe
+3392|Sol Jamaica
+3393|Sol Katmandu Park & Resort
+3394|Sol Trinidad
+3396|Blue Sea Vistasol
+3397|Es Rafal
+3405|Aldea 2 Cala Fornells
+3407|Beverly Playa Paguera
+3408|Bon Aire
+3409|Cala Fornells
+3410|Coronado
+3411|El Cupido
+3412|Hostal Diamante
+3413|BQ Bulevar Paguera
+3414|Europa
+3415|Maritim Galatzó
+3416|HSM Linda Playa
+3417|Flor Los Almendros
+3418|HSM Madrigal
+3419|Mar y Pins
+3420|BQ Hotel Maria Dolores
+3421|Maria Eugenia Pension
+3422|Morlans & Morlans Garden - Morlans
+3423|Morlans & Morlans Garden - Morlans Garden
+3424|Neptuno
+3425|Grupotel Nilo - Nilo Azul / Nilo Blanco
+3426|Paguera Beach
+3427|Valentin Park Club Hotel & Appartements - Appartements
+3429|Palmira Paguera
+3430|Palmira Paradise
+3431|Palmira Beach
+3432|Palmira Cormoran
+3433|Valentin Reina Paguera
+3434|Hostal Residencia Sutimar
+3435|Valentin Paguera Hotel & Appartements
+3437|Seramar Sunna Park - Hotel / Apartments
+3438|Venecia
+3439|Villa Cati
+3440|Hesperia Villamil
+3441|Cannes
+3443|Marina & Wellness Spa
+3444|Tryp Palma Bellver
+3445|Melia Palas Atenea
+3446|Gran Melia Victoria
+3447|Nixe Palace
+3448|Tryp Bosque
+3449|HM Jaime III
+3450|Fergus Bahia Palma Nova
+3451|Comodoro Playa
+3452|Delfin Playa
+3453|Intertur Hawaii Mallorca
+3454|Viva Palmanova & Spa
+3455|H10 Punta Negra
+3456|Sol Beach House Cala Blanca
+3457|Sol Mirlos Tordos
+3458|Fergus Tobago
+3459|TRH Torrenova
+3460|Boreal & Condor - Condor
+3461|Cosmopolitan
+3462|Cristobal Colon
+3463|Don Miguel
+3464|Dunas Blancas
+3465|Flamingo
+3466|Fontanellas Playa
+3467|Hotel Mac Garonda
+3468|HSM Golden Playa
+3469|HM Gran Fiesta
+3470|Helios
+3471|Hispania
+3472|Honderos
+3473|Iris
+3474|allsun Hotel Kontiki Playa
+3475|Hi! Lancaster Hotel - ab 01.05.2015 smartline Lancaster
+3476|Luxor Hotel / Aparthotel
+3477|THB Maria Isabel
+3478|Marina
+3479|Houm Plaza Son Rigo
+3480|Metropolitan Playa
+3481|Amic Miraflores
+3482|Negresco
+3483|Neptuno
+3484|Niagara
+3485|Oleander
+3486|Grupotel Orient
+3487|Playa Golf
+3488|Principe
+3491|Iberostar Royal Cristina
+3492|Iberostar Royal Cupido
+3493|Iberostar Royal Playa de Palma
+3494|HM Tropical
+3495|Playa
+3496|Grupotel Taurus Park
+3497|Timor
+3498|Vista Odin
+3500|Lindner Golf & Wellness Resort Portals Nous
+3501|Playa Portals
+3502|Montemar
+3503|Cala Marsal
+3504|JS Cape Colom
+3505|Ola El Vistamar
+3506|THB Class Felip
+3508|De Luxe Varadero
+3509|Brismar
+3511|Vistamar
+3513|Daina Hotel
+3514|Komplex Apartments Don Miguel / Hotel Panorama - Hotel Panorama
+3515|Pollentia Club Resort - Maris / Village
+3516|Citric Soller
+3517|Eden
+3518|Es Port
+3520|Generoso
+3521|Marbell
+3522|Miramar
+3524|Sentido Porto Soller
+3526|Soller Garden
+3527|Hipotels Marfil Playa
+3528|Hipotels Mediterraneo Hotel
+3529|Hipotels Mediterraneo Club
+3533|Club Torre Blanca
+3534|Protur Vista Badía
+3535|BQ Belvedere
+3536|Uto Palace
+3537|Sa Torre
+3538|Bahia del Sol
+3539|Bon Repos
+3540|Casablanca
+3541|Delfin Mar & Delfin Siesta Mar - Delfin Mar
+3542|Fergus Style Cala Blanca Suites
+3543|TRH Jardin del Mar
+3545|Iberostar Jardín del Sol
+3547|Palmira Isabela
+3548|Globales Resort - Pionero / Santa Ponsa Park / Playa Santa Ponsa
+3549|Globales Resort - Playa Santa Ponsa
+3550|Fergus Plaza Santa Ponsa
+3551|Sentido Punta del Mar
+3552|Viva Rey Don Jaime
+3554|Delfin Mar & Delfin Siesta Mar - Delfin Siesta Mar
+3556|Son Jorda
+3557|S'Hort den Carrio
+3558|Finca es Turo
+3560|Bonavista
+3561|Mix Colombo
+3562|Smartline Mariant
+3563|Smartline Mirgay
+3564|Peymar
+3566|Hotel Playa Blanca
+3567|PlayaMar Hotel & Apartments - Hotel
+3568|Som Fona
+3570|Ses Ones
+3571|Domus Selecta Leon De Sineu
+3573|Ponent Mar
+3574|Son Caliu Spa - Oasis
+3576|Petit Hotel Ses Cases de Pula
+3578|Castell Playa
+3580|Isla Paraiso
+3582|Marina Parc
+3583|Xuroy
+3584|Globales Mediterrani
+3585|Audax
+3586|Cala Galdana & Villas d'Aljandar
+3587|Confortel Menorca
+3588|Hotel Melia Gavilanes - Cala Galdana
+3589|La Caleta
+3590|Santandria Playa
+3592|Nuramar
+3593|Princesa Playa
+3594|Pueblo Menorquin
+3595|Primasol Siesta Playa
+3596|Marinda Garden
+3597|Sol Falco
+3598|Globales Club Almirante Farragut
+3599|Rural Morvedra Nou
+3600|Catalonia Mirador des Port
+3601|Club Royal Son Bou
+3604|Playa Parc
+3605|Sol Parc Aparthotel
+3606|Sol Milanos Pinguinos
+3607|IBB Paradis Blau
+3608|Mar Blava
+3610|Barcelo Pueblo Menorca
+3611|Sur Menorca
+3612|Xaloc Playa
+3613|Rafalet Apartamentos
+3616|Vista Faro
+3617|Sol Beach House Menorca
+3619|Delfin Bajamar
+3620|Neptuno
+3621|Casa Maria
+3622|Isla Verde
+3624|Blue Sea Lagos de Cesar
+3625|Ten Bel Maravilla Apartamentos
+3626|Alborada Beach Club
+3627|Las Arenas del Mar Beach & Spa
+3628|El Medano
+3629|Playa Sur Tenerife
+3630|Jacaranda
+3632|Rural Salamanca
+3633|Catalonia Punta del Rey
+3634|Parque Don Jose
+3635|Aquamar
+3636|Andrea's
+3637|Arona Gran Hotel
+3639|Bahia Colon
+3641|Las Fuentes
+3642|Oasis Mango
+3643|H10 Big Sur
+3644|Paradise Park
+3645|Sol Princesa Dacil
+3646|Reveron Plaza
+3647|Maritim Tenerife
+3648|Tierra de Oro
+3649|Casa Amarilla
+3651|Laguna Park II
+3652|Punta Negra
+3653|Barcelo Varadero
+3654|Globales Tamaimo Tropical
+3656|Puerto de la Cruz
+3657|Hovima Altamira
+3658|Andorra
+3659|Bitacora
+3660|Borinquen
+3661|Iberostar Bouganville Playa
+3663|Caledonia Park Aparthotel
+3664|Adonis Resorts - Villas Fanabé / Bahia Fanabe Suites
+3665|Hovima Atlantis
+3666|Colon Guanahani
+3667|Columbus
+3668|Family Garden Compostela Beach Apartments
+3669|HOVIMA Costa Adeje
+3670|GF Hotel FAÑABE Costa Sur
+3671|Gala
+3672|H10 Gran Tinerfe
+3673|Gran Hotel Bahia del Duque Resort - Bahia del Duque / Villas / Casas Ducales
+3675|Guayarmina Princess
+3677|Hovima Jardin Caleta
+3679|Jardin Tropical
+3680|Jardines de Nivaria
+3681|Hovima La Pinta
+3682|La Siesta
+3683|Lagos de Fanabe
+3684|Iberostar Las Dalias
+3685|H10 Las Palmeras
+3686|Los Geranios
+3688|Dream Noelia Sur
+3689|Olympia
+3690|Hovima Panorama
+3691|Paraiso del Sol
+3692|Park Club Europe
+3693|Hotel Troya Tenerife
+3694|Parque del Sol
+3695|Playaflor Chill Out
+3696|Playa Olid
+3697|Playazul
+3698|Ponderosa
+3699|Hovima Santa Maria
+3700|Sol Tenerife
+3701|Sol Sun Beach
+3702|Iberostar Torviscas Playa
+3703|Tropical Park
+3704|Udalla Park
+3705|Dream Villa Tagoro
+3707|Vulcano
+3709|Fiesta Playa Paraíso Complex - Oasis Paraiso
+3710|Fiesta Playa Paraíso Complex - Paraiso Floral
+3711|Callao Paraiso
+3712|Parque Santiago 3, 4, 5
+3713|Best Tenerife
+3715|Atalaya
+3716|Bahia Playa
+3717|Bellavista Mirador
+3718|Botanico
+3719|La Carabela
+3720|Casablanca
+3721|4Dreams Hotel Chimisay
+3722|Don Candido
+3725|Trovador
+3727|El Tope
+3728|Florasol
+3729|Apartamentos Be Smart Florida Plaza
+3730|Be Live Experience Tenerife
+3733|Internacional
+3734|Las Bananas
+3735|Catalonia Las Vegas
+3736|Chiripa Garden & Villa Chiripa
+3737|Maga
+3738|Marina
+3739|Marquesa
+3740|Marte
+3741|Masaru
+3742|Miramar
+3743|Molino Blanco
+3744|Monopol
+3745|GF NOELIA Playa
+3746|Park Plaza & Tropical - Park Plaza
+3749|Pez Azul
+3750|Diverhotel Tenerife Spa & Garden
+3751|Puerto Palace
+3753|Blue Sea Puerto Resort
+3755|San Borondon
+3756|Bahia Principe San Felipe
+3757|San Telmo
+3758|Best Semiramis
+3759|Sol Parque San Antonio
+3760|Teneguia
+3761|H10 Tenerife Playa
+3762|Tigaiga
+3763|Tosca
+3764|Turquesa Playa - Gran Hotel
+3766|Valle Mar
+3768|Barcelo Santiago
+3771|Royal Park Albatros
+3772|Vincci Tenerife Golf
+3773|Parador de las Cañadas del Teide
+3774|La Quinta Park & Suites
+3775|Villa Sol
+5176|Ciudad de Ubeda
+5177|IFA Interclub Atlantic
+5180|Alameda de Jandia
+5181|Blue Sea Kontiki Apartamentos
+5183|Canyamel Park Hotel / Appartements
+5188|Grupotel Acapulco Playa
+5189|Ayron Park
+5190|Ben Hur
+5191|Boreal & Condor - Boreal
+5720|Golden Beach
+5721|Sotavento Beach Club
+5722|Esquinzo Beach
+5723|Parque Golf
+5724|Sonnenland Club 1
+5726|Corona Roja
+5727|Dunasol
+5728|Nayra & Fun4AllResort
+5729|Sahara Playa
+5730|Tinache
+5733|Lago Azul
+5734|La Palma Romantica & Casitas Apartments
+5736|Playa Roca
+5737|Palmeras Garden
+5739|Los Fariones
+5740|Valentin Park Club Hotel & Appartements
+5743|Mar y Sol
+5779|Paradise Island
+5781|Celo Garden
+5782|Paguera Park
+5783|H10 Conquistador
+5784|Green Park
+5785|Trianflor Dania Magec
+5801|Club Siroco & Serenity - Club Siroco
+5802|La Moraña
+5803|OLÉ Olivina Lanzarote
+5804|Morromar
+5805|Parque Tropical
+5827|Globales Reina Cristina
+5828|Los Pintores - Goya / Velazquez / El Greco
+5829|THB Torrequebrada
+5830|Puerto Benalmadena
+5831|Hipotels Sherry Park
+5832|Alhaurin Golf
+5833|Melia Marbella Banus
+5834|H10 Andalucia Plaza
+5836|Lima
+5837|Gran Cervantes by Blue Sea
+5838|Adriano
+5839|Marconfort Beach Club
+5840|Kross Marina Sur
+5841|Carmen Teresa
+5842|Lloyd
+5843|Albir Garden Resort
+5844|SH Altea Hills
+5847|Brisa
+5848|Avenida
+5849|Bristol Residencia
+5850|Magic Cristal Park
+5851|Servigroup Calypso
+5852|Cimbel
+5853|Don Pancho
+5854|Olympus
+5855|Riviera
+5856|Magic Aqua Rock Gardens
+5857|Magic Aqua Monika Holidays
+5858|Cala La Manzanera
+5859|Calpe Park Bungalows
+5860|Ecomar
+5861|AR Roca Esmeralda & Spa
+5862|AR Galetamar
+5863|La Sella
+5864|Los Angeles
+5865|Oasis Beach
+5867|Port Denia
+5868|Alberca
+5871|El Palmar
+5872|Javea
+5874|Club Martinique - geschlossen
+5931|Servigroup Romana
+5933|Acualandia
+5934|Acuazul
+5936|Carabela
+5937|Finca del Moro
+5941|Peniscola Palace
+5946|Catalonia Barcelona Plaza
+5947|Caledonian
+5948|Eurostars Cristal Palace
+5949|Derby
+5950|Gaudi
+5951|Lleo
+6110|Barcelo Isla Canela
+6163|Mayans
+6165|Jardin Canario
+6166|Dunas Club
+6167|La Mirada
+6170|Cotillo Lagos
+6177|Nautic
+6180|Blaumar
+6181|Condal
+6187|H TOP Olympic
+6188|H TOP Calella Palace
+6190|Stella Maris
+6191|Balmes
+6192|Bernat 2
+6193|Esplai & Bon Repos
+6194|Volga
+6197|Tossa Park
+6199|Flomar
+6200|Jardins Del Mar
+6207|Guitart Apartaments Fenals - geschlossen
+6208|Gran Garbi
+6209|Guitart Resort - Guitart Gold Central Park & Spa / Guitart Central Park Resort / Guitart Central Park Aparthotel / Guitart Park III / Wellness & SPA Institut GEM / Guitart Rosa
+6210|Sun Village
+6212|Guitart Resort - Guitart Rosa
+6213|Helios
+6214|Alba Seleqtta
+6216|Marsol
+6218|Acapulco
+6219|Alva Park
+6220|Hotel Anabel
+6221|Aquarium & Spa
+6222|Bertran Park
+6223|Brava Park
+6224|Costa Encantada
+6225|Gran Hotel Don Juan
+6226|Kaktus Playa
+6227|Evenia Olympic Resort - Olympic Garden / Olympic Park / Olympic Suites / Olympic Palace
+6228|Fergus Style Plaza Paris Spa
+6229|Rosamar & Spa
+6230|Thalassa
+6231|Oasis Park
+6237|Rosa Nàutica
+6238|Tahiti Playa
+6241|Aromar
+6242|Cap Roig
+6246|Comtat Sant Jordi
+6248|H TOP Platja Park
+6249|Country Club Pals
+6250|Golf Beach
+6255|Almadraba Platia
+6256|Prestige Coral Platja
+6257|Don Miguel
+6259|Holiday Center Apartments
+6260|La Solana
+6264|Rosamar
+6265|Royal Marine
+6266|San Carlos
+6267|Victoria
+6268|Violetta Margarita
+6269|Confortel Caleta Park
+6270|Eden Roc
+6271|Alhambra
+6273|Florida Park
+6274|Mercury
+6275|Aqua Montagut
+6277|Aqua Aquamarina
+6278|Cala Llevado Camping
+6280|Costa Brava
+6281|Hotel Don Juan Tossa
+6282|Marblau
+6283|Reymar & Reymar Playa - Reymar
+6367|Puerto Cala Vadella
+6369|El Puerto
+6372|Santos Ibiza Coast Suites
+6373|Sentido Migjorn Ibiza Suites & Spa
+6374|Arlanza
+6375|Gecko Beach Club
+6376|Riviera Hotel & Apartments
+6377|Tropicana
+6378|Abrat
+6379|Fiesta San Diego
+6382|Coral Star Hotel & Apartments - Hotel
+6430|Estrella de Mar
+6436|Luz Playa Apartamentos
+6437|Koala Garden Suites
+6438|Maspalomas & Tabaiba Princess Resort - Maspalomas Princess
+6439|Parque Bali Bungalows
+6442|Sonemar
+6443|Maspalomas Lago
+6444|Turbo Club
+6453|Jardin del Atlantico
+6455|Los Cactus
+6456|Las Tartanas
+6460|Portosol
+6461|Servatur Green Beach
+6466|Flora Park
+6467|Platja Gran
+6470|Menorca Country Club
+6472|San Jaime
+6627|Grupotel Alcudia Suite
+6629|Alcudia Garden & Palm Garden - Alcudia Garden
+6632|Teide
+6633|Tierramar
+6634|Sunprime MonSuau
+6637|Rocamar
+6639|Be Live Adults Only Costa Palma
+6640|Blue Sea La Pinta
+6641|Garbi Cala Millor
+6647|Jumar
+6648|Sensimar Aguait Resort & Spa
+6649|Cala Gat
+6650|Grupotel Playa Camp de Mar
+6651|H10 Blue Mar
+6655|Melbeach Hotel & Spa
+6656|San Pedro
+6658|Finca Son Guardiola
+6659|Finca Son Menut
+6661|Playas de Paguera
+6662|Gaya
+6663|Carabela
+6667|Roc Oberoy
+6668|Tres Torres
+6669|HSM Venus Playa
+6670|Leman
+6672|Barceló Pueblo Park
+6674|GPRO Valparaiso Palace
+6675|Club del Sol
+6676|Los Geranios
+6677|Mariant Park
+6680|Universal Aparthotel Don Camilo
+6751|La Llosa
+6752|Best Maritim
+6753|Olimar 2
+6754|Termes Montbrio Resort, Spa & Park
+6756|Best Cambrils
+6758|Estival Centurión
+6759|Cesar Augustus
+6767|Adosados El Pinar
+6768|Bahia de Los Angeles
+6775|Pino Alto
+6778|Olympus Palace
+6780|Playa de Oro Park
+6781|H10 Salou Princess
+6782|San Francisco
+6783|Sol d'Or
+6785|Zahara
+6786|Augustus
+6787|Belvedere
+6788|H10 Cambrils Playa
+6790|Best Club Cap Salou
+6791|Best Da Vinci Royal
+6792|Alboran Apartamentos
+6793|Best Michelángelo Apartamentos
+6794|Best Negresco
+6796|Blaumar
+6798|California Garden
+6800|Alexis I & Auriga
+6801|Sunway Apartments - Amapola / Arizona / Atlanta - Amapola
+6802|Sunway Apollo
+6803|Subur
+6804|Terramar
+6854|Casa Abuela
+6859|Celta
+6860|El Palmeral
+6876|Las Casas del Rey Baeza
+6878|Tenerife Tour
+6879|Marina Tenerife
+6881|Infinity Blue Bahia Flamingo
+6883|Parque La Paz
+6884|Iberostar Anthelia
+6887|Ole Tenerife Tropical
+6888|Castalia Vista Mar
+6889|Don Manolito
+6893|Casas de Las Piedras
+6964|Al Sur de Chipiona
+6967|Tierra Mar Golf
+6986|Paraiso Florida
+6995|Lagotel by Eix Hotels
+7050|Renaissance Barcelona
+7051|Front Maritim
+7057|Acapulco
+7074|Acorn
+7086|Globales Acuario
+7087|Itaca Fuengirola
+7098|Adjovimar
+7115|Adonis
+7144|Agamenon
+7172|Aguamarina
+7174|Aguamarina
+7175|Gema Aguamarina Golf Hotel & Appartements
+7176|Aguamarina
+7178|Agulla Park
+7179|Aguycan Beach
+7194|San Agustín Beach Club
+7231|Palacete Mirador de Cordoba
+7236|Alahuar
+7247|Best Western Albahia
+7261|Allsun Hotel Albatros
+7269|Albayzin del Mar
+7285|Appartments Alberto
+7292|Alcaufarr Vell
+7293|Alcazaba de Busquistar
+7295|Domus Selecta Alcazar De La Reina
+7296|Alcina
+7299|Viva Alcudia Sun Village
+7300|Alcudiamar Botel
+7302|Aldea Blanca
+7316|Alegria - ab Sommer 2015 Saint James
+7357|Alfonso XIII
+7363|Alhambra
+7364|Alhambra Palace
+7399|Alla Dins
+7421|Allida
+7436|Almirall
+7444|Alondra Villas & Suites
+7488|Alta
+7511|Althay
+7582|H TOP Amaika
+7585|Amanhavis
+7590|Sentido Amaragua
+7607|Ambar Beach
+7617|Ambassador
+7619|Silken Ramblas
+7643|Balanguera Beach
+7669|NH Collection Amistad Córdoba
+7670|Amistad
+7675|Amoros
+7676|Amosa / Honolulu / Hawaii
+7703|Anacapri
+7724|Ancora Romana
+7725|Ibersol Resort - Costa del Sol Princess / Andalucia Princess
+7733|Andreas Apartments
+7748|Anfi del Mar
+7750|BQ Anfora
+7752|Angela
+7810|Antares
+7828|Antonio & Antonio II
+7838|Apartamentos La Barranquera
+7840|Nivaria
+7866|Bohemia Suites & Spa
+7901|Ocean World
+7906|Aquamarina
+7909|Aguamarina
+7926|Sheraton Mallorca Arabella Golf
+7930|Catalonia Sagrada Familia
+7935|Aransol
+7941|Araxa
+7955|Arcos de Formentera
+7989|Ferienanlage Ariel / Ariel Chico / Pins d'Or - Ariel
+7990|Ferienanlage Ariel / Ariel Chico / Pins d'Or - Ariel Chico
+8017|Mirador & Armadams - Armadams
+8021|Arminda
+8031|Arrecife
+8049|Artola Golf
+8055|Arts Barcelona
+8121|Derby Hotel Astoria
+8140|Ayre Astoria Palace
+8141|Astoria Playa
+8197|Asturias
+8204|Protur Atalaya
+8205|Atalaya Bosque
+8206|Atalaya Court
+8207|Atalaya de Jandia
+8212|Atenea Barcelona Aparthotel
+8213|Atenea Park Appartements
+8230|Atindana Park
+8231|Sunway Apartments - Amapola / Arizona / Atlanta - Atlanta
+8246|La Reserva de Marbella
+8249|Marconfort Atlantic Gardens Bungalows
+8261|Atlantico Playa
+8266|Beatriz Atlantis & Spa
+8275|Atlantis
+8278|Barceló Corralejo Bay
+8279|Atlantis Park
+8296|Apartementos Aucanada
+8302|Augusta Club
+8305|Augustino
+8333|Australia
+8347|Avenida
+8349|Avenida Palace
+8367|Aya
+8376|Azalea Beach
+8412|Bahia Paguera
+8413|Sol Bahía
+8420|Bahia Camp de Mar
+8425|Montroig Bahia - Marinada / Bahia Mar
+8427|Club Bahia Meloneras
+8430|Bahia Park - geschlossen
+8431|Bahia Parque
+8433|Bahia Princess
+8461|Baja del Secreto
+8477|Bali
+8481|Bali Beach
+8496|Balmes Hotel
+8498|Abba Balmoral
+8502|Balneario Pozo de la Salud
+8520|Bandama Golf
+8547|Barbaroja
+8555|Barceló Fuerteventura Thalasso Spa
+8564|Barceló Punta Umbría Mar
+8569|Barlovento
+8574|Baronia
+8579|Fergus Barracuda
+8665|Becquer
+8673|Begona
+8721|Bella Vista Residential
+8723|Bellamar
+8724|Bellamar
+8729|Bellavista
+8808|Benidorm Plaza
+8876|Best Mojacar
+9041|Biarritz
+9051|Biniamar
+9052|Biniarroca Rural
+9053|Biniatram Agroturismo
+9054|Fincahotel Binibona Parc Natural
+9090|Blau
+9158|Bogota
+9162|Boix-Mar
+9174|Bon Sol
+9176|Domus Selecta Eetu
+9178|Bonanza
+9188|Bonsol
+9194|Borbalan
+9220|Bosque Mar
+9276|Bris
+9278|Brisa Marina
+9280|Brisamar Canteras
+9281|Kadampa
+9315|Broncemar Beach
+9360|Buganvilla
+9384|Guadalpin Byblos Gran
+9387|Ca'n Cristobal
+9388|C'an Fuster
+9389|Ca'n Miguel Marti
+9390|C'as Pla
+9399|Ca's Comte
+9406|Ca'n Roca
+9417|Universal Hotel Cabo Blanco
+9423|Cactus
+9425|Cactus Garden
+9445|Club Cala Azul
+9446|Cala Bona - Mar Blava
+9447|Cala d'Or
+9452|Cala es Pujols
+9453|Cala Ferrera
+9454|Cala Font
+9456|Fiesta Cala Gracio
+9457|Gavimar Hotels - Cala Gran / Costa del Sur / Cala Gran Appartements
+9458|Blue Sea Aparthotel Cala Guya Mar - ab 01.05.2015 smartline Guya Wave
+9459|Hi! Montemar Apartamentos
+9463|Protur Cala Millor Playa
+9464|Cala'n Blanes Beach
+9465|Cala Ratjada Hostal
+9467|Cala Sant Vicenç
+9470|Atenea Calabria Apartaments
+9473|HSM Calas Park
+9480|Caleta del Sol
+9481|Club Caleta Dorada
+9482|Caleta Paraiso
+9490|Protur Badia Park
+9496|Calipolis
+9542|Camping Cala Gogo
+9547|Delfin Verde Camping
+9576|Vendrell Platia Camping
+9586|Campo Golf
+9595|Can Curreu
+9603|Club Can Jordi
+9622|Can Simo
+9634|Canada Palace
+9671|Fergus Capi Playa
+9692|Capri
+9694|Capri
+9696|Capri
+9698|Artiem Capri
+9711|Sirenis Goleta & Sirenis Tres Carabelas - Tres Carabelas
+9742|Caribe
+9751|Carina
+9758|Best Western Carlos V
+9780|Carmen
+9781|Carmen
+9784|BQ Carmen Playa
+9810|Casa Amarilla
+9822|Hostal Casa Bauza
+9824|Casa Belgara Alta
+9844|Villa Chiquita
+9881|Casa del Sol
+9883|Casa del Virrey
+9886|Casa Dichosa
+9899|Finca Doramas
+9910|Casa El Patio de Tita
+9911|Casa El Pinar
+9912|Casa El Pino
+9920|Casa Eliseo
+9937|Casa Humberto
+9939|Casa Imperial
+9942|Casa La Abuela
+9954|Casa La Higuera
+9967|Casa Las Uvas
+9998|Casa Morro Catana
+10002|Casa Naya
+10003|Casa Nelly
+10012|Casa Pablo
+10018|Casa Pedro
+10022|Casa Pepe
+10036|Casa Roja
+10038|Casa Rosan
+10048|Casa San Miguel
+10050|Santo Tomas
+10068|Rural Casa Tegoyo
+10082|Casa Yaya
+10085|Casablanca
+10086|Casablanca
+10097|Casas Alberto
+10101|Las Casas de la Juderia
+10102|Casas de Montejaque
+10103|Casas del Lago Hotel & Beach Club
+10106|Casas Estudio Chimida
+10110|Casas Pepe
+10120|Calma
+10121|Caserio de Mozaga
+10126|V.T. Casin
+10127|H TOP Gran Casino Royal
+10132|Casitas del Mar
+10138|Cason del Tormes
+10150|Castell Montgri
+10151|Universal Hotel Castell Royal
+10152|InterContinental Madrid
+10169|Castillete
+10172|Castillo de Santa Clara
+10183|Catalina
+10187|Catalonia Oro Negro
+10188|H10 Catalunya Plaza
+10281|Cha Miquela
+10304|Charco Verde Villa Marta
+10350|Chijere
+10351|Apal Chinasol
+10352|Chinyero
+10407|Citadines Barcelona Ramblas
+10445|Ciudad de Sevilla
+10446|Ciudad Laurel
+10448|Hesperia Ciutat Mallorca
+10480|Claris
+10499|Clipper
+10509|Club Andria
+10541|Club S'Illot
+10584|Colon
+10586|Gran Meliá Colón
+10587|Colon Playa
+10589|Colonial
+10591|HLG Colonial Mar
+10604|Columbus
+10684|Ferrer Concord Hotel & Spa
+10686|Concorde
+10694|Condado
+10696|Condes de Barcelona
+10697|Condesa de la Bahia
+10703|Beach Club
+10708|Conquistador
+10741|Convento de San Francisco
+10744|Copacabana
+10767|Coral
+10770|Iberostar Marbella Coral Beach
+10772|Sunprime Coral Suites & Spa
+10780|Coral do Mar 2
+10826|Corinto 2
+10838|Corona del Mar
+10842|Coronas Playa
+10845|Corralejo Beach
+10849|Cortijo Aguila Real
+10850|Cortijo el Esparragal
+10853|Cortijo Landete / Ogijares
+10865|Costa Azul
+10869|Costa Brava
+10870|SBH Costa Calma Beach Resort
+10871|SBH Costa Calma Palace
+10877|Costa d'Or
+10887|Costa Marina
+10888|Lopesan Costa Meloneras
+10890|Costa Sal Apartments & Bungalows
+10902|Costa Volcan
+10903|Costamar
+10973|HG Cristian Sur
+11024|Cuevas Pedro Antonio de Alarcon
+11034|Cupidor
+11044|Cye Marina
+11048|D'Esporles
+11056|D'Es Puig
+11119|Best Western Premier Dante
+11220|Rural Finca de la Florida
+11235|Finca de las Salinas
+11242|Dalt Muntanya
+11255|De Triana
+11296|Del Almirante
+11315|Gran Delfin
+11318|H10 Delfin
+11319|Delfin Playa
+11448|Ferienanlage Diamant - Diamant Aparthotel
+11457|Diana
+11503|Servigroup Diplomatic
+11547|DMS V
+11624|Cigarral Doménico
+11632|Don Antonio
+11633|Don Carlos Leisure Resort & Spa - Hotel / Deluxe Villas / The Oasis
+11634|Palladium Hotel Don Carlos
+11635|Don Carlos
+11637|Don Gregorio Apartments
+11639|Universal Hotel Don Leon
+11640|Don Miguel
+11641|Don Paco
+11642|Don Palomon
+11643|Don Pedro
+11648|Dona Maria
+11651|Dona Rosa
+11654|Macia Doñana
+11661|D'Or
+11662|Dorado Beach
+11722|Dorotea
+11730|Dos Mares
+11745|Primasol Drago Park
+11819|Duque de Najera
+11827|Duva
+11840|Ebano
+11880|Allsun Hotel Eden Playa
+11896|Edison
+11928|El Caserio de Guime
+11931|Castillo de Monda
+11933|El Chaparil
+11935|El Chaparral
+11936|El Cisne
+11937|Exe Coloso
+11943|El Coto
+11944|El Dorado Apartments
+11948|El Drago
+11951|El Duque
+11952|El Encinar
+11953|Escorial
+11957|Fuerte Marbella
+11958|Fuerte Conil & Fuerte Costa Luz
+11959|Fuerte Miramar
+11961|El Galeon Playa
+11964|Sensity Golea Hotel
+11967|El Jardin
+11971|Los Roques/ Monica
+11976|El Montiboli
+11979|El Morro de Uga
+11984|El Palmar
+11988|El Paradiso
+11990|El Paraiso
+11993|El Patio
+11995|ROC Costa Park
+11996|El Pinar
+11997|El Pinaret
+11999|El Platanal
+12006|Pierre & Vacances El Puerto
+12007|El Puntazo
+12010|El Refugio
+12019|Pierre & Vacances Residenz Altea Port
+12021|El Vila
+12083|Es Girasols
+12101|NH Alonso Martinez
+12119|Emperador
+12120|Catalonia Santa Justa
+12147|Entreplayas
+12150|Eolo
+12159|Era De La Corte
+12163|Ercilla
+12197|Es Calo
+12198|Es Cupina
+12199|Rural Es Figural Nou
+12200|Es Moli
+12204|Calimera es Talaial
+12205|Es Trenc
+12206|Hotel Es Vive
+12213|Esmeralda
+12216|TUI best FAMILY Grupotel Esperanza Mar
+12228|Monte del Mar & Esquinzo Aparthotel - Esquinzo
+12267|Estival Park
+12268|Estoril
+12282|Eureka
+12291|Europa
+12297|HSM Europa
+12320|Europark
+12323|Gran Hotel Europe
+12325|Europe San Salvador
+12327|Europe Villa Cortes
+12336|Eva
+12382|Expo Barcelona
+12383|Expo Valencia
+12436|Faro Jandia
+12455|Fayna
+12475|Fenix
+12518|Palladium Hotel Palmyra
+12519|Fiesta Park
+12520|Club San Remo / Club S'Estanyol
+12534|Finca Angelus
+12540|Finca Binicomprat
+12551|Finca Ca'n Beneit
+12563|Finca Ca N'ai
+12568|Finca Can Quatre
+12613|Finca Casa Rosa Mari
+12616|Finca Casa Silvina
+12621|Finca Casa Vieja
+12624|Finca Cho Manuel
+12633|Finca El Cortijo
+12640|Es Figueral
+12641|Finca Es Palmer
+12643|Es Puig de Ros d'Alt
+12646|Landhotel Albellons Parc Natural
+12651|Finca Isabel
+12653|Justus Frantz Finca
+12655|Finca La Blasina
+12657|Finca La Calerita
+12658|Finca La Colina
+12662|Graciosamar Appartements
+12667|Finca La Moraleda
+12670|Finca La Raya
+12671|Finca La Roseta
+12686|Finca Los Marantes
+12696|Finca Mal Pais Trece
+12704|Finca Muleta de Ca S'Hereu
+12706|Finca Casa Nañita
+12712|Finca S'Antigor
+12715|Finca Sa Carrotja
+12716|Finca Sa Casa Rotja
+12718|Sa Pletassa
+12724|Finca Son Foguero
+12728|Finca Son Mercadal
+12731|Finca Son Pieras
+12732|Finca Tagomate
+12733|Finca Uchan
+12734|Finca Valbono
+12746|Crowne Plaza Barcelona - Fira Center
+12774|Vera Natura FKK
+12778|Flacalco - Garden & Suites & Park
+12779|Flacalco - Garden & Suites & Park - Park
+12781|Flamboyan Caribe
+12784|Hipotels Flamenco Conil
+12786|Flamingo
+12793|Flamingo Club
+12796|First Flatotel International
+12808|Flora
+12823|Floramar Aparthotel
+12828|Florida Park Club
+12847|Hostal Pepe
+12848|Beach Club Font de Sa Cala
+12849|Font Nova
+12862|Formentera
+12863|Barcelo Formentor
+13004|Dioni
+13019|Fuerte Grazalema
+13022|Fuerteventura Princess
+13025|Sun Club Aguila Playa
+13064|Hotel OLÉ Galeón Ibiza
+13065|Galera Beach
+13091|Garbi Park
+13102|Bungalows Garden Beach / Appartements Rocamar Beach - Bungalows Garden Beach
+13156|Catalonia Gran Via
+13166|Gemelos XXII
+13168|Fergus Geminis
+13197|Apartamentos Cye 4, 5
+13228|Catalonia Giralda
+13230|Girasol
+13236|Giverola Resort
+13325|Golf Center
+13327|Golf Mar 1 & 2
+13331|Golf y Mar
+13349|Gotico
+13355|Los Pintores - Goya
+13356|Goya
+13357|allsun Amàrac
+13362|Gracia
+13376|Gran Hotel Barcino
+13381|Catalonia Diagonal Centro
+13384|Solvasa Concordia Playa
+13393|Gran Garbi Mar
+13394|Gran Conde Duque
+13395|Hotel Don Ignacio
+13396|Gran Hotel La Toja
+13397|Elba Motril Beach & Business
+13398|Playabella Spa Gran Hotel
+13402|Gran Lar
+13406|Gran Sol
+13407|Gran Sol
+13408|Gran Versalles
+13411|Granada Center
+13446|Silken Grand Havana
+13493|Guitart Monterrey
+13548|Grupotel Gravina
+13566|Green Field
+13568|Green Garden
+13574|Green Mar
+13583|Ibis Styles Madrid Prado
+13603|Grimanesa
+13630|Alcudia Beach
+13631|Grupotel Aldea
+13633|Grupotel Amapola
+13634|Grupotel Club Menorca
+13635|Grupotel Dunamar
+13636|JS Es Corso
+13637|Grupotel Los Principes & Spa - Hotel
+13638|Grupotel Molins
+13639|Grupotel Parc Natural
+13640|Grupotel Playa Club
+13641|Grupotel Port d'Alcudia
+13645|Exe Guadalete
+13646|Guadalupe
+13650|Guanabara Park
+13655|Guatiza
+13665|Guinate Club
+13686|H10 Costa Adeje Palace
+13687|H10 Vintage Salou
+13688|H10 Sentido Playa Esmeralda
+13689|H10 Rubicon Palace
+13701|Hacienda Benazuza
+13706|Domus Selecta Hacienda El Santiscal
+13709|Hacienda La Laguna
+13743|Halley Apartamentos
+13803|Haria
+13945|Hesperia Córdoba
+13947|H10 Playas de Mallorca
+14040|Hipico
+14042|Hipotels La Barrosa Complex - Barrosa Garden
+14043|Hipotels La Barrosa Complex - Barrosa Palace & Spa
+14044|Hipotels Natura Palace
+14065|Las Margaritas
+14096|Garden Holiday Village
+14166|Crowne Plaza - geschlossen
+14366|Hi! Honolulu
+14368|Finca Honor Vell
+14380|Horizonte
+14381|Horizonte
+14396|Hostal de la Gavina
+14400|Hostalillo Hesperia
+14405|Hosteria del Laurel
+14408|El Nogal
+14412|Hotelito del Golfo
+14414|Hotelito El Tejado
+14460|Huerto del Cura
+14462|Humaina
+14540|Iberostar Andalucia Playa
+14551|Iberostar Playa Gaviotas
+14619|Ibiza
+14705|Hoposa Illa d'Or
+14781|Incosol Medical Spa
+14782|Best Indalo
+14783|Indalo Park
+14789|Inglaterra
+14790|Inglaterra
+14820|Insotel Menorca - Insotel Punta Prima Resort / Insotel Punta Prima Prestige
+14873|Internacional Cool Local
+14892|Intur Azor
+14893|Intur Bonaire
+14894|Intur Orange
+14941|Isla Mallorca & Spa
+14951|Islantilla Golf
+14952|Islas Paraiso
+14956|Isolde
+14972|Ivory Playa
+14984|Jade
+15013|Ferrer Janeiro Hotel & Spa
+15021|Jardin de la Paz
+15022|HG Jardin de Menorca
+15023|Jardin Dorado
+15025|Jardines del Mar
+15054|Protur Jazmín
+15063|Jerez
+15103|Jose Cruz
+15108|Juan Miguel
+15119|Juma
+15170|Kaktus Albir
+15320|Kempinski Bahía
+15367|Kilimanjaro
+15615|L'Hermitage
+15616|L'Hostalet
+15637|Barcelo La Bobadilla
+15638|La Boyera
+15639|La Brujita
+15644|La Cala
+15662|La Concha Park
+15663|La Costa
+15670|La Empedrola
+15680|La Fontana
+15682|La Fuente
+15687|La Granja
+15690|Hacienda Na Xamena
+15697|La Luna
+15704|La Majada
+15716|Gavimar La Mirada Club Resort
+15717|La Mirage Swingers Complex
+15720|La Moraleja
+15722|Apartamentos La Muralla
+15727|La Palmera
+15729|La Paloma
+15731|La Paz
+15732|La Pergola
+15735|La Perla Negra
+15750|La Posada
+15760|La Quinta Resort & Spa
+15775|Vincci La Rabida
+15779|La Reserva Rotana
+15783|La Residencia
+15816|Vall Petita
+15822|La Venezia de Canarias
+15830|La Viñuela Boutique Hotel
+15854|Lago Garden
+15857|BelleVue Lagomonte
+15858|HSM Lago Park Apartments
+15859|Lago Playa & Lago Park
+15931|Lanzamar
+15932|Lanzaplaya
+15933|Clubhotel Lanzasur
+15946|Las Adelfas
+15947|Las Adelfas
+15948|Las Adelfas
+15949|Las Afortunadas
+15950|Las Algas
+15951|Las Almenas
+15953|HD Beach Resort
+15954|Las Arenas
+15957|Hotel Villas Brisas del Mar
+15958|Las Brisas Apartments
+15960|Las Brisas Village
+15962|Las Casas de los Mercaderes
+15964|Las Casitas
+15969|Las Dunas
+15970|Las Dunas Beach & Suites
+15973|Las Flores de Burriana
+15976|Las Fuentes
+15977|Gran Hotel Las Fuentes
+15978|Las Gacelas
+15980|Jardines de las Golondrinas
+15981|Las Gondolas
+15983|Las Jacarandas
+15984|Las Lilas
+15986|Vitalclass Lanzarote Sport & Wellness Resort
+15988|Las Mozas
+15989|Las Nasas
+15996|Las Palmeras
+15998|Las Palmeras
+16000|Las Palomas
+16002|Las Perlas
+16003|Las Piramides
+16004|Las Pitas
+16005|Las Rampas
+16006|Las Rocas
+16010|Viverde Hotel Las Tirajanas
+16012|Las Vegas Golf
+16025|Solvasa Laurisilva
+16033|Exe Laietana Palace
+16092|Le Meridien
+16101|Los Monteros
+16230|Blue Sea Lepe Mar Playa
+16247|Les Dunes
+16249|Les Dunes Comodoro
+16450|Petit Palace Londres
+16455|Lope de Vega
+16460|Globales Lord Nelson
+16467|Los Alamos
+16468|Los Almendros
+16471|Best Los Angeles
+16474|Los Arcos
+16476|Los Arpones
+16483|Los Cancajos
+16484|Los Claveles
+16485|Best Western Los Condes
+16486|Los Corales
+16488|Los Dalmatas
+16489|Los Dragos del Norte
+16490|Los Dragos del Sur
+16491|Los Elefantes
+16493|Los Caribes II
+16494|Los Guanches
+16496|Los Hibiscos
+16498|Los Jandalos Vistahermosa
+16500|Los Lomos
+16501|Los Mangos
+16502|Los Mariachis
+16503|Los Melocotones
+16507|Los Nardos
+16508|Blaumar
+16509|Los Pajeros
+16510|Los Palmitos - geschlossen
+16512|Los Patios
+16513|Patio de la Cartuja
+16517|Los Pinos
+16518|Los Principes
+16521|Los Seises by Fontecruz
+16523|Grupotel Los Tamariscos
+16524|Los Tilos
+16592|Lux Isla
+16595|Lux Mar / Panoramic / Tropical Garden
+16613|Grupotel Macarella Suites & Spa
+16644|Maestranza
+16645|Maestre
+16677|Eurostars Maimónides
+16693|Majestic Hotel & Spa
+16702|Catalonia Majorica
+16730|Iberostar Son Antem
+16731|SENTIDO Mallorca Palace
+16772|Manolita
+16778|Nazaret Mansion
+16787|Mar Azul
+16788|Mar Blau
+16789|Mar Blau
+16790|Mar Blau
+16791|Grupotel Mar de Menorca
+16796|Vita Mar y Golf
+16797|Mar i Vent
+16799|Maracaibo
+16808|Marbel
+16810|Marbella Club
+16811|OH Marbella Inn
+16812|Marbella Playa
+16822|Mare Nostrum Resort - Cleopatra Palace/ Sir Anthony/ Mediterranean Palace/ Julio Cesar Palace/ Marco Antonio Palace
+16837|Mare Internum
+16864|Maria
+16871|Maria Cristina
+16884|Mariano Cubi
+16886|Maribel Apartamentos
+16887|Maribel
+16895|Marieta
+16940|Palia Maria Eugenia
+16947|Be Live La Calita - ab Sommer 2015 Iberostar Cala Millor
+16948|Monte Marina Playa
+16951|Marina Portals
+16964|Marinero 1
+16974|Marea Viva
+16977|Ferrer Maristany
+16979|Maritim
+17031|Marques de Torresoto
+17101|Maryvent
+17108|Bungalows Dunas Maspalomas
+17141|Rosamar Maxim
+17162|Mayoysa
+17171|Medes II
+17177|Mediodiá Madrid
+17187|azuLine Mediterraneo
+17188|Mediterráneo & Mediterráneo Park - Mediterráneo
+17220|Almuñécar Playa Spa
+17222|Melia Atlanterra
+17223|Melia Cala D'or
+17228|Melia Jardines del Teide
+17234|Melia Sancti Petri
+17244|Melusina
+17251|Iberostar Grand Hotel Mencey
+17263|Hipotels Mercedes
+17389|Mestral & Llebeig Apartments
+17397|Hesperia Barri Gòtic Hotel
+17422|Miami
+17438|Veronica & Midas - Midas
+17447|Miguel Angel
+17449|Bungalows Can Miguel Torres
+17451|TRH Mijas
+17465|Millor Garden
+17509|Mirador & Armadams - Mirador
+17519|Miramar
+17520|Miramar
+17526|Casas Miramar
+17580|Moderno
+17605|Casa Vista Molino
+17607|Molins Park
+17617|Teide Annex
+17626|Domus Selecta Monasterio De San Miguel
+17637|Aeropuerto Sur
+17639|Monnaber Nou
+17643|Monsenor
+17654|Montecarlo
+17665|Monte Marina Naturist
+17667|Monte Picayo
+17669|Monte Triana
+17676|Montecarmelo
+17677|Barceló Jerez Montecastillo - Barceló Jerez Montecastillo Golf
+17685|Montemar
+17686|Montemar
+17687|Montenmedio
+17688|Monteparaiso
+17689|Monterrey
+17692|Monterrey
+17695|Montesol
+17723|Moreyo
+17772|Muralto
+17800|Na Set Centes
+17801|Na Taconera
+17821|Nara
+17840|Grupotel Natura Playa
+17847|Nautilus
+17848|Nautilus Beach
+17851|Navas
+17857|Nazaret Appartements
+17858|Nazcodiaz
+17893|Neptuno
+17894|Neptuno
+17898|Nereida
+17901|Nerja Club
+17902|Nerja Medina
+17961|NH Alberto Aquilera
+17962|NH Nacional
+17964|NH Sur
+18008|Hoposa Niu
+18018|Nopal
+18021|Norai
+18023|Nord
+18054|Nova Romana 1 + 3
+18057|Novo Mar
+18059|Novo Sancti Petri Appartements
+18107|Novotel Madrid Puente de La Paz
+18111|AC Sant Cugat
+18127|Medina Azahara
+18155|Oasis Bienvenido
+18157|Oasis Dunas
+18158|Oasis Foresta
+18160|Asur Ocean Islantilla
+18161|Oasis Lanz Club
+18162|Oasis Park
+18163|Oasis Royal
+18164|Oasis Tossa
+18166|Oasis Village
+18167|Obelisco
+18180|Ayre Cordoba
+18185|Hesperia Sevilla
+18186|Ayre Hotel Sevilla
+18188|Ocean Boulevard
+18207|Oceano
+18233|Ogisaka Garden
+18250|Ola Cecilia Aparthotel
+18268|Oliva Nova Beach Hotel & Resort & Villen - Oliva Nova Beach & Golf Hotel
+18314|Aqua Onabrava
+18332|Opera
+18344|Orbe
+18356|Orient Beach
+18370|Pabisa Orlando
+18371|Orlando
+18380|Oromana
+18384|Be Live Experience Orotava
+18457|Paguera Treff
+18480|Be Live Collection Palace de Muro
+18488|Palacio Ca Sa Galesa
+18495|Gran Palas
+18497|Palau Sa Font
+18507|Palfuriana
+18509|Palia La Roca
+18512|Palladium
+18527|Palm Garden
+18541|Palma Blanca 1 + 2
+18552|Palmera Beach
+18556|Palmeral Oasis
+18558|Protur Palmeras Playa
+18559|Palmeras Playa
+18589|Ola Club Panama
+18636|Panoramica Garden
+18655|Papi
+18673|Paradise Beach Club
+18691|Mac Paradiso Garden
+18705|Paraguay
+18709|Paraiso de los Pinos
+18714|Parasol Garden
+18742|Paris Hostal
+18743|Paris
+18761|Park
+18801|Silken Park San Jorge
+18830|Parque Cristina
+18836|Parque Mar
+18837|Parque Nereida
+18838|Parque Paraiso 1
+18839|Parque Paraiso 2
+18842|Parquemar
+18851|Arena
+18852|L'Azohia
+18870|Patricio
+18889|Paya I
+18890|Paya II / 2
+18897|Pebar
+18959|Universal Hotel Perla
+18985|Petit Cala Fornells
+18986|Petit Fornalutx
+19027|Pi Mar
+19070|Ibiza Rocks House at Pikes
+19071|Pil-Lari Playa
+19076|Pinar
+19084|Finca Piñero
+19097|Pinomar
+19098|Pinomar
+19099|Pinoverde del Golf Reihenhäuser
+19102|Pintor El Greco
+19137|Playa Arena
+19139|Playa Azul
+19140|Blau Park
+19141|Marins Cala Nau
+19144|Playa Chica Beach
+19148|Playa de Regla
+19151|Esperanza Park / Playa Esperanza Hotel / Playa Esperanza Apartamentos
+19153|Playa Flor
+19154|Playa Garden
+19155|Playa Grande
+19156|Be Live Experience Playa la Arena
+19158|Playa Moreya
+19159|Playa Park
+19161|Playa Romana
+19165|Diverhotel Aguadulce
+19166|Playa Victoria
+19169|Playadulce
+19170|Playalinda
+19172|Playamar
+19173|Playamaro
+19175|Playasol
+19176|Diverhotel Lanzarote
+19177|Diverhotel Roquetas
+19178|Playsol
+19189|Plaza Azul
+19190|Plaza Cavana
+19206|Plazamar Serenity Resort
+19217|Playa Pocillos
+19259|Ponent
+19278|Port Canigo Apartments
+19281|Port Eugeni
+19287|Port Mahon
+19298|BG Club Hotel Portinatx
+19307|Apartamentos Portomar
+19324|Roc Portonova Apartments
+19327|Posada del Marques
+19334|Poseidon Complex - Poseidon / Poseidon Palace
+19339|Bahia
+19378|Pozo del Duque
+19409|Presidente
+19423|Prima Sud
+19428|Las Dunas Residencial
+19452|Princesa Guayadeque
+19454|Princesa Sofia Gran
+19471|La Manga Club - Principe Felipe
+19475|Principe Pio
+19478|Prinsotel Mal Pas
+19485|Proa Astor
+19489|Aqua Promenade
+19503|Estival Eldorado Resort - Hotel / Cortijos / Atrien / Villen
+19504|Pueblo Indalo
+19505|Puente del Rey
+19506|Puente Romano
+19508|Hacienda Puerta del Sol
+19509|Puerta de Toledo
+19511|Puerto de las Nieves
+19512|Puerto del Sol
+19516|Sentido Pula Suites Golf & Spa
+19530|Punta del Rey
+19535|Punta Grande
+19542|Punta Marina
+19558|PYR Marbella
+19656|Quijote Park
+19830|Rafael Atocha
+19912|Ran de Mar
+19961|Read's Hotel & Vespasian
+19990|Reding
+20013|Regencia Colòn
+20032|HCC Regente
+20036|Eurostars Regina
+20038|Regina
+20050|Regina
+20066|Reina Sol / California
+20067|Reina Victoria
+20242|Lemar Garden
+20244|Residencia Pujol
+20246|Sis Pins
+20252|Residencial El Conde
+20269|Residenz Playa de los Roques
+20325|Rialto
+20370|Canary Garden Club
+20379|VIK Suite Risco del Gato
+20384|Ritz Madrid
+20387|El Palace
+20404|GF Hotel ISABEL
+20405|RIU Arecas
+20406|Meliá Atlántico Isla Canela
+20407|Pabisa Bali
+20409|RIU Bonanza Park
+20410|RIU Bravo
+20411|Caballero
+20412|Inturotel Cala Esmeralda
+20413|Pabisa Chico
+20414|RIU Concordia
+20418|RIU Festival
+20419|RIU Flamingo
+20422|ClubHotel RIU Gran Canaria
+20423|RIU Palace Oasis
+20429|RIU Monica
+20431|RIU Nautilus
+20436|RIU Palace Bonanza Playa
+20437|XQ El Palacete
+20440|RIU Palace Meloneras Resort
+20442|RIU Palace Tenerife
+20443|RIU Palmeras
+20444|RIU Palmitos
+20447|Parque Cristobal
+20449|HL Rio Playa Blanca
+20450|RIU Playa Park
+20452|TUI best FAMILY Riu Romantica
+20453|RIU San Francisco
+20455|Pabisa Sofia
+20462|ClubHotel RIU Tropicana
+20465|Servatur Waikiki
+20487|Riviera Playa
+20502|Riviera Beach & Spa
+20508|Rivoli Ramblas
+20511|Roberto Playa
+20514|Robinson Club Cala Serena
+20518|Robinson Club Esquinzo Playa
+20520|Robinson Club Jandia Playa
+20528|Bungalows Garden Beach / Appartements Rocamar Beach - Appartements Rocamar Beach
+20529|Rocas Blancas
+20530|Rocas Rojas
+20543|Rodes
+20553|Roger de Flor Palace
+20570|Roma Reial
+20584|Universal Hotel Romantica
+20586|Vanity Eden Binibeca & Spa
+20610|Rosamar
+20611|Rosamar Maritim
+20673|Steigenberger Royal Golf & Spa Resort Camp de Mar
+20711|Royal Plaza
+20724|Princesa Yaiza Suite Resort
+20728|Royal Suite
+20742|Casa de los Camellos
+20759|Cortijo de San Ignacio Golf
+20760|Rural Costa Salada
+20761|Rural El Patio
+20763|La Hacienda del Buen Suceso
+20764|Domus Selecta Los Nogales
+20765|Rural Los Tilos
+20768|S'Olivaret
+20769|Viverde Hotel Sa Bassa Rotja
+20770|Rural Senderos de Abona
+20771|Rural Son Xotano
+20772|Victoria
+20794|S'Agaro
+20795|S'Algar
+20796|S'Ardeviu
+20800|HSM S'Olivera Hotel & Apartments - Hotel HSM S'Olivera
+20802|S'Argamassa Palace
+20804|S'Hort Des Turo
+20807|Sa Caleta
+20808|Sa Coma de Banyalbufar
+20812|Sa Galera
+20814|Inturotel Sa Marina
+20816|Sa Paissa
+20818|Sa Pedrissa
+20820|Sa Posada D'Aumallia
+20821|Sa Punta
+20823|Sa Rota
+20825|Sa Vaqueria
+20835|Sabina Playa
+20852|Sagitario Playa
+20854|Puig Sa Guilla
+20878|H10 Salauris Palace
+20888|Salou Park
+20907|Samba
+20923|San Agustin
+20932|San Diego
+20945|San Gil
+20960|Sant Ignasi
+20963|San Jose
+20970|San Marcial
+20989|San Nicolas
+20999|San Roque
+21002|Valentin Son Bou
+21015|Sand Club Golf
+21037|Sandra
+21055|Sant Jaume
+21056|Sant Roc
+21057|Be Live Adults Only Marivent
+21058|Santa Ana
+21063|Santa Catalina
+21071|Grupotel Santa Eulalia
+21073|Santa Fe
+21091|Santa Marta
+21092|Santa Marta
+21093|Santa Monica
+21094|Santa Ponsa Club
+21095|Santa Ponsa Golf
+21100|Santi
+21106|Be Live City Center Madrid Santo Domingo - ab Januar 2015
+21112|Gran Talaso Sanxenxo
+21141|Saratoga
+21171|Savoy
+21292|Scott's
+21334|Seaside Grand Hotel Residencia
+21391|Séfora Park
+21406|Selvamar
+21433|Serena Sol
+21438|Servatur Barbados
+21440|Es Clot des Forn
+21441|Ses Fotges
+21443|Ses Roquetes
+21444|Ses Rotes Velles
+21445|Ses Rotges
+21625|Roc Lago Rojo
+21626|Sidi Saler
+21627|Sidi San Juan - geschlossen
+21637|Siesta Mar
+21648|Silken Amara Plaza
+21649|Silken Indautxu
+21650|Silken St. Gervasi
+21683|Sinfony
+21699|Sirenis Club Aura
+21700|Jabeque
+21704|Sirius
+21709|Medium Sitges Park
+21818|Mercure Madrid Plaza de Espana
+21834|Brisamar
+21839|Sol del Sur
+21842|Sol Ibiza
+21857|Sol y Mar
+21859|Sol y Sierra
+21886|Solymar
+21888|Solymar Sol y Mar
+21889|Solyventura Bungalow-Hotel
+21896|Son Bou Gardens
+21897|Son Brull
+21902|Residencia Son Floriana
+21903|Gran Son Net & Ses Cases de Son Net
+21905|Son Porro
+21906|Son Sant Jordi
+21907|Son Siurana
+21909|Son Tretze
+21910|Son Triay
+21911|Son Trobat
+21912|Castillo Son Vida
+21913|Son Vivot
+21968|Sonora Golf
+22218|Stilmar Apartments
+22271|Innside Madrid Suecia
+22289|Suizo
+22290|Eden Nord
+22294|Sultan Club
+22314|Caybeach Sun
+22322|Servatur Sun's Gardens
+22338|THB Royal
+22377|HL Club Playa Blanca
+22378|Sunsea Village
+22401|Hipotels Sunwing Resort & Spa
+22488|Tabaibas
+22494|Tagara Playa
+22511|Talasoterapia Canarias
+22562|Golden Taurus Park
+22574|Teide Mar
+22583|HG Tenerife Sur
+22628|Terramar
+22634|Terrazamar
+22880|Ocean Drive
+22995|The Suites at San Roque Club
+23053|Melia La Quinta Golf Resort & Spa
+23057|The Westin Palace
+23159|Timon 1+2
+23163|TRH Tirant Playa Appartements
+23186|Toboso Aparthotel
+23196|Tomarinar - geschlossen
+23198|Ola Tomir Aparthotel
+23211|HLG Topacio
+23213|Tora
+23224|Torre del Conde Garajonay
+23232|Torreblanca
+23233|TorreMirona Golf & Spa Resort - TorreMirona Hotel Relais / Aparthotel TorreMirona (Vila Birdie)
+23235|Torres de Yomely
+23271|Tramontana Park
+23344|Tres Jotas
+23346|Tres Playas
+23347|Tres Torres
+23356|Triton Appartements
+23360|Triunfo
+23366|Tropic Park
+23369|Park Plaza & Tropical - Tropical
+23391|Vincci Albayzin
+23394|Tryp Alameda
+23396|Tryp Ambassador
+23398|Tryp Cibeles
+23401|Gran Melia Fenix
+23404|Tryp Gran Via
+23405|Tryp Guadalmar
+23406|Tryp Madrid Plaza España
+23410|Hesperia Presidente
+23411|ME Madrid Reina Victoria
+23412|Rex
+23413|San Sebastian Playa
+23414|TRYP Madrid Centro Hotel
+23422|Tucans
+23444|Turismo Tropical
+23448|Turmalina Appartements
+23533|Uyal
+23588|Varadero
+23609|Velas Blancas
+23613|Los Pintores - Velazquez
+23633|Ventura
+23640|Veracruz
+23641|Veramar
+23650|Verdemar
+23655|Oca Vermar
+23664|Vicksol
+23670|Victoria Ibiza
+23781|Villa Ana
+23810|Villa Can Maries
+23817|Villa & Casitas Caldera
+23827|Villa Clementina
+23829|Villa Columbus
+23840|Villa de Frigiliana
+23841|Villa Hermigua
+23861|Villa Elena
+23866|Villa Es Trenc
+23904|Villa Italia
+23929|Villa Magna
+23943|Villas Las Marinas
+23950|Universal Hotel Marques
+23952|Villa Mediterranea
+23987|Villa Primera
+23992|Villa Real Madrid
+23998|Villa Rosa
+24040|Villa Turistica de Bubion
+24042|Villa Turistica de Cazalla de la Sierra
+24043|Villa Turistica de Fuenthiridos
+24045|Villa Turistica de la Axarquia
+24046|Villa Turistica de Laujar
+24129|Villamarina Club
+24158|Santa Ana Villas
+24183|Virgen del Mar
+24194|Vistaflor Bungalows
+24195|Vista Golf
+24196|Vista Hermosa
+24201|Vista Sur
+24207|Port Adriano Marina Golf & Spa
+24208|Vistasol
+24211|Vital Suites Residence, Salud & Spa
+24220|Viva Bahia
+24221|Viva Blue
+24222|Viva Can Picafort
+24228|Viva Menorca
+24229|Viva Sunrise
+24230|Viva Tropic & Spa
+24238|Viviendas Turisticas Es Pi
+24250|Voramar Aparthotel
+24370|Wellington
+24557|DC Hotel Xibana Park
+24562|Puerto Sherry
+24570|Yaramar
+24626|Zenit Sevilla
+24627|Zenit Abeba Madrid
+24746|Macia Alfaros
+25795|Diamante Suites
+25796|La Fonda Central
+25800|Casa Domingo
+25801|Caleta Campo
+25802|Esmeralda Maris
+25819|Morasol Apartments & Atlantico Aparthotel - Atlantico Aparthotel
+25839|Los Castellanos
+25935|Bahia Tropical
+25938|RIU Garoe
+25968|Villa de la Reina
+25988|Hesperia Del Mar
+25991|H10 Itaca
+26074|Tryp Orly
+26075|Santemar
+26077|Domus Selecta Virxe de Cerca
+26138|SBH Club Paraiso Playa
+26213|Reyes Católicos
+26381|Barceló Castillo Club Premium
+26382|Playa Burgao
+26461|Costa Adeje Gran
+26474|Toruno
+26508|Born
+26518|Guadacorte Park
+26529|Casa Cho Juan
+26535|Ferienpark Eden - Eden Esplanade/ Eden Luz
+26543|Las Calas
+26546|S'Hort de son Caulelles
+26558|Don Diego
+26562|Laura
+26584|Bahia Principe Resort - Bahia Principe Costa Adeje
+26587|Atlantis Las Lomas
+26630|Hesperia Bristol Playa
+26645|Chayofa Country Club
+26658|Elba Palace Golf & Vital
+26667|Breñas Garden
+26669|Can Planells
+26873|Bahia Sur
+27313|Tamisa Golf
+27318|NH Almenara
+27327|Ca'n Calco
+27328|Ca's Xorc
+27331|Son Cosmet
+27332|Son Marge
+27359|Finca Romera
+27361|Finca La Era
+27364|Peru
+27365|Santa Clara
+27366|Club Maspalomas
+27367|Rociega l + II
+27368|La Tegala
+27369|Villas Flores
+27374|Son Pont
+27385|Don Angel
+27488|RF Astoria
+27859|Catalonia La Pedrera
+27860|Eurohotel Diagonal Port
+27861|Oasis
+27971|Posada del Conde
+28019|MAGIC LIFE Fuerteventura Imperial
+28067|Tropic Garden
+28115|Mon Port Hotel & Spa
+28118|Finca Son Palou
+28158|Sensimar Isla Cristina Palace
+28166|Cala Millor Garden
+28174|Playaluna
+28176|Neptuno
+28177|Arena Center
+28180|Globales Pueblo Andaluz
+28182|Alce
+28184|Alicante
+28194|Amazonas
+28210|Andarax
+28260|Iris Bahia Dorada
+28273|Delfin Casa Vida Apartamentos
+28274|Casas Dona Elida
+28278|Garau Hotel
+28289|Fuengirola Park
+28298|Parque las Americas
+28305|Prince Park
+28314|Tropical
+28319|El Tio Kiko
+28320|Cases de Sant Jaume
+28324|Apartmentkomplex - Decathlon / Pentathlon / Marathon
+28341|La Joya
+28466|Korinto
+28473|Marina Mar
+28474|Hotel Mediterraneo Carihuela
+28478|Norte
+28481|Palm Beach
+28487|Voramar
+28660|Dream Gran Tacande
+28693|Sant Marc
+28694|Mar y Sol Elit
+28715|Hipotels Hipocampo Playa Apartments
+28721|Aqua Bella Playa
+28722|Monteplaya
+28723|Stella
+28724|El Paso
+28725|PortAventura
+28726|Sol Costa Dorada
+28727|Vistamar
+28734|Aparthotel Pinosol
+28737|Magic Aqua Excalibur
+28740|La Zenia
+28743|Ciutat Jardi
+28749|Torre San Diego
+28754|Es Convent
+28761|Grand Palladium
+28772|Puerta del Mar
+28773|Villa Turistica de Cazorla
+28789|Royal Tarraco - geschlossen
+28918|Conil Park
+28919|Playacanela
+28920|H10 Playa Meloneras Palace
+28922|Imperial Park
+28925|Hesperia Lanzarote
+28926|Mirador de Papagayo
+28927|Iberostar La Bocayna Village
+28928|Oasis San Antonio
+29248|Ca'l Bisbe
+29255|Son Mas
+29294|Princesa Ana
+29356|Rural la Venta
+29360|S'Agaro Mar
+29363|Rigat Park
+29370|El Rodat
+29391|HC Burriana Playa
+29392|Prestige Palmera Plaza
+29398|Bernita
+29511|Volcan Lanzarote
+29535|Laura
+29575|Orone
+29576|Sorra d'Or
+29577|Luna Park / Club
+29578|Bajamar
+29650|Neptuno
+29655|Mariano Barber
+29715|SunConnect Los Delfines
+29716|Los Arcos Montemar
+29737|AC Santo Mauro
+29739|Adler
+29740|AC Aitana
+29741|Exe Puerta Castilla
+29810|Meliá Boutique Palacio de Tudemir
+29853|Gallery
+29854|Taberna del Alabardero
+29855|Amadeus
+29856|Zaida
+29857|Murillo
+29858|El Horcajo
+29859|Casitas de la Sierra
+29862|AC Malaga Palacio
+29870|Diufain
+29873|AC Nuevo Portil Golf
+29900|Casa Rural Ondina
+29927|Sterling
+29936|Palacio Marques de la Gomera
+29938|Hotel Sercotel Selu
+29939|Los Omeyas
+29940|An Santo Domingo
+29941|Triunfo
+29942|Domus Selecta Palacio De Santa Ines
+29943|Reina Cristina
+29945|Casa Morisca
+29946|Plaza Nueva
+29947|El Balcon de las Nieves
+29949|Refugio de Juanar
+29952|Los Cantaros
+29953|Puertatierra
+30244|Son Estrany
+30279|Inturotel Cala Azul Garden & Esmeralda Garden - Cala Azul Garden
+30477|Los Angeles
+30482|Dona Blanca
+30799|Villa Romana
+30806|Intur Palacio San Martin
+30855|Fuertesol
+31015|Valencia
+31021|Cliper
+31025|Jecsalis
+31032|Maremagnum
+31035|Tucan
+31039|Continental
+31044|Vila
+31045|Catalonia
+31050|Jet
+31053|Tolosa
+31330|Neptuno Hotel & Apartaments
+31331|St. Jordi
+31333|Santa Rosa & La Carolina
+31334|Ninays I + II
+31337|Europa Splash
+31338|Novopark
+31340|Parkhotel
+31341|Vila de Tossa
+31439|Gloria Palace Amadores Thalasso & Hotel
+31440|Mogan Princess
+31441|Sandos Papagayo Beach Resort
+31722|Adagio
+31723|Sorolla Centro
+31724|Rona Dalba
+31725|Moderno
+32034|Los Molinos
+32036|Domus Selecta Cortijo La Reina
+32167|La Manga Club - Las Lomas Village
+32168|Rio Real
+32241|Los Zafiros
+32243|Ten Bel Primavera
+32249|Holanda Bungalows
+32253|Rural Almazara
+32254|Campanario de Calahonda
+32256|Hostal el Dorado
+32257|Mirador de Adra
+32259|Los Telares
+32262|Es Canto Appartements
+32264|Hi! Cala Blanca
+32265|Las Brisas I & II
+32266|Roc Menorcamar Apartments
+32268|Santa Rosa/Torre Arena - Torre Arena
+32269|Torremar
+32282|Axel Beach Maspalomas
+32283|Los Tunos
+32285|Cay Beach Meloneras
+32288|Paraiso Royal Appartements
+32289|Jandia Luz Appartements
+32290|Barceló Jandia Resort - Barceló Jandia Playa
+32291|Las Olas
+32398|El Poleal
+32626|Sevilla Center
+32627|Via Augusta
+32628|Catalonia Eixample 1864
+32629|Glories
+32630|abba Sants
+32665|Costa Conil
+32666|Villas Fuencaliente
+32732|abba Rambla
+32924|Elba Sara
+33154|Almadraba Park
+33178|Sallés Mas Tapiolas
+33200|Sa Taqueta de Fornalutx
+33201|Alfabia Nou
+33203|Rural Valldemossa
+33204|Casa Datscha
+33208|Na Forana
+33209|Best Benalmadena
+33210|Valentín Sancti Petri
+33332|Valentín Star
+33474|Ducado Apartments
+33478|Les Illes
+33486|Cala Josep
+33487|Fuente Sol
+33839|La Tanquera
+33844|Las Rosas
+33847|Casa del Embajador
+33850|La Camuesa
+33910|Xon's Playa
+33911|Piscis
+33912|Palamos Aparthotel
+33916|Sunway Playa Golf & Spa
+33917|Tamarit Park Resort
+33918|Terramarina
+33919|Las Vegas
+33920|Caribe
+33922|La Riviera
+33931|Cap Negret
+33942|Los Delfines
+33943|Oasis Tropical
+33947|Iberostar Playa de Muro Village
+33948|Barcelo Hamilton Menorca
+33949|Stella Maris
+33950|Las Gaviotas
+33974|Gavina d' Or
+33975|Levante Club & Spa
+33976|SH Ifach
+34017|H10 Estepona Palace
+34018|Costa Calero
+34037|Vilanova Park Camping
+34276|NH Abascal
+34277|NH Sants Barcelona
+34278|NH Podium
+34279|NH Villa de Bilbao
+34287|Oriente Atiram Hotel
+34289|Senator Parque Central
+34290|Tryp Gran Sol
+34291|abba Parque
+34292|Hesperia Zubialde
+34293|Santiago Apostol
+34488|Son Sampoli
+34491|Can Arabi
+34496|Domus Selecta La Quinta Roja
+34497|Peralada Wine Spa & Golf
+34498|Albons
+34500|La Figuerola
+34532|Husa Alicante
+34533|Las Madrigueras
+34607|Marriott La Sella Golf Resort & Spa
+34610|Aldiana Alcaidesa
+34824|Casa DAB
+34826|Bon Sol
+34829|Muntanya Mar
+34830|Residencial Prisma
+34832|Mar y Sol
+34834|Azor Playa
+34835|Casablanca
+34836|Aldea Verde
+34877|Albamar
+34882|Torre Gran
+34885|Ses Illes
+34886|Casa Blanca Appartements
+34897|Grupotel Turquesa Mar
+34898|Grupotel Playa de Palma Spa & Resort
+34899|Ses Arenes
+34900|Los Caribes
+34901|RIU Vistamar
+34902|El Paso
+34903|Augusta
+34904|TUI best FAMILY RIU Chiclana
+34905|Isabel
+34906|Nerja Princess
+34907|Iberostar Malaga Playa
+34909|Duques de Medinaceli
+34914|Rimontgo
+34917|Golden Bahia de Tossa & Spa
+34918|S' Abanell Central Park
+34926|The St. Regis Mardavall Mallorca
+35127|Playa Park
+35128|Golden Donaire Beach
+35130|Tano Resort
+35132|Pueblo Casanova
+35133|Zafiro
+35134|Retiro Park 2 / Rosaldea
+35139|Ametlla Mar
+35142|Villa Dorada
+35143|Regina Gran
+35145|Ramblas Ermita
+35146|Antemare
+35149|Miami Park
+35151|Best Western Les Palmeres
+35152|Sorrabona
+35154|Camping del Mar
+35155|Surf Mar
+35156|Unico
+35157|Excelsior
+35158|Marina Tossa
+35159|San Eloy
+35160|Gran Reymar
+35163|Rosa Park
+35166|Montecarlo
+35167|Nautilus
+35169|Centremar
+35252|Central Park
+35253|Hostal Magnolia
+35462|Vincci Maritimo
+35463|Petit Palace Cliper Gran Vía
+35465|Hesperia Madrid
+35466|Vincci Centrum
+35488|Sea Club Alcudia & Serenity - Sea Club
+35489|Can Picafort Palace
+35490|Vell Mari Hotel & Resort
+35491|Bon Sol
+35492|BQ Andalucia Beach
+35493|Victoria Playa
+35497|Los Cardones
+35498|Be Live Experience La Niña
+35499|Bahia Playa Blanca
+35816|HTOP Royal Beach
+35818|Mediterraneo
+35849|El Guarapo
+35850|Oasis Papagayo
+35865|Can Pere Mari
+35868|Mundatluz - geschlossen
+35869|La Gotera
+35871|Casa Pedro
+35872|Casa La Vega
+35877|El Hondito
+35881|Villa Mary Bungalows
+35882|La Cancelita
+35889|Casa Tamaragua
+35891|La Cantonera
+35914|Maspalomas Oasis Club Bungalows
+35939|Sol Puerto Playa
+35977|Parador de Avila
+35978|Parador de Tui
+35979|AC Palacio del Carmen
+35981|Compostela
+35982|Antiga do Monte
+35983|San Clemente
+35984|San Lorenzo
+35985|Talaso Hotel Louxo La Toja
+35986|SPA Atlantico
+35987|Oca Rio Azor
+35988|Eurostars Monasterio De San Clodio
+35989|Nanin
+35990|Nueva Lanzada
+35992|Domus Selecta Fraga do Eume
+35993|Hesperia A Coruña
+35994|NH Atlántico
+35996|Domus Selecta Pazo O'Rial
+35999|Rectoral de Cobres 1729
+36000|Pazo da Trave
+36005|Casa Palacio de Carmona
+36006|Monasterio de San Francisco
+36007|Averroes
+36008|AC Palacio de Santa Paula
+36009|Vincci Granada
+36010|De Mecina Fondales
+36011|La Enrea
+36013|TRH Ciudad de Baeza
+36014|Maria de Molina
+36017|De Naturaleza Rodalquilar
+36018|Don Curro
+36027|Villas del Mar
+36029|azuLine Pacific
+36030|Los Albaricoques Bungalows
+36037|TRYP Santiago
+36038|Los Abetos
+36042|Pazo Xan Xordo
+36056|Ciudad de Oviedo
+36057|Palacio de Cutre
+36058|Eurostars De la Reconquista
+36060|Palacio del Mar
+36061|Eurostars Real
+36063|Abando
+36064|Seminario Bilbao
+36065|Carlton
+36066|Conde Duque Bilbao
+36067|Husa Europa
+36069|Mercure Monte Igueldo
+36073|Leyre
+36083|Oriente
+36084|Villa de Laguardia
+36085|Duquesa de Cardona
+36086|NN U232
+36087|Catalonia Portal de l'Angel
+36088|Catalonia Born
+36090|HCC Montblanc
+36095|Mas de Torrent
+36096|Hostal Vila del Mar
+36100|Best Western Subur Maritim
+36103|Del Golf
+36104|Ad Hoc Monumental
+36105|Hotel Ad Hoc Parque Golf
+36106|Vincci Lys
+36108|Hotel Spa Jardines De Lorca
+36109|Pueblo Salado
+36113|Confortel Suites Madrid
+36117|Palacio de San Esteban
+36118|AC Ponferrada
+36119|AC San Antonio
+36120|Sercotel Corona de Castilla
+36121|Meson del Cid
+36122|Hosteria Ayala Berganza
+36123|AC Ciudad de Toledo
+36124|Los Linajes
+36125|San Polo
+36126|Bulevar
+36127|NL Almagro
+36128|Izán Trujillo
+36129|Hospederia Real de Zamora
+36132|abba Palacio de Soñanes
+36133|Domus Selecta Palacio Torre De Ruesga
+36134|El Milano Real
+36135|El Molino de Alcuneza
+36136|Real de Pastrana
+36140|Real el Buscon de Quevedo
+36142|Posada de San José
+36143|De la Serna
+36144|Alcazar
+36145|Macia Condor
+36146|Exe Gran Solúcar
+36148|Fuentenueva
+36149|Antequera Golf
+36151|Hacienda de Oran
+36152|AC La Linea
+36153|Villa Jerez
+36156|Aleysa Playa
+36157|Bendinat
+36160|Son Pons
+36168|Bungalows Las Calderetas
+36173|Parador de Albacete
+36174|Parador de Argómaniz
+36175|Parador de Cangas de Onís
+36176|Parador de Gijón
+36177|Parador de Gredos
+36178|Parador de La Palma
+36179|Parador de Plasencia
+36180|Parador de Santillana Gil Blas
+36181|Parador de Vic-Sau
+36182|Parador de Vielha
+36184|Los Patios de Santa Maria Golf
+36384|Maria Del Mar
+36385|San Juan Park
+36386|H-Top Royal Star
+36388|Armonia
+36391|Susana Park
+36392|Sehrs Sant Jordi
+36393|Don Angel
+36394|Checkin Pineda
+36419|Dalt Murada
+36421|Kross Ntra. Sra. del Rocío
+36430|Las Breveritas
+36432|Rural La Correa
+36434|La Posada Morisca
+36554|Barcelona Universal
+36555|Salles Hotel Pere IV
+36556|Royal Ramblas
+36557|Attica 21 Barcelona Mar
+36558|Wilson Boutique
+36579|Florida Park
+36580|Marbella
+36615|Europa Punico Hostal
+36639|Catalonia Hispalis
+36640|Cortes
+36641|Ramblas Barcelona
+37399|Best Western Arosa
+37608|Apartaments Sallés Beach
+37610|La Isla del Golf
+37624|Pal Beach Appartements
+37625|Botanic
+37626|Solmar Camping & Appartements
+37629|Pasarela
+37637|Cala Montero II
+37638|Las Margaritas
+37775|Bambi
+37782|Tossa Beach & Center - Beach
+37783|Tossa Beach & Center - Center
+37785|H TOP Palm Beach
+37786|Haromar
+37788|Summer
+37790|Estrella de Mar
+37829|Villa Sur
+37849|Suite Hotel Castillo San Jorge & Antigua
+37867|Hi! Gardenia Park
+38021|Boutique
+38082|Gran Hotel La Florida
+38084|NH Barcelona Centro
+38105|Isla Canela Golf
+38140|Eurostars Grand Marina
+38223|Tryp Arenal
+38225|Husa Bonanova Park
+38226|H10 Marina
+38227|H10 Montcada
+38243|Perla Tenerife
+38244|Gran Oasis Resort
+38245|Tajaraste
+38246|R2 Rio Calma Spa Wellness & Conference
+38247|Gran Atlantis Bahia Real
+38254|Villas Heredad Kamezi
+38255|El Capricho
+38256|Mandi Golf Resort
+38257|Granada Park
+38258|Casa Los Jazmines
+38259|Villa Colon Apartamentos
+38288|Monte Solana
+38304|Casa Anastasio
+38307|Casas Teiga
+38315|Finca Casa Mortero
+38316|Finca Majadera
+38323|Vistamar
+38327|Casas del Chorro
+38328|Rural Mahoh
+38330|Cortijo Soto Real
+38396|Son Manera Rural
+38409|Casa Riavani
+38423|Serit
+38428|AC Gran Canaria
+38430|Cotillo Sunset
+38499|Arizona
+38500|Blue Star
+38501|El Cardonal
+38502|Tejeda
+38570|Estrella
+38571|Porto Playa I
+38572|Globales Palmanova Palace
+38576|Albatros
+38578|Font de Mar
+38579|Itaxs Lur
+38580|Jaime l
+38633|H2 Jerez
+38682|Myramar Fuengirola
+38684|Helios
+38685|Marina
+38686|Melia Benidorm
+38687|Rober Palas
+38758|Husa Fornells Park
+38760|Novotel Girona Aeropuerto
+38764|Sercotel Abbot
+38908|Caroni
+38909|Apartments Puerto Caleta
+38945|Finca Tropical
+39026|El Faro
+39088|Marvell
+39152|Alanda Carib Playa
+39153|Maracay
+39155|Altamar
+39160|El Rancho Grande
+39162|THB Tropical Island
+39181|Torre Catalunya
+39190|Berigoyo
+39191|Francisca
+39194|Hoya de Tunte
+39196|Majoreras
+39198|Alcadima
+39226|Florencio Hostal
+39228|Palma Bay Club Resort & Annex Sahara, Nubia, Gobi
+39232|Marinasol
+39233|Tisalaya
+39234|Isabel Appartements
+39235|Los Tulipanes
+39236|Las Cascadas
+39306|Benidorm Celebrations
+39309|Magic Atrium Beach
+39311|Magic Fenicia
+39312|Villa Venecia Boutique
+39313|Magic Villa Benidorm
+39348|Las Gaviotas
+39349|Placida de Mar
+39443|Parador de Lerma
+39444|Parador de Monforte de Lemos
+39445|Hesperia Finisterre
+39446|Vincci Puertochico
+39447|Barcelo Costa Vasca
+39448|San Sebastián
+39449|Mirasierra
+39450|Los Agustinos
+39451|Amrey Sant Pau
+39452|Jardin Milenio
+39453|Catalonia Puerta del Sol
+39454|Temple Ponferrada
+39455|Torre del Clavero
+39456|Vincci Ciudad de Salamanca
+39457|San Juan de los Reyes
+39458|Fernando III
+39459|El Potro Apartaments
+39461|Comfort Dauro 2
+39462|IPV Palace & Spa
+39463|Bahia Málaga
+39464|Room Mate Larios
+39465|Gran Almería
+39466|Vincci Mediterráneo
+39467|Vereda Real
+39468|La Garganta
+39469|Gran Benahavis
+39470|Cases de Son Barbassa
+39471|Es Picot
+39479|100% Fun
+39493|R2 Pájara Beach Hotel & Spa Wellness
+39494|Playacalida Spa
+39495|Protur Sa Coma Playa
+39504|Palia Sa Coma Playa
+39522|Precise Resort El Rompido - The Hotel / The Aparthotel
+39523|Puerto Antilla Grand
+39566|Gran Hotel Elba Estepona & Thalasso Spa
+39567|Alanda
+39655|Las Marismas
+39657|VIK Gran Hotel Costa del Sol
+39674|Convent de la Missio
+39675|Soller Gran
+39676|Aimia
+39726|Sansi Diputacio
+39771|Alqueria Blanca
+39772|Mirabo de Valldemossa
+39776|Can Lluc Boutique Country Hotel & Villas
+39779|Diana
+39780|Regina Spa Art Deco
+39782|Kross El Cortijo Golf
+39989|Hesperia Granada
+39990|Las Vegas
+39991|Melia Maria Pita
+39992|Meliá Bilbao
+39994|Petit Palace Bristol
+40021|Tivoli
+40022|Sirenis Club Siesta
+40023|Protur Roquetas Hotel & Spa
+40024|Puerto Marina
+40026|Marina Playa
+40027|Dunas de Doñana Golf Resort
+40028|Playacartaya Spa Hotel
+40192|Solymar App
+40198|Isla de Lobos
+40367|Vasari Vacation Resort
+40385|Al Andalus
+40388|Azahar
+40469|Pulitzer Barcelona
+40567|Colibri
+40568|Cordoba Jerez Sevilla Appartements
+40569|Camping Torre de la Mora
+40570|4R Hotel Miramar Calafell
+40572|San Carlos Pension
+40683|Universal Hotel Lido Park
+40897|Puerto Azul Appartements
+40899|Petit Palace Ducal Chueca
+40900|Jazz
+40901|Eurostars Mitre
+40902|Petit Palace Arana
+40903|Avenida
+40904|Eurostars Plaza Acueducto
+40905|Petit Palace Las Torres
+40906|Tryp Comendador
+40907|Melia Las Claras
+40908|Sercotel Cuatro Postes
+40909|Hesperia Toledo
+40910|Maria Cristina
+40911|Palacio de Valderrabanos
+40912|Husa Alcantara
+40913|BlueCity Mérida Palace
+40916|Pazo El Revel
+40917|Casona de San Andrés
+40919|Casa del Capitel Nazari
+40920|Alqueria de Morayma Hotel Rural
+40922|El Molino de Morillas
+40923|Eurostars Astoria
+40924|Casas Rurales de Ronda
+40926|Hacienda la Herriza
+40927|Tierras de Jerez
+40928|Almadraba Conil
+40930|Villa Rosalva
+40946|Ronda
+40947|AC Sevilla Forum
+40948|Aben Humeya
+40949|Catalonia Excelsior
+40950|NH Rambla de Alicante
+40951|NH Málaga
+40952|Florida Norte
+40961|Brasilia
+40963|Villasol
+41084|Alondras Park
+41085|Atlanta
+41086|whala! balmes
+41088|Carlota
+41094|Igramar Canteras
+41122|Club Caleta las Villas
+41123|Mediterraneo
+41125|Andalucia
+41130|Marconfort Benidorm Suites
+41135|Hi! Binimar Apartamentos
+41136|Ann Mar
+41144|Las Dunas
+41145|Las Dianas
+41155|Villa Marina
+41156|Castellano III
+41157|Castellano II
+41158|Castellano I
+41160|Arcos II Apartamentos
+41161|El Puente I & II
+41162|Villa de Sallent
+41163|RH Bayren
+41164|Brisa
+41223|Goya Park
+41227|Alcudia Garden & Palm Garden - Palm Garden
+41237|Bari
+41247|El Cortijo
+41253|Arenal Pins
+41335|Metropol
+41336|Alhambra
+41337|H TOP Pineda Palace
+41338|Piramide Salou
+41339|Hotel Lodomar Spa & Talasoterapia - Hotel
+41372|Mercury Apartments
+41373|Coral Beach Appartements
+41374|Villas del Mar
+41380|Kloster Santuari de Lluc
+41437|Viva Mallorca & Spa
+41440|HM Martinique
+41472|Spa Villalba
+41486|Playa de Muro Suites
+41549|Sa Gavina Medes & Sa Gavina Gaudi - Sa Gavina Gaudi
+41550|Santa Catalina
+41551|La Felicidad
+41552|Gran Vista - Santa Pola
+41629|Merce
+41630|Camping el Far
+41639|Miramar
+41640|Amaraigua
+41641|Mercedes
+41674|Hi! Mimosa Park
+41675|Xaine Sun Apartments
+41676|Fenals Garden
+41677|Marisol
+41688|Buensol
+42097|Delfin
+42098|Rosamar Garden Resort
+42131|Rey Juan Carlos I
+42133|Hosteria del Mar
+42134|Reina Victoria
+42135|Husa Princesa
+42137|Araguaney Grand
+42142|Balneario Mondariz
+42143|NH Palacio de Vigo
+42144|Olimpo
+42145|Alfonso VI
+42147|Holiday Inn Valencia
+42148|Tryp Oceanic
+42150|Blaucel
+42151|Mar Ski
+42154|La Giralda
+42156|Aldea Park
+42157|Playa Cambrils Camping
+42168|abba Burgos
+42169|Mercure Burgos Rice
+42170|Gran Hotel Salamanca
+42171|NH Collection Palacio de Burgos
+42172|NH Palacio de Castellanos
+42174|Grèvol
+42175|Lopez de Haro
+42177|NH Gran Hotel
+42178|Zenit Don Yo
+42179|Barceló Sevilla Renacimiento
+42180|NH Viapol
+42279|JM Santa Pola
+42300|La Florida
+42360|Fussion Internacional
+42361|Alone
+42363|Vinaros Playa
+42364|La Rapita
+42365|Lido
+42366|Tropic
+42435|Zenit Coruña
+42437|ibis Styles A Coruña
+42438|Plaza
+42439|Avenida
+42440|AC A Coruña
+42441|Sercotel Blue Coruña
+42446|Kristal
+42494|RH Riviera
+42654|Lobosol Paradise
+46648|Torre Gerona Apartments
+46649|Caceres Golf - geschlossen
+46650|Arcea Hotel Mirador de Cabrales
+46651|Domus Selecta Hospederia Hurdes Reales
+46653|Altur Playa Islantilla
+46654|AGH Estepona
+46655|Royal Gardens
+46656|Confortel Almirante
+46658|Hospederia del Santuario Peña de Francia
+46659|Alameda Palace Salamanca
+46660|Coral
+46661|Palm Beach
+46662|Hostal Venecia
+46663|Melia Plaza
+46665|AC Valencia
+46666|Eliana Park
+46669|Tryp Sofia Parquesol
+46670|Goya
+46671|Don Diego de Velazquez
+46672|Husa Zaragoza Royal
+46673|Hesperia Zaragoza
+46674|Catalonia El Pilar
+46675|NH Ciudad de Zaragoza
+46676|NH Orús
+46677|La Luz
+46679|Rebecca
+46682|La Perla
+46683|Fleming 50
+46684|Sa Vinya
+46685|Hoposa Costa d'Or
+46686|Los Gracioseros
+46687|Azul Playa
+46688|Villas Roca Serena
+46690|Viva Cala Mesquida Park
+46691|Viva Cala Mesquida Resort
+46692|Raxa
+46693|Vista Picas
+46694|Hawaii 6
+46695|BelleVue Vistanova
+46696|Los Tamarindos
+46697|Fergus Pollensa Park & Spa
+46698|Deya
+46699|Santa Ponsa Pins
+46700|Villas Santandria
+46705|Florida
+46706|Vallemar
+46720|Albarracin
+46721|Bristol Park
+46722|Vistamar Apartments
+46727|Voramar
+46729|Peñiscola Plaza Suites
+46730|Peñiscola Playa
+46731|Aristol
+46736|Xaloc
+46737|Caprici Verd
+46738|Daus 1
+46739|Es Daus
+46747|Pins i Mar
+46748|Princep
+46749|Montorio
+46750|Salou Suite
+46751|Komplex Best Alcazar Hotel & Appartements
+46753|Mercure Alberta Barcelona
+46775|Hotel Acqua Salou
+46776|Eurosalou
+46777|Calypso
+46778|Villas Cumbres de Salou
+46779|Apartmentkomplex - Marathon
+46780|California Apartementos
+46781|California Palace
+46791|BQ Hotel Amfora Beach
+46801|Catalonia Atenas
+46802|Aparthotel Senator
+46812|Fuerteventura Beach Club
+46814|Benidorm Centre
+46822|La Casita
+46828|Carmen de Santa Ines
+46829|Los Peces
+46832|Oasis
+46833|Bocaina Villas
+46834|Casa Blanca
+46840|Hostal Dalís
+46855|Condestable
+46856|Conde Luna
+46859|Voramar
+46860|Melina
+46861|Selomar
+46862|Sandos Monaco Beach Hotel & Spa
+46863|Los Tamarindos
+46871|Doña Carmela
+46878|Ayre Gran Colon
+46882|Hesperia Emperatriz
+46886|Holiday Inn Express Ciudad de las Ciencias
+46887|Holiday Inn Express San Luis
+46891|Gran Ducat
+46893|Espahotel Gran Via
+46894|Andalucia Center
+46898|Natural Park
+46899|Marina Bayview
+46900|Playa Real Resort
+46947|Niza
+46949|Tryp Jerez
+46950|NH Avenida Jerez
+46954|Crown Resort - Club Calahonda
+46955|Crown Resort - Club La Riviera
+46956|Crown Resort - Club Marbella & Regency Palms
+46957|La Mirada
+46968|Villas la Caracola
+46970|Hacienda Beach
+46974|Fuentemar
+46975|Stella Maris
+46976|Las Terracitas
+46978|Las Marinas
+46984|Palma Playa
+46987|Marco Polo I+II
+46989|Costa Portals
+47010|Maracaibo
+47011|Marina Suites
+47015|NH Balboa
+47022|Confortel Gran Capitán
+47023|Riviera Beach
+47024|Peña de Arcos
+47026|Parque Nogal
+47028|Aguadulce
+47032|Hotel Apartamentos Primavera Park
+47033|Primavera Dos
+47034|Tryp Alameda Aeropuerto
+47035|Quatro Puerta del Sol
+47061|IBB Binicudi
+47064|Vacances Menorca Resort - Sa Caleta Playa
+47065|Sa Punta de s'Estanyol
+47066|Salou Pacific
+47123|Meliá Barajas
+47125|Tryp Escultor
+47126|Be Live City Airport Madrid Diana
+47127|Tryp Atocha
+47128|Tryp Medea
+47154|Albamar Golf
+47158|Fuengirola Beach
+47161|Catalonia Gardens
+47164|Ibersol Siesta Dorada
+47165|Cala Dorada
+47166|Jardines del Plaza
+47167|Los Delfines
+47169|Hotel Nuevo Torreluz
+47170|Alboran Chiclana
+47176|AC Avenida America
+47177|Silken Puerta Madrid
+47181|Casa 1800 Granada
+47203|Mirador de la Franca
+47204|Blancala
+47212|Aparthotel Londres
+47217|Castillo de Mar
+47218|Levante Complex - Levante Beach
+47219|Levante Complex - Levante Lux
+47220|Alboran Algeciras
+47226|NH La Maquinista
+47230|Central Normandie
+47231|Celimar Centre
+47234|Vincci Capitol
+47245|Puerta del Camino
+47246|Hotel Gelmirez
+47247|Husa Ciudad de Compostela
+47248|Gran Santiago
+47249|El Carreño
+47250|Covadonga
+47251|Barceló Bilbao Nervión
+47252|Catalonia Plaza Catalunya
+47253|Catalonia Albeniz
+47255|Catalonia Mikado
+47256|Catalonia Park Güell
+47257|Catalonia Park Putxet
+47258|Catalonia Roma
+47259|Catalonia Barcelona 505
+47262|Principal
+47263|Catalonia Bristol
+47264|Can Fisa
+47265|Neri
+47266|Confortel Pio XII
+47267|Ponferrada Plaza
+47268|Alcazar
+47269|Macia Monasterio de los Basilios
+47270|Picasso
+47272|Sol Vielha
+47283|Atiram Barcelona
+47285|Husa Illa
+47286|Husa Ultonia
+47288|Astoria Park
+47289|Palm Oasis Maspalomas
+47299|Best Western Madrid
+47316|Alimara
+47317|America
+47335|Castell dels Hams
+47341|Alanda Club Marbella
+47342|Torre de Andalucia
+47347|Villa del Mar
+47348|AC Carlton Madrid
+47350|Villas las Margaritas
+47352|Husa Llar
+47353|Husa Azar
+47354|Husa Mas Camarena
+47355|Petit Palace Germanias
+47369|Petit Palace Arenal
+47370|Palacio de los Velada
+47371|Palacio Arias & Hotel y Apartamentos Arias
+47372|Hospederia Puente de Alconetar
+47374|Mariscal III-IV-V
+47375|Calas Marina Apartmentos
+47376|Vista Blanes
+47405|Hilton Barcelona
+47406|Barcelona Princess
+47407|Barcelona House
+47408|Romantic de Sitges
+47409|Celimar
+47410|Torremar
+47411|Mediterraneo
+47412|AC Cordoba
+47413|Eurostars Ciudad de Córdoba
+47414|Corona Granada
+47415|H2 Granada
+47416|Dauro
+47653|Lopesan Villa del Conde Resort & Thalasso
+47663|Finca Casa Dona Rosario
+47666|Finca Villa las Cadenas
+47683|Mallorca Beach
+47718|Riu Costa Lago
+47811|Cordial Mogan Playa
+47812|Sheraton la Caleta Resort & Spa
+47820|Casa Nogales Jofisa
+47841|La Casona de Yaiza
+47891|NH Califa
+47893|Luna Arabial
+47896|NH Máster
+47897|Zenit Borell
+47898|Acta City 47
+47899|H10 Universitat
+47900|Petit Palace Avenida Gran Vía
+47944|AC Barcelona Forum
+47976|La Caleta
+47987|Salpi
+47988|Anibal
+48134|Gran Domine Bilbao
+48135|Tres
+48136|Puro Oasis
+48280|Igramar
+48281|Arrecife Gran
+48315|Stella Canaris Hotels & Resort - Stella Jandia Golf / Hotel Stella Paradise / Villas Stella Paradise / Apartaments Stella Jandia / Hotel Stella Jandia / Villas Stella Jandia
+48319|H10 Tindaya
+48324|Gema Puerto
+48369|SixtyTwo
+48370|AC Ciutat de Palma
+48372|Hospes Maricel
+48373|Waldorf Astoria Sevilla at La Boticaria
+48395|San Jorge
+48399|Roya
+48401|Pessets
+48406|Papa Luna
+48408|Finca Vista Bonita
+48428|Aquapark Paradise Taurito - Paradise Costa Taurito
+48446|Rural Ca'n Casetes
+48447|Los Tucanes Gay & Friends
+48493|Málaga Centro
+48494|Husa Imperial Tarraco
+48518|Evenia Rossello
+48519|Silken Concordia
+48542|Arquus Park
+48543|AB Viladomat
+48544|Ola Bouganvilla Apartments
+48545|San Francisco
+48547|Playas del Rey
+48549|Playa Margarita
+48551|TRH La Motilla
+48552|Molino de Guatiza
+48553|Al-Mar
+48555|Esplendid
+48556|San Gabriel
+48560|Benidorm Studios
+48561|Sercotel Granhotel Don Jaime
+48562|Vista Azul
+48563|Lavaggi
+48564|Mozart
+48565|Solana
+48568|Altair Apartments
+48570|Orange
+48571|Agua Azul
+48572|Carlos I
+48573|Fleming
+48574|Servigroup Venus
+48575|Los Alamos
+48577|Holiday Center
+48578|Aparsuit
+48579|Maya Alicante
+48580|Aquarium II+III
+48582|Don Bigote
+48584|Park Plaza Suites
+48585|Convencion
+48586|Sercotel Gran Hotel Luna de Granada
+48588|Mezquita
+48589|Montana
+48591|Las Fresas
+48592|Tropicana Park
+48593|Atenea
+48594|Fontana
+48596|Century Park
+48597|Sercotel Urbis
+48599|Aparthotel CYE Holiday Centre
+48600|Ventura & Village Park
+48601|Loix Mar
+48603|Del Mar
+48604|Nouvel
+48606|Vigilia Park
+48607|Hacienda del Sol
+48608|Mare Verde/Maluca
+48609|NH Sevilla Plaza de Armas
+48610|Derby
+48611|Minerva Jupiter
+48612|America
+48614|San Pablo
+48615|Velazquez
+48616|Maisonnave
+48617|Agumar
+48618|Codina
+48619|Aquacanis
+48622|SH Abashiri
+48623|Magic Villa Luz
+48624|Mayna
+48625|Tanit
+48626|abba Centrum Alicante
+48628|Cenit
+48629|Husa Dimar
+48630|Mont Park
+48631|Vista Oro
+48632|Benilux Park
+48633|MH Sol y Sombra
+48634|Vacanza
+48635|Ciudad de Castelldefels
+48636|H TOP Caleta Palace
+48639|Apartamentos Es Retiro
+48641|Rosa del Mar
+48643|Menorca Patricia
+48644|Las Arenas
+48645|Habitat Apartamentos
+48646|Venecia
+48650|Servigroup Nereo
+48651|Holiday Inn Bilbao
+48661|Mojacar Playa
+48662|Sercotel Infanta Isabel
+48663|Albayalde
+48665|Monte Conquero
+48666|Kristie
+48667|Confortel Golf Badajoz
+48669|Maria Luisa
+48670|Carlos V
+48672|Club Sole
+48673|Boston
+48674|Puerto Principe
+48675|Coronamar
+48676|NH Ciudad de Valencia
+48677|Torre Ipanema Apartments
+48678|Principal
+48679|Hartaguna
+48680|Complejo Living Park
+48681|Quintasol
+48682|Copacabana
+48683|Internacional II
+48684|Atalaya
+48685|Comercio
+48686|Ciutat de Tarragona
+48689|Continental
+48690|Ibersol Sol de España Apartementos
+48691|Charly's
+48694|Tinerfe Garden
+48695|Castle Harbour
+48696|Optimist
+48697|Chipeque
+48698|Los Olivos
+48700|Abades Benacazón
+48701|Alixares
+48702|Sierra de Cazorla Hotel & Spa ***
+48703|Benal Beach
+48704|Polo
+48706|NH Inglaterra
+48707|Mayoral
+48708|Temple Riosol
+48709|Quindós
+48710|Altamira
+48711|Best Western Mayorazgo
+48712|Gran Hotel Velazquez
+48714|El Greco
+48715|Tabaiba Center
+48716|Playa Feliz
+48717|Jacaranda
+48718|Colina Mar
+48720|Perla
+48722|Roque Nublo
+48723|Ambassador Playa I & II
+48724|Flash
+48725|Casual Hotel Consul del Mar
+48726|abba Acteón
+48727|Cabana
+48728|Estocolmo
+48729|Pierre & Vacances Benidorm Levante
+48731|Islandia/Finlandia
+48732|Brasil
+48733|Safari
+48734|Joya
+48735|Gran Hotel Bali
+48736|Bonanza
+48737|Paral-Lel
+48738|Benikaktus
+48740|Gala Placidia
+48741|Daurada Park
+48742|Regente Aragon
+48743|Horitzo
+48744|Villas del Sol
+48746|Calas de Ibiza
+48747|THB Ibiza Mar
+48748|Marina Palace & Prestige - Marina Palace
+48749|Alta Galdana
+48750|Royal Apartments
+48751|Surfing Playa
+48752|HSM Don Juan
+48753|Rey Carlos III
+48755|Jutlandia Apartments
+48757|Sotavento
+48758|Sun Beach
+48759|Oasis Park
+48761|Portonovo
+48762|Adelino
+48763|Villas Canarias
+48764|AC Guadalajara
+48765|AC Aravaca
+48766|H2 Elche
+48768|Colony Club
+48769|Merlin Resort
+48770|El Marques Palace
+48771|Don Miguel
+48772|Port Vinyols
+48773|Best Western Cervantes
+48776|Express Tarragona
+48777|Don Javier
+48778|Dos Vistas
+48784|Silken Luis de Leon
+48786|Marvi
+48787|Miriam
+48789|Palia Don Pedro
+48790|SH Ingles Boutique
+48791|Els Pins II
+48792|Ibersol Los Juncos
+48793|Hesperia Castelldefels
+48795|Costabella
+48805|H10 Racó del Pi
+48806|RH Victoria
+48808|Partner Ciudadela
+48809|Tres Luces
+48810|AC los Enlaces
+48811|A&H Apartamentos Internacional
+48812|Pegaso Suites
+48813|NH Center
+48814|NH Valencia Las Artes II
+48815|Villacarlos
+48816|Rosalia
+48819|Orosol
+48821|Acuario
+48822|Econotel las Palomas
+48825|Benabola
+48827|Las Hurdes
+48828|Ibiza Rocks Apartments
+48831|Santa Fe
+48832|Adonis Plaza
+48833|Alameda
+48834|Balcon de Taurito
+48835|Super Stop
+48836|Agir
+48837|Bermudas
+48838|Cenajo
+48840|Playas de Guardamar
+48841|RH Canfali
+48842|Husa Doblemar
+48843|Isla Grosa
+48844|Jessica Beach
+48845|La Mirage
+48846|Madeira Centro
+48847|Oasis Plaza
+48849|Los Robles
+48850|San Luis
+48851|Santamarta
+48852|Tres Anclas
+48853|Monarque Cendrillon
+48854|Porto Alegre
+48856|Confortel Bel Art
+48857|Garbi Millenni
+48858|Acta Splendid
+48859|Atenea Valles
+48860|Compte d'Empuries Apartments
+48862|Topacio 1/ 2 / 3 / 4 Appartements
+48865|RH Estudios Sol
+48866|abba Garden
+48867|Vilamari
+48871|Maryola
+48873|Las Cigueñas
+48874|La Rondena
+48875|Gonzalez
+48876|El Triunfo
+48877|La Nogalera
+48878|Vita Santa Cruz
+48879|Santa Cruz II
+48880|El Ciervo
+48881|Vita Mont Blanc
+48882|Montes de Toledo
+48883|Citymar Perla de Andalucia
+48884|San Anton
+48885|CityMar Mediterraneo
+48886|Macia Gran Via
+48887|Rey Sancho
+48888|Madrid Bierzo
+48889|Hesperia Peregrino
+48890|Hesperia Vigo
+48891|Coia
+48893|Foxa 32
+48894|Foxa 25
+48895|San Pedro
+48896|Emperatriz III
+48897|Taray
+48898|Servigroup Castilla
+48899|Servigroup Rialto
+48900|Puerto Bahia
+48903|Club Ciudadela
+48904|Amaltea
+48905|HAI Campus
+48906|Gran Hotel Regente
+48907|H TOP Molinos Park
+48908|A Boira
+48909|San Blas
+48910|Husa Via Romana
+48911|Las Lomas
+48912|Atiram Gran Hotel España
+48913|Principal
+48914|Palafox Alfonso
+48915|Ibis Styles Zaragoza Ramiro I
+48916|Villas Turisticas de Priego
+48917|Ciudad del Cine
+48918|Kenia Nevada
+48919|Corona Rosa
+48920|La Paz
+48921|Conde Aznar
+48922|Supermolina
+48923|Gran Hotel de Jaca
+48924|Oroel
+48926|Santa Cristina
+48927|abba Formigal
+48928|Mur
+48929|Canfranc
+48930|Solineu
+48931|Del Lago
+48932|Del Prado
+48934|Sallés Hotel Ciutat del Prat
+48935|Tryp Palma
+48936|Husa Bergidum
+48937|Carlos I
+48939|Montarto
+48940|Tuc Blanc
+48941|Petit Hotel dels Arts
+48942|Vilagaros
+48944|Evenia Monte Alba
+48945|Peña
+48946|Husa Riu Nere
+48947|Serrano
+48948|Candanchu
+48949|La Pardina
+48950|Real
+48951|Midi
+48952|Alp Masella
+48953|Moixero
+48954|Aero Hotel ca l'Eudald
+48955|Mi Casa
+48956|Abanico
+48957|Isla del Sol
+48958|Torre de los Guzmanes
+48960|Zeus
+48961|Las Truchas
+48962|El Almendral
+48963|Arco de la Villa
+48965|Celuisma Rias Altas
+48966|Hotel Alfonso V
+48967|El Principe
+48968|Manila
+48970|Hipotels La Barrosa Complex - Barrosa Park / Barrosa Garden / Playa la Barrosa / Barrosa Palace & Spa
+48971|Villa San Antonio
+48972|Bluesense Villajoyosa Resort
+48973|Don Gonzalo
+48974|Ciudad de Burgos
+48975|Rey Arturo
+48976|Pathos
+48978|Actual
+48981|Sunclub
+48982|Mediterranean Sand
+48986|Agua Beach
+48987|Ducal
+48988|Elba Vecindario Aeropuerto Business & Convention Hotel
+48989|Xicas
+48990|Tryp Ciudad de Elche
+48991|Tryp Rey Pelayo
+48992|Tryp Sondika -geschlossen
+48994|Urdanibia Park
+48995|Meliá Recoletos Boutique
+48996|Tryp Caballo Blanco
+48997|Jardines de Gamonal
+48998|Regente
+49009|Comodoro
+49010|Ronda IV
+49011|Jaime I
+49013|Acapulco
+49014|Bungalows Cocosol
+49016|Husa Zurbarán
+49018|El Moresco
+49019|Pins Platja
+49020|Sunset Beach Club
+49021|Cancun
+49022|Bahia
+49024|AC Ciudad de Pamplona
+49025|Vincent Van Gogh
+49026|Congreso
+49027|Roslara
+49028|Esterri Park
+49029|Hotel In Dreams
+49030|Roca Nevada
+49032|Condes de Pallars
+49033|Husa Viella
+49034|Pirene
+49035|Ribaeta
+49036|Eguzki Lore
+49037|Bocale
+49038|Balaitus
+49039|Sabocos
+49040|Ciria
+49041|Nievesol
+49042|Saliecho
+49043|Green Garden Resort & Suites
+49045|Aneto
+49046|El Pilar
+49047|Buenavista
+49048|Centro Mar
+49051|Edelweiss Candanchú
+49052|Cinco Casitas
+49053|Leyre VTV Apartamentos
+49058|Tesy Apartments
+49059|Esmeralda
+49061|Port des Turrent
+49062|azuLine Galfi
+49063|Husa Tuca
+49064|Turrull
+49065|ETH Solan
+49066|Acevi Val d'Aran
+49067|Groenlandia
+49070|Binijou
+49072|Los Pinos
+49073|Residencial la Solana
+49074|Boí Taull Resort
+49075|Romanic
+49080|Best Western Plus Del Cardenal
+49084|España
+49085|Rincon de Pepe
+49086|Villas del Sol
+49087|Sands Beach Resort
+49088|Cordial Golf Plaza
+49089|Ola Club Bermudas
+49090|Pedro I de Aragon
+49091|Los Ranchales
+49092|Ensenada
+49093|Montaña
+49094|Alisas
+49095|Alvar Fañez
+49096|El Magistral
+49097|Ruta de Castilla
+49098|HAI Principe de Asturias
+49099|Carlton Rioja
+49100|Reina Cristina
+49101|Marsol
+49102|Felipe IV
+49103|BlueCity Las Lomas Mérida
+49104|Hotel Gasteiz - geschlossen
+49106|Husa Mesón Castilla
+49109|De Londres y de Inglaterra
+49110|abba Fonseca
+49111|abba Reino de Navarra
+49112|Atenas
+49113|Praga
+49117|Vertice
+49120|Andalucia
+49121|Marazul
+49122|Fonfreda
+49123|Silken Alfonso X
+49124|Altamira
+49125|Eurostars Auriense
+49126|Silken Ciudad de Vitoria
+49127|Silken Juan de Austria
+49128|La Gruta
+49129|Silken Monumental Naranco
+49131|Silken Reino de Aragon
+49133|ETH Palai
+49134|La Vall Blanca
+49135|Fontanals Golf
+49136|La Hacienda Gran
+49137|Cabo Cervera
+49138|Real de Veas
+49139|Camposol
+49140|Camposol Park
+49142|Zenit Conde Orgaz
+49143|NH Castellón Mindoro
+49144|Olympia
+49145|AC Victoria Suites
+49146|Evamar
+49147|Luxmar
+49149|Torrelavega
+49151|Acta Atrium Palace
+49152|Tibur
+49153|El Sardinero
+49156|Sercotel Spa Porta Maris & Suites del Mar - Sercotel Spa Porta Maris
+49157|Tudanca
+49158|Torre Joven
+49159|Palia Dolce Farniente
+49160|Portxabia
+49161|Catalonia Gran Hotel Verdi
+49162|JM Hoteles Jardin de la Reina
+49163|Porto Calpe
+49164|Floc de Neu
+49166|Villarreal Palace
+49167|Gran Hotel Peñiscola
+49168|RH Casablanca Suites
+49169|Alcomar
+49170|Marina Elite
+49171|Plaza Santa Lucia
+49172|La Palmera
+49173|Ziryab
+49174|Telecabina
+49176|Ecuador Park Apartments
+49177|Menorca Sea Club
+49178|Dunas Puerto
+49179|Plata Isla Cristina
+49180|Rocamar
+49182|Holiday Inn Madrid Bernabeu
+49183|Ramblas Vendrell
+49185|Praktik Metropol
+49186|Equity Point Madrid
+49188|Ciudad de Parla
+49189|Txartel
+49192|Rural Viña Vieja
+49193|Arcadia
+49194|Mexico
+49195|Meridia Mar
+49196|Africamar
+49198|Gabarda Gil
+49199|Martinez
+49200|Naika
+49201|Satelites Park
+49205|AC Iberia Las Palmas
+49209|Hobby Club
+49210|Marina Luz
+49211|Benedicto XIII
+49212|Termas Marinas el Palasiet
+49213|Trinimar
+49214|Maritim
+49232|Santa Rosa/Torre Arena - Santa Rosa
+49234|AC Huelva
+49235|Novotel Sevilla Marqués del Nervion
+49236|Alamillo
+49237|Vita Virgen de los Reyes
+49239|Villa Laredo
+49240|Apartamentos Turísticos MojaMar Playa
+49241|Naranjo
+49242|El Cardon
+49245|NH San Pedro
+49246|Es Puig Molto
+49249|Taburiente
+49252|Estela Barcelona
+49255|Tryp Barcelona Aeropuerto
+49256|Aranea Barcelona
+49257|Eurosuites Sevilla
+49264|Don Candido
+49265|Terrassa Park
+49268|Rincon Sol
+49269|AC Cuzco
+49270|Riviera
+49271|Best Western Alfa Aeropuerto
+49272|Flamingo Oasis
+49273|NH La Habana
+49274|Sa Playa
+49275|Prado II
+49276|Arena Prado
+49277|Jaime I
+49279|Cibeles Playa
+49280|Conqueridor
+49281|Jardin Botánico
+49282|Vora Fira
+49284|Castro
+49285|Canyelles Platja
+49286|Exe Isla Cartuja
+49289|Mirador
+49291|Pueblo Laguna
+49292|Asur Cañada Real
+49293|Extremadura
+49294|Silken Rio Santander
+49295|Brisamar
+49297|Vita Granada Albote
+49298|Complejo Euhostal
+49301|Laris
+49302|Ramon De La Cruz 41
+49304|HCC St. Moritz
+49306|HCC Taber
+49307|HCC Covadonga
+49308|Or Blanc
+49310|Apartamentos El Puerto - Complejo Eurhostal
+49311|Fontana Real
+49312|Melocoton
+49313|Chicote Beach
+49314|Palmeras
+49317|Via Castellana
+49318|Catalonia Transit
+49319|Catalonia Conde de Floridablanca
+49320|Casa del Marques
+49321|Cuevas III
+49322|Aida
+49323|Husa Mainake
+49324|Husa Avenida
+49325|Galicia Palace
+49326|Oca Galatea
+49327|Husa Gran Proa
+49328|Sercotel Bahia de Vigo
+49329|Husa Hospederia Iglesuela del Cid
+49330|Husa Alaquas
+49331|Rosaleda de Don Pedro
+49332|Husa Gran Vía
+49333|Sercotel Rio Badajoz
+49334|Petit Palace Arturo Soria
+49337|Husa Alarde
+49338|Husa Camargo
+49339|Pax
+49340|Husa Jauregui
+49341|Ayamontino
+49342|AC Alcala de Henares
+49343|AC Forum
+49344|AC Lleida
+49345|AC Badajoz
+49347|Playa Dorada
+49348|Mediterráneo
+49349|Peñismar I
+49350|Mar de Azahar
+49351|La Volta
+49352|Europeñiscola
+49355|Tres Carabelas
+49356|Bitacora
+49357|Habitat
+49358|Fuente del Pino
+49359|Voramar
+49360|Riudor
+49362|Bonlloch
+49363|Bonaire
+49364|Turquesa Beach
+49365|Resitur
+49367|Auditorium
+49368|Husa Orri
+49369|Posadas de España Paterna
+49370|AC Arganda
+49371|AC Murcia
+49372|AC Palencia
+49373|Sercotel AB Rivas
+49374|AC Ciudad de Tudela
+49378|AC Palacio de Santa Ana
+49379|Aquaria Negresco
+49380|Triunfo Granada Sur
+49381|Flamingo
+49382|Abades Mirador
+49383|Los Bronces
+49384|Plaza Basilica
+49385|Villas la Manga
+49387|Servatur Terrazamar Suite & Sun Suite / Servatur Sun Suite Royal
+49388|NH Pamplona El Toro
+49389|NH Principado
+49390|Husa Edelweiss & Apartamentos
+49391|NH Porta Barcelona
+49393|La Posada del Angel
+49394|Las Vegas
+49397|AC Elda
+49398|H2 Getafe
+49399|AC Martorell
+49400|H2 Salymar
+49401|AC la Rioja
+49403|Port Salins
+49404|Magic Odisea
+49405|Costa Brava Blanes
+49406|Puerta del Sur
+49407|Cumana
+49408|Montereal
+49409|Osuna
+49410|Cala Real
+49411|Oasis Gandia Palace
+49412|Partner Boadilla Palacio
+49413|Partner Cisneros
+49414|Partner Barrio de Salamanca Suites
+49415|H2 Boadilla
+49416|Tryp Montalvo
+49417|Partner Imora
+49418|Confortel Romareda
+49419|Milord's Suites
+49420|Partner Condes de Haro
+49421|Partner Alcarria
+49422|N Segria
+49424|Holiday Park
+49425|Miranda
+49426|Husa Gran Hotel Puente Colgante
+49427|Gran Batalla
+49428|Husa del Sol
+49429|Siesta I
+49430|Topaz
+49432|Senator Gran Vía 21
+49433|Port Aine 2000
+49434|Les Estades
+49436|Puerto Playa
+49437|Oasis
+49439|Panorama Park
+49440|Ipanema 4
+49441|Nieves Mar
+49442|Hispano
+49443|Abades Fuensanta
+49444|Tirol
+49445|Holiday Inn Express Tres Cantos
+49446|Señorial
+49447|Spa Husa Jardines de Albia
+49448|Mercure Augusta Barcelona Vallés
+49449|IDH Talavera
+49450|Husa Costasol
+49451|El Bedel
+49452|Serrano Royal
+49453|Holiday Inn Madrid Calle Alcala by Velada Hoteles
+49454|Montecarlo
+49455|AC los Vascos
+49456|Petit Palace Madrid Aeropuerto
+49460|Silken Coliseum
+49461|Inca
+49462|Els Llorers Appartements
+49463|Hesperia Murcia
+49465|Husa Urogallo
+49466|El Angliru
+49467|La Pasera
+49468|Intriago
+49469|El Bricial
+49470|La Trapa Palace
+49471|Aguila Real
+49472|Los Acebos Pensión Susierra
+49474|Favila
+49475|Piloña
+49476|Santa Cruz
+49477|Kaype-Quintamar
+49479|Gran Paraiso
+49480|La Hacienda de Don Juan Hotel Spa
+49481|Sablon's
+49482|Villa Rosario I
+49483|Las Vegas
+49484|Aguera
+49487|Casona el Carmen
+49488|La Plaza I & II
+49489|El Royal
+49490|Los Pinos del Principado
+49491|Cabeza
+49492|Doña Nieves
+49493|Cristina
+49494|La Cabaña
+49495|Villa de Nava
+49496|AS Hoteles Bellaterra
+49497|Embat
+49498|NH Marbella
+49499|Duquesa Playa
+49500|Nido del Aguila Bungalows & Lara Apartamentos - Nido del Aguila Bungalows
+49501|Cudillero
+49502|Cristal Naranco
+49503|Vetusta
+49504|Astures
+49505|Longoria Plaza
+49506|Campoamor
+49507|Santa Clara
+49508|Fenix
+49509|El Retiro de Cardea
+49510|Ayre Alfonso II
+49511|Finca las Nieves
+49512|San Roque
+49513|La Casona de Vidiago
+49514|La Lula
+49515|Leuka
+49519|Albatros
+49520|Abaceria
+49526|Hotel Auto Hogar
+49527|Vista Alegre
+49528|MC San Jose
+49530|Atalaya
+49531|NL Almansa
+49532|Catalonia Sabadell
+49533|Villas Mirador del Mar
+49534|La Ceiba
+49535|azuLine Atlantic
+49536|Villa sa Coma
+49537|NH Príncipe de Vergara
+49538|Cleopatra
+49543|La Plata
+49545|Sol y Vera
+49547|Las Gaviotas
+49548|La Posada de Paco
+49549|NH Belagua
+49550|La Fuente
+49551|Husa Cartagonova & Spa
+49554|Playa Grande
+49555|Best Western Albufera
+49556|NH Iruña Park
+49558|Eco Sant Angelo
+49560|SH Florazar
+49561|Eurohotel Castellón
+49562|Añoreta
+49563|Marina Atarazanas
+49564|Art
+49565|NH Luz Huelva
+49567|La Casona de Nueva
+49568|Regio
+49569|Salamanca Forum - Hotel Doña Brígida
+49570|NH Ciudad de Santander
+49571|Hotel City Express Alisas
+49572|Apartments Niu d'Aus
+49576|H-Top Bcn City
+49577|Catalonia Barcelona Golf
+49578|Medicis
+49579|Medium Monegal
+49580|Medium Prisma
+49581|Apartamentos Ebusus
+49582|Lakiki Apartments
+49592|Zenit Murcia
+49593|Globales De los Reyes
+49594|Zenit Alcolea
+49595|Garajonay
+49596|Zenit Vigo
+49597|Zenit Logroño
+49598|Park Garden
+49600|Ses Anneres
+49601|Cuevas I y II
+49603|Ibon Azul
+49607|Es Cañe
+49608|El Tejo de Comillas
+49609|Casal el Castro
+49610|La Real Labranza Villasevil
+49611|Aparthotel Portodrach
+49615|Inagua
+49616|Riscal
+49618|Astur Plaza
+49619|Montearagon
+49620|Hotel Sancho Ramírez
+49621|Ciudad de Logroño
+49622|Riberies
+49623|Hacienda Encanto del Rio
+49624|Berria
+49625|Astari
+49626|Hotel ATH CityPark Sant Just
+49630|abba Madrid
+49631|Pampinot
+49632|Bemon Playa
+49633|Noguera de la Sierpe
+49634|HG Cerler
+49635|Almijara
+49636|Las Buganvillas
+49637|Suites Duquesa Golf & Spa - geschlossen
+49638|Catedral Suites
+49640|Europa Center
+49641|Nure Cel Blau
+49642|Lentiscos Apartamentos
+49643|Madrid
+49645|Michelangelo
+49646|Mendebaldea
+49647|Rl Anibal
+49648|Amura Alcobendas
+49650|Blanca de Navarra
+49653|Novotel Madrid Campo de Las Naciones
+49654|Galicia
+49657|AC Forum Oviedo
+49667|Guillermo Tell
+49685|Trinisol III
+49686|Exe Parc del Valles
+49688|Hesperia Sant Joan
+49690|Hesperia Sant Just
+49691|Casa la Bahua
+49692|Miralobos
+49704|Torredomo
+49705|Cal Teixido
+49706|GHM Monachil Apartamentos
+49707|GHM Monachil
+49708|Casa Prendes
+49709|Picadilly
+49710|Del Val
+49711|Domus Selecta Monasterio Benedictino
+49717|Melia Royal Tanau
+49718|Val de Ruda
+49719|Hipic Sascumes
+49720|Husa Chalet Bassibe
+49721|Colomers
+49722|Mont-Romies
+49723|Hotel de Tredòs
+49724|Hotel Lacreu
+49725|Petit Lacreu
+49728|Hotel deth Pais
+49729|Guitart Grand Passage
+49731|Casa Morlans
+49732|Sarrato
+49733|El Reyno
+49734|Valle del Aragon
+49736|Tirol
+49737|Deth Camin Reiau
+49738|Era Cuma
+49739|Ball Benás
+49740|Almud
+49741|Fincas Carmelo Royo
+49742|Prados de Velarta
+49743|Balneario de Panticosa Resort - Gran Hotel
+49744|Villa Canaima
+49745|Villa de Canfranc
+49746|Aparthotel Eth Refugi d'Aran
+49748|Orla
+49749|Casa Irene
+49750|Es Pletieus
+49752|El Ciervo
+49753|Hotel Delavall
+49754|La Bonaigua
+49755|Estampa
+49756|Estartit Confort
+49757|Hotel Eth Pomer
+49758|Apartarent
+49759|Multipropiedad
+49760|Solneu
+49761|Adsera
+49762|Domus Selecta Els Encantats
+49763|Hotel la Perdiz
+49764|Escalar
+49765|Gran Hotel Benasque
+49766|Es de Don Joan
+49767|Saurat
+49772|Hoserval Estudios
+50001|Abat Cisneros
+50006|Arrahona
+50008|Guitart Termes La Collada
+50009|Residencial Vancouver
+50010|Abrigall Alberg
+50023|Zenit Tobazo
+50024|Heliomar
+50025|Monasterio de Santa Eulalia
+50034|Villa de Gijon
+50035|Parque Mar
+50036|Nuevo Triunfo
+50037|Club Valena
+50038|Miro
+50039|Valentin Playa De Muro
+50040|Club Vista Bahia
+50041|Ferrera Blanca
+50048|La Reserva de San Leonardo
+50049|Conde de Badaran
+50050|Roger de Lluria
+50051|Jaime I
+50052|Cambras
+50055|Rias Bajas
+50057|Torre de la Roca
+50058|Sa Cornisa
+50059|Talayot Apartments
+50062|Egido Don Manuel
+50063|Egido las Provincias
+50064|Egido Plaza de Santiago
+50065|Eco Via Lusitana
+50066|Orfila
+50069|Evenia Rocafort
+50071|Isla del Aire
+50073|La Carolina
+50075|Atiram Tres Torres
+50076|Hotel Torresport
+50077|Acosta Vetonia
+50079|Sanfe
+50080|Preciados
+50226|Husa Europa
+50227|Husa Rural Valdelavilla
+50228|Son Llorenc
+50246|Beach Garden
+50248|Bon Sol Squash
+50250|AS Hoteles Porta Catalana
+50253|Los Robles
+50254|Kennedy I / II
+50256|Senator Gran Vía 70 Spa
+50257|Jorge I
+50274|Zurbaran
+50278|Llané Petit
+50289|Pirineos Pelegri
+50290|Sant Ferriol Spa
+50291|Terralta
+50294|Husa Sant Bernat
+50295|City Park Pelayo
+50297|Batalla
+50299|El Nautico Suites
+50300|Foxa M30
+50301|Doña Catalina
+50303|Hotel Turissa
+50304|Rural Zuhayra
+50305|Husa Universal
+50307|Egatur Libertad
+50311|Résidence Maeva Ciutat de Palol
+50321|Tribunal
+50322|Civera
+50333|Acevi Villarroel
+50341|Cueva del Fraile
+50343|Albret
+50344|Don Carmelo Residencia
+50345|Barceló Cáceres V Centenario
+50348|Posadas de España Pinto
+50351|La Hacienda de Anzo
+50355|Justo
+50356|Villa Tania
+50357|NH Cornellá
+50358|Hotel Via Argentum
+50359|Pousada de Portomarin
+50360|Sada Marina - geschlossen
+50361|O Val do Naseiro
+50362|Fuente de la Aceña
+50363|El Jardin de la Abadia
+50365|Lasa Sport
+50376|L'Hotelet
+50378|El Castrejon
+50380|El Montico
+50382|Almirante Bonifaz
+50383|Vettonia
+50384|Las Paneras
+50385|Alisa
+50386|Hostal de la Trucha
+50387|Mora
+50388|Cenachero
+50389|Ribera del Duero
+50390|IDH Tres Condes
+50392|Aparthotel Geranios Suites & Spa
+50393|Hostal Zurbaran
+50394|CIW Hostel
+50395|Italia
+50396|Tryp Segovia - Los Ángeles Nayade
+50401|Abades Loja
+50402|Abades Guadix
+50404|Los Lagos
+50405|Rural Cuartamenteru
+50406|La Cepada
+50407|Del Senglar
+50411|NH Turcosa
+50412|Playa de las Llanas
+50413|La Ruta de Cabrales
+50414|Hotel H2 Oviedo
+50418|Condesa de Chinchon
+50420|Murrieta
+50421|Azofra
+50422|Los Templarios
+50423|Heredero
+50424|Hospederia la Sinagoga
+50426|El Rexacu
+50431|San Angel
+50433|Palm Court
+50435|Valmanga
+50436|Benalmadena Palace
+50437|Casas Rurales Herreñas
+50438|Marina Internacional
+50439|Vila de Biar
+50440|Finca Rural les Fanecaes
+50448|Arcoplaza
+50450|HCC Open
+50451|Domus Selecta Puerta de la Luna
+50454|Catedral
+50461|Torres Gemelas
+50462|Marinesco
+50463|Hotel Eurostars Mediterranea Plaza
+50464|Sun Palace Albir & Spa
+50465|Vincci Seleccion Envia Wellness & Golf
+50468|Peninsular
+50471|Domus Selecta Nm Suites
+50472|Bahia Calpe
+50473|Finca los Llanos
+50475|Torreluz Senior
+50478|Residencial Euroliva Golf
+50479|Traiña
+50481|Apartamentos Larimar
+50482|Domus Selecta Palacio Guevara
+50483|Quinta de Villanueva
+50485|Hospederia Parque de Monfrague
+50486|Hotel Izán Puerta de Gredos
+50487|Complejo Laguna Beach
+50494|Apartamentos Intercentro Algarrobo
+50495|Intercentro Torrox
+50496|Gamonal/Zodiaco
+50498|La Casona del Sella
+50499|Gran Hotel de Ferrol
+50504|Vigo Plaza
+50505|Hosteria los Encinares
+50507|Hospederia Valle del Jerte
+50509|Conde Blanco
+50510|Luzana
+50511|Las Tablas
+50512|San Glorio
+50513|Bedoya
+50519|Dorada Palace
+50520|Corona de Galicia
+50521|Palacio de Aiete
+50522|Parque Cabañeros
+50523|Embalse de Orellana
+50525|Kross Ntra. Sra. de la Victoria
+50526|Los Pintores - El Greco
+50527|Dubamar
+50530|Palafox
+50533|Bungalows Amfora d'Arcs
+50534|La Najarra
+50535|Taramay
+50536|La Luna Blanca
+50538|Sarga Aptos
+50539|Eurostars Gran Madrid
+50546|Los Jeronimos
+50547|Cullera
+50548|NH Ciutat de Reus
+50551|Santa Cecilia
+50556|Albir Playa Hotel & Spa
+50557|NH Aránzazu
+50558|NH Canciller Ayala
+50559|URH Palacio de Oriol
+50560|NH Ciudad de Valladolid
+50561|NH Palacio del Duero
+50565|Sa Duaia
+50567|La Laguna Spa & Golf
+50569|Quality Reus
+50570|BelleVue Belsana
+50571|Ayre Hotel Caspe
+50572|Gandia Playa
+50573|Don Pablo
+50574|Amalia
+50575|Trendhotel Alcudia
+50578|Companys / Puerto
+50579|Delicias
+50580|Masia del Far
+50581|Mas d'en Gran
+50582|Maby - geschlossen
+50583|Cami del Far
+50584|Residencial Riviera
+50585|Via Aurelia - geschlossen
+50590|Los Acebos Arriondas
+50592|La Tiendona
+50593|El Pedregal
+50594|Arcea Las Brisas
+50595|Portonovo
+50599|Piñeiro
+50600|Rialta
+50601|Montemar
+50602|Maruxia
+50604|Nuevo Vichona
+50606|San Vicente
+50607|Eurostars Gran Valencia
+50609|Kensington
+50610|O Castro
+50611|Don Mexilon
+50614|Cabo Festiñanza
+50615|Area Central
+50616|Miracielos & Aptos. Albatros
+50617|Paseo de San Pedro
+50618|Hotel Rual Sucuevas
+50619|Blanco
+50620|Playas de Liencres
+50621|abba Comillas Golf
+50622|Mar Comillas
+50624|Astuy
+50626|Campomar
+50627|Estrella del Norte
+50628|Tamarises
+50630|Chiqui
+50631|Alemar
+50632|Hotel Soraya
+50633|La Concha de Suances
+50636|Puerto Calderon
+50637|Villa de San Vicente
+50638|Posada Camino de Altamira
+50639|Azul
+50641|La Casa del Cofrade
+50821|Quo Fierro
+50822|Pacoche Murcia
+50825|Domus Selecta Jaizkibel
+50828|Solvasa Cabo de Baños Apartamentos
+50829|Hotel Silken Torre Garden
+50830|Pelinor
+50831|Hotel Porto Cristo
+50833|Ibis Castelldefels
+50834|NH Paseo del Prado
+50835|Manrique de Lara
+50838|Balneario Guitiriz
+50839|Tudanca Aranda 2
+50841|Renaixença
+50842|HLG Samil
+50843|Silken Puerta Valencia
+50844|Eco Alcoceber
+50849|II Virrey
+50851|Nuevo Astur
+50852|Faro Salazon
+50853|Brisa la Lanzada
+50854|Don Hotel
+50856|Holiday Inn Madrid Piramides
+50857|Rafael Ventas
+50858|Arenal Bungalows
+50859|Cumbres del Sol
+50860|Apartamentos Godisa
+50861|Mirador del Mediterraneo
+50863|Strand
+50864|Hotel HQ la Galeria
+50865|NH Victoria Palace
+50866|Badajoz Center
+50869|Sercotel Pazo Libunca - geschlossen
+50870|Carris Almirante
+50871|Aquasol
+50872|Bahia Pollensa
+50873|Berenguer IV
+50874|Puerta de Andalucia
+50876|Husa Castilla Vieja
+50877|Rio Convento de la Luz
+50878|HC Cristal Aeropuerto
+50879|Husa la Molinuca
+50880|NR Noain-Pamplona
+50881|Husa Puerta San Pedro
+50882|Exe Apartahotel Campus San Mamés
+50883|Sancho Abarca
+50884|Vejo
+50885|Husa Xabier
+50886|N-Ch Kosher
+50887|Santa Isabel
+50888|HLG City Park Terranova
+50889|Els Avets
+50890|Zarauz
+51000|Platjador
+51006|Sol Don Resort - Sol Don Marco
+51007|Les Dunes Suites
+51016|Mediterranean Suites
+51017|Villas Brisa Marina
+51018|Anfora Playa
+51019|Rull
+51021|Rafael Orense
+51023|Campus
+51025|Arcipreste de Hita
+51026|Husa Ciutat de Igualada
+51027|Husa Pedralbes
+51028|Domus Selecta Palacio Las Manillas
+51029|Remanso del Rio Razon
+51030|Manantial
+51031|Caldas
+51032|Parquesur
+51034|Terrasol Baviera Golf
+51035|Silken Villa de Avilés
+51036|Rural Atzaro
+51043|Colonial Parque
+51050|Ibiza Rocks Hotel
+51051|Luz
+51052|Roca Park
+51053|El Tesoro
+51067|Hacienda Los Jinetes
+51068|NH Les Corts
+51069|NH Barcelona Entenza
+51072|NH Barajas
+51075|Kross Altos de Istán
+51076|Malibu Park
+51078|Barranco
+51095|Puerto Zahara
+51097|El Cel
+51113|Hospederia de Arguis
+51114|Le Meridien Ra Beach Hotel & Spa
+51117|Acebuche
+51123|Selwo Lodge
+51124|Hotel Gran Claustre & Spa
+51125|Holiday Village
+51126|Villa de Almazan
+51127|AC Hotel General Álava
+51132|Hotel Boston
+51139|AS Hoteles Lleida - geschlossen
+51140|Apartments Ontario
+51144|AS Hoteles Altube
+51145|Crown Resort - Club Del Mar
+51146|Crown Resort - Club Caronte
+51147|Aloha Gardens
+51148|Miraflores Resort
+51149|Oceano Beach Club
+51162|Arzuaga
+51163|The Inn Studios and Apartments
+51165|Ordesa
+51166|Rey Sancho Ramirez
+51167|Valle del Este Golf Resort
+51168|Huerta del Laurel
+51179|Mas Ferran
+51180|La Princesa
+51181|Apartments Sercotel Togumar
+51182|Napols
+51183|Don Cesar
+51184|La Garapa
+51203|Guacimeta
+51214|Mur-Mar
+51216|Canelas
+51217|Viadero
+51221|Los Abetos del Maestre Escuela
+51258|Domus Selecta Mas Passamaner
+51265|Villa Engracia
+51266|Caserío de Iznájar
+51267|El Juncal
+51268|Los Borbollones
+51269|Los Jarales
+51270|Paraje la Lambra
+51271|Cerro de Hijar
+51277|Aguazul
+51351|Eton
+51352|Festa Brava
+51358|Reymar & Reymar Playa - Reymar Playa
+51360|Tossa Mar
+51429|Romantica - El Patio de Lajares
+51434|La Rivera II
+51534|Riviera Vista
+51535|Sa Cala
+51536|Sol Isla
+51537|Ibersol Son Caliu Mar & Beach Club
+51539|Europa Centro
+51540|Tropico
+51542|Mainare Playa
+51543|AC Zamora
+51544|Hotel Ramblamar
+51546|Exe Cuenca
+51548|Los Acebos Cangas
+51549|Omar
+51552|Zenit Calahorra
+51560|Club Montecastillo
+51562|Marconi
+51564|Marina Torrenova
+51566|Teneguia
+51568|Castillo Beach
+51569|Beverly Park
+51570|Silken Siete Coronas
+51574|Tenerife Ving
+51575|El Retiro
+51576|AGH Canet
+51578|Tryp Valencia Azafata
+51579|Bora Bora Appartements
+51583|Vista Club
+51584|Sirena III / IV
+51586|Al-Andalus Palace
+51587|TRH Alcora
+51589|HLG Binivell Park
+51590|Velada Merida
+51592|Era Park
+51593|Los Juncos 1 Apartments
+51594|Los Tilos
+51595|Nido del Aguila Bungalows & Lara Apartamentos - Lara Apartamentos
+51596|Windsor
+51598|Magic Aparthotel El Lago
+51599|Parot
+51601|H2 Castellón
+51602|Pirates Village Apartments
+51603|Tryp Port Cambrils
+51604|Santa Susanna Resort
+51605|NH Jardines del Turia
+51607|Viña del Mar
+51608|RH Bayren Parc
+51609|Four Points by Sheraton Diagonal
+51610|NH Calderon
+51612|Hotel Cortes de León
+51613|Valle de Tena
+51614|Castilla Alicante
+51615|Villa de Algar
+51616|Señorio de Aloha
+51618|Playa Bella
+51620|Tryp Guadalajara
+51622|Carolina
+51623|Villa de Marin
+51625|Mediterraneo
+51626|Vita Stella Maris
+51629|Hostal El Faro
+51631|Zenit Malaga
+51635|Domus Selecta Abad Toledo
+51639|Calma
+51675|Monterrey
+51677|Els Pins
+51829|Villa Romana
+51830|Eco Villa de Pinto
+51831|Protur Safari Park
+51832|Tryp Leon
+51833|Nautic
+51834|Brisas
+51877|Brisamar
+51880|Holiday Inn Alicante - Playa de San Juan
+51881|Alfonso III
+51882|Terramar
+51883|Rosa
+51885|Reimar
+51886|Los Arcos
+51890|Los Ficus
+51892|Posadas de España Malaga
+51895|NH Barcelona Stadium
+51896|Melilla Puerto
+51897|San Carlos
+51898|Ipanema
+51904|Villa del Mar
+51905|Miramar
+51906|Villas Chemas / Las Pergolas III
+51907|Hotel Conquistador
+51908|Monterrey
+51909|Don Paco
+51910|Montemar
+51911|Playa Blanca
+51913|Sorra Daurada
+51914|Excelsior
+51915|Hotel Ibb Recoletos Coco Salamanca
+51916|Vista Mojacar
+51917|Confortel Alcala Norte
+51918|San Juan
+51919|Blanca Brisa
+51920|Vistamar
+51921|El Trebol
+51923|Barcarola
+51925|Los Calamares
+51926|Vistas las Marinas
+51929|Poseidon
+51932|Vista Bonita Gay Resort
+51933|San Camilo
+51934|Real de Toledo
+51935|Toledo Imperial
+51937|Kross los Alamos
+51938|Parma
+51941|Gaudi
+51942|Hotel Felipe II
+51943|Miami II
+51944|Los Naranjos
+51945|Varadero
+51946|Arcos
+51952|Delfin Azul
+51953|Villa de Llanes
+51954|Alfar
+51955|Benimar
+51956|Cosmopol
+51957|Hotel Arillo
+51958|Gala
+51959|Hotel Salldemar
+52013|Iris
+52014|Puerta de Burgos
+52016|Samos
+52018|Apartamentos Oasis Sa Tanca
+52019|Biniforcat
+52020|Lagoon Center
+52022|Poniente Playa
+52024|Ingles
+52025|Benet Los Pinares
+52026|Tryp Madrid Chamartín
+52027|Peru
+52028|Hotel Ciudad de Vigo
+52030|Romantic
+52032|Tryp Ciudad de Alicante
+52034|Gallery Granada
+52035|Hotel Horus Zamora
+52036|Mariposas
+52037|Golden Port Salou & Spa
+52039|Almazara
+52040|Pueblo Acantilado
+52042|Nuria
+52044|Carabela Santa Maria
+52046|Marian
+52047|Santa Monica Playa
+52048|Atiram Arenas
+52049|Cala Josep
+52050|Los Pinos Apartments
+52051|Hotel Plaza del Angel
+52052|Montelín
+52053|NH Madrid Ventas
+52054|Bella Maria
+52055|Blue Sea Gran Playa
+52056|San Carlos
+52059|Picasso - geschlossen
+52060|Hotel Carlos - geschlossen
+52061|Apart Hotel Orquidea
+52063|Francisco I
+52064|Hotel Fenix
+52065|Hotel Zenit Imperial
+52067|Rafael by La Pleta
+52069|Rocamar
+52070|Alfonso IX
+52071|Club sa Coma
+52073|Charco del Palo
+52074|San Jose
+52075|Londres
+52076|Maxogarden Villas
+52077|Gran Hotel
+52079|Garona
+52080|Martinez
+52081|Aran
+52082|Principe Paz
+52083|Villa Anayet
+52084|Garona
+52117|Las Orquideas
+52118|Avenida JC
+52119|Mirasierra
+52125|Acuario
+52126|La Reina
+52127|Las Rosas
+52129|Mix Peru Playa
+52130|El Puerto
+52132|Mesón de Don Quijote
+52167|Hotel El Cid
+52168|Galeon & Pavillon
+52170|Costa Mar
+52171|Los Jandalos Jerez
+52172|Maria
+52178|Los Angeles
+52179|Torrent Bay
+52185|Daniya
+52189|Granvía
+52190|Apartamentos Marítimo
+52192|La Siesta
+52196|Los Angeles
+52198|RH Royal
+52199|Costa Verde
+52200|Apartamentos El Porton
+52204|Pirineos
+52205|San Carlos
+52206|Hotel President
+52214|Biarritz
+52217|Mesón de la Molinera
+52228|Lively Magaluf
+52229|SENTIDO Don Pedro
+52286|El Cerrito
+52328|Villa Tamarindo
+52329|Luz y Mar
+52330|Rocas Verdes
+52331|Rancho Texas Park
+52334|Rubimar Suite
+52343|Dali
+52363|Lively Mallorca
+52365|Orquidea Playa
+52366|Estrella de Mar & Coral de Mar Resort
+52367|Finca sa Canova
+52368|HSM Maria Luisa
+52369|Hipotels Hipocampo Palace & Spa
+52375|AC Irla
+52376|Barcelo Atenea Mar
+52377|Campanile Barcelona
+52378|Catalonia Castellnou
+52379|Zenit Barcelona
+52382|Barbara
+52397|Casa Luis
+52401|Club Puertomar
+52402|Los Girasoles
+52406|Hamilton Court
+52408|Flora Garden
+52409|Petit Xuroy
+52420|Sentido Cala Viñas
+52421|Finca Binifarda
+52427|Cala d'Or Park
+52428|Cala d'Or Playa
+52429|Cala Domingos
+52430|Cala Millor Pins
+52432|Promenade/Panama
+52435|Caribe
+52436|Paraiso Del Sur
+52437|Sur Y Sol
+52508|Hi! Palmanova
+52540|Aparthotel Vistamar
+52656|Jardin La Punta
+52658|PrimeSelect Los Alisios
+52704|Casa Mistral
+52705|Casa Romantico
+52706|Felicidad
+52708|Paraiso del Sol
+52709|Rustico
+52714|San Francisco
+52780|Monte Málaga
+52781|Las Cortes de Cádiz
+52785|El Tejar/Tenerife Activo
+52790|Patricia
+52791|Santa Rosa
+52792|Sal y Mar Bungalows
+52801|Sunset Oasis Ibiza
+52802|Excelsior
+52803|Regina Park
+52807|Strelitzias
+52808|Kiwi Bungalows
+52809|Morasol Suites
+52810|Castell Sol
+52860|Sureda Appartemets
+52973|Sur
+53028|ME Mallorca
+53088|Fuerte El Rompido
+53090|Mac Puerto Marina Benalmádena
+53141|Parador de Limpias
+53142|Parador de Santo Domingo Bernardo de Fresneda
+53143|Parador de Santo Estevo
+53149|Domus Selecta Mas Salvi
+53152|Casa del Conde de Pinofiel - geschlossen
+53153|Casona de la Reyna
+53155|Molino del Arco
+53157|Sa Franquesa Vella
+53159|Rural Villa Lola y Juan
+53172|PURAVIDA Resort Blau Porto Petro - Hotel
+53173|Bahia Hostal
+53174|Miraflor
+53273|chic&basic Ramblas
+53349|Las Mimosas I & II
+53372|Aloe Club Resort
+53376|Alcudia Pins
+53378|Aparthotel Club Simó
+53379|San Marino
+53380|Catalina - Café del Mar
+53381|Aguamar
+53382|Confortel Tartessus Sancti Petri
+53438|Jeni Hostal
+53439|Barceló Isla Christina
+53801|Hesperia Sarria
+53824|Carlit
+53831|Saray
+54393|Carabela Appertments
+54395|Asur Islantilla Suites & Spa
+54543|Paradero I & II - Paradero I
+54734|Appartements Mestral
+54736|Appartements Bolero Park
+54737|Complejo Verdi
+55543|La Posada Del Mar
+55671|Mont-Rosa
+55672|H TOP Planamar
+55733|Senator Marbella Spa
+56250|Eurostars Toledo
+56252|NH Ciudad de Cuenca
+56254|Hesperia Isla La Toja
+56258|Pazo Almuzara
+56259|Pesquería del Tambre
+56260|NH Collection Palacio de Avilés
+56262|Marqués de Vallejo
+56278|The Marinada Hotel / Aparthotel - Hotel
+56285|Les Dàlies Apartaments
+56287|Hostal del Sol
+56333|Paraiso 10
+56334|Senator Barcelona Spa Hotel
+56338|Icaria Barcelona
+56339|Sunotel Junior
+56340|Fira Congress
+56342|Vila d' Argentona
+56343|Casa Fuster
+56355|Club Mac Alcudia - Jupiter / Marte / Saturno
+56356|Balear Beach
+56359|Bahia
+56360|BQ Sarah
+56361|Golf Beach
+56362|Teix
+56364|Belroy Hotel & Apartamentos - Belroy Hotel
+56365|Hotel Goya de Alicante
+56384|La Masieta
+56385|Adia Hotel Cunit Playa
+56386|Delta Hotel
+56387|Les Oliveres Beach Resort
+56406|President
+56407|AC Tarragona
+56450|Monestir
+56518|Garden Playanatural Hotel & Spa
+56547|Residencia Universitaria Sarrià
+56555|Apartamentos Sol Bay
+56577|Confortel Valencia
+56713|Don Gregorio
+56715|Hospes Amerigo
+56719|Gemelos II-IV
+56720|Gemelos XV
+56724|BQ Delfín Azul
+56798|Cap Roig Resort
+56800|Lauria
+57033|Na Martina
+57034|Valentin Finca Son Roig
+57035|HG Cala Llonga
+57036|Can Simoneta
+57042|Ca Na Mola Vela
+57075|Dynastic
+57527|Sant Salvador
+57531|Petit Palace Italia
+57550|Zenit Bilbao
+57551|Pozuelo
+57552|Petit Palace Marques Santa Ana
+57553|Petit Palace Puerta del Sol
+57554|TRYP Madrid Las Matas Hotel
+57587|Puerta de las Granadas
+57588|Pierre & Vacances Apartamentos Estepona
+57704|Hotel Hospes Palau de la Mar
+57730|Don Gustavo
+57731|El Jardin
+57732|Jimesol
+57740|Villa Sol
+57755|Villa Mar
+57778|Stil Bonsai
+57779|Ciudad de Medina
+57812|Lanzarote Paradise
+57818|Barcelo Marbella Golf
+57820|Patio de la Alameda
+57823|Amatista Appartements
+57824|MR Hotel Les Rotes
+57827|Atlantico
+57857|Posada d`Alaro
+57869|Feria
+57870|Madeira
+57871|Volcan - geschlossen
+57881|Silken Diagonal
+57906|Plaza Mayor
+57916|Valencia Center
+57924|Carlos III
+57956|Mare Nostrum
+57973|Hotel Lóriga
+57987|Augusta
+57989|Riu d'Eba - geschlossen
+57990|Rubino Apartments
+58000|Don Miguel I & II - Don Miguel I
+58001|Torre Levante
+58002|Sicania
+58103|Cala Santanyi
+58169|Terrazza Amadores
+58336|El Morisco
+58337|Punta Sur
+58433|Vista Alegre
+58454|Cala Gonzalez
+58689|Apartment del Sol
+59003|Fergus Espanya
+59005|Las Vegas
+59006|Altama
+59007|Iris
+59008|Cartago Nova
+59010|Blavamar
+59011|Eugenia
+59012|Monjardi
+59013|Bungalows Papalus
+59033|Universal Hotel Aquamarin
+59165|Cala Pi Club
+59325|Oasis Hotel Conil
+59509|Son Cleda
+59513|Universal Florida
+59514|Juan Palma Hostal
+59515|5 Islas
+59517|Universal Hotel Laguna
+59524|Catalonia Del Mar
+59528|Marigna
+59530|Insotel Tarida Playa
+59535|El Tiburon
+59538|Hostal Persal
+59540|Hostal Tijcal II
+59542|Holiday Inn Express Rivas
+59543|NH Lagasca
+59545|Castellon Center
+59547|Canton
+59548|Silver Aparthotel
+59549|Hostal Lami
+59888|Libretto Hotel - geschlossen
+60188|Las Rocas
+60215|Transit
+60217|Los Abanicos
+60228|Neptuno
+60240|Domus Selecta Fruela
+60243|Eurostars Barbera Parc
+60257|Las Orquideas
+60258|Dolce Sitges
+60261|Huerto de Lobras
+60263|Komplex Apartments Don Miguel / Hotel Panorama - Apartments Don Miguel
+60281|Internacional
+60283|Coral
+60285|Fergus Style Mar Mediterrania
+60312|Cala Galdana Playa
+60333|Zentral Center
+60359|H20 Residencial Avenida
+60360|H20 Carib Playa
+60361|H20 Edificio Mino
+60362|H20 Las Acuarelas
+60391|Levante Complex - Levante Club Apartamentos
+60416|Planas
+60418|Las Estrellas
+60421|Casa Rosalia
+60422|B-Hotel
+60423|Tryp Condal Mar
+60432|Vilacobina
+60434|Hotel Nuevo Covelmar
+60436|Glasgow
+60474|Natali
+60476|Alfonso VIII
+60488|Urban Madrid
+60496|Torrelaguna
+60507|NH Zurbano
+60508|Callao - geschlossen
+60509|Los Perales
+60510|Hostal Prada
+60514|AC Palacio del Retiro
+60516|Sonsoles Hostal
+60521|Bcn Houses
+60558|Masa International
+60559|Vidalbir
+60560|Meridional
+60569|Indamar - geschlossen
+60570|Cabogata Mar Garden
+60579|San Francisco
+60580|The Ibz Inn
+60581|Laura's Atalaya
+60582|Marfil
+60607|Hotel 1898
+60623|AC Coslada Aeropuerto
+60624|NH Puerta de Alcalá
+60625|Cortezo
+60626|Best Western Florida
+60627|G3 Galeon
+60628|Quo Eraso
+60629|Husa Nuevo Madrid
+60630|Husa Mirador de Chamartin
+60631|San Lorenzo
+60642|Sol Radiante
+60646|Hapimag Mas Nou
+60652|Estudios Montenova
+60653|Villa Nadine
+60654|Universal Hotel Bikini
+60655|Sol Naixent
+60667|Ciudad de Lugo
+60668|Eurostars Zarzuela Park
+60676|Aguado Internacional - geschlossen
+60677|Parque Denia
+60678|Confortel Fuengirola
+60679|Abril Hostal
+60680|Cortijo Amaya
+60700|Miami Palace Apartements
+60701|Horizon - geschlossen
+60703|Panorama
+60704|Zenit Apartamentos
+60709|Montroig Mar Apartements
+60710|Berga Resort
+60728|Hipocampos Apartamentos
+60738|Sunsuites Lufesa
+60740|La Palma & Teneguia Princess & Spa
+60742|NH Las Rozas
+60743|NH La Florida
+60744|NH Aravaca Aparthotel
+60745|Torrelodones
+60754|Baulo Mar
+60761|Villas Latitud
+60763|El Pulguilla
+60765|Holiday Palace
+60769|La Calderona Spa & Golf Resort
+60791|Amister Art
+60792|NH Ciutat de Mataró
+60793|NH Breton
+60795|NH San Sebastián de los Reyes
+60796|NH Argüelles
+60797|NH Suites Prisma
+60798|NH Leganés
+60799|NH Madrid Sanvy
+60800|NH Práctico
+60801|NH Collection Madrid Eurobuilding
+60803|NH Villa de Coslada
+60805|NH Pacífico
+60806|NH Principe de la Paz
+60808|Arturo Soria Suites
+60809|NH Pozuelo Ciudad de la Imagen
+60810|NH Monte Rozas
+60812|NH Alcorcón
+60813|Catalunya Express
+60817|Ibis Madrid Arganda
+60825|Veracruz
+60827|Sercotel Alfonso XIII
+60830|Roqueta
+60832|Atrio
+60836|AC Algeciras
+60837|Flamingo
+60870|Almonsa Playa Aparthotel
+60871|Villas S'Argamassa
+60872|Apartaments Golf
+60875|Blue Bay
+60877|NH Ciutat de Vic
+60879|H2 Mercader
+60880|Ola Isabel Aparthotel
+60881|NH Amistad Murcia
+60882|NH Cartagena
+60883|NH Bilbao Deusto
+60887|NH Cuidad de Almeria
+60919|Casa Maria
+60920|Mediterrani Express
+60921|Villa Madrid
+60922|Palacio De Los Salcedo
+60923|Pension Sonia
+60924|NH Sport
+60967|NH Logroño
+60978|Monumento Castelo de Maceda
+60980|IBB Villas Illa Blanca
+61001|Port Estrella Ferienhäuser
+61036|Catalonia Las Cañas
+61037|Aparthotel EcoDunas - geschlossen
+61039|Sagrada Familia
+61040|Gran Atlanta
+61041|Almudaina
+61042|Oasis d'Or
+61069|Delfines
+61080|Sunotel Aston
+61081|Axel
+61082|Feel Good Apartments Decimononico
+61083|Hotel Solvasa Barcelona
+61095|La Hacienda
+61119|Pueblo
+61124|Bellavista Sevilla
+61125|Zenit Dos Infantas
+61135|Bali
+61136|Iris
+61137|Jardin
+61139|San Juan
+61141|Barcelo Monasterio de Boltana
+61144|Balneario de Compostela
+61145|Pombal
+61146|Lombina
+61192|Atarazanas
+61193|Domus Selecta Villa Soro
+61196|Hotel Vistamar
+61206|Maria Luisa
+61207|Huerta de las Palomas
+61218|AC Ciutat de Alcoy
+61219|NH Alicante
+61220|NH Sant Boi
+61221|Elba Almeria Business & Convention Hotel
+61227|Hospederia Santuario de Cura
+61232|HCC Ciutat de Berga
+61234|Gran Derby Suite Hotel
+61237|Miranda Suizo
+61250|Las Gaunas
+61253|San Marcos
+61259|Hotel Fontecruz Ávila
+61260|Catalonia Plaza Mayor Salamanca
+61261|AC Gijon
+61262|Cantabrico
+61263|Cristal Villaviciosa
+61269|Bitacora
+61270|Cala Montjoi
+61271|Isla De Rosas
+61272|Tropik
+61284|Blue Sea Callao Garden
+61296|Duquesa Apartaments
+61327|Rural Entremontes
+61329|Espino
+61331|Valle Las Luiñas
+61337|Domus Selecta M Hotel
+61342|Rosa Rosae
+61384|La Casa de Juansabeli
+61393|M.A. Alhamar
+61454|La Mineria
+61457|Villas Finesse
+61460|Europa Sun
+61502|Vera
+61505|Hostal Horizonte
+61507|Faro Park
+61508|Rural Senorio de Rias
+61547|BlueCity Condes Lleida
+61549|Tierra De Biescas
+61550|NH Collection Granada Victoria
+61551|La Peguera
+61558|La Colina
+61559|Palacio de la Llorea
+61565|Nature Bon Repos Apartments
+61566|Nure Mar y Mar
+61568|Quintana de Pancar
+61662|Son Corb
+61666|Hoyuela
+61667|Zenit Lleida
+61737|Be Live Mangalan Hotel & Spa
+61743|Hawaii 4-5
+61764|Pena Montanesa
+61766|Palmeramar
+61769|Bungalows Coloradamar
+61772|Las Colinas
+61787|Palladium Hotel Cala Llonga
+61789|Lido Appartements
+61846|Bueu Mar
+61849|Touris
+61850|Campomar
+61851|Villa Covelo
+61854|Mirador Ria de Arosa
+61855|Punta Lucero
+61856|Talaso Atlantico
+61870|Laguna Park I
+61871|Checkin Bungalows Atlantida
+61872|Ayre Ramiro I
+61910|NH Ciudad Real
+61911|Lux
+61912|ETH Irun
+61920|Petit Palace Embassy Serrano
+61921|Magalluf Playa
+61922|Husa Villa San Juan
+61924|Hospedería Colon
+61925|Pereda Mar
+61928|Guadiana
+61929|Ton
+61930|La Laguneta
+62107|Rural Mirasierra
+62111|Posada de Montañero
+62112|Posada Asturiano
+62113|NH Albar
+62114|Certuner
+62115|Casa del Sol
+62125|Fussion Condal
+62126|Calas Marina
+62127|Deloix Aqua Center
+62128|Santa Margarita
+62129|Benibeach
+62133|Xaine Park
+62134|Esmeraldas
+62135|Isabel
+62136|Miami Estartit
+62137|Turquesa
+62138|Corona Tortosa
+62139|Mas Gallau
+62140|Bahia Dorada
+62141|Olympic 92 - Golf de Sant Jordi
+62145|Hotel Naturalis Ruta del Sauce
+62146|La Posada de Ubeda
+62159|Los Cigarrales
+62160|Dunas de Liencres
+62165|Castillo del Buen Amor
+62168|Carris Alfonso IX
+62169|Las Sirenas Hotel Complex - Thalasso Cantabrico / Resort Thalasso Hotel & Apartments
+62300|Carabeo
+62302|Caleta Playa
+62306|Apartamentos Los Delfines
+62342|Pension Baleares
+62366|Aparthotel Caleta Garden
+62373|Mercure Atenea Aventura
+62412|Monaco
+62413|Servatur Montebello
+62414|Sunsuites Carolina
+62415|Sunprime Atlantic
+62416|Mirador del Mar Villas
+62419|Riu Buena Vista
+62438|Barceló Estepona Thalasso Spa
+62449|Island Village Heights
+62450|Fanabe Lagos Beach
+62451|Yucca Park
+62452|Villas Canarias
+62453|Silken Atlantida Santa Cruz
+62454|Las Aguilas
+62456|Paradise Court
+62486|El Magistral de Aviles
+62487|Rural Cuadrovena
+62488|Poncebos
+62492|Golf Playa
+62529|Costa Papagayo (II)
+62550|Finca Casitas Tia Carmen
+62580|Sun Beach Resort
+62581|Inturotel Cala Azul Garden & Esmeralda Garden - Esmeralda Garden
+62600|Pasarela
+62628|Dona Manuela
+62637|Sevilla Congresos
+62684|Vacances Menorca Resort - Blanc Palace
+62686|Puerta de Aduares
+62687|Clement Barajas
+62688|August Apartmentos
+62689|Finca Casa Elena l & ll
+62696|La Abrigadita
+62702|Casa La Deseada
+62703|Finca La Pitera
+62706|Casa Tejero
+62710|Finca el Lance-Casa Cristina
+62740|Aloe
+62745|Villa Andorra
+62748|Alfonso VIII
+62749|Villas Pico I II
+62750|H10 Mediterranean Village
+62752|El Bergantin Menorca Club
+62753|Costa Luz
+62754|Club Oceano
+62755|Princesa Ico
+62782|Husa Gran Fama
+62784|Roc Blanc
+62785|Villas Begonias
+62786|Villas Cala'n Bosch
+62787|Rosanna
+62788|Villas Etnias
+62789|Villas Maribel
+62790|Villas Amarillas
+62793|Finca Mussupta Amagat
+62794|Ca'n Digus
+62796|Milenium
+62798|Tabaibas
+62800|Tamaris
+62804|Ciudad del Jerte
+62805|Roc Oasis Park
+62806|Sunclub
+62808|Ciutat de Girona
+62810|De la Villa
+62811|Annabel I & II
+62814|Eurostars Tartessos
+62819|Miramar Hotel
+62823|Sa Mirada
+62824|Bersoca
+62826|Neptuno Bungalows
+62829|Carihuela Park
+62831|Bungalows Todoque
+62832|Pasión Tropical
+62841|Stil Victoria Playa
+62843|Roca Blanca
+62845|Santa Monica
+62851|Residencial Vistamar
+62853|Apartamentos Vista Playa
+62863|Bahia Bayona
+62866|Palacio Garvey
+62867|La Espadana
+62927|Caleta del Mar
+62928|Arepar
+62929|Arenal Playa
+62930|Monasterio Aciveiro
+62931|Puigcerda Park
+62934|Corregidor
+62941|Villa Padierna Palace
+62942|Posada de Valdezufre
+62946|Guadalquivir
+62950|Vista Alegre
+62967|Tramontana
+62974|Inffinit Sanxenxo
+62975|Siesta Mar
+62976|Terradets
+62977|Ca l'Anton
+62984|Maxorata Beach
+62990|Bierzo Plaza
+62991|NH Sotogrande
+62992|Rey Alfonso X
+62995|Eurostars Leon
+62996|Casa Aurelia
+62997|Hostal Ponton
+62998|La Casa Vieja
+63001|Picos de Europa
+63002|Marina de Campios
+63003|Isla Bella
+63004|Milagros Golf
+63005|Hospedería Santillana
+63006|El Muelle
+63007|Pazo do Castro
+63008|Eurostars Plaza Delicias
+63009|Capriccio
+63010|Los Hidalgos Rural
+63011|Ciudad de Alcañiz
+63012|Infantado
+63013|Villa de Potes
+63014|Rebeco
+63019|Barceló Costa Ballena Golf & Spa
+63134|HCC Montsia
+63135|Barcelona Golf
+63142|NH Lleida Pirineos
+63143|Asur Campo de Gibraltar
+63150|MS Maestranza
+63151|Cross Elorz
+63152|Finca Simo
+63153|Forner
+63154|Picasso
+63155|Peñismar II
+63158|NH Tenerife
+63161|Rege
+63162|Husa Vall de Nuria
+63164|Alexandra Aparthotel
+63165|Hilton Diagonal Mar Barcelona
+63167|Hostal BCN Port
+63169|NH Collection Sevilla
+63171|Puerto Juan Montiel Spa & Base Nautica
+63172|Gran Victoria
+63178|Stil Mar y Paz
+63191|AC San Sebastian de los Reyes
+63192|Meninas
+63193|Maria Elena Palace
+63194|Doramar
+63195|Los Arcos
+63197|VIP Villas
+63198|Pullman Barcelona Skipper
+63199|Catalunya 92
+63200|Petit Palace Posada del Peine
+63201|Petit Palace President Castellana
+63203|Catalonia Goya
+63204|La Avenida
+63209|Paso Chico
+63210|Valles I
+63240|Valles II
+63241|Petit Palace Art Gallery
+63242|Cala Bona
+63243|Espacio Azahar
+63250|Apolo
+63253|Fiesta Park
+63257|Martha´s Imagine Suite
+63262|Bahia
+63264|Playamar
+63265|Cervantes
+63267|Nadal
+63268|Clippersol
+63270|Salamar
+63271|Ull de Bou
+63272|Thalassa
+63275|Callao Mar
+63276|Los Cocoteros Apartments
+63277|Europa Apartments
+63278|Travelodge Madrid Torrelaguna
+63279|Carlos V
+63280|Petit Palace Santa Cruz
+63281|Tryp Almussafes
+63309|Santa Lucia
+63310|Eurostars San Lázaro
+63312|Cortijo de los Mimbrales
+63313|El Escudo de Mijas
+63314|Los Rosales I-II
+63316|Olympo
+63322|Cristo del Consuelo
+63326|Eurostars Diana Palace
+63327|Airinos
+63328|Paxariñas
+63329|Casa Ameiros
+63330|Leonor de Aquitania
+63331|Hotel Temple Pradorrey
+63332|Dona Carlota
+63333|Marques de San Esteban
+63334|Exe Oviedo Centro
+63371|San Antonio
+63373|Augusta
+63390|San Anton
+63392|Galeones
+63393|Marina Park
+63394|Montreal
+63395|Bitacoras
+63396|Gran Colón Costa Ballena
+63397|Pradillo
+63400|Cigarral el Bosque
+63403|Las Vegas
+63467|Villas Salinas de Matagorda
+63483|Barcelo Cabo de Gata
+63575|Rio Las Marinas
+63623|Roca Nivaria
+63625|Port Ciutadella
+63626|SB BCN Events
+63638|Playas Ca's Saboners
+63644|Hotel Isla del Gallo - geschlossen
+63645|NH Palacio de Santa Marta
+63647|Los Templarios
+63649|Bed4U Castejón
+63729|Flamingo Beach Resort
+63736|Fergus Paradis Park
+63737|Rosamar
+63740|Dream Gran Castillo Resort
+63741|Aparthotel HD Pueblo Marinero
+63748|Iberostar Playa Gaviotas Park
+63766|Kris Cazadora
+63767|II Castillas
+63768|Hotel Kramer Valencia
+63772|Playitas Grand Resort - Playitas Hotel / Playitas Aparthotel / Playitas Villas
+63774|Eurostars Monumental
+63786|Sa Barrera
+63893|Geminis
+63906|Hotel Bcn Urban Gran Ronda
+63934|Son Penya Petit
+63938|Rural Maipez
+64085|Casa Romana
+64087|Apartments Altamadores
+64415|Europa
+64429|Marina
+64601|THB Sa Coma Platja
+64657|Tryp Leganes
+64658|Stella Canaris Hotels & Resort - Jandia Golf
+64661|Sunny Beach
+64662|Lusso Infantas
+64663|Tarraco Park
+64744|The Ritz-Carlton, Abama
+64761|Villas Abuelito Francisco
+64764|Vistas Salinas
+64765|Casa Tomaren
+64839|Dunagolf Bungalows
+64840|Vincci Soho
+64861|Rayma Apartamentos
+64870|Galeon
+64872|Alonis Apartments
+64873|Marina Palace
+64874|Punta Prima
+64900|Punta Marina
+64902|Holiday Inn Express Madrid - San Sebastian de los Reyes
+64946|Loizu
+64947|Arostegui
+64948|Lola
+64949|Centro de Actividades Campo
+64950|Aragüells
+64951|El Privilegio de Tena
+64962|Casitas Salinera
+64963|Ciudad De Haro
+64987|Holiday Inn Express Alicante
+64990|Acor Playa
+65023|Villa de Benavente
+65098|Villas Las Yucas
+65124|Isla Encantada
+66363|Parque Cristobal
+66383|Lomas de Miraflores
+68157|Olivo
+68175|Cay Beach Princess
+68185|Rural San Miguel
+68187|Husa Class Valls
+68261|Fragata
+68263|Vincci Selección La Plantación del Sur
+68265|Vistamar
+68266|Marina Playa
+68517|Pintor
+68518|Tribuna Malaguena
+68519|Valsequillo
+68590|Tryp Infanta Mercedes
+68591|Tryp Alcala 611
+68595|Hotel Fernan Gonzalez
+68617|Tryp Puertollano
+68618|Tryp Los Galeones
+68619|Burlada
+68673|Globales Madrid - Barajas Acis y Galatea
+68674|Serrano
+68803|Casa el Zaguan
+68815|Hotel Posada la Pastora
+68817|Senorio de Monjardin
+68819|Merindad de Olite
+68821|Hotel Churrut
+68822|Monasterio San Millán
+68826|Palacio Azcarate
+68828|Castillo El Collado
+68889|Balcon de Amadores
+68931|Mojacar Beach
+69003|Sol Andalusi
+69005|Grand Palladium Palace Ibiza Resort & Spa
+69006|azuLine Hotel S'Anfora & Fleming
+69030|Golf Relax
+69032|Marina San Jordi
+69033|Aquamarinas
+69034|Monte Javea
+69035|Garbi Costa Luz
+69094|Domus Selecta Casona De La Paca
+69095|Hesperia Donosti
+69098|Mas Pau
+69099|Cueva del Abuelo Ventura
+69100|El Molino del Puente
+69101|Rural Huerta Nazari
+69121|Playa Fornells
+69123|Zimbali Playa Spa Hotel
+69124|Confortel Calas De Conil
+69152|Treumal Park
+69153|Plaza del Liceo
+69154|El Parque
+69160|Barcelo Jaca
+69273|Petit Palace Opera Garden
+69274|Tryp Indalo Almeria
+69398|Cordial Mogan Valle
+69425|Melia Villaitana
+69477|Costa Caleta
+69502|Insotel Fenicia Prestige Suites & Spa
+69563|Oceano
+69640|Hotel La Concha
+69641|Hoposa Pollensamar
+69657|Destino Pacha Ibiza Resort
+69659|Hesperia Bilbao
+69719|Silken Puerta Malaga
+70003|Melia Golf Vichy Catalan
+70004|The Level at Meliá Villaitana
+70040|Cortijo el Sotillo
+70075|Abeiras
+70076|NH Collection Santiago
+70077|NH Herencia Rioja
+70079|Palacio De Los Granados
+70081|Hotel Palacio de Los Navas
+70082|Domus Selecta Hospederia Del Zenete
+70083|Molino de Santillan
+70087|La Nina
+70088|Margarita
+70090|SH Villa Gadea
+70113|Villa Real
+70201|Senator Banus Spa
+70202|President
+70203|Mar Blau
+70204|Fergus Maripins
+70291|Club Maritim
+70292|Impala
+70293|Vime Corregidor
+70294|Magnolia
+70420|Sa Talaia
+70451|Ca'n Canals
+70454|MS Fuente las Piedras
+70455|Finca La Paz
+70554|Villa Torre Soli Garden
+70555|Finca La Maleza
+70556|Sindhura
+70767|Los Naranjos
+70768|Fresno
+70906|Holiday Inn Express Valencia Bonaire
+70907|Las Arenas Balneario Resort
+70908|Solvasa Valencia
+70909|Martianez
+70910|Carel
+70911|Internacional Playa
+70912|Vita Comarruga
+70913|Comtes de Queralt
+70930|Mediterraneo
+70935|Paraiso
+70936|Playa Sol I / II
+70969|Palacio de La Vinona
+70970|Mar del Sueve
+70973|Senorio de Ursua
+70975|Meson de Dolores
+70977|Andria
+71055|Lux Sevilla Bormujos
+71056|Abril
+71102|InterContinental Mar Menor Golf Resort
+71162|Hotel Villa Virginia
+71165|Bellavista
+71198|Delta Tudela
+71200|Nelva
+71203|Eurohotel
+71205|Apartamentos California
+71207|Coconut Apartments
+71291|Globales Santa Lucia
+71341|Feliz
+71391|Sheraton Salobre Golf Resort & Spa
+71392|Aguamarina
+71394|Sheraton Fuerteventura Beach
+71435|Ampuria Inn
+71436|Express By Holiday Inn Barcelona - Montmelo
+71437|Bandama Bungalows
+71439|Domus Selecta Boria Barcelona
+71440|Bernat de SO
+71441|Montañamar Lloret
+71443|Granados 83
+71444|Tamahuche
+71445|Bella Dolores
+71446|Condado
+71448|Grand Central
+71450|Agaete Parque
+71451|Alpha
+71452|Aries
+71453|Palmeres
+71454|Sun Grove Villas
+71455|AG Express Elche
+71456|Las Torres
+71457|Abadia
+71458|La Casona de Luis
+71459|Los Pueblos
+71460|Citymar Indalico
+71463|Picasso
+71472|Beleret
+71473|Rambla
+71474|Tropicmar
+71625|Princesa
+71656|Hotel Walhalla
+71828|Camping Las Dunas
+71847|Camping L'Amfora
+71855|Camping La Torre de Sol
+71877|Olivia Plaza
+71894|Casanova
+71897|Roma Aurea
+71899|Carlos III
+71900|Citric Vent de Mar
+71901|Domus Selecta Palacio Urgoiti
+71903|Vega del Sella
+71904|Abelux
+71905|Costamar
+71906|Badal
+71907|Casino del Tormes
+71908|AC Burgos
+71909|Consell de Cent
+71910|Aldea del Puente
+71911|NH Gran Hotel Casino Extremadura
+71912|Villalegre
+71913|Nazaries
+71914|Priorat
+71915|Balansat Torremar & Prestige
+71916|Marques de la Moral
+71917|AC Zizur Mayor
+71918|Casa de Campo
+71919|Nuria
+71920|Domus Selecta La Grava
+71921|Rio do Pozo
+71922|Norte y Londres
+71923|Port Sitges Resort
+71924|Luz Castellon
+71925|Arcea Gran Hotel Pelayo
+71926|Rambla Emerita
+71927|Cooee Cala Llenya Resort Ibiza
+71929|Saylu
+71930|Los Globos
+71931|AC Gavà Mar
+71932|Domus Selecta Posada Casa Del Abad Ampudia
+71933|Golden Pineda
+71971|Asur Isla Cristina
+72024|Hotel Hospes Palacio de los Patos
+72025|Palacio de Bailio
+72037|Can Isabel
+72191|Plazamar
+72192|Intertur Hawaii Torrenova
+72193|Intertur Waikiki Apartments
+72194|Aquasol
+72195|Rosa
+72196|Ejido
+72197|Natura Park
+72199|Finca Son Bielo
+72202|Barcelona Center
+72203|Bungalows Caribe
+72204|Barcelo Valencia
+72205|Hostal de la Gloria
+72206|Serhs Del Port
+72207|Xarc
+72208|Confortel Aqua 4
+72209|Confortel Aqua 3
+72210|Bodega Real
+72211|Miraya
+72213|Tamanaco
+72214|Albergue Pirenarium
+72218|La Mota
+72221|HG Alto Aragon
+72224|Nou Vielha
+72227|Reveron Apartaments
+72228|Quo Godoy
+72230|Teror
+72233|Camino de Granada
+72235|Sabina Playa
+72280|Apartments HSM Torrenova Playa
+72650|Dona Margarita
+72991|Complejo Formentera I/II
+73096|Molinos
+73097|Resort Alp 2500
+73098|La Finca El Paso
+73099|Prime Comfort California
+73100|Pueblo La Paz
+73101|Nastasi Hotel & Spa
+73102|Nautico
+73104|Vilar Rural de Cardona
+73105|Vilar Rural de Sant Hilari
+73106|Judoca Colors
+73107|Vacances Menorca Resort - Son Blanc Cottage
+73108|Leo
+73109|El Castell de Ciutat
+73110|Eurostars Anglí
+73129|El Mirador
+73130|Los Naranjos
+73191|Be Ramblas Hostel
+73227|Carlos III
+73228|Aguas Salinas
+73229|Husa Al Kazar
+73230|Carlemany
+73231|Regina
+73235|AR Diamante Beach
+73236|Ambar Beach
+73237|AC Alicante
+73238|Hotel Empordà
+73239|Sol Ponent
+73240|Estrella del Mar
+73242|Gales
+73243|Domus Selecta Catedral Almeria
+73244|Husa Don Manuel
+73245|Paraiso Beach
+73246|La Coma
+73499|Entresierras
+73500|Costa Narejos
+73501|Aragon Hills Hotel & Spa
+73502|Sol-Mar
+73503|Sant Joan
+73504|Cal Sastre
+73505|Els Cacadors de Macanet
+73506|Comte Tallaferro
+73507|Husa Pou Clar
+73508|Xons Valencia
+73510|Las Vinas
+73512|Picasso
+73513|Mirallac
+73514|Villas Macaro
+73515|Hyltor
+73516|Montero Golf
+73823|Neptuno
+73825|Sol Triton
+73826|AC Palau de Bellavista
+73827|L'Hort
+73830|Don Felipe
+73871|H TOP Alexis
+73880|Hap-Dreams
+73881|Mundial Club
+73884|Silken Puerta América
+73886|Petit Palace Tres Cruces
+73887|Petit Palace Alcala Torre
+73957|Lido
+73958|Les Drassanes
+73959|Rioja
+73960|Barcelona Catedral
+73961|A1 Gracia
+74012|Balneario de Arnoia Caldaria
+74013|Balneario de Laias Caldaria
+74014|Balneario de Lobios Caldaria
+74019|Hotel La Virgen
+74020|Balneario do Rio Pambre
+74024|Gloria Palace Royal Hotel & Spa
+74300|Oca Villa de Sarria
+74439|Urban Dream Hotel
+74548|Novotel Barcelona Cornella
+74549|Novotel Bilbao Exhibition Center
+74612|Advance
+74613|Komplex Jeremias Hotel & Jeremias Appartments
+74614|Las Olas
+74615|Royal Nayef
+74616|Sheraton Madrid Mirasierra Hotel & Spa
+74617|IBB Costa Azahar
+74618|Complejo Rural Caicune
+74619|Petit Palace Plaza del Carmen
+74620|Mendigoia
+74621|Zabala
+74622|Arbeyal
+74642|Mar del Norte
+74643|Piramide
+74644|Casona del Busto
+74647|Husa Paseo del Arte
+74667|Best Western Mar Menuda
+74668|Hotel Acacia Suites & Spa
+74681|Marina Arpon
+74682|Residencial Nuevo Mexico
+74683|Superaticos
+74684|La Cumbre
+74688|Royal Apartments
+74689|L'Agora
+74706|Silvota
+74881|Room Mate Mario
+74882|Barcelo Torre Arias
+74883|Room Mate Alicia
+74884|Confortel Auditori
+74886|Pere III
+74887|Domus Selecta Bremon
+74888|Hesperia Tower
+74889|Hotel San Cayetano
+74902|Hispania
+74903|Playa San Antonio
+74904|La Encina
+74905|Zenit Valencia
+74910|Royal Garden Villas & Spa
+75031|Las Dalias
+75032|Senator Cadiz Spa Hotel
+75033|Los Veleros
+75034|Betania
+75035|Trinisol II
+75037|Cinco Plazas
+75040|Dausol I & II
+75041|Arenas Blancas
+75042|Mayra
+75043|Eurostars Lucentum
+75044|La Caseta
+75070|Rosaleda Doncel
+75071|Rosaleda del Mijares
+75075|Cesar
+75092|Vista Real Hotel-Apartamentos
+75093|Rural Casablanca
+75119|Smartline Cala'n Bosch
+75295|Pestana Arena
+75339|Los Jeronimos
+75340|Catalonia las Cortes
+75341|Candido
+75344|San Telmo
+75345|Diamar
+75365|Sunshine Villas
+75366|Arcos Playa
+75368|Bonaire
+75400|Lliteras Appartements
+75402|Exe Las Canteras
+75405|Grand Ciudad del Sur
+75412|Barceló Jandia Resort - Barceló Jandia Mar
+75452|Lusso Velilla
+75457|Marcomar
+75468|El Rincon de las Descalzas
+75470|Vime Islantilla
+75471|Husa Santo Domingo Plaza
+75472|Balneario de Archena - León
+75473|Valles
+75496|Un Patio en Santa Cruz
+75538|Marylanza Golf Resort
+75544|Sancho III
+75545|Marina d'Or Beach
+75601|Finca La Crucita
+75604|Hospederia Mirador de Llerena
+75605|Red Nest Hostel
+75606|Cordoba Center
+75607|Hospedería Castillo del Papa Luna
+75608|Barcelo Aranjuez
+75609|Rice Palacio de los Blasones
+75610|NH Plaza Mayor
+75670|Regency Club
+75671|Hacienda San Ygnacio
+75672|Hosteria Catalana
+75673|Playa Miramar
+75674|Margas Hotel & Golf
+75675|Dalia
+75676|Hotel Montjoi
+75712|Finca Son Lluch
+75739|Montemar Maritim
+75759|San Francisco Monumento
+75762|La Manga Residencial
+75763|La Fonda
+75771|EL Velero
+75848|Fontecruz Toledo
+75851|Pension Don Claudio
+75852|La Cabaña
+75854|Villa Retiro Resort
+75857|Domus Selecta El Convent De Begur, Hotel & Restaurant
+75860|Hyde Park
+75951|Holiday Inn Elche
+75954|Las Terrazas del Albir
+75956|Cortijo Mar
+75971|Partner Almoratin
+75972|Cedran
+75973|The Westin Valencia
+75977|Los Girasoles I
+75978|Los Girasoles II
+76014|Abrevadero
+76080|Bahia de Almuñécar
+76106|Cabogata Garden
+76114|Barceló Castillo Beach Resort
+76115|Luisiana
+76201|La Hacienda del Molino
+76217|Blanco Sol
+76218|azuLine Costa Mar
+76252|Hotel Plaza de Toros
+76255|Puerta de Santillana
+76268|Swiss Moraira
+76297|Princess Garden Resort - geschlossen
+76299|Continental
+76300|Serenity
+76301|Xaloc
+76302|San Martin
+76303|Complejo el Remo
+76304|Oasis Atalaya
+76500|Balneario Playa Coma-Ruga
+76503|Silken Ciudad Gijon
+76505|Midama
+76509|H10 Casanova
+76510|Sorolla Palace
+76512|Comillas
+76535|Santiago
+76545|Villa El Mocanal
+76703|Fayna & Flamingo & Los Arcos
+76822|Fincas Isla Bonita
+76874|Golf Costa Brava
+76875|Tropical
+76876|Vita Embajador
+76911|Romantica - Juan Benitez
+76913|Pamplona
+76921|Petit Palace San Bernardo
+76942|Atalaya de La Campina
+76943|AinB Born-Tiradors
+76975|Lido Llobet
+77028|Mirador de Santa Ana
+77061|Son Julia Country House
+77115|Riatoxa
+77116|Hotel Sun Galicia - Hotel / Apartamentos
+77117|Molina Lario
+77118|Puente de la Toja
+77121|Miraolas
+77122|Hesperia Getafe
+77123|Troncoso
+77124|I-Hotel Madrid
+77125|Francabel
+77126|Room Mate Laura
+77127|Valencia Park
+77129|Travelodge Barcelona Hospitalet
+77135|Sol Lunamar
+77136|Calamijas
+77137|Carlos V
+77181|Insotel Es Pi Dos
+77183|Residencial SPA Aqquaria
+77185|Clarimar
+77187|Olimpia
+77195|JM Puerto del Rosario
+77201|Casa Rural Bailon
+77202|Villa Abona
+77204|Casa Rural El Cango
+77211|Villas Parque del Rey
+77212|El Mirador
+77217|Jardines Paraisol
+77231|Las Norias Residencia
+77265|Los Jandalos Santa Maria
+77330|Oca Atlántico
+77331|Peregrina
+77340|Ramblanova
+77341|Campanile Madrid East - Alcala de Henares
+77342|Campanile Madrid West - Las Rozas
+77439|Exe Amaral
+77464|Es Ravells d'Or
+77474|Parque Cattleya
+77480|Avenida de Canarias
+77487|Travelodge Las Rozas
+77490|Saint George
+77497|Ciudad Encantada
+77498|Bell Raco
+77536|Arc la Rambla
+77618|Plateros
+77620|Agustinos Hotel
+77771|Estrella del Alemar
+77773|San Millan
+77774|Sa Rota d'en Palerm
+77775|Sallés Hotel & Spa Cala del Pi
+77776|Sensol
+77777|Paraiso Mar
+77778|Soho
+77779|Holiday Inn Express Molins de Rei
+77780|Pazo de Lestrove
+77783|Husa Puerta de Segovia
+77800|AC Palacio Universal
+77801|AC Vila de Allariz
+77802|Arago 565
+77846|Playamar
+77850|El Salats
+77851|URH Moli del Mig
+77857|Euba
+77858|NH Balago
+77859|Halcon Palace
+77860|Arcea La Arquera
+77861|AC La Finca
+77862|Husa 525
+78008|Jorge I
+78009|Del Comte
+78050|Dona Paquita
+78123|Roc Lago Park Apartments
+78160|Macia Real de la Alhambra
+78161|II Castillas
+78162|Miramar Barcelona
+78163|Sercotel Odeón Hotel
+78164|Bartos
+78185|Parque Sol
+78186|Colon Rambla
+78191|Princesa Solar
+78193|Al Andalus
+78209|AC Som
+78266|Rural Son Granot
+78272|Ana
+78289|Valenciaflats Ciudad de las Ciencias
+78290|IBB Masia de Lacy
+78416|HTOP Royal Sun Suites
+78418|Robinson Club Playa Granada
+78424|Abades Nevada Palace
+78444|Sercotel Pazo do Rio
+78448|Casa de Tepa
+78449|Hospederia de Santo Domingo
+78450|Mas Roig
+78453|La Fuente Del Sol
+78455|Rural El Tesorillo II
+78553|Rafael Madrid Norte
+78554|Bungalows Orange Park
+78555|Arcea Balcon de la Cuesta
+78556|La Casona del Arco
+78570|Macia Plaza
+78571|Albaida
+78602|Room Mate Lola
+78616|Playa Dorada
+78617|Villa de Adeje Beach
+78651|Bulevar
+78652|Ceylan
+78653|Husa Wuppertal
+78654|NH Parla
+78718|Petit Palace Barcelona
+78719|Univers
+78744|Panorama Apartments
+78754|Mediterráneo & Mediterráneo Park - Mediterráneo Park
+78769|San Francisco Park
+78780|Utopia
+78806|Beatriz Toledo Auditorium & Spa
+78840|Petit Palace Museum
+78841|Catalonia Ramblas
+78853|Rio Park
+78854|HG Maribel
+78855|Intur Castellon
+78878|abba Atocha
+78923|Alcazaba Mar
+78987|App. Pinos Playa
+79081|Villas Cala Galdana
+79082|Suenos de Mar
+79099|Beatriz Appartements
+79170|El Sombrerito
+79172|Arcs de Monells
+79173|Villa Marisol / Marisol Park
+79174|Adsubia
+79201|Serhs El Montanyà Resort & Spa
+79202|Hotel Alga
+79203|Colon Thalasso-Termal
+79470|Puerto Plata
+79471|BAH Barcelona Airport
+79482|Hotel La Perla
+79483|Girona Nord
+79484|Ancora
+79501|Finca Torre el Socorro
+79503|Casa Elvira
+79529|Mirador de Montoro
+79724|Acinipo
+79725|Medinaceli
+79726|Domus Selecta La Racona
+79776|Vilar Rural de Arnes
+79786|Jardin del Sol
+79820|Hotel Antiga
+79941|Athene
+79942|Caprici
+79972|Holiday Inn Express Madrid - Alcorcon
+79973|Solimar
+79991|Pinar del Mar
+79992|Fiesta Beach
+79993|UR Misión de San Miguel
+80037|Camping Playa Brava
+80072|Holiday Inn Express Madrid - Alcobendas
+80073|Anaco
+80075|Purple Nest Hostel
+80076|Hospital Benasque
+80077|Jaume
+80078|Nova Centro
+80248|Cabogata Plaza Suites
+80249|AinB Picasso-Corders
+80250|AinB Gothic-Jaume I Apartments
+80261|Poblado Marinero
+80262|Doña Pakyta
+80348|Salobre Villas
+80349|Los Algarroberos
+80351|Villa de Tauro
+80360|Casa Dona Herminda
+80362|Tajona
+80368|Villa Jameos
+80378|Villas Blancas
+80383|Doña Lola
+80384|La Ermita
+80386|Fairplay Golf
+80389|Casas Colon Bungalows
+80446|La Vila
+80447|Marina Delfin Verde
+80577|Villas Monte Verde
+80659|Cuevas La Granja
+80660|Marina Turquesa
+80720|Arenteiro
+80721|Liabeny
+80724|AinB Born Damas
+80725|Estel
+80726|Triskel
+80727|Tramuntana
+80729|Residence Bellavista
+81121|Oasis Maspalomas
+81262|Las Buganvillas
+81374|Camping Bon Repos
+81375|Camping Vall d'Or
+81593|Villa Mandarina
+81594|Villa Barranquets
+81597|Villa Pla
+81599|Villa Puchol
+81600|Villa Benicuco
+81601|Villa Cami Vell
+81602|Atlas Park Apartments
+81605|Bonavista de Bonmont
+81606|Fataga
+81607|Europa House Sun Beach
+81612|Villa de Catral
+81613|BQ Can Picafort
+81615|Montanes
+81616|Posada la Casona de Guelitos
+81618|NH Constanza
+81622|Attica 21 Villalba
+81623|Ogalia
+81943|Tres Vidas
+81945|Las Flores
+82069|Casa d´Ivori
+82070|Marina Rey
+82071|Velad Al-Abyadh
+82072|Balneario de Archena - Levante
+82073|Posadas de España Cartagena
+82074|Bilbaino
+82075|Mas de Canicatti
+82076|Ciutat de Barcelona
+82077|987 Barcelona
+82078|Campo Olivar
+82079|Rey Fernando
+82082|NH Fuenlabrada
+82085|ETH Rioja
+82194|Daniya Alicante
+82196|Torre Yago
+82210|Balneario de Archena - Termas
+82227|Casa los Draguitos
+82230|Finca El Vergel Rural
+82264|Casa Verde
+82265|Eva Bungalows
+82267|Casa Todoque
+82331|Casas Carmen
+82375|Bruc
+82402|Aldea del Mar
+82403|Vertice Aljarafe
+82406|Mas de Baix
+82407|Blason Junior
+82408|Crunia
+82530|Villava
+82531|Eden Rioja Salinas
+82532|Magalluf Strip Apartment
+82533|Gardenias
+82534|Infante
+82535|Cancun
+82537|Llevant Apartments
+82538|Les Brases
+82539|El Cortijo
+82540|Hotel La Morera
+82541|La Perla
+82542|Casa Vera de la Hoya
+82543|Trocadero Plaza
+82544|Hotel Garbi
+82659|Villa las Terrazas
+82736|Hotel Can Xiquet
+82754|Caleta
+82755|Pueblo Torviscas
+82756|Club la Mar
+82757|Abril
+82758|Dos Rios
+82759|Els Cacadors de Ribes
+82760|Lyon
+82761|Motion Hostel
+82762|Las Artes
+82763|AC Feria de Madrid
+82764|Villa Emilia Barcelona
+82765|NH Puerta de la Catedral
+82767|Foxa 3 Cantos
+82768|Posada del Valle
+82769|Vincci Palace
+82770|Portal de L'Angel 1/2/3
+82771|Apartamento Diputacio
+82772|Ascarza
+82773|Exe Suites 33
+82899|Villasol
+82900|Carema Playa Resort - Carema Club Playa
+82901|Smartline Marina
+82902|Piscis
+82903|Trh Magalluf
+82904|Llevant
+82905|Massol Apartments
+82906|Pinos Altos
+85033|Novo Sancti Petri Aparthotel
+85034|Bungalows Novo Sancti Petri
+85141|La Cava
+85142|Berga Park
+85144|Mercure Thalasia Costa de Murcia
+85145|BH Almanzor
+85146|Pinomar
+85147|Serantes
+85149|Convento la Gloria
+85150|Plaza
+85155|Comendador
+85157|Villas Villajardin
+85158|Eurogolden
+85159|Salou Center
+85160|Vera Coast
+85162|Cortijo de Zahara
+85163|Hotel Palacio de Luces
+85164|El Calon
+85165|Manolo
+85166|Elba Carlota
+85171|Morito Beach
+85458|Casa Benicia
+85459|Casa Conchita
+85460|Casa Pintado
+85461|Finca Rodadero
+85462|Casa Aljibes
+85467|Casa Lisa
+85468|Casa Anita
+85473|Dosjoimi
+85475|Reina Felicia
+85476|Domus Selecta Posada Dos Orillas
+85488|Gracia Donada
+85489|Iriguibel
+85490|Balneario de Arnedillo
+85491|Acta BCN 40
+85492|Husa Plazaola
+85493|Gran Hotel Liber & Spa
+85667|FC Hotelux Villalba
+85668|Amura - geschlossen
+85669|Ferrera Beach Apartments
+85670|Balneario Parque de Cazorla
+85671|Maria Cristina
+85672|El Molino
+85674|Isla de la Garena
+85675|Cabo de Mar
+85676|Hey Peñiscola
+85706|Caleta
+85737|AC Recoletos
+85738|Meliá Valencia
+85739|Resort Oasis
+85740|Benimar
+85752|Ciutat Granollers
+85753|La Sayuela
+85758|Don Quijote
+85840|El Vivero II
+85841|Salceda
+85842|Las Dunas
+85843|Los Juncos
+85844|Torre Cristina
+85845|Turimar
+85846|Urbania Club
+85912|Coso Viejo
+85913|Tres Hermanos
+85915|Arturo Soria Centre el Parque
+85917|Gran Duque
+85919|Teguisol
+85920|Silken Zentro
+85921|Suites Torrecorinto
+85923|Bufon de Arenillas
+85924|Monte Feliz
+85928|Barceló Sancti Petri - Spa Resort
+85929|AinB Las Ramblas-Guardia
+86011|Iberostar Isla Canela Park - geschlossen
+86150|Windrose Bungalows
+86153|Carasol
+86355|Costa Blanca
+86356|Pompeya
+86357|Roda Golf Beach Resort
+86361|Playa Principe
+86363|Monte do Gozo
+86364|HRC
+86373|Barcelo Malaga
+86374|Suites Viena
+86375|Carmen
+86376|Atlantic Garden
+86628|Las Walkirias
+86732|Fergus Montemar
+86743|Es Desmais
+86750|Condal
+86867|Agroturismo Can Guillem
+86868|Las Damas
+86869|Sierra Cortina Resort
+86870|Alba de Layos Golf & Medispa
+86871|Esmeralda Beach
+86872|Bilbi
+86873|Mediterraneo Real
+86874|Malibu
+86875|Marconfort Essence
+86876|Posada la Vallina
+86877|Zenit Pamplona
+86879|Hospes Palacio de Arenales & Spa
+86880|Hotel La Vila
+86881|Vila UAB
+86882|Al Andalus
+86883|Husa Casa de la Torrecilla
+86884|Vincci Via 66
+86885|Vincci Frontaura
+86886|Marycielo
+86887|Palas Salou
+86957|Cotillo Beach
+86970|Montpalau
+87108|4C Bravo Murillo
+87109|BS Capitulaciones
+87132|El Convento
+87133|Faisan
+87135|Salud l'Om
+87138|Eurostars Mijas Golf
+87140|Gran Hotel Jovellanos
+87143|Arti 1
+87144|Arti 2
+87148|Vall de Bas
+87154|La Posada de Montellano
+87155|Ona Riviera
+87162|Cala d'Or
+87166|Hostal Rom
+87167|Mas Palou
+87169|Villas Corralejo
+87170|Villas del Sol
+87174|Sacristia de Santa Ana
+87184|Isabel
+87186|Els Quimics
+87188|Costa Verde Albir
+87328|Pula Country Club
+87338|Marisma Sancti Petri
+87432|Medium Valencia
+87701|Husa Moncloa - geschlossen
+87808|Gran Balneario Blancafort
+87954|Aparthotel Vallés
+88298|Puerto Magina
+88497|Intur Alcazar de San Juan
+88511|Duran
+88999|Gran Guadalpin Banus
+89086|Ribera de Triana
+89104|Globales Simar
+89168|H TOP Royal Sun
+89200|Don Pepe
+89213|Coral Star Hotel & Apartments - Apartments
+89236|Beta Albufera
+89241|Playaballena Spa
+89261|Balneario Termas Pallares - Gran Hotel Cascada/ Termas/ Parque
+89267|Campanile Elche
+89269|Campanile Alicante
+89274|Santa Fe - ab Sommer 2015 Grupotel Santa Fe
+89362|Monterrey
+90009|Hotel Villa VIK
+90010|El Llano Residencial
+90011|Macià Villa Blanca Granada
+90070|Marina Beach
+90072|Bahia de San Antonio
+90073|Independencia
+90074|Suances
+90087|Fergus Pax
+90096|Les Torres
+90098|Santa Ana
+90099|Domus Selecta Hospedería Conventual de Alcántara
+90100|Marlasca
+90102|Palacio Arteaga
+90103|Gran las Rozas
+90104|Cortijo Chico
+90105|Ganivet
+90106|Rambla
+90107|Gran Hotel Sol y mar & Apartamentos del Mar - Gran Hotel Sol y mar
+90108|Gema
+90109|Los Juncos
+90122|Luz Del Mar
+90133|L'Oar Ferreries
+90166|Playa d'Or
+90188|Ciutat Mollet
+90273|Hilton Garden Inn Málaga (opening in September 2015)
+90365|Petit Palace Plaza
+90516|Teneguia
+90517|Atis Tirma
+90524|Green Park
+90538|Tamaran
+90541|Arimar
+90543|Canaima
+90544|Castillo del Sol
+90549|Revoli Playa
+90669|Atlantic Beach Club
+90692|Casa de Hilario
+90736|Los Rosales
+90742|Casa Llanito
+90743|Casa Isaac
+90810|Be Live Family Costa los Gigantes
+90811|Oasis Casa Vieja Hotel & Villas
+90901|Vista de Rey
+90952|Chateau la Roca
+91329|Las Rosas
+91477|Riviera Park Appartements
+91603|Finca El Peral de Lila
+91619|Eco Alcala Suites
+91620|Parador Cruz de Tejeda
+91622|Carril
+91623|Balcon del Mar
+91624|Castell de Mata
+91625|Vapor Gran
+91626|Las Tejas
+91627|Victoria IV
+91628|Durval Puerta de Alcala
+91629|Confortel Puerta de Triana
+91630|Posada la Torre de la Quintana
+91631|Terraluna
+91632|El Greco
+91633|Diego's
+91635|Gravina Cinco
+91665|Sunotel Central
+91672|Torre Pacheco Spa
+91673|Caserio de San Jose de Las Vegas
+91760|Gijon Gandia
+91761|Curhotel Hipocrates
+91773|Vita Beret
+91845|Torrenueva Park Appartements
+91847|Maypa Appartements
+91855|Jardin Las Hayas
+91897|Don Juan
+91944|Aparthotel S'Olivera
+92113|Montserrat Hotel
+92114|Alhacaba
+92115|Ardales
+92117|F&G Logrono
+92118|Room Mate Oscar
+92119|Barcelo Oviedo Cervantes
+92120|Husa Convento Santa Clara
+92121|Be Smart Madrid Albufera
+92122|Parador de la Granja
+92123|NH Puerto de Sagunto
+92179|Casas De Parauta
+92180|Marola Park
+92181|Camino
+92182|Centro Burgos Los Braseros
+92183|Los Habaneros
+92192|Las Rosas
+92209|Protur Biomar Gran Hotel & Spa
+92221|Nou Petrer
+92222|Casa Rural Cal Masiu
+92476|MelonDistrict Poble Sec
+92477|Catalonia Avinyo
+92610|Villa Alcudia
+92718|Resort Naspun
+92722|Zhero Hostal Deluxe
+92769|Illa Mar d'Or
+92775|Torremirona Golf & Spa Resort - Aparthotel TorreMirona (Vila Birdie)
+92776|Sidorme Girona-Figueres
+92777|Bahia Aparthotel
+92779|Ona Club Novelty
+92795|UR Azul Playa
+92797|Campanile Murcia
+92798|AGH Tactica
+92799|Posada Real Pascual
+92806|Villas Galdana Palms
+92809|Elimar
+92879|Pierre & Vacances Residenz Benalmádena Principe
+92895|Gran Melia Palacio de Isora & Red Level
+92963|ROC Continental Park
+92976|Ibiza Granhotel
+93153|Oca Augas Santas
+93154|HG La Molina
+93155|Las Nieves
+93156|Domus Selecta Las Torres
+93157|Novotel Valladolid
+93158|Ciutat Vella Hotel
+93159|Sierra Hidalga
+93160|Casa las Flores
+93161|Stella Polaris Oro Blanco
+93295|Playamarina Spa Hotel & Apartments - Playamarina Spa Hotel
+93303|Nerea
+93421|Casa Sta Lucia
+93905|Holiday Inn Express Madrid Airport
+93975|abba Playa Gijon
+94057|abba Huesca
+94658|Holiday Inn Express Onda - Provincia De Castellon
+95022|Sandos San Blas Nature Resort & Golf
+95023|Elba Costa Ballena Beach & Thalasso Resort
+95028|Casa Montymar
+95058|Sunset Bay Club
+95061|Compostela Beach Golf Club Apartments
+95062|Club La Costa Paradise
+95065|Sunwing Resort Fanabe
+95066|Palm Beach Club
+95128|Finca Can Davero
+95150|Misiana
+95273|Vall de Pollensa
+95277|Sa Rota Nova
+95278|Ca'n Rius
+95304|Posada La Plaza
+95305|Villa Oniria
+95341|Santa Clara Urban Hotel & Spa
+95389|Tenerife Royal Gardens
+95734|Mirador de Dalt Vila
+95754|Sercotel Spa Porta Maris & Suites del Mar - Sercotel Suites del Mar
+95767|Petit Palace Tamarises
+95768|Hotelandgo.com Miranda
+95791|El Goleto
+95793|Villages Golf Panoramica
+95795|Villas Sagitario
+95797|Valenciaflats Rooms
+95798|Novotel Madrid Sanchinarro
+95800|Be Live Adults Only La Cala
+95801|Octavio
+95803|Cap de Creus
+95805|Bon Retorn
+95806|Mas Ros
+95808|Montehueznar
+95871|abba Santander
+95889|Dos Mares
+95903|UR Palacio Avenida
+95991|De San José
+95992|Finca la Salud
+96013|Villa Strelitzia
+96022|Residencial los Calderones
+96023|Casa Pancho
+96072|Pocillos Club
+96082|Las Buganvillas
+96089|Villas & Club Bahiazul
+96107|Bahia Park
+96110|FGA Liceu App.
+96112|Salou Mediterráneo Apartments
+96187|Imperial
+96192|Puerta del Sol
+96200|Casinomar
+96596|Valenciaflats Centro Histórico
+96602|Fonda de la Tea
+96604|Nova Senia
+96606|La Fructuosa
+96607|Caballo Andaluz
+96635|San Antonio Appartements
+96636|Hilton Sa Torre Mallorca Resort
+96638|Marqués de Riscal
+96673|Del Carmen
+96674|Sercotel Ciutat de Montcada
+96676|Guadalmedina
+96677|Talaimendi Apartamentos Turisticos
+96678|Husa Via Barcelona
+96679|Boutique B&B
+96680|Euromar I-II
+96688|Las Norias
+96696|AH Granada Palace
+96697|Punta del Cantal Suites
+96698|Mar i Vent
+96699|Rio Suber
+97264|Daniel Apartments
+97265|Festa Apartments
+97452|Globales Verdemar
+97527|Salsadellans
+97532|Balcon de los Montes
+97534|Casa Rural Lavin
+97535|Urbanizacion del Sol Apartamentos
+97611|Balneario de Solares
+97612|Sercotel Hotel Artheus Carmelitas
+97613|El Cigarral de Caravantes
+97620|Asur Aracena Park Hotel & Spa
+97796|Reihenhäuser Palm Beach
+97906|Ca'l Lloro
+97946|Son Matias Beach
+97947|Sol Daurat
+97948|Royal Inn
+97965|Camping Santa Elena Ciutat
+97967|Calella Park
+97969|Odissea Park Appartements
+98148|Confortel Valencia 3
+98192|Nautic
+98225|Africana
+98241|Los Quemados
+98338|Barceló Punta Umbría Beach Resort
+98717|Viva Cala Mesquida Club & Spa
+99258|Club Vista Serena
+99406|Sanguli Caravanpark
+99499|Hospes Madrid
+99500|Castro Real
+99501|Maria Jimena
+99502|A Estrada
+99503|Ciudad de Móstoles
+99749|Villa Alena
+99750|Rio Verde
+99753|UR Portofino
+99754|Puerto Azul
+99755|Ses Ones
+99756|Es Cavall
+99757|Sheraton Bonmont Golf Resort & Spa
+99758|Hotel Mas del Joncar
+99759|Magic Atrium Plaza
+99760|Camprodon
+99761|Villa Padierna Thermas de Carratraca
+99782|Confortel Barcelona
+99797|Silken Gran Teatro
+99868|Roquer Marti
+99878|Murmuri
+99879|Eurostars BCN Design
+99880|Barceló Asia Gardens Hotel & Thai Spa
+99881|Fonda Siques
+99890|Lloyds Beach Club
+99893|Montblanc Park
+99906|Novotel Barcelona Sant Joan Despi
+99911|Hospes Villa Paulita
+99913|Residencial Novogolf
+99914|Hoyo 12 Oliva
+99967|Cataluña
+100112|Delfin
+100116|La Ventana
+100117|La Torre del Canónigo
+100118|San Miguel
+100120|Avenida
+100127|Cas Ferrer Nou Hotelet
+100128|Ses Cases de Fetget
+100129|Son Amoixa Vell
+100141|Sant Joan de Binissaida
+100148|Aguas de Ibiza & Spa
+100252|Carlos V
+100280|Domus Selecta Pazo Los Escudos Hotel & Spa Resort
+100281|AH San Fermin Suites
+100282|Turisticos Meridiano7
+100396|Cervantes
+100397|Lux Sevilla Palacio
+100454|Manilva Green
+100455|Atalayas y Flamencos - Atalayas de Riviera
+100457|Atalayas y Flamencos - Villas los Flamencos
+100460|VIK Club Coral Beach / Villas Coral Deluxe / Villa Vista Mar / Coral Premium
+100602|Apsis Mas Sola
+100603|California
+100604|Foxa Molino de Cantarranas
+100605|Los Escullos
+100606|EME Catedral
+100607|Erasmus Gracia
+100608|El Pescador
+100609|Sidorme Valencia Aeropuerto - Feria
+100651|Vista Mar Appartements
+100654|Barceló Castellana Norte
+100656|Iberostar Grand El Mirador
+100780|Riazor
+100781|Playa Campello
+100782|El Paraiso
+100783|Zen Balagares
+100784|Splendom Suites
+100785|Sumaiya El Palacio
+100789|Residencial el Poblado
+100790|Albayt Country Club & Resort
+100792|Granada Centro
+100793|Kris Ciudad de Sabiñanigo
+100794|Sa Clau
+100795|Campos de Baeza
+100796|Torrezaf
+100797|Xauen
+100798|Elena Apartamentos
+100799|A&H Suites Madrid
+100800|Vincci SoMa
+100801|Las Gacelas
+100802|El Mirador
+100805|Eurostars Palacio Buenavista
+100806|Hotel Foxa Valladolid - geschlossen
+100807|Balneario Termas Pallares - Gran Hotel Cascada
+100888|Room Mate Leo
+100889|La Sierra
+100890|Hesperia Hermosilla
+100891|La Aldea Suites
+100893|IGH Vega de Triana
+100894|Castellar
+100900|Ciscar
+100902|Agora Spa & Resort
+100905|Oro Playa
+100906|Empuries
+100914|Buenavista Benidorm
+100965|El Sorrall
+101002|Es Ratxo
+101135|Playa Calera
+101354|Es Quatre Cantons
+101384|Doña Lola
+102205|Don Benito
+102376|La Residence
+102445|AS Hoteles Porta de Barcelona
+102446|Barcelo Raval
+102528|Servatur Casablanca
+102534|Villas Puerto Calero
+102603|Sercotel Torremangana
+102634|Eurico
+102635|Sol Hotel & Hostal
+102733|Allada Residence
+102734|Omm
+102735|Aramunt Apartments
+102736|Bardon Aparthotel
+102737|Hesperia Fira Suites
+102784|Ruta Jacobea
+102785|Blu
+102786|Sun Palace Albir
+102787|AC Almeria
+102788|Mirablau
+102789|Langrehotel
+102828|Petit Palace Canalejas Sevilla
+102836|Andalussia
+102837|Conilsol
+102840|Leo Canela
+102841|Borgia
+102842|Tryp Los Angeles
+102843|Izan Prado Real
+102844|Holiday Inn Express Malaga Airport
+102845|Zodiaco
+102846|Puente Romano de Salamanca
+102847|Casa del Prior
+102848|Portal del Caroig
+102851|Tryp Zaragoza
+102852|Eurostars Palace
+102853|Sercotel La Boroña
+102854|Hernan Cortes
+102855|El Capitan
+102856|Costa Esmeralda
+102857|Pierre & Vacances Residence Torremolinos Stella Polaris
+102863|Fuerte Estepona
+102864|Anfi Emerald
+102890|Don Alberto
+102891|Villa de Pravia
+102892|Buenos Aires
+102925|Fincas Alicia
+102935|Mares
+102936|Trias
+102937|Villas la Granja
+102938|Ereza Villa Arboles
+102939|Villas Don Rafael
+102940|Sercotel Rio Bidasoa
+102941|Holiday Inn Express Girona
+102942|Salles Hotel Aeroport Girona
+102944|Be Live City Center Talavera
+103010|Señorio de Oropesa
+103011|Puertomar
+103012|Voramar
+103017|Vila d'Orpesa VII Aptos
+103018|Villa los Remos
+103020|Castillo Beach Puerto
+103021|Dabarca
+103022|Blue Beach
+103023|TOP CHESS Mexico
+103073|Posada Aire de Ruesga
+103074|Las Arenas Apartments
+103075|Las Brisas
+103076|Complejo Bellamar
+103077|Petxines Apartaments
+103078|Terrasol Torre del Mar Apartamentos
+103080|Ryans Ibiza Apartments
+103082|Amandi
+103083|Can Remirat
+103085|Petit Rocamar
+103087|Nou Hotel & Apartament
+103090|CT ElVimar
+103091|San Juan
+103171|Finca Cortesín
+103190|Adorea Benalmádena Appartements
+103225|Paraíso Playa Apartamentos
+103463|La Malcontenta
+103464|5Flats
+103465|El Chalet del Golf
+103602|Holiday Inn Express Barcelona City 22
+103690|JM La Cala Sun Apartments
+103698|Don Juan Apartements
+103935|Alfonso I
+103936|Alfonso VIII
+103937|Alhama
+103997|Amalurra
+104078|El Madroño
+104084|Convencion Barajas
+104085|Apartamentos Hispanos Siete Suiza
+104088|Apartamentos Turisticos Olano
+104134|Arco De San Juan
+104246|Avenida
+104247|Avenida de España
+104383|Domus Selecta Bellas Artes
+105572|Tajo del Aguila
+105657|La Casa del Maestro
+105689|Castillo Lanjaron
+106006|Comfort Cesaraugusta
+106406|Conde Rodrigo
+106417|Barceló Santa Cruz Contemporáneo
+106662|Iberostar Las Letras Gran Via
+106751|Don Gonzalo
+106791|Duque de Wellington
+106804|Ebora
+106858|El Molino
+106878|Domus Selecta Embarcadero
+106906|Estudiotel Alicante
+107026|Holiday Inn Express Pamplona
+107051|Nexh
+107346|Gran Albacete
+107351|Gran Lakua
+107353|Gran Victoria
+107464|Habitat Center Los Girasoles
+107468|Hacienda Playa
+107579|Hilton Madrid Airport
+107857|Santuario de Arantzazu
+107858|Hospederia Monasterio de Rueda
+107863|Hostal Juan XXIII
+107864|Hostal La Fontana
+107949|Huerta Honda
+107982|Ibis Barcelona Meridiana
+107984|Ibis Jerez De La Frontera
+107986|Ibis Malaga Avenida Velazquez
+108025|Infanta Cristina
+108099|Jardin de Recoletos
+108100|Jardin de Tres Cantos
+108276|La Moraleja
+108307|La Vega
+108347|Las Brujas de Becquer
+108356|Las Nieves
+108361|Las Villas de Antikaria
+108463|Leon
+108509|Lintzirin
+108632|Marina d'Or 3
+108681|Marriott's Playa Andaluza
+108695|Marriott's Marbella Beach Resort
+109135|Monica
+109173|La Carreta
+109186|Mozarbez
+109429|Oasis
+110065|Regio I
+110414|Mar Brava
+110416|Vincci Seleccion Estrella del Mar
+110545|Lopesan Baobab Resort
+110547|Montera Plaza
+110624|Meliá Barcelona Sky
+110646|Rua
+110653|Domus Selecta Rural Soterraña
+110666|S'Aguarda
+110680|Salinas de Imon
+110693|San Fernando
+110703|San Roman de Escalante
+110705|San Vicente
+110713|Sansi Lleida
+110718|Sheraton Santa Maria del Paular
+110844|Sierra Real
+111030|Suite Prado
+111386|Tudela Bardenas
+111480|Ibis Styles Arnedo la Rioja
+111753|Siete Islas
+111773|Best Western Trafalgar
+111808|Villamadrid
+111814|Comfort Claridge
+111867|Tres Reyes
+121502|Espahotel Plaza de España
+122263|El Sombrero Apartments
+122567|Domus Selecta Villa Nazules Hipica Spa
+122568|Reina Isabel
+122569|Cordon
+122571|Brisasol Pins Marina
+122572|Casas de la Juderia
+122574|Santos Maydrit
+122576|Petit Palace Mayor Plaza
+122577|Eurostars Madrid Tower
+122579|Husa Puerta de Zaragoza
+122580|Diagonal Plaza
+122593|Las Folias
+122884|Montjuic Barcelona
+124034|Las Ramblas Apartments II
+124035|Las Ramblas Apartments III
+124037|Festival Village
+124245|Plaza
+124246|Los Llanos
+124247|BS Principe Felipe
+124250|Palacete Santa Ana
+124253|Ciutadella Park
+124254|Las Ramblas Apartments I
+124256|Flor Parks
+124257|Aiguablava
+124258|La Estación
+124259|Regente
+124260|Alqueria
+124261|Barceló Cádiz
+124262|Oriola
+124263|Atlantic Holiday Center
+124266|Doña Lola
+124267|Casa Cornel
+124268|Simba
+124269|Villas Estrellas
+124270|Sol Apartamentos
+124273|Ronda
+124274|Pont de Pedra
+124275|Senator Granada Spa Hotel
+124276|Presidente
+124277|Eden Mar
+124278|Leo Varios Islantilla
+124280|Apartamentos Alcaudon-Alcaravan
+124281|Leo San Bruno I - II
+124282|Leo Los Cisnes / Albatros
+124283|Leo Ipanema
+124284|Leo Velamayor
+124286|Leo Islamar
+124287|Cala Bahía
+124289|Altovento
+124291|Victoria
+124292|Benzua
+124293|Sercotel Portales
+124294|Hacienda Real Los Olivos
+124296|NH Las Tablas
+124298|Majadahonda
+124301|Anfora
+124302|Bienestar Moaña
+124303|Pueblo Dorado I
+124307|La Cabaña
+124309|Gran Hotel La Perla
+124311|Bungalows Villamar
+124312|Sundays Beach
+124313|Don Carlos de Peñiscola
+124314|Princesa de Eboli
+124316|Villas El Varadero
+124318|Tenesoya Gay Men Only Bungalows
+124319|Villas Pollensa
+124320|Hostal HPC Portocolom
+124323|Room Mate Vega
+124324|Tahiti
+124325|Apartaments CYE Salou
+124326|Mariposa
+124327|Hacienda Montija
+124329|Sant Feliu
+124330|Hotelux Casa del Trigo
+124331|Complejo Los Infantes
+124333|YH Giralda
+124334|Adriano
+124335|Paquete Artístico
+124336|Paquete Diversión y Relax
+124337|Paquete Gastronomía y Golf
+124338|Leonardo da Vinci
+124339|Apartamentos Bib Rambla
+124340|Monte Gorbea Apartamentos
+124341|Campos de Castilla
+124342|Cadosa
+124344|Asset Torrejon
+124345|Real Balneario Carlos III
+124346|Primus Valencia
+124998|Poseidon II Apartamentos
+125327|Catalonia Port
+125328|Cram
+125330|Hotel 54 Barceloneta
+125341|Hostal Luis XV
+125343|La Villa Marbella - Boutique
+125344|Welcome Suite
+125347|Pepe Mesa

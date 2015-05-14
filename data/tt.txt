@@ -1,0 +1,58 @@
+3936|Blue Waters Inn
+3937|Coco Reef Resort / Spa
+3938|Crown Point Beach
+3939|Grafton Beach Resort
+3942|Turtle Beach by Rex Resorts
+8028|Arnos Vale Resort
+9112|Blue Haven
+10712|Conrado Beach
+13756|Hampden Inn / Hampten Inn
+14027|VHL Tobago Golf & Spa Resort
+15242|Kariwak Village
+16070|Le Grand Courlan Resort & Spa
+16779|Manta Lodge
+18251|Half Moon Blue
+19125|Plantation Beach Villas
+21331|Seashells Villas
+22227|The Villas at Stonehaven
+23244|Toucan Inn
+23386|Tropikist Beach
+23458|Turtle View Residence
+31989|Kapok
+31990|Pax Guest House
+48105|Cascadia
+48107|Footprints Eco Resort
+48114|Salybia
+48115|Sandy Point
+48116|Seahorse Inn
+51447|Sherwood Park
+51448|Radisson Hotel Trinidad
+51450|Canoe Bay Resort
+53031|Hilton Trinidad & Conference Center
+61755|Tobago Beach Villas
+61818|Sealevel Guesthouse
+64559|Tobago Island Suites
+64562|Speyside Inn
+72932|Lighthouse Apartment
+73157|Maracas Bay
+73248|Chaconia
+73249|Coblentz Inn
+73250|The Normandie
+77405|Motown Guest House
+77406|Moniques Guest House
+77493|Sundeck
+77494|Par May La's Inn
+77495|AliciaÂ´s House Limited
+77612|Ambassador
+77621|Forty Winks Inn
+78153|The Royal Palm Suite
+78831|Inn on the Bay
+91373|Cuffie River Nature Resort
+110395|Bacolet Beach Club
+110580|Hyatt Regency Trinidad
+162807|Carlton Savannah
+163373|Bamboo Walk
+244603|Magdalena Grand Beach Resort
+368242|Sugar Mill Suites
+368960|Airport Suites
+407814|Heritage Inn

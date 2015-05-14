@@ -1,0 +1,217 @@
+6999|Lorenzo Main Resort
+7588|Amanpulo
+8401|Badian Island Wellness Resort
+8622|Bayview Park
+9161|Bohol Beach Club
+10434|City Garden
+10534|El Nido Apulit Island Resort
+10537|Club Paradise
+11981|El Nido Lagen Island Resort
+11982|El Nido Miniloc Resort
+12991|Fridays Boracay
+14273|Waterfront Manila Pavilion Hotel & Casino
+16463|Lorenzo South Beach Resort
+16752|Mandarin Oriental Manila
+16765|Manila
+16885|Maribago Blue Water Beach Resort
+18679|Paradise Garden Resort
+18894|Pearl Farm Beach Resort
+19091|Patio Pacific
+19124|Plantation Bay
+21476|Shangri-La's Mactan Resort & Spa
+22525|Tambuli Beach Club
+22794|The Heritage Manila
+22921|The Peninsula Manila
+23058|Sofitel Philippine Plaza
+32405|Ananyana Resort
+37918|Alona Palm Beach Resort
+38808|Dos Palmas Resort
+38809|Hotel Jen Manila
+47470|Alegre Beach Resort
+47472|InterContinental Manila
+47473|Diamond Manila
+47474|Edsa Shangri-La Manila
+47475|Pan Pacific Manila
+52440|Berjaya Makati
+52441|Dusit Thani
+52442|Garden of Eden
+52635|Boracay Regency Beach Resort
+52637|Red Coconut
+57651|Estacio Uno Lifestyle Resort
+57652|Coco Beach Resort
+59972|Dolphin House
+60853|Kimberly
+60862|Mandala Spa
+60904|Seawind
+61578|Pinjalo
+73147|Makati Shangri-La
+75861|Hyatt Regency Hotel & Casino Manila
+76234|Best Western Boracay Tropics Resort
+77235|Cebu City Marriott
+77236|Waterfront Cebu City Hotel & Casino
+77237|Marco Polo Davao
+77248|Marco Polo Plaza
+77249|Holiday Plaza
+77251|Mövenpick Resort & Spa Cebu
+77252|Costabella Tropical Beach
+77380|Sumilon Bluewater Island Resort
+81707|El Dorado Beach Resort
+81708|Oasis Resort
+88609|Linden Suites
+88681|New World Makati
+89203|Best Western La Corona Manila
+90252|Amorita Resort
+91094|Pearl Garden
+91095|Microtel Inn & Suites
+91429|Sangat Island Reserve
+91545|Best Western Oxford Suites Makati
+91746|Millennium Plaza Serviced Residences
+91959|Discovery Shores
+92459|Asya Resort
+93515|The Parklane Cebu
+93518|Crown Regency Hotel & Towers Cebu
+93520|Somerset et Salcedo Residences
+93523|Somerset et Millenium Residences
+96002|Legend Palawan
+96009|Panglao Island Nature Resort
+103462|Executive Plaza
+103644|Atrium
+103646|Crown Regency Makati
+103647|Garden Plaza Suites
+103648|Crowne Plaza Galleria
+105730|Century Park Manila
+106724|Discovery Suites
+107692|Holiday Inn Manila Galleria
+108017|Imperial Palace Suites
+108359|Las Palmas
+109044|Microtel Inn & Suites - Santo Tomas Batangas
+109047|Microtel Inn & Suites Eagle Ridge
+109048|Microtel Inn & Suites Luisita
+109049|Microtel Inn & Suites Baguio
+110185|Richmonde
+111154|The Bellevue Manila
+122216|Blue Star Dive & Resort
+122217|Hippocampus Beach Resort
+122218|Love's Lodge
+122220|Coco Grove Beach Resort
+122237|Dolphin Bay Beachfront Resort
+122877|G Hotel by Waterfront
+122879|Eskaya Beach Resort & Spa
+124839|Le Soleil de Boracay
+128890|Malayan Plaza
+129755|Grand
+129758|Lotus Garden
+129759|Ascott Makati
+129761|Somerset Olympia
+129762|Fraser Place Manila
+132956|Days
+132958|Waterfront Airport & Casino
+132959|Days Cebu Airport
+132963|Days
+132964|Bsa Suites
+132965|Miramar
+132968|Hostel 1632
+132974|Citadel Inn Makati
+132975|Makati Palace
+132976|Palm Plaza
+132977|El Cielito Makati
+132979|The Pearl Manila
+132982|Days
+134212|City Garden Makati
+134310|Asian Mansion II Condotel
+134312|BSA Mansion Condotel
+134313|Best Western Plus Antel
+134314|The Tides Hotel Boracay
+134315|The Mabuhay Manor
+135289|Mabuhay Dive Resort
+135333|Action Geckos Resort
+135334|Amontillado Beach Resort
+135335|La Estrella Beach Resort
+135339|Lost Horizon Beach Resort
+135340|Mermaid Resort
+135341|Whispering Palms Bungalow Resort
+135342|Sipalay Easy Diving and Beach Resort
+135438|Prince Plaza II Condotel
+135439|The Garden Heights
+135440|Regalia Tower Suites
+135441|The Royal Bellagio
+136228|Shangri-La's Boracay Resort & Spa
+136229|Atmosphere Resort
+137378|Vida
+137576|Alta Vista de Boracay
+137810|Hotel Fleuris Palawan
+137838|Crown Regency Suites & Residences Mactan
+137976|Torre Venezia
+138413|Cebu White Sands at Maribago
+138430|Waterfront Insular Davao
+138449|Crown Regency Residences
+138450|Crown Regency Residence
+138544|El Rio Y Mar Island Resort
+140139|Orchid Garden Suite Manila
+161921|Astoria Plaza
+162143|Microtel Inn & Suites Davao
+182814|Astoria Boracay
+182815|Boracay Mandarin Island Hotel
+182965|Two Seasons Resort
+196016|Boracay Ocean Club Beach Resort
+201687|Diplomat
+202570|Amarela Resort
+202722|Crown Regency Prince Resort
+227423|Henann Garden Resort
+227424|H2O
+227802|Bohol Sea Resort
+227826|Exotic Island Dive & Beach Resort
+227827|FloWer Beach Resort
+227829|Southern Leyte Divers & Resort
+227890|Misibis Bay
+228572|Nandana Boracay
+234544|Crown Regency Beach Resort
+234545|Fairways & Bluewater
+234550|The Farm at San Benito
+234564|Crimson Beach Mactan Island
+234566|7 Stones Boracay Suites
+234568|Lancaster Manila
+234571|Henann Lagoon Resort
+234595|Kasai Village Beach Resort
+236154|Eastwood Richmonde
+237078|Panglao Bluewater Beach Resort
+239983|The B
+241508|Pearl Lane
+244216|Radisson Blu Cebu
+244224|St Giles Makati
+246215|Be Resorts Mactan
+246226|Subic International
+246481|Holiday Inn Makati
+247802|Armada Manila
+260592|Sheridan Beach Resort & Spa
+260968|Picasso Boutique Serviced Residences
+261449|El Nido Resorts Pangulasian Island
+261450|Calypso
+262439|Oasis Paco Park
+278637|Asya Premier Suites
+283718|St. Ellis
+284166|Quest Hotel & Conference Center Cebu
+284168|Cebu Business
+287174|El Nido Floating Hotel
+295448|Maxims
+297244|Kawayan Holiday Resort
+297247|Kokay's Maldito Dive Resort
+297761|Turtle Bay Dive Resort
+300238|Manila Marriott
+359539|Buri Resort & Spa
+359542|Infinity Resort
+359544|The Bellevue Resort
+359545|Momo Beach House
+359546|The District Boracay
+363272|Dive Point Alcoy
+363278|Sumisid Lodge
+363465|Polaris Beach Resort
+366666|Oakwood Premier Manila
+369589|Days Cebu Toledo
+370713|Raffles Makati
+372076|Acacia Manila
+390960|Magic Island Dive Resort
+408741|South Palms Resort Panglao
+410477|Crimson Hotel Filinvest City Manila
+411410|Amun Ini Beach Resort & Spa
+411546|Pico Sands Hotel

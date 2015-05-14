@@ -1,0 +1,149 @@
+7762|Silberstein
+12495|Fernandina
+13461|Grand Guayaquil
+18379|Oro Verde
+19723|Quito
+20367|Rio Amazonas
+26400|Swissotel Quito
+27221|Hilton Colon Quito
+27222|Mercure Alameda Quito
+27223|Radisson Royal
+27225|Sierra Madre
+31811|Dann Carlton Quito
+38960|Finch Bay Eco - Galapagos
+54792|Sheraton Guayaquil
+54793|Unipark
+65563|Hampton Inn Guayaquil Downtown
+65564|Hilton Colon Guayaquil
+72017|JW Marriott Quito
+72018|Patio Andaluz
+76145|Mantaraya Lodge
+76146|Alandaluz
+76150|Santa Lucia
+76151|Hacienda Abraspungo
+76410|Luna Runtun Adventure Spa
+76411|La Mirage Garden
+83634|Barcelo Colon Miramar
+84147|Eugenia
+84357|Best Western Plus Plaza Casino
+85229|Sacha Lodge
+88302|Akros
+88420|El Conquistador
+88582|La Fontana
+88654|Barnard
+88655|Howard Johnson La Carolina
+91286|La Vieja Cuba
+91501|Oro Verde Cuenca
+92093|Albemarle
+92378|Mansion del Angel
+92379|Mansion de Alcazar
+92380|Carvallo
+92381|Hacienda Pinsaqui
+92386|Hacienda La Cienega
+92472|Solymar
+93381|Red Mangrove Aventura
+106421|Continental
+109495|Oro Verde Machala
+109496|Oro Verde Manta
+110406|La Casa de Marita
+130830|Hosteria Ushupud
+130831|Sebastian
+130833|Nu House Boutique
+138033|LA ANDALUZA
+139075|Le Parc
+151677|Cabanas Isla del Sol
+151678|Holiday Inn Express Quito
+151679|Howard Johnson Guayaquil
+151681|La Colina Suites
+151682|La Piedra
+151683|Lugano Suites
+151684|Palace Guayaquil
+151687|Ramada
+151690|Sandmelis
+151691|Sheraton Quito
+151693|Stubel Suites & Cafe
+182737|Palmeras
+190086|Anahi Boutique
+195957|Courtyard Guayaquil
+227502|Casa Natura
+228148|Iguana Crossing
+228245|Royal Decameron Mompiche Beach Resort & Spa
+233315|Plaza Sucre Boutique
+233317|Hosteria Ecologica Sumak Pakari
+235410|Red Mangrove Floreana Lodge
+238098|San Vicente
+239377|Victoria
+241549|Casa Gangotena
+241606|Reina Isabel
+246873|El Cráter
+247718|Galería Man Ging
+248372|Howard Johnson Loja
+248375|Sonesta Guayaquil
+254652|Hostal Canela y Miel
+254653|Mediterráneo Quito
+254655|Samari Spa Resort
+254663|Hostal Quito Cultural
+254666|Antinea
+254669|Bed and Breakfast Tumbaco
+254670|Travellers Inn
+254673|Andino
+254674|Catedral Internacional
+254675|Villa Nancy
+254677|Villa Esperanza Homestay
+254679|La Casa Amarilla
+254680|Casa Valladolid
+254681|Ventana B&B
+254683|Los Balcones Boutique
+254684|Morenica del Rosario
+254685|Coronel
+254687|La Casona
+254690|Santa Mónica
+254691|Plaza St. Rafael
+254692|Suites Guayaquil
+254695|CityPlaza
+254696|Alexander
+254698|Orilla del Río Boutique
+254701|Atlantic
+254704|HM International
+254705|Manso Boutique
+254708|Casa de Romero
+255727|Galapagos Suites
+257020|Marvento
+257743|Jardines del Río
+257891|Lun Fun Manta
+257984|El Marqués
+257985|Chill Inn
+261133|Royal Decameron Punta Centinela
+261617|Casa Opuntia
+271287|Rincón Escandinavo
+271290|La Casona de la Ronda Boutique
+271291|Melrose Plaza Suites
+271292|Fuente de Piedra II
+271293|Hostería La Mesón del Quijote
+271295|Sol de Quito
+271299|Gran Quitumbe
+271300|Hostal Ecuador
+271302|Casa San Rafael
+271304|Casa Lloret Hostal
+271305|Hostería Caballo Campana
+271307|MC Suites
+271308|Sol de Oro
+272837|Angermeyer Waterfront Inn
+276473|Albemarle
+276474|Hostal La Gran Tortuga
+276873|Casa Ceibo
+276874|Puerto Ballesta
+286350|Septimo Paraiso
+286351|Yumbo Spa And Resort
+286352|Casa Del Aguila
+291982|Huasquila Amazon Lodge
+291985|San Andres Lodge & Spa
+291986|Hacienda Chorlavi
+291988|Villa de Tacvnga
+291990|Balsa Surf Camp
+291995|Hamadryade Lodge
+291996|Madre Tierra
+328711|Francisco 1 y 2
+368078|Holiday Inn Guayaquil Airport
+368079|Wyndham Guayaquil
+400914|Glamour

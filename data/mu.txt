@@ -1,0 +1,180 @@
+1937|Long Beach
+1938|One & Only Le Saint Geran
+1939|Beachcomber Shandrani Deluxe Resort
+1940|Klondike
+1941|La Pirogue
+1942|Pearle Beach
+1943|Sofitel Mauritius L'Imperial Resort & Spa
+1944|Villas Caroline
+1945|Beachcomber Le Mauricia
+1946|Beachcomber Le Victoria
+1947|Beachcomber Royal Palm
+1948|Beachcomber Trou aux Biches
+1951|Merville Beach
+1952|Villas Mon Plaisir
+1953|Veranda Grand Baie Hotel & Spa
+1955|Shangri-La's Le Touessrok Resort & Spa
+1956|Beachcomber Le Paradis Golfclub & Resort
+1957|Berjaya Le Morne Beach Resort
+1962|Silver Beach
+1963|Maritim Mauritius
+6557|Émeraude Beach Attitude
+6559|Coin de Mire Attitude
+6560|Ambre
+6562|Casuarina Resort & Spa
+6563|Coral Azur Mont Choisy
+7002|Mourouk Ebony
+8644|Dinarobin - Dinarobin Hotel & Golf Club
+8645|Beachcomber Le Canonnier
+8655|Lux Belle Mare
+8740|Constance Belle Mare Plage
+9120|Blue Lagoon Beach
+10590|Le Récif Attitude Resort
+10910|Cotton Bay
+13955|Hibiscus Beach Resort & Spa
+14010|Hilton Mauritius Resort & Spa
+14948|Island Sports Club
+15703|La Maison d'Été
+15747|La Plantation Resort & Spa
+16126|Veranda Palmar Beach
+16147|Constance Le Prince Maurice
+16165|Le Surcouf
+16174|Tropical Attitude
+16243|Les Cocotiers
+16266|Lux Le Morne
+16766|Manisa
+18200|Ocean Beach Hotel & Spa
+18677|Paradise Cove
+18875|Veranda Paul & Virginie Hotel & Spa
+19774|Le Meridien Ile Maurice
+22325|Le Sugar Beach Resort
+22878|The Oberoi Mauritius
+22961|The Residence
+24157|Veranda Pointe aux Biches
+26129|Blumarine Attitude
+26131|Les Cocotiers
+26140|Friday Attitude
+26274|The Sands Resort
+27383|Valtur Le Flamboyant
+31442|Calodyne Sur Mer
+32651|Lux Grand Gaube
+35283|Indian Resort & Spa
+38196|Le Preskil Beach Resort
+38898|Le Palmier
+38901|Sakoa Boutik Hotel
+39066|Club Med La Pte. aux Canonniers
+39579|Tarisa Resort & Spa
+47585|Heritage Awali Golf & Spa Resort
+47860|Tamarin
+48151|Heritage Le Telfair Golf & Spa Resort
+51420|Outrigger Mauritius Resort & Spa
+52718|Pointe Venus
+53026|Maradiva Villas Resort & Spa
+55983|Coral Beach Bungalows
+56382|Le Palmiste
+57586|Gold Beach
+57701|Clifford
+59182|Blue Bird - Appartement -
+59574|Astroea Beach
+61105|Jet 7 Apartments
+61866|Villa Eureka 1
+63374|Sous Le Badamier
+64720|Les Lodges Andréa
+64772|Le Ti Fleur Soleil
+69067|Villas Seagull
+69518|La Palmeraie Boutique Hotel
+72676|La Mariposa Beach Resort
+76296|20° Sud
+76429|Les Chalets en Champagne
+76430|Lakaz Chamarel
+77736|Ocean Beauty
+80492|Shanti Maurice - A Nira Resort
+81951|Pik Pik
+82620|Villa Feng Shui
+82624|Villa La Pointe
+87331|Tamassa Resort
+92159|Club Med La Plantation d'Albion
+92984|Cape Garden
+93311|Four Seasons Resort Mauritius At Anahita
+95804|The Bay
+96115|Four Heavens
+99996|Villa Maison Blanche
+100000|Les Orchidees Apartments
+103004|Residence Capri
+103005|Casa Del Sol
+103254|The Westin Mauritius Turtle Bay Resort & Spa
+110487|Mont Choisy Beach Villas
+110489|La Pointe Villas
+110490|Residence Villas Mont Choisy
+110500|Acacia Apartments
+122689|Mornea
+122690|Voile d' Or
+124695|Oasis Beach Club
+135446|Best Western Laguna Beach Mauritius
+136120|InterContinental Mauritius Resort
+159711|Labourdonnais Waterfront
+159723|Le Suffren & Marina
+182853|La Margarita
+183189|Marlin Creek Residence
+187274|Anahita The Resort
+187864|Heritage the Villas
+196007|Aanari & Spa
+196008|Le Cardinal Exclusive Resort
+201724|Hennessy Park
+201749|Grand Bay Suites
+203105|Villa Narmada
+226499|Jalsa Beach Hotel & Spa
+226954|Villa Merville Oasis
+226956|Villa Ilot Malais
+227856|De Conti
+227862|Tamarina
+228171|Port Chambly Hotel & Village - The Address Boutique Hotel / Les Chamblynes Villas
+228662|Sofitel So Mauritius
+228740|Sankhara Villas
+229217|The St. Regis Mauritius Resort
+232892|Le Samara
+233335|Cape Bay
+234200|Péreybère Hotel & Apartments Mauritius
+236989|Angsana Balaclava
+237449|Bon Azur Elegant
+238090|Cape Point Seafront Exclusive Suites & Penthouses
+238092|White Oaks
+238298|Tamarinier Apartments
+238300|Mon Choisy Beach Resort
+238301|West Coast View Residence
+239067|Paradise Beach
+241266|Plage Bleue
+247483|Mascareignes Private Pool Villas
+260618|Poste Lafayette Resort & Spa
+260634|Belle Haven Luxury Apartements
+261669|Leora Beach
+277913|Maritim Cystals Beach Hotel Mauritius
+292232|Des 2 Mondes
+302292|Zilwa Attitude
+302363|Casa Florida
+302464|Moreva
+302512|Be Cosy Apart Hotel
+335022|Baystone Boutique Hotel & Spa
+354461|Athena Villas
+354462|Oasis Villas
+359374|Haute Rive Resort & Spa
+359388|Dodola Lodge
+359390|Solana Beach
+359550|Tekoma
+365580|La Hacienda
+367685|Domaine des Alizées Club & Spa
+401443|Gold Crest
+406242|Holiday Inn Mauritius Airport
+408896|Horizon Cap Ouest
+412160|Port Chambly Hotel & Village - The Address Boutique Hotel
+412177|Riu Coral
+412178|Riu Creole
+412179|Riu Le Morne
+413039|Dinarobin - Dinarobin Villen
+417553|Baladirou Villas
+417556|Chillpill Bed And Breakfast
+417557|Clos du Littoral
+417559|Gardens Retreat
+417563|Le Cerisier
+417565|Matibi Villa
+417571|Stylia Villas

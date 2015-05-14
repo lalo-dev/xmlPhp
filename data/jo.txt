@@ -1,0 +1,96 @@
+6537|Petra Inn
+7671|Amman International
+7891|Aqaba Gulf
+10987|Crowne Plaza Resort Petra
+11899|Edom
+13302|Golden Tulip Aqaba
+13476|Grand Hyatt Amman
+16405|Liwan
+17588|Mövenpick Resort Petra
+17592|Mövenpick Resort & Residence Aqaba
+17593|Mövenpick Resort & Spa
+18993|Petra Panorama
+20889|Dead Sea Spa
+21821|Taybet Zaman
+22952|The Regency Palace
+27575|Petra Palace
+27942|San Rock International Hotel
+27943|Landmark Amman
+30503|Le Meridien Amman
+30504|Commodore
+32017|Arena
+32018|Intercontinental Amman
+36604|Crowne Plaza Amman
+37905|Days Inn Hotel & Suites Amman
+37906|Mövenpick Nabatean Castle
+39387|Grand Palace
+39388|Kings' Way Hotel
+39421|Jordan Valley Marriott Dead Sea Resort & Spa
+52724|Marriott Petra
+52725|Amman Marriott
+56341|InterContinental Aqaba (Resort Aqaba)
+64682|Kempinski Amman
+65021|Four Seasons
+76361|Coral Bay Aqaba
+76424|Century Park
+76425|Kempinski Ishtar Dead Sea
+76976|Amra Palace
+77745|Grand View Resort
+78258|Holiday Inn Amman
+78259|Sheraton Amman Al Nabil Hotel & Towers
+84311|Darotel
+86932|Region
+90571|Evason Ma'In Hot Springs
+91161|Captain's Desert Camp
+91989|Feynan Ecolodge
+102927|Radisson Blu Tala Bay Resort
+107222|Geneva
+107385|Beit Zaman
+108443|Le Royal Amman
+110546|Cham Palace
+122503|Marina Plaza Tala Bay
+122581|Kempinski Aqaba
+124628|Arena Space
+129617|Bristol
+129618|Jerusalem International
+132280|Days Hotel Aqaba
+132282|Amman West
+132286|Al Dana Plaza
+135941|Canyon Boutique
+135942|Imperial Palace
+137871|Amman Airport Hotel
+182881|Mövenpick Resort Tala Bay
+183055|Holiday Inn Resort Dead Sea
+183206|Arabela
+188085|Petunia
+188086|Amaken Plaza
+204412|Alqasr Metropole
+211622|Ibis Amman
+211810|International Arab Divers Village
+216575|Ramada Amman
+217611|Sadeen Amman Hotel & Suites
+219691|Toledo Amman
+231888|My Hotel
+232171|Rio Jordan
+232442|Al Fanar Palace
+232443|Amman Inn
+232451|Larsa Amman
+234249|Le Vendome
+236625|Nayrouz Palace Amman
+237354|DoubleTree by Hilton Aqaba
+245995|Crowne Plaza Jordan - Dead Sea Resort & Spa
+249241|Prestige Suites
+259821|Mina Hotel
+261261|Winter Valley Warwick Resort & Spa
+265545|Warwick Il Palazzo Amman
+269740|Hisham
+269752|Gardenia
+269765|La Maison
+279203|Grand Millennium
+297138|Mariam
+298604|Belle Vue
+299972|Acacia Suites
+354484|Seven Wonders
+364982|Petra Guesthouse
+367794|Hilton Dead Sea Resort And Spa
+407885|Tetra Tree Hotel

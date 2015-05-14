@@ -1,0 +1,355 @@
+8128|Astoria
+8980|Neptun
+11055|Angleterre
+15314|Baltschug Kempinski
+15318|Grand Hotel Europe
+17060|Moscow Marriott Grand Hotel
+17398|Metropol Moscow Hotel
+17740|Moskwa
+17835|National
+19818|Radisson Slavjanskaja / Slavyanskaya
+20145|AZIMUT Moscow Olympic Hotel
+21561|Corinthia St.Petersburg
+21568|Sheraton Palace
+26120|Radisson Blu Royal St. Petersburg
+29339|Savoy
+29343|Ladoga
+32170|Golden Ring
+32171|Iris Congress
+32172|Arbat
+32173|Budapest
+32174|Ismailovo - Gamma / Delta
+32175|Kosmos
+32176|Marco Polo Presnja
+32177|Radisson Royal Moscow
+32178|Oktiabrskaya Hotel
+32179|Park Inn by Radisson Pulkovskaya
+32180|Ochtinskaja
+32181|Park Inn by Radisson Pribaltijskaja St. Petersburg
+32182|AZIMUT Hotel Saint Petersburg
+32183|St. Petersburg
+34158|Karelia
+34159|Poljustrowo
+34160|Atrium Palace
+34165|AMAKS Safar
+34168|Don Plaza
+34170|Azimut Samara
+34171|Park Inn by Radisson Poliarnie Zori, Murmansk
+34172|AZIMUT Hotel Siberia
+34173|Wolna
+34174|President
+34175|Radisson Lazurnaya
+34176|Zhemchuzhina
+34181|Tjumen
+34215|Kaliningrad
+34216|Moskwa
+34217|Russ
+38771|Ararat Park Hyatt Moscow
+38772|Crowne Plaza Moscow World Trade Centre
+38773|Dostojewskij
+48367|Taleon Imperial
+48524|Renaissance Baltic
+49997|Marriott Tverskaya
+50696|Novotel Moscow Sheremetyevo Airport
+50795|Guyot
+52410|Aerostar
+53270|Katerina City
+53271|Andersen
+56007|Novotel St Petersburg Centre
+59919|Juschny Ural
+61171|Arbat Nord
+64749|Swissotel Krasnye Holmy
+64751|Grand Palace
+65131|Kempinski Hotel Moika 22
+68156|Prometey Club
+68290|Scheksna
+69262|Ambassador
+70827|Holiday Inn Moskau - Lesnaya
+70828|Golden Apple
+70829|Sputnik
+70830|Oksana
+70832|Petro Palace Hotel
+72036|Moscow Marriott Royal Aurora Hotel
+72358|Novotel Moscow Centre
+72360|Rossiya
+75012|Sochi Breeze
+76122|Korston Hotel Moscow
+76952|Maxima Irbis
+76987|Peter 1
+76988|The Ritz-Carlton Moscow
+76989|Zarya
+76991|Helvetia
+79464|Milan
+79486|Holiday Inn Moscow Suschevsky
+79487|Grand Emerald
+79772|Rus-Hotel
+80049|Glamour
+80092|Salut
+85213|Bega
+85215|Holiday Inn Sokolniki
+85216|Warsaw
+85217|Airhotel Domodedovo
+85630|Moskomsport
+85935|Rossija
+86556|Brothers Karamazov
+89389|Nevsky Moyka 5
+89390|Nevsky Grand
+89391|Nevsky Aster
+89392|Nevsky Central
+90204|Borodino
+90208|Asteria
+90410|Sokos Olympia Garden
+91809|Solo Sokos Hotel Palace Bridge
+91810|Ural & Almaz Urala
+92997|Ibis Saint Petersburg Centre Hotel
+93531|Suleiman Palace
+93536|Shalyapin Palace
+93539|Golden Garden
+93723|Maxima Slavia
+95268|Hilton Leningradskaya
+96890|Mamaison All-Suites Spa Pokrovka
+96891|Proton
+99800|Petro Sport Hotel
+99801|SPB Vergaz
+99802|NasHOTEL
+100662|Hotel Arbat House
+100665|Tourist
+100670|Europa
+102542|Nevsky Express
+102738|Gulfstream
+102739|Marins Park Hotel
+102741|New Star
+102742|Pio Griboedova
+102743|Ural
+102744|Atlantik
+102745|Yekaterininskaya
+104164|Art Moscow
+104412|5Th Corner
+104414|Alexandrovsky Garden
+104417|Altay
+104425|Belgrad
+104432|Eurasia
+104439|Hermitage
+104454|Four Seasons Moscow
+104457|Novinka
+104459|Oktyabrskaya
+104462|Peking Hotel
+104465|Premier
+104467|Regina
+104474|Sretenskaya
+104478|Transhotel
+104487|Zvezdnaya
+107744|Holiday Inn Moskau - Vinogradovo
+110202|Rinaldi at Bolshoy
+110204|Rinaldi at Nevsky 105
+122404|Obuhoff
+122406|Hyatt Regency Ekaterinburg
+124869|Baltic Star
+124870|Lancaster Court
+124871|Pio Mokhovaya
+124872|Lyra
+124873|Egoeast Mini-Hotel
+128800|Rinaldi Olympia
+128806|Rinaldi Harmony
+128807|Rinaldi Art
+128808|Rinaldi Poetic
+128850|Rinaldi at Moskovsky Prospect 18
+135016|Usadba
+135017|Tschaika
+135018|Heliopark Kaiserhof
+135022|Universal
+135024|Falke
+135209|Marins Park
+135719|Park Inn by Radisson Sadu, Moscow Hotel
+137238|AMAKS Golden Ring
+139968|Courtyard St. Petersburg Vasilievsky
+139970|Holiday Inn St.Petersburg - Moskovskye Vorota
+139971|Solo Sokos Hotel Vasilievsky
+139975|Villa Anna
+139976|Peak
+139977|Cheri Hall
+139978|Vertol
+162198|Rinaldi Premier
+162232|Holiday Inn Chelyabinsk-Riverside
+162247|Meridian
+162259|Molodyozhny
+162285|AZIMUT Hotel Kostroma
+162286|Grand Avenue
+162297|Demidov Bridge
+162300|Alexanderplatz
+162309|Zhemchuzhina
+162310|Nevsky Forum
+162312|Centralny
+162326|Oktyabrskaya
+162332|Park Inn by Radisson Izhevsk Hotel
+162336|Berezka
+162351|Kadashevskaya
+162352|Amsterdam
+162362|AZIMUT Hotel Astrakhan
+162368|ParkCity Hotel - CEK
+162370|Voznesensky
+162371|Park Inn by Radisson Ekaterinburg
+162373|Hilton Garden Inn Perm
+162379|AZIMUT Hotel Vladivostok
+162385|Planernoye
+162394|Nevsky Dvor
+162397|AMAKS Tourist
+162398|Palantin
+162405|Grand Hotel Valentina
+162414|Kristoff
+162663|Courtyard Moscow City Center
+162671|Holiday Inn Samara
+162698|SkyHotel
+183715|Mandarin Residence
+187584|Park
+187666|Dynasty
+187693|Latitude 55
+187719|Kebur Palace
+187756|Ohotnik
+187775|Ring Premier
+187883|Aquarium
+187886|Astrus - Moscow City
+187934|Polyana Grand
+187954|Maxima Panorama
+196323|Holiday Inn Moscow - Simonovsky
+201410|Radisson Sonya St. Petersburg
+202326|Tourist
+202327|Lumier
+202329|Wolna
+203100|Aeropolis
+203211|Park Inn by Radisson Sheremetyevo Airport Moscow Hotel
+204413|Alrosa Hotel
+204491|AMAKS Congress
+204561|Anabel at Nevsky 88
+205433|Atrium
+208314|D'Hotel
+209869|Golden Triangle Hotel
+211630|Ibis Moscow Paveletskaya
+211715|Ilmar City
+214464|Nevsky Breeze
+214777|Orekhovo
+216566|Ramada Ekaterinburg
+216905|Residence Moika River
+219751|Tradition
+226683|Universitetskaya
+227437|Ibis Kazan Centre
+227853|Park Inn by Radisson Nevsky St. Petersburg Hotel
+228001|Rostov
+228355|Tatarstan
+228356|Sherston
+228357|69 Parallel
+228935|Olimp-5
+229085|Heliopark Smolino
+230114|Mirit
+230562|Courtyard St. Petersburg Center West Pushkin
+231629|Cronwell Inn Stremyannaya
+231644|Katerina Park
+231909|Baltica
+232096|Aquamarine Hotel Moscow
+232230|Midland Sheremetyevo
+232231|Renaissance Moscow Monarch Centre
+232232|SK Royal
+232233|Kassado Plaza
+232235|Doubletree Novosibirsk
+232466|W St. Petersburg
+233349|Lotte Moscow
+233401|AMAKS Premier
+233403|Hayall
+233404|River Park
+233424|Novosibirsk Congress-Hotel
+233425|Aston
+233755|Garden Ring
+238242|Novotel Yekaterinburg Centre
+238243|Crowne Plaza Ligovsky
+238245|Vostok
+238835|Radisson Blu Belorusskaya
+238927|Bristol
+238931|Brigantina
+238938|Mitino
+239277|Staybridge Suites St. Petersburg
+239358|Radisson Kaliningrad
+240223|Marins Park
+240225|Park Inn by Radisson Astrakhan
+240227|Ibis Sibir-Omsk
+240228|Ibis Nizhny Novgorod
+240229|AMAKS Park
+240230|Zolotoy Dzhinn
+240232|Uyut
+240233|Aminevskaya
+241733|InterContinental Moscow - Tverskaya
+241899|Mercure Arbat
+242323|Ramada Domodedovo
+243126|New Peterhof
+243127|Demetra Art
+243139|Red Stars
+243469|Comfitel City
+244241|Courtyard Kazan Kremlin
+246002|Crowne Plaza St. Petersburg Airport
+246323|Schloss Jantarny
+246668|Four Seasons Lion Palace
+247794|Best Western Plus Vega Hotel & Convention Center
+249306|Rings
+249307|Prestige
+259686|SV Hotel
+259688|De Paris
+259689|Onegin
+259690|Rimar
+259693|Business Tourist
+259694|Ermitage Pokrovka
+259695|Zolotoy Kolos
+259698|Voskhod
+259702|Courtyard Moscow Paveletskaya
+259704|Edelweiss
+259706|Academicheskaya
+259707|Uzkoe
+259712|Lefortovo
+259713|Tsaritsino
+259715|Vintage Sheremetyevo
+259716|Vedensky
+259717|Domina Prestige St. Petersburg
+259894|Bagration
+260238|Troy
+260239|Centralnaya
+260240|Smolninskay
+260241|Mercury
+260707|Azimut Moskau Tulskaya Hotel
+260840|Onezhsky Zamok
+260868|Rinaldi on Vasilievsky
+261248|SkyPoint
+261249|Rinaldi at Petropavlovskaya
+261744|Inside
+261748|Accent
+261751|Bristol
+276815|Park Inn by Radisson Rosa Khutor
+279575|Indigo St. Petersburg - Tchaikovskogo
+284276|Tulip Inn Rosa Khutor
+287665|Oktyabrskaya Hotel
+292843|Yaroslavskoe Podvorie
+292844|Sport
+295151|Soyuz
+295179|Barcelona Hotel
+295524|Ambassador
+298018|The St. Regis Moscow Nikolskaya
+300139|Park Inn by Radisson Sochi City Centre
+301657|Novotel Moscow City
+363532|Ismailowo Alfa
+363533|Ismailowo Beta
+363534|Ismailovo - Gamma
+363535|Ismailovo - Delta
+368305|The Official State Hermitage
+369092|Radisson Blu Paradise Resort & Spa Sochi
+391337|Swissotel Sochi Kamelia
+392406|Mercure Moscow Paveletskaya
+392409|Sheraton Moscow Sheremetyevo Airport
+401212|Ibis Moscow Centre Bakhrushina
+401384|AZIMUT Hotel Resort & Spa Sochi
+401476|Hyatt Regency Sochi
+401477|Radisson Blu Paradise Resort & Spa
+402651|Gorki Plaza
+402652|Sochi Marriott Krasnaya Polyana
+404662|AZIMUT Hotel Sochi
+405224|Golden Tulip Rosa Khutor
+405225|Tulip Inn Omega Sochi
+405253|Radisson Hotel, Rosa Khutor
+420171|Korston Hotel & Mall Kazan - Korston Royal / Korston Tower
+420186|Mirage Hotel

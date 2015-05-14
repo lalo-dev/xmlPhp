@@ -1,0 +1,188 @@
+41108|Cosmos
+41109|Anyos Park
+42501|Sport Hotel Village
+42502|Novotel Andorra
+42503|Cims Andorra
+42504|Plaza
+42505|Arthotel
+42506|Husa Centric
+42507|Salvia
+42508|De l'Isard
+42509|Cervol
+42510|Sant Jordi
+42511|Mercure Andorra
+42512|Diplomatic
+42513|Roc del Sola
+42514|President
+42515|Font del Marge
+42516|Andorra Center
+42517|Magic Andorra
+42518|Andorra Park
+42519|Holiday Inn Andorra
+42520|Andorra Palace
+42521|Carlton Plaza
+42522|Artic
+42523|Consul
+42524|Annapurna
+42526|Xalet Verdú
+42527|Patagonia
+42528|Velvet
+42530|St. Gothard
+42531|Princesa Parc
+42533|Xalet Besolí
+42534|Ski Plaza
+42535|Les Terres
+42536|Magic Canillo
+42538|Els Meners
+42539|Ahotels Piolets Park & Spa
+42540|Nordic
+42541|Euro Esqui
+42542|Somriu Eurotel
+42544|Montecarlo
+42545|Guineu
+42546|Coma
+42547|Tulip Inn Andorra Delfos
+42550|Pere d'Urg
+42551|Panorama
+42552|Comtes d'Urgell
+42553|Marco Polo
+42554|Segle XX
+42555|Els Cims
+42557|Casa Vella
+42558|Domus Selecta Hotel Del Pui
+42559|Hotel Exe Prisma
+42560|Encamp
+42561|Coray
+42562|Oros
+42563|Rutllan
+42564|Solaris
+42565|Himalaia Soldeu
+42566|Roc Blanc Andorra
+42567|Vall Ski
+42568|Sport Hotel Hermitage & Spa
+42569|Reial Pirineus
+42570|Antic
+42571|Sant Eloi
+42572|Eureka
+42573|Paris Londres
+42574|Kandahar
+42575|Hotel del Clos
+42576|Domus Selecta Niunit
+42577|Montalari
+42578|Confort Pas de la Casa
+42579|Roc de Caldes
+42580|Grau Roig
+42581|La Cabana
+42582|Pic Maia
+42583|Tropical
+42584|La Solana
+42585|Guillem
+42586|Austria
+42587|Himàlaia Pas
+42588|Refugi dels Isards
+42589|Angel Blanc
+42590|Confort Soldeu
+42591|Catalunya
+42592|Soldeu Maistre
+42593|Vilalta
+42594|Aparthotel Shusski
+42595|Font d'Argent
+42596|Imperial
+42597|Carlemany
+42599|Hotel Naudi
+42602|Parma
+42603|Del Meligar
+42605|Fenix
+42606|Bringué
+42609|Ransol
+42610|Boston
+42611|Magic Pas
+42612|Frontera Blanca
+54577|Hesperia Andorra la Vella
+57074|Cassany
+57077|Font d'Argent
+57078|Font
+60320|abba Xalet Suites
+61167|Alaska Aparthotel
+62365|La Mola
+71271|Magic La Massana
+71272|Espel
+72139|Hotel del Tarter
+72140|Bonavida
+72141|Metropolis
+73241|Sporting
+77145|Ahotels Princep
+77146|Vip Plus
+78267|Magic Ski
+78268|Griu
+78269|Tivoli
+82685|Acta Florida
+82686|Co-Princeps
+85129|Comapedrosa
+85393|Solana de Ransol
+97336|Chat
+98272|Univers
+100267|Cims Pas Estudios Turisticos
+101447|L'Obaga Blanca
+102600|Cristina
+103477|Vita Arinsal
+110464|Glaç Soldeu 3000
+136338|Llop Gris
+140488|Pitiusa
+140489|Servissim
+140490|Erts
+140491|Marfany
+140492|Coma Bella
+144367|Xalet Montana
+144368|Sant Bernat Apartments
+144420|Starc
+144422|Palarine Andorra
+144424|Casa Canut
+144425|Pol
+144426|Folch Residencia
+163439|El Xalet
+163440|Iglu
+163441|Palome
+182786|Paradis Blanc
+182787|Lake Placid
+182788|Deusol
+182898|Les Truites
+182899|Parador Canaro
+202439|Sol i Muntanya
+204863|Crest Pas Apartaments
+204872|Sant Moritz Apartaments
+204916|Llempó
+207130|Central
+207850|Crest
+213165|Les Closes
+214067|Hostel Micolau
+214755|Alfa
+221156|Giberga Apartaments
+221164|La Neu Aparthotel
+221736|Del Bisset
+222642|L'Ermita
+226777|Peretol
+227352|Montane
+228250|Llac Negre
+229264|Paris Encamp
+229265|Sant Miquel
+230187|K2 Apartaments
+232177|Les 7 Claus
+232178|Husa Mola Park
+235308|Prats
+235309|Santa Bàrbara de la Vall d'Ordino
+236608|Xixerella Park
+236958|Tristaina
+239451|Apartaments Els Llacs
+239454|Arbre De Gel
+239466|Petit
+239472|Sol Park
+240203|@Anem.com
+245648|Mu Plaza
+259391|Alberg la Comella
+265792|Aparthotel Iceberg
+274514|Roc del Castell
+274520|Aparthotel Rialb
+277124|Apartments La Neu II
+297023|Ahotels Piolets
+299633|Galanthus

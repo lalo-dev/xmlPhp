@@ -1,0 +1,170 @@
+1785|Bel Sol
+1787|Blue Sea Bugibba
+1788|Carolina
+1792|Dolmen
+1793|Primera
+1795|Santana
+1797|The Crown
+1798|Topaz Hotel
+1799|Paradise Bay
+1800|Comino
+1802|Radisson Blu Resort & Spa Malta Golden Sands
+1804|Calypso
+1805|Cornucopia
+1807|The Grand Hotel Gozo
+1809|L'Imgarr
+1810|Pardi Court
+1812|Razzett Bardan
+1826|Razzett Ta Guza
+1832|St. Patrick's
+1833|Ta' Cenc
+1834|Villagg Ta 'Sbejha
+1835|Xlendi Bay
+1836|Sundown Court
+1837|Corinthia Jerma Palace
+1839|Panorama
+1840|The Pergola
+1841|db Seabank Resort & Spa
+1843|Breakpoint Holiday Complex
+1844|Gillieru Harbour
+1845|Seashells Resort at Suncrest
+1846|Ramla Bay Resort
+1847|Coastline
+1848|Corinthia Palace & Spa
+1849|115 The Strand
+1851|Astra
+1853|The Carlton
+1855|Crowne Plaza
+1856|Days Inn
+1857|Diplomat
+1858|Europa
+1859|Fortina Hotel & Fortina Spa Resort - Fortina Spa Resort
+1861|Rocca Nettuno Suites
+1862|Imperial
+1863|Lapsi
+1864|Metropole
+1866|The Kennedy Nova
+1867|Park
+1868|Patricia
+1869|Bayview Hotel & Appartements
+1870|Plaza & Plaza Regency
+1871|Preluna & Towers
+1873|Sliema Chalet
+1876|Victoria
+1877|Windsor
+1878|Radisson Blu Resort Malta St. Julian's
+1879|Corinthia St. George's Bay
+1880|The Westin Dragonara Resort
+1881|Alexandra
+1882|Cavalieri Art Hotel
+1884|Forum
+1885|Marina Corinthia Beach Resort
+1888|Allegro Hotel
+1889|Blue Sea St. George's Park
+1892|Selmun Palace
+1893|Corinthia Mistra Village
+1894|San Pawl
+1895|Soreda
+1896|Sunny Coast
+1897|Castille
+1898|Phoenicia
+1899|Osborne
+1900|Ambassador
+5179|Milano Due
+6541|Luna Holiday
+6548|Porto Azzurro Resort
+6549|Tropicana
+8864|Bernard
+9068|Birbuba
+9646|Canifor
+10687|Concorde
+11264|Dean Hamlet Aparthotel
+13310|Golden Tulip Vivaldi
+13358|Gozo Village Farmhäuser
+14431|Mediterranea
+14668|Il Palazzin
+15235|Karanne
+15817|Blue Sea La Vallette Resort
+17239|Mellieha Bay
+19207|Plevna
+19565|Qawra Palace
+19949|Bella Vista Farmhouses
+19951|Razzett Ta' Karmnu Ghasri
+20568|Roma
+20925|Blue Sea San Anton
+20977|San Mark
+21080|Blue Sea Santa Maria
+22506|Tal Fanal Village
+22797|The Hilton Malta
+22869|The New Tower Palace
+22983|The Riviera Resort & Spa
+23037|Waterfront
+23291|Travellers Lodge
+24328|Wardija Hilltop Village
+24550|Xara Palace
+24747|Alfonso
+27384|Sliema Marina
+28071|db San Antonio Hotel & Spa
+28484|Valentina
+28695|Etvan
+33191|Kempinski San Lawrenz
+34298|be.HOTEL Malta
+34613|Maritim Antonine & Spa
+34982|San Andrea
+37771|Bella Vista
+37772|InterContinental Malta
+38498|Sunflower
+41014|Medallion Court
+41015|Solana
+47882|Juliani
+52975|Cerviola
+52990|Relax Inn
+56389|Le Meridien St Julians
+63705|Downtown
+75787|Razzett Ta' Wilga
+80141|The Palace
+80304|Sunseeker Holiday Complex
+81583|Seaview
+82810|Burlington
+85201|Dragonara Apartments Malta
+90001|Euroclub
+90210|Mavina Holiday Complex
+90821|Grand Hotel Excelsior
+91573|Canifor Court
+96315|Razzett Bruka
+99828|Esmeralda Club
+100113|St. Julians Bay
+100843|Porto del Sol
+101146|White Dolphin
+102051|Cardor Holiday Complex
+110609|Coral
+139399|Ulysses Aparthotel
+141845|Clover Holiday Complex
+141848|Landhaus Djar Ta' Menzja
+201723|Gozo House of Character
+202103|Ta Tina
+202104|Ta Rokon
+202105|Dar Id Dragun
+214898|Palazzo Capua
+219274|The Mercury Residence
+227277|The George
+228031|Qawra Point Holiday Complex
+228592|Damiani Apartments
+228593|Qawra Inn
+235351|Onyx Apartments
+236124|Argento
+242471|Gozo Serenity Farmhouses - Alley Way
+242472|Gozo Serenity Farmhouses - Tal Blata
+247818|Malta University Residence
+260351|Sliema Hotel Malta
+260446|Blue Sea St. George's Park & La Vallette Resort
+264629|Xlendi Resort & Spa
+265582|Fortina Hotel & Fortina Spa Resort
+265583|Fortina Hotel & Fortina Spa Resort - Fortina Hotel
+265587|Bayview Hotel & Appartements - Hotel
+265588|Bayview Hotel & Appartements - Appartements
+265589|Plaza & Plaza Regency - Plaza
+265590|Plaza & Plaza Regency - Plaza Regency
+266615|Club Salina Wharf
+311205|Water's Edge
+359924|Gozo Serenity Farmhouses - Haven / Harmony / Alley Way / Ta' Karlotta / Tal Blata / Serenity

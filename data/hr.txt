@@ -1,0 +1,1183 @@
+1692|Horizont
+1694|Valamar Club Dubrovnik
+1695|Valamar Dubrovnik President Hotel
+1696|Vis
+1697|Croatia Cavtat
+1698|Minerva
+1699|Podgorka
+1700|Brioni
+1701|Park Plaza Histria & Marina Wing
+1702|Verudela Beach & Verudela Villas
+1703|Bluesun Resort Afrodita
+1704|Bluesun Alga
+1705|Arkada
+1707|Jadran
+1708|Adriatiq Hotel Hvar
+1709|Palace
+1712|St. Roko
+1713|Trim
+6708|Omorika
+6709|Hotel Park Plaza Belvedere
+6711|Laguna
+6712|Maestral
+6713|Delfin
+6714|Valamar Diamant Hotel & Residence - Hotel
+6715|Laguna Molindrio
+6716|Laguna Galijot - Villa / Village / Appartments
+6717|Laguna Istra
+6718|Lanterna Appartements 2*
+6719|Valamar Pinia Hotel & Residence
+6720|Parentium
+6721|Pical Hotel
+6722|Valamar Rubin Hotel
+6723|Valamar Zagreb Hotel
+6724|Zorna
+6727|Light Allegro
+6728|Marina
+6729|Albona Hotel & Residence
+6730|Eden
+6732|Resort Villas Rubin - Hotel / Apartments
+6735|Sol Garden Istra Hotel & Village
+6736|Kanegra Apartments & FKK CampingIN
+6737|Melia Coral
+6738|Sol Polynesia Apartments
+6739|Stella Maris Resort - Sol Stella/ Sol Amfora/ Melia Istrian Villas
+6740|Naturist Park Koversada - Villas / Apartements
+6742|Resort Belvedere - Hotel / Apartments
+6863|Bluesun Berulia
+6864|Bluesun Maestral & Marina - Maestral
+6865|Dalmacija Beach
+6866|Meteor
+6871|Adriatic Beach Resort
+7110|Remisens Hotel Admiral
+7126|Adriatic
+7127|Adriatic Guest House
+7128|Adriatic
+7254|Laguna Albatros
+7262|Albatros
+7608|Remisens Premium Hotel Ambasador & Romantic Villa Ambasador
+7649|Amedea
+7790|Anna
+7975|Grand Villa Argentina
+7982|Argosy Hotel
+8093|Astarea Resort - Astarea 1 / Astarea 2
+8143|Astra
+8314|Aurora
+8316|Aurora
+8317|Sol Aurora
+8702|Beli Kamik I / Beli Kamik II (Smartline Island Krk)
+8748|Bellevue
+8750|Bellevue
+8765|Palace Bellevue
+9066|Biokovo
+9078|Bisevo
+9172|Hotel Bon Repos / Appartements Korkyra Gardens
+9175|Bluesun Bonaca
+9193|Bluesun Borak
+9238|Bozava - Lavanda / Agava / Mirta / Maxim
+9266|Bretanide
+9286|Bristol Lovran
+9787|Carolina
+10205|Cavtat
+10420|Cittar
+10575|Colentum
+10820|Hotel Corinthia-Baska
+11015|Crvena Luka Hotel & Resort - Hotel / Apartments
+11088|Dalmacija
+11749|Drazica Resort - Hotel Drazica / Dependance Villa Lovorka / Dependance Tamaris
+12027|Bluesun Elaphusa
+12222|Esplanade
+12333|Hotel Eva
+12349|Excelsior Dubrovnik
+12350|Excelsior
+12850|Adriatiq Resort Fontana - Hotel / Appartements
+12878|Valamar Isabella Island Resort
+13030|Maistra Resort Funtana
+13229|Girandella Tourist Village
+13502|Grand Hotel Park & Villa Park & Villa Marija - Grand Hotel Park
+13898|Helios
+13899|Helios
+14346|Holiday Village Zaton - Apartments / Camping / Mobilhomes
+14377|Horizont Golden Rocks Resort
+14703|Kornati
+14721|Imperial
+14724|Hotel Imperial Opatija
+14725|Grand Imperial
+14966|Hotel Istra Opatija
+14970|Solaris Beach Resort - Hotel Ivan
+14986|Njivice Resort - Jadran
+15068|Holiday Village Jezera Lovisca
+15069|Jezero
+15131|Solaris Beach Resort - Beach Hotel Jure
+15171|Sentido Kaktus
+15257|Kastel
+15258|Bluesun Kastelet
+15270|Katarina
+15373|Kimen
+15458|Kolovare
+15472|Komodor
+15473|Kompas Dubrovnik
+15489|Valamar Koralj Romantic Hotel
+15517|Kozarica
+15535|Valamar Crystal Hotel
+15834|Labineca
+15849|Lafodia Sea Resort
+15867|Laguna
+15874|Laguna Gran Vista
+15876|Materada Area - Laguna Materada
+15877|Materada Area - Laguna Park Village
+15930|Valamar Sanfior
+16024|Laurentum
+16312|Liburna
+16315|Lidija
+16387|Lisanj
+16725|Malin & Depandance Draga
+17020|Marco Polo
+17125|Matohanci
+17169|Medena
+17178|Mediteran
+17180|Laguna Mediteran
+17202|Medulin
+17459|Hotel Milenij
+17475|Maslinica Hotels & Resorts - Mimosa
+17544|Miran
+17570|Boutique Hotel Mlini
+17876|Bluesun Neptun
+17878|Valamar Bellevue Hotel & Residence
+17886|Neptun & Istra
+17985|Solaris Beach Resort - Beach Hotel Niko
+18217|Odisej Mljet
+18284|Olympia
+18326|Opatija
+18385|Orsan
+18391|Osmine
+18455|Padova
+18463|Palace
+18538|Palma - geschlossen
+18617|Panorama Zagreb
+18758|Park Plaza Arena Pula
+18759|Park
+18979|Resort Petalon - Hotel / Apartments
+19001|Pharos
+19086|Pineta
+19089|Pinija
+19136|Plavi
+19211|Plitvice
+19271|Porec
+19523|Vitalhotel & Appartements Punta - Vitalhotel
+19524|Punta
+19525|Komplex Punta - Hotel
+19549|Donat
+20638|Rotonda
+20976|San Marino - Sahara/ Rab/ Veli Me/ Plaza/Family Lopar
+21187|Savudrija / Moj Mir
+21400|Selce
+21690|Sipar
+21716|Hotel Epidaurus
+21717|Faraon
+21845|Adriatic
+21854|Park
+21870|Solaris Beach Resort - Villas Kornati
+21871|Naturist Resort Solaris - Hotel / Apartments
+21883|Bluesun Soline
+22023|Splendid
+22280|Suha Punta Ferienanlage
+22418|Supetar Cavtat
+22524|Valamar Club Tamaris & Residence & Luxury Villas - Valamar Tamaris Residence
+23089|Kvarner Palace
+23591|Varazdin
+23659|Vespera
+23941|Villa Marija
+24168|Kalamota Island Resort
+24274|W.A. Mozart
+24606|Novi Spa Hotels & Resort - The View / Family Apartments Novi
+24608|Zagreb
+24624|Zelena Punta
+24655|Zora
+24686|Zupa
+24702|Hotel Zvonimir
+28074|Maslinica Hotels & Resorts - Narcis
+28109|Monte Mulini
+28121|Ai Pini Villaggio
+28124|Bi-Village Ferienzentrum - Villas / Apartmenthäuser / Room beach / Mobilheime / Campingplatz
+28128|Hotel Mediteran
+28129|Marina
+28130|Riviera
+28135|Zlatni Lav
+28144|Ferienanlage Croatia - Croatia / Alba
+28146|Milenij
+28264|Bellevue Dubrovnik
+28389|Plat Hotels & Villas - Orphee Hotel
+28409|Lavanda
+28417|Park
+28433|Mediteran
+28448|FKK Valalta
+29438|Resnik
+30859|Lero
+30861|Villa Julija
+31145|Tirena Dubrovnik
+31155|Remisens Premium Hotel Kvarner
+31156|Remisens Premium Villa Amalia
+31157|Park Punat
+31326|Maslinica Hotels & Resorts - Hedera
+31327|Remisens Revital Hotel Kristal
+32756|Dubrovnik
+32758|Zagreb
+32759|Sheraton Zagreb
+32805|Skiper Rezidencija
+32808|Atrium Residence Baska
+32809|Bluesun Hotelanlage Alan - Hotel / Appartements / Bluesun Camp Paklenica
+32813|Solaris Beach Resort - Kids Hotel Andrija
+33282|Laguna Bellevue
+33289|Conte
+34085|Hotel Sol Umag & Residence
+34087|Skradinski Buk
+34649|Ad Turres
+34726|Resort Kazela - Appartements / Mobilehomes
+34738|Anica
+34740|Belvedere
+34752|Karmen
+34967|Dubrovnik Palace
+34968|Lina
+34969|Villa Bacchus
+34970|Holiday Village Sagitta
+35827|Croatia Resort
+37739|Stoja Camping
+37766|Adria
+39273|Adria
+39551|Falkensteiner Hotel Adriana
+39552|Apartments Mali Losinj
+39573|Necujam Appartements
+39581|Pagus
+39582|Plaza
+39586|Andjela
+39587|Ivo
+40223|Hostin
+40226|Daria
+40231|Mira
+40232|Borovnik
+40259|Rosina
+40261|Pastura
+40262|Hotel Dubrovnik
+40658|Villa Ruzica
+40678|Lapad
+40679|Poseidon / Posejdon
+41181|Delfin
+41183|Podstine Exclusive
+42275|Miramar
+42420|Ferienwohnung Haus Tea
+42429|Pharia
+46796|Antea
+48231|Aida
+51254|Kusijanovic
+52181|Amfora
+52225|Minca
+52744|Falkensteiner Club Funimation Borik
+53105|Resort Amarin - Hotel / Apartments
+54399|Appartement Grubjesic
+54401|Appartement Jelusic
+54410|Aparthotel Belveder
+54416|Appartement Bianca
+54417|Villa Ibis
+54419|Appartement Galic
+54420|Appartement Ivkovic
+55723|Palace
+56358|Bijela Uvala
+56698|Kastel
+56700|Villa Letan
+56701|Pellegrin
+56702|Villa Plavo More
+56703|Villa Rosa
+56705|Maestral
+56707|Veronika
+56709|Villa Katarina
+56710|Globo
+56712|Villa Antonio
+56717|Oliva
+56718|Dvorine
+56840|Dorfurlaub in Vrsine
+57255|Omorika
+57300|Pula
+57301|Grand Adriatic - Adriatic I / Adriatic II
+57302|Hotel Residenz Opatija
+57713|Pucic Palace & Annex Apartments - Pucic Palace
+57714|Uvala
+57939|Ana
+57940|Danica
+57975|Solaris Beach Resort - Beach Hotel Jakov
+57978|Ilirija
+58305|Uvala Scott
+58965|Park
+58966|International
+60206|Holiday
+60207|I Hotel
+60208|Kanajt
+60209|The Westin Zagreb
+60962|Hotel Perla
+60976|Villa Ratac
+61214|Vicko
+61385|Villa Rumba
+62372|Pansion Krilo
+62825|Porin
+62833|Adria
+62857|Jadran
+62860|Landpension Filipini
+62861|Boutique Marco Polo
+62862|Bellevue
+62939|Korcula
+62940|Ville Matilde
+62980|Pasike
+62981|Sveti Kriz
+63234|Maslina
+63463|Hilton Imperial
+63719|Astoria Designhotel Opatija
+64034|Esplanade Zagreb
+65041|Villa Astra
+65060|Jadran
+65067|Biokovka
+68846|Arcotel Allegra Zagreb
+68983|Grand Hotel 4 Opatijska Cvijeta - Camelia, Magnolia, Wisteria, Begonia
+68984|Eden
+68985|Apartments Maslinov Dvor
+68986|Villa Antonio
+68987|Apartments Duje
+69075|Waterman Supetrus Resort
+69105|Centinera Resort
+69112|Villa Ivona
+69240|Park Plaza Verudela
+69241|Splendid Golden Rocks Resort
+69264|Villa Glavic
+69670|Grand Bonavia
+69671|Park
+70530|Petka
+70841|Carmen
+70842|Stanger
+70844|Tamaris
+70846|Grand Hotel Dramalj
+70847|Apoksiomen
+70848|International
+70852|Spongiola
+70855|Best Western Art
+70856|Sunce
+71088|Feral Laguna Novigrad
+71292|CampingIN Park Umag
+71841|Camping Village Stupice
+71842|Camping Village Medulin
+71843|Maslinica Hotels & Resorts - Camp Oliva
+71844|Camping Village Indije
+71845|Camping Poljana
+72082|Camping Materada
+72092|Branka
+73845|Aparthotel Bellevue
+74049|Villa Favola
+74244|Appartements Dajla
+74247|Appartements Klara
+74249|Appartements Spada
+74280|Haus Sole
+74295|Haus Snasic
+74298|Appartements Eva
+74299|Appartements Vilma
+74344|Appartements Korsa
+74346|Appartements Vrtline
+74364|Appartements Milka
+74365|Appartements Anka
+74368|Appartements Villa Kristalis
+74423|Kastel Pineta
+74425|Alla Beccaccia Landpension
+74462|Villa Annette
+74464|Lena
+74465|Pension Villa Chiara
+74466|Appartements Dijana
+74471|Appartements Ondina
+74472|Appartements Lina
+74481|Haus Marko
+74485|Haus Hodak
+74488|Haus Martin
+74494|Appartement Villa Fontana
+74496|Appartements Ero
+74498|Appartements Bella Vista
+74499|Appartements Sime
+74533|Appartements Tonko
+74535|Appartements Mirakul
+74543|Boskinac
+74545|Lucija
+74551|Segetski Dvori
+74553|Villa Adriatica
+74574|Appartements Midea
+74576|Appartements Mario
+74579|Manora
+74580|Mare Nostrum
+74582|Sveti Mihovil
+74599|Adriatic
+74648|Sipan
+74701|Apartments Perkovic
+75440|Apartments Juje
+75845|Peristil
+76249|Laguna
+76265|Nautica
+77607|Ivka
+78249|Hotel Agava
+78251|Marina
+78390|International
+78473|Appartement Duda
+78481|Grzunov
+78482|Davorka
+78483|Aparthotel Say
+78484|Villa Stil
+78485|Ivana
+78637|Bristol
+79005|Valdaliso
+79200|Villa Calussovo
+79244|Velaris Resort - Amor, Villa Vela Luka, Pavilions
+79391|Le Meridien Lav
+79392|Importanne Resort - Royal Palm / Royal Princess / Ariston/ Neptun/ Villa Elita
+79474|Viktorija
+79542|Plaza
+79543|Grand Hotel Orebic
+79848|Macola
+79849|Burin
+79850|Tamaris
+79851|Pension Jugo
+79853|Luna Island
+79854|Rixos Libertas
+79855|Vrilo Hotel
+80650|Arba
+80651|Laguna
+80755|Trogir
+80846|Rezidenzija Idila
+80904|Villa Linet Garden
+80906|Ana
+80911|Sport
+80918|Mimosa Privatpension
+80925|Haus Nera
+80929|Haus Mira
+80934|Haus Mariana
+80937|Haus Nada
+80942|Villa Olga
+80944|Haus Katharina
+80948|Haus Anica
+80956|Ana-Marija
+80968|Villa Bojana
+80970|Hotel & Pavillons Slaven - Pavillons Slaven
+80972|Ivanka
+80975|Natascha
+80976|Ruzica
+80977|Biserka
+80983|Masa
+80984|Jelena
+80989|Njivice Resort - Flora
+80997|Milenka
+80999|Zdenka
+81007|Villa Sveti Anton
+81011|Ana
+81012|Branka
+81022|Kazimira
+81039|Villen Corinthia-Baska
+81045|Anica
+81053|Vesna
+81058|Stanka
+81060|Tanja
+81075|Mandica
+81078|Lidija
+81079|Tony
+81080|Meridijan
+81082|Villa Liveric
+81083|Blanka
+81084|Lug
+81085|Katarina
+81087|Haus Irena
+81088|Bungalow Mira
+81105|Apartments Malic
+81110|Rebecca
+81144|Kommandante
+81162|San Antonio
+81168|Mira
+81177|Katarina
+81178|Dragica
+81196|Apartmani Bonaca
+81198|Villa Rajski Dvor
+81207|Tonka
+81212|Villa Gradina
+81214|Dusko
+81215|Marija
+81216|Villa Lada
+81238|Croatia
+81296|Plitvicka Vila
+81299|Anna
+81307|Bellevue
+81312|Albino
+81319|Adorata
+81335|Bozava - Lavanda
+81339|Sumratin
+81343|Adoral
+81387|Ivan
+81392|Villa Katarina
+81588|Trogirski Dvori
+82213|San Antonio
+82214|Arbiana
+82296|Villa Jadranka
+82303|Villa Paradiso
+82304|Villa Kvaternik
+82313|Park
+82494|Apartment Johnny
+82496|Apartment Nives
+82497|Vulicevic Apartment
+82498|Villa Matejuska
+82499|Apartment M
+82500|Apartment Zekan
+82501|ISA Kozino Apartment
+82844|Mediteran Residence
+85014|Villa Rustica Dalmatia
+85524|Apartmani Ivana
+85686|Best Western Hotel Jadran
+85687|Lepur
+85688|Gabric
+85759|Pine Beach Pakostane
+86006|Sirena
+86057|Mobilhomes Valdaliso
+86891|La Baia Blu
+86892|Villa Lykos
+86893|Villa Luketa
+88633|Adriana
+90277|Villa Gloria
+91674|Apartmani Kir
+91675|Apartmani Maca
+93262|Central
+93274|Stella Maris Resort - Meliá Istrian Villas
+93280|Srkoc
+93281|Camping Strasko
+93482|Apartments de Chiudi
+95088|Riva Yacht Harbour
+95939|Kempinski Hotel Adriatic
+95940|Villa Cittar
+95942|Villa Lavanda
+95948|Salyna
+95953|Haus Ratkovic
+95954|Villa Ursula
+95955|Haus Martin
+95956|Haus Darinka
+96197|Haus Mrgudic
+96198|Indijan
+96320|Haus Ida
+96321|Haus Sascha
+96330|Haus Zeljko Bobanovic 1
+96339|Villa Anna
+96344|Villa Klara
+96349|Crnac Ante
+96350|Stipanov
+96358|Mac Adams
+96360|Haus Insula
+96403|Emka / eM-kA
+96425|Villa Teo
+96429|ZG Appartments
+96530|Casa Romantica La Parenzana
+96538|Theresa
+96546|Villa Tonka
+96549|Villa Birimisa
+96551|Villa Matilda
+96796|Appartments Klara
+96797|Appartments Sanda
+96798|Villa kameni Cvit
+96799|Apartment Marina I
+96800|Apartment Marina II
+96840|Velaris Resort - Amor
+97134|Camping Mareda
+97218|Liburnija
+97247|Haus Marina
+97249|Haus Antony
+97250|Mira
+97253|Haus Ankica
+97835|Issa
+97883|Vilcam
+97887|Dva Baladura Apart
+97889|Villa Robertina
+97896|Haus Petra
+97899|Haus Lara
+97989|Haus Ivkic
+97999|Villa Adria
+98000|Villa Adriana
+98009|Haus Martom
+98013|Laguna
+98016|Villa Damir
+98020|Marija
+98021|Bozava - Maxim
+98026|Marinero
+98032|Villa Donat Hotel & Dependence
+98034|Haus Dijana
+98035|Haus Zdenka
+98038|Haus Neptun
+98039|Haus Katica
+98040|Villa Kristiana
+98044|Haus Guzela
+98054|Haus Jadranka
+98108|Plava Laguna
+98154|Lone Designhotel
+98307|Camping Polari
+99187|Bozica
+99188|Villa Dvor
+99211|Irena
+99212|Marinka
+99752|Glavovic
+99843|Srce Zagreba
+99844|Urbana Villa
+99845|Poluotok
+100296|Villa Jerkan
+100297|Villa Mare
+100298|Villa Dane
+100299|Villa Juraj
+100302|Villa Barat
+100446|Visforyou
+100636|Apartmant Lily
+100817|St. Pieters - Villa Cloe
+100818|St. Pieters - Villa Matej
+100978|Villa Zarko
+100992|Neboder
+102720|Palace Derossi
+104137|Arcus Residence
+105160|Best Western Premier Astoria
+107298|Holiday
+124519|Villa Lara
+124521|Villa Curic
+124525|Villa Tudor
+124526|Apartmani Ivanka
+124527|Krizmanic
+124529|Apartamenti Klarina
+124530|Apartamenti Katija
+124531|Villa Stina
+124533|Cikes
+127459|Villa Kruna Grada
+128510|Villa Dalmacija Hvar
+131634|Grabovac
+131639|Atrium
+131641|Dujam
+131642|Antunovic
+134476|Valamar Lacroma Dubrovnik Hotel
+134680|Guest House Riviera
+135138|Loza
+135412|Falkensteiner Punta Skala Hotels & Residences - Family Hotel Diadora
+135413|Ferienanlage Croatia - Alba
+135464|Falkensteiner Punta Skala Hotels & Residences - Hotel & Spa Iadera
+135467|Quercus
+135471|Villa Vilina & Apartments Lopudski Dvori
+135475|More
+135791|Aquarius
+135792|Villa Pattiera
+135972|Radisson Blu Resort Split
+136127|Appartementhaus Luburic
+136407|Alma
+136408|Admiral Grand
+136439|Kazbek
+136543|Berkeley
+136593|Camping Klenovica
+136603|Complesso dei Fiori
+136843|Pervanovo
+136861|Pension Burin
+139373|Apart Hotel Frane
+139374|Pension Bok
+139375|Haus Adrijana
+139377|Villa Stari Dvor
+139380|Putnik Apartments
+139382|Lipa
+139567|Regi
+139579|Zafran
+139580|Vila 4m Pension & Appartements
+139583|Mrkicevi Dvori
+139584|Tratica
+139586|Villa Jasmin
+139738|Haus Nada Tot
+139856|Hotel Istra & All Suites Istra
+140033|Zagreb
+141674|Palace Trogir
+141775|Haus Monika
+141777|Haus Artur
+141779|Haus Zonta
+141783|Haus Nadica
+141784|Haus Meri
+141785|Haus Denis
+141788|Haus Gea
+141792|Haus Iva
+141795|Haus Safran
+141809|Villa Magnolija
+141810|Haus Nikola
+141811|Villa Stella
+141813|Villa Stedul
+141834|Haus Olea
+141836|Marija Appartements
+141837|Funda Appartements
+141839|Villa Damjan
+141843|Villa Nizic
+141942|Haus Theodora
+141944|Haus Grozdana
+141948|Haus Stile
+141949|Haus Lucija
+141950|Appartements Success
+142268|St. Pieters - Villa Leon
+142269|Villa Erna
+142274|Camping Village Simuni
+142276|Duje
+142782|Apartmani Kelam
+143760|Bastion
+143761|Movie Resort
+143763|Borik
+143790|Osijek
+143792|Appartements & Villen Edo
+143801|Haus Pontos
+143810|Pinia
+143812|Villa Favorita
+143823|Haus Jakov
+143836|Bella Vista
+143837|Villa Lanterna
+143838|Illyrian Resort
+144209|Haus Andrijana
+145255|Camping Feriendorf Borik
+151792|Koral
+157587|Aristos
+157588|Phoenix Hotel
+157593|Slavija
+157594|Tragos
+157596|Pansion Begic
+157599|Villa Daniela
+157601|Jadran
+157605|Korana Srakovcic
+157606|Continental Rijeka
+157607|Villa Aurora
+157610|Aparthotel Volta
+157611|Sunset Lanterna Appartements
+157625|Villetta Phasiana
+157678|Hostin
+161756|Osrodek Turystyczny Kacjak
+179317|Cosmopolitan Bolgna
+182194|Blue Waves Resort
+182233|Villa Marija
+182293|Appartment Maja
+182509|Pansion Vedrana
+182510|Stipe Aparthotel
+182593|Villa Ruzica
+182594|Hvarske Ville
+182956|Tonka Apartments
+182957|Kuca Plitvicka Sedra
+182958|Apartments Ante
+182959|Croatia
+182960|Apartments Mediterano
+182961|Dragicevic
+182980|Villa Pucisca
+182982|Villa Zivana
+182985|Bracka Perla
+182986|Villa Plazibat
+182987|Villa Javor
+182988|Uspjeh Appartement
+182989|Appartement Fancy
+183524|Radisson Blu Resort & Spa Dubrovnik Sun Gardens
+197208|Hotel In
+201323|Osejava
+201434|Valamar Riviera Hotel & Valamar Villa Parentino - Valamar Riviera Hotel
+202196|Haus Elena
+202208|Haus Lorencin
+202211|Haus Nada
+202212|Haus Mato
+202213|Haus Ljubica
+202216|Haus Ivica
+202217|Villa Vela
+202218|Appartements Brajko
+202251|A Golfer
+202252|Appartement Regina
+202377|Adria
+202446|Pension Mudrazija
+202503|Grand Palazzo
+202564|Villa Angelica
+202565|Villa Momiano
+202569|Haus Vera
+202573|Villa Rosa
+202578|Haus Antun
+202583|Haus Gianna
+202586|Haus Kaja
+202593|Haus Gora
+202619|Haus Vunic
+202623|Haus Dean
+202626|Haus Stosica
+202629|Tota
+202632|Stefa
+202648|Haus Milica
+202657|Haus Anka
+202664|Villa Radin
+202666|Appartements Vranjica Belvedere
+202675|Villa Mladina
+203013|Villa Dubrava
+203088|Katarina
+203089|Bubalo Apart.
+203106|Funda Solta Appartements
+204894|Aparthotel Adriatic
+205289|As
+205913|Lavica Beach Apartments
+206744|Camp Soline
+207954|Dalmina
+208467|Dora
+211887|Jadran
+213847|Marmont
+214169|Mobile Homes Kovacine
+215642|Porin
+218270|Split Apartments
+219683|Tisno
+219974|Valamar Club Tamaris & Residence & Luxury Villas - Valamar Club Tamaris
+220137|Vila Tina
+220293|Villa Jadran
+220466|Villa Valentina
+225671|President Solin
+225934|Terme Tuhelj
+226218|Villa Magdalena
+226913|Seljacka Kuca
+226914|Apartments Kula
+226915|Cecilija Apartmani
+227019|Risnjak
+227020|Mobilhomes Adria
+227185|Celenga Apartments
+227186|Dubrovnik Lapad Apartments
+227187|Villa Ivanino
+227188|Lile Apartmani
+227189|House Gold
+227190|Apartmani Borik
+227191|Apartmani Srsen
+227192|Apartmani Baresic
+227529|Apartments Smoljo
+227530|Del De Luxe
+227531|Delicia Apartman
+227532|Dominik Apartman
+227642|Kuca Spehar
+227643|Celic Apartmani
+227645|Villa Darrer
+227646|Villa Moretic
+227788|The Residence
+227789|Toni
+228032|Camping Pineta Umag
+228033|CampingIN Finida Umag
+228034|Korkyra
+228035|Mediteran
+228036|Villa Toni
+228037|Apartmani Pavlov
+228039|Apartmani Zlatni Rat
+228459|Peric
+228792|Hotel Milenij
+229333|LifeClass Therme Sveti Martin
+231843|Villa Valdibora
+231851|Villa Eugenia
+231859|Pansion Winnetou
+231866|Istrian Spa Istarske Toplice - Mirna / Sveti Stjepan
+231987|Aparthotel del Mar / Residence Superior del Mar
+232552|Luxe
+232819|Villa Marija
+233389|Camping Brioni
+233395|Solaris Beach Resort - Camping Mobilehomes
+233499|Jukica
+233558|Camping Split
+233559|Villa Orhideja
+233603|Villa Bonaca
+233604|Villa Viktory
+233614|Goli & Bosi Designhotel
+234766|Villa Dalmatia
+235063|Bosnic
+235064|Laguna
+235066|Batistic Apartments
+235068|Mia Apartments
+235069|Marnic Apartments
+235071|Miljas Apartments
+235072|Appartements Villa-Katana
+235073|Zdjelar Apartments
+235075|Catalina Apartments
+235076|House Danica
+235077|Villa Miljak
+235079|Adria Apartments
+235080|Bracic Apartments
+235081|Suhomont Apartments
+235244|San Rocco
+235424|Bakmaz Apart.
+235425|Bilicic
+235426|Bozinovic Apartments
+235427|Apartments Cala
+235428|Villa Meridiana
+235429|Renata Apartments
+235430|Papic
+235431|Ruza
+235432|Santic
+235433|Saric
+235434|Pitomcija
+235435|Justic Appartement
+235607|Henry Village Island
+236161|Villa Eden
+237099|Minerva
+237522|Vela Vrata
+237523|Pension Vice
+237524|Nova Galerija Apartments
+237752|Villa Romana & Tea
+238518|Apartments Pical
+239218|Adria
+239219|Saudade
+239221|AS Hotel
+239395|Landpension Rogocana
+240209|Park Exclusive
+241394|Vila Lili Rovinj
+241512|Gromela Holiday Appartements
+241547|Istra
+242509|Sirena
+243382|Split
+243468|Libra
+243573|Jadranka
+243575|Camping Sirena
+243591|Landhaus Nono Ban
+243838|President
+245282|Falkensteiner Appartements Petrcane
+245868|Stella Maris Resort - Sol Stella
+245869|Stella Maris Resort - Sol Amfora
+245887|Miramare
+246003|Haus Ljerka
+246019|Pension Dupin
+246538|Apartments Sunny Punta
+246541|Grand Adriatic - Adriatic I
+246542|Grand Adriatic - Adriatic II
+246559|Vila Tamaris
+246575|Solaris Beach Resort - Ivan / Andrija / Jure / Niko / Jakov / Villas Kornati / Camping Mobilehomes
+246669|Villa Dubrovnik
+247325|Valamar Club Tamaris & Residence & Luxury Villas
+247326|Valamar Diamant Hotel & Residence - Residence
+247345|Appartements Lanterna Rabac
+247348|Miramar
+247398|Pension Denis
+247460|Importanne Resort - Royal Palm Hotel
+247461|Importanne Resort - Ariston
+247462|Importanne Resort - Neptun
+247805|Hotel Sol Umag & Residence - Hotel
+247806|Hotel Sol Umag & Residence - Residence
+247827|San Marino - Sahara/ Rab/ Veli Me/ Plaza/Family Lopar - Family Lopar
+247829|San Marino - Sahara/ Rab/ Veli Me/ Plaza/Family Lopar - Sahara
+247992|Ferienanlage Croatia - Croatia
+248195|Gala Split
+248524|Bolanca
+248591|Appartement Alfa
+249674|Remisens Premium Hotel Ambasador & Romantic Villa Ambasador - Hotel Ambasador
+253447|Villa Amfora
+253817|Vista
+253823|Bluesun Maestral & Marina - Marina
+253828|Plat Hotels & Villas - Villas Plat
+254095|Hotel Villa Kapetanovic
+254518|Villa St. Peter
+255241|Pansion Delfin
+255670|Apartments Malena
+255698|More
+256155|Barbati Pag
+256529|Hotel Fontana
+256602|Beach Hotel Split
+259022|Pansion Skelin
+259362|Maslinica Hotels & Resorts - Lido Palace/Mimosa/ Hedera/ Narcis/ Camp Oliva
+259551|Villa Royal
+259723|Haus Dragan
+259724|Haus Bareta
+259876|Beli Kamik I / Smartline Island Krk (Beli Kamik II) - Beli Kamik I
+259877|Beli Kamik I / Smartline Island Krk (Beli Kamik II) - Smartline Island Krk (Beli Kamik II)
+259878|Njivice Resort - Depandance Adria
+260197|Boutique-Hotel Life
+260245|Park Osejava Aparthotel
+260271|Villa Sun
+260272|Heritage Jupiter Luxury Hotel
+260487|Novi Spa Hotels & Resort - The View
+260488|Novi Spa Hotels & Resort - Family Apartments Novi
+260560|Amaris Villas
+261548|Residence Auto Camp San Marino
+261768|Villa Orsula
+264898|Hotel Rebro
+265633|Camping Lanterna
+266554|Villa More
+266601|Goran
+269124|Casa Palma
+270146|Maistra Riva Apartments Vrsar
+270502|Hotel Sveti Jakov
+277188|Holiday Resort & Autocamp Medveja - Bungalows / Appartements / Mobilehomes
+277851|Importanne Resort - Royal Princess Hotel
+280125|DoubleTree by Hilton Zagreb
+281028|Hotel Diadem
+295489|Franziskanerkloster - Franjevacki Samostan
+295879|Velanera
+295937|Vila Natalija
+295939|Apartments Viola
+295942|Vila Alpa
+295944|Degra
+295947|Monterol/Adriatica
+296042|Haus Lorenza
+296044|Haus Andrea
+296047|Haus Tino
+296050|Haus Davor
+296066|Haus Dora
+296068|Haus Sertic
+296077|Appartments Oliva
+296078|Villa Fendi
+296081|Njivice Resort - Camping Njivice
+296086|Villa Jucinovi Dvori
+296087|Suha Punta Ferienanlage - Appartments Suha Punta
+296088|Suha Punta Ferienanlage - Pavillion Zimmer Suha Punta
+296092|Haus Stipe
+296100|Villa Melita
+296103|Appartements Tone
+296105|Villa Tanja
+296625|Falkensteiner Punta Skala Hotels & Residences - Residences Senia
+296930|Villa Celeste
+296933|Villa Janko
+296973|Boutique Hostel Forum
+297637|Haus Skroce
+298044|Ljetni Raj & Ljetni San Appartements
+298084|Monika
+298365|Arbanas
+298622|Haus Dejan
+298623|Haus Helena
+298635|Haus Magnolia
+298640|Haus Matija
+298648|Villa Salzburg
+298654|Mobilheime Selce
+298657|Villa Ana
+298669|Hotel Pension Silo
+299315|Terme Tuhelj - Hotel Well
+299662|The Movie Resort - Hotel / Apartements
+299670|Jadran Residence
+300132|Amabilis
+300455|Camping Kastanija
+300458|Bluesun Hotelanlage Alan - Bluesun Camp Paklenica
+300611|Villas Mlini
+301803|Residence Kamenjak Premantura
+302226|Haus Franic
+302227|Haus Grüger I
+302228|Haus Latic
+302500|Bluesun Maestral & Marina
+302629|Istrian Spa Istarske Toplice - Mirna
+302662|Villa Dalmatia
+317721|Drazica Resort - Hotel Drazica
+335823|Ana I Zlatko Apartments
+354410|Camping Perna
+354428|Camping Basko Polje
+354508|Appartements Premantura Dom
+359590|Art Hotel Kalelarga
+359591|Velaris Resort - Villa Vela Luka
+359592|Velaris Resort - Pavilions
+359722|Villa Rosa - Solea Bravis/ Gloria/ Ambassador
+359770|Villa Donat Hotel & Dependence - Hotel
+359771|Villa Donat Hotel & Dependence - Depandence
+363249|Coast House Apartments
+364077|Toplice Hotel
+365105|Pleter
+365288|Amfora Grand Beach Resort
+365289|Valkanela Camping
+365316|Sol Katoro
+365332|Astarea Resort - Astarea 1
+365333|Astarea Resort - Astarea 2
+365355|Casa Lavanda
+365459|Komplex Punta - Hotel & Villen
+365460|Komplex Punta - Villen
+366533|Osam Hotel
+366577|Villa Vrbanc
+366758|Valamar Pinia Hotel & Residence - Hotel
+366759|Valamar Pinia Hotel & Residence - Residence
+366761|Valamar Club Tamaris & Residence & Villas - Luxury Villas
+372466|Mobilehomes Camping Krk
+372600|Smartline Waterman Beach Village
+372872|Mobilheime Umag
+372911|Lando Resort
+372919|Villa Rasic Makarska
+380039|Tomislavov Dom
+380919|Villa Miramar
+389984|Villa Amalia Apartments
+390954|Drazica Resort - Dependance Villa Lovorka
+390955|Drazica Resort - Dependance Tamaris
+391105|Appartements Rajcevic
+391265|Paola
+391269|Doriana
+391270|Draga
+391275|Mara
+391276|Stelia
+391278|Marija
+391391|Villa Atlanta
+391392|Villa Elsa
+391397|Villa Popyn
+391398|Park Plaza Histria & Marina Wing - Park Plaza Histria
+391399|Park Plaza Histria & Marina Wing - Marina Wing
+391492|Haus Noa
+391602|Remisens Premium Hotel Ambasador & Romantic Villa Ambasador - Romantic Villa Ambasador
+391710|Bluesun Neptun - Dependance Maslinik
+391884|Villa Istra
+392098|Holiday Village Zaton - Apartments
+392099|Holiday Village Zaton - Mobilhomes
+392100|Holiday Village Zaton - Camping
+392221|Pension Manuela
+392407|Hotel Royal
+392474|Miramare
+401116|Club Vala
+401248|Bluesun Hotel Kaj
+401564|Villa Amaranthus
+401565|Villa Carlina
+401566|Villa Floramye
+401567|Villa Lathyrus
+401568|Villa Tilia
+401569|Villa Vicia
+403258|Grand Hotel 4 Opatijska Cvijeta - Camelia
+403305|Snjezna kraljica
+404387|Njivice Resort - Jadran/ Camp Njivice/ Flora/ Adria
+405256|Maslinica Hotels & Resorts - Lido Palace
+405864|Pension Vago
+406558|Hotel Villa Vrsar
+407196|Villa Armin
+408754|Hotel Istra & All Suites Istra - All Suites Istra
+409034|Sheraton Dubrovnik Riviera Hotel
+409117|Materada Area - Laguna Park Hotel
+409294|Terme Jezercica
+411357|Plat Hotels & Villas - Orphee Hotel / Villas Plat / Villas Eva & Felicia
+411421|Depadances Marina & Primorka
+411732|Hotel Flores
+411783|Sensimar Makarska
+411802|Valamar Diamant Hotel & Residence
+411999|Hotel Bon Repos / Appartements Korkyra Gardens - Appartements Korkyra Gardens
+412089|Villa Carica
+412237|Pension Villa Eva
+412242|Sol Garden Istra Hotel & Village - Hotel
+412243|Sol Garden Istra Hotel & Village - Village
+412969|SrCe Prirode
+413127|Villa Mandic
+413271|Hotel Continental
+413541|D-Resort Sibenik
+413604|Campingplatz Dole
+413790|Hotel & Pavillons Slaven - Hotel Slaven
+413932|Camping Belvedere
+413954|Naturist camp Bunculuka
+413958|Campingplatz Padova 3
+413963|Campingplatz Zablace
+414161|Camping Jezevac
+414162|Camping Marina
+414345|Materada Area - Laguna Park Appartements
+414347|Materada Area - Laguna Materada / Laguna Park Hotel / Laguna Park Village / Laguna Park Villas / Laguna Park Apartments
+414704|Villa Margitta
+414733|Laguna Galijot - Villa
+414734|Laguna Galijot - Appartments
+414737|Resort Petalon - Hotel
+414738|Resort Petalon - Apartments
+414739|Resort Villas Rubin - Hotel
+414740|Resort Villas Rubin - Apartments
+414741|Resort Amarin - Hotel
+414742|Resort Amarin - Apartments
+414797|Hotel Patria
+414812|Hotel Trakoscan
+417489|Vitalhotel & Appartements Punta
+417490|Vitalhotel & Appartements Punta - Appartements
+417610|Naturist Resort Solaris - Hotel
+417611|Naturist Resort Solaris - Apartments
+417612|Resort Belvedere - Hotel
+417613|Resort Belvedere - Apartments
+417617|Naturist Park Koversada - Villas
+417618|Naturist Park Koversada - Apartements
+417625|Villa Albina
+417633|The Movie Resort - Hotel
+417635|The Movie Resort - Apartements
+417638|Adriatiq Resort Fontana - Hotel
+417639|Adriatiq Resort Fontana - Appartements 4 Sterne
+417641|Hotel Bon Repos / Appartements Korkyra Gardens - Hotel Bon Repos
+417643|Resort Kazela - Appartements
+417644|Resort Kazela - Mobilehomes closed and will be reopened on 02.04.2015
+417645|Bluesun Hotelanlage Alan - Hotel
+417646|Bluesun Hotelanlage Alan - Appartements
+417648|Crvena Luka Hotel & Resort - Hotel
+417649|Crvena Luka Hotel & Resort - Apartments
+417651|Holiday Resort & Autocamp Medveja - Appartements
+417653|Holiday Resort & Autocamp Medveja - Mobilehomes

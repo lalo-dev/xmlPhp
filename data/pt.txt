@@ -1,0 +1,1625 @@
+2067|Clube Albufeira
+2068|Aldeia das Acoteias
+2069|Alfamar Beach & Sport Resort & Algarve Gardens
+2070|Alisios
+2071|Auramar Beach Resort
+2072|Belver Boa Vista Hotel & Spa
+2073|California
+2074|Vila Galé Cerro Alagoa
+2075|Belver Hotel Da Aldeia
+2076|Da Gale
+2077|Falesia
+2078|Globo
+2079|Monica Isabel Beach Club - 3* / 4*
+2081|Pine Cliffs Resort - Sheraton Algarve / Pine Cliffs Residence / The Terraces / Townhouses
+2082|Sol e Mar
+2085|Topazio
+2086|Vila Galé Atlantico
+2087|Aldeamento da Bemposta
+2088|Alvor Golf
+2089|Pestana Delfim Beach Resort
+2090|Pestana Dom Joao II & Alvor Atlantico Residences
+2092|Holiday Inn Algarve - Armacao De Pera
+2093|Vila Galé Nautico
+2095|Rosamar
+2097|Pestana Viking Resort
+2098|Blue & Green Vilalara Thalassa Resort
+2099|Golden Club Cabanas
+2102|Tivoli Carvoeiro
+2103|Colina Sol
+2104|Colina Village
+2105|Baia Cristal
+2107|Quinta do Paraiso
+2108|Algar Seco Parque
+2109|Rocha Brava Village Resort
+2111|Ancora Park
+2112|Tivoli Lagos
+2114|Lagosmar
+2115|Magnolia Mar Beach Club
+2116|Marina Rio
+2117|Dom Pedro Meia Praia Beach Club
+2119|Monte Mar
+2120|Perola do Oceano & Perola da Meia Praia
+2121|Vivenda Miranda Romantik
+2123|Navegadores
+2124|Eurotel Altura
+2125|Vasco da Gama
+2126|Luna Clube Brisamar
+2127|Sol Flor da Rocha
+2128|Belavista da Luz
+2129|Algarve Mor Hotel
+2130|Turim Estrela do Vau Hotel
+2131|Jupiter
+2132|Luar
+2133|Oriental
+2134|Clube Praia da Rocha
+2136|Presidente Hotel
+2137|Vau Costa
+2138|Vau
+2140|Atismar
+2141|Claudiana
+2142|Dom Jose
+2144|Ozadi Tavira Hotel
+2145|Pedras da Rainha
+2147|Ria Park Garden Hotel
+2150|Pinhal do Sol
+2153|Vila Galé Ampalius
+2154|Crowne Plaza Vilamoura
+2155|Dom Pedro Golf Resort
+2156|Dom Pedro Marina
+2157|Tivoli Marina Vilamoura
+2158|Pinhal da Marina
+2159|Vila Galé Marina
+2161|Jardim Atlantico
+2162|Galo Resort Hotel Galomar
+2163|Four Views Oasis (ex. Oasis Atlantic)
+2164|Hotel Rocamar & Hotel Royal Orchid - Hotel Rocamar
+2165|Hotel Rocamar & Hotel Royal Orchid - Hotel Royal Orchid
+2166|Studios Lua Sol
+2167|Vila Ventura
+2168|Alto Lido
+2169|Pestana Bay Ocean Aparthotel
+2171|Baia Azul
+2172|Dorisol Estrelicia & Buganvilia & Mimosa - Dorisol Buganvilia
+2173|Pestana Carlton Madeira
+2174|Pestana Palms
+2175|Pestana Village & Miramar
+2176|Casa Velha do Palheiro
+2177|Pestana Casino Park
+2179|The Cliff Bay
+2180|Colombo Residencial
+2181|Do Carmo
+2182|Do Centro
+2184|Duas Torres
+2186|Quinta da Bela Vista - Madeira
+2187|Dorisol Estrelicia & Buganvilia & Mimosa - Dorisol Estrelicia
+2188|Dorisol Florasol
+2189|Girassol
+2191|Madeira Palacio Resort
+2192|Madeira Panoramico
+2195|Monte Carlo
+2196|Estalagem Monte Verde
+2197|Orca Praia
+2199|Enotel Quinta do Sol
+2200|Quinta Splendida Wellness & Botanical Garden
+2201|Reid's Palace
+2204|Four Views Baia
+2205|Savoy - geschlossen
+2206|Flame Tree Madeira
+2207|Residencial Vila Lusitania
+2208|Savoy Gardens
+2209|Windsor
+2210|Dom Pedro Garajau
+2211|Dom Pedro Baia Club
+2212|Luamar
+2213|Porto Santo
+2214|Praia Dourada
+2215|Torre Praia
+2217|Enotel Golf
+2218|Santa Catarina
+2219|Quinta do Furao
+2220|Estalagem do Mar
+2221|Colina do Castelo
+5175|Albufeira Jardim
+6105|Vila Petra
+6106|Azul Praia
+6107|Penina Hotel & Golf Resort
+6109|Turiquintas
+6115|Canavial I & II Apartamentos
+6116|Albergaria Solar de Mos
+6118|Mirachoro Sol
+6121|Algarve Casino
+6125|Prainha Aldeamento / Clube / Village
+6126|Quinta do Lago
+6127|Ria Park Hotel & Spa
+6128|Luna Olympus
+6154|Cais da Olivera
+6156|Dorisol Estrelicia & Buganvilia & Mimosa - Dorisol Mimosa
+6157|Quinta Bela Sao Tiago
+6158|Komplex - Jardins d'Ajuda Suite Hotel & Musa d'Ajuda Hotel
+6161|Avenue Park
+6162|Sofia
+7019|A Beira Sol
+7023|AS Lisboa
+7076|Acores Atlantico
+7141|Afonso Domingues
+7169|Residencia Água de Madeiros
+7245|Alba
+7266|Albatroz
+7272|Albergaria Dias
+7273|Albergaria do Calvario
+7274|Albergaria Josefa d'Obidos
+7275|Miramar Hotel & SPA
+7291|Alcaide
+7306|Aldeia da Cuada
+7307|Aldeia da Fonte
+7353|Corinthia Lisbon
+7355|Komplex Alfagar I & II - Alfagar I
+7359|Algar
+7360|Algarve Clube Atlantico
+7373|Alif Campo Pequeno
+7427|Almar
+7493|Altamira
+7495|Alte
+7516|Altis Grand Hotel
+7518|Alto do Moinho
+7605|Amazonia Lisboa
+7606|Amazonia Estoril
+7655|Americana
+7899|Aqualuz Lagos
+7934|Arangues
+8129|Astoria
+8254|Atlantico - geschlossen
+8255|Atlantico
+8259|Atlântico Golf Hotel & Villas do Lago - Atlântico Golf Hotel
+8346|Avenida
+8348|Avenida Palace
+8350|Avenida Praia
+8359|Aviz
+8428|Bahia Palace
+8437|Baia
+8440|Yellow Praia de Monte Gordo
+8449|Baia Grande
+8467|Balaia Golf Village
+8506|Baltum
+8541|Barão de Forrester
+8552|3K Barcelona
+8578|Barracuda
+8679|Beira Mar
+8696|Bela Vista Hotel & Spa
+8779|Belo Sol
+8802|Bem Parece
+9279|Brisa Sol
+9303|Britania
+9409|Cabanas de Sao Jorge Village
+9434|Penha Longa Spa & Golf Resort
+9478|Calema
+9502|Caloura
+9635|Canadiano
+9724|Caravelas
+9796|Carvoeiro Clube
+9797|Pestana Gramacho Golf Resort
+9798|Carvoeiro Sol
+9823|Casa Bela Moura
+9829|Casa do Alto
+9848|Casa Costa Azul
+9850|Casa da Piedade
+9857|Casa das Torres de Oliveira
+9873|Casa de Sezim
+9887|Casa do Campo
+9888|Casa do Caseiro
+9889|Casa do Correio-Mor
+9890|Casa do Foral
+9894|Vila Domilu
+9898|Casa Dona Ana
+9938|Casa Idalina
+10015|Palacete Flor da Rosa
+10077|Casa Vale d'el Rei
+10084|Casabela
+10087|Casablanca Inn
+10091|Casal dos Patos
+10112|Casas Tipicas
+10165|Castelo de Alvito
+10166|Pousada de Palmela / Castelo de Palmela
+10213|Cegonha Country Club
+10269|Cerro da Marina
+10521|Club dos Arcos
+10547|Clube do Lago
+10577|Colina do Mar
+10578|Colina dos Mouros
+10581|Colmo
+10742|Convento de Sao Francisco
+10743|Convento de Sao Paulo
+10874|Costa d'Oiro Ambiance Village
+10878|Ever Caparica - Beach & Conference Hotel
+10977|Cristina 1
+11006|Vidamar Resorts Madeira
+11059|Memmo Baleeira
+11060|da Bolsa
+11061|M'ar De Ar Muralhas
+11063|Olissippo Lapa Palace
+11069|Da Pergola
+11071|Da Praia Norte
+11072|Da Rocha
+11075|Urgeiriça
+11139|Arribas
+11201|Angra Garden
+11216|Domus Selecta Inglaterra
+11507|VIP Executive Diplomatico
+11550|Clube Apartmentos do Algarve
+11552|Quinta do Arco
+11553|Quinta Atrio
+11554|do Baixinho 1 & 3
+11557|Casa do Cerro
+11558|Do Colegio
+11559|Bom Jesus Do Elevador
+11561|Quinta do Lodao
+11562|Hotel Do Mar
+11565|Do Parque
+11566|Bom Jesus Do Parque
+11567|SANA Reno Hotel
+11597|Dom Afonso II
+11598|Dom Carlos Park
+11599|Pousada de Dom Diniz
+11600|Pousada de Queluz - Lisboa, D. Maria I
+11601|Pousada de Vila Vicosa - Dom João IV
+11602|Best Western D. Luís
+11603|Alif Avenidas
+11604|Albufeira Sol
+11605|Dom Pedro Palace
+11607|Vila Baleira Resort
+11608|Dom Pedro Portobelo
+11647|Don Tenorio
+11649|Dona Rita Park
+11720|Enotel Lido
+11732|Dos Templarios
+11813|Dunas de Alvor
+11814|Dunas Park Beach Club
+12132|Estalagem Encumeada
+12152|Equador
+12210|Escola Hoteleira
+12235|Estalagem a Quinta
+12236|Estalagem Brisa Mar
+12238|Estalagem Corte do Norte
+12239|Estalagem Da Ponta Do Sol & Hotel Da Vila - Estalagem Da Ponta Do Sol
+12240|Do Cerro
+12241|Estalagem do Convento
+12242|Estalagem do Muchaxo
+12245|Guadiana River Hotel
+12250|Estalagem Quinta da Casa Branca
+12251|Komplex Quinta da Penha de Franca / Quinta da Penha de Franca Mar
+12253|Quinta do Estreito Vintage House
+12255|Quinta Jardins do Lago
+12256|Estalagem Quintinha de Sao Joao
+12258|Estalagem Senhora da Guia
+12259|Estalagem Senhora da Rosa
+12260|Porto Bay Serra Golf
+12263|Estalagem de Santo Andre
+12265|São Felix Hillside & Nature
+12270|Estoril Eden
+12271|Palacio Estoril
+12332|Eva
+12454|Faial Resort
+12474|HF Fénix Lisboa
+12522|Figuerinhas
+12807|Pousada Flor de Rosa / do Crato
+12827|Florida
+12866|Fortaleza do Guincho
+12867|Luna Forte da Oura
+12869|Forte de Sao Francisco
+12877|Forte Sao Joao
+12950|Four Seasons Ritz
+12956|Foz de Atlantida
+13081|Galo Resort Hotel Alpino Atlantico
+13082|Calheta Beach
+13083|Galo Resort Hotel Galosol
+13276|Apartamentos Turisticos Interjumbria - Golden Beach
+13345|Gorgulho
+13647|Guadiana
+13926|Herdade de Nossa Senhora das Gracas
+14098|Holiday Inn Lisbon
+14387|Horta da Moura
+14539|Iberlagos
+14587|Ibis Faro
+14588|Ibis Porto Gaia
+14603|Ibis Lisboa Jose Malhoa
+14614|Ibis Saldanha
+14691|Ilha Graciosa
+14720|Imperatriz
+14786|Infante Pousada
+14787|Infante de Sagres
+14795|Inn & Art Gallery
+14872|Internacional
+14902|HF Ipanema Porto
+15014|As Janelas Verdes
+15020|Jardim do Vau
+15851|Lageado Park
+15893|Lamego
+16032|Lawrence's Hotel
+16095|Dona Filipa & San Lorenzo Golf Resort
+16107|Intercontinental Lisbon
+16316|Lido
+16390|Lisboa Plaza
+16391|Do Chiado
+16392|Lisboa Tejo
+16430|Pousada dos Lóios
+16597|Luz Bay Club
+16623|Madeira Regency Cliff
+16624|Madeira Regency Palace
+16640|3K Madrid
+16793|Mar e Sol
+16802|Mar Alvor
+16806|Mar a Vista
+16955|Marina Sao Roque
+17029|Marques de Pombal
+17030|Olissippo Marques de Sa
+17281|Mercure Porto Centro
+17404|Metropole
+17410|SANA Metropolitan Hotel
+17507|Mirachoro Praia
+17547|Miraparque
+17659|Monte d'Oiro
+17660|Monte da Alcaria do Clemente
+17661|Monte dos Avos - geschlossen
+17662|Monte Dourado
+17694|Montesol
+17708|Four Views Monumental Lido
+17756|Mouraliz
+17771|Mundial
+17852|Navigator
+17891|Neptuno
+18096|Novotel Lisboa
+18138|O Curtado
+18212|Ocidental
+18232|Axis Ofir
+18315|Ondamar
+18415|Pousada Conde de Ourém
+18450|Paço de Calheiros
+18451|Paço de Sao Cipriano
+18481|Curia Palace
+18482|Bussaco Palace
+18490|Tivoli Palacio de Seteais
+18530|Pestana Palm Gardens
+18711|Paraiso do Atlantico
+18973|Pestana Cascais Ocean & Conference Aparthotel
+18974|Pestana Alvor Praia
+18975|Pestana Levante
+18978|Pestana Porto
+19241|Cheerfulway Polana Hotel
+19262|Ponta Delgada
+19263|Ponta Grande Resort
+19311|Porto Santa Maria
+19372|Dorisol Pousada dos Vinhaticos
+19375|Pousada de Viana do Castelo
+19383|Praia Azul
+19384|Praia da Oura
+19386|Praia de Lobos
+19389|Praia Mar
+19474|Principe Perfeito
+19660|Balaia Mar & Apartamentos da Balaia - Apartamentos da Balaia
+19664|Quinta da Boa Viagem
+19665|Quinta da Bouca d'Arques
+19666|Quinta da Capela
+19668|Quinta da Fonte
+19673|Hotel Quinta da Marinha Resort
+19674|Quinta da Nasce Agua
+19676|Quinta da Ortiga
+19679|Quinta da Portada Branca
+19680|Quinta da Varzea
+19681|Quinta da Victoria
+19684|Quinta das Lagrimas
+19685|Quinta das Palmeiras
+19687|Quinta de Lagoa
+19689|Quinta de Sant'Ana
+19692|Quinta de Santo Antonio
+19693|Quinta de Santo Antonio da Serra
+19694|Quinta de São Lourenço
+19696|Quinta de Vermil
+19700|Quinta do Lorde
+19701|Quinta do Mar da Luz
+19706|Quinta do Paco d'Anha
+19709|Quinta Dom Sapo
+19711|Quinta dos Amigos
+19712|Quinta Dos Oliveiras
+19713|Quinta Mae dos Homens
+19716|Quinta Paraiso da Mia
+19717|Quinta Perestrello
+19835|Raga
+19838|Pousada de Estremoz, Rainha Santa Isabel
+19962|Real Parque
+19963|Real Residencia
+20173|Pensao Residencial Roma
+20247|Solar da Boaventura Residencia
+20249|Residencial A Lareira
+20250|Aqua Natura Madeira
+20258|Residencial Vilamar
+20363|Rio Apartments
+20416|Porto Bay Falesia
+20417|Luna Falesia Mar
+20439|RIU Palace Madeira
+20527|Rocamar Exclusive Hotel & Spa
+20564|Roma
+20767|Rural Refugio da Vila
+20836|Saboia
+20880|Salgueiro
+21005|SANA Executive Hotel
+21007|SANA Rex Hotel
+21008|SANA Sesimbra Hotel
+21044|Sandy Mar
+21066|Pousada de Santa Clara a Velha
+21068|Santa Cristina
+21070|Grande Real Santa Eulalia
+21081|Pousada de Marvão - Santa Maria
+21083|Pousada do Geres Amares, Sta. Maria do Bouro
+21090|Pousada de Guimarães Santa Marinha
+21113|Pousada de Bragança - São Bartolomeu
+21115|Pousada do Geres/Caniçada - Sao Bento
+21116|Vivenda Sao Bento
+21117|Pousada São Brás
+21118|Pousada de Setubal - Sao Filipe
+21119|Pousada de Beja - Sao Francisco
+21121|Sao Gens
+21122|Sao Gonçalo
+21124|São Jorge Garden
+21125|Sao Jose
+21126|Pousada de Manteigas
+21127|São Miguel
+21128|Sao Miguel Park
+21129|Sao Paulo e Alegria Apartements
+21132|São Rafael Suite
+21133|Pousada de Valença do Minho - São Teotónio
+21421|Pousada de Arraiolos - Nossa Senhora da Assuncao
+21422|Pousada de Nossa Senhora da Oliveira - Guimaraes
+21423|Hotel Fortaleza de Almeida
+21496|Sheraton Porto & Spa
+21546|Sheraton Lisboa Hotel & Spa
+21644|Silchoro
+21806|Sofitel Lisbon Liberdade
+21840|Carvi Beach Resort
+21841|Sol e Serra
+21853|Sol Nascente
+21862|Pousada Solar da Rede
+21864|Solar do Conde
+21866|Solar do Lalem
+21881|Solferias
+22060|Squash
+22267|Suave Mar
+22282|Turim Suisso Atlântico Hotel
+22516|Talisman
+22622|Terra Nostra Garden
+22626|Terrace Club Algarve
+22627|Terrace Mar
+23028|The Vintage House Douro
+23175|Tivoli Coimbra
+23176|Tivoli Jardim
+23177|Tivoli Lisboa
+23178|Tivoli Porto
+23179|Tivoli Sintra
+23222|Torre da Rocha
+23247|Toural
+23443|Turial Park
+23500|Universal
+23555|Vale do Gaio
+23556|Vale do Lobo Resort
+23590|Varandas de Albufeira
+23656|Axis Vermar Conference & Beach
+23687|Vidago Palace
+23725|Vila Afonso
+23732|Vila Channa
+23733|Villas D. Dinis Charming Residence
+23734|Vila Duparchy
+23735|Vila Gaivota
+23736|Vila Galé Albacora
+23737|Vila Galé Estoril
+23738|Vila Galé Porto
+23739|Vila Galé Praia
+23740|Vila Galé Cascais
+23744|Vila Marachique
+23747|Vila Palmeira
+23748|Vila Sao Vicente
+23749|Vila Senhora da Rocha
+23752|Villa Valmar
+23753|Vila Verde
+23754|Vila Vicencia
+23757|Vila Vita Parc
+23758|Vilabranca
+23760|Vilana
+23762|Vilar do Golf
+23867|Villa Esmeralda
+23973|Villa Opuntia
+24587|York House
+24648|Zodiaco
+24700|VIP Executive Zurique
+24739|Alcazar
+25983|Monte Mar Palace
+26080|Duas Nacoes
+26418|Choupana Hills Resort
+26419|Royal Savoy
+26522|Solar da Bica
+26523|Casa do Papagaio Verde
+26635|Pestana Palace
+26636|Tivoli Oriente
+26656|do Campo
+26660|Pestana Atalaya - geschlossen
+26747|Enotel Baia
+26837|Solar do Castelo
+26853|Dom Manuel I
+26854|Vila Monte
+26858|Hotel Moniz Sol
+28205|Do Mar
+28214|Charming Hotel Quinta das Vistas
+28262|Bayside Salgados
+28326|Domus Maris
+28479|Orquidea
+28892|Americano
+28894|Avenida Parque
+29566|Real Bellavista
+29580|Marina Club Resort - Marina Club I / Marina Club II / Marina Club Suite Hotel
+29596|Do Ribeirinho
+29613|Vila Mos
+29615|Euro Moniz
+29718|Porto Palacio
+29719|Boa-Vista
+29720|Residencial Sao Gabriel
+29726|Pinhal da Foz
+29727|Mercure Figueira da Foz
+29728|Vila Bicuda
+29729|Riviera
+29733|Solar da Fornalha
+29734|Luzmar Villas
+29736|Aqua Meia Praia
+29748|The Lince Azores Great & Spa
+29750|Vila Nova Hotel
+29754|Do Martelo
+32293|Paul do Mar
+32733|Grande do Porto
+32734|Malaposta
+33207|Capela das Artes
+33333|Velamar
+33856|Casas Valleparaizo
+33858|Quinta da Quebrada
+34307|VIP Executive Villa Rica
+34308|Almirante
+34927|Dunamar
+34929|Da Calma
+34931|Casa Al Gharb
+34934|Quinta Alegre
+35936|Via Donana Apartments
+35946|Parque do Rio - Ofir
+35947|Santana Hotel & Spa
+35949|Farol Design
+35951|Vila Galé Ericeira
+35953|Pateo dos Solares
+35956|Villa Termal Caldas De Monchique
+35958|Quinta Rosa de Lima
+35959|Clube Porto de Mos
+35961|Formosa Park Apartamento
+35962|Quinta Jardins do Golfe
+35963|Vila Galé Tavira
+35972|Estalagem dos Clérigos
+35973|Marina
+35974|Do Caracol
+35975|Quinta das Buganvilias
+37776|Porta Nova
+37826|Domus Selecta Vila Gale Clube Do Campo
+38002|Pousada de Belmonte - Convento de Belmonte
+38003|Pousada da Torreira / Murtosa - Ria de Aveiro
+38079|VIP Executive Eden Aparthotel
+38249|Resort Vila Porto Mare - Porto Mare / Eden Mar / The Residence
+38422|Travel Park
+38816|Paraiso de Albufeira
+38817|O'Farol
+39027|Jorge V
+39057|Club Med Da Balaia
+39187|Das Hortencias
+39238|Real Lota
+39239|Benvindo
+39350|Baia de Monte Gordo
+39727|Hotel Borges Chiado
+39728|NH Liberdade
+39786|Pousada de Vila Pouca da Beira, Convento do Desagravo
+39937|Praia d'el Rey Golf & Beach Resort - Marriott Hotel
+40071|Estalagem dos Camoes
+40072|Quinta da Abelheira
+40073|Royal Garden
+40074|Terceira Mar
+40075|Quinta do Vale
+40109|Mar e Serra
+40241|Burgau Beach Hotel
+40537|Ria Plaza Resort
+40549|lti Pestana Grand
+40741|Club Amarilis
+41026|Quinta do Monteverde
+41027|Real Palacio
+41028|Vila Galé Opera
+41029|Olissippo Castelo Othon Palace
+41030|Turim Lisboa hotel
+41031|Lisbon Marriott
+41032|SANA Lisboa Hotel
+41033|SANA Malhoa Hotel
+41034|Comfort Inn Embaixador
+41035|VIP Inn Berna
+41036|VIP Executive Saldanha
+41037|Avenida Alameda
+41038|Fenix Porto
+41039|HF Tuela Porto
+41040|Golden Tulip Porto Gaia Hotel
+41041|Vila Valverde
+41042|Vila Mar Azul
+41043|Boca do Rio
+41044|Presa de Moura
+41045|Colina Verde Golf & Sports Resort
+41047|Canal da Agua
+41048|Herdade do Touril de Baixo
+41049|Vila Park
+41050|Londres
+41051|VIP Inn Miramonte
+41053|Quinta da Vigia
+41054|Hotel Club d'Azeitao
+41055|Belver Grande Hotel da Curia
+41056|Penacova
+41057|Pousada São Vicente
+41059|Casa de Calcada
+41060|Maria da Fonte
+41061|AJ Hotel
+41064|Casa Domingos
+41067|Quinta da Meia Eira
+41068|Do Mirante Aparthotel
+41069|Santa Maria
+41070|Pousada da Horta Forte de Santa Cruz
+41139|Luna Miramar
+41141|Costa de Prata II
+41142|Costa de Prata I
+41328|Villas d'Agua
+41340|Residencial Lar do Areeiro
+41439|Quinta da Praia
+42263|Exe Lisboa Parque Hotel
+42272|Comfort Inn Ponta Delgada
+46643|Clube Maria Luisa
+46644|Colina da Lapa
+46645|Marina Falesia - geschlossen
+46733|Mirachoro II y III
+46756|Hotel das Termas - Curia
+46760|Alta Oura Apartments
+46784|Janelas do Mar Apartments
+46785|Valmangude Jardim
+46788|Amazonia Jamor
+46789|Amazonia Palmela
+46807|Balaia Plaza
+46808|Balaia Sol
+46866|Jardins da Rocha
+46870|Dom Carlos Liberty
+46912|Holiday Inn Lisbon Continental
+46940|HF Ipanema Park
+47068|SANA Capitol Hotel
+47091|Lisboa
+47094|Internacional Design Hotel
+47146|Estalagem dos Zimbros
+47173|Residencial Pao de Acucar
+47174|Residencial dos Aliados
+47206|Grande Hotel de Paris
+47399|Madeira
+47402|Quinta do Monte
+47655|Quinta da Serra
+47656|Garajau Terrace
+47657|Quinta Mirabela
+47855|Yellow Alvor Garden
+48355|Monte da Quinta Resort - Club
+48474|Pestana Vila Sol Golf & Resort
+48476|Radisson Blu Lissabon
+48652|Vitor's Plaza
+48654|Rural San Roque
+48657|Edificio Cruzeiro
+48659|Komplex Mourabel - Parque Mourabel
+48801|Urbamar Kings
+48868|Luna Clube Oceano
+48869|Our Atlantico
+48870|Acqua Maris Balaia
+48933|Plaza Real
+48980|Cidadela Cascais
+48999|Nautilus
+49000|Browns
+49001|Solar dos Vilarinhos
+49002|Cerro Branco
+49003|Cerro Malpique
+49004|Clube VilaRosa
+49005|Flor da Laranja
+49006|Tropical Sol
+49007|Montechoro Hotel & Clube 99
+49008|Belmonte
+49012|Cabana do Pai Tomas
+49044|Expo Astoria
+49049|Mercure Lisboa
+49056|Tryp Montijo Parque
+49068|As Americas
+49069|Dom Henrique Othon Classic
+49076|Regua Douro
+49079|Quality Inn Porto
+49082|Quality Inn Portus Cale
+49083|Curia Clube
+49115|Tulipamar
+49116|Magnoliamar
+49118|Rosamar
+49132|Principe Lisboa
+49150|Natura Algarve Club
+49175|Estalagem Casa Melo Alvim
+49184|Estalagem de Monsaraz
+49191|Sao Jose Fatima
+49197|Tryp Oriente
+49202|Belavista Avenida
+49203|Santa Maria
+49204|Amadeos
+49206|Grande de Luso
+49207|Mercure Braga Centro
+49208|Cabecinho
+49215|Belver Beta Porto
+49216|Hotel Meira
+49233|Província Charming
+49243|Solmonte
+49244|Torre Verde 3 Castelos
+49247|Hotel de Turismo da Guarda
+49263|Albergaria el Rei Dom Manuel
+49266|Porta do Sol
+49267|Atlantis Sintra Estoril
+49283|Dom Fernando
+49288|Princesa Hotel & Tea
+49296|Albergaria Residencial Tony da Silva
+49299|Estalagem Lago Azul
+49300|Comfort Inn Braga
+49315|Do Sado
+49375|Fundador
+49376|Quality Inn Sabrosa
+49377|Premium Setubal Hotel & Spa
+49386|Comfort Inn Fafe-Guimaraes
+49392|Dom Afonso Henriques
+49395|Quality Inn Casa da Campea
+49396|Lutecia
+49431|Quality Inn Cartaxo
+49438|Sao Mamede
+49457|Quality Inn Montalegre
+49458|Praia
+49518|Atlantida Sol
+49524|Varandas da Falesia
+49525|Nelas Parq
+49559|ibis budget Braga Centro
+49575|Evora Hotel
+49612|Sweet Residence & Gardens
+49613|Wellington
+49629|Torre Velha
+49639|Pateo Village
+49649|Monaco
+49655|Dos Anjos
+49727|Moliceiro
+49735|Villas Barrocal
+50032|Menfis
+50054|Solar Palmeiras
+50067|Tryp Expo Porto
+50078|Dona Ines
+50302|Real Oeiras
+50335|Mercure Porto Gaia
+50336|Veneza
+50366|Best Western Eduardo VII
+50367|Novotel Porto Gaia
+50434|Aguas do Geres
+50449|Luna Esperança Centro
+50456|Cristal Caldas
+50457|Cristal Marinha
+50458|Cristal Vieira Praia & Cristal Praia - Cristal Vieira Praia
+50466|Garcia d'Orta
+50470|Praia do Sol
+50493|Praiagolfe
+50502|Residencial Ribamar
+50517|Cinquentenario
+50524|Al Foz
+50541|Luna Alpinus
+50542|Marialva Park
+50543|Ibis Bragança
+50544|Ibis Guimaraes Centro
+50545|Ibis Braga
+50586|Residencial Rochavau
+50816|Moinho de Vento
+50817|Turismo de Tabua
+50818|Onix
+50819|Soldoiro
+50824|Alto da Colina
+50832|Aldeamento de Peixinhos
+50845|Guimarães
+51020|Montebelo
+51041|Cruz Alta
+51054|Vanguarda
+51071|Albergaria O Gato
+51073|Grao Vasco
+51112|Sao Lazaro
+51120|Cabanas Park Resort
+51133|America Fatima
+51189|Lux Mundi
+51215|Alvorada
+51275|Santo Antonio
+51547|Estalagem Eira do Serrado
+51553|Oura Val
+51577|Alagoa Mar
+51624|Sinerama
+51627|Cerro Mar Atlantico & Garden - Atlantico
+51628|Quinta da Bellavista
+51630|Cheerfulway Vila Alba Apartments
+51632|Tivoli Marina Portimao
+51633|Regina
+51636|Tropimar
+51827|Leziria Parque
+51884|Do Parque
+51887|Axis Ponte de Lima
+51889|Grande Hotel da Póvoa
+51894|Ever Lisboa City Centre
+51927|Best Western Rainha Dona Amélia
+51931|Comfort Inn Almedina
+52031|Vilas Oliveira
+52043|Estoril 7
+52066|Jardins Vale Parra
+52116|Hotel do Parque
+52191|Ourasol
+52194|Estalagem Monte do Casal
+52195|Residencial Greco
+52227|Vila Branca
+52525|Marina Atlantico
+52533|Casas do Frade
+52976|Pousada de São Sebastião
+52982|Estalagem do Vale
+52983|Do Canal
+52984|Colombo
+52986|Bom Jesus
+54385|Romantica Quinta de Nespereiras
+54387|Studios Porto de Mos Residence
+54388|Quinta das Figueirinhas & Quintinha Village - Quintinha Village
+54389|Alagoa Azul
+54472|Sensimar Falesia
+55545|Quinta das Eiras
+56416|Alagoa Praia Norte
+56425|Mar a Vista
+56586|Do Golfe Apartamentos
+57208|Clube Praia do Vau
+57338|SANA Estoril Hotel
+57422|Vale de Carros
+57529|Vila Recife
+57705|Bairro Alto
+59559|Residencial Horizonte
+59561|Vilmar Villas
+60682|Casa Mitchell
+60735|Tryp Porto Centro
+60736|VIP Executive Santa Iria
+60737|Bom Jesus Do Templo
+60826|ChoroMar
+60831|Acores Lisboa
+61152|Solar de Sao Joao
+61154|Gida
+61228|Quinta Pedra dos Bicos
+61236|Clube Humbria
+61239|Solar da Oura
+61783|Rainha D. Leonor
+61784|Jardim da Meia Praia
+61923|Estrela da Luz
+62052|Santa Eulalia Hotel & Spa
+62295|Clube da Meia Praia
+62296|The Lake Resort
+62298|Praia Verde Resort Suitehotel
+62316|Quinta do Alto Sao Joao
+62318|Casa da Capelinha
+62398|Principe Da Beira
+62477|Excelsior
+62478|VIP Executive Art's
+62479|VIP Executive Suites Marquês
+62608|Altis Park
+62856|Solplay
+63236|Cantinho do Mar
+63443|Club Alvor Ferias
+64450|VIP Executive Azores
+64456|Nacional
+64766|Quinta das Vinhas
+64849|Eurosol Alcanena
+64892|Cheerfulway Bravamar
+64895|Best Western Inca
+64896|Casa de Juste
+64924|Soleil Peniche
+64925|Eurosol Residence
+64927|Meia Lua
+64928|Avelames
+64929|Rali
+65009|Altis Suites
+65014|Fatima
+65015|Dom Luis Elvas
+66286|Principe Real
+66287|Grande Pensão Alcobia
+66298|Vale d'el Rei Suite & Villas
+66302|Pátios da Vila Apartamentos
+66304|São Domingos
+66305|Best Western Plus Santa Clara
+66307|Convento do Espinheiro, a Luxury Collection Hotel & Spa
+66309|Cascais Miragem
+66311|Mira Villas
+68563|Pousada de Tavira - Convento da Graça
+68583|Tryp Dona María
+68588|Holiday Inn Porto Gaia
+68596|Tryp Coimbra
+68627|Palacio da Lousa Boutique Hotel
+68764|Balaia Atlantico
+68781|Vita Sol Park
+69391|Adriana Beach Club
+69392|Suites Alba Resort & Spa
+69396|Aparthotel da Se
+69400|Pestana Alvor Park
+69759|Vila Galé Santa Cruz
+69760|Madeira Bright Star
+70115|Horta
+70116|Quinta das Merces
+70428|Casa das Paredes
+70431|Quinta da Mata
+70432|Quinta de Cortinhas
+70772|Da Vila
+70773|Balaia Mar & Apartamentos da Balaia - Balaia Mar
+71057|Ibis Evora
+71058|Novotel Setubal
+71059|Ibis Setubal
+71170|Eurostars das Artes
+71171|Ibis Europarque
+71172|Ibis Porto Norte
+71195|Turismo do Minho
+71196|Moutados
+71197|Ibis Porto Sao Joao
+71689|Montinho de Ouro
+71690|Ibis Coimbra
+71691|Ibis Viseu
+71692|Ibis Figueira da Foz
+71693|Ibis Leiria
+71695|Holiday Inn Express Lisbon - Oeiras
+71696|Dom Goncalo
+71697|Jardins da Ria
+72166|Quinta Verde
+72347|The Ocean Club
+72349|Quinta Corticada
+72350|Albergaria Rosa Montes
+72351|IATE
+72353|Ocean Gardens
+72355|Eurosol Leiria & Eurosol Jardim
+72356|Jardim / Afonso V
+72416|Waterside Village
+72454|Aviz
+72989|AlvorMar Apartamentos Turísticos
+73420|Pousada de Santiago do Cacém
+73426|Pousada de Condeixa-a-Nova
+73428|Alvaflor
+73429|Zarco
+73430|Turismo da Covilha
+73431|Altura Mar Apartamentos
+75364|Mirachoro I
+75536|Quinta da Balaia
+75772|Stella Maris
+75856|Bejaparque
+76064|Pico da Urze
+76129|Heritage Avenida Liberdade
+76130|Portugal
+78043|Pousada de Elvas - Santa Luzia
+78060|Quarteira Sol
+78461|Pousada das Amoras
+78464|Grande Real Villa Italia
+78467|Rural da Daroeira
+78468|Vitoria Stone
+78679|Termas de Moncao
+78779|Sao Sebastiao de Boliqueime
+79479|Olhos Do Mar
+79530|Monte da Bravura - Green Resort
+79546|Estalagem Engenho Velho
+79680|Golden Residence
+79736|Flor de Sal
+79737|Quinta do Marco
+79775|Zenit Lisboa
+79868|Sesimbra Hotel & Spa
+80098|Lagoas Park
+80676|Real d'Obidos
+80677|Melia Ria
+80678|Estalagem Porto Antigo
+80679|Antillia
+80680|Nossa Senhora da Estrela
+80681|Vale do Navio & Acorsonho
+81147|Residencial Pina
+81269|Vale d'Oliveiras Resort & Spa
+81290|Santa Teresinha
+81578|Santa Catarina
+81633|Turim Europa Hotel
+81661|Novochoro
+81996|Residencial Joao XXI
+82039|American Diamonds
+82175|Oceanus
+82218|Madeira Regency Club
+82219|Olhos d'Agua
+82290|Varandas do Atlantico
+82481|Santa Maria Park
+82547|De Moura
+82661|Appartements Pontalaia
+82817|AC Porto
+83581|Faro
+85212|Tropical Promises
+85707|Maritur
+85770|Atlantida Apartaments
+86013|Quinta dos Poetas
+86014|Olissippo Oriente Othon Palace
+86332|Praia Sol
+86861|Turim Iberia Hotel
+87311|Sereia da Oura
+87314|Viva Marinha
+87433|HF Fénix Urban
+88120|Residencial Santa Eulalia
+89414|Wr Hotel Sao Joao da Madeira
+89426|Do Caramulo
+90127|Hilton Vilamoura & As Cascatas Golf Resort
+90137|Porto Dona Maria Golf & Resort
+90191|Dolce CampoReal
+90701|Aldeia Dos Capuchos Golf & Spa
+91026|Jeronimos 8
+91888|Quinta do Serrado
+91892|Orada Apartamentos Turísticos
+91893|Clarion Suites Lisbon
+91895|Delta Residencial
+91938|Beachtour Ericeira
+92171|Villa Santana
+92653|Casa Espraguina
+92846|Palacio dos Melos
+92847|Inatel Castelo de Vide
+93144|Oceano Atlantico
+93908|Doubletree by Hilton Lisbon - Fontana Park
+95142|Robinson Club Quinta Da Ria
+95143|ClubHotel Riu Guarana
+95144|Al Mar Appartements
+95314|Aquapura Douro Valley
+95547|Casas de Campo do Pomar
+95710|Praia Dona Ana
+95740|Vitor's Village
+96032|Palacio Belmonte
+96124|Francis
+96125|Melius
+96700|Vera Cruz Hotel
+97598|Bessa
+97656|Vale do Garrao Villas
+97660|Castilho Apartamentos
+97663|Casa do Adro
+97670|Monte do Sobral
+97684|Hotel Serra da Estrela
+97687|Estalagem Varanda dos Carqueijais
+97691|Albergaria Bracara Augusta
+97697|Albergaria Matriz
+97699|Furnas Spa
+97703|Quinta do Canavial
+97884|Quinta da Cova do Milho
+99189|Vilamoura Beach
+99798|Hotel Imperial Aveiro
+99799|Clube Praia Mar
+99841|Albergaria Catedral
+99924|Casa de Peixinhos
+100320|Palma Monforte
+100321|Pestana Porto Santo Beach Resort
+100322|VIP Grand Lisboa Hotel & Spa
+100323|Park Porto Gaia
+100326|Santa Eufémia
+100327|Lux Fátima
+100328|Convento da Alpendurada
+100650|Vista Marina
+100655|Funchal Design
+100702|Villa C
+100739|White Waters
+100882|Mare
+100883|Mansao da Torre
+101430|Douro
+101433|Praia Marina
+101434|Flamingo Residence
+101436|Santa Maria
+101437|Monte Santo Resort
+102206|Victory Village
+102207|Vilanova
+102354|Quinta das Mineirinhas Apartamentos
+102355|Hotel do Terço
+102356|HF Fénix Garden
+102357|Your Hotel & Spa
+102358|Bom Jesus Do Lago
+102359|Baía da Luz
+102374|Melia Madeira Mare
+102375|Pestana Promenade
+102399|Reich Appartments
+102698|Albergaria Ordem De Santiago
+103133|Turim Alameda Hotel
+103134|Luna Alvor Village
+103205|The Lince Madeira Lido Atlantic
+103312|Chalés da Montanha
+103318|Penafiel Park Hotel & Spa
+103652|Sol Lagos Studios
+103705|Vila Joya
+110465|Noria Velha
+110466|Cerro Mar Atlantico & Garden - Garden
+110926|Solar dos Canavarros
+122245|Whale'come ao Pico Residencial
+122247|Residencial Vista Do Vale
+122358|Tivoli Victoria & The Residences at Victoria - Tivoli Victoria
+122391|Solar do Sol
+122392|Eurostars das Letras
+122394|Monte da Quinta Resort - Suites
+122395|Portas do Sol da Bemposta
+122883|M'ar De Ar Aquaduto
+124855|Apulia Praia
+124857|Tulip Inn Estarreja Hotel & SPA
+128797|Paredes Apartamento
+129771|Residencial Jardim Da Amadora
+129773|F Palmela Aldeamento de Palmela
+129774|Komplex Mourabel - Oasis Village
+133009|Pousada San Bento
+133011|Residencial Alfonso III
+133019|Hotel Afrin Lisboa
+133022|Residencial Caravela
+133023|Botanico
+133030|Antas
+134177|Ibis Lisboa Liberdade
+134222|Villa Albatroz
+134378|Convento dos Capuchos
+134379|Quinta do Piroleiro
+134415|Albergaria Valbom
+134508|Aqua Mar Aparthotel
+135037|Vila Galé Lagos
+135087|Pousada Palácio de Estoi
+135090|Pousada Hospital de São Teotónio
+135359|Vista Marina
+135408|Pestana Colombos
+135490|Forte Do Vale
+135492|Veleiro
+135579|Albergaria Nossa Senhora da Rocha
+135929|Areias Village
+136150|The Vine
+136213|Furnas Lake Villas
+136262|Pousada de Viseu
+136273|O Zimbreiro
+136481|Paladim
+136482|Navarras
+136484|Monte Do Carmo Hotel Rural
+136485|Vincci Baixa
+136552|Colina da Fajã
+136581|Baia Brava
+137534|Pramsor - geschlossen
+137560|Cliphotel Gaia Porto
+138095|Regina
+138099|Alegre
+139129|NH Lisboa Campo Grande
+139858|Altis Belem
+139859|Sintra Sol Apartments
+139862|Miramar Sul
+139864|Casal Novo
+139865|Casa Dos Mangues
+139866|Axis Viana
+139867|Aquafalls Spa
+139872|Sweet Atlantic Spa
+139889|Principe Do Monaco
+139890|Pocinho Bay
+140482|Mar Bravo
+142134|Algamar Apartments
+142150|Casino Chaves
+142151|Conde d'Agueda
+142152|Grande Hotel das Caldas da Felgueira
+142180|Paraiso Apartamentos
+143110|Canico Bay Club
+143118|Casa da Varzea
+143134|Casas Da Lapa
+143140|Eden Village
+143146|Monte Prado
+143153|Quinta Da Bela Vista
+143171|Senhora do Castelo
+144355|Luna Alvor Bay
+145140|Solaqua
+145143|Salgados Vila das Lagoas Apartments
+145243|Troia Resort - Aqualuz Suite Hotel & Apartamentos
+151316|Aqua Pedra dos Bicos
+162054|Casa Beato Nuno
+162055|Ilhavo
+162060|Barra
+162061|Covilha Parque
+162067|Castrum Villae
+162074|Hospedaria Pinhalmar
+162092|Aquae Flaviae
+162094|AS Sao Joao da Madeira
+162096|Vigia Resorts - The View
+162099|Estalagem Riabela
+162101|Residencial Salema
+162102|La Fontaine
+162108|Caldas Internacional
+162109|Best Western Dom Bernardo
+162110|Lusitano
+162124|Quinta da Encosta Velha - Vigia Resorts
+162136|O Poejo Boutique
+163484|Residencial Vila Bela
+163485|Pensão Albufeirense
+163486|Quinta de São Miguel de Arcos
+163488|Axis Porto
+163489|Concha Residencial
+163490|Golf Mar
+182166|Hotel das Termas do Vimeiro
+182522|Turoasis
+182992|Bom Sucesso Design Resort Leisure & Golf
+182994|Eirasol
+183192|Auris Apartamentos Turisticos
+183193|Troia Design Hotel
+183966|Salgados Palace
+185360|Jardim do Mar
+187360|Estrela de Fatima
+188109|Aqua
+188110|Montado & Golf Resort
+195898|Pousada Do Porto, Palácio do Freixo
+196001|Estalagem Da Ponta Do Sol & Hotel Da Vila - Da Vila
+196017|Montemuro
+196027|Palace Monte Real
+196028|Quinta da Barroca
+197167|Quinta do Vale do Monte
+197231|São Rafael Atlântico
+201669|Holiday Inn Express Porto Exponor
+201673|Varandas do Atlântico
+201712|Bergchalets Serra da Estrela
+201858|Gaivota
+202160|Casa Celso
+202166|Casa Rato
+202179|Villa Caroline
+202192|Real Marina Hotel & Spa
+202194|Altis Avenida
+202197|Convento Sao Saturnino
+202198|Quinta Junqueiros
+202200|H2otel
+202202|Da Montanha
+202203|Fonte Santa
+202205|Residencial Bela Vista
+202206|Cantinho das Buganvilias
+202405|Casa Nossa Senhora da Conceicao
+202597|Holiday Inn Express Lisbon Airport
+202741|Arcanjo
+202744|Casa do Termo
+202748|Residencial Sete Cidades
+202749|Verde Mar
+202841|Quinta das Figueirinhas & Quintinha Village - Quinta das Figueirinhas
+202906|Quinta do Xarrama
+204138|Albergaria Parque das Laranjeiras
+204250|Casas da Comporta
+204251|Aldeia Da Falésia
+204301|Alfamar Beach & Sport Resort & Algarve Gardens - Algarve Gardens
+204928|Vila Luz
+205354|Astoria
+205377|Atalaia Sol
+205752|Baía Da Barca
+206936|Casa Do Outeiro
+207356|Cidnay
+207933|Da Estação
+208864|Encosta do Lago Resort Club
+208934|Albatroz Beach & Yacht Club
+209020|Eurosol Gouveia
+209416|Lisbon Serviced Apartments - Bairro Alto
+209417|Lisbon Serviced Apartments - Cais do Sodré
+209458|Gaiahotel
+209713|Gat Rossio
+211732|Império
+212618|Lagunamar
+213320|Lisbon Story Guesthouse
+213867|Martinhal Beach Resort & Village
+214202|Mondim de Basto
+214328|Moura Golf Village
+214420|Nave
+214820|Oura View Beach Club
+215635|Ponta Grande Vila do Castelo
+215665|Porto Trindade
+216517|Quinta do Caracol
+216520|Quinta Do Moinho De Vento
+216802|Molhe Hotel Conde Carvalhal
+216828|Residence Golf Club
+216958|Residencial Alcides
+217023|Residencial Universal
+217788|Santarém
+218155|Sol Póvoa
+218161|Solar dos Mascarenhas
+218367|Star Inn Porto
+219621|The Wine House
+219720|Torre Mar
+220094|Tivoli Victoria & The Residences at Victoria - The Residences at Victoria
+220511|Atlântico Golf Hotel & Villas do Lago - Villas do Lago
+221060|Albergaria Senhora do Espinheiro
+221475|Casa de Fataunços
+221520|Casas Do Coro
+221610|Convento Da Provença
+221780|Douro Palace Resort & Spa
+222057|Graciosa Resort
+222169|Herdade Do Monte Redondo
+222170|Herdade Do Sobroso - Country House
+222238|Hospedaria do Convento
+222807|Monte dos Apóstolos
+223132|Quiaios
+223137|Quinta das Alfaias
+223143|Quinta de Santana
+223149|Quinta do Chocalhinho
+223152|Quinta do Mel
+223325|Alves Rural
+223344|Rural Quinta da Geia
+223346|Quinta de Bispos Rural
+223527|Summerplace Guesthouse
+226654|Casa da Insua
+226736|Inatel Flores
+226769|Casa do Condado de Beiros
+226822|Honório Apartamentos
+226823|Longevity Wellness Resort Monchique
+226824|The Old Village
+226882|Teatro
+226883|Vila Galé Coimbra
+227222|Edificio Albufeira
+227223|Oasis Beach
+227224|Porta da Vila
+227225|Yellow Lagos Meia Praia
+227226|O Alambique de Ouro Resort
+227227|Inspira Santa Marta
+227301|The Vintage House Lisboa
+227319|Agua Marinha
+227393|Gaivota
+227397|Luxe Hotel by Turim Hotels
+227430|Eden Resort
+227431|Requinte - Praia da Granja
+227433|Vale da Lapa
+227999|Villa Doris Suites
+228023|Melia Braga
+228024|Arrábida Resort & Golf Academy
+228025|Santa Barbara Dos Mineiros Hotel Rural
+228275|Residencial A Ilha
+228277|Encosta do Mar
+228280|Castelos Da Rocha
+228282|Vidamar Resorts Algarve
+228283|Lisboa Almada Hotel
+228287|Jardins de Santa Eulalia
+228291|Palm Village
+228308|Casas d'Arramada
+228309|Vilamor
+228397|Herdade do Montalvo
+228594|Leziria Apartments
+228608|Casa de Canedo
+228682|LX Boutique
+228728|Areias do Seixo Charm
+228729|Coracao de Fátima
+228730|Montebelo Aguieira Lake Resort & Spa
+228825|Herdade da Malhadinha
+228827|Apartamentos na Marina Garvetur
+228857|Casa Penhas Douradas
+228858|Lago Montargil & Villas
+229042|Monte da Vilarinha
+229046|Termas de Sao Vicente Palace
+230288|Villa Bora Bora
+230301|Santa Maria
+230303|Quinta da Romaneira
+230325|Herdade Lago Real
+230331|ZMAR Eco Camping
+230337|Residencial Vale Verde
+230338|Rural Casas Novas
+230339|Adegas do Pico
+230441|Pestana Sintra Golf & Spa Resort
+230642|Convento Nossa Senhora do Carmo Hotel Rural
+231790|The Oitavos
+231992|Premium Porto
+232070|Komplex Quinta da Penha de França / Quinta da Penha de França Mar - Quinta da Penha de França Mar
+232488|Quinta Polaris
+232554|Cascade Resort - Cascade Wellness & Lifestyle Resort / Apartments
+232805|Quinta do Rossio
+232910|Guesthouse Dom Manuel II Charming Residence
+232947|The Yeatman
+233102|Altis Prime
+233418|Residencial PortoMadrid
+233482|Quinta das Colmeias
+233483|Quinta dos Avós
+233515|Residencial Teresinha
+233516|Albergaria Foz do Sado / Sol Tróia
+234565|Palmeiras Santa Eulália
+234624|Onyria Marinha Edition Hotel & Thalasso
+234779|Aldeia da Pedralva
+234781|Riverside Resort & Spa
+234965|Real Marina Residence
+235107|Estalagem Vista Real
+235213|Hotel da Estrela
+235392|Monte Paraíso
+235393|Inatel Caparica
+235394|Inatel Entre-os-Rios
+235395|Inatel Foz do Arelho
+235396|Inatel Luso
+235397|Inatel Oeiras
+235398|Inatel Santa Maria da Feira
+235400|Inatel Vila Ruiva
+235698|Salgados Dunas Suites
+235703|Aquashow Park
+235973|Morgado Golf & Country Club
+235974|Morgado Golf & Country Club
+236105|Prainha Aldeamento / Clube / Village - Aldeamento da Prainha
+236713|Zenite
+236715|Eurostars Oporto
+236716|Casa das Irmãs Dominicanas
+236719|Santo Amaro
+236721|Ponta Grande Carvoeiro
+236722|Inatel Albufeira
+236726|Inatel Porto Santo
+236727|Inatel Piodão
+236728|Basic Braga by AXIS
+236729|Casa de Campo A Abegoaria
+236730|Casa da Amieira
+236733|Carris Porto Ribeira
+236870|Quinta da Timpeira
+237080|Golfinho
+237311|Lisbon Serviced Apartments - Marquês de Pombal
+237317|L'and Vineyards
+237319|Monte Gordo Hotel
+237322|SANA Silver Coast Hotel
+237323|Monte Rei Golf & Country Club
+238256|Hilton Conrad Algarve
+238291|Alvor Baía
+238292|InterContinental Porto - Palácio das Cardosas
+239182|Salgados Palm Village Apartments & Suites
+239189|Lisbon Serviced Apartments - Praça Do Municipio
+239875|Mira Sagres
+240058|Residencial Montanha
+240281|L'Escale de L'Atlantic
+242320|Atlantida Mar
+244233|Lisbon City
+245125|Residencial Monumental
+245344|Galo Resort Hotels - Galomar/ Galosol/ Alpino Atlantico
+245359|Resort Vila Porto Mare - Porto Mare
+245361|Resort Vila Porto Mare - Eden Mar
+245362|Resort Vila Porto Mare - The Residence
+245495|Pestana Village & Miramar - Pestana Village
+245496|Pestana Village & Miramar - Pestana Miramar
+245875|Belmar Spa & Beach Resort
+245878|Neya Lisboa
+246223|Casa Rei das Praias
+246229|Furadouro Boutique Beach & Spa
+246232|Vitória Village Appartements
+246236|Casas do Patio
+246539|Quinta Dos Curubas
+246631|Holiday Inn Express Lisbon - Alfragide
+247503|Herdade do Rio Torto
+247505|Quinta da Mó
+247506|Quinta de Resela
+247517|Cerro Mar Atlantico & Garden
+247874|Pestana Dom João Villas
+248276|TSAR Lisbon
+248287|Komplex Mourabel - Parque Mourabel/Pe Do Lago/Oasis Village
+248397|Palheiro Village
+259441|Park Hotel Airport
+259742|Senhora de Belém
+259743|Porta Azul
+260010|Amendoeira Golf Resort
+260011|A Casa do Ouvidor
+260012|Eurostars Rio Douro Hotel & Spa
+260013|Vivenda Belo Horizonte
+260014|Cabo Girão
+260231|Lisbon Short Stay
+260500|Pedras D'el Rei Nature Sports & Beach Resort
+261506|Lisboa Carmo
+261507|Evidencia Light Sta Catarina
+261612|Myriad by SANA Hotels
+261671|Oura Praia
+264912|Komplex Alfagar I & II - Alfagar II
+264915|Hilton Vilamoura & As Cascatas Golf Resort - As Cascatas
+265498|Marina Club Resort - Marina Club I
+265499|Marina Club Resort - Marina Club II
+265500|Marina Club Resort - Marina Club Suite Hotel
+265584|Pine Cliffs Resort - Sheraton Algarve
+265585|Pine Cliffs Resort - Pine Cliffs Residence
+265586|Pine Cliffs Resort - The Terraces
+265687|Montechoro Hotel & Clube 99 - Montechoro Hotel
+265688|Montechoro Hotel & Clube 99 - Montechoro Clube 99
+265702|Hilton Vilamoura & As Cascatas Golf Resort - Hilton Vilamoura
+266969|Four Seasons Vilamoura
+266971|Quinta de São Lourenço
+268012|Inatel Manteigas
+268014|Praia d'el Rey Golf & Beach Resort - Holiday Residences
+268018|Herdade da Matinha
+268822|Pousada de Cascais
+268825|Casa Vela Guest House
+268830|Casa Shanti Niketan
+268831|The Charm of Cascais
+269301|Carmo's Boutique
+269307|Golden Tulip Braga Hotel & Spa
+269316|Villa Sandini Hotel e Spa
+269317|Delfim Douro
+269343|Casa do Plátano
+271866|Douro Scala
+273211|Solar de Alvega
+274283|Imani Country House
+275265|Museu
+276387|Vigia Resorts - Parque da Floresta Golf Leisure Resort
+278043|Fontecruz Lisboa
+278044|Mercy Hotel
+285263|Pestana Pine Hill Residences
+286051|Design and Wine Hotel
+292107|Casa Vicentina
+292138|Pestana Dom Joao II & Alvor Atlantico Residences - Alvor Atlantico Residences
+292139|Pestana Dom Joao II & Alvor Atlantico Residences - Dom Joao II
+294606|Quinta da Palmeira
+295437|Herdade da Cortesia
+295457|Aldeia Do Lago Casas De Campo
+295594|Solverde Apartamento
+295776|Epic Sana Algarve
+295873|Quinta da Cruz
+296598|Alentejo Marmoris Hotel & Spa
+296600|Monte do Zambujeiro
+296603|Angra Marina
+296703|Quinta dos Figos
+296757|Vale do Navio & Acorsonho - Vale do Navio
+296758|Vale do Navio & Acorsonho - Acorsonho
+297638|Quinta Do Morgado
+299711|Pico do Refugio
+299800|Lageado Sol
+299860|Quinta do Lorde - São Lourenço Bay Suites
+300111|Paiva
+301229|Artvilla Casas de Campo
+301230|Casas de Juromenha
+301231|Cooking and Nature Emotional Hotel
+301232|Monte Xisto Rural
+301235|Patio da Avo Faustina
+301236|Rio do Prado
+301237|Sintra Boutique
+301327|Casa Cristina
+301350|EPIC SANA Lisboa Hotel
+301537|Prainha Aldeamento / Clube / Village - Clube
+301538|Prainha Aldeamento / Clube / Village - Village
+301901|Komplex Alfagar I & II
+302193|Castelo de Vide
+302347|Solverde SPA & Wellness Center
+302386|Glenridge Beach & Golf Resort
+302467|Hotel da Musica
+309137|Castro Marim Golfe & Country Club
+309190|Pinheiros da Balaia Villas
+335024|Vila Galé Collection Palácio dos Arcos
+335059|Olissippo Saldanha
+354445|Be Live Family Palmeiras Village
+359375|Alfamar Beach & Sport Resort & Algarve Gardens - Alfamar Beach & Sport Resort
+359438|Cristal Vieira Praia & Cristal Praia - Cristal Praia
+359459|Vidamar Resorts Algarve - Hotel
+359460|Vidamar Resorts Algarve - Villas
+359565|Komplex - Jardins d'Ajuda Suite Hotel
+359567|Komplex - Musa d'Ajuda Hotel
+359696|Madre De Agua
+359707|EcorkHotel - Evora Suites & Spa
+359775|Vila D'Obidos
+359785|Monte da Quinta Resort - Club / Suites
+363232|Monte Filipe Hotel & Spa
+363357|The Beautique Hotels Figueira
+363411|Refugio do Pico
+363431|Evidencia Belverde Atitude Hotel
+363458|Alto Fairways
+363472|Komplex Quinta da Penha de França / Quinta da Penha de França Mar - Quinta da Penha de França
+365326|Memmo Alfama
+366529|Casas do Moinho
+373039|Hotel Segredos de Vale Manso
+374183|Quinta Da Veiga Manor House
+380516|Quinta Do Monte Panoramic Gardens A Reso
+390982|Evolutee Royal Obido Spa & Golf Resort
+391202|Pousada de Juventude De Lagoa
+391529|Mirachoro II y III - Mirachoro II
+391530|Mirachoro II y III - Mirachoro III
+392027|Tryp Lisboa Aeroporto
+392195|Residencial Central
+400755|Monte da Galrixa
+400756|Herdade do Amarelo
+400757|Monte do Giestal
+400758|Casa da Cisterna
+400795|Quinta de Marrocos
+400945|Porto Bay Liberdade
+401441|Herdade do Vau
+401627|Casa Yolanda
+403270|Turim Av Liberdade Hotel
+403354|Ns Hostel
+403358|Holiday Inn Express Lisbon - Av. Liberdade
+406469|Casa Ponta Balleia
+406471|Casa la Madrugada
+406551|Cascade Wellness & Lifestyle Resort
+407883|Quinta de Santa Barbara
+409162|Tivoli Victoria & The Residences at Victoria
+411039|BessaHotel Liberdade
+411370|Sàccharum
+411550|Crowne Plaza Porto
+412333|Duecitânia Design Hotel
+413038|Cancela do Porco
+413484|Praia d'el Rey Golf & Beach Resort - Marriott Hotel/ Holiday Resideces/ The Beachfront
+413577|Roulette Hotel 3 Sterne
+413946|Hotel Atrio
+414001|Troia Resort
+414841|Hotel Rocamar & Hotel Royal Orchid
+417656|Pestana Mar

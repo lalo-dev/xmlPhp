@@ -1,0 +1,35 @@
+66440|Hilton Algers
+107379|Mercure Alger Aéroport
+110878|Sofitel Algiers Hamma Garden
+148833|Ibis Alger Aéroport
+149632|Sheraton Club des Pins Resort & Towers
+149634|Sheraton Oran Hotel & Towers
+235038|Safir Alger
+235041|Grand Adghir
+235043|Medina
+235347|Houna El Firdaous
+235348|Sweet
+236778|El Marsa Sidi Fredj
+236780|Mimosa Palace
+236781|Tulip Inn Rym El Djamil Annaba
+236788|Eden Phoenix
+236789|Royal Hotel Oran - MGallery Collection
+236791|Safir Mazafran
+237031|Hammamet Alger
+237147|Sabri Hotel
+240827|Le Meridien Oran
+249653|Hydra
+260413|Dar El Ikram
+260414|Hotel Club 34
+260948|El Aurassi
+260949|Suisse
+260950|Ibis Tlemcen
+260951|Renaissance Tlemcen
+265523|Amsterdam
+265524|Ibis Constantine
+265525|Seybouse
+265526|ST Hotel
+265527|El Biar
+265528|Du Centre
+265529|El Mouahidine
+405254|Oasis

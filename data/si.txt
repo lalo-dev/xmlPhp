@@ -1,0 +1,243 @@
+2259|Park
+2260|Kompas
+2261|Ramada Resort Kranjska Gora
+2263|Barbara
+2264|St. Bernardin Adriatic Resort - Histrion / Vile Park / Grand Bernardin/ Vila Barka - Histrion
+2265|St. Bernardin Adriatic Resort - Histrion / Vile Park / Grand Bernardin/ Vila Barka - Grandhotel Bernardin
+2266|Remisens Premium Hotel Metropol
+2267|Roza
+2268|St. Bernardin Adriatic Resort - Histrion / Vile Park / Grand Bernardin/ Vila Barka - Vile Park
+7473|Alpina
+13319|Golf
+15060|Jelovica
+15224|Kanin
+15475|Hotel Kompas Bled
+16562|Remisens Hotel Lucija
+20326|Ribno
+20490|Life Class Resort - Apollo / Mirna / Slovenija / Neptun / Riviera / Grand Portoroz
+20881|Salinera
+21675|San Simon Resort - Hotel Haliaetum / Hotel Mirta / Depandancen / Depandance Park
+22600|Terme Catez - Hotel Terme
+23212|Terme Catez - Hotel Toplice
+23352|Triglav
+24647|Zlatorog
+26200|Terme Radenci Sava Hotel & Resort - Radin & Izvir
+28148|Lek
+28149|Villa Preseren
+28152|Grandhotel Toplice
+28153|Jadran
+28154|Burg Hrib
+28155|Life Class Resort - Grand Portoroz
+28611|Talaso Strunjan - Svoboda / Depandance Villa Park / Laguna / Villen
+28614|Rogaska Hotels & Lotus Terme - Grand Sava
+31160|Ferienanlage Terme Olimia - Breza
+31161|Belvedere
+31164|Piran
+31300|Dobrna
+31514|Jezero
+32755|Grand Hotel Union Executive
+32757|City
+32815|Tartini
+38276|Prisank
+39576|Adria
+41175|Laguna
+41433|Hotel Spik
+51335|Vita
+53258|Lev
+54723|Miral
+55664|Villa Higiea
+55772|Ferienanlage Therme 3000 - Termal / Ajda / Livada Prestige / Bungalows Turisticno naselje
+56652|Ljubljana Resort
+56741|Grand Hotel Union Business
+56990|Central
+56991|M Hotel
+57254|Vitranc
+57683|Trojane
+57861|Trst
+59553|Astoria
+60008|Kras
+60087|Ferienanlage Therme 3000 - Ajda
+60088|Terme Vivat
+60527|Jama
+60669|Kongo Hotel & Casino
+60814|Paka
+60815|Mantova
+60816|Golte
+60819|Vila Herberstein
+60820|Best Western Premier Slon
+60821|Four Points by Sheraton Ljubljana Mons
+60822|Terme Topolsica - Vesna / Mladika / Ocepkov Gaj
+62368|Gostilna pri Katrci
+64035|Austria Trend Ljubljana
+66373|Penzion Oblak
+69243|Bohinj
+70106|Apartments Urh
+70107|Apartments Levc
+70108|Zdravilisce Lasko
+73310|Terme Catez - Hotel Catez
+73477|Zalec
+77423|Bellevue
+78180|Park
+79702|Grand Donat
+79703|Ferienanlage Therme 3000 - Termal
+79705|GreenLine Hotel Lipa - Terme Lendava
+79707|Vital & Kristal
+79846|Barbara Fiesa
+79847|Marita
+80477|Terme Smarjeske Toplice - Vitarium
+80893|Villa Maia
+80894|Ros Marina
+82220|Smogavc
+82488|Therme Zrece - Hotel Vital
+86944|Therme Zrece - Villen Terme Zrece
+86945|Rogla Sport Resort - Hotel Planja
+86946|Rogla Sport Resort - Hotel Rogla
+88506|Krim Bled
+91600|Ferienanlage Terme Olimia - Sotelia
+92478|Ferienanlage Therme 3000 - Livada Prestige
+93059|Alp Penzion
+95483|Grand Hotel Primus
+97810|Zeleni Gaj
+105168|Best Western Premier Lovec
+109139|Posestvo Pule
+109492|Orel
+110420|Thermana Park Lasko
+111496|Vila Bled
+124115|Bellevue
+124116|Habakuk
+126905|Terme Krka - Hotel Sport
+127808|Terme Krka - Hotel Krka
+128809|Krek
+134372|Savica
+135080|Terme Rogaska - Grand Hotel Rogaska / Hotel Styria & Hotel Strossmayer
+136308|Kempinski Palace Portoroz
+136635|Garni Pension TTT
+139748|Park
+139749|Balnea
+143653|Appartements Prekmurska Vas
+162501|Suite Klass
+162502|Ahotel
+162503|Keltika
+162506|Sport Hotel
+162508|Kokra
+188113|Alp
+202560|Vila Piranesi
+204359|Allegro
+204670|Antiq
+206228|Bio
+206589|Budget Pension Pibernik
+208886|Epicenter Postojna
+213817|Marina Portoroz
+215300|Pension Lectar
+215417|Penzion Jagodic
+215421|Penzion Kovac
+215427|Penzion Vitapark
+217385|Rogaska Hotels & Lotus Terme - Grand Sava / Zagreb
+217425|Gasperin Rooms Apartments B&B
+218430|Stil
+220120|Vila Bojana
+220934|Zdravilisce Radenci
+221113|Ambient
+221170|Apartments Bolfenk
+221195|Arena
+221287|Bajt - Garni
+221316|Bau
+221349|Betnava
+221372|Bohinj Park ECO Hotel
+221903|Evropa
+221968|Milena Garni
+222065|Grandhotel Ocean
+222328|Tripic Hotel-Pension
+222639|Leonardo
+222670|Lipa
+222957|Park Casino & Hotel
+223048|Perla Casino & Hotel
+223119|Pri Ancki
+223362|Sabotin
+223451|Rimske Terme - Hotel Sofijin Dvor
+223552|Tabor
+223641|Uni
+230368|Convent
+230370|Depandansa Bor
+230371|Triglav Bled
+230382|Alpik Apartment at Bohinj Lake
+230396|GreenLine Hotel Terme Snovik
+230397|Medno
+230409|Harmonija
+230414|Villa Tamara
+230416|Lucija
+230419|Park
+230425|Safir
+230426|Maestoso
+234957|Touristik Dorf Bungalows
+245021|Therme Zrece - Hotel Atrij
+246760|Terme Smarjeske Toplice - Smarjeta
+247301|Life Class Resort - Apollo
+247302|Life Class Resort - Mirna
+247303|Life Class Resort - Slovenija
+247304|Life Class Resort - Neptun
+247305|Life Class Resort - Riviera
+247416|Ferienanlage Terme Olimia - Rosa
+247512|Therme Zrece - Hotel Atrij / Hotel Vitall / Villen Terme Zrece
+247513|Terme Topolsica - Vesna
+247515|Terme Topolsica - Ocepkov Gaj
+248691|Cubo
+248692|Emonec
+249127|Actum
+250038|Terme Radenci Sava Hotel & Resort - Radin
+250039|Terme Radenci Sava Hotel & Resort - Izvir
+259352|Rimske Terme - Hotel Rimski Dvor
+259356|Rimske Terme - Hotel Zdraviliski Dvor
+260520|Rogaska Hotels & Lotus Terme - Zagreb
+260547|Dvorec Jeruzalem
+261171|Hotel Bor
+261172|Hotel Bor & Burg Hrib
+261194|St. Bernardin Adriatic Resort - Histrion / Vile Park / Grand Bernardin/ Vila Barka
+264995|Pri Mraku
+265621|Lambergh Château & Hotel
+267015|Vila Istra
+267018|ACE Apartments Bled
+267019|Pr' Matjon - Pension
+267021|House Neza
+267022|Maygut Apartments
+267023|Villa Lenka
+271870|Hotel Mangart
+272428|Cateski dvorec
+273404|Casino Hotel Carnevale Wellness & Spa
+273506|Pension Stare at the Bohinj Lake
+273958|Lesar Angel
+273960|Center
+273961|Antiq Palace
+273962|Aparthotel Vila Minka
+273963|Macek Rooms
+273966|Guesthouse Mesec Zaplana
+274333|Vila Adriatic
+274432|Gozdna Villa Mari
+274433|Kacar
+274434|Hotel City Maribor
+277052|Hotel Raj
+277053|Azul
+287726|Vander Urbani Resort
+292916|Turizem Loka
+294296|Hotel Pri Spornu
+294297|Garni Hotel Bukovica
+294642|Apartments Bohinj na Vasi
+294644|Garni Sport Hotel
+295312|Hotel Kovac
+298935|Plaza
+301201|St. Bernardin Adriatic Resort - Histrion / Vile Park / Grand Bernardin/ Vila Barka - Vila Barka
+302416|San Simon Resort - Depandancen
+302658|Vital & Kristal - Vital
+302659|Vital & Kristal - Kristal
+310838|Plesnik
+310839|Slovenija
+310880|Terme Rogaska - Grand Hotel Rogaska
+311198|Terme Rogaska - Hotel Styria & Hotel Strossmayer
+328196|Poetovio
+359597|Best Western Plus Piramida
+369134|Birokrat
+369338|Lent Hotel
+381268|Dvor Tacen
+413239|Tourist Green Resort Garden Village
+416340|Hostel Barovc
+416417|Rimske Terme - Hotel Zdraviliski Dvor / Hotel Sofijin Dvor / Hotel Rimski Dvor
