@@ -222,15 +222,16 @@ foreach ($countrys as $key => $value) {
     if ($micontador == 1) {
         exit();
     }
+    $citys = '';
 
-    $url      = "http://de|travelgroup24.com:7ykKY5BR@ghgml.giatamedia.com/webservice/rest/1.0/items/?country=".$key;
+    $url      = "http://de|travelgroup24.com:7ykKY5BR@ghgml.giatamedia.com/webservice/rest/1.0/items/?country=DE";
     
     //obtener el xml usarndo curl y simplexml
     $res      = curl_get($url, array());
     $object   = simplexml_load_string($res);
-    //$fileName = 'city'.$key.'.txt';
+    $fileName = 'cityDE.txt';
     
-    //$file     =fopen($fileName,"a") or die("Problemas");
+    $file     =fopen($fileName,"a") or die("Problemas");
 
     foreach ($object->items->item as $item) {
         //if ($item['giataId'] > 168409) {
@@ -244,28 +245,33 @@ foreach ($countrys as $key => $value) {
             
             //$textoAgregado =  $item['giataId'].'|'.utf8_decode($hotel->item->city);
 
-            echo $item['giataId'].'|'.$hotel->item->city;
-            echo '<br>';
+            //echo $item['giataId'].'|'.$hotel->item->city;
+            //echo '<br>';
 
-            //$citys[] = utf8_decode($hotel->item->city);
+            $citys[] = utf8_decode($hotel->item->city);
+            //echo utf8_decode($hotel->item->city);
+            //echo '<br>';
 
             //fputs($file,$textoAgregado);
             //fputs($file,"\n");
         //}    
     }
 
-    //$citys = array_unique($citys);
+    $citys = array_unique($citys);
+    asort($citys);
 
     //print_r($citys);
 
-    // foreach ($citys as $value) {
-    //   fputs($file,$value);
-    //   fputs($file,"\n");
-    // }
+    foreach ($citys as $cityOk) {
+      //fputs($file,$cityOk);
+      //fputs($file,"\n");
+      echo $cityOk;
+      echo '<br>';
+    }
 
-    // fclose($file);
+    //fclose($file);
 
-    $micontador++;
+     $micontador++;
 }
 
 ?>

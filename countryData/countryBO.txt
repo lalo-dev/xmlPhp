@@ -1,0 +1,68 @@
+9682|Capital Plaza|Sucre|NO|4
+11945|El Dorado|La Paz|YES|3
+12302|Europa|La Paz|YES|5
+19182|Plaza|La Paz|YES|5
+20693|Royal Lodge|Santa Cruz|YES|4
+27230|Radisson Plaza|La Paz|YES|5
+27231|Presidente|La Paz|NO|5
+27232|Gloria La Paz|La Paz|YES|3
+83844|Yotau All Suites|Santa Cruz|YES|5
+84081|House Inn Aparthotel|Santa Cruz|NO|5
+84098|Las Palmas|Santa Cruz|YES|4
+84134|Gran Santa Cruz|Santa Cruz|YES|5
+84137|Paulistania Casablanca|Santa Cruz|YES|4
+84144|Arenal|Santa Cruz|YES|4
+84146|Camino Real|Santa Cruz|YES|5
+84149|Camino Real Suites|La Paz|YES|4.5
+84290|Cesars Plaza|Cochabamba|YES|4
+84299|Ritz Apart All Suites|La Paz|NO|5
+88178|Casa Grande Suites|La Paz|NO|4
+88642|Hotel Aranjuez|Cochabamba|NO|4
+88685|Alcala Apart|La Paz|NO|3
+91512|De Su Merced|Sucre|NO|4
+91513|Colonial|Sucre|NO|4
+91514|Continental Park|Santa Cruz|YES|4
+92344|Girasoles|Uyuni|NO|3
+92347|Gloria Copacabana|Titicaca-See|YES|3
+92350|Parador Santa Maria la Real|Sucre|YES|4.5
+93742|Oberland|La Paz|NO|3
+106719|Diplomat|Cochabamba|NO|4
+108548|Los Tajibos Hotel & Convention Center|Santa Cruz|YES|5
+109688|Portales|Cochabamba|YES|5
+133732|El Rey Palace|La Paz|NO|4
+133735|Camino Real|La Paz|YES|0
+136868|Cortéz|Santa Cruz|NO|5
+144048|Buganvillas Hotel Suites and Spa|Santa Cruz|NO|5
+183295|Lp Santa Cruz|Santa Cruz|NO|3
+183296|Sagarnaga|La Paz|NO|2
+190084|Luna Salada Colchani|Uyuni|NO|3.5
+195894|Biocentro Güembe|Santa Cruz|YES|4
+195896|Regina Resort|Cochabamba|YES|3
+195897|Regina|Cochabamba|YES|3
+202483|Los Cedros Eco Resort|Santa Cruz|YES|5
+227101|San Marino Royal|Sucre|YES|4
+227103|Hostal La Posada|Sucre|YES|4
+227104|Villa Antigua|Sucre|YES|4
+227105|Americana|Cochabamba|YES|2
+227106|Felimar|Santa Cruz|YES|3
+228890|Las Brisas|La Paz|NO|3
+232846|Cochabamba|Cochabamba|YES|5
+234657|DM Andino Resort & Spa|La Paz|NO|5
+237144|Monasterio|Sucre|NO|3.5
+239321|Rio Selva Resort Santa Cruz|Santa Cruz|NO|5
+239334|Rio Selva Resort Yungas|Coroico|NO|5
+240205|Senses Boutique|Santa Cruz|NO|5
+243760|La Colonia|Cochabamba|NO|5
+254645|Villa Saracena|Coroico|NO|0
+254647|El Consulado|La Paz|NO|3
+254648|Castillo del Loro - geschlossen|La Paz|NO|3
+254650|A La Maison|La Paz|NO|3
+254651|Apart Hotel Los Delfines|La Paz|NO|3
+255734|B&B Santa Cecilia|Sucre|NO|3
+257081|Ecolodge Copacabana|Titicaca-See|NO|3
+257897|Residencial Altiplano|Tarija|NO|3
+272854|Hostal Tukos La Casa Real|Potosi|NO|3
+272856|California|Santa Cruz|NO|3
+272857|Urbari Apartment Hotel|Santa Cruz|NO|3
+272858|Mi Pueblo Samary|Sucre|NO|5
+391609|Stannum Boutique|La Paz|NO|4

@@ -594,17 +594,59 @@
               </div>
             </div>
             <div class="form-group">
+              <label for="slcPais" class="col-sm-2 control-label">City</label>
+              <div class="col-sm-10">
+                <select name="slcCity" id="slcCity" class="form-control">
+                </select>
+              </div>
+            </div>
+            <div class="form-group">
               <label for="slcPais" class="col-sm-2 control-label">Hotel</label>
               <div class="col-sm-10">
                 <input type="text" id="txtHotel" class="form-control">
               </div>
             </div>
-
             <div class="form-group">
               <div class="col-sm-offset-2 col-sm-10">
                 <button type="button" class="btn btn-primary" id="btnBuscar">Search</button>
               </div>
             </div>
+
+            <div class="form-group">
+              <div class="col-sm-offset-2 col-sm-10">
+                <label for="" class="col-sm-2 control-label">Filter</label>
+              </div>
+            </div>
+
+            
+            <div class="form-group">
+              <label for="" class="col-sm-2 control-label">Images</label>
+              <div class="col-sm-4">
+                <select name="slcImages" id="slcImages" class="form-control">
+                  <option value="all">All</option>
+                  <option value="yes">Yes</option>
+                  <option value="no">No</option>
+                </select>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="" class="col-sm-2 control-label">Stars</label>
+              <div class="col-sm-4">
+                <select name="slcCategory" id="slcCategory" class="form-control">
+                  <option value="all">Stars option</option>
+                  <option value="stars_1">1</option>
+                  <option value="stars_1.5">1.5</option>
+                  <option value="stars_2">2</option>
+                  <option value="stars_2.5">2.5</option>
+                  <option value="stars_3">3</option>
+                  <option value="stars_3.5">3.5</option>
+                  <option value="stars_4">4</option>
+                  <option value="stars_4.5">4.5</option>
+                  <option value="stars_5">5</option>
+                </select>
+              </div>
+            </div>
+            
           </form>
         </div>
       </div>
@@ -619,6 +661,14 @@
         <div class="col-sm-6 col-sm-offset-3">
           <h3 id="countryName"></h3>
           <table class="table" id="hotelList">
+            <thead>
+              <tr>
+                <td>City</td>
+                <td>Images</td>
+                <td>Stars</td>
+                <td>Hotel</td>
+              </tr>
+            </thead>
             <tbody></tbody>
           </table>
         </div>
@@ -627,6 +677,9 @@
       <form id="formHotel" action="dataHotel.php" method="POST" target="_blank">
         <input type="hidden" name="hotel" id="hotel">
       </form>
+
+      <input type="hidden" id="statusyn" value="a">
+      <input type="hidden" id="statuss" value="a">
 
     </div>
   
@@ -641,15 +694,79 @@
         }
 
         $(document).ready(function(){
+          $('#slcPais').change(function(){
+            var country = $('#slcPais').val();
+
+            $.post('datosCity.php',{ country:country },function(data){
+                //alert('data');
+                $('#slcCity > option').remove();
+                $('#slcCity').append(data);
+              });
+          });
+
+          $('#slcImages').change(function(){
+            if ($('#slcImages').val() == 'no') {
+              $('.NO').show();
+              $('.NO').removeClass('offList').addClass('onList');
+              $('.YES').hide();
+              $('.YES').removeClass('onList').addClass('offList');
+              $('.statusyn').val('n');
+            } else if ($('#slcImages').val() == 'yes') {
+              $('.YES').show();
+              $('.YES').removeClass('offList').addClass('onList');
+              $('.NO').hide();
+              $('.NO').removeClass('onList').addClass('offList');
+              $('.statusyn').val('y');
+            } else if ($('#slcImages').val() == 'all') {
+              $('.YES').show().removeClass('offList').addClass('onList');
+              $('.NO').show().removeClass('offList').addClass('onList');
+              $('.statusyn').val('a');
+            }
+          });
+
+          $('#slcCategory').change(function(){
+            if ($('#slcCategory').val() == 'stars_5') {
+              $('.stars_5 .onList').show();
+              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_1').hide().removeClass('onList offList').addClass('offList');
+            } else if ($('#slcCategory').val() == 'stars_4.5') {
+              $('.stars_4.5 .onList').show();
+              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_1, .stars_5').hide().removeClass('onList offList').addClass('offList');
+            } else if ($('#slcCategory').val() == 'stars_4') {
+              $('.stars_4 .onList').show();
+              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_1, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
+            } else if ($('#slcCategory').val() == 'stars_3.5') {
+              $('.stars_3.5 .onList').show();
+              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_1, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
+            } else if ($('#slcCategory').val() == 'stars_3') {
+              $('.stars_3 .onList').show();
+              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_1, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
+            } else if ($('#slcCategory').val() == 'stars_2.5') {
+              $('.stars_2.5 .onList').show();
+              $('.stars_0, .stars_1.5, .stars_2, .stars_1, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
+            } else if ($('#slcCategory').val() == 'stars_2') {
+              $('.stars_2 .onList').show();
+              $('.stars_0, .stars_1.5, .stars_1, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
+            } else if ($('#slcCategory').val() == 'stars_1.5') {
+              $('.stars_1.5 .onList').show();
+              $('.stars_0, .stars_1, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
+            } else if ($('#slcCategory').val() == 'stars_1') {
+              $('.stars_1 .onList').show();
+              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
+            } else if ($('#slcCategory').val() == 'all') {
+              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList').show();
+            }
+          });
+
           $('#btnBuscar').click(function(){
 
             if ($('#slcPais').val() != 0) {
               $('#divLoad').show();
               //alert('buscar');
               var country = $('#slcPais').val();
+              var city = $('#slcCity').val();
               var hotel   = $('#txtHotel').val();
               //alert(hotel);
-              $.post('datos.php',{ country:country, hotel:hotel },function(data){
+              $.post('datos.php',{ country:country, hotel:hotel, city:city },function(data){
                 //alert('data');
                 $('#hotelList > tbody >tr').remove();
                 $('#hotelList > tbody').append(data);

@@ -1,0 +1,154 @@
+Acapulco
+Aguascalientes
+Akumal
+Antón Lizardo
+Apodaca
+Arroyo Seco
+Arteaga
+Bacalar
+Boca del Río
+Bucerias
+Cabo San Lucas
+Campeche
+Cancun
+Cataviña
+Celaya
+Celestún
+Cerocahui
+Chetumal
+Chiapa de Corzo
+Chicanna
+Chichen Itza
+Chihuahua
+Cholula
+Cihuatlán
+Ciudad Hidalgo
+Ciudad Juárez
+Ciudad Obregon
+Ciudad Valles
+Ciudad Victoria
+Ciudad del Carmen
+Coatzacoalcos
+Coba
+Cocoyoc
+Colima
+Copper Canyon
+Cordoba
+Costa Alegre
+Costa Banderas
+Costa Careyes
+Creel
+Cuernavaca
+Culiacán
+Delicias
+Durango
+El Fuerte
+Ensenada
+Guadalajara
+Guanajuato
+Guayabitos
+Guaymas
+Guerrero Negro
+Hermosillo
+Huatulco
+Huatusco
+Irapuato
+Isla Cozumel
+Isla Holbox
+Isla Mujeres
+Ixtapa
+Ixtapan de la Sal
+Jalapa
+Jalcomulco
+Jalpan de Serra
+La Paz
+Lagos De Moreno
+Leon
+Loreto
+Los Cabos
+Los Mochis
+Lázaro Cárdenas
+Mahahual
+Manzanillo
+Marina Vallarta
+Mascota
+Mazatlan
+Merida
+Mexicali
+Mexico City
+Monclova
+Monterrey
+Morelia
+Naucalpan de Juárez
+Nuevo Laredo
+Nuevo Vallarta
+Oaxaca
+Orizaba
+Pachuca de Soto
+Palenque
+Piedras Negras
+Piste
+Playa Maroma
+Playa del Carmen / Playacar
+Playa del Secreto
+Poza Rica
+Puebla
+Puerto Aventuras
+Puerto Escondido
+Puerto Morelos
+Puerto Peñasco
+Puerto Vallarta
+Punta Mita
+Pátzcuaro
+Querétaro
+Reynosa
+Riviera Maya
+Rosarito
+Salamanca
+Saltillo
+San Carlos
+San Cristobal
+San Ignacio
+San Jose del Cabo
+San Juan del Rio
+San Luis Potosí
+San Miguel De Allende
+San Nicolás de los Garza
+Santa Rosa
+Santiago de Tequila
+Silao
+Tampico
+Tapachula
+Taxco
+Tehuantepec
+Telchac Puerto
+Tenacatita
+Teotihuacan
+Tepoztlán
+Tequesquitengo
+Tetela de Ocampo
+Tijuana
+Tlalnepantla de Baz
+Tlaxcala
+Todos Santos
+Toluca de Lerdo
+Torreon
+Tula de Allende
+Tulum
+Tuxpan
+Tuxtla Gutierrez
+Tzintzuntzan
+Uruapan
+Uxmal
+Valladolid
+Valle de Bravo
+Veracruz
+Victoria de Durango
+Villahermosa
+Xochitepec
+Xpu-Ha
+Yelapa
+Zacatecas
+Zamora
+Zapopan
+Zihuatanejo
