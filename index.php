@@ -623,25 +623,26 @@
               <label for="" class="col-sm-2 control-label">Images</label>
               <div class="col-sm-4">
                 <select name="slcImages" id="slcImages" class="form-control">
-                  <option value="all">All</option>
-                  <option value="yes">Yes</option>
-                  <option value="no">No</option>
+                  <option value="0">Option</option>
+                  <option value="YES">Yes</option>
+                  <option value="NO">No</option>
                 </select>
               </div>
             </div>
             <div class="form-group">
               <label for="" class="col-sm-2 control-label">Stars</label>
               <div class="col-sm-4">
-                <select name="slcCategory" id="slcCategory" class="form-control">
-                  <option value="all">Stars option</option>
+                <select name="slcStars" id="slcStars" class="form-control">
+                  <option value="0">Option</option>
+                  <option value="stars_0">1</option>
                   <option value="stars_1">1</option>
-                  <option value="stars_1.5">1.5</option>
+                  <option value="stars_15">1.5</option>
                   <option value="stars_2">2</option>
-                  <option value="stars_2.5">2.5</option>
+                  <option value="stars_25">2.5</option>
                   <option value="stars_3">3</option>
-                  <option value="stars_3.5">3.5</option>
+                  <option value="stars_35">3.5</option>
                   <option value="stars_4">4</option>
-                  <option value="stars_4.5">4.5</option>
+                  <option value="stars_45">4.5</option>
                   <option value="stars_5">5</option>
                 </select>
               </div>
@@ -704,58 +705,83 @@
               });
           });
 
-          $('#slcImages').change(function(){
-            if ($('#slcImages').val() == 'no') {
-              $('.NO').show();
-              $('.NO').removeClass('offList').addClass('onList');
-              $('.YES').hide();
-              $('.YES').removeClass('onList').addClass('offList');
-              $('.statusyn').val('n');
-            } else if ($('#slcImages').val() == 'yes') {
-              $('.YES').show();
-              $('.YES').removeClass('offList').addClass('onList');
-              $('.NO').hide();
-              $('.NO').removeClass('onList').addClass('offList');
-              $('.statusyn').val('y');
-            } else if ($('#slcImages').val() == 'all') {
-              $('.YES').show().removeClass('offList').addClass('onList');
-              $('.NO').show().removeClass('offList').addClass('onList');
-              $('.statusyn').val('a');
+          $('#slcImages, #slcStars').change(function(){
+            var fimages = $('#slcImages').val();
+            var fstars  = $('#slcStars').val();
+
+            if(fimages != '0' && fstars != '0') {
+              $('#hotelList > tbody > tr').hide();
+              $('.'+fimages).show();
+              $('.'+fstars).show();
             }
           });
 
-          $('#slcCategory').change(function(){
-            if ($('#slcCategory').val() == 'stars_5') {
-              $('.stars_5 .onList').show();
-              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_1').hide().removeClass('onList offList').addClass('offList');
-            } else if ($('#slcCategory').val() == 'stars_4.5') {
-              $('.stars_4.5 .onList').show();
-              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_1, .stars_5').hide().removeClass('onList offList').addClass('offList');
-            } else if ($('#slcCategory').val() == 'stars_4') {
-              $('.stars_4 .onList').show();
-              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_1, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
-            } else if ($('#slcCategory').val() == 'stars_3.5') {
-              $('.stars_3.5 .onList').show();
-              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_1, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
-            } else if ($('#slcCategory').val() == 'stars_3') {
-              $('.stars_3 .onList').show();
-              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_1, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
-            } else if ($('#slcCategory').val() == 'stars_2.5') {
-              $('.stars_2.5 .onList').show();
-              $('.stars_0, .stars_1.5, .stars_2, .stars_1, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
-            } else if ($('#slcCategory').val() == 'stars_2') {
-              $('.stars_2 .onList').show();
-              $('.stars_0, .stars_1.5, .stars_1, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
-            } else if ($('#slcCategory').val() == 'stars_1.5') {
-              $('.stars_1.5 .onList').show();
-              $('.stars_0, .stars_1, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
-            } else if ($('#slcCategory').val() == 'stars_1') {
-              $('.stars_1 .onList').show();
-              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList');
-            } else if ($('#slcCategory').val() == 'all') {
-              $('.stars_0, .stars_1.5, .stars_2, .stars_2.5, .stars_3, .stars_3.5, .stars_4, .stars_4.5, .stars_5').hide().removeClass('onList offList').addClass('offList').show();
-            }
-          });
+          // $('#slcImages').change(function(){
+          //   if ($('#slcImages').val() == 'no') {
+          //     $('.NO').show();
+          //     $('.NO').removeClass('offList').addClass('onList');
+          //     $('.YES').hide();
+          //     $('.YES').removeClass('onList').addClass('offList');
+          //     $('.statusyn').val('n');
+          //   } else if ($('#slcImages').val() == 'yes') {
+          //     $('.YES').show();
+          //     $('.YES').removeClass('offList').addClass('onList');
+          //     $('.NO').hide();
+          //     $('.NO').removeClass('onList').addClass('offList');
+          //     $('.statusyn').val('y');
+          //   } else if ($('#slcImages').val() == 'all') {
+          //     $('.YES').show().removeClass('offList').addClass('onList');
+          //     $('.NO').show().removeClass('offList').addClass('onList');
+          //     $('.statusyn').val('a');
+          //   }
+          // });
+
+          // $('#slcStars').change(function(){
+          //   if ($('#slcStars').val() == 'stars_5') {
+          //     $('#hotelList > tbody > tr').show();
+          //     $('.stars_5 .onList').show();
+          //     $('.stars_0, .stars_15, .stars_2, .stars_25, .stars_3, .stars_35, .stars_4, .stars_45, .stars_1').hide().removeClass('onList offList').addClass('offList');
+          //   } else if ($('#slcStars').val() == 'stars_45') {
+          //     $('#hotelList > tbody > tr').show();
+          //     $('.stars_45 .onList').show();
+          //     $('.stars_0, .stars_15, .stars_2, .stars_25, .stars_3, .stars_35, .stars_4, .stars_1, .stars_5').hide().removeClass('onList offList').addClass('offList');
+          //   } else if ($('#slcStars').val() == 'stars_4') {
+          //     $('#hotelList > tbody > tr').show();
+          //     $('.stars_4 .onList').show();
+          //     $('.stars_0, .stars_15, .stars_2, .stars_25, .stars_3, .stars_35, .stars_1, .stars_45, .stars_5').hide().removeClass('onList offList').addClass('offList');
+          //   } else if ($('#slcStars').val() == 'stars_35') {
+          //     $('#hotelList > tbody > tr').show();
+          //     $('.stars_35 .onList').show();
+          //     $('.stars_0, .stars_15, .stars_2, .stars_25, .stars_3, .stars_1, .stars_4, .stars_45, .stars_5').hide().removeClass('onList offList').addClass('offList');
+          //   } else if ($('#slcStars').val() == 'stars_3') {
+          //     $('#hotelList > tbody > tr').show();
+          //     $('.stars_3 .onList').show();
+          //     $('.stars_0, .stars_15, .stars_2, .stars_25, .stars_1, .stars_35, .stars_4, .stars_45, .stars_5').hide().removeClass('onList offList').addClass('offList');
+          //   } else if ($('#slcStars').val() == 'stars_25') {
+          //     $('#hotelList > tbody > tr').show();
+          //     $('.stars_25 .onList').show();
+          //     $('.stars_0, .stars_15, .stars_2, .stars_1, .stars_3, .stars_35, .stars_4, .stars_45, .stars_5').hide().removeClass('onList offList').addClass('offList');
+          //   } else if ($('#slcStars').val() == 'stars_2') {
+          //     $('#hotelList > tbody > tr').show();
+          //     $('.stars_2 .onList').show();
+          //     $('.stars_0, .stars_15, .stars_1, .stars_25, .stars_3, .stars_35, .stars_4, .stars_45, .stars_5').hide().removeClass('onList offList').addClass('offList');
+          //   } else if ($('#slcStars').val() == 'stars_15') {
+          //     $('#hotelList > tbody > tr').show();
+          //     $('.stars_15 .onList').show();
+          //     $('.stars_0, .stars_1, .stars_2, .stars_25, .stars_3, .stars_35, .stars_4, .stars_45, .stars_5').hide().removeClass('onList offList').addClass('offList');
+          //   } else if ($('#slcStars').val() == 'stars_1') {
+          //     $('#hotelList > tbody > tr').show();
+          //     $('.stars_1 .onList').show();
+          //     $('.stars_0, .stars_15, .stars_2, .stars_25, .stars_3, .stars_35, .stars_4, .stars_45, .stars_5').hide().removeClass('onList offList').addClass('offList');
+          //   } else if ($('#slcStars').val() == 'stars_0') {
+          //     $('#hotelList > tbody > tr').show();
+          //     $('.stars_0 .onList').show();
+          //     $('.stars_1, .stars_15, .stars_2, .stars_25, .stars_3, .stars_35, .stars_4, .stars_45, .stars_5').hide().removeClass('onList offList').addClass('offList');
+          //   } else if ($('#slcStars').val() == 'all') {
+          //     $('#hotelList > tbody > tr').show();
+          //     $('.stars_0, .stars_15, .stars_2, .stars_25, .stars_3, .stars_35, .stars_4, .stars_45, .stars_5').hide().removeClass('onList offList').addClass('offList').show();
+          //   }
+          // });
 
           $('#btnBuscar').click(function(){
 

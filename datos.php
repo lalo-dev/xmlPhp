@@ -7,16 +7,16 @@
   $file  = 'countryData/country'.$id.'.txt';
   $lines = file($file);
   //echo $city;
-  //$classStars = '';
-  //$stars = '';
+  $classStars = '';
+  $stars = '';
 
   foreach($lines as $line){
     $line = explode("|",$line);
     $find = strripos($line[1], $hotel);
     $lineStar = $line[4];
-    echo '<p>'.$lineStar.'</p>';
+    //echo '<p>'.$lineStar.'</p>';
 
-    switch ($lineStar) {
+    switch (trim($lineStar)) {
       case 'stars_1':
         $stars      = '1';
         $classStars = 'stars_1';
@@ -47,12 +47,12 @@
         $classStars = 'stars_35';
         break;
 
-      case 'stars_4':mmm
+      case 'stars_4':
         $stars      = '4';
         $classStars = 'stars_4';
         break;
 
-      case 'stars_4':
+      case 'stars_4.5':
         $stars      = '4.5';
         $classStars = 'stars_45';
         break;
