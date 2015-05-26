@@ -1,0 +1,11 @@
+9665|Cap Juluca|Maundays Bay|NO|stars_5
+9749|Carimar Beach|Meads Bay|NO|stars_3
+11025|CuisinArt Resort & Spa|Rendezvous Bay|NO|stars_4.5
+16729|Malliouhana|Meads Bay|NO|stars_4.5
+31991|Anacaona Boutique|Meads Bay|NO|stars_3
+51762|Anguilla Great House Beach Resort|Rendezvous Bay|NO|stars_3
+53006|Arawak Beach Inn|Anguilla|NO|stars_2
+54580|Paradise Cove|The Cove|NO|stars_3
+76326|Manoah Beach Resort|Shoal Bay|NO|stars_3
+202098|Viceroy Anguilla|Barnes Bay|NO|stars_5
+238215|Frangipani|Meads Bay|NO|stars_4

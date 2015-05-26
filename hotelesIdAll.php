@@ -6,6 +6,9 @@
  * @param array $options for cURL
  * @return string
  */
+
+ini_set('max_execution_time', 3000); //300 seconds = 5 minutes
+
 function curl_get($url, array $get = NULL, array $options = array()) {
     $defaults = array(
         CURLOPT_URL => $url . (strpos($url, '?') === FALSE ? '?' : '') . http_build_query($get),
@@ -220,13 +223,17 @@ $countrys =  array(
 
 // Establecer el tipo de contenido
 //header('Content-type: application/xml');
-$url = "http://de|travelgroup24.com:7ykKY5BR@ghgml.giatamedia.com/webservice/rest/1.0/items/?country=AF";
+$cvePais = $_GET["cvePais"];
+$url = "http://de|travelgroup24.com:7ykKY5BR@ghgml.giatamedia.com/webservice/rest/1.0/items/?country=".$cvePais;
+// $url = "http://de|travelgroup24.com:7ykKY5BR@ghgml.giatamedia.com/webservice/rest/1.0/items/?country=AE";
 
     
 //obtener el xml usarndo curl y simplexml
 $res = curl_get($url, array());
 $object = simplexml_load_string($res);
 
+
+$strTxt = "";
 
 foreach ($object->items->item as $item) {
     $classImage = 'NO';
@@ -270,7 +277,20 @@ foreach ($object->items->item as $item) {
         }
         
         echo $item['giataId'].'|'.utf8_decode($hotel->item->name).'|'.utf8_decode($hotel->item->city).'|'.$classImage.'|'.$classCategory.'<br/>';
+
+        $strTxt .= $item['giataId'].'|'.utf8_decode($hotel->item->name).'|'.utf8_decode($hotel->item->city).'|'.$classImage.'|'.$classCategory;
+        $strTxt .= "\n";
     //}    
 }
+
+//function generaArchivo()
+//{
+  global $strTxt;
+  global $cvePais;
+  $nombreArchivo = "countryData/country".$cvePais.".txt";
+  $miArchivo = fopen($nombreArchivo, "w");
+  fwrite($miArchivo, $strTxt);
+  fclose($miArchivo);
+//}
 
 ?>

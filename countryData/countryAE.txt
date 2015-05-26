@@ -1,0 +1,657 @@
+4997|Hilton Abu Dhabi|Abu Dhabi|YES|stars_5
+4998|Beach Rotana|Abu Dhabi|YES|stars_5
+4999|Jumeirah Beach Hotel|Dubai|YES|stars_5
+5000|Oasis Beach - geschlossen|Dubai|NO|stars_4
+5001|Le Royal M?ridien Beach Resort And Spa|Dubai|YES|stars_5
+5002|Habtoor Grand Beach Resort & Spa, Autograph Collection|Dubai|NO|stars_5
+5003|Radisson Blu Resort Sharjah|Sharjah|YES|stars_5
+5004|Lou Lou'a Beach Resort|Sharjah|YES|stars_3
+5005|Sharjah Grand|Sharjah|NO|stars_4
+7048|Abu Dhabi Gulf Al Diar / Resort / Beach - geschlossen|Abu Dhabi|NO|stars_4
+7197|Kempinski Ajman|Ajman|NO|stars_5
+7220|Hilton Al Hamra Beach & Golf Resort|Ras al Khaimah|YES|stars_5
+7221|Al Maha Desert Resort & Spa|Dubai|YES|stars_5
+8618|Hilton Baynunah|Abu Dhabi|YES|stars_5
+8635|Beach Sharjah|Sharjah|YES|stars_3
+9375|Burj al Arab Jumeirah|Dubai|YES|stars_5
+9677|Capitol|Dubai|YES|stars_4
+11787|Dubai Marine Beach Resort and Spa|Dubai|YES|stars_5
+12115|Jumeirah Emirates Towers|Dubai|YES|stars_5
+13292|Golden Sands - 3 / 5 / 10|Dubai|YES|stars_3
+13829|Hatta Fort|Hatta|YES|stars_4
+13978|Hilton Al Ain|Al Ain|NO|stars_4
+13987|Hilton Corniche|Abu Dhabi|NO|stars_4
+13990|Hilton Dubai Creek|Dubai|YES|stars_5
+13991|Hilton Dubai Jumeirah Resort & The Walk|Dubai|YES|stars_4.5
+13994|Hilton Fujairah Resort|Fujairah|NO|stars_5
+14182|Holiday Inn Dubai Downtown|Dubai|YES|stars_4
+14501|Hyatt Regency Dubai|Dubai|YES|stars_5
+14864|Intercontinental Abu Dhabi|Abu Dhabi|YES|stars_5
+14865|Danat Al Ain Resort|Al Ain|YES|stars_5
+14867|Radisson Blu Dubai Deira Creek|Dubai|YES|stars_4
+15052|Golden Tulip Al Jazira|Abu Dhabi|YES|stars_4
+15058|Jebel Ali Golf Resort - JA Palm Tree Court & JA Jebel Ali Beach|Jebel Ali|YES|stars_5
+15122|Jumeirah Rotana|Dubai|YES|stars_4
+15139|JW Marriott|Dubai|YES|stars_5
+16089|Le Meridien Abu Dhabi|Abu Dhabi|YES|stars_4
+16096|Le M?ridien Dubai Hotel & Conference Centre|Dubai|YES|stars_5
+16103|Le Meridien Mina Seyahi Beach Resort & Marina|Dubai|YES|stars_5
+16457|Lavender Hotel Dubai|Dubai|YES|stars_3
+16798|Marbella Resort|Sharjah|NO|stars_4
+16823|Marco Polo Hotel|Dubai|YES|stars_4
+17486|Al Diar Mina|Abu Dhabi|YES|stars_3
+19798|Sheraton Jumeirah Beach Resort & Towers|Dubai|YES|stars_5
+20014|Al Diar Regency|Abu Dhabi|NO|stars_3.5
+20028|Regent Palace|Dubai|YES|stars_4
+20739|Metropolitan Hotel Deira|Dubai|YES|stars_4
+21503|Sheraton Abu Dhabi|Abu Dhabi|YES|stars_5
+21517|Sheraton Deira|Dubai|YES|stars_4
+22326|One & Only Royal Mirage - The Palace / Arabian Court / Residence & Spa|Dubai|YES|stars_5
+22811|Jumeirah Beach Club - geschlossen|Jumeirah Beach|NO|stars_5
+22883|Oceanic Khorfakkan Resort & Spa|Khorfakkan|NO|stars_4
+22927|Crowne Plaza Dubai|Dubai|YES|stars_5
+22979|The Ritz-Carlton Dubai|Dubai|YES|stars_5
+24727|Al Bustan Rotana|Dubai|YES|stars_5
+25939|Bin Majid Beach Resort|Ras al Khaimah|YES|stars_4
+26147|Holiday International|Sharjah|NO|stars_4
+26427|Beit Al Bahar|Jumeirah Beach|NO|stars_5
+27428|Versailles|Dubai|YES|stars_3
+27429|Al Diar Siji|Fujairah|NO|stars_5
+27827|Hilton Ras Al Khaimah Hotel|Ras al Khaimah|YES|stars_5
+27869|Sea View|Dubai|YES|stars_4
+27871|Sun & Sands|Dubai|YES|stars_3
+29612|Rotana Towers|Dubai|YES|stars_4
+31208|Sharjah Rotana|Sharjah|YES|stars_4
+32013|Coral Beach Resort|Sharjah|YES|stars_4
+32014|Le Meridien Al Aqah Beach Resort|Al Agah|YES|stars_5
+32015|Savoy Park|Dubai|YES|stars_3
+33073|Sheraton Dubai Creek Hotel & Towers|Dubai|YES|stars_5
+33395|Grand Hyatt Dubai|Dubai|YES|stars_5
+37904|Dubai Creek Golf & Yacht Club|Dubai|NO|stars_4.5
+38134|Fairmont Dubai|Dubai|YES|stars_5
+38213|Hilton Sharjah|Sharjah|YES|stars_5
+38378|Shangri-La Dubai|Dubai|YES|stars_5
+38605|Coral Dubai Deira Hotel|Dubai|YES|stars_4
+39075|Sun & Sky Al Rigga Hotel|Dubai|YES|stars_4
+39382|Taj Palace|Dubai|YES|stars_5
+39482|Umm Al Quwain Beach|Umm al-Quwain|NO|stars_4
+40111|Claridge|Dubai|YES|stars_3
+40616|Eureka|Dubai|YES|stars_2
+40617|Mayfair Hotel|Dubai|YES|stars_3
+40619|Regent Beach Resort|Dubai|YES|stars_3
+41785|Mercure Grand Jebel Hafeet Al Ain Hotel|Al Ain|YES|stars_4
+42262|Bin Majid Beach Hotel|Ras al Khaimah|YES|stars_4
+42665|Savoy Central|Dubai|YES|stars_3
+42666|Pullman Dubai - Deira City Centre|Dubai|YES|stars_4.5
+42667|Emirates Concorde|Dubai|YES|stars_4
+46547|Ajman Beach|Ajman|NO|stars_3
+46551|Avari Dubai|Dubai|YES|stars_4
+46558|Broadway|Dubai|YES|stars_3
+46564|Crowne Plaza Abu Dhabi|Abu Dhabi|YES|stars_5
+46565|Dusit Thani|Dubai|YES|stars_5
+46577|Le Royal Meridien Abu Dhabi|Abu Dhabi|YES|stars_5
+46578|M?venpick Hotel & Apartments Bur Dubai|Dubai|YES|stars_5
+46582|Panorama Bur Dubai Hotel|Dubai|YES|stars_2
+47973|Madinat Jumeirah - Mina A'Salam / Al Qasr / Dar Al Masyaf|Dubai|YES|stars_5
+49998|Riviera|Dubai|YES|stars_4
+49999|Dubai Grand|Dubai|YES|stars_3
+50000|Four Points Bur Dubai|Dubai|YES|stars_4
+50225|San Marco|Dubai|YES|stars_2
+51410|Traders Dubai|Dubai|YES|stars_4
+51411|Emirates Palace|Abu Dhabi|YES|stars_5
+51876|Crowne Plaza Dubai Deira|Dubai|YES|stars_5
+52720|Danat Resort Jebel Dhanna|Jebel Dhanna|YES|stars_5
+52721|Liwa Hotel|Mezairaa|NO|stars_3
+52912|Al Bustan Center & Residence|Dubai|YES|stars_4
+52913|Al Khaleej Palace|Dubai|YES|stars_4
+52914|Rimal Rotana|Dubai|YES|stars_4
+56184|Abjar Grand|Dubai|YES|stars_4
+56185|Palm Beach|Dubai|YES|stars_3
+56335|Bab Al Shams Desert Resort & Spa|Dubai|YES|stars_5
+59335|Chelsea Plaza|Dubai|YES|stars_3.5
+59336|Orchid|Dubai|YES|stars_3
+59338|Khalidiya Palace Rayhaan by Rotana|Abu Dhabi|YES|stars_5
+60355|Jonrad|Dubai|NO|stars_3
+60363|Millennium Corniche Hotel Abu Dhabi|Abu Dhabi|YES|stars_5
+60954|Al Maha Arjaan by Rotana|Abu Dhabi|YES|stars_4
+61163|Al Raha Beach|Abu Dhabi|NO|stars_5
+61461|Ibis World Trade Centre Dubai|Dubai|YES|stars_2.5
+61576|Imperial Suites|Dubai|YES|stars_3
+61798|Al Diar Capital|Abu Dhabi|NO|stars_3
+62321|Novotel World Trade Centre|Dubai|YES|stars_4
+62343|Carlton Tower|Dubai|YES|stars_4
+62770|Arabian Courtyard|Dubai|YES|stars_4
+63177|Ramada Beach Ajman|Ajman|NO|stars_4
+63181|Al Rawda Arjaan by Rotana|Abu Dhabi|NO|stars_4
+63826|Ramada Hotel Dubai|Dubai|YES|stars_4
+63827|Ramada Deira|Dubai|NO|stars_4
+64672|Chelsea Tower Apartments|Dubai|YES|stars_4.5
+64674|Al Murooj Rotana|Dubai|YES|stars_5
+64676|Grosvenor House, a Luxury Collection Hotel|Dubai|YES|stars_5
+64956|Coral Oriental Dubai|Dubai|YES|stars_4
+68505|Golden Tulip Al Barsha|Dubai|YES|stars_4
+68506|Ascot|Dubai|YES|stars_4
+68507|City Seasons Hotel Dubai|Dubai|YES|stars_4
+68508|Flora Grand Hotel|Dubai|YES|stars_4
+68509|Moscow Hotel|Dubai|YES|stars_4
+68510|Comfort Inn|Dubai|NO|stars_3
+68512|Sharjah Carlton|Sharjah|NO|stars_4
+68530|Al Khaleej|Dubai|YES|stars_3
+68531|Sheraton Khalidiya|Abu Dhabi|YES|stars_4
+68570|Al Ain Rotana|Al Ain|NO|stars_5
+68571|Sands|Abu Dhabi|NO|stars_4
+68632|International Rotana Inn|Abu Dhabi|NO|stars_3
+68633|TOP Grand Continental Flamingo|Abu Dhabi|YES|stars_3
+68634|Millennium Airport Hotel Dubai|Dubai|YES|stars_4
+68696|Rush Inn|Dubai|YES|stars_2
+68697|Arabian Beach|Sharjah|NO|stars_4
+68698|Summit Hotel|Dubai|YES|stars_4
+68731|Panorama Grand Hotel|Dubai|NO|stars_3
+68732|Landmark Hotel Baniyas|Dubai|NO|stars_3
+68749|Royal Falcon|Dubai|YES|stars_2
+68750|Royal Beach Al Faqeet Resort|Fujairah|NO|stars_4
+68831|K-Porte Inn|Dubai|YES|stars_3
+68844|Mirfa Hotel|Al Mirfa|NO|stars_3
+69500|Flamingo Beach Resort|Umm al-Quwain|NO|stars_3
+70163|Ewan Sharjah|Sharjah|NO|stars_4
+71190|Nihal|Dubai|YES|stars_3
+71799|Park Hyatt Dubai|Dubai|YES|stars_5
+72964|Mafraq Hotel|Abu Dhabi|NO|stars_4
+73806|Admiral Plaza|Dubai|YES|stars_4
+73808|Fortune Plaza|Dubai|NO|stars_3
+73987|Vendome Plaza|Dubai|YES|stars_3
+73988|Kempinski Hotel Mall of the Emirates|Dubai|YES|stars_5
+73990|Grand Excelsior Hotel Bur Dubai|Dubai|YES|stars_5
+75021|Fortune Boutique|Dubai|YES|stars_4
+75022|Howard Johnson Bur Dubai|Dubai|YES|stars_3
+75023|Al Jawhara Gardens Hotel|Dubai|NO|stars_4
+75039|Pearl Residence|Dubai|NO|stars_3
+75097|Golden Tulip Khatt Springs Resort & Spa|Ras al Khaimah|YES|stars_5
+75206|Courtyard Dubai Green Community|Dubai|NO|stars_4
+76082|Sharjah Premiere|Sharjah|YES|stars_3
+76103|Arabian Park|Dubai|YES|stars_3
+76159|Fujairah Rotana Resort & Spa|Fujairah|YES|stars_5
+76388|Metropolitan Dubai|Dubai|NO|stars_4
+76422|Avenue|Dubai|YES|stars_4
+76423|Orient Guest House|Dubai|NO|stars_3.5
+76701|Metropolitan Palace Dubai|Dubai|YES|stars_5
+76742|The Address Montgomerie Dubai|Dubai|YES|stars_5.5
+76812|St. George|Dubai|YES|stars_3
+76813|New Peninsula|Dubai|YES|stars_2
+76815|Karama|Dubai|YES|stars_3
+76833|Jebel Ali Oasis Beach Tower|Dubai|NO|stars_4
+76956|Marriott Dubai Harbour Hotel & Suites|Dubai|YES|stars_4
+77232|Mercure Centre Hotel|Abu Dhabi|YES|stars_3
+77432|Dubai Palm|Dubai|NO|stars_3
+77582|Hilton Ras Al Khaimah Resort & Spa|Ras al Khaimah|YES|stars_5
+77585|Majestic Hotel Tower Dubai|Dubai|YES|stars_4
+78521|Zain International|Dubai|YES|stars_3
+78522|BurJuman Arjaan by Rotana|Dubai|YES|stars_4
+78742|Somerset Jadaf|Dubai|YES|stars_5
+79150|Shangri-La Qaryat Al Beri|Abu Dhabi|NO|stars_5
+79448|Bavaria Executive Suites Dubai|Dubai|NO|stars_5
+82146|Grand Central|Dubai|YES|stars_4
+84497|Savoy Crest|Dubai|YES|stars_4
+86089|Golden Tulip Suites Dubai|Dubai|NO|stars_4
+86524|Deira Town|Dubai|YES|stars_3
+86525|Gulf Pearl|Dubai|YES|stars_2
+86526|Radisson Blu Hotel Dubai Media City|Dubai|YES|stars_4
+86527|Queen's|Dubai|YES|stars_2
+86947|Iberotel Miramar Al Aqah Beach Resort|Al Agah|YES|stars_5
+87014|Regency Al Maha Suites|Sharjah|NO|stars_3.5
+87332|Amwaj Rotana - Jumeirah Beach Residence|Dubai|YES|stars_5
+87420|Raffles Dubai|Dubai|YES|stars_5
+88190|Regal Plaza|Dubai|YES|stars_3
+88478|Royal Plaza|Dubai|YES|stars_3
+88479|Richmond Apartments|Dubai|YES|stars_3
+88586|Panorama Deira|Dubai|YES|stars_2
+88618|Al Jawhara Hotel Apartment|Dubai|NO|stars_4
+88687|Al Sharq Hotel|Sharjah|NO|stars_2
+88738|Royal Home|Dubai|YES|stars_3
+89019|York International|Dubai|YES|stars_3
+89117|Grand Midwest Bur Dubai|Dubai|YES|stars_3.5
+89142|Jormand Apartments|Dubai|YES|stars_3
+89329|Lotus Grand|Dubai|YES|stars_4
+89342|Vision|Abu Dhabi|NO|stars_4
+89434|Ramee Guestline Hotel Apartment 3|Dubai|YES|stars_3
+89454|Tulip Creek|Dubai|YES|stars_4
+89490|Ramee Guestline Deira|Dubai|NO|stars_3
+89507|Country Club Dubai|Dubai|YES|stars_4
+89510|Al Jawhara Metro|Dubai|YES|stars_2
+90004|Radisson Blu Resort Fujairah|Fujairah|YES|stars_5
+90280|Vida Downtown Dubai|Dubai|YES|stars_4
+90281|Four Points Downtown|Dubai|YES|stars_4
+90282|Four Points Sheikh Zayed Road|Dubai|YES|stars_4
+90283|Westin Dubai Mina Seyahi Beach Resort & Marina|Dubai|YES|stars_5
+90986|Desert Palm Resort|Dubai|YES|stars_3.5
+91404|Holiday Beach Motel|Fujairah|NO|stars_3
+91920|Al Manzil Downtown Dubai|Dubai|YES|stars_4
+91927|Emirates Palace Suites|Sharjah|YES|stars_4
+91928|Al Sham|Dubai|YES|stars_2
+91929|Dream Palace Hotel|Dubai|NO|stars_3
+91931|Ramee International|Dubai|NO|stars_2
+91932|Semiramis|Dubai|YES|stars_2
+91934|Embassy Suites|Sharjah|NO|stars_4
+91935|Grand Excelsior Hotel Sharjah|Sharjah|YES|stars_4.5
+91936|Golden Beach|Sharjah|NO|stars_3
+91937|Al Ain Palace Abu Dhabi|Abu Dhabi|NO|stars_3
+92674|Rihab Rotana|Dubai|YES|stars_4
+92675|Villa Rotana Suites|Dubai|YES|stars_4
+92735|Sandras Inn|Dubai|NO|stars_3
+92737|Flora Apartements|Dubai|YES|stars_3
+92738|Oryx|Abu Dhabi|NO|stars_4
+92763|The Palace Downtown Dubai|Dubai|YES|stars_5
+92764|Crowne Plaza Dubai - Festival City|Dubai|YES|stars_5
+92765|Rafee|Dubai|NO|stars_2
+93172|Swiss-Belresort Ghantoot|Abu Dhabi|YES|stars_4
+93263|Holiday Inn Express Dubai - Internet City|Dubai|YES|stars_2
+93861|London Crown 1 Apartments|Dubai|YES|stars_3
+93862|London Crown 2 Apartments|Dubai|YES|stars_3
+93863|Flora Park Deluxe Apartments|Dubai|YES|stars_4.5
+93864|Jormand Suites|Dubai|YES|stars_3
+93865|Al Shams Plaza|Dubai|YES|stars_3
+94048|Jormand Sharjah|Sharjah|NO|stars_4
+94075|Rayan Hotel|Sharjah|NO|stars_3.5
+95092|InterContinental Dubai Festival City|Dubai|YES|stars_5
+95410|Al Bustan Hotel|Sharjah|NO|stars_4
+95411|Summer Land|Sharjah|NO|stars_3
+95584|Ramee Royal|Dubai|YES|stars_4
+95589|Nejoum Al Emarate|Sharjah|NO|stars_3
+99581|Atlantis The Palm|Dubai|YES|stars_5
+100268|Royalton Dubai|Dubai|YES|stars_2
+100344|Lords Hotel Sharjah|Sharjah|YES|stars_4
+100442|Copthorne Dubai|Dubai|YES|stars_4
+100443|Samaya|Dubai|YES|stars_5
+100507|The H Dubai|Dubai|YES|stars_5
+100696|Tamani Marina|Dubai|YES|stars_5
+100737|Al Seef Beach|Sharjah|NO|stars_3
+101132|Delmon|Dubai|YES|stars_3.5
+102501|Coral Boutique Apartments|Al Barsha|YES|stars_5
+102502|Coral Boutique Villas|Dubai|NO|stars_5
+103015|Grand Millennium Dubai|Dubai|NO|stars_5
+103367|Star Metro Deira|Dubai|YES|stars_4
+103615|Holiday Inn Express Dubai - Safa Park|Dubai|YES|stars_2
+103616|Holiday Inn Al Barsha Dubai|Dubai|YES|stars_4
+103617|Ibis Deira City Centre|Dubai|YES|stars_2
+103618|Rose Rayhaan by Rotana|Dubai|YES|stars_4
+103619|Media Rotana|Dubai|YES|stars_5
+103621|The Cove Rotana Resort|Ras al Khaimah|YES|stars_5
+108651|Marriott Executive Apartments Dubai Creek|Dubai|NO|stars_4.5
+122251|Desert Islands Resort & Spa by Anantara|Sir Bani Yas Island|YES|stars_5
+122905|Tiara The Palm|The Palm Islands|NO|stars_5
+125445|Ramee Apartments|Dubai|YES|stars_3
+129218|City Seasons Al Ain|Al Ain|NO|stars_4
+129286|Nova|Dubai|NO|stars_2
+129431|Al Khaleej Holiday|Dubai|YES|stars_3
+129519|City Tower|Dubai|NO|stars_3
+129707|Arabian Dreams|Dubai|NO|stars_4
+129853|Ramee Guestline Hotel Apartment 2|Dubai|YES|stars_3
+129857|Moon Valley|Dubai|YES|stars_3
+129859|Pearl Coast|Al Barsha|NO|stars_5
+129861|Le Meridien Fairway|Dubai|YES|stars_4
+129863|Royal Crown|Sharjah|NO|stars_4
+129865|Spark Residence|Sharjah|NO|stars_3.5
+130343|Emirates Stars Dubai|Dubai|YES|stars_4
+130344|Dolphin|Dubai|YES|stars_3
+131192|Seven Sands|Al Barsha|NO|stars_4
+131414|Imperial Residence|Dubai|NO|stars_3
+131660|Oriental Palace|Dubai|NO|stars_3
+132299|Splendid|Dubai|YES|stars_4
+132461|Rose Garden|Dubai|NO|stars_3
+132462|Tulip Inn Sharjah|Sharjah|YES|stars_4
+133108|Nova Park|Sharjah|NO|stars_3
+134250|The Address Downtown Dubai|Dubai|YES|stars_5
+136412|Holiday Inn Express Dubai - Jumeirah|Dubai|NO|stars_2
+137503|City|Ras al Khaimah|NO|stars_3.5
+137740|Ras Al Khaimah|Ras al Khaimah|NO|stars_4
+138294|Ascott Park Place Dubai|Dubai|YES|stars_4.5
+138299|Flora Creek Deluxe Apartments|Dubai|YES|stars_4.5
+138317|Fortune Grand Bur Dubai|Dubai|NO|stars_3
+138347|Dusit Residence Dubai Marina|Dubai|NO|stars_5
+138356|Golden Tulip Sharjah|Sharjah|YES|stars_4
+138442|East Coast Hotel Apartments|Fujairah|NO|stars_4
+138457|Al Barsha Hotel Apartments|Al Barsha|NO|stars_3.5
+138478|Waterfront Hotel Apartments|Dubai|NO|stars_3
+138509|Kingsgate Abu Dhabi|Abu Dhabi|NO|stars_3.5
+138593|Al Manar Apartment|Dubai|YES|stars_4
+138635|Emirates Grand Hotel|Dubai|NO|stars_4
+138771|City Tower Apartment - Burdubai|Dubai|NO|stars_3
+138946|Grand Midwest Express|Dubai|YES|stars_3.5
+139228|The Radisson Blu Residence Dubai Marina|Dubai|YES|stars_5
+139304|Rose Garden Hotel Apartments Barsha|Al Barsha|NO|stars_3
+139337|Savoy Suites|Dubai|YES|stars_4
+139343|Shalimar Park|Dubai|YES|stars_1
+139412|Star Metro Al Barsha|Al Barsha|YES|stars_3
+139526|ABC Arabian Suites|Dubai|YES|stars_4
+140102|Grandeur|Dubai|YES|stars_3
+140167|Sofitel Dubai Jumeirah Beach|Dubai|YES|stars_5
+141661|Tulip Hotel Apartments|Dubai|YES|stars_3
+144200|Novotel Deira City Centre|Dubai|YES|stars_4
+144433|Tulip Inn Al Rahba|Abu Dhabi|YES|stars_2
+144434|One to One The Village|Abu Dhabi|NO|stars_4
+144436|Ramee Guestline|Dubai|NO|stars_2
+144437|The Eclipse Boutique Suites|Abu Dhabi|NO|stars_4
+144438|Ramee Hotel Apartments Abu Dhabi|Abu Dhabi|NO|stars_3
+144440|Cassells Apartments|Abu Dhabi|NO|stars_3.5
+144442|Ibis Al Barsha|Dubai|YES|stars_3
+144443|Ibis Mall Of The Emirates|Dubai|YES|stars_2
+144444|Jumeirah Living World Trade Centre Residence|Dubai|NO|stars_5
+144445|Desert Rose Apartments|Dubai|NO|stars_4
+144446|Nuran Marina Serviced Residences|Dubai|NO|stars_4
+144447|Khalidia Apartments|Dubai|NO|stars_4
+144448|Dunes Apartments Muhaisnah|Dubai|YES|stars_3
+144452|Oasis Court Apartments|Dubai|YES|stars_3.5
+144454|Oaks Liwa Heights|Dubai|YES|stars_3.5
+144455|Golden Square Suites|Dubai|YES|stars_3
+144457|Green Lakes Serviced Apartments - Towers|Dubai|YES|stars_5
+144459|Layia Crystal Living Courts|Al Barsha|YES|stars_3
+144462|Emirates Springs Apartments|Fujairah|NO|stars_3
+144463|Grand Midwest Tower|Dubai|YES|stars_4
+144998|Chelsea Gardens Apartment|Dubai|NO|stars_3.5
+157253|Nojoum|Dubai|YES|stars_3.5
+163399|Mercure Gold Hotel Dubai|Dubai|YES|stars_4
+163426|Belvedere Court Hotel Apartments|Dubai|NO|stars_4
+163450|Verona Resort Sharjah|Sharjah|NO|stars_3
+182168|Coral Al Khoory Hotel Apartments|Dubai|YES|stars_4
+182575|M?venpick Hotel Jumeirah Beach|Dubai|YES|stars_5
+182761|Yas Island Rotana|Abu Dhabi|YES|stars_4
+183045|Qasr Al Sarab Desert Resort|Liwa|YES|stars_5
+183056|TIME Topaz Hotel Apartments|Dubai|YES|stars_3.5
+183127|M?venpick Ibn Battuta Gate|Dubai|NO|stars_5
+183128|Aloft Abu Dhabi|Abu Dhabi|YES|stars_4
+183236|Crystal Plaza|Sharjah|NO|stars_3
+183237|Najd Apartments|Al Barsha|NO|stars_3.5
+183238|Ramada Ajman|Ajman|YES|stars_4
+183239|Legacy Apartment - Tecom|Dubai|YES|stars_3.5
+187327|Howard Johnson Diplomat Abu Dhabi AE|Abu Dhabi|YES|stars_3
+187328|Tulip Inn FZ LLC|Dubai|YES|stars_3
+187829|Landmark Riqqa|Dubai|NO|stars_4
+188841|Banyan Tree Al Wadi|Ras al Khaimah|YES|stars_5
+188842|Centro Yas Island|Abu Dhabi|YES|stars_3
+188843|Yas Viceroy|Abu Dhabi|YES|stars_5
+195947|Fairmont Bab Al Bahr|Abu Dhabi|NO|stars_5
+195980|Milton|Dubai|YES|stars_3
+196335|The Address Dubai Mall|Dubai|YES|stars_5
+196348|M?venpick Hotel Deira|Dubai|NO|stars_5
+201618|Suite Novotel Mall of the Emirates|Dubai|YES|stars_3
+201619|Arjaan by Rotana Dubai Media City|Dubai|YES|stars_4
+201779|Radisson Blu Abu Dhabi Yas Island|Abu Dhabi|NO|stars_4
+201946|The Address Dubai Marina|Dubai|YES|stars_5
+202209|Byblos Hotel|Dubai|YES|stars_4
+202210|Royal Ascot Hotel|Dubai|YES|stars_4
+202837|TIME Oak Hotel & Suite|Dubai|YES|stars_4
+202864|Tilal Liwa|Madinat Zayed|NO|stars_4
+202926|Holiday Inn Bur Dubai - Embassy District|Dubai|YES|stars_4
+202928|Acacia|Ras al Khaimah|YES|stars_4
+203087|Armani Dubai|Dubai|NO|stars_5
+203126|Al Mas Apartments|Dubai|YES|stars_3
+203435|Fujairah Oceaniec Resort|Fujairah|NO|0
+204066|Al Faris 2|Dubai|YES|stars_3
+204067|Al Faris 3|Dubai|NO|stars_3
+204072|Al Manzel|Abu Dhabi|YES|stars_4
+205118|Arabian Ranches Golf Club|Dubai|NO|stars_2
+205321|Asiana Dubai|Dubai|NO|stars_5
+206345|Bonnington Jumeirah Lakes Towers|Dubai|YES|stars_5
+207860|Cristal|Abu Dhabi|NO|stars_4
+207900|Crowne Plaza Yas Island|Abu Dhabi|YES|stars_4
+208313|Dhafra Beach Hotel|Jebel Dhanna|NO|stars_3
+208592|Dunes Apartments Barsha|Dubai|YES|stars_3
+208964|Euro Apartments|Abu Dhabi|NO|stars_3
+210187|Hala Arjaan by Rotana|Abu Dhabi|NO|stars_4
+210542|Holiday Inn Abu Dhabi|Abu Dhabi|NO|stars_4
+213476|London Creek Hotel Apartments|Dubai|NO|stars_3
+213478|London Suites|Dubai|NO|stars_3
+213525|Lotus Downtown Metro|Dubai|NO|stars_4
+213813|Marina Hotel Apartments|Dubai|NO|stars_4
+213939|Mazoon Apartments|Dubai|NO|stars_4
+213956|Media One Hotel|Dubai|YES|stars_4
+214616|Nuran Greens Serviced Residences|Dubai|YES|stars_4
+215056|Park Inn by Radisson, Abu Dhabi Yas Island|Abu Dhabi|YES|stars_3
+215144|Xclusive Clover|Dubai|YES|stars_4
+215868|Premier Inn Dubai International Airport|Dubai|YES|stars_3
+215869|Premier Inn Dubai Investments Park|Dubai|YES|stars_3
+215870|Premier Inn Dubai Silicon Oasis|Dubai|YES|stars_3
+216565|Ramada Downtown Dubai|Dubai|NO|stars_4
+216585|Ramee Garden Hotel Apartments|Abu Dhabi|NO|stars_3
+217301|Rio Dubai|Dubai|NO|stars_3
+217543|TIME Ruby|Sharjah|YES|stars_4
+218051|Siji Hotel Apartments|Fujairah|NO|stars_4
+218393|Staybridge Suites Yas Island|Abu Dhabi|YES|stars_4
+218502|Suha Apartments|Dubai|NO|stars_4
+220800|Winchester Deluxe Hotel Apartments|Dubai|NO|stars_4
+220801|Winchester Grand Hotel Apartments|Dubai|NO|stars_4
+220871|Xclusive Hotel Apartments|Dubai|YES|stars_4
+226507|Hyde Park|Dubai|YES|stars_2
+226508|Number One Tower Suites|Dubai|YES|stars_3.5
+226510|Centro Barsha|Dubai|YES|stars_3
+226778|RainTree Hotel Dubai|Dubai|YES|stars_4
+226935|Rainbow|Dubai|NO|stars_3
+227098|Landmark Plaza Baniyas|Dubai|NO|stars_3
+227123|Ramada Chelsea Al Barsha|Dubai|NO|stars_4
+227342|CityMax Al Barsha|Dubai|NO|stars_3
+227394|DoubleTree Ras Al Khaimah|Ras al Khaimah|NO|stars_4
+227523|Ibis Al Rigga|Dubai|YES|stars_2
+227703|Traders Qaryat Al Beri|Abu Dhabi|NO|stars_4
+227744|Holiday Inn Express Dubai Airport|Dubai|YES|stars_2
+227842|Concorde Fujairah|Fujairah|NO|stars_5
+227963|One & Only The Palm|Dubai|NO|stars_5
+227964|The Meydan|Dubai|YES|stars_5
+228233|Kempinski Hotel & Residences Palm Jumeirah|Dubai|NO|stars_5
+228252|TIME Opal|Dubai|NO|stars_3.5
+228574|Al Hamra Residence|Ras al Khaimah|NO|stars_5
+228778|Lotus Hotel Apartments & Spa Marina|Dubai|YES|stars_4
+228779|Al Nawras Apartments|Dubai|NO|stars_3.5
+228781|Mount Royal Hotel|Dubai|NO|stars_2
+228786|Cassells Al Barsha|Al Barsha|NO|stars_4
+229102|Montreal Hotel|Dubai|NO|stars_4
+229211|Hyatt Capital Gate, Abu Dhabi|Abu Dhabi|NO|stars_5
+230192|Bavaria City Suites Al Qusais|Dubai|NO|0
+230196|Fortune Grand Deira|Dubai|YES|stars_4
+231432|Auris Boutique|Dubai|NO|stars_4
+231940|Park Regis Kris Kin|Dubai|NO|stars_5
+232269|Citymax Hotels Bur Dubai|Dubai|NO|stars_3
+232313|Jumeirah Zabeel Saray|Dubai|YES|stars_5
+232593|Al Hamra Village Golf & Beach Resort|Ras al Khaimah|NO|stars_5
+232836|Ramada Sharjah|Sharjah|NO|stars_4
+232838|Fraser Suites|Dubai|NO|stars_5
+232951|Radisson Royal Hotel|Dubai|YES|stars_5
+233032|London Crown|Dubai|YES|stars_3
+233125|Park Apartments|Dubai|YES|stars_4
+233598|Abidos Hotel Apartments Al Barsha|Al Barsha|NO|stars_4.5
+233916|Gloria Hotel|Dubai|YES|stars_4
+233919|Grand Belle Vue|Dubai|NO|stars_4
+233920|The Galleria Residence|Dubai|NO|stars_4.5
+233921|Park Rotana|Abu Dhabi|YES|stars_5
+234991|The Ritz-Carlton Dubai International Financial Centre|Dubai|NO|stars_5
+235020|Radisson Blu Hotel Dubai Downtown|Dubai|NO|stars_4
+235339|Royal Beach Resort & Spa|Sharjah|NO|stars_5
+235963|Grand Millennium Al Wahda|Abu Dhabi|NO|stars_5
+236131|Ramada Jumeirah|Dubai|YES|stars_4
+236274|City Seasons Suites Dubai|Dubai|YES|stars_4
+236618|Royal Ascot Hotel Apartments|Dubai|NO|stars_4
+236985|Millennium Plaza Hotel Dubai|Dubai|NO|stars_5
+237760|St. Regis Saadiyat Island|Abu Dhabi|YES|stars_5
+237780|TIME Grand Plaza|Dubai|NO|stars_4
+237885|Park Hyatt Abu Dhabi|Abu Dhabi|NO|stars_5
+237886|Jumeirah at Etihad Towers - Hotel|Abu Dhabi|NO|stars_5
+237952|Waldorf Astoria Ras Al Khaimah|Ras al Khaimah|NO|stars_5
+238145|Palazzo Versace|Dubai|NO|stars_5
+238782|Marina View Hotel|Dubai|NO|stars_4.5
+238855|Dunes Hotel Apartments Oud Metha|Dubai|NO|stars_3.5
+238932|Jumeirah Creekside|Dubai|NO|stars_5
+239225|Westin Abu Dhabi Golf Resort & Spa|Abu Dhabi|YES|stars_5
+239445|Melia Dubai|Dubai|YES|stars_5
+240076|Auris Lodge Al Barsha|Dubai|NO|stars_3
+240125|Anantara Sir Bani Yas Island Al Yamm Villa Resort|Sir Bani Yas Island|NO|stars_5
+240489|Avari Hotel Apartments Al Barsha|Al Barsha|NO|stars_3.5
+240784|Mangrove|Ras al Khaimah|NO|stars_4
+240863|Rixos The Palm Dubai|Dubai|YES|stars_5
+241339|Centro Sharjah|Sharjah|NO|stars_3
+242014|Marina Byblos Hotel|Dubai|NO|stars_4
+243474|Tulip Inn Royal Suites|Ajman|YES|stars_3
+243475|Gulf Oasis Hotel Apartments|Dubai|NO|stars_3.5
+243477|Sharjah Palace|Sharjah|NO|stars_4
+243478|Ayla|Al Ain|NO|stars_4
+243479|Aryana|Sharjah|NO|stars_4
+245074|Sun & Sands Downtown|Dubai|NO|stars_4
+245459|Hilton Capital Grand Abu Dhabi|Abu Dhabi|NO|stars_5
+245843|Hues Boutique Hotel|Dubai|YES|stars_4
+245967|InterContinental Residence Suites Dubai F.C|Dubai|NO|stars_4.5
+246459|Grand Excelsior Al Barsha|Dubai|NO|stars_4
+246905|Al Sondos Suites by Le Meridien|Dubai|YES|stars_4.5
+247030|Anantara Sir Bani Yas Island Al Sahel Villa Resort|Sir Bani Yas Island|NO|stars_5
+247181|Centro Al Manhal|Abu Dhabi|NO|stars_3
+247341|City Seasons Al Hamra Abu Dhabi|Abu Dhabi|NO|stars_4
+247511|Landmark Grand|Dubai|NO|stars_4
+247534|The St. Regis Abu Dhabi|Abu Dhabi|YES|stars_5
+247542|Ramada Plaza Jumeirah Beach Residence|Dubai|YES|stars_4
+247549|CityMax Sharjah|Sharjah|NO|stars_3
+247713|Eastern Mangroves Hotel & Spa by Anantara|Abu Dhabi|NO|stars_5
+248155|First Central Hotel Suites|Dubai|NO|stars_4
+248192|Cristal Salam Abu Dhabi|Abu Dhabi|NO|stars_4
+248252|One & Only Royal Mirage - The Palace|Dubai|NO|stars_5
+248253|One & Only Royal Mirage - Arabian Court|Dubai|NO|stars_5
+248254|One & Only Royal Mirage - Residence & Spa|Dubai|NO|stars_5
+248425|Madinat Jumeirah - Mina A'Salam|Dubai|YES|stars_5
+248427|Madinat Jumeirah - Al Qasr|Dubai|NO|stars_5
+248429|Madinat Jumeirah - Dar Al Masyaf & Malakiya Villas|Dubai|YES|stars_5
+248437|Jebel Ali Golf Resort - JA Jebel Ali Beach|Jebel Ali|NO|stars_5
+248438|Jebel Ali Golf Resort - JA Palm Tree Court|Jebel Ali|NO|stars_5
+249129|Alhamra|Dubai|NO|stars_4
+249130|Auris Hotel Apartments Deira|Dubai|NO|stars_3.5
+249416|Nour Arjaan by Rotana|Fujairah|NO|stars_4
+249984|Auris Plaza Al Barsha|Dubai|NO|stars_5
+250083|President|Dubai|NO|stars_2.5
+250087|Sofitel Abu Dhabi Corniche|Abu Dhabi|NO|stars_5
+250088|Fortune Pearl Deira|Dubai|NO|stars_3
+259725|The Ritz-Carlton Abu Dhabi Grand Canal|Abu Dhabi|NO|stars_5
+259754|Ibis Abu Dhabi Gate|Abu Dhabi|NO|stars_3
+259755|Novotel Abu Dhabi Al Bustan|Abu Dhabi|NO|stars_4
+259969|The Ajman Palace|Ajman|NO|stars_5
+259989|Hilton Dubai Jumeirah Resort & The Walk - Hilton Dubai The Walk|Dubai|NO|stars_5
+259990|Hilton Dubai Jumeirah Resort & The Walk - Hilton Dubai Jumeirah Resort|Dubai|NO|stars_5
+260042|Ocean View|Dubai|NO|stars_4
+260062|Fairmont The Palm|Dubai|NO|stars_5
+260066|Fortune Apartments Bur Dubai|Dubai|YES|stars_3.5
+260090|Al Ghurair Rayhaan by Rotana|Dubai|NO|stars_5
+260689|Swiss-Belhotel Corniche|Abu Dhabi|NO|stars_4
+260746|Dubai Trade Centre Apartments|Dubai|YES|stars_3.5
+260835|Fortune Classic Apartments|Dubai|NO|stars_4
+261260|Banyan Tree Ras Al Khaimah Beach|Ras al Khaimah|NO|stars_5
+261388|Cosmopolitan Hotel|Dubai|YES|stars_4
+261421|Nassima Tower Hotel Apartments|Dubai|NO|stars_5
+261440|JW Marriott Marquis Hotel Dubai|Dubai|NO|stars_5
+261441|Rixos Bab Al Bahr|Ras al Khaimah|NO|stars_5
+261640|Astoria|Dubai|YES|0
+261646|Ambassador|Dubai|YES|0
+261960|Delmon Palace|Dubai|NO|stars_4
+263656|Premier Inn Abu Dhabi International Airport|Abu Dhabi|NO|stars_3
+263663|Al Ghurair Arjaan by Rotana|Dubai|NO|stars_5
+263665|Capitol Residence|Dubai|NO|stars_4
+263676|Marriott Executive Apartments Dubai Green Community|Dubai|NO|stars_4
+263677|Ramee Hotel Apartments|Dubai|NO|stars_3
+263678|Ramee Rose|Dubai|NO|stars_3.5
+263684|Alhamra|Sharjah|NO|stars_4
+265716|Centro Capital Centre|Abu Dhabi|NO|stars_3
+265773|Ramee Royal Hotel Apartments|Abu Dhabi|NO|stars_3
+267982|Al Jazeerah Hotel|Sharjah|NO|stars_2
+267983|Al Hayat Suites|Sharjah|NO|stars_4
+267984|Arbella Boutique Hotel|Sharjah|NO|stars_3
+268806|Fortune Royal Hotel|Fujairah|NO|stars_4
+278281|Officers Club & Hotel|Abu Dhabi|NO|stars_5
+278282|Premier Inn Abu Dhabi Capital Centre|Abu Dhabi|YES|stars_3
+278283|Royal Regency|Abu Dhabi|NO|stars_3
+278284|Al Jazira Royal Hotel|Abu Dhabi|NO|stars_2.5
+278285|Paragon Hotel|Abu Dhabi|NO|stars_3
+278287|Century|Abu Dhabi|NO|stars_3.5
+278288|La Residence|Abu Dhabi|NO|stars_3
+278289|City Stay|Al Barsha|NO|stars_3
+278291|Smana Al Riqa|Dubai|YES|stars_3
+278294|Xclusive Maples Hotel Apartment|Dubai|NO|stars_3
+278296|Time Square|Dubai|NO|stars_2
+278299|Boutique 7 Hotel & Suites|Dubai|NO|stars_4
+284850|Marmara|Dubai|NO|stars_3.5
+284860|Ewa Dubai|Dubai|NO|stars_3
+285462|City Premiere Hotel Apartments|Dubai|NO|stars_4.5
+285464|Tulip Inn Al Qusais Dubai Suites|Dubai|YES|stars_3
+285465|Auris Metro Central Hotel Apartments|Dubai|NO|stars_4
+295686|Yassat Gloria Hotel Apartments|Dubai|NO|stars_4
+295730|TIME Crystal|Dubai|NO|stars_3.5
+295800|Dubai International|Dubai|NO|stars_5
+295867|Dusit Thani Abu Dhabi|Abu Dhabi|NO|stars_5
+295877|City Tower|Fujairah|NO|stars_4
+295988|Fortune Apartments Abu Dhabi|Abu Dhabi|NO|stars_2.5
+300495|Mourouj Hotel Apartment|Abu Dhabi|NO|stars_4
+300627|Golden Tulip Al Thanyah Apt Barsha|Al Barsha|NO|stars_4
+300628|Al Hayat Hotel Apartments|Sharjah|NO|stars_4
+301342|Novotel Abu Dhabi Gate|Abu Dhabi|NO|stars_4
+301343|Novotel Al Barsha|Dubai|NO|stars_4
+301345|Aparthotel Adagio Abu Dhabi Al Bustan|Abu Dhabi|NO|stars_4
+301398|Ahmedia Heritage Guest House|Dubai|NO|stars_3
+302287|Sheraton Dubai Mall of the Emirates|Dubai|YES|stars_5
+302349|Sofitel Dubai The Palm Resort & Spa|Dubai|YES|stars_5
+302389|Royal Rose|Abu Dhabi|NO|stars_5
+302418|M?venpick Hotel Apartments The Square|Dubai|NO|stars_5
+302439|Trianon|Abu Dhabi|NO|stars_4
+302555|Conrad Dubai|Dubai|NO|stars_5
+309147|Nehal Hotel|Abu Dhabi|NO|stars_3
+310881|The Oberoi Dubai|Dubai|NO|stars_5
+310882|Anantara Dubai The Palm Resort & Spa|Dubai|NO|stars_5
+310921|Crown Palace|Ajman|NO|stars_4
+310984|Barjeel Heritage Guest House|Dubai|NO|stars_3
+314198|Copthorne Hotel Sharjah|Sharjah|NO|stars_4
+315618|Baiti Hotel Apartments|Sharjah|YES|0
+320136|Radisson Blu Hotel Al Qurm, Ras Al Khaimah|Ras al Khaimah|NO|0
+334996|Al Gaddah Hotel Suites|Sharjah|NO|stars_3
+335052|Abidos Hotel Apartment Dubailand|Dubai|NO|stars_4
+335810|DoubleTree by Hilton Resort & Spa Marjan Island|Al Marjan Islands|NO|stars_5
+359914|Pearl Marina Hotel Apartments|Dubai|NO|stars_3
+359930|Pearl Hotel|Umm al-Quwain|NO|stars_4
+363243|M?venpick Hotel Jumeirah Lakes Towers|Dubai|NO|stars_5
+363471|Marriott Dubai Al Jaddaf|Dubai|NO|stars_5
+363694|Al Waleed Palace Hotel Apartments Al Barsha|Al Barsha|NO|stars_3
+363700|Rosewood Abu Dhabi|Abu Dhabi|NO|stars_5
+363702|Skyline Deluxe Apartments|Dubai|NO|stars_4
+365543|Marriott Executive Apartments Al Jaddaf|Dubai|NO|stars_5
+366520|The Ajman Saray|Ajman|YES|stars_5
+367370|Corp Executive Al Khoory|Dubai|NO|stars_3
+367373|Doubletree By Hilton Hotel & Residences Dubai Al Barsha|Dubai|NO|stars_4
+367374|DoubleTree by Hilton Hotel Dubai - Jumeirah Beach|Dubai|NO|stars_4
+367377|Jumeirah Zabeel Saray Royal Residences|Dubai|NO|stars_5
+367380|Waldorf Astoria Dubai Palm Jumeirah|Dubai|NO|stars_5
+367678|Ain Al Faida One To One Hotel And Resort|Al Ain|NO|stars_4
+367679|Hili Rayhaan By Rotana|Al Ain|NO|stars_5
+372879|72 By Hues Hotel Sharjah|Sharjah|NO|stars_5
+372927|Hawthorn Suites by Wyndham Dubai JBR|Dubai|NO|stars_4
+373813|Phoenix Plaza Apartments|Abu Dhabi|NO|stars_3.5
+391123|Arabian Nights Village Abu Dhabi|Abu Dhabi|NO|stars_4
+391124|Royal Grand Suite Hotel|Sharjah|NO|0
+391466|Jumeirah At Etihad Towers - Residences|Abu Dhabi|NO|stars_5
+391549|Warwick by Wyndham Dubai|Dubai|NO|stars_4
+391740|Sofitel Dubai Downtown|Dubai|NO|stars_5
+400878|DAMAC Maison Dubai Mall Street|Dubai|NO|stars_5
+400879|Grand Midwest Reve|Dubai|NO|stars_4
+402678|Eastern Mangroves Suites by Jannah|Abu Dhabi|NO|stars_4.5
+402679|Southern Sun Abu Dhabi|Abu Dhabi|NO|stars_4
+402680|Hyatt Place Dubai Al Rigga|Dubai|NO|stars_4
+404557|Marjan Island Resort & Spa|Ras al Khaimah|NO|stars_5
+405161|Ivory Grand Hotel Apartments|Al Barsha|NO|stars_3
+405162|Tulip Inn Hotel Apartments Ajman|Ajman|YES|0
+405910|Four Seasons Resort Dubai at Jumeirah Beach|Dubai|NO|stars_5
+406510|ibis Fujairah|Fujairah|NO|stars_3
+406511|Novotel Fujairah|Fujairah|NO|stars_4
+406579|Adagio Fujairah Aparthotel|Fujairah|NO|stars_3.5
+407127|Ramada Abu Dhabi Corniche|Abu Dhabi|NO|stars_4
+407162|Park Arjaan by Rotana|Abu Dhabi|NO|stars_5
+409215|Sheraton Grand Hotel Dubai|Dubai|YES|stars_5
+411530|Executive Suites by Mourouj|Abu Dhabi|NO|stars_4
+411759|Xclusive Casa Hotel Apartments|Dubai|NO|stars_3.5
+412073|Naia Downtown Jebel Ali|Dubai|NO|stars_4.5
+412279|Ghaya Grand Hotel|Dubai|NO|stars_5
+412970|Reflections|Dubai|NO|stars_3
+413220|Fairmont Ajman|Ajman|NO|stars_5
+413306|Suba Hotel Dubai|Dubai|NO|stars_4
+413895|Pullman Dubai - Deira City Centre & City Centre Residences|Dubai|NO|stars_5
+414792|Armada Blue Bay|Dubai|NO|stars_4
+414793|Jannah Place|Dubai|NO|stars_4.5
+416390|DAMAC Maison Cour Jardin|Dubai|NO|stars_4.5

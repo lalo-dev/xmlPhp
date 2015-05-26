@@ -1,0 +1,17 @@
+56427|Royal Tulip Grand Yerevan|Yerevan|YES|stars_5
+63828|Armenia Marriott Yerevan|Yerevan|YES|stars_4
+139981|Hrazdan|Yerevan|NO|stars_3
+139982|Best Western Congress|Yerevan|YES|stars_3
+139983|Ani Plaza|Yerevan|YES|stars_4
+139984|Ararat|Yerevan|YES|stars_4
+139985|Armenian Royal Palace|Yerevan|NO|stars_4
+139986|Aviatrans|Yerevan|YES|stars_3
+144542|Metropol|Yerevan|YES|stars_4
+144548|Golden Palace|Yerevan|YES|stars_5
+187757|Olympia|Yerevan|YES|stars_3
+228044|Europe|Yerevan|YES|stars_4
+228045|Regineh|Yerevan|YES|stars_3
+256847|Yerevan Deluxe Hotel|Yerevan|NO|stars_3
+259658|Latar|Yerevan|NO|stars_5
+370373|Tsaghkadzor Marriott Hotel|Yerevan|NO|stars_5
+406114|Hyatt Place Yerevan|Yerevan|NO|stars_4

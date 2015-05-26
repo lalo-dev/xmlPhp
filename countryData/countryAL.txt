@@ -1,0 +1,67 @@
+54579|Sheraton Tirana|Tirana|YES|stars_5
+87098|Tirana International|Tirana|YES|stars_4
+90922|Mondial|Tirana|YES|stars_4
+90923|Rogner|Tirana|YES|stars_5
+93463|Diplomat|Tirana|YES|stars_3
+99735|Doro City|Tirana|YES|stars_4
+99737|Grand|Tirana|YES|stars_4
+102604|Adriatik|Durres|YES|stars_5
+103571|Butrinti|Saranda|YES|stars_5
+103572|Mali i Robit Golem Resort|Durres|YES|stars_3
+103573|Tropikal Resort|Durres|NO|stars_3
+103574|Vila Belvedere|Durres|NO|stars_3
+103575|Regency|Korca|NO|stars_3
+103576|Grand Europa|Shkodra|YES|stars_5
+103577|Vila Park|Tirana|NO|stars_3
+103578|Rapos Resort|Himar?|NO|stars_4
+103638|Ch?teau Linza|Tirana|YES|stars_3
+124044|Vlora International|Vlore|NO|stars_5
+127709|Brilant Antik|Tirana|YES|stars_3
+127712|Europa|Tirana|NO|stars_3
+127859|Arvi|Durres|YES|stars_4
+127865|Bella Vista|Durres|NO|stars_2
+127866|Benilva|Durres|NO|stars_3
+127877|Grand Palace|Korca|NO|stars_3
+127880|Pavaresia|Vlore|NO|stars_3
+127881|Continental|Tirana|NO|stars_4
+144416|Xheko Imperial|Tirana|YES|stars_4
+144417|Baron|Tirana|NO|stars_3
+144419|New York|Vlore|NO|stars_4
+188020|Ferrari|Tirana|NO|stars_3
+226512|Vila Belvedere|Tirana|NO|stars_3
+226513|Dyrrah|Durres|YES|stars_3
+227099|Castle Park|Berat|YES|stars_3
+227777|Dolce Vita|Durres|YES|stars_4
+227778|Ambasador|Vlore|YES|stars_3
+227779|California|Tirana|YES|stars_3
+227780|Tafaj|Tirana|NO|stars_3
+228833|Aragosta|Durres|YES|stars_4
+228835|Lliria|Durres|YES|stars_3
+228836|Oaz|Durres|YES|stars_3
+228841|Brilant|Saranda|YES|stars_4
+228842|Sky|Tirana|YES|stars_4
+228843|Airport Tirana|Tirana|YES|stars_3
+231748|Diplomat Fashion|Tirana|YES|stars_4
+234519|Paradise Beach|Vlore|NO|stars_4
+236649|Cajupi|Gjirokastra|NO|stars_3
+236651|Porto Eda|Saranda|NO|stars_3
+239475|City Tirana|Tirana|NO|stars_3
+245821|Nobel|Tirana|NO|stars_3
+247570|Best Western Nov|Tirana|NO|stars_4
+247706|Tomorri|Berat|NO|stars_3
+249352|Golden City|Tirana|NO|stars_4
+249971|Mediterrane|Saranda|NO|stars_3
+256870|Hotel de Paris|Tirana|NO|stars_4
+260401|Bel Conti|Durres|NO|stars_3
+260402|Sea Side Saranda|Saranda|NO|stars_3
+260403|1 Maj|Pogradec|NO|stars_3
+261021|Kaonia|Saranda|NO|stars_3
+261022|Victoria|Tirana|NO|stars_4
+265576|MonarC|Tirana|NO|stars_3
+265577|White Dream|Tirana|NO|stars_4
+275825|Vila e Arte|Tirana|NO|stars_3
+295446|Enkelana|Pogradec|NO|stars_3
+298271|Palma|Berat|NO|stars_3
+301513|Bleart|Durres|NO|stars_4
+370392|Capital|Tirana|NO|stars_3.5
+370397|Vila Alba|Tirana|NO|stars_4

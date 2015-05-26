@@ -1,0 +1,188 @@
+41108|Cosmos|Les Escaldes|NO|stars_3
+41109|Anyos Park|La Massana|NO|stars_4
+42501|Sport Hotel Village|Soldeu|YES|stars_4
+42502|Novotel Andorra|Andorra La Vella|YES|stars_4
+42503|Cims Andorra|Andorra La Vella|YES|stars_3
+42504|Plaza|Andorra La Vella|YES|stars_5
+42505|Arthotel|Andorra La Vella|YES|stars_4
+42506|Husa Centric|Andorra La Vella|YES|stars_4
+42507|Salvia|Andorra La Vella|YES|stars_3
+42508|De l'Isard|Andorra La Vella|YES|stars_3
+42509|Cervol|Andorra La Vella|YES|stars_4
+42510|Sant Jordi|Andorra La Vella|YES|stars_2
+42511|Mercure Andorra|Andorra La Vella|YES|stars_4
+42512|Diplomatic|Andorra La Vella|YES|stars_4
+42513|Roc del Sola|Andorra La Vella|YES|stars_3
+42514|President|Andorra La Vella|YES|stars_4
+42515|Font del Marge|Andorra La Vella|YES|stars_3
+42516|Andorra Center|Andorra La Vella|YES|stars_4
+42517|Magic Andorra|Andorra La Vella|YES|stars_4
+42518|Andorra Park|Andorra La Vella|YES|stars_5
+42519|Holiday Inn Andorra|Andorra La Vella|YES|stars_5
+42520|Andorra Palace|Andorra La Vella|YES|stars_3
+42521|Carlton Plaza|Andorra La Vella|YES|stars_5
+42522|Artic|Andorra La Vella|YES|stars_3
+42523|Consul|Andorra La Vella|YES|stars_3
+42524|Annapurna|Ansalonga|YES|stars_3
+42526|Xalet Verd?|Arinsal|YES|stars_3
+42527|Patagonia|Arinsal|YES|stars_3
+42528|Velvet|Arinsal|YES|stars_3
+42530|St. Gothard|Arinsal|YES|stars_4
+42531|Princesa Parc|Arinsal|YES|stars_4
+42533|Xalet Besol?|Arinsal|YES|stars_3
+42534|Ski Plaza|Canillo|YES|stars_5
+42535|Les Terres|Canillo|YES|stars_3
+42536|Magic Canillo|Canillo|NO|stars_4
+42538|Els Meners|Canillo|YES|stars_3
+42539|Ahotels Piolets Park & Spa|Soldeu|YES|stars_4
+42540|Nordic|El Tarter|YES|stars_4
+42541|Euro Esqui|Vall d' Incles|YES|stars_4
+42542|Somriu Eurotel|Les Escaldes|YES|stars_3
+42544|Montecarlo|Encamp|YES|stars_2
+42545|Guineu|Pas de la Casa|NO|stars_3
+42546|Coma|Ordino|YES|stars_3
+42547|Tulip Inn Andorra Delfos|Les Escaldes|YES|stars_4
+42550|Pere d'Urg|Encamp|YES|stars_3
+42551|Panorama|Les Escaldes|YES|stars_4
+42552|Comtes d'Urgell|Les Escaldes|YES|stars_3
+42553|Marco Polo|La Massana|YES|stars_3
+42554|Segle XX|Ransol|YES|stars_3
+42555|Els Cims|Pas de la Casa|YES|stars_3
+42557|Casa Vella|Ordino|YES|stars_3
+42558|Domus Selecta Hotel Del Pui|La Massana|YES|stars_4
+42559|Hotel Exe Prisma|Les Escaldes|YES|stars_4
+42560|Encamp|Encamp|YES|stars_3
+42561|Coray|Encamp|YES|stars_3
+42562|Oros|Encamp|YES|stars_3
+42563|Rutllan|La Massana|YES|stars_4
+42564|Solaris|Pas de la Casa|NO|stars_1
+42565|Himalaia Soldeu|Soldeu|YES|stars_4
+42566|Roc Blanc Andorra|Les Escaldes|YES|stars_4
+42567|Vall Ski|Soldeu|YES|stars_3
+42568|Sport Hotel Hermitage & Spa|Soldeu|YES|stars_5
+42569|Reial Pirineus|Pas de la Casa|YES|stars_4
+42570|Antic|Arans|YES|stars_2
+42571|Sant Eloi|Sant Juli? de L?ria|YES|stars_3
+42572|Eureka|Les Escaldes|YES|stars_4
+42573|Paris Londres|Les Escaldes|YES|stars_3
+42574|Kandahar|Pas de la Casa|YES|stars_4
+42575|Hotel del Clos|Soldeu|YES|stars_3
+42576|Domus Selecta Niunit|El Serrat|YES|stars_4
+42577|Montalari|Encamp|YES|stars_2
+42578|Confort Pas de la Casa|Pas de la Casa|YES|stars_2
+42579|Roc de Caldes|Les Escaldes|YES|stars_5
+42580|Grau Roig|Grau Roig|YES|stars_4
+42581|La Cabana|Ordino|YES|stars_3
+42582|Pic Maia|Pas de la Casa|YES|stars_2
+42583|Tropical|Les Escaldes|YES|stars_4
+42584|La Solana|Encamp|YES|stars_2
+42585|Guillem|Encamp|YES|stars_4
+42586|Austria|Soldeu|YES|stars_3
+42587|Him?laia Pas|Pas de la Casa|YES|stars_4
+42588|Refugi dels Isards|Pas de la Casa|YES|stars_3
+42589|Angel Blanc|Bordes de Envalira|YES|stars_3
+42590|Confort Soldeu|Soldeu|YES|stars_3
+42591|Catalunya|Pas de la Casa|NO|stars_3
+42592|Soldeu Maistre|Soldeu|YES|stars_3
+42593|Vilalta|Encamp|NO|stars_1
+42594|Aparthotel Shusski|Encamp|YES|stars_4
+42595|Font d'Argent|Pas de la Casa|YES|stars_4
+42596|Imperial|Sant Juli? de L?ria|YES|stars_4
+42597|Carlemany|Les Escaldes|YES|stars_4
+42599|Hotel Naudi|Soldeu|YES|stars_3
+42602|Parma|Pas de la Casa|NO|stars_3
+42603|Del Meligar|Encamp|YES|stars_3
+42605|Fenix|Les Escaldes|YES|stars_4
+42606|Bringu?|El Serrat|YES|stars_4
+42609|Ransol|Ransol|YES|stars_3
+42610|Boston|Ordino|YES|stars_4
+42611|Magic Pas|Pas de la Casa|YES|stars_4
+42612|Frontera Blanca|Pas de la Casa|YES|stars_2
+54577|Hesperia Andorra la Vella|Andorra La Vella|YES|stars_4
+57074|Cassany|Andorra La Vella|YES|stars_3
+57077|Font d'Argent|Canillo|YES|stars_4
+57078|Font|La Massana|YES|stars_2
+60320|abba Xalet Suites|La Massana|YES|stars_4
+61167|Alaska Aparthotel|Pas de la Casa|YES|stars_4
+62365|La Mola|Encamp|YES|stars_2
+71271|Magic La Massana|La Massana|YES|stars_4
+71272|Espel|Les Escaldes|YES|stars_3
+72139|Hotel del Tarter|El Tarter|YES|stars_3
+72140|Bonavida|Canillo|YES|stars_3
+72141|Metropolis|Les Escaldes|YES|stars_4
+73241|Sporting|Pas de la Casa|YES|stars_4
+77145|Ahotels Princep|Les Escaldes|YES|stars_4
+77146|Vip Plus|Encamp|YES|stars_3
+78267|Magic Ski|La Massana|YES|stars_4
+78268|Griu|Encamp|YES|stars_2
+78269|Tivoli|Andorra La Vella|YES|stars_3
+82685|Acta Florida|Andorra La Vella|YES|stars_3
+82686|Co-Princeps|Sant Juli? de L?ria|YES|stars_3
+85129|Comapedrosa|Arinsal|YES|stars_3
+85393|Solana de Ransol|Ransol|YES|stars_3
+97336|Chat|Pas de la Casa|YES|stars_2
+98272|Univers|Encamp|YES|stars_3
+100267|Cims Pas Estudios Turisticos|Pas de la Casa|YES|stars_2
+101447|L'Obaga Blanca|Canillo|YES|stars_4
+102600|Cristina|Pas de la Casa|YES|stars_3
+103477|Vita Arinsal|Arinsal|YES|stars_3
+110464|Gla? Soldeu 3000|Soldeu|YES|stars_2
+136338|Llop Gris|El Tarter|YES|stars_4
+140488|Pitiusa|Andorra La Vella|NO|stars_3
+140489|Servissim|Andorra La Vella|YES|stars_3
+140490|Erts|Arinsal|NO|stars_3
+140491|Marfany|Les Escaldes|YES|stars_3
+140492|Coma Bella|Sant Juli? de L?ria|YES|stars_3
+144367|Xalet Montana|Soldeu|YES|stars_3
+144368|Sant Bernat Apartments|Canillo|YES|stars_3
+144420|Starc|Andorra La Vella|NO|stars_5
+144422|Palarine Andorra|Arinsal|NO|stars_3
+144424|Casa Canut|Les Escaldes|NO|stars_5
+144425|Pol|Sant Juli? de L?ria|YES|stars_3
+144426|Folch Residencia|Sant Juli? de L?ria|YES|stars_3
+163439|El Xalet|El Tarter|YES|stars_2
+163440|Iglu|Grau Roig|YES|0
+163441|Palome|La Massana|YES|stars_4
+182786|Paradis Blanc|Pas de la Casa|YES|stars_2
+182787|Lake Placid|Pas de la Casa|YES|stars_2
+182788|Deusol|Vall d' Incles|YES|stars_2
+182898|Les Truites|Pas de la Casa|YES|stars_3
+182899|Parador Canaro|Soldeu|YES|stars_4
+202439|Sol i Muntanya|Encamp|YES|stars_3
+204863|Crest Pas Apartaments|Pas de la Casa|NO|stars_2
+204872|Sant Moritz Apartaments|Arinsal|NO|stars_3
+204916|Llemp?|Canillo|NO|stars_2
+207130|Central|Pas de la Casa|NO|stars_2
+207850|Crest|Arinsal|NO|stars_3
+213165|Les Closes|Les Escaldes|YES|stars_3
+214067|Hostel Micolau|Arinsal|NO|stars_2
+214755|Alfa|Encamp|NO|stars_2
+221156|Giberga Apartaments|L'Aldosa|NO|stars_3
+221164|La Neu Aparthotel|Llorts|NO|stars_3
+221736|Del Bisset|L'Aldosa|NO|stars_3
+222642|L'Ermita|Canillo|NO|stars_3
+226777|Peretol|Soldeu|YES|stars_3
+227352|Montane|Arinsal|YES|stars_3
+228250|Llac Negre|Pas de la Casa|YES|stars_2
+229264|Paris Encamp|Encamp|NO|stars_3
+229265|Sant Miquel|Ordino|NO|stars_3
+230187|K2 Apartaments|Pas de la Casa|NO|stars_2
+232177|Les 7 Claus|Les Escaldes|NO|stars_3
+232178|Husa Mola Park|Les Escaldes|NO|stars_4
+235308|Prats|Ordino|NO|stars_3
+235309|Santa B?rbara de la Vall d'Ordino|Ordino|NO|stars_3
+236608|Xixerella Park|Erts|YES|stars_2
+236958|Tristaina|Ordino|NO|stars_2
+239451|Apartaments Els Llacs|Les Escaldes|NO|stars_4
+239454|Arbre De Gel|Encamp|NO|stars_3
+239466|Petit|Pas de la Casa|NO|stars_3
+239472|Sol Park|Sant Juli? de L?ria|NO|stars_3
+240203|@Anem.com|La Cortinada|NO|stars_1
+245648|Mu Plaza|La Cortinada|NO|stars_4
+259391|Alberg la Comella|Andorra La Vella|NO|stars_1
+265792|Aparthotel Iceberg|Les Escaldes|NO|stars_3
+274514|Hotel Roc del Castell|Canillo|NO|stars_3
+274520|Aparthotel Rialb|El Serrat|YES|stars_3
+277124|Apartments La Neu II|Llorts|NO|stars_3
+297023|Ahotels Piolets|Soldeu|NO|stars_4
+299633|Galanthus|Soldeu|YES|stars_4

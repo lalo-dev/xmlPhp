@@ -1,0 +1,37 @@
+6997|Long Bay - geschlossen|St. John|YES|stars_4
+7411|Grand Pineapple Antigua|Dian Bay|YES|stars_3.5
+9135|Blue Waters Antigua|Soldier's Bay|YES|stars_4
+9756|Carlisle Bay|Carlisle Bay|YES|stars_5
+10560|Cocobay Resort|St. John|YES|stars_3
+11037|Curtain Bluff|Old Road|NO|stars_4
+13073|Galley Bay Resort|Galley Bay|YES|stars_4
+13867|Hawksbill by Rex Resorts|Hawksbill|YES|stars_3
+15121|Jumby Bay|Long Island|NO|stars_5
+20302|Blue Heron - geschlossen|St. John|YES|stars_3
+20304|Halcyon Cove by Rex Resorts|Dickenson Bay|YES|stars_3
+20661|Grand Royal Antiguan Beach Resort|Deep Bay|NO|stars_3
+21020|Sandals Grande Antigua Resort & Spa|Dickenson Bay|YES|stars_5
+22083|St. James's Club|Mamora Bay|YES|stars_4
+23153|Jolly Beach Resort & Spa|Jolly Beach|YES|stars_3
+24578|Coconut Beach Club|Hog John Bay|NO|stars_3
+38747|The Inn at English Harbour|St. John|NO|stars_4
+53007|Trade Winds|Dickenson Bay|NO|stars_3
+55533|Cocos Antigua|Valley Church|YES|stars_3
+61181|Anchorage Inn|St. John|YES|stars_3
+61186|The Ocean Inn|English Harbour|YES|stars_3
+64557|Dian Bay Resort & Spa - geschlossen|Dian Bay|YES|stars_3
+64642|Hermitage Bay Resort|Hermitage Bay|NO|stars_5
+76804|The Catamaran|Antigua|YES|stars_3
+76805|Heritage|St. John|YES|stars_2
+76806|Antigua Yacht Club Marina Resort|Falmouth Harbour|YES|stars_4
+76807|Serendipity Cottages|Freemans Village|YES|stars_3
+80278|Antigua Beachcomber|Antigua|YES|stars_3
+80711|Copper & Lumber Store|English Harbour|YES|stars_3
+90596|The Verandah|St. John|YES|stars_4
+95620|Yepton Estate Cottages|St. John|NO|stars_3
+126564|Tranquility Bay|Bolans|YES|stars_4
+203127|Sugar Ridge|Jolly Beach|YES|stars_4
+228140|Elle Colonna Resort & Spa - geschlossen|Hodges Bay|NO|stars_3.5
+237141|Nonsuch Bay Resort|St. Phillips|NO|stars_4
+254845|Keyonna Beach|St. John|NO|stars_3
+286504|Suite Serenade|St. John|YES|0
