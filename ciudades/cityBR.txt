@@ -1,0 +1,224 @@
+Alphaville
+Americana
+Amparo
+Angra dos Reis
+Aquiraz
+Aracaju
+Aracati
+Arapongas
+Araraquara
+Araxa
+Araçatuba
+Arembepe
+Arraial d'Ajuda
+Arraial do Cabo
+Atibaia
+Autazes
+Baia da Traicao
+Balneário Camboriú
+Barra Velha
+Barra de São Miguel
+Barreirinhas
+Barueri
+Bauru
+Beberibe
+Belem
+Belo Horizonte
+Bento Gonçalves
+Bertioga
+Betim
+Blumenau
+Boa Viagem
+Boa Vista
+Bombinhas
+Bonito
+Brasilia
+Brusque
+Buzios
+Cabo Frio
+Cabo de Santo Agostinho
+Caldas Novas
+Camaçari
+Campinas
+Campo Grande
+Campo Largo
+Campos do Jordão
+Campos dos Goytacazes
+Canasvieiras
+Canela
+Canoa Quebrada
+Canoas
+Caraguatatuba
+Cascavel
+Caucaia
+Caxias do Sul
+Chapecó
+Costa Verde
+Costa do Sauipe
+Cuiabá
+Cumbuco
+Curitiba
+Fernando de Noronha Island
+Flecheiras
+Florianopolis
+Fortaleza
+Foz do Iguaçu
+Franca
+Garopaba
+Goiânia
+Governador Celso Ramos
+Gramado
+Gravataí
+Gravatá
+Guarapari
+Guarapuava
+Guaratinguetá
+Guarujá
+Guarulhos
+Ilha Grande
+Ilha de Comandatuba
+Ilhabela
+Ilheus
+Imbassai
+Indaiatuba
+Ipatinga
+Ipojuca
+Itaboraí
+Itacaré
+Itajai
+Itaparica
+Itapema
+Itu
+Itupeva
+Jaboticatubas
+Jaguariúna
+Jaraguá do Sul
+Jarinu
+Jericoacoara
+Joinville
+João Pessoa
+Jundiaí
+Juquehy
+Lauro de Freitas
+Lençóis
+Limeira
+Linhares
+Lins
+Londrina
+Lucas do Rio Verde
+Macaé
+Maceio
+Mairinque
+Mairiporã
+Manaus
+Mangaratiba
+Mangue Seco
+Maragogi
+Marechal Deodoro
+Marilia
+Maringá
+Mato Grosso
+Medianeira
+Mogi das Cruzes
+Monte Verde
+Montes Claros
+Morro de São Paulo
+Mossoró
+Muro Alto
+Natal
+Niteroi
+Nova Iguaçu
+Nova Lima
+Novo Hamburgo
+Olimpia Sao Paulo
+Olinda
+Osasco
+Ouro Preto
+Palhoça
+Pantanal
+Parajuru
+Paraty
+Paripueira
+Passo Fundo
+Passos
+Paulista
+Pecem
+Peninsula de Maraú
+Petrolina
+Petrópolis
+Pipa Beach
+Piracicaba
+Pirassununga
+Poconé
+Ponta Grossa
+Ponta Negra
+Porto Alegre
+Porto Belo
+Porto Seguro
+Porto Velho
+Porto das Galinhas
+Poços de Caldas
+Prado
+Praia de Itacimirim
+Praia de Porto das Dunas
+Praia do Forte
+Praia do Preá
+Praia do Rosa
+Quatro Barras
+Recife
+Riacho Doce
+Ribeirão Preto
+Rio Negrinho
+Rio Verde
+Rio das Ostras
+Rio de Janeiro
+Rondonópolis
+Salvador da Bahia
+Santa Cruz Cabrália
+Santa Terezinha de Itaipu
+Santo André
+Santos
+Sao Jose
+Sao Paulo
+Saquarema
+Serra
+Serra Grande
+Sobral
+Sorocaba
+Soure
+Sumaré
+São Bento do Sul
+São Bernardo do Campo
+São Caetano do Sul
+São Carlos
+São Francisco do Sul
+São Gonçalo do Amarante
+São José do Rio Preto
+São José dos Campos
+São José dos Pinhais
+São Leopoldo
+São Luís
+São Miguel do Gostoso
+São Sebastião
+São Vicente
+Taguatinga
+Taiba
+Tamandare
+Tatajuba
+Taubate
+Teresina
+Teresópolis
+Teutônia
+Tibau do Sul
+Tijucas do Sul
+Tiradentes
+Torres
+Trancoso
+Três Lagoas
+Ubatuba
+Uberaba
+Uberlândia
+Varginha
+Vila Velha
+Vitória
+Águas de Lindóia

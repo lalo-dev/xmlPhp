@@ -1,5 +1,5 @@
 <?php    
-  $id    = strtolower($_POST['country']);
+  $id    = $_POST['country'];
   //$id    = strtolower('DE');
   $city  = $_POST['city'];
   $hotel = $_POST['hotel'];

@@ -1,0 +1,345 @@
+
+Aarau
+Abtwil
+Adelboden
+Agarn
+Airolo
+Albinen
+Alpnachstad
+Altstätten
+Andermatt
+Anzére
+Appenzell
+Arbon
+Ardez
+Arlesheim
+Arosa
+Ascona
+Baar
+Bad Ragaz
+Bad Schwarzsee
+Bad Scuol / Scuol/ Schuls
+Bad Zurzach
+Baden
+Bagnes
+Basel
+Beatenberg
+Beckenried
+Bedretto
+Bellinzona
+Bellwald
+Bern
+Bettmeralp
+Bex
+Biasca
+Biel
+Binningen
+Birsfelden
+Bissone
+Bivio
+Blatten
+Bourg-Saint-Pierre
+Bregaglia
+Breiten bie Mörel
+Brienz
+Brig
+Brigels
+Brione
+Brissago
+Brunnen
+Brusino Arsizio
+Brülisau
+Bulle
+Buochs
+Bussigny
+Bürchen
+Cademario
+Capolago
+Carona
+Caslano
+Celerina
+Cham
+Champery
+Champex
+Champoussin
+Charmey
+Chavannes-de-Bogis
+Chur
+Churwalden
+Cointrin
+Collina d'Oro
+Couvet
+Crans Montana
+Cully
+Cunter
+Davos
+Davos-Dorf
+Davos-Platz
+Delemont
+Delley-Portalban
+Dietikon
+Disentis
+Dübendorf
+Ebnat-Kappel
+Egerkingen
+Eich
+Einsiedeln
+Elm
+Engelberg
+Ennetbürgen
+Eptingen
+Faulensee
+Feldis
+Feusisberg
+Fiesch
+Fieschertal
+Flims
+Flüeli-Ranft
+Flühli
+Fribourg
+Frutigen
+Ftan
+Geneva
+Geroldswil
+Gersau
+Giswil
+Givisiez
+Glattbrugg
+Gluringen
+Goldswil bei Interlaken
+Gottlieben
+Grandvaux
+Granges-Paccot
+Grenchen
+Grimentz
+Grindelwald
+Grächen
+Grüsch
+Gstaad
+Gstaad Saanen
+Guarda
+Güttingen
+Hasliberg
+Haut - Nendaz
+Heiden
+Heiligenschwendi
+Hergiswil
+Hilterfingen
+Hondrich
+Horgen
+Horn
+Ilanz
+Interlaken
+Iseltwald
+Jenaz
+Jongny
+Kandersteg
+Kerns
+Kippel
+Klosters
+Kloten
+Konolfingen
+Kreuzlingen
+Kriens
+Küsnacht
+Küssnacht
+L'Abbaye
+La Chaux-de-Fonds
+La Rösa
+La Tour-de-Peilz
+La Tour-de-Trême
+Laax
+Lauenen
+Lausanne
+Lauterbrunnen
+Le Chenit
+Le Grand-Saconnex
+Le Locle
+Le Pâquier
+Lenk
+Lens VS
+Lenzerheide
+Les Diablerets
+Les Marécottes
+Les Mosses
+Leukerbad
+Leysin
+Lipperswil
+Locarno
+Locarno Brione s.Minusio
+Losone
+Lucerne
+Lugano
+Lully
+Lutry
+Magadino
+Maienfeld
+Maloja
+Maroggia
+Martigny
+Matten bei Interlaken
+Medels
+Meiringen
+Melchsee-Frutt
+Melide
+Mendrisio
+Merligen
+Merlingen
+Minusio
+Mont Pelerin
+Montreux
+Morges
+Morgins
+Morschach
+Moutier
+Muralto-Lacarno
+Muri bei Bern
+Murten
+Münchwilen
+Münster VS
+Mürren
+Müstair
+Naters
+Nendaz
+Nesslau
+Neuchâtel
+Neuhausen am Rheinfall
+Nottwil
+Nyon
+Oberentfelden
+Obergesteln
+Oberhofen
+Oberwald
+Olten
+Opfikon
+Orselina
+Ovronnaz
+Paradiso
+Parpan
+Passugg
+Perlen
+Pfäffikon ZH
+Ponte Tresa
+Pontresina
+Poschiavo
+Prangins
+Pratteln
+Ramsen SH
+Randa
+Randogne
+Rapperswil
+Regensdorf
+Rheinfelden
+Riddes
+Riederalp
+Rigi-Kaltbad-First
+Ringgenberg
+Romanshorn
+Ronco sopra Ascona
+Rorschach
+Rorschacherberg
+Rothenburg
+Rotkreuz
+Rovio
+Rüschlikon
+Saanenmöser
+Saas-Almagell
+Saas-Balen
+Saas-Fee
+Saas-Grund
+Sachseln
+Saint-Sulpice
+Samedan
+Samnaun
+San Bernardino
+Sargans
+Sarnen
+Satigny
+Savognin
+Schaffhausen
+Schangnau
+Schlieren
+Schönried
+Sedrun
+Seelisberg
+Serpiano
+Sessa
+Siders
+Sils-Maria
+Silvaplana
+Sion
+Siviez
+Solothurn
+Speicher
+Spiez
+Spreitenbach
+St. Antönien
+St. Gallen
+St. Luc
+St. Moritz
+Staad SG
+Ste Croix
+Stein am Rhein
+Stoos
+Suhr
+Surcuolm
+Sursee
+Sörenberg
+Tarasp
+Teufen
+Thalwil
+Thun
+Tiefencastel
+Torgon
+Tschappina
+Twann
+Täsch
+Ulrichen
+Unteriberg
+Unterterzen
+Unterwasser
+Unterägeri
+Uster
+Uzwil
+Vacallo
+Vairano
+Val d'Illiez
+Valbella
+Verbier
+Vercorin
+Vernayaz
+Versoix
+Vevey
+Veysonnaz
+Vico Morcote
+Villars / Ollon
+Villeneuve
+Villmergen
+Visp
+Vitznau
+Vogorno
+Vue-des-Alpes
+Vulpera
+Wald
+Walenstadt
+Walzenhausen
+Wartau
+Weggis
+Weissbad
+Welschenrohr
+Wengen
+Wetzikon
+Widnau
+Wilderswil
+Wildhaus
+Wiler-Lötschen
+Winterthur
+Wädenswil
+Yverdon-les-Bains
+Zermatt
+Zernez
+Zizers
+Zug
+Zuos
+Zurich
+Zweisimmen

@@ -8,7 +8,7 @@
   echo '<option value="0">City option</option>';
 
   foreach($lines as $line){
-    echo  '<option value="'.$line.'">'.$line.'</option>';
+    echo  '<option value="'.utf8_encode($line).'">'.utf8_encode($line).'</option>';
   }
 
 ?>

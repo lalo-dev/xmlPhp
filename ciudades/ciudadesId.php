@@ -27,76 +27,6 @@ function curl_get($url, array $get = NULL, array $options = array()) {
 }
 
 $countrys =  array(
-              'AD' => 'Andorra',
-              'AE' => 'United Arab Emirates',
-              'AF' => 'Afghanistan',
-              'AG' => 'Antigua and Barbuda',
-              'AI' => 'Anguilla',
-              'AL' => 'Albania',
-              'AM' => 'Armenia',
-              'AR' => 'Argentina',
-              'AS' => 'American Samoa',
-              'AT' => 'Austria',
-              'AU' => 'Australia',
-              'AW' => 'Aruba',
-              'AZ' => 'Azerbaijan',
-              'BA' => 'Bosnia and Herzegovina',
-              'BB' => 'Barbados',
-              'BD' => 'Bangladesh',
-              'BE' => 'Belgium',
-              'BF' => 'Burkina Faso',
-              'BG' => 'Bulgaria',
-              'BH' => 'Bahrain',
-              'BJ' => 'Benin',
-              'BM' => 'Bermuda',
-              'BN' => 'Brunei Darrussalam',
-              'BO' => 'Bolivia',
-              'BR' => 'Brazil',
-              'BS' => 'Bahamas',
-              'BT' => 'Bhutan',
-              'BW' => 'Botswana',
-              'BY' => 'Belarus',
-              'BZ' => 'Belize',
-              'CA' => 'Canada',
-              'CD' => 'Congo, Democratic PeopleÕs Republic',
-              'CG' => 'Congo, Republic of',
-              'CH' => 'Switzerland',
-              'CI' => 'Cote dÕIvoire',
-              'CK' => 'Cook Islands',
-              'CL' => 'Chile',
-              'CM' => 'Cameroon',
-              'CN' => 'China',
-              'CO' => 'Colombia',
-              'CR' => 'Costa Rica',
-              'CU' => 'Cuba',
-              'CV' => 'Cap Verde',
-              'CY' => 'Cyprus Island',
-              'CZ' => 'Czech Republic',
-              'DE' => 'Germany',
-              'DJ' => 'Djibouti',
-              'DK' => 'Denmark',
-              'DM' => 'Dominica',
-              'DO' => 'Dominican Republic',
-              'DZ' => 'Algeria',
-              'EC' => 'Ecuador',
-              'EE' => 'Estonia',
-              'EG' => 'Egypt',
-              'ES' => 'Spain',
-              'ET' => 'Ethiopia',
-              'FI' => 'Finland',
-              'FJ' => 'Fiji',
-              'FM' => 'Micronesia, Federal State of',
-              'FR' => 'France',
-              'GA' => 'Gabon',
-              'GB' => 'United Kingdom (GB)',
-              'GD' => 'Grenada',
-              'GE' => 'Georgia',
-              'GF' => 'French Guiana',
-              'GH' => 'Ghana',
-              'GI' => 'Gibraltar',
-              'GL' => 'Greenland',
-              'GM' => 'Gambia',
-              'GP' => 'Guadeloupe',
               'GR' => 'Greece',
               'GT' => 'Guatemala',
               'GU' => 'Guam',
@@ -148,7 +78,6 @@ $countrys =  array(
               'MU' => 'Mauritius',
               'MV' => 'Maldives',
               'MW' => 'Malawi',
-              'MX' => 'México',
               'MY' => 'Malaysia',
               'MZ' => 'Mozambique',
               'NA' => 'Namibia',
@@ -216,61 +145,62 @@ $countrys =  array(
               'ZW' => 'Zimbabwe'
           );
 
+$micontador = 0;
 
+foreach ($countrys as $key => $value) {
+    // if ($micontador == 1) {
+    //     exit();
+    // }
+    $citys = '';
 
-// Establecer el tipo de contenido
-//header('Content-type: application/xml');
-$url = "http://de|travelgroup24.com:7ykKY5BR@ghgml.giatamedia.com/webservice/rest/1.0/items/?country=AF";
-
+    $url      = "http://de|travelgroup24.com:7ykKY5BR@ghgml.giatamedia.com/webservice/rest/1.0/items/?country=".$key;
     
-//obtener el xml usarndo curl y simplexml
-$res = curl_get($url, array());
-$object = simplexml_load_string($res);
+    //obtener el xml usarndo curl y simplexml
+    $res      = curl_get($url, array());
+    $object   = simplexml_load_string($res);
+    $fileName = 'city'.$key.'.txt';
+    
+    $file     =fopen($fileName,"a") or die("Problemas");
 
+    foreach ($object->items->item as $item) {
+        //if ($item['giataId'] > 168409) {
+            $link          = $item->attributes( 'xlink', true);
+            //echo $link;
+            $url           = explode("ghgml",$link['href']);
+            $url           = $url[0]."de|travelgroup24.com:7ykKY5BR@ghgml".$url[1];
+            
+            $res2          = curl_get($url, array());
+            $hotel         = simplexml_load_string($res2);
+            
+            //$textoAgregado =  $item['giataId'].'|'.utf8_decode($hotel->item->city);
 
-foreach ($object->items->item as $item) {
-    $classImage = 'NO';
-    $classCategory = '0';
-    //if ($item['giataId'] > 52855) {
-        $link    = $item->attributes( 'xlink', true);
-        //echo $link;
-        $url     = explode("ghgml",$link['href']);
-        $url     = $url[0]."de|travelgroup24.com:7ykKY5BR@ghgml".$url[1];
-        
-        $res2     = curl_get($url, array());
-        $hotel   = simplexml_load_string($res2);
-        if ($hotel->item->images) {
-            $classImage = 'YES';
-        }
+            //echo $item['giataId'].'|'.$hotel->item->city;
+            //echo '<br>';
 
-        $url2 = "http://de|travelgroup24.com:7ykKY5BR@ghgml.giatamedia.com/webservice/rest/1.0/factsheets/".$item['giataId'];
-        $res3 = curl_get($url2, array());
-        $fact = simplexml_load_string($res3);
+            $citys[] = utf8_decode($hotel->item->city);
+            //echo utf8_decode($hotel->item->city);
+            //echo '<br>';
 
-        if ($fact->code == '404') {
-            $classCategory = '0';
-        } else {
-            foreach ($fact->item->factsheet->sections->section as $section) {
-                switch ($section['name']) {
-                    case 'category':
-                        foreach ($section->facts->fact as $fact) {
-                            switch ($fact['id']) {
-                                case '16':
-                                    $classCategory = 'stars_'.$fact->value;
-                                    break;
+            //fputs($file,$textoAgregado);
+            //fputs($file,"\n");
+        //}    
+    }
 
-                                default:
-                                    # code...
-                                    break;
-                            }
-                        }
-                    break;
-                }
-            }
-        }
-        
-        echo $item['giataId'].'|'.utf8_decode($hotel->item->name).'|'.utf8_decode($hotel->item->city).'|'.$classImage.'|'.$classCategory.'<br/>';
-    //}    
+    $citys = array_unique($citys);
+    asort($citys);
+
+    //print_r($citys);
+
+    foreach ($citys as $cityOk) {
+      fputs($file,$cityOk);
+      fputs($file,"\n");
+      //echo $cityOk;
+      //echo '<br>';
+    }
+
+    //fclose($file);
+
+     //$micontador++;
 }
 
 ?>
