@@ -1,0 +1,19 @@
+16399|Little Dix Bay|Virgin Gorda|NO|stars_5
+16452|Long Bay Beach Resort & Villas|Long Bay Beach|YES|stars_3
+18982|Peter Island Resort|Tortola|YES|stars_4
+23011|The Sugar Mill|Apple Bay|YES|stars_4
+27352|Lambert Beach Resort|Lambert Bay|NO|stars_3.5
+27353|Prospect Reef Resort|Road Town|YES|stars_3
+51760|Biras Creek|Virgin Gorda|NO|stars_4
+66200|Sebastians on The Beach|Road Town|NO|stars_3
+76395|Fort Recovery|Tortola|YES|stars_3
+76396|Bitter End Yacht Club|Virgin Gorda|YES|stars_4
+90575|Mango Bay Resort|Virgin Gorda|NO|stars_4
+163113|Nail Bay Resort|Virgin Gorda|NO|stars_3.5
+163114|Nanny Cay Resort Marina|Tortola|YES|0
+163115|Scrub Island Resort|Tortola|NO|stars_5
+182807|Guana Island|Guana Island|NO|stars_4
+247751|Gordian Terrace|Virgin Gorda|NO|stars_3.5
+252671|Anegada Reef|Anegada Island|NO|stars_3
+261039|Frenchman's Cay Resort|Tortola|NO|stars_4
+407282|Surfsong Villa Resort|Tortola|NO|stars_4.5

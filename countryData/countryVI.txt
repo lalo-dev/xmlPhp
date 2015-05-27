@@ -1,0 +1,39 @@
+22699|The Buccaneer|Gallows Bay|NO|stars_4
+22972|The Ritz-Carlton St. Thomas|Great Bay|NO|stars_5
+23063|The Westin St. John Resort & Villas|Great Cruz Bay|YES|stars_4
+27354|Caneel Bay|Saint John|NO|stars_4.5
+27355|Sugar Bay Resort & Spa|St. Thomas|NO|stars_4
+47972|Sapphire Beach Resort & Marina|St. Thomas|NO|stars_3
+53019|Club St. Croix Beach & Tennis|Saint Croix|YES|stars_3
+53020|Colony Cove Beach & Tennis Resort|Saint Croix|YES|stars_3
+53022|Frenchman's Reef & Morning Star Marriott Beach Resort|St. Thomas|YES|stars_4
+53024|Best Western Plus Emerald Beach Resort|St. Thomas|NO|stars_3.5
+53025|Bolongo Bay Beach Club|St. Thomas|YES|stars_3
+73633|Divi Carina Bay Resort & Casino|Saint Croix|NO|stars_3
+77524|Secret Harbour Beach Resort|St. Thomas|NO|stars_3
+88003|Carambola Beach Resort|Saint Croix|YES|stars_4
+88129|Chenay Bay Beach Resort|Saint Croix|NO|stars_3
+88978|Bluebeard's Castle|St. Thomas|NO|stars_3
+94426|Windward Passage|St. Thomas|NO|stars_3
+137423|Best Western Carib Beach Resort|St. Thomas|NO|stars_3
+138880|Elysian Beach Resort|St. Thomas|YES|0
+163121|Sugar Beach Condo Resort|Saint Croix|NO|stars_3
+163123|Sapphire Village|St. Thomas|NO|stars_3
+163124|Crystal Cove Beach Resort by Antilles Resorts|St. Thomas|NO|stars_3
+163125|Pavilions & Pools|St. Thomas|NO|stars_3
+163126|Point Pleasant Resort|St. Thomas|NO|stars_3
+163130|Club Comanche|Saint Croix|NO|stars_3
+163131|On the Cay|Saint Croix|YES|stars_3
+187500|Sand Castle On The Beach|Saint Croix|NO|stars_3
+187673|Gallows Point Resort|Saint John|YES|0
+187732|Maho Bay Camps - geschlossen|Saint John|NO|stars_3
+232208|Company House|Gallows Bay|NO|stars_3
+232209|King Christian|Gallows Bay|NO|stars_3
+232210|Arawak Bay|Saint Croix|NO|stars_2
+232969|The Inn At Villa Olga|Charlotte Amalie|NO|stars_2.5
+242893|Sunset Gardens|St. Thomas|NO|stars_3
+247753|Sea Shore Allure|Saint John|NO|stars_4
+261035|Cottages by the Sea|Gallows Bay|NO|stars_3
+310866|Sapphire Beach Condominium Resort|St. Thomas|YES|0
+365439|Secret Gardens|St. Thomas|YES|0
+414167|Dreams Sugar Bay|Water Bay|NO|stars_4.5

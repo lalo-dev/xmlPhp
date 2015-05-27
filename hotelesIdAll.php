@@ -7,7 +7,7 @@
  * @return string
  */
 
-ini_set('max_execution_time', 3000); //300 seconds = 5 minutes
+ini_set('max_execution_time', 6000); //300 seconds = 5 minutes
 
 function curl_get($url, array $get = NULL, array $options = array()) {
     $defaults = array(
@@ -234,6 +234,7 @@ $object = simplexml_load_string($res);
 
 
 $strTxt = "";
+$saltoLinea="\r\n";
 
 foreach ($object->items->item as $item) {
     $classImage = 'NO';
@@ -279,7 +280,8 @@ foreach ($object->items->item as $item) {
         echo $item['giataId'].'|'.utf8_decode($hotel->item->name).'|'.utf8_decode($hotel->item->city).'|'.$classImage.'|'.$classCategory.'<br/>';
 
         $strTxt .= $item['giataId'].'|'.utf8_decode($hotel->item->name).'|'.utf8_decode($hotel->item->city).'|'.$classImage.'|'.$classCategory;
-        $strTxt .= "\n";
+        $strTxt .= $saltoLinea;
+        //$strTxt .= "\n";
     //}    
 }
 

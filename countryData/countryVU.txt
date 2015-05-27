@@ -1,0 +1,5 @@
+53015|Holiday Inn Resort Vanuatu|Port Vila|NO|stars_4
+53017|Iririki Island Resort|Iririki|NO|stars_4
+137817|White Grass Ocean Resort|Tanna Island|NO|stars_3
+138345|Coconut Palms|Port Vila|NO|stars_3
+245467|The Havannah|Port Vila|NO|stars_5

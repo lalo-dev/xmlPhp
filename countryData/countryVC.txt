@@ -1,0 +1,11 @@
+8810|Bequia Beach Club|Bequia|NO|stars_4.5
+10912|Cotton House|Mustique|NO|stars_5
+22709|Canouan Island|Canouan|NO|stars_5
+41725|Petit St. Vincent|St. Vincent|NO|stars_5
+48033|Palm Island Resort The Grenadines|Palm Island|NO|stars_4
+68934|Young Island|Young Island|NO|stars_4
+69572|Tamarind Beach|Canouan|YES|stars_4
+111078|Sunset Shores Beach|Kingstown|YES|0
+238156|Buccament Bay Resort|St. Vincent|NO|stars_5
+292621|Bequia Beachfront Villas|Bequia|YES|stars_3.5
+412170|Sugar Reef Bequia|Bequia|YES|0

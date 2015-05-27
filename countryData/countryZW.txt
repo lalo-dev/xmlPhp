@@ -1,0 +1,30 @@
+26270|A'Zambezi River Lodge|Victoria Falls|NO|stars_4.5
+27726|The Victoria Falls|Victoria Falls|NO|stars_5
+27727|The Kingdom at Victoria Falls|Victoria Falls|NO|stars_3.5
+27728|Rainbow|Victoria Falls|NO|stars_3
+27847|Victoria Falls Safari Lodge|Victoria Falls|YES|stars_4
+46627|Sikumi Tree Lodge|Hwange National Park|NO|stars_3
+46629|Hwange Safari Lodge|Hwange National Park|NO|stars_3
+46632|Meikles|Harare|NO|stars_5
+46633|Crowne Plaza Harare-Monomotapa|Harare|NO|stars_3.5
+46634|The Elephant Camp|Victoria Falls|NO|stars_5
+46635|Ilala Lodge|Victoria Falls|NO|stars_4
+46637|Elephant Hills Inter-Continental Victoria Falls|Victoria Falls|NO|stars_4
+76495|Drifters Victoria Falls Lodge|Victoria Falls|NO|stars_2.5
+105560|Bulawayo Rainbow|Bulawayo|NO|stars_3
+108146|Kadoma Hotel & Conference Center|Kadoma|NO|stars_3
+109224|New Ambassador Harare|Harare|NO|stars_3
+109546|Singita Pamushana Lodge|Malilangwe Wildlife Reserve|NO|stars_5
+138516|Rainbow Towers|Harare|NO|stars_5
+201998|Bronte|Harare|NO|stars_4
+202005|Matobo Hills Lodge|Matobo National Park|NO|stars_4
+203030|Caribbea Bay|Kariba|NO|stars_3
+203031|Great Zimbabwe|Masvingo|NO|stars_3.5
+235383|Troutbeck Resort|Nyanga-Nationalpark|NO|stars_3
+235384|Holiday Inn Harare|Harare|NO|stars_3
+235385|African Sun Amber|Mutare|NO|stars_3
+235386|Holiday Inn Bulawayo|Bulawayo|NO|stars_4
+235387|Beitbridge Express|Beitbridge|NO|stars_2
+237182|Harare Safari Lodge|Harare|NO|stars_4
+286102|Gorges Lodge|Victoria Falls|NO|stars_3
+400823|Cresta Lodge Harare|Harare|YES|0

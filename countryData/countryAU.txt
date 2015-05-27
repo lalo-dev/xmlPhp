@@ -1,0 +1,3059 @@
+7190|Holiday Inn Airport Sydney|Sydney|NO|stars_4
+7371|Chifley Alice Springs Resort|Alice Springs|YES|stars_4
+7372|Alice in the Territory|Alice Springs|NO|stars_3
+7390|Adelaide Meridien Hotel & Apartments|Adelaide|YES|stars_3
+7391|The Crossley|Melbourne|YES|stars_4
+7393|Quality Frontier Darwin|Darwin|NO|stars_3
+7394|Ibis Styles Katherine|Katherine|NO|stars_3
+7398|Mercure Welcome Melbourne|Melbourne|YES|stars_3
+7701|Shangri-La Sydney|Sydney|YES|stars_5
+7766|Angsana Resort & Spa|Palm Cove|YES|stars_5
+8325|Aurora Kakadu|Kakadu National Park|NO|stars_3
+8577|Novotel Barossa Valley Resort|Barossa Valley|YES|stars_4
+8695|Comfort Inn Bel Eyre Perth|Perth|NO|stars_3
+9133|Blue Stone Motor Inn|Tennant Creek|NO|stars_3
+9416|Cable Beach Club Resort & Spa|Broome|YES|stars_5
+9441|Pullman Cairns International|Cairns|YES|stars_5
+9516|Cambridge Hotel|Sydney|YES|stars_4
+9763|DoubleTree by Hilton Esplanade Darwin|Darwin|YES|stars_4
+10327|Chateau Yering Historic House|Yarra Valley|YES|stars_5
+10551|Best Western Coachman's Rest Motor Inn|Eden|NO|stars_3
+10592|Comfort Inn Country Plaza|Halls Gap|NO|stars_3
+10731|The Continental|Philipp Island|NO|stars_3.5
+10788|Coral Sea Resort|Airlie Beach|YES|stars_4
+10922|Rydges Gladstone|Gladstone|YES|stars_4
+10928|Ramada Couran Cove Island Resort|Stradbroke Island|YES|stars_4
+10984|Club Croc Hotel Airlie Beach|Airlie Beach|YES|stars_3
+10992|Crown Promenade|Melbourne|YES|stars_4
+11029|Cumberland Resort|Lorne|NO|stars_4
+11421|Desert Cave|Coober Pedy|YES|stars_4
+11422|Desert Gardens a member of Novotel Hotels|Ayers Rock|YES|stars_4
+11423|Desert Palms Resort|Alice Springs|YES|stars_3
+11508|BreakFree Directors Studios|Adelaide|NO|stars_3
+11592|Monkey Mia Dolphin|Monkey Mia|NO|stars_3
+11816|Dunk Island Resort - geschlossen|Dunk Island|YES|stars_4
+11828|Duxton Perth|Perth|YES|stars_5
+12035|Eldorado Motor Inn|Tennant Creek|NO|stars_3
+12128|Emu Walk Apartments a member of Grand Mercure Apartments|Ayers Rock|YES|stars_3.5
+12748|Fire Station Inn|Adelaide|NO|stars_3.5
+12900|Four Points Darling Harbour|Sydney|YES|stars_4
+12953|Fox & Hounds Inn|Port  Arthur|NO|stars_3
+12975|Franklin Manor|Strahan|NO|stars_3
+12984|Esplanade|Fremantle|YES|stars_4
+13047|Mercure Kakadu Crocodile Hotel|Jabiru|NO|stars_4
+13154|Quality Gateway|Devenport|YES|stars_4
+13245|Glen Helen Resort / Homestead|Glen Helen|NO|stars_2
+13479|Grand Hyatt Melbourne|Melbourne|YES|stars_5
+13755|Hamilton Island Resort - Reef View / Beach Club / Palm Bungalows / Whitsunday|Hamilton Island|NO|stars_3
+13791|Harbour Rocks Hotel Sydney - MGallery Collection|Sydney|YES|stars_4
+13870|One & Only Hayman Island|Hayman Island|YES|stars_5
+13977|Hilton Adelaide|Adelaide|NO|stars_5
+13982|Hilton Brisbane|Brisbane|NO|stars_5
+14016|Pullman Melbourne On The Park|Melbourne|NO|stars_5
+14139|DoubleTree by Hilton Hotel Cairns|Cairns|YES|stars_4
+14392|Best Western Hospitality Inn Carnarvon|Carnarvon|NO|stars_3
+14393|Best Western Hospitality Inn Esperance|Esperance|NO|stars_3
+14471|Hunter Resort|Hunter Valley|NO|stars_4
+14480|Hyatt Canberra|Canberra|NO|stars_5
+14490|Hyatt Regency Perth|Perth|NO|stars_5
+14498|Palmer Coolum Resort|Sunshine Coast|YES|stars_5
+14519|Oaks Hyde Park Plaza|Sydney|YES|stars_4
+14564|Ibis Brisbane|Brisbane|YES|stars_3
+14583|Ibis Darling Harbour|Sydney|YES|stars_3
+14600|Ibis World Square|Sydney|YES|stars_3
+14604|Ibis Melbourne|Melbourne|YES|stars_3
+14832|Intercontinental Sydney|Sydney|YES|stars_5
+15130|Jupiters Townsville Hotel & Casino|Townsville|NO|stars_4
+15177|Kalbarri Beach Resort|Kalbarri|NO|stars_4
+15251|Karri Valley Resort|Pemberton|NO|stars_3
+15353|Kewarra Beach Resort & Spa|Kewarra Beach|NO|stars_4
+15371|Kimberley Halls Creek|Halls Creek|YES|stars_3
+15481|Kondari Resort|Hervey Bay|YES|stars_4
+16017|Lasseters Casino|Alice Springs|YES|stars_4
+16091|Intercontinental Melbourne The Rialto|Melbourne|YES|stars_5
+16216|Lenna of Hobart|Hobart|NO|stars_4
+16350|Lilianfels Blue Mountains Resort & Spa|Blue Mountains|YES|stars_5
+16406|Lizard Island Resort|Lizard Island|NO|stars_5
+16459|Lord Byron Resort|Byron Bay|NO|stars_3.5
+16672|Magnolia Court Boutique|Melbourne|NO|stars_3
+17310|Mercure Brisbane|Brisbane|YES|stars_4
+17312|Mercure Harbourside|Cairns|YES|stars_4
+17313|Mercure Perth|Perth|YES|stars_4
+17314|Ibis Styles Kalgoorlie|Kalgoorlie|YES|stars_4
+17315|Mercure Sydney|Sydney|YES|stars_4
+17316|Ibis Styles Mount Isa Verona|Mount Isa|NO|stars_3.5
+17320|Ibis Styles Kununurra|Kununurra|NO|stars_3
+17321|Tom Price Motel|Tom Price|NO|stars_2
+17322|Mercure Townsville|Townsville|NO|stars_4
+17323|Mercure Broome|Broome|YES|stars_4
+17324|Ibis Styles Geraldton|Geraldton|NO|stars_3
+17325|Ibis Styles Port Hedland|Port Hedland|NO|stars_3
+17541|Travelodge Mirambeena Resort|Darwin|YES|stars_4
+17755|Mounts Bay Waters Apartment|Perth|YES|stars_4
+17997|Ningaloo Reef Resort|Coral Bay|NO|stars_3
+18072|Novotel Brisbane|Brisbane|YES|stars_4
+18092|Novotel Perth Langley|Perth|YES|stars_4
+18102|Novotel Melbourne on Collins|Melbourne|YES|stars_4
+18103|Opal Cove Resort|Coffs Harbour|NO|stars_4
+18105|Hotel Grand Chancellor Palm Cove|Palm Cove|YES|stars_4
+18116|Novotel Melbourne St Kilda|Melbourne|YES|stars_4
+18118|Novotel Sydney on Darling Harbour|Sydney|NO|stars_4
+18254|Holiday Inn Old Sydney|Sydney|YES|stars_4
+18324|Opal Inn|Coober Pedy|YES|stars_3
+18416|Outback Pioneer a member of ibis Styles|Ayers Rock|YES|stars_3
+18432|Aurora Ozone|Kangaroo Island|NO|stars_3.5
+18440|Pacific International|Cairns|YES|stars_4
+18535|Palm Royale|Cairns|YES|stars_4
+18781|Park Hyatt Sydney|Sydney|YES|stars_5
+18783|Park Hyatt Melbourne|Melbourne|YES|stars_5
+18931|Leisure Inn Penny Royal Hotel & Apartments|Launceston|YES|stars_3
+18944|Anchorage Port Stephens|Port Stephens|YES|stars_4
+18946|Peppers Guest House|Hunter Valley|YES|stars_5
+19080|Best Western Pine Tree Motel|Katherine|NO|stars_3
+19364|Potshot|Exmouth|NO|stars_3
+19365|Holiday Inn Potts Point|Sydney|YES|stars_4
+19451|Ibis Perth|Perth|NO|stars_3
+19633|Pullman Quay Grand Sydney Harbour|Sydney|YES|stars_5
+19634|Quay West Suites Brisbane|Brisbane|YES|stars_5
+19772|The Playford Adelaide, a member of the MGallery Collection|Adelaide|YES|stars_5
+19773|Radisson Blu Plaza Hotel Sydney|Sydney|YES|stars_5
+19820|Ramada Resort Port Douglas|Port Douglas|YES|stars_4
+19993|Pullman Reef Casino|Cairns|NO|stars_5
+20344|Ibis Styles Cairns Colonial Club|Cairns|YES|stars_4
+20785|Mercure Capricorn Resort Yeppoon|Yeppoon|NO|stars_4
+20786|Rydges Hobart|Hobart|YES|stars_4
+20788|Rydges Perth|Perth|YES|stars_4
+20789|DoubleTree by Hilton Hotel Alice Springs|Alice Springs|YES|stars_4
+20790|Rydges South Bank Brisbane|Brisbane|YES|stars_4
+20865|Ayers Rock Resort - Sails in the Desert|Ayers Rock|YES|stars_5
+21162|Mantra on Hay|Perth|YES|stars_4
+21163|Mantra on the Esplanade|Darwin|YES|stars_4
+21164|BreakFree Adelaide|Adelaide|YES|stars_4
+21165|Mantra on Northbourne|Canberra|YES|stars_4
+21325|Seagulls Resort on the Seafront|Townsville|NO|stars_4
+21500|Pan Pacific Perth|Perth|YES|stars_5
+21552|Sheraton Mirage Port Douglas|Port Douglas|YES|stars_5
+21566|Sheraton on the Park|Sydney|YES|stars_5
+21591|The Langham Melbourne|Melbourne|YES|stars_5
+21659|Comfort Inn Silver Birch Motor Inn|Mount Gambier|YES|stars_3
+21811|Sofitel Melbourne on Collins|Melbourne|YES|stars_5
+22121|Stamford Plaza|Brisbane|YES|stars_5
+22233|Strahan Village|Strahan|NO|stars_3.5
+22444|Swiss-Grand Resort & Spa Bondi Beach|Sydney|YES|stars_4
+22518|Tall Timbers|Smithton|NO|stars_4
+22637|Aurora|Alice Springs|NO|stars_3.5
+22638|Territory Manor|Mataranka|NO|stars_3
+22645|Thala Beach Nature Reserve|Port Douglas|NO|stars_5
+22681|Rydges World Square|Sydney|YES|stars_4
+22772|The Grace|Sydney|YES|stars_4
+22800|The Elandra Mission Beach|Mission Beach|YES|stars_4
+22805|Inchcolm Brisbane|Brisbane|YES|stars_4
+22874|Novotel Cairns Oasis Resort|Cairns|YES|stars_4
+22879|The Langham Sydney|Sydney|YES|stars_5
+22884|The Old Woolstore|Hobart|YES|stars_4
+22941|Cairns Queenslander Hotel & Apartments|Cairns|YES|stars_3.5
+23054|The Westin Melbourne|Melbourne|YES|stars_5
+23066|The Westin Sydney|Sydney|YES|stars_5
+23076|The Windsor|Melbourne|YES|stars_5
+23682|Victoria Court|Sydney|NO|stars_3.5
+24388|West Coaster Motel|Queenstown|NO|stars_3
+24463|Wilpena Pound Resort|Flinders Ranges|NO|stars_3
+25946|Reef Retreat Resort|Palm Cove|YES|stars_4
+26051|Grand Chancellor Adelaide on Hindley|Adelaide|YES|stars_4
+26054|Ibis Styles Alice Springs Oasis|Alice Springs|YES|stars_3
+26055|Ferntree Rainforest Lodge|Cape Tribulation|YES|stars_3
+26056|Novotel Darwin Atrium|Darwin|NO|stars_4
+26058|Kings Canyon Resort|Kings Canyon|YES|stars_4
+26061|Rendezvous Grand Hotel Perth Scarborough|Perth|YES|stars_4
+26062|QT Port Douglas|Port Douglas|YES|stars_4.5
+26065|Marriott Sydney Harbour at Circular Quay|Sydney|YES|stars_5
+26066|Novotel Sydney Manly Pacific|Manly|YES|stars_4
+26068|Wyndham Vacation Resort Asia Pacific Sydney|Sydney|NO|stars_4
+26888|Rockford Adelaide|Adelaide|YES|stars_4
+26899|Sofitel Brisbane Grand Central|Brisbane|NO|stars_5
+26903|Moonlight Bay Suites|Broome|NO|stars_4
+26905|Mantra Esplanade|Cairns|YES|stars_4
+26909|Hides Corner|Cairns|NO|stars_3
+26911|Hilton Darwin|Darwin|YES|stars_4.5
+26914|DoubleTree by Hilton Darwin|Darwin|YES|stars_4
+26920|Wrest Point|Hobart|NO|stars_4
+26921|Best Western Hobart|Hobart|NO|stars_4
+26923|Gagudju Lodge Cooinda|Kakadu National Park|YES|stars_3
+26928|Quality Airport Tullamarine|Melbourne|YES|stars_3
+26929|The Swanston Melbourne Grand Mercure|Melbourne|YES|stars_4
+26930|Quality Batman's Hill on Collins|Melbourne|YES|stars_4
+26931|Wentworth Plaza|Perth|YES|stars_3
+26932|West Beach Lagoon|Scarborough|NO|stars_3
+26933|Sheraton Noosa Resort & Spa|Noosa|YES|stars_5
+26934|Holiday Inn Townsville|Townsville|YES|stars_4
+26935|Rydges Southbank|Townsville|YES|stars_4
+26939|Novotel Sydney Brighton Beach|Sydney|YES|stars_4
+26948|Great Southern|Sydney|YES|stars_4
+26960|Paradise on the Beach Resort|Palm Cove|NO|stars_4
+26964|The Reef House Palm Cove - MGallery Collection|Palm Cove|YES|stars_5
+26967|Villa Paradiso|Palm Cove|NO|stars_4
+26968|Coral Sands Beachfront Resort|Trinity Beach|NO|stars_4
+26971|Heron Island Resort|Heron Island|YES|stars_4
+26973|Brampton Island|Brampton Island|YES|stars_4
+26976|Voyages Bedarra Island|Bedarra Island|NO|stars_5
+26992|Long Island Resort|Whitsunday Island|YES|stars_3
+26997|Sheraton Mirage Resort & Spa Gold Coast|Main Beach|YES|stars_5
+26998|InterContinental Sanctuary Cove Resort|Sanctuary Cove|YES|stars_5
+27011|Cape Tribulation Resort - geschlossen|Cape Tribulation|YES|stars_4
+27014|Silky Oaks Lodge|Daintree National Park|YES|stars_4.5
+27015|Daintree Eco Lodge & Spa|Daintree National Park|NO|stars_4
+27017|Kingfisher Bay Resort|Fraser Island|NO|stars_4
+30552|Ayers Rock Resort - The Lost Camel|Ayers Rock|YES|stars_3
+30553|Longitude 131|Ayers Rock|NO|stars_5
+30554|Best Western Broken Hill Oasis|Broken Hill|NO|stars_3
+30555|Tropical Queenslander|Cairns|YES|stars_3
+30556|Darwin Central|Darwin|YES|stars_4
+30559|Quality Hotel on Olive|Albury|NO|stars_4
+30577|Cradle Mountain Lodge|Cradle Mountain|YES|stars_4
+30579|Lemonthyme Lodge|Cradle Mountain|NO|stars_4
+30583|El Questro Wilderness Park - The Homestead /  Emma Gorge Resort / The Station|Kununurra|NO|stars_5
+30584|Fitzroy River Lodge|Fitzroy Crossing|NO|stars_3
+30585|Freycinet Lodge|Coles Bay|NO|stars_4
+30609|Aurora Kakadu Lodge Jabiru|Kakadu National Park|NO|stars_3
+30613|Mercure Kangaroo Island Lodge|Kangaroo Island|NO|stars_4
+30616|Ibis Styles Karratha|Karratha|YES|stars_3
+30628|Lake Bennett Wilderness Resort|Litchfield National Park|NO|stars_3
+30635|Parkroyal Melbourne Airport|Melbourne|NO|stars_4
+30639|Treasury on Collins|Melbourne|YES|stars_4
+30645|The Sebel Noosa|Noosa|YES|stars_4
+30651|Cervantes Pinnacles Motel|Pinnacles|NO|stars_3
+30666|Mantra 2 Bond Street|Sydney|YES|stars_4
+30673|Wave Rock|Hyden|NO|stars_3
+30677|Australis Sovereign|Surfers Paradise|YES|stars_4
+30680|Tangalooma Island Resort|Moreton Island|NO|stars_3.5
+30683|Novotel Twin Waters|Sunshine Coast|NO|stars_4
+30690|All Seasons Magnetic Island|Magnetic Island|NO|stars_3
+30701|Club Tropical|Port Douglas|NO|stars_4
+30706|Heritage Lodge & Spa|Cape Tribulation|NO|stars_3
+31201|Grand Chancellor Hobart|Hobart|YES|stars_4
+31202|Lindrum Melbourne - MGallery Collection|Melbourne|NO|stars_4
+31203|Travelodge Wynyard|Sydney|YES|stars_3
+31739|Oasis Palm Cove|Palm Cove|NO|stars_4
+31740|Daydream Island Resort and Spa|Daydream Island|YES|stars_4
+32147|Novotel Canberra|Canberra|YES|stars_4
+32150|Kalbarri Palms Resort|Kalbarri|NO|stars_3
+32152|Comfort Inn & Suites Emmanuel|Lake Entrance|NO|stars_3.5
+32410|Travelodge Sydney|Sydney|YES|stars_3
+32412|Oaks Embassy|Adelaide|YES|stars_4
+32414|Quality Sheridan Plaza|Cairns|NO|stars_4
+32415|Country Comfort Monte Pio Hunter|Hunter Valley|NO|stars_3
+32416|QT Canberra|Canberra|YES|stars_4
+32417|Australis Noosa Lakes Resort|Noosa|YES|stars_4
+32418|Four Seasons|Sydney|YES|stars_5
+32419|The Bayswater Sydney|Sydney|NO|stars_4
+32420|Sofitel Sydney Wentworth|Sydney|YES|stars_5
+33086|Pension of Perth|Perth|NO|stars_3.5
+33087|The Hughenden|Sydney|NO|stars_4
+33088|Bay Village Tropical Retreat|Cairns|YES|stars_3
+33089|Peppers Palm Bay|Long Island/Whitsundays|NO|stars_4
+33090|O'Reilly's Rainforest Retreat & Mountain Villas|Lamington National Park|YES|stars_4
+33091|Spicers Hidden Vale|Lockyer Valley|YES|stars_4
+33092|Palazzo Versace|Main Beach|YES|stars_5
+34462|Comfort Resort Blue Pacific|Mackay|NO|stars_3.5
+35594|Shangri-La The Marina|Cairns|YES|stars_5
+35595|Crowne Plaza Coogee Beach|Sydney|YES|stars_4
+35596|Paradise Links Resort|Port Douglas|NO|stars_4
+35651|Crowne Plaza Perth|Perth|YES|stars_4
+37841|Bell Tower Inn|Ballarat|NO|stars_3
+37842|Port Campbell Motor Inn|Port Camphell|NO|stars_3
+38334|Joondalup Resort|Connolly|NO|stars_4
+38482|Lodge on Elizabeth|Hobart|NO|stars_4
+38483|Travelodge Southbank|Melbourne|NO|stars_3
+39274|Rydges Melbourne|Melbourne|YES|stars_4
+39275|Citadines St Georges Terrace Perth|Perth|YES|stars_4
+39277|Rydges Sydney Central|Sydney|YES|stars_4
+39852|Rendezvous Grand Hotel Adelaide|Adelaide|YES|stars_5
+39853|Mantra on Queen|Brisbane|NO|stars_4
+39855|Grand Chancellor Melbourne|Melbourne|YES|stars_4
+39856|Mantra on Murray|Perth|YES|stars_4
+39857|Seasons Darling Harbour|Sydney|YES|stars_4
+39858|The Sebel Sydney Manly Beach|Manly|YES|stars_4
+39859|Mantra Heritage|Port Douglas|YES|stars_4
+39860|Peppers Beach Club & Spa|Palm Cove|YES|stars_5
+40993|Rydges South Park Adelaide|Adelaide|YES|stars_4
+40994|Paradise Resort Gold Coast|Surfers Paradise|YES|stars_3.5
+40995|Coral Tree Inn|Cairns|NO|stars_3.5
+40996|The Lakes Cairns Resort & Spa|Cairns|YES|stars_4
+40998|Mantra on Russell|Melbourne|YES|stars_4
+40999|Oceanside Village|Shark Bay|NO|stars_3
+41001|Ibis Sydney Airport|Sydney|NO|stars_3
+41002|Amora Jamison Sydney|Sydney|YES|stars_5
+41004|Clarion City Park Grand|Launceston|NO|stars_4
+41005|Ellis Beach Oceanfront Bungalows|Ellis Beach|NO|stars_3
+41006|Regal Port Douglas|Port Douglas|NO|stars_4
+47576|Sir Stamford at Circular Quay|Sydney|YES|stars_5
+47579|Country Club Tasmania|Launceston|NO|stars_4
+47581|Hilton Cairns|Cairns|YES|stars_5
+47583|QT Gold Coast|Gold Coast|YES|stars_5
+47584|Beachcomber Resort Surfers Paradise|Surfers Paradise|NO|stars_3
+47586|Crowne Plaza Surfers Paradise|Gold Coast|YES|stars_4
+48184|Mercure Melbourne Treasury Gardens|Melbourne|YES|stars_4
+51696|Rydges Plaza Cairns|Cairns|YES|stars_4
+52101|Fairmont Resort Blue Mountains|Leura|NO|stars_4
+52102|Pier One Sydney Harbour|Sydney|YES|stars_4
+52103|Hilton Sydney|Sydney|YES|stars_5
+52104|BreakFree Alexandra Beach|Alexandra Headland|NO|stars_3
+52597|Waldorf Leura Garden Resort|Leura|NO|stars_3
+52598|Mango Lagoon|Palm Cove|NO|stars_4
+54599|Aarons|Perth|YES|stars_3
+54600|Hilton Perth Parmelia|Perth|NO|stars_5
+54601|Goodearth Perth|Perth|YES|stars_3
+54603|Aarons All Suites|Perth|YES|stars_4
+54604|Holiday Inn Perth City Centre|Perth|YES|stars_4
+54605|Metro Hotel Perth|Perth|YES|stars_3
+54610|Mantra Hindmarsh Square|Adelaide|YES|stars_4
+54612|Best Western Atlantis|Melbourne|YES|stars_4
+54613|Crowne Plaza Melbourne|Melbourne|YES|stars_4
+54614|Mantra on Little Bourke|Melbourne|YES|stars_4
+54615|The Lyall Hotel & Spa|Melbourne|NO|stars_5
+54616|Birches Serviced Apartments|Melbourne|YES|stars_3
+54617|Holiday Inn On Flinders|Melbourne|YES|stars_4
+54618|Crown Towers|Melbourne|YES|stars_5
+54619|Bayview on the Park|Melbourne|YES|stars_4
+54620|Holiday Inn Melbourne Airport|Melbourne|YES|stars_4
+54621|Mantra City Central|Melbourne|YES|stars_3
+54622|Marriott Melbourne|Melbourne|YES|stars_5
+54624|Mantra on Jolimont|Melbourne|NO|stars_4
+54625|Mantra 100 Exhibition|Melbourne|YES|stars_4
+54627|Mantra Southbank|Melbourne|YES|stars_4
+54628|Bayview Eden Melbourne|Melbourne|YES|stars_4
+54629|Figtree Lodge|Cairns|YES|stars_3
+54630|Australis Cairns Beach Resort|Cairns|YES|stars_4
+54631|Hotel Jen Brisbane|Brisbane|YES|stars_4
+54634|Summit Central Apt.|Brisbane|NO|stars_4
+54635|Central Hillcrest Apartments|Brisbane|NO|stars_4
+54636|Central Cosmo Apartments|Brisbane|NO|stars_4
+54637|Metro Tower Mill|Brisbane|YES|stars_3
+54638|Crowne Plaza Canberra|Canberra|YES|stars_4
+54640|BreakFree Capital Tower|Canberra|NO|stars_4
+54991|BreakFree Eco Beach Byron Bay|Byron Bay|NO|stars_3
+54995|Stamford Plaza Sydney Airport|Sydney|YES|stars_4.5
+54999|North Sydney Harbourview|Sydney|NO|stars_4
+55000|Parkroyal Darling Harbour|Sydney|NO|stars_4
+55001|The Sydney Boulevard|Sydney|YES|stars_4
+55002|Meriton World Tower|Sydney|YES|stars_5
+55003|Central Railway Motel|Sydney|NO|stars_3
+55004|Paradise Centre Apartments|Surfers Paradise|NO|stars_4
+55005|Mayfair Plaza|Hobart|NO|stars_4
+55006|BreakFree Beachpoint Resort|Surfers Paradise|NO|stars_3
+55008|BreakFree Peninsula Resort|Surfers Paradise|NO|stars_4
+55009|BreakFree Acapulco Resort|Surfers Paradise|NO|stars_3.5
+55781|Durham Lodge|Perth|NO|stars_4
+55783|Charsfield|Melbourne|YES|stars_4
+55784|Clarion Suites Gateway|Melbourne|YES|stars_4
+55785|Novotel Sydney Central|Sydney|YES|stars_4
+56349|Best Western Airport Hacienda|Brisbane|NO|stars_3
+56350|Best Western Alpine Motor Inn|Blue Mountains|NO|stars_4
+56351|Best Western Great Ocean Road Inn|Port Camphell|NO|stars_3
+56352|Kangaroo Island Wilderness Retreat|Kangaroo Island|YES|stars_4
+56354|Mercure Sydney Airport|Sydney|YES|stars_4
+56417|Base Magnetic Island|Magnetic Island|NO|stars_2
+56418|Base Backpackers Melbourne|Melbourne|NO|stars_2
+57697|Best Western Plus Hovell Tree Inn|Albury|NO|stars_4
+57698|Heavitree Gap Outback Lodge|Alice Springs|YES|stars_3
+57718|Adina Apartment Adelaide Treasury|Adelaide|NO|stars_4
+57719|Mercure Grosvenor Hotel Adelaide|Adelaide|NO|stars_4
+57720|Quality Hotel Airport International|Brisbane|NO|stars_3.5
+57722|Cairns Plaza|Cairns|NO|stars_3
+57723|Palms City Resort|Darwin|YES|stars_3
+57725|Skycity Darwin|Darwin|NO|stars_5
+57726|Vibe Sydney|Sydney|YES|stars_4
+57728|The Swansea Cottages|Swansea|YES|stars_4
+57729|Comfort Inn Albany|Albany|NO|stars_3
+57733|Comfort Inn The International|Apollo Bay|NO|stars_3
+57736|Best Western Sea Breeze Resort|Exmouth|NO|stars_3
+57737|Sovereign Resort|Cooktown|NO|stars_4
+57739|Kalgoorlie Overland Motel|Kalgoorlie|NO|stars_3
+57741|Best Western Banjo Paterson Motor Inn|Lake Entrance|NO|stars_3
+57744|Miners Lodge Motor Inn|Mackay|YES|stars_3
+57745|Quality Resort Tropical Inlander|Mildura|NO|stars_3
+57746|Pullman Resort Bunker Bay|Margaret River|YES|stars_5
+57748|Mantra Mooloolaba Beach Sunshine Coast|Mooloolaba|YES|stars_4
+57749|Orpheus Island|Orpheus Island|NO|stars_4.5
+57751|Green Island Resort|Green Island|NO|stars_4.5
+57752|Alassio Palm Cove|Palm Cove|NO|stars_4
+57753|Pullman Sea Temple Resort & Spa|Palm Cove|YES|stars_5
+57796|Novotel Pacific Bay Resort|Coffs Harbour|YES|stars_4
+57862|Adelphi|Melbourne|YES|stars_4
+57865|Grand Chancellor Launceston|Launceston|YES|stars_4
+57866|Bond Springs Station|Alice Springs|NO|stars_3
+57872|Cape Lodge|Margaret River|NO|stars_5
+57873|The Louise|Tanunda|NO|stars_5
+57874|The Sebel Aqualuna Beach Resort|Coffs Harbour|NO|stars_4
+57981|Mantra Sun City|Surfers Paradise|YES|stars_4
+59863|The Macleay Serviced Apartment|Potts Point|YES|stars_3
+60099|Sarayi|Palm Cove|NO|stars_4
+63488|Bali Hai Resort|Broome|NO|stars_4
+63491|Seashells Bromme|Broome|YES|stars_4
+63599|Reef Resort Motel|Mackay|NO|stars_4
+63831|Riverside Holiday Apartments Ballina|Ballina|NO|stars_4
+63833|Marriott Brisbane|Brisbane|YES|stars_5
+63834|Holiday Inn Parramatta|Parramatta|NO|stars_4
+63835|Ramada Hervey Bay|Hervey Bay|YES|stars_4
+63836|Marriott Resort & Spa Surfers Paradise|Surfers Paradise|YES|stars_5
+63838|Pullman Sydney Hyde Park|Sydney|YES|stars_5
+64784|Stamford Plaza Melbourne|Melbourne|YES|stars_5
+64797|Rendezvous Hotel Brisbane Anzac Square|Brisbane|YES|stars_4
+65088|Grand Chifley Adelaide|Adelaide|YES|stars_4
+65352|Treasury Brisbane|Brisbane|YES|stars_5
+66403|Jupiters Hotel & Casino|Gold Coast|YES|stars_5
+67458|Radisson Sydney|Sydney|NO|stars_4
+67796|Radisson On Flagstaff Gardens|Melbourne|YES|stars_4
+67797|Vibe Savoy|Melbourne|YES|stars_4
+67798|Mercure Gold Coast Resort|Gold Coast|NO|stars_4
+69196|Mantra South Bank|Brisbane|YES|stars_4
+69197|Kununurra Country Club Resort|Kununurra|NO|stars_4
+69198|Rydges Tradewinds Cairns|Cairns|YES|stars_4
+69199|Country Comfort Inter City & Apartments|Perth|YES|stars_3
+69202|Quality Sorrento Beach Resort|Sorrento|YES|stars_4
+69203|Four Points by Sheraton Perth|Perth|YES|stars_4
+69204|Seashells Scarborough|Perth|YES|stars_4
+69205|Metro Hotel Sydney Central|Sydney|YES|stars_3
+69206|Aarons|Sydney|YES|stars_3
+69208|Holiday Inn Darling Harbour|Sydney|NO|stars_4
+69209|Adina Apartment Hotel Sydney|Sydney|NO|stars_4
+69210|Adina Apartment Hotel Coogee|Coogee|NO|stars_4
+69211|Peppers Seaport|Launceston|YES|stars_4
+69212|Bilpin Springs Lodge|Bilpin|NO|stars_3
+69213|Best Western Mango House Resort|Airlie Beach|NO|stars_4
+69214|Bayview Coral Bay & Ningaloo Club|Coral Bay|NO|stars_3
+69215|Mantra Hervey Bay|Hervey Bay|NO|stars_4
+69216|Mantra In The Village|Port Douglas|YES|stars_4
+69217|Reef Club Resort|Port Douglas|NO|stars_4
+69893|Rydges Darwin Airport Resort|Darwin|YES|stars_4
+69895|Grand Hotel Melbourne|Melbourne|YES|stars_5
+69896|Noosa Blue Resort|Noosa|NO|stars_4
+69897|Park Regis City Centre|Sydney|YES|stars_3
+69898|Pensione|Sydney|YES|stars_3
+70525|Feathers Sanctuary|Darwin|NO|stars_2.5
+70526|Chillagoe Cottages|Chillagoe|NO|stars_3
+70528|Kookas|Cairns|NO|stars_3.5
+70531|Grand Chancellor Brisbane|Brisbane|YES|stars_4
+70533|Beachfront Trinity Beach|Trinity Beach|NO|stars_4
+70534|Pinnacles Resort & Spa|Airlie Beach|NO|stars_5
+71812|Bay Hidaway Resort|Hervey Bay|NO|stars_4
+71813|Hospitality Inn Port Hedland|Port Hedland|NO|stars_3
+71814|Comfort Perth City|Perth|NO|stars_3
+71973|Capella Lodge|Lord Howe Island|NO|stars_4.5
+72479|Netanya Resort|Noosa|NO|stars_4
+72480|Centrepoint Motor Inn|Rockhampton|YES|stars_4
+72582|Rendezvous Hotel Sydney the Rocks|Sydney|YES|stars_4
+72584|North Adelaide Heritage - Bishops Garden|Adelaide|NO|stars_4.5
+72958|Royal Exchange|Broken Hill|NO|stars_3
+72962|Villa San Michele|Port Douglas|NO|stars_4
+72969|Miss Maud Swedish|Perth|NO|stars_3.5
+72975|Hadley?s|Hobart|YES|stars_4
+73089|Rydges Esplanade Resort Cairns|Cairns|YES|stars_4
+73743|Rawnsley Park Station|Wilpena Pound|NO|stars_3.5
+73745|Bullo River Station|Timber Creek|NO|stars_3
+75513|The Sebel Kirkton Park Hunter Valley|Hunter Valley|NO|stars_4
+75515|Alice On Todd|Alice Springs|NO|stars_4
+76069|Comfort Inn Hilltop|Broken Hill|YES|stars_3
+76356|Whitsunday Terraces|Airlie Beach|NO|stars_3
+76357|Lido Suites Kings Cross|Sydney|NO|stars_3
+79122|Majestic Roof Garden|Adelaide|YES|stars_4
+79123|The Hotel Cairns|Cairns|YES|stars_4
+79124|Comfort Inn & Suites Trinity Beach Club|Trinity Beach|YES|stars_3.5
+79125|Oaks On Market|Melbourne|YES|stars_4
+79126|Country Comfort Mount Gambier International|Mount Gambier|YES|stars_3
+79127|Port Douglas Retreat|Port Douglas|NO|stars_3
+79451|Mud Hut Motel|Coober Pedy|NO|stars_3
+79452|The Melbourne Hotel|Perth|NO|stars_4
+79453|Arkaroola Wilderness Sanctuary|Arkaroola|NO|stars_3
+79586|Next Hotel Brisbane|Brisbane|YES|stars_4
+79588|The Como Melbourne - MGallery Collection|Melbourne|YES|stars_5
+79589|Travelodge Perth|Perth|YES|stars_4
+79590|Novotel Ningaloo Resort|Exmouth|NO|stars_4
+79594|Wisteria Lodge Motel|Kangaroo Island|NO|stars_3
+79597|Travelodge Rockhampton|Rockhampton|NO|stars_4
+79605|Outrigger Surfers Paradise|Surfers Paradise|YES|stars_4.5
+79607|Grand Mercure Apartments Magnetic Island|Magnetic Island|NO|stars_4
+79608|Blue Lagoon Resort|Trinity Beach|NO|stars_4
+79721|Ace Motor Inn|Albany|NO|stars_3.5
+79722|Comfort Inn & Suites Georgian|Albury|NO|stars_4
+79723|Quality Inn City Centre|Coffs Harbour|NO|stars_4
+80580|The Henry Jones Art|Hobart|NO|stars_5
+80581|Kings Canyon Wilderness Lodge|Kings Canyon|NO|stars_3.5
+80582|Pullman Port Douglas Sea Temple Resort & Spa|Port Douglas|YES|stars_5
+81106|Best Western Ensenada Motor Inn|Adelaide|NO|stars_4
+81118|Sofitel Gold Coast Broadbeach|Gold Coast|YES|stars_5
+81409|Airlie Beach|Airlie Beach|NO|stars_4
+81410|Comfort Inn Aviators Lodge|Adelaide|YES|stars_3
+81411|Ballarat Lodge & Convention Centre|Ballarat|NO|stars_4
+81412|Comfort Inn Lincoln Downs|Batemans Bay|NO|stars_3
+81413|The Byron at Byron Resort & Spa|Byron Bay|YES|stars_5
+81414|The Mangrove Hotel|Broome|NO|stars_3.5
+81415|Clare Country Club|Clare|NO|stars_4
+81417|Sunrise Motor Inn|Devenport|NO|stars_3
+81420|Travelodge Hotel Hobart|Hobart|YES|stars_3
+81422|Bellevue On The Lakes|Lake Entrance|NO|stars_3.5
+81423|Quality Inn Margaret River|Margaret River|NO|stars_3.5
+81424|Ocean International|Mackay|YES|stars_3.5
+81426|Rendezvous Grand Hotel Melbourne|Melbourne|YES|stars_4
+81427|Rydges St Kilda|St. Kilda|YES|stars_4
+81428|The Great Southern|Melbourne|NO|stars_3
+81431|Comfort Inn Port Fairy|Port Fairy|NO|stars_4
+81432|Rydges Port Macquarie|Port Macquarie|YES|stars_4
+81434|Metro Hotel on Pitt|Sydney|YES|stars_4
+81435|Best Western Stellar|Sydney|YES|stars_4
+81436|Quality Powerhouse|Tamworth|NO|stars_4
+81437|Undara Experience|Undara|NO|stars_2
+81979|Sullivans|Perth|YES|stars_3
+81981|Best Western Plus Launceston|Launceston|YES|stars_4
+82145|Toddy's Backpackers Resort|Alice Springs|NO|stars_3
+82148|The Meridian at Port Douglas|Port Douglas|YES|stars_4
+82150|Quality Colonial Launceston|Launceston|YES|stars_3.5
+83877|The Albany Hotel|Melbourne|NO|stars_3
+83889|New Chalon|Cairns|NO|stars_3.5
+83894|InterContinental Sydney Double Bay|Sydney|NO|stars_5
+83896|Stamford Plaza Adelaide|Adelaide|YES|stars_5
+85080|Batchelor Resort|Batchelor|NO|stars_3
+85154|Vibe Rushcutters|Sydney|NO|stars_4
+85788|Quality Mermaid Waters|Gold Coast|YES|stars_4
+85789|Glenferrie Lodge|Sydney|YES|stars_3
+87662|Y Hyde Park|Sydney|YES|stars_3
+87664|Cairns Queens Court|Cairns|YES|stars_3
+87665|Mantra Parramatta|Parramatta|NO|stars_4
+87666|Medina Serviced Apartments Martin Place|Sydney|NO|stars_4
+87667|Rainbow Inn|Cairns|NO|stars_3
+87668|Islander Resort|Surfers Paradise|YES|stars_3
+87675|The Sebel Brisbane|Brisbane|YES|stars_4
+87676|Arts Sydney|Sydney|YES|stars_3
+87678|Ibis Styles Melbourne, The Victoria Hotel|Melbourne|YES|stars_3
+87800|Leisure Inn Woolmers Inn|Sandy Bay|YES|stars_3
+87809|BreakFree International Bankstown|Bankstown|NO|stars_4
+88700|On the Beach Holiday Apartments|Cairns|NO|stars_4
+88802|Quest Southbank|Melbourne|NO|stars_4
+88822|Oaks Lexicon Apartments|Brisbane|YES|stars_4
+88823|Park Regis North Quay|Brisbane|YES|stars_4
+88824|Park Regis City Quays|Cairns|YES|stars_4
+88825|Park Regis Piermonde Apartments|Cairns|YES|stars_4
+88829|Park Regis Anchorage|Townsville|YES|stars_4
+88830|Oaks Calypso Plaza|Coolangatta|YES|stars_4
+88832|Oaks Seaforth Resort|Alexandra Headland|YES|stars_4
+88833|Oaks Goldsbrough Apartments|Darling Harbour|YES|stars_4
+88835|Oaks Maestri Towers|Sydney|YES|stars_4
+88836|Oaks Harmony - geschlossen|Haymarket|YES|stars_4
+88837|Park Regis Concierge Apartments|Cremorne|YES|stars_4
+88839|Leisure Inn Spires|Leura|YES|stars_4
+88840|Leisure Inn Pokolbin Hill|Pokolbin|NO|stars_4
+88842|Oaks Boathouse|Tea Gardens|YES|stars_4
+88843|Park Regis Griffin Suites|Melbourne|YES|stars_4
+88849|Vibe North Sydney|Milsons Point|NO|stars_4
+88850|Vibe Carlton|Parkville|NO|stars_4
+88854|Oaks On Collins|Melbourne|YES|stars_4
+88855|Oaks Horizons|Adelaide|YES|stars_4
+88856|Oaks Liberty Towers|Glenelg|YES|stars_4
+88859|Oaks Felix|Brisbane|YES|stars_4
+88860|Oaks 212 Margaret|Brisbane|YES|stars_4
+88869|Quest Collins Street Central|Melbourne|NO|stars_4
+88870|Quest on Lonsdale|Melbourne|NO|stars_4
+88871|Adara Camperdown Apartments|Sydney|NO|stars_4
+88878|Seasons Harbour Plaza|Sydney|YES|stars_4
+88879|Somerset on Elizabeth|Melbourne|YES|stars_4
+88881|Oaks Waterfront Resort|The Entrance|YES|stars_4
+88900|Comfort Inn & Suites City Terraces|Cairns|YES|stars_4
+88913|Rendezvous Studio Hotel Brisbane on George|Brisbane|YES|stars_4
+88939|Amora Riverwalk Melbourne|Melbourne|YES|stars_4
+88940|Watermark Brisbane|Brisbane|YES|stars_4
+88943|Y City South|Sydney|NO|stars_3
+88948|Blue Sydney|Sydney|YES|stars_5
+88951|Harrigan's Irish Pub|Pokolbin|NO|stars_4
+89041|The Marque Canberra - geschlossen|Canberra|YES|stars_4
+89048|Easystay Motel|St. Kilda|YES|stars_3
+89097|Rendezvous Studio Sydney Central|Sydney|YES|stars_4
+89108|Easystay Studio Apartments|St. Kilda|YES|stars_3
+89178|Ibis Little Bourke Street|Melbourne|YES|stars_3
+89235|Leisure Inn Waterfront Lodge|Hobart|YES|stars_3
+89240|Roydon Beachfront Holiday Apartments|Cairns|NO|stars_4
+89379|Parkview St Kilda Road|Melbourne|NO|stars_4
+89423|Cosmopolitan Hotel Melbourne|St. Kilda|YES|stars_4
+89424|Ibis Styles Kingsgate|Melbourne|YES|stars_3
+89445|Best Western City Sheridan|Cairns|YES|stars_3
+89448|Cairns Southside International Inn|Cairns|YES|stars_4
+90709|Atherton Blue Gum|Atherton|NO|stars_4
+90712|Royal Mail|Dunkeld|NO|stars_4
+90713|Marina Resort|Port Stephens|NO|stars_3
+90715|Limosa Rise|Yanakie|NO|stars_4
+90716|Ibis Styles Warrnambool Central Court|Warrnambool|NO|stars_3
+90777|Adina Apartment Hotel Brisbane|Brisbane|NO|stars_4
+90787|Mantra Amphora|Palm Cove|NO|stars_4
+90924|Stamford Grand Adelaide|Glenelg|YES|stars_4
+91580|Miller|Adelaide|YES|stars_4
+91581|Meriton Bondi Junction|Sydney|YES|stars_5
+91583|Meriton Kent Street|Sydney|YES|stars_5
+91586|Pullman Melbourne Albert Park|Melbourne|YES|stars_4
+91589|Vibe Gold Coast|Surfers Paradise|YES|stars_4
+91590|Nomads Melbourne|Melbourne|YES|stars_2.5
+91595|Meriton Danks Street, Waterloo|Sydney|YES|stars_5
+91610|Swissotel Sydney|Sydney|YES|stars_5
+91903|Seasons of Perth|Perth|NO|stars_4
+92105|Grand Chancellor Adelaide on Currie|Adelaide|YES|stars_4
+93344|Ramada Resort Phillip Island|Philipp Island|NO|stars_4
+93346|Oaks Cable Beach Sanctuary|Broome|YES|stars_4
+93349|Cairns Harbour Lights|Cairns|YES|stars_4
+93350|Discovery Cairns|Cairns|NO|stars_3
+93351|Castaways Resort & Spa Mission Beach|Mission Beach|NO|stars_4
+93355|Grand Mercure Rockford Esplanade|Palm Cove|YES|stars_4
+93357|Island Views|Palm Cove|NO|stars_4
+93358|Coral Horizon|Palm Cove|NO|stars_4
+93360|Eurong Beach Resort|Fraser Island|NO|stars_3
+93362|Seashells Yallingup|Yallingup|YES|stars_4
+93464|Alto on Bourke|Melbourne|YES|stars_4
+93465|Jasper|Melbourne|NO|stars_4
+93757|Il Palazzo Boutique Apartments|Cairns|NO|stars_4
+93758|Nomads Cairns Beach House|Cairns|YES|stars_2
+93759|Rydges on Swanston Carlton|Melbourne|YES|stars_4
+93760|BreakFree Bell City|Melbourne|NO|stars_3
+93950|Capitol Square|Sydney|YES|stars_3
+93951|Rydges Camperdown|Sydney|YES|stars_3
+93952|Rydges Bankstown|Sydney|YES|stars_4
+93953|Rydges Parramatta|Sydney|YES|stars_4
+93954|Rydges Cronulla|Cronulla|YES|stars_4
+93955|Rydges North Sydney|Sydney|YES|stars_4
+93960|Rydges Thredbo Alpine|Thredbo|NO|stars_4
+93961|Rydges Capital Hill|Canberra|YES|stars_4
+93962|Ibis Styles Canberra Eagle Hawk|Canberra|NO|stars_4
+93963|Oaks Oasis Caloundra|Caloundra|YES|stars_4
+94005|Diana Plaza|Brisbane|YES|stars_4
+95876|Novotel Lake Crackenback Resort & Spa|Crackenback|NO|stars_4
+95878|Pensione|Melbourne|YES|stars_3
+95879|Comfort Adelaide Riviera|Adelaide|NO|stars_3.5
+95880|Comfort Inn Coober Pedy Experience|Coober Pedy|NO|stars_3
+95881|Ibis Townsville|Townsville|YES|stars_3
+95883|Adina Apartment Hotel Perth|Perth|NO|stars_4
+95886|Qualia Resort|Hamilton Island|YES|stars_5
+96128|Chifley on South Terrace|Adelaide|YES|stars_4
+96131|Kookaburra Motor Lodge|Halls Gap|NO|stars_3
+96132|Best Western Halls Creek Motel|Halls Creek|NO|stars_3
+96133|Auckland Hill|Gladstone|NO|stars_3.5
+96134|Comfort Inn Bay of Isles|Esperance|YES|stars_4
+96141|Clarion Mackay Marina|Mackay|NO|stars_4
+96145|Paraway Motel|Katherine|NO|stars_3
+96148|Comfort Inn & Suites Karratha|Karratha|NO|stars_3.5
+96150|28 Mary Street|Melbourne|NO|stars_4
+96151|Best Western - Melaleuca Motel & Apartments|Robe|NO|stars_3
+96152|Telegraph Retreat|Port Macquarie|NO|stars_4
+96154|Comfort Inn Augusta Westside|Port Augusta|YES|stars_3
+96157|Port Mill|Fremantle|NO|stars_4
+96160|Medina Serviced Apartments Canberra|Canberra|NO|stars_4
+96161|Medina Serviced Apartments Double Bay|Sydney|NO|stars_4
+96162|Adina Apartment Hotel Perth, Barrack Plaza|Perth|NO|stars_4
+96163|Adina Apartment Hotel Melbourne, Northbank|Melbourne|YES|stars_4
+96164|Adina Apartment Hotel Sydney Harbourside|Sydney|NO|stars_4
+96167|Karijini Eco Retreat|Karijini Nationalpark|YES|stars_3
+96170|Peppers Beach Club|Port Douglas|YES|stars_4.5
+96499|Southern Ocean Lodge|Kangaroo Island|NO|stars_5
+96510|Niramaya Villas & Spa|Port Douglas|NO|stars_5
+96778|Cooke Point Holiday Park|Port Hedland|NO|stars_4
+98275|The Sebel East Perth|Perth|YES|stars_4
+99460|Mount Lofty House|Crafers|YES|stars_4
+99492|Oaks Festival Towers|Brisbane|YES|stars_4
+99494|Oaks Charlotte Towers|Brisbane|YES|stars_4
+99496|Travelodge Garden City|Brisbane|YES|stars_3
+99497|Gemini Court Apartments|Burleigh Heads|YES|stars_4
+99560|Oaks Plaza Pier|Glenelg|YES|stars_4
+99564|Oaks Lure|Port Stephens|YES|stars_4
+100353|Ambassador|Perth|YES|stars_3
+100450|The Balinese|Cairns|NO|stars_2.5
+100452|Value Inn|Darwin|YES|stars_2
+100453|Melaleuca on Mitchell|Darwin|NO|stars_2
+100456|Blue Seas Resort|Broome|NO|stars_4
+100459|Abbey Beach Resort|Busselton|YES|stars_4
+100462|Rottnest Lodge|Rottnest Island|NO|stars_3
+100463|Daintree Wilderness Lodge|Daintree National Park|NO|stars_3
+100743|Freshwater Point Resort|Broadbeach|YES|stars_4
+100751|Watermark Hotel & Spa Gold Coast|Surfers Paradise|NO|stars_4
+100752|The Star - Astral Tower|Sydney|YES|stars_5
+100754|Swell Resort|Burleigh Heads|YES|stars_4
+101604|Crowne Plaza Newcastle|Newcastle|YES|stars_4
+101605|Crowne Plaza Hunter Valley|Lovedale|YES|stars_4
+101606|Crowne Plaza Terrigal|Terrigal|YES|stars_4
+101607|Royal on the Park|Brisbane|YES|stars_4
+103421|Rendezvous Reef Resort|Port Douglas|NO|stars_4
+103422|Outrigger Twin Towns Resort|Coolangatta|YES|stars_4.5
+103423|RACV Royal Pines Resort|Gold Coast|YES|stars_5
+103817|181 The Esplanade|Cairns|NO|stars_4
+103833|Ibis Styles Perth|Perth|YES|stars_3
+103946|Cairns Gateway Resort|Cairns|YES|stars_3
+103949|Grande Florida Beachside Resort|Miami|NO|stars_4
+103954|The Menzies Sydney|Sydney|YES|stars_4
+103956|Mercure Bunbury Sanctuary Golf Resort|Bunbury|NO|stars_4
+104125|Arajilla Retreat|Lord Howe Island|NO|stars_4
+104174|Assured Ascot Quays Apartment|Ascot|YES|stars_4
+104285|Mid City Ballarat|Ballarat|NO|stars_4
+104297|Barbados Holiday Apartments|Brisbane|NO|stars_3
+104338|Beau Monde International|Doncaster|NO|stars_4
+104394|Belmore All Suite|Wollongong|NO|stars_3
+104399|Bentley Suites|Canberra|NO|stars_4
+104408|Comfort Inn Bert Hinkler|Bundaberg|YES|stars_3.5
+104493|Best Western A Trapper's Motor Inn|Goulburn|NO|stars_4
+104497|Abel Tasman Airport Motor Inn|Launceston|NO|stars_3
+104498|Sundowner Aberdeen|Dubbo|YES|0
+104499|Comfort Acacia Court|Cairns|NO|stars_3
+104518|Best Western Plus All Settlers Motor Inn|Tamworth|NO|stars_4.5
+104533|Best Western Ambassador Motor Lodge|Hervey Bay|NO|stars_3.5
+104545|Best Western Apollo Bay Motel|Apollo Bay|NO|stars_3
+104553|Best Western Ashfields Philip Lodge Motel|Sydney|NO|stars_3
+104554|Ashmont Motor Inn|Port Fairy|NO|stars_4
+104556|Best Western Aspen Motor Inn|Sale|NO|stars_3
+104583|Best Western Balmoral Motor Inn|Glenorchy|NO|stars_3
+104594|Best Western Beaumaris Bay Motel|Beaumaris|NO|stars_3
+104596|Bed & Breakfast At Stephanie's|Williamstown|NO|stars_4
+104598|Best Western Beechworth Motor Inn|Beechworth|NO|stars_3.5
+104602|Bell Motor Inn|Melbourne|NO|stars_3.5
+104619|Best Western Boulevard Lodge|Bundaberg|NO|stars_3.5
+104620|Country Comfort Boulevard Motor Inn|Mildura|YES|0
+104627|Broadbeach Travel Inn Apartments|Broadbeach|NO|stars_3
+104630|Best Western Plus Brooklands of Mornington|Mornington|NO|stars_3.5
+104643|Camelot Motel|Gladstone|NO|stars_3
+104647|Travelodge Newcastle|Newcastle|NO|stars_3.5
+104648|Caravilla Motel|Taree|NO|stars_3
+104656|Best Western Cathedral Motor Inn|Bendigo|NO|stars_3
+104657|Best Western Cattle City Motor Inn|Rockhampton|NO|stars_3.5
+104658|Quality Powerhouse Armidale|Armidale|NO|stars_3
+104663|Ceduna Foreshore Motel|Ceduna|YES|stars_3
+104668|Best Western Central Motel & Apartments|Queanbeyan|NO|stars_3.5
+104670|Best Western Centretown Goulburn|Goulburn|NO|stars_3.5
+104686|Ciloms Melbourne Airport|Melbourne|NO|stars_3
+104690|City Limits|Melbourne|NO|stars_3
+104691|City Park|Melbourne|NO|stars_3
+104699|Tea Gardens Club Inn Motel|Tea Gardens|NO|stars_3
+104703|Best Western Coastal Waters Motel|Lake Entrance|NO|stars_3.5
+104713|Best Western Colonial Palms Motor Inn|Airlie Beach|NO|stars_3
+104725|Best Western Country Pathfinder Motor Inn|Dalby|NO|stars_3
+104789|Dunsborough Central Motel|Dunsborough|NO|stars_3
+104803|Rendezvous Studio Hotel Perth Central|Perth|YES|stars_4
+104842|Fountainside Motor Inn|Hobart|NO|stars_4
+104854|Best Western Geelong Motor Inn & Apartments|Geelong|NO|stars_3.5
+104864|Comfort Inn Gold Rush|Queenstown|NO|stars_3
+104898|Best Western The Gregory Terrace|Brisbane|NO|stars_3
+104909|Comfort Inn Harvest Lodge|Gunnedah|NO|stars_3
+104926|Best Western Hospitality Inn Geraldton|Geraldton|NO|stars_3
+104927|Best Western Hospitality Inn Kalgoorlie|Kalgoorlie|NO|stars_3
+104943|Jika International|Melbourne|NO|stars_3
+104980|Best Western Lakeside Lodge Motel|Lismore|NO|stars_3
+104987|Best Western Lazy Lizard Motor Inn|Port Douglas|NO|stars_3
+105011|Econo Lodge Limestone Coast|Mount Gambier|NO|stars_3
+105017|Best Western Lonsdale Motor Inn|Hamilton|NO|stars_3
+105020|Best Western Lorne Coachman Inn|Lorne|NO|stars_3
+105030|Best Western Macquarie Barracks Motor Inn|Port Macquarie|NO|stars_4
+105032|Mercure Charlestown|Charlestown|NO|stars_4
+105035|Best Western Mahoney's Motor Inn|Reservoir|NO|stars_3.5
+105044|Quality Manor|Mitcham|NO|stars_4
+105050|Best Western Marlborough Motor Inn|Cooma|NO|stars_3
+105052|Martin Cash Motor|Glenorchy|NO|stars_3.5
+105056|Matthew Flinders Motor Inn|Coonabarabran|YES|0
+105057|Comfort Inn May Park|Horsham|NO|stars_3
+105063|Best Western Melbourne's Princes Park Motor Inn|Melbourne|YES|stars_3
+105068|Best Western Mid City Motor Inn|Singleton|NO|stars_3.5
+105072|Best Western Mill Park Motel|Melbourne|NO|stars_3.5
+105075|Best Western Mitchell Motor Inn|Bairnsdale|NO|stars_3
+105088|Best Western Motel Monaro|Canberra|NO|stars_3
+105090|Country Comfort Newcastle Airport & Convention Centre|Raymond Terrace|YES|0
+105103|Northbridge|Perth|NO|stars_4
+105122|Best Western Palm Court Motor Inn|Port Macquarie|NO|stars_3
+105135|Best Western Parklands Apartment|Canberra|NO|stars_3
+105143|Best Western Pemberton|Pemberton|NO|stars_3
+105146|Best Western Pevensey Motor Lodge|Echuca|NO|stars_3
+105149|Pigeon House Motor Inn|Ulladulla|NO|stars_3
+105194|Reef Motor Inn|Batemans Bay|NO|stars_3
+105208|Best Western Riverside Motel|Launceston|NO|stars_3
+105220|Ross Motel|Ross|NO|stars_4
+105242|Best Western Sandown Heritage Motel|Melbourne|NO|stars_3
+105275|Best Western Southgate Motel|Mount Gambier|NO|stars_3.5
+105281|Best Western Stagecoach Motel|Wodonga|NO|stars_3
+105306|Best Western Tall Trees Motel|Canberra|NO|stars_4
+105310|Quality Hotel Taylors Lakes|Taylors Lakes|NO|stars_3.5
+105316|Terrigal Pacific Resort|Terrigal|NO|stars_3
+105322|Best Western Plus Buckingham International|Highett|NO|stars_4
+105326|The Clifton Motel Bunbury|Bunbury|NO|stars_4
+105339|The Old Bakery Inn|Launceston|NO|stars_3
+105347|Best Western Plus Travel Inn|Melbourne|NO|stars_4
+105348|Best Western Plus The Tudor - Box Hill|Melbourne|YES|stars_4
+105361|Townview Motel|Mount Isa|YES|0
+105365|Treasure Island Holiday Park|Gold Coast|NO|stars_4
+105368|Best Western Tudor Motor Inn & Apartments|Warrnambool|NO|stars_3.5
+105370|Best Western Twin Towers Inn|Sydney|YES|stars_3.5
+105390|Best Western Werribee Park Motor Inn|Werribee|NO|stars_3
+105401|Best Western Wheelers Hill International - geschlossen|Melbourne|NO|stars_4
+105409|Windmill Motel & Reception Centre|Mackay|NO|stars_4
+105415|Yamba Beach Motel|Yamba|NO|stars_4
+105504|BreakFree Aanuka Beach Resort|Coffs Harbour|NO|stars_4
+105507|Mantra French Quarter Resort|Noosa|NO|stars_4
+105508|BreakFree Longbeach Resort|Surfers Paradise|NO|stars_3
+105510|BreakFree Neptune Resort|Broadbeach|NO|stars_3.5
+105512|Ocean Breeze Resort|Noosa|NO|stars_3
+105513|Paradise Island Resort|Surfers Paradise|NO|stars_3
+105514|Paradiso|Kingscliff|NO|stars_4
+105515|Mantra PortSea Resort|Port Douglas|NO|stars_4
+105516|BreakFree Royal Harbour Resort|Cairns|NO|stars_4
+105534|Brisbane Riverview|Brisbane|NO|stars_5
+105540|Broadwater Beach Resort|Busselton|YES|stars_4
+105589|Golden Sands Beachfront Apartment Resort|Yorkeys Knob|NO|stars_4
+105644|Novotel Sydney Parramatta|Parramatta|YES|stars_4
+105698|Causeway|Melbourne|YES|stars_4
+105705|Cayman Villas|Port Douglas|NO|stars_4
+105874|City Crown Motel|Sydney|NO|stars_3
+105895|City Stay Apartments|Perth|NO|stars_3
+105939|Clarion On Canterbury|Forest Hill|YES|stars_4
+106012|Comfort Elizabeth Tower|Melbourne|YES|stars_3
+106037|Comfort Inn & Suites City Views|Ballarat|NO|stars_4
+106039|Comfort Inn & Suites Essendon|Essendon|YES|stars_3
+106040|Flagstaff City|Melbourne|YES|stars_3
+106042|Comfort Inn & Suites Northgate Airport|Northgate|NO|stars_3.5
+106044|Toowong Inn & Suites|Brisbane|NO|stars_3
+106045|Comfort Inn & Suites Werribee|Werribee|NO|stars_3
+106046|Comfort Inn A Julie-Anna|Bendigo|YES|stars_4
+106054|Comfort Inn Airport Admiralty|Brisbane|NO|stars_3
+106058|Comfort Inn All Seasons|Ballina|NO|stars_4
+106062|Comfort Inn Anzac Highway|Glenelg|NO|stars_3
+106066|Asti Motel|Darwin|YES|stars_3
+106071|Balmoral On York|Launceston|NO|stars_3.5
+106074|Comfort Inn Bayswater|Tweed Heads|YES|stars_3
+106084|Comfort Inn Big Windmill|Coffs Harbour|NO|stars_3
+106085|Comfort Inn Blazing Stump|Wodonga|NO|stars_4
+106087|Comfort Inn Blue Shades|Maryborough|NO|stars_4
+106090|Comfort Inn Botanical|Hamilton|NO|stars_3
+106101|Comfort Inn Campbell|Swan Hill|NO|stars_3
+106122|Commodore Regent|Launceston|NO|stars_3.5
+106125|Best Western Cotswold Gardens|Armidale|NO|stars_3
+106126|Comfort Inn Crystal|Broken Hill|NO|stars_3
+106128|Comfort Inn Dandenong|Melbourne|NO|stars_3
+106144|Comfort Inn Fairways|Primbee|YES|stars_3
+106151|Comfort Inn Foster|Foster|NO|stars_3
+106152|Comfort Inn Fraser Gateway|Hervey Bay|YES|stars_3
+106157|Comfort Inn Geraldton|Geraldton|NO|stars_3
+106159|Comfort Inn Glenfield|Toowoomba|YES|stars_4
+106160|Comfort Inn Goldfields|Stawell|NO|stars_3
+106163|Quality Inn Grange Burn|Hamilton|NO|stars_3
+106164|Comfort Inn Grange On Farrelly|Margaret River|YES|stars_3
+106167|Comfort Inn Hallmark at Tamworth|Tamworth|YES|stars_3
+106170|Comfort Inn Haven Marina|Glenelg|YES|stars_3
+106174|Comfort Inn Hunts Liverpool|Liverpool|YES|stars_3
+106176|John Pirie Motor Inn|Port Pirie|NO|stars_3
+106179|Karri Forest Motel|Pemberton|NO|stars_3
+106181|Comfort Inn & Suites King Avenue|Sale|NO|stars_3
+106182|Econo Lodge Kingston|Kingston|NO|stars_3
+106188|Lake Macquarie Motor Inn|Newcastle|YES|stars_3
+106197|Comfort Inn Lorne Bay View|Lorne|NO|stars_3
+106202|Comfort Inn Manhattan|Adelaide|NO|stars_3
+106204|Quality Inn Marco Polo|Mackay|NO|stars_3
+106211|Quality Inn & Suites Menzies|Ballarat|NO|stars_4
+106212|Comfort Inn Merimbula|Merimbula|YES|stars_3
+106213|Metro Miranda|Sydney|NO|stars_3
+106216|Comfort Inn Mid-Town|Narrabri|YES|stars_3
+106217|Comfort Inn Deakin Palms|Mildura|NO|stars_4
+106226|Mooloolaba Motel|Mooloolaba|NO|stars_3
+106231|Comfort Inn North Shore|Sydney|YES|stars_3
+106232|Ocean View Motel|North Beach|NO|stars_3
+106234|Comfort Inn On Marion|Adelaide|YES|stars_3
+106235|Comfort Inn On Raglan|Warrnambool|NO|stars_4
+106240|Comfort Inn Parkes International|Parkes|NO|stars_3
+106241|Parkside Motel|Geelong|NO|stars_3
+106254|Comfort Inn Prince Of Wales|Wagga Wagga|NO|stars_3.5
+106255|Ibis Styles Sale|Sale|NO|stars_3
+106259|Comfort Inn Richmond Henty|Portland|NO|stars_3
+106260|Comfort Inn Ringwood Lake|Ringwood|YES|stars_3.5
+106264|Comfort Inn Robert Towns|Townsville|YES|stars_4
+106265|Comfort Inn Robertson Gardens|Robertson|YES|stars_3
+106272|Sandhurst Motor Inn Bendigo|Bendigo|NO|stars_3
+106277|Comfort Inn Scotty's|Adelaide|NO|stars_3
+106289|Park Motor Inn|Toowoomba|NO|stars_3
+106290|Comfort Inn The Pier|Georgetown|NO|stars_3
+106291|Comfort Inn The Rose|Mackay|NO|stars_3
+106300|Comfort Inn Traralgon|Traralgon|NO|stars_3
+106303|Best Western Kennedy Drive Motel|Tweed Heads|NO|stars_3
+106307|Comfort Inn Warwick|Warwick|NO|stars_3
+106311|Comfort Inn Western|Warrnambool|NO|stars_3
+106312|Sundowner William MacIntosh|Naracoorte|YES|stars_3
+106355|Comfort Resort Echuca Moama|Moama|NO|stars_3
+106427|Coogee Bay Hotel|Coogee|NO|stars_4
+106428|Coogee Sands|Sydney|YES|stars_4
+106464|Country Comfort Bundaberg International|Bundaberg|NO|stars_4
+106523|Novotel Sydney Norwest Hotel|Baulkham Hills|NO|stars_4
+106529|Parkroyal Parramatta|Parramatta|YES|stars_4
+106905|Establishment|Sydney|NO|stars_4.5
+107089|Quality Downtowner on Lygon|Carlton|YES|stars_4
+107091|Quality Bentinck|Portland|NO|stars_3
+107212|Gateway On Monash|Notting Hill|NO|stars_4
+107226|George Powlett Apartments|East Melbourne|NO|stars_3
+107228|George Williams - Ymca Brisbane|Brisbane|NO|stars_3
+107376|Adina Apartment Hotel Melbourne|Melbourne|NO|stars_4
+107380|Grand Mercure Apartments One Darling Harbour|Sydney|YES|stars_4
+107438|Greenmount Beach Resort|Coolangatta|NO|stars_3
+107512|Harbour View Apartment|Melbourne|NO|stars_4
+107513|Harbourside Apartments|Sydney|NO|stars_4
+107525|Haven Inn Sydney|Sydney|NO|stars_3
+107550|Ibis Styles Canberra Narrabundah|Canberra|NO|stars_3.5
+107569|Hillarys Harbour Resort|Perth|NO|stars_4
+107592|Quality Midcity|Hobart|YES|stars_3
+107623|Crown Promenade Perth|Perth|NO|stars_4
+107763|Mercure Penrith|Penrith|YES|stars_4
+107776|Novotel Rooty Hill|Rooty Hill|NO|stars_4
+107953|Hume Villa Motor Inn|Fawkner|NO|stars_3
+107979|Hyde Park Inn|Sydney|YES|stars_4
+108018|BreakFree Imperial Surf|Surfers Paradise|NO|stars_3.5
+108159|Kellys Beach Resort|Bundaberg|NO|stars_3
+108173|Killara Inn|Sydney|NO|stars_3
+108186|Kingsford Smith Airport Motel|Brisbane|NO|stars_4
+108189|Kingston Terrace Apartments|Canberra|NO|stars_4
+108203|Knightsbridge Apartments|Melbourne|NO|stars_3.5
+108228|Kurrajong Canberra|Barton|NO|stars_4
+108503|Lindenderry At Red Hill|Red Hill|NO|stars_4
+108582|Majestic Oasis Apartments|Port Augusta|NO|stars_4
+108604|Manor House Boutique|Sydney|NO|stars_4
+108626|Margarets Beach Resort|Margaret River|NO|stars_4
+108724|Adina Apartment Hotel Melbourne, Flinders Street|Melbourne|NO|stars_4
+108727|Adina Apartment Hotel South Yarra|Melbourne|NO|stars_4
+108728|Adina Apartment Hotel Canberra, James Court|Canberra|NO|stars_4
+108730|Adina Apartment Hotel Sydney, Central|Sydney|NO|stars_4
+108800|Burke & Wills Toowoomba|Toowoomba|YES|stars_4
+108933|Mercure Parramatta|Rosehill|YES|stars_4
+108988|Meriton Serviced Apartments Parramatta|Parramatta|NO|stars_5
+109006|Metropole Apartments & Conference Centre|Melbourne|NO|stars_3.5
+109038|Mgsm Executive & Conference Center|Sydney|NO|stars_4
+109140|Mont Clare Boutique Apartments|Perth|YES|stars_4
+109168|Morgans Of Sydney|Sydney|YES|stars_4
+109278|Nova Stargate|Melbourne|NO|stars_3
+109362|Novotel Wollongong Northbeach|Wollongong|YES|stars_4
+109402|Novotel Sydney Olympic Park|Sydney|YES|stars_4
+109410|Novotel Vines Resort Swan Valley|The Vines|YES|stars_4
+109440|Oceana On Broadbeach|Broadbeach|NO|stars_4
+109473|Mercure Canberra|Canberra|NO|stars_4
+109502|Osprey Apartments|Mooloolaba|YES|stars_4
+109509|Mantra Coolangatta Beach|Coolangatta|YES|stars_4.5
+109512|Outrigger Resort Burleigh Heads|Burleigh Heads|YES|stars_3
+109559|Paramount Serviced Apartments|Melbourne|NO|stars_4
+109594|Parramatta Waldorf Apartment|Rosehill|NO|stars_4
+109605|Pavillion On Northbourne|Canberra|NO|stars_4
+109626|Peppers Convent|Hunter Valley|YES|stars_4
+109631|Spicers Peak Lodge|Maryvale|NO|stars_5
+109683|Peninsula Boutique Port Douglas|Port Douglas|NO|stars_4
+109684|Plantation Resort Port Douglas|Port Douglas|NO|stars_3
+109729|Karana Palms Resort|Surfers Paradise|NO|stars_3
+109731|Sunset Island Resort|Surfers Paradise|NO|stars_3
+109732|Prime Trinity Beach Pacific|Trinity Beach|NO|stars_4
+109747|Armadale Serviced Apartments|Melbourne|NO|stars_3
+109748|Punthill - Burwood|Burwood|YES|stars_4
+109749|Punthill - Flinders Lane|Melbourne|YES|stars_4
+109750|North Melbourne Serviced Apartments|Melbourne|NO|stars_3
+109751|Punthill South Yarra|Melbourne|YES|stars_3.5
+109752|Stanton Serviced Apartments|Melbourne|NO|stars_3
+109754|Punthill Manhattan|Melbourne|YES|stars_4.5
+109776|Best Western Plus Apollo International|Charlestown|YES|stars_4
+109791|Mercure Clear Mountain Lodge|Brisbane|NO|stars_4
+109795|Quality Dickson|Canberra|NO|stars_3.5
+109819|Aston Hill Motor Lodge|Port Macquarie|NO|stars_4
+109824|Quality Inn Baton Rouge|Rowville|YES|stars_3
+109830|Quality Inn Carriage House|Wagga Wagga|NO|stars_3
+109831|Quality Inn Charbonnier Hallmark|Singleton|YES|stars_3
+109834|Quality Inn Edenholme Grange|Launceston|NO|stars_3.5
+109840|Quality Inn Grafton|Grafton|NO|stars_4
+109843|Quality Inn Latrobe Convention Centre|Traralgon|YES|stars_3
+109849|Quality Inn Presidential|Mount Gambier|YES|stars_3.5
+109851|Quality Inn Prospect House|Richmond|YES|stars_3
+109852|Quality Inn Railway|Kalgoorlie|YES|stars_3
+109856|Quality Inn The Willows|Gosford|NO|stars_3
+109857|Quality Inn Toorak Manor|Melbourne|NO|stars_3.5
+109862|Yarra Valley Grand|Yarra Valley|NO|stars_3
+109867|Quality Lord Forrest|Bunbury|NO|stars_3.5
+109875|Quality Noah's On The Beach|Newcastle|YES|stars_3
+109878|Quality Old Adelaide|Adelaide|NO|stars_3.5
+109880|Mercure Port of Echuca|Echuca|NO|stars_3.5
+109888|Quality Resort All Seasons|Bendigo|YES|stars_4
+109890|Quality Resort Horizons Snowy Mountains|Jindabyne|YES|stars_4
+109893|Sails Resort Port Macquarie by Rydges|Port Macquarie|YES|stars_3.5
+109895|Quality Resort Siesta|Albury|NO|stars_4
+109905|St Francis Winery Resort|Adelaide|NO|stars_3
+109908|City Edge Serviced Apartments|East Melbourne|NO|stars_3
+109915|The Cove - Yamba|Yamba|NO|stars_4
+109918|Quality Tiffins On The Park|Adelaide|YES|stars_4
+109921|Quality Wangaratta Gateway|Wangaratta|NO|stars_4
+109927|Quality Woden|Canberra|YES|stars_3.5
+109944|Advance Serviced Apartments|Darwin|NO|stars_4
+109948|Quest Harbour Village|Fremantle|NO|stars_4
+109949|Quest Hero|Melbourne|YES|stars_4
+109950|Quest Jolimont|East Melbourne|NO|stars_4
+109951|Quest Kew|Melbourne|NO|stars_4
+109954|Mansions on Pulteney|Adelaide|YES|stars_3
+109955|Quest Marlin Cove Resort|Cairns|NO|stars_4
+109956|Quest Mont Albert|Mont Albert|NO|stars_4
+109958|Quest Newcastle|Newcastle|NO|stars_4
+109960|Quest on Bourke|Melbourne|NO|stars_4
+109961|Quest on Chapel|Melbourne|NO|stars_4
+109962|Quest on Dixon Darling Harbour|Sydney|YES|stars_4
+109963|Quest on Dorcas|Melbourne|NO|stars_4
+109965|Quest on James|Perth|YES|stars_4
+109966|Quest on King William|Adelaide|NO|stars_4
+109968|RnR Serviced Apartments - Wakefield|Adelaide|YES|stars_4
+109969|Quest on William|Melbourne|NO|stars_4
+109972|Quest Rosehill|Rosehill|YES|stars_4
+109974|Quest Savoy|Hobart|YES|stars_4
+109977|Darby Park|Subiaco|NO|stars_4
+109980|Quest Trinity House|Hobart|YES|stars_3.5
+109981|Quest Warrnambool|Warrnambool|NO|stars_4
+109982|Quest Waterfront|Hobart|YES|stars_4
+109983|Quest West End|Perth|NO|stars_4
+110046|Randwick Lodge|Sydney|NO|stars_3
+110184|Richmond|Adelaide|NO|stars_4
+110288|Ringwood Royale Apartments|Ringwood|NO|stars_4
+110299|Riverside Southbank|Brisbane|YES|stars_4
+110310|Brisbane International Rocklea|Rocklea|NO|stars_4
+110356|Rothbury On Ann Heritage Apartment|Brisbane|NO|stars_3.5
+110368|Royal Albert|Brisbane|NO|stars_4
+110375|Mantra Pandanas|Darwin|YES|stars_4
+110645|Royce|Melbourne|YES|stars_5
+110655|Russell|Sydney|YES|stars_3
+110678|Salamanca Inn|Hobart|NO|stars_4
+110679|Salamanca Terraces|Hobart|NO|stars_4
+110709|Sandown Regency|Noble Park|NO|stars_3
+110735|Mantra Chatswood|Chatswood|NO|stars_4
+110905|Mansion Hotel & Spa at Werribee|Werribee|YES|stars_5
+110940|Quest Gordon Place|Melbourne|YES|stars_4
+110944|Somerset On Salamanca|Hobart|YES|stars_4
+110945|Somerset On The Pier|Hobart|YES|stars_4
+110964|All Seasons Crows Nest|Sydney|YES|stars_3
+111055|Echuca Nirebo Motel|Echuca|NO|stars_4
+111064|Econo Lodge Albury Paddlesteamer|Albury|YES|stars_3
+111065|Sundowner Rockhampton|Rockhampton|YES|0
+111066|Quality Parklake|Shepparton|NO|stars_4
+111071|Mid City Warrnambool|Warrnambool|NO|stars_3.5
+111072|Sundowner Yass|Yass|NO|stars_3
+111074|Holiday Inn Warwick Farm|Warwick Farm|NO|stars_4
+111083|Surfers Century Oceanside Apartments|Surfers Paradise|NO|stars_4
+111158|The Brassey of Canberra|Barton|NO|stars_4
+111184|The Geographe Bayview Resort|Busselton|NO|stars_4
+111196|Grand Mercure The Hills Lodge|Castle Hill|NO|stars_4
+111205|Kirketon Sydney|Sydney|YES|stars_4
+111235|The Point Brisbane|Brisbane|YES|stars_4
+111354|Tradewinds Fremantle|Fremantle|NO|stars_4
+111451|Urban St. Leonards|Sydney|YES|stars_4
+111596|Brisbane International - Virginia|Boondall|NO|stars_4
+111611|Waldorf Apartment|Sydney|NO|stars_3
+111612|Waldorf Apartment Canberra|Canberra|YES|stars_4
+111613|Waldorf Apartments Sydney South|Sydney|NO|stars_3.5
+111632|Waterside Apartments|Perth|YES|stars_4
+111643|Wesley Lodge Motel|Sydney|NO|stars_3
+111673|Woolloomooloo Waters Apartment|Sydney|NO|stars_3
+111712|The York by Swiss-Belhotel|Sydney|YES|stars_4
+111713|York Canberra|Canberra|NO|stars_4
+111725|Zero Davey Apartment|Hobart|NO|stars_4
+111752|Best Western Astor Metropole & Apartments|Brisbane|NO|stars_3
+111825|De Vere|Sydney|YES|stars_3
+113292|Best Western One Four Nelson|Rye|NO|stars_4
+121505|The Sebel Melbourne Flinders Lane|Melbourne|NO|stars_4
+121536|Novotel Rockford Darling Harbour|Sydney|YES|stars_4
+124063|Franklin Central Apartments|Adelaide|NO|stars_4
+124066|Royal Woods Resort|Gold Coast|NO|stars_4
+124067|Surf Parade Resort|Gold Coast|YES|stars_4
+124070|Billabong Backpackers|Perth|NO|stars_2
+124071|Oaks Pacific Blue Resort|Port Stephens|YES|stars_4
+124074|Meriton Pitt Street|Sydney|NO|stars_5
+128885|Cullen Bay Resort|Darwin|NO|stars_4
+129061|Majestic Tynte Street|Adelaide|NO|stars_4
+129063|Peninsula|Airlie Beach|YES|stars_5
+129065|Sleepwell Motel|Albany|NO|stars_3
+129069|Macarthur Chambers|Brisbane|NO|stars_4
+129072|Manor Apartments|Brisbane|NO|stars_4
+129079|Mantra Trilogy|Cairns|NO|stars_4
+129080|Getaway on Grafton|Cairns|NO|stars_4
+129081|Waterfront Terraces|Cairns|YES|stars_4
+129082|Best Western Central Plaza Apartments Cairns|Cairns|NO|stars_3.5
+129084|Southern Cross Atrium Apartments|Cairns|NO|stars_4
+129085|City Plaza|Cairns|NO|stars_4
+129086|Heritage|Cairns|NO|stars_3
+129087|Tropic Towers Apartments|Cairns|NO|stars_4
+129088|BreakFree Grand Pacific|Caloundra|NO|stars_4
+129089|Pumicestone Blue|Caloundra|YES|stars_4
+129091|Shearwater Resort|Caloundra|NO|stars_4
+129092|Mercure Lake Macquarie Raffertys Resort|Cams Wharf|NO|stars_3.5
+129093|Belconnen Premier Inn|Canberra|NO|stars_4
+129099|Element On Coolum|Coolum Beach|NO|stars_4
+129100|Coconut Grove Holiday Apartments|Darwin|NO|stars_3
+129102|Yarraby Holiday Park|Echuca|NO|stars_4
+129103|Mantra Ettalong Beach|Ettalong|YES|stars_4
+129105|Mantra Geraldton|Geraldton|NO|stars_3.5
+129106|BreakFree Moroccan|Gold Coast|YES|stars_4
+129107|Regent Apartments|Gold Coast|NO|stars_4
+129109|Towers Of Chevron|Gold Coast|YES|stars_4
+129110|Turtle Beach Resort|Mermaid Beach|NO|stars_4
+129112|The Phoenician Resort Apartments|Broadbeach|NO|stars_4
+129114|Bel Air on Broadbeach|Broadbeach|NO|stars_4
+129115|Mantra Broadbeach on the Park|Broadbeach|NO|stars_4
+129116|St. Tropez Resort|Gold Coast|NO|stars_3
+129118|Club Surfers|Gold Coast|NO|stars_3
+129119|Palazzo Colonnades|Gold Coast|NO|stars_4
+129120|Surfers Del Ray|Gold Coast|NO|stars_3
+129121|Enderley Gardens Resort|Gold Coast|NO|stars_3
+129122|Broadbeach Savannah|Gold Coast|NO|stars_4
+129123|Mantra Crown Towers|Surfers Paradise|YES|stars_4
+129124|Xanadu Holiday Resort|Main Beach|NO|stars_4
+129125|Centrepoint Resort|Surfers Paradise|NO|stars_3
+129128|International Beach Resort|Gold Coast|NO|stars_3
+129129|Mantra Circle on Cavill|Surfers Paradise|YES|stars_4.5
+129130|Surf Regency|Gold Coast|NO|stars_3
+129131|Sandcastles On Broadwater|Gold Coast|NO|stars_4
+129133|Mantra Legends|Surfers Paradise|YES|stars_4
+129134|Golden Riviera Beach Resort|Tugun|NO|stars_4
+129136|Aruba Surf Resort|Broadbeach|NO|stars_4
+129137|The Wave Resort|Gold Coast|YES|stars_4
+129138|Q1 Resort & Spa|Surfers Paradise|YES|stars_4
+129139|Artique Resort Surfers Paradise|Gold Coast|YES|stars_4
+129140|Sea World Resort|Main Beach|NO|stars_4
+129142|Peppers Springs Retreat|Hepburn Springs|NO|stars_4
+129143|BreakFree Great Sandy Straits|Hervey Bay|NO|stars_4
+129146|Kangaroo Island Seafront|Penneshaw|NO|stars_4
+129147|Mountain Heritage|Blue Mountains|NO|stars_4
+129148|Addisons On Anzac|Kensington|NO|stars_3
+129150|Peppers Salt Resort & Spa|Kingscliff|NO|stars_4
+129151|Mantra On Salt Beach|Kingscliff|YES|stars_4
+129153|Quest Launceston|Launceston|NO|stars_4
+129154|The Sebel Launceston|Launceston|YES|stars_4
+129156|Mantra Lorne|Lorne|YES|stars_4
+129157|Mandurah Holiday Village|Mandurah|NO|stars_3
+129158|Seashells Mandurah|Mandurah|YES|stars_4
+129159|Margarets Forest|Margaret River|NO|stars_4
+129160|Darby Park Serviced Residences|Margaret River|NO|stars_4
+129161|The Sebel Maroochydore|Maroochydore|YES|stars_4
+129162|Quest Richmond|Melbourne|NO|stars_4
+129164|Quay West Suites Melbourne|Melbourne|YES|stars_5
+129165|DoubleTree Melbourne - Flinders Street|Melbourne|YES|stars_4
+129169|Quest Flemington|Melbourne|NO|stars_4
+129170|Quest Royal Gardens|Fitzroy|NO|stars_3.5
+129171|Quest Prahran|Melbourne|NO|stars_4
+129173|Adina Apartment Hotel St Kilda|Melbourne|NO|stars_4
+129174|Seasons Botanic Gardens|Melbourne|NO|stars_4
+129175|Best Western Riverside Apartments|Melbourne|NO|stars_4
+129182|Ivory Palms Resort|Noosa|YES|stars_4
+129184|Noosa International|Noosa|NO|stars_3
+129186|Sanctuary|Palm Cove|NO|stars_5
+129189|Broadwater Resort|Perth|YES|stars_4
+129191|New Esplanade|Perth|NO|stars_3
+129193|Sunmoon Boutique Resort|Scarborough|YES|stars_3.5
+129195|The Richardson Hotel & Spa|Perth|NO|stars_5
+129198|Cypress Lakes Resort Hunter Valley|Pokolbin|NO|stars_4
+129201|Ti Tree Resort|Port Douglas|NO|stars_3
+129202|Shantara Resort & Spa|Port Douglas|YES|stars_4
+129203|Central Plaza|Port Douglas|NO|stars_4
+129204|Freestyle Resort|Port Douglas|NO|stars_4
+129206|At The Mango Tree|Port Douglas|NO|stars_3
+129207|Oaks Lagoons|Port Douglas|NO|stars_4
+129208|Sands Resort|Port Douglas|NO|stars_3
+129210|Best Western Plus HW Boutique Hotel|Port Macquarie|YES|stars_4
+129213|Ramada Resort Shoal Bay|Shoal Bay|NO|stars_4
+129216|Discovery Holiday Parks|Rockhampton|NO|stars_4
+129220|Stanley Seaview Inn|Stanley|NO|stars_3
+129221|Peppers Manor House|Sutton Forest|NO|stars_4
+129223|Diamant|Sydney|YES|stars_4
+129225|The Sebel Sydney Chatswood|Chatswood|YES|stars_4
+129228|Mantra on Kent|Sydney|YES|stars_4
+129230|Fraser Suites|Sydney|YES|stars_5
+129231|Quest Grande Esplanade Manly|Manly|YES|stars_4
+129232|BreakFree On George|Sydney|YES|stars_4
+129233|Quay West Suites Sydney|Sydney|YES|stars_5
+129235|Travelodge Bankstown|Sydney|YES|stars_3
+129237|Adina Apartment Hotel Chippendale|Sydney|NO|stars_4
+129239|Adina Apartment Hotel Sydney, Crown Street|Sydney|NO|stars_4
+129241|City Oasis Inn|Townsville|NO|stars_3
+129244|Castaways|Trinity Beach|NO|stars_3
+129246|Eaglereach Wilderness|Vacy|NO|stars_4
+129247|The Sebel Resort & Spa Hawkesbury Valley|Windsor|YES|stars_4
+133338|Paringa|Adelaide|NO|stars_3
+133341|The Franklin Boutique Hotel|Adelaide|NO|stars_4
+133343|Whitsunday Vista Resort|Airlie Beach|NO|stars_4
+133344|Shingley Beach Resort|Airlie Beach|NO|stars_3.5
+133345|Toscana Village Resort|Airlie Beach|NO|stars_4
+133351|Diplomat Motel|Alice Springs|NO|stars_3.5
+133357|Best Western Lake Inn|Ballarat|NO|stars_3.5
+133367|Homestead Motor Inn|Bendigo|NO|stars_3
+133368|Peppers Craigieburn|Bowral|NO|stars_4
+133370|Mercure Brisbane King George Square|Brisbane|NO|stars_4
+133371|Metropolitan Motor Inn|Brisbane|NO|stars_3
+133375|Central West End|Brisbane|NO|stars_4
+133378|Urban Brisbane|Brisbane|YES|stars_4
+133379|Snooze Inn Fortitude Valley|Brisbane|NO|stars_3
+133380|Dockside|Brisbane|YES|stars_4
+133381|M On Mary|Brisbane|NO|stars_4
+133383|Windsor International Motel|Brisbane|NO|stars_4
+133397|Jack & Newell|Cairns|NO|stars_4.5
+133398|Reef Palms|Cairns|NO|stars_3
+133399|Inn Cairns|Cairns|NO|stars_4
+133401|Nomads Esplanade Backpacker|Cairns|YES|stars_2
+133405|Pelican Waters Golf Resort & Spa|Caloundra|NO|stars_4
+133406|Diamant|Canberra|YES|stars_4
+133408|Alpha Hotel Canberra|Canberra|YES|stars_4
+133411|Forrest|Canberra|NO|stars_3
+133412|Pinnacle Apartments|Canberra|NO|stars_4
+133413|Diplomat|Canberra|NO|stars_4
+133423|Points North Apartments|Coolangatta|NO|stars_4
+133424|Ocean Plaza|Coolangatta|NO|stars_4
+133426|Mediterranean All Suites|Darwin|NO|stars_3
+133434|Comfort Inn Settlement|Echuca|NO|stars_3
+133437|Novotel Geelong|Geelong|NO|stars_4
+133440|Mercure|Geelong|NO|stars_4
+133441|Country Comfort Adelaide Manor|Gepps Cross|YES|stars_4
+133444|Metro Hotel & Apartments Gladstone|Gladstone|NO|stars_3.5
+133451|BreakFree Diamond Beach|Gold Coast|NO|stars_4
+133453|Hi Surf Beachfront Apartments|Surfers Paradise|YES|stars_4
+133454|Carmel By The Sea|Broadbeach|NO|stars_4
+133455|Aristocrat|Gold Coast|NO|stars_3
+133456|Trilogy|Gold Coast|YES|stars_4
+133457|Burleigh Mediterranean Resort Enquiries|Miami|NO|stars_4
+133459|Aegean Resort|Gold Coast|NO|stars_4
+133460|BreakFree Cosmopolitan|Surfers Paradise|NO|stars_3
+133463|Sunbird Beach Resort Gold Coast|Main Beach|NO|stars_4
+133465|Anacapri|Gold Coast|NO|stars_3
+133466|Islander Backpackers|Surfers Paradise|YES|stars_2.5
+133467|Biarritz|Gold Coast|NO|stars_4
+133469|Mantra Wings|Surfers Paradise|NO|stars_4
+133475|The Town House Motor Inn|Goondiwindi|YES|0
+133479|Tamar Valley Resort|Launceston|YES|stars_4
+133487|Azzura Greens Resort|Hope Island|NO|stars_5
+133489|Country Comfort Ipswich|Ipswich|YES|stars_3
+133493|Santai Retreat|Kingscliff|NO|stars_5
+133496|Hotel Launceston|Launceston|NO|stars_3
+133497|Adina Place Motel Apartments Launceston Tasmania|Launceston|NO|stars_3
+133503|Peppers Blue On Blue Resort|Magnetic Island|NO|stars_4
+133505|Sand Dunes Resort|Marcoola|NO|stars_4
+133509|Horton Apartments|Maroochydore|NO|stars_4
+133510|Aqua Vista Resort|Maroochydore|NO|stars_4
+133512|Apartments At Docklands|Docklands|NO|stars_4
+133513|Apartments Of South Yarra|Melbourne|NO|stars_3
+133514|Grand Mercure Apartments Dockland|Docklands|YES|stars_4
+133515|Sophia|Melbourne|NO|stars_4
+133516|Best Western Airport Motel & Convention Centre|Melbourne|NO|stars_3.5
+133517|City Garden Melbourne|Melbourne|NO|stars_3
+133520|Easystay at Carlisle Street|St. Kilda|NO|stars_3
+133521|Easystay Apartments Raglan|St. Kilda|NO|stars_3
+133522|Albert Heights|Melbourne|NO|stars_4
+133523|Causeway Inn On The Mall|Melbourne|YES|stars_3
+133527|Punthill - Little Bourke|Melbourne|YES|stars_4
+133528|Somerset Gordon Heights|Melbourne|YES|stars_4
+133535|Mantra Zanzibar|Mooloolaba|NO|stars_4
+133537|Seamark on First|Mooloolaba|NO|stars_4
+133538|Mantra Sirocco|Mooloolaba|NO|stars_4
+133539|Caribbean Resort|Mooloolaba|NO|stars_4
+133543|Quality Resort Parklands Resort & Conference Centre|Mudgee|NO|stars_4
+133546|Mantra Aqua|Nelson Bay|NO|stars_4
+133548|Executive Inn|Newcastle|YES|0
+133550|Ibis|Newcastle|YES|stars_3
+133553|Medina Serviced Apartments North Ryde|North Ryde|YES|stars_4
+133554|Travelodge Macquarie|North Ryde|NO|stars_3
+133557|Ibis Styles Orange|Orange|NO|stars_4
+133558|Melaleuca Resort|Palm Cove|NO|stars_4
+133568|Joondalup City|Perth|NO|stars_4.5
+133571|Kings Perth|Perth|YES|stars_3
+133572|Criterion|Perth|YES|stars_3
+133577|Stewarts Bay Lodge|Port  Arthur|NO|stars_3.5
+133580|Mantra Aqueous on Port|Port Douglas|NO|stars_4
+133581|Nimrod Resort|Port Douglas|YES|stars_3
+133582|Best Western Le Cher du Monde Apartments|Port Douglas|NO|stars_4
+133586|Mantra Quayside|Port Macquarie|NO|stars_4
+133593|Comfort Inn Citrus Valley|Renmark|NO|stars_3.5
+133596|Leichhardt|Rockhampton|NO|stars_3
+133605|Tidal Waters Resort|St Helens|NO|stars_4
+133608|Ibis Styles Swan Hill|Swan Hill|NO|stars_4
+133609|Amos House / Swansea Ocean Villas|Swansea|NO|stars_4
+133610|Metro Apartments on Darling Harbour|Sydney|YES|stars_3
+133611|Travelodge Phillip Street|Sydney|NO|stars_3
+133612|Castlereagh Boutique|Sydney|YES|stars_4
+133613|Ibis budget Sydney East|Sydney|NO|stars_2
+133614|McLaren North Sydney|Sydney|YES|stars_3
+133615|North Shore|Sydney|YES|stars_3
+133616|Aspire Hotel Sydney|Sydney|NO|stars_3
+133617|Maze Backpackers|Sydney|YES|stars_1
+133618|Royal Pacific Hotel|Sydney|YES|stars_4
+133619|Ultimate Apartments|Sydney|NO|stars_3
+133621|Ibis Sydney Olympic Park|Sydney|YES|stars_3
+133622|Mercure Sydney Potts Point|Sydney|NO|stars_4
+133623|Rydges Campbelltown|Campbelltown|YES|stars_4
+133637|Ibis Styles Tamworth|Tamworth|NO|stars_3
+133641|Country Comfort Terrigal|Terrigal|YES|stars_4
+133642|Pullman Magenta Shores Resort|The Entrance|YES|stars_5
+133645|The Plaza|Townsville|YES|stars_4
+133648|Mercure Wagga Wagga|Wagga Wagga|NO|stars_4
+133651|Tree Top Walk Motel|Walpole|NO|stars_2
+133656|Adina Apartment Hotel Wollongong|Wollongong|YES|stars_4
+133659|Best Western City Sands|Wollongong|NO|stars_3.5
+133660|Ibis|Wollongong|YES|stars_3
+134105|Ramada Encore|Dandenong|YES|stars_4
+134109|Travelodge Manly|Sydney|NO|stars_3
+134187|Mercure North Melbourne|Melbourne|NO|stars_4
+134253|Paradise Palms Resort & Country Club|Cairns|YES|stars_4
+134254|Clifton Suites on Northbourne|Canberra|YES|stars_4
+135272|Mackay Grande Suites|Mackay|YES|stars_4
+135273|Vulcan|Sydney|YES|stars_3
+135982|The Beach House at Bayside|Albany|NO|stars_4.5
+135984|Kooljaman|Cape Leveque|NO|stars_3
+136012|Moorings at Metung|Metung|NO|stars_3.5
+136021|Woodman Estate|Mornington|NO|stars_3.5
+136022|Peppers Moonah Link Resort|Mornington|NO|stars_4
+136023|Paperbark Camp|Cape Jervis|NO|stars_3
+136032|Port Lincoln|Port Lincoln|NO|stars_4
+136304|Seashells Beachfront Resort|Diamond Beach|NO|stars_3
+136377|Rose Gums Wilderness Retreat|Wooroonooran Nationalpark|NO|stars_4
+136736|Ocean Pacific|Gold Coast|YES|stars_4
+137068|Pagoda Resort & Spa|Como|YES|stars_4
+137095|Ashley Gardens|Melbourne|NO|stars_4
+137186|Mantra Bell City|Melbourne|YES|stars_4
+137188|Aspect Central|Cairns|NO|stars_4
+137202|Kendenup Lodge & Cottages|Kendenup|NO|stars_4
+137219|Ibis Glen Waverley|Glen Waverley|YES|stars_3
+137247|Novotel|Glen Waverley|YES|stars_4
+137289|Mantra on the Park|Melbourne|YES|stars_4
+137464|Horizon|Stanley|NO|stars_5
+137597|Crown Metropol Perth|Perth|YES|stars_5
+138000|Pullman at Sydney Olympic Park|Homebush Bay|YES|stars_5
+138306|Panorama Tower|Gold Coast|NO|stars_3
+138355|Esplanade Resort & Spa|Lake Entrance|NO|stars_4
+138370|Mantra Sierra Grand|Broadbeach|NO|stars_4
+138378|Evolution Apart.|Brisbane|NO|stars_4
+138381|Rydges Kalgoorlie Resort & Spa|Kalgoorlie|YES|stars_4
+138456|South Pacific Resort|Burnt Pine|NO|stars_3
+138474|Chateau Beachside|Gold Coast|NO|stars_3.5
+138510|Blue Horizon|Airlie Beach|NO|stars_4
+138536|Explorers Inn|Brisbane|NO|stars_3
+139135|Oaks Aspire Apartments|Woodend|YES|stars_4
+139460|Quest Potts Point|Sydney|YES|stars_4.5
+139805|Leisure Inn Sydney Central|Sydney|NO|stars_3
+139811|Vibe Darwin Waterfront|Darwin|YES|stars_4
+139816|Comfort Inn & Suites Arlia Sands|Hervey Bay|NO|stars_3.5
+139822|Base Backpackers Brisbane Central|Brisbane|NO|stars_2
+139874|Adina Apartment Hotel Darwin Waterfront|Darwin|NO|stars_4
+139875|Jabiru Safari Lodge|Biboohra|NO|stars_2.5
+139946|Pavillions on 1770|Agnes Water|NO|stars_4
+139947|Grand Mercure Azure Sea Whitsundays|Airlie Beach|NO|stars_4
+139949|Amaroo at Trinity|Trinity Beach|NO|stars_4
+139951|Hibiscus Gardens Spa Resort|Port Douglas|NO|stars_4
+139953|Driftwood Mantaray Holiday Apartments|Port Douglas|NO|stars_4
+139954|Latitude 16 Beachfront Terraces|Port Douglas|NO|stars_3
+139955|Bay Villas Resort|Port Douglas|NO|stars_3.5
+140108|Comfort Inn & Suites Sombrero|Adelaide|YES|stars_4
+140122|Metro Ipswich International|Ipswich|YES|stars_4
+140133|Punthill - Williamstown|Williamstown|YES|stars_4.5
+140134|Punthill - Essendon|Essendon|YES|stars_4.5
+140135|Punthill - Knox|Melbourne|YES|stars_4.5
+140136|Quality Mildura Grand|Mildura|NO|stars_4
+140137|Quality Inn Overlander Homestead|Roma|NO|stars_3.5
+140138|Comfort Inn Capital Horsham|Horsham|NO|stars_4
+140501|Bayside Holiday|Broome|NO|stars_3
+140502|Sea Change Beachfront|Trinity Beach|YES|stars_5
+140504|Country Comfort Coffs Harbour|Coffs Harbour|YES|stars_3
+140505|Coolum Beach Resort|Coolum Beach|NO|stars_3
+140506|Endless Summer Resort|Coolum Beach|NO|stars_4
+140508|Atrium Resort|Gold Coast|NO|stars_4
+140509|Baronnet|Gold Coast|NO|stars_4
+140511|Chevron Palms|Surfers Paradise|NO|stars_4
+140512|Chidori Court|Main Beach|NO|stars_3
+140517|Atlantis|Marcoola|NO|stars_4
+140518|Ramada Marcoola Beach|Marcoola|NO|stars_4
+140520|Melbourne Short Stay Apartments - Southbank Central|Melbourne|YES|stars_4
+140521|Bluewater Point Resort|Minyama|NO|stars_4.5
+140522|Coco Bay Resort|Noosa|NO|stars_3.5
+140523|Rise Apartments|Noosa|NO|stars_4.5
+140527|Latitude 16 Coral Apartments|Port Douglas|NO|stars_3.5
+140528|Martinique On Macrossan|Port Douglas|NO|stars_4
+140530|Metro Inn Ryde|Sydney|NO|stars_3.5
+140532|Hideaway Retreat Centre|Blue Mountains|NO|stars_4
+141665|Nomads Byron Bay Backpackers|Byron Bay|YES|stars_2.5
+142226|Waverley House Cottages|Lake Entrance|NO|stars_4
+142354|Grand Mercure Basildene Manor, Accor Vacation Club|Margaret River|NO|stars_4
+143395|Diamant Brisbane|Brisbane|NO|stars_4
+143398|Walhalla's Star|Walhalla|NO|stars_3.5
+144552|Clarion Soho|Adelaide|YES|stars_4.5
+144554|Ibis Styles Albany|Albany|NO|stars_4
+144556|Quest Albury|Albury|NO|stars_4
+144558|Quest Alice Springs|Alice Springs|NO|stars_4
+144563|Best Western Plus Ascot Serviced Apartments|Ascot|NO|stars_4
+144565|Quality Inn Heritage On Lydiard|Ballarat|NO|stars_3.5
+144571|Comfort Inn Cobram Barooga Golf Course|Barooga|NO|stars_3
+144574|Governor Macquarie Motor Inn|Bathurst|NO|stars_3.5
+144575|Sundowner Bendigo Golden Reef|Bendigo|YES|0
+144577|Brighton Savoy|Melbourne|NO|stars_4
+144578|Caroline Serviced Apartments Brighton|Melbourne|NO|stars_4
+144579|Emporium|Brisbane|NO|stars_5
+144580|Oaks Casino Towers|Brisbane|NO|stars_4
+144581|Republic Apartments|Brisbane|NO|stars_4
+144582|Oaks Aurora|Brisbane|YES|stars_4
+144583|Quest Spring Hill|Brisbane|NO|stars_4
+144585|Mantra Bunbury|Bunbury|NO|stars_4
+144586|Quest Bunbury|Bunbury|NO|stars_4
+144587|Comfort Inn & Suites Burwood|Burwood|NO|stars_4
+144588|The Sebel Busselton|Busselton|NO|stars_4
+144589|North Cove Waterfront Suites|Cairns|NO|stars_4
+144593|Realm|Canberra|NO|stars_5
+144600|Quest Chermside|Brisbane|YES|stars_4
+144602|Matador Motor Inn|Coffs Harbour|NO|stars_3
+144603|Bonville Lodge|Bonville|YES|stars_4
+144604|Santa Fe Luxury Bed & Breakfast|Coffs Harbour|NO|stars_4
+144610|Novotel Forest Resort Creswick|Creswick|NO|stars_4
+144611|Victoria House Motor Inn|Melbourne|NO|stars_4
+144613|Grand Harbour Accomodation|Docklands|NO|stars_4
+144615|Quest on Doncaster|Doncaster|NO|stars_3
+144616|Quality Inn Dubbo International|Dubbo|NO|stars_3
+144617|Cattlemans Country Motor Inn|Dubbo|NO|stars_4
+144619|Quest East St Kilda|St. Kilda|NO|stars_4
+144620|The 150 Apartments|Sydney|NO|stars_4
+144621|Alpha Hotel Eastern Creek|Eastern Creek|YES|stars_4
+144623|Econo Lodge Bayview|Eden|NO|stars_3
+144624|Best Western Fawkner Airport Motor Inn & Serviced Apart|Fawkner|NO|stars_3
+144626|Apartments at Forest Hill|Forest Hill|YES|stars_4
+144628|Comfort Inn Bay City|Geelong|NO|stars_3
+144631|Mercure Resort Gerringong by the Sea|Gerringong|NO|stars_4
+144633|Apartments @ Glen Waverley|Glen Waverley|YES|stars_4
+144634|Windsurfer Resort|Gold Coast|NO|stars_3.5
+144639|Quest World Square|Haymarket|YES|stars_4
+144640|Beachside Motor Inn|Hervey Bay|YES|stars_4
+144641|St. Ives Motel Apartments|Hobart|NO|stars_4
+144642|Best Western Ipswich Heritage Motor Inn|Ipswich|NO|stars_4
+144643|Quest Ipswich|Ipswich|NO|stars_3.5
+144647|Econo Lodge City Star|Brisbane|NO|stars_3
+144648|Echoes Boutique|Blue Mountains|NO|stars_4
+144649|Adelaide Royal Coach Motor Inn|Adelaide|NO|stars_3.5
+144650|Apartments @ Kew|Melbourne|NO|stars_3.5
+144651|Apartments at Kew Q45|Melbourne|YES|stars_4
+144656|Comfort Inn Crest Mandurah|Mandurah|YES|stars_3
+144657|Mansfield Valley Motor Inn|Brisbane|NO|stars_3
+144659|Best Western Kimba Lodge Motel|Maryborough|NO|stars_3.5
+144665|Oaks On Lonsdale|Melbourne|YES|stars_4
+144669|Alphington Serviced Apartments|Melbourne|NO|stars_3
+144670|Caroline Serviced Apartments South Yarra|Melbourne|NO|stars_4
+144671|Quest East Melbourne|Melbourne|NO|stars_4
+144673|Seasons Heritage Melbourne|Melbourne|NO|stars_4
+144674|Milano Serviced Apartments|Melbourne|NO|stars_3.5
+144675|Yarra Valley Lodge|Chirnside Park|YES|stars_4.5
+144680|Hemisphere|Melbourne|NO|stars_4
+144682|Apartments at Mount Waverley|Melbourne|YES|stars_4
+144685|Best Western Red Bridge Motor Inn|Sunshine Coast|NO|stars_4
+144689|Magic Mountain Resort|Nobby Beach|YES|stars_3.5
+144692|Links Lady Bay Resort|Normanville|NO|stars_4
+144693|Lamplighter Motor Inn|Melbourne|NO|stars_3
+144696|Station Motel|Parkes|NO|stars_4
+144700|Pool Resort|Port Douglas|NO|stars_4.5
+144701|Dreamcatcher Apartments|Port Douglas|NO|stars_4
+144704|Mercure Centro Port Macquarie|Port Macquarie|NO|stars_4
+144708|Victoria Lodge Motor Inn|Portland|YES|stars_4
+144711|Richmond Hill|Melbourne|NO|stars_3
+144712|Grand Mercure The Vintage Accor Vacation Club Apartments|Rothbury|NO|stars_4
+144715|Quest Sanctuary Lakes|Sanctuary Lakes|NO|stars_4
+144718|Amity|Melbourne|NO|stars_4
+144720|Oxygen Apartments|Brisbane|NO|stars_4
+144722|Quest on St Kilda Road|Melbourne|NO|stars_4
+144723|The Prince Melbourne|Melbourne|NO|stars_4
+144724|Crest On Barkly|Melbourne|YES|stars_3.5
+144727|Napoleon on Kent|Sydney|NO|stars_4
+144731|Springfield Lodge|Sydney|NO|stars_3
+144732|Barossa Weintal|Tanunda|NO|stars_3.5
+144737|Quality Platinum International|Toowoomba|NO|stars_3.5
+144739|Wyndham Resort Torquay|Torquay|YES|stars_4
+144740|Grand Mercure Apartments Allegra Hervey Bay|Hervey Bay|NO|stars_5
+144741|Grand Hotel Townsville|Townsville|YES|stars_4
+144743|Summit Motel Townsville|Townsville|NO|stars_4
+144744|Mantra Tullamarine|Melbourne|YES|stars_4.5
+144745|Grand Mercure Apartments Twin Waters|Maroochydore|NO|stars_4
+144746|McCracken Country Club|Victor Harbor|NO|stars_4
+144748|Best Western Warragul Motel|Warragul|NO|stars_3
+144749|City Central Apartments|Warrnambool|NO|stars_3
+144751|Comfort Inn Warrnambool International|Warrnambool|YES|stars_3.5
+144752|Best Western Olde Maritime Motor Inn|Warrnambool|NO|stars_3
+144754|Quest on Rheola|Perth|NO|stars_4
+144755|Paradise Bay|Whitsunday Island|NO|stars_4.5
+144756|Quest Williamstown North|Williamstown|NO|stars_4
+144757|Amawind Apartments|Williamstown|NO|stars_4.5
+144760|Mantra Wollongong|Wollongong|NO|stars_3.5
+144999|Injidup Spa Retreat|Yallingup|NO|stars_5
+145001|Quest St. Kilda Bayside|Melbourne|NO|stars_4
+145241|Kalbarri Edge Resort|Kalbarri|NO|stars_4
+145266|Water's Edge Resort|Airlie Beach|YES|stars_4
+161856|Bed & Breakfast Sydney Harbour|Sydney|NO|stars_3.5
+162718|Piermont Retreat|Swansea|NO|stars_4
+182174|The Sebel Mandurah|Mandurah|YES|stars_4
+182175|Barefoot Lodge|Long Island/Whitsundays|NO|stars_2.5
+182176|Jungle Lodge|Cape Tribulation|YES|stars_2
+182177|Ibis King Street Wharf|Sydney|YES|stars_3
+182900|Q Station Sydney - Harbour National Park|Manly|YES|stars_4
+182953|Emirates Wolgan Valley Resort & Spa|Lithgow|YES|stars_5
+183118|Mandalay Luxury Beachfront Apartments|Port Douglas|NO|stars_4
+183283|Oaks Gateway on Palmer|Townsville|YES|stars_4
+183285|Grampians Motel|Halls Gap|NO|stars_3
+183286|Agincourt Beachfront Apartments|Cairns|NO|stars_4
+184026|Quality Inn Airport Heritage|Brisbane|NO|stars_4
+187436|Bay Lodge Apartments|Surfers Paradise|NO|stars_3
+187513|Ramada & Suites Ballina|Ballina|YES|stars_4
+187640|Best Western Alexander Motor Inn|Essendon|NO|stars_3
+187952|Mantra One Sandy Bay Road|Hobart|NO|stars_4
+188022|Hilton Melbourne South Wharf|Melbourne|YES|stars_5
+188023|RACV Noosa Resort|Noosa|YES|stars_5
+195888|Clarion Suites Mullaloo Beach|Perth|YES|stars_4
+195890|Travelodge Hotel Hobart Airport|Hobart|NO|stars_4
+201830|iStay Precinct|Adelaide|YES|stars_4
+201832|Mantra on Frome|Adelaide|YES|stars_4
+201833|Marengo Motel|Apollo Bay|NO|stars_3
+201834|Rydges Mount Panorama Bathurst|Bathurst|YES|stars_4
+201835|Motel Maroondah|Melbourne|NO|stars_2.5
+201857|Crowne Plaza Adelaide|Adelaide|YES|stars_5
+201957|Pinctada Cable Beach Resort|Broome|YES|stars_5
+201958|Pinctada Kimberley Grande|Kununurra|NO|stars_4
+202003|Akama Resort|Hervey Bay|YES|stars_5
+202012|Aluxstay Apartments Bell City - geschlossen|Melbourne|NO|stars_4
+202013|Ramada Resort Diamond Beach|Diamond Beach|YES|stars_4
+202014|Dawson Motor inn|Lismore|YES|stars_3
+202015|Gearin|Blue Mountains|YES|stars_2
+202016|Travelodge Docklands|Docklands|YES|stars_4
+202017|Redan Apartments|St. Kilda|YES|stars_2
+202018|Regal Apartments|Perth|YES|stars_4
+202020|Murray Street Lodge Perth|Perth|YES|stars_3.5
+202021|Sleep Express Motel|Sydney|YES|stars_3
+202022|Spicers Clovelly Estate|Sunshine Coast|YES|stars_5
+202261|Lalor Lodge|Apollo Bay|NO|stars_3
+202262|Tingara View Cottages|Wilson's Promontory|NO|stars_3.5
+202267|Yering Gorge Cottages|Yering|NO|stars_4.5
+202268|Rum Jungle Bungalows|Batchelor|NO|stars_3
+202269|Home Valley Station|Kimberley|YES|stars_4
+202270|Vue Trinity Beach Apartments|Trinity Beach|NO|stars_5
+202404|Best Western Airport 85 Motel|Ascot|NO|stars_4
+202437|Manor Gums|Warrnambool|NO|stars_2
+202462|Avoca Lodge|Randwick|NO|stars_3
+202463|Challis Lodge|Potts Point|NO|stars_2
+202465|Perouse Lodge|Randwick|NO|stars_3
+202466|Macleay Lodge|Potts Point|NO|stars_2
+202467|Manly Beachside Apartments|Manly|YES|stars_2.5
+202469|Nomads All Nations Backpackers|Melbourne|YES|stars_2
+203272|Mount Bundy Station|Adelaide River|NO|stars_3
+203273|Novotel Brisbane Airport|Brisbane|NO|stars_4
+203274|Oaks M on Palmer|Townsville|YES|stars_4
+203275|Fraser Place|Melbourne|YES|stars_4
+203276|Intercontinental Adelaide|Adelaide|YES|stars_5
+203277|Causeway 353|Melbourne|YES|stars_4
+203278|The Pearle|Broome|YES|stars_5
+203279|Dive Coogee Beach|Coogee|YES|stars_4
+203280|Jolly Swagman Backpackers|Potts Point|YES|stars_4
+203281|Home Backpackers|Sydney|YES|stars_2
+203283|Punthill - Dandenong|Dandenong|YES|stars_4.5
+203284|Sydney Central on Wentworth|Sydney|YES|stars_3
+203556|Mitchell Falls Wilderness Lodge|Mitchell-River-Nationalpark|NO|stars_3.5
+203570|Waves|Port Camphell|NO|stars_3
+203654|201 Lake Street|Cairns|NO|stars_4
+203724|A Tropical Nite|Port Douglas|NO|stars_4
+203775|Abbey on Roma Brisbane City Apartments|Brisbane|NO|stars_3
+204285|Alexandra Apartments|Bundaberg|NO|stars_4
+204494|Amalfi Resort|Busselton|YES|stars_3
+205192|Argosy On The Beach|Clifton Beach|NO|stars_4
+205307|Ashfield Manor Bed & Breakfast|Sydney|NO|stars_3
+205374|At The Sound|Noosa|NO|stars_4
+205375|Hotel at Waterfront Whitsunday Retreat|Airlie Beach|YES|stars_4
+205413|Atlantic Tower Motor Inn|Adelaide|NO|stars_3.5
+205583|Avonmore On The Park Boutique|Sydney|NO|stars_4
+205842|Bargara Blue Resort|Bargara|NO|stars_4
+205885|Bay Haven Lodge|Byron Bay|NO|stars_4
+205888|Bay Motel|Byron Bay|NO|stars_3
+205914|Beach Haven|Gold Coast|NO|stars_4
+205927|Beaches on Lammermoor Apartments|Yeppoon|NO|stars_4
+206018|Belaire Place|Caloundra|NO|stars_3.5
+206028|Bella Casa Noosa|Noosa|NO|stars_4
+206035|Bellagio By The Sea|Sydney|YES|stars_4
+206060|Bellevue At Trinity Beach|Trinity Beach|YES|stars_5
+206158|Best Western Darwin Airport Gateway Motel|Darwin|NO|stars_4
+206271|Blue Cliffs Retreat|Hepburn Springs|NO|stars_4
+206296|Blue Waters Apartments|Gold Coast|NO|stars_4
+206657|Discovery Holiday Parks - Byron Bay|Byron Bay|NO|stars_3
+206733|Camden Motor Inn|Gold Coast|NO|stars_3
+207043|Castaway Cove Resort Noosa|Noosa|NO|stars_4
+207162|Mercure Melbourne Therry Street|Melbourne|YES|stars_4
+207224|Chalet Swisse Spa|Batemans Bay|NO|stars_4
+207233|Chancellor Lakeside|Varsity Lakes|NO|stars_4.5
+207319|Chifley Apartments Newcastle|Newcastle|YES|stars_4
+207414|City East Motel|Melbourne|YES|stars_3
+207415|City Gardens Apartments|Darwin|NO|stars_3
+207441|City Lodge|Sydney|NO|stars_3
+207518|Clifton Sands Holiday Units|Clifton Beach|NO|stars_3
+207542|Clubyamba Luxury Holiday Villas|Yamba|NO|stars_4
+207559|Coconut Grove|Port Douglas|YES|stars_5
+207682|Contessa Holiday Apartments|Main Beach|NO|stars_4
+207693|Coogee Beach Holiday Park|Coogee|NO|stars_3
+207915|Culgoa Point Beach Resort|Noosa|NO|stars_3
+208668|Eco Beach|Broome|YES|stars_4
+209061|Exmouth Cape Holiday Park|Exmouth|NO|stars_4
+209481|Gallery Apartments|Warrnambool|NO|stars_4
+209501|Garden-Lodge Sydney|Sydney|NO|stars_3
+209727|Geelong Riverview Tourist Park|Geelong|NO|stars_4
+209802|Gladstone City Central Apartments|Gladstone|NO|stars_4
+209807|Glen Eden Beach Resort|Noosa|NO|stars_4
+209863|Golden Sands|Main Beach|YES|stars_4
+210076|Grosvenor Court Apartments|Hobart|YES|stars_4
+210082|Grosvenor in Cairns|Cairns|NO|stars_4
+210295|Hatchers Richmond Manor|Richmond|NO|stars_4
+210468|High Cross Park Lodge|Sydney|NO|stars_3
+210479|Highfield|Sydney|NO|stars_1.5
+210526|Hobart Apartments|Hobart|NO|stars_3
+211846|Island Beach Resort|Gold Coast|NO|stars_3.5
+211847|Island Gateway Holiday Park|Airlie Beach|NO|stars_3.5
+211882|Jacksons Motor Inn|Adelaide|NO|stars_3
+211884|Jacobs Creek Retreat at Moorooroo Park|Tanunda|NO|stars_4
+211994|Kalbarri Seafront Villas|Kalbarri|NO|stars_3
+212013|Kangaroo Point Holiday Apartments|Brisbane|NO|stars_4
+213628|Macquarie Lodge Noosa Heads|Noosa|NO|stars_4
+213629|Macrossan House Boutique Holiday Apartments|Port Douglas|NO|stars_4
+213689|Majestic Minima|Adelaide|NO|stars_3
+213726|Manly Paradise Motel & Apartments|Manly|NO|stars_3
+213768|Marco Polo Motor Inn|Sydney|NO|stars_3
+213788|Comfort Inn & Suites Mari Court|Gold Coast|NO|stars_3
+213825|Mariners Court|Sydney|YES|stars_3
+213833|Markham Court|Gold Coast|NO|stars_3
+213843|Marlin Gateway Holiday Apartments|Trinity Beach|NO|stars_3.5
+213947|McAlpine & Captain Kennedy House|Broome|YES|stars_3.5
+214008|Meridian Caloundra|Caloundra|NO|stars_4
+214013|Meriton Broadbeach|Gold Coast|NO|stars_5
+214017|Mermaid Beach Park View|Gold Coast|NO|stars_3.5
+214056|Miami Beachside Apartments|Gold Coast|NO|stars_4
+214058|Miami Melbourne|Melbourne|NO|stars_3
+214419|Nautilus Resort Mooloolaba|Mooloolaba|YES|stars_3
+214558|North Lodge Apartments|Launceston|NO|stars_3
+214634|iStay River City|Brisbane|NO|stars_4
+214660|Ocean Royale|Gold Coast|NO|stars_3
+214856|Pacific Views Resort|Main Beach|YES|stars_4
+214945|Palms At Trinity|Trinity Beach|NO|stars_3
+214946|Palms Bed & Breakfast|Perth|NO|stars_3.5
+215094|Econo Lodge Parkville Place|Melbourne|YES|stars_3
+216449|Q Resorts Central Apartments|Townsville|NO|stars_4
+216488|Queensgate Motel|Queanbeyan|NO|stars_3
+216496|Quest Gladstone|Gladstone|NO|stars_4
+216649|Reflection Tower Two|Coolangatta|NO|stars_4
+216678|Oaks on Castlereagh|Sydney|YES|stars_4
+217396|Rolling Surf Resort|Caloundra|NO|stars_4
+217500|Royal Exhibition|Sydney|NO|stars_3
+217577|Quest Brighton on the Bay|Melbourne|NO|stars_4
+217628|Sailport Mooloolaba Apartments|Mooloolaba|NO|stars_4
+217658|Saks On Hastings|Noosa|NO|stars_4
+217733|Sanctuary Lakes Fauna Retreat|Hervey Bay|NO|stars_3
+217838|Scarborough Beach Resort|Scarborough|NO|stars_4
+217902|Seafarers Getaway|Apollo Bay|NO|stars_2.5
+218098|Skyline Court Apartments|Brisbane|NO|stars_4
+218316|St Marks Lodge|Sydney|NO|stars_3
+218444|Stonewell Cottages|Tanunda|NO|stars_4
+218521|Sullivans Cove Apartments|Hobart|NO|stars_5
+218730|Terrace Central B&B|Fremantle|NO|stars_4
+218738|Terrigal Sails Serviced Apartments|Terrigal|NO|stars_4
+218910|The Chancellor|Varsity Lakes|NO|stars_4
+219382|The Point Resort|Bargara|NO|stars_4
+219557|The Villas|Palm Cove|NO|stars_4
+219699|Toowong Central Motel|Brisbane|NO|stars_3
+219894|Twin Quays Noosa|Noosa|NO|stars_4
+219916|Ultra Broadbeach|Gold Coast|NO|stars_4
+220048|Verandahs Boutique Apartments|Port Douglas|NO|stars_4
+220470|Villa Vaucluse Apartments|Cairns|NO|stars_4
+220554|Vitina Studio Motel|Darwin|NO|stars_3
+220630|Waters Edge Apartment Cairns|Cairns|NO|stars_5
+220745|Hamilton Island Resort - Whitsunday Holiday Apartments|Hamilton Island|YES|stars_3
+220813|Windward Apartments|Mooloolaba|NO|stars_4
+220848|Woodman Point Holiday Park|Fremantle|NO|stars_4
+221584|City View Motel|Montagu Bay|NO|stars_3
+221866|Emerald Maraboon Motor Inn|Emerald|NO|stars_4
+222225|Holly Gate House|Kalorama|NO|stars_4
+222666|Lindenwarrah at Milawa|Wangaratta|NO|stars_4
+222739|Mansfield Motel|Mansfield|NO|stars_4
+222795|Moments Accommodation - Mountain Retreat / Cottage on Fletcher / Cottage on Murphy?s / Moments on View Road|Wentworth Falls|NO|stars_4
+222849|Mylos Holiday Apartments|Alexandra Headland|NO|stars_3
+223163|Rainbow Ocean Palms Resort|Rainbow Beach|NO|stars_4
+223431|Silverwater Resort|Philipp Island|NO|stars_4
+226480|Country Comfort Adelaide|Adelaide|YES|stars_3
+226517|Woolbrokers|Darling Harbour|YES|stars_2
+226728|Comfort Inn Drouin|Drouin|NO|stars_4
+226780|Boardrider Backpacker & Budget Motel|Manly|YES|stars_2.5
+227097|Reflection on the Sea|Coolangatta|YES|stars_4
+227357|Manly Backpackers|Manly|NO|stars_3
+227358|Travellers Rest|Sydney|YES|stars_1.5
+227359|Space|Melbourne|YES|stars_3
+227360|Accommodation Star Docklands|Docklands|YES|stars_4
+227361|BizMotel|Melbourne|YES|stars_3
+227370|Outrigger Little Hastings Street Resort & Spa|Sunshine Coast|YES|stars_5
+227372|Citadines Melbourne On Bourke|Melbourne|YES|stars_4
+227373|Gilligan's Backpackers Resort|Cairns|YES|stars_3
+227375|Great Aussie Backpackers|Sydney|YES|stars_1.5
+227381|Chino Apartments|Brisbane|YES|stars_4
+227384|Australian Sunrise Lodge|Sydney|NO|stars_2
+227385|Sixty Two on Grey|Melbourne|YES|stars_4
+227387|Melbourne Short Stay Apartments on Whiteman|Melbourne|YES|stars_4
+227388|Quality Suites Deep Blue|Warrnambool|NO|stars_4
+227389|Milson Executive Apartments|Sydney|YES|stars_4
+227390|Econo Lodge Sydney South|Sydney|YES|stars_3
+227391|Landmark Resort|Mooloolaba|YES|stars_4
+227392|The Docks on Goodwin|Brisbane|YES|stars_4
+227791|Punthill - South Yarra Grand|Melbourne|YES|stars_4.5
+228376|Baden Powell|Melbourne|YES|stars_3
+228796|Oceans Mooloolaba Beach|Mooloolaba|NO|stars_5
+228797|Abode - The Apartment Hotel|Canberra|NO|stars_4
+228849|Scarborough Observation Resort|Scarborough|YES|stars_3
+228851|Verandah Apartments|Perth|YES|stars_4
+229139|Crown Metropol|Melbourne|YES|stars_5
+229143|Charles Launceston|Launceston|NO|stars_4
+229282|Grand Mercure Apartments Bargara, Bundaberg|Bargara|NO|stars_4
+229283|Perth Vineyards Holiday Park|Perth|NO|stars_4
+229284|Chifley Doveton|Dandenong|YES|stars_4
+229286|Argyle on the Park|Maroochydore|NO|stars_4
+229287|Prahran Village Guest House|Melbourne|NO|stars_4
+229288|Lychee Tree Holiday Apartments|Port Douglas|NO|stars_3
+229294|Ginninderry Homestead|Wallaroo|NO|stars_4
+229295|Q Resorts Gabba Central Apartments|Brisbane|NO|stars_4
+230215|McLaren Vale Motel & Apartments|McLaren Vale|NO|stars_4
+230219|Cottages Monreale|Sassafras|NO|stars_4
+231971|The Cullen - Art Series|Melbourne|YES|stars_5
+231972|Dolma|Melbourne|NO|stars_3
+231973|Magnolia Lane Apartments|Maroochydore|NO|stars_4
+232322|Wyndham Surfers Paradise|Surfers Paradise|YES|stars_4
+232323|Capricorn One Beachside Holiday Apartments|Surfers Paradise|NO|stars_4
+232327|Quay West Resort & Spa Falls Creek|Falls Creek|NO|stars_5
+232560|Oaks Broome|Broome|NO|stars_4
+232562|Saffire Freycinet|Coles Bay|NO|stars_5
+232564|Fitzroy Island Resort|Fitzroy Island|NO|stars_4
+232569|Base Backpackers Airlie Beach|Airlie Beach|NO|stars_2.5
+232789|Durack House|Perth|NO|0
+232830|Hawk Dreaming Wilderness Camp|Kakadu National Park|NO|stars_2.5
+232843|Punthill - Oakleigh|Melbourne|NO|stars_4.5
+233162|Bohemia Resort Cairns|Cairns|NO|stars_3.5
+233923|Carrington|Blue Mountains|NO|stars_3
+233924|Palais Royale|Blue Mountains|NO|stars_4
+233928|Mercure Yarra Valley Balgownie Estate|Yarra Valley|NO|stars_4
+234020|Barkly Apartments|St. Kilda|NO|stars_3.5
+234050|Bay Royal Apartments|Byron Bay|NO|stars_4
+234051|Belle Maison Gold Coast|Broadbeach|NO|stars_4
+234060|Portobello Resort Apartments|Broadbeach|NO|stars_3
+234061|Burleigh Point Apartments|Burleigh Heads|NO|stars_3
+234065|By The Sea Port Douglas|Port Douglas|NO|stars_4
+234069|Grand Chancellor Surfers Paradise|Surfers Paradise|YES|stars_4
+234070|Hilton Surfers Paradise Residences|Surfers Paradise|NO|stars_5
+234072|Kupari Boutique Apartments|Surfers Paradise|NO|stars_3
+234073|Sheraton Melbourne Hotel|Melbourne|NO|stars_5
+234075|Q Resorts Cascade Gardens|Cairns|NO|stars_3
+234076|Reef Gateway Apartments|Cairns|NO|stars_4
+234077|Royal Palm Resort|Gold Coast|NO|stars_4
+234079|Sunshine Beach Resort|Miami|NO|stars_3
+234081|Surfers Beachside Holiday Apartments|Surfers Paradise|NO|stars_4
+234313|Spicers Tamarind Retreat|Maleny|NO|stars_4.5
+234854|Bell Gorge Wilderness Lodge|Gibb River Road|NO|stars_3
+235171|Aquarius Backpackers|Gold Coast|NO|stars_2.5
+235310|Bendigo McIvor Motor Inn|Bendigo|NO|stars_3
+235311|Novotel Newcastle Beach|Newcastle|NO|stars_4
+235534|Drysdale River Station|Kununurra|NO|stars_2
+235544|Wilsons Promontory Wilderness Retreats|Wilson's Promontory|NO|stars_2.5
+235546|Rumba Beach Resort|Caloundra|NO|stars_5
+236490|Park8 Sydney|Sydney|NO|stars_4
+236736|Cradle Mountain Hotel|Cradle Mountain|NO|stars_4
+236962|Mona Pavilions|Berriedale|NO|stars_5
+237509|Argus Apartments Darwin|Darwin|NO|stars_4
+237510|Apartments on Lygon|Carlton|NO|stars_4
+237512|Alexandra & Mariner on the Pacific|Mooloolaba|NO|stars_4
+237758|Mantra On The Inlet|Port Douglas|NO|stars_4
+237800|Meriton Southport|Gold Coast|NO|stars_5
+237803|Maiden?s Inn Holiday Park|Moama|NO|stars_3
+238294|Cradle Mountain Wilderness Village|Cradle Mountain|NO|stars_3.5
+238332|Boathaven Holiday Park|Wodonga|NO|stars_4
+238334|The Breakers|Surfers Paradise|NO|stars_4
+238335|A Shady River Holiday Park|Moama|NO|stars_4
+238337|Twofold Bay Beach Resort|Eden|NO|stars_3.5
+238338|Golden River Holiday Park|Mildura|NO|stars_4
+238339|Pilbara Holiday Park|Karratha|NO|stars_3.5
+238340|Port Augusta BIG4 Holiday Park|Port Augusta|NO|stars_4
+238341|Wallamba River Holiday Park - Forster/Tuncurry|Forster|NO|stars_4
+239235|Blue Galah Backpackers|Adelaide|NO|stars_1
+239236|The Manna of Hahndorf|Hahndorf|NO|stars_4
+239237|The Hahndorf Inn Motor Lodge|Hahndorf|NO|stars_3
+239238|Peppers Broadbeach|Broadbeach|NO|stars_4.5
+239239|Quality Sands|Narrabeen|NO|stars_4
+239240|Aquajet|Coffs Harbour|NO|stars_3
+239241|Quality Inn Burke & Wills|Mount Isa|NO|stars_3
+239242|Forte Cape View Apartments|Busselton|NO|stars_3
+239283|Best Western Plus Cairns Central Apartments|Cairns|NO|stars_4.5
+239401|54 on Bank|Port Fairy|NO|stars_4
+239865|The Sebel South Brisbane|Brisbane|NO|stars_4.5
+240289|Best Western Plus Ambassador on Ruthven Motor Inn|Toowoomba|NO|stars_4
+241797|The Sebel Kiama Hafen|Kiama|NO|stars_4
+241799|Barossa Shiraz Estate|Barossa Valley|NO|stars_4
+241801|Horizon Holiday Apartments|Narooma|NO|stars_4
+241802|Oaks Mon Komo|Redcliffe|YES|stars_4
+242524|Best Western Plus Quarterdecks Harbour Retreat|Hervey Bay|NO|stars_5
+242903|Nomads - Adelaide Travellers Inn|Adelaide|NO|stars_2
+242904|North Adelaide Heritage - Buxton Manor|Adelaide|YES|stars_4
+242915|Peppers Airlie Beach|Airlie Beach|NO|stars_4.5
+242916|Portside Whitsunday Apartments|Airlie Beach|NO|stars_4
+242920|The Rocks Albany|Albany|NO|stars_5
+242923|Spicers Balfour|Brisbane|NO|stars_5
+242926|Victoria's at Ewingsdale|Byron Bay|NO|stars_5
+242927|Victoria's at Wategos|Byron Bay|NO|stars_5
+242939|Sal Salis Ningaloo Reef|Exmouth|NO|stars_2.5
+242941|The Sebel Coolangatta|Coolangatta|NO|stars_4
+242942|Sea Temple Surfers Paradise|Surfers Paradise|NO|stars_5
+242944|Emeraldene Inn & Eco-Lodge|Hervey Bay|NO|stars_3
+242945|Nomads Next Backpackers Hervey Bay|Hervey Bay|NO|stars_2
+242946|The Beach Motel Hervey Bay|Hervey Bay|NO|stars_3
+242947|Corinda's Cottages|Hobart|NO|stars_4
+242948|Islington Hotel|Hobart|NO|stars_5
+242949|Chateau Elan Hunter Valley|Rothbury|NO|stars_5
+242950|Pokolbin Village Resort|Pokolbin|NO|stars_4
+242951|Spicers Vineyards Estate|Pokolbin|NO|stars_5
+242957|Nitmiluk Chalets|Katherine|NO|stars_2
+242958|Lady Elliot Island Eco Resort|Lady Elliot Island|NO|stars_3.5
+242960|York Mansions|Launceston|NO|stars_4
+242962|Habitat HQ|St. Kilda|NO|stars_3
+242964|The Blackman - Art Series|Melbourne|YES|stars_5
+242965|The Olsen - Art Series|Melbourne|NO|stars_5
+242966|Licuala Lodge|Mission Beach|NO|stars_4
+242969|Bells at Killcare|Gosford|NO|stars_5
+242970|Breakout Motor Inn|Cowra|NO|stars_4
+242973|Dolphin Sands|Cape Jervis|NO|stars_4
+242975|Green Gables|Tilba Tilba|NO|stars_2.5
+242977|Mercure Kooindah Waters Central Coast|Wyong|NO|stars_4
+242981|Robyn's Nest|Merimbula|NO|stars_4
+242982|Ulladulla Guest House|Ulladulla|NO|stars_5
+242988|Mary River Park|Arnhem|NO|stars_4
+242991|Quest Scarborough|Scarborough|NO|stars_4
+242993|Latitude 16 Beaches|Port Douglas|NO|stars_4
+242994|Latitude 16 Mowbray By The Sea|Port Douglas|NO|stars_4
+242995|Latitude 16 - Tropic Sands / Villa 8 / Villa 10|Port Douglas|NO|stars_4
+242997|Saltwater Luxury Apartments|Port Douglas|NO|stars_4.5
+243000|BreakFree Rainbow Shores|Rainbow Beach|NO|stars_3.5
+243005|Glass on Glasshouse|Glass House Mountains|NO|stars_4
+243010|Peppers Ruffles Lodge & Spa|Willow Vale|NO|stars_5
+243013|Hotel Burbury|Barton|NO|stars_4.5
+243016|Witches Falls Cottages|Mount Tamborine|NO|stars_4
+243019|Cladich Pavilions|Adelaide|NO|stars_4
+243032|The Narrows Escape Rainforest Retreat|Montville|NO|stars_4
+243037|Norfolk Bay Convict Station|Taranna|NO|stars_3.5
+243038|Quamby Estate|Launceston|NO|stars_4
+243042|Claerwen Retreat|Apollo Bay|NO|stars_4
+243046|Dulc Cabins|Halls Gap|NO|stars_4
+243048|Peppers The Sands Resort Torquay|Torquay|NO|stars_4
+243049|Quamby Homestead|Warrnambool|NO|stars_4
+243061|Windmills Break|Yallingup|NO|stars_5
+243081|Kununurra|Kununurra|YES|stars_3
+243374|Mawson Lakes|Adelaide|NO|stars_4
+243375|Boathouse Apartments by Outrigger|Airlie Beach|NO|stars_4.5
+243386|Ibis Styles Albury Lake Hume Resort|Albury|NO|stars_4
+243387|Rydges Atura Albury|Albury|YES|stars_4
+243388|White Lanterns Motel|Armidale|NO|stars_3.5
+243391|Mercure Bairnsdale|Bairnsdale|NO|stars_4
+243394|Quest Bondi Junction|Bondi Junction|NO|stars_4
+243396|The Chermside Apartments|Brisbane|NO|stars_4
+243397|Victoria Square Apartments|Broadbeach|NO|stars_4
+243401|Comfort Inn Busselton River Resort|Busselton|NO|stars_3
+243402|Beach Hotel Resort|Byron Bay|NO|stars_4
+243404|Ibis Styles Cairns|Cairns|NO|stars_4
+243406|Quest Campbelltown|Campbelltown|NO|stars_4
+243407|Camperdown Suites|Sydney|NO|stars_3.5
+243414|Cape Schanck Resort|Cape Schanck|NO|stars_4
+243416|Quest Clocktower On Lygon|Carlton|NO|stars_4
+243417|Mercure Melbourne Caroline Springs|Caroline Springs|NO|stars_4
+243419|Quest Cheltenham|Melbourne|NO|stars_4
+243422|Seachange Apartments|Coolum Beach|NO|stars_4
+243427|Aria Canberra|Dickson|NO|stars_4
+243429|Edgewater|Devenport|NO|stars_3
+243434|The Georgian Motor Lodge|Echuca|NO|stars_4
+243435|Route 66 Motor Inn|Emerald|YES|0
+243437|Quality Suites Fremantle|Fremantle|NO|stars_4
+243438|Econo Lodge Hacienda Motel Geelong|Geelong|NO|stars_3
+243439|York Cove Tamar Valley|Georgetown|NO|stars_4
+243442|Quest Glen Waverley|Glen Waverley|NO|stars_4
+243443|WorldMark South Pacific Club by Wyndham Golden Beach|Caloundra|NO|stars_4
+243445|Ibis Styles Harrington|Harrington|NO|stars_4
+243446|Quest Hawthorn|Melbourne|NO|stars_4
+243449|Quest Moorabbin|Melbourne|NO|stars_4
+243450|Collins|Hobart|NO|stars_4
+243451|Buloke on Baillie|Horsham|NO|stars_4
+243452|Best Western Injune Motor Inn|Injune|NO|stars_3.5
+243463|Sapphire City Motor Inn|Inverell|YES|0
+243487|Ibis budget Sydney Airport|Sydney|NO|stars_2
+243489|Mantra St Kilda Road|Melbourne|NO|stars_4
+243490|Mercure Mildura|Mildura|NO|stars_4
+243491|Comfort Inn & Suites Nagambie Lakes|Nagambie|NO|stars_4
+243492|Mercure Maitland|Rutherford|NO|stars_4
+243494|Allure Stradbroke Resort|Stradbroke Island|NO|stars_4
+243495|Australis Mariners North Townsville|Townsville|NO|stars_4
+243496|Chifley Wollongong|Wollongong|YES|stars_4
+243498|Comfort Resort Alzburg|Mansfield|NO|stars_3
+243499|Denison Boutique|Rockhampton|NO|stars_4
+243501|Econo Lodge Morwell|Morwell|NO|stars_3
+243502|Econo Lodge Motel Woongarra|Rutherglen|NO|stars_3
+243503|Fiori Apartments|Parramatta|NO|stars_4
+243646|Tuscany Wine Estate Resort|Pokolbin|NO|stars_4
+243649|Bay Breeze|Batemans Bay|NO|stars_4
+243653|Broome Beach Resort|Cable Beach|NO|stars_4
+243655|Driftwood Cottages|Dover|NO|stars_3.5
+243662|New Olympic Motel Lismore|Lismore|NO|stars_3
+243672|Rainbow Getaway|Rainbow Beach|NO|stars_4
+243675|Marsden Court|Strahan|NO|stars_3.5
+243683|Whitsunday On The Beach|Airlie Beach|NO|stars_3
+243701|Bed In The Tree Tops B&B|Binalong Bay|NO|stars_4
+243703|Aruba Beach Resort|Broadbeach|NO|stars_3.5
+243704|The Ritz Resort|Broadbeach|NO|stars_4
+243715|Bamboo Cottage|Byron Bay|NO|stars_3
+243717|Waves Byron Bay|Byron Bay|NO|stars_4
+243721|Turtle Cove Beach Resort|Port Douglas|NO|stars_4
+243740|Mai Tai Resort|Port Douglas|NO|stars_4
+243741|Marrakai|Darwin|NO|stars_4
+243743|Alexander Holiday Apartments|Surfers Paradise|NO|stars_3
+243746|Surfers Aquarius|Surfers Paradise|NO|stars_4
+243748|Club Watermark Hotel & Spa|Surfers Paradise|NO|stars_4.5
+243750|Kentia Holiday Apartments|Norfolk Island|NO|stars_4
+243751|Poinciana Cottages|Norfolk Island|NO|stars_4
+243752|Ponderosa Norfolk Island|Norfolk Island|NO|stars_4
+243754|Best Western Torbay Sea View Holiday Apartments|Albany|NO|stars_4
+243756|Elphin Villas|Launceston|NO|stars_3
+244941|The Islander Noosa Resort|Noosaville|NO|stars_3
+244943|Port Douglas Palm Villas|Port Douglas|NO|stars_3.5
+244951|Bluff View Accommodation|Victor Harbor|NO|stars_4
+244970|Balcony On Sixth Lodge|Murray Bridge|NO|stars_3
+244972|Cedars Mount View|Pokolbin|NO|stars_4
+244973|Port Arthur Villas|Port  Arthur|NO|stars_4
+244980|The Blenheim Randwick|Randwick|NO|stars_3
+244981|Harbour View Motel|Robe|NO|stars_4
+244986|Hawley House|Hawley Beach|NO|stars_4
+244988|Holly Lodge|Kalorama|NO|stars_4
+244996|Milky Way Villas|Lord Howe Island|NO|stars_3
+244999|Smugglers On The Beach|Coffs Harbour|NO|stars_4
+245001|Hermitage Lodge Hunter Valley|Pokolbin|NO|stars_4
+245002|Tweed Ultima Resort Gold Coast|Coolangatta|NO|stars_4
+245006|The Denman|Thredbo|NO|stars_4
+245007|Marina|Port Lincoln|NO|stars_4
+245008|Trickett Gardens Holiday Inn|Surfers Paradise|NO|stars_3
+245009|Noosa Outrigger Beach Resort|Noosaville|NO|stars_4
+245014|Daintree River Lodge|Daintree National Park|NO|stars_3
+245015|Palm Cove Tropic Apartments|Palm Cove|NO|stars_4
+245016|Canopy Tree Houses|Atherton|NO|stars_4
+245017|Abajaz Motor Inn|Longreach|NO|stars_3
+245023|Motel 429|Sandy Bay|NO|stars_3.5
+245024|Cambridge House Geeveston|Geeveston|NO|stars_4
+245028|Driftwood Strahan Villas|Strahan|NO|stars_3
+245030|Cradle Mountain Highlander|Cradle Mountain|NO|stars_3
+245046|Admiral Motor Inn|Rosebud|NO|stars_3
+245064|3 Sisters Motel|Blue Mountains|NO|stars_3
+245068|Auldington Hotel|Launceston|NO|stars_4
+245079|Karma Chalets|Denmark|NO|stars_4
+245083|Diamond Sands Resort|Mermaid Beach|NO|stars_4
+245087|Hobart Tower Motel|Hobart|NO|stars_3
+245088|Laguna|Noosa|NO|stars_3
+245089|The Retreat Beach Houses|Peregian Beach|NO|stars_4
+245093|The Carriages Country House|Pokolbin|NO|stars_4
+245095|Southern Ocean Villas|Port Camphell|NO|stars_4
+245096|Reflections Of Port Douglas|Port Douglas|NO|stars_4
+245097|Latitude 16 Tropical Reef Apartments|Port Douglas|NO|stars_4
+245107|Robetown Motor Inn|Robe|NO|stars_4
+245108|The Edge Luxury Apartments|Rockhampton|NO|stars_4
+245112|K Resort|Surfers Paradise|NO|stars_3
+245114|Surfers Riverside|Surfers Paradise|NO|stars_3
+245116|Meredith House Swansea|Swansea|NO|stars_4
+245117|Swansea Beach Chalets|Swansea|NO|stars_3
+245126|The Beach Club Resort|Mooloolaba|NO|stars_4
+245197|Governors Lodge|Norfolk Island|NO|stars_4
+245649|Burleigh Surf Beach Front|Burleigh Heads|NO|stars_4
+245651|Martin Fields Beach Retreat|Busselton|NO|stars_3
+245653|Alexander Lakeside B&B|Hervey Bay|NO|stars_4
+245802|Stonebarn|Pemberton|NO|stars_4
+245854|Crowne Plaza Gold Tower Surfers Paradise|Surfers Paradise|NO|stars_5
+245871|Redcliffe House|Swansea|NO|stars_4
+245909|Balconies Daylesford|Daylesford|NO|stars_4
+245913|Adelaide Shores Caravan Park|Adelaide|NO|stars_4
+245914|Glen Villa Resort|Byron Bay|NO|stars_3
+245956|Hepburn at Hepburn|Hepburn Springs|NO|stars_5
+246046|Hornsby Serviced Apartments|Sydney|NO|stars_3
+246048|Mercure Resort Hunter Valley Gardens|Pokolbin|NO|stars_4
+246053|Cooroy Country Cottages|Noosaville|NO|stars_4
+246056|Madigan Vineyard|Rothbury|NO|stars_4
+246061|Byron Bay Farmstay|Byron Bay|NO|stars_3
+246063|Byron Central Apartments|Byron Bay|NO|stars_3
+246064|East on Byron|Byron Bay|NO|stars_4
+246067|Waldorf Furnished Apartments Randwick|Randwick|NO|stars_3.5
+246076|Waldorf Serviced Apartments Drummoyne|Sydney|NO|stars_3.5
+246078|Alstonville Country Cottages|Ballina|NO|stars_3
+246082|84 The Spit Holiday Apartments|Mooloolaba|NO|stars_3
+246083|Lake Weyba Cottages Noosa|Peregian Beach|NO|stars_4
+246085|Atlantic Byron Bay|Byron Bay|NO|stars_4
+246089|Grandview Bed & Breakfast|Perth|NO|stars_4
+246116|Pavilions Palm Beach|Gold Coast|NO|stars_2.5
+246120|Cabarita Lake Apartments|Cabarita Beach|NO|stars_4
+246121|Yarrandabbi Dreaming|Macleay Island|NO|stars_5
+246124|Coolum Caprice Luxury Holiday Apartments|Coolum Beach|NO|stars_4
+246170|Penghana Bed & Breakfast|Queenstown|NO|stars_4
+246212|Mt Lyell Anchorage|Queenstown|NO|stars_3.5
+246213|Ascot Motor Inn|Sydney|NO|stars_3
+246220|Amore Bed & Breakfast|Mount Tamborine|NO|stars_4
+246225|Pendragon Hall Hobart - Studio Apartment|Hobart|NO|stars_3
+246238|Maroochy River Resort Bungalows & Villas|Maroochydore|NO|stars_3
+246241|Georgian Court Guest House|Melbourne|NO|stars_3
+246300|Clayton Monash|Melbourne|NO|stars_3
+246306|The Garden Burees|Byron Bay|NO|stars_3
+246328|Wellington|Brisbane|NO|stars_4
+246336|Loaring Place Bed & Breakfast|Margaret River|NO|stars_4
+246342|Talga Estate|Rothbury|NO|stars_5
+246343|Toowong Villas|Brisbane|NO|stars_4
+246349|Headland Beach Resort|Byron Bay|NO|stars_4
+246351|Above Bored Bed & Breakfast|Perth|NO|stars_4
+246357|Arabella Guesthouse|Maroochydore|NO|stars_4
+246359|Piccadilly Apartments|Adelaide|NO|stars_3
+246360|Seawall Apartments|Glenelg|NO|stars_4
+246362|Amamoor Lodge|Amamoor|NO|stars_4
+246372|My Place Colonial Accommodation|Albany|NO|stars_3
+246377|Whispering Pines|Wentworth Falls|NO|stars_4
+246378|The Open House|Kangaroo Island|NO|stars_3
+246380|Patrick Plains Estate|Pokolbin|NO|stars_5
+246383|Waldorf Apartments Parramatta|Parramatta|NO|stars_3.5
+246384|Waldorf Apartment The Entrance|The Entrance|NO|stars_3
+246386|Central Cowes Family Townhouses|Philipp Island|NO|stars_4
+246418|7 Falls Apartments|Apollo Bay|NO|stars_4
+246420|Madison's Mountain Retreat|Kurrajong Heights|NO|stars_4
+246422|Villa Della Rosa|Mount Tamborine|NO|stars_4
+246435|The Point Coolum Beach|Coolum Beach|NO|stars_4
+246440|Staple House|Woolooga|NO|stars_4
+246441|Nautilus Noosa Holiday Resort|Noosaville|NO|stars_3
+246444|Eastwood Serviced Apartments|Sydney|NO|stars_3
+246447|Pennant Hills Waldorf Apartment Hotel|Sydney|NO|stars_4
+246450|Ballina Beach Resort|Ballina|NO|stars_4
+246464|Cedar Creek Lodges|Mount Tamborine|NO|stars_4
+246467|The York Beachfront Holiday Apartments|Cairns|NO|stars_3.5
+246469|RainbowStay|Coffee Camp|NO|stars_4
+246497|Sanctuary Lake|Elanora|NO|stars_3.5
+246524|Daintree Valley Haven|Daintree National Park|NO|stars_3.5
+246676|Shaz Maisons Apartments|Mermaid Beach|NO|stars_3
+246677|Great Divide Motor Inn|Toowoomba|NO|stars_4
+246687|The Loft in the Mill|Olinda|NO|stars_4
+246692|Newport Mirage|Sydney|NO|stars_4
+246698|André's Mews|Melbourne|NO|stars_5
+246843|Blue|Blue Mountains|NO|stars_3
+246872|Tradewinds Apartments|Coffs Harbour|NO|stars_3
+246875|Bay View Villas|Hobart|NO|stars_4
+246915|Coopers Alehouse Wallaroo Marina Apartments|Wallaroo|NO|stars_3
+246957|Rainforest Ranch|Byfield|NO|stars_4
+246958|Glen Inn|Glen Waverley|NO|stars_3
+246966|Stonehaven Manor Guest House|Mount Tamborine|NO|stars_4
+247195|Econo Lodge Absolute Lakes Entrance|Lake Entrance|NO|stars_3
+247200|Westbury Gingerbread Cottages|Westbury|NO|stars_4
+247204|Seclusions of Yallingup|Yallingup|NO|stars_4
+247209|Flynns on Surf|Port Macquarie|NO|stars_4
+247211|Paradise Haven Motel|Ulladulla|NO|stars_3
+247249|Debbies Place|Rainbow Beach|NO|stars_4
+247253|Pink Flamingo|Port Douglas|NO|stars_3.5
+247257|Healesville Garden - Bed & Breakfast|Healesville|NO|0
+247269|Mediterranean Beachfront Apartments|Yorkeys Knob|NO|stars_3.5
+247270|Coastwatch Bed & Breakfast|Coffs Harbour|NO|stars_4
+247271|Moonah Amy Cottage Apartments|Hobart|NO|stars_4
+247276|Seal Bay Cottages|Kangaroo Island|NO|stars_3
+247282|River View Boutique Motel|Nambucca Heads|NO|stars_3
+247283|Village Family Motor Inn|Launceston|NO|stars_3
+247286|Riverview Rise Retreats|Mannum|NO|stars_5
+247287|Coolum Beach Getaway Resort|Coolum Beach|NO|stars_4
+247294|Mulberry Cottage Bed & Breakfast|Richmond|NO|stars_4
+247295|Graham Court Apartments|Hobart|NO|stars_3
+247297|Harpers on the Beach|Port  Arthur|NO|stars_4
+247300|Quattro on Astor Apartments|Brisbane|NO|stars_4
+247309|Spindrift On The Beach|Mermaid Beach|NO|stars_3.5
+247310|Airlie Beach Motor Lodge|Airlie Beach|NO|stars_3
+247311|Thornton Beach House|Port Douglas|NO|stars_4
+247313|Robe Lakeview Motel & Apartments|Robe|NO|stars_4
+247315|Clearwater Noosa|Noosaville|NO|stars_3
+247319|Bruny Island Explorers|Bruny Island|NO|stars_3
+247327|Peppers Hobart|Hobart|NO|0
+247330|Diamond Cove Resort|Mermaid Beach|NO|stars_3
+247333|Maison Noosa|Noosa|NO|stars_4
+247335|Makepeace Island|Noosa|NO|stars_5
+247338|Capricorn Caves|Rockhampton|NO|stars_3
+247339|Tullah Lakeside Lodge|Tullah|NO|stars_3
+247340|Shoal Bay Beach Club|Nelson Bay|NO|stars_4
+247343|Shambhala Guesthouse|Bridgetown|NO|stars_3
+247358|Seaview Resort|Mooloolaba|NO|stars_4
+247365|Bayside Inn|St Helens|NO|stars_3
+247368|The Good Life Bed & Breakfast|Perth|NO|stars_4
+247369|Monaco Caloundra|Caloundra|NO|stars_4
+247371|Olde Tudor Hotel|Launceston|NO|stars_3
+247372|Summit Rainforest Retreat|Cairns|NO|stars_4
+247373|AAA Granary Accommodation|Sheffield|NO|stars_3
+247388|Aalberg Chalet|Jindabyne|NO|stars_3
+247389|Tranquilles Luxury Spa Bed & Breakfast|Port Sorell|NO|stars_4
+247392|Posh|Sydney|NO|stars_3
+247401|Sails Resort on Golden Beach|Caloundra|NO|stars_4
+247404|Docklands Executive Apartments|Docklands|NO|stars_4
+247405|Portside Motel|Port Camphell|NO|stars_3
+247406|Rosewood Guesthouse|Margaret River|NO|stars_4
+247407|Beachside Resort|Maroochydore|NO|stars_4
+247427|Seacove Resort|Coolum Beach|NO|stars_4
+247429|Moonee Valley Views Apartments|Melbourne|NO|stars_3
+247431|Iluka Motel|Yamba|NO|stars_3
+247437|Sea Change Safety Cove|Port  Arthur|NO|stars_3.5
+247438|Buckingham International Serviced Apartments|Melbourne|NO|stars_4
+247440|Keswick Island Guest House|Keswick Island|NO|stars_3.5
+247441|The Billi|Cable Beach|NO|stars_4
+247442|Macquarie University Village|Sydney|NO|stars_3
+247445|Southern Blue Travel|Port Lincoln|NO|stars_3.5
+247448|Adeline Bed & Breakfast|Dandenong|NO|stars_4
+247449|Blue Mountains Manor House|Blackheath|NO|0
+247450|Cliff Top Boutique Accommodation|Philipp Island|NO|stars_4
+247453|Nicholas Royal Motel|Hay|NO|stars_3
+247454|Touchwood Cottages|Stanley|NO|stars_3.5
+249716|Coolum at the Beach|Coolum Beach|NO|stars_4
+250091|Comfort Inn & Suites Lygon Lodge|Carlton|NO|stars_3
+250092|City Tempo|Melbourne|NO|stars_4
+250093|The Star - The Darling|Sydney|NO|stars_5
+250142|Quality Suites Pioneer Sands|Towradgi|NO|stars_4
+252702|Berida Manor Country Resort Bowral|Bowral|NO|stars_4
+252706|Sydney Backpackers|Sydney|NO|stars_4
+252707|The Star - Astral Residences|Sydney|NO|stars_5
+254412|Rose Garden Motel|Geelong|NO|stars_4
+254413|Rosebridge House Bed & Breakfast|Perth|NO|stars_4
+254414|Ambassadors Hotel|Adelaide|NO|stars_3
+254415|The Wright Lodge|Adelaide|NO|stars_2
+254416|Adabco Boutique Hotel|Adelaide|NO|stars_3
+254421|Wild Patch Retreat|Olinda|NO|stars_4
+254424|Lochiel Luxury Accommodation|Olinda|NO|stars_4
+254425|Sunway Farm Bed and Breakfast|Healesville|NO|stars_4
+254426|City Centre Budget Hotel|Melbourne|NO|stars_2
+254428|Quest Dandenong|Dandenong|NO|stars_4
+254429|Glenferrie|Melbourne|NO|stars_3
+254432|Arrow on Swanston|Melbourne|NO|stars_3
+254435|Candlelight Cottages Retreat|Olinda|NO|stars_4
+254436|A Camelot Tower & Penthouse|Olinda|NO|stars_4
+254437|City Edge on Elizabeth|Melbourne|NO|stars_4
+254438|St Arnaud Budget Hotel|Melbourne|NO|stars_3
+254440|White Gum Motel|Alice Springs|NO|stars_3
+254441|Koala Beach Resort|Cairns|NO|stars_2
+254442|Mid City Luxury Suites|Cairns|NO|stars_4
+254443|fnqStudio|Cairns|NO|stars_4
+254446|Beach Terraces Port Douglas|Port Douglas|NO|stars_4
+254448|The White House|Port Douglas|NO|stars_3.5
+254449|23 Murphy Street|Port Douglas|NO|stars_5
+254450|26 Beachfront Mirage|Port Douglas|NO|stars_5
+254451|The Pavilions|Port Douglas|NO|stars_4
+254452|61 Murphy Street|Port Douglas|NO|stars_5
+254454|Coral Sea Villas|Port Douglas|NO|stars_4
+254455|Seion|Port Douglas|NO|stars_4.5
+254456|The Port Douglas Queenslander|Port Douglas|NO|stars_4
+254457|Port Douglas Motel|Port Douglas|NO|stars_3.5
+254458|The Mediterranean Port Douglas|Port Douglas|NO|stars_4
+254485|Red Mill House in Daintree|Daintree National Park|NO|stars_4
+254486|Mission Beach Shores|Mission Beach|NO|stars_4
+254487|Eco Village Mission Beach|Mission Beach|NO|stars_4
+254488|Mission Beach Resort|Mission Beach|NO|stars_4
+254851|Marina Shores Airlie Beach|Airlie Beach|NO|stars_5
+254852|Martinique Whitsunday|Airlie Beach|NO|stars_4
+254853|Boathaven Spa Resort|Airlie Beach|NO|stars_4
+254854|Airlie Beach Organic Guest House|Airlie Beach|NO|stars_3
+254856|Cable Beachside Villas|Cable Beach|NO|stars_4
+254858|Metropole Katoomba|Blue Mountains|NO|stars_3
+254860|La Maison Boutique|Blue Mountains|NO|stars_3
+254862|3 Explorers Motel|Blue Mountains|NO|stars_4
+254864|Blue Mountains Heritage Motel|Blue Mountains|NO|stars_3
+254868|Kubba Roonga Guesthouse|Blackheath|NO|stars_4
+254869|Burleigh Gardens North Hi-Rise|Burleigh Heads|NO|stars_3
+254872|Equinox Sun Resort|Gold Coast|NO|stars_3
+254873|Paradise Isles|Gold Coast|NO|stars_3
+254875|Breakers North Absolute Beach|Gold Coast|NO|stars_4
+254879|Marriner Views|Gold Coast|NO|stars_4
+254880|The Emerald|Gold Coast|NO|stars_3
+254881|Santana Resort|Gold Coast|NO|stars_3
+254883|Golf Retreats Victoria|Torquay|NO|stars_4
+254884|Fraser Lodge Resort|Hervey Bay|NO|stars_4
+254885|Fraser Coast Top Tourist Park|Hervey Bay|NO|stars_4
+254886|Grange Resort|Hervey Bay|NO|stars_4
+254889|Boat Harbour Resort Motel|Hervey Bay|NO|stars_3
+254890|Whalecove Resort|Hervey Bay|NO|stars_4
+254891|Batman Fawkner Inn|Launceston|NO|stars_2
+254892|Country Club Villas|Prospect Vale|NO|stars_4
+254893|Ficifolia Lodge|Kangaroo Island|NO|stars_3
+254897|Ridgemont Motel|Townsville|NO|stars_3
+254898|Tree Houses of Montville|Montville|NO|stars_3
+254899|Paradise Court|Airlie Beach|NO|stars_3
+254998|Hamilton Island Resort - Reef View|Hamilton Island|NO|stars_4
+254999|Hamilton Island Resort - Beach Club|Hamilton Island|NO|stars_5
+255373|The Nelson Resort|Port Stephens|NO|stars_4
+255374|Port Stephens Motor Lodge|Port Stephens|NO|stars_3
+255710|HideAway Haven|Albany|NO|stars_5
+255713|1849 Backpackers|Albany|NO|stars_2.5
+255714|Emu Beach Chalets|Albany|NO|stars_3
+255783|Canberra Rex Hotel|Canberra|NO|stars_3
+255791|Byron Cove Beach House|Byron Bay|NO|stars_4
+255793|Ruskin House|Byron Bay|NO|stars_4
+255794|Shambhala@Byron|Byron Bay|NO|stars_4
+255796|Wollongbar Motel|Byron Bay|NO|stars_3
+255797|Drift|Byron Bay|NO|stars_4
+255798|Amala Luxury Villa of Byron Bay|Byron Bay|NO|stars_5
+255800|Byron Beach Resort|Byron Bay|NO|stars_3
+255801|A Top Spot|Byron Bay|NO|stars_4
+255804|Byron View|Byron Bay|NO|stars_4
+255805|Wategos Beach Pavilion|Byron Bay|NO|stars_4
+255806|Kiah Beach House|Byron Bay|NO|stars_4
+255808|Arts Factory Lodge|Byron Bay|NO|stars_2.5
+255811|Chelsea Motor Inn|Coffs Harbour|NO|stars_3
+255812|Park Beach Resort Motel|Coffs Harbour|NO|stars_3.5
+255813|Dolphin Sands Holiday Villas|Coffs Harbour|NO|stars_3
+255814|Royal Palms Motor Inn|Coffs Harbour|NO|stars_3
+255817|Glasgow Lodge|Devenport|NO|stars_3
+255818|Bay Village Resort & Spa|Dunsborough|NO|stars_3.5
+255825|Ningaloo B&B|Exmouth|NO|stars_3
+255826|Belconnen Way|Canberra|NO|stars_4
+255829|Twin Trees Country Cottages|Hunter Valley|NO|stars_3
+255831|Hunter Valley Motel|Hunter Valley|YES|stars_3
+255832|Woolshed Hill Estate|Pokolbin|NO|stars_4
+255835|Nautilus Retreat|Kalbarri|NO|stars_3
+255837|Allenvale|Lorne|NO|stars_3
+255838|International Lodge|Mackay|NO|stars_3
+255839|7th Street Motel|Mildura|NO|stars_3
+255841|Jubilee Motor Inn|Mount Gambier|NO|stars_3
+255842|Arkana Motor Inn & Terrace Apartments|Mount Gambier|NO|stars_3
+255843|Treenbrook Cottages|Pemberton|NO|stars_4
+255844|Marima Cottages|Pemberton|NO|stars_4
+255847|The Esplanade Port Hedland|Port Hedland|NO|stars_4
+255848|Shelly Beach Resort|Port Macquarie|NO|stars_3
+255849|Port Macquarie Motel|Port Macquarie|NO|stars_3
+255850|Silver Hills Motel|Queenstown|NO|stars_3
+255851|The Bridge Motor Inn|Rockhampton|NO|stars_3
+255852|Ambassador Motel|Rockhampton|NO|stars_3
+255853|Freycinet Waters|Swansea|NO|stars_3
+255854|Melba Lodge|Yarra Valley|NO|stars_4
+255891|Noosa Crest|Noosa|NO|stars_4
+255892|Fairshore Noosa|Noosa|NO|stars_4
+255893|The Emerald Noosa|Noosa|NO|stars_4
+255895|Noosa Heads Motel|Noosa|NO|stars_4
+255896|Noosa Springs Golf Resort & Spa|Noosa|NO|stars_4
+255939|The Lodge Outback|Broken Hill|NO|stars_3
+255940|Lyndoch Hill|Barossa Valley|NO|stars_4
+255942|Bendigo Haymarket Motor Inn|Bendigo|NO|stars_3
+255946|Kickback Cottages|Lake Entrance|NO|stars_3
+255947|Aurora Shady Glen Tourist Park|Winnellie|NO|0
+255948|Margaret River Guest House|Margaret River|NO|stars_4
+255950|Amaroo Holiday Park|Philipp Island|NO|stars_3
+255951|Eastern Reef Cottages|Port Camphell|NO|stars_3
+256534|Apollo Bay Backpackers Lodge|Apollo Bay|NO|stars_2
+256535|Seaview Motel and Apartments|Apollo Bay|NO|stars_4
+256536|Rayville Boat Houses|Apollo Bay|NO|stars_4
+256537|Marlin Waters|Palm Cove|NO|stars_4
+256538|Tranquility|Palm Cove|NO|stars_4
+256604|UWS Village|Parramatta|NO|stars_3
+256655|Armidale Motel|Armidale|NO|stars_3
+256657|Kananook Heritage House|Bairnsdale|NO|stars_4
+256663|Araluen Motor Lodge|Batemans Bay|NO|stars_3
+256664|Beach Drive Motel|Batemans Bay|NO|stars_3
+256665|Bayside Motel|Batemans Bay|NO|stars_3
+256682|Air On Broadbeach|Broadbeach|NO|stars_4
+256683|Broadbeach Pacific Resort|Broadbeach|NO|stars_4
+256685|Burnie Ocean View Motel|Burnie|NO|stars_3
+256686|Aqua Resort|Busselton|NO|stars_5
+256691|Gemini Resort|Caloundra|NO|stars_3.5
+256692|Aspect Caloundra|Caloundra|NO|stars_4
+256733|Como Bed & Breakfast|Como|NO|stars_4
+256736|Komune Resort - Gold Coast|Coolangatta|NO|stars_3
+256737|Oceanside Resort|Gold Coast|NO|stars_4
+256740|Coolum Seaside|Coolum Beach|NO|stars_5
+256741|Pandanus Coolum Beach|Coolum Beach|NO|stars_3
+256744|Aalana Motor Inn|Cowra|NO|stars_3
+256745|Alabaster Motel Cowra|Cowra|NO|stars_3
+256779|Gatehouse on Ryrie|Geelong|NO|stars_3
+256780|The Waverley International|Glen Waverley|NO|stars_4
+256781|Buffalo Motor Inn|Glenelg|NO|stars_3
+256909|Majorca Isle Beachside Resort|Maroochydore|NO|stars_3
+256911|Catalina Resort|Maroochydore|NO|stars_4
+256912|Top Spot Motel|Maroochydore|NO|stars_3
+256915|Lady Bay Resort|Warrnambool|NO|stars_4
+257074|Victor City Motel|Victor Harbor|NO|stars_3
+257102|El Lago Waters Resort|The Entrance|NO|stars_3
+257103|Lavender House B&B|The Entrance|NO|stars_4
+257152|Empire Spa Retreat|Yallingup|NO|stars_5
+257154|Sienna Lodge|Yallingup|NO|stars_3
+257184|Lake Jindabyne Hotel|Jindabyne|NO|stars_3
+257185|Bay 10 Accommodation|Port Lincoln|NO|stars_4
+257262|South Seas Motel & Apartments|Merimbula|NO|stars_3
+257263|Merimbula Beach Resort|Merimbula|NO|stars_4
+257264|Penguin Mews|Merimbula|NO|stars_3
+257265|Admirals Lodge|Merimbula|NO|stars_3
+257279|The Clarendon Hotel|Newcastle|NO|stars_4
+257280|Airport Ascot Motel|Hamilton Island|NO|stars_4
+257281|Brisbane Airport Inn|Hamilton|NO|stars_3
+257282|Lilies Cottages|Lovedale|NO|stars_5
+257300|Econo Lodge Moree Spa Motor Inn|Moree|NO|stars_3
+257302|Annesley House|Portland|NO|stars_4
+257303|Quest Portland|Portland|NO|stars_4
+257305|Hermitage Motor Inn|Wangaratta|NO|stars_3
+257331|The Beach Cabarita|Cabarita Beach|NO|stars_4
+257332|Aza Motel|Lismore|NO|stars_3
+257333|Lismore City Motor Inn|Lismore|NO|stars_3
+257337|Cadell on the Murray Motel|Moama|NO|stars_3
+257338|Excellsior|Mooloolaba|NO|stars_4
+257339|Peninsular Beachfront Resort|Mooloolaba|NO|stars_4
+257340|Coco Mooloolaba|Mooloolaba|NO|stars_4
+257341|Malibu Mooloolaba|Mooloolaba|NO|stars_4
+257342|River Esplanade Motel|Mooloolaba|NO|stars_3
+257343|Newport Mooloolaba|Mooloolaba|NO|stars_4
+257344|AJ's Mudgee Guesthouse|Mudgee|NO|stars_5
+257345|De Russie Suites Orange|Orange|NO|stars_4
+257346|Quest Shepparton|Shepparton|NO|stars_4
+257347|Quest Singleton|Singleton|NO|stars_4
+257348|Storey Grange|Springwood|NO|stars_4
+257349|Hotel Gloria|Springwood|NO|stars_4
+257350|Highlander Motor Inn|Toowoomba|NO|stars_4
+257351|Toowoomba Central Plaza|Toowoomba|NO|stars_4
+257352|Tweed Heads Vegas|Tweed Heads|NO|stars_3
+257354|The Beach Place|Yorkeys Knob|NO|stars_4
+257458|Hepburn Springs Motor Inn|Hepburn Springs|NO|stars_3
+257459|Peppers Bale Salt|Kingscliff|NO|stars_5
+257462|Quest Windsor|Melbourne|NO|stars_3
+257560|Mermaid Beachside Bed & Breakfast|Mermaid Beach|NO|stars_4
+257562|Ocean Blue Motel|Mermaid Beach|NO|stars_3
+257563|Browns at Broadbeach|Broadbeach|NO|stars_3
+257596|Holiday Lodge|Potts Point|NO|stars_2
+257597|Silvermere|Wentworth Falls|NO|stars_4
+257608|Manly Oceanside|Manly|NO|stars_2
+257656|Wandin Valley Estate|Rothbury|NO|stars_4
+257657|Talga Vines Vineyard Escape|Rothbury|NO|stars_3
+257658|Manzanilla Ridge|Rothbury|NO|stars_4
+257660|Maldives Resort|Main Beach|NO|stars_3.5
+257662|Kacys Bargara Beach Motel|Bargara|NO|stars_4
+257671|Bay of Palms|Elanora|NO|stars_3
+257672|Isle of Palms Resort|Elanora|NO|stars_4
+257673|Maleny Views Cottage Resort|Maleny|NO|stars_4
+257674|Maleny Hideaway|Maleny|NO|stars_3
+257675|Artisan Spa Views B&B and Cottage|Maleny|NO|stars_4
+257676|Bendles Cottages and Country Villas|Maleny|NO|stars_4
+257677|Egyptian Dream Retreat|Maleny|NO|stars_4
+257678|Buketts Way Motel and Restaurant|Gloucester|NO|stars_3
+257679|Anchors Aweigh Bed & Breakfast|Narooma|NO|stars_4
+257680|Athelstane House|Queenscliff|NO|stars_4
+257681|Vue Grand|Queenscliff|NO|stars_3.5
+257682|Shearwater Cottages|Port Sorell|NO|stars_4
+257701|Amble at Hahndorf|Hahndorf|NO|stars_4
+257711|Glasshouse Mountains Ecolodge|Glass House Mountains|NO|stars_3.5
+257712|Escarpment Retreat|Mount Tamborine|NO|stars_5
+257713|Avocado Sunset B&B|Mount Tamborine|NO|stars_4
+257715|The Polish Place|Mount Tamborine|NO|stars_4
+257716|Mountain Edge Studios|Mount Tamborine|NO|stars_4
+257717|Pethers Rainforest Retreat|Mount Tamborine|NO|stars_5
+257718|Nagambie Motor Inn|Nagambie|NO|stars_3
+257720|Noosa Sun Motel|Noosaville|NO|stars_4
+257721|Noosa Tropicana|Noosaville|NO|stars_4
+257722|Noosa Riviera Resort|Noosaville|NO|stars_4
+257723|Metzo Noosa Resort|Noosaville|NO|stars_4
+257724|Noosa Keys Resort|Noosaville|NO|stars_3
+257725|Anchor Motel Noosa|Noosaville|NO|stars_4
+257726|Verano Resort|Noosaville|NO|stars_4
+257727|Offshore Noosa Resort|Noosaville|NO|stars_4
+257728|Portside Noosa Waters|Noosaville|NO|stars_4
+257729|Sunset Cove Resort|Noosaville|NO|stars_4
+257731|Bermuda Villas|Noosaville|NO|stars_4
+257732|Noosa Sound Holiday Collection|Noosaville|NO|stars_4
+257733|Weyba Gardens Resort|Noosaville|NO|stars_3
+257735|Blackwood Park Cottages|Mole Creek|NO|stars_4
+257736|Aiyana Retreat|Denmark|NO|stars_4
+257737|Chimes Spa Retreat|Denmark|NO|stars_4
+257738|Peregian Court Resort|Peregian Beach|NO|stars_3.5
+257739|Sails Lifestyle Resort|Peregian Beach|NO|stars_4
+257740|Sanddancers B&B|Vincentia|NO|stars_4
+257742|Ford House Retreat|Bridgetown|NO|stars_4
+257903|Rosie's Inn|New Norfolk|NO|stars_4
+257904|Junction Motel|New Norfolk|NO|stars_3.5
+257905|Blue Dolphin Holiday Resort|Yamba|NO|stars_4.5
+258169|B & B's Retreat|Bathurst|NO|stars_3
+258170|Beechworth Carriage Motor Inn|Beechworth|NO|stars_3
+258171|Barnsley House Bed & Breakfast|Beechworth|NO|stars_4
+258173|Royal Pacific Resort|Biggera Waters|NO|stars_4
+258177|Alpine Valley Cottages|Bright|NO|stars_4
+258210|Brisbane Holiday Village|Eight Mile Plains|NO|stars_4
+258211|Eltham Gateway Hotel|Eltham|NO|stars_3
+258212|Eltham Motor Inn|Eltham|NO|stars_3
+258219|Island Palms Motor Inn|Forster|NO|stars_3
+258220|Abington Briars Cottage|Foster|NO|stars_4
+258223|Alpine Heritage Motel|Goulburn|NO|stars_3
+258225|McMillan Gardens Furnished Accommodation|Canberra|NO|stars_3
+258319|Maryborough Motel and Conference Centre|Maryborough|NO|stars_3
+258320|Econo Lodge Hacienda International|Sale|NO|stars_3
+258321|All Seasons Country Lodge|Taree|NO|stars_3
+258322|Midlands Motel|Taree|NO|stars_3
+258393|Edinburgh Motor Inn|Warragul|NO|stars_4
+258550|Barney Creek Vineyard Cottages|Mount Barney|NO|stars_4
+258585|Jephson|Brisbane|NO|stars_4
+258678|Sydney Wattle|Sydney|NO|stars_3
+258681|Sydney Beachouse YHA - Hostel/Backpacker accommodation|Sydney|NO|stars_3
+258846|City Edge North Melbourne|Melbourne|NO|stars_4
+258847|Moulton Park Cottages|Sassafras|NO|stars_4
+258848|Footscray Motor Inn|Melbourne|NO|stars_3
+258849|Cedar Park Rainforest Resort|Kuranda|NO|stars_4.5
+258850|High Chaparral Motel|Cairns|NO|stars_3
+258851|Coral Towers Holiday Suites|Cairns|NO|stars_3.5
+258856|Whiterock Leisure Park|Cairns|NO|stars_3
+258858|Port Douglas Valley Retreat|Port Douglas|NO|stars_4
+258888|Limes Hotel|Brisbane|NO|stars_4
+258889|Ambassador Motor Inn|Brisbane|NO|stars_3
+258891|The Galaxy Motel|Gosford|NO|stars_4
+258892|Bowen Terrace Accommodation|Brisbane|NO|stars_3
+258894|City Palms Motel|Brisbane|NO|stars_3
+258896|Habitat Resort|Broome|NO|stars_4
+258903|2 on 2|Hobart|NO|stars_4
+258904|Sunshine Coast Motor Lodge|Sunshine Coast|NO|stars_3
+258977|Best Western Plus Garden City|Canberra|NO|stars_3.5
+258978|La Vista Byron Bay|Byron Bay|NO|stars_4
+258980|Taylors at Tallows|Byron Bay|NO|stars_3
+258982|The Lorikeet Tourist Park|Arrawarra|NO|stars_4.5
+258983|The Waterside Cabins|Coffs Harbour|NO|stars_4
+258984|Potters Hotel & Brewery|Hunter Valley|NO|stars_4
+258985|Sunseeker Lodge|Noosa|NO|stars_4
+258986|Parkshores Sunshine|Noosa|NO|stars_4
+258987|Beach Breakers Resort|Noosa|NO|stars_3
+258995|Briardale Bed & Breakfast|Albury|NO|stars_4
+258996|Hamlet Downs Country Accommodation|Fentonbury|NO|stars_4
+259038|Anchor Bay Motel Greenwell Point|Cape Jervis|NO|stars_3
+259063|Freostay|Fremantle|NO|stars_3
+259149|Golden Palms Motel|Geelong|NO|stars_3
+259150|Norfolk Motor Inn|Glenelg|NO|stars_2.5
+259174|Daintree Wild Zoo Bed & Breakfast|Daintree National Park|NO|stars_3
+259175|Daintree Rainforest Retreat|Cow Bay|NO|stars_3.5
+259176|Wait-A-While In The Daintree|Mossman|NO|stars_4
+259198|Snowy Wilderness|Ingebyra|NO|stars_4
+259205|Rainbow Retreat Wilderness Eco Lodge & Cabins|St Marys|NO|stars_4
+259211|Cape Bridgewater Sea View Lodge|Cape Bridgewater|NO|stars_3
+259213|Suzannes Hideaway|Lismore|NO|stars_4
+259215|Mercure Sydney Liverpool|Liverpool|NO|stars_4
+259218|Courtyard North Ryde|North Ryde|NO|stars_4
+259219|Stamford Grand North Ryde|North Ryde|YES|stars_4
+259220|Starline Alpacas Farmstay Resort|Singleton|NO|stars_3
+259226|Santorini Twin Waters|Mudjimba|NO|stars_4
+259239|Tokemata Retreat|Cobram|NO|stars_4
+259246|The Prince Mark Motor Inn|Dandenong|NO|stars_3
+259271|Sand Castles on Currumbin Beach|Elanora|NO|stars_3.5
+259272|Sanctuary Beach Resort|Gold Coast|NO|stars_3
+259273|Little Cove Currumbin|Elanora|NO|stars_4
+259274|Point Lonsdale Guest House|Queenscliff|NO|stars_3
+259281|Satori Springs Country Estate|Moss Vale|NO|stars_4
+259283|Ocean Beach Resort|Umina Beach|NO|stars_3.5
+259284|Nambour Lodge Motel|Nambour|NO|stars_3
+259286|Amore On Buderim|Sunshine Coast|NO|stars_4
+259292|Eumarella Shores Noosa Lake Retreat|Noosaville|NO|stars_4
+259293|A Taste of Bruny|Bruny Island|NO|stars_4
+259294|Azzure Beach Houses Boat Harbour Beach|Wynyard|NO|stars_4
+259374|Meriton Serviced Apartments Adelaide Street|Brisbane|NO|stars_5
+259384|Playford Lodge|Whyalla|NO|stars_4
+259385|Meriton Serviced Apartments Campbell Street|Sydney|NO|stars_5
+259923|Best Western Premier Hotel 115 Kew|Kew|NO|stars_4.5
+261027|Kingsford Homestead|Kingsford|NO|stars_5
+261523|Island Leisure Resort|Nelly Bay|NO|stars_3
+261563|The Star - Astral Residences / Astral Tower / The Darling|Sydney|YES|stars_5
+262028|Checkers Resort & Conference Centre|Sydney|NO|stars_3
+265477|Darlington Beach Resort|Arrawarra|NO|stars_4
+265503|Cape Jervis Station|Cape Jervis|NO|stars_3
+270983|Santa Maria Executive Suites Fremantle B&B|Beaconsfield|NO|stars_3
+270984|Tradewinds McLeod Holiday Apartments|Cairns|NO|stars_3
+271545|Summit Apartments Airlie Beach|Airlie Beach|NO|stars_4
+271546|Spring Hill Gardens Apartments|Brisbane|NO|stars_3
+271547|On The Bay Resort - Bribie Island|Bongaree|NO|stars_4.5
+271548|Aqualine Apartments|Gold Coast|NO|stars_4
+271550|Townsville Holiday Apartments|Townsville|NO|stars_3.5
+272924|Lennox Point Holiday Apartments|Byron Bay|NO|stars_4
+272925|Byron Luxury Beach Houses|Byron Bay|NO|stars_4
+272926|Outrigger Bay Apartments|Byron Bay|NO|stars_4
+272927|11 James Cook Apartments|Byron Bay|NO|stars_4
+272928|Julians Apartments|Byron Bay|NO|stars_4
+272929|Su Casa|Byron Bay|NO|stars_4
+272930|The Lower Decks|Byron Bay|NO|stars_3.5
+272931|Harkaway|Byron Bay|NO|stars_4
+272933|Saltwater Cottage|Byron Bay|NO|stars_4
+272934|Mi Casa|Byron Bay|NO|stars_4
+272935|Ocean Spray Apartments|Coffs Harbour|NO|stars_3
+272936|Pacific Marina Luxury Apartments|Coffs Harbour|NO|stars_4
+272938|Seahorse Inn|Eden|NO|stars_4
+272939|Emarroo Cottages Mildura|Mildura|NO|stars_4
+272956|Castaway Holiday Apartments|Strahan|NO|stars_3
+273029|Bali Hai Apartments Noosa|Noosa|NO|stars_4
+273030|Cloud Nine Luxury Apartments|Noosa|NO|stars_4
+273032|Picture Point Terraces|Noosa|NO|stars_4
+273033|The Shore Apartments|Surfers Paradise|NO|stars_3
+273034|Anchor Down Apartments|Surfers Paradise|NO|stars_3
+273035|President Holiday Apartments|Surfers Paradise|NO|stars_3
+273036|Coolamon Apartments|Surfers Paradise|NO|stars_3
+273037|Copacabana Holiday Apartments|Surfers Paradise|NO|stars_3
+273038|Bahia Beachfront Apartments|Surfers Paradise|NO|stars_3
+275205|Leisure Lee Holiday Apartments|Ballina|NO|stars_3
+275368|Le Lavandou Holiday Apartments|Broadbeach|NO|stars_3
+275369|San Mateo on Broadbeach|Broadbeach|NO|stars_4
+275371|Oceanside Cove Holiday Apartments|Burleigh Heads|NO|stars_4
+275379|Fairseas Apartments|Caloundra|NO|stars_4
+275443|Kirra Palms Holiday Apartments|Coolangatta|NO|stars_3
+275444|Kirra Beach Apartments|Coolangatta|NO|stars_4
+275651|Tyrian Serviced Apartments|Fitzroy|NO|stars_4
+275967|Burlington Holiday Apartments|Maroochydore|NO|stars_3
+276171|Drummond Apartments Services|Carlton|NO|stars_3
+276385|Waterview Luxury Apartments|Merimbula|NO|stars_4
+276386|Seashells Apartments Merimbula|Merimbula|NO|stars_3
+276411|Sunnyside Tavern|Newcastle|NO|stars_3
+276480|Twin Pines Motel|Mooloolaba|NO|stars_3
+276481|Bellardoo Holiday Apartments|Mooloolaba|NO|stars_3
+276619|Beaches Serviced Apartments|Nelson Bay|NO|stars_4
+276621|Hiigh Apartments|Prahan|NO|stars_4
+277125|Regents Court Apartments|Potts Point|NO|stars_4
+277335|Camden Valley Inn|Campbelltown|NO|stars_4
+277408|Avoca Palms Resort Apartments|Avoca Beach|NO|stars_4
+277412|Noosa Yallambee Holiday Apartments|Noosaville|NO|stars_3
+277414|Healesville Apartments|Healesville|NO|stars_4
+277427|Apartments @ Kew Q105|Kew|NO|stars_4
+277478|Eco-luxe @ Mount Avoca|Avoca|NO|stars_4
+277480|Vineyard Cottages & Café|Ballandean|NO|stars_4
+277481|Glencoe Rural Retreat|Barrington|NO|stars_4
+277482|Bundanoon Lodge|Bundanoon|NO|stars_4
+277483|Caves Beachside Hotel|Caves Beach|NO|stars_4
+277491|Wahroonga Waldorf Apartments|Sydney|NO|stars_3
+279342|Adelaide City Park Motel|Adelaide|NO|stars_3
+279343|La Loft Apartments|Adelaide|NO|stars_4
+279344|Clarendon Cottages|Melbourne|NO|stars_4
+279347|Staycentral Melbourne Serviced Apartments - Southbank|Melbourne|NO|stars_4
+279348|Vision Apartments|Cairns|NO|stars_5
+279349|Citysider Cairns|Cairns|NO|stars_3
+279350|Il Centro Luxury Apartment Suites|Cairns|NO|stars_4
+279351|Latitude 16 Garrick House|Port Douglas|NO|stars_4
+279352|Latitude 16 Sunseeker Apartments|Port Douglas|NO|stars_3
+279356|Mossman Motel Holiday Villas|Daintree National Park|NO|stars_3
+279501|Sea Star Apartments|Airlie Beach|NO|stars_4
+279502|City Park Apartments|Brisbane|NO|stars_3.5
+279503|Essence Serviced Apartments|Brisbane|NO|stars_4
+279507|San Simeon Apartments|Tugun|NO|stars_3.5
+279509|Itara Apartments|Townsville|NO|stars_4
+279785|Admiral Nelson Motor Inn|Port Stephens|NO|stars_3
+280170|Cavvanbah - Tropical Beachfront Villas|Byron Bay|NO|stars_4
+280172|Byron Bay Rainforest Resort|Byron Bay|NO|stars_3
+280173|Main Beach Apartments|Byron Bay|NO|stars_3
+280174|Aaman & Cinta Luxury Villas|Byron Bay|NO|stars_4
+280175|Amber Gardens Guesthouse|Byron Bay|NO|stars_4
+280176|Planula Bed & Breakfast Retreat|Byron Bay|NO|stars_4
+280180|Costa Royale Beachfront Apartments|Trinity Beach|NO|stars_4
+280181|Indulge Apartments - Eighth Street|Mildura|NO|stars_4
+280182|Indulge Apartments Langtree|Mildura|NO|stars_4
+280183|Indulge Apartments - Ontario|Mildura|NO|stars_4
+280184|Mildura Golf Club Resort|Mildura|NO|stars_3
+280188|Rocky Resort Motor Inn|Rockhampton|NO|stars_4
+280189|Coffee House Apartment Motel|Rockhampton|NO|stars_4
+280236|Durham Court Holiday Apartments|Surfers Paradise|NO|stars_3
+280238|Seacrest Beachfront Holiday Apartments|Surfers Paradise|NO|stars_3.5
+280239|Budds Beach Apartments|Surfers Paradise|NO|stars_3
+280442|Astor Hotel Motel|Albury|NO|stars_3
+280443|Alexandra Place|Bendigo|NO|stars_4
+280566|Allambi Holiday Apartments|Lake Entrance|NO|stars_3
+280594|Margaret House|Margaret River|NO|stars_3
+281922|Woodford of Leura|Leura|NO|stars_3.5
+282025|Elysium Apartments|Palm Cove|NO|stars_4
+282155|Ballina Byron Motor Inn|Ballina|NO|stars_3
+282156|Ballina Colonial Motel|Ballina|NO|stars_3
+282417|Elite Motor Inn|Armidale|NO|stars_3.5
+282458|Adina Apartment Hotel Norwest|Baulkham Hills|NO|stars_4
+282476|Sinclairs Bondi|Bondi Junction|NO|stars_3
+282517|Aria Apartments|Broadbeach|NO|stars_4
+282518|Talisman Apartments|Broadbeach|NO|stars_4
+282526|Southern Cross Apartments|Burleigh Heads|NO|stars_4
+282527|Burleigh Palms Holiday Apartments|Burleigh Heads|NO|stars_3
+282528|Key Largo Apartments|Burleigh Heads|NO|stars_3.5
+282599|Bombora Resort|Coolangatta|NO|stars_3
+282670|StayCentral Melbourne Serviced Apartments - Tuscany Corporate Apartment|St. Kilda|NO|stars_4
+282731|East|Griffith|NO|stars_4
+283561|BreakFree on Clarence|Haymarket|NO|stars_3
+283562|Carrington Sydney City Centre Apartments|Haymarket|NO|stars_3
+283613|Sapphire Waters Motor Inn|Merimbula|NO|stars_3
+283614|Indian Ocean Hotel|Scarborough|NO|stars_3
+283619|Honeysuckle Executive Apartments|Honeysuckle|NO|stars_4
+283730|Albert Park Motor Inn|Longreach|NO|stars_3
+283782|Charlestown Executive Apartments|Charlestown|NO|stars_4.5
+283784|Kiama Shores Motel|Kiama|NO|stars_3
+283785|de Russie Suites Mudgee|Mudgee|NO|stars_4
+283786|Marcel Towers Holiday Apartments|Nambucca Heads|NO|stars_3
+283788|Blue Pelican Motel|Tweed Heads|NO|stars_3
+283789|Calico Court Motel|Tweed Heads|NO|stars_3
+283790|Country Rose Motel Warwick|Warwick|NO|stars_3
+284357|A' Montego Mermaid Beach Motel|Mermaid Beach|NO|stars_3
+284628|The Maisonette Hotel|Potts Point|NO|stars_3
+284631|Lees Hotel|Ingham|NO|stars_3
+284645|Manly Guest House|Manly|NO|stars_2
+284747|Campbelltown Colonial Motor Inn|Campbelltown|NO|stars_3
+284748|Oscar on Main Resort|Main Beach|NO|stars_4
+284749|Crest Apartments|Main Beach|NO|stars_4
+284750|Platinum Bargara Apartments|Bargara|NO|0
+284769|Sails on Port Sorell|Port Sorell|NO|stars_4
+284794|Gordon Motor Inn|Redcliffe|NO|stars_4
+284797|Aaronlee Retreat|Mount Tamborine|NO|stars_4
+284925|QT Sydney|Sydney|NO|stars_5
+284927|Savoy Hotel Double Bay|Sydney|NO|stars_3
+284928|Liberty Plains Motor Inn|Sydney|NO|stars_3
+284929|Neutral Bay Lodge|Sydney|NO|stars_3
+284930|Sanctuary Hill Retreat|Sydney|NO|stars_4
+284931|Bankstown Motel 10|Sydney|NO|stars_3
+286230|Astoria Retreat Bed & Breakfast|Perth|NO|stars_4
+286231|Welcome Inn 277|Adelaide|NO|stars_3
+286232|Tonsley Hotel|Adelaide|NO|stars_3
+286233|Arkaba Hotel|Adelaide|NO|stars_4
+286234|Marion|Adelaide|NO|stars_3
+286235|Michelle's Garden Apartments|Adelaide|NO|stars_3.5
+286236|Arabella On West Apartments|Adelaide|NO|stars_4
+286237|The Lakes Resort Hotel|Adelaide|NO|stars_4
+286239|Hill 'N' Dale Farm Cottages|Don Valley|NO|stars_3.5
+286240|Parkdale Motor Inn|Melbourne|NO|stars_3
+286241|Middle Park Hotel|Melbourne|NO|stars_4
+286242|Monte Villa Motor Inn|Melbourne|NO|stars_3
+286243|Quality Hotel Tabcorp Park|Melbourne|NO|stars_3.5
+286244|Zara Apartments|Melbourne|NO|stars_4
+286245|Comfort Inn Trawool|Melbourne|NO|stars_3
+286247|Hidden Valley Resort|Darwin|NO|stars_4
+286248|Darwin FreeSpirit Resort|Darwin|NO|stars_4
+286249|Casa on Gregory|Darwin|NO|stars_4
+286250|Quest Parap|Darwin|NO|stars_4
+286251|Edge Apartments Cairns|Cairns|NO|stars_4
+286546|Camelot Inn|Brisbane|NO|stars_4
+286547|Kirkland House B&B|Brisbane|NO|stars_3
+286548|The Waterloo Bay Hotel|Brisbane|NO|stars_3
+286549|Brisbane Street Studios|Brisbane|NO|stars_3
+286551|Franklin Villa|Brisbane|NO|stars_3.5
+286552|Johnson Road Motel|Brisbane|NO|stars_4
+286555|Crystal Bay on the Broadwater|Gold Coast|NO|stars_3.5
+286556|Whale Watch Ocean Beach Resort|Point Lookout|NO|stars_4
+287215|Coopers Shoot Escape|Byron Bay|NO|stars_4
+287216|Kamala|Byron Bay|NO|stars_4
+287244|King Parrot Cottages|Lorne|NO|stars_4
+287405|The Noble Grape Guesthouse|Margaret River|NO|stars_4
+287424|Butterfly Farm|Port Camphell|NO|stars_3.5
+287810|Coral Point Lodge|Shute Harbour|NO|stars_3
+287994|Pier 21 Apartment Hotel|Fremantle|NO|stars_4
+289113|Lighthouse Beach Resort|Bunbury|NO|stars_3
+289122|Cheltenham Apartments|Caloundra|NO|stars_3
+289209|Docklands Prestige Apartments|Docklands|NO|stars_4
+289210|Docklands Private Collection of Apartments|Docklands|NO|stars_4
+289233|Alfa Motel|Gilgandra|NO|stars_3
+289234|Orana Windmill Motel|Gilgandra|NO|stars_3
+289459|Seclude Rainforest Retreat|Proserpine|NO|stars_4
+289720|Victor Apartments|Victor Harbor|NO|stars_4
+289786|Towradgi Beach Hotel|Wollongong|NO|stars_3.5
+289787|Shellharbour Resort|Wollongong|NO|stars_3
+289903|Cardiff Executive Apartments|Newcastle|NO|stars_4
+289904|Jesmond Executive Villas|Newcastle|NO|stars_4
+289905|Chifley Executive Suites|Newcastle|NO|stars_4
+289906|Harbourside Apartments|Newcastle|NO|stars_3
+290008|The Island Accommodation|Mornington|NO|stars_3
+290009|The Lodge Mudgee|Mudgee|NO|stars_3
+290012|Country Comfort Toowoomba|Toowoomba|YES|stars_4
+290326|Lakeside Holiday Apartments|Mandurah|NO|stars_4
+291518|The Outback Lodge Pty Ltd|Manly|NO|stars_3
+291698|Narellan Motor Inn|Campbelltown|NO|stars_3.5
+291699|Barossa Motor Lodge|Tanunda|NO|stars_3
+291751|Wine Village Motor Inn|Rutherglen|NO|stars_3
+291752|The Waterfront Wynyard|Wynyard|NO|stars_3
+291795|Clover Cottage Country Retreat|Manjimup|NO|stars_3
+291854|Greenock's Old Telegraph Station|Nuriootpa|NO|stars_4
+291855|The Heights Bed & Breakfast|Jurien Bay|NO|stars_3.5
+291856|Blue Pacific Swansea|Pelican|NO|stars_3
+291858|Naracoopa Holiday Cottages|Naracoopa|NO|stars_3.5
+291860|Castle on the Hill|Uki|NO|stars_4
+291861|On the Beach Resort Bribie Island|Bongaree|NO|stars_4
+292020|Riviera B&B|Gilston|NO|stars_3
+292025|The Tops Organic Retreat|Cobark|NO|stars_4
+292026|Rose Bay Resort|Bowen|NO|stars_4
+292028|Tin Can Bay Motel|Tin Can Bay|NO|stars_3
+292030|The Bower at Broulee|Broulee|NO|stars_4
+292032|Burke & Wills Motor Inn|Kingaroy|NO|stars_3
+292454|Quest Bundoora|Melbourne|NO|stars_4
+292456|Quality Inn York On Lilydale Rs|Melbourne|NO|stars_3.5
+292717|Mercure Gladstone|Gladstone|NO|stars_4
+292782|Sundowner Hume Country Motor In|Albury|YES|stars_3
+293445|Tolarno Hotel|St. Kilda|NO|stars_4
+293885|Quest Mandurah|Mandurah|NO|stars_4
+295461|Pullman Brisbane King George Square|Brisbane|NO|stars_5
+295591|The Nest - Melbourne CBD|Melbourne|NO|0
+295649|Melbourne Short Stay Apartment - Southbank ONE|Melbourne|NO|stars_4
+295679|Emerald Sands Apartments|Surfers Paradise|NO|stars_4
+295862|Cicada Lodge|Katherine|NO|stars_4.5
+296347|Broome Time Lodge|Broome|NO|stars_3
+296486|Rydges Darwin Airport Hotel|Darwin|YES|stars_4
+296561|Beach Suites|Byron Bay|NO|stars_4
+296562|Dragonfly Lodge|Swansea|NO|stars_4.5
+296564|Adina Apartment Hotel Bondi Beach|Bondi Beach|NO|stars_4
+296566|Fraser Suites Perth|Perth|NO|stars_5
+298880|South Pacific Resort|Noosa|NO|stars_4
+298892|Fairways Resort|Rosebud|NO|stars_4
+300030|Il Mondo Boutique|Brisbane|NO|stars_4
+300635|Domain Serviced Apartments|Ascot|NO|stars_4
+300638|Quest Caroline Springs|Caroline Springs|NO|stars_4
+300642|RACV Resort|Inverloch|NO|stars_4
+300643|Norfolk Luxury Beachfront Apartments|Main Beach|NO|stars_4
+300645|The Falls|Oxford Falls|NO|stars_3
+310805|Hamilton Island Holiday Homes|Hamilton Island|NO|stars_3.5
+310807|McLaren Vale Studio Apartments|McLaren Vale|NO|stars_4
+310808|Mercure Melbourne Albert Park|Melbourne|YES|stars_4
+310810|Douglas on River|Port Fairy|NO|stars_3.5
+310812|Barn|Mount Gambier|NO|stars_4
+318479|Nunawading Motor Inn Melbourne|Melbourne|NO|stars_3
+318490|Outrigger Holiday Apartments Resort Port Douglas|Port Douglas|NO|stars_3
+319981|Mount Cotton Guesthouse|Brisbane|NO|stars_4
+319987|Sky Rider Motor Inn|Blue Mountains|NO|stars_3
+322341|Newberry Manor|Dunsborough|NO|stars_4
+322357|Harbour Sails Motor Inn|Gladstone|NO|stars_4
+322426|Motel Pampas|Port Augusta|NO|stars_3
+322579|Viscount Towers on the Beach|Surfers Paradise|NO|stars_4
+323451|Hotel Bungle Bungle Wilderness Lodge|Kununurra|NO|stars_3
+324285|Huskisson Beach Motel|Cape Jervis|NO|stars_3
+327695|Kanimbla View - The Clifftop Retreat|Blackheath|NO|stars_3
+327724|The Rose Hotel|Bunbury|NO|stars_3.5
+327731|Waterview Resort|Caloundra|NO|stars_4
+327790|The Charrington Boutique Hotel|Chatswood|NO|stars_3
+327938|Blue Gum Motor Inn|Dubbo|NO|stars_3
+329530|Grand Palais Beachside Resort|Alexandra Headland|NO|stars_4
+329955|Ocean View Motor Inn Merimbula|Merimbula|NO|stars_3
+330353|Springwood Tower Apartment Hotel Brisbane|Springwood|NO|stars_4
+330357|Garden City Motor Inn Wagga Wagga|Wagga Wagga|NO|stars_3
+331196|Atrium Resort Mandurah|Mandurah|NO|stars_3
+334088|Valley of the Waters B & B|Wentworth Falls|NO|stars_4
+334578|Airway Motel Brisbane|Ascot|NO|stars_3
+334622|Noosa River Palms|Noosaville|NO|stars_4
+334700|Sanctuary House Motel Healesville|Healesville|NO|stars_3.5
+335830|Tune Hotel, Melbourne|Carlton|NO|stars_3
+354430|Cumberland Motor Inn|Cessnock|NO|stars_3
+359599|Best Western Premier The Terrace Hotel|Perth|NO|stars_4
+363716|Ovolo Hotel Melbourne|Melbourne|NO|stars_4
+364176|Rydges Sydney Airport|Sydney|YES|stars_4
+364179|1888 Hotel|Sydney|NO|stars_4
+364180|Abey Hotel|Sydney|NO|stars_3
+364193|Camperdown Apartments|Sydney|NO|stars_4
+364196|Calabash Bay Lodge|Sydney|NO|stars_4
+364197|Wyndel Apartments - The Mint|Sydney|NO|stars_3
+364202|Abcot Inn|Sydney|NO|stars_3.5
+364204|Breezes Waterfront|Darwin|NO|stars_4.5
+364208|Miss Majestic|Darwin|NO|stars_4
+364209|Signatures on Litchfield|Darwin|NO|stars_4
+364212|The Grand Old Lady|Darwin|NO|0
+364217|Kingston Village Apartment|Darwin|NO|0
+364219|GMK House|Darwin|NO|0
+364222|Balpara Executive Apartments|Darwin|NO|stars_4
+364225|Calypso Inn Backpackers Resort|Cairns|NO|stars_2
+364231|Airlie Apartments|Airlie Beach|NO|stars_3
+364241|Pegasus Motor Inn and Serviced Apartments|Brisbane|NO|stars_4
+364245|Mantra Midtown|Brisbane|NO|stars_4
+364246|Mint Brisbane|Brisbane|NO|stars_4
+364248|Brisbane Manor Hotel|Brisbane|NO|stars_3
+364252|Herston Place Motel|Brisbane|NO|stars_3
+364253|Cleveland Visitor Villas Motel|Brisbane|NO|stars_3
+364262|Chermside Court Motel|Brisbane|NO|stars_3
+364266|Annerley Motor Inn|Brisbane|NO|stars_3
+364272|McNevins Logan Park Motel|Brisbane|NO|stars_3
+364275|The Pixy Bed & Breakfast|Brisbane|NO|stars_3
+364285|Ashmore Palms Holiday Village|Gold Coast|NO|stars_4
+364288|Rumbalara Bed and Breakfast|Gold Coast|NO|stars_3
+364297|Happy Wanderer Village|Hervey Bay|NO|stars_4
+364302|White Crest Luxury Apartments|Hervey Bay|NO|stars_4
+364305|Surfside On The Beach|Sunshine Coast|NO|stars_4
+364306|Arcadia Beach Guest House|Magnetic Island|NO|stars_3
+364307|Hotel Hotel|Canberra|NO|stars_5
+364308|Abode Woden|Canberra|NO|stars_4
+364309|Oxley Court Serviced Apartments|Canberra|NO|stars_4
+364311|Apartments by Nagee Canberra|Canberra|NO|stars_4
+364313|Abode Tuggeranong|Canberra|NO|stars_4
+364316|Pavilions 2 at Broken Head|Byron Bay|NO|stars_4.5
+364319|Aloha Villas Byron Bay|Byron Bay|NO|stars_4
+364324|Azabu Luxury Accommodation|Byron Bay|NO|stars_5
+364334|Byron Bay Side Central Motel|Byron Bay|NO|stars_3
+364336|Byron Quarter|Byron Bay|NO|stars_4
+364337|Byron Sunseeker motel|Byron Bay|NO|stars_3
+364343|Gosamara Apartments|Byron Bay|NO|stars_4
+364376|Bentleigh Motor Inn|Coffs Harbour|NO|stars_3
+364377|Bosuns Inn Motel|Coffs Harbour|NO|stars_3
+364378|Caribbean Motel|Coffs Harbour|NO|stars_3
+364380|Coffs Harbour Holiday Apartments|Coffs Harbour|NO|stars_3
+364381|Hawaiian Sands Motor Inn|Coffs Harbour|NO|stars_3
+364385|Pacific Towers Holiday Apartments|Coffs Harbour|NO|stars_4
+364386|Paradise Palms Resort|Coffs Harbour|NO|stars_3
+364389|Toreador Motel|Coffs Harbour|NO|stars_3
+364395|Apartments G60 Gladstone|Gladstone|NO|stars_4
+364400|The Shores Holiday Apartments|Mackay|NO|stars_4
+364402|Lanai Serviced Apartments|Mackay|NO|stars_4
+364403|Mid City Motor Inn, Mackay|Mackay|NO|stars_3
+364407|Beachside Holiday Apartments|Port Macquarie|NO|stars_4
+364413|El Paso Motor Inn, Port Macquarie|Port Macquarie|NO|stars_3
+364416|Northpoint Waterfront Apartments|Port Macquarie|NO|stars_4
+364417|Ocean Breeze Motel|Port Macquarie|NO|stars_3
+364422|Country Comfort Port Macquarie Waters Edge|Port Macquarie|YES|stars_3
+364429|Broken Hill Tourist Park|Broken Hill|NO|stars_3
+364456|coast inn motel|Ballina|NO|stars_3
+364461|Econo Lodge Armidale|Armidale|NO|stars_3
+364463|Atherton Hallorans Leisure Park|Atherton|NO|stars_3
+364472|Coachhouse Marina Resort|Batemans Bay|NO|stars_4
+364482|Fernmark Inn|Bega|NO|stars_4
+364488|Gardners Inn|Blackheath|NO|stars_3
+364491|Parklands Country Garden & Lodges|Blackheath|NO|stars_4
+364494|Boulevard North|Broadbeach|NO|stars_4
+364496|Mardi Gras Holiday Resort|Broadbeach|NO|stars_3
+364498|Santa Anne By The Sea|Broadbeach|NO|stars_4
+364499|South Pacific Plaza|Broadbeach|NO|stars_4
+364501|Alexandra Lodge|Bundaberg|NO|stars_3
+364508|Aussie Resort|Burleigh Heads|NO|stars_3
+364511|Horizons Holiday Apartments|Burleigh Heads|NO|stars_3
+364515|Solnamara Beachfront Apartments|Burleigh Heads|NO|stars_3
+364519|Caloundra City Centre Motel|Caloundra|NO|stars_3
+364520|Centrepoint Apartment Caloundra|Caloundra|NO|stars_4
+364525|Tripcony Quays|Caloundra|NO|stars_3
+364526|Watermark Resort|Caloundra|NO|stars_4
+364527|Portobello By The Sea|Caloundra|NO|stars_4
+364534|Chatswood Leura Building Holiday Accommodations|Chatswood|NO|stars_3.5
+364536|Australis Kirra Surf Apartments|Coolangatta|NO|stars_4
+364541|Rainbow Commodore Apartments|Coolangatta|NO|stars_4
+364548|Kirra Vista Holiday Units|Coolangatta|NO|stars_3
+364559|Kinross Inn - Cooma|Cooma|NO|stars_3
+364565|Rosnay Cottage|Cowra|NO|stars_3.5
+364574|Dubbo Palms Motel|Dubbo|NO|stars_3
+364578|Homestead Motel|Dubbo|NO|stars_3
+364579|Macquarie Inn|Dubbo|NO|stars_3
+364593|Lakeside Resort Forster|Forster|NO|stars_4
+364594|Lanis Holiday Island, Forster|Forster|NO|stars_3
+364604|O'Shea's Royal Hotel|Goondiwindi|NO|stars_3
+364606|Copacabana Shores|Gosford|NO|stars_4.5
+364612|Gosford Palms Motor Inn|Gosford|NO|stars_3
+364628|McNevins Tamworth Motel|Tamworth|NO|stars_4
+364638|Alexandria Apartments|Alexandra Headland|NO|stars_3
+364643|Mirage Alexandra Headland|Alexandra Headland|NO|stars_4
+364656|Normandie Motel and Function Centre|Wollongong|NO|stars_3
+364681|Hillcrest Motor Inn|Merimbula|NO|stars_3
+364685|SandPiper Holiday Units. Merimbula|Merimbula|NO|stars_3
+364687|Summerhill Motor Inn|Merimbula|NO|stars_3
+364692|Tuscany Apartments|Merimbula|NO|stars_4
+364696|Discovery Holiday Parks Pambula Beach|Merimbula|NO|stars_4
+364698|Karuah Motor Inn|Newcastle|NO|stars_3
+364703|Christina's B&B - Lake Macquarie|Newcastle|NO|stars_4
+364712|Crown on Darby|Newcastle|NO|stars_4
+364719|Lovedale Cottages|Lovedale|NO|stars_4
+364726|Golden Harvest Motor Inn|Moree|NO|stars_4
+364748|Cousins Motor Inn|Inverell|NO|stars_3
+364756|Lismore Gateway Motel|Lismore|NO|stars_4
+364757|Lismore Wilson Motel|Lismore|NO|stars_3
+364758|Colonial Motor Inn Lithgow|Lithgow|NO|stars_3
+364771|Segenhoe Inn Luxury Boutique Hotel and B&B|Muswellbrook|NO|stars_5
+364772|Red Cedar Motel|Muswellbrook|NO|stars_3
+364784|Worrowing - Jervis Bay|Nowra|NO|stars_4
+364787|Nowra Motor Inn|Nowra|NO|stars_3
+364791|The Midcity Motor Lodge|Orange|NO|stars_3
+364792|West End Motor Lodge|Orange|NO|stars_3
+364805|Soldiers Point Holiday Park|Soldiers Point|NO|stars_4
+364808|Seabreeze Beach Hotel|South West Rocks|NO|stars_3
+364825|Bannisters|Ulladulla|NO|stars_4
+364836|Goomburra Forest Retreat|Warwick|NO|stars_4
+364838|Pegasus Motel|Yamba|NO|stars_3
+364840|Yamba Motor Inn|Yamba|NO|stars_3
+364843|Country Guesthouse Schonegg, Murrumbateman|Yass|NO|stars_4
+364851|Cotton Beach Resort|Kingscliff|NO|stars_4
+364852|Marty's @ Little Beach|Nelson Bay|NO|stars_4
+364853|Nelson Bay Bed & Breakfast|Nelson Bay|NO|stars_4
+364854|Nelson Bay Breeze Resort|Nelson Bay|NO|stars_3
+364855|Seabreeze Hotel|Nelson Bay|NO|stars_2
+364877|Randwick Space|Randwick|NO|stars_3
+364885|The Chalet|Medlow Bath|NO|stars_4
+364889|Aloha Lane|Main Beach|NO|stars_3
+364890|Beachside Tower Apartments|Main Beach|NO|stars_4
+364892|De Ville Apartments|Main Beach|NO|stars_4
+364896|Bargara Shoreline Apartments|Bargara|NO|stars_3.5
+364899|Manta Bargara|Bargara|NO|stars_5
+364908|Amooran Oceanside Apartments and Motel|Narooma|NO|stars_4
+364910|Cronulla Motor Inn|Cronulla|NO|stars_3
+364919|Murwillumbah Motor Inn|Murwillumbah|NO|stars_3
+364926|Bluewater Harbour Motel, Bowen|Bowen|NO|stars_4
+364937|The Retreat Port Stephens|Anna Bay|NO|stars_3
+364938|Anne's Waterfront Haven Bed & Breakfast|Anna Bay|NO|0
+364941|Colonial Ridge Retreat|Anna Bay|NO|stars_3
+365415|Discovery Holiday Parks - Cradle Mountain|Cradle Mountain|NO|stars_3
+365416|Discovery Holiday Parks - Hobart|Hobart|NO|stars_3.5
+365418|Discovery Holiday Parks - Devonport|Devenport|NO|stars_4
+365419|H Hotel Darwin|Darwin|NO|stars_4
+365422|Flinders Hotel - Quarters|Flinders|YES|stars_4
+365429|Villa Howden|Hobart|NO|stars_5
+365431|Villa Mar Colina|Yeppoon|NO|stars_4
+365617|5 Knots|Metung|NO|stars_5
+365630|Addison Motor Inn|Shepparton|NO|stars_4
+365646|Alexandria Bed & Breakfast|Wynyard|NO|stars_3
+365658|Amberley House|Sandy Bay|NO|stars_3
+365659|Anchors Port Campbell|Port Camphell|NO|stars_4
+365664|Apartments @ Glen Central ViQi|Glen Waverley|NO|stars_4
+365668|Apartments on Chapman|Melbourne|NO|stars_4
+365669|Apartments on Tolmie|Mount Gambier|NO|stars_4
+365679|Arjuna Ridge Retreat|Kettering|NO|stars_4
+365684|Astor Apartments|Brisbane|NO|stars_3
+365688|Austin Rise B&B|Melbourne|NO|stars_4
+365695|Banksia Gardens Resort Motel|Albany|YES|stars_4
+365699|Barwon Heads Resort at 13th Beach|Barwon Heads|NO|stars_4
+365700|Barwon Valley Lodge|Geelong|NO|stars_4
+365708|Beach House Motel|Townsville|NO|stars_3
+365731|Bestbrook Mountain Resort|Maryvale|NO|stars_3
+365759|Bogong View Motor Inn|Bright|NO|stars_3
+365760|Bonney's Inn|Deloraine|NO|stars_3
+365761|Booleroo View Bed & Breakfast|Flinders Ranges|NO|0
+365764|Boulevard Motel|Stanthorpe|NO|stars_3
+365798|Brighton Bay Apartments|Melbourne|NO|stars_4
+365800|Broadwater Shores Water Front Apartments|Runaway Bay|NO|stars_3.5
+365810|Bungunyah Apartments|Yarra Valley|NO|stars_4
+365819|Burwood East Motel|Burwood|NO|stars_3
+365820|Bussells Bushland Cottages|Margaret River|NO|stars_4
+365828|Capricorn Motel & Conference Centre|Rockhampton|NO|stars_3
+365831|Carlton Apartments|Surfers Paradise|NO|stars_3
+365832|Carnegie Motor Inn|Melbourne|NO|stars_3
+365845|Central Point Motel|Mount Isa|NO|stars_3
+365848|Century Inn|Traralgon|NO|stars_4
+365854|Citiclub Hotel|Melbourne|NO|stars_4
+365855|City Centre Motel|Bendigo|NO|stars_3.5
+365859|Cleburne Homestead|Hobart|NO|stars_4
+365862|Clovelly House Accommodation|Hobart|NO|stars_3
+365863|Coachman Motel & Holiday Units|Cowes|NO|stars_3
+365867|Collie Heights Motel Apartments|Margaret River|NO|stars_3
+365871|Colonial Village|Brisbane|NO|stars_3.5
+365874|Como Noosa|Noosaville|NO|stars_4
+365880|Coranda Lodge B&B|Perth|NO|stars_3.5
+365883|Cosmopolitan Motel & Serviced Apartments|Rockhampton|NO|stars_3
+365889|Cottesloe Beach Chalets|Perth|NO|stars_3.5
+365901|Crystal Brook Tourist Park|Doncaster|NO|stars_3
+365902|Customs House Waterfront Hotel|Hobart|NO|stars_3
+365906|Daysy Hill Country Cottages|Port Camphell|NO|stars_4
+365911|DeVine Escape|Yarra Valley|NO|stars_3
+365914|Discovery Holiday Park Kalgoorlie|Kalgoorlie|NO|stars_4
+365918|Discovery Holiday Parks Mornington Hobart|Mornington|NO|stars_3
+365920|Dockside Holiday Apartments Mooloolaba|Mooloolaba|NO|stars_3
+365925|Dorchester On The Beach|Surfers Paradise|NO|stars_4
+365932|Eastcoaster Resort|Triabunna|NO|stars_3
+365934|Echelon Apartments Yeppoon|Yeppoon|NO|stars_4
+365935|Eden Lodge|Sunshine Coast|NO|stars_4
+365938|El Caballo Resort|Perth|NO|stars_3
+365955|Falls Creek Country Club|Falls Creek|NO|stars_3.5
+365959|Fiona's Bed and Breakfast|Launceston|NO|stars_4
+365961|Fitzroy Motor Inn|Rockhampton|NO|stars_3
+365962|Five 3 Five Beachside Barracks|Hervey Bay|NO|stars_3.5
+365967|Foreshore Tavern|Hobart|NO|stars_3.5
+365972|Forte Mandurah Quay Resort|Mandurah|NO|stars_4
+365992|Golden Heritage Motor Inn|Beechworth|NO|stars_4
+365993|Golden Pebble Hotel|East Melbourne|NO|stars_4
+365995|Goldsmith Motel|Hamilton|NO|stars_3
+365999|Grand Tasman Hotel|Port Lincoln|NO|stars_3.5
+366000|Green Leaves Cabin|Denmark|NO|stars_3
+366002|Guichen Bay Motel|Robe|NO|stars_3
+366007|Best Western Hamilton Lakeside Motel|Hamilton|NO|stars_3
+366008|Hamilton Townhouse Motel (Vic)|Hamilton|NO|stars_4
+366009|Hampden At Battery Point|Hobart|NO|stars_3.5
+366010|Harbour Side Resort|Gold Coast|NO|stars_3
+366016|Hawthorn Gardens Serviced Apartments|East Melbourne|NO|stars_3
+366020|Heemskirk Motor Hotel|Zeehan|NO|stars_3
+366023|Heritage Cottage Bed & Breakfast|Fremantle|NO|stars_4
+366030|Hidden Grove Retreat|Margaret River|NO|stars_4
+366055|Huski Apartments|Falls Creek|NO|stars_4
+366075|Kar-Rama Motor Inn|Mildura|NO|stars_3
+366078|Kidd Street cottages|Mount Tamborine|NO|stars_3
+366084|Koopalanda Dreaming|Kangaroo Island|NO|stars_3.5
+366092|Lake Hamilton Motor Village & Caravan Park|Hamilton|NO|stars_3
+366094|Lakeview Lodge|Perth|NO|stars_4
+366101|Launceston Bed and Breakfast Retreat|Launceston|NO|stars_4
+366107|Lazy River Motor Inn|Swan Hill|NO|stars_3
+366111|Lifestyle Apartments|Dandenong|NO|stars_4
+366114|Lindsays of Kangaroo Island|Penneshaw|NO|stars_3
+366115|Lisson Grove Boutique Resort|Mount Tamborine|NO|stars_4.5
+366123|Lyrabendi Farmstay|Murray Bridge|NO|stars_3
+366130|Mannum Motel|Mannum|NO|stars_3
+366133|Marcoola Motel|Marcoola|NO|stars_3
+366134|Margaret River Hideaway & Farmstay|Margaret River|NO|stars_4
+366139|Maroochydore Beach Motel|Maroochydore|NO|stars_3
+366143|McMillans of Metung Coastal Resort|Metung|NO|stars_4
+366144|McNevins Maryborough Motel|Maryborough|NO|stars_3.5
+366145|McNevins Warwick Motel|Warwick|NO|stars_3
+366149|Melbourne Short Stay Apartments MP Deluxe|Melbourne|NO|stars_4
+366152|Mercure Portsea Resort and Golf Course|Portsea|NO|stars_4
+366163|Mindarie Marina|Perth|NO|stars_4
+366164|Mineral Sands Motel & Colony Restaurant|Maryborough|NO|stars_3
+366171|Montana Palms Holiday Apartments|Mermaid Beach|NO|stars_3
+366173|Montville Attic|Montville|NO|stars_4
+366182|Motel 98|Rockhampton|NO|stars_4
+366184|Motel Lodge|Rockhampton|NO|stars_3
+366185|Motel Mayfair on Cavell|Hobart|NO|stars_3
+366186|Motel Mount Gambier|Mount Gambier|NO|stars_3
+366205|Noosa Harbour Resort|Sunshine Coast|NO|stars_3.5
+366207|Noosa River Retreat|Noosaville|NO|stars_3.5
+366210|Noosavillage River Resort|Noosaville|NO|stars_4
+366213|Oakey Motor Inn|Toowoomba|NO|stars_4
+366214|Oaks on William|Melbourne|NO|stars_4
+366226|Oscars Hotel and Cafe Bar|Ballarat|NO|stars_4
+366231|Pacific Beach Resort|Mooloolaba|NO|stars_4
+366236|Pandanus Palms Resort, North Stradbroke Island|Brisbane|NO|stars_3.5
+366244|Park Squire Motor Inn and Serviced Apartments|Melbourne|NO|stars_3
+366252|Pelican Beach Resort Noosa|Noosaville|NO|stars_3
+366256|Peppermint Brook Cottages|Margaret River|NO|stars_3
+366260|Ploughmans Motor Inn|Horsham|NO|stars_3
+366270|possum creek lodge|Perth|NO|stars_4
+366272|Princess Palm on the Beach|Gold Coast|NO|stars_4
+366275|Q Resorts Kensington Apartments|Townsville|NO|stars_4
+366276|Quality Hotel Bayside Geelong|Geelong|NO|stars_4
+366278|Quest Frankston on the Bay|Frankston|NO|stars_4
+366282|Raffles Mooloolaba|Mooloolaba|NO|stars_4
+366302|Riverfront Motel & Villas|Hobart|NO|stars_3
+366306|Riverview Tourist Park|Margaret River|NO|stars_4
+366315|Salamanca Wharf Hotel|Hobart|NO|stars_4.5
+366321|Sandridge Motel|Lorne|NO|stars_3
+366324|Sea Dragon Lodge|Penneshaw|NO|stars_4
+366330|Seascape Retreat|Victor Harbor|NO|stars_4
+366338|Seymour's on Lydiard|Ballarat|NO|stars_4
+366357|Sorrento Beach Motel|Sorrento|NO|stars_3
+366358|South Central|Brisbane|NO|stars_4
+366361|Southern Right Motor Inn|Warrnambool|NO|stars_3
+366365|Spinifex Hotel|Derby|NO|stars_3
+366371|St Georges Motor Inn|Melbourne|NO|stars_3
+366372|St Helens Country Cottages|Clare|NO|stars_3.5
+366374|Stonelea Country Estate|Melbourne|NO|stars_4
+366377|Strahan Holiday Park|Strahan|NO|stars_3
+366380|Summer Inn Holiday Apartments|Essendon|NO|stars_4
+366382|Sundeck Gardens Holiday Apartments|Maroochydore|NO|stars_3
+366383|Sunray Motor Inn|Toowoomba|NO|stars_3
+366388|Surf City Motel|Torquay|NO|stars_3
+366392|Surfers International|Surfers Paradise|NO|stars_3
+366394|Surfers Tropique|Surfers Paradise|NO|stars_3
+366404|Thank You Accommodation|Port Douglas|NO|stars_3
+366408|The Capitol Apartments|Brisbane|NO|stars_4
+366409|The Castle on Tamborine|Mount Tamborine|NO|stars_5
+366415|The Gallery Bed and Breakfast|Adelaide|NO|stars_3
+366419|The Haus Studio Apartments|Hahndorf|NO|stars_4
+366422|The Lighthouse Hotel|Ulverstone|NO|stars_3
+366424|The Noosa Apartments|Sunshine Coast|NO|stars_3.5
+366451|Torquay Holiday Park|Torquay|NO|stars_2.5
+366460|Trinity Waters Boutique Beachfront|Trinity Beach|NO|stars_4
+366465|Twelve Apostles Motel & Country Retreat|Port Camphell|NO|stars_3
+366473|Vue Apartments|Geelong|NO|stars_4
+366485|Warrnambool Gateway Motor Inn|Warrnambool|NO|stars_3
+366496|Wilderness Valley Studio Accommodation|Kangaroo Island|NO|stars_4
+366499|Wind Song Bed & Breakfast|Little Swanport|NO|stars_3
+366503|Woodbridge Hill Hideaway|Bruny Island|NO|stars_4
+366509|Yarra Valley Motel|Yarra Valley|NO|stars_3.5
+366510|Yelverton brook Eco Spa Retreat & Conservation Sanctuary|Margaret River|NO|stars_4
+366613|Mole Creek Holiday Village|Mole Creek|NO|stars_3
+366622|Ellensbrook Cottages|Margaret River|NO|stars_4
+366675|Sundowner Oriana Motel|Orange|YES|0
+366791|Ibis Styles Sydney Lansvale|Sydney|NO|stars_3.5
+367987|Astra Chevron St Kilda Rd|Melbourne|YES|stars_4
+367990|Pegasus Apart Hotel|Melbourne|NO|stars_4
+368220|Meriton Herschel Street|Brisbane|NO|stars_5
+368223|Kingfisher Bay Resort-villas|Hervey Bay|NO|stars_4
+368791|Argosy Motor Inn|Devenport|NO|stars_3
+368797|Comfort Inn Parklands Calliope|Gladstone|NO|stars_3
+368802|Isa Hotel|Mount Isa|YES|0
+368803|Redearth Hotel|Mount Isa|YES|0
+368817|Quest Rockhampton|Rockhampton|NO|stars_4
+370247|Astra Merchant Docklands|Docklands|YES|stars_4
+370271|Apartments Ink|St. Kilda|NO|stars_4
+370962|Country Comfort Tumut Valley Motel|Tumut|YES|stars_3
+370963|53 On Victoria|Warwick|YES|0
+371550|Racv Torquay Resort - Torquay|Torquay|NO|stars_5
+372216|Racv Cobram Resort|Cobram|NO|0
+372908|Ibis Adelaide|Adelaide|NO|stars_3
+391326|Mantra Frangipani Broome|Cable Beach|NO|stars_4
+391363|Atura Hotel Blacktown|Blacktown|YES|stars_4
+400884|Frisco Serviced Apartments|Brisbane|NO|stars_4
+400886|The Ranges Karratha|Karratha|NO|stars_4
+405165|Alivio Tourist Park Canberra|Canberra|NO|stars_3
+405167|Blue Mountains Cabins - Love Cabin|Bilpin|YES|0
+406512|The Sebel Melbourne Docklands|Docklands|NO|stars_5
+408642|ADGE Boutique Apartment Hotel|Sydney|NO|stars_4.5
+408649|Alpha Mosaic Hotel Brisbane|Brisbane|NO|stars_4
+408693|Best Western Casula Motor Inn|Sydney|NO|stars_3
+408769|M & A Apartments|Brisbane|NO|stars_4
+408770|Comfort Inn Sugar Country|Bundaberg|NO|stars_3
+408771|Elan Soho Suites|Darwin|NO|stars_4
+408774|Oaks Moranbah|Moranbah|NO|stars_4
+408775|Oaks Middlemount|Middlemount|NO|stars_4
+412171|The Schaller Studio|Bendigo|YES|0
+414561|Ocean's Resort & Spa|Hervey Bay|NO|stars_4

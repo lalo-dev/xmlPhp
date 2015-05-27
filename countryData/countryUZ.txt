@@ -1,0 +1,11 @@
+34184|International|Toshkent|NO|stars_5
+34186|Orzu|Toshkent|NO|stars_2
+34187|City Palace|Toshkent|NO|stars_4
+34188|Shodlik Palace|Toshkent|NO|stars_4
+34189|Usbekistan|Toshkent|NO|stars_4
+56430|Lotte City Hotel Tashkent Palace|Toshkent|NO|stars_4
+67647|Radisson SAS Tashkent|Toshkent|NO|stars_4
+163099|Grand Mir Hotel|Toshkent|NO|stars_4
+163337|Dedeman Silk Road Hotel|Toshkent|NO|stars_4
+232551|Park Turon|Toshkent|NO|stars_4
+238603|Le Grande Plaza|Toshkent|NO|stars_4

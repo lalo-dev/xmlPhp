@@ -1,0 +1,87 @@
+4976|Coche Paradise|Isla de Coche|YES|stars_4
+4980|Coral Caribe|Playa el Agua|NO|stars_2
+4981|Golden Paradise|Playa el Agua|NO|stars_3
+4984|Costa Caribe Beach Resort|Playa Caribe|YES|stars_4
+4988|Marlin|Playa el Agua|NO|stars_2
+4989|Hesperia Playa El Agua|Playa el Agua|YES|stars_4
+4990|Sunsol Isla Caribe|Playa el Tirano|YES|stars_4
+6686|Flamenco Villas & Beach Club|Playa el Agua|NO|stars_3
+6687|Tropical Refuge|Playa el Agua|NO|stars_3
+6688|Costa Linda|Playa el Agua|NO|stars_3
+7410|Lagunamar Resort|Pampatar|NO|stars_5
+8290|Atti|El Yague (Yaque)|NO|stars_3
+8356|Avila|Caracas|NO|stars_4
+8554|Dunes Beach Resort|Playa Pedro Gonzalez|YES|stars_4
+9283|Brisas de Coche/ del Mar|Isla de Coche|NO|stars_3
+10035|Casa Rita|El Yague (Yaque)|YES|stars_2
+10704|Confortel California|El Yague (Yaque)|YES|stars_3
+11028|Savoy Caracas|Caracas|NO|stars_3
+12289|Eurobuilding Hotel & Suites Caracas|Caracas|YES|stars_5
+13403|Gran Melia Caracas|Caracas|YES|stars_5
+15801|La Samanna de Margarita|Porlamar|YES|stars_4.5
+15995|Las Palmeras|Playa el Agua|NO|stars_2
+16062|Le Flamboyant|Playa el Agua|NO|stars_3
+16554|Marina Bay|Porlamar|NO|stars_5
+16856|Margarita Royal Plaza|Porlamar|NO|stars_3
+18524|Palm Beach|Playa el Agua|NO|stars_3
+19323|Portofino|Playa el Agua|NO|stars_3
+24482|Surf Paradise|El Yague (Yaque)|YES|stars_3
+26393|Hesperia Isla Margarita|Playa el Agua|YES|stars_5
+26482|El Yaque Paradise|El Yague (Yaque)|YES|stars_2
+27489|Puerta del Sol|Playa el Agua|YES|stars_3
+32098|Intercontinental Tamanaco|Caracas|NO|stars_5
+55752|Posada Mediterraneo|Los Roques|NO|stars_4
+59199|Crowne Plaza Maruma & Casino|Maracaibo|NO|stars_4
+65383|Embassy Suites by Hilton Caracas|Caracas|YES|stars_4
+72688|Bella Vista|Porlamar|NO|stars_4.5
+76134|Posada La Cigala|Los Roques|NO|stars_3
+76152|Punta Blanca|Isla de Coche|YES|stars_4
+78674|Altamira Suites|Caracas|YES|stars_5
+78675|Best Western CCT|Caracas|YES|stars_4
+79342|Costa Real Suites|Caracas|NO|stars_4
+79986|Venetur Maracaibo|Maracaibo|YES|stars_5
+80779|Howard Johnson Tinajeros|Isla Margarita|YES|stars_3
+81548|Best Western Margarita Dynasty|Porlamar|YES|stars_4
+81549|JW Marriott Caracas|Caracas|YES|stars_5
+81952|El Yaque Beach|El Yague (Yaque)|NO|stars_5
+81953|Jump'n Jibe|El Yague (Yaque)|NO|stars_3
+87403|Puerta Del Sol Porlamar|Porlamar|NO|stars_4
+87441|Posada Angostura|Ciudad Bolivar|NO|stars_3
+87442|Posada Casa Grande de Angostura|Ciudad Bolivar|NO|stars_4
+92400|Eurobuilding Express El Tigre|Anzoategui|NO|stars_3
+100706|Casa Viento|El Yague (Yaque)|NO|stars_3
+102683|Dunes Puerto Cruz|Playa Pedro Gonzalez|NO|stars_4
+105725|Centro Lido|Caracas|YES|stars_5
+105736|Cumberland Chacao|Caracas|NO|stars_4
+106913|Eurobuilding Express Maracay|Maracay|NO|stars_3
+108217|Kristoff|Maracaibo|NO|stars_4
+109952|Continental Altamira|Caracas|NO|stars_3
+110378|Sun Sol Hotel & Condominium|Isla Margarita|NO|stars_4
+133288|Lincoln Suites|Caracas|NO|stars_4
+137554|InterContinental Maracaibo|Maracaibo|NO|stars_4.5
+139178|Pestana Caracas|Caracas|NO|stars_5
+163104|Venezuela Marriott Playa Grande|Catia La Mar|NO|stars_4.5
+163110|The Hotel Caracas|Caracas|NO|stars_4.5
+163335|Eurobuilding Express Maiquetia|Maiquetía|NO|stars_3.5
+182537|Kokobay|Juan Griego|NO|stars_4
+182819|IKIN Margarita Hotel & Spa|Playa el Tirano|NO|stars_4.5
+229985|Posadas Aerotuy|Los Roques|NO|0
+240432|Boca De Ovejas|Gutiérrez Zamora|NO|stars_3
+259348|The Vip Caracas|Caracas|NO|stars_4
+269865|Lidotel Hotel Boutique Margarita|Pampatar|NO|stars_4
+275299|Lidotel Boutique Barquisimeto|Barquisimeto|NO|stars_4
+275300|Tiffany|Barquisimeto|NO|stars_3
+276617|Lidotel Boutique Valencia|Valencia|NO|stars_4
+278577|Renaissance Caracas La Castellana Hotel|Caracas|NO|stars_5
+283567|Eurobuilding Hotel Plaza Guayana|Puerto Ordaz|NO|stars_3.5
+284035|Hesperia World Trade Center|Valencia|NO|stars_4
+292280|Hotel Patrick|Juan Griego|NO|stars_3
+292281|Posada La Mar|Isla Margarita|NO|stars_3
+295369|Lidotel Hotel Boutique Paraguana|Punto Fijo|NO|stars_4
+295370|Lidotel Hotel Boutique San Cristobal|San Cristobal|NO|stars_4
+297803|Pueblo Caribe|Playa el Tirano|YES|stars_3
+359650|Maloka Boutique & Spa Hotel|Playa Guacuco|NO|stars_4
+367366|Agua Dorada By Lidotel|Isla Margarita|NO|stars_3
+401030|Altamira Village Hotel & Suites|Caracas|NO|stars_4
+404217|Cristina Suites|Puerto la Cruz|NO|stars_4
+404261|Alex|Caracas|NO|stars_4

@@ -1,0 +1,86 @@
+18428|Oxford|Montevideo|YES|stars_3
+19764|Radisson Victoria Plaza|Montevideo|YES|stars_5
+38048|Four Seasons Carmelo|Carmelo|NO|stars_5
+65953|Conrad Punta del Este Resort & Casino|Punta del Este|NO|stars_4.5
+68581|Tryp Montevideo|Montevideo|YES|stars_4
+76416|Sheraton Colonia Golf & Spa Resort|Colonia del Sacramento|YES|stars_5
+84080|Best Western Armon Suites|Montevideo|NO|stars_4
+84088|Cottage|Montevideo|YES|stars_4
+84116|Best Western Pedro Figari|Montevideo|NO|stars_4
+84143|Lafayette|Montevideo|YES|stars_4
+84207|Balmoral Plaza|Montevideo|NO|stars_4
+84288|Belmont House|Montevideo|YES|stars_5
+84289|Pocitos Plaza|Montevideo|YES|stars_4
+91270|NH Columbia|Montevideo|YES|stars_4
+91271|La Mision|Colonia del Sacramento|NO|stars_3
+91272|Posada Plaza Mayor|Colonia del Sacramento|NO|stars_4
+91273|Radisson Colonia|Colonia del Sacramento|NO|stars_4.5
+91344|Days Inn Brava|Punta del Este|NO|stars_3
+91345|Barradas|Punta del Este|NO|stars_4
+91346|Serena|Punta del Este|NO|stars_4
+91354|Mantra Resort Spa & Casino|Punta del Este|YES|stars_5
+91357|Posada Don Antonio|Colonia del Sacramento|NO|stars_3
+91484|Sheraton Montevideo|Montevideo|YES|stars_5
+92321|Four Points|Montevideo|YES|stars_4
+92322|Europa|Montevideo|YES|stars_3
+92323|Estancia San Pedro de Timote|Cerro Colorado|NO|stars_4
+92327|AWA Boutique + Design Hotel|Punta del Este|YES|stars_4
+93739|Days Inn Montevideo|Montevideo|NO|stars_4
+110440|Days Inn Resort Casa del Sol|Colonia del Sacramento|NO|stars_4
+110441|Holiday Inn Montevideo|Montevideo|YES|stars_4
+122548|Alhambra|Punta del Este|NO|stars_3
+122549|Golden Beach Resort & Spa|Punta del Este|NO|stars_4
+122550|Remanso|Punta del Este|NO|stars_4
+122551|Cala Di Volpe|Montevideo|YES|stars_4
+122552|Arapey|Montevideo|NO|stars_2
+122553|Embajador|Montevideo|NO|stars_4
+122554|London Palace|Montevideo|NO|stars_3
+122555|Plaza Fuerte|Montevideo|YES|stars_4
+122556|Lancaster|Montevideo|YES|stars_3
+133284|Hispano|Montevideo|NO|stars_3
+133286|Tres Cruces|Montevideo|YES|stars_3
+136491|Bonne Etoile|Punta del Este|YES|stars_3
+136492|828 Hostel Bed & Breakfast|Punta del Este|NO|stars_3
+138104|Las Dunas|Punta del Este|YES|stars_3.5
+138641|Aqua Punta del Este|Punta del Este|NO|stars_3
+139215|Punta Trouville Apart|Montevideo|YES|stars_3
+139344|Shelton|Punta del Este|NO|stars_3
+139365|Solanas Vacation Club|Punta del Este|NO|stars_4
+140072|Il Belvedere Aparthotel|Punta del Este|YES|stars_4
+159535|Palladium|Montevideo|YES|stars_4
+163096|Regency Suites Boutique|Montevideo|NO|stars_4
+163097|Baie des Anges Apart & Spa|Punta del Este|YES|0
+163497|Punta Trouville Suites|Montevideo|YES|stars_3
+188121|Estancia VIK Jose San Ignacio|Punta del Este|YES|stars_5
+188122|Austral Montevideo|Montevideo|NO|stars_3
+226533|Leté Punta del Este|Punta del Este|NO|stars_3
+230149|Mediterraneo|Montevideo|NO|stars_3
+232207|Urban Express|Montevideo|NO|stars_3
+238841|My Suites Montevideo|Montevideo|NO|stars_4
+242894|Casapueblo|Punta del Este|NO|stars_4
+245555|After Montevideo|Montevideo|NO|stars_4
+246956|Regency Zonamerica|Montevideo|NO|stars_4
+247870|Esplendor Montevideo|Montevideo|NO|stars_4
+249957|Hotel America|Montevideo|NO|stars_3
+249958|Costa Colonia Riverside Boutique Hotel|Colonia del Sacramento|NO|stars_4
+259842|Unique Luxury Colonia|Colonia del Sacramento|NO|stars_4.5
+259843|Chihuahua Resort|Punta del Este|NO|stars_4
+259844|Alvear|Montevideo|NO|stars_3
+260937|Regency Rambla|Montevideo|NO|stars_4
+261868|Proa Sur|Rocha|NO|stars_4
+261869|Jamaica|Punta del Este|NO|stars_3
+267968|Hotel del Lago Golf & Art Resort|Punta del Este|NO|stars_5
+271377|Hotel California|Montevideo|NO|stars_3
+271378|Regency Golf - Hotel Urbano|Montevideo|NO|stars_4
+277444|La Viuda De Jose Ignacio|José Ignacio|NO|stars_3.5
+284890|Finca Piedra|Montevideo|NO|stars_3
+286400|Axsur Design|Montevideo|NO|stars_4
+301650|Sofitel Montevideo Casino Carrasco & Spa|Montevideo|NO|stars_5
+401483|yoo Punta del Este|Punta del Este|NO|stars_5
+406110|2122 Hotel Art Design|Punta del Este|NO|stars_4
+406111|Dazzler Montevideo|Montevideo|NO|stars_4
+407146|Charco Hotel|Colonia del Sacramento|NO|stars_3
+409045|Bahia Vik|José Ignacio|NO|stars_4
+411304|La Salamora - Posada de Campo|Montevideo|NO|stars_3
+417602|Puerto Mercado Hotel|Montevideo|NO|stars_4
+417604|bit design Hotel|Montevideo|NO|stars_4

@@ -1,0 +1,515 @@
+7702|Evason Ana Mandara Resort - Nha Trang|Nha Trang|YES|stars_5
+10262|Century Riverside|Hue|YES|stars_4
+10294|Chancery Saigon|Ho Chi Minh City|YES|stars_3
+10561|Coco Beach Resort|Phan Thiet|NO|stars_3
+12156|Equatorial|Ho Chi Minh City|YES|stars_5
+13057|Galaxy|Hanoi|YES|stars_3
+13744|Halong Plaza|Halong|YES|stars_4
+13777|Pullman Hanoi|Hanoi|YES|stars_5
+13998|Hilton Hanoi Opera|Hanoi|YES|stars_5
+15370|Kimdo Royal Hotel Saigon|Ho Chi Minh City|NO|stars_4
+16700|Majestic|Ho Chi Minh City|YES|stars_5
+17942|New World Saigon|Ho Chi Minh City|NO|stars_5
+17965|Nha Trang Lodge Hotel|Nha Trang|YES|stars_3
+18084|DuParc Phan Thiet Ocean Dunes & Golf Resort|Phan Thiet|YES|stars_4
+18311|Eastin Grand Hotel Saigon|Ho Chi Minh City|YES|stars_5
+19635|Que Huong|Nha Trang|YES|stars_3
+20686|Royal Danang|Danang|YES|stars_3
+21812|Sofitel Legend Metropole|Hanoi|YES|stars_5
+21817|Sofitel Plaza Saigon|Ho Chi Minh City|YES|stars_5
+21852|Melia Hanoi|Hanoi|YES|stars_5
+22395|Sunway|Hanoi|YES|stars_4
+22769|The Furama Resort|Danang|YES|stars_5
+23685|Victoria Phan Thiet Beach Resort & Spa|Phan Thiet|YES|stars_4
+26319|Grand Saigon|Ho Chi Minh City|YES|stars_4
+26321|Caravelle|Ho Chi Minh City|YES|stars_5
+26322|Blue Ocean Resort Phan Thiet|Mui Ne|YES|stars_4
+26323|Saigon Mui Ne Resort|Mui Ne|YES|stars_3.5
+26326|Yasaka Saigon Nhatrang Resort Hotel & Spa|Nha Trang|NO|stars_4
+26328|U Hoi An Beach|Hoi An|YES|stars_4
+26329|Victoria Hoi An Beach Resort & Spa|Hoi An|YES|stars_4
+26530|Renaissance Riverside|Ho Chi Minh City|YES|stars_5
+26532|Bamboo Village Resort|Phan Thiet|NO|stars_4
+26533|Hoi An Riverside|Hoi An|YES|stars_4
+27298|Alma Oasis Long Hai|Long Hai|YES|stars_4
+31773|Golden Key|Hanoi|YES|stars_3
+32659|Phu Hai Resort|Mui Ne|NO|stars_4
+33082|Mövenpick|Hanoi|YES|stars_4.5
+33083|Sofitel Plaza Hanoi|Hanoi|YES|stars_5
+37911|Saigon Phu Quoc Resort|Phu Quoc|NO|stars_4
+38152|Sheraton Saigon Hotel & Towers|Ho Chi Minh City|YES|stars_5
+38240|Little Mui Ne Cottages|Mui Ne|NO|stars_3
+38241|Avani Quy Nhon Resort & Spa|Ouy Nhon|YES|stars_4
+38492|The Beach Resort|Phan Thiet|YES|stars_3
+39165|Tropicana Resort|Phu Quoc|YES|stars_2.5
+39395|Empress Hotel|Dalat|YES|stars_2.5
+39396|Avani Hai Phong Harbour View|Hai Phong|YES|stars_4
+39397|Saigon Morin|Hue|YES|stars_4
+39398|Mia Resort Mui Ne|Mui Ne|NO|stars_3
+39477|Duxton Saigon|Ho Chi Minh City|YES|stars_4
+47873|Vinpearl Resort Nha Trang|Nha Trang|YES|stars_5
+48176|Six Senses Ninh Van Bay|Nha Trang|YES|stars_5
+48471|Windsor Plaza Hotel Saigon|Ho Chi Minh City|YES|stars_4.5
+48472|Pandanus Resort|Phan Thiet|YES|stars_4
+52468|Thien Thai|Hanoi|NO|stars_3
+52469|Lotus|Hoi An|YES|stars_3
+52907|Nikko Hanoi|Hanoi|YES|stars_5
+52908|River Beach Resort|Hoi An|YES|stars_4
+53047|Anantara Hoi An Resort|Hoi An|YES|stars_4
+53884|Legend Saigon|Ho Chi Minh City|YES|stars_5
+55701|Palace Saigon|Ho Chi Minh City|YES|stars_4
+58251|Vinh Hung Hotels & Resort - Vinh Hung 1/ Vinh Hung 2/ Riverside Resort|Hoi An|NO|stars_3
+58252|Phu Thinh Boutique Hotel|Hoi An|YES|stars_3
+58253|Thuy Duong III|Hoi An|YES|stars_3
+59178|Ngoc Huong|Hue|YES|stars_3
+59333|Rex|Ho Chi Minh City|YES|stars_5
+59334|Liberty Hotel Saigon Greenview|Ho Chi Minh City|YES|stars_3
+60849|Hoa Binh|Hanoi|YES|stars_3
+60903|Sunrise Nha Trang Beach Hotel & Spa|Nha Trang|YES|stars_5
+60947|Swiss Village Resort & Spa|Phan Thiet|NO|stars_4
+61583|Sandy Beach Non Nuoc Resort Da Nang|Danang|YES|stars_4
+61762|Bong Sen Saigon|Ho Chi Minh City|YES|stars_3
+61802|Glory Hoi An|Hoi An|YES|stars_4
+63579|Hoang Anh Quy Nhon Resort|Ouy Nhon|NO|stars_3
+63580|White Sands Resort|Phan Thiet|NO|stars_3
+63583|The Pilgrimage Village|Hue|YES|stars_4.5
+63584|Palm Garden Resort|Hoi An|YES|stars_5
+63585|Swiss-Belhotel Golden Sand Resort & Spa|Hoi An|YES|stars_4.5
+63586|Ariva MS Salute Hanoi|Hanoi|NO|stars_3
+63596|Lang Co Beach Resort|Lang Co|YES|stars_3
+63779|Saigon Tourane|Danang|YES|stars_3
+63897|Le Domaine de Tam Hai|Tam Hai|NO|stars_4
+64445|Cham Villas|Phan Thiet|NO|stars_2
+64486|Ancient House Resort|Hoi An|YES|stars_3
+64590|Parkroyal Saigon|Ho Chi Minh City|YES|stars_4
+64591|Ana Mandara Villas Dalat|Dalat|YES|stars_5
+64614|Bon Bien Resort|Mui Ne|NO|stars_3
+66288|Sheraton Hanoi|Hanoi|YES|stars_5
+72046|GM Doc Let Beach Resort & Spa|Doc Let Beach|NO|stars_3.5
+72591|La Veranda Resort Phu Quoc|Phu Quoc|YES|stars_4
+72630|Cassia Cottages|Phu Quoc|NO|stars_3
+72631|Mango Bay Resort|Phu Quoc|YES|stars_3
+73140|Oscar|Ho Chi Minh City|YES|stars_3
+76232|Hoang Ngoc Resort/Oriental Pearl Resort|Phan Thiet|YES|stars_3
+76716|The Nam Hai|Hoi An|YES|stars_5
+76734|Park Hyatt Saigon|Ho Chi Minh City|YES|stars_5
+76735|Dalat Palace Luxury Hotel & Golf Club|Dalat|YES|stars_5
+77354|Romana Resort|Mui Ne|NO|stars_4
+77424|Princess d'Annam Resort & Spa|Phan Thiet|YES|stars_5
+77502|Continental Saigon|Ho Chi Minh City|YES|stars_4
+77503|Empress|Ho Chi Minh City|YES|stars_2
+77506|Flower|Hanoi|NO|stars_3
+77507|Hanoi|Hanoi|NO|stars_4
+77925|Hoi An Trails Resort|Hoi An|YES|stars_4
+77926|Duparc Hotel Dalat|Dalat|YES|stars_4
+77927|La Residence Hue Hotel & Spa - MGallery Collection|Hue|YES|stars_5
+80749|Terracotta Resort|Mui Ne|NO|stars_4
+82512|Sasco Blue Lagoon Resort|Phu Quoc|NO|stars_4
+84323|Halong Dream|Halong|YES|stars_4
+84331|Fortuna|Hanoi|YES|stars_4
+85123|White Sand Doclet Resort & Spa|Doc Let Beach|YES|stars_4
+85896|Long Beach Ancient Village Resort & Spa|Phu Quoc|NO|stars_4
+86571|Best Western Premier Indochine Palace|Hue|NO|stars_4
+86840|Victoria Sapa Resort & Spa|Sapa|YES|stars_4
+88002|Victoria Can Tho Resort|Can Tho|YES|stars_4
+88010|Bao Son|Hanoi|NO|stars_4
+88011|Chain First Eden|Hanoi|NO|stars_3
+88012|Heritage Hanoi|Hanoi|YES|stars_3
+88017|Ramana|Ho Chi Minh City|YES|stars_4
+88020|Que Huong - Liberty 2|Ho Chi Minh City|NO|stars_3
+88021|Pullman Saigon Centre Hotel|Ho Chi Minh City|YES|stars_4.5
+88022|Norfolk|Ho Chi Minh City|YES|stars_4
+88024|Saigon|Ho Chi Minh City|NO|stars_3
+88026|Vien Dong|Ho Chi Minh City|YES|stars_3
+88027|Pacific Hoi An|Hoi An|YES|stars_4
+88029|Asia|Hue|YES|stars_3
+88031|Festival Hue|Hue|NO|stars_3
+88032|Huong Giang|Hue|YES|stars_4
+88042|Green Nha Trang|Nha Trang|YES|stars_3
+88043|Seahorse Resort & Spa|Phan Thiet|NO|stars_4
+88354|Mithrin|Halong|YES|stars_4
+88385|Quoc Hoa Hanoi|Hanoi|YES|stars_3
+88396|Asia Paradise|Nha Trang|YES|stars_3
+88399|Liberty Saigon Parkview|Ho Chi Minh City|YES|stars_3
+90030|Sunny Beach Resort & Spa|Mui Ne|YES|stars_4
+90200|Le Duy|Ho Chi Minh City|YES|stars_3
+92410|Elios|Ho Chi Minh City|YES|stars_3
+95642|Anise Hanoi|Hanoi|YES|stars_3
+95909|Daewoo|Hanoi|YES|stars_5
+95911|Intercontinental Hanoi Westlake|Hanoi|YES|stars_5
+95924|Saigon CanTho|Can Tho|YES|stars_3
+95989|Imperial|Hue|YES|stars_5
+98085|May|Ho Chi Minh City|YES|stars_3
+100820|Somerset Chancellor Court|Ho Chi Minh City|NO|stars_4
+100821|Somerset Ho Chi Minh|Ho Chi Minh City|YES|stars_4
+101224|Ho Tram Beach Boutique Resort & Spa|Ho Tram|YES|stars_4
+103428|Bonjour|Hanoi|YES|stars_3
+103434|Anantara Mui Ne Resort & Spa|Phan Thiet|YES|stars_5
+103444|Novotel Ha Long Bay|Halong|YES|stars_4
+103684|Amaryllis Resort|Mui Ne|YES|stars_4
+103685|Sea Lion Beach Resort & Spa|Mui Ne|YES|stars_4
+103699|Moon View 1|Hanoi|NO|stars_3
+124992|Somerset Grand Hanoi|Hanoi|NO|stars_4.5
+124993|Somerset West Lake Apartment|Hanoi|YES|stars_4
+125549|Aquarius Hotel|Hanoi|YES|stars_2
+136100|Northern|Ho Chi Minh City|NO|stars_3
+136110|Harmony Saigon Hotel|Ho Chi Minh City|YES|stars_3.5
+136206|Pho Hoi Riverside Resort|Hoi An|YES|stars_3
+136207|Alba Spa Hotel|Hue|NO|stars_3
+136835|Hoi An|Hoi An|YES|stars_4
+137275|Victoria Chau Doc|Chau Doc|YES|stars_4
+137982|Asean International|Hanoi|YES|stars_3
+138324|Golf Hoi An|Hoi An|NO|stars_3
+138326|Green Field|Hoi An|YES|stars_3
+138858|Diamond Bay Resort & Golf|Nha Trang|YES|stars_4
+139638|Hoang Anh Dalat Resort|Dalat|YES|stars_4
+139900|Golf 3|Dalat|YES|stars_4
+139902|Asian Ruby|Hanoi|YES|stars_3
+140028|Bamboo Green Riverside|Danang|NO|stars_2.5
+140098|Green Plaza Danang|Danang|YES|stars_4
+140099|Novotel Nha Trang|Nha Trang|YES|stars_4
+140100|Ngoc Lan|Dalat|YES|stars_4
+140226|Thien Hai Son Resort|Phu Quoc|NO|stars_3
+142132|Serenade|Hanoi|YES|stars_3
+142133|Camellia Hue|Hue|YES|stars_4
+142136|Green|Hue|YES|stars_4
+142137|Rosaliza|Hanoi|YES|stars_3
+142138|HAGL Plaza|Danang|YES|stars_5
+145183|Blue Moon Resort & Spa|Dalat|YES|stars_4
+159536|Mai Chau Lodge|Hanoi|YES|stars_3
+159537|Sun Spa Resort|Danang|YES|stars_4
+159538|Phu Quy II|Nha Trang|YES|stars_3
+159539|Lavender|Ho Chi Minh City|YES|stars_3
+159541|Chen Sea Resort & Spa Phu Quoc, Centara Boutique Collection|Phu Quoc|YES|stars_4
+163135|Saigon Domaine|Ho Chi Minh City|NO|stars_5
+163136|Hanoi City Palace|Hanoi|NO|stars_3
+163139|Hanoi Royal II|Hanoi|YES|stars_2
+163140|Vesna|Hanoi|NO|stars_3
+163143|Bamboo Green Central|Danang|YES|stars_3
+163147|Hanoi Posh|Hanoi|NO|stars_3
+163149|Gia Thinh|Hanoi|YES|stars_3
+163150|Dong Khanh|Ho Chi Minh City|NO|stars_3
+163151|Gold Spring|Hanoi|NO|stars_3
+163152|Hanoi Golden Plaza|Hanoi|YES|stars_2
+163160|Hoabinh Palace|Hanoi|NO|stars_3
+163162|Hong Ngoc Dynastie|Hanoi|YES|stars_3
+163163|Hanoi Harmony Hotel|Hanoi|YES|stars_2
+163171|Seagull|Ouy Nhon|NO|stars_4
+163174|Hanoi Luxor|Hanoi|YES|stars_3
+163175|Hanoi Pearl|Hanoi|NO|stars_4
+163178|Viet|Hanoi|YES|stars_3
+163180|Sunshine 3|Hanoi|YES|stars_2.5
+163183|Royal 1 Hotel|Hanoi|YES|stars_2
+163187|Sunrise Resort|Halong|YES|stars_4
+163188|Saigon Halong|Halong|YES|stars_4
+163192|MerPerle Hon Tam Resort|Nha Trang|YES|stars_5
+163197|Hanoi Ciao|Hanoi|NO|stars_2
+163339|Astoria|Hanoi|YES|stars_2
+163340|Asia Paradise Hotel|Hanoi|NO|stars_3
+163351|Sunrise Hanoi - 09 Hang Mam|Hanoi|NO|stars_3
+182569|Saigon Quynhon|Ouy Nhon|YES|stars_4
+182571|Saigon Dalat|Dalat|YES|stars_4
+182572|Allezboo Resort|Phan Thiet|NO|stars_4
+182573|City Star|Ho Chi Minh City|YES|stars_2
+182712|Maison d'Hanoi Boutique Hotel|Hanoi|YES|stars_3
+182718|Mercure La Gare|Hanoi|YES|stars_4
+182998|Indochina Legend|Hanoi|YES|stars_3
+183130|Flower Garden|Hanoi|YES|stars_4
+183917|Sheraton Nha Trang|Nha Trang|YES|stars_5
+183918|Hanoi Value|Hanoi|NO|stars_3
+187848|Asian Ruby|Ho Chi Minh City|NO|stars_3
+188118|Southern Hotel & Villa|Hoi An|YES|stars_3
+188119|New Star|Hue|YES|stars_3
+188120|Vietsovpetro|Dalat|YES|stars_3.5
+188278|Mercure Hue Gerbera|Hue|YES|stars_4
+195931|Grand Vung Tau|Vung Tau|YES|stars_3
+195932|Hoang Hai Long Hotel|Ho Chi Minh City|YES|stars_3
+201641|Hoi An Lantern|Hoi An|YES|stars_3
+201642|La Dolce Vita Private Enterprise|Hanoi|YES|stars_3
+201644|Danang Riverside|Danang|YES|stars_3
+201645|Phuoc An River|Hoi An|YES|stars_3
+201646|Tam Giang Resort & Spa|Hue|YES|stars_3
+201647|Romance|Hue|YES|stars_4
+201648|Indochine|Hoi An|YES|stars_3
+201649|Sammy|Dalat|YES|stars_4
+201650|Oriole Hotel & Spa|Nha Trang|YES|stars_2
+201651|YK Home Luxury Villa|Dalat|YES|stars_2
+201652|Sanouva|Ho Chi Minh City|YES|stars_3
+201653|Palace|Vung Tau|YES|stars_3
+201654|Kim Tho|Can Tho|YES|stars_3
+201773|Pullman Danang Beach Resort|Danang|NO|stars_4.5
+201869|Vietview Hotel|Hanoi|YES|stars_3
+202548|May de Ville Boutique Hotel|Hanoi|YES|stars_3
+202549|Vi Da Riverside|Hue|YES|stars_3
+202550|Victory|Hue|YES|stars_3
+202551|Violet|Nha Trang|YES|stars_2
+202552|The Palms|Phan Thiet|YES|stars_3
+202553|Novela Resort & Spa|Phan Thiet|YES|stars_3
+202554|Kingston|Ho Chi Minh City|NO|stars_3
+202555|Catina Saigon|Ho Chi Minh City|YES|stars_3
+202557|Hong Ngoc Tonkin|Hanoi|YES|stars_3
+202558|Hong Ngoc 3 - geschlossen|Hanoi|YES|stars_2
+202559|Golden Wings 2|Hanoi|YES|stars_2
+202561|Hong Ngoc Cochinchine|Hanoi|YES|stars_3
+203119|Cherry II|Hanoi|YES|stars_2.5
+203120|Holidays Hanoi|Hanoi|YES|stars_3
+203250|Sammy|Vung Tau|YES|stars_3
+203251|Hanoi View|Hanoi|YES|stars_3
+203252|Medallion Hanoi|Hanoi|NO|stars_3
+203253|Intercontinental Asiana Saigon|Ho Chi Minh City|YES|stars_5
+203254|Sea Star Resort|Phu Quoc|YES|stars_2
+203255|Mifuki|Ho Chi Minh City|YES|stars_2.5
+203256|Thuan Thien|Ho Chi Minh City|YES|stars_3
+203291|Queen Ann|Ho Chi Minh City|YES|stars_3
+203292|Ninh Kieu 2|Can Tho|YES|stars_4
+203293|Tan Hai Long 1|Ho Chi Minh City|YES|stars_3
+203294|Tan Hai Long 3|Ho Chi Minh City|YES|stars_3
+203295|Van Loi|Hoi An|YES|stars_3
+203296|Sunriver|Danang|YES|stars_3
+203297|Orient|Danang|YES|stars_3
+203298|The Imperial|Vung Tau|YES|stars_5
+210245|Allura Hanoi|Hanoi|NO|stars_2
+213266|Liberty Central Saigon Riverside|Ho Chi Minh City|YES|stars_4
+218024|Sherwood Residence|Ho Chi Minh City|NO|stars_5
+226490|Thien Thao|Ho Chi Minh City|NO|stars_2
+227633|Boutique Hoi An Resort|Hoi An|NO|stars_4
+228012|Fusion Maia|Danang|NO|stars_5
+228358|An Lam Pavillon|Nha Trang|NO|stars_5
+228423|Blue Diamond|Ho Chi Minh City|YES|stars_3
+228424|Golden Central Saigon|Ho Chi Minh City|YES|stars_4
+228425|Best Western Muong Thanh|Hanoi|YES|stars_3
+228426|Le Belhamy Resort & Spa|Hoi An|YES|stars_4
+228696|Tourane|Danang|NO|stars_3
+228968|Conifer Boutique|Hanoi|NO|stars_3
+228970|Silk Path|Hanoi|NO|stars_4
+230166|Hanoi Dolphin|Hanoi|NO|stars_3
+230171|Hoang Gia Huy|Ho Chi Minh City|NO|stars_2.5
+230172|Lan Lan 1|Ho Chi Minh City|NO|stars_3
+230177|Bach Dang Hoi An Hotel|Hoi An|NO|stars_3
+230179|Starlet|Nha Trang|NO|stars_3
+232340|Ideal|Hue|NO|stars_3
+232342|La Sapinette Dalat|Dalat|NO|stars_4
+232343|New Pacific|Ho Chi Minh City|NO|stars_4
+232344|Son Tra Resort & Villas|Danang|NO|stars_4
+232368|Six Senses Con Dao|Con Dao|NO|stars_5
+232369|Eden Resort|Phu Quoc|NO|stars_4
+232532|Lotus Mui Ne Resort & Spa|Phan Thiet|NO|stars_4
+232648|Magnolia|Danang|YES|stars_2
+232724|Sophia|Ho Chi Minh City|YES|stars_3
+232726|Park View|Hue|YES|stars_4
+232728|Vina|Hue|YES|stars_3
+232729|Angella|Nha Trang|YES|stars_3
+232732|Mom Da Chim - Lazi Beach Resort|Phan Thiet|YES|stars_4
+232966|Ana Mandara Hue|Thuan An Town|NO|stars_5
+233108|Victory|Ho Chi Minh City|YES|stars_3
+233111|Star|Ho Chi Minh City|NO|stars_3
+233113|Hanoi Grand View|Hanoi|YES|stars_3
+233590|The Light Hotel & Resort|Nha Trang|NO|stars_3
+233591|Bana By Night Resort|Danang|NO|0
+233592|Crowne Plaza Danang|Danang|NO|stars_4
+233593|Trendy|Danang|NO|stars_3
+233626|Hanoi Boutique 2|Hanoi|NO|stars_3
+233627|Hanoi Boutique 1|Hanoi|NO|stars_4
+233629|De l'Opera Hanoi - MGallery Collection|Hanoi|NO|stars_5
+233630|May de Ville City Centre|Hanoi|NO|stars_3.5
+233633|Prestige|Hanoi|NO|stars_4
+233634|Royal Palace|Hanoi|NO|stars_3
+233636|A25 Hotel 45 Phan Chu Trinh|Hanoi|NO|stars_3
+233639|Asian Ruby 2|Ho Chi Minh City|NO|stars_2
+233641|Family Inn Saigon|Ho Chi Minh City|NO|stars_3.5
+233642|Hoang Ngan|Ho Chi Minh City|NO|stars_3
+233644|My Anh|Ho Chi Minh City|NO|stars_3
+233649|Thanh Thuy Saigon|Ho Chi Minh City|NO|stars_2
+233653|Hoang Lien|Ho Chi Minh City|NO|stars_2
+233654|Hoang Phu Gia|Ho Chi Minh City|NO|stars_3
+233663|Hai Long|Ho Chi Minh City|NO|stars_2
+233665|Hoang Hai Long 2|Ho Chi Minh City|NO|stars_3
+233804|Golden Lake|Hanoi|NO|stars_3
+233805|Golden Wings|Hanoi|NO|stars_2
+233806|Splendid Jupiter|Hoan Kiem District|NO|stars_3
+233807|Hanoi Eclipse|Hanoi|NO|stars_3
+233809|Hanoi Aurora|Hanoi|NO|stars_2.5
+233812|Hanoi Elegance Emerald Hotel|Hanoi|NO|stars_3
+233813|Hanoi Imperial|Hanoi|NO|stars_3
+233814|Hanoi Royal View|Hanoi|NO|stars_3
+233817|Hidden Charm|Hanoi|NO|stars_3
+233819|The Time|Hanoi|NO|stars_3
+233820|New Epoch|Ho Chi Minh City|NO|stars_3
+234346|Hoi An Sapa|Sapa|NO|stars_2
+234640|Splendid Star Grand|Hanoi|NO|stars_3
+234675|Hue Heritage|Hue|NO|stars_3
+235153|Vissai Saigon Hotel|Ho Chi Minh City|NO|stars_4
+235154|Golden Rose|Ho Chi Minh City|NO|stars_3
+235155|Sea & Sand|Hoi An|NO|stars_3
+235355|Nhat Thanh|Nha Trang|NO|stars_3
+236061|Rainbow Hanoi|Hanoi|NO|stars_2
+236068|Calypso|Hanoi|NO|stars_3
+236580|Crowne Plaza West Hanoi Hotel|Hanoi|NO|stars_5
+236581|Grand Plaza Hanoi|Hanoi|NO|stars_5
+236582|Hanoi Silver Hotel|Hanoi|NO|stars_3
+236585|Cosiana|Hanoi|NO|stars_3
+236586|Dong Thanh|Hanoi|NO|stars_3
+236587|Gold Coast|Danang|NO|stars_3
+236589|Prime|Nha Trang|NO|stars_3
+236590|Hana Beach Resort|Phan Thiet|NO|stars_3
+236591|Best Western Dalat Plaza|Dalat|NO|stars_3
+236592|Ariva Nam Ngu|Hanoi|NO|stars_3
+236864|Royal Gate|Hanoi|NO|stars_3
+237139|Vedana Lagoon Resort & Spa|Hue|NO|stars_5
+237974|Marigold|Hanoi|NO|stars_3
+237978|Hyatt Regency Danang Resort & Spa|Danang|NO|stars_5
+237980|The Ocean Villas Danang|Danang|NO|stars_5
+237982|Bai Tram Hideout|Ouy Nhon|NO|stars_5
+237983|An Lam Ninh Van Bay|Nha Trang|NO|stars_5
+237984|Muine Bay Resort|Phan Thiet|NO|stars_4
+237985|Sandhills Beach Resort & Spa|Phan Thiet|NO|stars_4
+238276|An Lam Saigon River Private Residences|Ho Chi Minh City|NO|stars_5
+238581|Graceful|Hanoi|YES|stars_3
+238582|Cherry III|Hanoi|NO|stars_3
+238583|Ariva Eden|Hanoi|NO|stars_3
+238584|Thaison Palace|Hanoi|NO|stars_3
+238585|Parkson Hotel Hanoi|Hanoi|NO|stars_3
+238588|Lucky 2|Hanoi|NO|stars_2
+238589|Lucky 3|Hanoi|NO|stars_3
+238592|Tirant|Hanoi|NO|stars_3
+238593|Hanoi Topaz|Hanoi|NO|stars_3
+238594|Hanoi View 2|Hanoi|NO|stars_2.5
+238597|Hanoi Spark|Hanoi|NO|stars_3
+238601|Tropicana Beach Resort & Spa|Vung Tau|NO|stars_4
+238655|Sunflower Hotel|Ho Chi Minh City|NO|stars_3
+238839|May de Ville Old Quarter|Hanoi|NO|stars_3
+238840|Hanoi Bao Khanh|Hanoi|NO|stars_3
+239109|Ancient House River Resort|Hoi An|NO|stars_3
+239387|Zen|Hanoi|NO|stars_3
+239388|Hanoi Asia|Hanoi|NO|stars_3
+239389|Gia Bao Hanoi|Hanoi|NO|stars_3
+239390|Hanoi Triumphal|Hanoi|NO|stars_3
+239392|Prince Hanoi - 41 Bat Su|Hanoi|NO|stars_2
+239393|Sunshine Suites Hanoi|Hanoi|NO|stars_3
+239405|Elegant|Ho Chi Minh City|NO|stars_3
+239406|Hoang Chung|Ho Chi Minh City|NO|stars_1
+239407|Huy Chuong|Ho Chi Minh City|NO|stars_2
+239410|Hong Vy 1|Ho Chi Minh City|NO|stars_3
+239411|Paradise Saigon Boutique Hotel|Ho Chi Minh City|NO|stars_3
+240245|Sunrise - 24 Quan Su|Hanoi|NO|stars_3
+240248|White Lion|Ho Chi Minh City|NO|stars_3
+240249|River Prince|Dalat|NO|stars_3
+241905|Prince Hotel - 8 To Tich|Hanoi|NO|stars_3
+241906|Sapa View|Sapa|NO|stars_3
+241907|Hanoi Emotion|Hanoi|NO|stars_3
+241908|New Vision|Hanoi|NO|stars_3
+241909|Sea Stars|Hai Phong|NO|stars_4
+241910|Nouveau Happy Inn|Ho Chi Minh City|NO|stars_2
+241911|Universe Central Saigon|Ho Chi Minh City|NO|stars_3
+241913|Asian Ruby 3|Ho Chi Minh City|NO|stars_3
+241914|Arc En Ciel|Ho Chi Minh City|NO|stars_3
+241915|Bat Dat|Ho Chi Minh City|NO|stars_3
+241916|Sweet Home|Ho Chi Minh City|NO|stars_2
+241917|Gold Hue|Hue|NO|stars_3
+241918|Grand Mercure Danang|Danang|NO|stars_4
+242734|Fusion Alya Hoi An|Hoi An|NO|stars_5
+242914|Chez Carole Resort|Phu Quoc|NO|stars_4
+243707|Mia Resort Nha Trang|Nha Trang|NO|stars_5
+243875|Barcelona|Nha Trang|NO|stars_3
+243876|Song Thu|Danang|NO|stars_3
+243900|Ngoc Mai|Hanoi|NO|stars_3
+243903|Sunny 3|Hanoi|NO|stars_3
+243904|Hong Thien Loc 1|Ho Chi Minh City|NO|stars_3
+245736|InterContinental Danang Sun Peninsula Resort|Danang|NO|stars_5
+245958|Celia Hanoi|Hanoi|NO|stars_3
+245960|Mondial Hue|Hue|NO|stars_4
+246021|Golden Lotus Hotel Sen Vàng|Nha Trang|NO|stars_2
+246022|Hai Yen|Hoi An|NO|stars_2
+246023|Vinh Trung Plaza|Danang|NO|stars_4
+247061|Nikko Saigon|Ho Chi Minh City|NO|stars_5
+247062|Jimmy|Danang|NO|stars_2
+247186|La Belle Vie|Hanoi|NO|stars_3
+247578|Vinh Hung Hotels & Resort - Riverside Resort|Hoi An|NO|stars_4
+247803|Lucky 1|Hanoi|NO|stars_3
+247804|Hanoi Rendezvous|Hanoi|NO|stars_2.5
+247807|Thao Ha|Phan Thiet|NO|stars_2
+247808|Canary|Hue|NO|stars_2
+249154|Unique Mui Ne Resort|Mui Ne|NO|stars_4
+249236|Sunrise Hoi An Beach Resort|Hoi An|NO|stars_5
+249595|Ha Noi Century|Hanoi|NO|stars_3
+249597|Queen Da Nang|Danang|NO|stars_3
+249598|Vian Danang|Danang|NO|stars_3
+249599|Hue Queen 2|Hue|NO|stars_3
+249600|Thanh Lich|Hue|NO|stars_3
+249602|Truong Giang|Hue|NO|stars_2
+249603|Michelia|Nha Trang|NO|stars_4
+249605|The Light 2|Nha Trang|NO|stars_3
+259342|Sen Viet Hotel|Ho Chi Minh City|NO|stars_3
+259343|Kelly Hotel|Ho Chi Minh City|NO|stars_3
+259344|Hotel Nesta Hanoi|Hoan Kiem District|NO|stars_4
+259347|Splendid Star Suite|Hoan Kiem District|NO|stars_3
+259696|Classic Hoang Long|Hai Phong|NO|stars_3
+259697|Valentine|Hue|NO|stars_2
+259699|Duy Anh Hanoi|Hanoi|NO|stars_3
+259700|Hanoi Amanda|Hanoi|NO|stars_3
+259703|Rising Dragon Palace|Hanoi|NO|stars_3
+259705|Maidza Hanoi|Hanoi|NO|stars_3
+259775|Santa Barbara|Hanoi|NO|stars_3
+259776|Mai Hotel|Hanoi|NO|stars_3
+259777|Emeralda Resort|Ninh Binh|NO|stars_4
+259778|Ho Sen 2 Hotel|Ho Chi Minh City|NO|stars_3
+259784|Thanh Bình 1|Ho Chi Minh City|NO|stars_2.5
+259785|Thanh Bình 2|Ho Chi Minh City|NO|stars_3
+259787|Bel Ami (Thanh Bình 4)|Ho Chi Minh City|NO|stars_3
+259888|Vinpearl Luxury|Danang|NO|stars_5
+260102|Novotel Saigon Centre|Ho Chi Minh City|NO|stars_4
+260195|Angsana Lang Co|Lang Co|NO|stars_5
+260315|The Landmark Hanoi|Hanoi|NO|stars_3
+260316|Hanoi Crystal Hotel|Hanoi|NO|stars_3
+260798|Nhat Ha 3|Ho Chi Minh City|NO|stars_3
+260912|Eastin Easy GTC|Hanoi|NO|stars_3
+260914|Golden Silk|Hanoi|NO|stars_4
+261064|Banyan Tree Lang Co|Lang Co|NO|stars_5
+261094|Church Boutique Hotel - Hang Gai|Hanoi|NO|stars_3
+265490|Angel Palace|Hanoi|NO|stars_3
+265491|Grand Silverland Hotel & Spa|Ho Chi Minh City|NO|stars_4
+265492|Aquari|Ho Chi Minh City|NO|stars_3
+265493|Cap Town|Ho Chi Minh City|NO|stars_3
+278320|Moonlight Hotel|Ho Chi Minh City|NO|stars_3
+278328|Silverland Hotel & Spa|Ho Chi Minh City|NO|stars_3
+278350|Ruby River Hotel|Ho Chi Minh City|NO|stars_3
+278707|Villa Aria Muine|Phan Thiet|NO|stars_4
+278708|Villa Del Sol Beach Villas & Spa|Phan Thiet|NO|stars_4
+278712|Green Organic Villas|Phan Thiet|YES|0
+278713|Golden Coast Resort and Spa|Phan Thiet|YES|stars_4
+278750|Church Boutique Hotel Hang Ca|Hanoi|NO|stars_3
+278752|Gia Bao Grand Hotel|Hanoi|NO|stars_3
+278770|Impressive Hotel|Hanoi|NO|stars_3
+278779|Hanoi A1 Hotel|Hanoi|NO|stars_3
+280226|Riverside Bamboo Resort|Hoi An|NO|stars_3
+285904|InterContinental Nha Trang|Nha Trang|NO|stars_5
+296269|Authentic Hanoi Boutique Hotel|Hanoi|NO|stars_3
+299003|Botanic Garden Homestay|Hoi An|NO|stars_3
+301647|Novotel Danang Premier Han River|Danang|NO|stars_4
+301661|The Shells Resort & Spa|Phu Quoc|NO|stars_5
+311182|Signature|Ho Chi Minh City|NO|0
+311183|Lan Vien|Hanoi|NO|stars_4
+311212|Famiana Resort & Spa Phu Quoc|Phu Quoc|NO|stars_4
+335828|Amiana on the Bay|Nha Trang|NO|stars_5
+359521|Pulchra Resort|Danang|NO|stars_5
+359537|Hilton Garden Inn|Hanoi|NO|stars_4
+359538|The Cliff Resort & Residences|Phan Thiet|NO|stars_4
+365143|Golden Cyclo|Hanoi|NO|stars_3
+367387|The Reverie Saigon|Ho Chi Minh City|NO|stars_5
+367703|Jw Marriott Hotel Hanoi|Hanoi|NO|stars_5
+367706|Skylark Hotel|Hanoi|YES|stars_4
+374007|Hanoi First Choice Hotel|Hanoi|NO|stars_3
+374037|Tran Hotel|Hanoi|NO|stars_3
+391096|Amanoi|Vinh|YES|stars_6
+391534|The Sailing Bay Beach Resort|Mui Ne|NO|stars_4
+392351|Ancient House Village Resort & Spa|Hoi An|NO|stars_4
+400837|Au Lac Hotel 2|Ho Chi Minh City|NO|stars_3
+403265|Liberty Central Saigon Centre|Ho Chi Minh City|NO|stars_4
+405936|Alma Courtyard Hoi An|Hoi An|NO|stars_4
+407720|Larosa|Hanoi|NO|stars_3
+408617|Best Western Premier Havana Nha Trang Hotel|Nha Trang|NO|stars_4
+409532|Hanoi Ancient Town Hotel|Hanoi|NO|stars_2
+409543|Hanoi Legacy Hoan Kiem|Hanoi|NO|stars_3
+410994|EdenStar Saigon Hotel|Ho Chi Minh City|NO|stars_4
+413568|Kim An Hoi An Hotel & Spa|Hoi An|NO|stars_3
+419207|Maison d'Hanoi Hanova Hotel|Hanoi|YES|stars_4

@@ -1,0 +1,1491 @@
+7192|InterContinental Johannesburg O.R. Tambo Airport|Johannesburg|YES|stars_5
+7508|Altes Landhaus|Oudtshoorn|NO|stars_5
+8800|Belvidere Manor|Knysna|NO|stars_4
+9035|Beverly Hills|Umhlanga Rocks|YES|stars_5
+9181|Bongani Mountain Lodge|Kaapmuiden|YES|stars_4
+10451|The Clarendon - Villa Fresnaye / Villa Bantry Bay|Cape Town|NO|stars_4
+11725|Protea Dorpshuis & Spa|Stellenbosch|NO|stars_4
+12423|Fancourt & Fancourt Manor House - Fancourt|George|NO|stars_5
+13110|Garden Route Game Lodge|Albertina|YES|stars_3
+13339|Gorah Elephant Camp|Addo Elephant National Park|NO|stars_5
+13527|Grande Roche Hotel & Restaurant|Paarl|NO|stars_5
+13607|Grootbos Nature Reserve - Garden Lodge/Forest Lodge/Villa|Gansbaai|NO|stars_5
+13722|African Pride Hacklewood Hill Country House|Port Elizabeth|NO|stars_5
+14076|Hog Hollow Country Lodge|Plettenberg Bay|NO|stars_4
+14186|Southern Sun Elangeni & Maharani|Durban|YES|stars_4
+14216|Garden Court Pretoria Hatfield|Pretoria|NO|stars_4
+14223|SunSquare Cape Town|Cape Town|YES|stars_3
+14224|Garden Court Nelson Mandela Boulevard|Cape Town|YES|stars_3
+14225|Garden Court Kings Beach|Port Elizabeth|YES|stars_3
+14228|Wilderness Beach|Wilderness|YES|stars_3
+14340|Southern Sun Waterfront Cape Town|Cape Town|YES|stars_4
+14472|The Country House at Hunters|Plettenberg Bay|NO|stars_5
+14898|Inyati Game Lodge|Inyati|NO|stars_4
+15589|Kwa Mbili Game Lodge|Thornybush|NO|stars_3
+16438|Londolozi Private Game Reserve - Varty Camp / Pioneer Camp / Granite Private Suites / Founders Camp / Tree Camp|Kruger National Park|NO|stars_6
+16714|MalaMala Game Reserve - Rattray's|Mala Mala|NO|stars_6
+16717|Southern Sun - Malelane Sun|Malelane|YES|stars_4
+17478|Mimosa Lodge|Montagu|YES|stars_4
+17569|Mkuze Falls Private Game Reserve - Falls Lodge/Safari Suite/Tented Lodge|Mkuze|NO|stars_5
+17746|Mount Nelson|Cape Town|YES|stars_5
+17960|Ngala Private Game Reserve - Safari Lodge/Tented Camp|Ngala|NO|stars_5
+18779|Hyatt Regency Johannesburg|Johannesburg|NO|stars_5
+19015|Phinda Privat Game Reserve - Mountain Lodge/Rock Lodge/Forest Lodge/Vlei Lodge/Zuka Lodge/The Homestead|Zululand|NO|stars_5
+19493|The Devon Valley|Stellenbosch|YES|stars_4
+19494|Protea Victoria Junction|Cape Town|YES|stars_4
+19495|Protea President|Cape Town|YES|stars_4
+19823|Radisson Blu Waterfront|Cape Town|YES|stars_5
+20480|River Manor|Stellenbosch|NO|stars_4
+20628|Rosenhof Country Lodge|Oudtshoorn|YES|stars_5
+21041|InterContinental Johannesburg Sandton Towers|Johannesburg|YES|stars_5
+21399|The Selborne Hotel, Spa & Golf Estate|Pennington|NO|stars_4
+21461|Shamwari Game Reserve - Bayethe/ Eagles Crag/ Lobengula/ Long Lee/ Riverdene/ Sarili/ Bushmans River|Shamwari Game|NO|stars_5
+21573|Sheraton Pretoria|Pretoria|YES|stars_5
+21687|Singita Sabi Sand - Ebony Lodge / Boulders Lodge / Castleton|Sabi Sands Game Reserve|NO|stars_5
+22153|Steenberg|Cape Town|YES|stars_5
+22234|Straightway Head Country House|Somerset West|YES|stars_4
+22317|The Cascades|Sun City|YES|stars_5
+22327|The Table Bay|Cape Town|YES|stars_5
+22365|Sunnyside Park|Johannesburg|YES|stars_4
+22669|The Alphen Country House|Cape Town|NO|stars_5
+22683|The Bay|Cape Town|NO|stars_5
+22716|The Cellars-Hohenort|Cape Town|YES|stars_5
+22724|The Commodore|Cape Town|YES|stars_4
+22744|Protea Edward Durban|Durban|YES|stars_4
+22824|The Lanzerac Hotel & Spa|Stellenbosch|NO|stars_5
+22845|The Marine|Hermanus|NO|stars_5
+22856|The Michelangelo|Sandton|YES|stars_5
+22894|The Palace of the Lost City|Sun City|YES|stars_5
+22931|NH Plettenberg Bay|Plettenberg Bay|YES|stars_4
+22999|The Saxon Boutique Hotel, Villas & Spa|Johannesburg|NO|stars_5
+23027|The Vineyard Hotel & Spa|Cape Town|NO|stars_4
+23041|The Westcliff|Johannesburg|YES|stars_5
+23420|Tswalu Kalahari Reserve|Kuruman|NO|stars_5
+23481|Ulusaba Sir Richard Branson's Private Game Reserve - Rock Lodge Rooms & Suites & Cliff Lodge / Safari Lodge Rooms & Suites|Ulusaba|NO|stars_6
+23488|Protea Umhlanga|Umhlanga Rocks|YES|stars_3
+24450|Wild Coast Sun|Port Edward|YES|stars_3
+24467|Winchester Mansions|Cape Town|NO|stars_4
+24638|Fairmont Zimbali Resort - Zimbali Lodge|Ballito|YES|stars_5
+25794|The Townhouse|Cape Town|YES|stars_4
+25917|The Knysna Log Inn|Knysna|NO|stars_4
+25923|Letaba Restcamp|Kruger National Park|NO|stars_2
+25924|Lower Sabie Restcamp|Kruger National Park|NO|stars_2
+25948|Addo Elephant Rest Camp|Addo Elephant National Park|NO|stars_2.5
+25952|Garden Court East London|East London|NO|stars_3
+25958|Golden Gate Hotel|Golden Gate Highlands|NO|stars_2
+25969|Kwandwe Private Game Reserve - Great Fish River Lodge / Ecca Lodge / Uplands Homestead / Melton Manor|Grahamstown|NO|stars_5
+25973|Palazzo Montecasino|Johannesburg|YES|stars_5
+25976|Garden Court O.R.Tambo Airport|Kempton Park|YES|stars_3
+25977|Garden Court Sandton City|Johannesburg|YES|stars_3
+26018|Ocean View Guesthouse|Cape Town|NO|stars_4
+26020|Dolphin Beach|Cape Town|YES|stars_4
+26025|Garden Court Kimberley|Kimberley|NO|stars_3
+26032|Protea Kruger Gate|Kruger National Park|YES|stars_4
+26033|Berg En Dal Restcamp|Kruger National Park|NO|stars_2
+26040|Olifants Restcamp|Kruger National Park|NO|stars_2
+26042|Satara Restcamp - Wells/Frankel/Stanley|Kruger National Park|NO|stars_2
+26043|Skukuza Restcamp|Kruger National Park|NO|stars_2
+26045|Protea Mossel Bay|Mossel Bay|YES|stars_3
+26046|Ghost Mountain Inn|Mkuze|NO|stars_4
+26048|Hannah Lodge|Ohrigstad|NO|stars_4
+26049|Hlangana Lodge|Oudtshoorn|NO|stars_4
+26087|Beacon Island|Plettenberg Bay|YES|stars_4
+26094|NH The Lord Charles|Somerset West|YES|stars_4
+26099|The Sun City Hotel|Sun City|YES|stars_4
+26103|Palms Wilderness Guest House|Wilderness|NO|stars_4
+26104|Drakensberg Sun Resort|Winterton|YES|stars_4
+26268|Bantry Bay Luxury Suites|Cape Town|YES|stars_4
+26273|Protea Sea Point|Cape Town|YES|stars_3
+27340|Mountain Manor Guest House|Cape Town|NO|stars_3
+27609|Arniston Spa Hotel|Arniston|NO|stars_4
+27611|Bushmans Kloof Wilderness Reserve|Cederberg|NO|stars_5
+27613|Garden Court Marine Parade|Durban|YES|stars_3
+27615|Shakaland|Eshowe|YES|stars_3
+27616|Protea King George|George|YES|stars_4
+27618|The Drostdy|Graaff - Reinet|NO|stars_5
+27619|Windsor|Hermanus|NO|stars_3
+27624|The Maslow|Johannesburg|YES|stars_4
+27625|Protea Balalaika Sandton|Johannesburg|YES|stars_4
+27626|Protea Wanderers|Johannesburg|YES|stars_4
+27631|Premier Cape Manor|Cape Town|YES|stars_4
+27638|Protea Knysna Quays|Knysna|YES|stars_4
+27644|Kingna Lodge|Montagu|NO|stars_4
+27649|Protea Riempie Estate|Oudtshoorn|YES|stars_3
+27653|Fish River Sun|Port Alfred|YES|stars_4
+27657|Kariega Game Reserve - Main Lodge / Ukhozi Lodge / River Lodge / The Homestead / Settlers Drift|Kariega Game Reserve|NO|stars_4
+27660|Court Classique|Pretoria|YES|stars_4
+27665|Oude Werf Hotel|Stellenbosch|YES|stars_4
+27667|Spier Hotel|Stellenbosch|YES|stars_4
+27668|Makakatana Bay Lodge|St. Lucia Wetland Park|NO|stars_4
+27669|Hluhluwe River Lodge|Hluhluwe|NO|stars_4
+27671|Protea Upington|Upington|NO|stars_3.5
+27673|Wilderness Resort|Wilderness|YES|stars_3
+27675|Sibaya Lake Lodge|St. Lucia Wetland Park|YES|stars_3
+27677|The Cabanas Hotel|Sun City|YES|stars_3
+27679|Sabi Sabi Luxury Safari Lodges - Selati Camp/ Bush Lodge/ Earth Lodge/ Little Bush Camp|Skukuza|NO|stars_5
+27836|Protea Breakwater Lodge Waterfront|Cape Town|YES|stars_3
+27839|Lion Sands Game Reserve - Ivory Lodge/ River Lodge/ Narina Lodge/ Tinga Lodge|Kruger National Park|YES|stars_5
+27841|Lake Pleasant Living|Knysna|NO|stars_5
+31210|Knysna Hollow Country Estate|Knysna|YES|stars_3
+31818|Protea The Winkler|White River|NO|stars_4
+31821|Drifters Cape Town Lodge|Cape Town|NO|stars_2.5
+31823|African Pride Arabella Hotel & Spa|Kleinmond|YES|stars_5
+31824|Palmiet Valley Estate|Paarl|NO|stars_5
+31827|Montusi Mountain Lodge|Royal Natal|NO|stars_4
+31829|Protea Richards Bay|Richards Bay|NO|stars_3
+31834|Imbali Safari Lodge|Kruger National Park|YES|stars_5
+31836|Savanna Private Game Reserve|Sabi Sands Game Reserve|NO|stars_5
+31838|Karoo National Park Main Rest Camp|Karoo National Park|NO|stars_2
+31840|Tsitsikamma National Park - Storms River Mouth Camp|Tsitsikamma|NO|stars_2
+32157|Franschhoek Country House|Franschhoek|NO|stars_5
+32160|Kagga Kamma Nature Reserve|Ceres|NO|stars_4
+32162|Naries Namakwa Retreat|Springbok|NO|stars_4
+32163|Magoebaskloof|Tzaneen|NO|stars_3
+32169|Erinvale Estate Hotel & Spa|Somerset West|YES|stars_4
+32652|Protea Cape Castle|Cape Town|YES|stars_3
+34002|Romney Park|Cape Town|NO|stars_5
+34529|Mont Rochelle|Franschhoek|YES|stars_5
+35703|Sandals|St. Francis Bay|YES|stars_4
+35704|Don Beach Road Seapoint|Cape Town|NO|stars_3
+37801|Jatinga Country Lodge|White River|YES|stars_4
+37803|Sandford Park|Drakensberg|NO|stars_3
+37804|Umbhaba Lodge|Hazyview|NO|stars_3
+37807|Quarry Lake Inn|East London|NO|stars_4
+37810|Zuurberg Mountain Village|Addo Elephant National Park|NO|stars_4
+37811|Angala Boutique Hotel|Franschhoek|NO|stars_5
+37814|Chitwa Chitwa Private Game Lodge|Sabi Sands Game Reserve|NO|stars_5
+37815|Leopard Hills|Sabi Sands Game Reserve|NO|stars_5
+37952|Tsala Treetop Lodge|Plettenberg Bay|NO|stars_5
+37997|The Twelve Apostles & Spa|Camps Bay|YES|stars_5
+37998|Kurland|Plettenberg Bay|NO|stars_5
+38023|Mashatu Game Reserve|Tuli Block|NO|stars_4.5
+38050|Singita Kr?ger Nationalpark - Lebombo Lodge / Sweni Lodge|Kruger National Park|NO|stars_5.5
+38089|The Westin Grand Cape Town Arabella Quays|Cape Town|YES|stars_5
+38090|Cape Grace|Cape Town|YES|stars_5
+38091|Kensington Place|Cape Town|NO|stars_5
+38092|Victoria & Alfred|Cape Town|NO|stars_4
+38190|Elephant House|Addo Elephant National Park|NO|stars_4
+38191|Far Hills Country|George|NO|stars_4
+38192|Makalali Private Game Lodge|Hoedspruit|YES|stars_4
+38193|Thornybush Game Lodge|Thornybush|NO|stars_5
+38212|Cape Town Lodge|Cape Town|YES|stars_4
+38379|African Pride Melrose Arch|Johannesburg|YES|stars_5
+38444|Ambassador|Cape Town|YES|stars_4
+38445|Premier King David|East London|NO|stars_3
+38446|Giant's Castle|Drakensberg|NO|stars_3
+38447|Tropicana|Durban|YES|stars_3
+38448|Hippo Hollow Country Estate|Hazyview|YES|stars_4
+38449|Protea Hazyview|Hazyview|YES|stars_3
+38452|Keurbooms River|Plettenberg Bay|YES|stars_4
+38453|Queens|Oudtshoorn|NO|stars_4
+38454|Royal|Pilgrim' s Rest|NO|stars_3
+38455|Yellow Lodge|Stellenbosch|NO|stars_3
+38457|Kings Camp|Timbavati|NO|stars_5
+38458|Entabeni Game Reserve/ Safari Conservancy|Waterberge|NO|stars_4
+38460|The Oyster Box|Umhlanga Rocks|NO|stars_5
+38461|The Boathouse|Ballito|NO|stars_4
+38606|Cape Town Ritz|Cape Town|YES|stars_3
+38607|On St. Georges|Cape Town|YES|stars_3
+38608|The Paxton|Port Elizabeth|NO|stars_4
+38610|Pine Lake Inn|Mpumalanga|YES|stars_3
+38665|River Bend Country Lodge|Addo Elephant National Park|NO|stars_5
+38666|Sanbona Wildlife Reserve - Dwyka Tented Lodge / Gondwana Lodge / Tilney Manor / Explorer Camp|Barrydale|NO|stars_5
+38668|Inn on the Square|Cape Town|YES|stars_3
+38669|Bakubung Lodge|Pilanesberg|YES|stars_4
+38670|Kwa Maritane Bush Lodge|Pilanesberg|YES|stars_4
+38671|Plettenberg Hotel & Spa|Plettenberg Bay|YES|stars_5
+38672|Protea Stellenbosch|Stellenbosch|YES|stars_3
+38675|Motswari Private Camp|Timbavati|NO|stars_4
+38677|Tshukudu Bush Lodge|Pilanesberg|YES|stars_5
+38780|Redbourne Country Lodge|Plettenberg Bay|NO|stars_4
+38877|Brookes Hills Suites|Port Elizabeth|YES|stars_3
+38879|The Portswood|Cape Town|YES|stars_4
+38881|Centurion Lake|Centurion (near Pretoria)|YES|stars_4
+38882|Falaza Game Park|Hluhluwe|NO|stars_4
+38886|Umlani Bushcamp Lodge|Timbavati|NO|stars_3
+38927|Greenways|Cape Town|YES|stars_5
+39931|Sant? Hotel, Resort & Spa|Paarl|NO|stars_5
+40195|Blue Waters|Durban|NO|stars_3
+40196|Cape Town Hollow|Cape Town|YES|stars_3.5
+41753|Sandton Hilton|Sandton|YES|stars_5
+41754|Radisson BLU Le Vendome|Cape Town|YES|stars_5
+41884|Shamwari Game Reserve - Riverdene Lodge|Shamwari Game|NO|stars_5
+41885|Jock Safari Lodge|Kruger National Park|NO|stars_5
+41951|A Stonesthrow|Grahamstown|NO|stars_3
+41953|Atlanticview Capetown|Camps Bay|NO|stars_5
+41954|Buhala Game Lodge|Malelane|NO|stars_4
+41955|Bushwillow Lodge|Hluhluwe|NO|stars_4
+41965|Colona Castle Manor|Cape Town|NO|stars_5
+41966|Cosmos Cuisine|Addo Elephant National Park|NO|stars_4
+41970|Cheetah Plains Game Reserve|Sabi Sands Game Reserve|NO|stars_3
+41977|Edward Charles|Mossel Bay|NO|stars_3
+41978|Fairlight Beach House|Umhlanga Rocks|NO|stars_4
+41979|Falcons View Manor|Knysna|NO|stars_5
+41989|Jambo G?stehaus|Cape Town|NO|stars_4
+41993|Lily Pond Lodge|Plettenberg Bay|NO|stars_4.5
+41994|La Boheme|Plettenberg Bay|YES|stars_4
+42041|Ndiza Lodge|St. Lucia Wetland Park|NO|0
+42045|Pakamisa Private Game Reserve|Pongola|NO|stars_4.5
+42053|Point|Mossel Bay|YES|stars_4
+42057|Rijks Country House|Tulbagh|NO|stars_4
+42059|Ridgeview Lodge|Durban|NO|stars_5
+42060|Royal Guest House|Port Alfred|NO|stars_4
+42078|Vergelegen Guesthouse|Kakamas|NO|stars_4
+42080|White Elephant Lodge|Pongola|NO|stars_5
+42090|Kwafubesi Game Lodge|Mabula Game Reserve|YES|stars_4
+42138|Hamiltons Tented Camp|Kruger National Park|YES|stars_5
+42139|Hoyo Hoyo Tsonga Lodge|Kruger National Park|YES|stars_5
+42140|Madikwe River Lodge|Madikwe Game Reserve|YES|stars_3.5
+42458|Royal Malewane|Kruger National Park|NO|stars_6
+42459|54 on Bath|Johannesburg|YES|stars_5
+47854|Crowne Plaza - The Rosebank|Johannesburg|NO|stars_4
+47856|Garden Court South Beach|Durban|YES|stars_3
+48141|Illyria House Pretoria|Pretoria|NO|stars_5
+48148|Ellerman House|Cape Town|NO|stars_5
+48150|Madikwe Hills Game Lodge|Madikwe Game Reserve|NO|stars_5
+48301|B?hm's Zeederberg Country House|Hazyview|NO|stars_4
+48303|Lion Sands Game Reserve - Tinga Lodge|Kruger National Park|NO|stars_5
+48527|Le Franschhoek Hotel & Spa|Franschhoek|YES|stars_4
+48529|Primi Royal|Cape Town|NO|stars_4
+48530|Lagoon Beach Hotel|Cape Town|YES|stars_4
+48531|Thonga Beach Lodge|Mabibi|NO|stars_4
+48532|Tsitsikamma Lodge|Storms River|NO|stars_3
+51361|Thanda Private Game Reserve - Thanda Bush Villas/ Thanda Tented Camp|Hluhluwe|NO|stars_5
+51376|Drifters Drakensberg Lodge|Drakensberg|NO|stars_2.5
+51683|La Fontaine Guest House|Franschhoek|NO|stars_4
+51684|Graskop|Graskop|NO|stars_3
+51685|Sefapane Lodge & Safaris|Phalaborwa|NO|stars_4
+51688|Hilltop Camp|Hluhluwe|NO|stars_3
+51689|Montagu Country|Montagu|YES|stars_3
+51690|La Plume Guesthouse|Oudtshoorn|NO|stars_4
+51721|Cedrics Lodge|Cape Town|NO|stars_3.5
+51758|Abalone Guest House|Hermanus|NO|stars_4
+52528|Ravineside Lodge|Entabeni Game Reserve|YES|stars_4
+53001|Balmoral|Durban|YES|stars_4
+56193|Boardwalk Lodge|Wilderness|NO|stars_4
+57633|Pezula Resort Hotel & Spa|Knysna|NO|stars_5
+57781|Bushman Sands Golf Lodge & Estate|Alicedale|NO|stars_3.5
+57782|Ubizane Wildlife Reserve - Zululand Tree Lodge|Hluhluwe|YES|stars_4
+59137|Beach|Durban|YES|stars_3
+59140|De Opstal Country Lodge|Oudtshoorn|NO|stars_4
+59141|Botlierskop Private Game Reserve|Mossel Bay|NO|stars_4
+59143|Constantia Uitsig|Cape Town|NO|stars_5
+59150|Villa Lutzi|Cape Town|NO|stars_4
+59152|Tarragona Lodge|Cape Town|NO|stars_4
+60095|Woodall Country House|Addo Elephant National Park|NO|stars_5
+62588|Protea Hotel Centurion|Centurion (near Pretoria)|YES|stars_4
+62589|Quarters on Florida|Durban|YES|stars_4
+62642|Cape Milner|Cape Town|YES|stars_4
+62956|Best Western Cape Suites|Cape Town|YES|stars_3
+62957|The Westville|Durban|YES|stars_3
+62958|The King Edward|Port Elizabeth|YES|stars_4
+62959|African Pride Irene Country Lodge|Irene|YES|stars_5
+62961|Greenway Woods Resort|White River|YES|stars_3
+62962|Ivory Tree Lodge|Pilanesberg|YES|stars_5
+63428|The Sir Francis|Cape Town|YES|stars_4
+64434|Alpine Heath Resort|Jagersrust|YES|stars_4
+64436|Nguni River Lodge|Addo Elephant National Park|YES|stars_5
+64437|Misty Waves Boutique|Hermanus|NO|stars_4
+64438|Izulu|Ballito|NO|stars_5
+64440|Southern Sun O.R. Tambo International Airport|Kempton Park|YES|stars_4
+64441|Cape Cadogan Boutique|Cape Town|NO|stars_4
+64442|O on Kloof|Cape Town|NO|stars_4.5
+64540|Protea Franschhoek|Franschhoek|NO|stars_4
+64542|Adderley Hotel|Cape Town|YES|stars_4
+64545|Whalesong Hotel & Hydro|Plettenberg Bay|YES|stars_4
+64622|Lady Hamilton|Cape Town|YES|stars_3
+64624|Protea Nelspruit|Nelspruit|NO|stars_4
+64627|Tsitsikamma Village Inn|Storms River|NO|stars_3
+64629|Rothman Manor|Swellendam|NO|stars_5
+64631|Elephant Lake|St. Lucia Wetland Park|YES|stars_3
+64635|Stillness Manor|Cape Town|NO|stars_2
+64637|Kwa Madwala Private Game Reserve|Kwa-Madwala-Wildreservat|NO|stars_4
+64641|Nungubane Game Lodge|Welgevonden Game Reserve|NO|stars_4.5
+64721|Graywood|Knysna|YES|stars_3
+64724|Southern Sun Pretoria|Pretoria|NO|stars_4
+64725|The Diplomate|Pretoria|NO|stars_4
+64726|Kapama Private Game Reserve - Kapama River Lodge/Kapama Southern Camp/Kapama Buffalo Camp/Kapama Karula|Kapama Game Reserve|NO|stars_5
+64727|Garonga Safari Camp|Hoedspruit|NO|stars_4
+64748|Hans Merensky Hotel & Estate|Phalaborwa|NO|stars_5
+64754|Whale Rock Lodge|Hermanus|NO|stars_4
+64767|Orion Mont-Aux-Sources|Drakensberg|NO|stars_3
+64982|Amakhala Game Reserve - Hlosi Game Lodge|Amakhala Game Reserve|NO|stars_4
+64985|Impodimo Lodge|Madikwe Game Reserve|NO|stars_5
+65091|Iketla Lodge|Ohrigstad|NO|stars_4
+65092|The Windermere|Port Elizabeth|NO|stars_5
+65094|Tintswalo Safari Lodge & Manor House|Manyeleti Game Reserve|YES|stars_5
+66396|Hilton Durban|Durban|YES|stars_5
+67873|The Westford|Johannesburg|NO|stars_3
+68837|Kingslyn Guesthouse|Cape Town|NO|stars_4
+70138|Sandton Sun|Sandton|YES|stars_5
+70173|City Lodge Hotel Victoria and Alfred Waterfront|Cape Town|NO|stars_3
+70174|Southern Sun Cape Sun|Cape Town|YES|stars_4
+70175|Primi Seacastle|Cape Town|NO|stars_4
+70177|Kleine Zalze Lodge|Stellenbosch|NO|stars_4
+70180|Don Sandton III|Sandton|NO|stars_3
+70181|Lukimbi Safari Lodge|Kruger National Park|NO|stars_5
+70182|Jackalberry Lodge|Thornybush|NO|stars_4
+71068|Mabula Game Lodge|Bela-Bela|YES|stars_4
+71988|Le Quartier Francais|Franschhoek|NO|stars_5
+72699|Schulphoek Seafront Guesthouse|Hermanus|NO|stars_5
+72701|Bartholomeus Klip|Hermon|NO|stars_4
+72702|Phantom Forest Eco Reserve|Knysna|NO|stars_5
+72704|Periwinkle Guest Lodge|Plettenberg Bay|NO|stars_4
+72705|City Lodge Port Elizabeth|Port Elizabeth|NO|stars_3
+72707|Amakhosi Safari Lodge|Pongola|NO|stars_5
+72710|Shiluvari Lakeside Lodge|Makhado|NO|stars_3
+72711|Coach House|Tzaneen|NO|stars_5
+72712|Ntshondwe Camp|Ithala Game Reserve|NO|stars_2
+72713|Camp Shawu|Kruger National Park|NO|stars_4
+73094|The Retreat Camps Bay|Cape Town|NO|stars_5
+73095|Auberge Burgundy|Hermanus|NO|stars_4
+75048|Protea Outeniqua|George|YES|stars_3
+75049|Riverside Hotel & Spa|Durban|YES|stars_4
+75050|Southern Sun The Cullinan|Cape Town|YES|stars_4
+75061|Villa Sunshine|Cape Town|YES|stars_4
+75090|Shidzidzi Game Lodge|Vaalwater|YES|stars_5
+75484|The Airport Grand|Boksburg|YES|stars_4
+75486|Golden Horse Casino Hotel|Pietermaritzburg|YES|stars_4
+76363|Hollow on the Square|Cape Town|YES|stars_4
+76364|Urban Chic|Cape Town|YES|stars_4
+76365|Protea North Wharf|Cape Town|NO|stars_4
+76366|Protea Fire & Ice|Cape Town|NO|stars_4
+76367|Lidiko Lodge|St. Lucia Wetland Park|NO|stars_4
+76435|Fountains Hotel|Cape Town|YES|stars_4
+76436|The Village Lodge|Cape Town|NO|stars_4
+76437|Aan de Oever|Swellendam|NO|stars_4
+76438|Cascade Country Manor|Paarl|NO|stars_4
+76440|Oyster Bay Lodge|St. Francis Bay|YES|stars_4
+76471|Forever Resorts Swadini|Blyde River Canyon|NO|stars_3
+76472|Garden Court Polokwane|Polokwane|NO|stars_3
+76474|Peermont Mondazur|San Lameer|NO|stars_4
+76475|Three Cities Imvubu Lodge|Richards Bay|NO|stars_3
+76477|Sani Pass|Drakensberg|NO|stars_3
+76478|Bushlands Game Lodge|Hluhluwe|YES|stars_3
+76479|Halyards|Port Alfred|NO|stars_3
+76480|The Kelway|Port Elizabeth|NO|stars_4
+76481|African Pride The Sands at St Francis|St. Francis Bay|NO|stars_5
+76482|Klein Oliphants Hoek Boutique Hotel|Franschhoek|NO|stars_4
+76484|Protea Saldanha Bay|Saldanha|NO|stars_3
+76678|Camps Bay Village|Cape Town|NO|stars_3
+76679|Waterfront Village|Cape Town|NO|stars_5
+76680|Cape Diamond|Cape Town|YES|stars_3
+76686|Amakhala Game Reserve|Amakhala Game Reserve|NO|stars_4
+76689|Shiduli Private Game Lodge|Kruger National Park|NO|stars_4
+76718|Protea Hluhluwe & Safaris|Hluhluwe|NO|stars_3
+76747|Dawsons Trout & Game Lodge|Barberton|YES|stars_5
+76748|Fordoun Spa & Boutique|Nottingham Road|NO|stars_5
+76749|Protea Umfolozi River|Mtubatuba|NO|stars_3
+76750|Four Rosmead|Cape Town|NO|stars_4
+76751|The Andros|Cape Town|NO|stars_5
+76752|Serenity Forest Eco Reserve|Malelane|NO|stars_5
+76753|Cybele Forest Lodge & Spa|White River|NO|stars_5
+76771|African Pride Pumba Private Game Reserve - Pumba Water Lodge/ Msenge Bush Lodge|Pumba Private Game Reserve|NO|stars_5
+76835|Marataba|Marakele Nationalpark|NO|stars_6
+76994|Protea Bloemfontein|Bloemfontein|YES|stars_4
+76996|Shishangeni Private Lodge|Kruger National Park|YES|stars_4.5
+77810|Knysna River Club|Knysna|NO|stars_4
+77811|Diaz 15 House On The Bay|Jeffreys Bay|NO|stars_4
+77818|Jabulani Camp|Kapama Game Reserve|NO|stars_5
+80857|The Farmhouse|Langebaan|NO|stars_4
+82526|Pestana Kruger Lodge|Malelane|YES|stars_4
+82551|La Splendida|Cape Town|YES|stars_3
+83520|Courtyard Cape Town - geschlossen|Cape Town|NO|stars_4
+83521|Courtyard Rosebank|Johannesburg|NO|stars_4
+83522|Courtyard Sandton|Sandton|NO|stars_4
+83523|City Lodge Bryanston|Sandton|NO|stars_3
+83524|City Lodge Durban|Durban|NO|stars_3
+83525|City Lodge Grand West|Cape Town|NO|stars_3
+83526|City Lodge Johannesburg Airport Barbara Road|Edenvale|NO|stars_3
+83527|City Lodge Katherine Street Sandton|Sandton|NO|stars_3
+83528|City Lodge Morningside|Johannesburg|NO|stars_3
+83529|City Lodge Pinelands|Cape Town|NO|stars_3
+83531|City Lodge Umhlanga Ridge|Durban|NO|stars_3
+83533|Bellville The Lodge|Bellville|NO|stars_2
+83534|Town Lodge Johannesburg International Airport|Johannesburg|NO|stars_2
+83535|Town Lodge Midrand|Johannesburg|NO|stars_2
+83536|Town Lodge Mbombela|Nelspruit|NO|stars_2
+83537|Town Lodge Menlo Park|Pretoria|NO|stars_2
+83587|Protea Marine|Port Elizabeth|YES|stars_4
+83594|Protea Parktonian|Johannesburg|NO|stars_4
+83596|Protea Tyger Valley|Bellville|NO|stars_3
+84167|Stellenbosch Lodge|Stellenbosch|NO|stars_3.5
+85376|Hout Bay Manor|Hout Bay|YES|stars_5
+85381|African Elite Properties - Waterfront Marina / De Waterkant|Cape Town|NO|stars_3.5
+87058|Blue Gum Country Estate|Stanford|NO|stars_4
+87059|Laird's Lodge Country Estate|Plettenberg Bay|NO|stars_4
+87060|Agulhas Country Lodge|L'Agulhas|NO|stars_4
+87061|Glen Avon Lodge|Cape Town|NO|stars_5
+87062|Cleopatra Mountain Farmhouse|Kwazulu Natal|NO|stars_5
+87068|The Last Word - Constantia|Cape Town|NO|stars_5
+87069|The Last Word - Long Beach|Kommetjie|NO|stars_5
+87071|Lone Creek River Lodge|Sabie|NO|stars_4
+87073|Camp Shonga|Kruger National Park|NO|stars_4
+87076|Jaci's Lodges - Safari Lodge/ Tree Lodge|Madikwe Game Reserve|NO|stars_5
+87326|Suncoast Towers|Durban|NO|stars_4
+87327|Birchwood Hotel & OR Tambo Conference Centre|Boksburg|NO|stars_4
+87782|City Lodge Bloemfontein|Bloemfontein|NO|stars_3
+87791|Protea Klerksdorp|Klerksdorp|NO|stars_3
+89467|Mpongo Private Game Reserve|East London|NO|stars_4
+89470|Premier Regent|East London|NO|stars_3
+89471|Premier Pretoria|Pretoria|NO|stars_4
+89473|Misty Hills Country|Muldersdrift|YES|stars_4
+89475|De Zeekoe Guest Farm|Oudtshoorn|NO|stars_4
+90217|Pod|Camps Bay|NO|stars_5
+90224|Perry's Bridge Hollow|Hazyview|YES|stars_4
+90672|Harbour House|Hermanus|NO|stars_4
+90673|Protea Cumberland|Worcester|NO|stars_3
+90674|Umlilo Lodge|St. Lucia Wetland Park|NO|stars_4
+90675|Parkwood Hotel|Rosebank|NO|stars_5
+90676|Gecko Lodge|Hazyview|NO|stars_3
+90677|Casa do Sol Hotel & Resort|Hazyview|NO|stars_4
+90771|Simon's Town Quayside|Simon's Town|YES|stars_4
+90829|Lalibela Game Reserve|Port Elizabeth|NO|stars_4
+90988|Tintswalo At Waterfall|Johannesburg|NO|stars_5
+91037|Fig Tree Lodge|Addo Elephant National Park|NO|stars_4
+91040|The Outpost Lodge|Kruger National Park|NO|stars_4
+91042|Eendracht Boutique|Stellenbosch|NO|stars_3
+91139|Kariega Game Reserve - River Lodge|Kariega Game Reserve|NO|stars_4
+91140|Kariega Game Reserve - Ukhozi Lodge|Kariega Game Reserve|NO|stars_4
+91142|Don Rosebank|Johannesburg|NO|stars_3
+91143|Mercure Randburg|Johannesburg|NO|stars_3
+91144|Royal Madikwe|Madikwe Game Reserve|NO|stars_5
+91147|Wildside Camp|Entabeni Game Reserve|NO|stars_4
+91148|Clifftop Lodge|Waterberge|YES|stars_5
+91151|MalaMala Game Reserve - Main Camp|Mala Mala|NO|stars_5
+91203|Icon Luxury Apartments|Cape Town|NO|stars_4
+91204|Emperors Palace - Peermont D'Oreale Grande|Kempton Park|NO|stars_5
+91205|Fairlawns|Johannesburg|YES|stars_5
+91206|African Pride Audacia Manor|Durban|NO|stars_5
+91207|Zorgvliet Vineyard Lodge & Spa|Stellenbosch|NO|stars_5
+91209|Peninsula|Cape Town|NO|stars_4
+91864|The Beach|Port Elizabeth|NO|stars_4
+92481|The Plettenberg|Plettenberg Bay|YES|stars_5
+94243|Courtyard Eastgate|Johannesburg|NO|stars_4
+95770|Zulu Nyala Safari Game Lodge & Heritage Safari Lodge - Heritage Safari Lodge|Hluhluwe|NO|stars_4
+97201|De Waterkant Village|Cape Town|NO|stars_3
+97203|52 De Wet|Cape Town|NO|stars_5
+97211|St. James of Knysna|Knysna|NO|stars_5
+97213|Adley House|Oudtshoorn|NO|stars_4
+97266|Emperors Palace - Peermont Mondior|Kempton Park|NO|stars_4
+97797|The Bay Lodge on the Beach|Mossel Bay|NO|stars_4
+97843|Willowbrook Lodge|Somerset West|NO|stars_4
+97845|Batavia Boutique|Stellenbosch|NO|stars_5
+100433|Leeuwenvoet House|Cape Town|NO|stars_4
+100822|Hermanus Luxury Apartments|Hermanus|NO|stars_4
+103537|Kuzuko Lodge|Addo Elephant National Park|YES|stars_5
+103538|Kopanong|Johannesburg|NO|stars_4
+103539|Royal Palm|Umhlanga Rocks|YES|stars_4
+103541|Cathedral Peak|Winterton|NO|stars_4
+103542|Kubu Safari Lodge|Hoedspruit|NO|stars_4
+103649|Mopane Bush Lodge|Mapungubwe Nationalpark|NO|stars_4
+103651|Pinnacle Point Beach & Golf Resort|Mossel Bay|NO|stars_3.5
+105616|Capetonian|Cape Town|YES|stars_4
+106789|DumaZulu Lodge & Traditional Village|Hluhluwe|YES|stars_3
+107344|Peermont Walmont at Graceland|Secunda|NO|stars_4
+108861|Mercure Johannesburg Bedfordview|Bedfordview|NO|stars_3
+108862|Mercure Johannesburg Midrand|Johannesburg|NO|stars_3
+108908|Mercure Nelspruit|Nelspruit|NO|stars_3
+110385|Tintswalo Atlantic|Cape Town|NO|stars_5
+110386|La Residence|Franschhoek|NO|stars_5
+110387|Birkenhead House|Hermanus|NO|stars_5
+110476|African Pride Endless Horizons Boutique|Durban|NO|stars_5
+110493|Daisy Country Lodge|Springbok|NO|stars_4
+110494|Buffalo Ridge Safari Lodge|Madikwe Game Reserve|NO|stars_4.5
+110495|Arathusa Safari Lodge|Sabi Sands Game Reserve|NO|stars_4
+110521|The Tulip|Cape Town|NO|stars_2
+110587|Oliver?s Restaurant & Lodge|White River|NO|stars_3.5
+110588|Walkersons|Dullstroom|NO|stars_5
+110590|The Royal Meander Manor Guest Lodge|Shaka's Rock|YES|stars_4
+110596|Mandela Rhodes Place Hotel & Spa|Cape Town|NO|stars_4
+110597|Riverside Estate|Hout Bay|NO|stars_4
+110598|Saint Du Barrys|Clanwilliam|NO|stars_4
+110599|Villa Marine|Pringle Bay|NO|stars_4
+110600|Bloomestate|Swellendam|NO|stars_4
+110601|Kanonkop Guest House|Knysna|NO|stars_5
+110607|Gondwana Game Reserve / Fynbos Camp/ Kwena Huts Camp|Mossel Bay|NO|stars_5
+111347|Town Lodge Sandton|Johannesburg|NO|stars_2
+122906|Diaz Strand|Mossel Bay|NO|stars_4
+122907|Buffelsdrift Game Lodge|Oudtshoorn|NO|stars_4
+122908|Fith Avenue Beach House|Port Elizabeth|NO|stars_3
+122909|Cinnamon Botique|Wilderness|NO|stars_4
+122910|Aquila Private Game Reserve|Touws River|NO|stars_4
+122914|Kichaka Luxury Game Lodge|Grahamstown|NO|stars_5
+122917|Place On The Bay|Camps Bay|NO|stars_4
+122918|Sibuya Game Reserve & Tented Camps|Kenton on Sea|NO|stars_4
+122920|Tonquani Lodge & Spa|Knysna|NO|stars_5
+122923|Zandberg Wine Estate|Somerset West|NO|stars_3
+124995|Southern Sun Newlands|Cape Town|YES|stars_4
+124997|Royal Legend Safari Lodge|Mpumalanga|NO|stars_5
+125006|Radisson Blu Port Elizabeth|Port Elizabeth|YES|stars_5
+125571|Xanadu Guest Villa|Wilderness|NO|stars_5
+125572|Poseidon Lodge|Port Elizabeth|NO|stars_4
+128902|Rocktail Beach Camp|Maputaland|NO|stars_3.5
+128904|Mount Grace Country House & Spa|Magaliesburg|NO|stars_5
+128905|Radisson Blu Sandton Johannesburg|Sandton|YES|stars_5
+135046|Camps Bay Resort|Cape Town|NO|stars_3
+135424|Harbour Bridge Hotel & Suites|Cape Town|YES|stars_4
+135426|Asara Wine Estate|Stellenbosch|YES|stars_5
+135428|Oceana Beach & Wildlife Reserve|Port Alfred|NO|stars_5
+135930|Welgelegen Guesthouse|Cape Town|NO|stars_4
+135932|Table Mountain Lodge|Cape Town|NO|stars_4
+135934|The Dunkley House|Cape Town|NO|stars_4
+135935|Trevoyan Guesthouse|Cape Town|NO|stars_3.5
+135946|Jan Harmsgat Country House|Swellendam|NO|stars_5
+135950|Leisure Isle Boutique Lodge|Knysna|NO|stars_4
+135951|Thatchwood Country Lodge|St. Francis Bay|NO|stars_4
+135958|Ten Bompas|Sandton|NO|stars_5
+135980|Lion Sands Game Reserve - River Lodge|Kruger National Park|NO|stars_5
+135983|Pondoro Game Lodge|Balule Nature Reserve|NO|stars_5
+135989|Thakadu River Camp|Madikwe Game Reserve|NO|stars_5
+135994|Amakhala Game Reserve - Bukela Game Lodge|Amakhala Game Reserve|NO|stars_5
+135997|Amakhala Game Reserve - Leeuwenbosch Country House|Amakhala Game Reserve|NO|stars_3
+136106|Chapmans Peak|Hout Bay|NO|stars_4
+136360|Cape Royale Luxury Hotel & Residence|Cape Town|YES|stars_5
+136488|Rozendal Auberge & Winefarm|Stellenbosch|YES|stars_4
+136490|Five Seasons|Stellenbosch|YES|stars_3.5
+136703|Cape Heritage|Cape Town|NO|stars_4
+137016|Garden Court Morningside|Johannesburg|NO|stars_3
+137074|Southern Sun Katherine Street Sandton|Sandton|NO|stars_4
+137091|Diamond Lodge|Kimberley|NO|stars_3
+137124|Protea Midrand|Midrand|YES|stars_4
+137125|Circa On The Square|Cape Town|NO|stars_4
+137143|The Stellenbosch|Stellenbosch|NO|stars_3
+137236|Royal Durban|Durban|YES|stars_4
+137637|Casterbridge Hollow|White River|YES|stars_4
+137638|Colosseum|Cape Town|NO|stars_4
+137647|Garden Court Sandton|Johannesburg|YES|stars_3
+137651|Southern Sun The Ridge|Witbank|NO|stars_4
+137652|Indaba|Fourways|NO|stars_4
+137657|Town Lodge Roodepoort|Roodepoort|NO|stars_2
+137671|Randburg Towers|Randburg|NO|stars_3
+137699|Garden Court Eastgate|Johannesburg|NO|stars_3
+137807|Kruger Park Lodge|Hazyview|YES|stars_4
+137835|Summerstrand Inn|Port Elizabeth|NO|stars_3
+137852|Southern Sun Montecasino|Johannesburg|NO|stars_4
+138016|Drakensberg Gardens Golf & Spa Resort|Underberg|YES|stars_3
+138017|Jock Sabie Lodge|Sabie|NO|stars_3
+138085|Rodwell House|Saint James|NO|stars_5
+138460|Emperors Palace - Peermont Metcourt|Kempton Park|NO|stars_3
+138496|Kedar Country|Rustenburg|YES|stars_4
+139788|Floreal Guest House|Cape Town|NO|stars_4
+139791|Apricot Gardens Guesthouse|Gordon''s Bay|NO|0
+139793|Signal Hill Lodge|Cape Town|NO|stars_4
+142289|Rusthuiz Guest House|Stellenbosch|NO|stars_4
+142291|Leopard Mountain Lodge|Hluhluwe|NO|stars_4
+142302|Chestnut Country Lodge|Kiepersol|NO|stars_4
+142306|St. Lucia Wetlands Guest House|St. Lucia Wetland Park|NO|stars_4
+142308|Cranberry Cottage|Ladybrand|NO|stars_4
+142312|Elephant Plains Game Lodge|Sabi Sands Game Reserve|NO|stars_4
+142338|Manolo Boutique|Cape Town|NO|stars_4
+142343|Huijs Haerlem|Cape Town|NO|stars_4
+142353|Xaus Lodge|Kgalagadi|NO|stars_1
+142355|Augusta de Mist Guesthouse|Swellendam|NO|0
+142359|Lavenir Country Lodge & Wine Estate|Stellenbosch|NO|stars_4
+142360|La Petite Ferme|Franschhoek|NO|stars_4
+142363|Elephant Hide Lodge|Knysna|NO|stars_4
+142364|Le Must River Residence|Upington|NO|stars_5
+142381|Highlander Country Retreat|Dullstroom|NO|stars_5
+142831|Summerwood Guesthouse|Stellenbosch|NO|stars_4.5
+142877|Crayfish Lodge|De Kelders|NO|stars_5
+142879|Holiday Inn Sandton-Rivonia Road|Sandton|NO|stars_4
+142883|Baleia de Hermanus|Hermanus|NO|0
+143005|Klein Waterval Riverside Lodge|Franschhoek|NO|stars_3
+143081|Blackheath Lodge|Cape Town|NO|stars_4
+143367|Glenalmond|Johannesburg|NO|stars_3
+143371|Pendula Lodge|Knysna|YES|stars_3
+143372|Arcadia|Pretoria|NO|stars_3
+143374|Protea Capital|Pretoria|NO|stars_3
+145242|Protea Witbank|Witbank|NO|stars_3
+145290|One & Only Cape Town|Cape Town|YES|stars_5
+163206|Sweet Orange Guest House|Cape Town|NO|stars_3
+163208|The Lakes|Benoni|NO|stars_3
+163209|Sugar Hotel|Cape Town|NO|stars_5
+163212|Outlook Lodge|Benoni|NO|stars_4
+163213|Holiday Inn Express Cape Town City Centre|Cape Town|YES|stars_3
+163215|Evergreen Manor & Spa|Stellenbosch|NO|stars_5
+163221|Constantia Guest Lodge|Pretoria|NO|stars_3
+163224|Protea Roodepoort|Roodepoort|NO|stars_3
+163225|The Saffron House|Salt Rock|NO|stars_4
+163228|Dysart Hotel|Cape Town|NO|stars_5
+163235|Don Eastgate|Johannesburg|NO|stars_3
+163243|Don Sandton I|Sandton|NO|stars_3
+163244|Chartfield Guesthouse|Kalk Bay|YES|stars_4
+163252|Elements Lodge|Milnerton|NO|stars_3
+163253|No5 Boutique Art|Port Elizabeth|NO|stars_5
+163255|Don Arcadia I|Pretoria|NO|stars_3
+163260|Don Arcadia II|Pretoria|NO|stars_3
+163261|African Oceans Manor on Beach|Mossel Bay|NO|stars_5
+163265|The Michelangelo Towers|Johannesburg|YES|stars_5
+163272|Cultivar Guest Lodge|Stellenbosch|NO|stars_4
+163274|Thornycroft Lodge|East London|NO|stars_3
+163277|Cape St. Francis Resort|St. Francis Bay|NO|stars_3
+163287|Acorn Guest House|George|NO|stars_4
+163292|Riviera On Vaal Resort|Vereeniging|YES|stars_4.5
+163293|Swartberg Country Manor|Oudtshoorn|NO|stars_4
+163296|Raphael Penthouse Suites|Johannesburg|YES|stars_5
+163297|Nkambeni Tented Lodge|Kruger National Park|NO|stars_3
+163298|Hide Away Guest House|Knysna|NO|stars_4
+163301|Silonque Bush Estate|Phalaborwa|NO|0
+163302|Bayete Zulu Boutique Lodge|Hluhluwe|NO|stars_4
+163306|Three Trees At Spioenkop|Bergville|NO|stars_4
+163309|Simola Hotel, Country Club & Spa|Knysna|NO|stars_5
+163310|Sherwood?s Country House|Tzaneen|NO|stars_4
+163311|Monwana Lodge|Hoedspruit|YES|stars_4
+163314|Cape Diem Lodge|Cape Town|YES|stars_5
+163316|Soweto Hotel & Conference Centre|Soweto|NO|stars_4
+163318|Holiday Inn Express Sandton-Woodmead|Sandton|YES|stars_3
+163319|Natal Spa Resort|Paulpietersburg|YES|stars_3
+182437|Trogon House & Forest Spa|Plettenberg Bay|NO|stars_4
+182749|More Quarters|Cape Town|YES|stars_4
+182757|African Pride 15 on Orange|Cape Town|YES|stars_5
+182784|Karkloof Spa|Pietermaritzburg|NO|stars_6
+182790|Mateya Safari Lodge|Madikwe Game Reserve|NO|stars_5
+182802|Devonvale Golf Lodge|Stellenbosch|NO|stars_4
+182845|Protea Umhlanga Ridge|Umhlanga Rocks|YES|stars_4
+182846|Grand Daddy Hotel & Airstream Penthouse Park|Cape Town|YES|stars_4
+182847|Excelsior Manor Guesthouse|Robertson|NO|stars_4
+182848|The Glen Apartments|Camps Bay|NO|stars_4
+183021|Quarters on Avondale|Durban|NO|stars_4
+183076|Ant's Nest|Vaalwater|NO|0
+183919|The Caledon Casino, Spa and Hotel|Caledon|NO|stars_4
+183920|Zulu Nyala Country Manor|Chartwell|NO|stars_4
+183921|Don Johannesburg Airport|Johannesburg|NO|stars_3
+183922|Forest Hall Guest House|Port Elizabeth|NO|stars_4
+187576|Walmont At Mmabatho Palms|Mafikeng|NO|stars_4
+187577|The Midrand Executive Hotel|Midrand|NO|stars_3
+187751|Mouillepoint Village|Cape Town|NO|stars_3.5
+187801|Villa Exner|Cape Town|NO|stars_5
+188258|Taj Cape Town|Cape Town|YES|stars_5
+188260|African Pride Mosselberg on Grotto Beach|Hermanus|NO|stars_5
+188264|African Pride Pumba Private Game Reserve - Msenge Bush Lodge|Pumba Private Game Reserve|NO|stars_5
+188265|African Pride Pumba Private Game Reserve - Pumba Water Lodge|Pumba Private Game Reserve|NO|stars_5
+188266|Southern Sun Hyde Park Sandton|Johannesburg|NO|stars_4
+188269|Rhulani|Madikwe Game Reserve|NO|stars_5
+188335|Hitgeheim Country Lodge|Addo Elephant National Park|NO|stars_5
+188340|Samara Private Game - Karoo Lodge / Manor House / Mountain Retreat|Graaff - Reinet|NO|stars_4
+188341|Umngazi River Bungalows & Spa|Port St. Johns|NO|stars_4
+188342|Idwala Guest House|Johannesburg|NO|stars_5
+195963|The Rex|Knysna|NO|stars_4
+195964|Ibhayi Town Lodge|Port Elizabeth|NO|stars_4
+195966|Singa Town Lodge|Port Elizabeth|NO|stars_5
+202034|Tau Game Lodge|Madikwe Game Reserve|NO|stars_5
+202379|Isibindi Zulu Lodge|Eshowe|NO|stars_4.5
+202562|Belaire|Durban|NO|stars_4
+203094|Holiday Inn Express Pretoria - Sunnypark|Pretoria|YES|stars_3
+203098|The Victorian 1906|Montagu|YES|stars_4
+203099|Crawford's Beach Lodge|Chintsa Bay|YES|stars_4
+203629|Hotel 224|Pretoria|YES|stars_3
+203640|138 Marine Beachfront Guesthouse|Hermanus|NO|stars_4
+203643|16 Reasons Guest House|Hermanus|NO|stars_4
+203648|18 On Kloof Bed & Breakfast|Gordon''s Bay|NO|stars_4
+203653|20 on Church|Montagu|NO|stars_4
+203689|7 Church Street Guest House|Montagu|NO|stars_4
+203698|A Bohemian Rhapsody Guest House|Pretoria|NO|stars_3.5
+203764|Abangane Guest Lodge|Hazyview|NO|stars_4
+203790|Abbey Manor Luxury Guesthouse|Cape Town|NO|stars_5
+203836|Accommodation @ Van's|Centurion (near Pretoria)|NO|stars_4
+203926|Africa Regent Guest House|Durban|NO|stars_4
+203927|African Breeze Guesthouse|Knysna|NO|stars_5
+203928|African Dreamz Bed and Breakfast|Umhlanga Rocks|NO|stars_3
+203937|Afrique Boutique O.R. Tambo|Boksburg|NO|stars_4
+203941|Afton Grove Country Retreat|Noordhoek|NO|stars_4
+204016|Airlies B&B|Montagu|NO|stars_4
+204021|Airport Game Lodge|Kempton Park|NO|stars_3
+204024|Airport Inn Bed and Breakfast|Kempton Park|NO|stars_3
+204129|Albatross Guest House|Simon's Town|NO|stars_4
+204406|Alpine Attitude|Pretoria|NO|stars_4
+205092|Aqua Dreams Premier Guesthouse|Plettenberg Bay|NO|stars_4
+205247|Art Gallery Guest House Thandekayo|Hout Bay|NO|stars_4
+205372|At The Rocks|Langebaan|NO|stars_4
+205404|Atlantic Affair Boutique Lodge|Cape Town|NO|stars_4
+205410|Atlantic House|Camps Bay|NO|stars_5
+205499|Auberge Hollandaise|Durban|NO|stars_5
+205799|Ballinderry, The Robertson Guest House|Robertson|NO|stars_4
+205857|Barry Hall Luxury Apartments|Cape Town|NO|stars_4
+205925|Beachcomber Bay|Margate|NO|stars_3
+205931|Beachside|Camps Bay|NO|stars_5
+205943|Beauclair Guest House|Stellenbosch|NO|stars_5
+206030|Bella Manga Country House|Plettenberg Bay|NO|stars_4
+206073|Belmonte Guesthouse|Paarl|NO|stars_4
+206109|Berg en Zee Guesthouse|Gordon''s Bay|NO|stars_4
+206209|Africanhome Guesthouse|Cape Town|NO|stars_4
+206239|Bisibee Guest House|Oudtshoorn|NO|stars_3
+206279|Blue Lagoon|East London|NO|stars_4
+206284|Blue Oyster B&B|Knysna|NO|stars_4
+206372|Bosavern Guest House|Plettenberg Bay|NO|stars_4
+206394|Boulders Lodge & Spa|Oudtshoorn|NO|stars_4
+206792|Camps Bay Glen|Camps Bay|NO|stars_4.5
+206809|Candlewood Lodge|Knysna|NO|stars_5
+207041|Casta Diva|Pretoria|NO|stars_4
+207118|Celtic Manor Guesthouse and Spa|Gordon''s Bay|NO|stars_4
+207633|Compass House|Cape Town|NO|stars_5
+207707|Hilton Cape Town City Centre|Cape Town|YES|stars_5
+207791|Cotswold House|Milnerton|NO|stars_4
+207922|Cuningham's Island Guest House|Knysna|NO|stars_3
+208072|De Kloof Luxury Estate|Swellendam|NO|stars_5
+208184|De Waterkant Cottages|Cape Town|NO|stars_4
+208267|Dersley Manor|Bloemfontein|NO|stars_5
+208376|Dock House Boutique & Spa|Cape Town|NO|stars_5
+208514|Dreamfields Guesthouse|Hazyview|NO|stars_4
+208797|Elephant's Nest|Graskop|NO|stars_2
+209017|Europrime Hotels|Boksburg|NO|stars_3
+209069|Ezard House|Camps Bay|NO|stars_5
+209072|Ezulwini Game Lodge|Hoedspruit|NO|stars_5
+209078|Fahrenheit B&B|Cape Town|NO|0
+209090|Fairways on the Bay|Camps Bay|NO|stars_4
+209115|Farr Out|Paternoster|NO|stars_4
+209351|Forest Suites Hotel|Ballito|NO|stars_5
+209377|Four Oaks Guesthouse and Templeton's Restaurant|Montagu|NO|stars_3
+209447|Fynbos Villa Guest House|Stellenbosch|NO|stars_3
+209510|Gardens Centre Holiday Apartments|Cape Town|NO|stars_3
+209715|Gateway Country Lodge|Umhlanga Rocks|NO|stars_4
+209750|George Lodge International|George|NO|stars_3
+209781|Ginnegaap Guesthouse|Johannesburg|NO|stars_3
+210045|Greenmarket Suites|Cape Town|NO|stars_4
+210049|Greenwood Manor|Johannesburg|NO|stars_3
+210186|Hajos Lodge|Milnerton|NO|stars_4
+210263|Harbour Vue Guesthouse|Hermanus|NO|stars_4
+210264|Harbouredge Hotel & Apartments|Cape Town|NO|stars_4
+210492|Hildesheim Guest House|Wilderness|NO|stars_4
+210519|Hippo Boutique|Cape Town|NO|stars_4
+210639|Honeyguide Tented Safari Camps - Mantobeni|Manyeleti Game Reserve|NO|stars_4
+210640|HoneyPot B&B|Umhlanga Rocks|NO|stars_3
+211719|Impangele|Swellendam|NO|stars_3
+211764|Ingwenya Lodge|St. Lucia Wetland Park|NO|stars_3
+211911|Jardin d'?b?ne Boutique Guesthouse|Cape Town|NO|stars_4
+211984|KaapsePracht Bed & Breakfast|Somerset West|NO|stars_4
+212116|Urban Hip Hotels - Kings|Port Elizabeth|NO|stars_4
+212175|Knysna Country House|Knysna|NO|stars_4
+212176|Knysna Manor House|Knysna|NO|stars_3
+212808|Laughing Waters Guest House|Hazyview|NO|stars_3
+212817|Lavender Manor Guest Lodge|Hermanus|NO|stars_4
+213136|Leriba Lodge|Centurion (near Pretoria)|NO|stars_4
+213138|L'Ermitage Franschhoek Chateau & Villas|Franschhoek|NO|stars_5
+213181|Les Hauts de Montagu|Montagu|NO|stars_4
+213310|Linkside 2 Guest House|Mossel Bay|NO|stars_4
+213311|Liongate Bed and Breakfast|Johannesburg|NO|stars_3
+213469|Loloho Lodge|Cape Town|NO|stars_4
+213472|Lombardy Boutique Hotel & Conference Venue|Pretoria|NO|stars_5
+213534|Lourens River Guesthouse B&B|Somerset West|NO|stars_3
+213620|Maartens Guesthouse|Cape Town|NO|stars_3
+213684|Majeka House|Stellenbosch|NO|stars_5
+213709|Malvern Manor Country Guest House|George|NO|stars_4
+213714|Manaar House|Umhlanga Rocks|NO|stars_4
+213738|Manor 38|Port Elizabeth|NO|stars_4
+213822|Marine Square Luxury Holiday Suites|Hermanus|NO|stars_5
+213994|Melville Manor Guest House|Johannesburg|NO|stars_3
+214197|Monarch|Johannesburg|NO|stars_5
+214327|Mountview Guest House|Cape Town|NO|stars_4
+214394|Nandina Guest House|Hazyview|NO|stars_3
+214423|Navona Constantia Guest Cottage|Cape Town|NO|stars_3
+214473|New Kings Hotel|Cape Town|YES|stars_4
+214588|Nova Constantia|Cape Town|NO|stars_5
+214629|Oakdene Guest House|Oudtshoorn|NO|stars_4
+214630|Oakhurst Hotel|George|NO|stars_4
+214654|Ocean Eleven Guesthouse|Hermanus|NO|stars_5
+214685|Olaf's Guest House|Cape Town|NO|stars_4
+214745|On The Cliff Guest House|Hermanus|NO|stars_4
+214757|Ons Genot Country Lodge|Stellenbosch|NO|stars_4
+214760|Onze Rust Guesthouse|Stellenbosch|NO|stars_4
+215072|Parker Cottage|Cape Town|NO|stars_4
+215168|Penny Lane Lodge|Somerset West|NO|stars_3
+215455|Peter's Guesthouse|Pretoria|NO|stars_3
+215477|Phantom View River Resort|Knysna|NO|stars_3
+215604|Plumwood Inn|Franschhoek|NO|stars_4
+215735|Premier Pinetown|Durban|NO|stars_3
+216405|Protea Clarens|Clarens|NO|stars_4
+216406|Protea Transit O.R. Tambo Airport|Kempton Park|NO|stars_3.5
+216407|Protea Samrand|Midrand|NO|stars_3
+216409|Protea Waterfront Richards Bay|Richards Bay|NO|stars_4
+216410|Protea Willow Lake|Bloemfontein|NO|stars_4
+216435|Pumula Lodge|Knysna|NO|stars_3
+217191|Rhino Walking Safaris - Plains Camp/ Sleep Outs|Kruger National Park|NO|stars_3
+217353|Rivierbos Guest House|Stellenbosch|NO|stars_3
+217356|Rivonia B&B|Johannesburg|NO|stars_4
+217451|Roseland House|Durban|NO|stars_4
+217456|Rosendal Winery & Wellness Retreat|Robertson|NO|stars_4
+217478|Rouge on Rose Boutique|Cape Town|NO|stars_4
+217751|Sandton Lodge Inanda|Johannesburg|NO|stars_4
+217752|Sandton Lodge Rivonia|Johannesburg|NO|stars_4
+217754|Sandton Suites|Johannesburg|NO|stars_4
+217865|Schoone Oordt Country House|Swellendam|NO|stars_5
+217898|Seacliffe Lodge|Hout Bay|NO|stars_4
+217921|See More Guest House|East London|NO|stars_4
+217969|Serene-estate Guesthouse|St. Lucia Wetland Park|NO|stars_5
+218030|Shumbalala Game Lodge|Thornybush|NO|stars_5
+218062|Simbavati River Lodge|Hoedspruit|NO|stars_4
+218359|Stannards Guest Lodge|Knysna|NO|stars_4
+218501|Sugarbird Manor|Stellenbosch|NO|stars_4
+218528|Summit Place Guesthouse|Cape Town|NO|stars_4
+218549|Sundown Manor|Cape Town|NO|stars_4
+218579|Sunshine Letting|Cape Town|NO|stars_3
+218605|Sweet Ocean View Guesthouse|Cape Town|NO|stars_4
+218615|Sylvan Grove Guest House|Umhlanga Rocks|NO|stars_4
+218670|Tatenda Guest House|Hazyview|NO|stars_3
+218748|Thanda Vista B&B|Plettenberg Bay|NO|stars_4
+218891|The Cape Standard Guest House|Cape Town|NO|stars_4
+218911|The Charles|Cape Town|NO|stars_3
+219140|The Hideaway|Swellendam|NO|stars_5
+219166|The Hyde|Cape Town|NO|stars_4
+219341|The One 8|Cape Town|NO|stars_4
+219361|The Pearls of Hout Bay|Hout Bay|NO|stars_4
+219364|The Peech|Johannesburg|NO|stars_4
+219456|The Sandringham Bed and Breakfast|Umhlanga Rocks|NO|stars_4
+219559|The Walden Suites|Cape Town|NO|stars_5
+219686|Tladi Lodge|Johannesburg|NO|stars_5
+219849|Tudor Hotel|Cape Town|NO|stars_3
+219882|Turnberry Lodge & Tavern|Oudtshoorn|NO|stars_4
+219938|Upperbloem|Cape Town|NO|stars_3
+219971|Val d' Or Estate|Franschhoek|NO|stars_4
+220096|Victorian Villa Guest Manor|Port Elizabeth|NO|stars_4
+220152|Villa Afrikana Guest Suites|Knysna|NO|stars_5
+220171|Villa Atlantica|Camps Bay|NO|stars_4
+220180|Villa Belle Ombre|Cape Town|NO|stars_3
+220214|Villa Costa Rose|Cape Town|NO|stars_4
+220332|Villa Lugano Guesthouse|Johannesburg|NO|stars_4
+220364|Villa Montebello|Hout Bay|NO|stars_4
+220380|Villa Paradisa Guest House|Knysna|NO|stars_5
+220481|Villa Vittoria Guest House|Johannesburg|NO|stars_3
+220486|Villa Zest|Cape Town|NO|stars_5
+220642|Wedgeview Country House & Spa|Stellenbosch|NO|stars_5
+220708|Westpoint Executive Suites|Johannesburg|NO|stars_4
+220715|Whale View Manor Guesthouse|Simon's Town|NO|stars_4
+220732|White House Lodge|White River|NO|stars_4
+220814|Winelands Golf Lodges|Stellenbosch|NO|stars_4
+220957|Zuider Zee Guest House|Salt Rock|NO|stars_3
+220996|3 Palms Luxury Cottage|Bloubergstrand|NO|stars_4
+221029|African Pride Crystal Towers Hotel & Spa|Cape Town|YES|stars_5
+221189|Araluen Cottage|Benoni|NO|stars_4
+221365|Bluewater Beachfront Guest House|Port Elizabeth|NO|stars_3
+221761|Dolphin Inn Guesthouse - Blouberg|Bloubergstrand|NO|stars_3
+222068|Grand Kruger Lodge CC|Kruger National Park|NO|stars_4
+222735|Manhattan Suites & Conference|Cape Town|NO|stars_4
+222897|Orchards Farm Cottages|Komatipoort|NO|0
+223124|Protea Island Club|Cape Town|NO|stars_4
+223299|Riversong Guest House & Cottage|Cape Town|NO|stars_4
+223317|Royal Kruger Lodge|Kruger National Park|NO|stars_4
+223424|Shelley Point Hotel, Spa & Country Club|Saint Helena Bay|NO|stars_4
+223446|Sleep Eezy Cottages|Benoni|NO|stars_4
+223507|Stonehaven Lodge and Conference Centre|Potchefstroom|YES|stars_3
+223618|Trees Too Guest Lodge|Komatipoort|NO|stars_4
+223818|Wild Olive Guest House|Cape Town|NO|stars_4
+226535|Quarters Hermanus|Hermanus|NO|stars_4
+226697|Protea Fire & Ice! Melrose Arch|Johannesburg|YES|stars_4
+226807|Pepper Club Luxury & Spa|Cape Town|YES|stars_5
+226809|The Atlantic Beach|Melkbosstrand|YES|stars_4
+227001|Mhondoro Lodge|Welgevonden Game Reserve|NO|stars_4.5
+227002|Rissington Inn|Hazyview|NO|stars_4
+227007|Holden Manz Country House|Franschhoek|NO|stars_5
+227009|Rutland Lodge|Cape Town|NO|stars_5
+227368|Boschenmeer Grande Lodge|Paarl|YES|stars_4
+227968|Oubaai Hotel Golf & Spa|George|NO|stars_5
+227970|Views Boutique Hotel & Spa|Wilderness|NO|stars_5
+228158|Park Inn Sandton Hotel|Johannesburg|NO|stars_3
+228159|African Rock|Kempton Park|NO|stars_5
+228160|Granny Mouse Country House|Kwazulu Natal|NO|stars_4
+228161|Makhasa Lodge|Hluhluwe|NO|stars_3
+228162|Garden Court Umhlanga|Umhlanga Rocks|NO|stars_3
+228164|De Hoop Nature Reserve|De Hoop|NO|stars_3.5
+228168|Shepherd's Tree Game Lodge|Pilanesberg|NO|stars_5
+228212|Legend Golf & Safari Resort|Waterberge|NO|stars_5
+228216|Amazulu Lodge|St. Lucia Wetland Park|NO|stars_4
+228217|Elandela Lodge|Kruger National Park|NO|stars_4
+228227|Strand Tower|Cape Town|YES|stars_4
+228228|Milkwood Manor|Plettenberg Bay|NO|stars_4
+228231|Hanglip Mountain Lodge|Entabeni Game Reserve|NO|stars_4.5
+228391|Protea Bloemfontein Central|Bloemfontein|NO|stars_3
+228421|DaVinci & Suites on Nelson Mandela Square|Sandton|YES|stars_4
+228422|Blue Waters 402|Bloubergstrand|NO|stars_5
+228709|Avue Guesthouse|Somerset West|NO|stars_3
+228739|VIP Living Luxury Hotel Apartments|Cape Town|NO|stars_4.5
+229163|Docklands|Durban|NO|stars_3
+229164|On the Park|Durban|NO|stars_4
+229165|The Caledon Boutique & Spa Umhlali|Umhali Beach|YES|stars_4
+229166|Jozini Tiger Lodge|Jozini|YES|stars_4
+229167|Fairview All-Suite Fairlands|Johannesburg|NO|stars_4
+229600|Zwahili Game Lodge|Bela-Bela|NO|stars_5
+229612|Zebra Country Lodge|Pretoria|NO|stars_3.5
+229616|Whalesong Lodge|De Kelders|NO|stars_4
+229617|Whale Sanctuary Lodge|De Kelders|NO|stars_3
+229881|Flo-Ben Guest House|Bloemfontein|NO|stars_4
+229884|51 Forest Drive|Cape Town|NO|stars_4
+229930|Bluebottle Guesthouse|Cape Town|NO|stars_3
+229945|Cape Agulhas Guest House|L'Agulhas|NO|stars_4
+229947|Chameleon Lodge|Strand|NO|stars_4
+229970|Hawksmoor House|Stellenbosch|NO|stars_4
+229989|Keisie Cottages|Montagu|NO|stars_2
+230038|Peermont Metcourt Khoroni|Thohoyandou|NO|stars_3
+230040|Metcourt at Frontier|Bethlehem|NO|stars_3
+230052|Moonstruck on Pringle Bay Guesthouse|Pringle Bay|NO|stars_4
+230075|Oude Wellington Wine Estate|Paarl|NO|stars_4
+230089|Petite Provence B&B|Ballito|NO|stars_4
+230150|Radisson Blu Gautrain Sandton Johannesburg|Sandton|NO|stars_4
+230151|The Manhattan|Pretoria|NO|stars_3
+230155|Premier Edwardian|Port Edward|NO|stars_3
+230160|Ruslamere Guest House, Spa and Conference Centre|Durbanville|NO|stars_4
+230161|Sandcastle B&B|Melkbosstrand|NO|stars_3
+230162|Sea Otters Lodge|Port Elizabeth|NO|stars_4
+230168|Sonnekus Guest House|Cape Town|NO|stars_4
+230180|Tranquility Guest House|Fish Hoek|NO|stars_4
+230785|Don Sandton IV|Sandton|NO|stars_3
+230787|Life Phefumula Beach Resort|Elysium|NO|stars_2.5
+231722|Mbotyi River Lodge|Port St. Johns|NO|stars_3
+231723|Thandeka Lodge|Waterberge|NO|stars_4
+232215|64 on Gordon|Durban|NO|stars_4
+232216|Canelands Beach Club|Salt Rock|NO|stars_4
+232621|Cape Quarter Living|Cape Town|NO|stars_4
+232622|Rockwell All Suites|Cape Town|NO|stars_4
+232624|Holiday Inn Express Durban - Umhlanga|Durban|NO|stars_3
+232626|Holiday Inn Johannesburg - Rosebank|Johannesburg|NO|stars_4
+232627|Protea Hatfield|Pretoria|NO|stars_3
+232790|Melvin Residence|Pretoria|NO|stars_4
+233485|African Elite Cape Quarter Apartments|Cape Town|NO|0
+233488|African Elite Bakoven Apartments|Cape Town|NO|0
+233489|Eden on the Bay|Bloubergstrand|NO|0
+233490|Aquarius Luxury Suites|Bloubergstrand|NO|stars_3
+233491|Life & Leisure|Stellenbosch|NO|stars_4
+234336|Premier Knysna - The Moorings|Knysna|NO|stars_4
+234338|Sweet Lemon Bed & Breakfast|Cape Town|NO|stars_3
+234442|The Reef|Johannesburg|NO|stars_4
+234445|The Saint James on Venice|Durban|NO|stars_4
+234455|Smart Stay Apartments|Somerset West|NO|stars_4
+234644|Double Tree by Hilton Upper Eastside|Cape Town|NO|stars_4
+234891|The Last Word - Sea Five|Camps Bay|NO|stars_4
+234892|The Last Word - Bishopscourt|Cape Town|NO|stars_5
+234893|The Last Word - Franschhoek|Franschhoek|NO|stars_5
+234896|The Turbine Boutique & Spa|Knysna|NO|stars_5
+234941|Peermont Metcourt at Rio|Klerksdorp|NO|stars_3
+235379|De Waterkant House|Cape Town|NO|stars_3
+235380|Premier Hotel O.R. Tambo|Johannesburg|NO|stars_4
+235381|The Crystal|Camps Bay|NO|stars_4
+235382|12 Decades|Johannesburg|NO|stars_3
+237018|Maropeng|Gauteng|NO|stars_4
+237019|Umkumbe Safari Lodge|Sabi Sands Game Reserve|NO|stars_3
+237020|Pilanesberg Game Reserve|Pilanesberg|NO|stars_5
+237105|Madikwe Safari Lodge|Madikwe Game Reserve|NO|stars_5
+237148|Lalapanzi Guest House|St. Lucia Wetland Park|NO|stars_3
+237265|Queen Victoria|Cape Town|NO|stars_5
+237267|Sweet Olive Guest House|Cape Town|NO|stars_4
+237269|Square Boutique Hotel & Spa|Umhlanga Rocks|NO|stars_4
+237892|Delaire Graff Estate|Stellenbosch|NO|stars_5
+237899|Babylonstoren|Franschhoek|NO|stars_5
+237903|131 on Herbert Baker Street|Pretoria|NO|stars_5
+238330|Park Inn by Radisson Cape Town Foreshore|Cape Town|NO|stars_4
+238701|The Old Hatchery|Drakensberg|NO|stars_3
+238718|Pafuri Rivercamp|Kruger National Park|NO|stars_4
+239116|Wartburg|Kwazulu Natal|NO|stars_3
+239297|Mjejane River Lodge|Kruger National Park|NO|stars_4
+240386|The Devonshire|Bloemfontein|NO|stars_3
+240387|Orion Safari Lodge|Rustenburg|NO|stars_3
+240390|Promenade|Nelspruit|NO|stars_3
+240398|Zebula Golf Estates & Spa|Bela-Bela|NO|0
+240406|Lawhill Luxury Apartments|Cape Town|NO|stars_5
+240409|Colourful Manor Luxury Lodge|Gordon''s Bay|NO|stars_4
+240426|The Marion on Nicol|Johannesburg|NO|stars_5
+240428|The Capital Moloko|Sandton|NO|stars_5
+240430|AtholPlace|Sandton|NO|stars_5
+240447|Genesis Suites & Conferencing|Johannesburg|NO|stars_4
+240448|Fabz Garden Hotel & Conference Centre|Sandton|NO|stars_3
+241278|Beach Break|St. Francis Bay|NO|stars_5
+241282|Black Rhino Game Lodge|Pilanesberg|NO|stars_4
+241290|Chisomo Safari Camp|Karongwe Game Reserve|NO|stars_4
+241698|Riverstone Lodge|Gauteng|NO|stars_4
+241736|Champagne Castle|Drakensberg|NO|stars_4
+244355|SanRock Resort|Modimolle|NO|stars_3
+244356|Kwantu Game Reserve Lodges|Sidbury|NO|stars_5
+245565|The Robberg Beach Lodge - Cottage Pie|Plettenberg Bay|NO|stars_4.5
+246466|Molori Safari Lodge|Madikwe Game Reserve|NO|0
+247078|Abalone House|Paternoster|NO|stars_5
+247088|Prana Lodge|Chintsa Bay|NO|stars_5
+247096|Tuningi Safari Lodge|Madikwe Game Reserve|NO|stars_5
+247234|The Glen Boutique|Cape Town|NO|stars_4
+247246|Pink Rose Guesthouse & Spa|Somerset West|NO|stars_4
+247410|Puza Moya Guest House|Langebaan|NO|stars_3
+247918|Protea Imperial|Pietermaritzburg|NO|stars_3
+249060|Christiana Lodge|Plettenberg Bay|NO|stars_4
+249313|Strandloper Ocean Boutique Hotel|Paternoster|NO|stars_5
+249895|Lovane Boutique Wine Estate and Guest House|Stellenbosch|NO|stars_4
+249965|Dulini Lodge|Sabi Sands Game Reserve|NO|stars_5
+259327|Protea The Richards|Richards Bay|NO|stars_4
+259328|Protea Empangeni|Empangeni|NO|stars_3
+259330|Protea Ranch Resort|Polokwane|NO|stars_4
+259331|Protea Hilton|Pietermaritzburg|NO|stars_4
+259332|Protea The Park|Limpopo (Provinz)|NO|stars_3
+259333|Protea Landmark Polokwane|Polokwane|NO|stars_3
+259337|Protea Mafikeng|Mafikeng|NO|stars_4
+259338|Protea Karridene Beach|Durban|NO|stars_3
+259341|Protea Kimberley|Kimberley|NO|stars_4
+259366|The Fritz|Cape Town|NO|stars_3
+259581|Leisure Bay Luxury Suites|Milnerton|YES|stars_4
+259584|Dove's Nest Guest House|Kempton Park|NO|stars_2
+259966|Nkomazi Game Reserve|Barberton|NO|stars_5
+260256|Villa Via|Midrand|NO|stars_3
+260727|Coopmanhuijs Boutique Hotel & Spa|Stellenbosch|NO|stars_5
+260728|Mosaic Private Sanctuary|Hermanus|NO|stars_3
+260738|Fancourt & Fancourt Manor House - Fancourt Manor House|George|NO|stars_6
+260999|The Pearl of Oudtshoorn|Oudtshoorn|NO|stars_3
+261002|The Pearl of Wilderness|Wilderness|NO|stars_3
+261216|The New Tulbagh|Cape Town|NO|stars_3
+261405|Leopard Corner Guesthouse|St. Lucia Wetland Park|NO|stars_4
+261406|The Boardwalk Hotel & Spa|Port Elizabeth|YES|stars_5
+261407|Azamare|Camps Bay|NO|stars_5
+261567|The St James Manor & Seaforth|Saint James|NO|stars_5
+261579|Protea Montrose|Harrismith|NO|stars_3
+261692|20 West Executive Apartments & Hotel|Sandton|YES|stars_5
+264408|Constantia House|Cape Town|NO|stars_4
+264409|The Walden House|Cape Town|NO|stars_4
+264411|Alta Bay|Cape Town|NO|stars_4
+264412|Mount Sierra Hotel And Spa|Cape Town|NO|stars_3
+264413|Hotel Riviera|Cape Town|NO|stars_3
+269472|Somerton Manor|Cape Town|NO|stars_4
+269473|Firmount Lodge|Cape Town|NO|stars_3
+269475|Woodlands Guest House|Cape Town|NO|stars_3
+269478|Southern Cross Guest House|Cape Town|NO|stars_4
+269483|AlphaBed|Cape Town|NO|stars_4
+269484|Lalapanzi Lodge|Cape Town|NO|stars_4
+269485|185 Beach Road Villa and Apartments|Cape Town|NO|stars_4
+269487|Villa the President|Cape Town|NO|stars_4
+269488|Strandsig 407|Cape Town|NO|stars_3.5
+269489|Sunset Pint Guesthouse|Cape Town|NO|stars_4.5
+269490|Gordon's Bay Guest House|Cape Town|NO|stars_3
+269491|Oceana Palms|Cape Town|NO|stars_4
+269492|Blue Horizon Guest House|Gordon''s Bay|NO|stars_4
+269494|Wind-Rose Guest House|Cape Town|NO|stars_4
+269496|The Residences - Self Catering Apartments|Cape Town|NO|0
+269498|Cape Hermitage|Cape Town|NO|stars_3
+269499|Majorca Self-Catering Apartments|Cape Town|NO|stars_4
+269500|Da Heim|Cape Town|NO|stars_4
+269503|Allstar Villa|Cape Town|NO|stars_4
+269504|5 Options - Guest House|Cape Town|NO|stars_4
+269505|Sunset-loft Guest House|Cape Town|NO|stars_4
+269506|Panaview Bed and Breakfast|Cape Town|NO|stars_4
+269509|La Roche Guest House|Cape Town|NO|stars_3
+269510|Afro Chic Guest House|Cape Town|NO|stars_4
+269512|Knightsbridge 105 - Apartment|Cape Town|NO|0
+269515|Hill Top Guest House|Cape Town|NO|stars_3
+269516|Serengeti Self Catering Units|Cape Town|NO|stars_3
+269517|Meerendal Boutique Hotel|Cape Town|NO|stars_4
+269519|Palm House|Cape Town|NO|stars_4
+269520|Villa Coloniale|Cape Town|NO|stars_5
+269522|Beach House Hout Bay|Cape Town|NO|stars_3
+269523|Bayview Lodge|Cape Town|NO|stars_4
+269524|Hout Bay View|Cape Town|NO|stars_3
+269527|Dongola House|Cape Town|NO|stars_4
+269529|Poplar Tree Lodge|Cape Town|NO|stars_4
+269530|Kronendal Heritage Estate|Cape Town|NO|stars_5
+269531|St. Georges Lodge|Cape Town|NO|stars_4
+269532|Star Holiday Apartments|Cape Town|NO|stars_4
+269534|Morningside Cottage|Cape Town|NO|stars_4
+269535|Paradiso Guest House|Cape Town|NO|stars_4
+269536|The Inn At Castle Hill|Cape Town|NO|stars_3
+269537|Mariner Guest House|Cape Town|NO|stars_4
+269538|Makapa Lodge|Cape Town|NO|stars_4
+269539|Villa Honeywood Guest House|Cape Town|NO|stars_5
+269541|Afri Zola Guesthouse|Cape Town|NO|stars_4
+269542|Moonglow Guest House|Cape Town|NO|stars_4
+269543|African Queen|Cape Town|NO|stars_4
+269545|Magellan's Passage|Cape Town|NO|stars_4
+269546|26 Sunset Avenue Llandudno|Cape Town|NO|stars_5
+269547|Villa Simona Bed & Breakfast|Cape Town|NO|stars_3
+269548|Cascades on the Promenade|Cape Town|NO|stars_4
+269549|Mouille Grange 203 - Apartment|Cape Town|NO|stars_3
+269550|Enchanted Guest House|Cape Town|NO|stars_4
+269552|Derwent House|Cape Town|NO|stars_4
+269554|22 On Rose|Cape Town|NO|stars_3
+269555|Three Boutique|Cape Town|NO|stars_4
+269556|Liberty Lodge|Cape Town|NO|stars_3
+269557|Greenmarket Place Apartments|Cape Town|NO|0
+269558|Grande Kloof Boutique Hotel|Cape Town|NO|stars_4
+269562|An African Villa|Cape Town|NO|stars_4
+269565|27 Bellevue Street|Cape Town|NO|stars_2
+269566|Dockside Apartments|Cape Town|NO|stars_4
+269567|Canterbury 501 Apartment|Cape Town|NO|stars_3.5
+269568|Cape Town Eagle's Nest|Cape Town|NO|stars_3
+269569|Cape Town Sea More - Express Tours and Guesthouse|Cape Town|NO|stars_3
+269571|Glaston House 206 Apartment|Cape Town|NO|stars_3
+269573|Canal Quays|Cape Town|NO|stars_4
+269574|Avanti Guest House|Cape Town|NO|stars_4
+269575|Vicmor Court 35 - Apartment|Cape Town|NO|stars_3
+269576|Sea Mount Studio|Cape Town|NO|stars_4
+269577|Glenlodge 401 - Apartment|Cape Town|NO|stars_2
+269578|Avatara|Cape Town|NO|stars_4
+269579|Atlantic Gold|Cape Town|NO|stars_4
+269580|3 on Camps Bay Boutique Hotel & Spa|Cape Town|NO|stars_4
+269581|Cape Atlantic|Cape Town|NO|stars_4
+269582|1109 The Decks at 67 Long Street|Cape Town|NO|stars_4
+269583|Simon's Town Guest House|Cape Town|NO|stars_4
+269607|Elephant Springs Hotel & Cabanas|Bela-Bela|NO|stars_2
+269608|Eco Eden Bush Lodge|Nelspruit|NO|stars_4
+269611|Loerie's Call Guesthouse|Nelspruit|NO|stars_5
+269612|Francolin Lodge|Nelspruit|NO|stars_5
+269613|Nomndeni View Lodge|Nelspruit|NO|stars_4
+269614|La Roca Guest House|Nelspruit|NO|stars_4
+269615|Nomndeni Celokuhle|Nelspruit|NO|stars_4
+269616|Global Village Guest House|Nelspruit|NO|stars_4
+269618|Flamboyant Lodge & Restaurant|Hluhluwe|NO|stars_3
+269620|Rhino River Lodge|Zululand|NO|stars_3
+269622|Druk-My-Niet|Paarl|NO|stars_3
+269624|Alba House|Paarl|NO|stars_4
+269625|Paddabult Self Catering Cottages|Paarl|NO|stars_4
+269628|Clouds Estate|Stellenbosch|NO|stars_4
+269629|Marianne Wine Estate|Stellenbosch|NO|stars_4
+269630|Bonne Esperance Guest House|Stellenbosch|NO|stars_3
+269631|The Stables Lodge|Stellenbosch|NO|stars_3
+269632|Penelope's Guesthouse|Stellenbosch|NO|stars_3
+269633|Simonsberg Guest House|Stellenbosch|NO|stars_3
+269635|Hoopenburg Guesthouse|Stellenbosch|NO|stars_4
+269640|Bar-T-Nique Guest House|Mossel Bay|NO|stars_4
+269641|Amzee Bokmakierie Guest House|Mossel Bay|NO|stars_4
+269642|Die Fonteine|Oudtshoorn|NO|stars_4
+269643|The Gumtree Guesthouse|Oudtshoorn|NO|stars_4
+269644|88 Baron van Reede Guesthouse|Oudtshoorn|NO|stars_3
+269645|Yamkela Guest House|Oudtshoorn|NO|stars_4
+269646|Villa Rustique|Oudtshoorn|NO|stars_4
+269648|Earthbound B&B|Oudtshoorn|NO|stars_3
+269650|Edenwood Guest House|George|NO|stars_4
+269652|Hilltop Country Lodge|Wilderness|NO|stars_5
+269653|The Loerie's View|Wilderness|NO|stars_4
+269654|The Ocean View|Wilderness|NO|stars_4
+269656|The Old Trading Post - Guest House|Wilderness|NO|stars_4
+269658|Brenton Beach House|Knysna|NO|stars_4
+269659|Bay View Guest Apartments|Knysna|NO|stars_3
+269660|Bayhouse|Knysna|NO|stars_4
+269661|Double Dutch B & B|Knysna|NO|stars_4
+269664|Knysna Herons Guest House|Knysna|NO|stars_3
+269665|African Jewel Lodge|Knysna|NO|stars_2
+269666|Lavender Hill Guest House|Knysna|NO|stars_3
+269667|Knysna Stays - Guest House|Knysna|NO|stars_4
+269668|Augusta Bay Guest House|Knysna|NO|stars_5
+269669|Bridgewater Manor|Knysna|NO|stars_4
+269670|Brenton Hill|Knysna|NO|stars_3
+269671|Grand Cafe & Rooms|Plettenberg Bay|NO|stars_4
+269673|Fynbos Ridge|Plettenberg Bay|NO|stars_5
+269675|Algoa Bay Bed & Breakfast|Port Elizabeth|NO|stars_3
+269676|Mongoose Manor|Port Elizabeth|NO|stars_3
+269679|Victoria & Alfred Guest House|Port Elizabeth|NO|stars_4
+269681|Le Blue Guesthouse|Port Elizabeth|NO|stars_3
+269686|Al Marrakesh Guest House|Ballito|NO|stars_4
+269688|Villa Valencia|Durban|NO|stars_3
+269689|Westville Bed & Breakfast Guest House|Durban|NO|stars_5
+269690|Parkview Hotel|Durban|NO|stars_3
+269692|Mandalay B&B|Durban|NO|stars_4
+269693|The Grange Guest House|Durban|NO|stars_4
+269694|10 Woodlands Road B&B and Self Catering|Durban|NO|stars_4
+269698|Andaluz Boutique Hotel|Durban|NO|stars_3
+269699|The Concierge|Durban|NO|stars_4
+269700|The Crescent Guesthouse|Durban|NO|stars_3
+269701|Accomodation @ Chicken Shack Lodge|Durban|NO|stars_3
+269705|Foxwood House|Johannesburg|NO|stars_3
+269706|Times Square Executive Suites|Johannesburg|NO|stars_4
+269707|The Munday - B&B|Johannesburg|NO|stars_4
+269708|Lourie Lodge|Johannesburg|NO|stars_4
+269712|7th Street Guesthouse|Johannesburg|NO|stars_4
+269713|Akuwaiseni House - B&B|Johannesburg|NO|stars_4
+269715|The Syrene Boutique|Johannesburg|NO|stars_4
+269718|Littlefield's Luxury Suite|Johannesburg|NO|stars_4
+269719|Amber Rose Country Estate|Johannesburg|NO|stars_4
+269721|Ninety North Guest House|Johannesburg|NO|stars_4
+269723|The Regent|Johannesburg|NO|stars_5
+269724|Northcliff Manor Guest House|Johannesburg|NO|stars_4
+269725|Claires of Sandton|Johannesburg|NO|stars_4
+269726|Thatchfoord Lodge|Johannesburg|NO|stars_4
+269727|Sandton Boutique Hotel - 28A On Oxford|Johannesburg|NO|stars_4
+269728|The Oasis Luxury Guest House|Johannesburg|NO|stars_5
+269729|Crystal Duvet|Johannesburg|NO|stars_4
+269730|Villa Simonne|Johannesburg|NO|stars_4
+269731|St Peter's Place Boutique Hotel|Johannesburg|NO|stars_4
+269732|Kilulu Lodge - Guest House|Johannesburg|NO|stars_4
+269733|Villa Moyal|Johannesburg|NO|stars_4
+269734|AshDown House|Johannesburg|NO|stars_5
+269737|The Wesley|Johannesburg|NO|stars_4
+269738|Liz's at Lancaster|Johannesburg|NO|stars_4
+270424|Glen Marion Guest House|Pretoria|NO|stars_4
+270425|That's It Guesthouse|Pretoria|NO|stars_3
+270427|Crane's Nest Guest House @ 211|Pretoria|NO|stars_3
+270428|MacGregors Guest House|Pretoria|NO|stars_4
+270431|Goodey's Guesthouse|Pretoria|NO|stars_4
+270432|Dinkwe Lodge & Guest House|Pretoria|NO|stars_4
+270433|Crane's Nest Guest House @ 212|Pretoria|NO|stars_4
+270434|Crane's Nest Guest House & Spa @ 313|Pretoria|NO|stars_4
+270435|About Guest Lodge|Pretoria|NO|stars_4
+270436|Opikopi Guest House|Pretoria|NO|stars_4
+270438|Osborne House - Guest House|Pretoria|NO|stars_4
+270439|Coral Tree House - Guest House|Pretoria|NO|stars_4
+270440|Ithilien's Grace Guest House|Pretoria|NO|stars_3
+270442|Waterfalls Boutique Hotel|Pretoria|NO|stars_5
+270444|Manyatta Rock Camp|Hectorspruit|NO|stars_4
+270447|Gazebo Game Lodge|Hectorspruit|NO|stars_2
+270448|Buckler's Africa|Kruger National Park|NO|stars_4
+270449|Hamilton Parks Country Lodge|Kiepersol|NO|stars_3
+271344|Mashutti Country Lodge|Tzaneen|NO|stars_3
+271345|Addo Dung Beetle Guest Farm|Addo Elephant National Park|NO|stars_4
+271347|Addo Afrique Estate|Addo Elephant National Park|NO|stars_5
+271348|Hopefield Country House|Addo Elephant National Park|NO|stars_4
+271349|De Old Drift Guest Farm|Addo Elephant National Park|NO|stars_3
+271351|Valley Bushveld Country Lodge|Addo Elephant National Park|NO|stars_4
+271353|Armagh Country Lodge & Spa|Storms River|NO|stars_4
+271413|A White Rose Guest House|Bloemfontein|NO|stars_4
+271414|B&B at Bloem|Bloemfontein|NO|stars_2
+271415|African Lodge|Bloemfontein|NO|stars_4
+271419|The Resting Place Guesthouse|Bloemfontein|NO|stars_3
+271420|The Urban Hotel|Bloemfontein|NO|stars_3
+271423|Nautilus Cottage|Hermanus|NO|stars_4
+271424|Pelagus House|Hermanus|NO|stars_4
+271425|Hortensia Lodge|Hermanus|NO|stars_3
+271427|Baleens Guest House|Hermanus|NO|stars_3
+271428|AmaKhosi Guesthouse|Hermanus|NO|stars_4
+271431|Karoopark Guest House|Graaff - Reinet|NO|stars_3
+271432|Aristo Manor|Richards Bay|NO|stars_4
+271434|Maputaland Guest House|St. Lucia Wetland Park|NO|stars_4
+271436|Browns Manor|Upington|NO|stars_4
+273529|Lumleys Place B&B|Franschhoek|NO|stars_4
+273530|La Galini?re Guest Cottages|Franschhoek|NO|stars_3
+273531|Le Manoir de Brendel Spa Wine|Franschhoek|NO|stars_5
+273533|Maison Chablis|Franschhoek|NO|stars_4
+273537|Ku De Ta B&B|White River|NO|stars_3
+273538|Stille Woning|White River|NO|stars_4
+274271|The Sleeping Bao B&B|Pietermaritzburg|NO|stars_3
+274272|Abbots Cove|Pietermaritzburg|NO|stars_3
+274273|Vuyani Lodge|Hoedspruit|NO|stars_4.5
+274274|Shikwari Luxury Bush Lodge|Hoedspruit|NO|stars_4
+274276|Khaya Ndlovu Manor House|Hoedspruit|NO|stars_4
+274277|Blyde River Wilderness Lodge|Hoedspruit|NO|stars_3
+274278|Kurhula Wildlife Lodge|Hoedspruit|NO|stars_3
+274280|Blyde River Canyon Lodge|Hoedspruit|NO|stars_4
+274306|Kleinkaap|Centurion (near Pretoria)|NO|stars_4
+274307|Sekelbos Guesthouse|Centurion (near Pretoria)|NO|stars_3
+274308|Pilgrims Delight|Centurion (near Pretoria)|NO|stars_3
+274310|Hampton House - Guest House|Centurion (near Pretoria)|NO|stars_4
+274461|Sunbird Lodge|Phalaborwa|NO|stars_3
+274465|Fusion Boutique|Polokwane|YES|0
+274468|Nomndeni Lodge Zamabhele|Middelburg|NO|stars_3
+274470|Roosje van de Kaap|Swellendam|NO|stars_3
+274471|Old Thatch Lodge|Swellendam|NO|stars_3
+274474|Forest Creek Lodge|Dullstroom|NO|stars_4
+274475|Floreat Riverside Lodge|Sabie|NO|stars_3
+274476|Merry Pebbles Resort|Sabie|NO|stars_3
+274480|Gunyatoo Trout Farm & Guest Lodge|Sabie|NO|stars_3
+275689|Grand D?dale Country House|Western Cape|NO|stars_5
+275888|Aston Woods B&B|Jeffreys Bay|NO|stars_2
+275889|Super Tubes Guesthouse|Jeffreys Bay|NO|stars_4
+275891|A1 Kynaston B&B|Jeffreys Bay|NO|stars_3
+275892|On the Beach Guesthouse|Jeffreys Bay|NO|stars_4
+275893|Hillcrest Self-Catering Holiday Apartment|Jeffreys Bay|NO|stars_3
+275894|JayBay House - Guest House|Jeffreys Bay|NO|stars_3
+275964|The Wacky Bush Lodge|Langebaan|NO|stars_4
+276077|Umdloti Letting|Umdloti|NO|0
+276475|3Flavours Guest House|Pringle Bay|NO|stars_4
+276618|Esiweni Game Lodge|Ladysmith|NO|stars_5
+276789|Nedile Lodge|Vaalwater|NO|stars_5
+276834|Die Ou Pastorie - De Hoop|De Hoop|NO|stars_4
+277353|Aero Guest Lodge|Kempton Park|NO|stars_4
+277354|Sunrock Guesthouse|Kempton Park|NO|stars_3
+277356|Eagle Crest Executive Lodge|Edenvale|NO|stars_3
+277358|MoAfrika Lodge|Benoni|NO|stars_4
+277359|Thatchings Guest House|Nottingham Road|NO|stars_4
+277360|Lemon3lodge|Kirkwood|NO|stars_4
+279141|The Last Word Long Beach|Cape Town|NO|stars_5
+279142|Ambassador Self Catering Apartments|Cape Town|NO|stars_4
+279144|The Vagabond|Cape Town|NO|stars_3
+279145|Sweet Berries Holiday Houses|Cape Town|NO|stars_4
+279149|Point Of View Villa Guest House|Cape Town|NO|stars_4
+279184|Hampshire Hotel Ballito Durban|Ballito|NO|stars_3
+279185|Life Hotel Ballito|Ballito|NO|stars_3
+279186|Bizafrika Guest Lodge & Conference Center|Durban|NO|stars_4
+279189|10 2nd Avenue Houghton Estate|Johannesburg|NO|stars_5
+279190|Cedar Park Hotel & Conference Centre|Johannesburg|NO|stars_3
+279191|St Andrews Signature Hotel & Spa|Johannesburg|NO|stars_5
+279192|Faircity Falstaff Hotel|Johannesburg|NO|stars_4
+279193|Little Tuscany Boutique Hotel|Johannesburg|NO|stars_4
+279194|Urban Hip Hotels - Splice Riviera|Johannesburg|NO|stars_4
+279195|Faircity Mapungubwe Hotel Apartments|Johannesburg|NO|stars_4
+279196|The Constantia Hotel|Johannesburg|NO|stars_3
+279197|Ascot Boutique Hotel|Johannesburg|NO|stars_4
+279198|Faircity Quatermain Hotel|Johannesburg|NO|stars_4
+279202|The Fairway Hotel and Spa|Johannesburg|NO|stars_5
+279275|Faircity Grosvenor Gardens|Pretoria|NO|stars_4
+279276|Faircity Roodevallei|Pretoria|NO|stars_3
+279277|Savoy Hotel Kimberley|Kimberley|NO|stars_3
+279278|Kuname River Lodge|Kruger National Park|NO|stars_5
+279280|Lion Sands Game Reserve - Ivory Lodge|Kruger National Park|NO|stars_5
+279447|Hotel Tzaneen|Tzaneen|NO|stars_3
+279448|Addo Elephant Back Safaris & Lodge|Addo Elephant National Park|NO|stars_4
+279490|Bains Game Lodge|Bloemfontein|NO|stars_3
+279491|Stanville|Bloemfontein|NO|stars_3
+279623|Montagu Springs Resort|Montagu|NO|stars_3
+279695|Likweti Lodge & Sanctuary|Mpumalanga|NO|0
+281411|Orion Velmore|Centurion (near Pretoria)|NO|stars_4
+282859|Boulevard 44 Boutique|Umhali Beach|YES|stars_4
+283652|The Garden Court Blackrock|Newcastle|NO|stars_4
+284275|Protea Highveld|Witbank|NO|stars_4
+284600|Peermont Metcourt at Umfolozi|Empangeni|NO|stars_3
+284757|Urban Hip Hotels -The Nicol|Bedfordview|NO|stars_4
+284770|Shumba Valley Lodge|Lanseria|NO|stars_3
+284804|Shangri-La Country Hotel|Modimolle|NO|stars_3
+285969|Banksia Boutique|Cape Town|NO|stars_4
+285982|V&A Waterfront Marina|Cape Town|NO|stars_5
+286001|Mabalingwe Nature Reserve|Bela-Bela|NO|stars_4
+286002|Durban Sands|Durban|NO|0
+286005|Oceanic Don|Umhlanga Rocks|NO|stars_3
+286006|The Palace - geschlossen|Durban|NO|stars_3
+286008|Madibas Tide River Manor|Knysna|NO|stars_3
+286015|La Montagne Resort And Spa|Ballito|NO|stars_4
+286021|House Higgo Boutique House|Johannesburg|NO|stars_4
+286027|Thaba Eco Hotel|Johannesburg|NO|stars_4
+286099|The Villas Luxury Suite Hotel|Pretoria|NO|stars_4
+286101|Waterberry Hill Resort And Spa|Hazyview|NO|0
+287521|Hotel Realou|Franschhoek|NO|stars_4
+287522|Basse Provence|Franschhoek|NO|stars_4
+287523|Rickety Bridge Country House|Franschhoek|NO|stars_4
+288003|Zulu Camp Shambala Game Reserv|Limpopo (Provinz)|NO|0
+289458|Club Mykonos|Langebaan|NO|stars_4
+292355|Bally High Guest House|Umhlanga Rocks|NO|stars_4
+292357|Anabels|Umhlanga Rocks|NO|stars_3
+292358|Flamingo Lodge|Umhlanga Rocks|NO|stars_4
+292359|Umbrella Tree House|Umhlanga Rocks|NO|stars_3
+292360|Old Mac Daddy|Gordon''s Bay|NO|stars_2
+292362|Arch Rock Seaside Accommodation|Plettenberg Bay|NO|stars_3
+292463|Bushmans Nek Hotel & Spa|Drakensberg|NO|stars_3
+292500|Nyaru Game Lodge|Mossel Bay|NO|stars_3
+292501|African Vineyard Guest House|Upington|NO|stars_4
+292797|Club Break|St. Francis Bay|NO|stars_3
+292798|i-Lollo Lodge|St. Francis Bay|NO|stars_3
+292799|On the Spot B&B|St. Francis Bay|NO|stars_4
+293003|Kapenta Bay Hotel & Conference Resort|Port Shepstone|NO|stars_3
+293019|Amazian Mountain River Lodge|Underberg|NO|stars_4
+293020|Umzimkulu River Lodge|Underberg|NO|stars_3
+294062|The Roundhouse Bed & Breakfast|De Kelders|NO|stars_4
+294063|Cliff Lodge|De Kelders|NO|stars_4
+294065|Sea Star Lodge|De Kelders|NO|stars_5
+294066|Umnenge Lodge|De Kelders|NO|stars_4
+294067|De Kelders Private House|De Kelders|NO|stars_5
+294074|Haga Haga Hotel|Kei Mouth|NO|stars_3
+294308|Sunbirds|Southbroom|NO|0
+294740|Le Cozmo Guest House|Alberton|NO|stars_4
+294744|Acra-Retreat Mountain View Lodge|Waterval Boven|NO|stars_3
+294745|Shamrock Arms Guest Lodge|Waterval Boven|NO|stars_4
+295221|Midlands Saddle & Trout|Mooi River|NO|0
+295222|Kloppenheim Country Estate|Machadodorp|NO|stars_4
+295224|Gethlane Lodge Hotel & Spa|Burgersfort|NO|0
+295372|Paradise Lodge|Mookgopong|NO|stars_4
+295373|Days At Sea Beach Lodge|Trafalgar|NO|stars_5
+295375|La Kruger Lifestyle Lodge|Marloth Park|NO|stars_4
+295376|Phumula Kruger Lodge|Marloth Park|NO|stars_3
+295377|Maqueda Lodge|Marloth Park|NO|stars_4
+295378|Royale Marlothi Safari Lodge|Marloth Park|NO|stars_3
+295379|Crocodile Kruger Safari Lodge|Marloth Park|NO|stars_4
+295381|Zaganaga Lodge|Marloth Park|NO|stars_3
+295382|Black Mountain|Thaba Nchu|NO|stars_2
+295384|Vaalnest Boutique|Vaal Marina|NO|stars_4
+295387|Franskraal Bed & Breakfast|Franskraal|NO|stars_4
+295390|De Doornkraal Historic Country House Boutique|Riversdale|NO|stars_4
+295694|The Robberg Beach Lodge - Beachy Head Villa, Robberg House, Cottage Pie, Cordovan Villa|Plettenberg Bay|NO|stars_5
+296653|The Clarendon - Villa Fresnaye|Cape Town|NO|stars_4
+296655|The Clarendon - Villa Bantry Bay|Cape Town|NO|stars_4
+296752|Eight Bells Mountain Inn|Mossel Bay|NO|stars_4
+296763|Highgrove Guest House|Kiepersol|NO|stars_5
+296771|Ulusaba Sir Richard Branson's Private Game Reserve - Rock Lodge Rooms & Suites & Cliff Lodge|Ulusaba|NO|stars_5
+297152|Protea Christiana - geschlossen|Christiana|NO|stars_3
+297811|Palm Cottage|Port Edward|NO|stars_3
+297815|Shayamoya Lodge|Pongola|NO|stars_4
+297817|Kololo Game Reserve|Waterberge|NO|stars_4
+298116|Moorcroft Manor|Himeville|NO|stars_4
+298117|Dunkeld Country Estate|Dullstroom|NO|stars_4
+298146|Castello di Monte|Pretoria|NO|stars_5
+298159|Bonamanzi Game Reserve|Hluhluwe|NO|0
+298167|Caledon Villa Guesthouse|Stellenbosch|NO|stars_4
+299119|Breakers Resort|Umhlanga Rocks|NO|stars_3
+299142|Shamwari Game Reserve - Bayethe Lodge|Shamwari Game|NO|stars_5
+299165|Rhino Post Safari Lodge|Kruger National Park|NO|stars_4
+299167|Road Lodge Cape Town International Airport|Cape Town|NO|0
+299172|Ulusaba Sir Richard Branson's Private Game Reserve - Safari Lodge Rooms & Suites|Ulusaba|NO|stars_5
+299347|Fly Inn Lodge|Boksburg|NO|stars_3
+299355|Milkwood Bay Guest House|Knysna|NO|stars_4
+299360|Ingeli Forest Lodge|Kokstad|NO|stars_3
+299404|Tarn Country House|Plettenberg Bay|NO|stars_4
+299517|Tala Private Game Reserve|Pietermaritzburg|NO|stars_3
+299535|Orange-Ville Guesthouse|Stellenbosch|NO|stars_4
+299551|Bamboo, the Guest House|Knysna|NO|stars_3
+299555|Goble Palms Guest House|Durban|NO|stars_4
+299556|Vasnat Naturist Spa Resort|Somerset West|NO|stars_4
+299587|Sea Whisper Guest House|Jeffreys Bay|NO|stars_4
+299607|Lionsrock|Bethlehem|NO|stars_3
+299710|City Lodge Fourways|Fourways|NO|stars_3
+299712|City Lodge Hatfield|Pretoria|NO|stars_3
+299713|City Lodge Lynnwood|Pretoria|NO|stars_3
+300263|Mongena Game Lodge|Pretoria|NO|stars_4
+300366|Gateway|Gateway|NO|stars_3
+300550|City Lodge O.R. Tambo Airport|Johannesburg|NO|stars_3
+301514|Fairmont Zimbali Resort - Zimbali Resort / Zimbali Lodge|Ballito|NO|stars_5
+301515|Fairmont Zimbali Resort - Zimbali Resort|Ballito|NO|stars_5
+301528|Emperors Palace - Peermont Metcourt Suites|Kempton Park|NO|stars_3
+310932|Protea Hotel Durbanville|Durbanville|NO|stars_3
+310982|Kaapkloof Manor|Cape Town|NO|stars_5
+311020|The Robberg Beach Lodge - Robberg House|Plettenberg Bay|NO|stars_5
+311023|Amakhala Game Reserve - Hillsnek Safaris|Grahamstown|NO|stars_4
+311056|The Villas at Le Franschhoek|Franschhoek|YES|stars_4
+311150|Kapama Private Game Reserve - Kapama River Lodge|Kapama Game Reserve|NO|stars_5
+311151|Kapama Private Game Reserve - Kapama Southern Camp|Kapama Game Reserve|NO|stars_4
+311153|Kapama Private Game Reserve - Kapama Karula|Kapama Game Reserve|NO|stars_5
+311188|Sabi Sabi Luxury Safari Lodges - Selati Camp|Skukuza|NO|stars_4.5
+311189|Sabi Sabi Luxury Safari Lodges - Bush Lodge|Skukuza|NO|stars_5
+311190|Sabi Sabi Luxury Safari Lodges - Earth Lodge|Skukuza|NO|stars_5.5
+314170|Singita Kr?ger Nationalpark - Lebombo Lodge|Kruger National Park|NO|stars_4
+314172|Singita Sabi Sand - Ebony Lodge|Sabi Sands Game Reserve|NO|stars_5
+314173|Singita Sabi Sand - Boulders Lodge|Sabi Sands Game Reserve|NO|stars_5
+317225|Ikhaya Lodge|Cape Town|NO|stars_3
+317252|Wildebees Ecolodge|Hluhluwe|NO|stars_3
+317254|Middedorp Manor|Stellenbosch|NO|stars_4
+319935|Camdeboo Cottages|Graaff - Reinet|NO|stars_3
+324561|Everglades Hotel and Conference Centre|Pietermaritzburg|NO|stars_3
+332662|Hunters Rest|Rustenburg|NO|stars_4
+335011|Touraco Guesthouse|Pretoria|NO|stars_4
+354417|The Gem|Jeffreys Bay|NO|stars_4
+354418|Thabankulu Game Resort|Lephalale|NO|stars_4
+354480|Allee Bleue Estate|Klein Drakenstein|NO|stars_3.5
+359681|The Gorge Private Game Lodge & Spa|Oribi Gorge|NO|stars_5
+359686|La Cabriere Country House|Franschhoek|NO|stars_4
+359687|Lavender Farm Guest House|Franschhoek|NO|stars_4
+359688|Val du Charron|Wellington|NO|stars_4.5
+359703|Whale Coast|Hermanus|NO|stars_4
+359779|Fancourt & Fancourt Manor House|George|NO|stars_5
+363246|Sanbona Wildlife Reserve - Dwyka Tented Lodge|Barrydale|NO|stars_4.5
+363247|Sanbona Wildlife Reserve - Gondwana Lodge|Barrydale|NO|stars_4
+363528|Urban Park|Umhlanga Rocks|NO|stars_3
+367764|Coastlands Umhlanga Hotel-convention C|Umhlanga Rocks|NO|stars_4
+367778|Albany|Durban|NO|stars_3
+367780|Hyde Park Villas|Johannesburg|NO|stars_5
+367850|Cricklewood Manor|Pretoria|NO|stars_5
+367851|Morning Star Express (ms)|Pretoria|NO|stars_2
+368210|Tenahead Lodge|Umtata|NO|stars_5
+369284|Euphoria Golf Estate And Hydro|Limpopo (Provinz)|NO|stars_4
+369288|The Royal Elephant Hotel & Conf (sl)|Centurion (near Pretoria)|NO|stars_4
+369818|Esprit Executive Apartments (ea)|Sandton|NO|stars_4
+369819|Hydro Executive Apartments (ea)|Sandton|NO|stars_4
+369820|The Capital Villa|Sandton|NO|stars_3
+371669|Evander Villas|Evander|NO|stars_3
+371674|The Ballinrobe|Durbanville|NO|stars_4
+372920|Timbavati Safari Lodge|Hoedspruit|NO|stars_3
+374436|Sbh Pretoria|Pretoria|NO|stars_4
+381600|Castleburn|Pietermaritzburg|NO|stars_3
+391733|Empire Executive Apartments & Hotel|Sandton|NO|stars_4
+391868|Verde|Cape Town|NO|stars_4
+391921|Garden Court Milpark|Johannesburg|NO|stars_3
+399761|Sanchia Luxury Guesthouse|Durban|NO|stars_5
+399809|Protea Hotel O.R. Tambo Airport|Kempton Park|YES|stars_4
+400768|Madi Madi Karoo Safari Lodge|Oudtshoorn|NO|stars_5
+405251|Rhino Ridge Safari Lodge|Hluhluwe|NO|stars_4
+406260|Dutch Manor Antique Hotel|Cape Town|NO|stars_4
+406261|Goblin's Mead|Cape Town|NO|stars_3
+406262|Kings In Cape Hotel & Restaurant|Cape Town|NO|stars_3
+407167|Marakapula Reserve|Phalaborwa|NO|stars_4
+407233|Villa Tuscana|Port Elizabeth|NO|stars_4
+407746|St. James Homestead|Saint James|NO|stars_4.5
+407794|Komati River Chalets|Komatipoort|NO|stars_4
+407805|Somerset Villa|Somerset West|NO|stars_4
+407807|The Aviator Hotel OR Tambo|Kempton Park|YES|stars_4
+413035|Kariega Game Reserve - Settlers Drift|Kariega Game Reserve|NO|stars_5
+414826|Saronsberg Vineyard Cottages|Tulbagh|NO|stars_1
+414827|Sea Villa Glen Craig|Pringle Bay|NO|stars_1
+417531|Zulu Nyala Safari Game Lodge & Heritage Safari Lodge|Hluhluwe|NO|0

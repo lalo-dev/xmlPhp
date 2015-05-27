@@ -1,0 +1,6 @@
+27180|Sinalei Reef Resort|Apia|NO|stars_4
+27181|Coconuts Beach Club & Resort|Upolu|NO|stars_4
+27182|Aggie Grey's Hotel & Bungalows|Apia|NO|stars_3
+69236|Sheraton Samoa Aggie Grey's Resort|Upolu|NO|stars_4
+241644|Seabreeze Resort Samoa|Upolu|NO|stars_4
+244354|Tanoa Tusitala|Apia|NO|stars_4

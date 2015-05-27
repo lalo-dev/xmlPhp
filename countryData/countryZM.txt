@@ -1,0 +1,13 @@
+27729|Royal Livingstone|Victoria Falls|YES|stars_5
+27731|AVANI Victoria Falls Resort|Victoria Falls|NO|stars_3
+46636|The Stanley & Livingstone at Victoria Falls|Victoria Falls|NO|stars_4.5
+77835|Southern Sun Ridgeway, Lusaka|Lusaka|NO|stars_4
+90681|Protea Livingstone|Livingstone|NO|stars_3
+97259|David Livingstone Safari Lodge & Spa|Livingstone|NO|stars_4
+103549|Thorntree River Lodge|Livingstone|NO|stars_4
+142835|Stanley Safari Lodge|Livingstone|NO|stars_5
+163323|Mushroom Lodge & Presidential House|South Luangwa National Park|NO|stars_3
+238329|Royal Chundu Luxury Zambezi Lodges|Victoria Falls|NO|0
+295986|Radisson Blu Lusaka|Lusaka|NO|stars_5
+295987|StayEasy Lusaka|Lusaka|NO|stars_2
+297822|Baines' River Camp|Lower Zambezi National Park|NO|stars_3.5
