@@ -1,0 +1,7 @@
+100729|Kampala Serena|Kampala|NO|stars_5
+122726|Sheraton Kampala|Kampala|YES|0
+122729|Gorilla Forest Camp|Bwindi National Park|NO|stars_4
+202047|Mweya Safari Lodge|Queen Elizabeth National Park|NO|stars_4
+202048|Paraa Safari Lodge|Murchison Falls Nationalpark|NO|stars_3.5
+261615|Lake Victoria Serena Resort|Kampala|NO|stars_4
+289646|Holiday Inn Express|Kampala|YES|0

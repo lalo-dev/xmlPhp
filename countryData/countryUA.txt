@@ -1,0 +1,189 @@
+34196|Lwow Grand|Lvov|YES|stars_4
+34197|Dnipro|Kiev|YES|stars_4
+34198|Dnister|Lvov|YES|stars_4
+34199|Lybid|Kiev|YES|stars_3
+34200|Natsionalny|Kiev|YES|stars_4
+34201|Premier Palace|Kiev|YES|stars_5
+34202|Premier Hotel Rus|Kiev|YES|stars_3
+34203|Odessa|Odessa|NO|stars_4
+34204|Astoria Luxe|Dnepropetrovsk|NO|stars_3
+34205|Central|Donetsk|NO|stars_3
+34206|Bristol|Odessa|NO|stars_5
+34207|Londonskaja|Odessa|YES|stars_4
+34208|Oreanda|Jalta|YES|stars_4
+34209|Intourist Jalta|Jalta|YES|stars_3
+34210|Levant|Jalta|NO|stars_4
+40426|Charkov|Charkow|YES|stars_4
+40427|Mozart|Odessa|YES|stars_4
+41231|Adria|Kiev|YES|stars_3
+56433|Radisson Blu Kiew|Kiev|YES|stars_4
+56492|Victoria|Donetsk|YES|stars_4
+56493|Bristol|Jalta|YES|stars_3
+56495|Lydia|Feodossija|YES|stars_3
+56496|Moskwa|Simferopol|NO|stars_3
+56497|Ukraina|Simferopol|NO|stars_3
+56498|Ukraine|Sevastopol|NO|stars_3
+70835|Palmira Palace|Jalta|YES|stars_4
+74954|Rotonda|Jalta|NO|stars_3
+76992|President Hotel|Kiev|YES|stars_4
+86620|Prolisok|Kiev|NO|stars_2
+88157|Continental|Odessa|YES|stars_4
+90212|Opera|Kiev|YES|stars_5
+90213|Hyatt Regency|Kiev|YES|stars_5
+95269|Vozdvyzhensky|Kiev|YES|stars_4
+95270|Podol Plaza|Kiev|YES|stars_4
+96964|1001 Nacht|Mischor|NO|stars_3
+96966|Radisson Alushta|Aluschta|YES|stars_4
+104131|Arcadia Plaza|Odessa|YES|stars_4
+104421|Ramada Donetsk|Donetsk|YES|stars_3
+104427|Bratislava|Kiev|NO|stars_3
+105826|Chichikov|Charkow|YES|stars_4
+106449|Cosmopolit|Charkow|YES|stars_4
+106752|Donbass Palace|Donetsk|YES|stars_5
+107407|Grand Ukraine|Dnepropetrovsk|YES|stars_5
+108021|Impressa|Kiev|YES|stars_4
+108536|London|Odessa|YES|stars_4
+109108|Mir|Kiev|NO|stars_3
+109170|Morskoy|Odessa|YES|stars_4
+109488|Panorama Hotel|Lvov|NO|stars_4
+109507|Otrada|Odessa|YES|stars_5
+109525|Palace Del Mar|Odessa|NO|stars_5
+109709|Prague|Donetsk|YES|stars_4
+110182|Rialto|Donetsk|NO|stars_3
+110860|Slavutich|Kiev|YES|stars_3
+111343|Tourist Kiev|Kiev|YES|stars_3
+111436|Hotel Ukraine|Kiev|YES|stars_3
+133282|Khreschatik|Kiev|YES|stars_3.5
+133283|Riviera On Podol|Kiev|YES|stars_4
+139980|Leopolis|Lvov|YES|stars_5
+163052|La Perle Royale|Odessa|YES|0
+163055|Aurora|Charkow|YES|stars_4
+163060|Park|Iwano-Frankiwsk|YES|0
+163061|Ayvazovsky|Odessa|YES|stars_3
+163064|Swiss|Lvov|YES|stars_4
+163065|Victoria|Charkow|YES|stars_4
+163066|Eva|Donetsk|YES|stars_3
+163069|Express|Kiev|YES|stars_3
+163073|OK-Odessa in Arcadia|Odessa|YES|0
+163076|Sport|Kiev|NO|stars_3
+163077|Senator Apartments City Centre|Kiev|YES|stars_4
+163078|Eurohotel|Lvov|YES|stars_3
+163082|Alye Parusa|Feodossija|NO|stars_4
+163083|Kozatskyi Stan|Kiev|NO|stars_3
+163087|Grand European|Dnepropetrovsk|YES|stars_4
+163091|Best Western Sevastopol Hotel|Sevastopol|NO|stars_3
+163092|Black Sea Pantelyeimonovskaya|Odessa|YES|stars_4
+163093|Gintama|Kiev|YES|stars_4
+163094|Park|Dnepropetrovsk|YES|0
+163336|Intourist Zaporozhie|Saporischja|YES|stars_4
+187467|Grand Pettine|Odessa|YES|stars_4
+187597|Attache|Kiev|NO|stars_3
+187942|InterContinental Kiev|Kiev|YES|stars_5
+202402|Black Sea Rishelevskaya|Odessa|YES|stars_4
+226688|Senator Apartments Executive|Kiev|YES|stars_4
+226888|Bakkara Accord Art|Kiev|YES|stars_3
+227652|Citadel Inn|Lvov|YES|stars_5
+227766|City Park|Kiev|YES|stars_4
+227767|Senator's Park|Kiev|YES|stars_3
+227768|Kozatskiy|Kiev|YES|stars_3
+228862|Maristella Club|Odessa|NO|stars_5
+229151|Reikartz Dworzec|Lvov|YES|stars_3
+232205|Liverpool Art Hotel - geschlossen|Donetsk|NO|stars_3
+232206|Lion's Castle|Lvov|NO|stars_3
+232806|Azania|Donetsk|YES|0
+232808|Diarso|Kiev|YES|stars_4
+232809|Roche Royal|Slowjansk|YES|stars_4
+233520|Kapri|Odessa|NO|stars_3
+233521|Dnipro|Saporischja|NO|stars_3
+233522|Soborniy|Saporischja|NO|stars_3
+234947|Mir|Charkow|NO|stars_4
+234948|City Club Hotel|Charkow|NO|stars_4
+234949|George|Lvov|YES|stars_3
+234950|Prominada|Odessa|NO|stars_4
+234951|Axelhof Boutique|Dnepropetrovsk|NO|stars_4.5
+238324|Royal Village Resort|Iwano-Frankiwsk|NO|stars_3
+238328|Royal City Apartments Kiev|Kiev|NO|stars_4
+238331|Royal Spa Geneva|Truskavets|NO|stars_4
+238963|Aquamarine Resort|Sevastopol|NO|stars_5
+238964|Royal Hotel de Paris|Kiev|NO|stars_4
+240282|Royal Park|Jalta|NO|stars_4
+240284|Frederic Koklen Boutique|Odessa|NO|stars_4
+240286|Atrium - Kings Way|Sevastopol|NO|stars_3
+240288|Royal Medical Cezar|Truskavets|NO|stars_3.5
+242385|Black Sea Otrada|Odessa|NO|stars_3.5
+243157|Park Hotel|Charkow|YES|stars_4
+245897|Reikartz Dnipropetrovsk|Dnepropetrovsk|NO|stars_4
+245901|Tsunami Spa|Dnepropetrovsk|YES|stars_4
+246363|Reikartz Sevastopol|Sevastopol|NO|stars_3
+248424|Four Points Zaporozhye|Saporischja|YES|stars_4
+249346|Kharkiv Palace|Charkow|YES|stars_5
+249347|Compass|Odessa|YES|stars_3
+249349|Nobilis|Lvov|NO|stars_5
+259475|Aurora|Donetsk|NO|stars_2
+259476|John Hughes|Donetsk|NO|stars_3
+259477|Park Hotel Villa Bogatir|Donetsk|NO|stars_3
+259478|Melnitsa|Charkow|NO|stars_3
+259479|Ibis Kiev Shevchenko Boulevard|Kiev|NO|stars_3
+259480|Kyiv|Kiev|NO|stars_4
+259481|Predslava|Kiev|NO|stars_1
+259482|Trypillya|Kiev|NO|stars_3
+259483|Druzhba|Kiev|NO|stars_3
+259619|Fairmont Grand Hotel Kyiv|Kiev|NO|stars_5
+259769|Greguar|Kiev|YES|stars_4
+259770|Vettriano|Donetsk|NO|stars_4
+259771|Kozatskiy on Antonova|Kiev|NO|stars_2
+260252|Visak|Kiev|NO|stars_4
+260253|Ozerniy|Donetsk|NO|stars_3
+260873|Congress Complex Kirsha|Donetsk|NO|stars_4
+260875|Ekos Osvity St.|Kiev|NO|stars_2
+260876|Terra Nova|Kiev|NO|stars_4
+261337|Holiday Inn Kiev|Kiev|NO|stars_4
+264942|Salute|Kiev|YES|stars_3
+273441|Park Hotel Golosievo|Kiev|YES|0
+273442|Guest House 1812|Kiev|YES|0
+273819|Sonata Hotel|Lvov|YES|0
+273835|Villa Elena Hotel & Residences|Jalta|YES|stars_5
+273848|Villa le Premier|Odessa|YES|stars_5
+273855|Osobnyak Residence|Odessa|NO|stars_3
+273860|Corona Hotel & Apartments|Odessa|YES|0
+274392|Mirax Boutique|Charkow|YES|0
+275724|Villa Kristina|Truskavets|YES|0
+280772|Ramada Encore Kiev|Kiev|NO|stars_4
+280776|Staro|Kiev|YES|stars_4
+281062|Shakhtar Plaza|Donetsk|YES|0
+281471|Kievskiy|Charkow|YES|0
+287455|Cityhotel|Kiev|NO|stars_4
+287456|Cosmopolite|Kiev|NO|stars_4
+287459|Royal Congress|Kiev|YES|0
+287460|Royal Grand|Kiev|YES|stars_4
+287461|11 Mirrors|Kiev|NO|stars_4
+287690|Passage Hotel|Odessa|YES|0
+289300|Royal Grand Hotel Truskavez|Truskavets|YES|0
+289301|Royal Spa Hotel Promenade|Truskavets|YES|0
+289302|Morskoy Hotel|Aluschta|YES|0
+294164|Kleopatra Hotel|Kamjanez-Podilskyj|YES|0
+294166|Palazzo Hotel|Poltawa|YES|0
+295212|Accord Hotel Deluxe|Krywyj Rih|NO|stars_4
+295213|Reikartz Avrora Krivoy Rog|Krywyj Rih|NO|stars_3
+295214|Accord Hotel Business|Krywyj Rih|NO|stars_3
+295349|Ukraina Hotel|Tscherkassy|YES|stars_3
+295350|Diligence Hotel|Cherson|YES|0
+295361|Mir Hotel In Rovno|Riwne|YES|0
+299443|Alfavito|Kiev|NO|stars_4
+299559|Liwadijskij Spa|Jalta|NO|stars_3.5
+363286|De Gaulle Boutique|Charkow|YES|stars_4
+363346|Alexandria|Kiev|YES|0
+363347|Radisson Blu Kyiv Podil|Kiev|NO|stars_4
+365042|Old Continent|Uschhorod|YES|0
+368937|Iq Hotel|Kiev|YES|0
+369095|Astoria Hotel|Lvov|YES|stars_4
+369098|Continental 2 Hotel|Odessa|YES|stars_3
+369101|Geneva Resort Hotel|Odessa|YES|0
+369103|Stolichniy Hotel|Donetsk|YES|0
+369104|Menorah Hotel|Dnepropetrovsk|YES|0
+369320|Viva Hotel|Charkow|YES|stars_4
+372191|Royal Village Resort Bukovel|Jaremtsche|YES|0
+380686|Royal Olimpic Hotel|Kiev|YES|stars_4
+390988|Senator Apartments Maidan|Kiev|NO|stars_4
+407982|Panorama De Luxe|Odessa|YES|0
+409408|Palais Royal Odessa|Odessa|YES|0

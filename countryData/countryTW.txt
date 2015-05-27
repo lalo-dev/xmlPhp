@@ -1,0 +1,202 @@
+13401|Grand Hyatt Taipei|Taipei|NO|stars_5
+18670|Paradise|Taipei|NO|stars_3
+31790|Leo Foo|Taipei|NO|stars_3
+40613|Golden China|Taipei|NO|stars_4
+40614|Santos|Taipei|NO|stars_4
+52449|Regent Taipei|Taipei|NO|stars_5
+52450|Riverview|Taipei|NO|stars_4
+52451|Howard Plaza|Taipei|NO|stars_5
+52452|Howard Plaza|Kaohsiung|NO|stars_5
+52453|Howard Plaza|Hsinchu|NO|stars_5
+52455|Silks Place Taroko|Shiou Lin Village|NO|stars_5
+53056|The Landis Taipei|Taipei|NO|stars_5
+53057|The Lalu|Nantou|NO|stars_5
+57654|The Grand|Taipei|NO|stars_4.5
+58027|The Splendor Taichung|Taichung|NO|stars_5
+60850|Sunworld Dynasty|Taipei|NO|stars_4
+64077|Sheraton Taipei|Taipei|YES|stars_5
+64078|Taipei Fullerton East|Taipei|NO|stars_4
+68660|Holiday Garden|Kaohsiung|NO|stars_4
+68661|Howard Prince|Taichung|NO|stars_4
+68662|Plaza International|Taichung|NO|stars_4
+82247|Imperial Hotel Taipei|Taipei|NO|stars_4.5
+88314|Shangri-La's Far Eastern Plaza|Taipei|YES|stars_5
+88462|Les Suites Taipei Ching-Cheng|Taipei|NO|stars_4.5
+88463|KDM|Taipei|NO|stars_3
+88464|Les Suites Taipei Da-An|Taipei|NO|stars_4
+88465|Caesar Park Taipei|Taipei|YES|stars_4
+88507|Taipei Hotel B|Taipei|NO|stars_3
+88579|Han-Hsien International|Kaohsiung|YES|stars_5
+88604|City Suites Nanxi|Taipei|NO|stars_4
+88607|Ambience|Taipei|NO|stars_4
+88615|Zimei Business|Taipei|NO|stars_3
+88616|Star Beauty|Taipei|NO|stars_3
+88622|San Want|Taipei|NO|stars_4
+88640|City Hotel Taipei|Taipei|NO|stars_3
+88643|Ahotel|Kaohsiung|NO|stars_3
+88650|Toong Mao|Kaohsiung|NO|stars_3
+88657|Grand Hi Lai|Kaohsiung|YES|stars_5
+88710|Meadow|Taipei|NO|stars_3
+88800|Tayih Landis|Tainan|NO|stars_5
+88924|Sunshine Hotel|Kaohsiung|YES|stars_4
+89077|Royal Hsinchu|Hsinchu|YES|stars_5
+94624|Four Points by Sheraton Taipei|Taipei|YES|stars_4
+103733|Ambassador|Taipei|NO|stars_5
+103776|Miramar Garden Taipei|Taipei|YES|stars_4.5
+104003|Ambassador|Kaohsiung|NO|stars_5
+105823|Maison de Chine Chiayi|Chiayi|NO|stars_4
+105856|Chungli Chinatrust|Zhongli|YES|stars_4
+106935|Evergreen Laurel Taipei|Taipei|YES|stars_5
+107080|First|Taipei|NO|stars_3
+107941|Chateau de Chine|Hualien|NO|stars_4
+108153|Chateau de Chine Kaohsiung|Kaohsiung|YES|stars_4
+108165|Chinatrust Inn - geschlossen|Kenting|NO|stars_3
+108599|Mandarin Oriental Taipei|Taipei|NO|stars_5
+110306|Riviera|Taipei|YES|stars_4
+111101|Taichung Maison de Chine|Taichung|YES|stars_3
+111148|Ambassador|Hsinchu|NO|stars_5
+111256|The Sherwood Taipei|Taipei|YES|stars_5
+111445|United|Taipei|NO|stars_4
+121538|Gloria Prince|Taipei|YES|stars_4
+129835|Lakeshore|Hsinchu|YES|0
+129836|The Crystal Resort Sun Moon Lake|Sun Moon Lake|NO|stars_5
+129837|Del Lago|Sun Moon Lake|NO|stars_4
+129838|Evergreen Laurel|Taichung|NO|stars_5
+129839|One|Taichung|NO|stars_5
+129842|Westin|Taipei|YES|stars_5
+129845|Royal Seasons Taipei|Taipei|NO|stars_4
+129847|Wonstar SongShan|Taipei|NO|stars_3
+129850|Sunroute|Taipei|NO|stars_3
+133236|Marshal|Hualien|NO|stars_4
+133237|C'est Jeune (Royal)|Hualien|NO|stars_3
+133240|Kingdom|Kaohsiung|NO|stars_4
+133241|The Lees|Kaohsiung|YES|stars_4.5
+133242|Lees Boutique|Kaohsiung|NO|stars_4
+133255|Gala|Taipei|NO|stars_4
+133256|Brother|Taipei|YES|stars_4
+133262|Royal Inn Nanxi|Taipei|NO|stars_3
+133263|Welcome|Taipei|NO|stars_3
+133265|Leader|Taipei|NO|stars_4
+133267|Royal Castle|Taipei|NO|stars_3
+133276|Rainbow Hotel|Taipei|NO|stars_3
+133279|Puri|Taipei|NO|stars_3
+133280|Royal Biz|Taipei|NO|stars_4
+133281|Royal Taipei|Taipei|NO|stars_4.5
+134219|San Want Residences|Taipei|NO|stars_4
+137051|Chateau de Chine Taoyuan|Taoyuan|NO|stars_4
+137173|Howard Beach Resort|Kenting|NO|stars_5
+137254|Fullon Hot Spring Resort|Tamsui|NO|stars_4
+137350|Dynasty|Tainan|NO|stars_4
+137406|Evergreen Laurel|Keelung|NO|stars_5
+137411|Formosan Naruwan|Taitung|NO|stars_4
+137882|Caesar Park Kenting|Kenting|NO|stars_4.5
+137885|Taoyuan|Taoyuan|NO|stars_4
+137903|Taipei Garden Hotel|Taipei|YES|stars_4
+137928|Tienlai Spring Resort|Jinshan|NO|stars_4
+137936|Fullon Taoyuan|Taoyuan|NO|stars_4
+137945|Holiday Inn East|Taipei|NO|stars_4
+137946|Fullon Taipei|Taipei|NO|stars_4.5
+137960|Sun Spring Resort|Jiaoxi|NO|stars_4
+137964|City Suites Gateway|Taoyuan|NO|stars_4
+137977|Fullon Sanyin|Sansia|NO|stars_4
+137984|Fullon Jhongli|Zhongli|NO|stars_4
+137990|Queena Chinatrust Landmark|Yongkang|YES|0
+138541|Taipei Fullerton South|Taipei|NO|stars_4
+143344|Sweetme Hotspring Resort|Beitou|NO|stars_4
+143345|Grand|Kaohsiung|NO|stars_5
+162992|Dion|Taichung|NO|stars_3
+162998|Holiday Inn Express Taoyuan|Taoyuan|NO|stars_3
+163003|Evergreen Plaza|Tainan|NO|stars_5
+163012|Taipei Lotty|Taipei|NO|stars_3
+163015|Hualien Far Glory|Hualien|NO|stars_5
+163021|YOHO Landis Beach Resort|Hengchun|NO|stars_4.5
+163030|Chuto Plaza|Taoyuan|NO|stars_3
+163035|Azure Hualien|Hualien|NO|stars_3
+163043|Eight Zone|Taipei|NO|stars_4
+183147|Fortune Haiyatt|Taipei|NO|stars_4
+202159|Parkview|Hualien|NO|stars_4.5
+202387|HD Palace|Taipei|NO|stars_4
+202650|Novotel Taipei Taoyuan International Airport|Taipei|YES|stars_4
+202651|Eclat|Taipei|YES|stars_5
+202655|Royal Seasons Hot Spring Beitou|Taipei|NO|stars_4
+227630|Park Taipei|Taipei|NO|stars_4
+227865|Forte Orange Linsen|Taipei|NO|stars_3
+230575|Monarch Plaza|Taoyuan|NO|stars_5
+233733|Grandee Taipei|Taipei|NO|stars_4
+233790|Holiday Inn Express Taichung Park|Taichung|NO|stars_3
+233792|Roumei Boutique|Taipei|NO|stars_4
+233795|Fullon Linkou|Taoyuan|NO|stars_4
+233893|Emperor|Taipei|NO|stars_3
+234631|Fullon Kending|Hengchun|NO|stars_4
+234632|Fullon Shenkeng|Taipei|NO|stars_4
+234637|Monarch Skyline|Taoyuan|NO|stars_4
+234638|Sheraton Hsinchu|Hsinchu|YES|0
+234888|Tempus|Taichung|YES|stars_4.5
+236571|Just Sleep Linsen|Taipei|NO|stars_3
+236572|Just Sleep Ximending|Taipei|NO|stars_3
+237719|Shangrila Boutique|Ilan|NO|stars_4
+237721|Fullon Fulong|Gongliao|NO|stars_4
+237722|Fullon Kaohsiung|Kaohsiung|NO|stars_4
+237723|Fullon Hualien|Hualien|NO|stars_4.5
+237724|Wulai Pause Landis Resorts|Wulai|NO|stars_4
+237725|Tango Taipei XinYi|Taipei|NO|stars_4
+238624|National|Taichung|NO|stars_4
+238626|Yiyuan Resort|Hualien|NO|stars_5
+238627|Tainan|Tainan|NO|stars_4
+238629|Premier Tainan|Tainan|NO|stars_3
+238720|Golden Star|Taipei|NO|stars_3
+238721|Rido|Taipei|NO|stars_3
+238722|Le Petit Sherwood|Taipei|NO|stars_5
+238725|Palais De Chine|Taipei|NO|stars_5
+238727|Beautique|Taipei|NO|stars_4
+238728|Taoyuan Zai Yan Leader|Taoyuan|NO|stars_4
+238733|Wonstar (Xi Men)|Taipei|NO|stars_3
+238738|Landis Inn Lotung|Lotung|NO|stars_4
+238739|Art Spa|Jiaoxi|NO|stars_4
+238965|The Metro|Taipei|NO|stars_3.5
+238966|W Hotels Taipei|Taipei|YES|stars_5
+240670|Hung's Mansion|Taichung|NO|stars_4
+240673|Quote Taipei|Taipei|NO|stars_4
+240677|Home Hotel|Taipei|NO|stars_4
+240679|Sense|Taipei|NO|stars_4
+240680|Landmark Inn Hsin-Chuang|Taipei|NO|stars_3
+241752|Hotel June Taipei|Taipei|NO|stars_4
+241754|Hotel 73|Taipei|NO|stars_3
+241755|Dandy (Daan Branch)|Taipei|NO|stars_3
+241756|CityInn II|Taipei|NO|stars_3
+243967|Huang Shin Business|Taichung|NO|stars_3.5
+243972|Beacon|Taichung|NO|stars_3
+243979|Leofoo Resort Guanshi|Hsinchu|NO|stars_4
+243983|Leofoo Resort Kending|Pingtung|NO|stars_5
+243990|Taipei International Hotel|Taipei|NO|stars_4
+243996|Tokyo International|Taipei|NO|stars_4
+244000|Fu-Hau|Taipei|NO|stars_3
+244003|New Continental|Taipei|NO|stars_3
+244004|Master Inn Taipei|Taipei|NO|stars_3
+244005|CityInn Hotel Taipei Station Branch I|Taipei|NO|stars_3
+244006|CityInn III|Taipei|NO|stars_3
+244011|Dandy (Tianmu Branch)|Taipei|NO|stars_3
+244012|Dandy (Tianjin Branch)|Taipei|NO|stars_3
+244016|FX Hotel Taipei Nanjing East Road|Taipei|NO|stars_4
+244346|Le Meridien Taipei|Taipei|YES|stars_5
+244348|Silks Place Yilan|Ilan|NO|stars_5
+246410|In One City Inn|Taichung|NO|stars_4
+246411|Wish Hotel|Taipei|NO|stars_3
+246412|MRT Taipei|Taipei|NO|stars_3
+246413|Legend Kaohsiung|Kaohsiung|NO|stars_3
+246414|Forward Taipei|Taipei|NO|stars_3
+246415|Forward Nangang Branch|Taipei|NO|stars_3
+246416|Forward Suites|Taipei|NO|stars_2
+246954|Purity|Taipei|NO|stars_2.5
+249315|Airline Inn|Taipei|NO|stars_3
+249320|Amba Taipei Ximending|Taipei|NO|stars_4
+259449|Chateau de Chine Sinjhuang|Taipei|YES|stars_4
+260706|Taipei Aqua Bella|Taipei|NO|stars_4
+265487|CityInn Hotel Plus (Taichung Station Branch)|Taichung|NO|stars_3
+279864|Gallery Hotel|Taipei|NO|stars_4
+279883|Volando Urai Spring Spa and Resort|Taipei|NO|stars_5
+279886|Hotel G7 Taipei|Taipei|NO|stars_3
+281913|City Suites Taichung Wuquan|Taichung|NO|stars_4
+299203|Luminous Hot Spring Resort & Spa|Taitung|NO|stars_4.5
+392079|85 Sky Tower Hotel|Kaohsiung|NO|stars_5
+406456|Royal Inn Linsen|Taipei|NO|stars_3

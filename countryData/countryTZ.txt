@@ -1,0 +1,120 @@
+1642|Kirawira Tented Camp|Serengeti National Park|NO|stars_5
+1645|Ngorongoro Serena Safari Lodge|Ngorongoro Conservation Area|NO|stars_4
+6483|VOI Kiwengwa Resort|Kiwengwa Beach|NO|stars_4
+17572|Mnemba Island Lodge|Insel Mnemba|NO|stars_5
+19122|Diamonds Mapenzi Beach|Kiwengwa Beach|NO|stars_4
+24613|Zanzibar Serena Inn|Stone Town|NO|stars_5
+32653|Karafuu Beach Resort|Pingwe|YES|stars_5
+34527|Bluebay Beach|Kiwengwa Beach|YES|stars_5
+39932|Arusha Coffee Lodge|Arusha National Park|NO|stars_4
+39934|The Arusha|Arusha National Park|NO|stars_4.5
+39935|Breezes Beach Club & Spa|Zanzibar City|NO|stars_4
+41821|Dar Es Salaam Serena|Dar-es-Salaam|NO|stars_5
+41825|Golden Tulip Dar Es Salaam|Dar-es-Salaam|YES|stars_3.5
+41826|Southern Sun Dar es Salaam|Dar-es-Salaam|NO|stars_4
+41827|Sea Cliff|Dar-es-Salaam|NO|stars_5
+41828|Protea Courtyard Dar es Salaam|Dar-es-Salaam|NO|stars_3
+41843|Lake Manyara Serena Safari Lodge|Lake Manyara National Park|NO|stars_4
+41852|Migration Camp|Serengeti National Park|NO|stars_5
+41853|Serengeti Serena Safari Lodge|Serengeti National Park|NO|stars_4
+41856|Swala Camp|Tarangire National Park|NO|stars_4.5
+41861|Ras Nungwi Beach|Nungwi|NO|stars_4
+41862|The Palms Zanzibar|Bwejuu|NO|stars_5
+41864|Sultan Palace Zanzibar|Bwejuu|NO|stars_4.5
+41867|Zanzibar Safari Resort|Zanzibar City|NO|stars_4.5
+41869|Kinasi Lodge|Mafia Island|NO|stars_4
+41871|Pole Pole Bungalow Resort|Mafia Island|NO|stars_4
+41873|Fundu Lagoon Lodge|Insel Pemba|NO|stars_4.5
+41874|Manta Reef Lodge|Insel Pemba|NO|stars_4
+47879|Ocean Paradise Resort Zanzibar|Kijangwani|YES|stars_4
+58184|Impala|Arusha National Park|NO|stars_3.5
+64523|Diamonds La Gemma dell'Est|Nungwi|NO|stars_5
+64793|Meliá Zanzibar|Kiwengwa Beach|YES|stars_5
+76158|Neptune Pwani Beach Resort & Spa|Pwani Mchangani|YES|stars_5
+76426|Matemwe Lodge|Matemwe Beach|NO|stars_4
+76836|Hatari Lodge|Arusha National Park|NO|stars_4
+77823|Hyatt Regency Dar es Salaam, The Kilimanjaro|Dar-es-Salaam|YES|stars_5
+77827|Tembo House|Stone Town|NO|stars_3.5
+77829|Fumba Beach Lodge|Menai Bay|NO|stars_3
+79959|Singita Grumeti Reserve - Sasakwa Lodge|Grumeti-Wildreservat|NO|stars_5
+87092|Singita Grumeti Reserve - Sasakwa Lodge / Sabora Tented Camp / Faru Faru Lodge / Singita Serengeti House / Singita Explore Mobile Tented Camp|Grumeti-Wildreservat|NO|stars_5
+90607|Hakuna Matata Beach Lodge|Chuini Ruins/Bububu|YES|stars_4
+91220|Pongwe Beach|Pongwe|NO|stars_3.5
+95610|Royal Zanzibar Beach Resort|Nungwi|NO|stars_5
+97219|Dhow Palace|Stone Town|NO|stars_3.5
+99674|Beyt Al Salaam|Stone Town|NO|stars_4
+103675|Fairmont Zanzibar|Stone Town|NO|stars_5
+109223|New Africa|Dar-es-Salaam|NO|stars_4
+109288|Mount Meru|Arusha|NO|stars_5
+110519|Sultan Sands Island Resort|Kiwengwa Beach|YES|stars_4
+122715|Kibo Palace|Arusha|NO|stars_4
+122720|Protea Oysterbay Dar es Salaam|Dar-es-Salaam|NO|stars_4
+123605|Baraza Resort & Spa|Bwejuu|NO|stars_5
+134340|Bilila Lodge Kempinski|Serengeti National Park|NO|stars_5
+134347|Diamonds Dream of Zanzibar|Mahonda|YES|stars_5
+142386|Bawe Tropical island|Zanzibar City|NO|stars_4
+143030|Gibbs Farm|Arusha National Park|NO|stars_4
+182455|Lake Duluti Serena|Arusha National Park|NO|stars_4
+182852|Azanzi Beach|Matemwe Beach|NO|stars_4
+183774|Mbuyuni Beach Villa|Zanzibar City|NO|stars_2
+187722|Kunduchi Beach Hotel & Resort|Dar-es-Salaam|NO|stars_3.5
+188334|The Manor at Ngorongoro|Ngorongoro Conservation Area|NO|stars_5
+203027|Mbuzi Mawe Tented Camp|Serengeti National Park|NO|stars_4
+228219|Doubletree by Hilton Resort Zanzibar|Nungwi|NO|stars_4
+229007|Diamonds Star of the East|Nungwi|NO|stars_5
+229008|The Seyyida Hotel & Spa|Stone Town|NO|stars_3
+229088|Ora Resort Palumbo Reef|Uroa|NO|stars_3
+229093|Marumbi Beach|Zanzibar City|YES|stars_3
+229094|My Blue|Zanzibar City|NO|stars_4
+230023|The Zanzibari|Nungwi|NO|stars_4
+230379|White Rose|Bwejuu|NO|stars_4
+232203|Doubletree Dar es Salaam - Oyster Bay|Dar-es-Salaam|NO|stars_4
+232810|Coral Reef|Zanzibar City|YES|stars_3
+233796|Colosseum|Dar-es-Salaam|YES|stars_4
+233797|Formula 10 Livingstone|Dar-es-Salaam|NO|stars_3
+234462|Dhown Inn|Paje|NO|stars_4
+234469|Paje by Night|Paje|NO|stars_3
+235087|Sea Cliff Resort & Spa|Mangapwani|NO|stars_4.5
+235411|Zanzibar Dolphin View Paradise|Kizimkazi|NO|0
+236573|Uroa Bay Beach Resort|Uroa|NO|stars_4
+237095|Kilindi Zanzibar|Kendwa|NO|stars_5
+237176|Samaki Lodge|Uroa|NO|stars_4
+238321|The Residence Zanzibar|Kizimkazi|NO|stars_5
+238322|Essque Zalu Zanzibar|Nungwi|NO|stars_5
+238506|Holiday Inn Dar es Salam City Centre|Dar-es-Salaam|NO|stars_4
+238821|Gold Zanzibar Beach House|Nungwi|NO|stars_5
+245517|Baobab Beach Resort|Nungwi|NO|stars_4
+245518|Chwaka Beach Resort|Chwaka|NO|stars_3
+249877|Exploreans Ngorongoro Lodge|Karatu|NO|stars_5
+259574|JB Belmont|Dar-es-Salaam|NO|stars_4
+260080|Kiwengwa Beach Resort|Kiwengwa Beach|NO|stars_4
+260105|Hideaway of Nungwi Resort & Spa|Nungwi|NO|stars_5
+260411|Paradise Beach Resort|Uroa|NO|stars_4
+260552|Ngalawa Beach Village|Chwaka|NO|stars_4
+260555|Maru Maru|Stone Town|YES|stars_3.5
+260556|Smiles Beach|Nungwi|NO|stars_2.5
+260624|Kamara Lodge|Arusha National Park|NO|stars_3.5
+260737|Four Seasons Safari Lodge, Serengeti|Serengeti National Park|NO|stars_5
+281525|Tanzanite Executive Suites|Dar-es-Salaam|YES|0
+285356|Singita Grumeti Reserve - Faru Faru Lodge|Grumeti-Wildreservat|NO|stars_5
+285357|Singita Grumeti Reserve - Sabora Tented Camp|Grumeti-Wildreservat|NO|stars_4.5
+291728|Savanna And Ocean|Paje|YES|0
+292099|Tarangire River Camp|Tarangire National Park|NO|stars_4
+292100|Zanzibar Grand Palace|Stone Town|NO|stars_4
+298037|Zanzibar Palace|Stone Town|NO|stars_4
+298847|Michamvi Sunset Bay|Zanzibar City|NO|stars_4
+300536|Langi Langi Beach Bungalows|Nungwi|NO|0
+302197|Escaprment Luxury Lodge|Lake Manyara National Park|NO|stars_4.5
+359363|Kisiwa House|Stone Town|NO|stars_5
+359496|Konokono Beach Resort|Zanzibar City|NO|stars_5
+359729|Green and Blue Zanzibar Ocean Lodge|Matemwe Beach|NO|stars_4
+363457|Zanzi Resort|Zanzibar City|NO|stars_5
+363754|Legendary Lodge|Arusha|NO|stars_4.5
+365506|The Z|Nungwi|NO|stars_4
+366608|Matlai Boutique|Zanzibar City|NO|stars_5
+369360|Nikko Towers|Dar-es-Salaam|YES|0
+372372|Nashera|Morogoro|YES|0
+372936|Flame Tree Cottages|Nungwi|NO|0
+406380|Sunshine Hotel|Matemwe Beach|NO|stars_4
+407166|Sunshine Marine Lodge|Matemwe Beach|NO|stars_3.5
+411697|Indigo Beach Zanzibar|Bwejuu|NO|stars_3

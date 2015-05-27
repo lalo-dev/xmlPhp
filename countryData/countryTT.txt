@@ -1,0 +1,58 @@
+3936|Blue Waters Inn|Batteaux Bay|YES|stars_3
+3937|Coco Reef Resort / Spa|Store Bay|YES|stars_4
+3938|Crown Point Beach|Crown Point|YES|stars_3
+3939|Grafton Beach Resort|Black Rock|YES|stars_3
+3942|Turtle Beach by Rex Resorts|Tobago|YES|stars_3
+8028|Arnos Vale Resort|Arnos Vale Bay|NO|stars_3.5
+9112|Blue Haven|Scarborough|YES|stars_4
+10712|Conrado Beach|Tobago|NO|stars_3
+13756|Hampden Inn / Hampten Inn|Lowlands Beach|NO|stars_2
+14027|VHL Tobago Golf & Spa Resort|Tobago|YES|stars_4
+15242|Kariwak Village|Store Bay|YES|stars_3
+16070|Le Grand Courlan Resort & Spa|Black Rock|YES|stars_3
+16779|Manta Lodge|Speyside|NO|stars_3
+18251|Half Moon Blue|Scarborough|YES|stars_3
+19125|Plantation Beach Villas|Stonehaven Bay|NO|stars_3
+21331|Seashells Villas|Pigeon Point|NO|stars_3.5
+22227|The Villas at Stonehaven|Stonehaven Bay|YES|stars_4
+23244|Toucan Inn|Store Bay|NO|stars_2.5
+23386|Tropikist Beach|Tobago|YES|stars_3
+23458|Turtle View Residence|Tobago|NO|stars_2.5
+31989|Kapok|Port of Spain|YES|stars_3
+31990|Pax Guest House|Port of Spain|NO|stars_2.5
+48105|Cascadia|Savannah Park|NO|stars_2
+48107|Footprints Eco Resort|Culloden Bay|NO|stars_3.5
+48114|Salybia|Salybia|NO|stars_3.5
+48115|Sandy Point|Crown Point|NO|stars_3
+48116|Seahorse Inn|Stonehaven Bay|NO|stars_5
+51447|Sherwood Park|Buccoo|NO|stars_2.5
+51448|Radisson Hotel Trinidad|Port of Spain|YES|stars_3.5
+51450|Canoe Bay Resort|Lowlands Beach|NO|stars_3
+53031|Hilton Trinidad & Conference Center|Port of Spain|NO|stars_4
+61755|Tobago Beach Villas|Stonehaven Bay|NO|stars_5
+61818|Sealevel Guesthouse|Castara|NO|stars_2
+64559|Tobago Island Suites|Mount Irvine Bay|NO|stars_2
+64562|Speyside Inn|Speyside|NO|stars_3
+72932|Lighthouse Apartment|Pigeon Point|NO|0
+73157|Maracas Bay|Maracas|YES|stars_3
+73248|Chaconia|Maraval|YES|stars_3
+73249|Coblentz Inn|Port of Spain|NO|stars_4
+73250|The Normandie|Port of Spain|YES|stars_4
+77405|Motown Guest House|Port of Spain|YES|stars_2
+77406|Moniques Guest House|Port of Spain|YES|stars_3
+77493|Sundeck|Port of Spain|YES|stars_2
+77494|Par May La's Inn|Port of Spain|YES|stars_3
+77495|Alicia´s House Limited|Port of Spain|YES|stars_2.5
+77612|Ambassador|St. James|YES|stars_3
+77621|Forty Winks Inn|Port of Spain|YES|stars_2
+78153|The Royal Palm Suite|Port of Spain|YES|stars_2.5
+78831|Inn on the Bay|Little Rockley Bay|NO|stars_3
+91373|Cuffie River Nature Resort|Tobago|NO|stars_4
+110395|Bacolet Beach Club|Scarborough|YES|stars_4
+110580|Hyatt Regency Trinidad|Port of Spain|YES|stars_5
+162807|Carlton Savannah|Port of Spain|NO|stars_4
+163373|Bamboo Walk|Mount Irvine Bay|NO|stars_2.5
+244603|Magdalena Grand Beach Resort|Tobago|NO|stars_4
+368242|Sugar Mill Suites|Scarborough|NO|stars_3.5
+368960|Airport Suites|Port of Spain|YES|0
+407814|Heritage Inn|Port of Spain|NO|stars_3
