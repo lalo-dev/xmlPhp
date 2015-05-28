@@ -1,0 +1,29 @@
+8648|Beaches Turks & Caicos Resort Villages & Spa|Grace Bay|YES|stars_5
+10670|Ports of Call Resort Turks & Caicos|Grace Bay|YES|stars_3
+13361|Grace Bay Club|Grace Bay|NO|stars_5
+18845|Parrot Cay by COMO|Parrot Cay|YES|stars_5
+19238|Point Grace|Grace Bay|NO|stars_4.5
+42454|Royal West Indies Resort|Grace Bay|NO|stars_4
+42455|The Sands|Grace Bay|YES|stars_4
+48482|Turquoise|Turquoise|NO|stars_3
+64974|The Regent Palms|Providenciales|NO|stars_5
+72016|Amanyara|Providenciales|YES|stars_5
+76392|Sibonne Beach|Grace Bay|NO|stars_2.5
+76421|Ocean Club Resorts - Ocean Club / Ocean Club West|Grace Bay|NO|stars_3.5
+94080|Alexandra Resort|Providenciales|YES|stars_4
+109276|Northwest Point Resort|Providenciales|NO|stars_3
+110577|Seven Stars Resort|Grace Bay|NO|stars_5
+111350|Trade Winds Condohotel|Providenciales|NO|stars_3
+162731|Villa del Mar|Providenciales|NO|stars_4
+162736|The Somerset on Grace Bay|Grace Bay|NO|stars_5
+177202|The Regent Grand|Grace Bay|NO|stars_5
+201655|Gansevoort Turks & Caicos, a Wymara Resort|Providenciales|NO|stars_4
+234498|Windsong Resort|Grace Bay|NO|stars_4
+235111|La vista Azul|Providenciales|NO|stars_3
+236400|The Veranda Resort & Residences|Providenciales|NO|stars_5
+236507|The West Bay Club|Providenciales|NO|stars_4
+296729|Ocean Club Resorts - Ocean Club|Grace Bay|YES|0
+296730|Ocean Club Resorts - Ocean Club West|Grace Bay|YES|stars_4
+300247|The Meridian Club on Pine Cay|Pine Cay|YES|0
+368088|Venetian Ridge Vacation Villas Plus Spa|Providenciales|NO|stars_3
+408727|Blue Haven Resort & Marina|Providenciales|YES|0

@@ -1,0 +1,429 @@
+3944|Caribbean World Thalasso Djerba|Aghir|NO|stars_4
+3946|Al Jazira Beach|Djerba Island|NO|stars_3
+3947|Aldiana Djerba Atlantide|Djerba Island|NO|stars_4
+3948|Djerba Les Dunes|Sidi Mahrez Beach|NO|stars_3
+3950|Cédriana Djerba|Djerba Island|YES|stars_3
+3954|Sentido Djerba Beach|Djerba Island|YES|stars_4
+3955|Club Djerba Jasmina|Houmt Souk|NO|stars_3
+3956|SunConnect Djerba Aqua Resort|Djerba Island|NO|stars_4
+3957|Hasdrubal Thalassa & Spa|Djerba Island|YES|stars_5
+3958|Ksar Djerba|Djerba Island|NO|stars_3
+3959|Djerba Holiday Beach|Sidi Mahrez Beach|NO|stars_4
+3960|Joya Paradise & Spa|Djerba Island|NO|stars_4
+3962|Iberostar Mehari Djerba|Djerba Island|YES|stars_3
+3963|El Mouradi Djerba Menzel|Djerba Island|YES|stars_4
+3966|Venice Beach|Midoun|NO|stars_3
+3968|RIU Palm Azur|Midoun|NO|stars_4
+3969|Palm Beach Club Djerba|Djerba Island|NO|stars_4
+3971|MAGIC LIFE Penelope Beach Imperial|Houmt Souk|NO|stars_4
+3972|Djerba Plaza|Djerba Island|NO|stars_4
+3973|RIU Palace Royal Garden|Djerba Island|NO|stars_5
+3974|Sangho Village Djerba|Aghir|NO|stars_3
+3975|Sangho Zarzis|Zarzis|NO|stars_3
+3976|Sidi Slim|Aghir|NO|stars_3
+3977|Homere|Aghir|NO|stars_3
+3979|Club Telemaque|Djerba Island|NO|stars_4
+3980|Radisson Blu Ulysse Resort & Thalasso Djerba|Djerba Island|YES|stars_5
+3981|Yadis Djerba Golf Thalasso & Spa|Djerba Island|YES|stars_5
+3982|Zita Beach|Zarzis|NO|stars_4
+3983|El Mouradi Douz|Douz|YES|stars_4
+3986|Djerba Sun Club|Djerba Island|NO|stars_3
+3988|Zarzis|Zarzis|NO|stars_4
+3989|Aziza Beach Golf & Spa|Hammamet|NO|stars_4
+3990|Bel Air|Hammamet|YES|stars_3
+3991|Bel Azur Thalassa|Hammamet|YES|stars_3
+3992|Narcis Resort|Hammamet|NO|stars_4
+3993|Kinza Zenith Hotel Complex - Zenith|Hammamet|YES|stars_3
+3995|Dalia|Hammamet|NO|stars_3
+3997|Khayam Hammamet Resort - Dar Khayam|Hammamet|YES|stars_3
+3998|Bousten Long Beach Club|Hammamet|YES|stars_3
+3999|Emira|Hammamet|YES|stars_3
+4000|Lti Les Orangers Garden Villas & Bungalows|Hammamet|NO|stars_3
+4003|Albatros|Hammamet|NO|stars_3
+4004|Le Hammamet|Hammamet|NO|stars_4
+4005|Les Colombes|Hammamet|NO|stars_3
+4006|Les Orangers Beach Resort|Hammamet|NO|stars_4
+4007|Hammamet Garden|Hammamet|YES|stars_4
+4008|Holiday Village Manar|Hammamet|NO|stars_4.5
+4011|Méditerranée Thalasso Golf|Hammamet|NO|stars_3
+4012|Movie Gate Miramar|Hammamet|NO|stars_4
+4013|Nahrawess Hotel & Spa|Hammamet|YES|stars_4
+4014|Nesrine|Hammamet|YES|stars_4
+4015|Vincci Nozha Beach & Spa|Hammamet|YES|stars_4
+4017|RIU Palace Oceana Hammamet|Hammamet|NO|stars_5
+4018|PrimaSol Omar Khayam Resort|Hammamet|NO|stars_3
+4019|Palm Beach Club Hammamet|Hammamet|YES|stars_4
+4022|Sentido Phenicia|Hammamet|YES|stars_4
+4024|Hammamet Regency|Hammamet|NO|stars_4
+4025|Residence Hammamet|Hammamet|YES|stars_3
+4026|Residence de la Paix|Hammamet|YES|stars_3
+4027|Residence Mahmoud|Hammamet|NO|stars_3
+4030|Riu Palace Hammamet Marhaba|Hammamet|NO|stars_5
+4031|Sol Azur Beach|Hammamet|YES|stars_4
+4032|Caribbean World Hammamet Garden|Hammamet|NO|stars_3
+4037|El Fatimi Mahdia|Mahdia|YES|stars_4
+4038|RIU El Mansour|Mahdia|NO|stars_4
+4039|LTI Mahdia Beach|Mahdia|NO|stars_4
+4040|Mahdia Palace Thalasso|Mahdia|NO|stars_5
+4041|El Mouradi Mahdia|Mahdia|NO|stars_5
+4043|Thapsus|Mahdia|NO|stars_3
+4044|Topkapi Beach|Mahdia|NO|stars_3
+4045|Eden Club|Skanes|YES|stars_3
+4046|Esplanade|Skanes|NO|stars_4
+4047|Garden Beach Club|Skanes|NO|stars_3
+4049|Mezri|Monastir|NO|stars_3
+4052|Dessole Ruspina Resort|Skanes|NO|stars_4
+4053|Tropicana|Skanes|NO|stars_3
+4055|Les Pyramides|Nabeul|NO|stars_3
+4056|Caribbean World Nabeul|Nabeul|YES|stars_4
+4058|Iberostar Diar El Andalous|Port el Kantaoui|YES|stars_5
+4059|Seabel Alhambra Beach Golf & Spa|Port el Kantaoui|YES|stars_4
+4060|RIU Bellevue Park|Port el Kantaoui|NO|stars_4
+4061|Dessole Abou Sofiane Resort|Port el Kantaoui|YES|stars_4
+4062|Dessole Riviera Hotel|Port el Kantaoui|YES|stars_4
+4064|El Hana Hannibal Palace|Port el Kantaoui|NO|stars_4
+4065|El Hana Palace Caruso|Port el Kantaoui|NO|stars_4
+4067|RIU Palace Green Park|Port el Kantaoui|NO|stars_4
+4068|Hasdrubal Thalassa & Spa Port El Kantaoui|Port el Kantaoui|YES|stars_4
+4069|Houria Palace|Port el Kantaoui|NO|stars_4
+4070|Kanta|Port el Kantaoui|NO|stars_4
+4071|Les Maisons de la Mer|Port el Kantaoui|NO|stars_3
+4072|MAGIC LIFE Africana Imperial|Hammamet-Yasmine|NO|stars_5
+4073|RIU Imperial Marhaba|Port el Kantaoui|NO|stars_5
+4074|Marhaba Palace|Port el Kantaoui|NO|stars_4
+4075|El Mouradi Palace|Port el Kantaoui|YES|stars_5
+4077|Coralia Jawhara Palm Beach Sousse|Sousse|NO|stars_2
+4078|El Mouradi Palm Marina|Port el Kantaoui|YES|stars_5
+4081|Royal Kenz|Port el Kantaoui|NO|stars_4
+4082|El Mouradi Club Selima|Port el Kantaoui|YES|stars_3
+4083|El Mouradi Club Kantaoui|Port el Kantaoui|NO|stars_4
+4084|El Mouradi Port El Kantaoui|Port el Kantaoui|NO|stars_4
+4085|Soviva Resort|Port el Kantaoui|NO|stars_3.5
+4086|Amir Palace|Skanes|NO|stars_4.5
+4087|Dessole Bella Vista|Skanes|YES|stars_4
+4088|Golden Beach|Skanes|NO|stars_3.5
+4090|Houda Golf & Beach Resort|Skanes|YES|stars_3
+4091|Kuriat Palace|Skanes|NO|stars_4
+4092|Les Palmiers|Skanes|YES|stars_2
+4093|Ramada Liberty Resort|Skanes|YES|stars_4
+4095|Dessole Saadia Resort|Skanes|NO|stars_3
+4096|Sahara Beach|Skanes|YES|stars_3
+4098|Skanes El Hana|Skanes|NO|stars_4
+4100|LTI Thalassa Sousse|Sousse|NO|stars_4
+4102|Nahrawess Boujaafar|Sousse|NO|stars_4
+4103|Daphne Club Skanes Beach|Skanes|NO|stars_4
+4104|Helya Beach & Spa|Skanes|YES|stars_4
+4105|Chems El Hana|Sousse|NO|stars_3.5
+4106|Cleopatra|Sousse|NO|stars_3
+4108|El Hana Beach|Sousse|YES|stars_3
+4109|El Jinene Royal / Beach|Sousse|NO|stars_3
+4110|El Menchia|Sousse|NO|stars_2.5
+4111|Hill Diar|Sousse|NO|stars_3
+4113|Justinia|Sousse|NO|stars_3
+4114|Kaiser|Sousse|NO|stars_3
+4115|Karawan|Sousse|NO|stars_3
+4116|Marabout|Sousse|NO|stars_3
+4117|Marhaba Resorts - Marhaba Hotel|Sousse|NO|stars_4
+4118|Marhaba Beach|Sousse|NO|stars_4
+4119|Marhaba Royal Salem|Sousse|YES|stars_4
+4120|Marhaba Salem|Sousse|NO|stars_4
+4122|Abou Nawas Nejma|Sousse|YES|stars_3.5
+4123|Nour Justinia|Sousse|NO|stars_2.5
+4124|Orient Palace|Sousse|NO|stars_4.5
+4127|Riadh Palms|Sousse|YES|stars_4
+4128|Royal Beach|Sousse|NO|stars_3
+4131|Scheherazade|Sousse|NO|stars_3
+4132|Sindbad Inn|Sousse|NO|stars_3
+4134|Tej Marhaba|Sousse|YES|stars_4
+4135|Tergui|Sousse|NO|stars_3
+4136|Tour Khalef|Sousse|NO|stars_3.5
+4139|Les Mimosas|Tabarka|NO|stars_3
+4141|Yadis Morjane Tabarka|Tabarka|YES|stars_3
+4142|Royal Golf Marhaba|Tabarka|NO|stars_4
+4143|Club Acqua Viva|Gammarth|YES|stars_3
+4144|Marina Garden|Gammarth|NO|stars_3
+4146|Solymar|Soliman|NO|stars_3
+4148|Laico Tunis|Tunis|YES|stars_5
+5744|Odyssee Resort|Zarzis|NO|stars_4
+5753|Hotel El Fell|Hammamet|NO|stars_3
+5754|Le Sultan|Hammamet|YES|stars_4
+5788|Le Enjoy Djerba|Djerba Island|NO|stars_4
+6061|Isis|Djerba Island|NO|stars_4
+6062|Dar Sofiane|Djerba Island|NO|stars_3
+6063|Djerba Haroun|Djerba Island|YES|stars_3
+6064|SENTIDO Cesar Thalasso|Djerba Island|NO|stars_4.5
+6065|Le Palais des Iles|Djerba Island|NO|stars_4
+6066|Giktis|Zarzis|NO|stars_3
+6505|Ramada Plaza Tunis|Gammarth|YES|stars_5
+6508|L'Ecrin|Hammamet|NO|stars_3.5
+6510|El Mouradi Beach|Hammamet|YES|stars_4
+6511|Riu Marillia|Hammamet|NO|stars_4
+6512|El Mouradi El Menzah|Hammamet|YES|stars_4
+6514|Prima Life Safa|Hammamet|NO|stars_3
+6515|Riu Marco Polo|Hammamet|NO|stars_4
+6516|Hammamet Serail|Hammamet|NO|stars_4
+6517|El Mouradi Cap Mahdia|Mahdia|YES|stars_3
+6520|Skanes Family Resort|Skanes|YES|stars_4
+6521|Kheops Dolce Vita|Nabeul|NO|stars_3
+6522|Golf Residence|Port el Kantaoui|NO|stars_3
+6877|Ksar Rouge|Tozeur|NO|stars_4
+7036|Abir|Djerba Island|NO|stars_3
+7039|Caribbean World Monastir|Skanes|YES|stars_4
+7040|Abou Nawas Montazah Club|Tabarka|NO|stars_3
+7041|Abou Nawas Tozeur|Tozeur|YES|stars_4
+7666|Amilcar|Carthage|NO|stars_3
+8418|Daphne Bahia Beach|Hammamet|NO|stars_4
+9386|Byzance|Nabeul|NO|stars_3
+9493|Calimera Yati Beach|Djerba Island|NO|stars_4
+10265|Ceramic|Hammamet|NO|stars_2
+10795|Coralia Club Monastir|Monastir|YES|stars_2
+10822|Chich Khan|Hammamet|YES|stars_4
+10823|LTI El Ksar Resort & Thalasso|Sousse|NO|stars_4
+10831|Corniche|Bizerte|NO|stars_3
+11132|Dar Dhiafa|Djerba Island|NO|stars_3
+11133|Caribbean World Gammarth - Dar Naouar Fiesta / Dar Nawar|Gammarth|NO|stars_3
+11134|Dar Salem|Djerba Island|NO|stars_3
+11137|Dar Taoufik|Djerba Island|NO|stars_3
+11138|Ezzahra Dar Tunis|Ez Zahra|YES|stars_3
+11541|Djerba Orient|Djerba Island|NO|stars_3
+11750|Dreams Beach|Sousse|NO|stars_3
+11831|Thalassa Mahdia|Mahdia|NO|stars_4
+11966|El Hana Residence|Sousse|YES|stars_4
+11974|PrimaSol El Mehdi|Mahdia|NO|stars_4
+11983|Dar El Olf Hotel|Hammamet-Yasmine|NO|stars_4
+12514|Fiesta Beach|Midoun|YES|stars_4
+13301|Golden Tulip Carthage Tunis|La Marsa|YES|stars_5
+13569|Green Golf|Hammamet|NO|stars_3
+13699|Hacienda des 4 Saisons|Djerba Island|NO|stars_3
+13823|Hasdrubal Thalassa & Spa Yasmine Hammamet|Hammamet|YES|stars_5
+14384|Meninx|Djerba Island|YES|stars_3
+14541|Iberostar Averroes|Hammamet|YES|stars_4
+14546|Dessole Royal Lido Resort & Spa|Nabeul|YES|stars_3
+14554|Zephir|Zarzis|YES|stars_4
+15396|Kinza Zenith Hotel Complex - Kinza|Hammamet|NO|stars_3
+15560|Ksar Jerid|Tozeur|NO|stars_4
+16077|Le Khalife|Hammamet|NO|stars_3
+16124|Le Palace|Tunis|YES|stars_5
+16145|Khayam Garden Beach & Spa|Nabeul|NO|stars_4
+16260|Les Maisons de Jardin|Port el Kantaoui|NO|stars_3
+16269|Les Quatre Saisons|Djerba Island|NO|stars_3
+16274|Komplex Les Sirenes Beach & Les Sirenes Thalasso Spa|Djerba Island|NO|stars_4
+16347|Menara|Hammamet|YES|stars_3
+16658|Djerba Mare Beach Resort|Djerba Island|NO|stars_3.5
+16946|Marina Palace|Hammamet|YES|stars_4
+17173|Houda Yasmine|Hammamet|YES|stars_4
+17174|Medi Sea|Cedria Beach|NO|stars_3
+17213|Mehari|Douz|YES|stars_3
+17227|El Mouradi Hammamet|Hammamet|YES|stars_5
+17301|Dar Hayet|Hammamet|NO|stars_4
+17540|Carthage Thalasso Resort|Gammarth|YES|stars_5
+17627|Monastir Center|Monastir|NO|stars_4
+17890|Neptunia Beach|Skanes|NO|stars_3
+18523|Palm Beach Palace|Tozeur|NO|stars_5
+18613|Panorama|Sousse|NO|stars_3
+18772|Park Inn by Radisson Hammamet|Hammamet|NO|stars_4
+19840|Partner Rais|Djerba Island|NO|stars_3
+20192|Residence Dar Ali|Djerba Island|NO|stars_3
+20208|Residence Le Beau Rivage|Djerba Island|NO|stars_3
+20224|Residence Mehari Tabarka|Tabarka|NO|stars_4
+20233|Residence Sultana|Zarzis|YES|stars_3
+20426|Méhari Hammamet, Thalasso & Spa|Hammamet-Yasmine|YES|stars_5
+20606|Sentido Rosa Beach|Skanes|YES|stars_4
+20663|Royal Azur Thalasso Golf|Hammamet|YES|stars_4.5
+20716|Royal Residence|Hammamet|NO|stars_4
+20791|Seabel Rym Beach|Djerba Island|YES|stars_3
+20905|Samara|Sousse|NO|stars_4
+20914|Samira Club|Hammamet|YES|stars_3
+21457|Shalimar|Hammamet|NO|stars_4
+21680|Sindbad|Hammamet|YES|stars_5
+21815|Palm Beach Palace Djerba|Djerba Island|NO|stars_5
+21992|Hotel Sousse Palace|Sousse|YES|stars_4
+22324|Sun Holiday Beach|Hammamet|NO|stars_2.5
+22528|Tamerza Palace|Tamerza|NO|stars_4
+22585|Tennis Resort / Mediterranee|Chott Meriem|NO|stars_3
+22649|Royal Thalassa Monastir|Skanes|YES|stars_5
+23400|Dar Cherait|Tozeur|NO|stars_5
+23402|Vincci Flora Park|Hammamet|YES|stars_4
+23409|Tulip Inn Phebus|La Marsa|YES|stars_4
+23635|Caribbean World Venus Beach|Hammamet|YES|stars_3
+24575|Yasmine Beach|Hammamet|NO|stars_4
+24728|Seabel Aladin|Aghir|YES|stars_3
+26746|Zodiac|Hammamet|YES|stars_4
+27319|Enjoy Thalassa|Skanes|NO|stars_4
+27379|smartline Le Petit Palais|Djerba Island|NO|stars_3
+28050|Laico Djerba|Midoun|NO|stars_4
+28168|El Mouradi Skanes|Skanes|YES|stars_4
+28170|Nour Palace Resort & Thalasso|Mahdia|YES|stars_5
+28172|Hotel Bravo Djerba|Djerba Island|YES|stars_4.5
+28173|Vincci Djerba Resort|Sidi Mahrez Beach|YES|stars_4
+28217|Valtur Tabarka|Tabarka|NO|stars_4
+28238|Djerba Castille|Djerba Island|NO|stars_4
+28306|Boujaafar Aparthotel|Sousse|YES|stars_3
+28322|Dar Zakarya|Hammamet|NO|stars_4
+28942|Thalassa Village Skanes|Skanes|NO|stars_4
+29563|El Kantaoui Center|Port el Kantaoui|YES|stars_4
+32292|Minotel Djerba Resort|Djerba Island|NO|stars_3
+33196|Laico Hammamet|Hammamet|NO|stars_5
+33197|Saphir Palace|Hammamet-Yasmine|YES|stars_5
+33317|Dar Ismail|Tabarka|NO|stars_5
+34614|Aldiana Tunesien|Nabeul|NO|stars_4
+38013|The Residence Tunis|La Marsa|NO|stars_5
+38289|Eden Star|Zarzis|NO|stars_4
+38319|Vincci Taj Sultan|Hammamet|YES|stars_5
+38776|Le Royal Hammamet|Hammamet|NO|stars_5
+39050|Club Med Djerba La Douce|Djerba Island|NO|stars_3
+39061|Mirage Beach Club|Hammamet|NO|stars_4
+39639|La Gondole|Sousse|NO|stars_3
+40620|Bravo Garden|Hammamet-Yasmine|NO|stars_4
+41074|Djerba Playa Club Hotel|Djerba Island|YES|stars_4
+41409|Grand Oasis Hammamet|Hammamet-Yasmine|YES|stars_5
+51440|Aqua Life Yasmine|Hammamet|NO|stars_4
+52542|Africa|Tunis|YES|stars_5
+52662|Oasis Marine|Djerba Island|NO|stars_3
+53023|Medina Belisaire & Thalasso|Hammamet-Yasmine|YES|stars_4
+53093|Jasmina Playa|Houmt Souk|NO|stars_4
+53278|Villa Azure|Djerba Island|NO|stars_3
+55577|El Mouradi Gammarth|Gammarth|YES|stars_5
+55898|Vincci Lella Baya|Hammamet|YES|stars_4
+57031|Royal Nozha|Hammamet|YES|stars_4
+57032|Caribbean World - Borj Cedria / Sun Beach Resort|Cedria Beach|NO|stars_4
+60073|La Kasbah|Kairouan|YES|stars_5
+60983|Caribbean World Venus Garden|Hammamet|NO|stars_3
+61291|Majesty Golf|Hammamet|NO|stars_4
+61401|SprinClub Djerba Golf & Spa|Midoun|NO|stars_4
+61402|Club Lookéa Authentique Hammamet Village|Hammamet|NO|stars_3
+62289|Medina Solaria & Thalasso|Hammamet-Yasmine|YES|stars_5
+62553|Marhaba Resorts - Marhaba Club|Sousse|NO|stars_4
+63706|Club Colisee Beach|Hammamet|NO|stars_2.5
+63822|Alhambra Thalasso|Hammamet|YES|stars_5
+64606|Grand Hotel des Thermes|Djerba Island|NO|stars_3
+64820|Tunisia Lodge|Hammamet|NO|stars_4
+65026|Sheraton Tunis Hotel & Towers|Tunis|YES|stars_5
+66343|Welcome Meridiana Djerba|Djerba Island|NO|stars_4
+69496|Lti Rimel Beach Resort|Midoun|NO|stars_4
+69524|Radisson Blu Palace|Houmt Souk|YES|stars_5
+70937|Caribbean World Mahdia|Mahdia|NO|stars_4
+71434|Caribbean World Palma|Djerba Island|NO|stars_3
+72369|Golden Tulip El Mechtel|Tunis|YES|stars_4
+72370|El Hana International|Tunis|NO|stars_3
+73161|Henry Morgan Village|Gammarth|NO|stars_3
+73471|Daphne Club Sousse|Port el Kantaoui|NO|stars_3
+74033|One Resort Monastir|Skanes|NO|stars_4
+75404|Jawhara Coralia Club - geschlossen|Sousse|YES|stars_2
+75511|Diar Lemdina|Hammamet|YES|stars_4
+75512|Going Villaggio Iliade|Djerba Island|NO|stars_4
+76574|African Queen|Hammamet|YES|stars_4
+76846|Jasmina Thalassa|Houmt Souk|NO|stars_5
+78499|Tanfous|Hammamet|NO|stars_3
+78683|La Perla|Hammamet-Yasmine|NO|stars_4
+79874|Paradis Palace|Hammamet|NO|stars_4
+81850|Dar El Bhar|Djerba Island|NO|stars_3
+82404|Dar Said|Tunis|NO|stars_4
+85729|Excel|Hammamet|YES|stars_4
+86781|Djerba Azurea|Midoun|NO|stars_3.5
+87401|Cyclamens Mechmoum|Hammamet-Yasmine|YES|stars_3
+87464|Safira Palms|Zarzis|YES|stars_4
+92902|Villa Didon|Carthage|NO|stars_5
+92924|Sangho Privilège|Tataouine|YES|stars_3
+92925|Tabarka Beach Resort|Tabarka|YES|stars_5
+92926|Yadis Ibn Khaldoun|Tunis|YES|stars_3
+95050|Marhaba Resorts - Marhaba Neptune|Sousse|NO|stars_4
+96991|Skanes Serail|Skanes|NO|stars_4
+97873|Eldorador Salammbo|Hammamet|NO|stars_3
+99919|Rodes|Sidi Mahrez Beach|NO|stars_4
+100134|Residence Villamar|Hammamet|NO|stars_4
+103697|Residence El Fatimi|Mahdia|NO|0
+108467|Les Berges du Lac Concorde|Tunis|NO|stars_5
+110477|Plus Hammamet|Hammamet|NO|stars_3
+122522|Hasdrubal Prestige Thalassa & Spa Djerba|Djerba Island|YES|stars_5
+122525|Yadis Oasis Tozeur|Tozeur|YES|stars_3
+122527|El Mouradi Tozeur|Tozeur|YES|stars_4
+122529|Yadis Oasis Kebili|Kebili|YES|stars_4
+122533|Pan Sea|Ksar Ghilane|NO|stars_3.5
+122854|Tunisia Palace|Tunis|YES|stars_4
+122855|Belvedere Fourati|Tunis|NO|stars_4
+122946|Le Pacha|Tunis|NO|stars_3
+129830|Le Diplomat|Tunis|NO|stars_4
+133197|La Maison Blanche|Tunis|NO|stars_5
+134546|Le Charmilles & Spa Apartments|Gammarth|NO|stars_5
+134691|Sangho Syphax|Sfax|YES|stars_4
+134707|Rym Hotel|Sousse|NO|stars_3
+135075|El Mouradi Hammam Bourguiba|Ain Draham|YES|stars_4
+135309|Mövenpick Resort & Marine Spa Sousse|Sousse|YES|stars_5
+139945|Diana Beach|Zarzis|NO|stars_3
+140278|Flamingo Beach|Djerba Island|NO|0
+157709|Sunshine Kids Rosa Rivage|Monastir|YES|stars_3
+161824|Delphin Habib Komplex - Delphin Habib|Monastir|NO|stars_4
+162808|Les Oliviers Palace|Sfax|YES|stars_5
+162809|Golf Royal|Tunis|NO|stars_3
+162810|du Parc|Tunis|NO|stars_3
+162812|Hamilton|Hammamet|NO|stars_2
+162816|Sun Palm Douz|Douz|YES|stars_4
+162826|Residence Romane|Hammamet|YES|stars_2
+162827|Les Citronniers|Hammamet|NO|stars_2
+162829|Villa Noria|Hammamet-Yasmine|NO|stars_4
+162830|Ras El Ain|Tozeur|YES|stars_4
+163358|Regency Tunis|La Marsa|YES|stars_5
+182164|Valtur El Kebir|Biserta|NO|0
+182239|Yadis Hammamet|Hammamet|NO|stars_4
+182371|Les Alizes|Djerba Island|NO|stars_3
+182433|Hammamet Azur Plaza|Hammamet|NO|stars_4
+182869|Residence Le Corail|Hammamet-Yasmine|NO|stars_4
+185663|Happy Days Sultan Beach|Hammamet|NO|stars_4
+188211|Vincci Helios Beach|Midoun|NO|stars_4
+188256|El Faracha|Sousse|NO|stars_2
+197245|Iberostar Royal El Mansour & Thalasso|Mahdia|YES|stars_5
+201559|Framissima Golf Beach|Djerba Island|NO|stars_3
+202412|Golden Tulip Carthage Residence|La Marsa|YES|stars_4
+202636|Golden Tulip Sfax|Sfax|YES|stars_4
+202638|Tunis Grand Hotel|Tunis|YES|stars_5
+202959|Les Jardins de Toumana|Djerba Island|NO|stars_3.5
+207993|Dar El Medina|Tunis|NO|stars_4
+212970|Le Monaco Hôtel & Thalasso|Sousse|YES|stars_4
+220217|Villa Dar Zargouni|Nefta|NO|stars_5
+227043|The Russelior Hotel & Spa|Hammamet|NO|stars_5
+227077|Alyssa|Sousse|NO|0
+227476|Green Palm|Midoun|NO|stars_4
+227558|Les Ambassadeurs|Tunis|NO|stars_3
+228877|Sahara Douz|Douz|NO|stars_4
+230264|Majestic|Tunis|NO|stars_4
+230352|Mövenpick Gammarth Tunis|La Marsa|NO|stars_5
+232243|Yadis Imperial Beach & Spa Resort|Djerba Island|NO|stars_5
+234597|Menzel Dija|Midoun|NO|stars_3
+235088|Africa Jade Thalasso|Qurba|NO|stars_4
+235620|Club Président & Tunisian Village|Hammamet|NO|stars_3
+239846|Dar Sabri|Nabeul|NO|stars_4
+245535|El Jinene Royal / Beach - Jinene Royal|Sousse|NO|stars_4
+245536|El Jinene Royal / Beach - Jinene Beach|Sousse|NO|stars_3
+247394|L' Atrium|Hammamet-Yasmine|NO|stars_4
+247615|Khayam Hammamet Resort|Hammamet|NO|stars_3
+250043|Caribbean World - Borj Cedria|Cedria Beach|NO|stars_4
+250044|Caribbean World - Sun Beach Resort|Cedria Beach|NO|stars_4
+260305|Dar HI|Nefta|NO|stars_4
+260641|Komplex Les Sirenes Beach & Les Sirenes Thalasso Spa - Les Sirenes Beach|Djerba Island|NO|stars_3
+260642|Komplex Les Sirenes Beach & Les Sirenes Thalasso Spa - Les Sirenes Thalasso Spa|Djerba Island|NO|stars_4
+260795|Novotel Tunis Mahamed V|Tunis|NO|stars_4
+261121|Negresco|Midoun|NO|stars_3.5
+261167|Club Président & Tunisian Village - Club Président|Hammamet|NO|stars_3
+261168|Club Président & Tunisian Village - Tunisian Village|Hammamet|NO|stars_3
+261183|Djerba Saray|Midoun|NO|0
+261500|La Jetee|Tunis|NO|stars_3
+261533|Eden Yasmine|Hammamet-Yasmine|NO|stars_4
+285388|Dessole Le Hammamet Resort|Hammamet|NO|stars_4
+295486|Regency Hotel & Spa|Monastir|NO|stars_4
+296890|Cesar Palace|Sousse|NO|stars_4
+297777|Radisson Blu Resort & Thalasso Hammamet|Hammamet|NO|stars_4
+301158|Bravo Hammamet|Hammamet|NO|stars_4
+316904|Palmyre|Tozeur|NO|stars_4
+366532|Lella Meriam Hotel & Club|Zarzis|NO|stars_4
+366644|Marhaba Resorts - Hotel / Club / Neptune|Sousse|NO|stars_4
+372903|Aqualife Yasmine Hammamet|Hammamet|NO|stars_4
+391948|Caribbean World Hammamet Village|Hammamet|NO|stars_3
+392308|Kinza Zenith Hotel Complex|Hammamet|NO|stars_3
+400747|Delphin Habib Komplex - Delphin Habib / Delphin Ribat|Monastir|NO|stars_3
+400748|Delphin Habib Komplex - Delphin Ribat|Monastir|NO|stars_3
+402684|Marine & Spa Resort|Midoun|NO|stars_4
+411823|One Resort Aqua Park & Spa|Skanes|NO|stars_4
+412181|Robinson Club Djerba Bahiya|Midoun|NO|stars_4
+413997|La Couronne Hotel Club|Hammamet|NO|stars_3
+414796|Menara|Mahdia|NO|stars_3

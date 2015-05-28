@@ -1,0 +1,138 @@
+2234|La Digue Island Lodge|La Digue Island|NO|stars_3
+2235|Blue Lagoon Chalets|Mahe|NO|stars_2.5
+2237|The Plantation Club / Beach Resort|Baie Lazare|NO|stars_4
+2238|Avani Seychelles Barbarons Resort & Spa|Victoria|YES|stars_4
+2239|Berjaya Beau Vallon Bay Resort & Casino|Beau Vallon Bay|YES|stars_3
+2240|Coco d'Or|Beau Vallon Bay|NO|stars_3
+2241|Coral Strand|Beau Vallon Bay|YES|stars_4
+2242|Le Meridien Fisherman's Cove|Beau Vallon Bay|YES|stars_5
+2244|Berjaya Mahe Beach Resort|Port Glaud|NO|stars_3
+2245|Coco de Mer & Black Parrot Suites|Anse Bois de Rose|YES|stars_4
+2246|Le Domaine de La Réserve Hotel|Anse Petite Cour|YES|stars_4
+2247|Paradise Sun|Praslin Island|NO|stars_4
+2248|Berjaya Praslin Resort|Praslin Island|YES|stars_3
+2249|Indian Ocean Lodge|Praslin Island|YES|stars_3
+7053|Acajou|Praslin Island|NO|stars_3
+7402|DoubleTree Resort & Spa by Hilton Hotel Seychelles - Allamanda|Anse Forbans|NO|stars_4
+8301|Augerine|Beau Vallon Bay|NO|stars_2
+8641|Beach Villa|Praslin Island|NO|stars_3
+8643|Beachcomber Anse Soleil|Mahe|NO|stars_2
+8661|Beau Vallon Bungalows|Beau Vallon Bay|NO|stars_3.5
+8867|Bernique's Guesthouse|La Digue Island|NO|stars_2
+9069|Bird Island Lodge|Bird Island|NO|stars_3
+9304|Britannia|Praslin Island|NO|stars_2
+9501|Calou|La Digue Island|NO|stars_2
+10286|Chalet Anse Forbans|Mahe|NO|stars_2
+10288|Chalet Côté Mer|Praslin Island|NO|stars_3
+10314|Chateau de Feuilles|Praslin Island|NO|stars_4
+10323|Chateau St. Cloud|La Digue Island|NO|stars_3
+10338|Villa Chez Batista|Mahe|NO|stars_2.5
+10944|Cousine Island Resort|Cousine Island|NO|stars_5
+11110|Daniellas Bungalows|Beau Vallon Bay|NO|stars_2
+11372|Denis Private Island|Denis Island|NO|stars_4
+11429|Desroches Island|Desroches Island|NO|stars_5
+12404|Fairyland Small Hotel|Anse Royal|NO|0
+12802|Fleur de Lys|La Digue Island|NO|stars_2.5
+14950|Islander's|Praslin Island|NO|stars_2
+15607|L'Archipel|Praslin Island|NO|stars_4
+15618|L'Ocean|La Digue Island|NO|stars_2
+15621|L'Union Chalets|La Digue Island|NO|stars_3
+15818|La Vanille|Praslin Island|NO|0
+16034|Lazare Picault|Baie Lazare|YES|stars_2
+16060|Le Duc de Praslin|Praslin Island|NO|stars_4
+16171|Le Tournesol|La Digue Island|NO|stars_2
+16175|Le Tropique Villa|Praslin Island|NO|stars_2
+16213|Constance Lemuria Resort|Praslin Island|YES|stars_5
+18043|Hilton Northolme Resort & Spa|Glacis|YES|stars_5
+18678|Paradise Flycatchers Lodge|La Digue Island|NO|stars_2
+18861|Patatran Village|La Digue Island|NO|stars_2
+20578|Romance|Beau Vallon Bay|NO|stars_1.5
+22382|Sunset Beach|Glacis|YES|stars_4
+24065|Village du Pêcheur|Praslin Island|NO|stars_4
+24137|Villas de Mer|Praslin Island|NO|stars_3
+26465|L'Habitation|Cerf Island|NO|stars_3
+26673|Banyan Tree|Mahe|YES|stars_5
+32028|Beachcomber Sainte Anne Resort|Sainte Anne Island|NO|stars_5
+32931|Valmer|Baie Lazare|NO|stars_3
+33074|Le Jardin des Palmes|Anse a la Mouche|NO|stars_3
+33075|Les Villas d'Or|Cote d'Or Beach|NO|stars_3
+33076|Palm Beach|Grande Anse|NO|stars_3
+38179|Frégate Island Private|Fregate Island|NO|stars_5
+38180|North Island|North Island|NO|stars_5.5
+38905|Gregoire's Apartments|La Digue Island|NO|stars_3
+38906|New Emerald Cove|Praslin Island|NO|stars_4
+39229|Eden's Holiday Resort|Mahe|NO|stars_3
+39391|Pension Michel|La Digue Island|NO|stars_2.5
+40197|Cerf Island Resort|Cerf Island|NO|stars_5
+47862|Mango Lodge|Praslin Island|NO|stars_2
+48093|La Roussette|Beau Vallon Bay|YES|stars_2
+48094|Le Grand Bleu|Baie St. Anne|NO|stars_2
+48095|Amitie Chalets|Amitie|NO|stars_2
+48099|Casuarina Beach - geschlossen|Ans aux Pins|NO|stars_2
+48100|L'Hirondelle|Praslin Island|NO|stars_2
+48101|Les Lauriers|Anse Volbert|NO|stars_2.5
+48102|Panorama Guesthouse|Beau Vallon Bay|NO|stars_2.5
+60340|Auberge D'Anse Boileau|Mahe|NO|stars_1
+63368|Le Domaine de L'Orangeraie|La Digue Island|NO|stars_4
+63408|Flamboyant|Praslin Island|NO|0
+75877|Hilton Seychelles Labriz Resort & Spa|Silhouette Island|NO|stars_5
+76838|Maia Luxury Resort & Spa|Anse Louis|NO|stars_5
+77738|South Point Chalets|Mahe|YES|stars_3
+85003|Sun Resort|Beau Vallon Bay|NO|stars_3
+85005|The Wharf Hotel & Marina|Mahe|NO|stars_4
+90627|Birgo Guest House|La Digue Island|NO|stars_2
+92009|Le Relax Hotel & Restaurant|Anse Royal|YES|stars_3
+95779|Castello Beach|Praslin Island|NO|stars_4
+99777|Le Relax Beach Resort|Grande Anse|YES|stars_3
+99929|Creole Villa|Anse Reunion|NO|stars_2.5
+100069|Côte d'Or Chalets|Cote d'Or Beach|NO|stars_2
+100078|Villas des Alizes|Amitie|NO|stars_2.5
+103257|Four Seasons Resort Seychelles|Baie Lazare|NO|stars_5
+134444|Reef Holiday|Mahe|YES|stars_2
+135074|La Diguoise|La Digue Island|NO|stars_2.5
+150046|Iles des Palmes|Anse Takamaka|NO|stars_3.5
+182518|Constance Ephelia Resort|Mahe|NO|stars_5
+184008|Hideaway Holiday|Praslin Island|NO|stars_2.5
+187828|Marie Laure Suites|Bel Ombre|NO|stars_3
+195958|Ocean Jewels|Praslin Island|NO|stars_2
+195959|Casa de Leela|La Digue Island|NO|stars_2
+227311|Hanneman Holiday Residence|Mahe|NO|stars_3
+227477|Bliss Hill Seychelles|Glacis|NO|stars_3.5
+227731|Chateau Sans Souci|Praslin Island|NO|stars_3
+228180|Bliss Sea Side Boutique & Spa|Glacis|NO|stars_4
+230157|Bord Mer|Mahe|NO|stars_2
+232367|Raffles Praslin|Praslin Island|NO|stars_5
+233117|Carana Hilltop Villa|Carana Beach|NO|0
+234822|Pieds dans l'Eau|Mahe|NO|0
+235962|Divers Lodge|Beau Vallon Bay|NO|stars_2
+238304|Kempinski Seychelles Resort|Baie Lazare|NO|stars_5
+238307|La Fontaine Holiday Apartment|Mahe|NO|stars_3
+238310|Le Relax Beach House|Anse Reunion|NO|stars_4
+239853|Anse Severe Beach Villa|La Digue Island|NO|0
+247591|Dhevatara Beach|Praslin Island|NO|stars_5
+248502|Villa de Cerf|Cerf Island|NO|stars_3
+260481|Le Surmer|La Digue Island|NO|stars_2.5
+260643|La Villa Guesthouse|Beau Vallon Bay|NO|stars_3
+260644|The Palm Seychelles|Beau Vallon Bay|NO|stars_4
+260966|Villas de Jardin|Anse Reunion|NO|stars_4
+299251|La Digue Self Catering|La Passe|NO|stars_2.5
+299659|Le Repaire|Anse Reunion|NO|stars_4
+354438|Au Fond de Mer View|Anse Royal|NO|stars_3
+359357|Sea View Lodge|Praslin Island|NO|0
+359551|Savoy Resort & Spa|Beau Vallon Bay|NO|stars_5
+359689|Enchanted Island Resort|Round Island|NO|stars_5
+363237|Copolia Lodge|Mahe|NO|0
+363505|Cote d'Or Apartements|Praslin Island|NO|stars_2.5
+391038|Crown Beach|Mahe|NO|stars_4
+391257|Treasure Cove|Bel Ombre|NO|stars_4
+392383|Pirogue Lodge Praslin|Cote d'Or Beach|NO|stars_2.5
+392384|Villa Veuve|La Digue Island|NO|stars_2
+404310|Coco de Mer & Black Parrot Suites - Coco de Mer|Anse Bois de Rose|NO|stars_4
+404311|Coco de Mer & Black Parrot Suites - Black Parrot Suites|Anse Bois de Rose|NO|stars_4
+406378|Cabanes des Anges|La Digue Island|NO|stars_3
+406674|Sables´ d Or Luxury Apartments|Beau Vallon Bay|NO|stars_4.5
+406680|Cote d'Or Footprints|Praslin Island|NO|stars_3
+407203|Le Relax Self-Catering|Anse Reunion|NO|stars_3
+408960|Surfers Beach Self Catering Chalets|Anse Takamaka|NO|0
+411548|Acquario Villa|Praslin Island|NO|0
+411625|Bois d'Amour Guesthouse|La Digue Island|NO|0

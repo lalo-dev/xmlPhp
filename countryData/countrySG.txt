@@ -1,0 +1,207 @@
+2252|Holiday Inn Atrium|Singapore|YES|stars_4
+2253|Village Hotel Bugis|Singapore|YES|stars_4
+2254|Grand Park City Hall|Singapore|YES|stars_5
+2255|Intercontinental|Singapore|YES|stars_5
+2257|Orchard Parade|Singapore|YES|stars_4
+2258|Peninsula Excelsior|Singapore|YES|stars_4
+6980|Grand Pacific|Singapore|YES|stars_4
+7003|Parkroyal on Kitchener Road|Singapore|YES|stars_4
+7004|Parkroyal on Beach Road|Singapore|YES|stars_4
+7007|Hotel Jen Tanglin Singapore|Singapore|YES|stars_4
+7282|Albert Court|Singapore|YES|stars_3
+10711|Conrad Centennial Singapore|Singapore|YES|stars_5
+10757|Copthorne King's Singapore|Singapore|YES|stars_4
+10759|Copthorne Orchid - geschlossen|Singapore|YES|stars_3
+12925|Four Seasons|Singapore|YES|stars_5
+13111|Garden Hotel Singapore|Singapore|YES|stars_3
+13432|Grand Copthorne Waterfront Singapore|Singapore|YES|stars_5
+13478|Grand Hyatt Singapore|Singapore|YES|stars_5
+14300|Holiday Inn Orchard City Centre|Singapore|YES|stars_4
+16114|Concorde Singapore|Singapore|YES|stars_4
+16944|Marina Mandarin Singapore|Singapore|YES|stars_5
+17266|Swissotel Merchant Court|Singapore|YES|stars_4
+17374|Pan Pacific Orchard|Singapore|YES|stars_5
+18067|Furama Riverfront|Singapore|YES|stars_4
+18583|Pan Pacific Singapore|Singapore|YES|stars_5
+19833|Fairmont Singapore|Singapore|YES|stars_5
+20031|Regent|Singapore|YES|stars_5
+20161|Rendezvous Hotel Singapore|Singapore|YES|stars_4
+20712|Royal Plaza on Scotts|Singapore|YES|stars_5
+21462|Shangri-La Singapore|Singapore|YES|stars_5
+21477|Shangri-La's Rasa Sentosa Resort|Singapore|YES|stars_5
+21590|Sheraton Towers Singapore|Singapore|YES|stars_5
+21684|Hilton|Singapore|YES|stars_5
+21685|Singapore Marriott|Singapore|YES|stars_5
+22745|The Elizabeth|Singapore|YES|stars_4
+22890|Mandarin Oriental Singapore|Singapore|YES|stars_5
+22980|The Ritz-Carlton Millenia|Singapore|YES|stars_5
+24584|York|Singapore|YES|stars_4
+26029|Swissotel The Stamford|Singapore|YES|stars_5
+26031|Gallery|Singapore|YES|stars_4
+27425|Royal|Singapore|YES|stars_3
+27426|The Fullerton Hotel Singapore|Singapore|YES|stars_5
+30587|Carlton|Singapore|YES|stars_4
+30588|Riverview|Singapore|YES|stars_4
+37835|Orchard Singapore|Singapore|YES|stars_5
+37839|Raffles Singapore|Singapore|YES|stars_5
+37913|The Singapore Resort & Spa Sentosa Managed by Accor|Sentosa Island|YES|stars_5
+40606|Miramar Singapore|Singapore|YES|stars_3
+47484|Goodwood Park|Singapore|YES|stars_5
+52443|Grand Park Orchad|Singapore|YES|stars_5
+52444|Jen Orchardgateway Singapore|Singapore|YES|stars_4
+57653|Amara Singapore|Singapore|YES|stars_4
+60895|Novotel Singapore Clarke Quay|Singapore|YES|stars_4
+63747|Bayview|Singapore|YES|stars_3
+64603|Furama City Centre|Singapore|YES|stars_4
+72685|Mandarin Orchard Singapore|Singapore|YES|stars_5
+77355|Hangout @ Mt. Emily|Singapore|NO|stars_2
+77627|M Hotel Singapore|Singapore|YES|stars_4
+78406|Changi Village|Singapore|YES|stars_4
+78867|Grand Mercure Roxy Singapore|Singapore|YES|stars_4
+80771|The Duxton|Singapore|YES|stars_4
+80780|Village Katong|Singapore|YES|stars_4
+81570|Quality|Singapore|YES|stars_3
+82671|Fragrance Selegie|Singapore|YES|stars_3
+82672|Hotel 81 - Bencoolen|Singapore|YES|stars_2
+82673|Hotel 81 - Palace|Singapore|YES|stars_2
+82674|Hotel 81 (PREMIER) Star|Singapore|YES|stars_2
+82676|Fragrance Balestier|Singapore|YES|stars_2
+82677|Fragrance Joo Chiat|Singapore|YES|stars_2
+85021|Fragrance Emerald|Singapore|YES|stars_2
+85022|Fragrance Crystal|Singapore|YES|stars_2
+85023|Fragrance Rose|Singapore|YES|stars_2
+85218|Hotel 81 - Elegance|Singapore|NO|stars_2
+85219|Venue Hotel The Lily|Singapore|NO|stars_2.5
+85220|Hotel 81 - Princess|Singapore|NO|stars_2
+85221|Hotel 81 - Geylang|Singapore|YES|stars_2
+85222|Fragrance Pearl|Singapore|YES|stars_2
+85223|Fragrance Ruby|Singapore|YES|stars_2
+85225|Chinatown|Singapore|YES|stars_2
+85227|Summer View|Singapore|YES|stars_3
+85228|New Majestic|Singapore|NO|stars_4
+85235|Fragrance Sapphire|Singapore|YES|stars_2
+85632|The Scarlet|Singapore|YES|stars_4
+86020|Amara Sanctuary Resort Sentosa|Sentosa Island|YES|stars_5
+93989|Grand Central Limited|Singapore|YES|stars_3
+95687|Naumi|Singapore|YES|stars_5
+96493|The St. Regis|Singapore|YES|stars_5
+98152|Mövenpick Heritage Sentosa|Sentosa Island|YES|stars_4.5
+98812|Royal at Queens|Singapore|YES|stars_4
+99570|Link|Singapore|YES|stars_3.5
+99571|Victoria|Singapore|YES|stars_2
+99572|Hotel 81 - Orchid|Singapore|YES|stars_2
+99573|Hotel 81 - Bugis|Singapore|YES|stars_2
+100329|Hotel 81 - Tristar|Singapore|YES|stars_2.5
+100330|Hotel 81 - Rochor|Singapore|YES|stars_2
+100835|Siloso Beach Resort|Sentosa Island|YES|stars_4
+100836|Robertson Quay|Singapore|YES|stars_3
+102371|Regency House|Singapore|YES|stars_4
+102729|Orchard Scotts Residences|Singapore|NO|stars_4
+102730|Re!|Singapore|YES|stars_4
+102780|Fort Canning Lodge|Singapore|NO|stars_3
+103529|Fragrance Imperial|Singapore|YES|stars_3
+103530|Summer Tavern|Singapore|YES|stars_2
+103531|Crowne Plaza Changi Airport|Singapore|YES|stars_5
+103546|Orchard Parksuites|Singapore|YES|stars_4
+108027|Inn at Temple Street|Singapore|YES|stars_3
+109017|Metropolitan YMCA Singapore|Singapore|NO|stars_3
+110942|Somerset Liang Court Singapore|Singapore|NO|stars_4
+133139|Supreme|Singapore|NO|stars_3
+133142|Venue|Singapore|YES|stars_3
+134223|Hotel 81 - Chinatown|Singapore|NO|stars_2
+134316|Hotel 81 - Selegie|Singapore|YES|stars_2
+134481|Park Hotel Clarke Quay|Singapore|YES|stars_4
+136376|Ibis Singapore on Bencoolen|Singapore|YES|stars_3
+136678|Santa Grand Aljunied|Singapore|YES|stars_2
+137258|Hotel 81 - Dickson|Singapore|YES|stars_2
+137361|1929|Singapore|NO|stars_3
+138912|Fragrance Oasis|Singapore|YES|stars_2
+145151|Cultural|Singapore|YES|stars_3
+157713|Citadines Singapore Mount Sophia|Singapore|YES|stars_3.5
+157714|Ascott Raffles Place Singapore|Singapore|YES|stars_5
+157715|Capella|Sentosa Island|YES|stars_5
+157716|Fragrance Waterfront|Singapore|YES|stars_2
+157717|Fragrance Ocean View|Singapore|YES|stars_2
+159461|Santa Grand Little India|Singapore|YES|stars_2
+162453|Riders Lodge|Singapore|NO|stars_3
+162455|Harbour Ville|Singapore|NO|stars_2.5
+183719|Fragrance Sunflower|Singapore|YES|stars_2
+183720|Value Balestier|Singapore|YES|stars_2
+195918|Value Thomson|Singapore|YES|stars_3
+201616|Le Peranakan|Singapore|YES|stars_2
+201667|Fragrance Royal|Singapore|NO|stars_2
+201668|Nostalgia Urban Boutiquehotel|Singapore|YES|stars_4
+201704|Marina Bay Sands|Singapore|YES|stars_5
+202574|Santa Grand Bugis|Singapore|YES|stars_3
+203218|Wangz|Singapore|NO|stars_4
+205111|Aqueen Balestier|Singapore|NO|stars_3
+205112|Aqueen Lavender|Singapore|NO|stars_3
+209881|Goldkist Beach Resort|Singapore|NO|stars_3
+210946|Hotel 81 - Classic|Singapore|NO|stars_2
+210947|Hotel 81 - Sakura|Singapore|NO|stars_2
+214773|Orchid Country Club|Singapore|NO|stars_4
+216501|Quincy|Singapore|YES|stars_4
+217773|Santa Grand West Coast|Singapore|NO|stars_3
+219996|Value Nice|Singapore|NO|stars_2
+226690|Hotel Michael|Sentosa Island|YES|stars_5
+226691|Hard Rock Hotel|Sentosa Island|YES|stars_5
+226692|Festive Hotel|Sentosa Island|YES|stars_5
+226818|Studio M Singapore|Singapore|YES|stars_4
+227439|Aces Lodges|Singapore|NO|stars_1.5
+228399|The Fullerton Bay Hotel Singapore|Singapore|YES|stars_5
+230364|Sandpiper|Singapore|YES|stars_2
+232197|Santa Grand Chinatown|Singapore|NO|stars_2
+232198|Grand Imperial Hotel|Singapore|NO|stars_3
+232200|Park Regis|Singapore|YES|stars_4
+234611|Hotel 81 - Gold|Singapore|NO|stars_2
+234612|Hotel 81 - Kovan|Singapore|NO|stars_2
+234613|Hotel 81 - Lucky|Singapore|NO|stars_2
+234614|Hotel 81 - Osaka|Singapore|NO|stars_2
+234956|Lanson Place Winsland Residences|Singapore|NO|stars_4
+235205|Ibis Singapore Novena|Singapore|NO|stars_3
+235352|Fort Canning Hotel|Singapore|NO|stars_5
+235353|Le Hotel Carpenter Street|Singapore|NO|stars_2
+236508|Innotel|Singapore|NO|stars_3.5
+236509|Wanderlust|Singapore|NO|stars_3.5
+236510|Parc Sovereign|Singapore|NO|stars_4
+237038|V Lavender|Singapore|NO|stars_4
+237040|Oasia|Singapore|NO|stars_4
+237280|Porcelain|Singapore|NO|stars_3
+237282|Moon Hotel Singapore|Singapore|NO|stars_4
+240237|Fragrance Bugis|Singapore|NO|stars_2
+243628|Arianna|Singapore|NO|stars_2
+246390|Hotel 81 - Hollywood|Singapore|NO|stars_2
+246391|Hotel 81 - Heritage|Singapore|NO|stars_2
+246392|Hotel 81 - Cosy|Singapore|NO|stars_2
+246394|Village Residence Clarke Quay|Singapore|NO|stars_4
+246395|The Chancellor Hostel|Singapore|NO|stars_1
+246397|The Sultan|Singapore|NO|stars_4
+246399|Village Residence Robertson Quay|Singapore|NO|stars_4
+246400|Far East Plaza|Singapore|NO|stars_3
+246409|Breezee Room at Resort|Sentosa Island|NO|0
+246947|Society Backpackers' Hotel|Singapore|NO|stars_1
+247754|Santa Grand Lai Chun Yuen|Singapore|NO|stars_3
+247756|Fragrance Riverside|Singapore|NO|stars_3
+259557|Bay Hotel Singapore|Singapore|YES|stars_4
+259559|Kam Leng|Singapore|NO|stars_3
+260286|Equarius Hotel|Sentosa Island|NO|stars_5
+260958|Hotel 81 - Balestier|Singapore|NO|stars_2
+261061|W Singapore Sentosa Cove|Sentosa Island|YES|stars_5
+261323|Backpackers Inn Chinatown|Singapore|NO|stars_1
+261614|Capri by Fraser, Changi City|Singapore|NO|stars_4
+286797|Days Hotel Singapore at Zhongshan Park|Singapore|YES|stars_3
+286800|Park Avenue Rochester Singapore|Singapore|YES|stars_4
+286801|Ramada Hotel Singapore At Zhon|Singapore|NO|stars_4
+301653|Sofitel So Singapore|Singapore|NO|stars_5
+302543|Parkroyal on Pickering|Singapore|NO|stars_5
+302577|Dorsett Singapore|Singapore|NO|stars_4
+302582|The Seacare|Singapore|NO|stars_4
+359531|Carlton City Hotel|Singapore|NO|stars_4
+363727|V Hotel Bencoolen|Singapore|NO|stars_3.5
+365385|The Westin Singapore|Singapore|YES|stars_5
+368484|Big Hotel|Singapore|NO|stars_3.5
+368487|Pan Pacific Serviced Suites Beach Road|Singapore|NO|stars_5
+399691|Park Avenue Changi|Singapore|YES|stars_4
+401210|Holiday Inn Express Singapore Clarke Quay|Singapore|NO|stars_3
+405143|One Farrer Hotel & Spa|Singapore|NO|stars_5
+407761|Parc Sovereign Hotel - Tyrwhitt|Singapore|NO|stars_4

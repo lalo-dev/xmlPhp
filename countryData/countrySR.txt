@@ -1,0 +1,15 @@
+78284|Krasnapolsky|Paramaribo|YES|stars_4
+78285|Zeelandia|Paramaribo|YES|stars_2
+78286|Guest House Albergo Alberga|Paramaribo|YES|stars_2
+78287|Ambassador|Paramaribo|YES|stars_3
+79984|Eco Resort Inn|Paramaribo|YES|stars_3
+79987|Torarica & Casino|Paramaribo|YES|stars_3
+139379|Spanhoek Boutique|Paramaribo|YES|stars_4
+182803|Bergendal Eco & Cultural River|Paramaribo|YES|stars_4
+228401|Queen's|Paramaribo|YES|stars_3
+235110|Courtyard Marriott Paramaribo|Paramaribo|NO|stars_3.5
+275895|Hotel North Resort|Paramaribo|NO|stars_3
+275896|Kekemba Resort Paramaribo|Paramaribo|NO|stars_3
+283022|Wyndham Garden Paramaribo|Paramaribo|YES|stars_3
+289441|Royal Torarica|Paramaribo|NO|stars_3
+405230|Hotel Palacio|Paramaribo|YES|0

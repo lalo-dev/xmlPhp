@@ -1,0 +1,8 @@
+26044|Ezulwini Sun|Mbabane|YES|stars_3
+27663|Royal Swazi Spa Valley Resort - Royal Swazi Spa Hotel|Mbabane|YES|stars_4
+64722|Tum's George|Manzini|NO|stars_2.5
+76485|Hawane Resort|Swaziland|NO|stars_3.5
+110589|Foresters Arms|Swaziland|NO|stars_3.5
+137704|Royal Swazi Spa Valley Resort - Lugogo Sun Hotel|Mbabane|YES|stars_3
+162652|Summerfield Botanical Garden Resort|Manzini|NO|stars_5
+162653|Mountain Inn|Mbabane|NO|stars_3

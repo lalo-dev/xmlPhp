@@ -1,0 +1,51 @@
+2229|Aldiana Senegal - geschlossen|Saly|NO|stars_4
+2230|Bougainvillees|Saly|YES|stars_3
+2231|Royam|Saly|YES|stars_4
+2233|Savana Saly & Savana Koumba|Saly|NO|stars_3
+6068|Royal Saly|Saly|NO|stars_3
+39052|Club Med Les Almadies|Les Almadies|NO|stars_3
+77834|King Fahd Palace|Dakar|YES|stars_4.5
+92160|Club Med Cap Skirring|Ziguinchor|NO|stars_4
+92817|Africa Queen|La Somone|YES|stars_3
+92818|Cap St. Louis|Saint-Louis|NO|stars_3
+92823|Le Lamantin Beach|Saly|NO|stars_5
+92824|Novotel Dakar|Dakar|YES|stars_4
+92825|Les Paletuviers|Toubacouta|NO|stars_3
+92828|Pullman Dakar Teranga|Dakar|YES|stars_4.5
+92830|La Teranga Hotel & Villas Saly|Saly|NO|stars_4
+96363|Le Warang Hôtel|Le Warang|YES|stars_2
+103784|Royal Kabrousse|Cape Skirring|YES|stars_3
+103785|Lagon|Dakar|YES|stars_4
+103786|Faidherbe|Dakar|YES|stars_3
+122397|Al Baraka|Dakar|YES|stars_3
+122710|Espadon|Saly|NO|stars_4
+122711|La Palmeraie|Saly|NO|stars_4
+124887|Keur Saloum|Toubacouta|NO|stars_3
+139662|Airport|Dakar|YES|stars_3
+140457|Royal Decameron Baobab Resort|La Somone|YES|stars_4
+188280|La Madrague|Dakar|YES|stars_3
+188281|Les Alizés Beach Resort|Cape Skirring|NO|stars_5
+188283|de la Poste|Saint-Louis|NO|stars_3
+188285|Lodge du Delta Niominka|Dionewar|YES|stars_4
+188287|Domaine de Nianing|M'Bour|NO|stars_4
+188294|Kadiandoumagne|Ziguinchor|NO|stars_3
+188296|La Residence|Saint-Louis|YES|stars_3
+188298|Neptune|Saly|YES|stars_4.5
+188302|Royal Lodge|Palmarin|YES|stars_5
+188303|Savana Dakar|Dakar|NO|stars_4
+188306|Terrou-Bi|Dakar|YES|stars_4
+202596|Radisson Blu Dakar|Dakar|YES|stars_5
+226693|Maya|Cape Skirring|YES|stars_3
+226694|Sokhamon|Dakar|YES|stars_3
+226819|Mermoz|Saint-Louis|YES|stars_3
+235389|Filaos Calaos|Saly|NO|stars_3
+236028|Residence du Port|Saly|NO|stars_4
+237175|Onomo Dakar|Dakar|NO|stars_4
+237604|Minotel L'Hacienda|Saly|NO|stars_3
+240238|Le Cap Ocean|Cape Skirring|NO|stars_2
+260306|Hôtel Palm Beach|M'Bour|NO|stars_4
+278047|Hotel Les Flamboyants|Saly|NO|stars_3
+278049|Les Amaryllis Saly|Saly|NO|stars_4
+278053|The Rhino Resort Hotel & Spa|Saly|NO|stars_5
+359784|Le Lodge des Almadies|Dakar|NO|stars_3
+406252|Le Ndiambour|Dakar|YES|0

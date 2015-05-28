@@ -1,0 +1,241 @@
+8757|Grand Bellevue|Stary Smokovec|NO|stars_4
+12760|Fis|Strbske Pleso|NO|stars_3
+13529|Grand Starý Smokovec|Stary Smokovec|YES|stars_4
+14447|Hubert Vital Resort|Tatranska Polianka|NO|stars_4
+15042|Grandhotel Jasna|Demänova Dolina|NO|stars_4
+16559|Hotel Sorea Lubovna|Stara Lubovna|NO|stars_2
+18213|Sorea Titris|Tatranska Lomnica|NO|stars_3.5
+18849|Partizan|Tale|NO|stars_4
+18869|Patria|Strbske Pleso|NO|stars_4
+18963|Grand Hotel Permon|Podbanske|NO|stars_4
+20167|Repiska|Demänova Dolina|NO|stars_3
+26414|Tri Studnicky|Demänova Dolina|NO|stars_4
+26416|Sorea Hutnik|Tatranska Matliare|NO|stars_3.5
+26618|Sorea Trigan Banik|Strbske Pleso|NO|stars_3
+26621|Junior Jasná|Jasna|NO|stars_3
+27601|Grandhotel Praha|Tatranska Lomnica|YES|stars_4
+27855|Slovan|Tatranska Lomnica|NO|stars_3
+27884|Rysy|Tatranska Strba|NO|stars_3
+27885|Nezabudka|Tatranska Strba|NO|stars_3
+28510|Hotel Aphrodite|Rajecke Teplice|NO|stars_4
+28585|Danubius Health Spa Resort Thermia Palace|Bad Pistyan|NO|stars_5
+28586|Danubius Health Spa Resort Balnea Esplanade & Palace|Bad Pistyan|NO|stars_4
+28587|Balnea Grand & Balnea Splendid|Bad Pistyan|NO|stars_3
+31185|Sporthotel Donovaly|Donovaly|NO|stars_3
+31186|Bonbon und Nebenhaus|Dunjaska Streda|NO|stars_3
+31512|Golfer|Kremnica|NO|stars_3
+32616|Fontana|Benesova|NO|stars_2.5
+33298|Zatoka|Senec|NO|stars_3
+34449|Magnolia|Bad Pistyan|NO|stars_4
+36650|Radisson Blu Carlton|Bratislava|YES|stars_4
+38368|Kolowrat|Tatranska Javorina|NO|stars_4
+49988|Bratislava Hotel & Congress Centre|Bratislava|YES|stars_3.5
+50682|Devin|Bratislava|YES|stars_4
+50772|Holiday Inn Bratislava|Bratislava|YES|stars_4
+51477|Euforia Relaxhotel|Nova Lesna|NO|stars_3
+51478|Holiday Village Tatralandia|Liptovsky Mikulas|NO|stars_3
+52848|Cingov|Smizany|NO|stars_3
+52968|Kurhaus Velka Fatra|Turcianske Teplice|NO|stars_3
+54466|Atrium|Novy Smokovec|YES|stars_3
+55775|Horizont|Stara Lesna|NO|stars_3
+56482|Park Inn Danube|Bratislava|YES|stars_4
+56689|Kyjev|Bratislava|YES|stars_3
+57252|Liptovske Dvory|Liptovsky Jan|NO|stars_4
+57253|Druzba|Demänova Dolina|NO|stars_4
+58197|Sergijo|Bad Pistyan|NO|stars_4
+60378|Hotel Tatra|Bratislava|YES|stars_4
+60380|Club Bratislava|Bratislava|YES|stars_3
+60381|Marrol's|Bratislava|YES|stars_5
+60888|No 16|Bratislava|YES|stars_4
+60889|Apollo Dukla|Bratislava|YES|stars_4
+60913|Mamaison Residence Sulekova|Bratislava|YES|stars_4
+60971|Ibis Bratislava Centrum|Bratislava|NO|stars_3
+60972|Baronka|Bratislava|YES|stars_4
+61073|Set|Bratislava|YES|stars_3
+61129|Turist|Bratislava|YES|stars_2
+64117|Krivan|Podbanske|NO|stars_2
+64119|AquaCity|Poprad|NO|stars_4
+69259|Crowne Plaza Bratislava|Bratislava|YES|stars_4
+70903|Maj|Liptovsky Jan|NO|stars_3
+71217|Lesna|Stara Lesna|NO|stars_3.5
+75899|Toliar|Strbske Pleso|NO|stars_3
+75935|Forton|Stara Lesna|NO|stars_3
+76095|Panorama|Strbske Pleso|NO|stars_3
+76894|Odevak|Bad Pistyan|NO|stars_3
+77006|Slovakia|Trencianske Teplice|NO|stars_3
+77392|Premium|Bratislava|NO|stars_4
+77782|Art Hotel William|Bratislava|YES|stars_4
+78486|Bonbon Bratislava|Bratislava|NO|stars_4
+78644|Linea|Bad Pistyan|NO|stars_3
+82489|Flora|Trencianske Teplice|NO|stars_3
+82570|Spa Hotel Pro Patria|Bad Pistyan|NO|stars_2
+85100|Rubin & Smaragd Spa-Hotels|Dudince|NO|stars_3
+85101|Kurhaus Diamant|Dudince|NO|0
+85102|Piestany Resort - Spa Hotel Jalta & Dependences / Smaragd / Sumava / Riviera / Villa Berlin|Bad Pistyan|NO|stars_2
+86278|Krym|Trencianske Teplice|NO|stars_3
+87153|Color|Bratislava|NO|stars_3
+87177|Maj|Bad Pistyan|NO|stars_3
+87178|Tematin|Bad Pistyan|NO|stars_3
+87218|Kaskady|Sliace|NO|stars_4
+90181|Arcadia|Bratislava|YES|stars_5
+90766|Smokovec|Stary Smokovec|YES|stars_3
+90767|Relax hotel Sojka & Magura Village - Relax hotel Sojka|Malatiny|NO|stars_3
+90770|Hills|Tatranska Lomnica|NO|stars_4
+91472|Pax|Trencianske Teplice|NO|stars_3
+95234|Botel Marina|Bratislava|YES|stars_3
+95534|Patince|Patince|NO|stars_4
+97962|Best Western Antares|Bratislava|YES|stars_4
+102515|Park|Bad Pistyan|NO|stars_3
+102682|Mikulasska Chata|Demänova Dolina|NO|stars_3
+102731|Skaritz Hotel & Residence|Bratislava|YES|stars_4
+103206|Grand Hotel Kempinski High Tatras|Strbske Pleso|NO|stars_5
+104185|Aston Business|Bratislava|NO|stars_4
+105393|Best Western Hotel West|Bratislava|NO|stars_4
+108152|Kamila|Bratislava|NO|stars_4
+109039|Michalska Brana|Bratislava|NO|stars_3
+127924|City Residence|Kosice|NO|stars_3
+133152|Arkada|Levoca|NO|stars_3
+133153|Zlaty Klucik|Nitra|NO|stars_4
+135694|Tilia|Pezinok|NO|stars_4
+135923|Falkensteiner Bratislava|Bratislava|NO|stars_4
+138039|Poprad|Poprad|NO|stars_3
+139798|Most Slavy|Trencianske Teplice|NO|stars_3
+143216|Satel|Poprad|NO|stars_3
+145308|Ski Zahradky|Jasna|NO|0
+145309|Villa Siesta|Vysoké Tatry|NO|stars_3
+162470|Impiq|Trnava|NO|stars_3
+162471|Chateau Bela|Bela (Nitriansky kraj)|NO|stars_5
+162478|Boutique Hotel Dubna Skala|Zilina|YES|stars_4
+162480|Empire|Trnava|NO|stars_4
+162486|Dalia|Kosice|NO|stars_3
+162487|Karpatsky Dvor|Lozorno|NO|stars_3
+162489|Bristol|Kosice|NO|stars_4
+162494|Design Prestige|Trnava|NO|stars_4
+162496|Holiday Inn Zilina|Zilina|NO|stars_3.5
+182664|Fatrapark I & II|Ruzomberok|NO|stars_3
+182675|Residence|Donovaly|NO|stars_4
+183721|Sheraton Bratislava|Bratislava|YES|stars_5
+184330|Hotel Salamander|Banska Stiavnica (Schemnitz)|NO|stars_3
+187889|Austria Trend Bratislava|Bratislava|YES|stars_4
+187947|Kempinski Hotel River Park|Bratislava|YES|stars_5
+188114|Maly Trh Apartments|Bratislava|YES|stars_3
+196318|Crocus|Strbske Pleso|NO|stars_4
+201595|Piestany Resort - Villa Berlin|Bad Pistyan|NO|stars_3
+201818|Pension Jozef|Demänova Dolina|NO|stars_3
+202306|Melrose|Liptovsky Jan|NO|stars_3
+203002|Atlantis Dependance|Trencianske Teplice|NO|0
+204941|Apartment Historical Centre|Bratislava|NO|stars_3
+204950|Apartment Presidential Palace|Bratislava|NO|stars_3
+204951|Apartment Residence|Bratislava|NO|stars_3
+204971|Apartments Blue Danube|Bratislava|NO|0
+205004|Apartments Rajska|Bratislava|YES|stars_3
+205131|Arcade|Banska Bystrica|NO|stars_3
+205557|Avance|Bratislava|NO|stars_4
+206309|BNC Hotel|Bratislava|NO|stars_3
+207331|Chopin Hotel Bratislava|Bratislava|YES|stars_3
+207980|Danubia Gate|Bratislava|NO|stars_4
+208298|designhotel 21 cakov:makara|Bratislava|NO|stars_4
+208484|Doubletree By Hilton Kosice|Kosice|NO|stars_4
+209714|NH Bratislava Gate One|Bratislava|YES|stars_4
+209842|Gloria Palac|Kosice|NO|stars_3
+209990|Grandhotel Trencin|Trencin|NO|stars_3
+211471|Hotelecho|Bratislava|NO|stars_3
+213712|Mama's Design & Boutique Hotel|Bratislava|NO|stars_4
+213911|Matysák|Bratislava|NO|stars_3
+213921|Max Inn|Bratislava|NO|stars_3
+214872|Palace Grand|Vysoké Tatry|NO|stars_3
+214880|Palace Tivoli|Vysoké Tatry|NO|stars_3
+215410|Penzion Anton|Teplicka nad Vahom|NO|stars_3
+215414|Penzion Fantazia|Poprad|NO|stars_3
+215416|Penzión Hradbová|Kosice|NO|stars_3
+216563|Raki|Bratislava|NO|stars_3
+217741|Sandor Pavillon|Bad Pistyan|NO|stars_4
+218117|Slovakia|Zilina|NO|stars_3
+218426|Steve|Liptovsky Mikulas|NO|stars_3
+220017|Vasko|Zdiar|NO|stars_2.5
+220894|Yasmin|Kosice|NO|stars_4
+221122|Andromeda-Wellness|Bratislava|NO|stars_4
+221335|Bellevue|Bardejov|NO|stars_3
+221929|FIS Jasná|Demänova Dolina|NO|stars_4
+222345|Hubert Nové Zámky|Nové Zámky|NO|stars_3
+223079|Ponteo - Activity Park Rusovce|Bratislava|NO|stars_4
+227701|Metropol|Spisska Nova Ves|NO|stars_3
+227817|Amalia|Nova Lesna|NO|stars_3
+227818|Hotel Club|Kezmarok|NO|stars_3
+227819|Sporthotel Victoria|Martin|NO|stars_4
+227863|Wellnesshotel Chopok|Demänova Dolina|NO|stars_4
+227864|Galileo|Donovaly|NO|stars_4
+230444|Albrecht|Bratislava|NO|stars_5
+230452|Bankov|Kosice|NO|stars_4
+230457|Goralturist|Zdiar|NO|stars_3
+231904|Impozant|Valcianska Dolina/Kleine Fatra|NO|stars_4
+231953|Saris Park|Presov|NO|stars_3
+232922|Botel Gracia|Bratislava|NO|stars_3
+233326|Ostredok|Demänova Dolina|NO|stars_3
+235640|Primula|Zuberec|NO|stars_3
+237174|DoubleTree by Hilton Bratislava|Bratislava|NO|stars_4
+237584|Horsky Osobita|Zuberec|NO|stars_3
+238317|Mercure Bratislava Centrum|Bratislava|NO|stars_4
+239282|Tulip House Boutique|Bratislava|NO|stars_5
+244322|Holiday Inn Trnava|Trnava|NO|stars_4
+245549|LOFT Bratislava|Bratislava|NO|stars_4
+246176|Apartements Kamzik|Donovaly|NO|stars_3
+247592|Piestany Resort - Spa Hotel Jalta & Dependences|Bad Pistyan|NO|0
+247799|Best Western Hotel Dituria|Nitra|NO|stars_3
+248242|Danubius Health Spa Resort Balnea Esplanade & Palace - Balnea Esplanade|Bad Pistyan|NO|stars_4
+248243|Danubius Health Spa Resort Balnea Esplanade & Palace - Balnea Palace|Bad Pistyan|NO|stars_4
+248244|Balnea Grand & Balnea Splendid - Spa Hotel Balnea Grand|Bad Pistyan|NO|stars_3
+248245|Balnea Grand & Balnea Splendid - Spa Hotel Balnea Splendid|Bad Pistyan|NO|stars_3
+260494|Pension Solisko|Zazriva|NO|stars_3
+261418|Drevenice Resort|Terchova|NO|stars_3
+265002|Hotel Junior|Bratislava|NO|stars_3
+271338|Penzion Fantazia|Brezno / Tale|NO|stars_3
+273947|Villa Paris|Bad Pistyan|NO|stars_3
+273952|Hotel Koliba|Senec|NO|stars_3
+274158|Opera House|Bratislava|NO|stars_3
+274160|Garden View|Bratislava|NO|stars_3
+274165|Sanctuary|Bratislava|NO|stars_3
+274166|Bastion Apartments|Bratislava|NO|stars_3
+274170|Art-Hostel Taurus|Bratislava|NO|stars_1
+274316|Penzión Tiberia|Trencin|NO|stars_2
+274337|Zámocek Staré Casy|Poprad|NO|stars_4
+274338|Penzion Plesnivec|Poprad|NO|stars_3
+274339|Pension Vila Mery|Poprad|NO|stars_3
+274453|Urpin City Residence|Banska Bystrica|NO|stars_3
+274949|Barbakan|Levoca|NO|stars_3
+274950|Stela|Levoca|NO|stars_4
+274951|Penzion Enrico|Zdiar|NO|stars_2
+276128|Studio by the Castle|Liptovsky Hradok|NO|stars_3
+276228|Sliezsky Dom|Vysoké Tatry|NO|stars_3
+276450|Jahodná|Kosice|NO|stars_3
+276452|Hotel Zlatý Dukát|Kosice|NO|stars_4
+277048|Hotel Inka|Trnava|NO|stars_1
+277050|Hotel Grand|Zilina|NO|stars_3
+287834|Hotel Saffron|Bratislava|NO|stars_4
+292106|Parkhotel na Baracke|Trencianske Teplice|NO|stars_4
+292478|Hotel Slovakia|Tatranska Lomnica|NO|stars_3
+292965|Hotel Amade Chateau|Bratislava|NO|stars_5
+294158|Hotel Galanta|Trnava|NO|stars_4
+295509|Renomal Apartments|Tatranska Lomnica|NO|stars_3
+295513|Aplend Mountain Resort|Horny Smokivec|NO|stars_3
+295516|Tatry Holiday - Apartments|Velky Slavkov|NO|stars_3
+295785|Villa Beatrice|Tatranska Lomnica|NO|stars_3
+296810|Lindner Hotel Gallery Central|Bratislava|YES|stars_4
+296966|Kvasnicnik Appartements|Jasná|NO|stars_3.5
+301966|Tatry Holiday|Velky Slavkov|NO|stars_3
+301969|Salamandra Resort Hotel|Hodrusa Hámre|NO|stars_4
+302656|Kurhotel Astoria|Bardejov|NO|0
+302657|Kurhotel Ozón|Bardejov|NO|0
+311009|Koliba Greta|Liptovska Sielnica|NO|stars_3
+311010|Marlene|Oscadnica|NO|stars_3
+311012|Pinus Apartments Chopok - Tale|Tale|NO|stars_3
+363480|Elizabeth|Trencin|NO|stars_4
+363989|Kupelny Hotel Choc|Lucky|NO|stars_3
+369182|Medium Hotel|Bratislava|NO|stars_4
+377473|Podhradie|Puchov|NO|stars_3
+383330|Orchidea|Velky Meder|NO|stars_3
+386415|Ambassador|Kosice|NO|stars_4
+391844|Hotel Residences Kukucka|Tatranska Lomnica|NO|stars_4
+391993|Resort Beatrice Depandance Magnolia|Tatranska Lomnica|NO|stars_2
+405281|Horský Hotel Srdiecko|Horna Lehota|NO|stars_3
+405994|Relax hotel Sojka & Magura Village|Malatiny|NO|stars_3

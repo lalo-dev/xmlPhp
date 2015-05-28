@@ -1,0 +1,88 @@
+59988|Holiday Inn Riyadh - Olaya|Riyadh|YES|stars_4
+66470|Hilton Jeddah|Jeddah|YES|stars_5
+67716|Radisson Blu Riyadh|Riyadh|YES|stars_5
+75475|InterContinental Jeddah|Jeddah|YES|stars_5
+75476|Marriott Jeddah|Jeddah|YES|stars_5
+75479|Le Meridien Jeddah|Jeddah|YES|stars_5
+75480|Red Sea Palace|Jeddah|YES|stars_4
+76946|The Westin Jeddah|Jeddah|NO|stars_5
+76947|Holiday Inn Riyadh Al Qasri|Riyadh|YES|stars_4
+76948|Mövenpick Jeddah|Jeddah|YES|stars_4
+77337|Sheraton Riyadh Hotel & Towers|Riyadh|YES|stars_5
+83837|Holiday Inn Jeddah - Al Salam|Jeddah|YES|stars_4
+98458|Golden Tulip Al Hamra|Dammam|YES|stars_4
+102360|Golden Tulip Qasr Al Nasiriah|Riyadh|YES|stars_4
+102361|InterContinental Riyadh|Riyadh|YES|stars_5
+102362|Al Mutlaq|Riyadh|YES|stars_4
+102363|Al Hamra Hotel Managed by Pullman|Jeddah|YES|stars_5
+102366|Albilad Jeddah|Jeddah|YES|stars_4
+102367|Dhahran International|Dhahran|YES|stars_4.5
+102368|Ramada Hotel & Suites|Al Khobar|YES|stars_4
+102369|Golden Tulip Jeddah|Jeddah|YES|stars_3
+106516|Crowne Plaza Jeddah|Jeddah|NO|stars_5
+107322|TOP Riyadh Palace|Riyadh|YES|stars_5
+107605|Holiday Inn Al Khobar|Al Khobar|YES|stars_4
+108390|Le Meridien Al Khobar|Al Khobar|YES|stars_5
+108409|Le Meridien Al Hada|Taif|YES|0
+108421|Le Meridien Medina|Madinah|YES|0
+111393|Tulip Inn Andalusia|Al Khobar|YES|stars_4
+111416|Tulip Inn Olaya House|Riyadh|NO|stars_3
+111812|InterContinental Dar El Tawhid|Mekka|NO|stars_5
+129780|Sheraton Dammam Hotel & Towers|Dammam|YES|stars_5
+129782|Dammam Palace Hotel|Dammam|NO|stars_4
+129784|Rosewood Corniche|Jeddah|YES|stars_5
+129789|Sheraton Jeddah Hotel|Jeddah|YES|stars_5
+129790|Dunes|Jeddah|NO|stars_4
+129795|Le Meridien|Mekka|YES|stars_5
+129801|Four Seasons|Riyadh|YES|stars_5
+133094|Ramada Continental Jeddah|Jeddah|YES|stars_3.5
+138018|Al Shohada|Mekka|NO|stars_5
+138295|Mövenpick|Al Khobar|NO|stars_5
+138311|Le Meridien Towers|Mekka|YES|0
+138475|Qasr Al Sharq|Jeddah|YES|stars_5
+140143|Issham|Jeddah|YES|stars_4
+157708|Carlton Al Moaibed|Al Khobar|NO|stars_5
+162416|Novotel Al Anoud|Riyadh|NO|stars_4.5
+162418|Ramada Makkah|Mekka|NO|stars_3.5
+162419|Ramada Madinah Al Hamra|Madinah|YES|0
+162421|Ramada Madinah Al Qibla|Madinah|YES|0
+162422|Ramada Al Qassim & Suites|Al Bukayriyah|YES|0
+162426|Ramada Al Hada & Suites|Taif|YES|0
+182260|Sunset Jeddah|Jeddah|YES|stars_4
+188112|White Palace|Riyadh|YES|stars_3
+203213|Al Fahad Suites|Riyadh|NO|stars_4
+203214|Executives|Riyadh|YES|stars_4
+204074|Al Marwa Rayhaan by Rotana|Mekka|NO|stars_5
+209873|Golden Tulip Hail|Hail|YES|0
+215055|Park Hyatt Jeddah - Marina, Club & Spa|Jeddah|NO|stars_5
+216564|Ramada Dammam & Suites|Dammam|YES|0
+221054|Al Waha Palace|Riyadh|YES|stars_4
+222774|Mercure Value|Riyadh|NO|stars_4
+223625|Tulip Inn Riyadh|Riyadh|YES|stars_3
+227090|Golden House|Dammam|YES|stars_4
+227091|Holiday Inn Riad-Izdihar|Riyadh|YES|stars_4
+230344|Golden Tulip Al Khobar-Corniche|Al Khobar|YES|0
+230380|Hilton Garden Inn Riyadh Olaya|Riyadh|NO|stars_4
+233758|Coral Gulf Riyadh|Riyadh|NO|stars_5
+234582|Grand Al Saha|Jeddah|NO|stars_3
+234584|Elaf Al Mashaer|Mekka|NO|stars_5
+234585|Mövenpick Hotel & Residence Hajar Tower|Mekka|NO|stars_5
+234603|Corp Executive Deira|Riyadh|NO|stars_5
+236735|Tulip Inn Taif|Taif|YES|stars_4
+236737|Tulip Inn Al Reef|Riyadh|NO|stars_3
+236739|Makkah Dar Al Manasek|Mekka|NO|stars_4
+237173|Sofitel The Corniche|Al Khobar|NO|stars_5
+238368|Raffles Makkah Palace|Mekka|NO|stars_5
+238369|Makkah Clock Royal Tower, A Fairmont Managed Hotel|Mekka|NO|stars_5
+244247|Al Hyatt Continental|Jeddah|NO|stars_3
+245542|Ramada Gulf|Al Khobar|YES|stars_4
+259728|Mena Hotel Riyadh|Riyadh|YES|stars_4
+274865|Four Points By Sheraton Riyadh Khaldia|Riyadh|YES|0
+289909|Golden Tulip Resort Dana Bay|Al Khobar|YES|0
+290211|Golden Tulip Al Jubail|Jubail|YES|0
+290796|Golden Tulip Buraidah|Buraydah|YES|0
+369573|Days Hotel Olaya Riyadh|Riyadh|YES|0
+405227|Golden Tulip Corniche Dammam|Dammam|YES|0
+405228|Tulip Inn Sea View Al Khobar|Al Khobar|YES|0
+405897|Grand Plaza Hotel|Riyadh|NO|stars_4
+407140|Al Ehsan Towers|Mekka|YES|0

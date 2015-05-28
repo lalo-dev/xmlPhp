@@ -1,0 +1,40 @@
+2226|Mercure Blue Beach|Saint Gilles|NO|stars_3
+2228|Relais De L`Hermitage|Saint Gilles|NO|stars_3
+9229|Boucan Canot|Saint Gilles|NO|stars_4
+11411|Grand Hotel des Mascareignes|Saint Gilles|NO|stars_3
+15608|L' Archipel|Saint Gilles|NO|stars_3
+16159|Le Saint Alexis|Saint Gilles|NO|stars_4
+16245|Les Creoles|Saint Gilles|NO|stars_3
+24142|Lux Ile de la Réunion|Saint Gilles|YES|stars_5
+32020|Blue Margouillat|St. Leu|YES|stars_3
+32021|L'Ecrin|Plaine des Cafres|NO|stars_2
+32022|Le Cilaos|Cilaos|NO|stars_3
+32024|Le Relais des Cîmes|Salazie|NO|stars_2
+32025|Vieux Cep|Cilaos|NO|stars_3
+32026|Le Nautile|Saint Gilles|YES|stars_3
+32027|Swalibo|Saint Gilles|NO|stars_3
+38902|Le Tsilaosa|Cilaos|NO|stars_4
+38903|Juliette Dodu|St. Denis|NO|stars_3
+41738|Mercure Créolia Saint-Denis La Réunion|St. Denis|NO|stars_3
+52719|Iloha|St. Leu|NO|stars_3
+56383|Le Saint Michel|Saint Gilles|NO|stars_2
+57360|Alamanda|Saint Gilles|NO|stars_2
+57362|Les Filaos|Saint Gilles|NO|stars_2
+57364|Domaine les Fougères|Les Avirons|NO|stars_2
+57367|Villa Belle|St. Pierre|NO|stars_4.5
+57369|Le Plantation|Saint Joseph|NO|stars_2
+57372|Les Geraniums|Plaine des Cafres|NO|stars_2
+64719|Le Récif|Saint Gilles|YES|stars_3
+81777|Le Floralys|Etang Sale les Bains|NO|stars_3
+81778|Domaine des Pierres|St. Pierre|NO|stars_3
+90633|Palm Hotel & Spa|Grand' Anse|NO|stars_5
+91374|Le Dimitile|Entre-Deux|NO|stars_4
+96985|Best Western Le Saint Denis|St. Denis|NO|stars_3
+100001|Tropic Apart|Saint Gilles|NO|stars_3
+100002|Bellepierre|St. Denis|NO|stars_4
+110501|Lodge Roche Tamarin & Spa|La Possession|NO|stars_3
+187865|La Fournaise|St. Rose|NO|stars_2
+228174|Diana Dea Lodge|Sainte Anne|NO|stars_4
+240645|Hoteliere Le Lancastel|St. Denis|NO|stars_3
+261670|Les Jardins d'Heva|Salazie|NO|stars_2
+405223|Tulip Inn Sainte Clotilde La Reunion|St. Denis|YES|0

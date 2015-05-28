@@ -1,0 +1,243 @@
+2259|Park|Bled|YES|stars_4
+2260|Kompas|Kranjska Gora|NO|stars_4
+2261|Ramada Resort Kranjska Gora|Kranjska Gora|NO|stars_4
+2263|Barbara|Portoroz|NO|stars_3
+2264|St. Bernardin Adriatic Resort - Histrion / Vile Park / Grand Bernardin/ Vila Barka - Histrion|Portoroz|NO|stars_4
+2265|St. Bernardin Adriatic Resort - Histrion / Vile Park / Grand Bernardin/ Vila Barka - Grandhotel Bernardin|Portoroz|NO|stars_5
+2266|Remisens Premium Hotel Metropol|Portoroz|NO|stars_5
+2267|Roza|Portoroz|NO|stars_3
+2268|St. Bernardin Adriatic Resort - Histrion / Vile Park / Grand Bernardin/ Vila Barka - Vile Park|Portoroz|NO|stars_3
+7473|Alpina|Kranjska Gora|NO|stars_3
+13319|Golf|Bled|YES|stars_4
+15060|Jelovica|Bled|NO|stars_3
+15224|Kanin|Bovec|NO|stars_3
+15475|Hotel Kompas Bled|Bled|YES|stars_4
+16562|Remisens Hotel Lucija|Portoroz|NO|stars_3
+20326|Ribno|Bled|NO|stars_4
+20490|Life Class Resort - Apollo / Mirna / Slovenija / Neptun / Riviera / Grand Portoroz|Portoroz|NO|stars_4
+20881|Salinera|Strunjan|NO|stars_3.5
+21675|San Simon Resort - Hotel Haliaetum / Hotel Mirta / Depandancen / Depandance Park|Izola|NO|stars_4
+22600|Terme Catez - Hotel Terme|Catez|NO|stars_4
+23212|Terme Catez - Hotel Toplice|Catez|NO|stars_4
+23352|Triglav|Stara Fuzina|NO|stars_2
+24647|Zlatorog|Bohinj|NO|stars_3
+26200|Terme Radenci Sava Hotel & Resort - Radin & Izvir|Radenci|NO|stars_4
+28148|Lek|Kranjska Gora|NO|stars_4
+28149|Villa Preseren|Bled|NO|stars_4
+28152|Grandhotel Toplice|Bled|YES|stars_5
+28153|Jadran|Bled|NO|stars_3
+28154|Burg Hrib|Preddvor|YES|stars_3
+28155|Life Class Resort - Grand Portoroz|Portoroz|YES|stars_5
+28611|Talaso Strunjan - Svoboda / Depandance Villa Park / Laguna / Villen|Strunjan|NO|stars_4
+28614|Rogaska Hotels & Lotus Terme - Grand Sava|Rogaska Slatina|NO|stars_4
+31160|Ferienanlage Terme Olimia - Breza|Podcetrtek|NO|stars_4
+31161|Belvedere|Izola|NO|stars_3
+31164|Piran|Piran|NO|stars_4
+31300|Dobrna|Dobrna|NO|stars_3
+31514|Jezero|Bohinj|NO|stars_4
+32755|Grand Hotel Union Executive|Ljubljana|YES|stars_4
+32757|City|Ljubljana|YES|stars_3
+32815|Tartini|Piran|NO|stars_3
+38276|Prisank|Kranjska Gora|NO|stars_4
+39576|Adria|Ankaran|NO|stars_3
+41175|Laguna|Strunjan|NO|stars_3
+41433|Hotel Spik|Gozd Martuljek|NO|stars_4
+51335|Vita|Dobrna|NO|stars_4
+53258|Lev|Ljubljana|YES|stars_4
+54723|Miral|Radenci|NO|stars_3
+55664|Villa Higiea|Dobrna|NO|stars_4
+55772|Ferienanlage Therme 3000 - Termal / Ajda / Livada Prestige / Bungalows Turisticno naselje|Moravske Toplice|NO|stars_3.5
+56652|Ljubljana Resort|Ljubljana|YES|stars_3
+56741|Grand Hotel Union Business|Ljubljana|YES|stars_4
+56990|Central|Ljubljana|YES|stars_4
+56991|M Hotel|Ljubljana|YES|stars_3
+57254|Vitranc|Kranjska Gora|NO|stars_3
+57683|Trojane|Trojane|YES|stars_2
+57861|Trst|Bled|YES|stars_3
+59553|Astoria|Bled|NO|stars_3
+60008|Kras|Postojna|NO|stars_4
+60087|Ferienanlage Therme 3000 - Ajda|Moravske Toplice|NO|stars_4
+60088|Terme Vivat|Moravske Toplice|NO|stars_4
+60527|Jama|Postojna|NO|stars_3
+60669|Kongo Hotel & Casino|Ljubljana|YES|stars_4
+60814|Paka|Velenje|NO|stars_4
+60815|Mantova|Ljubljana|NO|stars_3.5
+60816|Golte|Ljubljana|NO|stars_4
+60819|Vila Herberstein|Ljubljana|NO|0
+60820|Best Western Premier Slon|Ljubljana|YES|stars_4
+60821|Four Points by Sheraton Ljubljana Mons|Ljubljana|YES|stars_4
+60822|Terme Topolsica - Vesna / Mladika / Ocepkov Gaj|Topolsica|NO|stars_3
+62368|Gostilna pri Katrci|Ljubljana|YES|stars_3
+64035|Austria Trend Ljubljana|Ljubljana|YES|stars_4
+66373|Penzion Oblak|Moravske Toplice|NO|stars_4
+69243|Bohinj|Bohinj|NO|stars_4
+70106|Apartments Urh|Ljubljana|YES|stars_3
+70107|Apartments Levc|Ljubljana|YES|stars_3
+70108|Zdravilisce Lasko|Lasko|YES|stars_4
+73310|Terme Catez - Hotel Catez|Catez|NO|stars_3
+73477|Zalec|Zalec|YES|stars_3
+77423|Bellevue|Bohinj|NO|stars_3
+78180|Park|Ljubljana|YES|stars_3
+79702|Grand Donat|Rogaska Slatina|NO|stars_4
+79703|Ferienanlage Therme 3000 - Termal|Moravske Toplice|NO|stars_4
+79705|GreenLine Hotel Lipa - Terme Lendava|Lendava|NO|stars_3
+79707|Vital & Kristal|Dolenjske Toplice|NO|stars_3
+79846|Barbara Fiesa|Piran|NO|stars_3
+79847|Marita|Portoroz|NO|stars_4
+80477|Terme Smarjeske Toplice - Vitarium|Smarjeske Toplice|NO|stars_4
+80893|Villa Maia|Strunjan|NO|stars_4
+80894|Ros Marina|Portoroz|NO|stars_3
+82220|Smogavc|Zrece|NO|stars_3
+82488|Therme Zrece - Hotel Vital|Zrece|YES|stars_4
+86944|Therme Zrece - Villen Terme Zrece|Zrece|YES|stars_4
+86945|Rogla Sport Resort - Hotel Planja|Zrece|YES|stars_4
+86946|Rogla Sport Resort - Hotel Rogla|Zrece|YES|stars_3
+88506|Krim Bled|Bled|NO|stars_3
+91600|Ferienanlage Terme Olimia - Sotelia|Podcetrtek|NO|stars_4
+92478|Ferienanlage Therme 3000 - Livada Prestige|Moravske Toplice|NO|stars_5
+93059|Alp Penzion|Bled|NO|stars_4
+95483|Grand Hotel Primus|Ptuj|NO|stars_4
+97810|Zeleni Gaj|Verzej|NO|stars_3
+105168|Best Western Premier Lovec|Bled|NO|stars_4
+109139|Posestvo Pule|Trebelno|NO|stars_4
+109492|Orel|Maribor|NO|stars_3
+110420|Thermana Park Lasko|Lasko|NO|stars_4
+111496|Vila Bled|Bled|NO|stars_4
+124115|Bellevue|Pohorje|NO|stars_4
+124116|Habakuk|Maribor|NO|stars_5
+126905|Terme Krka - Hotel Sport|Otocec|NO|stars_4
+127808|Terme Krka - Hotel Krka|Novo Mesto|NO|stars_4
+128809|Krek|Lesce|NO|stars_3
+134372|Savica|Bled|YES|stars_3
+135080|Terme Rogaska - Grand Hotel Rogaska / Hotel Styria & Hotel Strossmayer|Rogaska Slatina|NO|stars_4
+136308|Kempinski Palace Portoroz|Portoroz|NO|stars_5
+136635|Garni Pension TTT|Bled|NO|stars_3
+139748|Park|Dobrna|NO|stars_3
+139749|Balnea|Dolenjske Toplice|NO|stars_4
+143653|Appartements Prekmurska Vas|Moravske Toplice|NO|stars_3
+162501|Suite Klass|Kranjska Gora|NO|stars_4
+162502|Ahotel|Ljubljana|YES|stars_3
+162503|Keltika|Izola|NO|stars_2
+162506|Sport Hotel|Postojna|NO|stars_3
+162508|Kokra|Kranj|NO|stars_4
+188113|Alp|Bovec|YES|stars_3
+202560|Vila Piranesi|Piran|NO|stars_3
+204359|Allegro|Ljubljana|NO|stars_4
+204670|Antiq|Ljubljana|NO|stars_4
+206228|Bio|Koper|NO|stars_3
+206589|Budget Pension Pibernik|Bled|NO|stars_3
+208886|Epicenter Postojna|Postojna|NO|stars_3
+213817|Marina Portoroz|Portoroz|NO|stars_4
+215300|Pension Lectar|Radovljica|NO|stars_3.5
+215417|Penzion Jagodic|Cerklje na Gorenjskem|NO|stars_3
+215421|Penzion Kovac|Radovljica|NO|stars_3
+215427|Penzion Vitapark|Lasko|NO|stars_3
+217385|Rogaska Hotels & Lotus Terme - Grand Sava / Zagreb|Rogaska Slatina|NO|stars_3.5
+217425|Hotel Gasperin Bohinj|Bohinjsko Jezero|NO|stars_3
+218430|Stil|Ljubljana|NO|stars_3
+220120|Vila Bojana|Bled|NO|stars_4
+220934|Zdravilisce Radenci|Radenci|NO|stars_4
+221113|Ambient|Domzale|NO|stars_3
+221170|Apartments Bolfenk|Hocko Pohorje|NO|stars_4
+221195|Arena|Maribor|NO|stars_4
+221287|Bajt - Garni|Maribor|NO|stars_3
+221316|Bau|Maribor|NO|stars_3
+221349|Betnava|Maribor|NO|stars_4
+221372|Bohinj Park ECO Hotel|Bohinj|NO|stars_5
+221903|Evropa|Celje|NO|stars_4
+221968|Milena Garni|Maribor|NO|stars_3
+222065|Grandhotel Ocean|Maribor|NO|stars_4
+222328|Tripic Hotel-Pension|Bohinj|NO|stars_3
+222639|Leonardo|Slovenska Bistrica|NO|stars_3
+222670|Lipa|Sempeter pri Gorici|NO|stars_3
+222957|Park Casino & Hotel|Nova Gorica|NO|stars_4
+223048|Perla Casino & Hotel|Nova Gorica|NO|stars_4
+223119|Pri Ancki|Ljubljana|NO|stars_3
+223362|Sabotin|Nova Gorica|NO|stars_3
+223451|Rimske Terme - Hotel Sofijin Dvor|Rimske Toplice|NO|stars_4
+223552|Tabor|Maribor|NO|stars_3
+223641|Uni|Maribor|NO|stars_2
+230368|Convent|Ankaran|NO|stars_4
+230370|Depandansa Bor|Ankaran|NO|stars_3
+230371|Triglav Bled|Bled|NO|stars_4
+230382|Alpik Apartment at Bohinj Lake|Bohinjsko Jezero|NO|stars_3
+230396|GreenLine Hotel Terme Snovik|Laze v Tuhinju|NO|stars_4
+230397|Medno|Ljubljana|NO|stars_3
+230409|Harmonija|Menges|NO|stars_3
+230414|Villa Tamara|Moravske Toplice|NO|stars_3
+230416|Lucija|Most na Soci|NO|stars_3
+230419|Park|Ptuj|NO|stars_4
+230425|Safir|Sezana|NO|stars_4
+230426|Maestoso|Sezana|NO|stars_3
+234957|Touristik Dorf Bungalows|Moravske Toplice|NO|stars_3
+245021|Therme Zrece - Hotel Atrij|Zrece|NO|stars_4
+246760|Terme Smarjeske Toplice - Smarjeta|Smarjeske Toplice|NO|stars_4
+247301|Life Class Resort - Apollo|Portoroz|NO|stars_4
+247302|Life Class Resort - Mirna|Portoroz|NO|stars_4
+247303|Life Class Resort - Slovenija|Portoroz|NO|stars_4
+247304|Life Class Resort - Neptun|Portoroz|NO|stars_4
+247305|Life Class Resort - Riviera|Portoroz|NO|stars_4
+247416|Ferienanlage Terme Olimia - Rosa|Podcetrtek|NO|stars_4
+247512|Therme Zrece - Hotel Atrij / Hotel Vitall / Villen Terme Zrece|Zrece|NO|stars_4
+247513|Terme Topolsica - Vesna|Topolsica|NO|stars_3
+247515|Terme Topolsica - Ocepkov Gaj|Topolsica|NO|stars_4
+248691|Cubo|Ljubljana|NO|stars_4
+248692|Emonec|Ljubljana|NO|stars_2
+249127|Actum|Kranj|NO|stars_4
+250038|Terme Radenci Sava Hotel & Resort - Radin|Radenci|NO|stars_4
+250039|Terme Radenci Sava Hotel & Resort - Izvir|Radenci|NO|stars_3.5
+259352|Rimske Terme - Hotel Rimski Dvor|Rimske Toplice|NO|stars_4
+259356|Rimske Terme - Hotel Zdraviliski Dvor|Rimske Toplice|NO|stars_4
+260520|Rogaska Hotels & Lotus Terme - Zagreb|Rogaska Slatina|NO|stars_4
+260547|Dvorec Jeruzalem|Ivanjkovci|NO|0
+261171|Hotel Bor|Preddvor|YES|stars_3
+261172|Hotel Bor & Burg Hrib|Preddvor|YES|stars_3
+261194|St. Bernardin Adriatic Resort - Histrion / Vile Park / Grand Bernardin/ Vila Barka|Portoroz|NO|stars_3
+264995|Pri Mraku|Ljubljana|NO|stars_3
+265621|Lambergh Château & Hotel|Radovljica|NO|stars_4
+267015|Vila Istra|Bled|NO|stars_4
+267018|ACE Apartments Bled|Bled|NO|stars_4
+267019|Pr' Matjon - Pension|Bled|NO|stars_3
+267021|House Neza|Kranjska Gora|NO|stars_4
+267022|Maygut Apartments|Portoroz|NO|stars_3
+267023|Villa Lenka|Portoroz|NO|stars_3
+271870|Hotel Mangart|Bovec|NO|stars_3
+272428|Cateski dvorec|Brezice|NO|stars_4
+273404|Casino Hotel Carnevale Wellness & Spa|Koper|NO|stars_4
+273506|Pension Stare at the Bohinj Lake|Bohinjsko Jezero|NO|stars_3
+273958|Lesar Angel|Ljubljana|NO|stars_4
+273960|Center|Ljubljana|NO|stars_3
+273961|Antiq Palace|Ljubljana|NO|stars_4
+273962|Aparthotel Vila Minka|Ljubljana|NO|stars_3
+273963|Macek Rooms|Ljubljana|NO|stars_3
+273966|Guesthouse Mesec Zaplana|Vrhnika|NO|stars_3
+274333|Vila Adriatic|Ankaran|NO|stars_3
+274432|Gozdna Villa Mari|Maribor|NO|stars_4
+274433|Kacar|Maribor|NO|stars_3
+274434|Hotel City Maribor|Maribor|NO|stars_4
+277052|Hotel Krvavec|Cerklje na Gorenjskem|NO|stars_3
+277053|Azul|Kranj|NO|stars_3
+287726|Vander Urbani Resort|Ljubljana|NO|stars_4
+292916|Turizem Loka|Ljubljana|NO|stars_4
+294296|Hotel Pri Spornu|Domzale|NO|stars_3
+294297|Garni Hotel Bukovica|Nova Gorica|NO|stars_2
+294642|Apartments Bohinj na Vasi|Bohinjska Bistrica|NO|stars_3
+294644|Garni Sport Hotel|Prebold|NO|stars_3
+295312|Hotel Kovac|Osilnica|NO|stars_2.5
+298935|Plaza|Ljubljana|NO|stars_4
+301201|St. Bernardin Adriatic Resort - Histrion / Vile Park / Grand Bernardin/ Vila Barka - Vila Barka|Portoroz|NO|stars_4
+302416|San Simon Resort - Depandancen|Izola|NO|stars_3
+302658|Vital & Kristal - Vital|Dolenjske Toplice|NO|stars_4
+302659|Vital & Kristal - Kristal|Dolenjske Toplice|NO|stars_4
+310838|Plesnik|Solcava|NO|stars_4
+310839|Slovenija|Rogaska Slatina|NO|stars_4
+310880|Terme Rogaska - Grand Hotel Rogaska|Rogaska Slatina|NO|stars_4
+311198|Terme Rogaska - Hotel Styria & Hotel Strossmayer|Rogaska Slatina|NO|stars_4
+328196|Poetovio|Ptuj|NO|stars_3
+359597|Best Western Plus Piramida|Maribor|NO|stars_4
+369134|Birokrat|Ljubljana|NO|stars_4
+369338|Lent Hotel|Maribor|NO|stars_3
+381268|Dvor Tacen|Ljubljana|NO|stars_4
+413239|Tourist Green Resort Garden Village|Bled|NO|stars_5
+416340|Hostel Barovc|Kranjska Gora|YES|0
+416417|Rimske Terme - Hotel Zdraviliski Dvor / Hotel Sofijin Dvor / Hotel Rimski Dvor|Rimske Toplice|NO|stars_4

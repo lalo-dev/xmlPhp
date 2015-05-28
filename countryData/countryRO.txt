@@ -1,0 +1,515 @@
+7668|Hotelkomplex Amiral/ Orfeu/ Comandor - Amiral|Mamaia|YES|stars_4
+10237|Central|Mamaia|YES|stars_3
+11584|Doina|Neptun|NO|stars_3
+16687|Majestic|Mamaia|NO|stars_3.5
+17501|Miorita|Neptun|YES|stars_3
+18917|Pelican Beach|Mamaia|NO|stars_3
+20499|Riviera Beach|Mamaia|NO|stars_3
+21183|Best Western Savoy|Constanta|NO|stars_3.5
+28246|Iaki|Mamaia|YES|stars_4
+28325|Delta 3***|Tulcea|YES|stars_3
+31143|Cocor|Neptun|YES|stars_4
+31144|Caraiman|Mamaia|NO|stars_3
+32917|Hotel Inter|Venus|NO|stars_4.5
+33325|Dorna|Mamaia|YES|stars_3
+33327|Komplex Sirena / Hora - Hora|Saturn|YES|stars_3
+34317|Ramada Bucharest Parc Hotel|Bucharest|YES|stars_4
+34318|Pullman Bucharest World Trade Center Hotel|Bucharest|NO|stars_4
+35374|Hotelkomplex Amiral/ Orfeu/ Comandor - Comandor|Mamaia|YES|stars_4
+39093|Vega|Mamaia|NO|stars_5
+39502|Europa|Eforie Nord|YES|stars_4
+39631|Palas Beach|Mamaia|NO|stars_3.5
+39632|Victoria|Mamaia|YES|stars_3
+39633|Astoria|Eforie Nord|YES|stars_3
+40522|Dana|Venus|YES|stars_3
+40677|Cerna|Saturn|YES|stars_3
+51061|Royal Constanta|Constanta|YES|stars_4
+51062|Caro Horoscop|Bucharest|NO|stars_2.5
+51063|Opera|Bucharest|YES|stars_3
+51064|Central|Bucharest|YES|stars_4
+51065|Crystal Palace|Bucharest|YES|stars_4
+51066|Howard Johnson Grand Plaza|Bucharest|YES|stars_4
+51185|Grand Continental|Bucharest|NO|stars_5
+51186|Continental Oradea|Oradea|YES|stars_4
+51187|Continental Arad|Arad|YES|stars_4
+51194|Bradul - Poiana|Poiana Brasov|YES|stars_3
+51196|Sport Hotel & Spa|Poiana Brasov|NO|stars_4
+53060|Golden Tulip Mamaia|Mamaia|YES|stars_4
+53332|Modern|Mamaia|YES|stars_4
+55588|Balada|Saturn|YES|stars_3
+55589|Raluca|Venus|YES|stars_3
+61084|Elizeu|Bucharest|YES|stars_3
+61085|Johann Strauss|Bucharest|YES|stars_3
+61086|Floreta de Aur|Bucharest|YES|stars_3
+61087|Irisa|Bucharest|NO|stars_4
+61088|Ramada Majestic Bucharest|Bucharest|YES|stars_4
+61089|Minerva Hotel - 3*/4*|Bucharest|YES|stars_4
+61091|Best Western Stil|Bucharest|YES|stars_4
+62161|Continental Mures|Targu Mures|YES|stars_3
+62163|Continental - geschlossen|Cluj Napoca|NO|stars_3
+62164|Ambasador Bucharest|Bucharest|YES|stars_3.5
+62327|Mirage|Eforie Nord|NO|stars_4
+62539|Complex Bulevard|Constanta|NO|stars_4
+62540|Scala|Constanta|YES|stars_3
+63457|Capitol Bucharest|Bucharest|YES|stars_3
+64850|Imparatul Romanilor Parc|Arad|YES|stars_3
+64912|Römischer Kaiser|Sibiu|YES|stars_3
+64913|North Star Continental Resort|Timisoara|YES|stars_4
+64943|Capitol Brasov|Brasov|YES|stars_3
+64944|New Montana|Sinaia|YES|stars_4
+64945|Coroana|Brasov|YES|stars_2
+65058|Aro Palace|Brasov|NO|stars_4.5
+65363|Athenee Palace Hilton Bucharest|Bucharest|YES|stars_5
+69070|Komplex Sirena / Hora - Sirena|Saturn|YES|stars_3
+69072|Saturn|Saturn|YES|stars_5
+69420|Best Western Ambassador|Timisoara|YES|stars_4
+69717|K+K Elisabeta|Bucharest|YES|stars_4
+70101|RIN Central|Bucharest|YES|stars_4
+70102|Capsa|Bucharest|YES|stars_5
+70103|Best Western Silva Hotel|Sibiu|YES|stars_3
+70104|Egreta Hotel|Tulcea|YES|stars_3
+70105|Selena|Mamaia|YES|stars_2
+70109|Ferdinand|Constanta|YES|stars_3
+70111|Alpin Hotel|Poiana Brasov|YES|stars_4
+71090|Hotelkomplex Amiral/ Orfeu/ Comandor - Orfeu|Mamaia|YES|stars_3
+71852|NH Bucharest|Bucharest|YES|stars_4
+74896|NH Timisoara|Timisoara|YES|stars_4
+75504|Oxford|Constanta|NO|stars_3
+77293|Lev-Or|Bucharest|YES|stars_3
+77334|Palace|Sinaia|YES|stars_4
+77633|Astoria|Iasi|NO|stars_3
+77634|Grand Traian|Iasi|NO|stars_4
+77635|Carpati|Baia Mare|YES|stars_3
+77636|Nufarul|Bad Felix|YES|stars_3
+77637|Termal|Bad Felix|YES|stars_3
+77638|Poienita|Oradea|YES|stars_2
+77639|Bristol|Bucharest|YES|stars_3
+77640|Continental Suceava|Suceava|YES|stars_3
+77864|Steaua|Targu Mures|NO|stars_2
+77865|Continental Gaiser (Timisu)|Brasov|YES|stars_3
+77866|Ana|Sibiu|YES|stars_3
+78044|Hotel Apollo Hermannstadt|Sibiu|YES|stars_3
+78045|Guci|Constanta|YES|stars_3
+78765|Paradiso|Mangalia|YES|stars_3
+78863|Piatra Mare|Poiana Brasov|YES|stars_4
+79480|Jolie|Constanta|YES|stars_2
+79929|Golden Tulip Times|Bucharest|YES|stars_4
+80769|Ramada Bukarest Nord|Bucharest|YES|stars_4
+80770|Phoenicia Grand|Bucharest|YES|stars_4
+81572|Golden Tulip Victoria Bucharest|Bucharest|YES|stars_4
+81574|Class|Constanta|YES|stars_3
+81575|Class Bukarest|Bucharest|YES|stars_4
+81576|Unique|Bucharest|YES|stars_4
+82482|Ibis Constanta|Constanta|YES|stars_3
+82483|Ibis Palatul Parlamentului|Bucharest|YES|stars_3
+82484|Ibis Gara de Nord|Bucharest|YES|stars_3
+82485|RIN Airport|Otopeni|YES|stars_4
+82503|Edelweiss|Brasov|YES|stars_4
+82819|Smart|Sinaia|YES|stars_4
+84075|Motel Continental Portile De Fier|Turnu Severin|YES|stars_3
+84077|Continental Turnu Severin|Turnu Severin|YES|stars_3
+84120|Deja Vu|Cluj Napoca|YES|stars_5
+84148|Armonia Bucharest|Bucharest|YES|stars_4
+84174|Lido|Bucharest|NO|stars_4
+86015|Marami|Sinaia|YES|stars_3
+86016|Samaa|Bucharest|YES|stars_3
+86017|Venezia|Bucharest|YES|stars_4
+86939|Parc Sibiu|Sibiu|YES|stars_3
+87313|Denisa Otopeni|Bucharest|YES|stars_3
+87458|Novotel Bucharest City Centre|Bucharest|YES|stars_4
+87459|Radisson Blu Hotel Bucharest|Bucharest|YES|stars_5
+89214|Valentina|Timisoara|YES|stars_3
+91059|Concordia TG Mures|Targu Mures|YES|stars_4
+91060|President TG Mures|Targu Mures|YES|stars_4
+91062|Transilvania TG Mures|Targu Mures|YES|stars_2
+91478|International|Bad Felix|YES|stars_4
+93530|Belvedere|Cluj Napoca|NO|stars_3
+93567|Caro Golf|Bucharest|NO|stars_4
+95007|Afrodita|Venus|NO|stars_4
+95146|angelo Airporthotel Bucharest|Otopeni|YES|stars_4
+95694|Siqua|Bucharest|YES|stars_3
+95695|Diplomat|Bucharest|YES|stars_4
+96704|Rina Sinaia|Sinaia|YES|stars_3
+96705|El Greco|Bucharest|YES|stars_4
+97377|Andy|Bucharest|YES|stars_3
+97958|Doubletree Bucharest - Unirii Square|Bucharest|NO|stars_4
+97959|Continental Forum|Sibiu|YES|stars_4
+97960|City Plaza|Cluj Napoca|YES|stars_4
+99603|RIN Grand|Bucharest|YES|stars_4
+99609|Ramada|Sibiu|YES|stars_4
+99611|Casa Wagner|Sighisoara|YES|stars_3
+99612|Korona|Sighisoara|YES|stars_4
+99620|Rozmarin|Predeal|NO|stars_4
+99622|International|Sinaia|YES|stars_4
+99639|Malibu|Mamaia|YES|stars_4
+100951|Sport Cluj|Cluj Napoca|YES|stars_2
+102727|Ambient|Brasov|YES|stars_4
+102728|Ramada Plaza Bucharest Convention Center|Bucharest|YES|stars_4
+104633|Best Western Bucovina Club De Munte|Gura Humorului|YES|stars_4
+104666|Best Western Central Hotel|Arad|NO|stars_3
+105358|Hotel Topaz|Cluj Napoca|YES|stars_3
+105556|Bucharest Comfort Suites|Bucharest|NO|stars_4
+106412|RIN Express - geschlossen|Otopeni|YES|stars_3
+106510|Crowne Plaza Bukarest|Bucharest|YES|stars_4
+106938|Excelsior|Timisoara|NO|stars_4
+107930|House of Dracula|Poiana Brasov|NO|stars_4
+108050|InterContinental Bukarest|Bucharest|YES|stars_5
+108142|JW Marriott Bucharest Grand|Bucharest|NO|stars_5
+108372|Le Boutique Moxa|Bucharest|YES|stars_4
+109154|Monte Nelly|Bucharest|NO|stars_4
+109490|Opera Plaza|Cluj Napoca|NO|stars_5
+109591|Parliament|Bucharest|NO|stars_4
+110084|Relax Bucharest Comfort Suites|Bucharest|NO|stars_4
+111299|Hotel Tirol|Poiana Brasov|NO|stars_3
+111424|Tulip Inn Sunny Hill|Cluj Napoca|NO|stars_4
+122396|The Gerald´s|Radauti|YES|stars_4
+124866|Moldova|Iasi|YES|stars_3
+124867|Splendid|Mamaia|YES|stars_4
+127177|Residence Domenii Plaza|Bucharest|YES|stars_4
+127178|Residence Arc de Triomphe|Bucharest|YES|stars_4
+127416|Iris|Oradea|NO|stars_3
+133061|Paradis|Cluj Napoca|NO|stars_4
+133063|Capitolina|Cluj Napoca|NO|stars_3
+133064|Millenium|Constanta|NO|stars_3
+133070|Vulturul Negru|Oradea|YES|stars_3
+133071|Elite Boutique & Spa|Oradea|NO|stars_4
+133072|Hilton Sibiu|Sibiu|YES|stars_5
+133079|Perla 4|Timisoara|NO|stars_4
+133081|Euro|Timisoara|NO|stars_3
+134180|Ambient Pension|Brasov|YES|stars_3
+135053|Marshal|Bucharest|NO|stars_3.5
+135054|Ramada City Center|Iasi|YES|stars_3
+135061|Complex Dunarea|Eforie Nord|YES|stars_3
+136486|Manoir Mignon|Campulung Moldovenesc|YES|0
+136737|||NO|0
+137175|||NO|0
+137523|||NO|0
+137583|||NO|0
+137833|||NO|0
+137834|||NO|0
+138044|||NO|0
+138046|||NO|0
+138115|||NO|0
+138469|||NO|0
+138499|||NO|0
+139593|||NO|0
+139595|||NO|0
+162147|||NO|0
+162149|||NO|0
+162152|||NO|0
+162154|||NO|0
+162156|||NO|0
+162157|||NO|0
+162161|||NO|0
+162162|||NO|0
+162163|||NO|0
+162164|||NO|0
+162170|||NO|0
+162173|||NO|0
+162175|||NO|0
+162176|||NO|0
+162180|||NO|0
+162183|||NO|0
+162185|||NO|0
+162186|||NO|0
+162189|||NO|0
+162192|||NO|0
+162656|||NO|0
+163374|||NO|0
+163391|||NO|0
+163491|||NO|0
+182523|||NO|0
+183711|||NO|0
+183713|||NO|0
+183714|||NO|0
+187996|||NO|0
+202263|||NO|0
+202264|||NO|0
+202266|Wels|Tulcea|NO|stars_4
+203007|Danubius Health Spa Resort Sovata|Sovata|NO|stars_4
+203090|Capital Plaza|Bucharest|YES|stars_4
+203947|Agentia H Accommodation|Bucharest|NO|stars_3
+204277|Alexander|Bucharest|NO|stars_4
+205173|Arena|Targu Mures|NO|stars_4
+205203|Arion|Constanta|NO|stars_3
+205765|Balada Nej|Constanta|NO|stars_4
+206036|Bellaria|Iasi|NO|stars_4
+206131|Berthelot|Bucharest|NO|stars_4
+206446|Bran Belvedere Pension|Bran|NO|stars_4
+206575|Bucharest Serviced Apartments|Bucharest|NO|0
+206641|Business Conference Center & Spa|Targu Mures|NO|stars_3
+206711|Calea Victoriei Residence|Bucharest|NO|stars_3
+206847|Cara|Pitesti|NO|stars_3
+206964|Casa Luxemburg|Sibiu|NO|stars_3
+207299|Cherica|Constanta|NO|stars_4
+207337|Hotel Christina|Bucharest|NO|stars_4
+207369|Citadella|Bucharest|NO|stars_2
+207532|Pension Casa Humor|Gura Humorului|NO|stars_4
+207938|Dacia RRT|Bucharest|NO|stars_4
+208240|Delpack|Timisoara|YES|stars_4
+208577|Duke Hotel|Bucharest|NO|stars_3
+209871|Golden Tulip Ana Tower|Sibiu|YES|stars_4
+210405|Hemingway Residence Apartments|Bucharest|NO|stars_3
+210491|Hilde's Residence|Gura Humorului|NO|stars_4
+211232|Esplanada|Tulcea|NO|stars_4
+211470|Hotel-Club Austria|Busteni|NO|stars_5
+211725|Imperial|Timisoara|NO|0
+212237|Krone|Bistrita|NO|stars_3
+214839|Oxford Inns&Suites|Timisoara|NO|stars_3
+214877|Palace RRT|Constanta|NO|stars_3
+215309|Pension Maria|Sibiu|NO|stars_4
+215327|Pension Paunasul|Busteni|NO|stars_3
+215506|Piemonte|Predeal|NO|stars_4
+215724|Prahova Plaza|Ploiesti|NO|stars_4
+215733|Premier|Sibiu|NO|stars_3
+216349|President|Timisoara|NO|stars_3
+216850|Residence Irlanda|Timisoara|NO|stars_3
+217105|Casa cu Tei|Craiova|NO|stars_4
+217826|Savoy|Timisoara|NO|stars_4
+218057|Silver|Oradea|NO|stars_4
+218072|Sir Colentina|Bucharest|NO|stars_2
+218611|Sydney|Craiova|NO|stars_3
+218683|Tecadra|Bucharest|NO|stars_4
+218727|Terra|Oradea|NO|stars_3
+219755|Traian|Constanta|NO|stars_4
+220078|Victoria|Timisoara|YES|stars_3
+220108|VigoHotel|Ploiesti|NO|stars_4
+220122|Vila Camelia|Sinaia|NO|stars_3
+220129|Vila Paris|Bucharest|NO|stars_4
+220997|9 Suites Residence|Brasov|NO|stars_4
+221216|Atlas|Brasov|NO|stars_3
+221602|Complex Hanul Muresenilor|Sacele|NO|stars_4
+221965|Garden Club|Brasov|NO|stars_3
+222052|Gott|Brasov|NO|stars_3
+222712|Lux Garden|Azuga|NO|stars_5
+222859|Natural|Brasov|NO|stars_3
+222943|Pantex|Brasov|NO|stars_3
+222981|Pension Bassen|Bazna|NO|stars_3
+222986|Pension Casa Cranta|Brasov|NO|stars_4
+222999|Pension Heraldic Club|Poiana Brasov|NO|stars_5
+223029|Pensiunea Italiana|Brasov|NO|stars_3
+223104|Premier|Cluj Napoca|YES|stars_4
+223198|Rem's Pension|Rasnov|NO|stars_3
+223206|Residence Hirscher|Brasov|NO|stars_3
+223427|Siago|Cluj Napoca|NO|stars_3
+223699|Vidalis|Cluj Napoca|NO|stars_3
+223716|Vila Trapez|Brasov|NO|stars_3
+223750|Villa Hera|Baile Herculane|NO|stars_2
+223762|Villa Prato|Brasov|NO|stars_4
+227651|Grand|Brasov|YES|stars_4
+228020|Reghina Blue|Timisoara|YES|stars_4
+228021|Florida|Mamaia|YES|stars_3
+228359|Dali|Constanta|YES|stars_3
+228361|GmG|Constanta|YES|stars_4
+228362|Megalos|Constanta|YES|stars_3
+228363|Reghina|Timisoara|YES|stars_3
+229159|Parc|Timisoara|YES|stars_3
+229161|Complex Bran, Brad, Bega|Eforie Nord|NO|stars_4
+229614|Pension Agatha Christie|Ploiesti|NO|0
+229637|West City|Floresti|NO|stars_4
+229690|Perla|Sânmartin|NO|stars_3
+229728|Casa Elvira|Campulung Moldovenesc|NO|stars_3
+230385|City Center Hostel|Cluj Napoca|NO|stars_2
+230386|Golden Tulip Ana Dome|Cluj Napoca|YES|stars_4
+232106|Wels|Baltenii de Sus|NO|stars_4
+232601|INTER BUSINESS Bucharest Hotel|Bucharest|NO|stars_4
+233517|Bleumarin Spa|Vata de Jos|NO|stars_3
+233518|Phoenix|Vata de Jos|NO|stars_4
+233519|Ponor Spa|Vata de Jos|NO|stars_3
+233749|Dumbrava Bacau|Bacau|NO|stars_3
+233752|Serban|Brasov|NO|stars_3
+235231|Z Executive Boutique|Bucharest|NO|stars_4
+235401|Epoque Bucharest|Bucharest|NO|stars_5
+235402|Ioana|Sinaia|NO|stars_5
+235403|Mistral Resort Moieciu|Moieciu de Sus|NO|stars_3
+235404|Poiana Verde|Cluj Napoca|NO|stars_4
+235405|Transilvania|Alba Iulia|NO|stars_2
+236709|Prince Park Residence|Bucharest|NO|stars_4
+236710|Orizont|Predeal|NO|stars_4
+237172|Ramada Oradea|Oradea|YES|stars_4
+237320|Best Western Plus Mari Vila|Bucharest|NO|stars_4
+238233|Tranzzit|Bucharest|NO|stars_3
+238236|Del Mar|Mamaia|NO|stars_4
+238240|Plaza V & Plaza V Executive|Targu Mures|NO|stars_4
+238241|Ciao|Targu Mures|NO|stars_3
+238811|Onix|Cluj Napoca|NO|stars_4
+239311|Palm Beach|Mamaia|NO|stars_4
+239312|Grand|Targu Mures|NO|stars_4
+239313|Aurelia|Timisoara|NO|stars_3
+240300|Black Lord|Targu Mures|NO|stars_3
+240302|Marion|Targu Mures|NO|stars_3
+240303|Transylvanian Inn|Bran|NO|stars_3
+240305|Wolf 1 & 2|Bran|NO|stars_3
+240380|Ambient Residence|Brasov|NO|stars_3
+246163|Arena Regia Hotel & Spa|Mamaia|NO|stars_5
+246167|Phoenicia Holiday Resort|Mamaia|NO|stars_4
+247680|2D Hotel|Neptun|NO|stars_3
+249350|Sarroglia|Bucharest|NO|stars_4
+259484|Opal|Cluj Napoca|NO|stars_4
+259490|Predeal Comfort Suites|Predeal|NO|stars_5
+259709|Komplex Sirena / Hora|Saturn|NO|stars_3
+260281|Europa Royale Bucharest Hotel|Bucharest|NO|stars_4
+260282|West Plaza Hotel|Bucharest|NO|stars_3
+260283|Mirage Snagov Hotel & Resort|Snagov|NO|stars_3
+260284|Ramada Pitesti|Pitesti|NO|stars_4
+260617|Cavaler Sighisoara|Sighisoara|NO|stars_4
+261292|BinderBubi|Medias|NO|stars_4
+261293|Check Inn|Timisoara|NO|stars_3
+264976|Centre Ville Aparthotel, managed by Radisson Blu Bucharest|Bucharest|NO|stars_4
+264981|Amphitryon Hotel|Bucharest|NO|stars_3
+264982|Banat|Bucharest|NO|stars_2
+264986|Herastrau|Bucharest|NO|stars_3
+264989|Phoenicia Express|Bucharest|NO|stars_4
+265517|Ambiance|Bucharest|NO|stars_3
+265518|BinderBubi|Sighisoara|NO|stars_5
+265519|Traube|Medias|NO|stars_3
+292747|Corsa Hotel|Mangalia|NO|stars_3
+292858|Tania-Frankfurt|Bucharest|NO|stars_3
+292862|Hotel Cameliei|Bucharest|NO|stars_2
+292870|Hostel Litovoi|Bucharest|NO|stars_2
+292871|Zava Hotel|Bucharest|NO|stars_4
+292874|Hotel Premiere|Bucharest|NO|stars_3
+292875|Sir Orhideea|Bucharest|NO|stars_2
+292880|Ancor Hotel|Bucharest|NO|stars_3
+292881|Pensiune Restaurant Pipera|Bucharest|NO|stars_4
+292884|Hotel Monaco|Bucharest|NO|stars_3
+292886|Sir Lujerului|Bucharest|NO|stars_2
+292888|Interland Accommodation - Ion Ghica|Bucharest|NO|0
+292891|Green Forum Hotel|Bucharest|NO|stars_3
+292893|Hotel Spa Resort Premier Palace|Bucharest|NO|stars_5
+292927|Regal|Constanta|NO|stars_3
+292928|Marea Neagra|Constanta|NO|stars_3
+292929|Mercur Minerva|Constanta|NO|stars_3
+292933|Pacific|Constanta|NO|stars_4
+292934|Richmond|Constanta|NO|stars_4
+292936|Vila Sangria|Constanta|NO|stars_3
+293021|Casa Teo|Tulcea|YES|stars_3
+293022|Morena Mansion - Guest House|Tulcea|NO|stars_4
+293028|La Mer|Eforie Nord|NO|stars_3
+293029|Stella Marina|Eforie Nord|NO|stars_3
+293076|Villa Cristian|Arad|NO|stars_3
+293077|Maxim Hotel|Arad|NO|stars_3
+293082|Qiu Hotel Rooms|Oradea|NO|stars_3
+293088|Alpin Aparthotel|Poiana Brasov|NO|stars_4
+293089|The Rizzo Boutique & Spa|Poiana Brasov|NO|stars_4
+293092|Vilele Monterai|Poiana Brasov|NO|stars_3
+293093|Pensiunea Artemis|Sibiu|NO|stars_3
+293094|Pensiunea Palazzo|Sibiu|NO|stars_4
+293099|Villa Astoria|Sibiu|NO|stars_3.5
+293101|Pensiunea Carmen|Sibiu|NO|stars_3
+293102|Pensiunea Fortuna|Sibiu|NO|stars_3
+293144|Oasis Guest House|Costinesti|NO|stars_3
+293200|Perla|Targu Mures|NO|stars_3
+293203|Central|Cluj Napoca|YES|stars_3
+293206|Escala Villa|Cluj Napoca|NO|stars_4
+293207|Ramada Cluj|Cluj Napoca|NO|stars_4
+293209|Cabrio|Cluj Napoca|NO|stars_3.5
+293210|Grand Hotel Italia|Cluj Napoca|NO|stars_5
+293211|Granata|Cluj Napoca|NO|stars_4
+293213|Grand Hotel Napoca|Cluj Napoca|NO|stars_4
+293214|Alexis|Cluj Napoca|NO|stars_3
+293216|Caramell Pension|Cluj Napoca|NO|stars_3.5
+293217|Transilvania|Cluj Napoca|NO|stars_3
+293219|Univers T|Cluj Napoca|NO|stars_3
+293222|Hampton by Hilton Cluj Napoca|Cluj Napoca|NO|stars_3
+293263|Central|Timisoara|NO|stars_2
+293264|Hotel Timisoara|Timisoara|NO|stars_4
+293266|Hotel Novera|Timisoara|NO|stars_4
+293267|Pensiunea Anette|Timisoara|NO|stars_4
+293268|Aparthotel Iosefin Residence|Timisoara|NO|stars_4
+293280|Hotel Global|Brasov|NO|stars_3
+293281|Pensiunea Kermany & Dino|Brasov|NO|stars_3
+293282|Hotel Restaurant Classic Inn|Brasov|NO|stars_3
+293284|Guesthouse Gina|Brasov|NO|stars_2
+293285|Postavarului Guesthouse|Brasov|NO|stars_2
+293287|Casa Vacanza Brasov|Brasov|NO|stars_3.5
+293288|Casa Albert|Brasov|NO|stars_3
+293290|Coroana Brasovului|Brasov|NO|stars_3
+293291|Hotel Fun Park|Brasov|NO|stars_3
+293292|Hotel Brasov|Brasov|NO|stars_3
+293293|Pensiunea Suri|Brasov|NO|stars_3
+293294|Hotel Hanul Domnesc|Brasov|NO|stars_3
+293296|Belvedere Hotel Brasov|Brasov|NO|stars_4
+293300|Hotel Esprit|Brasov|NO|stars_3
+293303|Sofie|Brasov|NO|stars_3
+293304|Vila Twins Apart Hotel|Brasov|NO|stars_4
+293305|Vintage Place - Apartments|Brasov|NO|0
+293307|Deutches Haus Pension|Brasov|NO|stars_4
+293310|Mistral Resort Moieciu|Brasov|NO|stars_3
+293311|House with Ponies|Brasov|NO|stars_3
+293319|Cumpatu Sinaia Hotel|Sinaia|NO|stars_4
+293321|Regal Sinaia|Sinaia|NO|stars_3
+293322|Retezat Villa|Sinaia|NO|stars_2
+293511|Hotel Eden|Iasi|NO|stars_3
+293512|Continental|Iasi|NO|stars_2
+293513|Little Texas|Iasi|NO|stars_4
+293517|Ambassador|Baia Mare|NO|stars_4
+293525|Sonnenhof|Suceava|NO|stars_4
+293526|Scorpion|Suceava|NO|stars_3
+293528|Pensiunea Santa Fe|Suceava|NO|stars_4
+293622|President|Bad Felix|NO|stars_4
+293623|Anthimos|Bad Felix|NO|stars_4
+293737|Pension Cartref|Sighisoara|NO|stars_3
+293741|Cabana Trei Brazi|Predeal|NO|stars_3
+293743|Hotel Hera Predeal|Predeal|NO|stars_3
+293744|Regina|Predeal|NO|stars_4
+293809|Plus Hotel|Craiova|NO|stars_3
+293849|Vila Toparceanu|Otopeni|NO|stars_3
+293934|Pensiunea Daciana|Bacau|NO|stars_3
+293936|Hotel Salvator|Miercurea-Ciuc|NO|stars_2
+293982|Satu Mare City|Satu Mare|NO|stars_4
+293987|Casa Dan|Busteni|NO|stars_2
+293988|Casa Freya - Bed & Breakfast|Busteni|NO|stars_4
+293990|Vila Cascada|Busteni|NO|stars_2
+294002|La Maison de Caroline|Alba Iulia|NO|stars_3
+294003|Casa Traiana|Alba Iulia|NO|stars_3
+294008|Metropolis|Bistrita|NO|stars_5
+294009|Hotel Mia|Bistrita|NO|stars_3
+294021|Archia Mansion Botique|Deva|NO|stars_5
+294022|Villa Venus|Deva|NO|stars_5
+294023|Hostel Elvetia|Deva|NO|stars_3
+294035|Arges|Pitesti|NO|stars_3
+294041|Boutique Hotel Villa Bijoux|Ploiesti|NO|stars_3
+294042|Angelo D Oro Hotel|Ploiesti|NO|stars_3
+294043|Hotel Maryo|Ploiesti|NO|stars_3
+294049|Grand Hotel Sofianu|Ramnicu Valcea|NO|stars_4
+294285|Guesthouse Stefi|Rasnov|NO|stars_3
+294287|Pension Memory|Sucevita|NO|stars_3
+294612|Vila Gong|Gilau|NO|stars_3
+295064|Casa Motului|Arieseni|NO|stars_3
+295237|Vila Roca|Valea Draganului|NO|stars_4
+295238|Bucovina Lodge Guest House|Vama|NO|stars_3
+295239|Pension Craiul|Vidra|NO|stars_3
+295441|Carol|Constanta|NO|stars_4
+295985|Lyra|Oradea|NO|stars_3
+295995|Toaca Bellevue|Gura Humorului|NO|stars_4
+302510|Golden Time Hotel|Brasov|NO|stars_4
+325251|Hotel Rubin|Sibiu|NO|stars_3
+359501|Cismigiu|Bucharest|NO|stars_4
+359668|Reginetta 1|Bucharest|NO|stars_4
+365022|Melodia|Venus|NO|stars_4
+369110|Marshal Garden Hotel|Bucharest|NO|stars_5
+369419|DoubleTree by Hilton Hotel Oradea|Oradea|NO|stars_5
+369646|Beyfin Hotel|Cluj Napoca|NO|stars_4
+369647|Crama Haiducilor-cluj Napoca|Cluj Napoca|NO|stars_4
+369780|Pacific Hotel|Timisoara|NO|stars_3
+370515|Coliseum Hotel - Calafat|Turnu Severin|NO|stars_4
+372462|Kronwell|Brasov|NO|stars_4
+381155|Dan|Bucharest|NO|stars_3
+381162|Stars|Bucharest|NO|stars_3
+381164|Scala Bucuresti|Bucharest|NO|stars_4
+381307|La Scoica Land Hotel|Constanta|NO|stars_3
+382495|Escalade|Poiana Brasov|NO|stars_4
+383441|New Cristal Hotel|Cluj Napoca|NO|stars_3
+383442|Sungarden Resort Hotel|Cluj Napoca|NO|stars_5
+383550|Alexandra|Timisoara|NO|stars_3
+383557|Vila Sinaia 1929|Sinaia|NO|stars_3
+387798|Vila Cristina Mountain Retreat|Busteni|NO|stars_3
+387843|Acapulco|Ploiesti|NO|stars_3
+391763|Egreta Resort|Uzlina|NO|stars_4
+403777|Caro Parc|Bucharest|NO|stars_3
+403892|Sun Hotel|Cluj Napoca|NO|stars_4
+411100|Green Village Resort|Sfantu Gheorghe|NO|stars_4
+412359|Delta 4****|Tulcea|NO|stars_4
+412946|Hotelkomplex Amiral/ Orfeu/ Comandor|Mamaia|NO|stars_4
+413142|Imparatul Romanilor|Sibiu|NO|stars_3

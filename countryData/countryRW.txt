@@ -1,0 +1,5 @@
+100861|Lake Kivu Serena|Gisenyi|NO|stars_4
+100862|Kigali Serena|Kigali|NO|stars_5
+122704|Des Mille Collines|Kigali|NO|stars_4
+183066|Umubano|Kigali|NO|stars_3.5
+302200|Nyungwe Forest Lodge|Nyungwe-Wald|NO|stars_5

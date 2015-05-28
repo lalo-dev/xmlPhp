@@ -1,0 +1,51 @@
+27552|Zenobia|Palmyra|NO|stars_4
+27557|Heliopolis|Palmyra|YES|stars_3
+27561|Safir Homs|Homs|YES|stars_5
+27562|Furat Cham Palace|Deir ez-Zor|YES|stars_4
+27564|Semiramis|Damascus|NO|stars_5
+68573|Cham Palace|Damascus|NO|stars_5
+77693|Sheraton Damascus|Damascus|YES|stars_5
+86928|Martini Dar Zamaria|Aleppo|YES|stars_4
+86929|Planet|Aleppo|NO|stars_4
+91166|Dama Rose|Damascus|YES|stars_5
+91167|Carlton|Damascus|NO|stars_4
+91168|Dedeman Aleppo|Aleppo|NO|stars_5
+91169|Sheraton Aleppo|Aleppo|YES|stars_5
+92139|Four Seasons|Damascus|NO|stars_5
+92142|Mansouriya|Aleppo|NO|stars_5
+100331|Queen Centre Arjaan by Rotana|Damascus|YES|stars_4
+100958|Blue Tower|Damascus|YES|stars_4
+102641|Maaloula|Maalula|YES|stars_4
+102732|Safita Cham Palace|Safita|YES|stars_4
+122398|Park|Aleppo|YES|stars_3
+122399|Jalan Chan|Damascus|NO|stars_4
+122401|Ebla Cham|Damascus|YES|stars_5
+122402|Badia Cham Palace|Deir ez-Zor|YES|stars_4
+122403|Grand Homs|Homs|YES|stars_4
+122584|Talisman Al Ameen|Damascus|YES|stars_5
+122585|Dar Al-Yasmine|Damascus|YES|stars_4
+124889|Riga Palace|Aleppo|NO|stars_4
+124890|Royal Suites|Damascus|NO|stars_4
+124891|Apamee Cham Palace|Hama|NO|stars_4
+124894|Cote d'Azur de Cham|Lattakia|NO|stars_4
+133156|Ramsis|Aleppo|NO|stars_3
+133162|Al Patra|Damascus|NO|stars_3
+138325|Sheraton Ma'Aret Sednaya|Damascus|YES|stars_4.5
+138512|Coral Julia Dumna|Aleppo|NO|stars_4
+183207|Dedeman Palmyra|Palmyra|NO|stars_5
+202121|Bait Zaman|Damascus|NO|stars_5
+202122|Yasmeen d'Alep House|Aleppo|NO|stars_4.5
+202123|Afamia Rotana Resort|Lattakia|YES|stars_5
+228933|Tourath House|Aleppo|NO|stars_3
+229246|Al Pasha|Damascus|NO|stars_5
+229247|Beit al Wali|Damascus|NO|stars_5
+229249|Aleppo Palace|Aleppo|NO|stars_4
+230381|Crystal Palace|Damascus|NO|stars_3
+231930|Dar Al Noor|Damascus|NO|stars_5
+234823|Afnan|Damascus|NO|stars_5
+234824|Beit Akbik|Damascus|NO|stars_4
+234825|Beit Ramza|Damascus|NO|stars_4
+234828|Hanania|Damascus|NO|stars_4
+234976|Talisman Bab Al Salam|Damascus|NO|stars_5
+234977|Baik Bash Boutique|Damascus|NO|stars_5
+240239|Beit Salahieh|Aleppo|NO|stars_5

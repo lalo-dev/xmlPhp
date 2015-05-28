@@ -1,0 +1,2976 @@
+3822|Anantara Golden Triangle Resort & Spa|Chiang Saen|YES|stars_5
+3823|Amari Watergate Bangkok|Bangkok|YES|stars_5
+3825|Holiday Inn Bangkok Silom|Bangkok|YES|stars_4
+3826|The Imperial Queen's Park|Bangkok|YES|stars_4
+3828|Narai|Bangkok|YES|stars_3
+3829|Prince|Bangkok|NO|stars_3
+3830|Golden Tulip Sovereign Bangkok|Bangkok|YES|stars_4
+3831|Rembrandt Bangkok|Bangkok|YES|stars_4
+3832|Royal Orchid Sheraton & Towers|Bangkok|YES|stars_3
+3833|Shangri-La Bangkok|Bangkok|YES|stars_5
+3834|Bangkok Cha-Da|Bangkok|YES|stars_3
+3835|Twin Towers|Bangkok|YES|stars_3
+3836|The Four Wings|Bangkok|YES|stars_4
+3837|Pullman Bangkok Hotel G|Bangkok|YES|stars_5
+3838|Beach Garden Cha Am|Cha Am|YES|stars_3
+3839|Novotel Hua Hin Cha Am Beach Resort & Spa|Cha Am|YES|stars_4
+3840|Long Beach Cha Am Resort|Cha Am|YES|stars_3
+3841|The Regent Beach Cha-Am|Cha Am|YES|stars_4
+3843|Blue Wave Beach Resort|Hua Hin|YES|stars_2
+3844|Hilton Hua Hin Resort & Spa|Hua Hin|YES|stars_5
+3846|Anantara Hua Hin Resort & Spa|Hua Hin|YES|stars_5
+3847|Centara Grand Beach Resort & Villas Hua Hin|Hua Hin|YES|stars_5
+3848|Sandy Resort|Bophut Beach|YES|stars_2
+3849|Amari Palm Reef Koh Samui|Chaweng Beach|YES|stars_4
+3850|Baan Samui Resort|Chaweng Beach|YES|stars_3
+3851|Blue Lagoon|Chaweng Beach|YES|stars_3.5
+3852|Centara Grand Beach Resort Samui|Chaweng Beach|YES|stars_5
+3853|Beachcomber Chaweng|Chaweng Beach|YES|stars_3
+3854|Chaweng Buri Resort|Chaweng Beach|YES|stars_3
+3855|Chaweng Regent Beach Resort|Chaweng Beach|YES|stars_4
+3856|The Imperial Boat House Beach Resort|Choeng Mon Beach|YES|stars_4
+3857|Sheraton Samui Resort|Chaweng Beach|YES|stars_4
+3858|Nova Samui Resort|Chaweng Beach|YES|stars_3
+3860|Coral Cove Chalet|Chaweng Beach|YES|stars_3
+3861|InterContinental Samui Baan Taling Ngam Resort|Taling Ngam Beach|YES|stars_5
+3862|Aloha Resort|Lamai Beach|YES|stars_3
+3863|Samui Laguna Resort|Lamai Beach|YES|stars_3
+3864|Weekender Resort|Lamai Beach|YES|stars_3
+3865|Paradise Beach Resort|Maenam Beach|NO|stars_4
+3866|Santiburi Beach Resort & Spa|Maenam Beach|YES|stars_5
+3869|The Tongsai Bay|Choeng Mon Beach|YES|stars_5
+3870|Samui Yacht Club|Thong Ta Kian Beach|YES|stars_3
+3871|Ao Nang Villa|Ao Nang Beach|YES|stars_4
+3872|Anyavee Ban Ao Nang Resort|Ao Nang Beach|YES|stars_3
+3873|Ao Nang Beach Resort|Ao Nang Beach|NO|stars_2
+3874|Peace Laguna Resort|Ao Nang Beach|YES|stars_3.5
+3875|Phra Nang Inn|Ao Nang Beach|YES|stars_3
+3876|Andaman Holiday Resort - geschlossen|Klong Muang Beach|YES|stars_3
+3877|Rayavadee|Ao Nang Beach|YES|stars_5
+3878|Asia Pattaya Beach|Pattaya|YES|stars_3
+3879|Ban Nam Mau Resort|Jomtien|NO|stars_2
+3880|Pinnacle Grand Jomtien Resort & Spa|Jomtien|YES|stars_3
+3881|Basaya Beach Hotel & Resort|Pattaya|YES|stars_3
+3882|Amari Ocean Pattaya / Amari Garden Pattaya|Pattaya|YES|stars_4
+3883|Dusit Thani Resort Pattaya|Pattaya|YES|stars_5
+3884|East Sea Resort|Pattaya|NO|stars_3
+3885|Pullman Pattaya Hotel G|Pattaya|YES|stars_4
+3886|The Green Park Resort|Pattaya|YES|stars_3
+3888|Island View - geschlossen|Pattaya|NO|stars_3
+3889|Pattaya Garden|Pattaya|YES|stars_3
+3890|Pattaya Park Beach Resort|Pattaya|YES|stars_3
+3892|Siam Bayshore|Pattaya|YES|stars_4
+3893|The Bayview Pattaya|Pattaya|YES|stars_4
+3894|Sunshine Garden|Pattaya|YES|stars_3
+3896|Tropicana|Pattaya|NO|stars_3
+3897|Royal Cliff - Beach Terrace/ Beach Hotel/ Grand Hotel/ Wing Suites & Spa|Pattaya|YES|stars_5
+3900|Phi Phi Island Village Beach Resort|Phi Phi Island / Ko Pee Pee|YES|stars_4
+3901|Dusit Thani Laguna Phuket Resort|Bang Tao Bay|YES|stars_5
+3902|Amora Beach Resort Phuket|Bang Tao Bay|YES|stars_4
+3903|Angsana Laguna Phuket|Phuket|YES|stars_5
+3908|Hilton Phuket Arcadia Resort & Spa|Karon|YES|stars_5
+3909|Best Western Phuket Ocean Resort|Karon|YES|stars_3
+3910|Ramada Phuket Southsea|Karon|YES|stars_4
+3911|Katathani Phuket Beach Resort|Kata Noi Beach|YES|stars_4
+3912|Khao Lak Laguna Resort|Khao Lak|YES|stars_4
+3913|Indigo Pearl|Nai Yang Beach|YES|stars_4
+3914|The Surin|Pansea - Phuket|YES|stars_4.5
+3915|Andaman Embrace Resort & Spa|Patong|YES|stars_4
+3916|Coconut Village|Patong|YES|stars_3
+3918|Duangjitt Resort & Spa|Patong|YES|stars_4
+3919|Holiday Inn Resort Phuket|Patong|YES|stars_4
+3920|K Hotel|Patong|NO|stars_3
+3922|Novotel Phuket Resort|Patong|YES|stars_4
+3923|Deevana Patong Resort & Spa|Patong|YES|stars_3
+3924|Patong Beach|Patong|YES|stars_4
+3925|Patong Lodge|Patong|YES|stars_3
+3926|Patong Merlin|Patong|YES|stars_4
+3927|Patong Resort|Patong|YES|stars_3.5
+3928|Seaview Patong Hotel|Patong|YES|stars_4
+3929|The Royal Palm Beach Front|Patong|NO|stars_3
+3930|Tropica Bungalows|Patong|NO|stars_3
+3932|The Royal Phuket Yacht Club|Nai Harn Beach|YES|stars_5
+3933|Le Meridien Phuket Beach Resort|Karon Noi Beach|YES|stars_5
+3934|Amanpuri|Pansea - Phuket|YES|stars_5
+5979|The Tawana Bangkok|Bangkok|YES|stars_4
+5980|Anantara Bangkok Riverside|Bangkok|YES|stars_5
+5981|Royal Benja|Bangkok|YES|stars_3
+5982|Amari Boulevard Bangkok|Bangkok|YES|stars_4
+5983|Mandarin Oriental Bangkok|Bangkok|YES|stars_5
+5984|Ramada Plaza Menam Riverside|Bangkok|YES|stars_5
+5988|Samui Natien Resort|Chaweng Beach|YES|stars_3
+5989|Marriott Pattaya Resort & Spa|Pattaya|YES|stars_4.5
+5990|Centara Grand Mirage Beach Resort Pattaya|Pattaya|YES|stars_5
+5991|Jomtien Palm Beach &  Annex|Jomtien|YES|stars_4
+5992|Grand Jomtien Palace|Pattaya|YES|stars_3
+5993|Garden Sea View Resort|Pattaya|YES|stars_4
+5994|Phuket Island View|Karon|YES|stars_3
+5995|Absolute Sea Pearl Beach Resort & Spa|Patong|YES|stars_4
+5996|Novotel Rim Pae Rayong Resort|Rayong|YES|stars_4
+6350|Diamond Cliff Resort|Patong|YES|stars_4.5
+6353|Royal Paradise Resort|Patong|YES|stars_4
+7025|A-One The Royal Cruise|Pattaya|YES|stars_4
+7596|Amari Don Muang Airport Bangkok|Bangkok|YES|stars_4
+7597|Avani Atrium Bangkok|Bangkok|YES|stars_4
+7598|Amari Phuket|Patong|YES|stars_4
+7599|Amari Rincome|Chiang Mai|YES|stars_4
+7726|Andaman Beach Suites|Patong|YES|stars_4
+7727|Andaman Cannacia Resort|Kata Beach|YES|stars_4
+7728|Andaman Hill Hotel|Patong|NO|stars_3
+7729|Andaman Seaview Hotel|Karon|YES|stars_4
+7834|Pakasai Resort|Ao Nang Beach|YES|stars_4
+7835|Ao Prao Resort|Ko Samed|YES|stars_4
+8386|Baan Laimai Resort|Patong|YES|stars_3.5
+8387|Baan Sukhothai|Patong|YES|stars_3.5
+8460|Baiyoke Sky|Bangkok|YES|stars_4
+8524|Fanari Khaolak Resort|Khao Lak|NO|stars_3
+8525|Manathai Khao Lak|Khao Lak|YES|stars_4
+8530|Banpu Ko Chang|Ko Chang|YES|stars_3
+8532|Banthai Beach|Patong|YES|stars_4
+8536|Banyan Tree Resorts - Banyan Tree Phuket|Bang Tao Bay|YES|stars_5
+8608|Bay View Resort|Phi Phi Island / Ko Pee Pee|YES|stars_3
+8686|BelAire Bangkok|Bangkok|YES|stars_4
+8742|Belle Villa Resort Chiangmai|Chiang Mai|YES|stars_4
+9033|Beverly Plaza|Pattaya|NO|stars_3
+9143|Boat Lagoon Resort|Boat Lagoon|YES|stars_3
+9225|Botany Beach Resort|Jomtien|NO|stars_3
+9430|Caesar Palace|Pattaya|YES|stars_3
+9668|Cape Panwa|Cape Panwa|YES|stars_4
+10241|Centara Grand at Central Plaza Ladprao|Bangkok|YES|stars_5
+10249|Central Village Hua Hin|Hua Hin|NO|stars_3
+10260|Century Park|Bangkok|YES|stars_4
+10282|Chaba Cabana Beach Resort|Chaweng Beach|YES|stars_4
+10283|Chaba Samui Resort|Chaweng Beach|YES|stars_3
+10303|Chaophya Park|Bangkok|YES|stars_4
+10329|Chaweng Resort|Chaweng Beach|YES|stars_3
+10342|Chiang Mai Plaza|Chiang Mai|YES|stars_4
+10355|Chiva-Som International Health Resort|Hua Hin|YES|stars_5
+10428|City Beach Resort|Hua Hin|YES|stars_3
+10482|Classic Place|Bangkok|YES|stars_3
+10563|Coco Palm Beach Resort|Maenam Beach|NO|stars_3
+10611|Airport Suite Bangkok|Bangkok|YES|stars_3
+10769|Coral Bay Resort|Chaweng Beach|YES|stars_3
+10782|Coral Island Resort|Ko Hae, Coral Island|YES|stars_3
+10907|Cosy Beach|Pattaya|YES|stars_3
+11742|Downtown Inn|Chiang Mai|YES|stars_3
+11823|Dusit Island Resort|Chiang Rai|YES|stars_5
+11824|Dusit Resort Thani|Hua Hin|YES|stars_5
+11825|Dusit Thani|Bangkok|YES|stars_5
+11838|Eastiny Inn|Pattaya|NO|stars_3
+11874|Eden Bungalows|Phuket|NO|stars_3
+12750|First House Bangkok|Bangkok|YES|stars_3
+12754|First Bungalow Beach Resort|Chaweng Beach|YES|stars_3
+12803|Flipper House|Pattaya|NO|stars_3
+12804|Flipper Lodge|Pattaya|NO|stars_3
+13109|Garden Lodge|Pattaya|NO|stars_2.5
+13171|Gems|Cha Am|NO|stars_3
+13480|Grand Hyatt Erawan|Bangkok|YES|stars_5
+14003|Swissotel Nai Lert Park|Bangkok|YES|stars_5
+14097|Holiday Garden|Chiang Mai|YES|stars_3
+14375|Horizon Patong Beach Resort & Spa|Patong|YES|stars_3.5
+14527|Hyton Leelavadee|Patong|YES|stars_3
+14739|The Imperial Golden Triangle Resort|Chiang Rai|YES|stars_3.5
+14742|The Imperial Lake View Hotel & Golf Club|Cha Am|YES|stars_4
+15070|Jim's Lodge|Bangkok|YES|stars_2
+15140|JW Marriott|Bangkok|YES|stars_5
+15214|Kamala Bay Terrace Resort|Kamala Beach|NO|stars_4
+15215|Kamala Beach Resort|Kamala Beach|YES|stars_4
+15249|Beyond Resort Karon|Karon|YES|stars_4
+15268|Kata Beach Resort|Kata Beach|YES|stars_4
+15357|Khao Lak Palm Beach Resort|Khao Lak|YES|stars_4
+15358|Moracea by Khao Lak Resort|Khao Lak|YES|stars_4
+15440|Ko Chang Cliff Beach Resort|Trat|YES|stars_3
+15441|Nangyuan Island Dive Resort|Ko Nang Yuan Island|NO|stars_3
+15871|Outrigger Laguna Phuket Beach Resort|Bang Tao Bay|YES|stars_5
+15927|Lanta Andaman Resort|Ko Lanta|NO|stars_3
+15928|Lanta Island Resort|Ko Lanta|YES|stars_2.5
+16292|Lai-Thai Guest House|Chiang Mai|NO|stars_3
+16435|Loma Resort|Pattaya|YES|stars_3
+16531|Lotus Pang Suan Kaew|Chiang Mai|YES|stars_4
+16549|Asia|Bangkok|YES|stars_3
+16642|The Imperial Mae Ping|Chiang Mai|YES|stars_4
+16745|Mandarin Hotel|Bangkok|YES|stars_4
+16759|Manhattan Bangkok|Bangkok|YES|stars_3
+16769|Ma Hotel Bangkok|Bangkok|YES|stars_3
+16934|Marina Phuket|Karon|YES|stars_4
+17377|Merlin Beach Resort|Patong|YES|stars_4
+17393|Methavalai|Cha Am|YES|stars_3
+17699|Montien Riverside|Bangkok|YES|stars_4
+17763|Muang Kulaypan|Chaweng Beach|YES|stars_4
+17811|Ibis Bangkok Nana|Bangkok|YES|stars_3
+17841|Natural Park Resort|Jomtien|YES|stars_3
+18069|Novotel Bangna Bangkok|Bangkok|YES|stars_4
+18079|Mercure Chiang Mai|Chiang Mai|YES|stars_4
+18097|Bangkok Hotel Lotus Sukhumvit|Bangkok|YES|stars_4
+18114|Novotel Bangkok On Siam Square|Bangkok|YES|stars_4
+18517|Ramada Resort Khao Lak|Khao Lak|YES|stars_4
+18528|Palm Garden|Pattaya|NO|stars_2
+18554|Palmeraie Beach|Rayong|YES|stars_3
+18646|Panviman Resort Koh Phangan|Thong Nai Pan Beach|YES|stars_4
+18647|Panwa Beach Resort|Cape Panwa|YES|stars_4
+18648|Regent Phuket Cape Panwa|Cape Panwa|NO|stars_5
+18862|Pathumwan Princess|Bangkok|YES|stars_4
+18864|Patong Bay Garden|Patong|YES|stars_3
+18866|Patong Pearl Resortel|Patong|YES|stars_3
+18893|Peach Hill Hotel & Resort|Kata Beach|YES|stars_4
+19004|Phi Phi Island Cabana|Phi Phi Island / Ko Pee Pee|YES|stars_3
+19005|Phi Phi Natural Resort|Phi Phi Island / Ko Pee Pee|YES|stars_3
+19006|Phi Phi Princess Resort|Phi Phi Island / Ko Pee Pee|NO|stars_3
+19023|Impiana Resort Patong|Patong|YES|stars_4
+19026|Phuket Orchid Resort|Karon|YES|stars_3
+19094|Pinnacle Lumpinee|Bangkok|YES|stars_3
+19095|Pinnacle Samui Resort & Spa|Maenam Beach|YES|stars_3
+19120|Plaloma Cliff|Ko Chang|NO|stars_3
+19270|Poppies Samui|Chaweng Beach|YES|stars_4
+19424|Prima Villa|Pattaya|NO|stars_3
+19947|Rayong Resort|Rayong|YES|stars_3.5
+20021|Check Inn Regency Park|Bangkok|YES|stars_3
+20025|The Regent Chalet|Cha Am|NO|stars_3
+20354|Rimkok Resort|Chiang Rai|YES|stars_3
+20478|Legacy River Kwai Resort|Kanchanaburi|YES|stars_3
+20647|Royal Hotel Bangkok|Bangkok|YES|stars_3
+20678|Hua Hin Marriott Resort & Spa|Hua Hin|YES|stars_5
+20713|Royal Princess|Chiang Mai|YES|stars_4
+20714|Royal Princess Larn Luang|Bangkok|YES|stars_4
+20877|Salathai Resort|Patong|YES|stars_3
+20921|Samui Palm Beach Resort|Bophut Beach|YES|stars_4
+20922|Samui Paradise Chaweng|Chaweng Beach|YES|stars_3
+21296|The Sea Breeze Jomtien Resort|Jomtien|YES|stars_3
+21321|Seafan Beach Resort|Maenam Beach|NO|stars_3
+21531|Sheraton Grande Sukhumvit|Bangkok|YES|stars_5
+21611|The Sukosol|Bangkok|YES|stars_5
+21612|InterContinental Bangkok|Bangkok|YES|stars_5
+22001|Southern Lanta Resort|Ko Lanta|YES|stars_3
+22054|Springfield Beach Resort|Cha Am|YES|stars_4
+22345|Eastin Pattaya|Pattaya|YES|stars_3.5
+22387|Sunshine Hotel & Residences|Pattaya|YES|stars_3
+22644|Thai Garden Resort|Pattaya|YES|stars_3
+22659|Thara Patong Beach Resort & Spa|Patong|YES|stars_4
+22661|Thavorn Beach Village|Nakalay Bay|YES|stars_4
+22662|Thavorn Palm Beach|Karon|YES|stars_4
+22667|Allamanda Laguna Phuket|Bang Tao Bay|YES|stars_4
+22717|Centara Villas Phuket|Karon|YES|stars_4
+22718|Centara Villas Samui|Natien Beach|YES|stars_4
+22729|The Cottage|Pattaya|NO|stars_2
+22750|Eastin Makkasan Bangkok|Bangkok|YES|stars_4
+22752|The Empress|Chiang Mai|YES|stars_4
+22757|The Fair House Beach Resort|Chaweng Beach|YES|stars_3
+22820|The Landmark Bangkok|Bangkok|YES|stars_5
+22863|The Montien Bangkok|Bangkok|YES|stars_4
+22864|The Montien Pattaya|Pattaya|YES|stars_4
+22882|The Ocean Marina Yachtclub|Jomtien|YES|stars_4
+22907|The Park Chiang Mai|Chiang Mai|YES|stars_3
+22912|Pavilion Samui Villas & Resort|Lamai Beach|YES|stars_4
+22919|The Peninsula Bangkok|Bangkok|YES|stars_5
+22954|Four Seasons Bangkok|Bangkok|YES|stars_5
+22956|Four Seasons Resort Chiang Mai|Chiang Mai|YES|stars_5
+22989|The Royal River|Bangkok|YES|stars_3
+23005|The Siam Residence|Santi Beach|NO|stars_4
+23012|The Sukhothai|Bangkok|YES|stars_5
+23013|The Swiss Lodge|Bangkok|YES|stars_3
+23072|White House Beach Resort & Spa|Choeng Mon Beach|YES|stars_4
+23686|Victorian Resort|Chaweng Beach|NO|stars_4
+24369|Welcome|Jomtien|YES|stars_3
+24432|White House Resort|Jomtien|YES|stars_3
+24439|Wiang Inn|Chiang Rai|YES|stars_3
+24481|Windsor Suites Bangkok|Bangkok|YES|stars_4
+24499|Woodlands Resort|Pattaya|YES|stars_4
+24628|Zenith|Bangkok|YES|stars_4
+25982|Peace Resort|Bophut Beach|YES|stars_4
+25999|Evason Phuket & Bon Island|Rawai|YES|stars_4
+26006|Golden Beach Resort|Krabi|NO|stars_3
+26308|Hard Rock|Pattaya|YES|stars_4
+26310|Evason Hua Hin|Hua Hin|YES|stars_4.5
+26509|Banana Fan Sea Hut Beach Resort|Bophut Beach|YES|stars_3
+26525|Layan Beach Resort & Spa Village|Layan Beach|YES|stars_3.5
+26527|Pimalai Resort & Spa|Ko Lanta|YES|stars_5
+26649|The Viridian Resort|Patong|YES|stars_3
+27300|Seafront Thai Resort|Krabi|YES|stars_3
+27419|Prince Palace|Bangkok|YES|stars_3
+27420|Tarin|Chiang Mai|YES|stars_3
+27422|Baan Hin Sai Resort|Chaweng Beach|YES|stars_3
+27423|Baan Khao Lak Resort|Khao Lak|YES|stars_4
+27744|Jomtien Thani Hotel|Jomtien|YES|stars_3
+27746|JW Marriott Phuket Resort & Spa|Mai Khao Beach|YES|stars_5
+27747|Waterfront Suites Phuket|Karon|YES|stars_3.5
+27748|Holiday Inn Resort Phi Phi Island|Laem Tong Beach|YES|stars_4
+27750|Silom Serene Boutique|Bangkok|YES|stars_3
+27751|The Arnoma|Bangkok|YES|stars_4
+27752|Grand Mercure Fortune Bangkok|Bangkok|YES|stars_4
+27753|Centara Mae Sot Hill Resort|Mae Sot|YES|stars_3.5
+27947|Angkhang Nature Resort|Chiang Mai|YES|stars_3
+27948|Le Vimarn|Ko Samed|YES|stars_4
+27949|Rabbit Resort|Jomtien|YES|stars_4
+27951|Sri Lanta Resort|Ko Lanta|NO|stars_4
+28309|Sigma|Jomtien|YES|stars_3
+30522|Impiana Resort Chaweng Noi|Chaweng Beach|YES|stars_4
+30557|Tai-Pan Bangkok|Bangkok|YES|stars_3
+31774|Amora Tapae Chiang Mai|Chiang Mai|YES|stars_4
+31775|The Rama Gardens|Bangkok|YES|stars_4
+31776|Andaman White Beach|Nai Thorn|YES|stars_4
+31778|Khao Lak Bayfront|Khao Lak|YES|stars_3
+31779|Khao Lak Sunset Resort|Khao Lak|YES|stars_3
+31780|Krabi Thai Village|Krabi|YES|stars_4
+31781|Anyavee Ao Nang Bay Resort|Ao Nang Beach|YES|stars_3
+31782|Narima Bungalow Resort|Ko Lanta|NO|stars_3
+32085|Tamarind Village|Chiang Mai|YES|stars_4
+32086|Sun City Hotel Pattaya|Pattaya|NO|stars_3
+32087|all seasons Naiharn Phuket|Nai Harn Beach|YES|stars_3
+32089|Andatel Grandé|Patong|YES|stars_3
+32090|Queen Pattaya|Pattaya|NO|stars_2
+32091|Royal Phuket City Hotel|Phuket|YES|stars_4
+32656|Khao Lak Bhandari Resort|Khao Lak|YES|stars_4
+32657|Phulay Bay|Krabi|YES|stars_5
+32658|Tup Kaek Sunset Resort|Klong Muang Beach|YES|stars_3
+33079|Lawana Resort|Bophut Beach|YES|stars_3
+33081|Plaza Athenee Bangkok, Royal Meridien|Bangkok|YES|stars_5
+33954|Somkiet Buri|Ao Nang Beach|NO|stars_3
+33955|Holiday Villa|Ko Lanta|NO|stars_3
+34000|Sawasdee Village|Kata Beach|YES|stars_4
+34528|Hyatt Regency Hua Hin & The Barai Spa|Hua Hin|YES|stars_5
+35383|Aonang Ayodhaya Beach Resort - Success Wing|Ao Nang Beach|YES|stars_3
+35646|Chanalai Flora Resort|Kata Beach|NO|stars_3
+35647|Chanalai Garden Resort|Kata Beach|YES|stars_3
+35923|Jomtien Garden|Pattaya|NO|stars_3
+35924|Kata Sea Breeze|Phuket|NO|stars_3
+37864|Banyan Tree Bangkok|Bangkok|YES|stars_5
+37871|Patong Swiss|Phuket|YES|stars_3
+37907|Aiyapura Resort & Spa|Ko Chang|YES|stars_4.5
+37908|Fantasy Resort|Ko Hai, Ko Ngai|YES|stars_3
+37909|Koyao Island Resort|Insel Yao Noi|YES|stars_3.5
+37910|Sukorn Beach Bungalows|Ko Sukorn|NO|stars_2
+38093|Conrad Bangkok|Bangkok|YES|stars_5
+38094|Holiday Inn Chiang Mai|Chiang Mai|YES|stars_4
+38233|Long Beach Garden|Banglamung|YES|stars_4
+38234|Khao Lak Wanaburee|Khao Lak|YES|stars_3
+38235|Sunset Beach Resort|Patong|YES|stars_3
+38236|Burasari Resort|Patong|YES|stars_4
+38237|Best Western Premier Bangtao Beach Resort & Spa|Bang Tao Bay|YES|stars_4
+38437|Koh Tao Coral Grand Resort|Koh Tao|YES|stars_3
+38554|Sunset Village Beach Resort|Jomtien|YES|stars_3
+38555|Panviman Koh Chang Resort|Klong Prao Beach|YES|stars_4
+38556|Khao Lak Merlin Resort|Khao Lak|YES|stars_4
+38557|The Mukdara Beach Villa & Spa Resort|Khao Lak|YES|stars_4
+38558|Krabi Heritage Resort|Krabi|YES|stars_3
+38559|Pattaya Centre|Pattaya|NO|stars_3
+38560|Fenix Beach Resort Samui|Koh Samui|YES|stars_4
+38568|Sai Kaew Beach Resort|Ko Samed|YES|stars_3
+38598|Centara Koh Chang Tropicana Resort|Klong Prao Beach|YES|stars_4
+38599|Klong Prao Resort|Klong Prao Beach|YES|stars_3
+38600|Orchidacea Resort|Phuket|YES|stars_3
+38601|Diamond Cottage|Phuket|YES|stars_3.5
+38602|Aquamarine Resort|Kamala Beach|YES|stars_4
+38787|Naklua Beach Resort|Pattaya|YES|stars_3
+38806|Club Med Phuket|Phuket|NO|stars_5
+38807|Sheraton Krabi Beach Resort|Krabi|YES|stars_5
+38828|Khao Lak Paradise Resort|Khao Lak|YES|stars_4
+38829|Montana Grand|Phuket|NO|stars_3
+39077|DoubleTree Phuket|Surin Beach|YES|stars_4
+39163|Karona Resort|Phuket|YES|stars_3
+39164|Royal Lanta Resort & Spa|Ko Lanta|YES|stars_3
+39392|The Racha|Ko Raya Yai|YES|stars_5
+39393|The Tubkaak|Krabi|YES|stars_4
+39394|Anantara Si Kao Resort & Spa|Chang Lang Beach|YES|stars_4.5
+39411|Barali Beach Resort|Klong Prao Beach|YES|stars_4
+39412|Renaissance Koh Samui Resort & Spa|Lamai Beach|YES|stars_5
+39620|Belmond Napasai|Maenam Beach|YES|stars_5
+39637|Tanaosri Resort & Spa|Pran Buri|YES|stars_3
+39711|Triple Two On Silom|Bangkok|YES|stars_4
+39712|Avantika Boutique|Patong|YES|stars_4
+40603|Koh Chang Paradise Resort & Spa|Trat|YES|stars_3
+40604|The Leaf on The Sands by Katathani Resorts|Khao Lak|YES|stars_3
+40964|Centara Khao Lak Seaview Resort & Spa|Khao Lak|YES|stars_4
+42295|Patong Beach Lodge|Patong|YES|stars_3
+46549|Ariston|Bangkok|NO|stars_3
+46556|Bangkok Palace|Bangkok|YES|stars_3
+46574|Hua Hin Grand|Hua Hin|YES|stars_3
+46584|Romeo Palace|Pattaya|NO|stars_3
+46590|Vogue Resort & Spa Ao Nang|Krabi|YES|stars_3
+47477|Suanthip Vana Resort|Chiang Rai|YES|stars_4
+47480|Boathouse on Kata Beach|Phuket|YES|stars_4
+47482|Maritime Park & Spa Resort|Krabi|YES|stars_4
+47483|River Kwai Village|Tha Sao|YES|stars_3
+47866|Chom View|Hua Hin|YES|stars_3
+47867|Andaman Princess Resort|Insel Kho Khao|YES|stars_4
+47868|Koh Kho Khao Resort|Khao Lak|YES|stars_3
+48163|Dhara Dhevi|Chiang Mai|YES|stars_5
+48164|The Paradise Koh Yao|Insel Yao Noi|YES|stars_4
+48175|Six Senses Samui - A Sala Property|Koh Samui|YES|stars_5
+48181|Nora Beach Resort & Spa|Koh Samui|YES|stars_4
+48186|SALA Samui Resort & Spa|Koh Samui|YES|stars_4.5
+48466|Chaweng Cabana Resort|Chaweng Beach|YES|stars_3
+48468|Pullman Khao Lak Resort & Spa|Khao Lak|YES|stars_5
+48469|La Flora Resort & Spa|Khuk Khak Beach|YES|stars_4
+48470|GLOW Trinity Silom|Bangkok|YES|stars_3
+51443|Bhumiyama Resort|Ko Chang|YES|stars_4
+52457|Miracle Grand|Bangkok|YES|stars_4
+52458|Siam Heritage|Bangkok|YES|stars_4
+52459|Golden Pine Resort&Spa|Chiang Rai|YES|stars_4
+52460|The Legend Boutique River Resort & Spa|Chiang Rai|YES|stars_4
+52461|Golden Tulip Mangosteen Resort & Ayurveda Spa|Phuket|YES|stars_4
+52463|Haadson Resort Khao Lak|Khao Lak|YES|stars_3
+52466|Sea View Resort & Spa Koh Chang|Klong Prao Beach|YES|stars_4
+52467|Amari Emerald Cove Resort|Klong Prao Beach|YES|stars_5
+52660|Baan Talay Resort|Chaweng Beach|YES|stars_3
+52673|Trisara|Phuket|YES|stars_5
+52749|Blue Ocean Resort|Patong|NO|stars_4
+52903|The Kib Resort|Insel Kho Khao|YES|stars_3.5
+52904|Twin Bay Resort|Klong Dao Beach|YES|stars_3
+53042|Rachamankha|Chiang Mai|YES|stars_4.5
+53043|Kaban Tamor Resort|Hua Hin|NO|stars_3
+53044|Baan Mai Cottages|Phuket|NO|stars_4
+53045|Layana Resort & Spa|Ko Lanta|YES|stars_5
+53046|Pansand Resort|Insel Bulon Lae|NO|stars_2
+53833|President Solitaire|Bangkok|YES|stars_4
+53835|Pan Pacific Serviced Suites Bangkok|Bangkok|YES|stars_5
+53839|Davis Bangkok|Bangkok|YES|stars_4
+53842|Evergreen Laurel Bangkok|Bangkok|YES|stars_4
+56174|Bandara Resort & Spa|Bophut Beach|YES|stars_4
+56177|The Ambassador|Bangkok|YES|stars_3.5
+56998|Sunshine Vista|Pattaya|YES|stars_3
+57103|Phuket Merlin|Phuket|YES|stars_3
+57656|Grand China|Bangkok|YES|stars_4
+57661|Karon Sea & Sands Resort|Karon|YES|stars_3
+57715|The Briza Beach Resort|Chaweng Beach|YES|stars_5
+57717|Anantara Bophut Resort & Spa|Bophut Beach|YES|stars_5
+57979|Muang Samui Spa Resort|Chaweng Beach|YES|stars_5
+59156|Pung-Waan Resort & Spa (Kwai Yai)|Kanchanaburi|YES|stars_3
+59157|Royal Riverkwai Resort & Spa|Kanchanaburi|YES|stars_3
+59159|Top Resort|Ko Chang|NO|stars_3
+59177|Kata Poolside Resort|Kata Beach|YES|stars_3
+59196|Palm Springs Resort|Chiang Mai|YES|stars_3
+59197|Porn Ping Tower|Chiang Mai|YES|stars_3
+59198|The Night Bazaar Place|Chiang Mai|NO|stars_2.5
+59294|Koh Mak Resort|Ko Mak|YES|stars_3
+59456|Club Bamboo|Patong|YES|stars_3
+59466|Phi Phi Charlie Beach Resort|Phi Phi Island / Ko Pee Pee|NO|stars_3
+59468|Emerald Garden Resort|Ao Nang Beach|NO|stars_3
+59470|Lolita Bungalow|Maenam Beach|NO|0
+59472|Beach Republic|Koh Samui|NO|stars_4
+59473|Chaweng Garden Beach|Chaweng Beach|NO|stars_3
+59474|Montien House|Chaweng Beach|NO|stars_3
+59476|Baan Haad Ngam Boutique Resort|Chaweng Beach|YES|stars_4
+59477|Resotel Samui|Chaweng Beach|YES|stars_4
+59478|Seascape Beach Resort|Chaweng Beach|YES|stars_3
+59479|World Resort|Bophut Beach|NO|stars_3
+59481|Baan Duangkaew Resort|Hua Hin|NO|stars_3
+59484|Malaysia|Bangkok|NO|stars_2
+59486|Sena Place|Bangkok|YES|stars_2.5
+59490|Metropolitan Bangkok by COMO|Bangkok|YES|stars_5
+59491|Baiyoke Suite|Bangkok|YES|stars_3
+59492|Viengtai|Bangkok|YES|stars_3
+59493|Nasa Vegas|Bangkok|NO|stars_3
+60157|Pullman Raja Orchid Khon Kaen|Khon Kaen|YES|stars_5
+60163|Pailyn|Sukhothai|YES|stars_3
+60174|Salad Beach Resort|Ko Phangan|YES|stars_3
+60196|Sand Sea Resort|Krabi|YES|stars_3
+60840|Bo Phut Resort & Spa|Koh Samui|YES|stars_4
+60852|Kata Palm Resort|Kata Beach|YES|stars_4
+60856|Kacha Resort & Spa Koh Chang|Ko Chang|YES|stars_3
+60897|Twinpalms Phuket Resort|Surin Beach|YES|stars_5
+60898|Tipa Resort|Krabi|YES|stars_3
+60899|The Front Village & The Village Resort & Spa|Karon|YES|stars_4
+60901|Sunset Park Resort & Spa|Jomtien|YES|stars_3
+60985|Khao Lak Orchid Beach Resort|Khuk Khak Beach|YES|stars_3
+61486|Veranda Resort & Spa Hua Hin|Cha Am|YES|stars_4
+61581|Ramayana Koh Chang Resort|Klong Prao Beach|YES|stars_3
+61582|By The Sea Residence Khao Khard|Phuket|YES|stars_3
+61801|Cabana Grand View|Koh Samui|YES|stars_3
+61913|Asia Airport|Bangkok|YES|stars_4
+62148|Mida City Resort Bangkok|Bangkok|YES|stars_3
+62155|Furama Silom Bangkok|Bangkok|YES|stars_4
+62309|Tongtara Riverview|Bangkok|YES|stars_3
+62311|The Cliff Ao Nang Resort|Ao Nang Beach|YES|stars_4
+62312|Samran Place|Bangkok|YES|stars_3
+62313|Maruay Garden|Bangkok|YES|stars_3
+62566|Pavilion Queen's Bay|Krabi|YES|stars_4
+62567|Maxx|Bangkok|YES|stars_3
+62569|Indra Regent|Bangkok|YES|stars_4
+62921|Anantara Chiang Mai Resort & Spa|Chiang Mai|YES|stars_5
+63176|The Passage Samui - ab Sommer 2015 Mövenpick Laem Yai Beach|Koh Samui|YES|stars_4
+63274|Eastiny Place|Pattaya|NO|stars_3
+63336|Al's Hut|Chaweng Beach|YES|stars_2.5
+63337|Amarin Samui|Maenam Beach|YES|stars_3
+63338|Arayaburi Boutique Resort|Koh Samui|YES|stars_3
+63339|Buri Rasa Village Ko Samui|Chaweng Beach|YES|stars_4
+63342|Nara Garden Beach Resort|Koh Samui|YES|stars_2.5
+63344|Chaweng Cove Beach Resort|Chaweng Beach|YES|stars_3
+63345|Chaweng Villa Beach Resort|Koh Samui|YES|stars_3
+63347|Golden Sand Beach Resort|Koh Samui|YES|stars_3
+63349|Sand Sea Resort|Koh Samui|YES|stars_3
+63557|Fisherman's Village Resort|Phetchaburi|YES|stars_4
+63558|Dolphin Bay Resort|Hua Hin|NO|stars_3
+63559|Lawana Escape Beach Resort Pranburi|Pran Buri|YES|stars_3
+63592|Lanta Casuarina Beach Resort|Ko Lanta|YES|stars_3
+63595|Aonang Ayodhaya Beach Resort - Ayodhaya Suites Resort & Spa|Krabi|YES|stars_4
+63618|Thai House Beach Resort|Lamai Beach|YES|stars_3
+64399|Aana Resort|Klong Prao Beach|YES|stars_4
+64400|Baan Chaweng Beach Resort & Spa|Chaweng Beach|YES|stars_3
+64401|The Pavilions|Layan Beach|YES|stars_5
+64402|Mövenpick Resort Karon Beach & Villen Karon Beach|Karon|YES|stars_5
+64404|Lanta Sand Resort & Spa|Ko Lanta|YES|stars_4
+64405|Arayaburi Resort|Phi Phi Island / Ko Pee Pee|YES|stars_3
+64406|Centre Point Sukhumvit|Bangkok|YES|stars_4
+64407|Centre Point Silom|Bangkok|YES|stars_4
+64408|Millennium Hilton|Bangkok|YES|stars_5
+64409|The Westin Grande Sukhumvit|Bangkok|YES|stars_5
+64410|Holiday Inn Bangkok|Bangkok|YES|stars_4
+64411|Champ Pattaya|Pattaya|YES|stars_2
+64412|Woraburi Sukhumvit|Bangkok|YES|stars_3
+64446|The Imperial River House Resort|Chiang Rai|YES|stars_4
+64447|Garden Cliff Resort & Spa|Pattaya|YES|stars_5
+64448|Pattaya Sea Sand Sun Resort & Spa|Jomtien|NO|stars_4
+64529|Rawi Warin Resort & Spa|Ko Lanta|YES|stars_5
+64585|Sheraton Pattaya Resort|Pattaya|YES|stars_5
+64587|Paradee Resort & Spa|Ko Samed|YES|stars_5
+64589|Horizon Karon Beach Resort & Spa|Phuket|YES|stars_4
+64594|KC Grande Resort|Ko Chang|YES|stars_4
+64596|Rummana Boutique Resort & Spa|Lamai Beach|YES|stars_4
+64597|The Hotspring Beach Resort|Thai Muang|YES|stars_4
+64598|Ranyatavi Resort|Phang Nga|YES|stars_4
+64613|Phuket Graceland Resort & Spa|Patong|YES|stars_4
+64758|Ao Nang Buri Resort|Ao Nang Beach|YES|stars_3
+64998|Sheraton Hua Hin Pranburi Villas|Prachuap Khiri Khan|YES|stars_5
+66264|Mercure Pattaya|Pattaya|YES|stars_3
+68636|Lampang River Lodge|Lampang|YES|stars_3
+68637|Amarin Lagoon|Phitsanulok|YES|stars_3
+68638|Krungsri River|Ayutthaya|YES|stars_4
+68639|Coral|Bang Saphan|NO|stars_3
+68640|Felix River Kwai|Kanchanaburi|YES|stars_4
+68641|Baan Chiang|Udon Thani|YES|stars_3
+68642|Tohsang Khongjiam|Ubon Ratchathani|YES|stars_3
+68643|Sima Thani|Khorat|YES|stars_4
+68644|The Sarojin|Khao Lak|YES|stars_5
+68675|Beach Garden Resort|Bangkok|NO|stars_2
+68676|Dragon Beach Resort|Pattaya|YES|stars_3
+68679|Bacchus Home Resort|Pran Buri|YES|stars_3
+68791|Phi Phi Erawan Palms Resort|Phi Phi Island / Ko Pee Pee|YES|stars_3
+68839|Wora Bura Resort & Spa|Hua Hin|YES|stars_5
+69368|The Phulin Resort|Karon|YES|stars_3
+69511|Kandaburi Resort & Spa|Chaweng Beach|YES|stars_4
+70042|Fair House Villas & Spa|Maenam Beach|YES|stars_4
+70070|Pattawia Resort & Spa|Pran Buri|YES|stars_4
+70072|Centre Point Ploenchit|Bangkok|YES|stars_4
+71698|Maekok River Village Resort|Ban Tha Ton|YES|stars_2.5
+71699|Nakamanda Resort & Spa|Krabi|YES|stars_4.5
+72429|Naithonburi Beach Resort|Nai Thorn|YES|stars_3.5
+72588|Maya Koh Lanta Resort|Ko Lanta|NO|stars_4
+72689|Saboey Resort & Villas|Koh Samui|YES|stars_4
+72741|Elizabeth Bangkok|Bangkok|YES|stars_2.5
+73078|Lebua at State Tower|Bangkok|YES|stars_5
+73083|Buri Beach Resort|Ko Phangan|YES|stars_3
+73084|The Blue Marine Resort & Spa|Patong|YES|stars_4
+73136|Nora Lakeview|Chaweng Beach|YES|stars_2.5
+73138|Duangtawan Hotel|Chiang Mai|YES|stars_4
+73482|Ananda Museum Gallery|Sukhothai|NO|stars_3
+73484|Baumanburi|Phuket|YES|stars_3
+73485|Baan Krating Phuket Resort|Rawai|YES|stars_3
+73486|Golden Beach Pattaya|Pattaya|NO|stars_3
+73487|Cholchan Pattaya Resort|Pattaya|YES|stars_4
+73489|Thepparat Lodge|Krabi|YES|stars_3
+75284|Eastern Grand Palace|Pattaya|YES|stars_3
+75285|Karon Princess|Karon|YES|stars_3
+75286|Aonang Sunset Krabi|Krabi|YES|stars_3
+75389|The Taste|Phuket|YES|stars_3
+75523|Sunwing Resort & Spa Bangtao Beach|Bang Tao Bay|YES|stars_4
+75524|Samui Orchid Resort|Ban Harn Beach|YES|stars_3
+75577|Baan Boa Resort|Patong|YES|stars_3
+75579|Baan Krating Khao Lak|Khao Lak|YES|stars_3
+75783|The Island Resort & Spa|Bophut Beach|YES|stars_3
+76165|Suwan Palm Resort|Khao Lak|YES|stars_3
+76166|The Seasons Bangkok Siam|Bangkok|YES|stars_3
+76167|Dusit D2 Chiang Mai|Chiang Mai|YES|stars_5
+76223|Shanghai Mansion|Bangkok|YES|stars_4
+76224|Manathai Village|Chiang Mai|YES|stars_4
+76227|Kamalaya Koh Samui|Laem Set Beach|YES|stars_4
+76228|Anantara Phuket Layan Resort & Spa|Layan Beach|YES|stars_5
+76229|Zeavola|Phi Phi Island / Ko Pee Pee|YES|stars_5
+76230|Cha-Da Beach Resort & Spa|Ko Lanta|YES|stars_4
+76231|Koh Ngai Resort|Ko Hai, Ko Ngai|YES|stars_3
+76318|Chandara Resort & Spa|Phuket|YES|stars_4.5
+76351|Chong Fah Beach Resort|Khao Lak|NO|stars_4
+76590|Kaomai Lanna|Chiang Mai|YES|stars_4
+76714|Twin Lotus Resort & Spa|Ko Lanta|YES|stars_4
+76733|Four Seasons Tented Camp|Chiang Rai|YES|stars_5
+77012|Le Tong Beach|Patong|NO|stars_3
+77042|Luxx at Silom|Bangkok|NO|stars_3
+77043|Rock Resort & Spa|Hua Hin|YES|stars_4
+77044|Sheraton Hua Hin Resort & Spa|Hua Hin|YES|stars_5
+77045|Sandalay Resort|Pattaya|YES|stars_3
+77047|Centara Karon Resort Phuket|Karon|YES|stars_4
+77048|Sudala Beach Resort|Phang Nga|YES|stars_3
+77050|Chang Park Resort & Spa|Ko Chang|YES|stars_3
+77130|Majestic Grande|Bangkok|YES|stars_4
+77131|Baan Krating Pai|Pai|YES|stars_3
+77132|The Imperial Mae Hong Son Resort|Mae Hong Son|YES|stars_3.5
+77133|Lanna Palace|Chiang Mai|YES|stars_3
+77134|Samui Cliff View Resort|Koh Samui|YES|stars_3
+77294|Royal Ivory Nana|Bangkok|YES|stars_3
+77343|Siam@Siam Design|Bangkok|YES|stars_4
+77344|Chiang Mai Grand View|Chiang Mai|NO|stars_4
+77346|Woraburi Phuket|Karon|YES|stars_4
+77347|Khao Lak Palm Hill|Khao Lak|NO|stars_3
+77348|Anandah Beach Resort|Insel Kho Khao|YES|stars_3
+77569|Mango Village|Koh Samui|NO|stars_3
+77583|Novotel Bangkok Suvarnabhumi Airport|Samut Prakan|YES|stars_4
+77615|Grand Sukhumvit Hotel Bangkok|Bangkok|YES|stars_5
+77921|Praseban Resort|Pran Buri|YES|stars_4
+77922|Le Paradis Boutique Resort & Spa|Koh Samui|YES|stars_4
+77923|Railay Bay Resort & Spa|Krabi|YES|stars_3.5
+77924|Six Senses Yao Noi Beyond Phuket|Insel Yao Noi|YES|stars_5
+78181|The Seasons Bangkok Huamark|Bangkok|YES|stars_3
+78261|Grand Diamond|Bangkok|YES|stars_4
+78263|Nipa Resort|Phuket|YES|stars_3
+78725|The Leaf Oceanside by Katathani Resorts|Khao Lak|NO|stars_3
+78756|The Grand Ayudhaya|Bangkok|YES|stars_3.5
+79035|The Dewa Koh Chang|Klong Prao Beach|YES|stars_4
+79505|Banburee Resort & Spa|Koh Samui|YES|stars_3.5
+79720|Charm Churee Villa Boutique Resort|Koh Tao|YES|stars_3
+79806|Royal Orchid Resort Pattaya|Pattaya|YES|stars_3
+80034|Four Seasons Resort Koh Samui|Koh Samui|YES|stars_5
+80120|Samui Island Resort|Koh Samui|YES|stars_3
+80146|A-One Bangkok|Bangkok|YES|stars_4
+80147|Print Kamala Resort|Kamala Beach|YES|stars_3
+80148|Palm Galleria|Khao Lak|YES|stars_3
+80149|Sofitel Phokeethra Krabi Resort|Krabi|YES|stars_5
+80150|Mercure Koh Chang Hideaway|Ko Chang|YES|stars_4
+80554|Putahracsa|Hua Hin|YES|stars_5
+80682|Eastiny Residence|Pattaya|NO|stars_3
+80773|New World City|Bangkok|YES|stars_3
+80774|Sawasdee Khao San Inn|Bangkok|YES|stars_2
+80776|Sawasdee Bangkok Inn|Bangkok|YES|stars_2
+81126|Purimuntra Resort & Spa|Pran Buri|YES|stars_4
+81127|Privacy Beach Resort & Spa|Pran Buri|YES|stars_4
+81786|River Kwai Jungle Rafts|Sai Yok|YES|stars_3
+81824|Koh Mook Charlie Beach Resort|Koh Muk|YES|stars_3
+81844|Koh Ngai Cliff Beach Resort|Ko Hai, Ko Ngai|YES|stars_3
+82124|Marvel Bangkok|Bangkok|YES|stars_3.5
+82133|Loei Palace Hotel|Loei|YES|stars_4
+82161|Long Bay Resort|Ko Phangan|NO|stars_3
+82162|Samui Buri Beach Resort|Maenam Beach|YES|stars_4
+82225|The Seasons Pattaya|Pattaya|YES|stars_3
+82248|Sarita Chalet & Spa|Jomtien|YES|stars_3
+82527|Thai Ayodhya Villas & Spa|Lamai Beach|YES|stars_3
+82680|Thipwimarn Resort|Koh Tao|NO|stars_4
+82681|Pariya Resort & Villas Haad Yuan Koh Phangan|Ko Phangan|YES|stars_4
+83619|Quality Suites|Bangkok|NO|stars_3
+83620|Royal Parkview|Bangkok|YES|stars_3
+83621|Ambassador City Jomtien|Pattaya|YES|stars_3.5
+83719|Bangkok City Inn|Bangkok|YES|stars_2
+83721|Bossotel Inn Bangkok|Bangkok|YES|stars_3
+83739|Elegance Suites|Bangkok|YES|stars_3
+83740|all seasons Gold Orchid Bangkok|Bangkok|YES|stars_3
+83743|Unico Express@Sukhumvit|Bangkok|NO|stars_3
+83746|Pinnacle Sukhumvit Inn Bangkok|Bangkok|YES|stars_2.5
+83747|The Royal City Hotel|Bangkok|YES|stars_3
+83748|St. James Bangkok|Bangkok|YES|stars_3
+83750|Swissotel Le Concorde|Bangkok|YES|stars_4
+83751|River Side Bangkok|Bangkok|YES|stars_2
+83753|Trang Hotel Bangkok|Bangkok|YES|stars_3
+83754|White Orchid|Bangkok|YES|stars_3
+83756|Botanic Resort|Chiang Mai|YES|stars_3
+83757|Eurasia|Chiang Mai|YES|stars_3
+83759|The Imperial Chiang Mai Resort & Sports Club|Chiang Mai|YES|stars_3
+83761|Suan Bua Resort|Chiang Mai|YES|stars_3
+83782|Krabi La Playa Resort|Ao Nang Beach|YES|stars_4
+83900|Ayutthaya Grand|Ayutthaya|YES|stars_2.5
+83902|U-Thong Inn|Ayutthaya|YES|stars_3
+83904|Emerald|Bangkok|YES|stars_4
+83905|Emporium Suites by Chatrium|Bangkok|YES|stars_4
+83906|Howard Square|Bangkok|YES|stars_3
+83908|DoubleTree by Hilton Sukhumvit Bangkok|Bangkok|YES|0
+83909|Louis Tavern|Bangkok|YES|stars_3
+83910|Welcome Plaza|Pattaya|NO|stars_3
+83911|Marriott Executive Apartments Mayfair|Bangkok|YES|stars_4.5
+83912|Sawasdee Guest House|Kata Beach|YES|stars_2.5
+83913|President Park|Bangkok|YES|stars_4
+83915|Topland|Phitsanulok|YES|stars_3
+83918|Wall Street Inn|Bangkok|YES|stars_3
+83919|Baan Namping|Chiang Mai|YES|stars_3
+83920|Baan Tai|Chiang Mai|YES|stars_3
+83922|The Old Phuket|Phuket|YES|stars_4
+83924|BP Chiang Mai City|Chiang Mai|YES|stars_3
+83926|Ayara Hilltops|Phuket|YES|stars_4.5
+83927|Krisdadoi Chiang Mai|Chiang Mai|YES|stars_3.5
+83928|Baan Yin Dee|Phuket|YES|stars_4
+83930|Moonlight Exotic Bay Resort|Ko Lanta|YES|stars_3
+83931|Wangcome|Chiang Rai|YES|stars_3
+83932|Chumphon Cabana|Chumphon|YES|stars_3
+83940|Iyara Beach Hotel & Plaza|Koh Samui|YES|stars_4
+83943|Malibu Beach Resort|Koh Samui|YES|stars_3
+83944|Leelawadee Boutique|Patong|YES|stars_3
+83945|Marco Polo Resort & Spa|Koh Samui|NO|stars_3
+83946|Metropole|Phuket|NO|stars_3.5
+83947|Orchid Suites|Koh Samui|YES|stars_2.5
+83949|Pearl|Phuket|YES|stars_3
+83950|Samui First House|Chaweng Beach|YES|stars_3
+83953|Ayothaya Riverside|Ayutthaya|YES|stars_3
+83954|Dusit Princess Korat|Khorat|YES|stars_4
+83956|Golden Cliff House|Pattaya|YES|stars_3
+83960|Zazen Boutique Resort & Spa|Koh Samui|YES|stars_4
+84175|First Hotel Bangkok|Bangkok|YES|stars_3
+84210|Princeton Bangkok|Bangkok|YES|stars_4
+84223|Chatrium Residence Sathon Bangkok|Bangkok|YES|stars_4
+84284|Silom City Inn|Bangkok|NO|stars_3
+84369|Sawasdee Sukhumvit Inn|Bangkok|YES|stars_2
+84372|Sawasdee Sea View|Pattaya|YES|stars_2
+84373|Sawasdee Siam|Pattaya|YES|stars_2.5
+85482|Apsara Beachfront Resort & Villa - Resort|Phang Nga|YES|stars_4
+85766|Tanawit|Hua Hin|NO|stars_3
+85771|Cha Wan Resort|Krabi|YES|stars_3
+86021|Courtyard Bangkok|Bangkok|YES|stars_4
+86038|Tea Vana|Chiang Mai|YES|stars_3
+86039|Centre Point Hotel Pratunam|Bangkok|YES|stars_4
+86779|Aleenta Hua Hin|Hua Hin|YES|stars_4.5
+86799|Aleenta Phuket|Phang Nga|YES|stars_5
+86924|Varinda Garden Resort|Lamai Beach|YES|stars_3
+86948|Alpina Phuket Nalina Resort & Spa|Kata Beach|YES|stars_4
+86949|Bel Air Resort & Spa - Panwa|Phuket|YES|stars_4
+87340|The Zign|Chonburi|YES|stars_5
+87341|Ravindra Beach Resort|Pattaya|YES|stars_4
+87343|Havana Beach Resort|Ko Phangan|YES|stars_3
+87344|Tony Lodge & Motive Cottage Resort|Khao Lak|YES|stars_3
+87345|Kalim Resort|Patong|NO|stars_3
+87346|Le Fenix Sukhumvit|Bangkok|YES|stars_3
+87394|Pullman King Power|Bangkok|YES|stars_5
+87455|The Puripunn|Chiang Mai|YES|stars_5
+87460|Grand Pacific Sovereign Resort & Spa|Cha Am|YES|stars_4.5
+87462|Phra Nang Lanta|Ko Lanta|YES|stars_4
+87478|Melati Beach Resort & Spa|Koh Samui|YES|stars_5
+87486|Eastiny 7|Pattaya|NO|stars_3
+87861|Chiang Mai Orchid|Chiang Mai|YES|stars_3.5
+87862|Chiang Mai Hill 2000|Chiang Mai|YES|stars_3.5
+87863|Hmong Hilltribe Lodge|Chiang Mai|YES|stars_3
+87864|Jirung Health Resort|Chiang Mai|YES|stars_3.5
+87865|Star Chiang Mai|Chiang Mai|YES|stars_3
+87866|Mövenpick Suriwongse|Chiang Mai|YES|stars_4
+87868|Springfield Village Golf & Spa|Cha Am|YES|stars_4
+87869|Pavilion Rim Kwai Resort|Kanchanaburi|YES|stars_4
+87870|River Kwai Resotel|Sai Yok|YES|stars_3
+87874|Sunrise Tropical Resort|Krabi|YES|stars_3
+87895|Ebina House|Bangkok|YES|stars_3
+87897|Grand President|Bangkok|YES|stars_4
+87900|Kuraburi Greenview Resort|Khao Lak|YES|stars_3
+87901|La Paloma|Phitsanulok|YES|stars_3
+87902|Pailyn Phitsanulok|Phitsanulok|YES|stars_3
+87903|Silom Village Inn|Bangkok|NO|stars_3
+87905|Bossotel Chiang Mai|Chiang Mai|YES|stars_3
+87913|Tri Yaan Ros Colonial House|Chiang Mai|YES|stars_3
+87915|Chiang Saen River Hill|Chiang Saen|YES|stars_3
+87916|Charoen Thani Princess|Khon Kaen|YES|stars_3
+87917|Kosa|Khon Kaen|YES|stars_3.5
+87920|Karon Whale Resort|Phuket|NO|stars_3
+87923|Lampang Wiengthong|Lampang|YES|stars_3
+87925|Wieng Lakor|Lampang|YES|stars_3
+87926|Golden Pai & Suite Resort|Mae Hong Son|YES|stars_3
+87928|Rooks Holiday|Mae Hong Son|YES|stars_3
+87929|Sampran Riverside Resort|Nakhon Pathom|YES|stars_4
+87930|Juldis Khao Yai Resort & Spa|Khorat|YES|stars_3
+87931|China Town|Bangkok|YES|stars_3
+87933|River View Place|Ayutthaya|NO|stars_3
+87935|Drop In Club Resort & Spa|Ko Phangan|YES|stars_3
+87960|Mae Sa Valley|Mae Rim|YES|stars_3
+87992|Mind Resort Pattaya|Pattaya|YES|stars_3
+88034|Komplex AKA Resort Hua Hin & AKA Resort Guti|Hua Hin|NO|stars_5
+88036|Laluna Resort|Chiang Rai|YES|stars_4
+88037|TK Palace|Bangkok|NO|stars_3
+88156|Jasmine City Hotel|Bangkok|YES|stars_4
+88229|Siri Sathorn|Bangkok|YES|stars_4
+88271|Rocky's Boutique Resort|Koh Samui|YES|stars_4
+88320|Ascott Sathorn|Bangkok|YES|stars_4
+88329|Somerset Park Suanplu Bangkok|Bangkok|YES|stars_4
+88332|Somerset Lake Point|Bangkok|YES|stars_4
+88334|Omni Tower|Bangkok|YES|stars_4
+88372|Baan Bayan Beach|Hua Hin|YES|stars_4
+88376|Belle Villa Resort Pai|Pai|YES|stars_3.5
+88381|Country Lake Nature Lodge|Nakhon Sawan|YES|stars_2
+88383|Phala Cliff Beach Resort and Spa|Pattaya|YES|stars_3
+88412|Club Coconut Resort|Patong|NO|stars_2.5
+88467|Como Resort|Koh Samui|NO|stars_3
+88469|Sugar Palm Resort & Spa|Phuket|YES|stars_3
+89072|Centara Kata Resort Phuket|Phuket|YES|stars_4
+89338|Patong Cottage|Kathu|YES|stars_3
+90182|Kanda Residences Samui|Bophut Beach|YES|stars_5
+90196|Manathai Resort|Surin Beach|YES|stars_4
+90214|Deevana Plaza Phuket|Patong|YES|stars_4
+90216|Sala Phuket Resort & Spa|Mai Khao Beach|YES|stars_5
+90222|Soneva Kiri by Six Senses|Insel Kut|NO|stars_5
+90469|Dream Hotel Bangkok|Bangkok|YES|stars_4
+90471|Ratilanna Riverside Spa Resort|Chiang Mai|YES|stars_5
+90472|Let's Sea Hua Hin Al Fresco Resort|Hua Hin|YES|stars_4
+90473|Asara Villa & Suite|Hua Hin|YES|stars_5
+90474|Gaja Puri Resort and Spa|Ko Chang|YES|stars_4
+90480|Islanda Eco Village Resort|Insel Klang|YES|stars_4
+90484|I-Residence Silom|Bangkok|YES|stars_3
+90489|Chakungrao Riverview|Kamphaeng Phet|YES|stars_3
+90491|The Twin Lotus|Nakhon Si Thammarat|YES|stars_3
+90493|Diamond Plaza|Suratthani|NO|stars_3
+90494|Woraburi Ayothaya|Ayutthaya|YES|stars_4
+90495|The Greenery Resort|Khao-Yai-Nationalpark|YES|stars_4
+90496|Nakhonphanom River View|Nakhon Pathom|NO|stars_3
+90497|Centara Hotel & Convention Centre Udon Thani|Udon Thani|YES|stars_4
+90747|Park Plaza Sukhumvit|Bangkok|YES|stars_4
+90749|Casuarina Jomtien|Jomtien|YES|stars_3
+90753|Patong Paragon|Patong|YES|stars_4
+90881|Koh Chang Resort & Spa|Trat|YES|stars_3
+90899|Sailom|Hua Hin|YES|stars_3
+91011|Bhundhari Spa Resort & Villas Samui|Chaweng Beach|YES|stars_4
+91123|Nisa Cabana Resort|Ko Chang|YES|stars_4
+91378|Palm Garden Resort|Khao Lak|NO|stars_3
+91379|Palm Garden Resort|Phuket|NO|stars_3
+91487|Royal Mekong|Nong Khai|YES|stars_3
+91488|K Park Grand|Suratthani|NO|stars_3
+91490|Riverhouse Resort|Mae Sariang|YES|stars_3
+91491|Rising Sun Residence|Chalong Bay|NO|stars_3
+91554|Centara Grand Beach Resort & Villas Krabi|Krabi|YES|stars_5
+91747|Rachakiri Resort & Spa|Khanom|YES|stars_4
+91748|At Panta|Phuket|YES|stars_4
+91750|Baan Karonburi|Karon|YES|stars_3
+91867|Golden Beach|Cha Am|YES|stars_3
+91868|Grande Ville|Bangkok|YES|stars_3
+91869|Mike Garden|Pattaya|NO|stars_3.5
+91898|Samed Club|Ko Samed|YES|stars_3
+91949|Kanok Buri Resort|Lipa Noi|YES|stars_4
+91950|Jamahkiri Spa & Resort|Koh Tao|YES|stars_4
+91951|Koh Tao Cabana|Koh Tao|NO|stars_3
+92003|Baboona|Pattaya|YES|stars_3
+92004|Shades Resort|Bophut Beach|NO|stars_2
+92146|Athitan Villas|Chiang Mai|YES|stars_3
+92147|Raming Lodge|Chiang Mai|YES|stars_3
+92223|Natural Ville Bangkok|Bangkok|YES|stars_4
+92375|Supatra Hua Hin Resort|Hua Hin|YES|stars_4
+92449|Q Signature Samui Resort & Spa|Koh Samui|YES|stars_4
+93104|Access Resort & Villas|Karon|YES|stars_4
+93105|Sukantara Cascade Resort|Mae Rim|YES|stars_4
+93107|Oasis Chiang Mai|Chiang Mai|YES|stars_3
+93110|Kirimaya Golf Resort & Spa|Khorat|YES|stars_5
+93111|Centara Hotel Hat Yai|Hat Yai|YES|stars_4
+93112|Andamanee Boutique Resort|Krabi|YES|stars_3
+93113|Shewe Wana Boutique Resort & Spa|Chiang Mai|YES|stars_3
+93114|Rarin Jinda Wellness Spa Resort|Chiang Mai|YES|stars_4.5
+93122|Dara Samui|Koh Samui|YES|stars_4
+93129|GLOW Elixir Koh Yao Yai|Insel Yao Yai|YES|stars_4
+93130|Tipchang Lampang|Lampang|YES|stars_2
+93132|Riverfront Residence|Bangkok|YES|stars_4
+93133|Thapwarin Resort|Krabi|YES|stars_3
+93134|Circle Phuket Resort and Spa|Phuket|YES|stars_4
+93135|At Ease Saladaeng|Bangkok|YES|stars_4
+93136|Siam Society Hotel & Resort|Bangkok|YES|stars_3
+93137|The Orchid Kalim Bay|Phuket|YES|stars_3
+93138|Phowadol Resort & Spa|Chiang Rai|YES|stars_4
+93139|Bangtao Village Resort|Phuket|YES|stars_3
+93222|Amari Vogue Resort|Krabi|YES|stars_4.5
+93223|Sila Beach Resort|Maenam Beach|YES|stars_2
+93544|Horseshoe Point Resort & Country Club|Chonburi|YES|stars_4
+93545|D Varee Jomtien Beach|Jomtien|YES|stars_4
+93546|Peach Blossom Resort|Kata Beach|YES|stars_4
+93547|Atlantis Resort & Spa|Choeng Mon Beach|YES|stars_3
+93548|Baan Suan Fon|Kanchanaburi|YES|stars_3
+93550|Baan Karon Resort|Karon|YES|stars_3
+93553|Anyavee Railay Resort|Ao Nang Beach|YES|stars_3
+93725|Krabi Resort|Krabi|YES|stars_3.5
+93895|Sawasdee Pattaya|Pattaya|YES|stars_2
+93897|Sawasdee Sunshine|Pattaya|YES|stars_2
+93898|Anantara Lawana Resort & Spa|Chaweng Beach|YES|stars_5
+93900|Sawasdee Banglumpoo Inn|Bangkok|YES|stars_2
+93901|Sawasdee Krungthep Inn|Bangkok|YES|stars_2
+93902|Sawasdee Smile Inn|Bangkok|YES|stars_2
+93903|Sawasdee Welcome Inn|Bangkok|YES|stars_2
+93982|Phu Pha Nam Resort|Loei|YES|stars_3
+94632|Chon Inter|Chonburi|NO|stars_3
+95027|Millennium Resort Patong Phuket|Patong|YES|stars_5
+95342|Sukhothai Heritage Resort|Sukhothai|YES|stars_4
+95390|Nirvana Couture|Banglamung|NO|stars_3
+95391|Sea Orchid Pattaya|Banglamung|YES|stars_3
+95393|LK Royal Suite Pattaya|Banglamung|YES|stars_4
+95396|Sabai Inn Pattaya|Pattaya|NO|stars_3
+95398|Nirvana Boutique Suites|Jomtien|NO|stars_3
+95399|View Talay Villas|Jomtien|NO|stars_3.5
+95402|Shakespeare Inn|Jomtien|NO|stars_3
+95404|Jomtien Holiday|Jomtien|NO|stars_3
+95405|Fairtex Sports Club & Hotel|Pattaya|NO|stars_3
+95406|Markland & Spa|Pattaya|YES|stars_3
+95413|Mantra Pura Resort|Pattaya|YES|stars_4
+95414|Crown Pattaya Beach|Pattaya|YES|stars_3
+95415|Grand Sole|Pattaya|YES|stars_3
+95416|Areca Lodge|Pattaya|NO|stars_3
+95417|Nova Park|Pattaya|YES|stars_3
+95418|J.A. Villa Pattaya Hotel|Pattaya|NO|stars_3
+95419|Four Seasons Place|Pattaya|NO|stars_4
+95424|New Day-Night|Pattaya|NO|stars_3
+95425|Mountain Beach|Pattaya|NO|stars_3
+95426|Momchailai Pattaya Retreat|Pattaya|NO|stars_3
+95427|Intimate|Pattaya|YES|stars_3.5
+95434|Sugar Hut|Jomtien|NO|stars_3
+95435|Absolute Nirvana Place|Jomtien|NO|stars_4
+95514|Khao Lak Youth Club|Khao Lak|NO|stars_2.5
+95631|Kosit Hill Hotel|Phetchabun|YES|stars_3
+95632|Serenity Chiangmai|Chiang Mai|YES|stars_2
+95633|The Imperial Phukaew Hill Resort|Phetchabun|YES|stars_4
+95634|Centre Point Sukhumvit Thong-Lo|Bangkok|YES|stars_4
+95636|Best Bangkok House|Bangkok|YES|stars_3
+95664|Supalai Resort & Spa Phuket|Mai Khao Beach|YES|stars_4
+95666|Grand Swiss Hotel Bangkok|Bangkok|YES|stars_3.5
+95681|Pattaya Discovery Beach|Pattaya|YES|stars_4
+95899|Tohsang City Hotel|Ubon Ratchathani|YES|stars_3
+95900|The Grand Riverside|Phitsanulok|YES|stars_3
+95902|Siam Beach Resort|Ko Chang|YES|stars_3
+95933|Sivalai Beach Resort|Koh Muk|YES|stars_3
+95934|Bundhaya Resort|Insel Lipe|NO|stars_3
+96598|Takolaburi|Khao Lak|YES|stars_4
+96810|City Lodge Soi 9|Bangkok|YES|stars_3
+96811|City Lodge Soi 19|Bangkok|YES|stars_3
+96814|Centra Coconut Beach Resort Samui|Taling Ngam Beach|YES|stars_3
+96816|Bobsons Suites Bangkok|Bangkok|YES|stars_3
+96818|Gassan Khuntan Golf & Spa|Chiang Mai|YES|stars_3
+96819|Punnpreeda Beach Resort|Choeng Mon Beach|YES|stars_3
+96822|Baan Tazala|Chiang Mai|YES|stars_3.5
+96823|Gassan Lake City Golf Club & Resort|Chiang Mai|YES|stars_4
+96824|Greenlake Resort|Chiang Mai|YES|stars_3
+96825|Thipurai City|Hua Hin|YES|stars_3
+96826|Fraser Suites Sukhumvit|Bangkok|YES|stars_4
+96827|The Library Samui|Chaweng Beach|YES|stars_4
+96828|Grand Sea View|Taling Ngam Beach|YES|stars_3
+96830|New Empire|Bangkok|NO|stars_2
+96831|CC's Hideaway|Kata Beach|YES|stars_3.5
+96833|Floraville Serviced Apartment|Bangkok|YES|stars_3
+96835|Tacola Resort & Spa|Insel Kho Khao|YES|stars_3.5
+96836|Thepnakorn|Phitsanulok|YES|stars_2
+96838|Tusita Resort & Spa|Chumphon|YES|stars_4
+96839|Koh Talu Island Resort|Pran Buri|NO|stars_3
+97003|Adriatic Palace|Bangkok|YES|stars_3.5
+97005|Pattaya Hill Resort|Pattaya|NO|stars_3
+97006|Pattaya Bay Hotel & Spa|Pattaya|NO|stars_3
+97008|Camelot|Pattaya|YES|stars_3
+97012|Pattaya Bay Resort|Pattaya|NO|stars_3
+97015|Eastiny Bella Vista|Pattaya|NO|stars_3
+97018|Twins Palm Resort|Pattaya|NO|stars_3
+97019|Mike Beach Resort|Pattaya|NO|stars_3
+97020|Sabai Resort|Pattaya|NO|stars_3
+97023|Best Bella Pattaya|Pattaya|YES|stars_3.5
+97043|Avalon Beach Resort|Pattaya|NO|stars_4
+97227|Eastiny Plaza|Pattaya|NO|stars_3
+97559|New Star Beach Resort|Chaweng Beach|YES|stars_4
+97712|Adelphi Suite|Bangkok|YES|stars_4
+97882|Napalai Resort & Spa|Hua Hin|NO|stars_3
+98109|De la Paix Hua Hin|Cha Am|YES|stars_4.5
+98113|Khaolak Emerald Beach Resort & Spa|Khao Lak|YES|stars_4
+98129|The Briza Beach Resort|Khao Lak|YES|stars_4
+98260|Away Koh Kood Resort|Insel Kut|YES|stars_3
+98459|Phitsanulok Thani|Phitsanulok|NO|stars_3
+98460|Malisa Villa|Kata Beach|YES|stars_5
+98461|Rajtaevee|Bangkok|YES|stars_3
+98462|Convenient Resort|Bangkok|YES|stars_3
+98463|Supar Royal Beach|Khanom|YES|stars_3
+98465|Mooban Talay Resort|Ko Samed|YES|stars_3
+98467|Alisea Boutique|Ao Nang Beach|YES|stars_3
+98477|Salil Soi 8|Bangkok|YES|stars_3
+98484|Ekman Garden Resort|Sichon|YES|stars_3
+98485|Koh Chang Lagoon Resort|Ko Chang|YES|stars_3
+98486|Haad Piti Resort|Khanom|YES|stars_2
+98487|Rico's|Patong|YES|stars_3
+98499|FuramaXclusive Sukhumvit|Bangkok|YES|stars_4
+98526|Phupai Art Resort|Pai|YES|stars_3.5
+98527|Horizon Village & Resort|Chiang Mai|YES|stars_3
+98721|Yaang Come Village|Chiang Mai|YES|stars_4
+98722|Napa Place|Bangkok|YES|stars_3
+98723|Eurana Boutique|Chiang Mai|YES|stars_3
+98724|Maninarakorn-Cnx|Chiang Mai|YES|stars_3
+98725|The Bedrooms Boutique|Bangkok|YES|stars_3
+98801|Grande Centre Point Ratchadamri|Bangkok|YES|stars_5
+98804|V-One Korat|Khorat|YES|stars_3
+98876|Bangkok Golf Spa Resort|Bangkok|YES|stars_3
+98881|Ban Ing Nam Health Resort & Spa|Bangkok|YES|stars_3
+98884|King Park Avenue|Bangkok|YES|stars_3
+99407|Rest Detail Hua Hin|Hua Hin|YES|stars_4.5
+99537|Natural Wellness Resort & Spa|Chiang Mai|YES|stars_3
+99538|Chiangmai Gate|Chiang Mai|YES|stars_3
+99539|Orawee Home|Chiang Mai|YES|stars_2
+99540|Baan Saen Doi Resort & Spa|Chiang Mai|YES|stars_4
+99541|Ramada D'MA Hotel Bangkok|Bangkok|YES|stars_4
+99542|Ban Sabai Village Resort & Spa|Chiang Mai|YES|stars_4
+99543|De Naga|Chiang Mai|YES|stars_4
+99544|Villa Zolitude|Rawai|YES|stars_5
+99545|Aonang Paradise Resort & Longstay|Ao Nang Beach|YES|stars_3
+99565|Aruntara|Chiang Mai|YES|stars_4
+99566|Buri Tara Resort|Ao Nang Beach|YES|stars_3
+100178|Nova Platinum|Pattaya|YES|stars_3
+100339|Imm Fusion|Bangkok|YES|stars_3
+100349|First Residence|Chaweng Beach|YES|stars_3
+100350|Golden Pine Beach Resort & Spa|Pran Buri|YES|stars_3
+100351|Amari Nova Suites|Chonburi|YES|stars_5
+100352|Bulun Buri Resort|Chiang Mai|YES|stars_3
+100354|Kantary Bay Rayong|Rayong|YES|stars_3.5
+100355|Greater Mekong Lodge|Chiang Saen|YES|stars_2
+100356|Doi Tung Lodge|Chiang Rai|YES|stars_3
+100360|BYD Lofts|Patong|YES|stars_4
+100362|Charoen|Udon Thani|YES|stars_2.5
+100363|Astera Sathorn Hotel|Bangkok|YES|stars_3
+100365|SC Park|Bangkok|YES|stars_3
+100366|Swan Bangkok|Bangkok|YES|stars_2
+100368|Samui Honey Cottage Beach Resort|Bophut Beach|YES|stars_3
+100370|Bangkok Boutique|Bangkok|YES|stars_3
+100371|Palazzo Bangkok|Bangkok|YES|stars_2
+100372|Kantary House Bangkok|Bangkok|YES|stars_3
+100373|Banpu Resort & Spa|Trat|YES|stars_3
+100374|Grand Millennium Sukhumvit|Bangkok|YES|stars_5
+100375|Phatad Valley|Kanchanaburi|YES|stars_3
+100376|Kasalong Phuket Resort|Phuket|YES|stars_3
+100377|Dhevaraj Hotel|Amphoe Mueang Nan|YES|stars_3
+100379|Best Western Swana|Bangkok|YES|stars_3
+100380|J.B.|Songkhla|YES|stars_3
+100381|Mission Hills Phuket Golf Resort & Spa|Phuket|YES|stars_4
+100579|Veranda High Resort Chiang Mai|Chiang Mai|YES|stars_4.5
+100582|The Mantrini Boutique Resort|Chiang Rai|YES|stars_4
+100584|The Aspasia Phuket|Phuket|YES|stars_4
+100585|Poppa Palace|Patong|YES|stars_3
+100597|B2 Ayatana Premier Resort|Chiang Mai|YES|stars_4
+100598|Muaklek Health Spa & Resort|Saraburi|YES|stars_3
+100599|FX Hotel Royal Peninsula|Chiang Mai|YES|stars_3
+100600|Sripet|Krabi|YES|stars_2
+100642|Easy Time Resort Samui|Koh Samui|NO|stars_3
+100658|Captain Hook Resort|Insel Kut|NO|stars_3
+100873|Jazzotel|Bangkok|YES|stars_3
+100874|Royal Pacific|Bangkok|YES|stars_3
+100875|Kantary Hills Chiang Mai|Chiang Mai|YES|stars_4
+100876|CH Hotel|Chiang Mai|YES|stars_3
+100877|Nirvana Resort|Ko Chang|YES|stars_3.5
+100907|Nakara Long Beach Resort|Ko Lanta|YES|stars_3
+100908|Rajapruek Samui Resort|Koh Samui|YES|stars_3
+100909|Kirikayan Luxury Pool Villas & Spa|Maenam Beach|YES|stars_4.5
+100911|Ao Nang Terrace|Ao Nang Beach|YES|stars_3
+100912|Pai Hotsprings Spa Resort|Pai|YES|stars_3
+100915|LK Metropole|Chonburi|YES|stars_4
+100916|Kantary Bay Phuket|Cape Panwa|YES|stars_4
+100917|Thumrin Thana|Trang|YES|stars_3
+100950|River Kwai|Kanchanaburi|YES|stars_3
+100953|Aunchaleena Beach Front Resort|Ko Chang|YES|stars_3
+101006|Andamania Resort|Khao Lak|YES|stars_3
+101823|Pinnacle Wangmai Satun|Satun|YES|stars_2
+101826|Bandara Suite Silom|Bangkok|YES|stars_4
+101926|Suriwongse Tower Inn|Bangkok|NO|stars_2.5
+101934|Summit Pavilion|Bangkok|YES|stars_3
+102076|Urbana Lungsuan|Bangkok|YES|stars_4
+102087|The Kala|Koh Samui|YES|stars_4
+102130|Lanna Mantra|Chiang Mai|YES|stars_3.5
+102133|Centara Grand at CentralWorld|Bangkok|YES|stars_5
+102134|Kata Lucky Villa|Kata Beach|YES|stars_3
+102135|Kata Country House|Kata Beach|YES|stars_3
+102152|Narittaya Resort & Spa|Chiang Mai|YES|stars_3.5
+102153|Ban Kao Tropical Boutique Residence|Koh Samui|YES|stars_3
+102155|Vaboir Lodge|Bangkok|YES|stars_3
+102336|Boonsiri Place|Bangkok|YES|stars_3
+102345|P & R Residence|Bangkok|NO|stars_3
+102346|Convenient Park Bangkok|Bangkok|YES|stars_3
+102347|FuramaXclusive Asoke|Bangkok|YES|stars_4
+102395|U Chiang Mai|Chiang Mai|YES|stars_4
+102398|Samaya Bura|Koh Samui|YES|stars_3
+102401|Adriatic Palace|Pattaya|YES|stars_3
+102403|Sunset Mansion|Kathu|YES|stars_2
+102404|Samui Sense Beach Resort|Lamai Beach|YES|stars_3
+102405|Tonsai Bay Resort|Krabi|YES|stars_2.5
+102407|Baan Nern Sai Resort|Phuket|YES|stars_2.5
+102408|The Imperial Hua Hin Beach Resort|Pran Buri|YES|stars_4
+102409|S15 Sukhumvit|Bangkok|YES|stars_4
+102412|Phu Chaisai Mountain Resort & Spa|Chiang Rai|YES|stars_4
+102413|Andaman's House|Patong|YES|stars_3
+102414|Alexander|Bangkok|YES|stars_3
+102415|Chaleena|Bangkok|YES|stars_3
+102416|Chaleena Princess|Bangkok|NO|stars_2
+102417|Milford Paradise|Pran Buri|YES|stars_3
+102418|Lanta Palace Resort & Beach Club|Ko Lanta|YES|stars_3
+102420|Panviman Chiang Mai Spa Resort|Chiang Mai|YES|stars_4.5
+102545|Ibis Phuket Patong|Patong|YES|stars_3
+102866|Baan Talay Dao|Hua Hin|YES|stars_3
+103218|DusitD2 Phuket Resort|Patong|YES|stars_4
+103265|Ayara Kamala Resort & Spa|Phuket|YES|stars_5
+103277|Springfield@Sea Resort & Spa|Cha Am|YES|stars_4
+103279|Khao Lak Oriental Resort|Khuk Khak Beach|NO|stars_4
+103405|Bodhi Serene|Chiang Mai|YES|stars_4
+103408|Centara Chaan Talay Resort & Villas Trat|Trat|YES|stars_4
+103409|Anantara Rasananda Koh Phangan Villa Resort & Spa|Ko Phangan|YES|stars_5
+103410|La Flora Resort Patong|Patong|YES|stars_5
+103411|Bamboo House|Karon|NO|stars_3
+103412|The Vijitt Resort Phuket|Rawai|YES|stars_4.5
+103418|Anyavee Tubkaek Beach Resort|Krabi|YES|stars_4
+103419|Nantra De Deluxe Resort|Krabi|YES|stars_4
+103420|The Sevenseas Resort|Insel Kradan|YES|stars_4
+103485|Cape House|Bangkok|YES|stars_4
+103486|PJ Watergate|Bangkok|NO|stars_3
+103487|Novotel Chumphon Beach Resort & Golf|Chumphon|YES|stars_4
+103488|S2S Boutique Resort|Bangkok|YES|stars_3
+103489|Royal Paradise|Bangkok|YES|stars_3
+103490|Chiangmai Ratanakosin|Chiang Mai|YES|stars_3
+103491|Khaolak Mohin Tara|Phang Nga|YES|stars_3
+103492|The Sarann Samui|Chaweng Beach|YES|stars_4
+103493|Silavadee Pool Spa Resort|Lamai Beach|YES|stars_5
+103494|Sand Beach|Krabi|YES|stars_2
+103495|Panalee Villa|Pattaya|YES|stars_3
+103496|Sri Panwa|Cape Panwa|YES|stars_5
+103497|Himmaphan Phuket|Bang Tao Bay|YES|stars_4
+103499|Patong Grand Ville Resort|Patong|YES|stars_3
+103500|Purimas Beach|Rayong|NO|stars_3.5
+103545|Aspen Suites Bangkok|Bangkok|YES|stars_4
+103682|Ibis Pattaya|Pattaya|NO|stars_3
+103694|JW Marriott Khao Lak Resort & Spa|Phang Nga|YES|stars_5
+103696|Ao Nang Cliff Beach Resort|Krabi|YES|stars_4
+103700|Le Meridien Chiang Mai|Chiang Mai|YES|stars_5
+103703|Dewa Nai Yang Beach|Nai Yang Beach|YES|stars_4
+103734|Chaydon Sathorn|Bangkok|YES|stars_3
+103736|Sacha's Uno|Bangkok|YES|stars_3
+103738|Le Meridien Bangkok|Bangkok|YES|stars_5
+103808|Anantara Phuket Villas|Mai Khao Beach|YES|stars_5
+103810|The Chill Koh Chang|Ko Chang|YES|stars_4
+103811|Railay Village Resort & Spa|Krabi|YES|stars_3
+103866|Admiral Suites|Bangkok|YES|stars_4
+105757|Chateau de Bangkok|Bangkok|YES|stars_4
+106455|Costa Lanta|Ko Lanta|YES|stars_3
+107264|Golden Cupids|Chiang Mai|NO|stars_3
+109268|Nongkhai Grand|Nong Khai|YES|stars_3
+110388|Ma Du Zi|Bangkok|YES|stars_4
+110424|Ayara Villas|Khao Lak|NO|stars_3
+110639|Royal President Suites|Bangkok|YES|stars_4
+110641|Royal Suite Residence Boutique|Bangkok|NO|stars_4
+111143|Thavorn Grand Plaza - geschlossen|Muang|YES|stars_3
+122591|The Kris Resort|Bang Tao Bay|YES|stars_4
+122628|Thanthip Beach Resort|Patong|NO|stars_3
+122630|Le Meridien Chiang Rai|Chiang Rai|YES|stars_5
+122631|Tinidee Hotel@Ranong|Ranong|YES|stars_3
+122632|Koh Tao Montra Resort|Koh Tao|YES|stars_3.5
+122870|Banthai Village|Chiang Mai|YES|stars_4
+122871|The Quarter|Pai|YES|stars_4
+122872|Fern Resort|Mae Hong Son|YES|stars_3
+122873|Makathanee Resort|Ko Mak|NO|stars_3
+122875|Ko Jum Lodge|Insel Cham|NO|stars_2
+122885|Hanseatic School for Life|Na Nai|NO|0
+122911|Shangri-La Chiang Mai|Chiang Mai|YES|stars_5
+122937|Miracle Suvarnabhumi Airport|Samut Prakan|YES|stars_4
+123769|Railay Princess Resort & Spa|Ao Nang Beach|YES|stars_3
+124895|Palace Ao Nang|Ao Nang Beach|YES|stars_2
+124896|Buddy Lodge|Bangkok|YES|stars_3
+124897|Inn Come Suite Bangkok|Bangkok|YES|stars_3
+124898|Avana Hotel & Residence|Bangkok|YES|stars_3
+124899|Grand Inn Come|Samut Prakan|YES|stars_3
+124900|Eastin Lakeside|Bangkok|NO|stars_3
+124901|Pratunam City Inn|Bangkok|YES|stars_3
+124903|Dynasty Bangkok|Bangkok|YES|stars_3
+124904|Hotel de Bangkok|Bangkok|YES|stars_3
+124905|Centre Point Hotel Chidlom|Bangkok|YES|stars_4
+124907|Urbana Sathorn|Bangkok|YES|stars_4
+124908|Grand Tower Inn Sukumvit 55|Bangkok|YES|stars_3
+124909|Oakwood Residence Sukhumvit 24|Bangkok|YES|stars_4
+124910|FX Hotel Royal Panerai|Chiang Mai|YES|stars_3
+124912|Muang Gudi Lodge|Chiang Mai|YES|stars_3.5
+124913|Huarn Jana Boutique|Chiang Mai|YES|stars_3.5
+124914|Royal Ping Garden & Resort|Chiang Mai|YES|stars_3
+124915|Jansom Chumporn|Tha Taphao|NO|stars_2
+124916|Citin Loft Hua Hin|Hua Hin|YES|stars_3
+124917|Mida Resort Kanchanaburi|Kanchanaburi|YES|stars_3.5
+124918|Comsaed River Kwai Resort|Kanchanaburi|YES|stars_3
+124920|Ao Nang Princeville Resort|Krabi|YES|stars_3
+124921|Verandah|Krabi|YES|stars_2
+124922|Beach Terrace|Krabi|YES|stars_3
+124925|Mermaid's Beach Resort Jomtien|Pattaya|NO|stars_3
+124927|Silver Resortel|Phuket|YES|stars_3
+124928|White Sand Resortel|Phuket|YES|stars_3
+124929|X2 Kui Buri|Hua Hin|YES|stars_4.5
+124930|Ta-Kiab Beach Resort|Hua Hin|YES|stars_2
+124931|Punnpreeda Pool Villa Beachfront|Maenam Beach|YES|stars_4
+124932|Shasa Resort & Residences|Hua Thanon|YES|stars_4.5
+124933|Koh Chang Resortel|Trat|YES|stars_3
+124934|Laithong|Ubon Ratchathani|YES|stars_3
+124935|Uthai River Lake Resort|Uthai Thani|YES|stars_2
+125378|De Moc|Bangkok|YES|stars_3
+126712|Krabi Tropical Beach Resort|Krabi|NO|stars_3
+128873|The Residence Resort and Spa Retreat|Phuket|YES|stars_4
+129812|Hip|Bangkok|YES|stars_3
+129813|Baiyoke Boutique|Bangkok|YES|stars_3
+129816|Forum Park|Bangkok|YES|stars_3
+129817|The Key Sukhumvit Bangkok|Bangkok|NO|stars_3
+129818|Bangkok Centre|Bangkok|YES|stars_3
+129819|The Heritage Baan Silom|Bangkok|YES|stars_3
+129822|Eastin Easy Siam Piman|Bangkok|YES|stars_3
+129823|Royal Asia Lodge & Paradise|Bangkok|YES|stars_3
+129825|Dhevan Dara Resort & Spa|Hua Hin|YES|stars_4
+129827|Mountain Inn And Resort|Mae Hong Son|YES|stars_3
+133170|Ecotel|Bangkok|YES|stars_3
+133173|Grand Tower Inn Rama VI|Bangkok|YES|stars_3
+133174|Golden Horse|Bangkok|NO|stars_3
+133175|Dusit Princess Srinakarin|Bangkok|YES|stars_4
+133176|Bhiman Inn|Bangkok|YES|stars_3
+133177|Amanta Ratchada|Bangkok|YES|stars_4
+133179|Citadines Sukhumvit 16|Bangkok|YES|stars_3.5
+133180|Nest|Chiang Mai|NO|stars_3
+133181|Baan Khun Yom|Chiang Rai|YES|stars_3
+133182|Palm Garden|Chiang Rai|YES|stars_3
+133186|Sawasdee Place|Mae Hong Son|YES|stars_2
+133188|Island Pavilion|Phuket|NO|stars_3
+133190|Hinsuay Namsai Resort|Rayong|NO|stars_3
+134183|The Sunset Beach Resort & Spa|Taling Ngam Beach|YES|stars_4
+134184|Pung-Waan Resort Kwai Noi|Tha Sao|YES|stars_3
+134185|Casuarina Resort|Phetchaburi|YES|stars_4
+134186|Samui Honey Tara Villa Residence|Plai Laem|YES|stars_3
+134252|Sugar Marina Resort - Art|Karon|YES|stars_3
+134326|Samui Jasmine Resort|Koh Samui|NO|stars_3.5
+134416|The Beach Boutique House|Phuket|YES|stars_3
+134417|Saree Samui|Koh Samui|YES|stars_4
+134418|Woodlands Suites|Pattaya|YES|stars_4
+134419|V Villas|Hua Hin|YES|stars_5
+134420|I-Residence Sathorn|Bangkok|YES|stars_3
+134421|Lipa Lodge Beach Resort|Lipa Noi|NO|stars_3
+134423|Areetara Resort|Krabi|YES|stars_3
+134424|The Beach Boutique Resort|Krabi|YES|stars_4
+134425|Rimping Village|Chiang Mai|YES|stars_3.5
+134426|Sugar Palm Grand Hillside|Phuket|YES|stars_4
+134427|The Banyan Golf & Spa Resort, Hua Hin|Prachuap Khiri Khan|YES|stars_4
+134428|Ricos Bungalows|Kata Beach|YES|stars_3
+134429|Tenface Bangkok|Bangkok|YES|stars_4
+134430|Nantra de Boutique|Pattaya|YES|stars_3
+134431|Swissotel Resort Phuket|Phuket|YES|stars_4
+134432|Best Western Mayfair Suites|Bangkok|YES|stars_3
+134433|Silver Gold Garden Suvarnabhumi|Bangkok|YES|stars_3
+134434|Sandalwood Luxury Villas|Chaweng Beach|YES|stars_4.5
+134435|Coco Private Villas|Koh Samui|NO|stars_3
+134436|Phi Phi Villa Resort|Krabi|NO|stars_3
+134437|Ko Tao Resort|Koh Tao|YES|stars_3
+134990|Anchan Resort & Spa|Phuket|NO|stars_4
+135045|The Kris Hotel & Spa|Patong|YES|stars_3
+135258|Ariyasom Villa|Bangkok|YES|stars_4
+135443|The Lipa Lovely|Koh Samui|NO|stars_3
+135625|The Heritage Bangkok|Bangkok|YES|stars_3
+135626|Sri Ping Resort|Chiang Mai|YES|stars_3
+135627|Mae Rim Lagoon|Chiang Mai|YES|stars_3
+135628|Taraburi Resort|Chiang Mai|YES|stars_3.5
+135629|Phuvaree Resort Phuket|Patong|YES|stars_3
+135630|Le Charme Sukhothai|Sukhothai|YES|stars_3
+135631|Citadines Sukhumvit 8|Bangkok|YES|stars_3
+135632|Citadines Sukhumvit 23|Bangkok|YES|stars_3
+135633|Citadines Sukhumvit 11|Bangkok|YES|stars_3
+135711|Admiral Premier Sukhumvit 23|Bangkok|YES|stars_4
+135712|Citin Pratunam Bangkok|Bangkok|YES|stars_3
+135713|Ninth Place Serviced Residence|Bangkok|YES|stars_3
+135714|Imm Eco Chiang Mai|Chiang Mai|YES|stars_3
+135715|Kooncharaburi Resort Spa & Sea Water Sport Club|Trat|YES|stars_4
+136112|Sofitel Bangkok Sukhumvit|Bangkok|YES|stars_5
+136168|Nora Chaweng|Chaweng Beach|YES|stars_3
+136216|Palm Grove Resort|Chonburi|YES|stars_4
+136224|Krabi Cha-Da Resort|Ao Nang Beach|YES|stars_4
+136493|Karinthip Village|Chiang Mai|YES|stars_3
+136495|Veranda Lodge Hua Hin|Hua Hin|YES|stars_3
+136496|Ananta Burin Resort|Krabi|YES|stars_4
+136498|Nadivana Serviced Apartments|Krabi|YES|stars_3
+136499|Starbright|Chiang Rai|YES|stars_2
+136502|The Legendha|Sukhothai|YES|stars_3
+136771|Cape Sienna Hotel & Villas|Karon|YES|stars_4
+136774|Red Ginger Chic Resort|Krabi|YES|stars_4
+136776|Grove Gardens Phuket|Karon|YES|stars_4
+136777|Bulun Buri Pai Mae Hong Son|Mae Hong Son|YES|stars_3
+136778|Al's Resort|Chaweng Beach|YES|stars_3
+136780|Seeka Boutique Resort|Karon|YES|stars_3
+136794|Luckanawadee Boutique Beach Resort|Khao Lak|YES|stars_3
+136826|Sawasdee Langsuan Inn|Bangkok|YES|stars_2.5
+136828|Grand Pinnacle|Bangkok|YES|stars_2
+136829|Saladaeng Colonnade|Bangkok|YES|stars_4
+137120|Residence Garden|Pattaya|NO|stars_3
+137163|Ruean Thai|Sukhothai|YES|stars_3
+137165|Thong Ta Resort & Spa|Bangkok|YES|stars_2
+137294|Cape Racha|Si Racha|NO|stars_5
+137323|Karavel House Sriracha|Si Racha|NO|stars_3
+137393|Khanom Golden Beach|Khanom|YES|stars_3
+137436|Roi Et City|Roi Et|NO|stars_3
+137478|The Imperial Adamas Beach Resort|Nai Yang Beach|YES|stars_4.5
+137485|City Park|Nan|YES|stars_2.5
+138291|MAC Boutique Suites|Bangkok|NO|stars_3
+138329|FuramaXclusive Sathorn|Bangkok|YES|stars_4
+138331|The Imperial Narathiwat|Narathiwat|YES|stars_4
+138364|Dor Shada|Jomtien|YES|stars_4
+138503|Jomtien Boathouse|Jomtien|NO|stars_3
+138513|Baramee Resortel|Patong|YES|stars_3
+138529|Floral Shire Resort|Bangkok|NO|stars_3
+138533|Bella Villa Cabana|Pattaya|NO|stars_3.5
+138540|Bella Villa Metro|Pattaya|NO|stars_3
+138545|Baron Beach|Pattaya|YES|stars_3
+138564|Le Bayburi Pranburi|Hua Hin|NO|stars_4.5
+138581|Absolute Sanctuary|Choeng Mon Beach|YES|stars_4
+138650|Arisara Place|Koh Samui|NO|stars_3
+138673|Bangkok Rama|Bangkok|YES|stars_3
+138697|B2 Premier|Chiang Mai|YES|stars_3
+138741|Buri Gallery House and Resort|Chiang Mai|NO|stars_3
+138832|DaVinci Suites & Spa|Bangkok|NO|stars_3
+138886|Eurasia Cha Am Lagoon|Cha Am|YES|stars_3
+138942|Grand Lucky|Bangkok|YES|stars_3
+139074|Layalina|Kamala Beach|YES|stars_4
+139154|Serenity Resort & Residences|Rawai|YES|stars_5
+139162|Pantip Court Executive Residence|Bangkok|NO|stars_4
+139244|Rattana Beach|Karon|NO|stars_3
+139341|Secret Cliff Resort & Restaurant|Karon|NO|stars_3
+139358|The Sky Dream Hotel|Karon|NO|stars_4
+139370|Hotel Khaolak Southsea|Khuk Khak Beach|YES|stars_5
+139444|Tadkham Village|Chiang Mai|YES|stars_3
+139459|The Spa Koh Chang Resort|Ko Chang|NO|stars_3.5
+139751|Santhiya Resort & Spa|Thong Nai Pan Beach|YES|stars_5
+139770|Ao Nang Orchid Resort|Krabi|YES|stars_4
+140075|Rome Place|Phuket|YES|stars_3
+140224|Town In Town|Bangkok|YES|stars_3
+140225|I Check Inn Ploenchit|Bangkok|YES|stars_3
+140228|The Ivory Suvarnabhumi|Bangkok|YES|stars_3
+140229|Chatrium Hotel Riverside Bangkok|Bangkok|YES|stars_5
+140230|Vie Hotel Bangkok - MGallery Collection|Bangkok|YES|stars_5
+140231|Haven Resort|Cha Am|YES|stars_4
+140232|Hua Hin Hillside Resort|Hua Hin|YES|stars_3
+140233|Parn Dhevi Riverside Resort & Spa|Nakhon Pathom|YES|stars_3
+140260|Teak Garden Spa Resort|Chiang Rai|YES|stars_3
+140261|Yantarasiri Boutique & Resort|Chiang Mai|YES|stars_4
+140262|Chiang Mai|Chiang Mai|YES|stars_2.5
+140263|Tao Garden Health Spa & Resort|Chiang Mai|YES|stars_3
+140265|Rajamangala Pavilion Beach Resort|Songkhla|YES|stars_4
+140266|Pavilion|Songkhla|YES|stars_3
+140267|Faasai Resort & Spa|Chanthaburi|YES|stars_3
+140268|Maneechan Resort|Chanthaburi|YES|stars_3
+140269|Pacific Park Residence|Chonburi|YES|stars_3
+140270|Hermitage Hotel & Resort|Khorat|YES|stars_3
+140271|Krabi Aquamarine Resort|Krabi|YES|stars_3
+140272|Ao Nang Cozy Place|Krabi|YES|stars_3
+140273|Natural Wing Health Spa & Resort|Koh Samui|YES|stars_3
+140274|Manathai Koh Samui|Koh Samui|YES|stars_4
+140275|Lamai Buri Resort|Lamai Beach|YES|stars_3
+140277|Tango Beach Resort|Bophut Beach|YES|stars_3
+142047|The Bell Pool Villa Resort|Kamala Beach|YES|stars_4.5
+142048|Vista Pattaya|Pattaya|YES|stars_4
+142049|Sailom Resort Bangsaphan|Bang Saphan|YES|stars_3
+142050|New Lapaz Villa|Koh Samui|YES|stars_3
+142055|Grand Inn|Bangkok|YES|stars_2.5
+142057|Mei Zhou Phuket|Phuket|YES|stars_3
+142124|Phi Phi Andaman Legacy Resort|Phi Phi Island / Ko Pee Pee|YES|stars_3
+142127|Bamboo Country Lodge|Chiang Mai|YES|stars_1
+142128|Bally's Studio Suites Silom|Bangkok|YES|stars_3
+142219|Amara Residence Krabi|Krabi|YES|stars_3
+143220|Ayothaya|Ayutthaya|YES|stars_3
+143232|Escape Hua Hin|Hua Hin|NO|stars_3
+143233|Mango Spa & Resort|Hua Hin|NO|stars_3
+143238|Kata Minta|Karon|NO|stars_3
+143240|Best Western Samui Bayview Resort|Lamai Beach|YES|stars_3
+143252|Bel Aire Resort|Kathu|YES|stars_3
+143259|Tony Resort|Kathu|NO|stars_3
+143262|Baan Raya Resort & Spa|Phuket|YES|stars_3
+143267|Pearl Village|Phuket|YES|stars_4
+143274|Tharaburi Resort|Sukhothai|YES|stars_3
+145123|Ibis Bangkok Sathorn|Bangkok|YES|stars_3
+145205|Citin Garden Resort|Pattaya|YES|stars_3
+145269|The Small Krabi|Krabi|YES|stars_3
+151312|Sareeraya Villas & Suites|Chaweng Beach|YES|stars_5
+157631|13 Coins Airport Grand Resort|Bangkok|YES|stars_3
+157632|13 Coins Antique Villa|Bangkok|YES|stars_3
+157633|13 Coins Bitec Resort Bang Na|Bangkok|YES|stars_3
+157634|Abloom Serviced Apartment|Bangkok|YES|stars_4
+157638|Baan Pra Nond|Bangkok|YES|stars_3
+157641|Bally's Studio Suites Sukhumvit|Bangkok|YES|stars_3
+157642|Bangkok Garden Resort|Bangkok|NO|stars_3
+157643|Bangkok Sahara|Bangkok|NO|stars_3
+157646|Citichic by iCheck inn|Bangkok|NO|stars_3
+157648|Diamond House|Bangkok|NO|stars_3
+157650|For You Residence|Bangkok|NO|stars_3
+157664|Grand Watergate|Bangkok|YES|stars_2.5
+157665|Hope Land Executive Serviced Apartment|Bangkok|YES|stars_3
+157667|King Royal Garden Inn|Bangkok|NO|stars_3
+157668|Lub d Bangkok - Silom|Bangkok|YES|stars_2.5
+157696|Ao Chalong Villa Resort & Spa|Chalong Bay|NO|stars_3
+159465|Marriott Executive Apartments Sathorn Vista|Bangkok|YES|stars_4.5
+159468|212 Service Apartment|Bangkok|YES|stars_2.5
+159471|Navalai River Resort|Bangkok|YES|stars_3
+159474|MetroPoint Bangkok|Bangkok|YES|stars_3
+159475|Katiliya Mountain Resort & Spa|Chiang Rai|YES|stars_4
+159476|President Palace|Bangkok|YES|stars_4
+159477|Eve Avataa|Uthai Thani|YES|stars_5
+159480|Away Suansawan Chiang Mai, Centara Boutique Collection|Chiang Mai|YES|stars_4
+159481|Center Park Service Apartment & Hotel|Chiang Mai|YES|stars_2
+159482|Noble Place|Chiang Mai|YES|stars_2.5
+159497|Majestic Suites|Bangkok|NO|stars_3
+159499|Merisess Sukhumvit 16|Bangkok|YES|stars_3
+159502|P2 Boutique|Bangkok|NO|stars_3
+159503|The Patra|Bangkok|NO|stars_3
+159504|Rose|Bangkok|YES|stars_3
+159505|Royal View Resort|Bangkok|NO|stars_3
+159507|SC Sathorn Boutique|Bangkok|YES|stars_3
+159509|Suda Palace|Bangkok|NO|stars_3
+159510|BB Chaweng Beach Resort|Chaweng Beach|YES|stars_3
+159511|Ten Stars Inn|Bangkok|NO|stars_3
+159512|The Centric Ratchada (Centric Place)|Bangkok|YES|stars_3
+159513|The Color Living|Samut Prakan|NO|stars_3
+159514|The Dawin Bangkok|Bangkok|NO|stars_3
+159515|My Q Xpress Chaweng Samui|Koh Samui|YES|stars_3
+159516|Asia Spirit Lodge & Spa|Taling Ngam Beach|YES|stars_4
+159517|The Eugenia|Bangkok|NO|stars_4.5
+159519|The Monmanee Travel & Life Style|Samut Prakan|YES|stars_3
+159523|Park 9|Bangkok|NO|stars_4
+159524|The Regent Silom|Bangkok|NO|stars_3
+159526|Apasari Krabi|Krabi|YES|stars_3
+159527|Paradise Sukhumvit|Bangkok|NO|stars_3
+159528|Holiday Inn Resort Krabi Ao Nang Beach|Krabi|YES|stars_4
+159533|Phuket Heritage|Phuket|YES|stars_3
+159534|Paresa Resort|Phuket|YES|stars_5
+161763|Aspery Phuket|Phuket|YES|stars_3
+162740|The Chava Resort|Phuket|YES|stars_4
+162741|Win Long Place|Bangkok|NO|stars_3
+162742|Mom Tri's Villa Royale Phuket|Phuket|YES|stars_4
+162743|Legacy Suites|Bangkok|NO|stars_4
+162744|Samui Beach Resort|Koh Samui|NO|stars_2
+162752|Tropical Garden Lounge|Koh Samui|YES|stars_3
+162755|Bhukitta Hotel & Spa|Phuket|YES|stars_2
+162763|13 Coins Ngam Wongwan|Nonthaburi|NO|stars_3
+162767|Yellow Ribbon Hills Executive Serviced Apartments|Bangkok|NO|stars_3
+162768|Northern Heritage Resort Golf & SPA|San Kamphaeng|NO|stars_4
+162769|Chaw Ka Cher Tropicana Lanta Resort|Ko Lanta|NO|stars_3
+162773|Baraquda Pattaya|Pattaya|YES|stars_5
+162776|The Village Coconut Island|Phuket|YES|stars_5
+162780|Bangtao Beach Chalet|Phuket|NO|stars_3
+162786|Bliston Suwan Park View|Bangkok|YES|stars_4
+162787|Khao Lak Riverside Resort & Spa|Bang Niang|NO|stars_3.5
+162791|RS Seaside|Pattaya|NO|stars_3
+162793|13 Coins Airport Minburi|Bangkok|YES|stars_3
+162794|13 Coins Tower Tiwanon|Nonthaburi|NO|stars_3
+162795|Amari Ocean Pattaya / Amari Garden Pattaya -  Amari Ocean Pattaya|Pattaya|NO|stars_5
+162796|13 Coins Resort Yotin Pattana|Bangkok|YES|stars_3
+163338|Sino House|Phuket|NO|stars_3
+163353|13 Coins Tower Ratchada|Bangkok|NO|stars_3
+163354|13 Coins Bangyai|Nonthaburi|YES|stars_3
+163356|X2 Samui|Hua Thanon|YES|stars_4.5
+163492|Haadlad Prestige Resort & Spa|Ko Phangan|YES|stars_3
+167541|Tara Mantra Cha Am|Cha Am|YES|stars_4
+179313|Siam Pura|Pattaya|NO|stars_3
+182303|Lanta Marine Park View|Ko Lanta|YES|stars_2
+182333|Touch Star Resort|Chiang Mai|YES|stars_3
+182334|Jansom Beach Resort|Ranong|NO|stars_2
+182335|Proud Phu Fah|Chiang Mai|YES|stars_3
+182336|Cocohut Beach Resort & Spa|Ko Phangan|YES|stars_3
+182337|Kantary Ayutthaya|Ayutthaya|YES|stars_4
+182338|Chaweng Lakeview Condotel|Koh Samui|YES|stars_3
+182339|Elements Boutique Resort & Spa|Koh Samui|NO|stars_5
+182340|Miramar|Bangkok|YES|stars_3.5
+182341|Hua Hin Mantra Resort|Hua Hin|NO|stars_4
+182342|Mook Lanta Boutique Resort & Spa|Ko Lanta|YES|stars_3
+182343|Smart Suites Bangkok|Bangkok|YES|stars_2.5
+182344|See Through Boutique Resort|Ko Phangan|YES|stars_3
+182345|Haad Son Resort|Ko Phangan|YES|stars_3
+182346|Samui Garden Home|Koh Samui|YES|stars_3
+182349|Seahorse Resort|Hua Hin|YES|stars_3.5
+182354|KC Resort & Over Water Villas|Koh Samui|YES|stars_4.5
+182361|Tri Trang Beach Resort|Phuket|YES|stars_3
+182362|Sai Yok Country Resort & Spa|Lum Sum|YES|stars_2.5
+182363|The Laurel Suite|Bangkok|YES|stars_3
+182364|Lanta Il Mare Beach Resort|Ko Lanta|YES|stars_3
+182365|Siam Sea Shore Samui|Bophut Beach|NO|stars_1.5
+182366|Haleeva Resort|Krabi|YES|stars_3
+182367|Good Days Lanta Resort|Ko Lanta|YES|stars_2
+182368|Coco Cottage Koh Ngai|Ko Hai, Ko Ngai|NO|0
+182369|Narawan|Hua Hin|YES|stars_3
+182380|Lanta Sunny House|Ko Lanta|YES|stars_2
+182384|G House|Hua Hin|YES|stars_3
+182385|Artrium Tropical Exclusive Club & Spa|Ban Tai Beach|YES|stars_4
+182386|Ananda Lanta Resort|Ko Lanta|YES|stars_3
+182387|Krabi Cozy Place|Krabi|YES|stars_2
+182388|Rayaburi Patong|Patong|NO|stars_3
+182389|Blue Hill Resort|Ko Phangan|YES|stars_3
+182390|Terra Selisa|Prachuap Khiri Khan|YES|stars_2.5
+182391|Siam Society Beach Resort|Chumphon|YES|stars_3
+182392|Baray Villa|Phuket|YES|stars_4
+182393|Mohn Mye Horm|Chiang Rai|YES|stars_3
+182395|Howdy Relaxing|Krabi|YES|stars_2.5
+182396|Muang Samui Villas & Suites|Choeng Mon Beach|YES|stars_4.5
+182397|Duangjai Resort|Krabi|YES|stars_3
+182398|Kamala Beach Inn|Phuket|YES|stars_2
+182399|Kao Yai Grand View Resort|Prachinburi|YES|stars_3
+182400|River Kwai Botanic Garden Resort|Kanchanaburi|YES|stars_2
+182403|SalaDang Place|Bangkok|YES|stars_3
+182405|Ibis Samui Bophut|Koh Samui|YES|stars_3
+182708|The Small|Chiang Mai|YES|stars_3
+182709|Baan Laksasubha Resort|Hua Hin|NO|stars_4
+182809|Intercontinental Hua Hin|Hua Hin|YES|stars_5
+182833|Metadee Resort & Villas|Kata Beach|YES|stars_3
+182834|Avista Resort|Kata Beach|YES|stars_4
+182840|Nora Buri Resort & Spa|Chaweng Beach|YES|stars_4.5
+182930|Sunwing Resort Kamala Beach|Kamala Beach|YES|stars_4
+182995|Adelphi Grande Bangkok|Bangkok|NO|stars_4
+182996|Bhu Nga Thani Resort & Spa|Krabi|YES|stars_4
+183050|Yaiya Boutique Resort Hua Hin|Hua Hin|NO|stars_4
+183091|Ark Bar Beach|Koh Samui|NO|stars_3
+183112|Anantara Baan Rajprasong Serviced Suites|Bangkok|YES|stars_5
+183125|Holiday Inn Pattaya|Pattaya|NO|stars_4
+183137|The Scent|Ban Rak Beach|NO|stars_4
+183145|Citrus Sukhumvit 22|Bangkok|YES|stars_4
+183148|Blue Ocean Studios|Patong|NO|stars_3
+183722|KC Beach Resort & Pool Villas|Koh Samui|YES|stars_4
+183724|Koh Kood Island Resort|Insel Kut|NO|stars_3
+183725|Nantra de Comfort|Bangkok|YES|stars_3
+183726|Bella Villa Prima|Pattaya|NO|stars_3
+183728|Timber House Resort|Krabi|YES|stars_3
+183730|On8 Sukhumvit Nana|Bangkok|NO|stars_3
+183731|Spa Chiang Mai Resort|Chiang Mai|NO|stars_3
+183732|Imm Thaphae Chiang Mai|Chiang Mai|YES|stars_3
+183733|Citin Loft Pattaya|Pattaya|YES|stars_3
+183734|Great Residence|Bangkok|YES|stars_2.5
+183736|Mai Samui Beach Resort & Spa|Laem Yai Bay|NO|stars_4.5
+183737|Anchalee Inn|Patong|NO|stars_3
+183738|The Sea House Beach Resort|Krabi|YES|stars_4
+183739|The Sea Koh Samui|Maenam Beach|NO|stars_4
+183741|Four Seasons International House|Bangkok|NO|stars_3
+183742|Radisson Blu Plaza Resort Phuket Panwa Beach|Phuket|YES|stars_5
+183743|Avatarn Miracles|Uthai Thani|NO|stars_4
+183744|Malai House|Phuket|YES|stars_2
+183745|Nai Yang Beach Resort|Phuket|YES|stars_3
+183746|Best Western Premier Amaranth Suvarnabhumi Airport|Samut Prakan|YES|stars_4
+183747|Bella Villa Serviced Apartment|Pattaya|NO|stars_3
+183748|Nice Beach|Rayong|NO|stars_3
+183749|Andaman Seaside Resort|Phuket|NO|stars_3
+183750|Fanari Resort & Spa|Koh Tao|NO|stars_2
+183751|Phu Jaya Mini Resort Chiangmai|Chiang Mai|YES|stars_3
+183757|Aya Boutique|Pattaya|NO|stars_4
+183759|Amantra Resort & Spa|Ko Lanta|NO|stars_3
+183929|3rd Street Cafe & Guesthouse|Kata Beach|NO|stars_3
+183932|The Front Hotel|Patong|NO|stars_3
+183933|APK Resort|Patong|YES|stars_3
+183934|Beach Road Inn|Patong|NO|0
+183944|Kamala Beach Estate|Kamala Beach|NO|stars_4
+183945|Kamala Beachfront Apartment|Kamala Beach|NO|stars_3
+183946|Kamala Dreams|Kamala Beach|NO|stars_3
+183947|Karon Living Room|Karon|NO|stars_3
+183949|Katina|Phuket|NO|stars_4
+183950|Koyao Bay Pavilions|Insel Yao Noi|NO|stars_4
+183951|Lamai Apartment|Patong|NO|stars_3
+183952|Lamai Guesthouse|Patong|NO|stars_3
+183953|Lamai Hotel|Patong|NO|stars_3
+183964|Patong Inn|Patong|NO|stars_2
+183965|Patong Palace|Patong|NO|stars_3
+183968|Patong Premier Resort|Patong|NO|stars_3
+183969|Phu-Ke-Ta, The Hip Service Apartment & Hotel|Phuket|NO|stars_3
+183970|Phuket Airport|Phuket|NO|stars_3
+183973|Bangsak Village|Khao Lak|NO|stars_3
+183984|Me Hotel|Patong|NO|stars_3
+183987|Surin Sabai Condominium|Surin Beach|NO|stars_3.5
+183988|Swiss Palm Beach|Patong|NO|stars_3
+183989|Tenta Nakara|Insel Naka Yai|NO|stars_3
+183993|The Residence Kalim Bay|Patong|NO|stars_3
+183994|The Sea Patong|Patong|YES|stars_3
+183995|The Album @ Phuket|Patong|YES|stars_3
+183999|Toy Residence|Patong|NO|stars_2
+184000|Chanalai Romantica Resort|Kata Beach|YES|stars_4
+187275|Yodia Heritage|Phitsanulok|NO|stars_4
+187408|Diamond Cave Resort|Krabi|NO|stars_3
+187811|Crown Lanta Resort & Spa|Ko Lanta|YES|stars_4
+187813|Sita Beach Resort|Insel Lipe|YES|stars_4
+187970|The Heritage Sathorn|Bangkok|YES|stars_5
+187981|Sawasdee Sabai|Pattaya|YES|stars_1.5
+188115|Bangkok Natural Spa & Resort|Bangkok|YES|stars_4
+188116|Butterfly|Chiang Mai|YES|stars_3
+188117|Deva Samui Resort & Spa|Koh Samui|NO|stars_4
+188166|Ibis Phuket Kata|Kata Beach|YES|stars_3
+188228|R-Mar Resort|Patong|NO|stars_3
+188328|Boomerang Village Cottages|Kata Beach|NO|stars_3
+188350|Eden Resort|Karon|NO|stars_3
+188353|C&N Hotel|Patong|NO|stars_3
+195882|Lamai Wanta Resort|Koh Samui|NO|stars_3
+195913|Centara Sappaya Design Resort Rayong|Rayong|YES|stars_4
+195914|Tivoli Bangkok|Bangkok|YES|stars_2.5
+195915|Krabi Phupranang Resort & Spa|Krabi|NO|stars_2
+195916|Regent Suvarnabhumi Bangkok|Bangkok|YES|stars_3
+195917|Silq Bangkok|Bangkok|YES|stars_3.5
+195919|Queen's Garden Resort|Bangkok|YES|stars_2
+197224|Seri Place|Pattaya|NO|stars_3
+201511|Baramee Hip|Patong|YES|stars_3
+201544|Golden Buddha Beach Resort|Insel Phra Thong|NO|0
+201579|Andakira|Patong|YES|stars_4
+201589|Chang Buri Resort & Spa|White Sand Beach|YES|stars_3
+201590|Phuwadee Resort & Spa|Thong Nai Pan Beach|YES|stars_2.5
+201675|Idyll|Chonburi|NO|stars_4
+201824|Haad Tian Beach Resort|Ko Phangan|YES|stars_3
+201831|Infinity Residences & Resort Koh Samui|Koh Samui|YES|stars_4.5
+201836|Water Land Golf Resort & Spa|Phitsanulok|YES|stars_3
+201837|Amarin Nakorn|Phitsanulok|YES|stars_3
+201840|Outrigger Laguna Phuket Resort & Villas|Bang Tao Bay|YES|stars_5
+201841|Maeyom Palace|Phrae|YES|stars_3
+201843|J. P. Emerald|Yasothon|YES|stars_3
+201844|Mukdahan Grand Hotel|Mukdahan|YES|stars_4
+201847|P.P. Casita|Phi Phi Island / Ko Pee Pee|YES|stars_2
+201848|Phuttachot Resort Phi Phi|Phi Phi Island / Ko Pee Pee|YES|stars_2
+201849|Phi Phi Banyan Villa|Phi Phi Island / Ko Pee Pee|YES|stars_3
+201850|Phi Phi Hotel|Phi Phi Island / Ko Pee Pee|YES|stars_2.5
+201851|P.P. Palmtree Resort|Phi Phi Island / Ko Pee Pee|YES|stars_3
+201852|Baan Yuree Resort & Spa|Kathu|YES|stars_3
+201853|Laguna Holiday Club Resort|Bang Tao Bay|YES|stars_4
+201854|Wongamat Privacy Resort|Pattaya|NO|stars_3
+201855|Mövenpick Resort Bangtao Beach Phuket|Phuket|YES|stars_5
+201856|Two Villas Holiday Oriental Style Nai Harn Beach|Nai Harn Beach|YES|stars_4
+201877|The Westin Siray Bay Resort & Spa|Phuket|YES|stars_5
+201879|The Shore at Katathani|Kata Noi Beach|YES|stars_5
+201901|Salil Hotel Sukhumvit Soi Thonglor 1|Bangkok|NO|stars_4
+201904|S Sukhumvit Suites|Bangkok|YES|stars_3
+201905|Hope Land Executive Residence|Bangkok|YES|stars_3
+201906|Away Hua Hin|Pran Buri|NO|stars_4
+201907|Fusion Suites|Bangkok|YES|stars_3
+201908|Sathorn Grace Serviced Residence|Bangkok|YES|stars_4
+201909|The Victory|Bangkok|YES|stars_3
+201910|Mirth Sathorn|Bangkok|YES|stars_3
+201911|Royal Lanna|Chiang Mai|YES|stars_3
+201912|The Oriental Village|Chiang Mai|YES|stars_3
+201913|River Hill Resort|Chiang Rai|YES|stars_2
+201914|Gassan Marina Golf Club|Chiang Mai|YES|stars_3
+201915|The Grand Napat|Chiang Mai|YES|stars_3.5
+201916|The Pinewood Residences|Chonburi|NO|stars_2.5
+201918|Mo Rooms|Chiang Mai|YES|stars_3
+201919|Furama Chiang Mai|Chiang Mai|YES|stars_4
+201920|Siripanna Villa Resort & Spa Chiang Mai|Chiang Mai|YES|stars_5
+201921|Ping Buri|Chiang Mai|YES|stars_2
+201922|Tianna Garden Village|Chiang Mai|YES|stars_2.5
+201923|Baan Gong Kham Boutique Lanna Resort|Chiang Mai|YES|stars_3
+202300|Khao Lak Diamond Beach Resort & Spa|Khao Lak|YES|stars_4
+202397|Jasmine Hills Lodge|Chiang Mai|YES|stars_3
+202410|Ocean Breeze Resort|Khao Lak|NO|stars_3
+202433|Khon Kaen|Khon Kaen|NO|stars_3
+202705|Le Platinum Residency|Bangkok|YES|stars_2
+202706|Golden Pearl Residences|Bangkok|NO|stars_3
+202708|Rambuttri Village Inn & Plaza|Bangkok|YES|stars_2
+202710|Wang Thong Maesai|Chiang Rai|YES|stars_2
+202711|Assaradevi Villa & Spa|Chiang Mai|YES|stars_3.5
+202712|Lavender Lanna|Chiang Mai|YES|stars_3
+202713|Koh Yao Yai Village|Insel Yao Yai|YES|stars_4
+202714|Gateway Hotel|Phayao|YES|stars_4
+202716|Eco Valley Lodge|Khao-Yai-Nationalpark|YES|stars_3
+202717|Pattara Resort & Spa|Phitsanulok|YES|stars_3.5
+202719|Centara Khum Phaya Resort & Spa|Chiang Mai|YES|stars_4.5
+202940|Sawaddi Patong Resort|Patong|YES|stars_4
+203219|Marriott Executive Apartments Sukhumvit Park|Bangkok|YES|stars_5
+203221|The Residence Airport & Spa|Bangkok|YES|stars_3
+203222|Mariya Boutique Residence|Bangkok|YES|stars_3
+203223|BS Residence Airport Suvarnabhumi|Bangkok|YES|stars_2.5
+203224|The Lapa|Hua Hin|YES|stars_4
+203225|The Golden Triangle Inn|Chiang Rai|YES|stars_2.5
+203226|Namthong Resort|Chiang Rai|YES|stars_3
+203227|Waterford Valley Chiangrai|Chiang Rai|NO|stars_3
+203228|Lanna View Hotel & Spa|Chiang Mai|YES|stars_2.5
+203229|Prince|Chiang Mai|YES|stars_2
+203230|Alpine Golf Resort|Chiang Mai|NO|stars_4
+203231|Paicome Hide Away Resort|Mae Hong Son|YES|stars_3
+203232|Phu Na Come Resort|Loei|YES|stars_3
+203233|PP Ingphu Viewpoint|Krabi|YES|stars_2
+203234|Seastone Pool Villa|Bang Tao Bay|YES|stars_4
+203235|Phuket Chaba Hotel|Karon|YES|0
+203236|Jiraporn Hill Resort|Patong|YES|stars_3
+203237|Patong Paradee Resort|Patong|YES|stars_3
+203238|Amata Resort|Kathu|NO|stars_3
+203242|Seeharaj|Uttaradit|YES|stars_2
+203243|Chiangmai Phucome Hotel|Chiang Mai|NO|stars_3
+203244|Inn Come|Chiang Rai|NO|stars_4
+203245|Thai Modern Resort|Chalong Bay|YES|stars_4
+203247|Baan Maksong|Kathu|YES|stars_3
+203248|Absolute Bangla Suites|Patong|YES|stars_4
+203249|Absolute Nakalay Boutique Resort|Kamala Beach|YES|stars_4
+203377|White Sand Krabi Resort|Ao Nang Beach|NO|stars_3
+203380|Sedhapura by Thosang|Ubon Ratchathani|NO|stars_4
+203432|Lanta Pavilion Resort|Ko Lanta|NO|stars_3
+204311|Alibaba Boutique Resort|Hua Hin|NO|stars_3
+204414|Al's Laemson|Chaweng Beach|NO|stars_3
+204477|Am Samui Palace|Lamai Beach|NO|stars_3
+204581|Andara Resort & Villas|Kamala Beach|NO|stars_5
+204682|Aonang Goodwill|Ao Nang Beach|NO|stars_2
+204683|Aonang Phu Petra Resort|Ao Nang Beach|YES|stars_4
+205023|Aphrodite Inn Bangkok|Bangkok|NO|stars_3
+205366|Athome @Nanai 8|Patong|NO|stars_2
+205431|Atrium Boutique|Bangkok|NO|stars_3
+205886|Bay|Samut Prakan|NO|stars_3
+206273|Blue Garden Resort & Spa|Bang Tao Bay|NO|stars_3
+207000|Casadel Sol|Kata Beach|NO|stars_3
+207327|Choeng Mon Beach|Choeng Mon Beach|NO|stars_3
+207557|Coconut Beach Resort|Lamai Beach|NO|stars_3
+208010|Darjelling Boutique|Bangkok|NO|stars_4
+208629|Dynasty Inn Grande|Bangkok|NO|stars_4
+209995|Grand Mercure Bangkok Asoke Residence|Bangkok|YES|stars_4
+210253|Hansar Samui Resort & Spa|Choeng Mon Beach|NO|stars_5
+211941|JL Bangkok|Bangkok|NO|stars_3
+212044|Kata Beach Center|Kata Beach|NO|stars_3
+212045|Kata Beach Studio|Kata Beach|NO|stars_3
+212610|Laem Din|Chaweng Beach|NO|stars_3
+212737|Le Méridien Koh Samui Resort & Spa|Lamai Beach|YES|stars_5
+214248|Montrara Happy House|Chiang Mai|NO|stars_3
+214523|Nishaville Resort|Hua Hin|NO|stars_4
+214638|Oakwood Residence Garden Towers Bang-Na|Bangkok|YES|stars_4
+214997|Paradiso Boutique Suites|Bangkok|NO|stars_3
+215003|Paragon Inn|Bangkok|NO|stars_3
+217292|Rikka Inn|Bangkok|NO|stars_3
+217496|Royal Crown Hotel & Palm Spa Resort|Patong|NO|stars_3
+217499|Royal Embassy Resort & Spa|Kamala Beach|NO|stars_4
+217523|Royal Nakara Ao Nang|Ao Nang Beach|NO|stars_3
+217682|Sam's Lodge|Bangkok|NO|stars_2
+217684|Samui Heritage Resort|Bophut Beach|NO|stars_3
+217958|Sensive Hill|Kathu|NO|stars_4
+218110|Sleep Withinn|Bangkok|NO|stars_3
+218119|SM Resort|Patong|NO|stars_3
+218571|Sunset Hill Resort & Spa|Ko Phangan|NO|stars_3.5
+218660|Tango Vibrant Living Place|Bangkok|NO|stars_3
+218744|Thai Cozy House|Bangkok|NO|stars_2
+219138|The Heritage Srinakarin|Bangkok|YES|stars_3
+219342|The Oriental Siam Resort|Chiang Mai|NO|stars_4
+219431|The Room Chaweng|Chaweng Beach|NO|stars_2.5
+219893|Twin Inn|Phuket|NO|stars_3
+220720|Whispering Palms Resort Residence|Chaweng Beach|NO|stars_3
+226519|Pietra|Bangkok|YES|stars_3
+226695|S31 Sukhumvit|Bangkok|YES|stars_4
+226696|The Venue|Jomtien|NO|stars_2.5
+226702|Villa Maroc Resort|Pran Buri|YES|stars_4
+226703|Mimosa Resort & Spa|Maenam Beach|NO|stars_4
+226704|Traidhos Residence & Spa|Chiang Mai|YES|stars_3
+226714|Villaguna Residence & Spa|Insel Yao Noi|NO|stars_4
+226812|Wow Bangkok|Bangkok|YES|stars_3.5
+226885|Wishing Tree Khon Kaen Resort|Khon Kaen|YES|stars_4
+226887|Riverine Place Serviced Apartment|Nonthaburi|YES|stars_3
+227092|Convenient Grand Suvarnabhumi|Samut Prakan|YES|stars_3
+227093|Renaissance Bangkok Ratchaprasong|Bangkok|YES|stars_4
+227094|Renaissance Phuket Resort & Spa|Mai Khao Beach|YES|stars_5
+227095|Doi Kham Resort|Chiang Mai|YES|stars_3
+227336|Aurum The River Place|Bangkok|NO|stars_4
+227395|Kantary Beach Villas & Suites|Khao Lak|NO|stars_4
+227396|The Bliss|Phuket|NO|stars_3.5
+227398|Baan Yamu Residences|Cape Yamu|NO|stars_5
+227441|Radisson Suites Bangkok Sukhumvit|Bangkok|YES|stars_5
+227443|Kingston Suites|Bangkok|YES|stars_4
+227444|Siam Kempinski|Bangkok|YES|stars_5
+227445|Phachara Suites|Bangkok|YES|stars_4
+227447|Sibsan Resort & Spa Maetaeng|Chiang Mai|NO|stars_5
+227504|Honey Resort|Karon|YES|stars_3
+227505|Ping Nakara & Spa|Chiang Mai|YES|stars_5
+227506|De Lanna|Chiang Mai|YES|stars_4
+227507|Supanniga Home|Khon Kaen|YES|stars_3.5
+227509|Mandarin Golden Valley Resort|Khorat|YES|stars_3
+227510|APK Resort & Spa|Patong|YES|stars_3
+227841|The KEE Resort & Spa|Patong|NO|stars_4
+227851|Le Blanc Samed Resort|Ko Samed|NO|stars_3
+227857|Ibis Bangkok Riverside|Bangkok|NO|stars_3
+227858|Hilton Pattaya|Pattaya|NO|stars_5
+227859|Centara Grand Beach Resort Phuket|Karon|YES|stars_5
+228055|W Hotels Retreat Koh Samui|Maenam Beach|YES|stars_5
+228059|Haad Tien Beach Resort & Haad Tien Beach Club - Haad Tien Beach Resort|Koh Tao|NO|stars_4
+228068|Baan Grood Arcadia Resort & Spa|Baan Grood|NO|stars_3
+228069|U Inchantree Kanchanaburi|Kanchanaburi|NO|stars_4
+228094|Tarntawan Place|Bangkok|NO|stars_3
+228095|Summit Windmill Golf Residence|Samut Prakan|YES|stars_4
+228096|Doi Hom Fha Resort|Chiang Rai|YES|stars_3
+228097|Kireethara Boutique Resort|Chiang Mai|YES|stars_4
+228098|Empire Nimman|Chiang Mai|YES|stars_3
+228100|Baan Klang Wiang|Chiang Mai|YES|stars_3
+228101|Puka Boutique Resort|Chiang Mai|YES|stars_3
+228102|Fern Paradise|Chiang Mai|YES|stars_3
+228103|Rainforest Boutique Hotel|Chiang Mai|YES|stars_3
+228104|Rachawadee|Khon Kaen|NO|stars_3
+228134|Banyan Tree Samui|Koh Samui|NO|stars_5
+228141|Casa De La FLora|Khao Lak|NO|stars_5
+228210|Le Palm I & II|Pattaya|NO|stars_2.5
+228211|The Kris Residence Patong Beach|Patong|NO|stars_4
+228339|The St. Regis Bangkok|Bangkok|YES|stars_5
+228402|De River Boutique Resort|Chiang Rai|YES|stars_3
+228403|Serene at Chiang Rai|Chiang Rai|YES|stars_3
+228404|Gerard Habitat|Chiang Mai|YES|stars_3
+228405|The Cottage Suvarnabhumi|Bangkok|YES|stars_3
+228406|Sukhothai Treasure Resort & Spa|Sukhothai|YES|stars_4
+228408|President|Udon Thani|YES|stars_3
+228409|Bangtao Tropical Residence Resort & Spa|Bang Tao Bay|YES|stars_4
+228410|D Varee Mai Khao Beach|Mai Khao Beach|YES|stars_4
+228509|Aetas Bangkok|Bangkok|NO|stars_4
+228563|Four Points Bangkok|Bangkok|YES|stars_4
+228564|Chic + Chill @ Eravana|Jomtien|NO|stars_4
+228565|Kirikayan Boutique Resort|Chaweng Beach|NO|stars_4
+228566|Pilanta Resort & Spa|Ko Lanta|NO|stars_4
+228657|Wanakarn Beach Resort & Spa|Phang Nga|NO|stars_5
+228894|Le Murraya Boutique Serviced Residence & Resort|Koh Samui|NO|stars_3
+228939|Belle Villa Resort Khao Yai|Khorat|YES|stars_3
+228940|Napalai|Udon Thani|YES|stars_3
+228941|White Peach|Kata Beach|YES|stars_3
+228942|PaWaPi Resort, Muk|Trang|NO|stars_3
+228943|Ubon|Ubon Ratchathani|YES|stars_2.5
+229168|Idyllic Concept Resort|Insel Lipe|YES|stars_4
+229170|Amarin Resort|Chiang Rai|YES|stars_3
+229212|Milky Bay Resort|Ko Phangan|YES|stars_3
+229221|Absolute Beach Resort|Tritrang Bay|NO|stars_4
+229448|Mayalay Beach Resort|Ko Hai, Ko Ngai|NO|stars_3
+229553|Cape Nidhra Hotel|Hua Hin|NO|stars_5
+230459|Sourire@Rattanakosin Island|Bangkok|NO|stars_3
+230466|Fairyland Club Resort|Ko Phangan|NO|stars_3
+230522|Amari Residences Bangkok|Bangkok|NO|stars_4
+230532|Maitria Hotel Sukhumvit 18 - A Chatrium Collection|Bangkok|NO|stars_4
+230753|Column Bangkok|Bangkok|NO|stars_4
+230761|Franjipani Hua Hin's Long Stay Resort|Hua Hin|NO|stars_4
+230767|Luck Swan Resort & Spa Chiang Rai|Chiang Rai|NO|stars_3
+230769|Fuengfah Riverside Garden Resort Chiang Mai|Chiang Mai|NO|stars_3
+230773|The Rim Chiang Mai|Chiang Mai|NO|stars_4
+230777|B-Lay Tong Phuket - MGallery Collection|Kathu|NO|stars_4.5
+231687|Novotel Bangkok Fenix Silom|Bangkok|NO|stars_4
+231690|Summer Spring|Pattaya|NO|stars_3
+231923|Baan Suan Sook Resort|Chaweng Beach|NO|stars_3
+232242|Z Through|Chonburi|NO|stars_4
+232333|Centara Grand West Sands Resort & Villas Phuket|Mai Khao Beach|YES|stars_5
+232494|Best Beach Villa|Chonburi|NO|stars_3
+232497|Kantary Kabinburi|Prachinburi|NO|stars_4
+232499|Noren Resort|Klong Prao Beach|NO|stars_3
+232502|Pathumrat|Ubon Ratchathani|YES|stars_3
+232503|Golden Sea Pattaya|Chonburi|NO|stars_3
+232505|Aiya Residence|Bangkok|YES|stars_3
+232506|Diamond City|Bangkok|NO|stars_3
+232507|Evergreen Place Bangkok|Bangkok|NO|stars_3.5
+232508|White Palace|Bangkok|YES|stars_2
+232509|Hi Residence Bangkok|Bangkok|NO|stars_3
+232510|Old Bangkok Inn|Bangkok|NO|stars_3
+232511|Sawasdee @ Sukhumvit Soi 8|Bangkok|NO|stars_3
+232512|Siam Place Airport|Bangkok|NO|stars_3
+232513|Baan Singh Kham|Chiang Mai|YES|stars_3
+232516|Mayflower Grande|Chiang Mai|YES|stars_3
+232517|Parasol Inn|Chiang Mai|YES|stars_3
+232518|Sirilanna|Chiang Mai|YES|stars_4
+232519|Studio 99 Serviced Apartment|Chiang Mai|NO|stars_3
+232520|Viewdoi Art & Resort|Chiang Mai|YES|stars_2
+232521|Bura Lumpai Resort|Mae Hong Son|NO|stars_3
+232523|Montis Resort|Mae Hong Son|YES|stars_4
+232524|Courtyard by Mariott South Pattaya|Chonburi|YES|stars_4
+232525|Unico Sandara|Cha Am|NO|stars_4
+232527|Leelawadee Park Phitsanulok|Phitsanulok|NO|stars_2
+232533|Conrad Koh Samui|Koh Samui|NO|stars_5
+232611|Elements Krabi|Krabi|NO|stars_4
+232814|Plaza Bangkok|Bangkok|NO|stars_3
+232815|Sinsuvarn Airport Suite|Bangkok|YES|stars_3
+232816|Somerset Amar Garden|Bangkok|NO|stars_4
+232899|Chaya Resort|Krabi|NO|stars_3
+232900|Lanta All Seasons Beach Resort|Krabi|YES|stars_3
+232901|Manita Boutique|Pattaya|YES|stars_3
+232923|Ko Chang Grand Cabana|Klong Prao Beach|NO|stars_3
+232925|Naris Art|Pattaya|NO|stars_3
+232926|Pattaya Hiso Hotel|Pattaya|NO|stars_3
+232927|Baan Suay|Phuket|NO|stars_3
+232928|Honeymoon Island|Phuket|NO|stars_4
+232929|Orchid Kathu Heights|Kathu|YES|stars_3
+232962|Casa Del M Resort|Patong|NO|stars_4
+233316|Solo Sukhumvit 2|Bangkok|NO|stars_4
+233431|First Sea View Samui|Koh Samui|NO|stars_3
+233583|Khurana Inn|Bangkok|NO|stars_3
+233584|Lantana Resort|Bangkok|NO|stars_3
+233585|Somerset Sukhumvit Thonglor Bangkok|Bangkok|YES|stars_4
+233588|Amata Lanna|Chiang Mai|NO|stars_3
+233589|Monsane River Kwai Resort & Spa|Kanchanaburi|NO|stars_3
+233723|Salad Buri Resort & Spa|Ko Phangan|YES|stars_4
+233724|The Avenue Samui|Koh Samui|NO|stars_3
+233725|Koh Tao Simple Life Resort|Koh Tao|NO|stars_3
+233727|Aonang All Seasons Beach Resort|Krabi|NO|stars_3
+233729|Palm Paradise Resort|Krabi|NO|stars_3
+233730|Sunda Resort|Krabi|NO|stars_3
+233762|Feung Nakorn Balcony|Bangkok|NO|stars_3
+233763|Northgate Ratchayothin Serviced Residence|Bangkok|NO|stars_3.5
+233764|Kodchasri Thani|Chiang Mai|NO|stars_4
+233765|La Vie en Rose|Chiang Rai|NO|stars_3
+233766|Cinnamon Beach Villas|Koh Samui|NO|stars_4
+233767|Koh Tao Bamboo Huts|Koh Tao|NO|stars_3
+233768|Koh Jum Resort Krabi|Krabi|NO|stars_3
+233769|Chateau Dale Resort Spa & Villas|Pattaya|NO|stars_3
+233770|Niramaya Villa|Insel Yao Noi|NO|stars_4
+233771|Villa 360|Phi Phi Island / Ko Pee Pee|NO|stars_4
+233772|Impiana Private Villas Kata Noi|Kata Noi Beach|NO|stars_5
+233773|Phuket Sea Resort|Rawai|NO|stars_3
+233774|Mussee Patong|Phuket|NO|stars_3
+233775|Palmyra Patong Resort|Phuket|NO|stars_3
+233776|Sea Pearl Villas Resort|Phuket|NO|stars_4.5
+233777|The Panwa Guesthouse|Phuket|NO|stars_3
+233896|Pratunam Park|Bangkok|NO|stars_3
+234607|Little Duck|Chiang Rai|NO|stars_4
+234608|Villa Paradis|Khorat|NO|stars_3
+234621|Phi Phi Arboreal Resort|Krabi|NO|stars_3
+234625|Baan Panwa|Wichit|NO|stars_3
+234887|Lazy Days Resort|Lamai Beach|NO|stars_3
+235112|Sabai-Sabai @ Sukhumvit|Bangkok|YES|stars_3
+235114|Ramada Hotel & Suites|Bangkok|NO|stars_4
+235120|Luxx XL at Langsuan|Bangkok|NO|stars_3.5
+235124|The Cozi Inn Bangkok|Bangkok|NO|stars_3
+235125|Wanasom Wellness & Aesthetic Resort|Chiang Rai|NO|stars_3
+235128|Siam Triangle|Chiang Rai|NO|stars_3.5
+235129|Lilu Chiangmai|Chiang Mai|NO|stars_2.5
+235133|Villa La Moon Ko Samui|Koh Samui|NO|stars_3
+235136|Sala Khaoyai Resort|Khorat|NO|stars_5
+235138|Bella Express Hotel|Pattaya|NO|stars_3
+235139|Tsix5|Chonburi|NO|stars_3
+235140|A-One Pattaya Beach Resort|Pattaya|NO|stars_4
+235390|Castaway|Insel Lipe|NO|stars_3
+235459|Chilli Bangkok|Bangkok|NO|stars_2
+235462|Phumanee Home Hotel|Chiang Mai|NO|stars_3
+235464|Phi Phi The Beach Resort|Phi Phi Island / Ko Pee Pee|NO|stars_3
+235465|Isawanya Beach Resort|Jomtien|NO|stars_3
+235467|Novotel Bangkok Ploenchit Sukhumvit|Bangkok|NO|stars_4
+235470|True Siam|Bangkok|NO|stars_3
+235471|Kuiburi Hotel & Resort|Prachuap Khiri Khan|NO|stars_3
+235472|La Maison Hua Hin|Prachuap Khiri Khan|NO|stars_3
+235475|Baan Amphawa Resort & Spa|Samut Songkhram|NO|stars_4
+235479|Buritara Resort & Spa Kanchanaburi|Lum Sum|NO|stars_3
+235488|Smile House|Bophut Beach|NO|stars_2
+235489|Navarat Heritage|Kamphaeng Phet|NO|stars_2
+235492|Raja Buri|Tak|NO|stars_3
+235494|Viang Tak Riverside|Tak|NO|stars_3
+235495|Yoma|Mae Hong Son|NO|stars_3.5
+235497|Marble Garden View|Chonburi|NO|stars_3
+235498|Vogue Pattaya|Pattaya|NO|stars_3
+235500|Safari Beach|Patong|NO|stars_3
+235501|Surin Park|Thalang|NO|stars_4
+236083|Green|Pattaya|NO|stars_2
+236163|Loei Leela Wadee Resort|Loei|YES|stars_2
+236596|Holiday Inn Phuket Mai Khao Beach Resort|Mai Khao Beach|NO|stars_4
+236600|Centra Ashlee|Patong|NO|stars_3
+236607|Cham's House Resort|Insel Kut|NO|stars_4
+236609|Good Time Resort|Insel Mak|NO|stars_3
+236612|Mövenpick Resport Mae nam Beach (Opening 2016)|Maenam Beach|NO|stars_5
+236613|Chantaramas Resort|Ko Phangan|NO|stars_4
+236634|Aloft Bangkok Sukhumvit 11|Bangkok|YES|stars_4
+236668|Wyndham Resort Khao Lak|Khao Lak|NO|stars_5
+236745|Galleria 10 Hotel|Bangkok|NO|stars_4
+236763|Railay Great View Resort & Spa|Krabi|NO|stars_3
+236814|Pinnacle Koh Tao Resort|Koh Tao|NO|stars_3.5
+236850|M2 de Bangkok|Bangkok|NO|stars_3.5
+236851|Vic3 Bangkok|Bangkok|NO|stars_3
+236852|Nouvo City|Bangkok|NO|stars_4
+236853|A-2 House|Bangkok|NO|stars_3
+236854|Wannara|Hua Hin|NO|stars_4
+236855|Lisu Lodge|Chiang Mai|NO|stars_2
+236856|Kaw Kwang Beach Resort|Ko Lanta|NO|stars_3
+236857|Promtsuk Buri Resort|Koh Samui|NO|stars_3
+236858|Sensi Paradise|Koh Tao|NO|stars_3
+236859|Phi Phi Sand Sea View Resort|Phi Phi Island / Ko Pee Pee|NO|stars_3
+236860|Harvest House|Ao Nang Beach|NO|stars_2
+236861|Ao Nang Village Resort|Ao Nang Beach|NO|stars_2
+236862|Check Inn Resort Krabi|Klong Muang Beach|NO|stars_3
+236871|Sunset Plaza|Karon|NO|stars_4
+236872|The Club Residence Holiday Apartment|Kathu|NO|stars_3
+236873|Surin Gate|Surin Beach|NO|stars_3
+236996|Maikhao Dream Villa Resort & Spa Phuket|Thalang|NO|stars_5
+237106|Centara Hotel & Convention Centre Khon Kaen|Khon Kaen|NO|stars_4
+237578|Beyond Resort Khao Lak|Khao Lak|NO|stars_4
+237625|Mystic Place Bangkok|Bangkok|NO|stars_3
+237627|Suvarnabhumi Suite|Bangkok|NO|stars_4
+237635|Silom Avenue Inn|Bangkok|NO|stars_3
+237647|Jasmine Resort|Bangkok|NO|stars_4
+237658|BS Premier Airport Suvarnabhumi|Bangkok|NO|stars_3
+237660|Lohas Suites Sukhumvit by Superhotel|Bangkok|NO|stars_4
+237661|The Privacy Suites|Bangkok|NO|stars_3
+237663|Maikhao Dream Resort & Spa Natai Beach|Phang Nga|NO|stars_5
+237667|Koh Tao Beach Club|Koh Tao|NO|stars_2
+237670|Talkoo Beach Resort|Nakhon Si Thammarat|NO|stars_3.5
+237673|Rua Rasada & Convention Center|Trang|NO|stars_4
+237682|Pimnara Boutique|Patong|NO|stars_4
+237694|Baumancasa Karon Beach Resort|Karon|NO|stars_3
+237695|Karon Phunaka Resort & Spa|Muang|NO|stars_4
+237711|The Nap Patong|Kathu|NO|stars_4
+237715|Outdoor Inn & Restaurant|Karon|NO|stars_3
+237716|Chalong Chalet Resort & Longstay|Chalong Bay|NO|stars_4
+237717|The Green Golf Residence|Kathu|NO|stars_4
+237718|Karon Hill Residence|Karon|NO|stars_4
+237819|Crowne Plaza Bangkok Lumpini Park|Bangkok|YES|stars_5
+237967|The LIT Bangkok|Bangkok|NO|stars_4
+237968|Rocky Point Resort|Prachuap Khiri Khan|NO|stars_3
+237969|Akyra Chura Samui|Chaweng Beach|NO|stars_4
+237970|Beyond Resort Krabi|Klong Muang Beach|NO|stars_4
+238225|Best Western Plus At 20 Sukhumvit|Bangkok|NO|stars_4
+238238|The Serenity Hua Hin|Hua Hin|NO|stars_4
+238370|Kriss Residence|Bangkok|NO|stars_3
+238371|Golden Tulip Mandison Suites|Bangkok|YES|stars_4
+238372|Dheva Mantra Resort & Spa|Kanchanaburi|NO|stars_5
+238373|Chivapuri Beach Resort, Koh Chang|Trat|NO|stars_4
+238374|Lanta Pura Beach Resort|Krabi|NO|stars_3
+238375|Lantana Pattaya Hotel & Resort|Chonburi|NO|stars_3
+238379|Nova Gold|Chonburi|NO|stars_4
+238386|Aiyara Grand|Chonburi|NO|stars_3
+238411|Hansar Bangkok|Bangkok|NO|stars_5
+238475|Golden Sand Inn|Karon|NO|stars_2.5
+238480|Capri Surin|Surin Beach|NO|stars_3
+238482|Naiharn Garden Resort|Muang|NO|stars_3
+238484|Cloud 19 Beach Retreat|Muang|NO|stars_4
+238485|L'Esprit de Naiyang Resort|Thalang|NO|stars_4
+238486|The Sasitara Residence|Bophut Beach|NO|stars_3
+238487|Lime N Soda Beachfront Resort|Ko Phangan|NO|stars_3
+238488|Koh Tao Regal Resort|Koh Tao|NO|stars_3
+238512|Carpe Diem|Bophut Beach|NO|stars_3
+238737|Centara Nova Hotel & Spa Pattaya|Pattaya|NO|stars_4
+238906|Hiran Residence|Patong|NO|stars_2
+239134|Park Plaza Bangkok Soi 18|Bangkok|NO|stars_4
+239151|Rawai Palm Beach Resort|Rawai|NO|stars_4
+239193|Andaman Phuket|Patong|NO|stars_3
+239456|Issara Resort|Patong|NO|stars_3
+239460|Pearl Of Naithon|Nai Thorn|NO|stars_4
+239469|Patong Princess|Patong|NO|stars_2
+239484|Plern Anda|Patong|NO|stars_2
+239488|Thai Siam Residence|Patong|NO|stars_2
+239490|The Natural Resort|Patong|NO|stars_3
+239491|Bamboo Beach|Patong|NO|stars_3
+239501|The Lantern Marina|Phuket|NO|stars_4.5
+239507|Chalong Villa Resort & Spa|Chalong Bay|NO|stars_3
+239508|YK Patong Resort|Patong|NO|stars_3
+239509|Phuket Palace Resort|Patong|NO|stars_3
+239510|Phuket Center Apartment|Phuket|NO|stars_2.5
+239511|Platinum|Patong|NO|stars_3
+239512|The Brother's Residence|Patong|NO|stars_3
+239513|Nanai Grand Villas|Patong|NO|stars_2
+239873|Haad Yao Bayview Resort|Ko Phangan|NO|stars_3
+239951|Sofitel So Bangkok|Bangkok|NO|stars_5
+239993|Zara Beach Resort|Lamai Beach|NO|stars_3.5
+239994|Villa Nalinnadda|Koh Samui|NO|stars_3
+239995|Koh Samui Resort|Maenam Beach|NO|stars_3
+240055|Thanya Resort|Ko Hai, Ko Ngai|NO|stars_3
+240095|Sakul House|Bangkok|NO|stars_3
+240096|Viewtalay Marina|Chonburi|NO|stars_4
+240103|Diamond Place|Krabi|NO|stars_2
+240104|Lakeside Chalet by Mida|Kanchanaburi|NO|stars_3
+240152|Bangkok Residence|Phuket|NO|stars_2
+240177|Two Villas Holiday Oriental Style Layan Beach|Layan Beach|YES|stars_4
+240178|Two Villas Holiday Oxygen Style Bangtao Beach|Bang Tao Bay|YES|stars_4
+240646|S'Mor Spa Village|Hua Hin|NO|stars_3
+240647|Ibis Styles Chiang Mai|Chiang Mai|NO|stars_3
+240648|Lopburi Inn|Lopburi|NO|stars_2
+240649|Royal Thai Pavilion|Jomtien|NO|stars_3
+240650|Wind Mill Resort|Pattaya|NO|stars_3
+240651|Chic Boutique|Phuket|NO|stars_3
+240652|Chalong Beach Hotel & Spa|Chalong Bay|NO|stars_3.5
+240653|Grand Sunset|Phuket|NO|stars_3
+241204|Praya Palazzo|Bangkok|NO|stars_4
+241219|Namkhong Riverside|Chiang Khong|NO|stars_3
+241224|Vieng Mantra|Chiang Mai|NO|stars_3
+241229|Mandawee Resort & Spa|Krabi|NO|stars_3.5
+241237|Thong Tarin|Surin|YES|stars_2.5
+241238|Ruean Phae Royal Park|Phitsanulok|NO|stars_3.5
+241351|Two Villas Holiday Oxygen Style|Nai Harn Beach|YES|stars_4
+241777|Karon Sovereign All Suites Resort|Karon|NO|stars_4
+241778|Smile Hua Hin Resort|Prachuap Khiri Khan|NO|stars_3
+241779|Anchana Resort & Spa|Pran Buri|NO|stars_3
+241784|Chomsin Hua Hin|Hua Hin|NO|stars_3
+241785|De Chai The Colonial|Chiang Mai|NO|stars_4
+241786|Phatawan Resort|Phang Nga|NO|stars_3
+241787|Indochina Sakaeo|Aranyaprathet|NO|stars_3
+241788|At Mind Serviced Residence|Pattaya|NO|stars_4
+241831|Sivatel Bangkok|Bangkok|NO|stars_5
+241924|Rembrandt Towers Serviced Apartments|Bangkok|NO|stars_4
+242328|Egypt|Bangkok|NO|stars_3
+242329|Sapphirtel Inn|Bangkok|NO|stars_2
+242330|Aiyara Palace|Chonburi|NO|stars_3
+242331|Aiyaree Place|Chonburi|NO|stars_3
+242332|Fifth Jomtien The Residence|Chonburi|NO|stars_3
+242333|Royal Beach View|Chonburi|NO|stars_3
+242334|The Sea-Cret Hua Hin|Hua Hin|NO|stars_4
+242335|P. Guest House|Kanchanaburi|NO|stars_3
+242336|Baan Laanta Resort & Spa|Ko Lanta|NO|stars_3
+242337|Lanta Nice Beach Resort|Ko Lanta|NO|stars_2
+242338|The Houben|Ko Lanta|NO|stars_4
+242340|Buritara Resort & Spa|Ko Phangan|NO|stars_2.5
+242341|Green Papaya Resort|Ko Phangan|NO|stars_3
+242342|Power Beach Resort|Ko Phangan|NO|stars_3
+242343|Sarikantang Resort & Spa|Ko Phangan|NO|stars_3
+242344|Tharathip Resort|Ko Phangan|NO|stars_3
+242345|Maryoo|Koh Samui|NO|stars_3
+242346|Coco' Nori @ Sea|Krabi|NO|stars_2
+242347|La Venice on the Beach|Ao Nang Beach|NO|stars_3
+242348|Aonang Naga Pura Resort & Spa|Ao Nang Beach|NO|stars_4
+242349|Phu Pha Aonang Resort & Spa|Krabi|NO|stars_3
+242350|Ao Nang Premier Resort|Krabi|NO|stars_3
+242351|LK Renaissance|Pattaya|NO|stars_4
+242352|Pong Pan House|Phi Phi Island / Ko Pee Pee|NO|stars_2
+242353|Arimana|Patong|NO|stars_3
+242354|Baan Rajdamnern Resort|Prachuap Khiri Khan|NO|stars_3
+242356|Sand Inn|Prachuap Khiri Khan|NO|stars_3
+242357|Samed Cabana|Rayong|NO|stars_3
+242358|Wind Beach Resort|Koh Tao|NO|stars_3
+242461|Tower Club at Lebua|Bangkok|YES|stars_5
+242892|Sentido Graceland Khao Lak Resort & Spa|Khao Lak|NO|stars_5
+243640|Buddy Boutique Inn|Bangkok|NO|stars_3
+243642|Buddy Oriental Riverside Pakkret|Nonthaburi|NO|stars_4
+243643|Page 10|Pattaya|NO|stars_4
+243645|Lanta Manda|Ko Lanta|NO|stars_3
+243648|Bill Resort|Lamai Beach|NO|stars_3
+243695|Kinnaree Resort|Koh Samui|NO|stars_2
+243696|Ao Nang Grand Inn Hostel|Krabi|NO|stars_2
+243708|Palm Beach Resort & Hotel|Pran Buri|NO|stars_3
+243709|Heaven Beach|Hat Chao Samran|NO|stars_3
+243711|Rattana Hill|Patong|NO|stars_2
+243712|Rattana Residence|Phuket|NO|stars_3
+243713|Rattana Mansion|Phuket|NO|stars_2.5
+243843|BV Resortel Phuket|Patong|NO|stars_3
+243846|Loveli Boutique Guesthouse|Patong|NO|stars_2
+243850|Amber Residence|Patong|NO|stars_3
+243851|Chang Residence|Patong|NO|stars_2
+243853|Pacific Light|Patong|NO|stars_2.5
+243854|Siralanna Phuket|Patong|NO|stars_3
+243861|Tiger Inn|Patong|NO|stars_3
+243864|The RCB Patong|Patong|NO|stars_3
+243868|Kata Blue Sea Resort|Kata Beach|NO|stars_3
+243871|Karon Hillside|Karon|NO|stars_3
+243872|Kata Hi View Resort|Kata Beach|NO|stars_2
+243873|Lae Lay Suites|Karon|NO|stars_3
+244029|Akaryn Samui|Choeng Mon Beach|NO|stars_5
+244324|The Treasure Koh Madsum|Insel Madsum|NO|stars_4
+244332|The Naka Island|Insel Naka Yai|YES|stars_5
+244333|Muse Bangkok Langsuan - MGallery Collection|Bangkok|NO|stars_5
+244334|Novotel Bangkok Impact|Nonthaburi|NO|stars_4
+244336|Marriott's Mai Khao Beach - Phuket|Phuket|NO|stars_4
+244337|Marriott's Phuket Beach Club|Phuket|NO|stars_4
+244338|J Pattaya|Pattaya|NO|stars_3
+245412|Boutique Rafts Resort|Tha Sao|NO|stars_3
+245519|Ibis Hua Hin|Hua Hin|NO|stars_3
+245784|Cher Resort|Cha Am|NO|stars_4
+246191|TinkerBell Resort|Insel Kut|NO|stars_3.5
+246194|Phu Pi Maan Resort & Spa|Ao Nang Beach|NO|stars_4
+246532|Glory Place|Hua Hin|NO|stars_3
+246544|Sarasinee All Suites Apartment & Hotel|Bangkok|NO|stars_3
+246549|Prince House|Bangkok|NO|stars_3
+246550|Check Inn Phromphong|Bangkok|NO|stars_3
+246554|Nakakiri Resort & Spa|Kanchanaburi|NO|stars_3
+246558|Da Kanda Villa Beach Resort|Ko Phangan|NO|stars_3
+246561|Dreamland Resort|Ko Phangan|NO|stars_2
+246568|Montalay Beach Resort|Koh Tao|NO|stars_3
+246571|Viva Vacation Resort|Lipa Noi|NO|stars_3
+246576|LK Pavilion|Chonburi|NO|stars_2
+246582|Manathai Villas Pattaya - Grace / Sylvia|Pattaya|NO|stars_5
+246585|Princess Seaview Resort & Spa|Karon|NO|stars_4
+246597|Ansino Bukit|Patong|NO|stars_3
+246598|Arita|Patong|NO|stars_3
+246602|Citrus Heights|Patong|NO|stars_4
+246605|Citin Plaza Patong|Patong|YES|stars_3
+246606|MVC Patong House|Patong|NO|stars_3
+246609|NNC Patong Inn|Patong|NO|stars_2
+246618|PL House|Patong|NO|stars_2
+246619|See Sea Phuket|Patong|NO|stars_4
+246620|Sino House Patong|Kathu|NO|stars_2
+246622|Urban Patong|Patong|NO|stars_3
+246626|Yuwadee Resort|Chalong Bay|NO|stars_3
+246629|Taro Hotel|Kamala Beach|NO|stars_3
+246633|Holiday Inn Express Bangkok Siam|Bangkok|NO|stars_4
+246652|Thai Classic House 2|Patong|NO|stars_3
+246654|The Album Loft @ Phuket|Patong|NO|stars_3
+246655|The Delight Pine Tree Village|Kathu|NO|stars_3
+246656|The Hacienda|Patong|NO|stars_2
+247063|Eastin Grand Hotel Sathorn|Bangkok|NO|stars_4.5
+247064|Buritara Resort & Spa Bangkok|Bangkok|NO|stars_3
+247065|Escudo Music|Koh Samui|NO|stars_3
+247066|Gafiyah Guesthouse|Krabi|NO|stars_1
+247067|Centara Anda Dhevi Resort & Spa Krabi|Krabi|NO|stars_4
+247068|Aloha Residence|Karon|NO|stars_3
+247069|Anan House|Karon|NO|stars_2
+247070|Patong Mountain Bed & Breakfast|Patong|NO|stars_2
+247095|Cello Phuket|Patong|NO|stars_3
+247103|Kanchana Garden Place|Patong|NO|stars_3
+247104|Karon Cliff|Karon|NO|stars_3
+247105|My Living Room|Patong|NO|stars_3
+247113|Paradise Resortel|Patong|NO|stars_2
+247114|Paradise Beach Resortel|Patong|NO|stars_3
+247116|Phuket Sira Boutique Residence|Patong|NO|stars_3
+247119|Rayaburi Resort|Ko Raya Yai|NO|stars_3
+247120|We Hotel @ Sansabai|Patong|NO|stars_3
+247382|Tony Lodge & Motive Cottage Resort - Tony Ldge|Khao Lak|NO|stars_2
+247383|Tony Lodge & Motive Cottage Resort - Motive Cottage Resort|Khao Lak|NO|stars_3
+247800|D Varee Diva Hiptique|Bangkok|NO|stars_3
+247853|Mode Sathorn by Siam|Bangkok|NO|stars_4
+247857|Keeree Waree Seaside Villa & Spa|Ban Krud|NO|stars_3
+247858|Nicha Hua Hin|Hua Hin|NO|stars_3
+247859|Luxor Bangkok|Nonthaburi|NO|stars_4
+247860|Kameo House Rayong|Rayong|NO|stars_4
+247861|Coconut Paradise|Rawai|NO|stars_4
+247862|I Dee|Patong|NO|stars_3
+247863|Suchaya Bungalow|Phuket|NO|stars_3
+247864|Phuket Karon Corner Inn|Karon|NO|stars_2
+247865|Happy Elephant Resort|Rawai|NO|stars_3
+247866|Pure Mansion|Phuket|NO|stars_2.5
+247867|Sun Shine Resort|Patong|NO|stars_3
+247868|Sun Beach House|Patong|NO|stars_2
+247869|Paitan Villas Resort|Bang Tao Bay|NO|stars_3
+248483|Centara Pattaya Hotel|Pattaya|NO|stars_4
+248496|Amari Hua Hin|Hua Hin|NO|stars_4
+249552|Dream Town Pratunam|Bangkok|NO|stars_2
+249554|In Residence Bangkok Sukhumvit|Bangkok|NO|stars_4
+249555|Lily Residence|Bangkok|NO|stars_3
+249556|Palms @ Sukhumvit|Bangkok|NO|stars_3
+249557|Vismaya Suvarnabhumi Airport|Samut Prakan|NO|stars_4
+249558|Hin Nam Sai Suay1|Hua Hin|NO|stars_3
+249559|M Chiangmai|Chiang Mai|NO|stars_3
+249563|Sai Ngam Beach Resort|Chumphon|NO|stars_3
+249564|The FloatHouse River Kwai Resort|Kanchanaburi|NO|stars_4
+249567|Joe Palace Beach Living|Jomtien|NO|stars_2
+249568|AP Residence|Patong|NO|stars_2
+249569|Baanoui Phuket|Rawai|NO|stars_3
+249570|Boondaree Home Resort|Karon|NO|stars_2
+249571|C.A.P Mansion|Wichit|NO|stars_3
+249572|Capri Residence|Patong|NO|stars_2
+249573|Chotika Bungalow Phuket|Phuket|NO|stars_3
+249574|Dacha Resort|Rawai|NO|stars_3
+249575|Triple Rund Place|Patong|NO|stars_3
+249577|Gold Shop Phuket|Karon|NO|stars_2
+249578|Good Friend Guest House|Patong|NO|stars_1
+249579|Panpen Bungalow Phuket|Nai Yang Beach|NO|stars_3
+249580|Hemingway's|Patong|NO|stars_3
+249581|Phuket Muay Thai House|Chalong Bay|NO|stars_3
+249582|Relax Garden Bungalow|Karon|NO|stars_3
+249583|Renoir Boutique|Patong|NO|stars_3
+249585|Sabai Inn Patong|Patong|NO|stars_3
+249590|Sea Sun Sand Resort & Spa|Patong|NO|stars_4
+249591|Smile House & Pool|Rawai|NO|stars_3
+249593|Tatum Mansion|Patong|NO|stars_2
+249594|TonNamVilla Resort|Chalong Bay|NO|stars_3
+249950|Novotel Bangkok Platinum|Bangkok|NO|stars_4
+249951|Princess Suvarnabhumi Airport Residence|Bangkok|NO|stars_3
+249952|137 Pillars House|Chiang Mai|NO|stars_5
+249954|Baan Tai Cluster|Koh Samui|NO|stars_3
+250145|Rayong Marriott Resort & Spa|Rayong|NO|stars_4.5
+259897|At Home two|Patong|NO|stars_2
+259898|Suite Dreams|Patong|NO|stars_2
+259899|Hallo Patong|Patong|NO|stars_3
+259900|7Q Hotel|Patong|NO|stars_3
+259901|Tea Tree Resort|Rawai|NO|stars_3
+259902|NJ Suite|Patong|NO|stars_3
+259903|Neeraja Guesthouse|Patong|NO|stars_3
+259904|Novotel Phuket Vintage Park|Patong|NO|stars_4
+259905|Lemongrass|Kathu|NO|stars_3
+259911|Ziniza|Bangkok|NO|stars_3
+259915|Oakwood Residence Sukhumvit Thonglor|Bangkok|YES|stars_4
+259917|Check Inn China Town By Sarida|Bangkok|NO|stars_3
+259920|Bless Residence|Bangkok|NO|stars_4
+259924|Asoke Residence Sukhumvit|Bangkok|NO|stars_4
+259926|H-Residence Sathorn|Bangkok|NO|stars_3
+259927|BS Court - Boutique Residence|Bangkok|NO|stars_3
+259928|Best Western Premier Sukhumvit|Bangkok|NO|stars_5
+259929|Ds67 Suites|Bangkok|NO|stars_3
+259930|Grass Suites|Bangkok|NO|stars_4
+259931|Romance Hotel|Bangkok|NO|stars_2.5
+259932|Glitz Bangkok|Bangkok|NO|stars_3
+259934|Mida de Sea|Cha Am|NO|stars_4
+259935|Vana Varin Resort Hua Hin|Hua Hin|NO|stars_3.5
+259936|i Tara Resort & Spa|Phetchaburi|NO|stars_3
+259937|Cera Resort Chaam|Cha Am|NO|stars_4
+259941|Chiangmai Inthanon Golf & Natural Resort|Chiang Mai|NO|stars_4
+259942|Chiang Dao Hill Resort|Chiang Mai|YES|stars_2.5
+259943|Sheik Istana|Chiang Mai|NO|stars_4
+259944|Tropical Palm Resort & Spa|Koh Samui|NO|stars_3
+259945|Chaweng Tara|Koh Samui|NO|stars_2
+259946|Krabi Apartment Hotel|Krabi|NO|stars_2
+259947|Baan Santhiya|Krabi|NO|stars_4
+259948|Ayara Grand Palace|Phitsanulok|NO|stars_3
+259949|Bamboo Mountain View Phi Phi Resort|Phi Phi Island / Ko Pee Pee|NO|stars_3
+259952|PhanomrungPuri|Nangrong|NO|stars_4
+259953|Mountain Creek Golf Resort|Lat Bua Khao|NO|stars_5
+259954|Bonanza Resort|Khorat|NO|stars_3
+259955|The Chase & Foxlea Villas|Banglamung|NO|stars_4
+259957|Baan Khun Nine Tranquil Resort|Banglamung|NO|stars_3
+259958|Mabprachan Lake Villa|Banglamung|NO|stars_4
+259959|Ruen Thai Rim Haad|Rayong|NO|stars_3
+259960|Lima Bella Resort|Sai Kaew|NO|stars_3
+259961|Lima Coco Resort|Ao Prao Bay|NO|stars_3
+259962|Naiharn On The Rock Resort|Nai Harn Beach|NO|stars_3
+259992|A-One Boutique|Bangkok|NO|stars_4
+260093|Mandarava Resort & Spa|Karon|NO|stars_4
+260108|Sensimar Khaolak Beachfront Resort|Khao Lak|YES|stars_4
+260242|Baan K Residence by Bliston|Bangkok|NO|stars_3
+260243|Viva Garden by Bliston|Bangkok|NO|stars_4
+260249|Eastiny Resort & Spa|Pattaya|NO|stars_3
+260308|Pullman Phuket Arcadia Naithon Beach|Nai Thorn|NO|stars_5
+260319|Tonaor Place|Bangkok|NO|stars_2
+260320|Best Comfort|Bangkok|NO|stars_3
+260321|Grande Centre Point Residence Terminal 21|Bangkok|NO|stars_5
+260322|Park Residence @ Bangkok|Bangkok|NO|stars_3
+260323|The Mix Bangkok|Bangkok|NO|stars_3
+260324|23 Mansion (Two Three Mansion)|Bangkok|NO|stars_3
+260325|Sivalai Place|Bangkok|NO|stars_3
+260326|Tawa Ravadee Resort|Prachinburi|NO|stars_4
+260327|Aava Resort & Spa|Khanom|NO|stars_5
+260329|The Cliff & River Jungle|Khao Sok|NO|stars_3
+260330|Khaoyai Nature Life & Tours|Khorat|NO|stars_3
+260331|Sak Phu Duen|Khao-Yai-Nationalpark|NO|stars_3
+260415|Palita Lodge|Ko Phangan|NO|stars_3
+260418|Samed Pavilion Resort|Ko Samed|NO|stars_4
+260421|Tango Luxe Beach Villa Samui|Bophut Beach|NO|stars_4
+260422|Ammatara Pura Pool Villa|Lamai Beach|NO|stars_5
+260423|Kirati Resort & Restaurant|Choeng Mon Beach|NO|stars_3
+260424|Phranang Place|Ao Nang Beach|NO|stars_3
+260427|Aonang President|Ao Nang Beach|NO|stars_2
+260428|Aonang Easy Room|Ao Nang Beach|NO|stars_1
+260429|Thip Residence Boutique|Ao Nang Beach|NO|stars_3
+260430|The L Resort Krabi|Ao Nang Beach|YES|stars_4
+260431|Sabai Wing Pattaya|Pattaya|NO|stars_3
+260432|Sabai Empress Pattaya|Pattaya|NO|stars_3
+260433|Sabai Lodge|Pattaya|YES|stars_3
+260435|Leelawadee Lagoon Resort|Pattaya|NO|stars_3
+260437|Jomtien Plaza Residence|Pattaya|NO|stars_3
+260438|Neo Pattaya|Pattaya|NO|stars_3
+260439|The Now Jomtien Beach Pattaya|Jomtien|NO|stars_3
+260440|Emerald Palace Executive Residences|Chonburi|NO|stars_3
+260441|Splendid Resort|Banglamung|NO|stars_3
+260442|Grand Jasmine Resorts|Banglamung|NO|stars_3
+260443|The Magnolias Pattaya|Banglamung|NO|stars_3
+260444|Way|Banglamung|NO|stars_4
+260455|Phuket Panwa Beach Resort|Phuket|NO|stars_5
+260457|U Sunsuri Phuket|Rawai|NO|stars_5
+260458|Mai Khaolak Beach Resort & Spa|Khao Lak|NO|stars_5
+260459|The Sands Khao Lak|Khao Lak|NO|stars_4.5
+260511|Samui Code Hotel|Maenam Beach|NO|stars_4
+260522|Royal Cliff - Beach Terrace|Pattaya|NO|stars_5
+260523|Royal Cliff - Beach Hotel|Pattaya|NO|stars_5
+260525|Royal Cliff - Grand Hotel|Pattaya|NO|stars_5
+260526|Royal Cliff - Wing Suites & Spa|Pattaya|NO|stars_5
+260532|Bari Lamai Resort|Rayong|NO|stars_4
+260534|Santhiya Koh Yao Yai Resort & Spa|Insel Yao Yai|NO|stars_5
+260659|Samui Verticolor|Chaweng Beach|NO|stars_3
+260769|Tamarind Springs|Thong Ta Kian Beach|NO|0
+260783|Conrad Bangkok Residences|Bangkok|NO|stars_5
+260904|Marrakesh Hua Hin Resort & Spa|Hua Hin|NO|stars_5
+260905|Cape Dara Resort|Pattaya|NO|stars_5
+260906|Buri Rasa Village Ko Phangan|Thong Nai Pan Beach|NO|stars_4
+261062|Muthi Maya|Khorat|NO|stars_4.5
+261080|Centara Watergate Pavillion|Bangkok|YES|stars_4
+261114|Anantara Bangkok Sathorn|Bangkok|YES|stars_5
+261115|The Siam|Bangkok|NO|stars_5
+261138|Grand FourWings Convention|Bangkok|NO|stars_5
+261139|Unico Premier MetroLink Hotel|Bangkok|NO|stars_3
+261140|Ratchada Resort & Spa|Bangkok|NO|stars_3
+261141|Sirin Hua Hin|Hua Hin|NO|stars_3
+261142|Chalay Monta|Hua Hin|NO|stars_4
+261143|Devasom Huahin Resort|Hua Hin|NO|stars_4
+261144|Peter Pan Resort Koh Kood|Insel Kut|NO|stars_3
+261145|Lopburi Inn Resort|Lopburi|NO|stars_3
+261146|Kalima Resort & Spa|Patong|NO|stars_5
+261147|The Park Samui|Bophut Beach|NO|stars_4
+261148|Noppharat Resort|Ao Nang Beach|NO|stars_3
+261149|Tune Hotel Pattaya|Chonburi|NO|stars_3
+261150|Tune Hat Yai|Hat Yai|NO|stars_3
+261151|Hatyai Golden Crown|Hat Yai|NO|stars_3
+261152|V.L. Hat Yai|Hat Yai|NO|stars_3
+261153|Bay Walk Residence Pattaya|Chonburi|NO|stars_3
+261154|Lanta Riviera Resort|Ko Lanta|NO|stars_2.5
+261217|Mövenpick Resort Karon Beach & Villen Karon Beach - Villen Karon Beach|Karon|NO|stars_5
+261253|Bungalows at Bophut|Bophut Beach|NO|stars_2
+261265|Mercure Samui Chaweng Tana|Koh Samui|NO|stars_4
+261266|Amber Boutique Silom|Bangkok|NO|stars_3
+261267|Oberry Resort|Bangkok|NO|stars_3.5
+261268|Lanna Kala Boutique Resort|Bangkok|NO|stars_3
+261269|iCheck Inn Sukhumvit Soi 11|Bangkok|NO|stars_3
+261270|QUAD Suites Silom|Bangkok|NO|stars_3
+261271|Centra Central Station Bangkok|Bangkok|NO|stars_3.5
+261272|Skyy|Bangkok|NO|stars_4
+261274|Marvin Suites|Bangkok|NO|stars_3.5
+261275|Best Western Plus Grand Howard|Bangkok|NO|stars_4
+261276|Blue Sapphire Golf & Resort|Kanchanaburi|NO|stars_3
+261278|Samanea Resort|Khao-Yai-Nationalpark|NO|stars_3
+261282|The Piano Resort|Khao-Yai-Nationalpark|NO|stars_3
+261285|Tiger Complex & Hotel|Patong|NO|stars_3
+261286|Tinidee Hotel@Phuket|Patong|NO|stars_3
+261287|@Home Boutique Hotel|Patong|NO|stars_3
+261288|Ndol Streamside Thai Villas|Khao-Yai-Nationalpark|NO|stars_4
+261339|Chiangkhong Teak Garden|Chiang Khong|NO|stars_3
+261340|Singha Montra Lanna Boutique Style|Chiang Mai|NO|stars_4
+261341|Nimman Mai|Chiang Mai|NO|stars_4
+261342|Samroiyod Holiday Resort|Prachuap Khiri Khan|NO|stars_3
+261343|Vartika Resovilla KuiBuri|Prachuap Khiri Khan|NO|stars_4
+261344|Srisuksant Resort|Krabi|NO|stars_4
+261345|Baan Sabaidee|Krabi|NO|stars_1.5
+261346|Greenview Village Resort|Krabi|NO|stars_3
+261347|Railay Phutawan Resort|Krabi|NO|stars_3
+261348|Krisda Villa|Krabi|NO|stars_2
+261349|Thai Villa Resort|Krabi|NO|stars_3
+261350|Baan Andaman B&B|Krabi|NO|stars_3
+261351|Dee Andaman Krabi|Krabi|NO|stars_4
+261352|EuroStar Jomtien Beach Hotel & Spa|Jomtien|NO|stars_3
+261353|LK The Empress|Pattaya|NO|stars_4
+261354|Chat Kaew Hill & Residence|Banglamung|NO|stars_3
+261355|The Beach Garden Resort|Pattaya|NO|stars_3
+261356|Memo Suite Pattaya|Pattaya|NO|stars_3
+261416|Deevana Plaza Krabi - Aonang|Ao Nang Beach|NO|stars_4
+261444|Islanda Resort Ko Mak|Ko Mak|NO|stars_3
+261553|Hutcha Resort Samui|Maenam Beach|NO|stars_3
+261782|Baan Klang Doi|Chiang Mai|NO|stars_3
+261784|Buarawong Residence|Chiang Mai|NO|stars_2
+261785|Chang Puak|Chiang Mai|YES|stars_2
+261787|Chateau Chiangmai|Chiang Mai|NO|stars_2
+261791|The Granary Resort|Chiang Mai|NO|stars_4
+261799|Nakornping Palace|Chiang Mai|NO|stars_3
+261804|Vista|Chiang Mai|NO|stars_3
+261808|Winner Inn|Chiang Mai|NO|stars_3
+261810|The City Hotel Sriracha|Chonburi|NO|stars_3
+261823|Lek Villa|Pattaya|NO|stars_3
+261921|Am Samui Resort|Taling Ngam Beach|NO|stars_3
+261924|Bhumlapa Garden Resort|Bophut Beach|NO|stars_3
+261932|Grand Thai House Resort|Lamai Beach|NO|stars_3
+261937|Mayaburi Boutique Resort|Bophut Beach|NO|stars_3
+261939|Natural Samui|Bophut Beach|NO|stars_2
+261941|Nikki Beach|Lipa Noi|NO|stars_5
+261953|Panalee Resort|Ban Tai Beach|NO|stars_3
+261954|Phangka Paradise Resort|Taling Ngam Beach|NO|stars_3
+261959|Samui Boat Lagoon|Bophut Beach|NO|stars_4
+262601|Warroom Boutique|Bangkok|NO|stars_3
+262602|Aetas Lumpini|Bangkok|YES|stars_5
+262605|Aetas Residence|Bangkok|YES|stars_5
+262610|Amora NeoLuxe Bangkok|Bangkok|NO|stars_4
+262613|Arun Residence|Bangkok|NO|stars_3
+262616|B.U. Place|Bangkok|NO|stars_3
+262618|Baan Silom Soi 3|Bangkok|NO|stars_2.5
+262622|Bangkok Inter Place|Bangkok|NO|stars_3
+262626|Budacco|Bangkok|NO|stars_3
+262633|Citrus Sukhumvit 13|Bangkok|YES|stars_4
+262634|CityPoint|Bangkok|NO|stars_3
+262636|CNR House Hotel|Bangkok|NO|stars_3
+262653|Himalaya Residence|Bangkok|NO|stars_2.5
+262662|Just Beds|Bangkok|NO|stars_2
+262667|Legacy Express Bangkok|Bangkok|NO|stars_3
+262669|Lido Millennium Silom|Bangkok|NO|stars_3
+262675|Maxim S Inn|Bangkok|NO|stars_3
+262677|MeStyle Place|Bangkok|NO|stars_3
+262678|The Mini R|Bangkok|NO|stars_3
+262687|New Trocadero|Bangkok|NO|stars_3
+262688|New Road Guest House|Bangkok|NO|stars_2.5
+262693|Orchid Resort|Bangkok|NO|stars_3
+262694|Padi Madi Guesthouse|Bangkok|NO|stars_3
+262700|Platinum Suite|Bangkok|NO|stars_3
+262708|Ratchada City|Bangkok|NO|stars_3
+262714|Rio Residence|Bangkok|NO|stars_3
+262718|Ruamchit Plaza|Bangkok|NO|stars_3
+262719|S33 Compact Sukhumvit Hotel|Bangkok|NO|stars_3
+262720|Saphaipae Hostal|Bangkok|NO|stars_2
+262722|Sarasinee Mansion|Bangkok|NO|stars_2.5
+262726|Shama Sukhumvit|Bangkok|NO|stars_4.5
+262736|Star Inn Hotel|Bangkok|NO|stars_2
+262739|Sun City Hotel Bangkok|Bangkok|NO|stars_3
+262742|Tara Garden Bangkok|Bangkok|NO|stars_3
+262743|Tara Lake Bangkok|Bangkok|NO|stars_3
+262757|Wendy House|Bangkok|NO|stars_3
+262761|Ride n Lazy @ Thai Wake Park|Bangkok|NO|stars_3
+262762|Baan Bophut Beach|Koh Samui|NO|stars_3
+262765|Villa La Kosta|Maenam Beach|NO|stars_3
+262767|Lamai Bay View Resort|Maenam Beach|NO|stars_3
+262768|Rich Resort Beachside Hotel|Maenam Beach|NO|stars_1
+262770|Serene Hill Resort & Spa|Maenam Beach|NO|stars_3
+262774|Chaweng Budget|Chaweng Beach|NO|stars_3
+262778|Samthong Resort|Koh Samui|NO|stars_3
+262780|The Sundays Sanctuary Resort & Spa Samui|Maenam Beach|NO|stars_3
+262782|Phalarn Inn Resort|Maenam Beach|NO|stars_2.5
+262783|Baan Saen Sook Villas|Maenam Beach|NO|stars_2.5
+262784|Evergreen Resort Samui|Chaweng Beach|NO|stars_3
+262785|Florist Resort|Maenam Beach|NO|stars_3.5
+262788|Orchid Residence|Maenam Beach|NO|stars_2
+262791|Prana Resorts and Spa Samui|Maenam Beach|NO|stars_4
+262793|Samui Tonggad Resort|Maenam Beach|NO|stars_3
+262794|Sea Valley And Spa Samui|Koh Samui|NO|stars_4
+262799|Villa Tanamera|Maenam Beach|NO|stars_3
+262800|Bay Breeze Pattaya|Pattaya|NO|stars_3
+262803|Room Club Hotel|Pattaya|NO|stars_3
+262804|Dynasty Inn Pattaya|Pattaya|NO|stars_3
+262807|Panchalae Boutique Residences|Pattaya|NO|stars_4
+262813|Ambiance Pattaya|Pattaya|NO|stars_3
+262852|Opal House|Pattaya|NO|stars_2
+262861|Riviera Resort pattaya|Pattaya|NO|stars_3
+262864|Seaside Jomtien Beach|Pattaya|NO|stars_3
+262865|Serene Sand Health Resort|Pattaya|NO|stars_3
+262877|Villa Thongbura Serviced Apartment|Pattaya|NO|stars_3
+262884|Koh Yao Chukit Dachanan Resort|Insel Yao Noi|NO|stars_3
+262894|Patong Voyage Place|Patong|NO|stars_2
+262896|Aquarius|Patong|NO|stars_3
+262906|Aloha Villa|Phuket|NO|stars_3
+262907|Andaman Thai Boutique Resort|Phuket|NO|stars_3
+262915|Baan Chayna Lounge Resort|Phuket|NO|stars_3
+262924|The Belle Resort|Patong|NO|stars_3
+262935|Capannina Inn|Phuket|NO|stars_3
+262945|Club One Seven Bed and Breakfast|Phuket|NO|stars_3
+262952|Dara|Phuket|NO|stars_3
+262958|Friendship Beach Resort|Phuket|NO|stars_3
+262962|Green Harbor Patong and Service Apartment|Phuket|NO|stars_3
+262972|IndoChine Resort and Villas|Phuket|NO|stars_4
+262997|Kata Noi Resort Villas and Apartments|Phuket|NO|stars_3
+263012|The Lantern Patong|Patong|NO|stars_4
+263018|Eazy Resort Kata Beach|Kata Beach|NO|stars_3
+263034|iCheck inn Patong|Patong|NO|stars_3
+263047|On On Hotel|Phuket|NO|stars_3
+263053|Pacific Club Resort|Phuket|NO|stars_4
+263060|Patong Bay Inn|Phuket|NO|stars_2.5
+263061|Patong Bay Resotel|Phuket|NO|stars_2.5
+263086|Pier 42 Boutique Resort & Spa|Chalong Bay|NO|stars_3
+263093|RaTaNa Apart-Hotel|Phuket|NO|stars_3
+263120|Simplitel Phuket|Phuket|NO|stars_3
+263130|Sukko Cultural Spa and Wellness|Phuket|NO|stars_4
+263135|Surin Sweet Apartement|Phuket|NO|stars_3
+263146|The Kata Orient House|Phuket|NO|stars_3
+263148|Trees Club Resort|Phuket|NO|stars_3
+263156|Yorkshire Inn|Patong|NO|stars_3
+264247|Neil Tara Resotel|Chiang Mai|NO|stars_3.5
+264249|Thapae Boutique House|Chiang Mai|NO|stars_2.5
+264250|Azaya Villas|Chiang Mai|NO|stars_5
+264253|Baiyoke Ciao Hotel|Chiang Mai|NO|stars_3
+264255|Chiangmai Boutique House|Chiang Mai|NO|stars_3
+264259|Royal Shilton Resort|Chiang Mai|NO|stars_3
+264260|Ruen Come In|Chiang Mai|YES|stars_3
+264265|Airport Resident|Chiang Mai|NO|stars_2
+264272|At Niman Conceptual Home|Chiang Mai|NO|stars_3
+264273|At Pingnakorn|Chiang Mai|NO|stars_3
+264316|Sinthana Resort Chiang Mai|Chiang Mai|NO|stars_3
+264322|Thapae Place|Chiang Mai|NO|stars_3
+265470|Plai Garden Boutique Guesthouse / Suvarnabhumi Airport|Samut Prakan|NO|stars_3
+265471|Rafael Mansion Bangkok Airport|Samut Prakan|NO|stars_3
+265540|Amaresa Resort|Ko Phangan|NO|stars_3
+265541|Gims Resort|Mae Hong Son|NO|stars_3
+265542|Ascot Krabi|Ao Nang Beach|NO|stars_2
+265550|Cabochon|Bangkok|NO|stars_4
+265551|GLOW Pratunam|Bangkok|NO|stars_3
+265553|The Phoenix Bangkok|Bangkok|NO|stars_3
+265555|G Hua Hin Resort & Mall|Hua Hin|NO|stars_4
+265557|Tai-Pan Resort|Hua Hin|NO|stars_3
+265561|Ban Sabai Big Buddha Retreat & Spa|Bophut Beach|NO|stars_3
+265562|Samui Nakara Resort & Spa|Choeng Mon Beach|NO|stars_4
+265567|Ao Nang Cliff View Resort|Ao Nang Beach|NO|stars_3
+265569|Ao Nang Baan Suan Resort|Krabi|NO|stars_2
+265570|Vipa Tropical Resort|Ao Nang Beach|NO|stars_3
+265571|Baan Havaree Resort|Ao Nang Beach|NO|stars_2
+265572|Baan Po Ngam Resort|Ao Nang Beach|NO|stars_2
+265573|Sawadee Resort|Ao Nang Beach|NO|stars_2
+265574|Tip Anda Resort|Ao Nang Beach|NO|stars_2
+265575|The Sand Beach Pattaya|Pattaya|NO|stars_3
+265698|The Continent|Bangkok|YES|stars_5
+274904|Lima Place|Ayutthaya|NO|stars_3
+276835|Gay Hotel Hostal Puerta Del Sol Phuket|Patong|NO|stars_2
+276836|Nilly's Marina Inn|Patong|NO|stars_3
+278112|Sathorn Saint View Serviced Apartment|Bangkok|NO|stars_2
+278113|Oriental Residence Bangkok|Bangkok|NO|stars_5
+278114|Baan Noppawong|Bangkok|NO|stars_3
+278116|The Boutique Place Pratunam Market|Bangkok|NO|stars_2.5
+278117|Lodge 61 Bed & Breakfast|Bangkok|NO|stars_3
+278118|Nantra Silom|Bangkok|NO|stars_3
+278119|Khaosan Palace|Bangkok|NO|stars_3
+278123|myhotel CMYK ratchada|Bangkok|NO|stars_3
+278124|Riva Surya Bangkok|Bangkok|YES|stars_4
+278125|Poonchock Mansion|Bangkok|NO|stars_2
+278127|Baan Nueng Service Apartment|Bangkok|NO|stars_3.5
+278129|Nara Suite Residence Bangkok|Bangkok|NO|stars_3
+278134|Chakrabongse Villas|Bangkok|NO|stars_5
+278135|Royal Express Bangkok|Bangkok|NO|stars_2
+278136|Boss Suites Hotel|Bangkok|NO|stars_4
+278137|Nest Boutique Resort|Bangkok|NO|stars_3
+278140|The Moonite Boutique Hotel|Bangkok|NO|stars_3
+278141|P-Park Residence Suvarnabhumi|Bangkok|NO|stars_3
+278142|Seri 47 Residence|Bangkok|NO|stars_3
+278143|P-Park Residence Charansanitwong|Bangkok|NO|stars_3
+278144|V Residence|Bangkok|NO|stars_4
+278145|Thanapa Apartment|Bangkok|NO|stars_2
+278147|Room@Bangkok B&B|Bangkok|NO|stars_2
+278148|Pratunam Pavilion|Bangkok|NO|stars_3
+278149|Thanapa Mansion|Bangkok|NO|stars_2
+278150|Miami|Bangkok|NO|stars_2
+278151|The Okura Prestige Bangkok|Bangkok|NO|stars_5
+278152|Sunvillas Hua Hin|Cha Am|NO|stars_4
+278153|Season Palace Huahin Hotel|Cha Am|NO|stars_3
+278155|Asia Cha Am Hotel|Cha Am|NO|stars_4
+278156|Raya Resort Cha-am|Cha Am|NO|stars_4
+278157|SeaRidge Resort - Hua Hin|Hua Hin|NO|stars_4
+278158|Evergreen Boutique Hotel|Hua Hin|NO|stars_3
+278159|Baan Manthana|Hua Hin|NO|stars_3
+278160|Akamai Village|Hua Hin|NO|stars_4
+278161|Jaidee Resort|Hua Hin|NO|stars_3
+278164|Dune Hua Hin|Hua Hin|NO|stars_4
+278165|Black Lotus Resort & Spa|Hua Hin|NO|stars_4
+278167|Sea Harmony|Hua Hin|NO|stars_3
+278170|Avanta Condominium|Koh Samui|NO|stars_3
+278175|Bonny|Koh Samui|NO|stars_2
+278176|Samui Seabreeze Place|Koh Samui|NO|stars_3
+278178|Sivaburi Resort|Koh Samui|NO|stars_2
+278179|Lamai Chalets|Koh Samui|NO|stars_3
+278180|Lamoon Lamai Residence|Koh Samui|NO|stars_3
+278181|Samui Native Resort & Spa|Koh Samui|NO|stars_3
+278183|Montra|Koh Samui|NO|stars_3
+278184|Weekender Villa Beach Resort|Koh Samui|NO|stars_2
+278185|Pao Jin Poon Beach Front Villa|Koh Samui|NO|stars_4
+278189|Banyan House Samui Bed and Breakfast|Koh Samui|NO|stars_3
+278191|Samui Tropical Villa|Koh Samui|NO|stars_3
+278192|Samui Beach Apartments|Koh Samui|NO|stars_3
+278193|The Loft Samui|Koh Samui|NO|stars_2
+278194|Full Moon Villa @ Bangrak Beach|Koh Samui|NO|stars_3
+278195|Cocooning|Koh Samui|NO|stars_3
+278196|Lucky Mother Bungalow Chaweng|Koh Samui|NO|stars_2
+278197|Samui Emerald Condotel|Koh Samui|NO|stars_3.5
+278198|The Waterfront Samui|Koh Samui|NO|stars_3
+278200|Lemon Tree Resort|Koh Samui|NO|stars_2
+278201|Baan Kao Hua Jook Villas & Serviced Apartments|Koh Samui|NO|stars_3
+278202|Chaweng Grand View Resort|Koh Samui|NO|stars_3
+278203|Boutique The Green Bay View Samui|Koh Samui|NO|stars_3
+278204|Mantra Samui Resort|Koh Samui|NO|stars_5
+278206|Chaweng Noi Residence|Koh Samui|NO|stars_3
+278208|Rome Boutique Hotel & Spa|Pattaya|NO|stars_3
+278209|Bonkai Resort|Pattaya|NO|stars_3
+278211|Miracle Suite|Pattaya|NO|stars_4
+278212|LK Legend|Pattaya|NO|stars_4
+278213|Gulf Siam Hotel & Resort Pattaya|Pattaya|NO|stars_3
+278217|The Siam Guest House|Pattaya|NO|stars_2
+278218|Royal Sammuk villas|Pattaya|NO|stars_4
+278219|LK Grand Living Place|Pattaya|NO|stars_3
+278220|Majestic Rooms Jomtien Pattaya|Pattaya|NO|stars_3
+278222|Kinnaree House|Phi Phi Island / Ko Pee Pee|NO|stars_2
+278407|Bandara On Sea|Rayong|NO|stars_3.5
+278408|The Royal Tropical Beach at VIP Chain Resort|Rayong|NO|stars_3
+278578|Pattara Place|Chiang Mai|NO|stars_3
+278580|Khum Phucome|Chiang Mai|NO|stars_3
+278583|Romena Grand Hotel|Chiang Mai|NO|stars_3
+278586|Ruen Ariya Resort|Chiang Mai|NO|stars_4
+278587|Tad Placamp Healing Retreat|Chiang Mai|NO|stars_3.5
+278589|Sawasdee Chiang Mai House|Chiang Mai|NO|stars_3
+278590|BaanBooLOo Guesthouse|Chiang Mai|NO|stars_3
+278591|Lanna Boutique Resort|Chiang Mai|NO|stars_3
+278594|Golden Land Hotel|Chiang Rai|NO|stars_3
+278595|Ban Chomna Resort|Chiang Rai|NO|stars_3
+278596|At Chiangrai Resort|Chiang Rai|NO|stars_3
+278597|Nak Nakara|Chiang Rai|NO|stars_3
+278841|Lanta Resort|Ko Lanta|NO|stars_3
+278843|Andalay Boutique Resort|Ko Lanta|NO|stars_3
+278844|Lanta Klong Nin Beach Resort|Ko Lanta|NO|stars_3
+278845|Long Beach Chalet|Ko Lanta|NO|stars_3
+279537|Jinnie's Place|Krabi|NO|stars_3
+279538|Klong Muang Sunset House|Krabi|NO|stars_2
+279539|Krabi Romantic House|Krabi|NO|stars_2
+279540|Swiss Chalet|Krabi|NO|stars_2
+279543|Koh Kwang Resort|Krabi|NO|stars_3
+279544|Aonang Regent|Ao Nang Beach|NO|stars_2
+279546|Leelawadee Garden Resort|Krabi|NO|stars_4
+279547|Green House|Krabi|NO|stars_2.5
+279548|Krabi Royal Hotel|Krabi|NO|stars_2
+279549|The Krabi Forest Homestay|Krabi|NO|stars_3
+279550|Thai Hotel Krabi|Krabi|NO|stars_2
+279551|Happiness Resort|Krabi|NO|stars_3
+279671|Loyfa Natural Resort|Thong Nai Pan Beach|NO|stars_3
+279672|Watchara Villas|Thong Nai Pan Beach|NO|stars_3
+279674|Bay Lounge & Resort|Thong Nai Pan Beach|NO|stars_4
+279676|Baan Haad Yao Villas|Thong Nai Pan Beach|NO|stars_3
+279677|Foresta Resort|Pran Buri|NO|stars_4
+279678|la a natu bed & bakery|Pran Buri|NO|stars_4
+280866|Lam Sai Village Hotel|Phang Nga|NO|stars_3
+281355|Sairee Hut Dive Resort|Koh Tao|NO|stars_3
+281356|Ban's Diving Resort|Koh Tao|NO|stars_3
+281357|Koh Tao View Cliff Resort|Koh Tao|NO|stars_2
+281358|Dusit Buncha Resort|Koh Tao|NO|stars_3
+281359|Family Tanod Bay Resort|Koh Tao|NO|stars_3
+281360|Seashell Resort Koh Tao|Koh Tao|NO|stars_3
+282020|Tontarn Resort & Spa|Trang|NO|stars_2
+282021|Khanom Maroc Resort and Spa|Trang|NO|stars_3
+282022|Thumrin Hotel|Trang|NO|stars_3
+282069|Sukhothai Guest House|Sukhothai|NO|stars_3
+282565|Prajaktra Design Hotel|Udon Thani|NO|stars_4
+282682|Chang Cliff Resort|Klong Prao Beach|NO|stars_3
+282684|Paradise Bungalows|Klong Prao Beach|NO|stars_2
+283548|Rim Pai Cottage|Pai|NO|stars_3
+283549|Budsabong Fine Resort|Nong Khai|NO|stars_3.5
+284027|Z-Touch Lipe Island Resort|Insel Lipe|NO|stars_3
+284072|Iyara Park Hotel & Resort|Uthai Thani|NO|stars_5
+284261|The Tanyong Hotel Narathiwat|Narathiwat|NO|stars_3
+284287|Andaman Cove Condos|Kathu|NO|stars_5
+284288|Patong Beach Bed & Breakfast|Kathu|NO|stars_2
+284289|A2 Resort Phuket|Kathu|NO|stars_3
+284290|Bella Tropicana Hotel & Guesthouse|Kathu|NO|stars_2.5
+284294|Absolute Guesthouse Phuket|Kathu|NO|0
+284295|Rendez Vous Hotel|Kathu|NO|stars_2
+284298|Art@Patong|Kathu|NO|stars_4
+284300|Home 8 By Athome Hotel|Kathu|NO|stars_2.5
+284303|The Chambre Patong|Kathu|NO|stars_2.5
+284304|Sansabai Wonderwhy Boutique|Kathu|NO|stars_3
+284305|Patong Hemingway's|Patong|NO|stars_3
+284308|Lamai Inn|Kathu|NO|stars_2
+284309|Jang Resort|Kathu|NO|stars_3
+284310|Foto Hotel|Kathu|NO|stars_4
+284313|FunDee Boutique Hotel|Kathu|NO|stars_3
+284314|Longtail Suites|Kathu|NO|stars_3
+284318|Manohra Cozy Village|Kathu|NO|stars_3
+284319|Enjoy's Beach House|Kathu|NO|stars_2
+284322|The Baycliff Residence|Kathu|NO|stars_4
+284324|Lars-Lita Residence|Kathu|NO|stars_2.5
+284326|Golden House Hotel|Kathu|NO|stars_2
+284328|The Color Kata|Phuket|NO|stars_2
+284329|Baan Karon View|Kathu|NO|stars_3.5
+284337|Yindee Residence|Kathu|NO|stars_2
+284339|The Haven Lagoon Condominium|Kathu|NO|stars_3
+284343|Arya Boutique Room|Kathu|NO|stars_3
+284344|Casa Bonita Guesthouse|Kathu|NO|stars_3
+284347|Avista Hideaway Resort & Spa|Kathu|NO|stars_5
+284348|Patong Eyes|Kathu|NO|stars_3
+284716|Les Palmares Villas|Thalang|NO|stars_4
+284720|Anchan Villas|Thalang|NO|stars_4
+284721|Surintra Boutique Resort|Thalang|NO|stars_3
+284724|The Quarter Phuket|Thalang|NO|stars_4
+284726|Phuket Airport FLY|Thalang|NO|stars_2.5
+284776|Jaroenrat Resort|Samut Songkhram|NO|stars_3
+284840|Wimaan Buri Resort|Koh Samui|NO|stars_3
+285361|Golden House|Bangkok|NO|stars_2.5
+285362|Nantra Retreat & Spa|Bangkok|NO|stars_3
+285364|Salil Hotel Sukhumvit Soi 11|Bangkok|NO|stars_4
+285365|Thanapa Place|Bangkok|NO|stars_2.5
+285369|Lamai Inn 99 Bungalows|Koh Samui|NO|stars_3
+285370|Pawanthorn Luxury Pool Villa Samui|Koh Samui|NO|stars_4
+285371|Hillside Resort Pattaya|Pattaya|NO|stars_3
+285372|SeaLite Jomtien Hotel|Pattaya|NO|stars_2.5
+286579|Krabi Sands Resort|Krabi|NO|stars_3
+286785|Delight Resort|Thong Nai Pan Beach|NO|stars_3
+286787|Phangan Utopia Resort|Thong Nai Pan Beach|NO|stars_3
+286789|Haad Yao Over Bay Resort|Thong Nai Pan Beach|NO|stars_3
+290848|Connect Guesthouse|Kathu|NO|stars_3
+290850|Patong Terrace Boutique Hotel|Kathu|NO|stars_2
+291764|Baanthara Guesthouse|Ao Nang Beach|NO|stars_2
+292129|Red Planet Asoke|Bangkok|NO|stars_3
+295619|De Rachamanka|Chiang Mai|NO|stars_3
+296169|Beach House Samui|Koh Samui|NO|stars_3
+296250|Holiday Inn Bangkok Sukhumvit|Bangkok|NO|stars_4
+296251|Holiday Inn Express Phuket Patong Beach Central|Patong|NO|stars_3
+296455|Arawan Krabi Beach Resort|Krabi|NO|stars_2
+296457|Glur Hostel Aonang|Ao Nang Beach|NO|stars_2
+296460|K.L. House Ao Nang|Ao Nang Beach|NO|stars_2
+296464|Hasna Palace|Krabi|NO|stars_2
+296467|Be My Guest|Cherng Talay|NO|stars_2
+297371|The Sun Xclusive|Pattaya|NO|stars_3
+297775|Diamond Plaza|Hat Yai|NO|stars_3
+297778|In on the Beach|Karon|NO|stars_3
+297980|Sunrise Resort Koh Phangan|Suratthani|NO|stars_3
+299733|Keeree Ele|Ko Chang|NO|stars_3
+299734|MAC Resort Koh Chang|Ko Chang|NO|stars_3
+299986|Koh Tao Hillside Resort|Ko Phangan|NO|stars_3
+300216|Blue Ocean Beach Resort|Patong|NO|stars_4
+300609|Mercure Bangkok Siam|Bangkok|NO|stars_4
+300623|BuaSaree|Chiang Mai|NO|stars_3
+300708|Ibis Bangkok Siam|Bangkok|NO|stars_3
+301305|Top North Hotel & Resort|Chiang Mai|NO|stars_3
+301308|I style Hua Hin|Hua Hin|NO|stars_3
+302033|Novotel Phuket Kamala Beach|Phuket|NO|stars_4
+302451|Vana Belle|Koh Samui|YES|stars_5
+302452|The Naka Phuket|Kathu|NO|stars_5
+302453|W Bangkok|Bangkok|YES|stars_5
+309149|Mövenpick Resort Karon Beach & Villen Karon Beach - Mövenpick Resort|Karon|NO|stars_5
+310912|The Mangrove Panwa Phuket|Phuket|NO|stars_4
+310924|Centara Grand Modus Resort Pattaya|Chonburi|NO|stars_5
+314184|CNC Residence Sukhumvit 33|Bangkok|NO|stars_4
+314186|Boat Lodge Hua Hin|Hua Hin|NO|stars_3
+314188|Siam@Siam Design Hotel Pattaya|Pattaya|NO|stars_4
+314191|Keereeta Resort and Spa|Ko Chang|NO|stars_3
+314192|Phangan Bayshore Resort|Ko Phangan|NO|stars_3
+314196|Lanta Palace Hill Resort|Ko Lanta|YES|stars_2
+314204|Andaman Beach Resort|Ao Nang Beach|NO|stars_3
+314208|Suphan Lake Hometel|Bangkok|NO|stars_3
+314209|Buaraya Chiangmai|Chiang Mai|NO|stars_3
+314211|A Te Chumphon|Chumphon|NO|stars_3.5
+314212|Chaweng Noi Pool Villa|Chaweng Beach|NO|stars_4
+314213|Grand Hill Residence|Koh Samui|NO|stars_4
+314218|Crystal Palace Pattaya|Banglamung|NO|stars_3
+314220|Blue Sky Patong|Kathu|NO|stars_3
+314223|Good Nice|Patong|NO|stars_3
+314224|Senses Resort|Patong|NO|stars_4
+315177|La Residence Bangkok|Bangkok|NO|stars_3
+315179|Bangkok Patio|Bangkok|NO|stars_4
+315189|Khao Sok Green Valley Resort|Chaweng Beach|NO|stars_2
+315199|Yanadin Serviced Apartments|Pattaya|NO|stars_3
+315223|Baipho Boutique Residence Phuket|Patong|NO|stars_3
+315227|The Green Mansion|Patong|NO|stars_2
+315229|Villa Atchara|Patong|NO|stars_3
+316863|Vdara Resort and Spa|Chiang Mai|NO|stars_3.5
+316865|Sakorn Residence|Chiang Mai|NO|stars_3
+316866|Palm Spa Village|Chiang Mai|NO|stars_3.5
+316870|New Mitrapap Hotel|Chiang Mai|NO|stars_2
+317065|Lanta Bee Garden Resort|Ko Lanta|NO|stars_3
+317066|Anda Lanta Resort|Ko Lanta|NO|stars_3
+317213|Iyara Resort & Spa|Ko Chang|NO|stars_3
+324771|Koh Tao Resort|Koh Tao|NO|stars_3
+335062|Richmond Stylish Convention|Nonthaburi|NO|stars_4
+354429|Tune Patong|Kathu|NO|stars_3
+354509|Synergy Samui|Koh Samui|NO|stars_4
+359349|Chaweng Bay View Resort|Chaweng Beach|NO|stars_3
+359350|Lucky Palace|Bangkok|NO|stars_2
+359534|Maehaad Bay Resort|Ko Phangan|NO|stars_3.5
+359535|The Blue Sky Resort|Insel Phayam|NO|stars_4
+359536|Koh Munnork Private Island Resort|Insel Man Nork|NO|stars_4
+359602|Ao Nang Tropical Resort|Krabi|NO|stars_2
+359614|Prom Ratchada Residence & Spa|Bangkok|NO|stars_3
+359615|The Vertical Suite|Bangkok|NO|stars_4
+359617|Arcadia Suites Bangkok|Bangkok|NO|stars_4
+359619|The Aim Sathorn|Bangkok|NO|stars_3
+359620|Arize Sukhumvit|Bangkok|NO|stars_4
+359621|Mida Hotel Ngamwongwan|Bangkok|NO|stars_3
+359622|Demeter Residences Suites|Bangkok|NO|stars_3
+359623|Nantra Ekamai|Bangkok|NO|stars_3
+359624|Richly Villa|Bangkok|NO|stars_3
+359625|Hua Chang Heritage|Bangkok|NO|stars_4
+359626|At Mind Executive Suite|Bangkok|NO|stars_3
+359628|Cinnamon Residence|Bangkok|NO|stars_3.5
+359633|Parama Koh Chang by EpiKurean Lifestyle|Ko Chang|NO|stars_5
+359658|Brighton Hotel & Residence|Bangkok|NO|stars_3
+359664|I Check Inn Silom|Bangkok|NO|stars_3
+359678|C&N Kho Khao Beach Resort|Insel Kho Khao|NO|stars_3
+359818|Classic Kameo Hotel Serviced Apartments|Ayutthaya|NO|stars_4
+359843|Grand Alpine|Bangkok|NO|stars_3
+359847|Orchid View Apartment|Bangkok|NO|stars_3
+359848|The Loft 77|Bangkok|NO|stars_3
+359933|Icon Sukhumvit|Bangkok|NO|stars_4
+359934|Kupu Kupu Phangan Beach Villas & Spa|Ko Phangan|NO|stars_4
+363305|Cha Inn@ Cha Am|Hua Hin|NO|stars_3
+363516|SALA Rattanakosin Bangkok|Bangkok|NO|stars_4
+363517|Sala Lanna Chiang Mai|Chiang Mai|NO|stars_4
+363734|Bhundhari Chaweng Beach Resort|Chaweng Beach|NO|stars_4
+363757|Marriott Bangkok Sukhumvit|Bangkok|NO|stars_5
+363759|Jasmine Grande Residence|Bangkok|NO|stars_4
+363761|Lanna Samui|Bophut Beach|NO|stars_4
+363763|Sibsan Luxury Hotel Rimping Chiangmai|Chiang Mai|NO|stars_5
+363764|S.M. Grande Residence|Bangkok|NO|stars_3
+365020|Getaway Resort Lake Mabprachan|Pattaya|NO|stars_2
+365021|Sole|Kathu|NO|stars_3
+365024|Nirvana Inn|Kathu|NO|stars_3
+365026|Sugar Marina Resort Nautical|Kata Beach|NO|stars_3
+365027|Absolute Twin Sands Resort & Spa|Kathu|NO|stars_5
+365125|Hilton Sukhumvit Bangkok|Bangkok|NO|stars_5
+365449|Loma Resort|Khao Lak|NO|stars_3
+365555|Miskawaan Luxury Beachfront Villas|Koh Samui|NO|stars_5
+365556|Tamarind Villa Phuket|Muang|NO|stars_4
+366572|Centara Grand Phratamnak Pattaya|Pattaya|YES|stars_5
+367208|Bw Klassique Sukhumvit|Bangkok|NO|stars_3
+367210|Marriott Executive Apartments Sukhumvit Thonglor|Bangkok|NO|stars_4
+367213|Baan Habeebee Resort|Ao Nang Beach|NO|stars_3
+367216|Centara Grand Beach Resort|Phuket|YES|0
+371467|Citin Urbana|Suratthani|YES|stars_3
+372438|Tropical Paradise Residence|Koh Samui|NO|stars_3
+372547|Komplex AKA Resort Hua Hin & AKA Resort Guti - AKA Resort Hua Hin|Hua Hin|NO|stars_5
+372703|HUG Collection @ Nimman|Chiang Mai|NO|stars_3
+372706|Selection Pattaya|Pattaya|NO|stars_3.5
+372707|LK Royal Wing|Pattaya|NO|stars_3
+372713|Bauman Residence|Phuket|NO|stars_4
+372715|Patong Heritage|Patong|NO|stars_4
+372822|Royal Pavilion Hua Hin|Hua Hin|NO|stars_4
+372897|Banyan Tree Resorts - Banyan Tree Phuket / Banyan Tree Phuket Spa Sanctuary / DoublePool Villas by Banyan Tree|Bang Tao Bay|NO|stars_6
+372899|Banyan Tree Resorts - Banyan Tree Phuket Spa Sanctuary|Bang Tao Bay|NO|stars_5
+372900|Banyan Tree Resorts - DoublePool Villas by Banyan Tree|Bang Tao Bay|NO|stars_5
+373016|Hyatt Regency Phuket Resort|Kamala Beach|NO|stars_5
+373456|Grottino Residence|Bangkok|NO|stars_3
+373459|Heaven - 4|Bangkok|NO|stars_3
+373460|Aravinda Living Home|Bangkok|NO|stars_3
+373462|Area Residence Sathorn|Bangkok|NO|stars_3
+373463|Villa Cha-Cha|Bangkok|NO|stars_4
+373464|U Place|Bangkok|NO|stars_3
+373465|Banglumpoo Place The Room -Bkk|Bangkok|NO|stars_3
+373467|Metz Pratunam|Bangkok|NO|stars_3
+373473|Rita Resort And Residence|Pattaya|NO|stars_3
+373474|Inn House|Pattaya|NO|stars_3
+373477|Ya Nui Resort|Phuket|NO|stars_3
+373479|Kata Pool Lagoon|Phuket|NO|stars_3
+373480|Waterfront Suites Phuket By Centara|Phuket|NO|stars_3
+373482|Baan Karon Hill Phuket Resort|Phuket|NO|stars_3
+373485|Rawai Grand House|Phuket|NO|stars_3
+373488|Sabai Dee Patong Guesthouse|Phuket|NO|stars_2
+377152|Ivory Phi Phi ( Phi Phi Island )|Krabi|NO|stars_2.5
+377153|Aonang Lake Side Bungalow|Krabi|NO|stars_2
+390229|The Legend Maeklong|Samut Songkhram|NO|stars_3
+391277|Point Yamu By Como|Phuket|NO|stars_5
+391590|OZO Chaweng Samui|Chaweng Beach|NO|stars_3
+392010|D Varee Diva Kiang Haad Beach|Hua Hin|NO|stars_4
+392269|The AIM Patong|Kathu|NO|stars_3
+399703|The Haven Khao Lak|Khao Lak|NO|stars_4
+400752|247 Boutique Hotel|Pattaya|NO|stars_3
+400753|HBoutique Hotel|Pattaya|NO|stars_3
+400777|Baan Kamala|Kamala Beach|NO|stars_2
+400819|Hua Hin White Sand|Hua Hin|NO|stars_3
+400821|La Lune Beach Resort|Ko Samed|NO|stars_3
+400842|The Beach Village Resort|Prachuap Khiri Khan|NO|stars_3.5
+400851|Balios Resort Khaoyai|Khorat|NO|stars_3
+400852|Home Phutoey River Kwai Resort|Kanchanaburi|NO|stars_3
+400853|My Place @ Hua-Hin Hotel|Hua Hin|NO|stars_2
+400854|Baan Klang Hua Hin Resort & Condominium|Prachuap Khiri Khan|NO|stars_3
+400920|Amari Ocean Pattaya / Amari Garden Pattaya - Amari Garden Pattaya|Pattaya|NO|stars_4
+401134|Chanalai Hillside Resort|Karon|NO|stars_3
+401136|Central Place|Pattaya|NO|stars_2
+401141|Royal Phawadee Village|Phuket|NO|stars_3
+401145|D.R. Lanta Bay Resort|Ko Lanta|NO|stars_3
+401146|Thomson Residence|Bangkok|NO|stars_4
+401148|Nana|Bangkok|NO|stars_3
+401149|Swutel Bangkok|Bangkok|NO|stars_3
+401150|The Berkeley Pratunam|Bangkok|NO|stars_4
+401153|Nantra Cozy Pattaya|Chonburi|NO|stars_2.5
+401154|Baan Wanglang Riverside|Bangkok|NO|stars_4
+401155|Radisson Blu Plaza Bangkok|Bangkok|NO|stars_5
+401370|Ad Lib Bangkok|Bangkok|NO|stars_4
+401375|The Charm Resort Phuket|Kathu|NO|stars_4
+401377|Grand Mandarin|Bangkok|NO|stars_3
+401382|Pattaya Sea View|Chonburi|NO|stars_4
+401423|Le Coral Hideaway Beyond Phuket|Phang Nga|NO|stars_5
+401427|U Zenmaya Phuket|Phuket|NO|stars_5
+401543|Mirage Patong Phuket|Patong|NO|stars_3
+401580|U Sukhumvit|Bangkok|NO|stars_4
+401648|Grand Mercure Phuket Patong|Patong|NO|stars_5
+403276|Wang Tai Hotel|Suratthani|YES|stars_3.5
+404242|Panomporn Patong Place|Kathu|NO|stars_2
+404243|The Three by APK|Kathu|NO|stars_3
+404244|Honey Inn|Pattaya|NO|stars_3
+404439|Sleep With Me Design Hotel|Patong|NO|stars_4
+404543|The Hammock Koh Samui|Koh Samui|NO|stars_3
+404549|Awa Resort Koh Chang|Kai Bae Beach|NO|stars_4
+404566|Pullman Khao Lak Katiliya Resort Villas|Phang Nga|NO|stars_5
+404616|Chaweng Park Place|Koh Samui|NO|stars_2
+404648|Ibis Styles Krabi Ao Nang|Krabi|NO|stars_3
+405158|The Beach Heights Resort|Phuket|NO|stars_4
+405174|Arinara Bangtao Beach Resort|Bang Tao Bay|NO|stars_3.5
+405948|Eastin Yama Hotel Phuket|Kata Beach|NO|stars_4
+406025|Kata Rocks|Kata Beach|NO|stars_5
+406413|i Sanook|Bangkok|NO|stars_3
+406415|T- Villa|Nai Yang Beach|NO|stars_4
+406424|Citrus Parc Hotel Pattaya|Pattaya|NO|stars_4
+407346|Grand Bella Hotel|Pattaya|NO|stars_3.5
+407730|Tradewinds by Lawana|Chaweng Beach|NO|stars_3
+407858|Eastin Easy Patong Phuket|Patong|NO|stars_3
+407887|Replay Residence & Pool Villa|Koh Samui|NO|stars_3.5
+407889|U Sathorn Bangkok|Bangkok|NO|stars_4.5
+407890|Baan Kun Koey|Hua Hin|NO|0
+407891|Baan San Kraam Serviced Apartment Hua Hin|Cha Am|NO|0
+407971|Le Méridien Suvarnabhumi, Bangkok Golf Resort & Spa|Samut Prakan|YES|stars_5
+408606|Mercure Pattaya Ocean Resort|Pattaya|NO|stars_4
+409053|R-Con Rest Sea Jomtien Hotel|Jomtien|NO|stars_3
+409643|Baan Manali Resort|Ko Phangan|NO|stars_3
+409851|Rancho Charnvee Resort Country Club|Khorat|NO|stars_5
+409898|Casuarina Jomtien Beach Hotel|Chonburi|NO|stars_3
+410348|Thalane Resort|Krabi|NO|stars_2
+410839|Ruamchitt Travelodge Hotel|Bangkok|NO|stars_3
+410842|Mermaid Bangkok|Bangkok|NO|stars_4
+410845|The Nook|Bangkok|NO|stars_3
+410848|Ploy Khumthong Boutique Resort|Bangkok|NO|stars_4
+410850|ICheck Inn Nana|Bangkok|NO|stars_3
+410851|Tara Court Hotel|Pattaya|NO|stars_3
+410852|Hotel Zing|Pattaya|NO|stars_3
+410860|Nara Grandeur Patong|Patong|NO|stars_3
+411022|Apsara Beachfront Resort & Villa - Resort / Villa|Phang Nga|NO|stars_4
+411031|Baan Sansuk Service Apartment|Hua Hin|NO|stars_3
+411033|Baan Koo Kieng|Hua Hin|NO|0
+411057|Ayrest Hua Hin|Hua Hin|NO|stars_4
+411058|Chaidee Mansion|Bangkok|NO|stars_3.5
+411066|Blu Monkey|Phuket|NO|stars_3
+411068|Anantara Vacation Club Phuket|Phuket|NO|stars_5
+411069|The Crib Patong|Patong|NO|stars_3
+411072|The Nest Resort|Patong|NO|stars_3
+411078|The Tint at Phuket Town|Phuket|NO|stars_3
+411091|The Coast Resort|Ko Phangan|NO|stars_4
+411121|Ozo Pattaya|Pattaya|NO|stars_3
+411168|Novotel Phuket Karon Beach Resort & Spa|Phuket|YES|stars_4
+411172|The Balcony Chiang Mai Village|Chiang Mai|NO|stars_4
+411329|The Palmery Resort & Spa|Kata Beach|NO|stars_4
+411330|Time Out|Patong|NO|stars_2
+411331|The Artist House|Patong|NO|stars_2.5
+411332|S.B. Living Place|Phuket|NO|stars_3
+411335|Coco Resort|Patong|NO|stars_3
+411336|Butterfly Phuket|Phuket|NO|stars_2
+411337|The View Rawada Resort & Spa|Muang|NO|stars_4
+411338|Chill Patong|Patong|NO|stars_3
+411347|Woraburi The Ritz Resort & Spa|Chonburi|NO|stars_4
+411348|Suksabai Residence|Pattaya|NO|stars_3
+411349|Wangburapa Grand Hotel|Chiang Mai|NO|stars_3
+411350|Oaks Bangkok Sathorn|Bangkok|NO|stars_3.5
+411351|Holiday Inn Express Bangkok Sathorn|Bangkok|NO|stars_3
+411354|Graceland Bangkok|Bangkok|NO|stars_3
+411484|Thaniza Beachfront Resort|Suratthani|NO|stars_3
+411494|Crystal Wild Resort Panwa Phuket|Phuket|NO|stars_4
+411646|Patong Max Value Hotel|Patong|NO|stars_3
+411648|Orchid Resortel|Patong|NO|stars_3
+411658|PJ Patong Resortel|Patong|NO|stars_3
+411809|Aonang Ayodhaya Beach Resort - Ayodhaya Suites Resort & Spa / Success Wing|Ao Nang Beach|NO|stars_4
+411828|Nangfa Mini|Mae Chan|NO|stars_3
+412069|Citrus Sukhumvit 11 Hotel|Bangkok|NO|stars_4
+413130|U Pattaya Hotel|Sattahip|NO|stars_4.5
+413228|Sugar Palm Residence|Phuket-Stadt|NO|stars_3
+413234|BEST WESTERN Patong Beach|Patong|NO|stars_3.5
+413656|Haad Tien Beach Resort & Haad Tien Beach Club - Haad Tien Beach Club|Koh Tao|NO|stars_3.5
+413657|Haad Tien Beach Resort & Haad Tien Beach Club|Koh Tao|NO|stars_4
+414789|Ruxxa Design Hotel|Karon|NO|stars_3
+414800|Holiday Inn Express Bangkok Sukhumvit 11|Bangkok|NO|stars_3.5
+414807|Kata Silver Sand Hotel|Muang|NO|stars_3
+414808|The Blue Pearl Kata|Muang|NO|stars_3
+424541|The Waters Khao Lak by Katathani|Bang Niang|NO|stars_4
+427963|Thanyapura Hotel - Pool Wing|Thalang|NO|stars_4

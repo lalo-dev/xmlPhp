@@ -1,0 +1,839 @@
+9070|Birger Jarl|Stockholm|NO|stars_4
+10432|Hotel Scandic Gamla Stan|Stockholm|YES|stars_4
+11500|Diplomat|Stockholm|NO|stars_4
+12067|Elite Palace|Stockholm|YES|stars_4
+12752|Clarion Amaranten|Stockholm|YES|stars_4
+12758|First Hotel Reisen|Stockholm|YES|stars_4
+13452|Grand Hôtel|Stockholm|YES|stars_5
+15465|Best Western Kom Hotel Stockholm|Stockholm|YES|stars_3
+18214|Oden|Stockholm|YES|stars_3
+19814|Radisson Blu Royal Viking Stockholm|Stockholm|YES|stars_4
+20327|Hotel Scandic Kungsgatan|Stockholm|YES|stars_4
+21190|Hotel Scandic Continental|Stockholm|YES|stars_4
+21192|Scandic Hasselbacken Hotel|Stockholm|YES|stars_4
+21193|Hotel Scandic Ariadne|Stockholm|YES|stars_3
+21196|Scandic Crown Hotel|Göteborg|YES|stars_4
+21199|Hotel Scandic Rubinen|Göteborg|YES|stars_4
+21201|Scandic Malmen Hotel|Stockholm|YES|stars_4
+21203|Hotel Scandic Park|Stockholm|YES|stars_4
+21204|Hotel Scandic Sergel Plaza|Stockholm|YES|stars_4
+21206|Hilton Slussen|Stockholm|YES|stars_4
+21498|Sheraton Stockholm Hotel|Stockholm|YES|stars_5
+22219|Elite Stockholm Plaza|Stockholm|YES|stars_4
+22573|Tegnérlunden|Stockholm|YES|stars_3
+25793|Nordic C Hotel|Stockholm|YES|stars_4
+26215|Scandic Sjöfartshotellet|Stockholm|YES|stars_3
+26218|Hotel Scandic Anglais|Stockholm|YES|stars_4
+30808|Best Western Hotel Terminus|Stockholm|NO|stars_4
+31078|Skagersbrunn|Skagersbrunn|NO|stars_3
+31712|Gothia Towers|Göteborg|YES|stars_4
+31713|Kristineberg|Stockholm|NO|stars_3
+31943|Icehotel Jukkasjärvi|Jukkasjärvi|NO|stars_3
+33153|Best Western Strand|Visby|NO|stars_3.5
+33171|Hooks Herrgard|Hok|NO|stars_4
+34123|Grand Hotel Garden|Malmö|YES|stars_4
+34124|Scandic S:t Jörgen Hotel|Malmö|YES|stars_4
+34125|Clarion Grand Östersund|Östersund|NO|stars_4
+34127|First Hotel Statt|Karlskrona|YES|stars_3
+34128|First Hotel Witt|Kalmar|YES|stars_3
+34134|Gamla Skolan|Hylletofta|NO|stars_3
+34136|Karlshamn - Kollevik|Karlshamn|NO|0
+34138|Guö Värdshus|Trensum|NO|stars_3
+35240|Idre Fjäll|Idre|NO|stars_3
+35241|Säfsen|Säfsen-Frederiksberg|NO|0
+35242|Tanumstrand|Grebbestad|NO|stars_4
+36534|Clarion Stockholm|Stockholm|YES|stars_4
+36535|Nordic Light, Ascend Collection|Stockholm|YES|stars_4
+36536|Quality Globe|Stockholm|YES|stars_4
+36695|Quality Spa & Resort Dalecarlia|Tällberg|NO|stars_4
+36696|Halltorps Gästgiveri|Borgholm|NO|stars_4
+36697|Mullsjö|Mullsjö|NO|stars_3
+36698|Toftaholm Herrgard|Lagan|NO|stars_4
+36701|Tofta Strandpensionat|Tofta|NO|stars_2
+36702|Aspa Herrgard|Aspa Bruk|NO|stars_4
+36703|Hestravikens Värdshus|Hestra|NO|stars_3
+36704|Karlaby Kro|Tommarp|NO|stars_3.5
+36705|Rusthållargården|Helsingborg|NO|stars_4
+36706|Häckeberga Slott|Genarp|NO|stars_4
+36707|Häringe Slott|Västerhaninge|NO|stars_4
+36708|Margretetorps Gästgifvaregård|Hjärnarp|NO|stars_4
+36709|Mauritzberg Slott|Halbinsel Vikbolandet|NO|stars_4
+38080|Berns|Stockholm|NO|stars_4
+38081|Radisson Blu Strand|Stockholm|YES|stars_5
+39185|Best Western Columbus Hotell|Stockholm|NO|stars_3
+39372|Pernilla Wiberg Hotel|Idre|NO|stars_3
+40335|Elite Stora Jönköping|Jönköping|YES|stars_4
+40337|Yxtaholms Slott|Flen|NO|stars_4
+40338|Fryken Strand|Sunne|NO|stars_3
+40339|Ullinge|Eksjö|NO|stars_3
+40593|Isaberg Freizeit & Ferienhauspark|Hestra|NO|stars_3
+40824|Hotel Scandic Europa|Göteborg|YES|stars_4
+40956|Clarion Collection Tapto|Stockholm|YES|stars_3
+40957|Rival|Stockholm|YES|stars_4
+41413|Hotel Scandic Alvik|Stockholm|YES|stars_4
+41619|Clarion Collection Temperance|Malmö|YES|stars_3.5
+41620|Quality Winn|Stockholm|NO|stars_3
+41622|Park Inn by Radisson Solna|Solna|YES|stars_4
+46889|Best Western Capital|Stockholm|YES|stars_3
+47072|Scandic Backadal Hotel|Göteborg|YES|stars_3.5
+47073|Scandic Mölndal Hotel|Mölndal|YES|stars_4
+47076|Scandic Upplands Väsby|Stockholm|YES|stars_3
+47077|Scandic Kungens Kurva|Stockholm|YES|stars_3
+50081|Elite Park Avenue|Göteborg|YES|stars_4
+50083|Radisson Blu Hotel Malmo|Malmö|YES|stars_4
+50173|Quality Hotel Konserthuset, Malmo|Malmö|YES|stars_3
+50174|First Hotel Jörgen Kock|Malmö|YES|stars_3
+50175|First Hotel Royal Star|Stockholm|YES|stars_3
+50176|Crystal Plaza|Stockholm|YES|stars_3
+50177|New World|Stockholm|NO|stars_3
+50704|Clarion Collection Hotel Drott|Karlstad|YES|stars_4
+50762|Comfort Malmo|Malmö|NO|stars_3
+51088|Radisson Blu Arlandia Stockholm|Stockholm|YES|stars_4
+51782|Fjällgarden|Are|NO|stars_3.5
+51783|Holiday Club Åre Spa|Are|NO|stars_4
+51784|Continental Inn Åre|Are|NO|stars_4
+51967|Grand Saltsjöbaden|Saltsjöbaden|YES|stars_4
+51984|Scandic Bromma|Stockholm|YES|stars_3
+51985|Scandic Star Sollentuna|Stockholm|YES|stars_4
+51996|Hotel Scandic Segevång|Malmö|YES|stars_3
+52009|Hotel Scandic Järva Krog|Solna|YES|stars_4
+52433|Quality Hotel Nacka|Stockholm|YES|stars_4
+52434|Quality Prince Philip|Stockholm|YES|stars_3
+52972|Hotel Scandic Klara|Stockholm|YES|stars_4
+55996|Best Western Premier Hotell Kung Carl|Stockholm|NO|stars_4
+56559|First Hotel G|Göteborg|YES|stars_4
+56560|Clarion Plaza|Karlstad|NO|stars_4
+56561|Krokstad Herrgard|Säffle|NO|stars_3.5
+56563|Möckelsnäs Herrgard|Diö|NO|stars_3
+56565|Smådalaröd Gård|Dalarö|NO|stars_4
+56793|Stenungsbaden Yacht Club|Stenungsund|NO|stars_4
+56794|Tanums Gestgifveri|Tanumshede|NO|stars_3
+56796|First Hotel Carlshamn|Karlshamn|YES|stars_3
+56797|First Hotel Christian IV|Kristianstad|YES|stars_3
+57345|Comfort Stockholm|Stockholm|YES|stars_3
+57346|Anno 1647|Stockholm|NO|stars_3
+58543|Elite Plaza|Göteborg|YES|stars_5
+58835|Vanadis|Stockholm|YES|stars_2
+60450|Hennickehammars Herrgard|Filipstad|NO|stars_3
+61159|Quality Airport Hotel Arlanda|Arlanda|YES|stars_3.5
+61173|Best Western Hotell Savoy|Lulea|NO|stars_3
+62511|Ferienanlage Lysingsbadet|Västervik|NO|0
+64708|Lady Hamilton Hotel|Stockholm|YES|stars_4
+64959|Scandic Infra City Hotel|Stockholm|NO|stars_4
+65022|Scandic Opalen Hotel|Göteborg|NO|stars_4
+65035|Hotel Scandic Kramer|Malmö|YES|stars_4
+65036|Hotel Scandic Triangeln|Malmö|YES|stars_4
+65037|Hotel Scandic Stortorget|Malmö|YES|stars_4
+65069|Laponia|Arvidsjaur|NO|stars_3
+65338|Hotel Scandic Plaza|Borås|NO|stars_4
+65568|Scandic Helsingborg Nord Hotel|Helsingborg|YES|stars_3
+65569|Horisont|Helsingborg|YES|stars_3
+65645|Scandic Elmia Hotel|Jönköping|YES|stars_3
+65646|Hotel Scandic Portalen|Jönköping|NO|stars_4
+65650|Scandic Kalmar Väst Hotel|Kalmar|NO|stars_3
+65653|Scandic Karlshamn|Karlshamn|NO|stars_3
+65654|Scandic Klarälven Hotel|Karlstad|NO|stars_3
+65655|Hotel Scandic Winn|Karlstad|NO|stars_3.5
+65660|Hotel Scandic Ferrum|Kiruna|NO|stars_3
+65697|Scandic Frimurarehotellet|Linköping|NO|stars_3
+65698|Scandic Linköping Väst Hotel|Linköping|NO|stars_3
+65704|Dahls Hotell|Löddeköpinge|YES|stars_3
+65711|Scandic Luleå Hotel|Lulea|NO|stars_3
+65836|Scandic Norrköping City Hotel|Norrköping|NO|stars_3
+65837|Hotel Scandic Norrköping Nord|Norrköping|NO|stars_3
+65877|Hotel Scandic Östersund Syd|Östersund|NO|stars_3
+66132|Hotel Scandic Swania|Trollhättan|NO|stars_4
+66155|Scandic Västerås Hotel|Västerås|NO|stars_3
+66156|Scandic Växjö Hotel|Växjö|NO|stars_3
+66439|Scandic Grand Central|Stockholm|NO|stars_4
+66474|Scandic Bollnäs|Bollnäs|NO|stars_3
+66475|Scandic Borlänge Hotel|Borlänge|NO|stars_3
+66477|Scandic Lugnet Hotel|Falun|NO|stars_3
+66478|Scandic Hallandia Hotel|Halmstad|NO|stars_3
+66479|Scandic Star Hotel|Lund|NO|stars_4
+66481|Scandic Grand Hotel|Örebro|NO|stars_3
+66482|Scandic Örebro Väst Hotel|Örebro|NO|stars_3
+66483|Scandic Örnsköldsvik Hotel|Örnsköldsvik|NO|stars_3
+66484|Scandic Skellefteå Hotel|Skellefteå|NO|stars_3
+66485|Hotel Scandic Billingen|Skövde|NO|stars_4
+66486|Best Western Hotell SoderH|Söderhamn|NO|stars_3
+66487|Scandic Södertälje Hotel|Södertalje|NO|stars_3
+66490|Quality Sundsvall|Sundsvall|NO|stars_3.5
+66491|Scandic Sundsvall Nord Hotel|Sundsvall|NO|stars_3
+66492|Scandic Täby Hotel|Täby|NO|stars_3
+66493|Scandic Plaza Hotel|Umea|YES|stars_3.5
+66494|Scandic Umeå Syd Hotel|Umea|NO|stars_3
+66495|Hotel Scandic Uplandia|Uppsala|NO|stars_4
+66496|Scandic Uppsala Nord|Uppsala|NO|stars_3
+67557|Radisson Blu SkyCity Hotel, Arlanda Airport|Stockholm|NO|stars_4
+67690|Clarion Grand Helsingborg|Helsingborg|NO|stars_4
+67699|Elite Stora Hotellet, Linköping|Linköping|YES|stars_4
+67860|Bodensia|Boden|NO|stars_3
+67861|Best Western Gustaf Wasa|Borlänge|NO|stars_4
+67866|Clarion|Örebro|NO|stars_4
+67867|Radisson Blu Royal Park Stockholm|Solna|NO|stars_4
+67868|Clarion Hotel Gillet|Uppsala|NO|stars_4
+67869|First Hotel Plaza|Västerås|YES|stars_4
+68359|Radisson Blu Scandinavia Hotel|Göteborg|YES|stars_4
+68374|Clarion Collection Carlscrona|Karlskrona|NO|stars_3
+68383|Bjertorp Slott|Kvänum|NO|stars_3
+68418|Scandic Nyköping City Hotel|Nyköping|NO|stars_4
+68443|Högbo Brukshotell|Sandviken|NO|stars_4
+68466|Best Western Park Airport Hotel|Stockholm|NO|stars_3
+68471|Såstaholm Hotell & Konferens|Taby|NO|stars_4
+68478|Ronnums Herrgård|Vargön|YES|stars_3.5
+68481|Park Inn by Radisson Uppsala|Uppsala|YES|stars_4
+68484|Scandic Värnamo Design-Hotel|Värnamo|NO|stars_3
+68971|Quality Hotel 11 & Eriksbergshallen|Göteborg|NO|stars_4
+69281|Novotel Goteborg|Göteborg|NO|stars_4
+69655|Hotel Scandic No. 25|Göteborg|YES|stars_4
+70628|Elite Västeras|Västerås|YES|stars_4
+70629|Elite Växjö|Växjö|YES|stars_4
+70630|First Hotel Linné|Uppsala|YES|stars_4
+70632|First Hotel Kung Oscar|Trollhättan|YES|stars_4
+70633|First Hotel Strand|Sundsvall|YES|stars_4
+70638|Riksgränsen|Riksgränsen|NO|stars_3
+70639|First Hotel Örebro|Örebro|YES|stars_3
+70640|Clarion Collection Post|Oskarshamn|NO|stars_3.5
+70641|First Hotel Olofström|Olofström|YES|stars_3
+70642|Elite Grand|Norrköping|YES|stars_4
+70643|Best Western Mora & Spa|Mora|NO|stars_3
+70644|Elite Residens|Malmö|YES|stars_4
+70645|Elite Lulea|Lulea|YES|stars_4
+70646|First Hotel Linköping|Linköping|YES|stars_4
+70647|First Hotel JA|Karlskrona|YES|stars_3
+70648|Comfort Jönköping|Jönköping|NO|stars_4
+70649|Jokkmokk|Jokkmokk|NO|stars_3
+70651|First Hotel Stadt|Härnösand|YES|stars_3
+70652|Elite Mollberg|Helsingborg|YES|stars_4
+70654|First Hotel Mårtenson|Halmstad|YES|stars_3
+70655|First Hotel Grand|Falun|YES|stars_4
+70657|First Grand Hotel Conference Center & City Spa Boras|Borås|NO|stars_4
+70658|Scandic Arvika Spa-Hotel|Arvika|NO|stars_4
+70666|Elite Stadshotellet, Karlstad|Karlstad|YES|stars_4
+70948|Villa Sjötorp|Ljungskile|NO|stars_4
+70949|Dufweholms Herrenhof|Katrineholm|NO|stars_4
+70950|Best Western Hotell Vrigstad Varldshus|Vrigstad|NO|stars_3
+70951|Fredensborgs Herrgard|Vimmerby|NO|stars_3
+70953|Quality Växjö|Växjö|NO|stars_3
+70954|Hotel Scandic Karlstad City|Karlstad|NO|stars_3.5
+70955|Quality Jönköping|Jönköping|NO|stars_3
+70956|First Hotel Brage|Borlänge|YES|stars_3.5
+71098|Quality Hotel Selma Lagerlöf|Sunne|NO|stars_3
+71424|Stufvenäs Gästgiferi / Gästgifveri|Söderakra|NO|stars_4
+71425|Vadstena Klosterhotel|Vadstena|NO|stars_4
+71679|Haus Askblom|Saxemara|NO|0
+71684|Ferienanlage Garnegård|Bräkne Hoby|NO|0
+71685|Ferienanlage Stämshult|Västervik|NO|0
+71686|Gästehaus Seehof|Bjurvik|NO|0
+71688|Haus Edsbruk|Edsbruk|NO|0
+71747|Feriendorf Gammelbyn|Torsby|NO|stars_4
+71876|StayAt Bromma|Stockholm|YES|stars_3
+72039|Seehotel Ystad Saltsjöbaden|Ystad|NO|stars_4
+72128|2Home|Solna|YES|stars_3
+72129|StayAt Stockholm Kista|Stockholm|YES|stars_3
+72130|The More Hotel Malmö|Malmö|YES|stars_4
+72362|Quality Hotel Panorama|Göteborg|NO|stars_4
+74850|Vasa|Göteborg|NO|stars_3
+76058|Tott|Are|NO|stars_3.5
+79435|Elite Savoy|Malmö|YES|stars_4
+79436|Bellevue|Hjo|YES|0
+79437|Varbergs Kurort & Spa|Varberg|NO|stars_4
+79439|Clarion Collection Packhuset|Kalmar|NO|stars_3
+79440|Best Western Solhelm|Visby|NO|stars_3
+79441|Clarion Wisby|Visby|NO|stars_4
+79443|Langberget Sporthotell|Sysslebäck|NO|stars_3
+79926|Hellsten|Stockholm|YES|stars_4
+80441|Tällbergsgarden|Tällberg|NO|stars_3
+80442|Skansen|Öland|NO|stars_4
+80444|Erikslund|Ängelholm|NO|stars_3
+80445|Quality Hotel Ekoxen|Linköping|NO|stars_3
+80458|Quality Hotel Halmstad|Halmstad|NO|stars_3
+80459|Ronneby Brunn|Ronneby|YES|stars_4
+80574|Lofsen Fjällby|Lofsdalen|NO|0
+81253|Quality Hotel Grand Kristianstad|Kristianstad|NO|stars_3
+81654|Gyllene Uttern|Gränna|NO|stars_4
+81657|Profil Aveny|Umea|YES|stars_4
+81659|Stora|Umea|NO|stars_4
+81961|Rex Hotel|Stockholm|NO|stars_3
+82504|Tornet|Helsingborg|YES|stars_3
+82740|Lilla Radmannen|Stockholm|YES|stars_3
+82741|Freys|Stockholm|YES|stars_4
+85472|Hotel Scandic Talk|Stockholm|YES|stars_4
+85725|Uppsala|Uppsala|YES|stars_3
+85742|Berling|Karlstad|YES|stars_3
+86018|Riddargatan|Stockholm|YES|stars_4
+86019|President|Norrköping|YES|stars_4
+86940|Mortensen|Malmö|NO|stars_3
+86941|Teaterhotellet|Malmö|YES|stars_3
+86942|Lord Nelson|Stockholm|YES|stars_3
+86943|Profil Calmar Stadshotell|Kalmar|YES|stars_3
+88624|Best Western Plus Hotel Noble House|Malmö|NO|stars_4
+88916|Central|Stockholm|YES|stars_3
+88917|Savoy|Jönköping|YES|stars_4
+89016|Clarion Collection Odin|Göteborg|NO|stars_4
+89047|Connect Arlanda|Stockholm|YES|stars_3
+89146|Alexandra|Stockholm|YES|stars_3
+89169|Victory Hotel|Stockholm|NO|stars_4
+89216|Connect City|Stockholm|YES|stars_3
+89357|Apple|Göteborg|YES|stars_3
+91793|Elite Marina Plaza|Helsingborg|YES|stars_4
+91795|First Hotel Park Astoria|Enköping|YES|stars_3
+91823|Comfort Hotel Nouveau|Helsingborg|NO|stars_3
+91830|Scandic Östersund City Hotel|Östersund|NO|stars_3
+91833|Comfort Eskilstuna|Eskilstuna|NO|stars_3
+91839|Best Western Vimmerby Stadshotell|Vimmerby|NO|stars_3
+92853|Quality Winn|Göteborg|NO|stars_3
+92937|Clarion Sign|Stockholm|YES|stars_4
+92938|Best Western Plus Time Hotel|Stockholm|NO|stars_4
+93375|Skelleftea Stadshotell|Skellefteå|NO|stars_3
+93377|First Hotel Statt|Hudiksvall|YES|stars_3
+93378|Quality Hotel Vänersborg|Vänersborg|NO|stars_3
+93383|Quality Örebro|Örebro|NO|stars_3
+93389|Grytthyttans Gästgivaregard|Grythyttan|NO|stars_4
+93397|Hamn|Visby|NO|stars_3.5
+93775|Mornington Stockholm City|Stockholm|NO|stars_4
+94054|Hotel Bellora|Göteborg|NO|stars_4
+94152|Mercure Malmö|Malmö|YES|stars_3
+94239|Ibis Styles Stockholm Kista|Stockholm|YES|stars_3
+94240|Mercure Hotel Stockholm South|Stockholm|YES|stars_3
+94489|Scandic CH|Gävle|NO|stars_4
+94491|Scandic Linköping City Hotel|Linköping|NO|stars_3.5
+94493|Hotel Scandic Sundsvall City|Sundsvall|NO|stars_3
+94494|Ibis Styles Goteborg City|Göteborg|YES|stars_3
+94622|Ibis Styles Göteborg Mölndal|Mölndal|YES|stars_3
+94623|Ibis Styles Göteborg Lerum|Göteborg|NO|stars_3
+94626|Mercure Hotel Nyköping|Nyköping|NO|stars_3
+96630|Järvsöbaden Hotell|Järvsö|NO|stars_3
+96631|Fryksås Hotell|Orsa|NO|stars_4
+96632|Klockargardens|Tällberg|NO|stars_4
+96633|Dala-Husby Hotell|Dala Husby|NO|stars_3.5
+96639|Söderfors Herrgard|Söderfors|NO|stars_3.5
+96640|Gimo Herrgard|Gimo|NO|stars_4
+96641|Best Western Villa Söderas|Stockholm|NO|stars_3
+96642|Kohlswa Herrgard|Kolsva|NO|stars_4
+96643|Länsmansgarden|Sunne|NO|0
+96644|Sundbyholms Slott|Eskilstuna|NO|stars_4
+96645|Trosa|Trosa|NO|stars_4
+96646|Söderköpings Brunn|Söderköping|NO|stars_4
+96649|Villa Gransholm|Gemla|NO|stars_3
+96651|Brösarps Gästgifveri|Brösarp|NO|stars_3
+96658|Best Western Karlaplan|Stockholm|YES|stars_4
+97164|Quality Luleå|Lulea|NO|stars_3.5
+97169|First Billingehus|Skövde|YES|stars_4
+97170|Quality Hotel Park Södertälje City|Södertälje|NO|stars_3
+97171|Clarion Collection Uman|Umea|NO|stars_4
+97193|Falkenberg Strand|Falkenberg|NO|stars_4
+97194|Djurönäset|Djurhamn|NO|stars_4.5
+97195|Ripan Hoteldorf|Kiruna|NO|stars_4
+97324|Ängavallen|Vellinge|NO|stars_3
+98311|Regenbogen Ahus|Ahus|NO|stars_4
+100014|Esplanade|Stockholm|NO|stars_4
+100823|Ibis Stockholm Spanga|Stockholm|YES|stars_3
+101000|Ibis Styles Stockholm Arlanda Airport|Arlanda|YES|stars_3
+102370|Elite Arcadia|Stockholm|YES|stars_4
+103148|Scandic Norra Bantorget Hotel|Stockholm|YES|stars_4
+103150|First Hotel Avalon|Göteborg|NO|stars_4
+103152|Gullmarsstrand|Fiskebäckskil|NO|stars_4
+103155|Akerblads Gästgiveri|Tällberg|NO|stars_4
+103878|A-Hotel|Karlskrona|NO|stars_3
+104064|Anno 1793 Sekelgarden|Ystad|NO|stars_3
+104152|Ariston|Stockholm|NO|stars_3
+104250|Aveny|Lulea|NO|stars_2
+104251|Aveny|Gävle|NO|stars_2
+104400|Best Western Bentleys|Stockholm|NO|stars_3.5
+104526|Hotel Amadeus|Halmstad|YES|stars_3
+104615|Best Western Blommenhof|Nyköping|NO|stars_4
+104772|Best Western Djingis Khan|Lund|NO|stars_4
+104921|Clarion Collection Helsing|Helsingborg|NO|stars_4
+104940|Best Western Jaegersro|Malmö|NO|stars_4
+104944|Best Western Plus John Bauer Hotel|Jönköping|NO|stars_4
+105085|Mornington Stockholm Bromma|Stockholm|NO|stars_3
+105121|Best Western Hotel Paletten|Ängelholm|NO|stars_3
+105163|Hotel Scandic Foresta|Lidingö|NO|stars_4
+105169|Mäster Johan Hotel|Malmö|NO|stars_4
+105173|Nova Park Conference|Knivsta|NO|stars_4
+105266|Scandic Skogshöjd Hotel|Södertalje|NO|stars_3
+105269|Best Western Sodra Berget|Sundsvall|NO|0
+105285|Hotel Stensson|Eslöv|NO|stars_3
+105303|Best Western Taby Park Hotel & Conference|Täby|NO|stars_3
+105375|Best Western Varbergs Stadshotell & Asia Spa|Varberg|NO|stars_3.5
+105376|Best Western Plus Vasterviks Stadshotell|Västervik|NO|stars_4
+105551|Brunnby|Stockholm|NO|stars_2
+105720|Central|Västervik|YES|0
+105879|City Fam. Ericsson|Jönköping|NO|stars_3
+105917|Clarion Collection Hotel Bilan|Karlstad|NO|stars_4
+105920|Clarion Collection Etage|Västerås|NO|stars_3
+105921|Clarion Collection Fregatten|Varberg|NO|stars_4
+105923|Clarion Collection Grand Sundsvall|Sundsvall|NO|stars_3
+105924|Clarion Collection Bolinder Munktell|Eskilstuna|NO|stars_4
+105926|Clarion Collection Majoren|Skövde|NO|stars_3
+105927|Clarion Collection Norre Park|Halmstad|NO|stars_3.5
+105932|Clarion Collection Victoria|Jönköping|NO|stars_3
+105933|Clarion Collection Wellington|Stockholm|YES|stars_4
+106096|Comfort Inn Bristol|Arvika|NO|stars_3
+106321|Clarion Collection Kompaniet|Nyköping|NO|stars_4
+106852|Eksjo Stadshotel|Eksjö|NO|stars_3
+107056|Falkoping|Falköping|YES|0
+107059|Falun|Falun|NO|stars_3
+107177|Furunäset Hotell, Spa & Konferens|Pitea|NO|stars_3
+107219|Gavle|Gävle|NO|stars_3
+107342|Göta|Örebro|NO|stars_3
+107915|Älvsjö|Stockholm|NO|stars_3
+107917|Hotell Froding|Kristinehamn|NO|stars_3
+107918|Hotell Gastis|Varberg|NO|stars_3
+107920|Best Western Hotel Halland|Kungsbacka|NO|stars_3
+107922|Hotell Linblomman|Söderhamn|NO|stars_3
+108082|J|Stockholm|NO|stars_4
+108201|Kneippen|Norrköping|NO|stars_3
+108586|Malardrottningen|Stockholm|YES|stars_3
+109126|Mjolby Stadshotell|Mjölby|NO|stars_3
+109485|Onyxen|Göteborg|NO|stars_3
+109808|Quality Galaxen|Borlänge|NO|stars_3.5
+109881|Quality Prisma|Skövde|NO|stars_3
+109899|Comfort Royal|Säffle|NO|stars_3
+110000|Best Western Baltic|Sundsvall|NO|stars_3
+110007|Best Western Hotel Corallen|Oskarshamn|NO|stars_4
+110353|Roslagen|Nortällje|NO|stars_3
+110989|St. Mikael|Mora|NO|stars_3
+110995|Stallmästaregarden|Stockholm|NO|stars_4
+110997|Stanga|Linköping|YES|stars_3
+111021|Strandl|Vänersborg|NO|stars_3
+111099|Ta Inn|Stockholm|NO|stars_3
+111334|Torpa Pensionat|Södertalje|YES|0
+111466|Varend|Växjö|NO|stars_3
+111529|Villa Kallhagen|Stockholm|NO|stars_4
+111722|Zäta|Östersund|NO|stars_3
+122272|Björkliden Fjällby (Fjället)|Björkliden|NO|stars_4
+122274|Arctic Eden|Kiruna|NO|stars_3
+124880|Welcome|Stockholm|YES|stars_3
+127179|Astoria|Malmö|NO|stars_3
+127680|Elite Stora Örebro|Örebro|YES|stars_4
+129806|The Mayfair|Malmö|YES|stars_4
+133111|Comfort Jazz|Borås|NO|stars_3
+133112|Spar Majorna|Göteborg|YES|stars_3
+133114|Spar Gårda|Göteborg|YES|stars_3
+133115|Allen|Göteborg|NO|stars_3
+133119|Ibis Styles Karlstad City|Karlstad|NO|stars_3
+133120|Best Western Waxnas|Karlstad|NO|stars_3
+133123|Comfort Arctic|Lulea|NO|stars_3.5
+133126|Hotel Forty Towers|Nyköping|NO|stars_3
+133128|Best Western City|Örebro|NO|stars_4
+133130|Pj Behrn|Örebro|YES|stars_4
+133131|Aurum|Skellefteå|YES|0
+133132|First Hotel Statt|Söderhamn|YES|stars_4
+133133|Attache|Stockholm|YES|stars_3
+133134|Hansson|Stockholm|NO|stars_3.5
+133135|Elite Knaust|Sundsvall|YES|stars_4
+133137|Quality Västerås|Västerås|NO|stars_3
+133138|Elite Park Växjö|Växjö|YES|stars_4
+135324|Best Western Plus Kalmarsund|Kalmar|NO|stars_4
+135329|First Hotel Statt|Örnsköldsvik|YES|stars_3
+135330|Lundia|Lund|NO|stars_4
+135331|Clarion Collection Planetstaden|Lund|NO|stars_4
+135343|Best Western Scheele|Köping|NO|stars_3
+135345|Loka Brunn|Grythyttan|NO|stars_4
+135347|Karmansbo Herrgard Resorthotel|Kolsva|NO|stars_3.5
+135353|Björkuddens Hotell & Restaurant|Nyadal|NO|stars_4
+135355|Ljugarns Semesterby|Ljugarn|NO|0
+136257|Polarhotel|Älvsbyn|NO|stars_3
+136589|TOTT Visby|Visby|NO|stars_4
+137346|Laholmen Hotell|Strömstad|NO|stars_3
+137574|First Hotel Grand|Alingsas|YES|stars_4
+138801|Connect Skavsta|Nyköping|YES|stars_3
+139545|Ronja|Vimmerby|NO|stars_3
+139548|Stureplan|Stockholm|NO|stars_4
+143213|Scandic Gävle Väst Hotel|Gävle|NO|stars_3
+143414|Feriendorf Sollerö|Siljansee|NO|0
+143415|Älgstugan Ferienhäuser|Särna|NO|0
+162518|Central|Vetlanda|YES|stars_3
+162519|Grand Lund|Lund|NO|stars_4
+162520|Lorensberg|Göteborg|YES|0
+162521|Karlskoga Hotel|Karlskoga|YES|stars_3
+162522|Memory Hotel|Stockholm|YES|stars_4
+162523|Siesta|Karlskrona|NO|stars_3
+162525|Ibis Varnamo|Värnamo|NO|stars_3
+162527|Best Western Arlanda Hotellby|Arlanda|NO|stars_3
+162528|Best Western Hotel Duxiana|Helsingborg|NO|stars_4
+162529|Radmannen|Köping|YES|0
+162530|Örgryte|Göteborg|YES|0
+162531|Best Western Hotel Esplanade|Västerås|NO|stars_3.5
+162532|Royal|Göteborg|YES|stars_3
+162533|Best Western Plaza Hotel|Eskilstuna|NO|stars_4
+162536|Maudes Business Park|Solna|NO|stars_3
+162538|Hoegland|Nässjö|NO|stars_4
+162540|Hotell Viking by Maxwell|Helsingborg|NO|stars_4
+162541|MR Chip Hotel|Stockholm|YES|0
+162542|Storgaarden|Örebro|YES|0
+162548|Continental|Ystad|YES|stars_3
+162550|Best Western Linkoping|Linköping|NO|stars_3
+162553|Best Western Gustaf Froding Hotel & Konferens|Karlstad|NO|stars_4
+162554|Hornsgatan|Stockholm|NO|stars_2
+162555|Grand Hotel Falkenberg|Falkenberg|YES|stars_3.5
+162557|Grand Hotel|Jönköping|YES|stars_3
+162558|Amigo|Emmaboda|YES|0
+162559|Kaernan|Helsingborg|NO|stars_3
+162560|Vinterpalatset Hotel|Kiruna|YES|stars_3
+162562|2Kronor Hotel City|Stockholm|NO|stars_2
+162563|Quality Resort Stromstad|Strömstad|NO|stars_3
+162564|Mörby|Danderyd|NO|stars_3
+162566|Best Western Norra Vattern|Askersund|NO|stars_3
+162568|Klipper|Västerås|YES|stars_3
+162569|Continental|Halmstad|NO|stars_4
+162570|Skansen|Båstad|YES|0
+162573|Aston|Karlskrona|YES|stars_3
+162574|Frimurare|Kalmar|YES|stars_3
+162575|Grand Hotel Lapland|Gällivare|YES|stars_3
+162576|Focus|Örnsköldsvik|YES|0
+162577|Best Western Royal Corner Hotel|Växjö|NO|stars_4
+162581|Best Western Farsta Strand Hotel & Conference|Stockholm|NO|stars_3
+162582|Ulfsunda Slott|Bromma|YES|stars_4
+162583|Maria|Helsingborg|NO|stars_3
+162584|Duxiana|Malmö|YES|stars_4
+162586|Riverside Uddevalla|Uddevalla|YES|0
+162587|Naas Fabriker Hotell och Restaurang|Lerum|NO|stars_4
+162588|Mölndals Bro|Mölndal|YES|stars_3.5
+162589|Best Western Carlia|Uddevalla|NO|stars_3
+162590|Best Western Royal|Malmö|NO|stars_3.5
+162591|Grand Hotell Bollnäs|Bollnäs|NO|stars_3
+162593|Arkad|Västerås|NO|stars_3
+162595|Pitea Stadshotell|Pitea|YES|0
+162596|Best Western Tidbloms|Göteborg|NO|stars_3
+162600|Trollhättan Hotel|Trollhättan|NO|stars_3
+162602|Kristina|Sigtuna|NO|stars_4
+162604|Norrtull|Stockholm|NO|stars_3
+162605|Oresund AB|Landskrona|NO|stars_3
+162606|Best Western Edward|Lidköping|NO|stars_4
+162607|Best Western Hotell Goteborg|Göteborg|NO|stars_3
+162608|Best Western Princess|Norrköping|NO|stars_3
+162609|Slottshotellet i Kalmar|Kalmar|NO|stars_4
+162610|St. Clemens|Visby|YES|stars_3
+162614|Ideon Gasteri - Lund|Lund|NO|stars_3
+162615|Jemtlandia|Östersund|NO|stars_3
+162617|Concordia - Lund|Lund|YES|stars_4
+162618|Liseberg Heden|Göteborg|NO|stars_4
+162619|Best Western Motala Statt|Motala|NO|stars_3.5
+162620|Terraza|Ljungby|YES|stars_4
+162621|Aasen Hotel|Anderstorp|NO|stars_3
+162623|A Elgen|Östersund|YES|stars_3
+162628|Svea|Simrishamn|YES|stars_3
+162629|Best Western Sturup Airport|Malmö|NO|stars_3
+162630|Danderyds Gaestri|Danderyd|YES|0
+162631|Alfred Nobel|Karlskoga|YES|0
+162633|Kramm Hotel Kramfors|Kramfors|YES|0
+162634|Björkbackens Karaktärshotell|Vimmerby|NO|stars_3
+162636|Utsikten Hotell & Konferens - Nynashamn|Nynäshamn|NO|stars_4
+162637|Dragonen|Umea|YES|0
+162638|J Sealodge Gashaga|Lidingö|NO|stars_4
+162639|Adlon|Stockholm|NO|stars_3
+162640|Vilsta Sporthotell|Eskilstuna|YES|0
+162642|Colonial|Stockholm|NO|stars_2
+162643|Ibis Styles Stockholm Odenplan|Stockholm|NO|stars_3
+162644|Sirius|Kristianstad|NO|stars_3
+162645|Bishops Inn Kristianstad|Kristianstad|YES|stars_3
+162646|Conrad|Karlskrona|YES|stars_3
+162648|Best Western Hotel Savoy|Karlstad|YES|stars_3
+162649|Aqva Hotel|Mariestad|YES|0
+162650|Best Western Jula Hotell & Konferens|Skara|NO|stars_3
+162651|Zinkensdamm|Stockholm|YES|stars_3
+162665|Landvetter Airport|Göteborg|NO|stars_4
+162675|Kragga Herrgard|Habo|NO|stars_3
+162677|Fars Hatt|Kungälv|NO|stars_3
+182524|Scandic Malmö City Hotel|Malmö|YES|stars_3
+183716|Grand Hotel Opera|Göteborg|YES|stars_4
+183718|Sky Hotel Apartments - Stockholm|Stockholm|YES|stars_3
+187378|Langholmen|Stockholm|YES|0
+187485|Nordkalotten|Lulea|YES|0
+187515|Clarion Collection Bergmastaren|Falun|NO|stars_3
+187517|Hotel Kvarntorget|Uppsala|NO|stars_3
+187588|1909 Sigtuna Stadshotell|Sigtuna|NO|stars_5
+187608|Bele|Vänersborg|YES|stars_3
+187676|Hasselby Slott|Stockholm|YES|0
+187989|Strandhotel Borgholm|Borgholm|NO|stars_3
+196346|Torekov|Torekov|YES|stars_4
+197152|Best Western Plus Hotel Mektagonen|Göteborg|YES|stars_3.5
+202065|Red Haven Cottage|Ukna|NO|0
+202320|Kosta Boda Art|Kosta|NO|stars_4
+203190|Amalias Hus|Gränna|NO|stars_4
+203216|Elite Marina Tower|Stockholm|YES|stars_4
+203627|Hotel 1|Visby|NO|stars_4
+203835|Acco Hostel|Stockholm|NO|stars_2
+203864|Active Stay|Borlänge|NO|stars_3
+204002|ÅhusStrand|Ahus|NO|stars_3.5
+205170|Arena|Göteborg|NO|stars_3
+205381|Åtellet Hotell|Nortällje|NO|stars_3
+205727|Badhotellet Spa & Konferens|Tranas|NO|stars_4
+205764|Bakfickan|Stockholm|NO|stars_2
+206326|Bohusgården Hotell & Konferens|Uddevalla|YES|stars_4
+206335|Bomans Hotell & Restaurant|Trosa|NO|stars_4
+206857|Buta Palats|Växjö|NO|stars_3
+207251|Charlotte|Uppsala|NO|stars_3
+207418|City Hostel|Helsingborg|NO|stars_2
+207425|City|Göteborg|NO|stars_2
+207487|Clarion Collection Cardinal|Växjö|NO|stars_4
+207490|Clarion Winn|Gävle|NO|stars_4
+207613|Comfort Winn|Umea|NO|stars_3.5
+207641|Comwell Aspenäs|Lerum|NO|stars_3
+207687|Continental Malmö|Malmö|NO|stars_2
+207699|Copperhill Mountain Lodge, Ascend Collection|Are|NO|stars_5
+209284|Fjällhotellet Lofsdalen|Lofsdalen|NO|stars_2
+209488|Gammelgården|Sälen|NO|stars_4
+210385|Hotell Hehrne Restad Gard|Vänersborg|NO|stars_3
+211481|Hotell & Konferens Flottiljen|Ängelholm|NO|0
+211482|Angöringen|Karlskrona|NO|stars_3
+211483|Hotell Ett|Oskarshamn|YES|stars_4
+211484|Hotell Fyrislund|Uppsala|YES|stars_3
+211486|Gute|Visby|NO|stars_3
+211488|Kupolen|Borlänge|NO|stars_3
+211490|Hotell Långbers|Tällberg|NO|stars_3
+211491|Hotell Marieberg|Kristinehamn|NO|stars_3
+211492|Hotell Miskarp|Mjölby|NO|stars_3
+211493|Hotell Nissastigen|Gislaved|NO|stars_3
+211494|Saga|Borlänge|NO|stars_3
+211499|Hotell Svea|Sala|NO|stars_2
+211500|Hotell Svedjegården|Kristinehamn|NO|stars_3
+211502|Villa Borgen|Visby|NO|stars_3
+211601|Hviidehus|Ronneby|NO|stars_3
+211903|Jämteborg|Östersund|NO|stars_3
+211972|Jumbo Stay|Arlanda|YES|stars_2
+212179|Kockska Gården|Simrishamn|NO|stars_3
+212244|Krusenberg Herrgård|Uppsala|NO|stars_4
+213282|Liljeholmens Stadshotell|Stockholm|NO|stars_2
+213287|Lilton|Göteborg|NO|stars_3
+214062|Miatorp Hostel & Hotel|Helsingborg|NO|stars_3
+214620|Nynäsgården Hotell & Konferens AB|Nynäshamn|NO|stars_3
+215682|Poseidon|Göteborg|YES|stars_3
+216603|Rasta Kalmar|Kalmar|NO|stars_3
+217664|Sälens Högfjällshotell|Sälen|NO|stars_3
+217758|Sankt Jörgen Park Resort|Göteborg|NO|stars_4
+218086|Skara Stadshotell|Skara|NO|stars_4
+218087|Skärgårdshotellet|Nynäshamn|NO|stars_3
+218089|Skeppsholmen|Stockholm|NO|stars_4
+218094|Sky Hotel Apartments|Linköping|YES|stars_3
+218116|Slottsskogen Hostel|Göteborg|NO|stars_2
+218314|Elisero Hotell|Hisings Backa|YES|stars_3
+218435|Stjärnholms Slott Stiftsgarden Stjärnholm|Oxelösund|NO|stars_3
+218446|Stora Brännbo Konferens & Hotell|Sigtuna|NO|stars_3
+218449|Story Hotel|Stockholm|NO|stars_4
+218454|Strand|Norrköping|NO|stars_3.5
+218552|Sunlight Hotel Conference & Spa|Nyköping|NO|stars_3
+218596|Sven Vintappare|Stockholm|NO|stars_3
+218843|Bishops Inn Köping|Köping|YES|stars_3
+219939|Uppsala Lägenhetshotell|Uppsala|NO|stars_2
+220009|Vår Gård Saltsjöbaden|Saltsjöbaden|NO|stars_4
+220115|Viktoria Hotell & Konferens|Uppsala|YES|stars_3
+220618|Wasa Park Hotel|Stockholm|NO|stars_2
+221325|Bed & Breakfast Lyckebo Gård|Trelleborg|NO|stars_2
+221414|Byxelkroks Marina Sea Resort|Byxelkrok|NO|stars_3
+221909|Best Western Fagersta Brukshotell|Fagersta|NO|stars_3
+222311|Hotell Blå Blom|Värmdö|NO|stars_3
+222312|Dialog|Stockholm|YES|stars_2
+222314|Hotell Duxiana Dannegården|Trelleborg|NO|stars_4
+222317|Best Western Hotell Lerdalshöjden|Rättvik - Martansberg|NO|stars_3
+222320|Hotell Stjärnan|Ekerö|NO|stars_3
+222324|Hotell Wilhelmina|Vilhelmina|NO|stars_4
+222353|Huskvarna Stadshotell|Jönköping|NO|stars_4
+222579|Långshyttans Brukshotell|Hedemora|NO|stars_3
+222718|Madam Blå Hotel|Nossebro|NO|stars_3
+222728|Malå Hotel Skicamp|Malå|NO|stars_3
+223168|Ramkvilla Hotell & Konferens|Ramkvilla|NO|0
+223291|Rimforsa Strand Hotel|Rimforsa|NO|stars_3
+223303|Best Western Rogge|Strängnäs|NO|stars_3
+223312|Rosersbergs Hotell och Konferens|Stockholm|NO|0
+223368|Salbohed Gården Bed & Breakfast|Salbohed|NO|stars_3
+223448|Smögens Havsbad|Smögen|NO|stars_4
+223510|Stora Hotellet Markaryd|Markaryd|NO|stars_3
+223515|Strandflickorna Hotel & Hostel|Lysekil|NO|stars_3
+223534|Surte|Surte|NO|stars_3
+223636|Ulvhälls Herrgård|Strängnäs|NO|0
+223673|Vann Spa Hotell & Konferens|Brastad|NO|stars_4
+223674|Värdshuset Lugnet|Malung|NO|0
+227013|Diplomat Aregarden|Are|NO|stars_4
+227028|Regenbogen Camp Mönsteras|Mönsteras|NO|stars_3.5
+228463|Svanstein Lodge|Övertornea|NO|stars_3
+228668|Nordic Chalet & Northern Lights Chalet|Jukkasjärvi|NO|0
+229150|Courtyard by Marriott Stockholm Kungsholmen|Stockholm|YES|stars_4
+230355|Grangärde Hotell & Konferens|Grangärde|NO|stars_3
+230356|Sikfors Herrgård|Hällefors|NO|0
+230357|Edets Värdshus|Lilla Edet|NO|stars_3
+230358|StayAt Lund|Lund|YES|stars_3
+230362|Grand Arctic|Överkalix|NO|stars_4
+231950|Ekhems Gård|Ängelholm|NO|0
+232332|Elite Plaza Malmö|Malmö|YES|stars_4
+232339|Elite Eden Park|Stockholm|YES|stars_4
+232921|Renaissance|Malmö|NO|stars_4.5
+233466|Sahlströmsgården|Torsby|NO|stars_3
+234881|Wiredaholm Golf & Konferens|Aneby|NO|stars_3
+238224|Best Western Plus Stockholm Bromma|Bromma|NO|stars_4
+238267|Nobis Hotel|Stockholm|NO|stars_5
+242898|Leksand Strand|Leksand|NO|stars_4
+244013|Clarion Post|Göteborg|NO|stars_4
+244319|Best Western Arena Hotell|Vänersborg|NO|stars_3
+245558|Radisson Blu Waterfront|Stockholm|NO|stars_4
+246468|Idala Gård|Trelleborg|NO|stars_3
+247688|Park Inn by Radisson Malmö|Malmö|NO|stars_4
+247689|Park Inn by Radisson Stockholm Hammarby Sjöstad|Stockholm|NO|stars_4
+248248|Hotel Scandic Victoria Tower|Stockholm|NO|stars_4
+249314|Radisson Blu Uppsala|Uppsala|NO|stars_4
+259565|Orsa Stadshotell|Orsa|NO|stars_3
+259618|Ferienanlage Mönsterås|Mönsteras|NO|stars_3.5
+259719|Dacke|Virserum|NO|stars_3
+260106|Hellstens Malmgard|Stockholm|YES|stars_3
+261206|Treehotel & Brittas Pensionat|Harads|NO|stars_5
+261474|Selma Spa, Ascend Collection|Sunne|NO|stars_4
+264506|Akademihotellet|Stockholm|NO|stars_3
+264508|Ibis Styles Stockholm Jarva|Stockholm|NO|stars_4
+264510|Hotel Aldoria|Stockholm|NO|stars_3
+264516|Rygerfjord Hotel And Hostel|Stockholm|NO|stars_2
+264517|Yasuragi|Stockholm|NO|stars_4
+270849|Hotell Årstaberg|Stockholm|NO|stars_2.5
+270851|Stockholm Hostel|Stockholm|NO|stars_2
+270853|Three Crown Bed and Breakfast|Stockholm|NO|stars_2
+270854|Skanstulls Hostel Stockholm|Stockholm|NO|stars_2
+270856|Old Town Lodge|Stockholm|NO|stars_2
+270857|M/S Monika Hotel & Cafe|Stockholm|NO|stars_3
+270858|Luxury Apartments|Stockholm|NO|stars_5
+270859|Hotel Söder|Stockholm|NO|stars_2
+271437|Kville Hotel|Göteborg|NO|stars_2
+273882|Taxus Bed and Breakfast|Malmö|NO|stars_2
+273884|Malmö Camping Sibbarp|Malmö|NO|stars_2
+273932|Hotell Svanen|Kalmar|NO|stars_2
+273933|Hotell Hilda|Kalmar|NO|stars_3
+273944|Pensionat Maglarp|Trelleborg|NO|stars_2.5
+273945|Best Western Hotel Hansa|Trelleborg|NO|stars_3
+274017|Tjärkoket Apartment Hotel|Visby|NO|stars_3
+274019|Visby Börs|Visby|NO|stars_3
+274020|Donners Hotell|Visby|YES|stars_4
+274022|Hotel Slottsbacken|Visby|YES|stars_4
+274207|Platypus Penthouse Honeymoon Suite|Helsingborg|NO|stars_3
+274209|Stadshotellet Kristianstad|Kristianstad|NO|stars_3
+274211|Herrestad Gästis|Ystad|NO|stars_3
+274212|Öjaby Herrgård|Växjö|NO|stars_3
+274213|Kvarnens B&B|Falkenberg|NO|0
+274214|Grand Hotel Lysekil|Lysekil|NO|stars_3
+274215|Fjordhotellet|Lysekil|NO|stars_3
+274217|Stenliden B & B|Sjuntorp|NO|stars_3
+274236|Bogesundsgården|Tynningö - Vaxholm Island|NO|stars_2
+274238|Eriksgårdens Fjällhotell|Funäsdalen|NO|stars_3
+274325|Park Hotell|Lulea|NO|stars_3
+274326|Citysleep|Lulea|NO|stars_2
+274445|Ekebacken Hotell & Konferens|Markaryd|NO|stars_3
+274448|Trehörna Wärdshus|Tranas|NO|stars_2
+274449|Hotell Sköna Nätter|Borås|YES|stars_3
+274450|Villa E Bed & Breakfast|Alingsas|NO|stars_3
+274451|Park Hotel Motala|Motala|NO|stars_3
+274452|Starby Hotel, Conference & Spa|Vadstena|YES|stars_3
+274947|Högbo Pensionat Skommarsgården|Sandviken|NO|stars_3
+275289|Brommavik|Bromma|NO|stars_4
+275291|Pio Country Club|Halmstad|NO|stars_4
+275292|Rum För Resande - Guest House|Skellefteå|NO|stars_3
+275293|Sidsjö Hotell & Konferens|Sundsvall|NO|stars_2
+275913|Röda Stallet B&B|Hjo|NO|stars_2
+276252|Kvarnen i Knällsberg|Tingsryd|NO|stars_3
+276253|Kurorten Mösseberg|Falköping|NO|stars_3
+276616|Mattisgården Bed & Breakfast|Klippan|NO|stars_2
+276759|Bjurfors Hotell & Konferens|Avesta|NO|stars_3
+276837|Pensionat Neptun|Båstad|NO|stars_2
+276838|Hotell Hovs Hallar|Båstad|NO|stars_3
+277055|Sigtuna Höjden Hotell & Konferens|Sigtuna|NO|stars_3
+277064|KivikStrand Logi & Cafe|Kivik|NO|stars_3
+277155|Millestgården Åre|Duved|NO|stars_2
+277156|Wärdshuset C. Dickens|Fagersta|NO|stars_3
+277158|Kåseholms Slott|Tomelilla|NO|stars_3
+279497|Nya Varvet Studios|Göteborg|NO|stars_3.5
+279498|Hotel Pigalle|Göteborg|NO|stars_2
+280991|Hotel Bishops Inn Kiruna|Kiruna|YES|stars_3
+281066|Scandic Karlskrona Hotel|Karlskrona|NO|stars_4
+281177|Kastellet Bed & Breakfast|Tynningö - Vaxholm Island|NO|stars_2
+282260|Hotel Finn|Lund|NO|stars_3
+282261|The More Hotel Lund|Lund|NO|stars_3
+286140|Clarion Hotel Arlanda Airport|Arlanda|NO|stars_4
+286542|Radisson Blu Riverside Hotel, Gothenburg|Göteborg|NO|stars_4
+287879|Quality Spa And Resort Dalecar|Tällberg|NO|stars_4
+288067|Nostalgi Hotel Motala|Motala|YES|0
+292502|Hotel & Vandrarhem 10 - Hostel|Göteborg|NO|stars_2
+292973|Frostavallen Sweden Hotels|Höör|YES|0
+292975|Hotell Mossbylund|Ystad|NO|stars_4
+292978|Lögnäs Gård|Laholm - Skummelöv|NO|0
+292981|Hotel Carlsborg|Undenäs - Karlsborg|NO|stars_3
+292987|Åmåls Stadshotell|Amal|YES|stars_3
+293056|Hoby Gård|Borrby|NO|0
+293057|Solvikens Pensionat|Ingelstad|NO|0
+293058|Möre Hotell|Söderakra|NO|stars_3
+293059|Rydboholms Wärdshus|Borås|NO|stars_2
+293136|Hallandsåsen Hostel & B&B|Hjärnarp|NO|stars_2
+293157|Villa Bråviken|Norrköping|NO|stars_3
+293159|The Lamp|Norrköping|NO|stars_4
+293164|Hällsnäs Konferens & Affärsklubb|Mölnlycke|NO|stars_4
+293327|Västerbacken Hotell och Konferens|Umea|NO|stars_2
+293455|Hem till Gården|Västerås|NO|stars_3
+293457|Livin Hotel Sweden Hotels|Örebro|YES|0
+293532|Villa Martini Bed & Breakfast|Varberg|NO|stars_3
+293662|Kastanjelunds Wärdshus|Yngsjö|NO|stars_3
+293664|Flygplatshotellet|Härryda|NO|stars_2
+293665|Victoria Gränshotell|Töcksfors|NO|stars_3
+293851|Hotel Per Olof Garden|Hallsberg|NO|stars_3
+294077|Hotel Stelor|Klintehamn|NO|stars_3
+294078|Hotel Drei Jahreszeiten|Köpingsvik|NO|stars_3
+294159|Villa Pauli Hotel|Djursholm|NO|stars_4
+294160|Tollereds Hotell|Lerum|NO|stars_2.5
+294233|Hotell Kungshamn|Kungshamn|NO|stars_4
+294235|Sol & Sand Bed & Breakfast|Ytterby|NO|0
+294237|Pappersbruket|Broby|NO|stars_2
+294239|Saxnäsgården Hotell & Konferens|Saxnäs|NO|stars_3
+294240|Himmelsby Gårdshotell|Mantorp|NO|stars_3
+294294|Garpgården Logi och Vandrarhem|Hedemora|NO|stars_2
+294295|Bed & Breakfast Gryttinge|Svalöv|NO|stars_2
+294634|Hotell Höga Kusten|Sandöverken|YES|stars_4
+294636|Connect Stockholm|Älvsjö|YES|stars_3
+294639|Marstrands Havshotell|Marstrand|NO|stars_4
+294821|Pure Retreat|Ärla|NO|stars_3
+294822|Hotell Katrineberg|Sköldinge|NO|stars_3
+295313|Hussborg Herrgård|Ånge|NO|stars_3
+295549|Attendo Park|Huddinge|NO|stars_3
+295551|Marican Hostel & Hotel|Norrköping|NO|stars_2
+295552|Brunnby Gård|Nyhamnsläge|NO|stars_3
+295553|Körunda Golf & Konferenzhotel|Ösmo|NO|stars_4
+295554|Ekenäs|Sydkoster|NO|stars_3
+296437|Metro|Stockholm|NO|stars_3
+298286|Norregård|Falsterbo|NO|stars_3
+298711|Jöns Andersgården|Rättvik - Martansberg|NO|stars_3
+324428|Strand Vandrarhem & Kusthotell|Lysekil|NO|stars_2
+359866|Clarion Hotel Sense|Lulea|NO|stars_4
+367912|Gorvlans Slott|Stockholm|NO|stars_5
+367913|Hotel Manen|Stockholm|NO|stars_3
+367914|Melody Hotel|Stockholm|NO|stars_4
+367915|Omena Hotel Stockholm|Stockholm|NO|stars_3
+368212|Upper House|Göteborg|NO|stars_5
+369201|Best Western Ljungby|Ljungby|NO|stars_3
+369207|Malmköping|Malmköping|YES|0
+369225|Kompassen|Enköping|NO|stars_3
+369345|Hjartared Ullared|Ullared|NO|stars_3
+369346|Park Linkoping|Linköping|YES|stars_3
+369423|River C Hotell|Karlstad|NO|stars_3
+369604|Villa Fridhem|Norrköping|NO|stars_4
+369806|Elite Grand Gavle|Gävle|YES|stars_4
+369807|Elite Ideon|Lund|YES|stars_4
+369809|Park Inn by Radisson Lund|Lund|NO|stars_4
+369810|Elite Plaza Hotel Ornskoldsvik|Örnsköldsvik|NO|stars_4
+369811|Kulturhuset Ytterjarna  Sweden Hotels|Södertalje|YES|0
+369813|Hotel By Maude|Solna|NO|stars_3
+369814|Quality Hotel Friends|Solna|NO|stars_4
+369815|City Stay Uppsala|Uppsala|YES|stars_2
+369816|Grand Hotel Hornan Sweden Hotels-uppsala|Uppsala|YES|0
+370455|Hotel Havanna Sweden Hotels|Varberg|YES|0
+370780|Karstorp Hotel And Konferens|Skövde|YES|0
+371819|Best Western The Public Hotel|Akersberga|NO|stars_3
+372914|Strand Golf Hotel|Eskilstuna|NO|stars_3.5
+372941|Salt & Sill|Klädesholmen|NO|stars_4
+372942|Svarta Herrgard|Svarta|NO|stars_4
+381469|Statt|Hässleholm|YES|0
+392219|Hotel Källan|Norsjö|NO|0
+403308|Göteborgs Mini-Hotel|Göteborg|NO|stars_2
+404800|Miss Clara By Nobis|Stockholm|NO|stars_4
+404802|Norlandia Care Arstaviken Hotell|Stockholm|NO|stars_3.5
+404985|Abrins Hotell Bed & Breakfast i Västeras AB|Västerås|NO|stars_3
+405047|Best Western Liza Hotell|Gällivare|NO|stars_3
+406063|Elite Stadshotellet|Eskilstuna|YES|stars_4
+413466|Pm & Vänner Hotel|Växjö|NO|stars_4
+413467|Färna Herrgård & Spa|Skinnskatteberg|NO|stars_3.5

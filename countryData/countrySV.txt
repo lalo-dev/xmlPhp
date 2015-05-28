@@ -1,0 +1,17 @@
+77545|Real San Salvador Intercontinental|San Salvador|NO|stars_5
+91125|Hilton Princess|San Salvador|NO|stars_4.5
+104048|Siesta & Casino|San Salvador|NO|stars_3
+107783|Holiday Inn San Salvador|San Salvador|NO|stars_3
+110553|Royal Decameron Salinitas|Salinitas|NO|stars_3
+110704|Sheraton Presidente  San Salvador|San Salvador|YES|stars_5
+111139|Terraza|San Salvador|NO|stars_3
+162463|Mirador Plaza|San Salvador|NO|stars_3
+162655|Novo Apart|San Salvador|NO|stars_3
+236350|Villa Florencia|San Salvador|NO|stars_3
+236367|De La Escalon|San Salvador|NO|stars_3
+236369|Villa Florencia Zona Centro|San Salvador|NO|stars_2
+236372|La Posada del Angel|San Salvador|NO|stars_3
+236373|Crowne Plaza San Salvador|San Salvador|NO|stars_4
+236462|Posada del Rey Primero|San Salvador|NO|stars_3
+236499|Plaza Hotel & Suites|San Salvador|NO|stars_3
+295534|Alicante Apaneca|Concepción de Ataco|NO|stars_3

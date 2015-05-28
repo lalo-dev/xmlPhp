@@ -1,0 +1,355 @@
+8128|Astoria|Saint Petersburg|YES|stars_5
+8980|Neptun|Saint Petersburg|NO|stars_3
+11055|Angleterre|Saint Petersburg|YES|stars_4.5
+15314|Baltschug Kempinski|Moscow|YES|stars_5
+15318|Grand Hotel Europe|Saint Petersburg|YES|stars_5
+17060|Moscow Marriott Grand Hotel|Moscow|NO|stars_5
+17398|Metropol Moscow Hotel|Moscow|YES|stars_5
+17740|Moskwa|Saint Petersburg|YES|stars_4
+17835|National|Moscow|YES|stars_5
+19818|Radisson Slavjanskaja / Slavyanskaya|Moscow|YES|stars_4
+20145|AZIMUT Moscow Olympic|Moscow|NO|stars_4
+21561|Corinthia St.Petersburg|Saint Petersburg|NO|stars_5
+21568|Sheraton Palace|Moscow|YES|stars_5
+26120|Radisson Blu Royal St. Petersburg|Saint Petersburg|YES|stars_5
+29339|Savoy|Moscow|YES|stars_5
+29343|Ladoga|Saint Petersburg|YES|stars_3
+32170|Golden Ring|Moscow|YES|stars_5
+32171|Iris Congress|Moscow|YES|stars_4
+32172|Arbat|Moscow|NO|stars_3
+32173|Budapest|Moscow|YES|stars_4
+32174|Ismailovo - Gamma / Delta|Moscow|YES|stars_3
+32175|Kosmos|Moscow|YES|stars_3
+32176|Marco Polo Presnja|Moscow|YES|stars_4
+32177|Radisson Royal Moscow|Moscow|YES|stars_4.5
+32178|Oktiabrskaya|Saint Petersburg|NO|stars_4
+32179|Park Inn by Radisson Pulkovskaya|Saint Petersburg|NO|stars_4
+32180|Ochtinskaja|Saint Petersburg|YES|stars_3
+32181|Park Inn by Radisson Pribaltijskaja St. Petersburg|Saint Petersburg|YES|stars_4
+32182|AZIMUT Hotel Saint Petersburg|Saint Petersburg|YES|stars_3
+32183|St. Petersburg|Saint Petersburg|YES|stars_3
+34158|Karelia|Saint Petersburg|YES|stars_3
+34159|Poljustrowo|Saint Petersburg|NO|stars_3
+34160|Atrium Palace|Jekaterinburg (St. Petersburg)|YES|stars_5
+34165|AMAKS Safar|Kasan|YES|stars_3
+34168|Don Plaza|Rostov on Don|YES|stars_4
+34170|Azimut Samara|Samara|YES|stars_3
+34171|Park Inn by Radisson Poliarnie Zori, Murmansk|Murmansk|YES|stars_4
+34172|AZIMUT Hotel Siberia|Novosibirsk|NO|stars_3
+34173|Wolna|Nizhniy Novgorod|YES|stars_4
+34174|President|Ufa|NO|stars_4
+34175|Radisson Lazurnaya|Sochi|NO|stars_4
+34176|Zhemchuzhina|Sochi|NO|stars_4
+34181|Tjumen|Tjumen|NO|stars_4
+34215|Kaliningrad|Kaliningrad|NO|stars_3
+34216|Moskwa|Kaliningrad|YES|stars_3
+34217|Russ|Swetlogorsk|NO|stars_4
+38771|Ararat Park Hyatt Moscow|Moscow|YES|stars_5
+38772|Crowne Plaza Moscow World Trade Centre|Moscow|YES|stars_5
+38773|Dostojewskij|Saint Petersburg|YES|stars_4
+48367|Taleon Imperial|Saint Petersburg|NO|stars_5
+48524|Renaissance Baltic|Saint Petersburg|NO|stars_5
+49997|Marriott Tverskaya|Moscow|NO|stars_4
+50696|Novotel Moscow Sheremetyevo Airport|Moscow|YES|stars_4
+50795|Guyot|Saint Petersburg|NO|stars_4
+52410|Aerostar|Moscow|YES|stars_4
+53270|Katerina City|Moscow|YES|stars_4
+53271|Andersen|Saint Petersburg|YES|stars_3
+56007|Novotel St Petersburg Centre|Saint Petersburg|YES|stars_4
+59919|Juschny Ural|Tscheljabinsk|YES|stars_2
+61171|Arbat Nord|Saint Petersburg|YES|stars_3
+64749|Swissotel Krasnye Holmy|Moscow|YES|stars_5
+64751|Grand Palace|Swetlogorsk|NO|stars_5
+65131|Kempinski Hotel Moika 22|Saint Petersburg|YES|stars_5
+68156|Prometey Club|Sochi|NO|stars_4
+68290|Scheksna|Sochi|NO|stars_4
+69262|Ambassador|Saint Petersburg|YES|stars_4
+70827|Holiday Inn Moskau - Lesnaya|Moscow|YES|stars_4
+70828|Golden Apple|Moscow|YES|stars_5
+70829|Sputnik|Moscow|YES|stars_3
+70830|Oksana|Moscow|NO|stars_3
+70832|Petro Palace Hotel|Saint Petersburg|YES|stars_4
+72036|Moscow Marriott Royal Aurora Hotel|Moscow|NO|stars_5
+72358|Novotel Moscow Centre|Moscow|YES|stars_4
+72360|Rossiya|Saint Petersburg|NO|stars_3
+75012|Sochi Breeze|Sochi|NO|stars_3
+76122|Korston Hotel Moscow|Moscow|YES|stars_4
+76952|Maxima Irbis|Moscow|YES|stars_3
+76987|Peter 1|Moscow|YES|stars_5
+76988|The Ritz-Carlton Moscow|Moscow|YES|stars_5
+76989|Zarya|Moscow|YES|stars_3
+76991|Helvetia|Saint Petersburg|YES|stars_4
+79464|Milan|Moscow|YES|stars_4
+79486|Holiday Inn Moscow Suschevsky|Moscow|YES|stars_4
+79487|Grand Emerald|Saint Petersburg|YES|stars_5
+79772|Rus-Hotel|Moscow|YES|stars_3
+80049|Glamour|Kaliningrad|NO|stars_3
+80092|Salut|Moscow|YES|stars_3
+85213|Bega|Moscow|NO|stars_3
+85215|Holiday Inn Sokolniki|Moscow|YES|stars_4
+85216|Warsaw|Moscow|NO|stars_3
+85217|Airhotel Domodedovo|Moscow|YES|stars_4
+85630|Moskomsport|Moscow|YES|stars_3
+85935|Rossija|Sowetsk|NO|stars_4
+86556|Brothers Karamazov|Saint Petersburg|YES|stars_4
+89389|Nevsky Moyka 5|Saint Petersburg|YES|stars_3
+89390|Nevsky Grand|Saint Petersburg|YES|stars_3
+89391|Nevsky Aster|Saint Petersburg|YES|stars_3
+89392|Nevsky Central|Saint Petersburg|YES|stars_3
+90204|Borodino|Moscow|YES|stars_4
+90208|Asteria|Saint Petersburg|NO|stars_3
+90410|Sokos Olympia Garden|Saint Petersburg|YES|stars_4
+91809|Solo Sokos Palace Bridge|Saint Petersburg|YES|stars_5
+91810|Ural & Almaz Urala|Perm|YES|stars_3
+92997|Ibis Saint Petersburg Centre|Saint Petersburg|YES|stars_3
+93531|Suleiman Palace|Kasan|YES|stars_4
+93536|Shalyapin Palace|Kasan|YES|stars_4
+93539|Golden Garden|Saint Petersburg|YES|stars_5
+93723|Maxima Slavia|Moscow|YES|stars_3
+95268|Hilton Leningradskaya|Moscow|YES|stars_5
+96890|Mamaison All-Suites Spa Pokrovka|Moscow|YES|stars_5
+96891|Proton|Moscow|YES|stars_4
+99800|Petro Sport Hotel|Saint Petersburg|YES|stars_3
+99801|SPB Vergaz|Saint Petersburg|NO|stars_3
+99802|NasHOTEL|Saint Petersburg|YES|stars_4
+100662|Arbat House|Moscow|YES|stars_3
+100665|Tourist|Moscow|YES|stars_3
+100670|Europa|Irkutsk|NO|stars_3
+102542|Nevsky Express|Saint Petersburg|NO|stars_3
+102738|Gulfstream|Kasan|YES|stars_4
+102739|Marins Park Hotel|Nizhniy Novgorod|YES|stars_3
+102741|New Star|Perm|YES|stars_4
+102742|Pio on Griboedova|Saint Petersburg|YES|stars_2
+102743|Ural|Jekaterinburg (St. Petersburg)|YES|stars_4
+102744|Atlantik|Jekaterinburg (St. Petersburg)|YES|stars_3
+102745|Yekaterininskaya|Jekaterinburg (St. Petersburg)|YES|stars_3
+104164|Art Moscow|Moscow|YES|stars_4
+104412|5Th Corner|Saint Petersburg|YES|stars_3
+104414|Alexandrovsky Garden|Nizhniy Novgorod|NO|stars_4
+104417|Altay|Moscow|NO|stars_3
+104425|Belgrad|Moscow|NO|stars_3
+104432|Eurasia|Saint Petersburg|NO|stars_3
+104439|Hermitage|Jekaterinburg (St. Petersburg)|NO|stars_3
+104454|Four Seasons Moscow|Moscow|NO|stars_5
+104457|Novinka|Kasan|YES|stars_3
+104459|Oktyabrskaya|Jekaterinburg (St. Petersburg)|YES|stars_4
+104462|Peking Hotel|Moscow|YES|stars_3
+104465|Premier|Jekaterinburg (St. Petersburg)|YES|stars_3
+104467|Regina|Saint Petersburg|NO|stars_3
+104474|Sretenskaya|Moscow|NO|stars_4
+104478|Transhotel|Jekaterinburg (St. Petersburg)|YES|stars_3
+104487|Zvezdnaya|Moscow|NO|stars_3
+107744|Holiday Inn Moskau - Vinogradovo|Moscow|YES|stars_4
+110202|Rinaldi at Bolshoy|Saint Petersburg|NO|stars_3
+110204|Rinaldi at Nevsky 105|Saint Petersburg|NO|stars_3
+122404|Obuhoff|Saint Petersburg|NO|stars_3
+122406|Hyatt Regency Ekaterinburg|Jekaterinburg (St. Petersburg)|NO|stars_5
+124869|Baltic Star|Saint Petersburg|YES|stars_5
+124870|Lancaster Court|Saint Petersburg|YES|stars_4
+124871|Pio Mokhovaya|Saint Petersburg|YES|stars_3
+124872|Lyra|Saint Petersburg|YES|stars_3
+124873|Egoeast Mini-Hotel|Saint Petersburg|NO|stars_1.5
+128800|Rinaldi Olympia|Saint Petersburg|NO|stars_3
+128806|Rinaldi Harmony|Saint Petersburg|NO|stars_3
+128807|Rinaldi Art|Saint Petersburg|NO|stars_3
+128808|Rinaldi Poetic|Saint Petersburg|NO|stars_3
+128850|Rinaldi at Moskovsky Prospect 18|Saint Petersburg|NO|stars_3
+135016|Usadba|Kaliningrad|NO|stars_3
+135017|Tschaika|Kaliningrad|NO|stars_4
+135018|Heliopark Kaiserhof|Kaliningrad|YES|stars_4
+135022|Universal|Swetlogorsk|NO|stars_3
+135024|Falke|Swetlogorsk|NO|stars_4
+135209|Marins Park|Sochi|YES|stars_4
+135719|Park Inn by Radisson Sadu, Moscow Hotel|Moscow|YES|stars_4
+137238|AMAKS Golden Ring|Wladimir|NO|stars_3
+139968|Courtyard St. Petersburg Vasilievsky|Saint Petersburg|YES|stars_4
+139970|Holiday Inn St.Petersburg - Moskovskye Vorota|Saint Petersburg|YES|stars_4
+139971|Solo Sokos Vasilievsky|Saint Petersburg|YES|stars_4
+139975|Villa Anna|Sochi|NO|stars_4
+139976|Peak|Krasnaja Poljana|YES|stars_4
+139977|Cheri Hall|Rostov on Don|NO|stars_3
+139978|Vertol|Rostov on Don|NO|stars_3
+162198|Rinaldi Premier|Saint Petersburg|NO|stars_3
+162232|Holiday Inn Chelyabinsk-Riverside|Tscheljabinsk|YES|stars_4
+162247|Meridian|Tscheljabinsk|YES|stars_3
+162259|Molodyozhny|Moscow|YES|stars_3
+162285|AZIMUT Hotel Kostroma|Kostroma|NO|stars_3
+162286|Grand Avenue|Jekaterinburg (St. Petersburg)|YES|stars_3
+162297|Demidov Bridge|Saint Petersburg|NO|stars_3
+162300|Alexanderplatz|Saint Petersburg|NO|stars_3
+162309|Zhemchuzhina|Perm|YES|stars_4
+162310|Nevsky Forum|Saint Petersburg|YES|stars_4
+162312|Centralny|Jekaterinburg (St. Petersburg)|NO|stars_3
+162326|Oktyabrskaya|Nizhniy Novgorod|YES|stars_3
+162332|Park Inn by Radisson Izhevsk Hotel|Izhevsk|NO|stars_4
+162336|Berezka|Tscheljabinsk|YES|stars_5
+162351|Kadashevskaya|Moscow|NO|stars_4
+162352|Amsterdam|Saint Petersburg|NO|stars_3
+162362|AZIMUT Hotel Astrakhan|Astrachan|YES|stars_3
+162368|ParkCity Hotel - CEK|Tscheljabinsk|NO|stars_4
+162370|Voznesensky|Jekaterinburg (St. Petersburg)|YES|stars_4
+162371|Park Inn by Radisson Ekaterinburg|Jekaterinburg (St. Petersburg)|YES|stars_4
+162373|Hilton Garden Inn Perm|Perm|YES|stars_4
+162379|AZIMUT Hotel Vladivostok|Vladivostok|NO|stars_3
+162385|Planernoye|Moscow|NO|stars_3
+162394|Nevsky Dvor|Saint Petersburg|NO|stars_3
+162397|AMAKS Tourist|Ufa|NO|stars_3
+162398|Palantin|Saint Petersburg|NO|stars_3
+162405|Grand Hotel Valentina|Anapa|NO|stars_5
+162414|Kristoff|Saint Petersburg|YES|stars_3
+162663|Courtyard Moscow City Center|Moscow|NO|stars_4
+162671|Holiday Inn Samara|Samara|YES|stars_4
+162698|SkyHotel|Saint Petersburg|YES|stars_2
+183715|Mandarin Residence|Moscow|YES|stars_4
+187584|Park|Anapa|NO|stars_4
+187666|Dynasty|Saint Petersburg|NO|stars_3
+187693|Latitude 55|Novosibirsk|NO|stars_3
+187719|Kebur Palace|Moscow|NO|stars_4
+187756|Ohotnik|Moscow|YES|stars_3
+187775|Ring Premier|Jaroslawl|NO|stars_4
+187883|Aquarium|Krasnogorsk|YES|stars_3
+187886|Astrus - Moscow City|Moscow|YES|stars_3
+187934|Polyana Grand|Sochi|NO|stars_5
+187954|Maxima Panorama|Moscow|YES|stars_3
+196323|Holiday Inn Moscow - Simonovsky|Moscow|NO|stars_4
+201410|Radisson Sonya St. Petersburg|Saint Petersburg|NO|stars_4
+202326|Tourist|Kaliningrad|NO|stars_3
+202327|Lumier|Swetlogorsk|NO|stars_3
+202329|Wolna|Swetlogorsk|NO|stars_3
+203100|Aeropolis|Moscow|YES|stars_3
+203211|Park Inn by Radisson Sheremetyevo Airport Moscow Hotel|Moscow|YES|stars_3
+204413|Alrosa Hotel|Moscow|NO|stars_4
+204491|AMAKS Congress|Rostov on Don|YES|stars_3
+204561|Anabel at Nevsky 88|Saint Petersburg|NO|stars_3
+205433|Atrium|Saint Petersburg|NO|stars_3
+208314|D'Hotel|Moscow|NO|stars_4
+209869|Golden Triangle Hotel|Saint Petersburg|NO|stars_4
+211630|Ibis Moscow Paveletskaya|Moscow|YES|stars_3
+211715|Ilmar City|Kasan|YES|stars_3
+214464|Nevsky Breeze|Saint Petersburg|YES|stars_3
+214777|Orekhovo|Moscow|NO|stars_3
+216566|Ramada Ekaterinburg|Jekaterinburg (St. Petersburg)|YES|0
+216905|Residence Moika River|Saint Petersburg|YES|0
+219751|Tradition|Saint Petersburg|NO|stars_4
+226683|Universitetskaya|Moscow|YES|stars_3
+227437|Ibis Kazan Centre|Kasan|YES|stars_3
+227853|Park Inn by Radisson Nevsky St. Petersburg Hotel|Saint Petersburg|NO|stars_4
+228001|Rostov|Rostov on Don|YES|stars_3
+228355|Tatarstan|Nabereschnyje Tschelny|YES|stars_3
+228356|Sherston|Moscow|YES|stars_3
+228357|69 Parallel|Murmansk|YES|stars_3
+228935|Olimp-5|Tjumen|NO|stars_3
+229085|Heliopark Smolino|Tscheljabinsk|YES|stars_4
+230114|Mirit|Moscow|NO|stars_3
+230562|Courtyard St. Petersburg Center West Pushkin|Saint Petersburg|NO|stars_4
+231629|Cronwell Inn Stremyannaya|Saint Petersburg|NO|stars_3
+231644|Katerina Park|Moscow|NO|stars_4
+231909|Baltica|Kaliningrad|NO|stars_3
+232096|Aquamarine Moscow|Moscow|YES|stars_4
+232230|Midland Sheremetyevo|Chimki|NO|stars_3
+232231|Renaissance Moscow Monarch Centre|Moscow|NO|stars_5
+232232|SK Royal|Moscow|NO|stars_4
+232233|Kassado Plaza|Moscow|NO|stars_4
+232235|Doubletree Novosibirsk|Novosibirsk|NO|stars_4
+232466|W St. Petersburg|Saint Petersburg|YES|stars_5
+233349|Lotte Moscow|Moscow|NO|stars_5
+233401|AMAKS Premier|Perm|NO|stars_4
+233403|Hayall|Kasan|NO|stars_4
+233404|River Park|Novosibirsk|NO|stars_3
+233424|Novosibirsk Congress Hotel|Novosibirsk|NO|stars_3
+233425|Aston|Saint Petersburg|NO|stars_4
+233755|Garden Ring|Moscow|NO|stars_4
+238242|Novotel Yekaterinburg Centre|Jekaterinburg (St. Petersburg)|NO|stars_4
+238243|Crowne Plaza Ligovsky|Saint Petersburg|NO|stars_4
+238245|Vostok|Tjumen|NO|stars_3
+238835|Radisson Blu Belorusskaya|Moscow|YES|stars_4
+238927|Bristol|Taganrog|NO|stars_3
+238931|Brigantina|Gelendzhik|NO|stars_3
+238938|Mitino|Moscow|NO|stars_3
+239277|Staybridge Suites St. Petersburg|Saint Petersburg|NO|stars_4
+239358|Radisson Kaliningrad|Kaliningrad|NO|stars_4
+240223|Marins Park|Jekaterinburg (St. Petersburg)|NO|stars_3
+240225|Park Inn by Radisson Astrakhan|Astrachan|NO|stars_4
+240227|Ibis Sibir-Omsk|Omsk|NO|stars_3
+240228|Ibis Nizhny Novgorod|Nizhniy Novgorod|NO|stars_3
+240229|AMAKS Park|Tambow|NO|stars_3
+240230|Zolotoy Dzhinn|Astrachan|NO|stars_3
+240232|Uyut|Krasnodar|NO|stars_4
+240233|Aminevskaya|Moscow|NO|stars_3
+241733|InterContinental Moscow - Tverskaya|Moscow|NO|stars_5
+241899|Mercure Arbat|Moscow|NO|stars_4
+242323|Ramada Domodedovo|Moscow|NO|stars_4
+243126|New Peterhof|Saint Petersburg|NO|stars_4
+243127|Demetra Art|Saint Petersburg|NO|stars_4
+243139|||NO|0
+243469|||NO|0
+244241|||NO|0
+246002|||NO|0
+246323|||NO|0
+246668|||NO|0
+247794|||NO|0
+249306|||NO|0
+249307|||NO|0
+259686|||NO|0
+259688|||NO|0
+259689|||NO|0
+259690|||NO|0
+259693|||NO|0
+259694|||NO|0
+259695|||NO|0
+259698|||NO|0
+259702|||NO|0
+259704|||NO|0
+259706|||NO|0
+259707|||NO|0
+259712|||NO|0
+259713|||NO|0
+259715|||NO|0
+259716|||NO|0
+259717|||NO|0
+259894|||NO|0
+260238|||NO|0
+260239|||NO|0
+260240|||NO|0
+260241|||NO|0
+260707|||NO|0
+260840|||NO|0
+260868|||NO|0
+261248|||NO|0
+261249|||NO|0
+261744|Inside|Moscow|NO|stars_3
+261748|Accent|Saint Petersburg|NO|stars_3
+261751|Bristol|Saint Petersburg|NO|stars_3
+276815|Park Inn by Radisson Rosa Khutor|Krasnaja Poljana|NO|stars_4
+279575|Indigo St. Petersburg - Tchaikovskogo|Saint Petersburg|NO|stars_4
+284276|Tulip Inn Rosa Khutor|Krasnaja Poljana|YES|stars_3
+286627|Capital|Saint Petersburg|YES|0
+287665|Oktyabrskaya Hotel|Samara|NO|stars_3
+292843|Yaroslavskoe Podvorie|Jaroslawl|NO|stars_3
+292844|Sport|Jaroslawl|NO|stars_3
+295151|Soyuz|Iwanowo|NO|stars_3
+295179|Barcelona Hotel|Uljanowsk|NO|stars_4
+295524|Ambassador|Kaluga|YES|0
+298018|The St. Regis Moscow Nikolskaya|Moscow|YES|stars_5
+300139|Park Inn by Radisson Sochi City Centre|Sochi|NO|stars_4
+301657|Novotel Moscow City|Moscow|NO|stars_4
+363532|Ismailowo Alfa|Moscow|YES|stars_3
+363533|Ismailowo Beta|Moscow|YES|stars_3
+363534|Ismailovo - Gamma|Moscow|YES|stars_3
+363535|Ismailovo - Delta|Moscow|NO|stars_4
+368305|The Official State Hermitage|Saint Petersburg|NO|stars_5
+391337|Swissotel Sochi Kamelia|Sochi|NO|stars_5
+392406|Mercure Moscow Paveletskaya|Moscow|NO|stars_4
+392409|Sheraton Moscow Sheremetyevo Airport|Moscow|NO|stars_5
+401212|Ibis Moscow Centre Bakhrushina|Moscow|NO|stars_3
+401384|AZIMUT Hotel Resort & Spa Sochi|Sochi|NO|stars_4
+401476|Hyatt Regency Sochi|Sochi|NO|stars_5
+401477|Radisson Blu Paradise Resort & Spa|Sochi|NO|stars_5
+402651|Gorki Plaza|Krasnaja Poljana|NO|stars_3
+402652|Sochi Marriott Krasnaya Polyana|Krasnaja Poljana|NO|stars_5
+404662|AZIMUT Hotel Sochi|Sochi|NO|stars_3
+405224|Golden Tulip Rosa Khutor|Esto-Sadok|YES|0
+405225|Tulip Inn Omega Sochi|Sochi|YES|0
+405253|Radisson Hotel, Rosa Khutor|Esto-Sadok|NO|stars_5
+420171|Korston Hotel & Mall Kazan - Korston Royal / Korston Tower|Kasan|YES|stars_4.5
+420186|Mirage Hotel|Kasan|YES|stars_5

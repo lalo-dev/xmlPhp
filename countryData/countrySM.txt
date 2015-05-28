@@ -1,0 +1,5 @@
+33998|San Giuseppe|San Marino|NO|stars_4
+41660|San Marino|San Marino|NO|stars_4
+111303|Titano|San Marino|NO|stars_4
+142147|Ixo Hotel|San Marino|YES|stars_4
+220503|Garden Village San Marino|San Marino|NO|stars_3

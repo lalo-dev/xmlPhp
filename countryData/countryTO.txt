@@ -1,0 +1,4 @@
+12391|Fafa Island Resort|Fafa Island|NO|stars_3
+32969|Sandy Beach Tonga|Foa|NO|stars_3.5
+138448|Waterfront Lodge|Nuku'Alofa|NO|stars_3
+245462|Reef Resort Vaba'u|Vava'u|NO|stars_3
