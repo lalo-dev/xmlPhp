@@ -1,0 +1,1782 @@
+1964|Acapulco Malibu|Acapulco|YES|stars_3.5
+1965|Hotel Panoramic Acapulco|Acapulco|YES|stars_2.5
+1967|Camino Real Acapulco Diamante|Acapulco|YES|stars_4
+1968|El Cano|Acapulco|YES|stars_5
+1970|El Tropicano|Acapulco|YES|stars_3
+1972|La Palapa|Acapulco|YES|stars_4
+1974|Parador del Sol|Acapulco|NO|stars_3.5
+1977|Melia Cabo Real|Cabo San Lucas|YES|stars_4
+1978|ME Cabo|Cabo San Lucas|YES|stars_5
+1979|Fiesta Americana Villas Cancun|Cancun|YES|stars_4
+1980|Sandy Village|Cancun|NO|stars_3.5
+1982|All Ritmo Cancun Resort & Water Park|Cancun|YES|stars_3
+1985|Grand Oasis Palm / Oasis Palm - Oasis Palm|Cancun|YES|stars_4
+1986|Cancun Clipper Club|Cancun|YES|stars_4
+1988|Grand Oasis Sens|Cancun|YES|stars_4.5
+1989|Caribbean Village Cancun|Cancun|NO|stars_3
+1990|Ocean|Cancun|YES|stars_3.5
+1992|Crown Club Paradise|Cancun|YES|stars_4
+1994|Celuisma Dos Playas & Maya Caribe - Dos Playas|Cancun|YES|stars_3
+1995|El Pueblito Beach|Cancun|YES|stars_3.5
+1996|Paradisus Cancun|Cancun|YES|stars_4.5
+1997|Adhara Hacienda Cancun|Cancun|YES|stars_3.5
+1998|Krystal Grand Punta Cancun|Cancun|YES|stars_5
+2000|Imperial Las Perlas|Cancun|YES|stars_3
+2006|ME Cancun|Cancun|YES|stars_5
+2008|Grand Oasis Cancún / Oasis Cancun|Cancun|YES|stars_5
+2010|Intercontinental Presidente Cancun Resort|Cancun|YES|stars_5
+2013|Caribbean Princess|Cancun|YES|stars_3.5
+2015|Barcelo Tucancun Beach Resort|Cancun|YES|stars_4
+2016|Cancun Bay Resort|Cancun|YES|stars_3
+2017|Grand Oasis Tulum / Oasis Tulum - Oasis Tulúm|Akumal|YES|stars_4
+2019|Sol Cabanas Del Caribe|Isla Cozumel|YES|stars_3
+2021|Albatros Royale - geschlossen|Playa del Carmen / Playacar|YES|stars_4
+2022|Allegro Playacar Resort|Playa del Carmen / Playacar|YES|stars_4
+2023|Viva Wyndham Azteca|Playa del Carmen / Playacar|YES|stars_3.5
+2026|El Tukan - El Tukan & Beach Club|Playa del Carmen / Playacar|YES|stars_3
+2028|Iberostar Tucán|Playa del Carmen / Playacar|YES|stars_5
+2029|Las Palapas|Playa del Carmen / Playacar|YES|stars_4
+2030|Viva Wyndham Maya|Playa del Carmen / Playacar|YES|stars_3.5
+2031|Magic Blue Boutique|Playa del Carmen / Playacar|YES|stars_4
+2032|Mosquito Blue|Playa del Carmen / Playacar|YES|stars_4
+2033|Iberostar Quetzal|Playa del Carmen / Playacar|YES|stars_5
+2034|Sandos Playacar Beach Resort - Beach Section / Family Section / Select Club Adults Only / Royal Elite Haciendas|Playa del Carmen / Playacar|YES|stars_5
+2036|Mahékal Beach Resort|Playa del Carmen / Playacar|YES|stars_4
+2037|Decameron Los Cocos|Guayabitos|NO|stars_3
+2038|Marival Resort & Suites|Nuevo Vallarta|YES|stars_4.5
+2041|Dreams Puerto Aventuras Resort & Spa|Puerto Aventuras|YES|stars_5
+2045|Buenaventura|Puerto Vallarta|YES|stars_4
+2046|Holiday Inn Puerto Vallarta|Puerto Vallarta|YES|stars_3.5
+2048|Barcelo Puerto Vallarta|Puerto Vallarta|YES|stars_5
+2051|Playa Los Arcos|Puerto Vallarta|YES|stars_3.5
+2053|Villa Vera|Puerto Vallarta|YES|stars_3
+2059|San Marino Plaza|Puerto Vallarta|YES|stars_3
+2060|Sheraton Buganvilias Resort|Puerto Vallarta|YES|stars_4
+2061|Sierra Nuevo Vallarta|Nuevo Vallarta|YES|stars_5
+2062|Tropicana|Puerto Vallarta|YES|stars_3
+6047|Villas Flamingos|Isla Holbox|YES|stars_4
+6057|Gran Bahia Principe - Tulum / Luxury Bahia Principe Akumal / Coba / Luxury Bahia Principe Sian Ka'an|Tulum|YES|stars_5
+6743|Royal Decameron Complex - Riviera de Nayarit|Bucerias|NO|stars_3
+7408|Allegro Cozumel Resort|Isla Cozumel|YES|stars_4
+7412|Royal Hideaway Playacar|Playa del Carmen / Playacar|YES|stars_5
+8351|Aventura Mexicana|Playa del Carmen / Playacar|NO|stars_3
+8493|Bali-Hai|Acapulco|YES|stars_3
+8519|Real Playa del Carmen|Playa del Carmen / Playacar|YES|stars_4
+8558|Barcelo Maya Beach Resort - Maya Beach / Caribe / Colonial / Tropical / Palace Deluxe|Riviera Maya|YES|stars_5
+8638|Beach Palace|Cancun|YES|stars_4.5
+9258|Ocean Maya Royale By H10 Hotels|Playa del Carmen / Playacar|YES|stars_5
+9411|Cabanas Maria del Mar|Isla Mujeres|NO|stars_3
+9494|Calinda Beach|Acapulco|YES|stars_3.5
+9495|Geneve|Mexico City|YES|stars_4.5
+9521|Catalonia Riviera Maya & Catalonia Yucatan Beach - Catalonia Riviera Maya|Puerto Aventuras|YES|stars_4
+9528|Camino Real Polanco|Mexico City|YES|stars_5
+10075|Casa Turquesa|Cancun|YES|stars_4
+10170|Castillo Huatulco|Huatulco|YES|stars_3
+10447|Ciudad Real|Palenque|YES|stars_3.5
+10508|Akumal Beach Resort|Akumal|YES|stars_4
+10745|Copacabana|Acapulco|YES|stars_4
+10986|Crown Paradise Club|Puerto Vallarta|YES|stars_4.5
+11663|Sunscape Dorado Pacifico|Ixtapa|YES|stars_4
+11926|Sandos Caracol Eco Experience Resort & Select Club|Playa del Carmen / Playacar|YES|stars_4.5
+11947|El Dorado Royale a Spa Resort|Riviera Maya|YES|stars_5
+12508|Fiesta Americana Puerto Vallarta|Puerto Vallarta|YES|stars_4
+12509|Fiesta Americana Merida|Merida|YES|stars_4
+12511|Fiesta Americana Condesa Cancun|Cancun|YES|stars_5
+12512|Fiesta Americana Grand Coral Beach Cancun|Cancun|YES|stars_5
+12513|Fiesta Americana Reforma|Mexico City|YES|stars_4
+12516|Fiesta Inn San Jose del Cabo - geschlossen|Cabo San Lucas|NO|stars_4
+12788|Flamingo Cancun Resort|Cancun|YES|stars_4
+12928|Four Seasons|Mexico City|NO|stars_5
+12949|Four Seasons Resort Punta Mita|Punta Mita|YES|stars_5
+13698|Hacienda|Puerto Vallarta|YES|stars_3
+13703|Hacienda Chichen Resort & Yaxkin Spa|Chichen Itza|YES|stars_4.5
+13710|Hacienda Maria Bonita|Playa del Carmen / Playacar|YES|stars_3
+13714|Hacienda San Jóse Cholul|Merida|YES|stars_4
+13715|Hacienda Santa Rosa|Santa Rosa|YES|stars_4.5
+13716|Hacienda Temozon|Merida|YES|stars_4.5
+13718|Hacienda Uxmal|Uxmal|YES|stars_4
+13720|Hacienda Xcanatun|Merida|NO|stars_5
+13983|Iberostar Cancun|Cancun|YES|stars_5
+14413|Desconocido|Costa Alegre|YES|stars_4
+14494|Grand Acapulco|Acapulco|YES|stars_4
+14543|Iberostar Cozumel|Isla Cozumel|YES|stars_5
+14549|Iberostar Paraíso Beach|Playa del Carmen / Playacar|YES|stars_5
+14741|Celuisma Imperial Laguna|Cancun|YES|stars_2.5
+14855|The Reef Playacar|Playa del Carmen / Playacar|YES|stars_4
+14856|BelleVue Beach Paradise|Cancun|YES|stars_4
+15661|La Concha Beach Resort|La Paz|YES|stars_4
+15751|Petit Lafitte|Playa del Carmen / Playacar|NO|stars_3
+15956|Las Brisas Acapulco|Acapulco|YES|stars_5
+15979|Las Golondrinas|Playa del Carmen / Playacar|YES|stars_3
+16014|Las Ventanas al Paraíso|San Jose del Cabo|YES|stars_5
+16497|Los Itzaes|Playa del Carmen / Playacar|YES|stars_3
+16550|Hard Rock Hotel Riviera Maya|Puerto Aventuras|YES|stars_4.5
+16696|Best Western Majestic|Mexico City|YES|stars_4
+16801|Maralisa|Acapulco|YES|stars_3
+16857|Ramada Cancun City|Cancun|YES|stars_3
+17027|Maroma Resort & Spa|Riviera Maya|YES|stars_5
+17032|Marquis Reforma|Mexico City|YES|stars_5
+17037|CasaMagna Marriott Cancun Resort|Cancun|YES|stars_4
+17038|CasaMagna Marriott Puerto Vallarta Resort & Spa|Puerto Vallarta|YES|stars_5
+17150|Mayaland|Chichen Itza|YES|stars_4.5
+17230|Melia Puerto Vallarta|Puerto Vallarta|YES|stars_4.5
+17473|Mimi del Mar|Playa del Carmen / Playacar|NO|stars_3
+17530|Miramar|Cancun|YES|stars_4
+17798|Na Balam|Isla Mujeres|NO|stars_4
+18305|Omni Cancun Hotel & Villas|Cancun|YES|stars_5
+18308|Omni Puerto Aventuras Beach Resort|Puerto Aventuras|YES|stars_5
+18921|Pelicano Inn|Playa del Carmen / Playacar|YES|stars_3
+19058|The Fairmont Pierre Marques|Acapulco|YES|stars_4
+19138|Playa Azul|Isla Cozumel|YES|stars_3.5
+19142|Acamar Beach Resort|Acapulco|YES|stars_3
+19164|Playa Suites|Acapulco|YES|stars_3.5
+19310|Gran Porto Real|Playa del Carmen / Playacar|YES|stars_5
+19329|Posada Real|Puerto Escondido|YES|stars_4
+19330|Riviera del Sol|Playa del Carmen / Playacar|NO|stars_3
+19408|Hotel El Presidente|Acapulco|YES|stars_3.5
+19410|Intercontinental Presidente Cozumel Resort & Spa|Isla Cozumel|YES|stars_5
+19411|Holiday Inn Resort Los Cabos|San Jose del Cabo|YES|stars_4
+19628|Ritz Acapulco|Acapulco|NO|stars_4
+19629|Friendly Vallarta Beach Resort & Spa|Puerto Vallarta|YES|stars_4
+19719|Quinta Real Acapulco|Acapulco|YES|stars_5
+19994|Vamar Vallarta|Puerto Vallarta|YES|stars_4
+20034|Hotel Regente City|Mexico City|YES|stars_4
+20248|Residencial|Merida|YES|stars_4
+20441|RIU Palace Mexico|Playa del Carmen / Playacar|YES|stars_5
+20451|RIU Playacar|Playa del Carmen / Playacar|YES|stars_5
+20459|Club RIU Tequila|Playa del Carmen / Playacar|YES|stars_5
+20466|RIU Yucatan|Playa del Carmen / Playacar|YES|stars_5
+20738|Best Western Royal Zona Rosa|Mexico City|YES|stars_4
+21532|Sheraton Hacienda del Mar Resort & Spa|Los Cabos|YES|stars_4.5
+21549|Sheraton Maria Isabel|Mexico City|YES|stars_5
+22330|Sun Palace|Cancun|YES|stars_5
+22385|Sunset Marina Resort & Yacht Club|Cancun|NO|stars_4
+22728|El Careyes Beach Resort|Costa Careyes|YES|stars_4.5
+22759|The Fairmont Acapulco Princess|Acapulco|YES|stars_4
+22974|The Ritz-Carlton Cancun|Cancun|YES|stars_5
+23059|The Westin Resort & Spa Cancun|Cancun|YES|stars_4
+23060|The Westin Resort & Spa Los Cabos|San Jose del Cabo|YES|stars_5
+23610|Velas Vallarta Suite Resort & Convention Center|Puerto Vallarta|YES|stars_4.5
+23779|Villa Amenecer|Playa del Carmen / Playacar|YES|stars_3
+23846|Viceroy Zihuatanejo|Zihuatanejo|NO|stars_4
+24140|Villas Delfines|Isla Holbox|YES|stars_4
+24155|Paraiso Azul's - Casa de Gopala|Playa del Carmen / Playacar|NO|stars_2.5
+24231|Grand Palladium Vallarta Resort & Spa|Puerto Vallarta|YES|stars_5
+26438|Catalonia Royal Tulum|Riviera Maya|YES|stars_5
+26647|Hacienda Principe Tulum|Riviera Maya|NO|stars_5
+26956|Best Western Del Mar|Campeche|YES|stars_3.5
+26957|Plaza Caribe|Cancun|YES|stars_3.5
+26961|Capital Plaza Chetumal|Chetumal|YES|stars_3.5
+26966|Villas Arqueologicas Chichen Itza|Chichen Itza|YES|stars_3
+26969|Palacio del Sol|Chihuahua|NO|stars_4.5
+26977|Camino Real Guadalajara|Guadalajara|YES|stars_4.5
+26980|Barcelo Huatulco Beach|Huatulco|YES|stars_5
+26981|Barceló Ixtapa Beach|Ixtapa|YES|stars_5
+26983|Posada de las Flores|Loreto|YES|stars_4.5
+26991|NH Mexico City|Mexico City|YES|stars_4
+26993|Zocalo Central|Mexico City|NO|stars_4
+26994|Casa Blanca|Mexico City|YES|stars_4
+26995|El Ejecutivo|Mexico City|YES|stars_3.5
+26996|Ritz|Mexico City|YES|stars_4
+26999|Hyatt Regency Merida|Merida|YES|stars_5
+27000|El Conquistador|Merida|YES|stars_4
+27002|Casa del Balam|Merida|YES|stars_5
+27004|Quinta Real Oaxaca|Oaxaca|YES|stars_4
+27007|Hostal de la Noria|Oaxaca|YES|stars_4
+27008|Oaxaca Real|Oaxaca|NO|stars_4
+27009|Misión Palenque|Palenque|YES|stars_4
+27012|Quinta Real Puebla|Puebla|YES|stars_5
+27013|Fiesta Inn Puebla Finsa|Puebla|YES|stars_3
+27016|Holiday Inn San Cristobal - Espanol|San Cristobal|YES|stars_3
+27019|Fiesta Americana Hacienda Galindo|San Juan del Rio|NO|stars_4.5
+27021|Monte Taxco|Taxco|YES|stars_4.5
+27023|Camino Real Tuxtla Gutierrez|Tuxtla Gutierrez|YES|stars_5
+27024|Comfort Inn Veracruz|Veracruz|YES|stars_3.5
+27025|Emporio Veracruz|Veracruz|YES|stars_4.5
+27027|Hyatt Regency Villahermosa|Villahermosa|YES|stars_4.5
+27032|Villa Premiere Hotel & Spa|Puerto Vallarta|YES|stars_5
+27050|Park Royal Cancun|Cancun|YES|stars_4
+27055|Lunata|Playa del Carmen / Playacar|YES|stars_3
+27058|Cabañas Los Lirios|Tulum|YES|stars_3
+27062|Ceiba del Mar Spa Resort - geschlossen|Puerto Morelos|YES|stars_4
+27065|Bel Air Collection Resort & Spa Xpuha Riviera|Riviera Maya|YES|stars_4
+27694|Chicanná Ecovillage Resort|Chicanna|YES|stars_3
+27696|Fiesta Inn Xalapa|Jalapa|YES|stars_3.5
+27697|De La Soledad|Morelia|YES|stars_4
+27699|Calli|Tehuantepec|YES|stars_3
+27830|Holiday Inn Resort Acapulco|Acapulco|YES|stars_3.5
+27832|Now Sapphire Riviera Cancun|Puerto Morelos|YES|stars_5
+27964|Barcelo Costa Cancun|Cancun|YES|stars_4
+27965|Gran Caribe Real|Cancun|YES|stars_5
+28038|Grand Palladium Riviera Maya - Colonial / Kantenah / White Sand / Royal Suites Yucatán / Riviera Spa|Riviera Maya|YES|stars_5
+31222|Zoëtry Villa Rolandi Isla Mujeres|Isla Mujeres|YES|stars_5
+31265|Quinto Sol|Playa del Carmen / Playacar|YES|stars_3
+31793|Plaza Inn|Los Mochis|NO|stars_4.5
+31794|Krystal Ixtapa|Ixtapa|YES|stars_4
+31795|El Castellano|Merida|YES|stars_4
+31796|Imperio de Angeles|San Miguel De Allende|YES|stars_3.5
+31797|Posada Diego de Mazariegos|San Cristobal|YES|stars_4
+31799|Real Bananas|Acapulco|YES|stars_3
+32096|Fiesta Americana Grand Chapultepec|Mexico City|YES|stars_5
+32106|Xaloc Resort|Isla Holbox|YES|stars_4
+32109|ClubHotel RIU Jalisco|Nuevo Vallarta|YES|stars_4
+32110|Occidental Grand Xcaret & Royal Club|Playa del Carmen / Playacar|YES|stars_5
+32111|Dreams Tulum Resort & Spa|Tulum|YES|stars_5
+32112|Occidental Grand Cozumel & Royal Club|Isla Cozumel|NO|stars_4
+33098|Villas HM Paraíso del Mar|Isla Holbox|YES|stars_4
+33099|RIU Cancun|Cancun|YES|stars_5
+33101|The Reef Coco Beach|Playa del Carmen / Playacar|YES|stars_4
+35576|Hacienda Paradise|Playa del Carmen / Playacar|YES|stars_4
+38045|Viceroy Riviera Maya|Riviera Maya|NO|stars_4.5
+38046|Zoëtry Paraiso de la Bonita|Cancun|YES|stars_5
+38047|Hacienda de San Antonio|Colima|NO|stars_6
+38202|Iberostar Paraíso Lindo|Playa del Carmen / Playacar|YES|stars_5
+38263|RIU Palace Las Americas|Cancun|YES|stars_5
+38322|One & Only Palmilla|San Jose del Cabo|NO|stars_5
+38390|Secrets Capri Riviera Cancun|Playa del Carmen / Playacar|YES|stars_5
+38537|JW Marriott Mexico City|Mexico City|YES|stars_5
+38538|Hilton Mexico City Reforma|Mexico City|YES|stars_4.5
+38539|Posada Real|Ixtapa|YES|stars_3.5
+38540|Tierra Maya|Playa del Carmen / Playacar|YES|stars_3
+38593|Casa Vieja|Mexico City|YES|stars_4.5
+38594|W Hotels Mexico City|Mexico City|YES|stars_5
+38843|Catalonia Riviera Maya & Catalonia Yucatan Beach - Catalonia Yucatan Beach|Puerto Aventuras|YES|stars_4
+38943|Seven Crown|La Paz|YES|stars_4
+38948|Club Med Cancun|Cancun|NO|stars_4
+38949|Parador San Miguel|Oaxaca|YES|stars_4
+38950|Hilton Garden Inn Boca del Rio Veracruz|Boca del Río|YES|stars_3
+38952|La Tortuga Resort|Playa del Carmen / Playacar|YES|stars_3
+38953|Pavo Real Beach Resort|Tulum|YES|stars_3
+39405|Hacienda Uayamon|Campeche|YES|stars_4.5
+39622|RIU Caribe|Cancun|YES|stars_4
+41757|Las Brisas Ixtapa|Ixtapa|YES|stars_5
+41758|Sandos Cancun Luxury Experience Resort|Cancun|YES|stars_4.5
+41760|Grand Bay Puerto de la Navidad|Manzanillo|YES|stars_4.5
+41761|Krystal Grand Reforma Uno|Mexico City|YES|stars_4.5
+41762|InterContinental Presidente Mexico City|Mexico City|YES|stars_4
+41763|Camino Real Zaashila Huatulco|Huatulco|NO|stars_4.5
+41764|Las Brisas Huatulco|Huatulco|YES|stars_4
+41765|Quinta Real Huatulco|Huatulco|YES|stars_5
+42467|Villa La Estancia|Cabo San Lucas|YES|stars_5
+42468|Pueblo Bonito Rose|Cabo San Lucas|YES|stars_4
+42469|Posada Real Los Cabos|San Jose del Cabo|YES|stars_3.5
+46599|JW Marriott Cancun Resort & Spa|Cancun|YES|stars_5
+46640|Hard Rock Cancun|Cancun|YES|stars_5
+46641|Solymar Beach Resort|Cancun|YES|stars_3
+46942|Qualton Ixtapa|Ixtapa|YES|stars_4
+46943|Fontan Ixtapa|Ixtapa|YES|stars_4
+46998|Costa Club Punta Arena Puerto Vallarta|Puerto Vallarta|YES|stars_3
+46999|Casa Velas|Puerto Vallarta|YES|stars_4.5
+47000|Westin Resort & Spa|Puerto Vallarta|YES|stars_4
+47002|Krystal Vallarta|Puerto Vallarta|YES|stars_4
+47132|Villas Vallarta by Canto del Sol|Puerto Vallarta|YES|stars_3
+47133|Suites la Siesta|Puerto Vallarta|YES|stars_3
+47240|Caribbean Paradise|Playa del Carmen / Playacar|YES|stars_3
+47340|Fiesta Americana Veracruz|Boca del Río|YES|stars_4
+47422|Tesoro Ixtapa Resort|Ixtapa|YES|stars_4
+47844|Club Tulum|Tulum|YES|stars_4
+48193|El Tamarindo Golf Resort|Cihuatlán|YES|stars_5
+48393|Park Royal Cozumel|Isla Cozumel|YES|stars_4
+48826|Molino de Agua|Puerto Vallarta|NO|stars_3
+49155|Krystal Cancún|Cancun|YES|stars_4
+49217|Fiesta Americana Cozumel Dive Resort|Isla Cozumel|YES|stars_4
+49218|B Cozumel|Isla Cozumel|YES|stars_3
+49221|Fontán Reforma, México D.F|Mexico City|YES|stars_3
+49222|Hilton Mexico City Airport|Mexico City|YES|stars_3.5
+49223|Misión Express Zona Rosa|Mexico City|YES|stars_3
+49224|Plaza Pelicanos Grand Beach Resort|Puerto Vallarta|YES|stars_4
+49226|Torre de Oro|Puerto Vallarta|NO|stars_3.5
+49228|Crown Paradise Golden|Puerto Vallarta|YES|stars_4.5
+49229|Flamingo Vallarta & Marina|Puerto Vallarta|YES|stars_3
+49230|Best Western Plus Suites Puerto Vallarta|Puerto Vallarta|YES|stars_4
+49541|Royal Solaris Cancun|Cancun|YES|stars_4
+49583|Paco Descanso del Sol|Puerto Vallarta|NO|stars_4
+49584|Rosita|Puerto Vallarta|YES|stars_3
+49585|Occidental Grand Nuevo Vallarta & Royal Club|Nuevo Vallarta|NO|stars_4
+49586|Puerto de Luna|Puerto Vallarta|YES|stars_3.5
+49588|Grand Velas Riviera Nayarit|Nuevo Vallarta|YES|stars_5
+49604|Canto del Sol Plaza Vallarta|Puerto Vallarta|YES|stars_3.5
+49644|El Pescador|Puerto Vallarta|YES|stars_3
+49651|Coral Princess Hotel & Resort|Isla Cozumel|YES|stars_4
+49656|Hilton los Cabos Beach & Golf Resort|Cabo San Lucas|YES|stars_4
+49658|Desire Resort & Spa Riviera Maya|Puerto Morelos|YES|stars_4
+49660|Novotel Monterrey Valle|Monterrey|YES|stars_4
+49661|Ibis Monterrey Valle|Monterrey|NO|stars_3
+49662|Ibis Monterrey Aeropuerto|Apodaca|NO|stars_3
+49663|Galeria Plaza|Mexico City|YES|stars_4.5
+49664|Aitana|Oaxaca|YES|stars_4
+49665|Los Cocos|Chetumal|YES|stars_4
+49666|Quality Inn Villahermosa|Villahermosa|YES|stars_4
+49668|Royal Villas Resort|Mazatlan|YES|stars_4.5
+49669|Century Zona Rosa|Mexico City|YES|stars_4
+49670|Sevilla Palace|Mexico City|YES|stars_3.5
+49671|Meson San Miguel|Isla Cozumel|YES|stars_3
+49672|Roma|Guadalajara|YES|stars_4
+49673|Villa del Sol & Suites|Morelia|YES|stars_3
+49674|Villa San Jose Hotel & Suites|Morelia|YES|stars_4.5
+49675|Virrey de Mendoza|Morelia|YES|stars_5
+49676|Calinda Cabo San Lucas|Cabo San Lucas|NO|stars_4
+49677|Riu Santa Fe|Cabo San Lucas|YES|stars_4
+49679|Posada de la Mision|Taxco|YES|stars_4
+49680|De la Borda|Taxco|YES|stars_3.5
+49682|Segovia Regency|Mexico City|YES|stars_3
+49683|Holiday Inn Mexico City - Plaza Universidad|Mexico City|NO|stars_3
+49684|Stanza|Mexico City|NO|stars_4
+49687|The Lodge at Uxmal|Uxmal|YES|stars_4
+49698|Victoria|Taxco|YES|stars_2
+49699|Calinda Viva Villahermosa|Villahermosa|YES|stars_3
+49700|Casa Mexicana|San Cristobal|YES|stars_4
+49701|Costa Real Cabo Resort & Suites|Cabo San Lucas|YES|stars_2
+49702|Tesoro Manzanillo|Manzanillo|YES|stars_4
+49712|Camino Real Villahermosa|Villahermosa|YES|stars_5
+49713|Real de Minas Poliforum|Leon|YES|stars_3.5
+49714|Real de Minas Express|Leon|NO|stars_3.5
+49747|Metropol|Mexico City|YES|stars_3
+49768|Marlowe|Mexico City|YES|stars_3
+49770|Howard Johnson Condesa|Leon|YES|stars_3.5
+50004|Laffayette Guadalajara|Guadalajara|YES|stars_3.5
+50011|Casa Mexicana Cozumel|Isla Cozumel|NO|stars_4
+50012|Suites Bahia|Isla Cozumel|YES|stars_3
+50013|Suites Colonial|Isla Cozumel|YES|stars_3
+50014|Plaza Palenque|Palenque|YES|stars_4
+50016|Irma|Zihuatanejo|YES|stars_3.5
+50017|Villa Mexicana|Zihuatanejo|YES|stars_4
+50020|Barceló Grand Faro Los Cabos|San Jose del Cabo|YES|stars_4
+50021|Olmeca Plaza|Villahermosa|YES|stars_3.5
+50022|Holiday Inn Queretaro Centro Historico|Querétaro|YES|stars_3
+50027|Plaza Florencia|Mexico City|YES|stars_3.5
+50029|Condominos Carisa y Palma|Cancun|YES|stars_3
+50030|Bsea Cancun Plaza|Cancun|YES|stars_3
+50031|Torre Dorada|Cancun|YES|stars_3
+50033|Faro Mazatlan Beach Resort|Mazatlan|YES|stars_3.5
+50042|Casa Inn Mexico|Mexico City|YES|stars_3.5
+50043|Casa Inn Queretaro|Querétaro|NO|stars_4.5
+50044|Royal Pedregal|Mexico City|YES|stars_4
+50045|Real de Minas Queretaro|Querétaro|YES|stars_5
+50046|Real de Minas Guanajuato|Guanajuato|YES|stars_4
+50047|Paseo de la Presa|Guanajuato|YES|stars_3
+50074|El Cozumeleño Beach Resort|Isla Cozumel|NO|stars_3.5
+50251|Condado Plaza|Puebla|YES|stars_4
+50252|Marriott Real Puebla|Puebla|NO|stars_4.5
+50258|Misión Mazatlán|Mazatlan|YES|stars_4
+50262|Fiesta Americana Guadalajara|Guadalajara|YES|stars_4
+50263|Fiesta Inn Guadalajara|Guadalajara|YES|stars_3.5
+50264|Fiesta Americana Grand Los Cabos Golf & Spa|Cabo San Lucas|YES|stars_5
+50265|Holiday Inn Merida|Merida|YES|stars_3.5
+50266|Aristos Acapulco|Acapulco|YES|stars_3
+50267|Fiesta Inn Morelia|Morelia|YES|stars_4
+50268|Fiesta Inn Oaxaca|Oaxaca|YES|stars_4
+50269|Camino Real Puebla Angelopolis|Puebla|YES|stars_4.5
+50271|Aristos Puebla|Puebla|YES|stars_3.5
+50273|Aristos San Miguel de Allende|San Miguel De Allende|NO|stars_4
+50275|Cervantes|Guadalajara|YES|stars_3.5
+50276|Concordia|Morelia|YES|stars_3
+50280|Best Western Palmareca Hotel & Suites|Tuxtla Gutierrez|YES|stars_4
+50282|Girasol|Cancun|NO|stars_3
+50283|Howard Johnson Calle Real|Morelia|YES|stars_4
+50284|Best Western Centro de Monterrey|Monterrey|YES|stars_3.5
+50285|Best Western Plaza Monterrey|Monterrey|YES|stars_3
+50286|Days Inn Zaragoza|Monterrey|NO|stars_3
+50287|Best Western Madero|Monterrey|NO|stars_3
+50288|El Tapatio|Guadalajara|YES|stars_4.5
+50292|Real de Minas San Miguel Allende|San Miguel De Allende|YES|stars_4
+50293|Emporio Reforma|Mexico City|YES|stars_4
+50306|Crown Pacific Deluxe Suite Resort|Huatulco|YES|stars_4
+50312|Crowne Plaza Veracruz Torremar|Boca del Río|YES|stars_4
+50313|HI Impala|Querétaro|NO|stars_3
+50316|Favorita Inn|Monterrey|YES|stars_3
+50317|Hampton Inn Monterrey Aeropuerto|Monterrey|YES|stars_3
+50318|Courtyard Monterrey Aeropuerto|Monterrey|YES|stars_3.5
+50319|Fairfield Inn by Marriott Monterrey Aeropuerto|Monterrey|YES|stars_3
+50320|Wyndham Garden Monterrey Norte|San Nicolás de los Garza|YES|stars_3.5
+50323|Son-Mar|Monterrey|YES|stars_3
+50325|Intercontinental Presidente Guadalajara|Guadalajara|YES|stars_4
+50326|Hotel Monterrey Macroplaza|Monterrey|YES|stars_3.5
+50329|Nueva Galicia|Guadalajara|YES|stars_3
+50331|Meliá Vacation Club Cozumel|Isla Cozumel|YES|stars_4
+50337|Colonial Veracruz|Veracruz|YES|stars_3
+50338|Moongate|Playa del Carmen / Playacar|YES|stars_3
+50339|Suites Villasol|Puerto Escondido|YES|stars_3.5
+50340|Amaité Hotel & Spa|Isla Holbox|YES|stars_3
+50342|BlueBay Los Angeles Locos|Tenacatita|YES|stars_4
+50346|Del Gobernador|Merida|YES|stars_4
+50349|Hotel De Cortes|Mexico City|NO|stars_4
+50352|Kinbe|Playa del Carmen / Playacar|YES|stars_3
+50353|Villa Blanca Garden Beach|Isla Cozumel|YES|stars_3
+50391|La Mision de Fray Diego|Merida|YES|stars_4.5
+50408|Kai-Kaana|Playa del Carmen / Playacar|YES|stars_3.5
+50409|El Cid la Ceiba Beach|Isla Cozumel|YES|stars_4
+50410|Costa de Oro Beach|Mazatlan|YES|stars_3.5
+50416|Deseo|Playa del Carmen / Playacar|YES|stars_3.5
+50417|Cohiba|Playa del Carmen / Playacar|YES|stars_3
+50425|Lois|Boca del Río|YES|stars_4
+50430|Hacienda la Noria|Oaxaca|YES|stars_3
+50432|Caribe|Merida|YES|stars_3.5
+50441|InterContinental Presidente Ixtapa Resort|Ixtapa|YES|stars_4
+50442|Presidente Intercontinental Monterrey|Monterrey|YES|stars_5
+50443|Del Parque|Guadalajara|YES|stars_3
+50444|Colon|Guadalajara|YES|stars_3
+50447|Arborea|Guadalajara|YES|stars_3
+50452|Plaza Diana|Guadalajara|YES|stars_3.5
+50453|Veracruz Centro Histórico|Veracruz|YES|stars_4
+50488|Mia Cancun Resort|Cancun|YES|stars_4
+50489|NYX Cancun|Cancun|YES|stars_4
+50491|Krystal Beach|Acapulco|YES|stars_3.5
+50500|Celuisma Dos Playas & Maya Caribe - Maya Caribe|Cancun|YES|stars_3
+50501|Señorial|Leon|NO|stars_3
+50528|Vista Express Morelia|Morelia|YES|stars_4
+50531|Aranzazú Centro Histórico|Guadalajara|YES|stars_4
+50540|BeachScape Kin Ha Villas & Suites|Cancun|YES|stars_4
+50550|Best Western Maya Tabasco|Villahermosa|YES|stars_4
+50553|Oasis Smart|Cancun|YES|stars_3.5
+50554|Dreams Huatulco Resort & Spa|Huatulco|YES|stars_4.5
+50555|Hilton Guadalajara|Guadalajara|YES|stars_4
+51010|Misión Aguascalientes Norte|Aguascalientes|NO|stars_3.5
+51011|Barcelo Cuernavaca|Cuernavaca|YES|stars_3
+51012|Misión Guadalajara Carlton|Guadalajara|YES|stars_3.5
+51013|Misión La Muralla Amealco|Querétaro|YES|stars_3.5
+51040|Misión Oaxaca|Oaxaca|YES|stars_3.5
+51098|Cabañas Azulik|Tulum|YES|stars_4
+51099|Cabañas Copal|Tulum|YES|stars_3
+51100|Zahra|Tulum|YES|stars_2.5
+51178|The Royal Cancun All Inclusive All Suites Resort|Cancun|NO|stars_4
+51325|Iberostar Paraíso Maya|Playa del Carmen / Playacar|YES|stars_5
+51326|Excellence Riviera Cancun|Riviera Maya|YES|stars_5
+51381|Plaza Campeche|Campeche|YES|stars_4
+51382|De Mendoza|Guadalajara|YES|stars_4
+51384|InterContinental Presidente Merida|Merida|YES|stars_5
+51385|Misión Uxmal|Uxmal|YES|stars_3
+51386|RIU Palace Cabo San Lucas|Cabo San Lucas|NO|stars_4.5
+51387|Dreams Los Cabos Suites Golf Resort & Spa|Cabo San Lucas|YES|stars_5
+51408|Hacienda del Caribe|Playa del Carmen / Playacar|YES|stars_3
+51493|Hyatt Ziva Puerto Vallarta|Puerto Vallarta|YES|stars_5
+51494|Azul Beach|Puerto Morelos|YES|stars_5
+53776|Alba Suites|Acapulco|YES|stars_3
+53778|Romano Palace|Acapulco|YES|stars_3
+53783|Club Del Sol Acapulco|Acapulco|YES|stars_3
+54220|Azul Ixtapa Beach Resort & Convention Center|Ixtapa|YES|stars_4.5
+54505|Camino Real Aeropuerto Mexico|Mexico City|YES|stars_4.5
+55312|Quinta Real Aguascalientes|Aguascalientes|YES|stars_5
+55313|Quality Inn|Aguascalientes|NO|stars_3.5
+55314|Star Bay Suites Resort|Bucerias|YES|stars_4
+55320|Marina Fiesta Resort and Spa|Cabo San Lucas|YES|stars_4
+55324|Pueblo Bonito Sunset Beach|Cabo San Lucas|YES|stars_5
+55330|Los Patios|Cabo San Lucas|YES|stars_4
+55332|Villa del Palmar Beach Resort & Spa|Cabo San Lucas|YES|stars_4
+55333|Grand Royal Lagoon|Cancun|YES|stars_2
+55334|The Royal Sands Resort & Spa|Cancun|YES|stars_4.5
+55336|Dreams Cancun Resort & Spa|Cancun|YES|stars_5
+55338|Grand Park Royal Cancún Caribe|Cancun|YES|stars_4.5
+55347|Moon Palace Golf & Spa|Cancun|YES|stars_5
+55352|Live Aqua Cancún|Cancun|YES|stars_5
+55355|Villas Tacul Boutique|Cancun|YES|stars_4
+55361|GR Solaris Cancun|Cancun|YES|stars_4.5
+55364|Sunset Royal Beach Resort|Cancun|NO|stars_4.5
+55366|Holiday Inn Hotel & Suites Chihuahua|Chihuahua|NO|stars_3.5
+55367|Fiesta Inn Chihuahua|Chihuahua|YES|stars_4
+55368|Casa Grande Chihuahua|Chihuahua|YES|stars_4
+55369|Holiday Inn Express|Chihuahua|YES|stars_2.5
+55372|Sunscape Sabor Cozumel|Isla Cozumel|YES|stars_4
+55373|Hacienda San Miguel|Isla Cozumel|YES|stars_3
+55376|Cozumel Palace|Isla Cozumel|YES|stars_4.5
+55381|Holiday Inn Hotel & Suites Guadalajara - Centro Historico|Guadalajara|YES|stars_3.5
+55382|Quinta Real Guadalajara|Guadalajara|YES|stars_5
+55383|Crowne Plaza Guadalajara|Zapopan|YES|stars_3.5
+55384|Holiday Inn Select Guadalajara|Guadalajara|YES|stars_3.5
+55385|Holiday Inn Express Guanajuato|Guanajuato|YES|stars_2.5
+55388|Mia Reef Isla Mujeres|Isla Mujeres|YES|stars_3.5
+55390|HS Hotsson|Leon|YES|stars_4.5
+55391|Misión Guanajuato|Guanajuato|YES|stars_4
+55392|Fiesta Inn Leon|Leon|YES|stars_3.5
+55395|Holiday Inn|Leon|YES|stars_2.5
+55396|El Cid Granada and Country Club|Mazatlan|YES|stars_3.5
+55397|Azteca Inn|Mazatlan|YES|stars_2.5
+55398|Pueblo Bonito Emerald Bay|Mazatlan|YES|stars_4.5
+55399|Emporio Mazatlan|Mazatlan|NO|stars_4
+55400|The Palms Resort of Mazatlán|Mazatlan|YES|stars_3
+55401|La Siesta|Mazatlan|YES|stars_2
+55402|El Cid Marina Beach|Mazatlan|YES|stars_4.5
+55403|El Cid El Moro Beach|Mazatlan|YES|stars_4
+55404|Luna Palace|Mazatlan|YES|stars_4
+55405|El Cid Castilla Beach|Mazatlan|YES|stars_4
+55406|Playa Mazatlan|Mazatlan|YES|stars_3.5
+55407|Pueblo Bonito Mazatlan|Mazatlan|YES|stars_5
+55408|Oceano Palace Beach Resort|Mazatlan|YES|stars_4
+55409|Las Flores Beach Resort|Mazatlan|YES|stars_3
+55410|Don Pelayo Pacific Beach|Mazatlan|YES|stars_3
+55411|Hyatt Regency Mexico City|Mexico City|YES|stars_5
+55412|Radisson Flamingos|Mexico City|YES|stars_4
+55413|Radisson Paraiso|Mexico City|YES|stars_4
+55414|Sheraton Suites Santa Fe|Mexico City|YES|stars_5
+55415|La Casona|Mexico City|YES|stars_4.5
+55416|San Francisco|Mexico City|YES|stars_3
+55417|Fiesta Inn Aeropuerto|Mexico City|YES|stars_4
+55418|Mision Colon Reforma|Mexico City|YES|stars_4.5
+55420|Fiesta Inn Centro Historico|Mexico City|YES|stars_3.5
+55421|DoubleTree Mexico City Airport Area|Mexico City|NO|stars_3.5
+55422|Del Angel|Mexico City|YES|stars_3
+55425|Holiday Inn Mexico Dali Airport|Mexico City|YES|stars_3.5
+55432|Fiesta Inn Monterrey Centro|Monterrey|YES|stars_4
+55433|Holiday Inn Express Galleria San Jeronimo|Monterrey|YES|stars_3
+55434|Sheraton Ambassador|Monterrey|YES|stars_4
+55436|Quinta Real Monterrey|Monterrey|YES|stars_5
+55437|Fiesta Inn Monterrey Norte|Monterrey|YES|stars_4
+55438|Crowne Plaza Monterrey|Monterrey|YES|stars_4
+55439|Holiday Inn Parque Fundidora|Monterrey|YES|stars_3.5
+55441|Fiesta Americana Centro Monterrey|Monterrey|NO|stars_4.5
+55442|Gran Ancira|Monterrey|YES|stars_4.5
+55443|Hard Rock Vallarta|Nuevo Vallarta|NO|stars_5
+55444|Bel Air Collection Resort & Spa Vallarta|Nuevo Vallarta|YES|stars_5
+55445|Samba Vallarta by Pueblo Bonito|Nuevo Vallarta|YES|stars_4
+55446|Villa del Palmar Flamingos Beach Resort & Spa|Nuevo Vallarta|YES|stars_4
+55448|Paradise Village Beach Resort|Nuevo Vallarta|YES|stars_4.5
+55449|Playacar Palace|Playa del Carmen / Playacar|YES|stars_5
+55450|All Riviera Resort|Playa del Carmen / Playacar|YES|stars_3
+55454|Courtyard Puebla Las Animas|Puebla|NO|stars_4
+55456|Holiday Inn Express Puebla|Puebla|YES|stars_2.5
+55458|San Leonardo|Puebla|YES|stars_4
+55463|Los Arcos Suites|Puerto Vallarta|YES|stars_3
+55464|Suites Emperador|Puerto Vallarta|YES|stars_3
+55465|Getaway Sun Resort|Puerto Vallarta|YES|stars_3
+55469|Mar Sereno|Puerto Vallarta|YES|stars_3
+55473|Casa Dona Susana|Puerto Vallarta|YES|stars_2.5
+55474|Villa del Palmar Beach Resort & Spa|Puerto Vallarta|NO|stars_4
+56677|Baluartes|Campeche|YES|stars_4
+59203|Los Aluxes|Merida|YES|stars_4
+59570|RIU Lupita|Playa del Carmen / Playacar|YES|stars_5
+59571|Playa Maya|Playa del Carmen / Playacar|NO|stars_3
+59889|Holiday Inn Express Ciudad Juarez - Las Misiones|Ciudad Juárez|YES|stars_3
+59938|Meson del Marques|Valladolid|NO|stars_3.5
+59939|Ecotel Quinta Regia|Valladolid|NO|stars_4
+59991|Rosarito Beach|Rosarito|NO|stars_3
+59996|Reef Yucatan|Telchac Puerto|YES|stars_5
+60229|Calinda Racquet Club Cuernavaca|Cuernavaca|YES|stars_4
+60230|Calinda Francia Aguascalientes|Aguascalientes|YES|stars_4
+60231|Hotel Hacienda Monterrey|Monterrey|YES|stars_3
+60232|Fiesta Inn Monterrey Valle|Monterrey|YES|stars_3.5
+60235|Jungla Caribe|Riviera Maya|YES|stars_3
+60250|Holiday Inn Express Ciudad Victoria|Ciudad Victoria|YES|stars_2.5
+60441|Posada Mariposa|Playa del Carmen / Playacar|YES|stars_3
+60442|Cabanas Campo Real|Tetela de Ocampo|YES|stars_3
+60443|La Ceiba Chiapa de Corzo|Chiapa de Corzo|YES|stars_4
+60444|La Aldea del Hanach Huinic|Palenque|YES|stars_3
+61120|Holiday Inn Express Silao Aeropuerto Bajio|Silao|YES|stars_3
+61123|Condo El Patio|Playa del Carmen / Playacar|YES|stars_3
+61208|Real Inn Tijuana|Tijuana|NO|stars_4.5
+61209|Ramada Resort Mazatlan|Mazatlan|YES|stars_3.5
+61211|Holiday Inn Express Torreon|Torreon|YES|stars_2.5
+61212|Crowne Plaza Torreon|Torreon|YES|stars_3.5
+61213|Hacienda Don Carlos|Monterrey|YES|stars_4
+61506|Aldea del Bazar|Puerto Escondido|YES|stars_4
+61610|Plaza del Arco|Monterrey|YES|stars_3
+61613|Fiesta Inn Monterrey la Fe|Monterrey|YES|stars_4
+61704|Exe Suites San Marino|Mexico City|YES|stars_5
+61715|Eurostars Zona Rosa Suites|Mexico City|YES|stars_4.5
+61717|Benidorm|Mexico City|YES|stars_3.5
+61719|Ambassador|Mexico City|YES|stars_3
+61736|Best Western Estoril|Mexico City|YES|stars_3.5
+61857|Xixim Unique Mayan|Celestún|YES|stars_4.5
+62269|Caribbean Village Playacar|Playa del Carmen / Playacar|YES|stars_4
+62270|El Dorado Seaside Suites|Riviera Maya|YES|stars_5
+62273|FKK Hidden Beach Resort|Riviera Maya|YES|stars_5
+62490|Villas la Lupita|Acapulco|YES|stars_3
+63335|Emporio Marriott Tijuana|Tijuana|YES|stars_5
+63433|Batab Cancun|Cancun|YES|stars_3
+63434|Del Principado|Mexico City|YES|stars_3
+63458|Fenix|Guadalajara|YES|stars_3.5
+63713|Ambassador Suites|Puerto Vallarta|YES|stars_4
+63714|Christalmar Mayacan|Isla Mujeres|YES|stars_3
+63715|Suites Del Sol|Puerto Vallarta|YES|stars_2.5
+63717|Playa Conchas Chinas|Puerto Vallarta|YES|stars_3
+64472|RIU Palace Riviera Maya|Playa del Carmen / Playacar|YES|stars_5
+64497|NH Puebla|Puebla|YES|stars_4
+64501|Illusion|Playa del Carmen / Playacar|YES|stars_3.5
+64504|Cabañas Ana y Jose|Tulum|NO|stars_3.5
+64565|NH Mexico City Centro Histórico|Mexico City|YES|stars_4
+64891|Carmen Inn|Playa del Carmen / Playacar|YES|stars_3.5
+64906|Los Olivos Spa|Oaxaca|YES|stars_4
+64978|Fairmont Mayakoba Riviera Maya|Riviera Maya|YES|stars_5
+65010|Villa Mercedes Petit Hotel Adults Only|Puerto Vallarta|NO|stars_3
+65429|Hampton Inn Chihuahua City|Chihuahua|YES|stars_3
+65775|Hampton Inn Monterrey Gallerias Obispado|Monterrey|YES|stars_3
+65777|Hilton Garden Inn Monterrey|Monterrey|YES|stars_3
+66003|Hampton Inn by Hilton Saltillo Airport Area|Silao|NO|stars_2
+66376|The Royal Playa del Carmen|Playa del Carmen / Playacar|YES|stars_5
+67703|Radisson Plaza Camelinas|Querétaro|YES|stars_4.5
+67846|City Express Suites|San Luis Potosí|YES|stars_3
+68973|Avenida Cancun|Cancun|YES|stars_3
+68995|BlueBay Grand Esmeralda|Playa del Carmen / Playacar|YES|stars_5
+69163|Caribe Internacional Cancun|Cancun|YES|stars_3
+69164|Best Western Plaza Kokai Cancun|Cancun|YES|stars_3
+69166|Xbalamque|Cancun|YES|stars_3
+69662|Casa Iguana|Puerto Vallarta|YES|stars_3.5
+69744|Blue Tulum Resort & Spa|Riviera Maya|YES|stars_5
+70704|Ocean View|Campeche|YES|stars_4
+70705|Le Blanc Spa Resort|Cancun|YES|stars_5
+71480|Soberanis Hostal|Cancun|YES|stars_3
+71682|Apartmentos Cancun|Cancun|YES|stars_1
+71934|Suites Michelangelo|Mexico City|YES|stars_4
+72138|Emporio Ixtapa|Ixtapa|YES|stars_4.5
+72250|Marlin|Huatulco|YES|stars_4
+72307|Villa Blanca|Huatulco|YES|stars_4
+72308|Casa Pablido Bed & Breakfast|Cabo San Lucas|YES|stars_3
+72309|Villas Akumal|Akumal|YES|stars_4
+72310|Quinta Don Jose|Guadalajara|YES|stars_4
+72311|Romo|Ciudad Hidalgo|NO|stars_3
+72312|Villa La Querencia|Puerto Morelos|YES|stars_2
+72313|Victoria Oaxaca|Oaxaca|YES|stars_4.5
+72314|Hacienda del Molino|Puebla|YES|stars_4
+72316|Barracuda|Isla Cozumel|YES|stars_3
+72317|Condominios Maralago|Cancun|YES|stars_3
+72318|Isabel|Guadalajara|YES|stars_3
+72319|Los Juaninos|Morelia|YES|stars_4
+72320|Suites del Real|Guadalajara|YES|stars_4
+72322|Best Western Monterrey Airport|Monterrey|YES|stars_3.5
+72323|Casa de la Condesa Reforma|Mexico City|YES|stars_3
+72324|Serena|Puerto Aventuras|YES|stars_4
+72325|Acanto|Playa del Carmen / Playacar|YES|stars_4.5
+72327|Maison del Embajador|Merida|NO|stars_4
+72328|Hacienda Vista Real|Playa del Carmen / Playacar|YES|stars_4.5
+72655|Las Hadas Golf Resort & Marina|Manzanillo|YES|stars_5
+72656|Misión Concá Sierra Gorda Queretana|Arroyo Seco|YES|stars_4
+72657|Misión Jalpan|Jalpan de Serra|YES|stars_3
+72659|Acuario Tulum|Tulum|YES|stars_2
+72660|Acabay Hotel & Beach Club|Acapulco|YES|stars_4
+72661|Grand Sirenis Riviera Maya Hotel & Spa|Akumal|YES|stars_5
+72663|Ciudad Real Centro Historico|San Cristobal|YES|stars_3.5
+73199|Quinta Las Acacia|Guanajuato|YES|stars_4
+73444|Villa del Mar|Veracruz|YES|stars_4
+73447|Howard Johnson|Veracruz|YES|stars_3
+73448|Villa Las Margaritas Centro|Jalapa|YES|stars_4
+73449|Villa Las Margaritas Caxa|Jalapa|YES|stars_3
+73451|Villa Las Margaritas Plaza Cristal|Jalapa|YES|stars_4
+73452|Quinta Real Saltillo|Saltillo|YES|stars_5
+73455|Best Western Posada Chahue|Huatulco|YES|stars_3
+73456|Imperial Veracruz|Veracruz|YES|stars_3
+73457|Hacienda Jurica|Querétaro|YES|stars_4.5
+73459|Habita|Mexico City|YES|stars_4
+73461|Francia|Oaxaca|YES|stars_3
+73462|BlueBay Punta Serena Villas & Spa|Tenacatita|YES|stars_3.5
+73463|Howard Johnson Tuxtla Gutiérrez|Tuxtla Gutierrez|YES|stars_3
+73466|Hilton Villahermosa|Villahermosa|YES|stars_4
+73467|Morales|Guadalajara|YES|stars_4
+73468|Celta|Guadalajara|YES|stars_4
+73469|El Hotelito|Acapulco|YES|stars_3.5
+73470|Condominios Playacar|Playa del Carmen / Playacar|YES|stars_1
+73472|Suites PF|Mexico City|YES|stars_4
+73473|Acapulco Tortuga|Acapulco|YES|stars_3
+73474|Casa del Mar|Huatulco|YES|stars_4.5
+73476|Casa Sandra Boutique Hotel|Isla Holbox|YES|stars_4
+73831|Quinta Real Zacatecas|Zacatecas|YES|stars_4.5
+73832|Frances|Guadalajara|YES|stars_3
+73833|Holiday Inn Monterrey Norte|San Nicolás de los Garza|YES|stars_3.5
+73834|Camino Real Veracruz|Boca del Río|YES|stars_5
+73835|Holiday Inn Express Morelia|Morelia|YES|stars_2.5
+73836|Best Western Gran Sevilla|Tampico|YES|stars_4
+73840|Howard Johnson Villahermosa|Villahermosa|YES|stars_3
+73863|Antarisuite Cintermex|Monterrey|YES|stars_3.5
+73865|Antarisuite Valle|Monterrey|YES|stars_3
+73867|Doña Juana Cecilia Miramar|Tampico|YES|stars_4
+74654|Mocambo|Boca del Río|YES|stars_4
+74655|Condesa DF|Mexico City|YES|stars_4
+74656|Alameda Centro Historico|Morelia|YES|stars_4
+74657|Pueblo Bonito Pacifica|Cabo San Lucas|YES|stars_5
+74659|Best Western Monteverde Express|San Miguel De Allende|YES|stars_3
+74661|Best Western Posada de Don Vasco|Pátzcuaro|YES|stars_4
+74662|Montecarlo|Tampico|NO|stars_4
+74663|Best Western Real de Puebla|Puebla|YES|stars_3.5
+74665|El Quijote Inn|Mazatlan|YES|stars_4
+74666|Marina Resort|Huatulco|YES|stars_4
+74708|Maya Tulipanes|Palenque|YES|stars_4
+74710|Imperial Reforma|Mexico City|YES|stars_4
+74711|Casa Real|Zacatecas|YES|stars_4
+74890|NH Lázaro Cárdenas|Lázaro Cárdenas|YES|stars_3
+74892|Condo Maya Pakal|Playa del Carmen / Playacar|YES|stars_3
+74893|Marina El Cid Spa & Beach Resort|Puerto Morelos|YES|stars_4.5
+74895|Misión Juriquilla|Querétaro|YES|stars_5
+74906|Villa Vera Acapulco Spa & Racquet Club|Acapulco|YES|stars_4
+74907|MandarÍn Cárton|Tlalnepantla de Baz|YES|stars_4.5
+74908|Plaza Uruapan|Uruapan|YES|stars_3.5
+74909|Barcelo Karmina Palace|Manzanillo|YES|stars_4.5
+75045|Villa Rivera San Miguel de Allende|San Miguel De Allende|YES|stars_3
+75046|Royal Solaris los Cabos|San Jose del Cabo|YES|stars_4
+75074|Enterprise Inn|Leon|YES|stars_4
+75091|Posada San Pedro|Puebla|YES|stars_4
+75354|Wayak Holbox|Isla Holbox|YES|stars_3
+75355|Condominios Salvia Cancun|Cancun|YES|stars_3
+75367|Lab-Nah|Playa del Carmen / Playacar|YES|stars_2
+75370|Chan-Kah|Palenque|YES|stars_4
+75371|Courtyard Toluca Airport|Toluca de Lerdo|YES|stars_3
+75373|Del Carmen|Tuxtla Gutierrez|YES|stars_3
+75465|Francis Drake|Campeche|YES|stars_3
+75466|Doña Juana Cecilia Aeropuerto|Tampico|YES|stars_4
+75547|Plaza Marina|Mazatlan|YES|stars_3
+75548|Best Western Valle Real|Monterrey|YES|stars_3
+75720|Bel Air Collection Resort & Spa Cancún|Cancun|YES|stars_4
+75751|Paloma del Mar|Puerto Vallarta|YES|stars_2.5
+75765|Meson Dona Paz Isla Navidad|Colima|YES|stars_5
+75858|Mision Colonial|San Cristobal|YES|stars_3
+75859|Howard Johnson Las Torres Plaza|Guadalajara|YES|stars_3
+75950|Marques del Valle|Oaxaca|YES|stars_4
+76131|Emporio Acapulco|Acapulco|YES|stars_4
+76273|Novo Mar|Veracruz|YES|stars_4
+76274|Puerta del Mar|Ixtapa|YES|stars_4
+76276|Tucan Siho-Playa|Campeche|YES|stars_4.5
+76277|Gran Diligencias|Veracruz|YES|stars_3.5
+76278|Casa Anita y Corona del Mar|Puerto Vallarta|YES|stars_3
+76279|Parador San Javier|Guanajuato|YES|stars_4
+76280|Debliz Campeche|Campeche|YES|stars_3.5
+76281|Guadalajara Plaza Lopez Mateos|Guadalajara|YES|stars_3.5
+76328|Iberostar Grand Hotel Paraíso|Playa del Carmen / Playacar|YES|stars_5
+76404|Valentin Imperial Maya|Playa del Secreto|YES|stars_5
+76529|Olinala Diamante & Villas Olinala Princess|Acapulco|YES|stars_3
+76530|Villa Montana Hotel & Spa Boutique|Morelia|YES|stars_5
+76534|Vista Vallarta|Bucerias|YES|stars_3.5
+76669|Esencia|Xpu-Ha|NO|stars_5
+76864|Catalonia Playa Maroma|Playa Maroma|YES|stars_4
+76877|Margaritas|Mazatlan|YES|stars_3
+76878|Park Royal Acapulco|Acapulco|YES|stars_4
+76879|Crowne Plaza Acapulco|Acapulco|YES|stars_4
+77301|Terrazas de Positano|Cabo San Lucas|YES|stars_4
+77303|Villas Dali Veracruz|Boca del Río|YES|stars_3.5
+77315|Angeles|Veracruz|YES|stars_4
+77468|Terracaribe|Cancun|YES|stars_3
+77469|Suites Costa Blanca|Cancun|YES|stars_3
+77475|Antillano|Cancun|YES|stars_3
+77485|Finca Hamburgo|Tapachula|YES|stars_5
+77538|Villa Merida|Merida|NO|stars_4
+77539|Hacienda Puerta Campeche|Campeche|YES|stars_4.5
+77540|Meson Sacristia de la Compania|Puebla|YES|stars_4
+77853|Caleta Beach Resort Fishing & Diving Club|Acapulco|YES|stars_3
+78017|Hacienda del Marques|Guanajuato|YES|stars_4
+78024|Basico|Playa del Carmen / Playacar|YES|stars_3
+78025|NH Coatzacoalcos|Coatzacoalcos|YES|stars_3
+78026|Mediterraneo|Tampico|YES|stars_4
+78029|Misión Tlaxcala|Tlaxcala|YES|stars_4
+78030|Las Dunas Chahue|Huatulco|YES|stars_4
+78031|Xalapa|Jalapa|YES|stars_4
+78032|Meson de Jobito|Zacatecas|YES|stars_5
+78033|Flamingo Inn|Querétaro|YES|stars_4
+78034|Palmeras|Bucerias|YES|stars_3
+78035|Imperial Del Norte|Saltillo|YES|stars_4
+78036|Quinta Real Villahermosa|Villahermosa|YES|stars_5
+78037|Loreto Baja Golf Resort & Spa at Baja|Loreto|YES|stars_5
+78038|Antarisuite Galerias|Monterrey|YES|stars_3.5
+78039|Golden Inn|Monterrey|YES|stars_5
+78040|Hotel & Suites Las Palmas|San Jose del Cabo|YES|stars_3
+78150|Emporio Zacatecas|Zacatecas|YES|stars_5
+78151|Villa Maria|Merida|YES|stars_5
+78152|Casa Marquesa|Leon|YES|stars_4
+78154|Holiday Inn Arenas|Cancun|YES|stars_4
+78171|Posada Vista Bella|Morelia|YES|stars_3.5
+78172|The Westin Soberano Chihuahua|Chihuahua|YES|stars_3.5
+78173|Real Azteca|Leon|YES|stars_4
+78175|La Casona Galerias|Cuernavaca|YES|stars_4
+78282|The Grand Baja|San Jose del Cabo|YES|stars_4.5
+78283|Gran Ciudad de Mexico|Mexico City|YES|stars_5
+78394|Club Meza del Mar|Puerto Vallarta|YES|stars_2.5
+78396|Ruiz Milan|Veracruz|YES|stars_4
+78397|Colonial|Merida|YES|stars_3
+78398|San Francisco Plaza|Guadalajara|YES|stars_3.5
+78399|Ambassador|Merida|YES|stars_4
+78400|Real Inn Guadalajara Centro|Guadalajara|YES|stars_3.5
+78401|Casa Inn Tulija|Palenque|YES|stars_4
+78402|Novotel Mexico Santa Fe|Mexico City|YES|stars_4
+78403|Wyndham Casa Grande Monterrey|Monterrey|YES|stars_3.5
+78405|Colonial|Tampico|NO|stars_4
+78411|Radisson Poliforum Plaza|Leon|YES|stars_4.5
+78412|Interforum Express|Leon|YES|stars_3
+78413|El Baron Saint Michel Express|Leon|YES|stars_3
+78574|Cantera Real|Oaxaca|YES|stars_3
+78575|Costa Sol|Boca del Río|YES|stars_3
+78576|Sotavento|Cancun|YES|stars_3
+78578|La Casa Que Canta|Zihuatanejo|YES|stars_5
+78579|Posada Tolosa|Zacatecas|NO|stars_3
+78580|Real de Minas de San Luis|San Luis Potosí|YES|stars_5
+78581|Concordia de San Luis|San Luis Potosí|YES|stars_3
+78582|Baez Carrizal|Villahermosa|YES|stars_3
+78584|Shambala Petit Tulum|Tulum|YES|stars_4
+78585|Premier|Saltillo|YES|stars_2
+78586|Urdinola|Saltillo|YES|stars_3
+78587|Villa Varadero|Nuevo Vallarta|YES|stars_4
+78588|Montreal|Leon|YES|stars_3
+78660|San Jorge|Saltillo|YES|stars_3
+78661|Arboledas Industrial|Guadalajara|YES|stars_2
+78662|Arboledas Expo|Guadalajara|YES|stars_3
+78663|Arboledas Galerias|Guadalajara|YES|stars_4
+78664|DoubleTree Suites Saltillo|Saltillo|YES|stars_4
+78665|Costa Bonita Mazatlan|Mazatlan|YES|stars_3
+78666|Misión Cuernavaca|Cuernavaca|YES|stars_4
+78667|Misión Mérida Panamericana|Merida|YES|stars_3.5
+78775|Mesones Sacristia de Capuchinas Boutique|Puebla|YES|stars_4
+78776|Magic Express|Playa del Carmen / Playacar|YES|stars_3.5
+78856|Emporio Family Suites Cancun|Cancun|YES|stars_4
+78858|Royal Caribbean|Cancun|YES|stars_4
+78859|Holiday Inn Morelia|Morelia|YES|stars_3
+78860|Real Plaza|San Luis Potosí|YES|stars_3.5
+78984|Hyatt Zilara Cancun|Cancun|YES|stars_5
+79065|Holiday Inn Express Monterrey Technologico|Monterrey|YES|stars_3
+79162|Casa Antigua|Oaxaca|YES|stars_3.5
+79163|City Express Leon|Leon|YES|stars_3.5
+79164|Leon|Leon|YES|stars_4
+79165|Marjaba|Cuernavaca|NO|stars_4
+79166|Club Med Ixtapa|Ixtapa|YES|stars_4.5
+79168|Hacienda Los Laureles|Oaxaca|YES|stars_4.5
+79169|La Estancia|Leon|YES|stars_3
+79476|Global Express|Veracruz|YES|stars_4
+79477|Terranova Zona Piel|Leon|YES|stars_3
+79478|Marbella|Cuernavaca|YES|stars_3
+79988|Microtel Inn & Suites|Culiacán|YES|stars_2.5
+80090|Los Tres Rios Hotel|Culiacán|YES|stars_5
+80091|La Pinta San Quintin|Cabo San Lucas|NO|0
+80093|La Pinta Catavina|Cataviña|YES|0
+80094|The Halfway Inn Hotel|Guerrero Negro|YES|stars_4
+80095|Desert Inn Loreto|Loreto|YES|stars_4
+80097|Quality Inn Chihuahua San Francisco|Chihuahua|YES|stars_3.5
+80252|El Diplomatico|Mexico City|YES|stars_4
+80253|Fiesta Americana Queretaro|Querétaro|YES|stars_4
+80254|Fiesta Inn Queretaro|Querétaro|YES|stars_4
+80267|Mirador Acapulco|Acapulco|YES|stars_3.5
+80269|City Express Cancun|Cancun|YES|stars_3
+80271|Pedregal Palace|Mexico City|YES|stars_3.5
+80273|Bristol|Mexico City|YES|stars_3
+80274|Corinto|Mexico City|YES|stars_2.5
+80275|Sevilla|Mexico City|YES|stars_4
+80277|Acasol|Acapulco|YES|stars_4
+80675|Casa de Sierra Nevada|San Miguel De Allende|YES|stars_5
+80762|Hosteria Las Quintas|Cuernavaca|YES|stars_5
+80763|San Marcos|Culiacán|YES|stars_4.5
+80764|Colonial Ciudad Juarez|Ciudad Juárez|YES|stars_4
+80765|La Teja|Ciudad Juárez|YES|stars_2
+81581|Real Rex|Leon|YES|stars_3
+81582|Plaza Las Quintas|Hermosillo|YES|stars_4
+82122|Misión Catedral Morelia|Morelia|YES|stars_3
+82123|The Westin San Luis Potosi|San Luis Potosí|YES|stars_4
+82125|San Andres Hermosillo|Hermosillo|YES|stars_3
+82126|Sicomoro|Chihuahua|YES|stars_4
+82127|Bugambilias Otay|Tijuana|YES|stars_4
+82128|MiraFlores|Villahermosa|YES|stars_3
+82129|Plaza Mirador|Merida|YES|stars_3
+82130|Holiday Inn Express San Luis Potosi|San Luis Potosí|YES|stars_2.5
+82131|Hacienda el Indio|Mexicali|YES|stars_3
+82132|Bugambilia Hermosillo|Hermosillo|YES|stars_3
+82134|Parador|Zacatecas|YES|stars_4
+82135|Holiday Inn San Luis Potosi-Quijote|San Luis Potosí|YES|stars_3
+82136|Montejo Palace|Merida|YES|stars_3
+82137|San Luis Lindavista|Culiacán|YES|stars_4
+82138|Real Inn Mexicali|Mexicali|YES|stars_3.5
+82139|Victoria Express|Victoria de Durango|YES|stars_4
+82140|Holiday Inn Durango|Victoria de Durango|YES|stars_3.5
+82141|Calafia y Centro de Convenciones|Mexicali|YES|stars_3.5
+82142|Conquistador Tijuana|Tijuana|YES|stars_3
+82143|Araiza Hermosillo|Hermosillo|YES|stars_3.5
+82169|Zihuatanejo Centro|Zihuatanejo|YES|stars_3
+82170|Marriott Torreon|Torreon|YES|stars_5
+82171|Colonial|Monterrey|YES|stars_4
+82172|Safi Royal Luxury Valle|Monterrey|YES|stars_4.5
+82173|Hampton Inn Torreon Airport-Galerias|Torreon|YES|stars_3.5
+82226|El Tukan - Nina|Playa del Carmen / Playacar|YES|stars_2.5
+82470|Quality Inn Horizon Morelia|Morelia|YES|stars_3.5
+82471|Rio Vista Inn|Tampico|YES|stars_4
+82472|Palacio Real|Torreon|NO|stars_3
+82473|Casa Colonial|Cuernavaca|NO|stars_5
+82474|Gran|Morelia|YES|stars_3
+82475|Camino Real San Luis Potosi|San Luis Potosí|YES|stars_4.5
+82476|Santa Rosa Suites|Monterrey|YES|stars_3
+82477|Villa del Conquistador|Cuernavaca|YES|stars_4.5
+82502|Universo|Guadalajara|YES|stars_2.5
+82811|Lucerna Mexicali|Mexicali|YES|stars_4.5
+82814|Gobernador|Victoria de Durango|YES|stars_4
+83108|Villas Caribe|Isla Cozumel|YES|stars_3
+83114|Casa Inn Acapulco|Acapulco|YES|stars_3.5
+83398|Tesoro Los Cabos|Cabo San Lucas|YES|stars_3
+83454|Golden Parnassus Resort & Spa|Cancun|YES|stars_4.5
+83583|Explorean Kohunlich|Chetumal|YES|stars_4
+83660|Encino|Puerto Vallarta|NO|stars_3
+83668|Sina Suites|Cancun|NO|stars_3
+83742|Misión Ciudad Valles|Ciudad Valles|YES|stars_3.5
+83766|Camino Real Sumiya|Cuernavaca|YES|stars_4
+83849|Villa Del Mar Resort & Spa|Puerto Vallarta|YES|0
+83879|Howard Johnson Alameda Mexico City|Mexico City|YES|stars_3
+83929|Valle de Mexico|Mexico City|NO|stars_3
+83988|Costa Baja Resort & Spa|La Paz|YES|stars_5
+84217|Auto Ritz|Acapulco|YES|stars_2
+84279|Pueblo Bonito Los Cabos|Cabo San Lucas|YES|stars_4.5
+84283|Great Parnassus Resort & Spa|Cancun|YES|stars_4.5
+84285|Gran Festivall|Manzanillo|YES|stars_4
+84319|Quinta del Sol|Cabo San Lucas|YES|stars_3
+84320|Best Western Maya Palenque|Palenque|YES|stars_3.5
+84321|Best Western The Lodge at Creel Hotel & Spa|Creel|NO|stars_3.5
+84322|Best Western Mirador|Chihuahua|NO|stars_4
+84327|Best Western Ceballos|Colima|NO|stars_3.5
+84330|Maria Barbara|Tlalnepantla de Baz|YES|stars_4
+84334|Casino|Morelia|YES|stars_4
+84335|Best Western Royal Courts|Monterrey|YES|stars_3
+84336|Parador Del Dominico|Oaxaca|YES|stars_3
+84338|Best Western Posada Freeman Express|Mazatlan|YES|stars_3
+84343|Best Western Santorin|Ciudad Victoria|NO|stars_3
+84346|Best Western El Camino Inn & Suites|Reynosa|NO|stars_4
+84348|Best Western Poza Rica|Poza Rica|NO|stars_3
+85015|Best Western Expo-Metro Tampico|Tampico|NO|stars_3.5
+85016|Balboa Towers|Mazatlan|YES|stars_3
+85032|Holiday Inn Veracruz Boca del Rio|Boca del Río|YES|stars_3
+85179|Mision de los Angeles|Oaxaca|YES|stars_3
+85695|Ocean Coral & Turquesa Resort - Ocean Coral|Puerto Morelos|YES|stars_5
+86029|Elan Resort & Spa|Cancun|YES|stars_5
+86030|Real Inn San Torreon|Torreon|YES|stars_5
+86321|Grand Riviera Princess All Suites & Spa Resort|Playa del Carmen / Playacar|YES|stars_5
+86541|Blue Pearl Suites|Playa del Carmen / Playacar|YES|stars_3
+87270|Acuario|Veracruz|YES|stars_2.5
+87435|RIU Vallarta|Nuevo Vallarta|NO|stars_4
+87438|Mandarin Oriental Riviera Maya|Riviera Maya|NO|stars_5
+87860|Misión San Gil|San Juan del Rio|YES|stars_4
+87976|Galeria Plaza|Veracruz|YES|stars_4
+87990|Suites del Angel|Mexico City|YES|stars_3.5
+88038|Best Western El Cid|Ensenada|NO|stars_3
+88039|Best Western Xalapa|Jalapa|NO|stars_3
+88098|Fiesta Inn Veracruz Boca del Rio|Boca del Río|YES|stars_3
+88191|Best Western Maya Yucatan|Merida|NO|stars_4
+88447|Camino Real Manzanillo|Manzanillo|YES|stars_5
+88722|Fiesta Inn Villahermosa|Villahermosa|YES|stars_4
+88873|Holiday Inn Tijuana Zona Rio|Tijuana|YES|stars_3.5
+88981|Calypso|Cancun|YES|stars_3
+89114|Lucerna Culiacan|Culiacán|YES|stars_5
+89141|Real Inn Guadalajara Expo|Guadalajara|YES|stars_4
+89143|Executivo Culiacan|Culiacán|YES|stars_4.5
+89207|Gala Oaxaca|Oaxaca|YES|stars_3
+89427|Camino Real Perinorte|Mexico City|YES|stars_5
+89442|Camino Real Pedregal|Mexico City|YES|stars_5
+90152|Sol y Luna|Cancun|YES|stars_3
+90153|Concha Dorada|Veracruz|YES|stars_3
+90154|Jolet|Monterrey|YES|stars_3.5
+90155|Fiesta Inn Veracruz Malecon|Veracruz|YES|stars_3
+90156|Camino Real Nuevo Laredo|Nuevo Laredo|YES|stars_5
+90531|Villas Arqueologicas|Coba|YES|stars_3
+90535|Holiday Inn Tuxtla Gutierrez|Tuxtla Gutierrez|YES|stars_3.5
+90542|Hotel Villas Arqueologicas Teotihuacan|Teotihuacan|YES|stars_3
+90546|Quinto Sol|Teotihuacan|YES|stars_3.5
+90652|Excellence Playa Mujeres|Isla Mujeres|YES|stars_5
+90794|The Lodge at Chichen Itza|Chichen Itza|YES|stars_5
+90795|Mansion del Valle|San Cristobal|YES|stars_4
+91049|Blue Parrot Suites|Playa del Carmen / Playacar|YES|stars_3
+91099|Fiesta Americana Villas Acapulco|Acapulco|YES|stars_4
+91100|Las Palmas Beach Resort|Puerto Vallarta|YES|stars_3.5
+91107|Hacienda Vista Hermosa|Tequesquitengo|NO|stars_5
+91715|Coco Rio|Playa del Carmen / Playacar|YES|stars_3
+91717|Meson Ejecutivo|Guadalajara|YES|stars_3.5
+91719|Casino Plaza|Guadalajara|YES|stars_3.5
+91721|Camino Real Club Santa Fe Mexico|Mexico City|YES|stars_5
+91722|Rivoli Select Veracruz|Boca del Río|YES|stars_4
+91814|Marina|La Paz|NO|stars_4
+92137|Park Royal Ixtapa|Ixtapa|YES|stars_4
+93264|Ocean Coral & Turquesa Resort - Ocean Turquesa|Puerto Morelos|YES|stars_5
+93512|Eloisa|Puerto Vallarta|YES|stars_2
+93616|Camino Real Saltillo|Saltillo|YES|0
+93658|Camino Real Monterrey|Monterrey|YES|stars_4
+93914|Ixchel Beach|Cancun|YES|stars_4
+93915|Grand Oasis Palm / Oasis Palm - Grand Oasis Palm|Cancun|YES|stars_4
+93974|Fiesta Inn Culiacan|Culiacán|NO|stars_4
+94031|Fiesta Inn Tijuana Otay Airport|Tijuana|YES|stars_4
+94044|Gilfer|Puebla|YES|stars_3
+94045|Puente Real|Puebla|YES|stars_3.5
+94049|Fiesta Inn Tuxtla Gutierrez|Tuxtla Gutierrez|YES|stars_3
+94074|Parador De Manolos|Puerto Morelos|NO|stars_3
+94076|Bel Air Collection Resort & Spa Los Cabos|San Jose del Cabo|YES|stars_4.5
+94144|Courtyard Monterrey San Jeronimo|Monterrey|YES|stars_3.5
+94259|Holiday Inn Express Oaxaca Centro Historico|Oaxaca|YES|stars_3.5
+94260|Crowne Plaza Hotel de Mexico|Mexico City|YES|stars_4
+94261|Le Méridien Mexico City|Mexico City|YES|stars_4.5
+94262|Holiday Inn & Suites Mexico Zona Rosa|Mexico City|YES|stars_3.5
+94263|Holiday Inn Cuernavaca|Cuernavaca|YES|stars_3.5
+94273|Holiday Inn Express Playa Del Carmen|Playa del Carmen / Playacar|YES|stars_3
+95021|Now Jade Riviera Cancun|Puerto Morelos|YES|stars_4
+95719|Casa Real|Veracruz|YES|stars_4
+95720|Playa Del Karma|Playa del Carmen / Playacar|YES|stars_3
+96809|Carolina Suites|Guadalajara|YES|stars_4
+97341|Rosewood Mayakobá|Riviera Maya|NO|stars_5
+97376|Xperience - Aqualuna Boutique|Playa del Carmen / Playacar|YES|stars_3
+97954|Casa de Aves|San Miguel De Allende|YES|stars_3.5
+97955|D'Gala|Mazatlan|YES|stars_4
+97956|La Casa de la Marquesa|Querétaro|YES|stars_4
+97957|Casa del Mar|Isla Cozumel|YES|stars_3
+97974|Posada Viena|Mexico City|YES|stars_4
+98453|Suites José Marti|Ciudad Juárez|YES|stars_2
+98454|Plaza Consulado|Ciudad Juárez|YES|stars_2
+99217|Villa Manport|Ciudad Juárez|YES|stars_2
+99796|Costa Brava|Manzanillo|YES|stars_4
+100206|Villa La Estancia|Nuevo Vallarta|YES|stars_5
+100248|Temptation Resort & Spa|Cancun|YES|stars_4
+100316|Bahia Hotel & Beach Club|Cabo San Lucas|YES|stars_4
+100317|La Provincia|Oaxaca|YES|stars_4
+100922|Scuba Club|Isla Cozumel|YES|stars_2
+100923|Desert Inn Ensenada|Ensenada|YES|stars_3
+100924|Hacienda Maria Eugenia|Acapulco|YES|stars_3
+100926|Marbella Acapulco|Acapulco|YES|stars_3
+100931|Desert Inn San Ignacio|San Ignacio|YES|stars_3
+100932|Nututun Palenque|Palenque|YES|stars_3
+100933|Hotel Fénix|Zamora|YES|stars_4
+102068|Sandos Caracol Eco Experience Resort & Select Club - Select Club|Playa del Carmen / Playacar|YES|stars_4.5
+102071|El Sueno|Puebla|YES|stars_4
+102073|Hotel del Prado|Mexico City|YES|stars_3.5
+102083|Fiesta Inn San Cristobal de las Casas|San Cristobal|YES|stars_3
+102088|Lastra|Puebla|YES|stars_3
+102096|Cabo Villas Beach Resort|Cabo San Lucas|YES|stars_4
+102098|Microtel Inn & Suites Ciudad Juarez by US Consulate|Ciudad Juárez|YES|stars_3
+102101|Finisterra|Cabo San Lucas|YES|stars_4.5
+102104|Le Reve|Playa del Carmen / Playacar|YES|stars_4
+102110|Angel Inn|Oaxaca|YES|stars_3.5
+102215|Aranzazu Eco|Guadalajara|YES|stars_2.5
+102217|Casa Ixchel|Isla Mujeres|YES|stars_3
+102218|Casa Bonita|Oaxaca|YES|stars_4
+102340|Casa Dorada Los Cabos Resort & Spa|Cabo San Lucas|YES|stars_5
+102342|Secrets Aura Cozumel|Isla Cozumel|YES|stars_5
+102343|Grand Plaza La Paz|La Paz|YES|stars_5
+102344|Meson San Sebastian|Puebla|YES|stars_3
+102349|Maria Victoria|Jalapa|YES|stars_3
+102364|Maria Eugenia|Tuxtla Gutierrez|YES|stars_3
+102365|Microtel Inn & Suites Chihuahua|Chihuahua|YES|stars_2
+102379|Suites Mediterraneo Veracruz|Boca del Río|YES|stars_3
+102381|Abbey|Puerto Vallarta|YES|stars_3
+102384|Hacienda Tres Rios|Playa del Carmen / Playacar|YES|stars_5
+102385|Posada Guadalajara|Guadalajara|YES|stars_3.5
+102386|Playa de Santiago|Manzanillo|YES|stars_3
+102387|Sotavento Beach Resort|Ixtapa|YES|stars_4
+102388|Binniguenda|Huatulco|YES|stars_4
+102423|Chablis|Palenque|YES|stars_3
+102437|Gran Queretaro|Querétaro|YES|stars_4.5
+102438|Villa Ana Maria|Oaxaca|YES|stars_4
+102491|Grand Sunset Princess|Riviera Maya|NO|stars_5
+102602|Cozumel & Resort|Isla Cozumel|YES|stars_4
+102668|Hacienda Real del Caribe|Playa del Carmen / Playacar|YES|stars_4
+102669|Secrets Maroma Beach Riviera Cancun|Playa del Carmen / Playacar|YES|stars_5
+102674|RIU Palace Pacifico|Nuevo Vallarta|YES|stars_5
+102878|Las Torres Gemelas|Acapulco|YES|stars_3
+102881|Flamboyant|Huatulco|YES|stars_3
+102884|Olas Altas Inn|Mazatlan|YES|stars_3
+102885|Isla Mazatlan Golden Resort|Mazatlan|YES|stars_4
+102886|Four Points Galerias Monterrey|Monterrey|YES|stars_4
+102887|Casa de la Loma|Morelia|YES|stars_5
+102888|Hacienda del Rio|Tijuana|YES|stars_4
+103429|El Dorado Maroma a Beachfront Resort|Playa Maroma|YES|stars_4.5
+103524|Loma del Mar|Ixtapa|YES|stars_4.5
+103525|Holiday Inn Ixtapa|Ixtapa|YES|stars_3
+104124|Araiza Palmira|La Paz|YES|stars_3.5
+104301|Hyatt Ziva Los Cabos|San Jose del Cabo|YES|stars_5
+104488|Americas Best Value Inn - Posada El Rey Sol|Ensenada|YES|0
+104489|Best Western Paraiso Suites|Boca del Río|YES|stars_3
+105270|Sofia Express|Pachuca de Soto|YES|stars_4
+105532|Aura del Mar|Zihuatanejo|YES|stars_4
+105603|Camino Real Tampico|Tampico|YES|stars_4.5
+105658|Zoëtry Casa Del Mar Los Cabos|Cabo San Lucas|YES|stars_5
+105669|Casa Melissa|Playa del Carmen / Playacar|NO|stars_3
+105688|Castillo Blarney Inn|Cabo San Lucas|YES|stars_2.5
+105876|City Express Monterrey Santa Catarina|Monterrey|YES|stars_4
+105962|Club Cantamar|La Paz|NO|stars_3
+106452|Costa del Mar|Playa del Carmen / Playacar|NO|stars_3
+106537|Crowne Plaza Toluca Lancaster|Toluca de Lerdo|NO|stars_3.5
+106539|Crowne Plaza Villahermosa, Tab|Villahermosa|YES|stars_4
+106857|El Encanto Inn|San Jose del Cabo|NO|stars_3
+106865|El Santuario and Spa|Valle de Bravo|NO|stars_5
+107352|Gran Plaza Guanajuato & Convention Center|Guanajuato|YES|stars_4
+107450|Guadalajara Plaza Expo|Guadalajara|YES|stars_4
+107487|Hampton Inn Ciudad Juarez|Ciudad Juárez|YES|stars_3
+107575|Courtyard San Luis Potosi|San Luis Potosí|NO|stars_3
+107606|Holiday Inn Tampico Altamira|Tampico|YES|stars_3
+107631|Misión Toreo Centro de Convenciones|Naucalpan de Juárez|YES|stars_3
+107633|Wyndham Garden Ciudad Obregon|Ciudad Obregon|NO|stars_3
+107664|Holiday Inn Express Cancun Zonaera|Cancun|YES|stars_3
+107674|Holiday Inn Express Mexico - Paseo de la Reforma|Mexico City|YES|stars_2.5
+107676|Holiday Inn Express Nuevo Laredo|Nuevo Laredo|NO|stars_2
+107677|Holiday Inn Express Piedras Negras|Piedras Negras|NO|stars_2.5
+107759|Holiday Inn Pachuca, Hgo|Pachuca de Soto|YES|stars_3
+107769|Holiday Inn Puebla la Noria|Puebla|YES|stars_4
+107827|Holiday Inn Veracruz Centro Historico|Veracruz|YES|stars_3.5
+107862|Hostal Hacienda Sepulveda|Lagos De Moreno|NO|stars_4
+107914|Casa las Tortugas|Isla Holbox|YES|stars_4
+108273|La Mansion del Sol|Guadalajara|NO|stars_4
+108289|La Puertecita Boutique|San Miguel De Allende|YES|stars_4
+108620|Room Mate Valentina|Mexico City|YES|stars_4
+108633|Marina Sol Resort|Cabo San Lucas|YES|stars_4
+108642|Marquis Los Cabos Resort & Spa|Los Cabos|NO|stars_5
+108669|Ixtapan de la Sal Marriott, Spa & Convention Center|Ixtapan de la Sal|YES|0
+108713|Mayan Palace Nuevo Vallarta|Nuevo Vallarta|YES|stars_4.5
+108714|Mayan Palace Puerto Penasco|Puerto Peñasco|NO|stars_4
+108715|Ocean Breeze|Acapulco|YES|stars_4
+108716|Mayan Palace Mazatlan & Mayan Sea Garden|Mazatlan|YES|stars_4
+108717|Mayan Sea Garden Nuevo Vallarta|Nuevo Vallarta|YES|stars_4
+109670|Penasco del Sol|Puerto Peñasco|NO|stars_3.5
+110050|Real del Rio|Tijuana|NO|stars_4
+110138|Residencia Rochester|Mexico City|YES|stars_3
+110370|Camino Real Guanajuato|Guanajuato|YES|stars_5
+110371|Villa Mercedes|Palenque|YES|stars_4.5
+110372|Secrets Silversands Riviera Cancun|Riviera Maya|YES|stars_5
+110393|Privilege Aluxes|Isla Mujeres|YES|stars_5
+110402|Azul Fives|Playa del Carmen / Playacar|NO|stars_5
+110427|Isla Mujeres Palace|Isla Mujeres|YES|stars_5
+110478|Dreams Villamagna Nuevo Vallarta|Nuevo Vallarta|YES|stars_4
+110766|Sea Of Cortez|San Carlos|NO|stars_3
+111187|The Grand Mayan Riviera Maya|Riviera Maya|YES|stars_5
+111460|Vallarta Sol|Puerto Vallarta|YES|stars_2
+111523|Villa Ganz|Guadalajara|YES|stars_4
+111535|Villa La Paloma Suites|Cabo San Lucas|NO|stars_3
+111546|Villa Mexicana Creel Mountain Lodge|Creel|NO|stars_3.5
+111598|Vista Plaza del Sol|Guadalajara|YES|stars_3.5
+122515|Elizabeth Ciudad Deportiva|Aguascalientes|YES|stars_3
+122518|Posada Jacarandas|Cuernavaca|NO|stars_5
+122519|Fiesta Americana Grand Guadalajara Country Club|Guadalajara|YES|stars_5
+122520|Indigo Hacienda Misné|Merida|YES|stars_4.5
+122521|Colonial Mexicali|Mexicali|YES|stars_4
+122523|Four Points Mexico City - Colonia Roma|Mexico City|YES|stars_3.5
+122524|San Carlos Plaza Hotel & Resort|Guaymas|YES|stars_3.5
+122526|Grand Tijuana|Tijuana|YES|stars_5
+122528|Mansion Real Morelia|Morelia|YES|stars_4.5
+122530|Marcella|Morelia|YES|stars_3.5
+122532|Torreblanca Campestre|Morelia|YES|stars_3
+122534|Torreblanca Business Class|Morelia|YES|stars_4
+122535|City Express Morelia|Morelia|YES|stars_3.5
+122536|Misión Pátzcuaro|Pátzcuaro|YES|stars_4
+122537|Plaza Poblana|Puebla|YES|stars_3.5
+122538|San Angel|Puebla|YES|stars_3
+122539|Surf Olas Altas|Puerto Escondido|YES|stars_4
+122540|Santa Fe|Puerto Escondido|YES|stars_3.5
+122541|Blue Chairs|Puerto Vallarta|YES|stars_3
+122542|Doña Urraca Hotel & Spa|Querétaro|YES|stars_3.5
+122544|Doña Urraca|San Miguel De Allende|YES|stars_3.5
+122545|Hacienda el Santuario Centro|San Miguel De Allende|YES|stars_4
+122546|Posada de Tampico|Tampico|YES|stars_5
+122547|Comfort Inn Tampico|Tampico|YES|stars_3.5
+124036|Fiesta Inn Santa Fe|Mexico City|YES|stars_3
+124696|Mision Aguascalientes Zona Norte|Aguascalientes|YES|stars_4
+124697|Elizabeth Central|Aguascalientes|YES|stars_3
+124698|Aguascalientes|Aguascalientes|YES|stars_3.5
+124700|Misión Aguascalientes Zona Sur|Aguascalientes|YES|stars_4
+124702|Plaza Colonial|Campeche|NO|stars_4
+124704|Castelmar|Campeche|YES|stars_3
+124705|Courtyard Cancun Airport|Cancun|YES|stars_4
+124707|Casa Grande Delicias|Delicias|YES|stars_5
+124708|Parador Chihuahua|Chihuahua|YES|stars_3
+124709|Radisson Casa Grande Ciudad Juarez|Ciudad Juárez|YES|stars_5
+124710|Real Inn Ciudad Juárez|Ciudad Juárez|YES|stars_4.5
+124712|Misión Colima|Colima|YES|stars_4
+124713|Bajo el Volcan|Cuernavaca|YES|stars_3
+124714|GS Cuernavaca|Cuernavaca|YES|stars_4
+124717|Casa Grande Aeropuerto Hotel & Centro de Negocios|Guadalajara|YES|stars_4
+124718|Suites Country Club|Guadalajara|YES|stars_3
+124719|Victoria Express Guadalajara|Guadalajara|YES|0
+124720|Suites Bernini|Guadalajara|YES|stars_2.5
+124721|Zar Guadalajara|Guadalajara|YES|stars_3
+124729|Real de Minas Bajio|Leon|YES|stars_4
+124730|Misión Comanjilla Silao/León|Leon|NO|stars_4
+124735|Vista Playa de Oro|Manzanillo|YES|stars_3.5
+124741|Villas el Rancho|Mazatlan|YES|stars_3.5
+124742|Colon|Merida|YES|stars_3
+124745|Riazor|Mexico City|YES|stars_4
+124751|Ramada Aeropuerto|Mexico City|YES|stars_4
+124752|Holiday Inn Express Mexico City at the WTC|Mexico City|YES|stars_2.5
+124753|Suites Mi Casa|Mexico City|YES|stars_3
+124755|Torres Lindavista - geschlossen|Mexico City|YES|stars_3.5
+124757|Comfort Inn Monterrey|Monterrey|YES|stars_3.5
+124762|La Casa de Adobe|Oaxaca|YES|stars_4
+124763|Fortin Plaza|Oaxaca|YES|stars_4
+124764|Hostal Casantica|Oaxaca|YES|stars_3.5
+124765|Oaxaca Dorado|Oaxaca|YES|stars_4
+124766|Antiguo Fortin|Oaxaca|YES|stars_3
+124768|Casa de Sierra Azul|Oaxaca|YES|stars_3.5
+124769|Villa Vera Oaxaca|Oaxaca|NO|stars_4
+124770|Casa Ticul|Playa del Carmen / Playacar|YES|stars_3
+124771|Encanto Paseo del Sol|Playa del Carmen / Playacar|YES|stars_4
+124774|Riviera Maya Suites|Playa del Carmen / Playacar|YES|stars_4
+124775|Pueblito Luxury Condohotel|Playa del Carmen / Playacar|YES|stars_3.5
+124778|Imperial|Puebla|YES|stars_3
+124780|Del Portal|Puebla|YES|stars_3
+124783|Hacienda la Puerta de Enmedio|Puerto Vallarta|YES|stars_3
+124794|Misión San Miguel de Allende|San Miguel De Allende|NO|stars_4
+124795|NH Collection Mexico City Santa Fé|Mexico City|YES|stars_4
+124797|Comfort Inn Tapachula Kamico|Tapachula|NO|stars_3.5
+124798|Loma Linda|Taxco|YES|stars_3
+124807|Hotel Villas Arqueológicas Uxmal|Uxmal|YES|stars_3
+124809|Plaza Independencia|Villahermosa|YES|stars_3
+124810|Misión Xalapa Plaza de las Convenciones|Jalapa|YES|stars_4
+124813|Santa Rita|Zacatecas|YES|stars_4.5
+124814|Meson de la Merced|Zacatecas|YES|stars_3
+124815|Don Miguel|Zacatecas|YES|stars_4
+124816|Hacienda del Bosque|Zacatecas|YES|stars_5
+124818|Del Bosque Teleferico y Mina|Zacatecas|YES|stars_5
+128854|Ne Nueva Estancia|Leon|YES|stars_4
+129722|Villa Mercedes San Cristobal|San Cristobal|YES|stars_4
+132738|Fiesta Inn Hermosillo Hotel|Hermosillo|YES|stars_4
+132742|New York|Mexico City|NO|stars_3
+132743|Lepanto|Mexico City|NO|stars_3
+132745|Eurostars Suites Reforma|Mexico City|YES|stars_5
+132753|Fiesta Inn Tampico|Tampico|NO|stars_4
+132754|Agua Escondida|Taxco|NO|stars_3.5
+132755|Jeroc's|Tlaxcala|YES|stars_4
+134170|Inglaterra|Tampico|YES|stars_4
+134171|Villa del Arco Beach Resort & Grand Spa|Cabo San Lucas|YES|0
+134172|Crown Plaza Mazatlan|Mazatlan|YES|stars_4
+134173|Misión del Sol|Cuernavaca|YES|stars_5
+134174|Safi Royal Luxury Towers|Monterrey|YES|stars_4.5
+134211|Casa De La Condesa|Mexico City|YES|stars_3
+135089|Gran Real Yucatan|Merida|YES|stars_4
+135529|Clarum 101|Guadalajara|YES|stars_4
+135530|Alcazar|Guadalajara|YES|stars_3
+135531|Mexico Plaza Guanajuato|Guanajuato|YES|stars_4
+135532|Elements Holbox|Isla Holbox|YES|stars_3
+135533|Real Madero Morelia|Morelia|YES|stars_3
+135535|Casa del Virrey Hotel & Suites|Morelia|YES|stars_4
+135559|Riu Emerald Bay|Mazatlan|YES|stars_4.5
+135707|Castelo|Boca del Río|YES|stars_4.5
+135708|Casa Maria|San Miguel De Allende|YES|stars_4
+135709|Casa Rosada|San Miguel De Allende|YES|stars_3.5
+135710|Las Rocas Resort & Spa|Rosarito|YES|stars_4
+136328|Tierra y Cielo|San Cristobal|YES|stars_4
+136344|El Dorado Casitas Royale|Riviera Maya|NO|stars_5
+136359|Mosquito Beach|Playa del Carmen / Playacar|YES|stars_4
+136715|Holiday Inn Trade Center|Mexico City|YES|stars_3.5
+136733|Holiday Inn Zona Diamante|Querétaro|YES|stars_3.5
+136752|Ramada Culiacán|Culiacán|YES|0
+136791|Fiesta Inn Toluca Tollocan|Toluca de Lerdo|YES|stars_3
+138505|Ramada Reforma|Mexico City|YES|stars_3.5
+138565|NH Collection Monterrey|Monterrey|YES|stars_4
+138594|Alux Cancun|Cancun|NO|stars_2
+138857|Desire Resort & Spa Los Cabos|San Jose del Cabo|YES|stars_4
+138899|Fiesta Inn Durango|Durango|NO|stars_3.5
+139008|Royal Garden Reynosa|Reynosa|NO|stars_3.5
+139106|Mayan Palace Riviera Maya|Riviera Maya|YES|stars_4
+139208|InterContinental Presidente Puebla|Puebla|YES|stars_4.5
+139311|The Royal Suites Punta de Mita by Palladium|Puerto Vallarta|YES|stars_5
+139449|Tankah Cancun|Cancun|NO|stars_3
+140097|Temptation Resort & Spa|San Jose del Cabo|YES|stars_4
+141975|Bahia Escondida|Monterrey|YES|stars_3.5
+141979|Monaco|Mexico City|YES|stars_3
+142929|Casablanca Inn|Querétaro|YES|stars_3.5
+142931|City Express Chihuahua|Chihuahua|YES|stars_3
+142933|City Express Guadalajara Expo|Guadalajara|YES|stars_4
+142936|City Express Puebla Centro|Puebla|YES|stars_4
+142943|Durango|Durango|NO|stars_3
+142954|Hacienda Inn|Merida|NO|stars_4
+142966|Plaza Magnolias|San Cristobal|YES|stars_3.5
+142967|Posada De Las Flores La Paz|La Paz|YES|stars_3.5
+142969|Posada Tierra Blanca|Chihuahua|YES|stars_3
+142973|Real Provincia|Leon|YES|stars_3
+142977|The Inn At Mazatlan|Mazatlan|YES|stars_4
+159554|Azul Sensatori Mexico|Puerto Morelos|YES|stars_5
+159555|Barrio Latino|Playa del Carmen / Playacar|YES|stars_3
+159559|Best Western Cumbres Aeropuerto|Chihuahua|NO|stars_3.5
+159566|Cabo del Sol|Cabo San Lucas|YES|0
+159568|Capella Ixtapa|Ixtapa|YES|stars_5
+159569|The Resort at Pedregal|Cabo San Lucas|YES|stars_5
+159571|Casa Cayala|Querétaro|YES|stars_4
+159572|Casa de los Angeles|Puerto Morelos|NO|stars_3
+159578|Casa Lucia|Merida|YES|stars_4
+159580|Casa Maya|Cancun|NO|stars_4
+159581|Casa San Angel Merida|Merida|NO|stars_3.5
+159587|Catalina Beach Resort|Zihuatanejo|NO|stars_4
+159592|City Express Celaya|Celaya|NO|stars_3.5
+159593|City Express EBC Reforma|Mexico City|NO|stars_2
+159594|City Express Hermosillo|Hermosillo|NO|stars_3
+159595|City Express Mexicali|Mexicali|YES|stars_3.5
+159596|City Express Tampico|Tampico|NO|stars_4
+159597|City Express Insurgentes Sur|Mexico City|NO|stars_4
+159600|City Express Toluca|Toluca de Lerdo|YES|stars_3
+159603|Comfort Inn Cordoba|Cordoba|NO|stars_3.5
+159604|Estancia Real Cabo San Lucas|Cabo San Lucas|YES|stars_2.5
+159605|Comfort Inn Monclova|Monclova|NO|stars_2.5
+159632|Emily|Pachuca de Soto|NO|stars_3
+159634|F Star|Veracruz|YES|stars_4
+159636|Fiesta Inn Monterrey Fundidora|Monterrey|NO|stars_4
+159637|Quality Inn Nuevo Laredo|Nuevo Laredo|NO|stars_3
+159640|Holiday Inn Monclova|Monclova|YES|stars_3
+159647|Gran Huatulco|Huatulco|YES|stars_4
+159649|Grand Royal Tampico|Tampico|YES|stars_3.5
+159665|Fiesta Americana Hacienda San Antonio El Puente|Xochitepec|NO|stars_5
+159672|Hippodrome|Mexico City|YES|stars_4.5
+159674|Holbox Dream|Isla Holbox|YES|stars_3
+159675|Holiday Inn Campeche|Campeche|NO|stars_3
+159685|Misión Arcángel Puebla|Puebla|NO|stars_4
+159696|Imelda|Zihuatanejo|YES|stars_3
+159703|The Beloved|Isla Mujeres|YES|stars_5
+159709|La Quinta Inn & Suites Cd. Juarez|Ciudad Juárez|NO|stars_3
+159732|Mar y Tierra|Veracruz|YES|stars_3
+159736|El Meson de los Poetas|Guanajuato|NO|stars_4
+159739|Marriott Reforma|Mexico City|YES|stars_4.5
+159740|Mexico Plaza Suites Campestre|Leon|YES|stars_4
+159741|Wyndham Garden Leon Centro Max|Leon|YES|stars_4
+159742|Mexico Plaza Suites Salamanca|Salamanca|NO|stars_4
+159746|Mision CD Victoria|Ciudad Victoria|NO|stars_4
+159747|Mision Cerocahui|Cerocahui|NO|stars_4
+159758|Pablos Suites|San Miguel De Allende|YES|stars_3.5
+159763|Piedra de Agua Boutique|Merida|YES|stars_4
+159765|Playa Palms Beach|Playa del Carmen / Playacar|NO|stars_3
+159768|City Express Buenavista|Mexico City|YES|stars_3
+159769|Del Portal|San Miguel De Allende|YES|stars_3.5
+159770|Porto Playa Condo|Playa del Carmen / Playacar|NO|stars_4
+159772|Posada Barrancas Mirador|Copper Canyon|NO|stars_4
+159773|Posada Del Hidalgo|El Fuerte|NO|stars_3.5
+159776|Posada San Alejandro|Pátzcuaro|NO|stars_3
+159777|Mision San Francisco|Tlaxcala|NO|stars_5
+159781|Punta Pescadero Paradise Hotel & Villas|La Paz|YES|stars_4
+159783|Quality Inn Ciudad Juarez|Ciudad Juárez|YES|stars_3.5
+159785|Quality Inn Tuxtla Gutierrez|Tuxtla Gutierrez|YES|stars_3.5
+159790|Raintree's Club Regina Los Cabos|San Jose del Cabo|YES|stars_4
+159794|Villa Vera Puerto Isla Mujeres|Isla Mujeres|YES|stars_4
+159796|Ramada Ciudad Victoria|Ciudad Victoria|YES|stars_3.5
+159819|Sands/Las Arenas|Mazatlan|NO|stars_3
+159822|Senorial|Puebla|NO|stars_3
+159824|Serena Residences|Mazatlan|YES|stars_4.5
+159825|Sierra Lago Resort & Spa|Mascota|YES|stars_4
+159828|Stadia Suites Santa Fe|Mexico City|NO|stars_4.5
+159830|Suites Amberes|Mexico City|YES|stars_4
+159831|Suites Cancun Center|Cancun|NO|stars_3
+159835|Puerta Paraiso|Cuernavaca|NO|stars_3.5
+159838|Taheima Wellness Resort & Spa|Nuevo Vallarta|YES|stars_5
+159840|The St. Regis Punta Mita Resort|Punta Mita|YES|stars_5
+159842|The Westin Lagunamar Ocean Resort Villas & Spa|Cancun|YES|stars_4.5
+159847|Turotel Morelia Acueducto|Morelia|YES|stars_3.5
+159848|Turotel Queretaro|Querétaro|NO|stars_3.5
+159850|Valle Grande Obregon|Ciudad Obregon|NO|stars_4
+159863|Villas Fasol|Huatulco|NO|stars_4
+159864|Villas Paraiso|Ixtapa|YES|stars_3
+159868|Wingate by Wyndham Chihuahua|Chihuahua|YES|stars_3
+159870|Suites Del Parque|Mexico City|YES|stars_3
+159871|Zamas|Tulum|YES|0
+159876|Microtel Inn & Suites Toluca|Toluca de Lerdo|YES|stars_2
+163468|Mayan Palace Puerto Vallarta|Marina Vallarta|YES|stars_4
+163469|Belmar|Puerto Vallarta|YES|stars_2
+182254|Hostel Mundo Joven Catedral|Mexico City|NO|stars_3
+182255|Posada Santa Fe|Guanajuato|YES|stars_3
+182256|Coral Island|Mazatlan|YES|stars_4
+182512|Mayafair Design|Cancun|YES|stars_3
+182513|Casa de las Columnas|Merida|YES|stars_3.5
+182514|Meson de los Remedios|Morelia|YES|stars_3
+182515|Fiesta Inn Centro|Toluca de Lerdo|YES|stars_3.5
+182811|Dreams Riviera Cancun Resort & Spa|Puerto Morelos|YES|stars_5
+183144|Banyan Tree Mayakoba|Playa del Carmen / Playacar|NO|stars_5
+183648|Quinta Palmera|Riviera Maya|YES|stars_4
+183650|Alegranza Luxury Condominium & Resort|Cabo San Lucas|YES|stars_4.5
+183651|City Express Lazaro Cardenas|Lázaro Cárdenas|NO|stars_3.5
+183652|City Express Mazatlan|Mazatlan|NO|stars_4
+183654|City Express Coatzacoalcos|Coatzacoalcos|NO|stars_4
+183656|El Taj Condo|Playa del Carmen / Playacar|NO|stars_4.5
+183657|Villas Sacbe Boutique Condos|Playa del Carmen / Playacar|NO|stars_4
+183658|Maya Villa Condo|Playa del Carmen / Playacar|NO|stars_4
+183661|B2B Malecón Plaza|Cancun|YES|stars_4
+183663|Casa de la Luna|Mexico City|NO|stars_3
+183667|Hacienda Suites Loreto|Loreto|YES|stars_3.5
+183669|Festival Plaza|Guadalajara|YES|stars_3
+183671|Tulija Express|Palenque|YES|stars_4
+183672|Misión Express Celaya|Celaya|NO|stars_3
+183677|City Express Puebla Angelopolis|Puebla|NO|stars_4
+183678|City Express Tijuana Rio|Tijuana|NO|stars_3.5
+183679|Encanto Corto Maltes|Playa del Carmen / Playacar|YES|stars_4
+183683|Retiro Maya Tulum|Tulum|NO|stars_3
+183687|Misión Monterrey Histórico|Monterrey|YES|stars_4
+183689|Hacienda Morelos|Puerto Morelos|NO|stars_3
+183690|Playa La Media Luna|Isla Mujeres|NO|stars_3
+187384|La Villa del Ensueno Boutique|Guadalajara|NO|stars_4
+187440|Los Agaves|San Miguel De Allende|NO|stars_3
+187507|Festival Plaza|Rosarito|NO|stars_3
+187520|Fiesta Inn San Luis Potosí Glorieta Juárez|San Luis Potosí|NO|stars_3.5
+187669|Fiesta Americana Santa Fe|Mexico City|YES|stars_4
+188096|Lark|Mexico City|YES|stars_3
+188097|Wyndham Garden Polanco|Mexico City|YES|stars_3.5
+195922|Hacienda Santa Cruz|Merida|NO|stars_3.5
+196011|La Morada|San Miguel De Allende|YES|stars_4
+202413|Las Nubes de Holbox|Isla Holbox|YES|stars_3.5
+202598|Xperience Hotels La Palapa Etno-Chic Hotel|Isla Holbox|YES|stars_3
+202599|NH Aeropuerto T2 México|Mexico City|YES|stars_5
+202601|San Diego|Mexico City|YES|stars_3
+202603|NH Guadalajara|Guadalajara|YES|stars_5
+202611|Las Torres de El Legado|Monterrey|YES|stars_3.5
+202612|Cantera Diez|Morelia|YES|stars_4.5
+202613|Diana del Bosque|Morelia|YES|stars_4
+202614|San Antonio Tampico|Tampico|YES|stars_4
+202616|Museo Palacio de San Agustin|San Luis Potosí|NO|stars_4
+202621|Puebla de Antaño|Puebla|YES|stars_4
+202625|Centro 19|Querétaro|YES|stars_3
+202627|Reina Roja|Playa del Carmen / Playacar|YES|stars_4
+203201|In Fashion Boutique|Playa del Carmen / Playacar|YES|stars_4
+203202|Zar Nuevo Vallarta|Nuevo Vallarta|YES|stars_3
+203203|Suites Bello Xochimilco|Oaxaca|YES|stars_2.5
+203204|El Pedregal Cancun|Cancun|NO|0
+205744|Bahia Chac Chi|Isla Mujeres|YES|stars_4
+208761|El Punto|Playa del Carmen / Playacar|YES|stars_4
+210002|Grand Prix|Mexico City|NO|stars_4
+210177|Hacienda Mariposa|Playa del Carmen / Playacar|YES|stars_3
+210222|Hampton Inn & Suites Mexico City - Centro Historico|Mexico City|YES|stars_3.5
+210923|Hosteria los dos patios|Querétaro|YES|stars_4
+214651|Ocean Breeze Golf Riviera Maya|Puerto Morelos|YES|stars_4
+214750|One Ciudad de México Patriotismo|Mexico City|NO|stars_3
+216954|Residencia Polanco|Mexico City|NO|stars_3.5
+218333|The St. Regis|Mexico City|YES|stars_5
+218392|Staybridge Suites Guadalajara Expo|Guadalajara|YES|stars_3
+221624|Country Plaza Guadalajara|Zapopan|YES|stars_3.5
+222742|Marbella Suites en la Playa|San Jose del Cabo|NO|stars_3
+222879|Ocean Breeze|Nuevo Vallarta|YES|stars_4
+222891|One Acapulco Costera|Acapulco|YES|stars_3
+223127|Puebla Plaza|Puebla|NO|stars_3
+223381|Sands|Acapulco|NO|stars_3
+226667|Aldea Thai Luxury Condohotel|Playa del Carmen / Playacar|YES|stars_4
+226668|Suites Gaby|Cancun|YES|stars_3
+226669|Camping Ida y Vuelta|Isla Holbox|YES|stars_2
+226670|Playa Bonita|Mazatlan|YES|stars_3
+226684|Casa Bahia Bonita|Yelapa|YES|0
+226685|Portonovo Plaza|Puerto Vallarta|YES|stars_4
+226686|Green Tulum|Tulum|YES|stars_3
+226687|Arizona|San Luis Potosí|NO|stars_3
+226827|Camino Real Pachuca|Pachuca de Soto|YES|stars_4
+226898|Misión Valle de Bravo|Valle de Bravo|YES|stars_4.5
+226899|Ixtapa Palace Resort & Spa|Ixtapa|YES|stars_4
+226900|Torrenza Boutique|Mazatlan|YES|stars_4.5
+226902|Bicentenario|San Miguel De Allende|YES|stars_3
+226903|Ana Catalina|San Miguel De Allende|YES|stars_3
+227207|Encanto|Acapulco|YES|stars_5
+227208|Ambiance Suites Cancun|Cancun|YES|stars_4
+227209|Villa Tulum|Tulum|YES|stars_3
+227210|Jardines del Carmen|San Cristobal|YES|stars_3
+227211|Krystal Business CD. Juárez|Ciudad Juárez|YES|stars_3.5
+227212|Hacienda la Venta|San Juan del Rio|YES|stars_5
+227213|Casa de las Flores|Oaxaca|YES|stars_3
+227214|Meson de la Merced|Querétaro|YES|stars_3
+227215|Suites Sofia|Querétaro|YES|stars_3
+227383|Acapulco Turquesa|Acapulco|YES|stars_3
+227416|Casa Sun & Moon|Zihuatanejo|YES|stars_3
+227417|Zihua Caracol|Zihuatanejo|YES|stars_3
+227418|The Ridge At Playa Grande|Cabo San Lucas|YES|stars_5
+227419|Marionetas|Merida|YES|stars_5
+227420|Mesón de la Luna & Spa|Merida|YES|stars_4
+227987|Caché Boutique|Playa del Carmen / Playacar|YES|stars_3.5
+228026|Plaza Morelia|Morelia|YES|stars_3
+228027|Palace|Puebla|YES|stars_3
+228204|Banyan Tree Cabo Marques|Acapulco|NO|stars_5
+228244|Ibis Mérida|Merida|NO|stars_3
+228932|Belo|Morelia|YES|stars_4
+228944|One Querétaro Plaza Galerias|Querétaro|YES|stars_3
+228945|One Puebla Finsa|Puebla|YES|stars_3
+228946|One Playa Del Carmen|Playa del Carmen / Playacar|YES|stars_3
+229202|One Aguascalientes Sur|Aguascalientes|YES|stars_3
+229203|One Coatzacoalcos Forum Hotel|Coatzacoalcos|YES|stars_3
+229204|One San Luis Potosí Glorieta Juarez|San Luis Potosí|YES|stars_3
+229205|One Saltillo Derramadero|Saltillo|YES|stars_3
+229206|NH Valle Dorado|Mexico City|NO|stars_4
+229207|The Westin Santa Fe Mexico|Mexico City|YES|stars_5
+229208|Hacienda de Castilla|Cancun|NO|stars_3
+229209|Suites Club de Golf|Acapulco|NO|stars_3
+229963|Plaza Cozumel|Isla Cozumel|NO|stars_3
+229964|Rocamar|Isla Mujeres|NO|stars_2
+230121|Santa Fe Loreto|Loreto|NO|stars_4
+230145|Okaan|Chichen Itza|NO|stars_5
+230194|Villas del Sol|Oaxaca|NO|stars_3
+230202|Punta Esmeralda Suites & Hotel|Puerto Escondido|NO|stars_4
+230481|One Toluca Aeropuerto|Toluca de Lerdo|NO|stars_3
+232237|Plaza Suites|Mexico City|NO|stars_5
+232238|Bambu Suites|Playa del Carmen / Playacar|NO|stars_3
+233103|Marriott Aguascalientes|Aguascalientes|NO|stars_4.5
+233607|Grand City|Cancun|NO|stars_4
+233608|Laguna Bacalar|Bacalar|NO|stars_3
+233609|Portico Hotel Cultural|Morelia|NO|stars_3
+233610|Catedral Puerto Vallarta|Puerto Vallarta|NO|stars_3
+233611|El Serafin Boutique|Querétaro|NO|stars_3.5
+233612|Mansion del Burro Azul|Querétaro|NO|stars_3
+233613|Papaya Playa|Tulum|NO|stars_3
+233617|Clara Luna|Jalapa|NO|stars_4
+233721|Costa Sur Resort & Spa|Puerto Vallarta|YES|stars_4
+234203|Casa Barbara|Isla Holbox|NO|stars_3
+234206|Maya Inn Holbox|Isla Holbox|NO|stars_3
+234208|Villa del Palmar Cancun|Cancun|NO|stars_4
+234212|Misión Express Mérida Altabrisa|Merida|NO|stars_4
+234218|Maya Inn Playa del Carmen|Playa del Carmen / Playacar|NO|stars_3
+234223|Royal Haciendas|Riviera Maya|NO|stars_5
+234224|Encanto Aventuras Club|Puerto Aventuras|NO|stars_4
+234225|Santa Cruz Bungalows|Puerto Escondido|YES|stars_4
+234231|Sunset Plaza Beach Resort and Spa|Puerto Vallarta|NO|stars_5
+234525|Hostel Mundo Joven Cancun|Cancun|NO|stars_3
+234530|Del Sol|Cancun|NO|stars_3
+234534|Zar|Culiacán|YES|stars_3
+234537|Alikar|Huatulco|NO|stars_4
+234542|Maria Jose|Merida|NO|stars_3
+234547|Eco Ixhi|Pátzcuaro|NO|stars_4
+234549|Kore Tulum Retreat|Tulum|NO|stars_5
+234551|Be Tulum|Tulum|NO|stars_4
+234553|The Bric|Playa del Carmen / Playacar|NO|stars_3
+234623|One Aguascalientes San Marcos|Aguascalientes|NO|stars_3
+234980|La Casona de Don Lucas|Guanajuato|NO|stars_3
+234981|Ilebal|Cuernavaca|NO|stars_3
+235067|Casa Yalma Kaan|Acapulco|NO|stars_4
+235070|State Inn|Chihuahua|NO|stars_4
+235095|Zar San Luis Potosí|San Luis Potosí|YES|stars_3
+235098|Real del Mar Golf & Resort|Tijuana|NO|stars_5
+235191|Hacienda Don Juan|San Cristobal|NO|stars_3
+235194|Gran Tamayo|Cuernavaca|NO|stars_3.5
+235320|City Express Saltillo Sur|Saltillo|NO|stars_4
+235321|City Express Veracruz|Boca del Río|NO|stars_4
+235448|Ambassador Cholula|Cholula|NO|stars_3
+235449|Trueba|Orizaba|NO|stars_3
+235450|San Sebastian|Hermosillo|YES|stars_4
+235451|Via 38|Playa del Carmen / Playacar|NO|stars_4
+235453|Casa Iguana|Playa del Carmen / Playacar|NO|stars_3
+235454|Casa Vista Del Mar|Playa del Carmen / Playacar|NO|stars_3
+235457|Casa Quinta Luna A/B|Playa del Carmen / Playacar|NO|0
+235458|Casa Stavola 8|Playa del Carmen / Playacar|NO|stars_3
+235592|Casa Mar y Sol|Playa del Carmen / Playacar|NO|stars_2
+235593|Casa Mia Suites|San Miguel De Allende|NO|stars_4
+235594|Casa Paloma Blanca|Playa del Carmen / Playacar|NO|stars_3
+235595|Casa Paraiso|Playa del Carmen / Playacar|NO|stars_2
+235601|NH Queretaro|Querétaro|NO|stars_4
+235602|Hacienda|Reynosa|NO|stars_4
+235603|Hampton Inn By Hilton Ciudad Victoria|Ciudad Victoria|NO|stars_3
+235605|GR Caribe Deluxe All Inclusive Resort|Cancun|NO|stars_5
+235606|Avandaro Golf & SPA Resort|Valle de Bravo|NO|stars_5
+235608|Costa Inn|Boca del Río|NO|stars_4
+235609|Puerta del Sol|Guadalajara|NO|stars_4
+235611|Quinta Gobernador|Cuernavaca|NO|stars_3
+235612|Quinta Roma|Tepoztlán|NO|stars_4
+236104|Royal Resorts|Cancun|YES|stars_5
+236283|Be Playa|Playa del Carmen / Playacar|NO|stars_4
+236311|Casa Xtacay|Playa del Carmen / Playacar|NO|0
+236313|Club Ejecutivo Premium|Naucalpan de Juárez|NO|stars_3
+236314|Best Western Riviera Tuxpan|Tuxpan|NO|stars_4
+236315|Viva Inn|Ciudad Victoria|NO|stars_3.5
+236316|Real Inn Chihuahua|Chihuahua|NO|stars_3
+236317|Posada del Cortes|Loreto|NO|stars_2
+236322|Mansion Tarahumara|Copper Canyon|NO|stars_4
+236323|Divisadero Barrancas|Chihuahua|NO|stars_4
+236324|El Fuerte|El Fuerte|NO|stars_4
+236325|Marlyn|Puerto Vallarta|NO|stars_3
+236326|Secrets Huatulco Resort & Spa|Huatulco|YES|stars_5
+236327|One Reynosa Valle Alto|Reynosa|NO|stars_3
+236328|El Campanario|Playa del Carmen / Playacar|NO|stars_3
+236346|Casa Lupita|Isla Holbox|NO|stars_3
+236352|Hacienda Bajamar|Ensenada|NO|stars_4
+236353|Grand Solmar Land's End Resort & Spa|Cabo San Lucas|NO|stars_4.5
+236354|Catalonia Privileged Beach|Playa del Carmen / Playacar|NO|stars_4
+236359|Bg Los Lagos|Jalapa|NO|stars_3
+236360|Comfort Inn Puerto Vallarta|Puerto Vallarta|NO|stars_3.5
+236361|Orense Express|Cuernavaca|NO|stars_3
+236362|Bg Creperie|Jalapa|NO|stars_3
+236363|Crowne Plaza Queretaro|Querétaro|NO|stars_3.5
+236370|Garza Blanca Preserve Resort & Spa|Puerto Vallarta|NO|stars_5
+236410|Sierra Bonita|Creel|NO|stars_4
+236412|Paraiso del Oso|Cerocahui|NO|stars_3
+236481|Camino Real Ixtapan de la Sal|Ixtapan de la Sal|NO|stars_5
+236486|Corona Hotel & Spa|Ensenada|NO|stars_4
+236665|Mirador del Frayle|San Miguel De Allende|NO|stars_4
+236666|Mexico Plaza Ejecutivo Celaya|Celaya|NO|stars_4.5
+238051|Paradisus Playa del Carmen La Perla/ La Esmeralda|Playa del Carmen / Playacar|NO|stars_5
+238052|RIU Plaza Guadalajara|Guadalajara|NO|stars_5
+238203|Fiesta Inn Insurgentes Sur|Mexico City|NO|stars_3.5
+238289|Rosewood San Miguel de Allende|San Miguel De Allende|NO|stars_5
+238740|Casa Don Gustavo|Campeche|NO|stars_4.5
+238744|Villas Coco Paraiso|Isla Mujeres|NO|stars_3
+238745|Playa del Carmen H&A|Playa del Carmen / Playacar|NO|stars_3
+238746|Holbox Suites|Isla Holbox|NO|stars_3
+238747|Comfort Inn Cancun Aeropuerto|Cancun|NO|stars_3
+238752|Palenque|Palenque|NO|stars_3
+238754|Las Suites|Mexico City|NO|stars_5
+238758|Demetria|Guadalajara|NO|stars_5
+238761|Los Abolengos|Santiago de Tequila|NO|stars_4
+238762|Cielito Lindo|San Jose del Cabo|NO|stars_2
+238767|Refugio Del Angel|Pátzcuaro|NO|stars_3
+238769|Bosques De Monterreal Resort Arteaga|Arteaga|NO|stars_5
+238771|Club Maeva Miramar|Tampico|NO|stars_4
+238772|Hemingway|Tulum|NO|stars_3
+238773|Zulum Beach Club & Cabañas|Tulum|NO|stars_3
+238774|Hip Hotel Tulum|Tulum|NO|stars_3
+238776|Vista Caribe|Playa del Carmen / Playacar|NO|stars_3
+238777|Ciros|Pachuca de Soto|NO|stars_3
+238778|La Alhóndiga|Puebla|NO|stars_3
+238779|La Hija del Alfarero|Querétaro|NO|stars_4
+238780|Baxar y Club de Playa|Acapulco|NO|stars_4
+238781|Suites Plaza del Río|Puerto Vallarta|NO|stars_3
+238783|Hacienda de Vallarta Las Glorias|Puerto Vallarta|NO|stars_3
+238784|Hacienda de Vallarta Centro|Puerto Vallarta|NO|stars_3
+238785|Palacio Borghese|Oaxaca|NO|stars_4.5
+238787|Club Fiesta Mexicana Beach|Manzanillo|NO|stars_3
+238788|Portonovo Plaza|Guadalajara|NO|stars_3
+238789|Quinta Magna|Guadalajara|NO|stars_4
+238790|Tropicana Inn|San Jose del Cabo|NO|stars_3
+238792|Estrella del Mar Resort Mazatlán|Mazatlan|NO|stars_4
+238804|Rosas & Xocolate Boutique|Merida|NO|stars_4
+238856|Las Quinta Inn & Suites|Cancun|NO|stars_4
+238902|Holiday Inn Express Merida|Merida|NO|stars_2.5
+238903|Pure Mareazul Riviera Maya|Playa del Carmen / Playacar|NO|stars_5
+238904|Pueblito Inn|Rosarito|NO|stars_3
+238907|Rio Vista Inn|Poza Rica|NO|stars_4
+238909|Trianon|Veracruz|NO|stars_3
+239803|Plaza Pelicanos Club Beach Resort|Puerto Vallarta|YES|stars_3.5
+239872|Grand Velas Riviera Maya|Playa del Carmen / Playacar|YES|stars_5
+239928|Nacional Merida|Merida|NO|stars_4
+239992|Encanto El Faro|Playa del Carmen / Playacar|YES|stars_5
+240419|Del Norte|Mexicali|NO|stars_3
+241790|Anticavilla|Cuernavaca|NO|stars_5
+241793|México Plaza Guadalajara|Zapopan|NO|stars_4
+241794|Wyndham Garden Irapuato|Irapuato|NO|stars_3.5
+241796|Gandara|Hermosillo|NO|stars_4
+241798|Casa Shaguiba|Huatulco|NO|stars_3
+241811|Casa Azul Monumento Historico|Merida|NO|stars_5
+241813|Casa Del Refugio|Pátzcuaro|NO|stars_3.5
+241817|Istirincha|Nautla|NO|stars_4
+241818|Sonoran Sun Resort|Puerto Peñasco|NO|0
+241819|Sonoran Sky Resort|Puerto Peñasco|NO|0
+241901|RIU Palace Peninsula|Cancun|NO|stars_5
+242296|Del Paseo|Campeche|YES|stars_3
+242751|Plaza Mexicana Margarita's|Creel|NO|stars_3
+243549|Play Bonita Resort|Puerto Peñasco|NO|stars_3.5
+244175|Holiday Inn Salamanca|Salamanca|NO|stars_3
+245034|Barcelo Maya Beach Resort - Maya Beach|Riviera Maya|NO|stars_5
+245036|Barcelo Maya Beach Resort - Caribe|Riviera Maya|YES|stars_4
+245038|Barcelo Maya Beach Resort - Colonial|Riviera Maya|YES|stars_4.5
+245040|Barcelo Maya Beach Resort - Tropical|Riviera Maya|YES|stars_5
+245042|Barcelo Maya Beach Resort - Palace Deluxe|Riviera Maya|YES|stars_5
+245366|Best Western Plus Monterrey Colon|Monterrey|YES|stars_3.5
+246373|San Felipe el Real|Chihuahua|NO|stars_3
+246374|El Cason & Suites|Chihuahua|NO|stars_4
+246379|Hacienda Ucazanaztacua|Tzintzuntzan|NO|stars_5
+246381|Portón del Cielo|Pátzcuaro|NO|stars_4.5
+246388|Expediciones Mexico Verde|Jalcomulco|NO|stars_5
+246910|Four Points Monterrey Linda Vista|Monterrey|NO|stars_3.5
+246911|Del Paseo|Puebla|NO|stars_3
+246912|Granada|Puebla|NO|stars_3
+246913|Villa Mozart y Macondo|Puerto Escondido|NO|stars_3
+246920|Zar Querétaro|Querétaro|NO|stars_3
+246923|Pueblo Lindo|Taxco|NO|stars_4
+246924|Villa Palmira & Spa|Boca del Río|NO|stars_3
+246928|La Venta Inn Villahermosa|Villahermosa|NO|stars_3.5
+246932|Pequeño Gran|Aguascalientes|NO|stars_3
+246934|Ramada Encore Chihuahua|Chihuahua|YES|stars_3
+246936|Lúmina Luxury Suites|Mexico City|NO|stars_4.5
+246944|Mi Pueblito Tepoztlán|Tepoztlán|NO|stars_3
+246945|One Guadalajara Periférico Norte|Zapopan|NO|stars_3
+247456|Grand Palladium Riviera Maya - Grand Palladium Colonial Resort & Spa|Riviera Maya|YES|stars_5
+247457|Grand Palladium Riviera Maya - Grand Palladium Kantenah Resort & Spa|Riviera Maya|YES|stars_5
+247458|Grand Palladium Riviera Maya - Grand Palladium White Sand Resort & Spa|Riviera Maya|YES|stars_5
+247459|Grand Palladium Riviera Maya - Royal Suites Yucatán by Palladium|Riviera Maya|YES|stars_5
+247558|Ocean Coral & Turquesa Resort|Puerto Morelos|NO|stars_5
+247619|Gran Bahia Principe - Tulum|Tulum|YES|stars_5
+247620|Gran Bahia Principe - Luxury Bahia Principe Sian Ka'an|Tulum|NO|stars_5
+247621|Gran Bahia Principe - Luxury Bahia Principe Akumal|Tulum|YES|stars_5
+247622|Gran Bahia Principe - Coba|Tulum|YES|stars_5
+247919|Brick|Mexico City|NO|stars_4
+247920|Casa Costa Azul|San Jose del Cabo|NO|stars_3.5
+247921|Fairfield Inn Los Cabos|Cabo San Lucas|NO|stars_3.5
+247925|Cerritos Resort|Mazatlan|NO|stars_3.5
+247934|Casa Shanarani|Pátzcuaro|NO|stars_3
+247935|La Quinta Inn & Suites Puebla Palmas|Puebla|NO|stars_5
+247936|Blater|Puerto Escondido|NO|stars_4
+247950|Princesa De Peñasco|Puerto Peñasco|NO|stars_5
+247952|Gran Via|Veracruz|NO|stars_4
+248403|Sandos Playacar Beach Resort - Beach Section|Playa del Carmen / Playacar|YES|0
+248404|Sandos Playacar Beach Resort - Family Section|Playa del Carmen / Playacar|YES|stars_4.5
+248436|Dreams Sands Cancun Resort & Spa|Cancun|YES|stars_4
+248918|Blue Diamond Riviera Maya|Riviera Maya|NO|stars_5
+249244|Quinto Sole|Mahahual|NO|stars_4
+249247|La Abadía Panorámico|Guanajuato|NO|stars_3
+249248|La Abadia Plaza|Guanajuato|NO|stars_4
+249249|Casa Madero|Morelia|NO|stars_4
+249250|La Quinta Inn & Suites Poza Rica|Poza Rica|NO|stars_3.5
+249251|CocoAventura|Antón Lizardo|NO|stars_3
+249924|Imanta Resort Punta de Mita|Costa Banderas|NO|stars_5
+249982|Now Amber Puerto Vallarta|Puerto Vallarta|YES|stars_5
+252670|El Tukan - El Tukan & Beach Club / Nina / Moongate|Playa del Carmen / Playacar|NO|stars_3.5
+259433|Desire Pearl Resort & Spa Riviera Maya|Puerto Morelos|NO|stars_4
+259434|Los Milagros|Cabo San Lucas|NO|stars_2.5
+259435|Villa Florencia|Boca del Río|NO|stars_3
+259670|Hotel Plaza Juarez|Ciudad Juárez|YES|stars_3.5
+259792|DoubleTree Querétaro|Querétaro|NO|stars_3.5
+260219|Secrets Vallarta Bay Puerto Vallarta|Puerto Vallarta|YES|stars_5
+260220|One Culiacan Forum|Culiacán|NO|stars_3
+260221|One Ciudad del Carmen Concordia|Ciudad del Carmen|NO|stars_3
+260946|La Quinta Troppo|Zihuatanejo|NO|stars_4
+260955|Fiesta Inn Cancún Las Américas|Cancun|NO|stars_4
+260956|El Español Paseo de Montejo|Merida|NO|stars_3
+260957|Koox La Mar|Playa del Carmen / Playacar|NO|stars_4
+261212|Grand Oasis Cancún / Oasis Cancun - Oasis Cancun|Cancun|NO|stars_5
+261229|Paradisus Playa del Carmen La Perla/ La Esmeralda - La Perla|Playa del Carmen / Playacar|NO|stars_5
+261230|Paradisus Playa del Carmen La Perla/ La Esmeralda - La Esmeralda|Playa del Carmen / Playacar|NO|stars_5
+261420|Sandos Caracol Eco Experience Resort & Select Club - Eco Experience Resort|Playa del Carmen / Playacar|YES|stars_5
+262392|Azul By Encanto|Playa del Carmen / Playacar|NO|stars_3
+262419|White Sand Boutique|Playa del Carmen / Playacar|NO|stars_3
+264155|Coral Maya Turquesa|Riviera Maya|NO|stars_4
+264159|Via 38 A 13|Riviera Maya|NO|stars_2
+265712|Catalonia Riviera Maya & Catalonia Yucatan Beach|Puerto Aventuras|NO|stars_4
+265717|Secrets The Vine Cancun|Cancun|YES|stars_5
+265760|Best Western Chichen Itza|Piste|YES|stars_3
+277930|San Angel Suites|Cabo San Lucas|YES|0
+277932|El Ameyal Hotel & Wellness Center|Cabo San Lucas|YES|stars_3
+277940|Melida|Cabo San Lucas|NO|stars_2
+277956|Hilton Puerto Vallarta Resort|Puerto Vallarta|NO|stars_4.5
+278517|Seven Crown La Paz Centro|La Paz|NO|stars_4
+278573|Villas Carrizalillo|Puerto Escondido|YES|0
+279389|The Westin Guadalajara|Guadalajara|YES|stars_5
+279393|Vista Junior Guadalajara|Guadalajara|NO|stars_3
+279399|Edicion Uno|Guadalajara|NO|stars_4
+280267|Casa Primavera Boutique|San Miguel De Allende|NO|stars_3.5
+281214|Wyndham Garden Colima|Colima|YES|0
+281503|Ocean Breeze Resorts Mazatlan|Mazatlan|YES|stars_4
+281515|Torres Mazatlan|Mazatlan|YES|0
+281791|Express Mexico Plaza Silao Aeropuerto|Silao|YES|0
+281797|iStay Hotel Monterrey Histórico|Monterrey|YES|stars_3.5
+281800|Rio Queretaro|Querétaro|NO|stars_3
+282674|Casa Natalie|Ensenada|NO|stars_4
+283615|City Express Tula|Tula de Allende|NO|stars_3
+285236|Cabo San Lucas|Cabo San Lucas|YES|0
+285242|Bay View Grand Porto Fino|Cancun|NO|0
+285991|Las Ranitas Eco Boutique|Tulum|NO|stars_3
+287308|Casa Carly|San Miguel De Allende|YES|0
+287524|One Xalapa Las Animas|Jalapa|NO|stars_3
+288140|Extended Suites Monterrey|Apodaca|YES|0
+295458|MLM Hotel|Morelia|NO|stars_3
+295459|The Todos Santos Inn|Todos Santos|NO|stars_3.5
+296419|Casa del Alma|San Cristobal|NO|stars_4.5
+296420|Quinta Paraiso|Cocoyoc|NO|stars_3
+296449|Posada Toledo Hotel & Gallery|Merida|NO|stars_3
+296450|Rancho Banderas Punta Mita|Costa Banderas|NO|stars_4.5
+296572|InterContinental Presidente Santa Fe Mexico|Mexico City|NO|stars_5
+298141|Azul Ixtapa Grand All Suites Spa & Convention Center|Ixtapa|NO|stars_5
+298469|Grand Oasis Tulum / Oasis Tulum - Grand Oasis Tulum|Akumal|NO|stars_5
+298646|Grand Oasis Cancún / Oasis Cancun - Grand Oasis Cancún|Cancun|NO|stars_4
+298656|Grand Oasis Palm / Oasis Palm|Cancun|NO|stars_4
+300075|Grand Palladium Riviera Maya - Riviera Spa|Riviera Maya|YES|stars_5
+302377|Celuisma Dos Playas & Maya Caribe|Cancun|NO|stars_3
+302392|Grand Sirenis Mayan Beach Hotel & Spa|Akumal|NO|stars_5
+302583|Arena|Isla Holbox|NO|stars_2
+310844|Grand Slam Fly Fishing Lodge|Tulum|YES|0
+311096|Sensimar Riviera Maya|Puerto Morelos|NO|stars_5
+314264|Generations Riviera Maya|Riviera Maya|NO|stars_4
+334990|Marival Residences & World Spa|Nuevo Vallarta|YES|stars_5
+359352|Xtudio Comfort|Playa del Carmen / Playacar|NO|stars_3
+359638|Generations Maroma|Riviera Maya|NO|stars_5
+359656|Occidental Grand Xcaret & Royal Club - Occidental Grand Xcaret|Playa del Carmen / Playacar|YES|stars_5
+359659|Occidental Grand Cozumel & Royal Club - Occidental Grand Cozumel|Isla Cozumel|NO|stars_4.5
+359662|Occidental Grand Nuevo Vallarta & Royal Club - Occidental Grand Nuevo Vallarta|Nuevo Vallarta|YES|0
+363205|Na Luum|Merida|NO|stars_4
+365380|Aloft Cancun|Cancun|YES|stars_4
+367115|Santa Fe Los Cabos|Cabo San Lucas|YES|stars_3
+367121|Nizuc Resort And Spa|Cancun|NO|stars_5
+367128|Hidden Beach Resort Au Naturel|Playa del Carmen / Playacar|NO|stars_4
+367129|The Palm At Playa|Playa del Carmen / Playacar|NO|stars_4
+367622|Hilton Santa Fe Mexico|Mexico City|NO|stars_4
+367671|Secrets Puerto Los Cabos|San Jose del Cabo|NO|stars_5
+368446|Grand Residences Riviera Cancun|Puerto Morelos|NO|stars_5
+368831|Villa del Palmar Beach Resort & Spa|Loreto|NO|stars_4
+368846|Real Inn Morelia|Morelia|YES|0
+372924|Iberostar Playa Mita|Punta Mita|NO|stars_4.5
+391934|Aquamarina Beach Resort|Cancun|NO|stars_3
+401327|Barcelona Tower Suites|Cancun|NO|stars_4.5
+401449|La Posada Hotel & Beach Club|La Paz|NO|stars_5
+405148|Encanto Riviera|Playa del Carmen / Playacar|NO|stars_4
+405283|Camino Real Hotel & Suites Puebla|Puebla|YES|0
+405292|Secrets Playa Mujeres Golf Spa Resort|Cancun|NO|stars_5
+405381|Royalton Riviera Cancun|Riviera Maya|NO|stars_5
+406425|Finest Playa Mujeres|Cancun|NO|stars_5
+407983|Royal Decameron Los Cabos|San Jose del Cabo|YES|stars_4
+408592|Playa Encantada|Playa del Carmen / Playacar|NO|stars_3
+408593|Platinum Yucatan Princess All Suites & Spa Resort|Playa del Carmen / Playacar|NO|stars_5
+408596|Mision Los Cocuyos Resort & Golf Club|Huatusco|NO|stars_4
+408597|Misión Orizaba|Orizaba|NO|stars_4
+408654|Hyatt Playa del Carmen|Playa del Carmen / Playacar|NO|stars_5
+408655|La Semilla|Playa del Carmen / Playacar|NO|stars_3.5
+409039|Hotel Akumal Caribe|Akumal|NO|stars_3
+412316|Soho Playa|Playa del Carmen / Playacar|NO|stars_4
+412986|Misión Grand San Cristobal de Las Casas|San Cristobal|YES|stars_4
+416414|Iberostar Paraíso del Mar|Playa del Carmen / Playacar|NO|stars_5

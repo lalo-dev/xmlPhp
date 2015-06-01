@@ -1,0 +1,20 @@
+77833|Protea Apo Appartments|Abuja|NO|stars_3
+108422|Le Meridien Ogeyi Place|Port Harcourt|YES|stars_0
+110896|The Moorhouse Ikoyi Lagos - MGallery Collection|Lagos|NO|stars_4
+160152|Sheraton Abuja|Abuja|YES|stars_0
+160153|Sheraton Lagos|Lagos|YES|stars_4.5
+237029|Best Western Plus Lagos Ikeja|Lagos|NO|stars_4
+249934|Protea Ikoyi Westwood|Lagos|NO|stars_4
+249935|Protea Leadway Ikeja|Lagos|NO|stars_4
+259781|Protea Asokoro|Abuja|NO|stars_3
+259838|Protea Victoria Island|Lagos|NO|stars_4
+259841|The Wheatbaker|Lagos|NO|stars_5
+260709|Protea Ikeja|Lagos|NO|stars_4
+260710|Radisson Blu Anchorage|Lagos|NO|stars_5
+261531|Protea Oakwood Park|Lagos|NO|stars_4
+283648|Four Points by Sheraton Lagos|Lagos|YES|stars_4
+283650|Golden Tulip Port Harcourt|Port Harcourt|YES|stars_0
+289916|Novotel Festac Lagos|Lagos|YES|stars_0
+289918|The Federal Palace Hotel|Lagos|YES|stars_0
+310848|Le Meridien Ibom Hotel Golf Resort|Uyo|YES|stars_0
+406354|Golden Tulip Owu Crown Ibadan|Ibadan|YES|stars_0

@@ -1,0 +1,1183 @@
+1692|Horizont|Baska Voda|NO|stars_4
+1694|Valamar Club Dubrovnik|Dubrovnik|YES|stars_3
+1695|Valamar Dubrovnik President Hotel|Dubrovnik|YES|stars_4
+1696|Vis|Dubrovnik|NO|stars_3
+1697|Croatia Cavtat|Cavtat|YES|stars_5
+1698|Minerva|Podgora|NO|stars_3
+1699|Podgorka|Podgora|NO|stars_2
+1700|Brioni|Pula / Pula Verudela|YES|stars_2
+1701|Park Plaza Histria & Marina Wing|Pula / Pula Verudela|YES|stars_4
+1702|Verudela Beach & Verudela Villas|Pula / Pula Verudela|YES|stars_4
+1703|Bluesun Resort Afrodita|Tucepi|NO|stars_4
+1704|Bluesun Alga|Tucepi|YES|stars_4
+1705|Arkada|Starigrad / Stari Grad|YES|stars_3
+1707|Jadran|Jelsa|NO|stars_2
+1708|Adriatiq Hotel Hvar|Jelsa|NO|stars_3
+1709|Palace|Hvar|YES|stars_3
+1712|St. Roko|Starigrad / Stari Grad|NO|stars_2.5
+1713|Trim|Starigrad / Stari Grad|YES|stars_3
+6708|Omorika|Crikvenica|NO|stars_3
+6709|Hotel Park Plaza Belvedere|Pula Medulin|YES|stars_3
+6711|Laguna|Novigrad|YES|stars_3
+6712|Maestral|Novigrad|YES|stars_4
+6713|Delfin|Porec|NO|stars_2
+6714|Valamar Diamant Hotel & Residence - Hotel|Porec|YES|stars_4
+6715|Laguna Molindrio|Porec|NO|stars_4
+6716|Laguna Galijot - Villa / Village / Appartments|Porec|YES|stars_4
+6717|Laguna Istra|Porec|NO|stars_3
+6718|Lanterna Appartements 2*|Porec|NO|stars_2
+6719|Valamar Pinia Hotel & Residence|Porec|YES|stars_3
+6720|Parentium|Porec|NO|stars_4
+6721|Pical Hotel|Porec|NO|stars_3
+6722|Valamar Rubin Hotel|Porec|NO|stars_3
+6723|Valamar Zagreb Hotel|Porec|NO|stars_3
+6724|Zorna|Porec|YES|stars_3
+6727|Light Allegro|Rabac|NO|stars_3
+6728|Marina|Rabac|NO|stars_2
+6729|Albona Hotel & Residence|Rabac|NO|stars_3
+6730|Eden|Rovinj|YES|stars_4
+6732|Resort Villas Rubin - Hotel / Apartments|Rovinj|YES|stars_2
+6735|Sol Garden Istra Hotel & Village|Umag|YES|stars_4
+6736|Kanegra Apartments & FKK CampingIN|Umag|YES|stars_2.5
+6737|Melia Coral|Umag|YES|stars_5
+6738|Sol Polynesia Apartments|Umag|YES|stars_3
+6739|Stella Maris Resort - Sol Stella/ Sol Amfora/ Melia Istrian Villas|Umag|NO|stars_3
+6740|Naturist Park Koversada - Villas / Apartements|Vrsar|NO|stars_2.5
+6742|Resort Belvedere - Hotel / Apartments|Vrsar|YES|stars_4
+6863|Bluesun Berulia|Brela|NO|stars_4
+6864|Bluesun Maestral & Marina - Maestral|Brela|NO|stars_3
+6865|Dalmacija Beach|Hvar|NO|stars_3
+6866|Meteor|Makarska|NO|stars_4
+6871|Adriatic Beach Resort|Zivogosce|NO|stars_3
+7110|Remisens Hotel Admiral|Opatija|YES|stars_4
+7126|Adriatic|Dubrovnik|NO|stars_2
+7127|Adriatic Guest House|Umag|YES|stars_2
+7128|Adriatic|Vrboska|NO|stars_2
+7254|Laguna Albatros|Porec|YES|stars_4
+7262|Albatros|Cavtat|YES|stars_4
+7608|Remisens Premium Hotel Ambasador & Romantic Villa Ambasador|Opatija|YES|stars_4
+7649|Amedea|Kanfanar|NO|0
+7790|Anna|Hvar|NO|stars_3
+7975|Grand Villa Argentina|Dubrovnik|YES|stars_5
+7982|Argosy Hotel|Dubrovnik|YES|stars_3
+8093|Astarea Resort - Astarea 1 / Astarea 2|Mlini|NO|stars_3
+8143|Astra|Porec|NO|stars_2
+8314|Aurora|Podgora|NO|stars_3
+8316|Aurora|Mali Losinj|YES|stars_4
+8317|Sol Aurora|Umag|YES|stars_4
+8702|Beli Kamik I / Beli Kamik II (Smartline Island Krk)|Njivice|NO|stars_3
+8748|Bellevue|Orebic|YES|stars_3
+8750|Bellevue|Mali Losinj|YES|stars_3
+8765|Palace Bellevue|Opatija|YES|stars_3
+9066|Biokovo|Makarska|YES|stars_3
+9078|Bisevo|Komiza|NO|stars_2
+9172|Hotel Bon Repos / Appartements Korkyra Gardens|Korcula (Island)|NO|stars_3
+9175|Bluesun Bonaca|Bol|NO|stars_3
+9193|Bluesun Borak|Bol|YES|stars_3
+9238|Bozava - Lavanda / Agava / Mirta / Maxim|Bozava|NO|stars_3
+9266|Bretanide|Bol|NO|stars_3
+9286|Bristol Lovran|Lovran|YES|stars_3
+9787|Carolina|Rab City|NO|stars_4
+10205|Cavtat|Cavtat|YES|stars_3
+10420|Cittar|Novigrad|NO|stars_3
+10575|Colentum|Murter|NO|stars_3
+10820|Hotel Corinthia-Baska|Krk|NO|stars_3
+11015|Crvena Luka Hotel & Resort - Hotel / Apartments|Biograd na Moru|NO|stars_4
+11088|Dalmacija|Makarska|NO|stars_3
+11749|Drazica Resort - Hotel Drazica / Dependance Villa Lovorka / Dependance Tamaris|Krk|NO|stars_3
+12027|Bluesun Elaphusa|Bol|YES|stars_4
+12222|Esplanade|Crikvenica|NO|stars_3
+12333|Hotel Eva|Rab City|NO|stars_2
+12349|Excelsior Dubrovnik|Dubrovnik|YES|stars_5
+12350|Excelsior|Lovran|NO|stars_4
+12850|Adriatiq Resort Fontana - Hotel / Appartements|Jelsa|NO|stars_2
+12878|Valamar Isabella Island Resort|Porec|NO|stars_3
+13030|Maistra Resort Funtana|Funtana|YES|stars_3
+13229|Girandella Tourist Village|Rabac|NO|stars_2
+13502|Grand Hotel Park & Villa Park & Villa Marija - Grand Hotel Park|Dubrovnik|YES|stars_4
+13898|Helios|Starigrad / Stari Grad|NO|stars_2
+13899|Helios|Mali Losinj|NO|stars_2
+14346|Holiday Village Zaton - Apartments / Camping / Mobilhomes|Nin|NO|stars_3
+14377|Horizont Golden Rocks Resort|Pula / Pula Verudela|YES|stars_2
+14703|Kornati|Biograd na Moru|NO|stars_4
+14721|Imperial|Vodice|NO|stars_3
+14724|Hotel Imperial Opatija|Opatija|NO|stars_3
+14725|Grand Imperial|Rab City|NO|stars_4
+14966|Hotel Istra Opatija|Opatija|NO|stars_3
+14970|Solaris Beach Resort - Hotel Ivan|Sibenik|NO|stars_4.5
+14986|Njivice Resort - Jadran|Njivice|NO|stars_3
+15068|Holiday Village Jezera Lovisca|Jezera|NO|stars_3
+15069|Jezero|Plitvica Lakes|YES|stars_3
+15131|Solaris Beach Resort - Beach Hotel Jure|Sibenik|NO|stars_4
+15171|Sentido Kaktus|Supetar|NO|stars_4
+15257|Kastel|Crikvenica|NO|stars_3
+15258|Bluesun Kastelet|Tucepi|NO|stars_4
+15270|Katarina|Rovinj|YES|stars_2
+15373|Kimen|Cres Island|NO|stars_3
+15458|Kolovare|Zadar|NO|stars_3.5
+15472|Komodor|Dubrovnik|NO|stars_3
+15473|Kompas Dubrovnik|Dubrovnik|YES|stars_3
+15489|Valamar Koralj Romantic Hotel|Krk|YES|stars_3
+15517|Kozarica|Pakostane|NO|stars_3
+15535|Valamar Crystal Hotel|Porec|NO|stars_4
+15834|Labineca|Gradac|NO|stars_3
+15849|Lafodia Sea Resort|Lopud Island|NO|stars_4
+15867|Laguna|Gradac|NO|stars_2
+15874|Laguna Gran Vista|Porec|NO|stars_3
+15876|Materada Area - Laguna Materada|Porec|NO|stars_3
+15877|Materada Area - Laguna Park Village|Porec|NO|stars_3
+15930|Valamar Sanfior|Rabac|NO|stars_4
+16024|Laurentum|Tucepi|NO|stars_4
+16312|Liburna|Korcula (Island)|YES|stars_3
+16315|Lidija|Drvenik|NO|stars_3
+16387|Lisanj|Novi Vinodolski|NO|stars_2
+16725|Malin & Depandance Draga|Malinska|NO|stars_4
+17020|Marco Polo|Korcula (Island)|YES|stars_4
+17125|Matohanci|Matohanci|NO|0
+17169|Medena|Seget Donji|NO|stars_3
+17178|Mediteran|Podgora|NO|stars_3
+17180|Laguna Mediteran|Porec|NO|stars_3
+17202|Medulin|Pula Medulin|YES|stars_4
+17459|Hotel Milenij|Opatija|YES|stars_5
+17475|Maslinica Hotels & Resorts - Mimosa|Rabac|NO|stars_4
+17544|Miran|Pirovac|NO|stars_3
+17570|Boutique Hotel Mlini|Mlini|NO|stars_3
+17876|Bluesun Neptun|Tucepi|YES|stars_3
+17878|Valamar Bellevue Hotel & Residence|Rabac|NO|stars_4
+17886|Neptun & Istra|Brijuni|NO|stars_3
+17985|Solaris Beach Resort - Beach Hotel Niko|Sibenik|NO|stars_4
+18217|Odisej Mljet|Mljet Island|YES|stars_3
+18284|Olympia|Vodice|NO|stars_4
+18326|Opatija|Opatija|YES|stars_2
+18385|Orsan|Orebic|NO|stars_3
+18391|Osmine|Slano|NO|stars_3
+18455|Padova|Rab City|NO|stars_3
+18463|Palace|Krk|NO|stars_3
+18538|Palma - geschlossen|Pula / Pula Verudela|NO|stars_3
+18617|Panorama Zagreb|Zagreb|YES|stars_4
+18758|Park Plaza Arena Pula|Pula / Pula Verudela|YES|stars_3
+18759|Park|Korcula (Island)|YES|stars_2.5
+18979|Resort Petalon - Hotel / Apartments|Vrsar|NO|stars_4
+19001|Pharos|Hvar|YES|stars_2
+19086|Pineta|Vrsar|YES|stars_3
+19089|Pinija|Petrcane|NO|stars_4
+19136|Plavi|Porec|NO|stars_3
+19211|Plitvice|Plitvica Lakes|NO|stars_2
+19271|Porec|Porec|NO|stars_3
+19523|Vitalhotel & Appartements Punta - Vitalhotel|Veli Losinj Island|YES|stars_4
+19524|Punta|Igrane|NO|stars_2
+19525|Komplex Punta - Hotel|Vodice|YES|stars_4
+19549|Donat|Zadar|YES|stars_3
+20638|Rotonda|Novigrad|YES|stars_3
+20976|San Marino - Sahara/ Rab/ Veli Me/ Plaza/Family Lopar|Rab City|NO|stars_3
+21187|Savudrija / Moj Mir|Umag|NO|stars_2
+21400|Selce|Selce|NO|stars_3
+21690|Sipar|Umag|YES|stars_3
+21716|Hotel Epidaurus|Cavtat|YES|stars_3
+21717|Faraon|Trpanj|NO|stars_3
+21845|Adriatic|Rovinj|YES|stars_3
+21854|Park|Rovinj|YES|stars_3
+21870|Solaris Beach Resort - Villas Kornati|Sibenik|NO|stars_4
+21871|Naturist Resort Solaris - Hotel / Apartments|Tar-Vabriga|NO|stars_3
+21883|Bluesun Soline|Brela|NO|stars_3
+22023|Splendid|Dubrovnik|NO|stars_3
+22280|Suha Punta Ferienanlage|Suha Punta|NO|stars_2
+22418|Supetar Cavtat|Cavtat|NO|stars_3
+22524|Valamar Club Tamaris & Residence & Luxury Villas - Valamar Tamaris Residence|Porec|NO|stars_4
+23089|Kvarner Palace|Crikvenica|NO|stars_4
+23591|Varazdin|Selce|NO|stars_2
+23659|Vespera|Mali Losinj|YES|stars_4
+23941|Villa Marija|Tucepi|NO|stars_4
+24168|Kalamota Island Resort|Kolocep Island|NO|stars_3
+24274|W.A. Mozart|Opatija|NO|stars_5
+24606|Novi Spa Hotels & Resort - The View / Family Apartments Novi|Novi Vinodolski|NO|stars_4.5
+24608|Zagreb|Crikvenica|NO|stars_2
+24624|Zelena Punta|Kuklijca|NO|stars_3
+24655|Zora|Primostek|YES|stars_3
+24686|Zupa|Srebreno Mlini|YES|stars_3
+24702|Hotel Zvonimir|Baska|NO|stars_4
+28074|Maslinica Hotels & Resorts - Narcis|Rabac|NO|stars_4
+28109|Monte Mulini|Rovinj|YES|stars_5
+28121|Ai Pini Villaggio|Pula Medulin|NO|stars_3
+28124|Bi-Village Ferienzentrum - Villas / Apartmenthäuser / Room beach / Mobilheime / Campingplatz|Fazana|NO|stars_3
+28128|Hotel Mediteran|Moscenicka Draga|YES|stars_3
+28129|Marina|Moscenicka Draga|NO|stars_4
+28130|Riviera|Crikvenica|NO|stars_2
+28135|Zlatni Lav|Martinscica|NO|stars_3
+28144|Ferienanlage Croatia - Croatia / Alba|Sv. Filipi i Jakov|NO|stars_3
+28146|Milenij|Baska Voda|NO|stars_4
+28264|Bellevue Dubrovnik|Dubrovnik|YES|stars_5
+28389|Plat Hotels & Villas - Orphee Hotel|Mlini|YES|stars_3
+28409|Lavanda|Starigrad / Stari Grad|NO|stars_3
+28417|Park|Makarska|NO|stars_4
+28433|Mediteran|Crikvenica|NO|stars_3
+28448|FKK Valalta|Rovinj|NO|stars_3
+29438|Resnik|Seget Donji|NO|stars_2.5
+30859|Lero|Dubrovnik|YES|stars_3
+30861|Villa Julija|Orebic|NO|stars_3
+31145|Tirena Dubrovnik|Dubrovnik|YES|stars_3
+31155|Remisens Premium Hotel Kvarner|Opatija|NO|stars_4
+31156|Remisens Premium Villa Amalia|Opatija|NO|stars_4
+31157|Park Punat|Punat|NO|stars_3
+31326|Maslinica Hotels & Resorts - Hedera|Rabac|NO|stars_3
+31327|Remisens Revital Hotel Kristal|Opatija|YES|stars_4
+32756|Dubrovnik|Zagreb|YES|stars_4
+32758|Zagreb|Dubrovnik|NO|stars_3
+32759|Sheraton Zagreb|Zagreb|YES|stars_5
+32805|Skiper Rezidencija|Umag-Savudrija|NO|stars_4
+32808|Atrium Residence Baska|Baska|NO|stars_4
+32809|Bluesun Hotelanlage Alan - Hotel / Appartements / Bluesun Camp Paklenica|Starigrad-Paklenica|NO|stars_3
+32813|Solaris Beach Resort - Kids Hotel Andrija|Sibenik|NO|stars_4
+33282|Laguna Bellevue|Porec|NO|stars_4
+33289|Conte|Baska Voda|NO|stars_4
+34085|Hotel Sol Umag & Residence|Umag|YES|stars_4
+34087|Skradinski Buk|Skradin|NO|stars_3
+34649|Ad Turres|Crikvenica|NO|stars_2
+34726|Resort Kazela - Appartements / Mobilehomes|Pula Medulin|NO|stars_2
+34738|Anica|Novi Vinodolski|NO|stars_3
+34740|Belvedere|Novi Vinodolski|NO|0
+34752|Karmen|Mandre|NO|stars_3
+34967|Dubrovnik Palace|Dubrovnik|YES|stars_5
+34968|Lina|Lumbarda|NO|stars_3
+34969|Villa Bacchus|Baska Voda|NO|stars_4
+34970|Holiday Village Sagitta|Omis|YES|stars_3
+35827|Croatia Resort|Duga Uvala|NO|stars_3
+37739|Stoja Camping|Pula / Pula Verudela|NO|stars_3
+37766|Adria|Vela Luka|YES|stars_3
+39273|Adria|Biograd na Moru|NO|stars_3
+39551|Falkensteiner Hotel Adriana|Zadar|YES|stars_4
+39552|Apartments Mali Losinj|Nerezine|NO|stars_3
+39573|Necujam Appartements|Solta Island|NO|0
+39581|Pagus|Pag|NO|stars_4
+39582|Plaza|Pag|NO|stars_4
+39586|Andjela|Pag|NO|stars_3
+39587|Ivo|Pag|NO|stars_3
+40223|Hostin|Porec|NO|stars_4
+40226|Daria|Crikvenica|NO|stars_3
+40231|Mira|Novi Vinodolski|NO|0
+40232|Borovnik|Tisno|NO|stars_3
+40259|Rosina|Makarska|NO|stars_4
+40261|Pastura|Postira|NO|stars_4
+40262|Hotel Dubrovnik|Dubrovnik|YES|stars_3
+40658|Villa Ruzica|Crikvenica|NO|stars_3
+40678|Lapad|Dubrovnik|YES|stars_4
+40679|Poseidon / Posejdon|Vela Luka|YES|stars_3
+41181|Delfin|Hvar|YES|stars_2
+41183|Podstine Exclusive|Hvar|YES|stars_4
+42275|Miramar|Opatija|NO|stars_4
+42420|Ferienwohnung Haus Tea|Novi Vinodolski|NO|0
+42429|Pharia|Hvar|YES|stars_3
+46796|Antea|Dubrovnik|YES|stars_4
+48231|Aida|Porec|NO|stars_3
+51254|Kusijanovic|Mokosica|YES|stars_3
+52181|Amfora|Rabac|NO|stars_3
+52225|Minca|Makarska|YES|stars_3
+52744|Falkensteiner Club Funimation Borik|Zadar|YES|stars_4
+53105|Resort Amarin - Hotel / Apartments|Rovinj|NO|stars_3.5
+54399|Appartement Grubjesic|Punat|NO|stars_3
+54401|Appartement Jelusic|Krk|NO|stars_3
+54410|Aparthotel Belveder|Pag|NO|stars_3
+54416|Appartement Bianca|Vrsi|NO|stars_3
+54417|Villa Ibis|Punta Skala|YES|stars_2.5
+54419|Appartement Galic|Nin|NO|stars_3
+54420|Appartement Ivkovic|Zadar|NO|stars_3
+55723|Palace|Zagreb|YES|stars_4
+56358|Bijela Uvala|Porec|NO|stars_4
+56698|Kastel|Motovun|YES|stars_3
+56700|Villa Letan|Vodnjan|NO|stars_4
+56701|Pellegrin|Umag|NO|stars_3.5
+56702|Villa Plavo More|Umag|NO|stars_3
+56703|Villa Rosa|Umag|NO|stars_4
+56705|Maestral|Novi Vinodolski|NO|stars_3
+56707|Veronika|Novalja|NO|0
+56709|Villa Katarina|Novi Vinodolski|NO|0
+56710|Globo|Split|YES|stars_4
+56712|Villa Antonio|Orebic|NO|stars_3.5
+56717|Oliva|Dol|NO|stars_3
+56718|Dvorine|Tisno|NO|stars_3
+56840|Dorfurlaub in Vrsine|Vrsine|NO|stars_3
+57255|Omorika|Punat|NO|stars_3
+57300|Pula|Pula / Pula Verudela|NO|stars_3
+57301|Grand Adriatic - Adriatic I / Adriatic II|Opatija|NO|stars_4
+57302|Hotel Residenz Opatija|Opatija|NO|stars_2
+57713|Pucic Palace & Annex Apartments - Pucic Palace|Dubrovnik|NO|stars_5
+57714|Uvala|Dubrovnik|NO|stars_4
+57939|Ana|Novi Vinodolski|NO|0
+57940|Danica|Novi Vinodolski|NO|0
+57975|Solaris Beach Resort - Beach Hotel Jakov|Sibenik|NO|stars_3
+57978|Ilirija|Biograd na Moru|NO|stars_4
+58305|Uvala Scott|Kraljevica|NO|stars_2
+58965|Park|Crikvenica|NO|stars_3
+58966|International|Crikvenica|NO|stars_2
+60206|Holiday|Pula Medulin|YES|stars_3
+60207|I Hotel|Zagreb|YES|stars_3
+60208|Kanajt|Punat|YES|stars_3
+60209|The Westin Zagreb|Zagreb|YES|stars_5
+60962|Hotel Perla|Dubrovnik|YES|stars_3
+60976|Villa Ratac|Slano|YES|stars_3
+61214|Vicko|Starigrad-Paklenica|YES|stars_3
+61385|Villa Rumba|Podstrana|YES|stars_4
+62372|Pansion Krilo|Split|YES|stars_3
+62825|Porin|Makarska|NO|stars_3
+62833|Adria|Kastel Stafilic|YES|stars_3
+62857|Jadran|Split|NO|stars_3
+62860|Landpension Filipini|Filipini|NO|stars_3
+62861|Boutique Marco Polo|Gradac|NO|stars_3
+62862|Bellevue|Split|NO|stars_3
+62939|Korcula|Korcula (Island)|YES|stars_3
+62940|Ville Matilde|Vodice|YES|stars_3
+62980|Pasike|Trogir|NO|stars_4
+62981|Sveti Kriz|Arbanija|NO|stars_3
+63234|Maslina|Podstrana|YES|stars_3
+63463|Hilton Imperial|Dubrovnik|YES|stars_5
+63719|Astoria Designhotel Opatija|Opatija|YES|stars_4
+64034|Esplanade Zagreb|Zagreb|YES|stars_5
+65041|Villa Astra|Lovran|NO|stars_4
+65060|Jadran|Seget Donji|YES|stars_3
+65067|Biokovka|Makarska|NO|stars_3
+68846|Arcotel Allegra Zagreb|Zagreb|YES|stars_4
+68983|Grand Hotel 4 Opatijska Cvijeta - Camelia, Magnolia, Wisteria, Begonia|Opatija|YES|stars_4
+68984|Eden|Podstrana|YES|stars_4
+68985|Apartments Maslinov Dvor|Slatine|YES|stars_3
+68986|Villa Antonio|Bol|YES|stars_3
+68987|Apartments Duje|Sumpetar|YES|stars_3
+69075|Waterman Supetrus Resort|Supetar|YES|stars_4
+69105|Centinera Resort|Banjole|NO|stars_3
+69112|Villa Ivona|Rogoznica|NO|stars_3.5
+69240|Park Plaza Verudela|Pula / Pula Verudela|YES|stars_3.5
+69241|Splendid Golden Rocks Resort|Pula / Pula Verudela|YES|stars_2
+69264|Villa Glavic|Dubrovnik|NO|stars_5
+69670|Grand Bonavia|Rijeka|NO|stars_4
+69671|Park|Split|NO|stars_4
+70530|Petka|Dubrovnik|NO|stars_3
+70841|Carmen|Krinica|NO|stars_3
+70842|Stanger|Lovran|NO|stars_3
+70844|Tamaris|Novi Vinodolski|NO|stars_4
+70846|Grand Hotel Dramalj|Crikvenica|NO|stars_4
+70847|Apoksiomen|Mali Losinj|YES|stars_4
+70848|International|Rab City|NO|stars_3
+70852|Spongiola|Brodarica|YES|stars_4
+70855|Best Western Art Hotel|Split|YES|stars_4
+70856|Sunce|Podstrana|YES|stars_3.5
+71088|Feral Laguna Novigrad|Brna|NO|stars_4
+71292|CampingIN Park Umag|Umag|YES|stars_2.5
+71841|Camping Village Stupice|Pula Medulin|NO|stars_1.5
+71842|Camping Village Medulin|Pula Medulin|NO|stars_2.5
+71843|Maslinica Hotels & Resorts - Camp Oliva|Rabac|NO|stars_3
+71844|Camping Village Indije|Pula Medulin|NO|stars_2.5
+71845|Camping Poljana|Mali Losinj|NO|stars_3.5
+72082|Camping Materada|Porec|NO|stars_1.5
+72092|Branka|Crikvenica|NO|stars_3
+73845|Aparthotel Bellevue|Trogir|YES|stars_3
+74049|Villa Favola|Marciljani|NO|0
+74244|Appartements Dajla|Novigrad|NO|stars_3
+74247|Appartements Klara|Porec|NO|0
+74249|Appartements Spada|Porec-Spadici|NO|0
+74280|Haus Sole|Sajini|NO|0
+74295|Haus Snasic|Ravni|NO|0
+74298|Appartements Eva|Vrvari|NO|0
+74299|Appartements Vilma|Vrvari|NO|0
+74344|Appartements Korsa|Sveti Lovrec|NO|0
+74346|Appartements Vrtline|Krinica|NO|0
+74364|Appartements Milka|Pula Medulin|NO|0
+74365|Appartements Anka|Pula Medulin|NO|0
+74368|Appartements Villa Kristalis|Pula Medulin|NO|0
+74423|Kastel Pineta|Sveti Martin|NO|0
+74425|Alla Beccaccia Landpension|Valbandon|NO|stars_3
+74462|Villa Annette|Rabac|NO|stars_4
+74464|Lena|Premantura|NO|stars_3
+74465|Pension Villa Chiara|Pavicini|NO|stars_3
+74466|Appartements Dijana|Pula Medulin|NO|0
+74471|Appartements Ondina|Liznjan|NO|0
+74472|Appartements Lina|Ripenda Kosi|NO|0
+74481|Haus Marko|Ostarski Stanovi|NO|stars_3
+74485|Haus Hodak|Seliste Dreznicko|YES|stars_3
+74488|Haus Martin|Selo Korana|NO|0
+74494|Appartement Villa Fontana|Starigrad-Paklenica|NO|0
+74496|Appartements Ero|Petrcane|NO|0
+74498|Appartements Bella Vista|Zadar|NO|stars_3
+74499|Appartements Sime|Zadar|NO|0
+74533|Appartements Tonko|Insel Zverinac|NO|stars_4
+74535|Appartements Mirakul|Sukosan|NO|0
+74543|Boskinac|Novalja|NO|stars_4
+74545|Lucija|Posedarje|YES|stars_3
+74551|Segetski Dvori|Seget Donji|NO|stars_3
+74553|Villa Adriatica|Supetar|YES|stars_4
+74574|Villa Midea|Supetar|NO|stars_4
+74576|Appartements Mario|Jelsa|NO|stars_3
+74579|Manora|Nerezine|NO|stars_4
+74580|Mare Nostrum|Sveti Petar na Moru|YES|stars_3
+74582|Sveti Mihovil|Trilj|NO|stars_3
+74599|Adriatic|Biograd na Moru|NO|stars_3
+74648|Sipan|Sipanska Luka|YES|stars_3
+74701|Apartments Perkovic|Kastel Stafilic|YES|stars_3
+75440|Apartments Juje|Povlja|YES|stars_3
+75845|Peristil|Split|YES|stars_3
+76249|Laguna|Zagreb|NO|stars_3
+76265|Nautica|Novigrad|YES|stars_4.5
+77607|Ivka|Dubrovnik|YES|stars_3
+78249|Hotel Agava|Opatija|YES|stars_4
+78251|Marina|Selce|NO|stars_4
+78390|International|Zagreb|YES|stars_4
+78473|Appartement Duda|Jadranovo|NO|stars_3
+78481|Grzunov|Zadar|NO|stars_3
+78482|Davorka|Zadar|NO|stars_3
+78483|Aparthotel Say|Jezera|NO|stars_3
+78484|Villa Stil|Insel Ciovo|NO|stars_3
+78485|Ivana|Baska Voda|NO|stars_3
+78637|Bristol|Opatija|YES|stars_4
+79005|Valdaliso|Rovinj|YES|stars_2
+79200|Villa Calussovo|Labin|NO|stars_3
+79244|Velaris Resort - Amor, Villa Vela Luka, Pavilions|Supetar|NO|stars_3
+79391|Le Meridien Lav|Split|YES|stars_4.5
+79392|Importanne Resort - Royal Palm / Royal Princess / Ariston/ Neptun/ Villa Elita|Dubrovnik|YES|stars_5
+79474|Viktorija|Seget Donji|YES|stars_3
+79542|Plaza|Omis|NO|stars_4
+79543|Grand Hotel Orebic|Orebic|YES|stars_4
+79848|Macola|Korenica|NO|stars_3
+79849|Burin|Baska|NO|stars_3
+79850|Tamaris|Baska|NO|stars_3
+79851|Pension Jugo|Novalja|NO|stars_3
+79853|Luna Island|Jakisnica|YES|stars_4
+79854|Rixos Libertas|Dubrovnik|YES|stars_5
+79855|Vrilo Hotel|Postira|NO|stars_4
+80650|Arba|Rab City|NO|0
+80651|Laguna|Rab City|NO|0
+80755|Trogir|Trogir|YES|stars_3
+80846|Rezidenzija Idila|Rab City|NO|0
+80904|Villa Linet Garden|Vrsar|NO|stars_4
+80906|Ana|Kanfanar|NO|stars_4
+80911|Sport|Pula / Pula Verudela|NO|stars_3
+80918|Mimosa Privatpension|Krinica|NO|stars_3
+80925|Haus Nera|Jadranovo|NO|stars_3
+80929|Haus Mira|Jadranovo|NO|stars_2
+80934|Haus Mariana|Jadranovo|NO|stars_3
+80937|Haus Nada|Jadranovo|NO|stars_3
+80942|Villa Olga|Crikvenica|NO|stars_4
+80944|Haus Katharina|Jadranovo|NO|stars_3
+80948|Haus Anica|Crikvenica|NO|stars_3
+80956|Ana-Marija|Crikvenica|NO|stars_3
+80968|Villa Bojana|Selce|NO|stars_3
+80970|Hotel & Pavillons Slaven - Pavillons Slaven|Selce|NO|stars_1.5
+80972|Ivanka|Selce|NO|stars_3
+80975|Natascha|Novi Vinodolski|NO|stars_3
+80976|Ruzica|Novi Vinodolski|NO|stars_3
+80977|Biserka|Novi Vinodolski|NO|stars_3
+80983|Masa|Novi Vinodolski|NO|stars_3
+80984|Jelena|Klenovica|NO|stars_3
+80989|Njivice Resort - Flora|Njivice|NO|stars_2
+80997|Milenka|Njivice|NO|stars_3
+80999|Zdenka|Njivice|NO|stars_3
+81007|Villa Sveti Anton|Malinska|NO|stars_4
+81011|Ana|Malinska|NO|stars_3.5
+81012|Branka|Malinska|NO|stars_3
+81022|Kazimira|Malinska|NO|stars_3
+81039|Villen Corinthia-Baska|Baska|NO|stars_3
+81045|Anica|Rab City|NO|stars_3
+81053|Vesna|Novalja|NO|stars_3
+81058|Stanka|Novalja|NO|stars_3
+81060|Tanja|Novalja|NO|stars_3
+81075|Mandica|Pag|NO|stars_3
+81078|Lidija|Pag|NO|stars_3
+81079|Tony|Pag|NO|stars_2
+81080|Meridijan|Pag|NO|stars_4
+81082|Villa Liveric|Vir|NO|stars_3
+81083|Blanka|Privlaka|NO|stars_3
+81084|Lug|Privlaka|NO|stars_4
+81085|Katarina|Vir|NO|stars_5
+81087|Haus Irena|Zaton  Nin|NO|stars_3
+81088|Bungalow Mira|Nin|NO|stars_3
+81105|Apartments Malic|Petrcane|NO|stars_3
+81110|Rebecca|Zadar|NO|stars_2.5
+81144|Kommandante|Pasman|NO|stars_2
+81162|San Antonio|Biograd na Moru|NO|stars_3
+81168|Mira|Pirovac|NO|stars_3
+81177|Katarina|Pirovac|NO|stars_3
+81178|Dragica|Pirovac|NO|stars_3
+81196|Apartmani Bonaca|Klek|YES|stars_3
+81198|Villa Rajski Dvor|Bol|NO|stars_3
+81207|Tonka|Korcula (Island)|NO|stars_3
+81212|Villa Gradina|Vela Luka|NO|stars_4
+81214|Dusko|Orebic|NO|stars_3
+81215|Marija|Orebic|NO|stars_3
+81216|Villa Lada|Orebic|NO|stars_3
+81238|Croatia|Hvar|NO|stars_3
+81296|Plitvicka Vila|Grabovac|NO|stars_3
+81299|Anna|Rastovaca|NO|0
+81307|Bellevue|Plitvica Lakes|NO|stars_2
+81312|Albino|Krsan|NO|stars_3
+81319|Adorata|Vinez|NO|0
+81335|Bozava - Lavanda|Dugi Otok|NO|stars_3
+81339|Sumratin|Dubrovnik|NO|stars_2
+81343|Adoral|Rabac|NO|stars_4
+81387|Ivan|Trogir|NO|stars_4
+81392|Villa Katarina|Trogir|NO|stars_3
+81588|Trogirski Dvori|Trogir|YES|stars_3
+82213|San Antonio|Podstrana|YES|stars_4
+82214|Arbiana|Rab City|YES|stars_4
+82296|Villa Jadranka|Stinjan|NO|stars_3
+82303|Villa Paradiso|Zaton  Nin|NO|stars_3
+82304|Villa Kvaternik|Cavtat|NO|stars_3
+82313|Park|Lovran|NO|stars_4
+82494|Apartment Johnny|Split|YES|stars_3
+82496|Apartment Nives|Dubrovnik|YES|stars_2
+82497|Vulicevic Apartment|Dubrovnik|YES|stars_3
+82498|Villa Matejuska|Split|YES|stars_3
+82499|Apartment M|Split|YES|stars_3
+82500|Apartment Zekan|Split|YES|stars_3
+82501|ISA Kozino Apartment|Kozino|YES|stars_3
+82844|Mediteran Residence|Rabac|NO|stars_2
+85014|Villa Rustica Dalmatia|Seget Vranjica|YES|stars_4
+85524|Apartmani Ivana|Dubrovnik|YES|stars_3
+85686|Best Western Hotel Jadran|Rijeka|YES|stars_4
+85687|Lepur|Dubrovnik|YES|stars_3
+85688|Gabric|Trogir|YES|stars_3
+85759|Pine Beach Pakostane|Pakostane|NO|stars_2
+86006|Sirena|Hvar|NO|stars_2
+86057|Mobilhomes Valdaliso|Rovinj|NO|stars_3
+86891|La Baia Blu|Split|YES|stars_2
+86892|Villa Lykos|Plitvicka Jezera|YES|stars_3
+86893|Villa Luketa|Podstrana|YES|stars_3
+88633|Adriana|Hvar|YES|stars_4
+90277|Villa Gloria|Porec|NO|stars_3
+91674|Apartmani Kir|Jelsa|YES|stars_3
+91675|Apartmani Maca|Trogir|YES|stars_3
+93262|Central|Zagreb|NO|stars_3
+93274|Stella Maris Resort - Meliá Istrian Villas|Umag|YES|stars_4
+93280|Srkoc|Krk|NO|stars_3
+93281|Camping Strasko|Novalja|NO|stars_4
+93482|Apartments de Chiudi|Trogir|YES|stars_3
+95088|Riva Yacht Harbour|Hvar|YES|stars_4
+95939|Kempinski Hotel Adriatic|Umag-Savudrija|YES|stars_5
+95940|Villa Cittar|Novigrad|NO|stars_3
+95942|Villa Lavanda|Umag|NO|stars_3.5
+95948|Salyna|Icici|NO|stars_3
+95953|Haus Ratkovic|Crikvenica|NO|0
+95954|Villa Ursula|Novi Vinodolski|NO|0
+95955|Haus Martin|Novi Vinodolski|NO|0
+95956|Haus Darinka|Novi Vinodolski|NO|stars_3
+96197|Haus Mrgudic|Orebic|NO|stars_3
+96198|Indijan|Orebic|NO|stars_4
+96320|Haus Ida|Novigrad|NO|0
+96321|Haus Sascha|Novigrad|NO|0
+96330|Haus Zeljko Bobanovic 1|Rovinj|NO|0
+96339|Villa Anna|Selce|NO|0
+96344|Villa Klara|Malinska|NO|0
+96349|Crnac Ante|Malinska|NO|0
+96350|Stipanov|Mali Losinj|NO|0
+96358|Mac Adams|Novalja|NO|0
+96360|Haus Insula|Petrcane|NO|0
+96403|Emka / eM-kA|Razanj|NO|stars_3
+96425|Villa Teo|Podgora|NO|0
+96429|ZG Appartments|Vrboska|NO|0
+96530|Casa Romantica La Parenzana|Volpija|NO|stars_3
+96538|Theresa|Liznjan|NO|0
+96546|Villa Tonka|Insel Ciovo|NO|0
+96549|Villa Birimisa|Lopud Island|NO|0
+96551|Villa Matilda|Dubrovnik|NO|0
+96796|Appartments Klara|Supetar|YES|stars_3
+96797|Appartments Sanda|Split|YES|stars_3
+96798|Villa kameni Cvit|Split|YES|stars_3
+96799|Apartment Marina I|Dubrovnik|YES|stars_3
+96800|Apartment Marina II|Dubrovnik|YES|stars_3
+96840|Velaris Resort - Amor|Supetar|NO|stars_4
+97134|Camping Mareda|Novigrad|NO|stars_3.5
+97218|Liburnija|Novalja|NO|stars_2
+97247|Haus Marina|Novi Vinodolski|NO|0
+97249|Haus Antony|Novi Vinodolski|NO|0
+97250|Mira|Stara Novalja|NO|stars_3
+97253|Haus Ankica|Novalja|NO|stars_3
+97835|Issa|Vis Island|YES|stars_3
+97883|Vilcam|Novigrad|NO|stars_3.5
+97887|Dva Baladura Apart|Kanfanar|NO|stars_4
+97889|Villa Robertina|Puntera|NO|stars_5
+97896|Haus Petra|Pula Medulin|NO|stars_3
+97899|Haus Lara|Pula Medulin|NO|stars_3
+97989|Haus Ivkic|Silo|NO|stars_3
+97999|Villa Adria|Baska|NO|stars_3
+98000|Villa Adriana|Rab City|NO|stars_3
+98009|Haus Martom|Starigrad-Paklenica|NO|stars_3
+98013|Laguna|Privlaka|NO|stars_3.5
+98016|Villa Damir|Petrcane|NO|stars_3
+98020|Marija|Zadar|NO|stars_3
+98021|Bozava - Maxim|Bozava|NO|stars_4
+98026|Marinero|Pasman|NO|stars_2
+98032|Villa Donat Hotel  & Dependence|Sv. Filipi i Jakov|NO|stars_4
+98034|Haus Dijana|Pakostane|NO|stars_3
+98035|Haus Zdenka|Pakostane|NO|stars_3
+98038|Haus Neptun|Pirovac|NO|stars_3
+98039|Haus Katica|Pirovac|NO|stars_3
+98040|Villa Kristiana|Jezera|NO|stars_3
+98044|Haus Guzela|Primostek|NO|stars_2
+98054|Haus Jadranka|Makarska|NO|stars_3
+98108|Plava Laguna|Porec|NO|stars_3
+98154|Lone Designhotel|Rovinj|NO|stars_5
+98307|Camping Polari|Rovinj|NO|stars_3
+99187|Bozica|Dubrovnik|YES|stars_4
+99188|Villa Dvor|Omis|YES|stars_3
+99211|Irena|Hvar|YES|stars_3
+99212|Marinka|Hvar|YES|stars_3
+99752|Glavovic|Lopud Island|NO|stars_3.5
+99843|Srce Zagreba|Zagreb|YES|stars_4
+99844|Urbana Villa|Zagreb|YES|stars_2
+99845|Poluotok|Zadar|YES|stars_3
+100296|Villa Jerkan|Podstrana|YES|stars_3
+100297|Villa Mare|Hvar|YES|stars_4
+100298|Villa Dane|Hvar|YES|stars_4
+100299|Villa Juraj|Jelsa|YES|stars_4
+100302|Villa Barat|Baderna|YES|stars_4
+100446|Visforyou|Rukavac Luka|YES|stars_3
+100636|Apartmant Lily|Zadar|YES|stars_2
+100817|St. Pieters - Villa Cloe|Slano|YES|stars_3
+100818|St. Pieters - Villa Matej|Slano|YES|stars_3
+100978|Villa Zarko|Kastel Luksic|NO|stars_3
+100992|Neboder|Rijeka|YES|stars_3
+102720|Palace Derossi|Trogir|YES|stars_3
+104137|Arcus Residence|Pula Medulin|NO|stars_3
+105160|Best Western Premier Astoria|Zagreb|NO|stars_4
+107298|Holiday|Zagreb|NO|stars_3
+124519|Villa Lara|Bol|YES|stars_3
+124521|Villa Curic|Dubrovnik|YES|stars_3.5
+124525|Villa Tudor|Milna|NO|stars_3
+124526|Apartmani Ivanka|Opatija|YES|stars_3
+124527|Krizmanic|Plitvica Lakes|YES|stars_3
+124529|Apartamenti Klarina|Split|YES|stars_3
+124530|Apartamenti Katija|Split|YES|stars_3
+124531|Villa Stina|Split|YES|stars_4
+124533|Cikes|Split|YES|stars_3
+127459|Villa Kruna Grada|Insel Ciovo|NO|stars_3
+128510|Villa Dalmacija Hvar|Hvar|NO|stars_3
+131634|Grabovac|Plitvica Lakes|NO|stars_3
+131639|Atrium|Split|YES|stars_5
+131641|Dujam|Split|NO|stars_3
+131642|Antunovic|Zagreb|YES|stars_4
+134476|Valamar Lacroma Dubrovnik Hotel|Dubrovnik|YES|stars_4
+134680|Guest House Riviera|Pula / Pula Verudela|NO|stars_2.5
+135138|Loza|Novalja|NO|stars_2
+135412|Falkensteiner Punta Skala Hotels & Residences - Family Hotel Diadora|Petrcane|NO|stars_4
+135413|Ferienanlage Croatia - Alba|Sv. Filipi i Jakov|NO|stars_3
+135464|Falkensteiner Punta Skala Hotels & Residences - Hotel & Spa Iadera|Petrcane|NO|stars_5
+135467|Quercus|Drvenik|NO|stars_4
+135471|Villa Vilina & Apartments Lopudski Dvori|Lopud Island|NO|stars_4
+135475|More|Dubrovnik|YES|stars_5
+135791|Aquarius|Dubrovnik|NO|stars_3
+135792|Villa Pattiera|Cavtat|NO|stars_4
+135972|Radisson Blu Resort Split|Split|NO|stars_4
+136127|Appartementhaus Luburic|Krk|NO|stars_3
+136407|Alma|Split|YES|stars_3
+136408|Admiral Grand|Slano|YES|stars_5
+136439|Kazbek|Dubrovnik|YES|stars_5
+136543|Berkeley|Dubrovnik|YES|stars_3
+136593|Camping Klenovica|Klenovica|NO|stars_2.5
+136603|Complesso dei Fiori|Rabac|NO|stars_3
+136843|Pervanovo|Dubrovnik|YES|stars_4
+136861|Pension Burin|Crikvenica|NO|stars_3
+139373|Apart Hotel Frane|Pag|NO|stars_3
+139374|Pension Bok|Novalja|NO|stars_3
+139375|Haus Adrijana|Novalja|NO|0
+139377|Villa Stari Dvor|Ugljan|NO|stars_3
+139380|Putnik Apartments|Baska Voda|NO|stars_3
+139382|Lipa|Postira|NO|stars_4
+139567|Regi|Pula Medulin|NO|0
+139579|Zafran|Smoljanac|NO|0
+139580|Vila 4m Pension & Appartements|Zadar|NO|stars_3
+139583|Mrkicevi Dvori|Zadar|NO|0
+139584|Tratica|Ugljan|NO|0
+139586|Villa Jasmin|Bol|NO|0
+139738|Haus Nada Tot|Novi Vinodolski|NO|0
+139856|Hotel Istra & All Suites Istra|Rovinj|YES|stars_4
+140033|Zagreb|Karlobag|NO|stars_3
+141674|Palace Trogir|Trogir|YES|stars_4
+141775|Haus Monika|Novigrad|NO|0
+141777|Haus Artur|Umag|NO|0
+141779|Haus Zonta|Rovinj|NO|0
+141783|Haus Nadica|Pula Medulin|NO|0
+141784|Haus Meri|Pula Medulin|NO|0
+141785|Haus Denis|Pula Medulin|NO|0
+141788|Haus Gea|Moscenicka Draga|NO|0
+141792|Haus Iva|Malinska|NO|0
+141795|Haus Safran|Porat|NO|0
+141809|Villa Magnolija|Cres Island|NO|0
+141810|Haus Nikola|Silo|NO|0
+141811|Villa Stella|Banjol|NO|0
+141813|Villa Stedul|Rab City|NO|0
+141834|Haus Olea|Srima|NO|0
+141836|Marija Appartements|Hvar|YES|stars_3
+141837|Funda Appartements|Bol|NO|0
+141839|Villa Damjan|Insel Ciovo|NO|0
+141843|Villa Nizic|Makarska|NO|0
+141942|Haus Theodora|Selce|NO|0
+141944|Haus Grozdana|Crikvenica|NO|0
+141948|Haus Stile|Karlobag|NO|0
+141949|Haus Lucija|Kozino|NO|0
+141950|Appartements Success|Kozino|NO|0
+142268|St. Pieters - Villa Leon|Slano|YES|stars_3
+142269|Villa Erna|Dubrovnik|YES|stars_4
+142274|Camping Village Simuni|Simuni|NO|stars_2
+142276|Duje|Srima|NO|stars_4
+142782|Apartmani Kelam|Trogir|YES|stars_3
+143760|Bastion|Zadar|YES|stars_4
+143761|Movie Resort|Vodice|NO|stars_3
+143763|Borik|Lumbarda|NO|stars_3
+143790|Osijek|Osijek|YES|stars_4
+143792|Appartements & Villen Edo|Novigrad|NO|stars_4
+143801|Haus Pontos|Jadranovo|NO|stars_3
+143810|Pinia|Malinska|NO|stars_4
+143812|Villa Favorita|Mali Losinj|NO|stars_4
+143823|Haus Jakov|Nin|NO|stars_2
+143836|Bella Vista|Drvenik|NO|stars_4
+143837|Villa Lanterna|Dubrovnik|NO|stars_3
+143838|Illyrian Resort|Milna|NO|stars_3.5
+144209|Haus Andrijana|Crikvenica|NO|0
+145255|Camping Feriendorf Borik|Zadar|NO|stars_3
+151792|Koral|Pula Medulin|NO|stars_3
+157587|Aristos|Zagreb|YES|stars_4
+157588|Phoenix Hotel|Zagreb|NO|stars_4
+157593|Slavija|Split|YES|stars_3
+157594|Tragos|Trogir|NO|stars_3
+157596|Pansion Begic|Omis|NO|stars_3
+157599|Villa Daniela|Bol|YES|stars_3
+157601|Jadran|Sibenik|NO|stars_3
+157605|Korana Srakovcic|Karlovac|NO|stars_4
+157606|Continental Rijeka|Rijeka|YES|stars_3
+157607|Villa Aurora|Crikvenica|NO|stars_3
+157610|Aparthotel Volta|Cervar-Porat|NO|stars_2
+157611|Sunset Lanterna Appartements|Tar-Vabriga|YES|stars_2
+157625|Villetta Phasiana|Fazana|NO|stars_3
+157678|Hostin|Gajac|NO|stars_2
+161756|Osrodek Turystyczny Kacjak|Dramalj|NO|stars_2
+179317|Cosmopolitan Bolgna|Baska Voda|NO|0
+182194|Blue Waves Resort|Malinska|YES|stars_4
+182233|Villa Marija|Podstrana|YES|stars_3
+182293|Appartment Maja|Novalja|NO|0
+182509|Pansion Vedrana|Podstrana|YES|stars_3
+182510|Stipe Aparthotel|Split|YES|stars_3
+182593|Villa Ruzica|Trogir|YES|stars_3
+182594|Hvarske Ville|Hvar|YES|stars_4
+182956|Tonka Apartments|Dubrovnik|YES|stars_3
+182957|Kuca Plitvicka Sedra|Plitvica Lakes|YES|stars_3
+182958|Apartments Ante|Podstrana|YES|stars_3
+182959|Croatia|Baska Voda|YES|stars_4
+182960|Apartments Mediterano|Podstrana|YES|stars_3
+182961|Dragicevic|Split|YES|stars_3
+182980|Villa Pucisca|Pucisca|YES|stars_3
+182982|Villa Zivana|Dugi Rat|YES|stars_3
+182985|Bracka Perla|Supetar|YES|stars_4
+182986|Villa Plazibat|Split|YES|stars_3
+182987|Villa Javor|Podstrana|YES|stars_3
+182988|Uspjeh Appartement|Kozino|YES|stars_4
+182989|Appartement Fancy|Zagreb|YES|stars_3
+183524|Radisson Blu Resort & Spa Dubrovnik Sun Gardens|Orasac|NO|stars_5
+197208|Hotel In|Biograd na Moru|NO|stars_4
+201323|Osejava|Makarska|NO|stars_4
+201434|Valamar Riviera Hotel  & Valamar Villa Parentino - Valamar Riviera Hotel|Porec|YES|stars_4
+202196|Haus Elena|Novigrad|NO|0
+202208|Haus Lorencin|Pula Medulin|NO|0
+202211|Haus Nada|Crikvenica|NO|0
+202212|Haus Mato|Malinska|NO|0
+202213|Haus Ljubica|Rab City|NO|stars_3
+202216|Haus Ivica|Zadar|NO|0
+202217|Villa Vela|Podgora|NO|0
+202218|Appartements Brajko|Starigrad / Stari Grad|NO|0
+202251|A Golfer|Sveti Martin na Muri|NO|stars_4
+202252|Appartement Regina|Sveti Martin na Muri|NO|stars_4
+202377|Adria|Malinska|NO|stars_3
+202446|Pension Mudrazija|Crikvenica|NO|stars_3
+202503|Grand Palazzo|Porec|YES|stars_4
+202564|Villa Angelica|Opratija|NO|stars_5
+202565|Villa Momiano|Momjan|NO|stars_4
+202569|Haus Vera|Crikvenica|NO|stars_2
+202573|Villa Rosa|Crikvenica|NO|stars_4
+202578|Haus Antun|Njivice|NO|stars_3
+202583|Haus Gianna|Cedanj|NO|0
+202586|Haus Kaja|Barbat|NO|0
+202593|Haus Gora|Posedarje|NO|0
+202619|Haus Vunic|Silo|NO|stars_3
+202623|Haus Dean|Novi Vinodolski|NO|0
+202626|Haus Stosica|Mandre|NO|stars_3
+202629|Tota|Starigrad-Paklenica|NO|stars_3
+202632|Stefa|Privlaka|NO|stars_3
+202648|Haus Milica|Zadar|NO|stars_3
+202657|Haus Anka|Pakostane|NO|stars_3
+202664|Villa Radin|Vodice|NO|stars_4
+202666|Appartements Vranjica Belvedere|Trogir|NO|stars_3
+202675|Villa Mladina|Jelsa|NO|stars_3
+203013|Villa Dubrava|Opatija|NO|stars_3
+203088|Katarina|Dugopolje|YES|stars_4
+203089|Bubalo Apart.|Hvar|YES|stars_3
+203106|Funda Solta Appartements|Necujam|NO|0
+204894|Aparthotel Adriatic|Orebic|NO|stars_3
+205289|As|Split|NO|stars_3
+205913|Lavica Beach Apartments|Podstrana|NO|stars_3
+206744|Camp Soline|Biograd na Moru|NO|stars_4
+207954|Dalmina|Split|NO|stars_4
+208467|Dora|Zagreb|NO|stars_3
+211887|Jadran|Zagreb|NO|stars_3
+213847|Marmont|Split|NO|stars_4
+214169|Mobile Homes Kovacine|Cres Island|NO|stars_3
+215642|Porin|Zagreb|NO|stars_3
+218270|Split Apartments|Split|YES|stars_3
+219683|Tisno|Tisno|YES|stars_4
+219974|Valamar Club Tamaris & Residence & Luxury Villas - Valamar Club Tamaris|Porec|YES|stars_4
+220137|Vila Tina|Trogir|NO|stars_3
+220293|Villa Jadran|Trogir|NO|stars_3
+220466|Villa Valentina|Zadar|NO|stars_3
+225671|President Solin|Split|YES|stars_5
+225934|Terme Tuhelj|Tuhelj|NO|stars_3
+226218|Villa Magdalena|Krapinske Toplice|NO|stars_4
+226913|Seljacka Kuca|Split|YES|stars_3
+226914|Apartments Kula|Split|YES|stars_3
+226915|Cecilija Apartmani|Split|YES|stars_2
+227019|Risnjak|Delnice|NO|stars_3
+227020|Mobilhomes Adria|Baska|NO|0
+227185|Celenga Apartments|Dubrovnik|YES|stars_4
+227186|Dubrovnik Lapad Apartments|Dubrovnik|YES|stars_3
+227187|Villa Ivanino|Dubrovnik|YES|stars_3
+227188|Lile Apartmani|Split|YES|stars_3
+227189|House Gold|Split|NO|stars_3
+227190|Apartmani Borik|Zadar|YES|stars_2
+227191|Apartmani Srsen|Zadar|YES|stars_3
+227192|Apartmani Baresic|Zadar|YES|stars_3
+227529|Apartments Smoljo|Split|YES|stars_3
+227530|Del De Luxe|Zagreb|YES|stars_3
+227531|Delicia Apartman|Zagreb|YES|stars_3
+227532|Dominik Apartman|Zagreb|YES|stars_3
+227642|Kuca Spehar|Plitvica Lakes|YES|stars_3
+227643|Celic Apartmani|Zagreb|YES|stars_2
+227645|Villa Darrer|Dubrovnik|YES|stars_3
+227646|Villa Moretic|Zaton  Nin|NO|stars_3
+227788|The Residence|Split|NO|stars_4
+227789|Toni|Zadar|NO|stars_3
+228032|Camping Pineta Umag|Umag-Savudrija|YES|stars_4
+228033|CampingIN Finida Umag|Umag|YES|stars_4
+228034|Korkyra|Vela Luka|YES|stars_4
+228035|Mediteran|Zadar|YES|stars_3
+228036|Villa Toni|Sv. Filipi i Jakov|YES|stars_2.5
+228037|Apartmani Pavlov|Split|YES|stars_3
+228039|Apartmani Zlatni Rat|Bol|YES|stars_3.5
+228459|Peric|Dubrovnik|NO|0
+228792|Hotel Milenij|Makarska|NO|stars_4
+229333|LifeClass Therme Sveti Martin|Sveti Martin na Muri|NO|stars_4
+231843|Villa Valdibora|Rovinj|NO|stars_4
+231851|Villa Eugenia|Lovran|NO|stars_4
+231859|Pansion Winnetou|Plitvica Lakes|NO|stars_3
+231866|Istrian Spa Istarske Toplice - Mirna / Sveti Stjepan|Livade|NO|stars_3
+231987|Aparthotel del Mar / Residence Superior del Mar|Banjole|YES|stars_4
+232552|Luxe|Split|NO|stars_4
+232819|Villa Marija|Jelsa|NO|stars_3
+233389|Camping Brioni|Pula / Pula Verudela|NO|stars_2
+233395|Solaris Beach Resort - Camping Mobilehomes|Sibenik|NO|stars_3.5
+233499|Jukica|Vela Luka|NO|0
+233558|Camping Split|Split|NO|0
+233559|Villa Orhideja|Vodice|NO|0
+233603|Villa Bonaca|Zambratija|NO|stars_3.5
+233604|Villa Viktory|Umag|NO|stars_4
+233614|Goli & Bosi Designhotel|Split|NO|stars_1
+234766|Villa Dalmatia|Bol|NO|0
+235063|Bosnic|Prizba|NO|stars_3
+235064|Laguna|Lumbarda|NO|stars_3
+235066|Batistic Apartments|Lumbarda|NO|stars_3
+235068|Mia Apartments|Korcula (Island)|NO|stars_2
+235069|Marnic Apartments|Soline|NO|stars_3
+235071|Miljas Apartments|Cavtat|NO|stars_3
+235072|Appartements Villa-Katana|Porec|NO|stars_3
+235073|Zdjelar Apartments|Porec|NO|stars_3
+235075|Catalina Apartments|Pula Medulin|NO|stars_3
+235076|House Danica|Plitvica Lakes|NO|stars_3
+235077|Villa Miljak|Podstrana|NO|stars_3
+235079|Adria Apartments|Biograd na Moru|NO|stars_3
+235080|Bracic Apartments|Sukosan|NO|stars_3
+235081|Suhomont Apartments|Pag|NO|stars_3
+235244|San Rocco|Brtonigla|NO|stars_4
+235424|Bakmaz Apart.|Vodice|NO|stars_3
+235425|Bilicic|Jelsa|NO|stars_3
+235426|Bozinovic Apartments|Split|NO|stars_3
+235427|Apartments Cala|Biograd na Moru|NO|stars_3
+235428|Villa Meridiana|Orebic|NO|stars_4
+235429|Renata Apartments|Makarska|NO|stars_3
+235430|Papic|Okrug Gornji|NO|stars_3
+235431|Ruza|Baska Voda|NO|stars_3
+235432|Santic|Postira|NO|stars_3
+235433|Saric|Pula / Pula Verudela|NO|stars_3
+235434|Pitomcija|Podstrana|NO|stars_3
+235435|Justic Appartement|Krk|NO|stars_3
+235607|Henry Village Island|Rovinj|NO|0
+236161|Villa Eden|Milna|NO|0
+237099|Minerva|Pula Medulin|NO|stars_4
+237522|Vela Vrata|Buzet|NO|stars_4
+237523|Pension Vice|Gradac|NO|stars_3
+237524|Nova Galerija Apartments|Zagreb|NO|stars_3.5
+237752|Villa Romana & Tea|Silo|NO|stars_3
+238518|Apartments Pical|Porec|NO|stars_2
+239218|Adria|Dubrovnik|NO|stars_3
+239219|Saudade|Gradac|NO|stars_4
+239221|AS Hotel|Zagreb|NO|stars_4
+239395|Landpension Rogocana|Labin|NO|0
+240209|Park Exclusive|Otocac|NO|stars_4
+241394|Vila Lili Rovinj|Rovinj|NO|stars_3
+241512|Gromela Holiday Appartements|Mirca|NO|stars_3.5
+241547|Istra|Rab City|NO|stars_3
+242509|Sirena|Podgora|NO|stars_3
+243382|Split|Podstrana|NO|stars_4
+243468|Libra|Senj|NO|stars_4
+243573|Jadranka|Selce|NO|stars_4
+243575|Camping Sirena|Novigrad|NO|stars_4
+243591|Landhaus Nono Ban|Gornji Humac|NO|stars_4.5
+243838|President|Split|NO|stars_4
+245282|Falkensteiner Appartements Petrcane|Petrcane|NO|stars_4
+245868|Stella Maris Resort - Sol Stella|Umag|NO|stars_3
+245869|Stella Maris Resort - Sol Amfora|Umag|NO|stars_4
+245887|Miramare|Vodice|NO|stars_4
+246003|Haus Ljerka|Jadranovo|NO|stars_3
+246019|Pension Dupin|Vlasici|NO|stars_2
+246538|Apartments Sunny Punta|Umag|NO|stars_4
+246541|Grand Adriatic - Adriatic I|Opatija|NO|stars_4
+246542|Grand Adriatic - Adriatic II|Opatija|NO|stars_3
+246559|Vila Tamaris|Veli Losinj Island|NO|stars_4
+246575|Solaris Beach Resort - Ivan / Andrija / Jure / Niko / Jakov / Villas Kornati / Camping Mobilehomes|Sibenik|NO|stars_3
+246669|Villa Dubrovnik|Dubrovnik|NO|stars_5
+247325|Valamar Club Tamaris & Residence & Luxury Villas|Porec|NO|stars_4
+247326|Valamar Diamant Hotel & Residence - Residence|Porec|NO|stars_3
+247345|Appartements Lanterna Rabac|Rabac|NO|stars_2
+247348|Miramar|Rabac|YES|stars_3
+247398|Pension Denis|Metajna|NO|stars_2
+247460|Importanne Resort - Royal Palm Hotel|Dubrovnik|YES|stars_5
+247461|Importanne Resort - Ariston|Dubrovnik|YES|stars_5
+247462|Importanne Resort - Neptun|Dubrovnik|YES|stars_4
+247805|Hotel Sol Umag & Residence - Hotel|Umag|NO|stars_4
+247806|Hotel Sol Umag & Residence - Residence|Umag|NO|stars_4
+247827|San Marino - Sahara/ Rab/ Veli Me/ Plaza/Family Lopar - Family Lopar|Rab City|NO|stars_3
+247829|San Marino - Sahara/ Rab/ Veli Me/ Plaza/Family Lopar - Sahara|Rab City|NO|stars_3
+247992|Ferienanlage Croatia - Croatia|Sv. Filipi i Jakov|NO|stars_3
+248195|Gala Split|Podstrana|NO|stars_4
+248524|Bolanca|Primostek|NO|stars_3
+248591|Appartement Alfa|Okrug Gornji|NO|stars_3
+249674|Remisens Premium Hotel Ambasador & Romantic Villa Ambasador - Hotel Ambasador|Opatija|NO|stars_5
+253447|Villa Amfora|Dubrovnik|NO|stars_3
+253817|Vista|Vrsar|NO|stars_3
+253823|Bluesun Maestral & Marina - Marina|Brela|NO|stars_3
+253828|Plat Hotels & Villas - Villas Plat|Mlini|NO|stars_3
+254095|Hotel Villa Kapetanovic|Opatija|YES|stars_4
+254518|Villa St. Peter|Trogir|NO|stars_3
+255241|Pansion Delfin|Zadar|NO|stars_3
+255670|Apartments Malena|Split|NO|stars_3
+255698|More|Split|NO|stars_3
+256155|Barbati Pag|Novalja|NO|stars_3
+256529|Hotel Fontana|Buzet|YES|stars_0
+256602|Beach Hotel Split|Podstrana|NO|stars_4
+259022|Pansion Skelin|Drinovci|NO|stars_3
+259362|Maslinica Hotels & Resorts - Lido Palace/Mimosa/ Hedera/ Narcis/ Camp Oliva|Rabac|NO|stars_3
+259551|Villa Royal|Cavtat|NO|stars_3
+259723|Haus Dragan|Trogir|NO|stars_3
+259724|Haus Bareta|Trogir|NO|stars_3
+259876|Beli Kamik I / Smartline Island Krk (Beli Kamik II) - Beli Kamik I|Njivice|NO|stars_3
+259877|Beli Kamik I / Smartline Island Krk (Beli Kamik II) - Smartline Island Krk (Beli Kamik II)|Njivice|NO|stars_3
+259878|Njivice Resort - Depandance Adria|Njivice|NO|stars_2
+260197|Boutique-Hotel Life|Rogoznica|NO|stars_4
+260245|Park Osejava Aparthotel|Makarska|NO|stars_4
+260271|Villa Sun|Seget Vranjica|NO|stars_3
+260272|Heritage Jupiter Luxury Hotel|Split|NO|stars_4
+260487|Novi Spa Hotels & Resort - The View|Novi Vinodolski|NO|stars_5
+260488|Novi Spa Hotels & Resort - Family Apartments Novi|Novi Vinodolski|NO|stars_4
+260560|Amaris Villas|Karigador|NO|stars_4.5
+261548|Residence Auto Camp San Marino|Lopar|NO|stars_4
+261768|Villa Orsula|Dubrovnik|NO|stars_5
+264898|Hotel Rebro|Zagreb|NO|stars_3
+265633|Camping Lanterna|Porec|NO|stars_3
+266554|Villa More|Dubrovnik|NO|stars_4
+266601|Goran|Pula / Pula Verudela|NO|stars_3
+269124|Casa Palma|Porec|NO|stars_4
+270146|Maistra Riva Apartments Vrsar|Vrsar|YES|stars_3
+270502|Hotel Sveti Jakov|Opatija|NO|stars_5
+277188|Holiday Resort & Autocamp Medveja - Bungalows / Appartements / Mobilehomes|Medveja|NO|stars_3
+277851|Importanne Resort - Royal Princess Hotel|Dubrovnik|YES|stars_5
+280125|DoubleTree by Hilton Zagreb|Zagreb|NO|stars_4
+281028|Hotel Diadem|Omis|NO|stars_4
+295489|Franziskanerkloster - Franjevacki Samostan|Zaostrog|NO|0
+295879|Velanera|Sisan|NO|stars_4
+295937|Vila Natalija|Pula Medulin|NO|stars_3
+295939|Apartments Viola|Pula Medulin|NO|stars_2.5
+295942|Vila Alpa|Umag|NO|stars_3
+295944|Degra|Umag|NO|stars_3
+295947|Monterol/Adriatica|Umag|NO|0
+296042|Haus Lorenza|Novi Vinodolski|NO|stars_3
+296044|Haus Andrea|Novi Vinodolski|NO|stars_3
+296047|Haus Tino|Novi Vinodolski|NO|stars_3
+296050|Haus Davor|Novi Vinodolski|NO|stars_3
+296066|Haus Dora|Selce|NO|stars_3
+296068|Haus Sertic|Malinska|NO|stars_3
+296077|Appartments Oliva|Krinica|NO|stars_3
+296078|Villa Fendi|Barban|NO|stars_3
+296081|Njivice Resort - Camping Njivice|Njivice|NO|stars_3
+296086|Villa Jucinovi Dvori|Starigrad-Paklenica|NO|stars_5
+296087|Suha Punta Ferienanlage - Appartments Suha Punta|Suha Punta|NO|stars_3
+296088|Suha Punta Ferienanlage - Pavillion Zimmer Suha Punta|Suha Punta|NO|stars_3
+296092|Haus Stipe|Vrsi|NO|stars_3
+296100|Villa Melita|Kraj|NO|stars_3
+296103|Appartements Tone|Privlaka|NO|stars_3
+296105|Villa Tanja|Labin|NO|stars_4
+296625|Falkensteiner Punta Skala Hotels & Residences - Residences Senia|Petrcane|NO|stars_4
+296930|Villa Celeste|Nedescina|NO|stars_4
+296933|Villa Janko|Sveti Lovrec|NO|stars_4
+296973|Boutique Hostel Forum|Zadar|NO|stars_2
+297637|Haus Skroce|Diklo|NO|stars_3.5
+298044|Ljetni Raj & Ljetni San Appartements|Makarska|NO|0
+298084|Monika|Trogir|NO|stars_4
+298365|Arbanas|Krk|NO|stars_3
+298622|Haus Dejan|Labin|NO|stars_3
+298623|Haus Helena|Pula / Pula Verudela|NO|stars_3
+298635|Haus Magnolia|Tar-Vabriga|NO|stars_3
+298640|Haus Matija|Seline|NO|stars_3
+298648|Villa Salzburg|Sisan|NO|stars_3
+298654|Mobilheime Selce|Selce|NO|stars_3.5
+298657|Villa Ana|Rab City|NO|stars_4
+298669|Hotel Pension Silo|Silo|NO|stars_3.5
+299315|Terme Tuhelj - Hotel Well|Tuhelj|NO|stars_4
+299662|The Movie Resort - Hotel / Apartements|Tribunj|NO|stars_3
+299670|Jadran Residence|Porec|NO|stars_2
+300132|Amabilis|Selce|NO|stars_5
+300455|Camping Kastanija|Novigrad|NO|stars_4
+300458|Bluesun Hotelanlage Alan - Bluesun Camp Paklenica|Starigrad-Paklenica|NO|stars_4
+300611|Villas Mlini|Mlini|NO|stars_4
+301803|Residence Kamenjak Premantura|Premantura|NO|stars_4
+302226|Haus Franic|Trogir|NO|stars_3
+302227|Haus Grüger I|Brela|NO|stars_3
+302228|Haus Latic|Tucepi|NO|stars_3.5
+302500|Bluesun Maestral & Marina|Brela|NO|stars_3.5
+302629|Istrian Spa Istarske Toplice - Mirna|Livade|NO|stars_3
+302662|Villa Dalmatia|Rogoznica|NO|stars_4.5
+317721|Drazica Resort - Hotel Drazica|Krk|NO|stars_3
+335823|Ana I Zlatko Apartments|Hvar|NO|stars_3
+354410|Camping Perna|Orebic|NO|stars_4
+354428|Camping Basko Polje|Baska Voda|NO|stars_3
+354508|Appartements Premantura Dom|Premantura|NO|stars_4
+359590|Art Hotel Kalelarga|Zadar|NO|stars_4
+359591|Velaris Resort - Villa Vela Luka|Supetar|NO|stars_4
+359592|Velaris Resort - Pavilions|Supetar|NO|0
+359722|Villa Rosa - Solea Bravis/ Gloria/ Ambassador|Dubrovnik|NO|stars_4
+359770|Villa Donat Hotel  & Dependence - Hotel|Sv. Filipi i Jakov|NO|stars_4
+359771|Villa Donat Hotel  & Dependence - Depandence|Sv. Filipi i Jakov|NO|stars_3
+363249|Coast House Apartments|Dubrovnik|NO|stars_3
+364077|Toplice Hotel|Krapinske Toplice|NO|stars_3
+365105|Pleter|Mimice|NO|stars_4
+365288|Amfora Grand Beach Resort|Hvar|NO|stars_4
+365289|Valkanela Camping|Vrsar|NO|stars_3
+365316|Sol Katoro|Umag|NO|stars_4
+365332|Astarea Resort - Astarea 1|Mlini|NO|stars_3
+365333|Astarea Resort - Astarea 2|Mlini|NO|stars_3
+365355|Casa Lavanda|Visnjan|NO|stars_4
+365459|Komplex Punta - Hotel & Villen|Vodice|NO|stars_4
+365460|Komplex Punta - Villen|Vodice|NO|stars_3
+366533|Osam Hotel|Supetar|NO|stars_4
+366577|Villa Vrbanc|Insel Pag|NO|stars_4
+366758|Valamar Pinia Hotel & Residence - Hotel|Porec|NO|stars_3
+366759|Valamar Pinia Hotel & Residence - Residence|Porec|NO|stars_3
+366761|Valamar Club Tamaris & Residence & Villas - Luxury  Villas|Porec|NO|stars_4
+372466|Mobilehomes Camping Krk|Krk|NO|stars_4
+372600|smartline Waterman Beach Village|Supetar|NO|stars_4
+372872|Mobilheime Umag|Umag|NO|stars_4
+372911|Lando Resort|Rab Island|NO|stars_4
+372919|Villa Rasic Makarska|Makarska|NO|0
+380039|Tomislavov Dom|Zagreb|NO|stars_3
+380919|Villa Miramar|Omis|NO|stars_4
+389984|Villa Amalia Apartments|Lokva Rogoznica|NO|stars_3
+390954|Drazica Resort - Dependance Villa Lovorka|Krk|NO|stars_3
+390955|Drazica Resort - Dependance Tamaris|Krk|NO|stars_3
+391105|Appartements Rajcevic|Makarska|NO|stars_4
+391265|Paola|Privlaka|NO|stars_4
+391269|Doriana|Rovinj|NO|stars_3
+391270|Draga|Nin|NO|stars_3
+391275|Mara|Crikvenica|NO|stars_4
+391276|Stelia|Umag-Savudrija|NO|stars_3
+391278|Marija|Starigrad-Paklenica|NO|stars_3
+391391|Villa Atlanta|Lovran|NO|stars_4
+391392|Villa Elsa|Lovran|NO|stars_4
+391397|Villa Popyn|Porec|NO|0
+391398|Park Plaza Histria & Marina Wing - Park Plaza Histria|Pula / Pula Verudela|NO|stars_4
+391399|Park Plaza Histria & Marina Wing - Marina Wing|Pula / Pula Verudela|NO|stars_4
+391492|Haus Noa|Kastel Kamelovac|NO|0
+391602|Remisens Premium Hotel Ambasador & Romantic Villa Ambasador - Romantic Villa Ambasador|Opatija|NO|stars_4
+391710|Bluesun Neptun - Dependance Maslinik|Tucepi|NO|stars_3
+391884|Villa Istra|Premantura|NO|stars_4
+392098|Holiday Village Zaton - Apartments|Nin|NO|stars_3
+392099|Holiday Village Zaton - Mobilhomes|Nin|NO|stars_3.5
+392100|Holiday Village Zaton - Camping|Nin|NO|stars_3
+392221|Pension Manuela|Vrsar|NO|0
+392407|Hotel Royal|Opatija|NO|stars_4
+392474|Miramare|Makarska|NO|stars_4
+401116|Club Vala|Selce|NO|0
+401248|Bluesun Hotel Kaj|Marija Bistrica|NO|stars_4
+401564|Villa Amaranthus|Sveti Lovrec|NO|0
+401565|Villa Carlina|Tinjan|NO|0
+401566|Villa Floramye|Split|NO|0
+401567|Villa Lathyrus|Sveti Lovrec|NO|0
+401568|Villa Tilia|Sveti Lovrec|NO|0
+401569|Villa Vicia|Visnjan|NO|0
+403258|Grand Hotel 4 Opatijska Cvijeta - Camelia|Opatija|NO|stars_4
+403305|Snjezna kraljica|Stubicke Toplice|NO|stars_4
+404387|Njivice Resort - Jadran/ Camp Njivice/ Flora/ Adria|Njivice|NO|0
+405256|Maslinica Hotels & Resorts - Lido Palace|Rabac|NO|stars_4
+405864|Pension Vago|Malinska|NO|stars_4
+406558|Hotel Villa Vrsar|Vrsar|NO|stars_3
+407196|Villa Armin|Rovinj|NO|stars_4
+408754|Hotel Istra & All Suites Istra  - All Suites Istra|Rovinj|NO|stars_4
+409034|Sheraton Dubrovnik Riviera Hotel|Mlini|NO|stars_4
+409117|Materada Area - Laguna Park Hotel|Porec|NO|stars_4
+409294|Terme Jezercica|Donja Stubica|NO|stars_3
+411357|Plat Hotels & Villas - Orphee Hotel / Villas Plat / Villas Eva & Felicia|Mlini|NO|stars_3
+411421|Depadances Marina & Primorka|Omisalj|NO|stars_2
+411732|Hotel Flores|Porec|NO|stars_4
+411783|Sensimar Makarska|Igrane|NO|stars_4.5
+411802|Valamar Diamant Hotel & Residence|Porec|NO|stars_4
+411999|Hotel Bon Repos / Appartements Korkyra Gardens - Appartements Korkyra Gardens|Korcula (Island)|NO|stars_4
+412089|Villa Carica|Medici|NO|0
+412237|Pension Villa Eva|Omisalj|NO|stars_3
+412242|Sol Garden Istra Hotel & Village - Hotel|Umag|NO|stars_4
+412243|Sol Garden Istra Hotel & Village - Village|Umag|NO|stars_4
+412969|SrCe Prirode|Gorica Lipnicka|NO|stars_3
+413127|Villa Mandic|Supetar|NO|stars_3
+413271|Hotel Continental|Opatija|NO|stars_4
+413541|D-Resort Sibenik|Sibenik|NO|stars_5
+413604|Campingplatz Dole|Zivogosce|NO|stars_2.5
+413790|Hotel & Pavillons Slaven - Hotel Slaven|Selce|NO|stars_3
+413932|Camping Belvedere|Trogir|NO|stars_3.5
+413954|Naturist camp Bunculuka|Baska|NO|stars_4
+413958|Campingplatz Padova 3|Banjol|NO|stars_3
+413963|Campingplatz Zablace|Baska|NO|stars_3
+414161|Camping Jezevac|Krk|NO|stars_4
+414162|Camping Marina|Labin|NO|stars_4
+414345|Materada Area - Laguna Park Appartements|Porec|NO|stars_3
+414347|Materada Area - Laguna Materada / Laguna Park Hotel / Laguna Park Village / Laguna Park Villas / Laguna Park Apartments|Porec|NO|stars_3
+414704|Villa Margitta|Drasnice|NO|stars_4
+414733|Laguna Galijot - Villa|Porec|NO|stars_4
+414734|Laguna Galijot - Appartments|Porec|NO|stars_4
+414737|Resort Petalon - Hotel|Vrsar|NO|stars_4
+414738|Resort Petalon - Apartments|Vrsar|NO|stars_4
+414739|Resort Villas Rubin - Hotel|Rovinj|NO|stars_3
+414740|Resort Villas Rubin - Apartments|Rovinj|NO|stars_3
+414741|Resort Amarin - Hotel|Rovinj|NO|stars_4
+414742|Resort Amarin - Apartments|Rovinj|NO|stars_4
+414797|Hotel Patria|Beli Manastir|NO|stars_4
+414812|Hotel Trakoscan|Bednja|NO|stars_4
+417489|Vitalhotel & Appartements Punta|Veli Losinj Island|NO|stars_4
+417490|Vitalhotel & Appartements Punta - Appartements|Veli Losinj Island|NO|stars_4
+417610|Naturist Resort Solaris - Hotel|Tar-Vabriga|NO|stars_3
+417611|Naturist Resort Solaris - Apartments|Tar-Vabriga|NO|stars_3
+417612|Resort Belvedere - Hotel|Vrsar|NO|stars_4
+417613|Resort Belvedere - Apartments|Vrsar|NO|stars_4
+417617|Naturist Park Koversada - Villas|Vrsar|NO|stars_2
+417618|Naturist Park Koversada - Apartements|Vrsar|NO|stars_4
+417625|Villa Albina|Skitaca|NO|stars_4
+417633|The Movie Resort - Hotel|Tribunj|NO|stars_3
+417635|The Movie Resort - Apartements|Tribunj|NO|stars_3
+417638|Adriatiq Resort Fontana - Hotel|Jelsa|NO|stars_2
+417639|Adriatiq Resort Fontana - Appartements 4 Sterne|Jelsa|NO|stars_3
+417641|Hotel Bon Repos / Appartements Korkyra Gardens - Hotel Bon Repos|Korcula (Island)|NO|stars_3
+417643|Resort Kazela - Appartements|Pula Medulin|NO|stars_3
+417644|Resort Kazela - Mobilehomes  closed and will be reopened on 02.04.2015|Pula Medulin|NO|stars_3
+417645|Bluesun Hotelanlage Alan - Hotel|Starigrad-Paklenica|NO|stars_3
+417646|Bluesun Hotelanlage Alan - Appartements|Starigrad-Paklenica|NO|stars_3
+417648|Crvena Luka Hotel & Resort - Hotel|Biograd na Moru|NO|stars_4
+417649|Crvena Luka Hotel & Resort - Apartments|Biograd na Moru|NO|stars_4
+417651|Holiday Resort & Autocamp Medveja - Appartements|Medveja|NO|stars_3
+417653|Holiday Resort & Autocamp Medveja - Mobilehomes|Medveja|NO|stars_3

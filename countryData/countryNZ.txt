@@ -1,0 +1,1118 @@
+7191|Grand Chancellor Christchurch - geschlossen|Christchurch|YES|stars_4
+8071|Ashley Motor Inn|Greymouth|NO|stars_3
+8606|Bay Plaza|Wellington|NO|stars_3
+9096|Scenic Circle Marlborough|Blenheim|NO|stars_4
+9525|Camelot Cathedral Square|Christchurch|NO|stars_3
+10321|Chateau on the Park|Christchurch|YES|stars_4
+10909|Heartland Cotswold|Christchurch|NO|stars_3
+12954|Heartland Fox Glacier|Fox Glacier|NO|stars_3
+12978|Scenic Franz Josef Glacier|Franz Josef Glacier|NO|stars_4
+13383|Chateau Tongariro|Tongariro National Park|YES|stars_4
+13428|Grand Chancellor Auckland Airport|Mangere|YES|stars_4
+15883|Sudima Lake Rotorua|Rotorua|YES|stars_3
+15888|Lakeland Resort Taupo|Taupo|NO|stars_3
+17023|Marlin Court|Paihia|NO|stars_3
+18068|Mercure Auckland|Auckland|YES|stars_4
+18108|Novotel Queenstown Lakeside|Queenstown|YES|stars_4
+18210|Oceanside Motel Whitianga|Whitianga|NO|stars_3
+18439|Pacific Harbour Lodge|Tairua|NO|stars_4
+18458|Paihia Pacific Resort|Paihia|NO|stars_3
+18882|Pavilions|Christchurch|YES|stars_3.5
+19042|Picton Beachcomber Inn|Picton|NO|stars_3
+19450|Princes Gate|Rotorua|YES|stars_4
+20691|Novotel Rotorua Lakeside|Rotorua|YES|stars_4
+20784|Rydges Christchurch|Christchurch|YES|stars_4.5
+21506|The Langham Auckland|Auckland|YES|stars_5
+21600|Discovery Sherwood|Queenstown|NO|stars_3
+21742|Sky City|Auckland|YES|stars_4
+21999|Scenic Southern Cross|Dunedin|NO|stars_4
+22098|St. Moritz Queenstown - MGallery Collection|Queenstown|YES|stars_5
+22569|Distinction Luxmore Te Anau|Te Anau|YES|stars_4
+22712|Rendezvous Grand|Auckland|YES|stars_4
+22736|The Devon|New Plymouth|NO|stars_3.5
+22741|Amora Wellington|Wellington|YES|stars_4
+22747|The Elms|Christchurch|NO|stars_3
+22795|The Hermitage|Mount Cook National Park|NO|stars_4
+22868|Best Western President|Auckland|YES|stars_3
+23257|Best Western Townsman Motor Lodge|Invercargill|NO|stars_2
+24488|Wairakei Resort|Taupo|YES|stars_4
+26072|Rydges Auckland|Auckland|YES|stars_4.5
+26834|Millennium Christchurch|Christchurch|YES|stars_5
+26936|Copthorne Hotel & Resort Queenstown Lakefront|Queenstown|NO|stars_4
+26941|Kingsgate Te Anau|Te Anau|YES|stars_3
+27028|Pullman Auckland|Auckland|YES|stars_5
+27029|Crowne Plaza Auckland|Auckland|YES|stars_4
+27030|Copthorne Auckland City|Auckland|YES|stars_4
+27031|Kingsgate Parnell Auckland|Auckland|YES|stars_3
+27037|Copthorne Hotel & Resort Bay of Islands|Paihia|NO|stars_4
+27038|Kingsgate Autolodge Paihia|Paihia|NO|stars_3
+27040|Copthorne Commodore Christchurch Airport|Christchurch|YES|stars_4
+27046|All Seasons Christchurch - geschlossen|Christchurch|YES|stars_3
+27136|Mercure Grand Puka Park Resort|Pauanui|YES|stars_4
+27137|Mercure Leisure Lodge|Dunedin|NO|stars_3
+27138|Heartland Glacier Country|Fox Glacier|NO|stars_3
+27139|Punakaiki Rocks Resort|Punakaiki|NO|stars_3.5
+27140|Kingsgate Greymouth|Greymouth|NO|stars_3
+27141|Heritage Gateway|Omarama|NO|stars_3
+27142|Rutherford Nelson|Nelson|YES|stars_4
+27143|Millennium Queenstown|Queenstown|YES|stars_4
+27146|Holiday Inn Rotorua|Rotorua|NO|stars_4
+27147|Millennium Rotorua|Rotorua|YES|stars_4
+27151|Powderhorn Chateau|Ohakune|NO|stars_4
+27152|Edgewater Resort|Wanaka|YES|stars_4
+27153|Intercontinental Wellington|Wellington|YES|stars_5
+27154|James Cook Hotel Grand Chancellor|Wellington|YES|stars_4
+27155|Copthorne Wellington Oriental Bay|Wellington|YES|stars_4
+28027|Spencer on Byron|Auckland|YES|stars_4
+30716|The Sebel Suites Auckland|Auckland|YES|stars_4
+30720|Quality Marlborough|Blenheim|NO|stars_4
+30726|Copthorne Christchurch Central|Christchurch|YES|stars_4
+30727|Heritage Christchurch|Christchurch|YES|stars_4
+30732|Pauanui Pines Motor Lodge|Pauanui|NO|stars_3
+30740|Trailways Motor Inn|Nelson|NO|stars_4
+30744|Millbrook Resort|Arrowtown|YES|stars_5
+30747|Rydges Lakeland Resort Queenstown|Queenstown|YES|stars_4
+30748|Rydges Rotorua|Rotorua|YES|stars_4.5
+30749|The Village Inn|Te Anau|NO|stars_3
+30750|Ibis Wellington|Wellington|YES|stars_3
+31205|The Charlotte Jane|Christchurch|NO|stars_5
+31206|Heartland Queenstown|Queenstown|NO|stars_3
+31741|Scenic Auckland|Auckland|NO|stars_4
+31742|Auckland Airport Kiwi Hotel|Mangere|NO|stars_3
+31744|Kimi Ora|Kaiteriteri|NO|stars_4
+31745|Scenic Suites Queenstown|Queenstown|NO|stars_4
+31746|Gold Ridge|Queenstown|NO|stars_3
+32156|The Duke of Marlborough|Russell|NO|stars_4
+32421|Scenic Te Pania|Napier|NO|stars_4
+32422|Mercure Wellington|Wellington|YES|stars_3
+32423|Novotel Wellington|Wellington|YES|stars_4
+33093|Aachen House a Boutique - geschlossen|Auckland|NO|stars_4
+33094|Koura Lodge|Rotorua|NO|stars_4.5
+35598|Grand Windsor Hotel|Auckland|YES|stars_3
+35599|Peppers Clearwater Resort|Christchurch|YES|stars_4
+35600|Blanket Bay Lodge|Glenorchy|NO|stars_5
+35601|Kauri Cliffs Lodge|Bay of Islands / Paihia|NO|stars_5
+35602|The Peppertree|Blenheim|NO|stars_5
+35603|Treetops Lodge|Rotorua|NO|stars_5
+37999|Huka Lodge|Taupo|NO|stars_5
+38113|Hilton Auckland|Auckland|YES|stars_5
+38135|The George|Christchurch|YES|stars_5
+38321|Matakauri Lodge|Queenstown|NO|stars_5
+38486|Quality Cargills|Dunedin|YES|stars_3
+38487|Distinction Fox Glacier|Fox Glacier|NO|stars_4
+39862|Scenic Bay of Islands|Paihia|NO|stars_4
+39863|Scenic Dunedin City|Dunedin|NO|stars_4
+39864|Bushland Park Lodge|Whangamata|NO|stars_5
+40473|Stamford Plaza|Auckland|NO|stars_5
+41007|Heartland Beachcomber|Paihia|NO|stars_3
+41008|The County|Napier|NO|stars_5
+41010|The White Morph|Kaikoura|NO|stars_4
+47487|Silver Oaks Geyserland|Rotorua|YES|stars_3
+47488|Solitaire Lodge|Rotorua|NO|stars_5
+47490|Heritage Auckland - Wing / Tower Wing|Auckland|YES|stars_4
+47492|Heritage Queenstown|Queenstown|YES|stars_4
+48178|Eichardt's Private|Queenstown|NO|stars_4.5
+48179|Fiordland Lodge|Te Anau|YES|stars_5
+52475|Crowne Plaza|Christchurch|YES|stars_4
+52481|Lake Tekapo Lodge|Lake Tekapo|NO|stars_5
+52484|Clarion Collection Metropolis|Auckland|NO|stars_4.5
+52599|The Cove|Taupo|NO|stars_3.5
+52600|Bay of Many Coves Resort|Marlborough Sounds|NO|stars_5
+52601|Chateau Malborough|Blenheim|NO|stars_5
+52602|The Portage Resort|Marlborough Sounds|NO|stars_4
+52603|Mountain Range|Wanaka|NO|stars_3
+52604|MacKenzie Country Inn|Twizel|NO|stars_3
+55484|CityLife Auckland|Auckland|YES|stars_4
+55786|Glenfern Villas|Franz Josef Glacier|NO|stars_4
+55787|Oceans Tutukaka|Tutukaka|NO|stars_4
+55788|Terrace Downs High Country Resort|Windwhistle|NO|stars_4.5
+55789|BreakFree The Point|Queenstown|NO|stars_4.5
+55790|The Boatshed|Auckland|NO|stars_4
+55792|Minaret|Wanaka|NO|stars_5
+55795|Oakwood Manor Motor Lodge|Mangere|YES|stars_3
+55796|Sky City Grand|Auckland|YES|stars_5
+55797|Copthorne Rotorua|Rotorua|YES|stars_3
+55798|Wains Hotel Dunedin|Dunedin|NO|stars_3
+56366|Heritage Hanmer Springs|Hanmer Springs|NO|stars_4
+56367|Ibis Rotorua|Rotorua|NO|stars_3
+56368|Skotel Alpine Resort|Tongariro National Park|NO|stars_3
+56422|Rock Solid Backpackers|Rotorua|YES|stars_2
+56423|Base Backpackers Auckland Central|Auckland|YES|stars_2
+56424|Base Backpackers Wellington|Wellington|YES|stars_2.5
+57876|Cliff Edge Landing|Bay of Islands / Paihia|NO|stars_5
+57877|Lake Taupo Lodge|Taupo|NO|stars_5
+57878|Peppers on the Point Lodge|Rotorua|NO|stars_5
+57879|Whare Kea Lodge|Wanaka|NO|stars_1.5
+57983|Wyndham Vacation Resorts Asia Pacific Wanaka|Wanaka|NO|stars_3
+63600|Amora Auckland|Auckland|YES|stars_4
+63608|Kelvin|Invercargill|NO|stars_3
+63612|Fyffe Country Lodge|Kaikoura|NO|stars_4
+63614|Kimeret Place|Nelson|NO|stars_4
+63615|Te Wanaka Lodge|Wanaka|NO|stars_4
+63616|The Dairy|Queenstown|NO|stars_4
+65089|Mediterranean Motel Kaikoura|Kaikoura|NO|stars_3
+65090|Swiss-Belresort Coronet Peak|Queenstown|NO|stars_3
+69227|Quality Inn Napier|Napier|NO|stars_3
+69228|Portside Hotel, Gisborne|Gisborne|NO|stars_4
+69514|Quest on Nelson|Auckland|NO|stars_4
+69515|Quest Christchurch|Christchurch|NO|stars_4
+69899|Beachcomber Motor Inn|Nelson|NO|stars_2.5
+69900|Copthorne Hotel & Resort Hokianga|Hokianga|NO|stars_3.5
+69901|Sofitel Queenstown|Queenstown|YES|stars_5
+69902|Kingsgate The Avenue Wanganui|Wanganui|YES|stars_3
+70537|Peppers Awaroa Lodge|Abel-Tasman-Nationalpark|NO|stars_4
+70539|Crowne Plaza Queenstown|Queenstown|YES|stars_4
+70540|Holiday Inn on Avon Christchurch - geschlossen|Christchurch|YES|stars_3
+70541|Holiday Inn City Centre - geschlossen|Christchurch|YES|stars_4
+70543|Boutique Hotel Warwick House|Nelson|NO|stars_4
+70545|Heartland World Heritage|Haast|NO|stars_3
+71978|Carrington Club|Karikari Peninsula|YES|stars_5
+71979|Hapuku Lodge|Kaikoura|NO|stars_4
+71981|Huntley Lodge|Christchurch|YES|stars_5
+72982|Mercure Queenstown Resort|Queenstown|YES|stars_3.5
+75505|Sudima Christchurch Airport|Christchurch|YES|stars_3
+77760|The Poplars Apartments|Christchurch|NO|stars_4
+77761|Copthorne Christchurch City|Christchurch|YES|stars_4
+79129|Base Discovery Lodge|Queenstown|YES|stars_2.5
+79130|Base Backpackers Bay Of Islands|Paihia|YES|stars_4
+79131|Ibis Christchurch|Christchurch|YES|stars_3
+79133|Quality Plymouth International|New Plymouth|NO|stars_3
+79135|Copthorne Hotel & Apartments Queenstown Lakeview|Queenstown|NO|stars_4
+79136|Rydges Wellington|Wellington|YES|stars_4
+79138|Old St Mary's Convent Vineyard Estate|Blenheim|NO|stars_5
+79139|Kapitea Ridge|Hokitika|NO|stars_3
+79146|Wilderness Lodge Lake Moeraki|Lake Moeraki|NO|stars_1.5
+79455|Heritage Du Vin|Mangatawhiri Valley|YES|stars_4
+79457|Comfort Wellington|Wellington|NO|stars_3
+80584|Mollies|Auckland|NO|stars_5
+80585|Paihia Beach Resort und Spa|Paihia|NO|stars_5
+80586|Eagles Nest|Russell|NO|stars_5
+80588|Black Swan Lakeside Boutique Hotel|Rotorua|NO|stars_5
+80589|Greenhill The Lodge|Hastings|NO|stars_5
+80590|Grand Mercure Oakridge Resort Lake Wanaka|Wanaka|YES|stars_4
+80591|The Spire|Queenstown|NO|stars_5
+81439|Jet Park Airport|Mangere|YES|stars_4
+81441|Jucy|Auckland|YES|stars_2
+81442|Admiralty Lodge|Whitianga|NO|stars_5
+81443|Rydges Latimer Christchurch|Christchurch|YES|stars_4
+81444|Quest Invercargill|Invercargill|YES|stars_4
+81446|Blue Peaks Lodge|Queenstown|NO|stars_3
+81448|The Bolton|Wellington|NO|stars_4.5
+81449|Trinity Hotel Wellington|Wellington|NO|stars_3
+83618|Abel Tasman|Wellington|NO|stars_3
+86971|Kiwi International Queen Street|Auckland|YES|stars_2
+87673|Copthorne Grand Central New Plymouth|New Plymouth|NO|stars_4
+87685|Quest on Eden|Auckland|YES|stars_4
+87688|Copthorne Auckland Harbour City|Auckland|YES|stars_4
+87689|Travelodge Wellington|Wellington|YES|stars_4
+87693|Kingsgate Dunedin|Dunedin|YES|stars_3
+87694|Kingsgate Hamilton|Hamilton|NO|stars_3
+87695|Kingsgate Brydone Oamaru|Oamaru|NO|stars_3
+87696|Copthorne Resort Solway Park Wairarapa|Masterton|YES|stars_4
+87697|Copthorne Hotel Palmerston North|Palmerston North|YES|stars_3
+87698|Kingsgate Whangarei|Whangarei|NO|stars_3
+88751|Museum Art Hotel|Wellington|YES|stars_4
+88882|Auckland Harbour Oaks|Auckland|YES|stars_4
+88883|Auckland City Oaks|Auckland|YES|stars_4
+88892|Oaks iStay on Cashel|Christchurch|YES|stars_4
+88894|Oaks Shores|Queenstown|YES|stars_4
+88938|Countrytime|Omarama|NO|stars_2
+88954|Quest Parnell|Auckland|YES|stars_4
+88955|Quest on Cintra Lane|Auckland|NO|stars_4
+88956|Quest Atrium|Wellington|YES|stars_4
+88957|Quest on Lambton|Wellington|NO|stars_4
+88963|Gilmer Apartment|Wellington|NO|stars_4
+88966|CityLife Wellington|Wellington|YES|stars_4
+88971|Quest Taupo|Taupo|NO|stars_4
+89032|Millennium Hotel & Resort Manuels Taupo|Taupo|NO|stars_4
+89189|Ibis Auckland Ellerslie|Auckland|YES|stars_3
+89315|Amora Lake Resort Okawa Bay|Rotorua|YES|stars_4
+91567|Braemar Lodge|Hanmer Springs|NO|stars_5
+91737|SilverOaks On Thorndon|Wellington|YES|stars_3
+91738|Allenby Park|Manukau City|YES|stars_3
+91739|Silver Oaks Resort Heritage|Rotorua|YES|stars_3
+91741|So|Christchurch|YES|stars_3
+91742|Rosewood Court Motel|Christchurch|YES|stars_3.5
+91744|Silver Oaks Inn Silver Point|Mangere|YES|stars_3
+91781|Sofitel Auckland Viaduct Harbour|Auckland|YES|stars_5
+92138|Russell Cottages|Russell|YES|stars_4
+93103|Paihia|Paihia|YES|stars_3
+93368|Trinity Wharf Tauranga|Tauranga|YES|stars_4
+93369|White Island Rendezvous|Whakatane|NO|stars_4
+93964|Distinction|Rotorua|YES|stars_4
+94063|Raetihi Lodge|Picton|NO|stars_4
+95673|The Quadrant Auckland|Auckland|YES|stars_4
+95891|Flagstaff Lodge|Russell|NO|stars_5
+96173|The Waterfront Suites|Paihia|NO|stars_5
+96511|The Farm At Cape Kidnappers|Hawke's Bay|NO|stars_5
+96788|Heartland Hotel Auckland Airport|Auckland|YES|stars_3
+96790|Aspen Court Motel Kaikoura|Kaikoura|NO|stars_4
+96791|Picton Yacht Club Hotel|Picton|NO|stars_3
+96792|The Crown|Napier|NO|stars_4
+96793|Grand Mercure Nelson Monaco|Nelson|NO|stars_4
+98455|Oaks Club Resort|Queenstown|YES|stars_4
+98456|Grand Chancellor Auckland City|Auckland|YES|stars_4
+98457|Leisure Inn Wellington|Wellington|NO|stars_3
+99411|Hilton Lake Taupo|Taupo|NO|stars_5
+99470|The Peace & Plenty Inn|Auckland|NO|stars_5
+99472|Queenstown House|Queenstown|NO|stars_4
+99473|Cathedral Inn|Nelson|NO|stars_4
+99536|Quay West Suites Auckland|Auckland|YES|stars_5
+100496|Hotel 115|Christchurch|NO|stars_4
+100508|Larnach Lodge at Larnach Castle|Dunedin|YES|stars_4
+100510|Base Backpackers Taupo|Taupo|YES|stars_2.5
+104175|Ashburton|Ashburton|NO|stars_3
+104500|Best Western Acapulco Motor Inn|Taupo|NO|stars_4
+104501|Accolade Lodge Motel|Rotorua|NO|stars_3.5
+104513|Econo Lodge Alcala|Dunedin|NO|stars_3
+104540|Best Western Annabelle Court Motel|Christchurch|NO|stars_4
+104551|Argyle on the Park|Christchurch|NO|stars_3
+104605|Belmont Motor Inn|Christchurch|YES|stars_0
+104623|Best Western Braeside Resort|Rotorua|NO|stars_3
+104636|Asure Bush Inn Court Motel|Christchurch|NO|stars_4
+104642|Camelot Motor Lodge|Christchurch|NO|stars_4
+104646|Econo Lodge Canterbury Court|Christchurch|NO|stars_3
+104652|Casa Bella Motel|Paihia|NO|stars_3
+104707|Asure Armada Motor Inn|Oamaru|NO|stars_3
+104721|Copperfield Seaside Motel|Paraparaumu|NO|stars_3
+104723|Best Western Coronation Park|Ashburton|NO|stars_4
+104728|Best Western Cranbury Court|Queenstown|NO|stars_4
+104769|Diplomat Motel Christchurch|Christchurch|NO|stars_3
+104800|Best Western Ellerslie International Motor Inn|Auckland|NO|stars_3
+104825|Best Western Capri Court Motor Inn|Rotorua|NO|stars_3.5
+104841|ASURE Fountain Resort Motel|Nelson|NO|stars_3
+105055|Masterton Motor Lodge|Masterton|NO|stars_4
+105092|Mount Richmond|Auckland|NO|stars_4
+105113|Opononi|Opononi|NO|stars_3
+105243|The Victoria Dunedin|Dunedin|NO|stars_3
+105259|Shining Star Lodge Chalets|Hokitika|NO|stars_4
+105260|Shortland Court Motel|Thames|NO|stars_4
+105274|Comfort Inn Southern Cross|Hamilton|NO|stars_3
+105276|Spanish Lady Motel|Napier|YES|stars_3
+105297|Best Western Sundowner Motel|Blenheim|NO|stars_4
+105309|Comfort Inn Tayesta|Invercargill|NO|stars_3
+105519|Brentwood|Wellington|NO|stars_3
+106208|Comfort Inn Melbourne Motor Lodge|Queenstown|YES|stars_3
+106243|Comfort Inn Parpararumu|Paraparaumu|NO|stars_3
+107102|Fitzherbert Court Motel|Hokitika|NO|stars_1.5
+107103|Flag Inn Lomond Lodge|Queenstown|NO|stars_4
+107110|Flag Inn Sails Motor Lodge|Taupo|YES|stars_3
+107196|Garden Court Suites and Apartments|Queenstown|NO|stars_4
+109404|Novotel Tainui Hamilton|Hamilton|NO|stars_4
+109481|On Devonport|Tauranga|YES|stars_4
+109821|Quality Inn Angus|Lower Hutt|YES|stars_3
+109833|Quality Inn Collegiate|Wanganui|YES|stars_3
+110183|Ashley Christchurch|Christchurch|NO|stars_3
+111268|Wellesley Boutique Hotel|Wellington|NO|stars_4
+111647|West Plaza|Wellington|NO|stars_3.5
+111810|The Surrey|Auckland|NO|stars_3
+124836|Sea Spray Suites|Paihia|NO|stars_4
+124837|Arrowfield Apartments|Queenstown|YES|stars_5
+124838|Wanaka Edge Suites|Wanaka|YES|stars_4
+129740|Econo Lodge City Central|Auckland|NO|stars_2.5
+129743|Scenic Suites Christchurch|Christchurch|NO|stars_4
+129745|Quality Hotel Emerald|Gisborne|NO|stars_4
+129749|Peppers Beacon|Queenstown|NO|stars_5
+129751|Distinction Te Anau Hotel & Villas|Te Anau|YES|stars_4
+132862|Airport Gateway|Mangere|YES|stars_3
+132865|Towers On The Park|Christchurch|YES|stars_3.5
+132867|The Brothers|Dunedin|NO|0
+132870|The Ambassador Motel|Hamilton|NO|stars_3
+132872|Ascot Park|Invercargill|NO|stars_4
+132876|Sennen House|Picton|NO|stars_4.5
+132877|Alta Apartments|Queenstown|NO|stars_4
+132878|SilverOaks Gwendoline Court Motel|Rotorua|YES|stars_2.5
+132879|Quality Inn Lake Taupo|Taupo|NO|stars_4
+132880|Armitage|Tauranga|NO|stars_3.5
+132882|Maple Lodge|Wanaka|YES|stars_4.5
+134308|Comfort Inn & Suites Coachman|Rotorua|YES|stars_4
+135433|Quest Dunedin|Dunedin|YES|stars_4
+136070|The Sanctuary|Opua|NO|stars_5
+136381|Rendezvous Christchurch|Christchurch|YES|stars_4
+136382|Decks of Paihia|Paihia|NO|stars_4
+136386|Wanaka Springs Lodge|Wanaka|NO|stars_4
+136477|Nomads Auckland Backpackers|Auckland|YES|stars_2
+137013|Mantra Lake Tekapo|Lake Tekapo|NO|stars_4
+137209|Quality Wellington|Wellington|YES|stars_4.5
+137324|Leisure Lodge Motor Inn|Nelson|NO|stars_3
+137367|Peppers Parehua Country Estate|Martinborough|NO|stars_5
+137370|D'Urville|Blenheim|NO|stars_4
+137388|Auckland's Waitakere Estate|Waiatarua|NO|stars_4
+137661|Holiday Inn Auckland Airport|Mangere|YES|stars_4.5
+138138|The Westhaven|Fox Glacier|NO|stars_4
+138353|The Rees Hotel & Luxury Apartments|Queenstown|NO|stars_5
+138363|Auckland City - Hobson Street|Auckland|YES|stars_4
+138387|The Fairways Apartments|Kaikoura|NO|stars_4
+138535|The Godley|Lake Tekapo|NO|stars_3
+138922|Geneva Motor Lodge|Rotorua|NO|stars_4
+139221|Quest Auckland Apartment|Auckland|YES|stars_4
+139222|Apollo Rotorua|Rotorua|NO|stars_4
+139825|Te Waonui Forest Retreat|Franz Josef Glacier|NO|stars_5
+139826|Stewart Island Lodge|Stewart Island|NO|stars_2
+139881|The Resurgence|Abel-Tasman-Nationalpark|NO|stars_5
+139884|Heritage Heights Apartments|Queenstown|NO|stars_4
+139885|WorldMark South Pacific Club by Wyndham Rotorua|Rotorua|NO|stars_4
+139957|Aotea Motor Lodge|Wanganui|NO|stars_4
+139959|Admirals View Lodge|Paihia|NO|stars_4
+139961|Beechtree Suites, Taupo|Taupo|NO|stars_4
+139962|Lodge Bordeaux|Whangarei|NO|stars_5
+139963|Terrace Heights Apartments|Wellington|NO|stars_3.5
+139964|Terra Vive Luxury Lodge|Christchurch|NO|stars_4
+139966|Broadway Motel|Picton|NO|stars_4
+139967|Queenstown Motel Apartments|Queenstown|NO|stars_4
+140141|Comfort Inn & Suites Newton 121|Auckland|YES|stars_3
+140142|Esplanade Residences by Heritage|Queenstown|YES|stars_4
+143399|58 on Cron Motel|Franz Josef Glacier|NO|stars_4
+145271|Fletcher Lodge|Dunedin|NO|stars_4
+159888|Anglesea Motel|Hamilton|NO|stars_4
+159892|Aspire Cranford Oak|Christchurch|NO|stars_4.5
+159897|Asure Evergreen Motel|Invercargill|NO|stars_3
+159900|Avenue Motor Lodge|Christchurch|NO|stars_3
+159906|Best Western 555 on Bayview|Dunedin|NO|stars_4
+159908|Best Western Clyde On Riccarton Motel|Christchurch|YES|stars_4
+159909|Best Western Great South Road Motor Lodge|Auckland|NO|stars_4
+159920|Best Western Hygate Motor Lodge|Hamilton|NO|stars_4
+159921|Best Western Wellington|Wellington|NO|stars_4
+159927|Best Western BKs Pioneer Motor Lodge|Mangere|NO|stars_4
+159929|Blue Pacific Quality Apartments|Paihia|NO|stars_4
+159939|Barclay Suites Auckland|Auckland|NO|stars_4
+159944|Edgewater Palms / Ramada Suites Pahia|Paihia|NO|stars_4.5
+159946|Comfort Carlton Mill|Christchurch|NO|stars_3
+159952|Explorer Motel & Apartments|Te Anau|NO|stars_2.5
+159957|Country Comfort Chelsea Park Motor Lodge|Nelson|NO|stars_4
+159958|Castles Motel|Nelson|NO|stars_4
+159963|Durham Motor Inn|Tauranga|YES|stars_4
+159974|Flag Fiordland|Te Anau|NO|stars_2.5
+160006|Azur|Queenstown|NO|stars_5
+160011|City Lodge Accommodation|Auckland|NO|stars_5
+160038|Harbourside Motor Lodge|Nelson|NO|stars_3
+160080|Karaka Tree Motel|Taupo|YES|stars_4
+160086|Hamilton City Oaks|Hamilton|NO|stars_4
+160091|Mangapapa Petit|Hastings|YES|stars_5
+160095|Marlborough Vintners Hotel|Blenheim|NO|stars_4.5
+160107|Ohtel|Wellington|NO|stars_4
+160112|Parklane Motor Inn|Takapuna|NO|stars_4
+160113|Parklane Motor Lodge|Auckland|YES|stars_4
+160129|Quest Newmarket|Auckland|NO|stars_4
+160131|Quest on The Terrace|Wellington|NO|stars_3.5
+160133|Quest Palmerston North|Palmerston North|NO|stars_4
+160134|Quest Ponsonby|Auckland|NO|stars_4
+160135|Quest Wellington|Wellington|NO|stars_4
+160139|Remarkables Lodge|Queenstown|NO|stars_5
+160162|Tanoa Aspen Queenstown|Queenstown|YES|stars_3
+160164|The Classic Villa|Christchurch|NO|stars_5
+160173|Trentham Motel on the Park|Trentham|NO|stars_3
+160206|Victoria Lodge|Rotorua|NO|stars_3
+160207|Village Accommodation - Boulcott Suites|Wellington|NO|stars_5
+160212|Waipuna & Conference Centre|Auckland|NO|stars_4
+182517|Central Terrace Apartment|Wellington|YES|stars_4
+182519|Kingsgate Wellington|Wellington|YES|stars_3
+182954|Cotter House Luxury Retreat|Auckland|NO|stars_5
+187556|Ibis Hamilton Tainui|Hamilton|NO|stars_3
+187575|ASURE Parklands Motorlodge|Turangi|NO|stars_3
+187901|Highview Apartments|Queenstown|NO|stars_4
+188107|Hurley's of Queenstown|Queenstown|YES|stars_4
+201676|Gulf Harbour Lodge|Auckland|YES|stars_3
+201678|Queenstown Park Boutique|Queenstown|YES|stars_5
+201679|Gateway Apartments Queenstown|Queenstown|YES|stars_3.5
+201680|Nomads Queenstown|Queenstown|YES|stars_3
+201681|Base Backpackers Wanaka|Wanaka|YES|stars_3
+201682|Vintners Retreat Resort|Marlborough Sounds|NO|stars_5
+201868|Novotel Christchurch Cathedral Square|Christchurch|YES|stars_4
+201962|Highland Peaks|Dunedin|NO|stars_4
+202271|Bed of Roses|Kerikeri|NO|stars_5
+202272|Poets Corner Lodge|Coromandel|NO|stars_3
+202274|Waiteti Lakeside Lodge|Rotorua|NO|stars_3
+202275|Rough & Tumble Bush Lodge|Westport|NO|stars_4
+202360|Ahuru Lodge|Tongariro National Park|NO|stars_5
+202362|Nautilus Napier|Napier|NO|stars_5
+202363|Torrent Bay Lodge|Abel-Tasman-Nationalpark|NO|stars_4
+202364|Bronte Country Estate|Nelson|NO|stars_5
+202365|City Central Motel Apartments|Christchurch|NO|stars_4
+202372|Holly Homestead B&B|Franz Josef Glacier|NO|stars_4
+202407|Abel Tasman Marahau Lodge|Abel-Tasman-Nationalpark|NO|stars_3
+202566|Ibis Styles Auckland|Auckland|NO|stars_3
+203156|The Glebe Apartments|Queenstown|NO|stars_4.5
+203157|Tresori Motor Lodge|Akaroa|NO|stars_3
+203198|Victoria Suites|Hamilton|NO|stars_3
+203199|St Martins Waldorf Apartment|Auckland|YES|stars_4
+203576|De Brett|Auckland|NO|stars_5
+203577|Elm Tree House|Christchurch|NO|stars_5
+203581|Tiritiri Lodge|Wanaka|NO|stars_5
+203791|Abbey Motor Lodge|Christchurch|NO|stars_3
+203892|Admiral Creighton Bed and Breakfast|Kaikoura|NO|stars_4
+204027|Airport Manor Inn|Auckland|NO|stars_3
+204028|Airport Travel Air|Mangere|NO|stars_3
+204039|Akaroa Cottages|Akaroa|NO|stars_4
+204518|Amber Lodge|Queenstown|NO|stars_3
+204963|Apartments @ Spinnaker Bay|Queenstown|NO|stars_4
+205078|Apple Motor Inn|Hastings|NO|stars_3
+205241|Arrowtown House Boutique|Arrowtown|YES|stars_4
+205273|Arthotel The Great Ponsonby|Auckland|NO|stars_3.5
+205293|Ascot Epsom Motel|Auckland|NO|stars_3
+205545|Austin Heights Quality Bed & Breakfast|Kaikoura|NO|stars_4
+205798|Ballina Motel|Napier|NO|stars_4
+205823|Bankside Waldorf Apartments|Auckland|NO|stars_3
+205906|Baystay Bed and Breakfast|Paihia|NO|stars_3
+206034|Bella Vista Motel & Apartments|Christchurch|NO|stars_3
+206204|Bianco Off Queen|Auckland|YES|stars_4
+206557|Browns Boutique|Queenstown|NO|stars_4
+207141|Central Gold Motel Cromwell|Cromwell|NO|stars_4
+207178|CentrePoint on Colombo|Christchurch|NO|stars_4
+207215|Chalet Eiger|Taupo|NO|stars_5
+207520|Clive Motel|Hawke's Bay|NO|stars_3
+207579|Colonial Lodge Motel|Taupo|NO|stars_4
+207737|Coronetview Deluxe B&B And Apartments|Queenstown|NO|stars_3.5
+207798|Country Glen Lodge|Christchurch|NO|stars_4
+208481|Dorset House Backpackers / Dorset Apartments|Christchurch|NO|stars_4
+208640|Earnslaw Lodge|Queenstown|NO|stars_3
+208691|Eden Park Bed And Breakfast Inn|Auckland|NO|stars_4
+209275|Fitzherbert Castle Motel|Palmerston North|NO|stars_3.5
+209283|540 Motel On Great South|Auckland|YES|stars_4
+209996|Distinction Wellington Century City Hotel|Wellington|NO|stars_4
+210260|Harbour City Motor Inn|Wellington|NO|stars_3
+210370|Heartland Croydon|Gore|NO|stars_3
+212081|Kerikeri Homestead Motel & Apartments|Kerikeri|NO|stars_4
+213805|Mantra Marina|Queenstown|NO|stars_5
+214418|Nautilus Resort|Paihia|NO|stars_4
+215071|Park View Motor Lodge|Hamilton|NO|stars_3
+215092|Parkview On Hagley|Christchurch|NO|stars_4
+215696|Pounamu Apartments|Queenstown|NO|stars_5
+216414|Proximity Apartments|Manukau City|YES|stars_4
+216455|Quality Hotel Barrycourt|Auckland|NO|stars_3.5
+216497|Quest Carlaw Park|Auckland|NO|stars_4
+216498|Quest New Plymouth|New Plymouth|NO|stars_4
+218020|Sherborne Motor Lodge|Christchurch|NO|stars_4
+218224|Southern Comfort Motel|Christchurch|NO|stars_4
+218338|Stadium Waldorf Apartments|Auckland|YES|stars_4
+218741|Tetra Waldorf Serviced Apartments|Auckland|NO|stars_4
+219846|Tudor Court Motor Lodge|Auckland|NO|stars_4
+220041|Ventura Inn & Suites Hamilton|Hamilton|NO|stars_3
+220093|Victoria Railway Hotel & Gerrard's Restaurant|Invercargill|NO|stars_3
+220229|Villa Del Lago|Queenstown|NO|stars_4.5
+220587|Wai Ora Lakeside Spa Resort|Rotorua|NO|stars_4
+220709|Westport Motels|Westport|NO|stars_3
+220710|Econo Lodge Westshore Beach|Napier|NO|stars_3
+220905|YMCA Christchurch|Christchurch|NO|stars_2
+223162|Raglan Sunset Motel|Raglan|NO|stars_3
+223177|Rayland Motel|Manukau City|NO|stars_4
+223589|The Nautilus Orewa|Orewa|NO|stars_4
+223792|Waitomo Lodge Motel|Otorohanga|NO|stars_4
+227220|Peppers Bluewater Resort|Lake Tekapo|NO|stars_4
+229117|Bella Vista Motel Hamilton|Hamilton|NO|stars_3.5
+229118|Bella Vista Motel Greymouth|Greymouth|NO|stars_3
+229120|Bella Vista Motel Gisborne|Gisborne|NO|stars_4
+229121|Bella Vista Motel Franz Josef Glacier|Franz Josef Glacier|NO|stars_4
+229122|Bella Vista Motel Dunedin|Dunedin|NO|stars_4
+229123|Bella Vista Motel Ashburton|Ashburton|NO|stars_4
+229124|Bella Vista Motel Invercargill|Invercargill|NO|stars_3
+229125|Bella Vista Motel Blenheim|Blenheim|NO|stars_3.5
+229126|Bella Vista Motel Hanmer Springs|Hanmer Springs|NO|stars_4
+229127|Adorian Motel|Christchurch|NO|stars_3
+229128|Aden|Te Anau|NO|stars_3
+229129|Bella Tuscany on Kennedy|Napier|NO|stars_3.5
+229130|Central Gateway|Cromwell|NO|stars_3
+229131|Aneden|Hokitika|NO|stars_3
+229132|Ahuriri Motel|Omarama|NO|stars_3
+229133|Akaroa Criterion Motel|Akaroa|NO|stars_3
+229134|Oaktree Motel|Auckland|NO|stars_3
+229135|Beachfront Hokitika|Hokitika|NO|stars_3
+229138|Willowbank Motel|Kaikoura|NO|stars_3
+230067|Airport Gold Star Motel|Mangere|NO|stars_3.5
+230076|Livingspace Invercargill|Invercargill|NO|stars_3
+230078|Mataki Motel|Murchison|NO|stars_4
+230079|Northgate Motor Lodge|New Plymouth|NO|stars_4
+230081|Chalet Queenstown|Queenstown|NO|stars_4
+230083|Historic Stone House|Queenstown|NO|stars_4
+230085|Falls Chateau|Taupo|NO|stars_4
+230212|Bella Vista Motel Rotorua|Rotorua|NO|stars_3
+230213|Brylin Motel|Rotorua|NO|stars_3
+230216|Taylors Motel|Ashburton|NO|stars_4
+230221|Christchurch Motel|Christchurch|NO|stars_3
+230222|Cranford Court Motel|Christchurch|NO|stars_3
+230225|Greenacres Motel|Hanmer Springs|NO|stars_3
+230228|Parklands Motor Lodge|Timaru|NO|stars_3
+230230|Townhouse Motel|Timaru|NO|stars_3
+230231|Bella Vista Motel Palmerston North|Palmerston North|NO|stars_3
+230234|Comfort Inn Kauri Court|Palmerston North|NO|stars_3
+230239|Aldan Lodge Motel|Picton|NO|stars_3.5
+230390|Motueka Garden Motel|Motueka|NO|stars_3
+230395|The Moorings Apartments|Picton|NO|stars_3
+230398|Colonial Motel|Blenheim|NO|stars_3.5
+230399|Commodore Court Motel|Blenheim|NO|stars_3
+230400|Bella Vista Motel Nelson|Nelson|NO|stars_4
+230401|Bella Vista Motel Whangarei|Whangarei|NO|stars_3
+230405|Acacia Lodge Mangonui|Mangonui|NO|stars_3
+230406|Motel Six|Whangarei|NO|stars_3
+230461|Bella Vista Motel Oamaru|Oamaru|NO|stars_4
+230465|Bella Vista Motel Queenstown|Queenstown|NO|stars_4
+230472|Bella Vista Motel Wanaka|Wanaka|NO|stars_3.5
+230487|Alpine Motel|Oamaru|NO|stars_3
+230503|Arrowtown Viking Lodge Motel|Arrowtown|NO|stars_3
+230559|Bella Vista Motel Taupo|Taupo|NO|stars_3
+230565|Bella Vista Motel Te Anau|Te Anau|NO|stars_3.5
+230568|Bella Vista Motel New Plymouth|New Plymouth|NO|stars_3
+230570|Bella Vista Motel Wellington|Wellington|NO|stars_3
+230574|Bella Vista Motel Westport|Westport|NO|stars_4
+230579|Balmoral Motel|Invercargill|NO|stars_3.5
+230580|Kapiti Gateway Motel|Kapiti Island|NO|stars_4
+230581|Buller Bridge Motel|Westport|NO|stars_3.5
+230582|Glacier View Motel|Franz Josef Glacier|NO|stars_3
+230584|Charles Court Motel|Greymouth|NO|stars_3.5
+230585|Carisbrook Motel|Dunedin|NO|stars_3
+230586|Manapouri Lakeview Motor Inn|Manapouri|NO|stars_3
+230587|Anchorage Motel|Te Anau|NO|stars_3.5
+232245|Hagley Park Motel|Christchurch|NO|stars_3
+232247|Windsor Court Motel|Christchurch|NO|stars_3
+232248|Ohakune Court Motel|Ohakune|NO|stars_3
+232249|404 On Trafalgar|Nelson|NO|stars_4
+232250|Averill Court Motel|Paihia|NO|stars_4
+232571|Sudima Auckland Airport|Auckland|NO|stars_4
+232795|Allegra House|Paihia|NO|stars_4
+232796|Waipoua Forest Lodge|Dargaville|NO|stars_5
+232797|Lake Timara Lodge|Marlborough Sounds|NO|stars_3
+232916|Bella Vista Mosgiel|Dunedin|NO|stars_3
+233532|Ocean Beach Motor Lodge|Gisborne|NO|stars_4
+233535|Riverside Matakana|Warkworth|NO|stars_5
+233536|Waves Motel|Orewa|NO|stars_4
+233566|Beachpoint Apartments|Whakatane|NO|stars_4
+233567|Airport Christchurch Motel|Christchurch|NO|stars_4
+233568|Cashel Apartments|Christchurch|NO|stars_4
+233569|Bruce Apartments|Akaroa|NO|stars_4
+233570|Kaikoura Waterfront Apartments|Kaikoura|NO|stars_4
+233742|Distinction Nugget Point|Queenstown|NO|stars_4.5
+234327|Quest Napier|Napier|NO|stars_4
+235487|Base Backpackers Rotorua|Rotorua|YES|stars_2
+235547|Regent of Rotorua|Rotorua|NO|stars_5
+235574|Oreti Village Resort|Taupo|NO|stars_4
+235577|Tussock Peak|Hanmer Springs|NO|stars_4
+235579|Ashleigh Court Motel|Christchurch|NO|stars_3
+235580|Apartments on the Waterfront|Picton|NO|stars_4
+235581|The Ambers|Silverdale|NO|stars_3
+235582|Quest Henderson|Auckland|NO|stars_4
+235583|Ambassador Motor Inn|Tauranga|NO|stars_4
+235584|Executive on Fenton|Rotorua|NO|stars_4
+236677|Celestion Waldorf Apartments Complex|Auckland|NO|stars_4
+236682|Franz Alpine Retreat|Franz Josef Glacier|NO|stars_4
+236685|Breakwater Apartments|Napier|NO|stars_4
+236688|Antonio's Motor Lodge|Christchurch|NO|stars_3.5
+237087|Gothic Heights|Christchurch|NO|stars_2
+237088|St. James B&B|Christchurch|NO|stars_3.5
+237326|Marina Park Apart|Whitianga|NO|stars_4
+237327|Highfield Mews|Oamaru|NO|stars_4
+237328|Lake Brunner Apartments|Moana|NO|stars_4
+237329|Fox Alpine Retreat|Fox Glacier|NO|stars_4
+239320|Westport Motor|Westport|NO|stars_3
+239325|Novotel Auckland Airport|Auckland|NO|stars_4
+239331|Hamurana Lodge|Rotorua|NO|stars_5
+239332|Lemon Tree Lodge|Kaikoura|NO|stars_4
+239335|The Park Travellers' Lodge|Tongariro National Park|NO|stars_3
+239339|Waimahana Apartments|Taupo|NO|stars_4
+239342|Suncourt Hotel & Conference Centre|Taupo|NO|stars_4
+239343|Alma Motel|Wanganui|NO|stars_3
+239344|Hilton Queenstown|Queenstown|NO|stars_5
+239346|Reavers Lodge|Queenstown|NO|stars_3
+239348|Ballinor Motor Inn|Hamilton|NO|stars_3
+239351|Bay Motel|Stewart Island|NO|stars_3
+240275|Auckland Takapuna Oaks|Auckland|NO|stars_5
+240278|Airport Gateway Motor Lodge|Christchurch|NO|stars_4
+240279|St Clair|Dunedin|NO|stars_4
+240280|747 Motel Wellington|Wellington|NO|stars_3
+240445|Belle Bonne Motel|Christchurch|NO|stars_3
+240463|Central Ridge Boutique|Queenstown|NO|stars_5
+240466|Kawarau by Hilton|Queenstown|NO|stars_4
+240470|Adrian Motel|Dunedin|NO|stars_3.5
+240472|Aberdeen Motel|Dunedin|NO|stars_3
+240636|Cable Court Motel|Dunedin|NO|stars_4
+240637|Alpine Resort Wanaka|Wanaka|NO|stars_4
+242315|Bella Vista Motel Fox Glacier|Fox Glacier|NO|stars_3
+242318|Bella Vista Motel Napier|Napier|NO|stars_4
+242319|Discovery Settlers|Whangarei|NO|stars_3
+243087|Akaroa Village Inn|Akaroa|NO|stars_2
+243093|Braemar On Parliament Street|Auckland|NO|stars_3.5
+243099|The Esplanade|Auckland|NO|stars_4
+243104|Takatu Lodge & Vineyard|Matakana|NO|stars_5
+243105|Bethells Beach|Waitakere|NO|stars_4
+243106|Breakfast On The Beach|Auckland|NO|stars_5
+243107|Seafields|Whitford|NO|stars_4.5
+243110|Waiheke Island Resort|Waiheke Island|NO|stars_3.5
+243114|Onetangi Beach Apartments|Waiheke Island|NO|stars_4
+243117|Delamore Lodge|Waiheke Island|NO|stars_5
+243119|Avalon Resort|Kerikeri|NO|stars_4
+243124|Titore Lodge|Russell|NO|stars_4.5
+243129|Pawhaoa Bay Lodge|Hikurangi|NO|stars_5
+243135|Hananui Lodge and Apartments|Russell|NO|stars_3
+243136|Ounuwhao Harding House|Russell|NO|stars_3.5
+243147|Stonehaven Homestay|Blenheim|NO|stars_5
+243148|Gunyah Country Estate|Glenroy|NO|stars_5
+243150|Forest Lodge Methven|Methven|NO|stars_3
+243168|River Birches|Turangi|NO|stars_5
+243170|Tongariro Lodge|Turangi|NO|stars_4
+243175|298 Westside Motor Lodge|Christchurch|NO|stars_4
+243176|Airport Delta Motel|Christchurch|NO|stars_3.5
+243177|Airport Lodge Motel|Christchurch|NO|stars_3.5
+243183|Roma on Riccarton Luxury Motel|Christchurch|NO|stars_4
+243187|West Fitzroy Apartments|Christchurch|NO|stars_4
+243199|Waihi Beach Lodge|Waihi Beach|NO|stars_4
+243200|Blake Court Motel|Whangamata|NO|stars_4
+243206|Beachfront Resort - Mercury Bay|Whitianga|NO|stars_4
+243209|Mussel Bed B&B|Whitianga|NO|stars_4
+243210|Oceans Resort Whitianga|Whitianga|NO|stars_4
+243215|Camp Estate|Dunedin|NO|stars_4
+243220|High Peaks Hotel|Fox Glacier|NO|stars_4
+243221|Misty Peaks|Fox Glacier|NO|stars_4
+243224|Franz Josef Glacier Country Retreat|Franz Josef Glacier|NO|stars_3
+243225|Rainforest Retreat|Franz Josef Glacier|NO|stars_4
+243229|Breakers Boutique Accommodation|Greymouth|NO|stars_4
+243232|Sarnia Park Boutique Lodge|Cambridge|NO|stars_5
+243235|Clear Ridge Apartments|Hanmer Springs|NO|stars_5
+243237|Village Motel|Hastings|NO|stars_4
+243239|Glen Aros Country Estate|Hastings|NO|stars_5
+243240|Hawthorne Country House|Hastings|NO|stars_4
+243247|Rimu Lodge|Hokitika|NO|stars_3
+243252|Bendamere House Bed & Breakfast|Kaikoura|NO|stars_4
+243255|Nikau Lodge|Kaikoura|NO|stars_4
+243258|Lochmara Lodge|Marlborough Sounds|NO|stars_4
+243260|Lake View Homestay|Pukaki|NO|0
+243263|Mountain Chalet Motels|Twizel|NO|stars_3
+243269|Cambria House|Nelson|NO|stars_4
+243273|Kershaw House|Nelson|NO|stars_4
+243274|Muritai Manor|Nelson|NO|stars_4
+243275|Parkside Motel|Nelson|NO|stars_4
+243276|Shelbourne Villa|Nelson|NO|stars_5
+243279|Edenhouse|Motueka|NO|stars_5
+243280|Almyra At Kina|Nelson|NO|stars_5
+243281|Atholwood|Nelson|NO|stars_5
+243289|The Old Oak Boutique Hotel|Mangonui|NO|stars_4
+243292|Cavalli Beach House|Kerikeri|NO|stars_5
+243294|Brantome Villa|Whangarei|NO|stars_5
+243297|Pen-y-bryn Lodge|Oamaru|NO|stars_5
+243303|BreakFree The Waterfront|Queenstown|NO|stars_4
+243305|Evergreen Lodge|Queenstown|NO|stars_5
+243306|St James Apartments|Queenstown|NO|stars_4
+243308|Commonage Villas|Queenstown|NO|stars_5
+243312|Regal Palms 5 Star City Resort|Rotorua|NO|stars_5
+243320|The Pillars Retreat|Taupo|NO|stars_4
+243322|Comfort Inn Cascades|Taupo|NO|stars_4
+243323|Courtney Motel|Taupo|NO|stars_3
+243339|Lakefront Lodge|Te Anau|NO|stars_4
+243340|Radfords Lakeview Motel|Te Anau|NO|stars_4
+243345|Tekapo Heights|Lake Tekapo|NO|stars_4
+243347|The Summit Lodge|Masterton|NO|stars_5
+243357|Lakeside Serviced Apartments|Wanaka|NO|stars_5
+243362|The Moorings|Wanaka|NO|stars_4
+243370|Birds Ferry Lodge|Charleston|NO|stars_4
+244200|Quality Hotel Lincoln Green|Henderson|NO|stars_3
+244201|Comfort Benvenue|Timaru|NO|stars_3
+244202|Fairley Motor Lodge|Napier|NO|stars_3.5
+245242|Beach Hideaway|Greymouth|NO|stars_4
+245248|Murrells Grand View House|Manapouri|NO|stars_2
+245249|Cosy Kiwi Bed & Breakfast|Te Anau|NO|stars_2.5
+245253|Te Puna Wai Lodge|Nelson|NO|stars_4
+245262|A Great View Bed & Breakfast|Wellington|NO|stars_4
+245268|Bluestone On George|Dunedin|NO|stars_5
+245277|Ardara Lodge|Kaikoura|NO|stars_2.5
+245289|Pebble Beach Motor Inn|Napier|NO|stars_4.5
+245294|Palazzo Motor Lodge|Nelson|NO|stars_5
+245297|Charming Creek Bed & Breakfast|Westport|NO|stars_4
+245306|Bali Hai Motel|Paihia|NO|stars_4
+245307|Kapiti Court Motel|Paraparaumu|NO|stars_3.5
+245314|Esk Valley Lodge|Napier|NO|stars_4
+245317|Ann's Volcanic Rotorua Motel|Rotorua|NO|stars_3.5
+245319|Commodore's Lodge Motel|Russell|NO|stars_4.5
+245325|Fern Motel|Napier|NO|stars_4
+245326|Taupo De Bretts Spa Resort|Taupo|NO|stars_5
+245337|Cherry Court Motor Lodge|Whangarei|NO|stars_3
+245340|Havelock House|Hastings|NO|stars_4
+245363|Terrace Motel|Franz Josef Glacier|NO|stars_4
+245382|Eliza's Manor On Bealey|Christchurch|NO|stars_4
+245391|Hamilton Airport Motor Inn|Hamilton|NO|stars_3
+245392|Jade Court Motor Lodge|Hokitika|NO|stars_3
+245395|Matakana House Motel|Matakana|NO|stars_3
+245396|Brinkley Resort|Methven|NO|stars_4
+245397|De Lorenzos Studio Apartments|Nelson|NO|stars_5
+245402|10 Cottages|Franz Josef Glacier|NO|stars_3
+245414|Harbour View Motor Lodge|Napier|NO|stars_4
+245421|Captain Eady's Lookout|Dunedin|NO|stars_4
+245428|Tresco Rotorua B&B|Rotorua|NO|stars_4
+245431|Family Motel At Camilla Court|Taupo|NO|stars_3
+245432|Cobblestone Court Motel|Tauranga|NO|stars_3
+245438|Asure Brookvale Motel|Wanaka|NO|stars_3.5
+245441|Braemar House Bed & Breakfast|Wanganui|NO|stars_3
+247228|Balmoral Motel|Nelson|NO|stars_3
+247266|Six on Union Motel|Rotorua|NO|stars_3
+247267|Ski Time Restaurant Lodge|Methven|NO|stars_4
+248772|Mount Cook Alpine Lodge|Mount Cook National Park|NO|stars_4
+249647|Bealey Avenue Motel|Christchurch|NO|stars_4
+249933|Comfort Inn & Suites Kudos|Mangere|NO|stars_3
+250059|Aylstone|Martinborough|NO|stars_4
+266756|Azena Motels|Christchurch|NO|stars_4
+266757|Merivale Manor Motel|Christchurch|NO|stars_4.5
+266758|Salerno Motel Apartments|Christchurch|NO|stars_5
+266759|Central Park Motor Lodge|Christchurch|NO|stars_4
+266760|Avalon Court Accommodation|Christchurch|NO|stars_3
+266761|Ashford Motor Lodge|Christchurch|NO|stars_4
+266762|Lorenzo Motor Lodge|Christchurch|NO|stars_4
+266763|Strathern Motor Lodge|Christchurch|NO|stars_4
+266764|Casino Court Motor Lodge|Christchurch|NO|stars_3.5
+266765|Colombo in the City|Christchurch|NO|stars_5
+266766|City Centre Motel|Christchurch|NO|stars_4
+266768|Addington City Motel|Christchurch|NO|stars_3
+266770|Dyers House|Christchurch|NO|stars_5
+266772|Amore Motor Lodge|Christchurch|NO|stars_4
+266773|Earnslaw Motel|Christchurch|NO|stars_3
+266774|Garden City Motel|Christchurch|NO|stars_3
+266775|Le Petit Hotel|Christchurch|NO|stars_3
+266776|Aalton Motel|Christchurch|NO|stars_3
+266777|Arthur's Court Motor Lodge|Christchurch|NO|stars_5
+266778|Racecourse Backpackers Hostel|Christchurch|NO|stars_2
+266781|Amity Lodge Motel|Queenstown|NO|stars_4
+266782|The B and B on the Hill|Queenstown|NO|stars_3
+266783|Coronation Lodge|Queenstown|NO|stars_4
+266784|5 Star Lane B&B|Queenstown|NO|stars_4.5
+266785|Manata Lodge Luxury Serviced Apartments|Queenstown|NO|stars_5
+266786|Queenstown Country Lodge|Queenstown|NO|stars_5
+266787|Kinloch Lodge - Backpacker|Glenorchy|NO|stars_3
+269780|Off Broadway Motel|Auckland|NO|stars_4
+269781|Boulevard Hotel|Auckland|NO|stars_4
+269782|Bavaria Bed & Breakfast Hotel|Auckland|NO|stars_3
+269783|ASURE AT Eden Park|Auckland|NO|stars_4
+269784|Surf 'N' Snow Backpackers - Hostel / Backpacker|Auckland|NO|stars_3
+269785|Auckland Newmarket Motel|Auckland|NO|stars_4
+269786|Royal Park Lodge|Auckland|NO|stars_4
+269787|Sai Motels - Greenlane Auckland|Auckland|NO|stars_3
+269792|Adventure Lodge & Motel|Tongariro National Park|NO|stars_3
+269794|RotoVegas Motel|Rotorua|NO|stars_4
+269796|Silver Fern Accommodation & Spa|Rotorua|NO|stars_5
+269797|Rotorua Motor Lodge|Rotorua|NO|stars_3
+269798|MALFROY Motor Lodge|Rotorua|NO|stars_4
+269799|Ledwich Lodge Motel|Rotorua|NO|stars_3
+269801|Sport of Kings|Rotorua|NO|stars_4
+269803|Asure Palm Court Motor Inn|Rotorua|NO|stars_4
+269805|Arista of Rotorua|Rotorua|NO|stars_4
+269806|Lake Lodge|Rotorua|NO|stars_3
+269807|Grand Hotel Rotorua|Rotorua|NO|stars_3
+269808|Astray Motel & Backpackers|Rotorua|NO|stars_3
+269809|YHA Rotorua - Backpacker|Rotorua|NO|stars_5
+269810|Fairy Springs Motel|Rotorua|NO|stars_3
+269811|All Seasons Holiday Park|Rotorua|NO|stars_4
+269812|Nicara Lakeside Lodge|Rotorua|NO|stars_5
+269814|YHA Wellington City - Backpacker|Wellington|NO|stars_5
+269816|Ascot Motor Lodge|Wellington|NO|stars_3
+269817|Villa Melina Boutique B&B|Wellington|NO|stars_5
+269818|Collingwood Manor|Nelson|NO|stars_4
+269819|Arcadia Motel|Nelson|NO|stars_4
+269820|Cedar Grove Motor Lodge|Nelson|NO|stars_4
+269821|A Culinary Experience Luxury Bed and Breakfast|Nelson|NO|stars_5
+269824|Ambleside Luxury Bed & Breakfast|Nelson|NO|stars_4
+269826|Boutique Motel|Nelson|NO|stars_4
+269827|Apartments Paradiso|Nelson|NO|stars_4
+269828|A Woodsy House|Nelson|NO|stars_3.5
+269830|YHA Te Anau|Te Anau|NO|stars_4
+269831|Te Anau Top 10 Holiday Park|Te Anau|NO|stars_5
+269832|Parklands Motel|Te Anau|NO|stars_3
+269834|Edgewater Te Anau Motel|Te Anau|NO|stars_3
+269835|Te Anau Lakeview Holiday Park|Te Anau|NO|stars_4
+269837|YHA Mount Cook|Mount Cook National Park|NO|stars_4
+271551|Colonial on Tay Motel|Invercargill|NO|stars_3
+271552|Monarch Motel|Invercargill|NO|stars_4
+271553|Coromandel TOP 10 Holiday Park|Coromandel|NO|stars_4
+271554|Why Worry Bed & Breakfast|Coromandel|NO|stars_4
+271555|Gables Motor Lodge|Greymouth|NO|stars_4
+271556|Paroa Hotel|Greymouth|NO|stars_3
+271557|Woodlands Motels and Apartments|Dunedin|NO|stars_3
+271558|97 Motel Moray|Dunedin|NO|stars_3
+271559|Leith Valley Motels & Holiday Park|Dunedin|NO|stars_5
+271560|Roslyn Apartments|Dunedin|NO|stars_4
+271564|ASURE Dunedin Academy Court Motels|Dunedin|NO|stars_3.5
+271566|Executive Motel|Taupo|NO|stars_4
+271567|Gables Motor Lodge|Taupo|NO|stars_3.5
+271568|Anchorage Resort Motel|Taupo|NO|stars_4
+271570|Chantillys Motor Lodge|Taupo|NO|stars_4
+271572|Lake Taupo Motor Inn|Taupo|NO|stars_4
+271574|Baycrest Lodge|Taupo|NO|stars_4
+271575|YHA Wanaka - Backpacker|Wanaka|NO|stars_4
+271576|Lake Wanaka Villas at Hertiage Village Country Resort|Wanaka|NO|0
+271577|Alpine Motel Apartments|Wanaka|NO|stars_3
+271578|Lake Wanaka Lodge|Wanaka|NO|stars_4
+271580|Peak-Sportchalet|Wanaka|NO|stars_4
+271582|Clearbrook Motel And Serviced|Wanaka|NO|stars_4
+271583|Wanaka Luxury Apartments|Wanaka|NO|stars_5
+271584|Fairway Motel and Apartments|Wanaka|NO|stars_3
+271585|Alpine View Lodge|Wanaka|NO|stars_4
+272957|193 Aorangi Manor Motel - Backpacker|Blenheim|NO|stars_3
+272958|Blenheim Spa Motor Lodge|Blenheim|NO|stars_4
+272959|Two Tree Lodge|Blenheim|NO|stars_4
+272961|Knightsbridge Court Motor Lodge|Blenheim|NO|stars_4
+272965|ASURE Annabelle Motel|Hokitika|NO|stars_4
+272966|252 Beachside Motels & Holiday Park|Hokitika|NO|stars_3
+272968|Beachcomber Motel|Kaikoura|NO|stars_3
+272969|The Dome|Napier|NO|stars_5
+272970|Marineland Motel|Napier|NO|stars_4
+272971|At The Rocks Motor Lodge|Napier|NO|stars_4
+272974|Lisa Rose Motel|Napier|NO|stars_4
+272975|Cedar Court Motel|Napier|NO|stars_3
+272976|Asure Colonial Lodge Motel|Napier|NO|stars_4
+272977|Fountain Court Motor Inn|Napier|NO|stars_3.5
+272980|Albatross Motel|Napier|NO|stars_4
+272981|City Close Motel|Napier|NO|stars_3
+272982|Pukekura Motor Lodge|New Plymouth|NO|stars_4
+272984|The Chalets at Okurukuru|New Plymouth|NO|stars_4
+272985|Belt Road Seaside Holiday Park|New Plymouth|NO|stars_4
+272986|Carrington Motel|New Plymouth|NO|stars_3
+272987|Tirimoana House|Picton|NO|stars_2
+273527|Motel Russell|Russell|NO|stars_3
+273528|Triton Suites Motel|Russell|NO|stars_4
+274288|Woodlands Motel & Conference Venue|Kerikeri|NO|stars_3
+274289|Landing Cottage B&B|Kerikeri|NO|stars_4
+274290|The Georgian Lodge|Kerikeri|NO|stars_4
+274291|Treghan Cottage|Kerikeri|NO|stars_4
+274292|Orchid Grove Country Lodge|Kerikeri|NO|stars_4
+274293|Abbey House|Kerikeri|NO|stars_4
+274294|Puketotara Lodge|Kerikeri|NO|stars_4
+274295|Moon Gate Villa|Kerikeri|NO|stars_4
+274296|Kerikeri Park Motel|Kerikeri|NO|stars_4
+274297|Kauri Park Motel|Kerikeri|NO|stars_4
+274298|88 Lodge|Kerikeri|NO|stars_4
+274697|Lakeview Tekapo|Lake Tekapo|NO|stars_4
+274756|The Chalets Motel|Hanmer Springs|NO|stars_4
+274757|The St James|Hanmer Springs|NO|stars_5
+274759|Amuri Estate Retreat|Hanmer Springs|NO|stars_5
+274760|Aspen Lodge Motel|Hanmer Springs|NO|stars_4
+274761|Settlers Motel|Hanmer Springs|NO|stars_5
+275254|Asure Alfresco Motor Lodge|Gisborne|NO|stars_4
+275255|Eastland Motor Lodge|Gisborne|NO|stars_3
+275256|Ahi Kaa|Gisborne|NO|stars_4
+275323|The Arrow Private Hotel|Arrowtown|NO|stars_4
+275324|Crawfords|Arrowtown|NO|stars_4
+275325|ASURE Adcroft Motel|Ashburton|NO|stars_3
+275380|Cambridge Coach House|Cambridge|NO|stars_4
+275691|151 on London|Wanganui|NO|stars_4
+275693|Anndion Lodge - Backpacker|Wanganui|NO|stars_5
+275694|Astral Motel|Wanganui|NO|stars_3
+275959|Omahu Motor Lodge|Hastings|NO|stars_4
+276090|Grosvenor Motor Inn & Conference Centre|Hamilton|NO|stars_3
+276091|Sudima Hamilton|Hamilton|NO|stars_4
+276093|Aspen Manor Motel|Hamilton|NO|stars_4
+276094|Beetham Park Motel|Hamilton|NO|stars_4
+276096|289 Midway Motel|Oamaru|NO|stars_3
+276098|Cornwall Motor Lodge|Palmerston North|NO|stars_4
+276099|B-K's Palmerston North Motor Lodge|Palmerston North|NO|stars_5
+276101|Shadzz Motel & Conference Centre|Palmerston North|NO|stars_4
+276102|Harringtons Motor Lodge|Palmerston North|NO|stars_4
+276104|Big Five Motel|Palmerston North|NO|stars_4
+276105|ASURE Colonial Court Motel & Conference Centre|Palmerston North|NO|stars_3
+276106|AB Studio|Palmerston North|NO|stars_4
+276107|Hotel Coachman|Palmerston North|NO|stars_4
+276108|Burgundy Rose Motel|Whangarei|NO|stars_3
+276110|Lupton Lodge|Whangarei|NO|stars_4
+276235|Mediterranean Resort|Tauranga|NO|stars_3
+276236|Seascape Villa Bed & Breakfast|Tauranga|NO|stars_4
+276237|Asure Macy's Motor Inn|Tauranga|NO|stars_4
+276398|Equestrian Lodge Motel|Motueka|NO|stars_4
+276595|Northerner|Kaitaia|NO|stars_3
+276596|Walmsley Lodge Motel|Mangere|NO|stars_3
+276597|Auckland Airport Lodge|Mangere|NO|stars_4
+276599|Abisko Lodge|Methven|NO|stars_3
+276601|RiverSong Cottages|Murchison|NO|stars_3
+276602|Lake Rotoroa Lodge|Murchison|NO|0
+276603|Tudor Manor Bed & Breakfast|Paraparaumu|NO|stars_4
+276604|Wrights By The Sea|Paraparaumu|NO|stars_4
+276605|Cotswold Cottage|Thames|NO|stars_4
+276606|Asure Ashley Motor Lodge|Timaru|NO|stars_4
+276608|Settlers Motel|Turangi|NO|stars_3
+276609|Judges Pool Motel|Turangi|NO|stars_3
+276941|Pisa Range Lake Resort|Cromwell|NO|stars_5
+276942|Boulcott Lodge|Lower Hutt|NO|stars_4
+276943|83 By the Sea Motor Lodge|Lower Hutt|NO|stars_4
+277149|Stratford Heritage Lodge - Backpacker|Stratford|NO|stars_4
+277336|Abri Apartments|Paihia|NO|stars_4
+277337|Anchorage|Paihia|NO|stars_3.5
+277338|Aarangi Tui Motel|Paihia|NO|stars_3
+277339|Dolphin Motel|Paihia|NO|stars_4
+277340|Waiora Apartments|Paihia|NO|stars_4
+277341|Swiss Chalet Lodge Motel|Paihia|NO|stars_4
+277345|At Parkland Place|Whitianga|NO|stars_3.5
+277346|Pipi Dune Bed & Breakfast|Whitianga|NO|stars_3
+277347|Sovereign Pier on the Waterways|Whitianga|NO|stars_5
+277348|Asure Camelot Arms Motor Lodge|Manukau City|NO|stars_4
+277350|Ruapehu Mountain Motel & Lodge|Ohakune|NO|stars_3
+277407|Aspen Court Motel Taihape|Taihape|NO|stars_4
+277970|Purple-der House Accommodation|Christchurch|NO|stars_3
+277971|Christchurch Top 10 Holiday Park|Christchurch|NO|stars_4
+277972|Designer Cottage B&B|Christchurch|NO|stars_3
+277973|Amross Court Motor Lodge|Christchurch|NO|stars_4
+277974|Alpine Apartments|Queenstown|NO|stars_4
+277975|Element Escapes|Queenstown|NO|stars_4
+277976|Larch Hill Bed & Breakfast|Queenstown|NO|stars_3.5
+277977|Alexis Motels & Apartments|Queenstown|NO|stars_4
+277978|Amour Queenstown Bed and Breakfast|Queenstown|NO|stars_4
+279213|Quest on Hobson|Auckland|NO|stars_4
+279214|Alexander Inn|Auckland|NO|stars_4
+279217|Quality Inn On Fenton|Rotorua|NO|stars_3
+279218|Santa Maria Motel|Rotorua|NO|stars_3
+279219|Tuscany Villas, Rotorua|Rotorua|NO|stars_4
+279220|Astelia Lodge|Rotorua|NO|stars_4
+279221|City Lights Boutique Lodge|Rotorua|NO|stars_4
+279223|Lodge in the City - Backpacker|Wellington|NO|stars_2
+279225|Adelaide Motel|Wellington|NO|stars_2.5
+279226|City Cottages|Wellington|NO|stars_3
+279227|Acorns Wellington|Wellington|NO|stars_4
+279228|Abelia Motor Lodge|Nelson|NO|stars_4
+279229|Arran Motel|Te Anau|NO|stars_4
+279230|Glacier Gateway Motels|Franz Josef Glacier|NO|stars_3
+279511|Invercargill Top 10 Holiday Park|Invercargill|NO|stars_4
+279513|Farrys Motel|Dunedin|NO|stars_4
+279514|Commodore Motels|Dunedin|NO|stars_4
+279515|Alpine Lake Motor Lodge|Taupo|NO|stars_4
+279516|Oasis Beach Resort|Taupo|NO|stars_4
+279517|Kauri Point Homestay|Taupo|NO|stars_5
+279518|Lake Hawea Hotel|Wanaka|NO|stars_4
+279519|Criffel Peak View B&B and Apartment|Wanaka|NO|stars_3.5
+280191|Antria Boutique Lodge|Blenheim|NO|stars_4
+280192|Alpine View Motel|Kaikoura|YES|stars_3
+280193|Kaikoura Boutique|Kaikoura|NO|stars_4
+280194|Bluewater Hotel|Napier|NO|stars_4
+280195|Art Deco Masonic Hotel|Napier|NO|stars_4
+280196|Anchorage Motor Lodge|Napier|NO|stars_4
+280197|Navigate Seaside Accommodation|Napier|YES|stars_4
+280198|Timandra Motel|New Plymouth|NO|stars_3
+280199|Landmark Manor Motel|New Plymouth|NO|stars_4
+280201|Okiwa Bay Lodge|Picton|NO|stars_4
+280203|Jasmine Court Travellers Inn|Picton|NO|stars_4
+280994|Bellrock Lodge|Russell|NO|stars_5
+281270|Colonial House Motel|Kerikeri|NO|stars_3
+281271|Kerikeri Court Motel|Kerikeri|NO|stars_4
+281953|Annerleigh Luxury Bed & Breakfast|Hanmer Springs|NO|stars_4
+281954|Hanmer Springs TOP 10 Holiday Park|Hanmer Springs|NO|stars_4
+282209|Captain Cook Motor Lodge|Gisborne|NO|stars_4
+282210|Teal Motor Lodge|Gisborne|NO|stars_4
+282211|Champers Motor Lodge|Gisborne|NO|stars_3.5
+282420|Willowbrook B&B and Cottages|Queenstown|NO|stars_3
+282531|Huntington Stables|Cambridge|NO|stars_5
+282532|Riverside of Cambridge|Cambridge|NO|stars_3
+282734|Kings Court Motel|Wanganui|NO|stars_4
+283029|Cottages On St Andrews|Havel North|NO|stars_4
+283471|Arena Court Motor Lodge|Hamilton|NO|stars_4
+283472|The Aquarius Motor Inn|Hamilton|NO|stars_3
+283473|Country Comfort Alcamo Hotel & Conference Centre|Hamilton|NO|stars_3
+283474|Quest Hamilton|Hamilton|NO|stars_4
+283475|Oamaru Motor Lodge|Oamaru|NO|stars_4
+283477|Econo Lodge The Villas|Palmerston North|NO|stars_3
+283582|Alton Lodge Motel|Whakatane|NO|stars_3
+284028|Auckland Airport Kiwi Motel|Mangere|NO|stars_2.5
+284031|Anchor Motel & Timaru Backpackers|Timaru|NO|stars_2.5
+284577|Cromwell Motel|Cromwell|NO|stars_3
+284579|Warkworth Lodge|Warkworth|NO|stars_3
+284599|Enclosure Bay|Waiheke Island|NO|stars_4
+284759|By the Bay Beachfront Apartments|Mangonui|NO|stars_4
+284798|Westhaven Luxury Lodge|Collingwood|NO|stars_4
+284805|Waoku Lodge|Raglan|NO|stars_5
+286042|Leisure Inn Rotorua|Rotorua|NO|stars_4
+286043|Brandon Village|Wellington|NO|stars_3
+286044|Grand Mercure Wellington Central City|Wellington|NO|stars_4
+286045|Quest on Johnston|Wellington|NO|stars_4
+286047|Palms Motel|Nelson|NO|stars_4
+287258|Shoreline Motel|Napier|NO|stars_4
+292364|Albany Rosedale Motel|Auckland|NO|stars_4
+292365|Fernz Lodge and Conference Centre|Auckland|NO|stars_4
+292366|Bucklands Beach Waterfront Motel|Auckland|NO|stars_3.5
+292367|Botany Motor Inn|Auckland|NO|stars_3
+292368|Academy at Botany Motor Inn|Auckland|NO|stars_3
+292369|Point View House|Auckland|NO|stars_4
+292370|Albany Fairview Heights Bed & Breakfast|Auckland|NO|stars_3
+292371|Dannemora Motor Inn|Auckland|NO|stars_4
+292372|Hobson Motor Inn|Auckland|NO|stars_4
+292373|Howick Motor Lodge|Auckland|NO|stars_3
+292374|Poenamo Hotel|Auckland|NO|stars_4
+292375|Ocean Inn Motel|Auckland|NO|stars_4
+292376|Aristotles North Shore|Auckland|NO|stars_4
+292378|Silverstream Retreat|Wellington|NO|stars_4
+292380|Totara Lodge|Wellington|NO|stars_4
+292383|The Mudcastle|Upper Moutere|NO|stars_4
+292516|Tangiaro Kiwi Retreat|Port Charles|NO|stars_4
+292519|Acacia Cliffs Lodge|Taupo|NO|stars_5
+292520|Tauhara Sunrise Lodge|Taupo|NO|stars_5
+292729|Olde Millhouse B&B & Cycle Hire|Blenheim|NO|stars_4
+292731|The Factory|Kaikoura|NO|stars_5
+292732|Punga Cove|Picton|NO|stars_4
+294674|Ash Grove Boutique Motel|Paihia|NO|stars_4
+294675|Cook's Lookout Motel|Paihia|NO|stars_3.5
+294748|Hillside Hotel|Waikato|NO|stars_4
+294749|Manor Views|Waikato|NO|stars_4
+294750|Somersal Bed & Breakfast|Waikato|NO|stars_4
+294776|Oak Lane Lodge|Bay Of Plenty|NO|stars_4
+294777|The Terraces Oceanbeach|Bay Of Plenty|NO|stars_3
+294778|Bay Palm Motel|Bay Of Plenty|NO|stars_4
+294779|Te Aroha Holiday Park and Hot Pools|Bay Of Plenty|NO|stars_3
+295424|Glentanner Park Centre|Glentanner|NO|stars_4
+298190|Kaikoura Gateway Motor Lodge|Kaikoura|NO|stars_4
+298689|Barcelona Motel|Taupo|NO|stars_3
+298698|Aoraki Lodge|Twizel|NO|stars_3
+299425|161 The Hereford|Christchurch|NO|stars_4
+299428|Pohara Beachfront Motel|Pohara|NO|stars_3
+299454|Greenmantle Estate|Paraparaumu|NO|stars_3
+299460|Orongo Bay Homestead|Russell|NO|stars_4
+299631|Flaxhaven Lodge|Whitianga|NO|stars_5
+299890|Metropolitan Executive Motel Apartments|Christchurch|NO|stars_4
+314921|Northcote Motor Lodge Christchurch|Christchurch|NO|stars_3.5
+317403|Abaco On Jervois|Auckland|NO|stars_3.5
+317405|City Towers Apartments Auckland|Auckland|NO|stars_3.5
+317407|Traveller's International Hotel|Mangere|NO|stars_3
+317410|Ace Motor Lodge Rotorua|Rotorua|NO|stars_2.5
+317412|Emerald Spa Resort|Rotorua|NO|stars_4
+317414|Birchwood Spa Motel Rotorua|Rotorua|NO|stars_4
+317435|Amber Court Motor Lodge Nelson|Nelson|NO|stars_4
+320013|Amross Motel|Dunedin|NO|stars_4
+320018|Leviathan Heritage|Dunedin|NO|stars_2
+320022|Absolute Lake View Motel|Taupo|NO|stars_3
+320026|Baywater Motor Inn|Taupo|NO|stars_4
+320028|Clearwater Motor Lodge|Taupo|NO|stars_4
+320030|Silver Fern Lodge Taupo|Taupo|NO|stars_3
+329252|Classic Motel|Hamilton|NO|stars_3
+329257|Ashwood Manor|Hamilton|NO|stars_4
+329258|Lake Point Motel|Hamilton|NO|stars_3
+329623|Fothergills on Mimiha|Whakatane|NO|stars_4
+334342|Outrigger Motel Paihia|Paihia|NO|stars_3
+359732|Alpin Motel Rotorua|Rotorua|NO|stars_4
+363524|Accent on Taupo Motor Lodge|Taupo|NO|stars_4
+363525|Alpine View Motel|Te Anau|NO|stars_3
+363526|Auckland North Shore Motels & Holiday Park|Auckland|NO|stars_4
+363531|Breakwater Motel|Paihia|NO|stars_4
+363536|Chalets @ Terraced Gardens|Motueka|NO|stars_3
+363537|Clear View Bed & Breakfast|Whangaparaoa|NO|stars_3
+363539|Crestwood Bed and Breakfast|Whakatane|NO|stars_3
+363542|Fiordland Lakeview Motel and Apartments|Te Anau|NO|stars_4
+363549|Longhouse Bed and Breakfast|Paihia|NO|stars_3
+363552|Nikau Apartments|Nelson|NO|stars_4
+363567|Sanctuary in the Cove|Mangonui|NO|stars_4
+363578|The Reef Resort|Taupo|NO|stars_4
+363580|Viceroy Hotel, Napier|Napier|NO|stars_3.5
+364137|Broadway Motor Inn|Palmerston North|NO|stars_3
+365591|Wanaka Hotel|Wanaka|NO|stars_3
+367798|Greenlane Manor Motel|Auckland|NO|stars_4
+367799|Quest Albany|Auckland|NO|stars_4
+367801|Quest Rotorua Central|Rotorua|NO|stars_4
+368818|Beachfront Motel|Napier|NO|stars_4
+370658|Stadium Motel|Hamilton|NO|stars_3
+370659|Aubyn Court Motor Lodge|Palmerston North|NO|stars_4
+370728|Quest Tauranga|Tauranga|NO|stars_4
+372933|Torlesse Coastal Motel|Kaiteriteri|NO|stars_4
+391357|Quest on Beaumont|Auckland|NO|stars_3
+391358|Quest Highbrook|Auckland|NO|stars_4
+392175|At Home|Wellington|NO|stars_4
+405222|King & Queen Hotel Suites|New Plymouth|YES|stars_4.5
+410834|Manakau Lodge|Kaikoura|NO|stars_4
+411754|Doubtless Bay Villas|Cable Bay|NO|stars_4.5
+411755|Econo Lodge Cleveland|Rotorua|NO|stars_3.5
+411863|Huka Falls Resort|Taupo|NO|stars_3
+411886|Wylie Court Motor Lodge|Rotorua|NO|stars_4
+411888|Wanaka Haven|Wanaka|NO|stars_5
+411889|The Sounds Retreat|Picton|NO|stars_5
+411890|Aaron Court Motor Inn|Hamilton|NO|stars_3
+411891|The Lofts Apartments|Queenstown|NO|stars_3
+411897|Cheviot Park Motor Lodge|Whangarei|NO|stars_4
+411900|Lake Road Lodge|Rotorua|NO|stars_4
+411926|Parkside Lodge|Greenmeadows|NO|stars_3
+411948|Quest on Thorndon|Wellington|NO|stars_4
+414323|Novotel Auckland Ellerslie|Auckland|NO|stars_4.5

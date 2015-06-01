@@ -1,0 +1,12 @@
+41739|Le Meridien Ile Des Pins|Ile des Pins|YES|stars_5
+41740|Le Meridien Noumea|Noumea|YES|stars_5
+91958|Drehu Village|Lifou|NO|stars_3
+95893|Oure Tera|Ile des Pins|NO|stars_3
+96179|Le Surf|Noumea|NO|stars_3
+96180|Ramada Plaza|Noumea|NO|stars_4
+143405|L'Escapade Island Resort|Îlot Maître|NO|stars_4.5
+202276|Kou Bugny|Ile des Pins|NO|stars_3
+234528|Royal Tera Beach Resort & Spa|Noumea|NO|stars_3
+245196|Paradis d'Ouvea|Fayaoue|NO|stars_3.5
+365585|Hôtel Chateau Royal Beach Resort & Spa|Noumea|NO|stars_4
+405219|Sheraton New Caledonia Deva Resort & Spa|Bourail|YES|stars_4.5

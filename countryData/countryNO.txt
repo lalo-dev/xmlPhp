@@ -1,0 +1,482 @@
+10460|Clarion Admiral|Bergen|YES|stars_4
+10729|Continental|Oslo|YES|stars_5
+12755|Marin|Bergen|YES|stars_4
+12756|First Hotel Millennium|Oslo|YES|stars_4
+17883|Scandic Neptun|Bergen|YES|stars_4
+18042|P-Hotel Oslo|Oslo|YES|stars_3
+19796|Radisson Blu Norge|Bergen|YES|stars_4
+19802|Radisson Blu Plaza Oslo|Oslo|YES|stars_4
+19812|Radisson Blu Royal Bryggen|Bergen|YES|stars_4
+19816|Radisson Blu Scandinavia Oslo|Oslo|YES|stars_4
+19837|Thon Rainbow Europa|Oslo|YES|stars_3.5
+20328|Hotel Scandic Oslo City|Oslo|YES|stars_3
+21194|Scandic Byporten Hotel|Oslo|YES|stars_3
+21197|Scandic Edderkoppen Hotel|Oslo|YES|stars_4
+21200|Hotel Scandic Solli|Oslo|YES|stars_4
+22012|Thon Spectrum|Oslo|YES|stars_3
+29337|Clarion Royal Christiania|Oslo|YES|stars_4
+31945|Birkebeineren Hotel & Apartments|Lillehammer|YES|stars_3
+31946|Radisson BLU Lillehammer|Lillehammer|YES|stars_4
+31951|Gala Hogfjellshotel & Hütten (Hütten, Grend, Lid, Peer Gynt, Fjellgrend)|Gala|NO|stars_3.5
+31954|Bergo|Beitostolen|NO|stars_3
+31955|Bergo Hütten & Appartements|Beitostolen|NO|stars_3
+31956|Radisson Blu Resort Beitostolen|Beitostolen|NO|stars_4
+31958|Hovdestöylen Hotel & Hütten|Hovden I Setesdal|NO|stars_3
+31959|Skarsnuten Fjellandsby Apartments|Hemsedal|NO|stars_3
+31960|Skarsnuten|Hemsedal|NO|stars_4
+31961|Bardøla Høyfjellshotell & Bardøla Hütten|Geilo|NO|stars_4
+32065|Quality Straand Resort|Vradal|NO|stars_3
+32066|Wadahl Hogfjellshotel|Gala|NO|stars_4
+32753|Hotel Scandic Holmenkollen Park|Oslo|YES|stars_4
+32754|Thon Opera|Oslo|YES|stars_4
+33181|Solstrand|Os|NO|stars_4
+34108|Radisson Blu Tromsø|Tromso|YES|stars_4
+34110|Augustin|Bergen|YES|stars_3.5
+34112|Radisson Blu Alesund|Alesund|YES|stars_4
+34113|Scandic Bergen City|Bergen|YES|stars_4
+34114|Scandic Residence|Trondheim|NO|stars_3.5
+34115|Fretheim|Flam|NO|stars_4
+34116|Ullensvang|Lofthus|NO|stars_4
+34118|Ulvik Fjordpensionat|Ulvik|NO|stars_3
+34120|Rondane Spa Høyfjellshotel|Otta|NO|stars_3
+34640|Comfort Holberg|Bergen|YES|stars_3.5
+35246|Vesterland Resort|Kaupanger|NO|stars_2.5
+35247|Gaustablikk Hoyfjellshotel|Rjukan|NO|stars_4
+35249|Vradal Hüttenpark|Vradal|NO|stars_4
+36537|Thon Astoria|Oslo|YES|stars_3
+36620|Best Western Hotel Bondeheimen|Oslo|YES|stars_3
+36684|Thon Bristol|Oslo|NO|stars_4
+36686|Tregde Skagerrak Feriesenter|Tregde|NO|0
+36690|Nyvågar Rorbuhotell|Kabelvåg|NO|stars_3
+36691|Sognefjord Hotell|Leikanger|NO|stars_4
+36692|Quality Gardermoen Airport|Oslo|YES|stars_3.5
+36693|Hotel Scandic Kirkenes|Kirkenes|NO|stars_4
+36694|Thon Hotel Rosenkrantz Oslo|Oslo|NO|stars_4
+38503|Norlandia Geilo|Geilo|YES|stars_3
+38505|Vestlia Resort|Geilo|NO|stars_4
+38508|Molla Sportell|Hemsedal|NO|stars_3
+38509|Skogstad|Hemsedal|NO|stars_3
+38510|Fanitullen|Hemsedal|NO|stars_4
+38513|Quality Hunderfossen|Lillehammer|NO|stars_3
+38515|Nordseter Fjellstue Hotel & Hütten|Nordseter|NO|stars_3
+38517|Austlid Fjellstue|Skeikampen|NO|stars_3
+38519|Trysil Knut|Trysil|NO|stars_3.5
+38632|Pers Hotel|Gol|NO|stars_4
+38835|Gudbrandsgard|Kvitfjell|NO|stars_4
+38836|Quality Resort Hafjell|Lillehammer|NO|stars_3.5
+39261|Best Western Karl Johann|Oslo|NO|stars_3
+39359|Thon Gausdal - geschlossen|Svingvoll|NO|stars_3
+39361|Fefor Hochgebirgshotel & Hütten|Vinstra|NO|stars_3
+39365|Lifjell Feriencenter|Lifjell|NO|0
+40804|Clarion Stavanger|Stavanger|NO|stars_4
+40805|Clarion Collection Grand Bodø|Bodo|NO|stars_3
+40806|Rica Grand Hotel Tromsø|Tromso|NO|stars_3
+40807|Thon Gildevangen|Trondheim|YES|stars_3
+40808|Thon Nordlys|Bodo|NO|stars_4
+40810|Thon Vika Atrium|Oslo|YES|stars_3.5
+40812|Thon Hotel Jolster|Skei|NO|stars_4
+40814|Alexandra|Sande - Loen|NO|stars_4
+40815|Kvikne's|Balestrand|YES|stars_4
+40816|Brakanes|Ulvik|YES|stars_4
+40817|Hotel Union|Geiranger|NO|stars_4
+40818|Quality Hotel & Resort Fagernes|Fagernes|NO|stars_3.5
+40819|Hovi Hütten|Beitostolen|NO|stars_3
+46888|First Hotel Grims Grenka|Oslo|YES|stars_4.5
+47049|Radisson Blu Airport Oslo Gardermoen|Oslo|YES|stars_4
+47055|Grand Oslo|Oslo|YES|stars_5
+47056|Hotel Scandic Helsfyr|Oslo|YES|stars_4
+47074|Thon Triaden|Rasta|NO|stars_4
+47075|Scandic Sjolyst|Oslo|NO|stars_3
+47222|Scandic Bergen Airport|Bergen|YES|stars_3
+47223|Scandic Solsiden Hotel|Trondheim|NO|stars_3
+47277|Thon Cecil|Oslo|YES|stars_3
+47364|Park Inn by Radisson Stavanger Hotel|Stavanger|YES|stars_3.5
+47365|Victoria Stavanger|Stavanger|NO|stars_4
+47366|Radisson Blu Atlantic Stavanger|Stavanger|YES|stars_4
+47367|Radisson Blu Royal Stavanger|Stavanger|YES|stars_4
+49979|Grand Terminus|Bergen|YES|stars_4
+49981|Quality Sogndal|Sogndal|YES|stars_3.5
+49982|Hotel Scandic Forum|Stavanger|NO|stars_3.5
+49983|Britannia|Trondheim|NO|stars_5
+49984|Hotel Scandic Hell|Hell|YES|stars_4
+49985|Fleischer's|Voss|YES|stars_4
+49986|Hotel Scandic Victoria|Lillehammer|NO|stars_4
+50162|Quality Edvard Grieg|Bergen|YES|stars_4
+50163|Anker Hotel|Oslo|YES|stars_3
+50164|Soria Moria|Oslo|YES|stars_4
+50166|Comfort Børsparken|Oslo|YES|stars_3
+50167|First Hotel Alstor|Stavanger|YES|stars_3
+50169|Clarion Collection Grand Olav|Trondheim|NO|stars_4
+50170|Quality Augustin|Trondheim|YES|stars_3.5
+50171|Park Vossevangen|Voss|YES|stars_4
+50172|First Hotel Breiseth|Lillehammer|YES|stars_3
+50668|Thon Bergen Brygge|Bergen|YES|stars_3
+50669|Thon Maritim|Stavanger|NO|stars_3
+50761|Scandic Byparken|Bergen|YES|stars_3
+51232|Clarion Collection Hotel Aurora|Tromso|NO|stars_4
+51241|Comfort Nobel|Molde|YES|stars_3
+51244|Thon Vica Alta|Alta|YES|stars_3
+51245|Rica Hotel Scandinavie|Alesund|NO|stars_3
+51779|Norlandia Trysil Apartments|Trysil|NO|stars_3
+51785|Wildmark Husky Farm|Trysil|NO|0
+51826|Quality Grand Royal|Narvik|NO|stars_4
+51981|Thon Slottsparken|Oslo|YES|stars_3.5
+51995|Thon Gyldenlove|Oslo|YES|stars_3
+52218|Norlandia Royal|Svolvær|NO|stars_1
+52220|Kristiansund|Kristiansund|YES|stars_3
+52871|Nordseter Appartements und Hütten|Nordseter|NO|stars_3
+52872|Appartements Galaseter|Gala|NO|0
+52886|Villmark Lodge|Ljordalen|NO|stars_2
+52896|Rica Travel Hotel|Oslo|NO|stars_3
+52897|Voksenåsen|Oslo|NO|stars_4
+52898|Svinøya Rorbuer|Svolvær|NO|stars_3
+56556|Skjaerbrygga Rorbuhotel|Stamsund|NO|stars_3
+60430|Henningsvær Bryggehotel|Henningsvær|NO|stars_3
+61055|Mones Feriencenter|Mandal|NO|0
+61059|Vengstun Hyttegrend|Eikelandsosen|NO|0
+61063|Dragsvik Fjordhotel|Sognefjord|YES|stars_3
+61148|First Hotel Atlantica|Alesund|YES|stars_3
+61149|Thon Ålesund|Alesund|YES|stars_3
+61155|Hotel Scandic Alta|Alta|NO|stars_4
+64707|Beitostolen Aparthotel|Beitostolen|NO|stars_3
+64923|Clarion Collection Gabelshus|Oslo|NO|stars_3.5
+64931|Thon Rosenkrantz|Bergen|YES|stars_4
+65047|F2|Harstad|YES|stars_3
+65052|Quality Alexandra|Molde|YES|stars_3.5
+65061|Geilolia Holiday - Cabins / Appartements / Geiloholtet|Geilo|NO|stars_3.5
+65063|Trysil|Trysil|YES|stars_3
+65199|Scandic Ålesund Hotel|Alesund|YES|stars_3.5
+65669|Scandic Kristiansand|Kristiansand|YES|stars_3
+66133|Scandic Tromsø Hotel|Tromso|YES|stars_3
+66465|Scandic Asker Hotel|Asker|YES|stars_4
+66467|Scandic Hamar Hotel|Hamar|NO|stars_4
+66468|Thon Hotel Hovik - geschlossen|Oslo|YES|stars_3
+67587|Highland Lodge Hotel|Geilo|NO|stars_4
+67674|Radisson Blu Bodø|Bodo|NO|stars_4
+67691|Radisson Blu Caledonien Kristiansand|Kristiansand|NO|stars_4
+67848|Radisson Blu Haugesund|Haugesund|NO|stars_4
+68210|Orterstolen|Gol|NO|0
+68313|Park Inn by Radisson Haugesund Airport Hotel|Avaldsnes|NO|stars_3
+68401|Radisson Blu Park Oslo|Lysaker|YES|stars_4
+68424|Radisson Blu Nydalen|Nydalen|NO|stars_4
+68430|Rauland Hoyfjellshotell|Rauland|NO|stars_3.5
+68480|Radisson Blu Royal Garden Trondheim|Trondheim|YES|stars_4
+69157|Hotel Scandic Holberg|Oslo|NO|stars_3
+69282|Clarion Collection Bastion|Oslo|YES|stars_4
+69712|Clarion Collection Savoy|Oslo|NO|stars_4
+70576|Rica Park Hotel Sandefjord|Sandefjord|NO|stars_3.5
+70577|Bergstadens Hotel|Røros|NO|stars_3
+70580|Nordfjord Hotel|Nordfjordeid|NO|stars_3
+70581|Hotel Scandic Seilet|Molde|NO|stars_4
+70584|Rica Meyergarden Hotel|Mo i Rana|NO|stars_3.5
+70585|Rica Hotel Kristiansund|Kristiansund|NO|stars_4
+70586|Hotel Norge|Kristiansand|NO|stars_3
+70587|Hotel Scandic Karasjok|Karasjok|NO|stars_3
+70589|Rica Maritim Hotel|Haugesund|NO|stars_3.5
+70590|Hotel Scandic Hammerfest|Hammerfest|NO|stars_4
+70591|Scandic Harstad|Harstad|NO|stars_3
+70592|First Hotel Victoria|Hamar|YES|stars_3
+70593|Dr. Holms|Geilo|NO|stars_4
+70607|Hotel Scandic Bodø|Bodo|NO|stars_4
+70610|Rica Parken Hotel|Alesund|NO|stars_4
+70659|Hotel Scandic Vadsø|Vadsø|NO|stars_3
+70660|Thon Trondheim|Trondheim|YES|stars_3
+70661|Quality Panorama|Trondheim|NO|stars_3.5
+70662|Thon Polar|Tromso|YES|stars_3
+70757|Hotel Scandic Nidelven|Trondheim|NO|stars_3.5
+70758|Hotel Scandic Ishavshotel|Tromso|NO|stars_4
+70939|Comfort Grand Stavanger|Stavanger|NO|stars_3
+71410|Sortland|Sortland - Vesteralen|YES|stars_3
+71412|Vesteralen|Stokmarknes|NO|stars_3
+72331|Clarion Collection With|Tromso|NO|stars_3.5
+72333|Quality Arcticus|Harstad|YES|stars_3.5
+72336|Jarl|Voss|YES|stars_4
+72337|Clarion Oslo Airport|Gardermoen|NO|stars_4
+72338|Rainbow Frogner|Oslo|YES|stars_3
+72340|Thon Munch|Oslo|YES|stars_3
+72341|Best Western Narvik|Narvik|YES|stars_3
+76123|Hotel Scandic Victoria|Oslo|NO|stars_4
+76719|Clarion Collection Hammer|Lillehammer|YES|stars_3.5
+77913|Dovrefjell|Dombås|NO|stars_3
+78877|Thon Terminus|Oslo|YES|stars_3
+80394|Thon Arena|Lillestrom|NO|stars_4
+80395|Quality Hotel Grand Kristiansund|Kristiansund|NO|stars_3.5
+80396|Thon Harstad|Harstad|NO|stars_4
+80397|Hotel Scandic Ringsaker|Furnes|NO|stars_4
+80399|Best Western Baronen|Alesund|NO|stars_3
+80401|Quality Strand Gjovik|Gjovik|NO|stars_4
+80402|Best Western Stav|Hommelvik|NO|stars_3
+80405|Quality Ulstein|Ulsteinvik|NO|stars_3.5
+80407|Best Western Tingvold Park|Steinkjer|NO|stars_4
+80410|Best Western Laegreid|Sogndal|NO|stars_3
+80411|Quality Hotel & Resort Sarpsborg|Sarpsborg|NO|stars_3
+80412|Roros|Røros|NO|stars_3.5
+80414|Norlandia Rognan|Rognan|YES|stars_4
+80416|Nordlansia Otta Hotell|Otta|YES|stars_3
+80419|Quality Oppdal|Oppdal|NO|stars_3
+80420|Norlandia Telemark|Notodden|NO|stars_3
+80424|Norlandia Lyngengarden|Mosjoen|YES|stars_3
+80425|Best Western Maloy|Maloy|NO|stars_3
+80429|Best Western Horten|Horten|NO|stars_3
+80433|Scandic Sunnfjord Hotel & Spa|Førde|NO|stars_3.5
+80436|Revsnes|Byglandsfjord|NO|stars_3
+80438|Laerdal Feriepark|Laerdal|NO|stars_3
+80745|Spitsbergen Hotel|Longyearbyen|NO|stars_3.5
+80747|Vestfjord|Svolvær|NO|stars_3
+80748|Clarion Collection Havnekontoret|Bergen|NO|stars_4
+84318|Sandviken Brygge|Bergen|NO|stars_3
+85628|Clarion Ernst|Kristiansand|YES|stars_4
+85629|Comfort Skagerak|Kristiansand|YES|stars_3
+88005|Thon Bergen Airport|Bergen|YES|stars_4
+88006|Thon Bristol Bergen|Bergen|YES|stars_3
+88054|Thon Oslofjord|Sandvika|YES|stars_4
+88057|Thon Ski|Ski|NO|stars_4
+88682|Quality Airport Stavanger|Sola|NO|stars_3.5
+90586|Fossheim|Lom|NO|stars_3
+90822|Hafjell Hotel & Appartements|Hafjell|NO|stars_3
+91791|Best Western Chesterfield|Trondheim|NO|stars_3
+91831|Quality Saga|Tromso|NO|stars_3
+91834|Quality Tonsberg|Tønsberg|NO|stars_3
+91835|Quality Hotel & Resort Vøringsfoss|Eidfjord|NO|stars_3
+92038|Hotell Geiranger|Geiranger|NO|stars_3
+92804|Clarion Collection Atlantic|Sandefjord|NO|stars_3
+92891|Anker Brygge|Svolvær|NO|stars_3.5
+92894|Thon Gardermoen|Gardermoen|YES|stars_3
+93323|Best Western Hordaheimen|Bergen|NO|stars_3
+93348|Thon Hammerfest|Hammerfest|YES|stars_3
+93352|Rica Park Hotel, Drammen|Drammen|NO|stars_3
+93353|First Hotel Ambassadeur|Drammen|YES|stars_4
+93365|Kinsarvik Fjordhotel|Kinsarvik|NO|stars_4
+93366|First Hotel Solborg|Mandal|YES|stars_3
+93774|Thon Oslo Airport|Gardermoen|NO|stars_4
+96610|Sola Strand|Sola|YES|stars_3
+96612|Lysebu|Oslo|NO|stars_5
+96617|Dalen|Dalen|NO|stars_5
+96618|Bardshaug Herregard|Orkanger|YES|stars_4
+96620|Kong Carl|Sandefjord|NO|stars_3.5
+96621|Losby Gods|Lorenskog|NO|stars_4
+96623|Fru Haugans|Mosjoen|YES|stars_4
+96655|Loenfjord|Sande - Loen|NO|stars_3
+97081|Comfort Grand|Gjovik|NO|stars_3
+97082|Comfort Ringerike|Hønefoss|NO|stars_3
+102392|Quality 33|Oslo|YES|stars_4
+103145|Clarion Collection Bryggen|Alesund|YES|stars_3.5
+103146|Clarion Collection Bakeriet|Trondheim|NO|stars_3
+103147|Statles Rorbusenter|Mortsund|NO|stars_3
+103533|Carlton Oslo|Oslo|YES|stars_3
+104194|Astoria|Kristiansund|NO|stars_3
+104911|Best Western Havly|Stavanger|NO|stars_3
+105098|Best Western Neptun|Haugesund|NO|stars_3
+105300|Best Western Svolvaerl Lofoten|Svolvær|NO|stars_3
+105392|Best Western West|Oslo|NO|stars_3
+105913|Clarion Bergen Airport|Bergen|NO|stars_4
+105916|Clarion Collection Amanda|Haugesund|NO|stars_3
+105918|Clarion Collection Bryggeparken|Skien|NO|stars_3
+105931|Clarion Collection Tollboden|Drammen|NO|stars_3.5
+105949|Clarion Tyholmen|Arendal|NO|stars_3.5
+106346|Comfort Park|Trondheim|NO|stars_3
+106707|Det Hanseatiske|Bergen|NO|stars_4
+107514|Hardanger|Otta|NO|stars_3
+108196|Kjobmandsgaarden|Mandal|NO|stars_3
+108638|Maritiml AS|Tønsberg|NO|stars_3
+109171|Moss|Moss|NO|stars_3
+109769|Quality & Spa Holmsbu|Hurum|NO|stars_3
+109805|Quality Floro|Florø|NO|stars_3
+109806|Thon Hotel Forde|Førde|NO|stars_3
+109877|Quality Olavsgaard|Skedsmo|NO|stars_3
+109903|Quality Skaergarden|Langesund|NO|stars_3
+110067|Reisafjord|Storslett|NO|stars_3
+110747|Hotel Scandic Stavanger Forus|Stavanger|NO|stars_4
+110854|Skagen|Bodo|NO|stars_3
+110855|Skagen Brygge|Stavanger|NO|stars_3.5
+110990|St. Olav|Sarpsborg|NO|stars_2
+111327|Molla|Lillehammer|YES|stars_3
+111432|Tvedestrand Fjordhotel|Tvedestrand|NO|stars_3
+122822|Pers Resort|Gol|NO|stars_3
+122866|Nermo|Hafjell|NO|stars_3
+124829|Saga Hotel Oslo|Oslo|NO|stars_3.5
+132811|Bergen Travel Hotel|Bergen|YES|stars_3
+132818|Grande Fjord|Geiranger|NO|stars_3.5
+132824|Best Western Raftevolds|Kjos - Hornindal|NO|stars_3
+132826|Rica Dyreparken Hotel|Kristiansand|NO|stars_3
+132830|Scandic Syv Søstre|Sandnessjøen|NO|stars_3
+132833|Hotel Scandic Stavanger Park|Stavanger|NO|stars_3.5
+132835|Stranda|Stranda|NO|stars_3
+132838|Rica Havna Hotel|Tjøme|NO|stars_4
+132839|Singsaker Sommerhotell|Trondheim|NO|stars_2
+134913|Quality Airport Vaernes|Trondheim|NO|stars_3.5
+134915|Quality Astoria|Hamar|NO|stars_3
+134917|Quality Grand|Kongsberg|NO|stars_3.5
+134918|Quality Grand|Steinkjer|NO|stars_3
+134919|Quality Grand Farris|Larvik|NO|stars_3
+134921|Quality Kristiansand|Kristiansand|NO|stars_3
+134922|Quality Residence|Sandnes|NO|stars_3
+134934|Hotel Scandic Gardermoen|Jessheim|NO|stars_3
+134935|Quality Klubben|Tønsberg|NO|stars_4
+135315|Klaekken|Hønefoss|NO|stars_4
+136583|Kronen Gaard Hotell|Stavanger|YES|stars_4
+137524|Grand Bellevue|Andalsnes|NO|stars_3
+138139|Fauske Hotell|Fauske|NO|stars_3
+139394|Rica City Hotel, Fredrikstad|Fredrikstad|NO|stars_3
+139395|Rica Hotel Grimstad|Grimstad|NO|stars_3.5
+139400|Stord Hotell|Stord|NO|stars_3
+143409|Furuholmen Ferienanlage|Lindesnes|NO|0
+159880|Active Cabin|Nøtterøy|YES|stars_3
+159891|Arendal Herregaard Spa & Resort|Faervik|NO|stars_4
+159904|Bardufosstun|Malselv|YES|stars_0
+159922|Best Western Kampen Apartment|Oslo|YES|stars_4
+159932|Byrkjedalstunet|Dirdal|NO|stars_3
+159950|Comfort Trondheim|Trondheim|NO|stars_3
+159954|Concept Gamla Vaerket|Sandnes|YES|stars_4
+159973|Fjellro Turisthotel|Fjora - Valldal|NO|stars_3
+159979|Gardermoen B&B|Gardermoen|NO|stars_3
+160008|Brosundet|Alesund|NO|stars_4
+160066|Sverre|Sandnes|YES|stars_4
+160069|Vic - Porsgrunn|Porsgrunn|YES|stars_0
+160075|Skytterhuset|Hammerfest|YES|stars_0
+160079|Jaeren|Bryne|YES|stars_4
+160094|Maritim Fjordhotell|Flekkefjord|YES|stars_3
+160098|Mosjoen|Mosjoen|YES|stars_0
+160101|Myhregaarden|Stavanger|YES|stars_4
+160109|Park Halden|Halden|YES|stars_3
+160110|Park Alta|Alta|YES|stars_0
+160111|Arendal Maritime|Arendal|NO|stars_3
+160136|Quality Fredrikstad|Fredrikstad|NO|stars_3.5
+160137|Radisson Blu Resort Trysil|Trysil|NO|stars_4
+160142|Rica Kirkenes|Kirkenes|NO|stars_3
+160154|Smarthotel Forus|Sandnes|NO|stars_3
+160159|Stiklestad Park|Verdal|NO|stars_3
+160170|Thon Lofoten|Svolvær|NO|stars_4
+160171|Tjeldsundbrua Kro & Hotell|Skånland|YES|stars_3
+160208|Vinger & Spa|Kongsvinger|YES|stars_0
+160213|Westland Hotel - Lindas|Lindås|YES|stars_0
+160219|St. Svithun Hotell|Stavanger|NO|stars_3
+183104|Voss Resort|Voss|NO|0
+187380|Anker Apartment|Oslo|YES|stars_2
+187561|Mitt|Moss|YES|stars_3
+196338|Vangslia Fjelltun Apartments|Oppdal|NO|stars_3.5
+202283|Comfort Florø|Florø|NO|stars_3
+202970|Veslestølen Hyttegrend|Hemsedal|NO|0
+202976|Hovdehytta|Hovden I Setesdal|NO|stars_3.5
+203072|Rosfjord Strandhotel|Lyngdal|NO|stars_4
+203076|Quality Resort & Spa Norefjell|Noresund|NO|stars_4
+203083|Tregde Feriesenter|Mandal|NO|0
+204048|Akershave Apartments|Oslo|NO|0
+207436|City Living Tromsø|Tromso|NO|stars_3
+207437|City Living Schøller|Trondheim|NO|stars_3
+207488|Clarion Collection Folketeateret|Oslo|NO|stars_3.5
+207608|City Living Hotel Lipp|Trondheim|NO|stars_3
+207611|Comfort RunWay|Gardermoen|NO|stars_3
+207612|Comfort Union Brygge|Drammen|NO|stars_3
+209513|Gardermoen Airport Hotel|Gardermoen|NO|stars_3
+209718|Gaustad|Oslo|NO|stars_3
+211496|First Hotel Kristiansand|Kristiansand|NO|stars_3
+211746|InCity Hotel & Apartments|Bergen|NO|stars_3
+214551|Nordkapp Vandrerhjem Hostel|Honningsvag|NO|stars_2
+218414|Steens|Bergen|NO|stars_3
+219651|Thon Ullevaal Stadion|Oslo|NO|stars_4
+220900|Yess!|Kristiansand|NO|stars_3
+221931|Fjordslottet Hotell & Bad|Bergen|NO|stars_3
+222085|Gudvangen Fjordtell & Apartments|Gudvangen|NO|stars_3
+222129|Hankø Fjordhotell & Spa|Fredrikstad|NO|stars_4
+222154|Herang|Heggenes|NO|stars_3
+222537|Lampeland|Kongsberg|NO|stars_3.5
+223161|Radisson Blu Trondheim Airport|Trondheim|NO|stars_4
+223630|Tyrifjord|Vikersund|NO|stars_4
+223658|Valhall Hotel & Resort|Haugen|NO|stars_3
+223781|Viste Strandhotel|Randaberg|NO|stars_3
+226491|Best Western Oslo Airport|Gardermoen|NO|stars_3
+226494|Strand Fevik|Fevik|NO|stars_3.5
+227382|Hotel Scandic Oslo Airport|Gardermoen|YES|stars_4
+228393|Anker Hostel|Oslo|YES|stars_1
+228464|Thon Tromsø|Tromso|NO|stars_3
+228465|Havsdalsgrenda|Geilo|NO|stars_4
+230875|Thon Kirkenes|Kirkenes|NO|stars_3.5
+232192|Comfort Xpress|Oslo|NO|stars_3
+233459|Comfort Square|Stavanger|NO|stars_3
+233460|Skifer|Oppdal|NO|stars_4
+233741|Scandic Haugesund Hotel|Haugesund|NO|stars_4
+234323|Eidfjord Fjell|Eidfjord|NO|stars_3
+234973|Best Western Globus|Drammen|NO|stars_3
+237763|Scandic Strand|Bergen|NO|stars_3
+238229|Best Western Plus Grand Hotel|Halden|NO|stars_4
+239902|Clarion Collection Hotel Christiania Teater|Oslo|NO|stars_4
+242887|Quality Hotel Waterfront|Alesund|NO|stars_4
+242891|Hotel Scandic Narvik|Narvik|NO|stars_4
+244193|Park Inn by Radisson Oslo Airport, Gardermoen Hotel|Gardermoen|NO|stars_3.5
+244195|Hotel Scandic Vulkan|Oslo|NO|stars_4
+246117|Panorama|Insel Sotra|NO|stars_4
+246475|First Hotel Hendersons City|Haugesund|NO|stars_3
+248674|Quality Expo|Oslo|NO|stars_4
+259563|Finnholmen Brygge AS|Henningsvær|NO|stars_3.5
+261200|Myrkdalen Mountain Resort - Apartments & Cabins|Myrkdalen|NO|stars_3
+261201|Park Inn by Radisson Trysil Mountain Resort|Trysil|NO|stars_4
+264522|Gruner Apartments|Oslo|NO|stars_3
+270860|My City Home - Hotel & Apartments|Oslo|NO|stars_3
+271441|Lillehammer Turistsenter|Lillehammer|NO|stars_3
+272922|Bergen Bed & Breakfast|Bergen|NO|stars_2.5
+272923|Jacobs Apartments & Hotel|Bergen|NO|stars_3
+273394|Trudvang Gjestegård|Larvik|NO|stars_3
+273419|St-Elisabeth Helsehus|Tromso|NO|stars_3
+273421|ABC Hotell Nord|Tromso|NO|stars_3
+273936|Hordatun Hotel|Røldal|NO|stars_3
+274250|Kvitfjell Hotel|Ringebu|NO|stars_3
+274446|Farsund Fjordhotell|Farsund|NO|stars_3
+274584|Sandtorgholmen Hotel|Harstad|NO|stars_3
+274585|Molde Fjordstuer|Molde|NO|stars_3
+274691|Lofoten SuiteHotel|Svolvær|NO|stars_4
+275717|Engholm Husky Design Lodge|Karasjok|NO|stars_3
+275718|Dombås Motell|Dombås|NO|stars_2
+275955|Horten Næringspark|Horten|NO|stars_3
+275966|North Cape Guesthouse|Honningsvag|NO|stars_2.5
+279310|Frogner House Apartments - Arbinsgate 3|Oslo|NO|stars_3
+279312|Frogner House Apartments - Skovveien 8|Oslo|NO|stars_4
+279313|Olympiatoppen Sportshotel|Oslo|NO|stars_2
+280771|Viking Hotell Tromso|Tromso|NO|stars_3
+281067|P-Hotels Brattøra|Trondheim|NO|stars_3
+281068|Hotel Scandic Bakklandet|Trondheim|NO|stars_4
+283598|Hotel Scandic Stavanger Airport|Stavanger|NO|stars_4
+291017|Alver Hotel Alversund|Lindås|YES|stars_0
+292503|Dalseter Høyfjellshotell|Lillehammer|NO|stars_3
+292712|Eivindvik Fjordhotell|Bergen|NO|stars_3
+292911|Aalesund Airport Hotel|Alesund|NO|stars_3
+292991|Utsikten Hotell|Kvinesdal|NO|stars_4
+292992|Parken Terrasse Apartment Hotel|Karmoy Island|NO|stars_3
+292996|Øigardseter Fjellstue|Putten Seter - Hovringen|NO|stars_2
+293042|General Hotell|Stavanger|NO|stars_3
+293595|Pan Garden Hotel & Resort|Amli|NO|stars_3
+293602|Hotel Scandic Fornebu|Sandvika|NO|stars_4
+293603|Gjesdal Gjestgiveri|Sandnes|NO|stars_4
+293974|Red Tree|Mehamn|NO|0
+294234|Cinderella Cafe & Hotel|Gjerstad|NO|stars_3.5
+294290|Solheim Accommodation|Bø|NO|stars_2
+294751|Gårdshus|Tjeldsund|NO|stars_3
+294772|Norlandia Sea Cabins|Andøy|NO|stars_3
+294833|Energihotellet|Suldal|NO|stars_2.5
+295418|Svene Gjestegård|Svene|NO|stars_3
+295419|Vågå Hotel|Vagamo|NO|stars_3
+295421|Sjåvik Overnatting|Jektvik|NO|stars_3
+295866|Farsund Resort|Farsund|NO|stars_4
+298019|The Thief Oslo|Oslo|NO|stars_5
+298267|Hotel Scandic Rock City|Namsos|NO|stars_3
+298279|Vesteralen Apartment|Vesteralen|NO|stars_3
+300852|Alpin Lodge & Apartments|Hemsedal|NO|stars_4
+302549|Andrikken Hotell Andenes - Andrikken Hotell / Hotel Viking / Lankanholmen Sjøhus / Havhusene Bleik|Andenes|YES|stars_0
+359802|Skarsnuten Panorama|Hemsedal|NO|stars_4
+359862|Fjordresort Malangen Brygger|Meistervik|NO|stars_4
+368779|Clarion Collection No 13|Bergen|NO|stars_4
+368780|Scandic Ørnen|Bergen|NO|stars_4
+368933|Amalie Hotel|Tromso|NO|stars_3
+368934|Smarthotel Tromso|Tromso|NO|stars_3
+370325|Rica Elgstua Hotel|Elverum|NO|stars_4
+370330|Hotell Marena|Andenes|NO|stars_3
+391370|Hotel Scandic Stavanger City|Stavanger|NO|stars_4
+403275|Myrkdalen Mountain Resort - Hotel|Myrkdalen|NO|stars_4
+406598|Geilolia Holiday - Cabins|Geilo|NO|stars_4
+408734|Clarion Hotel Edge|Tromso|NO|stars_4
+411626|Oslo Hotel Apartments|Oslo|NO|stars_3
+412044|Ustedalen Hotel & Resort|Geilo|NO|stars_3.5
+412185|Clarion Collection Hotel Kysten|Sandnessjøen|YES|stars_0
+412928|Frogner House Norum|Oslo|NO|stars_3
+416371|Best Western Sauda Fjordhotel|Sauda|NO|stars_3
+417510|Clarion Hotel Energy|Stavanger|NO|stars_4

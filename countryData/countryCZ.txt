@@ -1,0 +1,1078 @@
+7066|Askania|Prague|NO|stars_3.5
+7094|Adelka|Spindleruv Mlyn|NO|stars_3
+7120|Adria|Prague|YES|stars_4
+7264|Botel Albatros|Prague|YES|stars_3
+7482|Alpsky|Spindleruv Mlyn|NO|stars_3
+7633|Ambassador Zlata Husa|Prague|YES|stars_5
+7660|Ametyst|Prague|YES|stars_4
+7958|Theatrino|Prague|NO|stars_4
+8004|Ariston & Ariston Patio|Prague|NO|stars_4
+8027|Clarion Spindleruv Mlyn|Spindleruv Mlyn|NO|stars_4
+8264|Atlantic|Prague|YES|stars_3
+8326|Aurum|Cerny Dul|NO|stars_3
+8365|Axa|Prague|YES|stars_3
+8783|Belvedere|Prague|NO|stars_4
+8917|Best Western City Moran|Prague|YES|stars_4
+8975|Best Western Plus Meteor Plaza|Prague|YES|stars_4
+9160|OREA Bohemia|Marianske Lazne|NO|stars_4
+9292|Carlton|Prague|NO|stars_4
+9985|Casa Marcello|Prague|YES|stars_4
+10232|Central|Prague|YES|stars_3
+10251|Danubius Health Spa Resort Centrální Lázne & Maria SPA -  Centrální Lázne|Marianske Lazne|NO|stars_4
+10267|Hotel Lippert|Prague|YES|stars_4
+10502|Cloister Inn|Prague|NO|stars_3
+10608|Fortuna West|Prague|YES|stars_3
+10824|Panorama Hotel Prague|Prague|NO|stars_4
+10825|Corinthia Prague|Prague|YES|stars_5
+11085|Euroagentur Dalimil|Prague|YES|stars_3
+11116|Danubius Health Spa Resort Villa Butterfly|Marianske Lazne|NO|stars_4
+11499|Diplomat Hotel Prag|Prague|YES|stars_4
+11685|Dorint Don Giovanni|Prague|YES|stars_4
+11808|Dum|Prague|NO|stars_3
+11817|Duo|Prague|YES|stars_4
+11830|Dvorak Spa|Karlsbad|NO|stars_4
+12223|Esplanade|Prague|YES|stars_5
+12381|Expo|Prague|YES|stars_4
+12852|Fontana|Frymburk Hrdonov|NO|stars_3
+12880|Parkhotel|Harrachov|NO|stars_3
+12930|Four Seasons|Prague|NO|stars_5
+13086|Game|Klenci Pod Cherchovem|NO|stars_3
+13252|Globus|Prague|YES|stars_3
+13425|Grand Hotel Bohemia|Prague|YES|stars_5
+13642|Gryf|Harrachov|NO|stars_3
+13809|Harmony|Prague|YES|stars_3
+13810|Harmony|Spindleruv Mlyn|NO|stars_4
+14072|Hoffmeister|Prague|NO|stars_5
+14162|Holiday Inn Prague Congress Centre|Prague|YES|stars_4
+14371|OREA Horal|Spindleruv Mlyn|NO|stars_4
+14378|Horizont 2|Pec Pod Snezkou|NO|stars_4
+14379|OREA Resort Horizont Sumava|Zelezna Ruda|NO|stars_3
+14415|Botel Racek|Prague|YES|stars_3
+14474|Danubius Health Spa Resort Hvezda|Marianske Lazne|NO|stars_4
+14731|Imperial|Karlsbad|NO|stars_4
+14869|Golden Prague Residence & Hotel InterContinental Praha - Hotel InterContinental Praha|Prague|YES|stars_5
+14910|Irena|Pec Pod Snezkou|NO|stars_2
+15004|Jalta|Prague|YES|stars_5
+15034|EA Hotel Jasmin|Prague|YES|stars_3
+15036|Jasmin|Vitkovice|NO|stars_3
+15147|K+K Fenix|Prague|YES|stars_4
+15220|Kampa|Prague|YES|stars_4
+15395|Best Western Kinsky Garden|Prague|YES|stars_4
+15833|Danubius Health Spa Resort Labe|Marianske Lazne|NO|stars_3
+15904|Landal Marina Lipno|Lipno nad Vltavou|NO|stars_3
+16283|Star 4 - Lesni Zamecek|Loucna-Klinovec|NO|stars_3
+16565|Lucni Dum|Janske Lazne|NO|stars_3
+17017|Marketa|Prague|NO|stars_3
+17046|Marriott Prague|Prague|NO|stars_5
+17142|Maximilian|Prague|YES|stars_4
+17257|Hotel Arbes|Prague|NO|stars_3
+17376|Merkur|Prague|YES|stars_3
+17591|NH Prague|Prague|NO|stars_4
+17799|Euroagentur Na Jezere|Jenisov u Lipna|NO|stars_3
+17829|Nastup|Loucna-Klinovec|NO|stars_4
+18279|Olsanka|Prague|NO|stars_3
+18288|Sporthotel Olympia|Stachy|NO|stars_3
+18298|Hotel Olympie|Spindleruv Mlyn|NO|stars_3
+18299|Olympik|Prague|YES|stars_4
+18300|Hotel Tristar|Prague|YES|stars_3
+18331|Opera|Prague|NO|stars_4
+18446|Danubius Health Spa Resort Grandhotel Pacifik|Marianske Lazne|NO|stars_4
+18467|Art Nouveau Palace Hotel|Prague|YES|stars_5
+18475|OREA Palace Zvon|Marianske Lazne|NO|stars_4
+18754|Paríz|Prague|YES|stars_5
+18817|Grandhotel Pupp|Karlsbad|NO|stars_5
+18987|Petr|Prague|NO|stars_3
+19380|Hilton Prague|Prague|YES|stars_5
+19381|Praha|Spindleruv Mlyn|NO|stars_4
+19382|TOP Hotel Praha|Prague|YES|stars_4
+19401|President|Prague|YES|stars_5
+19496|Prvosenka|Cerny Dul|NO|stars_2
+19559|OREA Pyramida|Prague|YES|stars_4
+19623|Fortuna City|Prague|YES|stars_3
+19804|Radisson Blu Alcron|Prague|YES|stars_5
+20148|Hilton Prague Old Town|Prague|YES|stars_5
+20562|Horni Rokytnice|Horni Rokytnice|NO|stars_3
+21050|Sanssouci Spa Resort|Karlsbad|NO|stars_4
+21172|Golden Tulip Savoy|Prague|YES|stars_5
+21405|Selsky Dvur|Prague|YES|stars_4
+21654|Villa Savoy Spa Park Hotel|Marianske Lazne|NO|stars_4
+21734|Skaly|Teplice nad Metuji|NO|stars_3
+21739|OREA Vital Sklár|Harrachov|NO|stars_4
+22062|Srni & Dependance Sumava|Srni|NO|stars_3.5
+22436|Svornost|Harrachov|NO|stars_3
+23475|U Sladku|Prague|NO|stars_3
+23495|Union|Prague|YES|stars_4
+23925|Villa Lucie|Prague|NO|stars_2
+24241|Vltava|Frymburk Hrdonov|NO|stars_4
+24264|Vsemina|Vsemina Zlin|NO|stars_3
+24272|Vysehrad|Prague|YES|stars_4
+24273|Vysluni|Spindleruv Mlyn|NO|stars_3
+24478|Windsor|Spindleruv Mlyn|NO|stars_4
+24610|Zaly|Benecko|NO|stars_2
+24618|Zatisi|Spindleruv Mlyn|NO|stars_3
+25990|Stirka|Prague|YES|stars_3
+26064|Monti Spa Hotel|Frantiskovy Lazne|NO|stars_4
+26180|Radium Palace|Jachymov|NO|stars_4
+26181|Venus|Karlsbad|NO|stars_4
+26182|Jadran|Karlsbad|NO|stars_3
+26183|Thermal|Karlsbad|NO|stars_4
+26185|Danubius Health Spa Resort Nove Lazne|Marianske Lazne|NO|stars_5
+26186|OREA Monty|Marianske Lazne|YES|stars_4
+26187|Parkhotel Golf|Marianske Lazne|NO|stars_4
+26188|Danubius Health Spa Resort Vltava|Marianske Lazne|NO|stars_4
+26189|Pyramida - Pyramida I / Pyramida II / Pyramida III|Frantiskovy Lazne|NO|stars_4
+26312|Klondajk|Harrachov|NO|stars_3
+26313|Centrum|Harrachov|NO|stars_3
+26314|Harrachovka|Harrachov|NO|stars_3.5
+26318|Savoy|Spindleruv Mlyn|NO|stars_4
+26324|Snezka|Spindleruv Mlyn|NO|stars_4
+26331|Domovina|Spindleruv Mlyn|NO|stars_3
+26332|Energetik|Pec Pod Snezkou|NO|stars_3
+26408|Adrspach|Adrspach|NO|stars_3
+26410|Praha|Bozi Dar|NO|stars_3
+26421|OREA Horizont & Spicak - Hotel Spicak|Zelezna Ruda|NO|stars_3
+26445|Palace Club|Spindleruv Mlyn|NO|stars_3
+26447|Dvorak|Cesky Krumlov / Krumau|NO|stars_4
+26468|Parkhotel Kasperske Hory|Kasperske Horny|NO|stars_4
+26611|Svaty Petr|Spindleruv Mlyn|NO|stars_3
+26613|Montana|Spindleruv Mlyn|NO|stars_3
+26614|Astra|Spindleruv Mlyn|NO|stars_3
+26644|Fit & Fun|Harrachov|NO|stars_3
+26915|Sporthotel Ryzoviste|Harrachov|NO|stars_3
+27126|Harrachov Inn|Harrachov|NO|stars_3
+27130|Horec|Pec Pod Snezkou|NO|stars_4
+27133|Vyhlidka|Janske Lazne|NO|stars_3
+27565|Kubat|Benecko|NO|stars_3
+27571|Hotel Skizentrum|Harrachov|NO|stars_3
+27573|Dlouhe Strane|Kouty nad Desnou|NO|stars_3
+27574|Kuba|Kubova Hut|NO|stars_3
+27582|Alpina|Spindleruv Mlyn|NO|stars_3
+27587|Hradec|Spindleruv Mlyn|NO|stars_3
+27590|Lenka|Spindleruv Mlyn|NO|stars_3
+27592|Miluska|Spindleruv Mlyn|NO|stars_3
+27593|Rosa|Spindleruv Mlyn|NO|stars_3
+27595|Prom|Svoboda nad Upou|NO|stars_3
+27866|Clarion Congress Ceské Budejovice|Budweis|YES|stars_4
+27906|Aida|Prague|YES|stars_4
+27908|Novotel Wenceslas Square|Prague|NO|stars_4
+27935|Nico|Spindleruv Mlyn|NO|stars_2
+27989|Mama|Pec Pod Snezkou|NO|stars_3
+27990|Bily Horec|Harrachov|NO|stars_3
+27991|Safari|Dvur Kralove Nad Labem|NO|stars_3
+27992|William|Prague|YES|stars_3
+27994|OREA Excelsior|Marianske Lazne|NO|stars_4
+28514|Wellness Hotel Babylon|Liberec|NO|stars_4
+28527|Schlosshotel Nachod|Nachod|NO|stars_3
+28578|Kurkomplex Curie - Praha - Elektra - Kurhaus Praha|Jachymov|NO|stars_3
+28579|Jean de Carro|Karlsbad|NO|stars_4
+28580|Parkhotel Richmond|Karlsbad|NO|stars_4
+28582|Smetana-Vysehrad|Karlsbad|NO|stars_4
+28584|Aurora|Trebon|NO|stars_3
+28950|Elite|Prague|YES|stars_4
+29095|Centrum|Frantiskovy Lazne|NO|stars_3.5
+29096|Hotel Krivan|Marianske Lazne|NO|stars_3
+30488|U Tri Korunek|Prague|NO|stars_4
+30604|Ibis Praha Wenceslas Square|Prague|NO|stars_3
+30605|Step Praha Wellness|Prague|YES|stars_4
+31178|Danubius Health Spa Resort Svoboda|Marianske Lazne|NO|stars_3
+31180|Maj|Pec Pod Snezkou|NO|stars_3
+31506|Diana|Benecko|NO|stars_3
+31668|Krokus|Pec Pod Snezkou|NO|stars_3
+31939|Plaza Alta|Prague|YES|stars_4
+32544|Karolina|Harrachov|NO|stars_3
+32546|Happy Hill Park|Cerny Dul|NO|stars_4
+32596|Alka|Stara Ves|NO|0
+32634|Amadeus Aparthotel|Prague|YES|stars_3
+32635|Elysee|Prague|YES|stars_4
+32716|Esplanade|Marianske Lazne|YES|stars_5
+32718|Bajkal|Frantiskovy Lazne|NO|stars_4
+32719|Central|Karlsbad|NO|stars_4
+32720|Kaiserbad|Bad Teplice|NO|stars_4
+32876|Port|Doksy|NO|stars_4
+32877|Bellevue|Podebrady|NO|stars_4
+32881|Vladimir|Janske Lazne|NO|stars_3
+32885|Bellevue|Cesky Krumlov / Krumau|NO|stars_4
+33297|Gendorf|Vrchlabi|NO|stars_3
+34246|Reitenberger|Marianske Lazne|NO|stars_4
+34247|Sirius|Karlsbad|NO|stars_4
+34249|Parkhotel Pilsen|Plzen|NO|stars_4
+34327|Century Old Town Prague|Prague|YES|stars_4
+35467|Andel's Hotel & Suites Prague|Prague|YES|stars_4
+35675|Green Garden|Prague|YES|stars_4
+35676|Liberty|Prague|YES|stars_4
+35677|Mars|Prague|NO|stars_3
+36562|Josef|Prague|YES|stars_4
+36563|Astoria|Prague|YES|stars_4
+36564|Juno|Prague|YES|stars_3
+36648|U Medvidku|Prague|NO|stars_3
+36672|Victoria|Plzen|NO|stars_3
+37743|Esprit|Spindleruv Mlyn|NO|stars_3
+37744|Bily Kun|Karlsbad|NO|stars_3
+37745|Riviera|Nova Role|NO|stars_3
+37747|Seeberg|Frantiskovy Lazne|NO|stars_3
+38361|Brizky|Jablonec nad Nisou|NO|stars_4
+38362|Ados App.|Harrachov|NO|stars_3
+38363|Kamenice|Harrachov|NO|stars_3
+38364|Bellevue|Harrachov|NO|stars_3
+38365|Dolni Rokytnice|Horni Rokytnice|NO|0
+38366|Helena|Horni Rokytnice|NO|stars_3
+38367|Churanov|Stachy|NO|stars_3
+38427|Atos|Prague|YES|stars_3
+38723|Praha Clubhotel|Pruhonice|NO|stars_4
+38724|OREA Wellness Hotel Santon|Brn/Brna|NO|stars_3
+39562|Ambiente|Karlsbad|NO|stars_4
+39739|Carol|Prague|NO|stars_3
+39740|Hotel International Prague|Prague|YES|stars_4
+39741|Boutique Hotel Constans|Prague|NO|stars_4
+39742|Maria|Prague|YES|stars_4
+39743|Rott|Prague|YES|stars_4
+39905|Falkensteiner Grand Spa Marienbad|Marianske Lazne|NO|stars_4
+39907|Villa Regent|Marianske Lazne|NO|stars_3
+39908|Hotelkomplex Flora - Maxim / Hotel Flora|Marianske Lazne|NO|stars_3
+39909|Beethoven|Bad Teplice|NO|stars_3
+39910|Olympia|Karlsbad|NO|stars_4
+40002|Questenberk|Prague|NO|stars_4
+40003|Roma|Prague|YES|stars_4
+40470|Aria|Prague|YES|stars_5
+40471|Boscolo Prague|Prague|YES|stars_5
+40532|Le Palais|Prague|NO|stars_5
+40557|Royal Golf|Karlsbad|NO|stars_4
+40953|Ibis Praha Mala Strana|Prague|NO|stars_3
+47647|Zlaty Andel|Cesky Krumlov / Krumau|NO|stars_4
+47648|The Old Inn|Cesky Krumlov / Krumau|YES|stars_4
+47649|Ruze|Cesky Krumlov / Krumau|YES|stars_5
+47668|U Prince|Prague|YES|stars_5
+47670|St. George|Prague|NO|stars_3
+47672|Royal Kurhotel|Marianske Lazne|NO|stars_4
+47677|Best Western Premier International|Brn/Brna|NO|stars_4
+47678|Voronez I|Brn/Brna|YES|stars_4
+47679|Voronez II|Brn/Brna|YES|stars_3
+47905|Best Western Amedia Praha|Prague|YES|stars_3
+47906|Neruda|Prague|YES|stars_4
+48260|Prichovice|Príchovice|NO|stars_3
+48262|Svaty Hubert|Bozi Dar|NO|stars_3
+48263|Krakonos|Marianske Lazne|NO|stars_3
+48522|K+K Central|Prague|YES|stars_4
+48523|Alton|Prague|NO|stars_3
+49989|Barcelo Praha|Prague|YES|stars_4
+50746|King David|Prague|YES|stars_5
+51223|Grand Brno|Brn/Brna|YES|stars_4
+51309|Imperial|Frantiskovy Lazne|NO|stars_4
+51310|Drei Lilien|Frantiskovy Lazne|NO|stars_4
+51473|Westend|Spindleruv Mlyn|NO|stars_3
+51521|Barbora|Spindleruv Mlyn|NO|stars_3
+52321|Horni Pramen|Spindleruv Mlyn|NO|stars_2
+52505|Augustus et Otto|Prague|NO|stars_3
+52930|Jana|Prerov|NO|stars_4
+52932|Best Western Vladimir|Usti nad Labem|NO|stars_4
+52936|Patria|Trutnov|NO|stars_3
+52955|St. Moritz|Marianske Lazne|NO|stars_4
+52956|Lázenská Lécebna Mánes|Karlsbad|NO|stars_3
+52957|Garni Branik|Prague|NO|stars_3
+52958|Na Ostrove|Beroun|NO|stars_3
+52965|Krivan|Karlsbad|NO|stars_3
+52966|Kurhaus Dr. Adler|Frantiskovy Lazne|NO|stars_3
+52967|Libensky|Podebrady|NO|stars_3
+52970|Grand|Doksy|NO|stars_3
+52971|Parkhotel Sokolov|Sokolov|NO|stars_3
+54468|Belmonte|Spindleruv Mlyn|NO|stars_3
+55514|Kurhotel Devin|Marianske Lazne|NO|stars_3
+55517|Schlosshotel Mostov|Cheb|NO|stars_3
+55576|Krasna Kralovna|Karlsbad|NO|stars_4
+55627|Residence Bologna|Prague|YES|stars_3
+55628|City Club|Prague|YES|stars_3
+55629|Waldstein|Prague|YES|stars_4
+55630|Mucha|Prague|YES|stars_4
+55631|Hotel Meda - Art of Museum Kampa|Prague|YES|stars_4
+55632|Bily Lev|Prague|YES|stars_3
+55633|Grand|Prague|YES|stars_3
+55999|Ramada Prague City Centre|Prague|YES|stars_4
+56217|Prague Centre Superior|Prague|YES|stars_3
+56227|Raffaello|Prague|YES|stars_3.5
+56249|Casa Italia|Prague|YES|stars_3
+56373|Galaxie|Prague|YES|stars_4
+56485|Leonardo|Prague|NO|stars_4
+56628|Legie|Prague|YES|stars_3
+56653|Ontario|Karlsbad|NO|stars_3
+56654|Zlata Hvezda|Trebon|NO|stars_4
+56655|Bezdez|Stare Splavy|NO|stars_3
+56657|Esprit|Prague|YES|stars_3
+56746|Suitehome|Prague|YES|stars_4
+56772|Residense Malá Strana|Prague|YES|stars_3
+56845|Euroagentur Tosca|Prague|YES|stars_3
+56849|Clarion Prague Old Town|Prague|YES|stars_4
+56850|U Krale Karla|Prague|YES|stars_4
+56852|U Pava|Prague|YES|stars_4
+56935|City Partner Victoria|Prague|YES|stars_3
+56968|The Charles|Prague|YES|stars_4
+57050|City Crown|Prague|YES|stars_3
+57104|Tivoli|Prague|NO|stars_3
+57105|Continental|Brn/Brna|NO|stars_4
+57107|U Semika|Prague|NO|stars_3
+57138|Blue Key|Prague|YES|stars_4
+57339|U Schnellu|Prague|NO|stars_3
+57340|Caesar|Prague|YES|stars_4
+57450|Sonata|Marianske Lazne|NO|stars_3
+57601|Iron Gate Hotel & Suites|Prague|YES|stars_5
+57666|Ramada Airport Prague|Prague|YES|stars_4
+57667|Euroagentur Jeleni Dvur|Prague|YES|stars_3
+57668|EA Hotel Rokoko|Prague|YES|stars_4
+57669|Melantrich|Prague|YES|stars_3
+57670|Junior|Prague|YES|stars_3
+57712|Ventana Hotel Prague|Prague|YES|stars_5
+58831|Kurhaus Kiew|Frantiskovy Lazne|NO|stars_3
+59441|Sofia|Prague|YES|stars_3
+59442|Hotel Kafka|Prague|YES|stars_3
+59443|Troja|Prague|NO|stars_4
+59444|A&O Prag Metro Strizkov|Prague|YES|stars_2
+59446|Brilliant|Prague|NO|stars_3
+59451|Excellent|Prague|NO|stars_3
+61098|Na Zamecku|Prague|NO|stars_4
+61546|Hotel Halkova|Prague|YES|stars_3.5
+61919|Slavia|Prague|YES|stars_3
+62541|My Hotel Apollon|Prague|YES|stars_3
+62542|Machova|Prague|NO|stars_3
+62648|Amadeus Hotel|Prague|NO|stars_3
+63233|Chopin Prague City|Prague|YES|stars_3.5
+63635|Da Vinci Wenceslas Square|Prague|YES|stars_3
+63636|Best Western Bila Labut|Prague|YES|stars_4
+64064|Popelka|Prague|NO|stars_4
+64113|Idol|Vitkovice|NO|stars_3
+64114|Velveta|Spindleruv Mlyn|NO|stars_3
+64115|Adam|Spindleruv Mlyn|NO|stars_4
+64459|Antik City|Prague|NO|stars_4
+64881|Styl|Spindleruv Mlyn|NO|stars_3
+64882|Albis|Vrchlabi|NO|stars_3
+65102|Seifert|Prague|YES|stars_4
+65153|Aquapark Hotel|Spindleruv Mlyn|NO|stars_3
+66294|Akcent|Prague|YES|stars_3
+66295|Holiday Inn Prague Airport|Prague|YES|stars_4
+68155|Oya|Prague|NO|stars_3
+68566|Appartements Harrachovka|Harrachov|NO|stars_3
+68739|Carlsbad Plaza|Karlsbad|NO|stars_5
+68778|Olympia|Marianske Lazne|NO|stars_4
+68780|Kurkomplex Pawlik/ Isis|Frantiskovy Lazne|NO|stars_4
+68890|Hotel Praga 1|Prague|YES|stars_4
+68933|Belvedere|Marianske Lazne|NO|stars_4
+69257|Beranek|Prague|NO|stars_3
+69258|Ibis Praha Old Town|Prague|YES|stars_3
+70013|Hvezda|Pec Pod Snezkou|NO|stars_3
+70112|City Inn|Prague|YES|stars_3
+70416|Labuznik|Karlsbad|YES|stars_3
+70775|Apartments Wenceslas Square|Prague|YES|stars_3
+70792|Floor|Prague|YES|stars_4
+70882|Parkhotel Praha|Prague|YES|stars_4
+71227|Best Western Grand|Beroun|NO|stars_4
+71254|Villa Andy|Prague|NO|stars_3
+71887|Hotel Yasmin|Prague|YES|stars_4
+72382|Central|Klatovy|NO|stars_3
+72694|Mamaison Riverside|Prague|YES|stars_5
+73125|Claris|Prague|YES|stars_3
+73126|U Divadla|Prague|YES|stars_4
+73304|Agricola|Marianske Lazne|YES|stars_4
+74600|Aramis|Prague|YES|stars_4
+74685|Ostry|Zelezna Ruda|NO|stars_3
+74702|Euroagentur Manes|Prague|YES|stars_4
+74703|Euroagentur Crystal Palace|Prague|YES|stars_4
+74993|Galileo|Prague|YES|stars_4
+75336|angelo Hotel Prag|Prague|YES|stars_4
+75477|Prague Inn|Prague|NO|stars_4
+75554|Pachtuv Palace|Prague|YES|stars_5
+75843|City Centre Prag|Prague|YES|stars_3
+75844|Golden Well|Prague|YES|stars_5
+75896|Ochsendorf|Horni Blatna|NO|stars_3
+75897|Sporthotel Bohemia|Horni Rokytnice|NO|stars_3
+75961|Residence Verona|Prague|YES|stars_3
+76009|Fortuna Rhea|Prague|YES|stars_3
+76010|Hotel 123|Prague|YES|stars_2
+76051|Pod Jasany|Spindleruv Mlyn|NO|stars_3
+76052|Spindlerova Bouda|Spindleruv Mlyn|NO|stars_3
+76053|Belvedere|Frantiskovy Lazne|NO|stars_3
+76076|Rezidence Emmy|Prague|YES|stars_4
+76077|Am Goldenen Hufeisen|Prague|NO|stars_3
+76078|Jerome House|Prague|NO|stars_3
+76079|Metamorphis|Prague|YES|stars_4
+76091|Start|Spindleruv Mlyn|NO|stars_3
+76094|Kasperk|Kasperske Horny|NO|stars_4
+76099|Zum Sankt Christopher|Prague|NO|stars_3
+76100|Villa Voyta|Prague|NO|stars_4
+76247|Archibald City|Prague|YES|stars_4
+76313|Residences Appia|Prague|NO|stars_4
+76458|Devin|Pec Pod Snezkou|NO|stars_3
+76553|Gejzir|Karlsbad|NO|stars_3
+76666|Albion|Prague|NO|stars_4
+76700|Kampa Garden|Prague|NO|stars_3
+76857|Prague Centre Plaza|Prague|YES|stars_3
+76858|Melantrich Apartments|Prague|YES|stars_3
+76859|The Golden Tree|Prague|YES|stars_2
+77007|Flora|Olomouc|YES|stars_3
+77033|Mandarin Oriental Prague|Prague|NO|stars_5
+77079|Astra|Prague|NO|stars_3
+77080|San Marco Abri|Prague|YES|stars_3
+77082|Certovka|Prague|YES|stars_4
+77222|Continental|Marianske Lazne|NO|stars_4
+77323|Hotel Monastery|Prague|YES|stars_4
+77431|Grand Luxury Hotel|Trutnov|NO|stars_3
+77570|Monica|Prague|NO|stars_3
+77577|Cerna Bouda|Janske Lazne|NO|stars_3
+77892|Savoy Westend|Karlsbad|NO|stars_5
+78157|Agnes Residence|Prague|YES|stars_4
+78409|Euroagentur Derby|Karlsbad|YES|stars_3
+78410|Euroagentur Esplanade I & II|Karlsbad|YES|stars_3
+78487|Golf - Hotel|Prague|YES|stars_3
+78488|Wellness Frymburk|Frymburk Hrdonov|NO|stars_3
+78489|Metropol|Frantiskovy Lazne|NO|stars_3
+78491|Horni Misecky|Vitkovice|NO|stars_3
+78515|Inos|Prague|NO|stars_3
+78891|Best Western Pav|Prague|NO|stars_3
+78893|Grand Praha|Prague|NO|stars_4
+79469|Eurostars Thalia|Prague|YES|stars_5
+79694|Mitera|Harrachov|NO|stars_3
+80220|Grandhotel Zvon|Budweis|NO|stars_5
+81254|Slavia|Brn/Brna|YES|stars_4
+81505|Hastal|Prague|NO|stars_4
+82399|Savic|Prague|YES|stars_4
+82486|Vila Antoaneta|Luhacovice|NO|stars_3.5
+82598|U Tri Ruzi|Spindleruv Mlyn|NO|stars_3
+83405|Praha|Prague|NO|stars_4.5
+83408|Seven Days|Prague|YES|stars_4
+83435|Cechie Praha|Prague|NO|stars_4
+83436|Kavalir|Prague|NO|stars_3
+83965|Absolutum|Prague|YES|stars_4
+84247|Austria Suites|Prague|NO|stars_3
+84382|Angelis|Prague|YES|stars_3
+85044|Anna-Marie|Lazne Belohrad|NO|0
+85045|Kurhotel Grand|Lazne Belohrad|NO|0
+85047|Spa & Kur Hotel Praha|Frantiskovy Lazne|NO|stars_3
+85049|Kurhaus Savoy|Frantiskovy Lazne|NO|stars_3.5
+85050|Kurhaus Palace 1+2  & Dependance Bellaria|Frantiskovy Lazne|NO|stars_4
+85051|Kurhaus Goethe|Frantiskovy Lazne|NO|stars_3
+85053|Akademik Behounek|Jachymov|NO|stars_3
+85054|Kurkomplex Curie - Praha - Elektra - Kurhaus Curie|Jachymov|NO|stars_3
+85055|Parkquelle|Karlsbad|NO|0
+85061|Kurhaus Steinbad|Bad Teplice|NO|stars_3
+85065|Kurhaus Sirnate laznì|Ostrozská Nová Ves|NO|0
+85067|Kurhaus Novy Dùm|Lázne Libverda|NO|0
+85069|Sanatorium Miramare|Luhacovice|NO|stars_4
+85070|Kurhotel Priessnitz|Jesenik|NO|0
+85431|Romanza|Marianske Lazne|NO|stars_4
+85446|Florenc|Prague|NO|stars_3
+85448|Riverview Appartments|Prague|NO|stars_4
+85451|Janacek|Prague|NO|stars_3
+86138|Brezina|Prague|NO|stars_3
+86139|Brixen|Prague|NO|stars_3
+86777|Novomestsky|Prague|NO|stars_3
+86778|Sunrise|Prague|NO|stars_3
+86780|Archibald At The Charles Bridge|Prague|NO|stars_4
+86859|Best Western Premier Majestic Plaza|Prague|YES|stars_4
+86860|U Trí Pstrosu|Prague|YES|stars_4
+86969|The Icon Hotel & Lounge|Prague|NO|stars_4
+87147|Felicitas|Podebrady|NO|stars_4
+87149|Roudna|Plzen|NO|stars_3
+87171|Michael|Prague|NO|stars_4
+87172|Ehrlich|Prague|NO|stars_4
+87181|Dependance Royal|Frantiskovy Lazne|NO|0
+87449|Sovereign|Prague|YES|stars_4
+87450|Design Metropol Hotel|Prague|YES|stars_4
+87451|Smaragd|Prague|NO|stars_3
+88694|Mamaison Residence Belgicka|Prague|YES|stars_4
+88714|Eurostars David Hotel|Prague|YES|stars_4
+88734|Jerome Agricola|Prague|NO|stars_3
+88737|U Zlate Podkovy|Prague|NO|stars_3
+88750|Dvorak Tabor|Tabor|NO|stars_4
+88915|Old Town Residence|Prague|NO|stars_4
+88919|Theatre Residence|Prague|NO|stars_3
+88920|U Hvezdy|Prague|NO|stars_3
+88935|Imperial Art Deco|Prague|YES|stars_5
+88958|Capri|Prague|YES|stars_3
+89000|Design Merrion|Prague|NO|stars_4
+89476|987 Design Prague|Prague|YES|stars_4
+89504|Clarion Congress|Olomouc|YES|stars_3
+90115|Perla|Prague|NO|stars_4
+90385|Humboldt Park|Karlsbad|NO|stars_4
+90888|Centrum Certovka|Harrachov|NO|stars_3
+90947|Courtyard Prague Flora|Prague|NO|stars_4
+91001|Lesana|Spindleruv Mlyn|NO|stars_3
+91447|Sanatorium Dr. Petak|Frantiskovy Lazne|NO|stars_3
+91460|Kurhaus Sevilla|Frantiskovy Lazne|NO|stars_3
+91462|Zamecek|Podebrady|NO|stars_4
+92439|Cristal Palace|Marianske Lazne|NO|stars_4
+93288|Kazduv Dvur|Skalná|NO|stars_4
+93289|Omnia|Janske Lazne|NO|stars_4
+93570|Assenzio Prague|Prague|NO|stars_4
+93891|Amour Residence|Prague|NO|stars_4
+93892|Botel Matylda|Prague|NO|stars_4
+94401|Marriott Executive Apartments Longin Center|Prague|NO|stars_4
+94591|Holiday Inn Brno|Brn/Brna|YES|stars_4
+95597|Ostruvek|Prague|NO|stars_3
+96026|Villa|Prague|NO|stars_4
+96204|Dvorak|Budweis|NO|stars_4
+96209|Lipno Lake Resort|Lipno nad Vltavou|NO|stars_4
+96210|Park|Hluboká nad Vltavou|NO|stars_4
+96252|Klika|Budweis|NO|stars_3
+96552|Stekl|Hluboká nad Vltavou|NO|stars_4
+97388|Astoria|Karlsbad|NO|0
+97393|Palace|Luhacovice|NO|0
+99347|Lindner Hotel Prague Castle|Prague|YES|stars_4
+99635|Kazda Hof Vonsov|Skalná-Vonsov|NO|stars_4
+99709|Panorama|Blansko|NO|stars_3
+100010|Miss Sophie's|Prague|NO|stars_3
+100736|Sun|Marianske Lazne|NO|stars_4
+102516|Kurhaus Erika|Frantiskovy Lazne|NO|stars_3.5
+102931|Skalni Mlyn|Blansko|NO|stars_3
+102975|Clarion Congress Prag|Prague|NO|stars_4
+103204|Apartments Rokytka|Rokytnice nad Jizerou|NO|stars_3
+103593|Courtyard Pilsen|Plzen|NO|stars_4
+103642|angelo Hotel Pilsen|Plzen|NO|stars_4
+103740|The Mark Luxury Hotel Prague|Prague|YES|stars_5
+103840|Clarion Congress Ostrava|Ostrava|NO|stars_4
+103841|Avion|Prague|NO|stars_3
+103843|Gregory|Prague|NO|stars_3
+103845|Lublanka|Prague|YES|stars_3
+103848|U Zlateho Stromu|Prague|YES|stars_4
+104161|Art Prag|Prague|YES|stars_4
+104220|Attic|Prague|NO|stars_3
+104543|Family Hotel Rilancio|Kasperske Horny|NO|stars_4
+105126|Panorama|Plzen|NO|stars_4
+105531|Brioni|Ostrava|NO|stars_4
+105957|Clementin|Prague|YES|stars_4
+106749|Domus Balthasar|Prague|NO|stars_4
+108016|Imperial Hotel Ostrava|Ostrava|YES|stars_4
+109468|Old Town Square Hotel|Prague|NO|stars_5
+109677|Pohoda|Prague|NO|stars_4
+110134|Residence Select & Apartments|Prague|YES|stars_3
+110164|Rezidence Lundborg|Prague|NO|stars_5
+110397|Andel|Prague|NO|stars_4
+110419|Francis Palace Spa & Wellness|Frantiskovy Lazne|NO|stars_4
+110446|Amarilis|Prague|NO|stars_4
+110447|Winston Churchill|Prague|YES|stars_3
+110623|Iris Hotel Eden|Prague|NO|stars_4
+110741|Vintage Design Hotel Sax|Prague|NO|stars_4
+111086|Svornost|Prague|NO|stars_3
+111185|The Golden Wheel|Prague|YES|stars_4
+111767|Aurus|Prague|YES|stars_4
+111787|Alchymist Grand Hotel & Spa|Prague|YES|stars_5
+111802|Alchymist Nosticova Palace|Prague|NO|stars_5
+121523|Zlata Hvezda|Prague|NO|stars_4
+122271|Best Western Premier Royal Palace|Prague|YES|stars_5
+122273|Metamorphis Excellent|Prague|NO|stars_5
+122381|Komorni Hurka|Frantiskovy Lazne|NO|stars_4
+122382|San Remo|Marianske Lazne|NO|stars_4
+122413|Red Lion|Prague|NO|stars_4
+122414|Royal Court|Prague|NO|stars_4
+122415|Silenzio|Prague|NO|stars_4
+122608|Courtyard Prague Airport|Prague|NO|stars_4
+122826|Arkada|Prague|YES|stars_4
+122827|U Trí Cápu|Prague|NO|stars_5
+122831|La Boutique|Prague|NO|stars_4
+122859|Hotel Mlyn Velehrad|Velehrad|NO|stars_4
+122864|Ruze|Karlsbad|NO|stars_4
+122940|Tyl|Prague|YES|stars_3.5
+122941|Louis Leger|Prague|NO|stars_4
+125381|Hotel 16|Prague|YES|stars_4
+125382|Henrietta|Prague|NO|stars_3
+125385|Amigo|Prague|NO|stars_4
+125392|Nabucco|Prague|NO|stars_4
+125393|Ai Quattro Angeli|Prague|NO|stars_3
+125394|Chateau St. Havel Wellness Hotel|Prague|NO|stars_4
+125396|Gallery SIS|Prague|YES|stars_3
+125398|Louren|Prague|NO|stars_4
+125399|Meritum|Prague|NO|stars_3
+125400|General|Prague|YES|stars_5
+125401|Bridge|Prague|NO|stars_3
+127217|Primavera|Plzen|YES|stars_4
+127689|Boston|Karlsbad|NO|stars_3
+127691|Romance Puskin|Karlsbad|NO|stars_4
+127900|Anna|Nejdek|NO|stars_3
+128046|Alexander|Stríbro|NO|stars_4
+129005|Romantic Mlyn|Karlstejn|NO|stars_4
+129036|Starý Pivovar|Prague|NO|stars_3
+130743|Gold|Cesky Krumlov / Krumau|NO|stars_4
+130747|Krystal|Prague|NO|stars_3
+130748|San Marco|Prague|YES|stars_3
+130749|King Charles Boutique Residence|Prague|NO|stars_4
+130750|Venezia|Prague|NO|stars_3
+134246|Unitas|Prague|NO|stars_4
+134290|Euroagentur Sonata|Prague|YES|stars_4
+134291|Downtown|Prague|YES|stars_4
+134323|Ulrika|Karlsbad|NO|stars_4
+134847|Grand|Cesky Krumlov / Krumau|NO|stars_4
+134931|Residence Green Lobster|Prague|YES|stars_4
+135676|Ankora|Prague|NO|stars_3
+135686|Salvator|Karlsbad|NO|stars_4
+135691|Barborka|Predni Vyton|NO|stars_3
+135954|The Augustine|Prague|NO|stars_5
+136244|Stein|Cheb|NO|stars_3
+136245|Maltezsky Kriz|Karlsbad|NO|stars_4
+136247|Podhrad|Hluboká nad Vltavou|NO|stars_4
+136403|Euroagentur Royal Esprit|Prague|YES|stars_4
+136621|Slunce|Marianske Lazne|NO|stars_4
+136625|Aqua Palace|Prague|NO|stars_4
+137765|Olga|Prague|NO|stars_3
+137816|Alqush|Prague|NO|stars_4
+138076|INTER-AMERICA|Písek|NO|stars_4
+138636|Antik|Prague|YES|stars_4
+138738|Buddha-Bar|Prague|YES|stars_5
+139147|Opat|Kutna Hora|NO|stars_4
+140440|City Partner Hotel Gloria|Prague|YES|stars_3
+140925|Marttel Karlovy Vary|Karlsbad|NO|stars_3
+140927|Apart Angel|Prague|NO|stars_4
+140936|U Kocku|Prague|NO|stars_4
+140938|Vitkov|Prague|NO|stars_4
+142197|Barcelo Old Town Praha|Prague|YES|stars_4
+145303|Regata|Pec Pod Snezkou|NO|0
+151324|Venezia Old Town|Prague|NO|stars_4
+151325|Academic & Congress Centre|Prague|NO|stars_4
+151328|Modra Ruze|Prague|NO|stars_4
+151329|U Suteru|Prague|NO|stars_4
+151330|U Svateho Jana|Prague|NO|stars_3.5
+151334|AGH Hotel|Roznov Pod Radhostem|NO|stars_4
+151337|Royal Plaza|Prague|NO|stars_3
+151340|Amber Hotel Bavor|Strakonice|NO|stars_3
+151347|Susa Aparthotel|Prague|NO|stars_3
+151360|Bohemia Plaza|Prague|NO|stars_4
+151364|Alley|Olomouc|NO|stars_4
+151366|Capital Apartments Wenceslas Square|Prague|NO|stars_3
+151375|Chateau Mcely|Mcely|NO|stars_5
+151376|City Apart Hotel Brno|Brn/Brna|NO|stars_3.5
+151377|Clarion Grandhotel Zlatý Lev|Liberec|NO|stars_4
+151378|Clarion Prague City|Prague|NO|stars_4
+151388|Domus Henrici Boutique|Prague|NO|stars_4
+151394|Euroagentur Business Jihlava|Jihlava|NO|stars_4
+151395|Euroagentur Downtown Suites|Prague|NO|stars_4
+151396|EA Hotel Mozart|Karlsbad|NO|stars_3
+151397|Euroagentur Terasa|Frýdek-Místek|NO|stars_4
+151403|greenYacht Prague|Prague|NO|stars_4
+151414|U Zlatych Nuzek|Prague|NO|stars_4
+151417|Abe|Prague|NO|stars_3
+151418|Adeba|Prague|NO|stars_3
+151419|Adria|Karlsbad|NO|stars_3
+151422|Resort Poppy|Karlsbad|NO|stars_4
+151429|Artesse|Prague|NO|stars_3
+151430|Avanti|Brn/Brna|YES|stars_4
+151436|Bedriska|Spindleruv Mlyn|NO|stars_3
+151439|Biskupský Dum|Prague|NO|stars_4
+151442|Bohemia|Frantiskovy Lazne|NO|stars_3
+151448|Casanova|Duchcov|NO|stars_3
+151449|Centro|Nemcicky u Hustopece|NO|stars_4
+151453|City Bell|Prague|NO|stars_3
+151457|Columbo|Prague|NO|stars_3
+151460|D'Angelo|Prague|NO|stars_3
+151461|Dar|Prague|NO|stars_3
+151465|Villa St.Tropéz|Prague|NO|stars_4
+151466|Elizza|Prague|NO|stars_3
+151468|Fit|Prerov|NO|stars_3
+151469|Forrest|Prague|NO|stars_3
+151473|Palatin|Karlsbad|NO|stars_4
+151477|Grand Revnice|Revnice|NO|stars_3
+151480|Heluan|Karlsbad|NO|stars_4
+151486|Inturprag|Prague|NO|stars_3
+151487|Jan Maria|Ostrava|NO|stars_4
+151488|Jerabek|Prague|NO|stars_3
+151496|Kucera|Karlsbad|NO|stars_3
+151504|Lunik|Prague|NO|stars_3
+151506|Mas|Sezimovo Ústí|NO|0
+151507|Morris|Ceska Lipa|NO|stars_4
+151514|Palace Plzen|Plzen|NO|stars_4
+151515|Palacky|Karlsbad|NO|stars_4
+151516|Palcat|Tabor|NO|stars_3
+151518|Park Holiday|Prague|NO|stars_4
+151525|Pod Vezi|Prague|NO|stars_4
+151526|Pod Zvicinou|Bila Tremesna|NO|stars_2
+151530|Klarov|Prague|YES|stars_4
+151532|Praha|Liberec|NO|stars_3
+151534|Purkmistr|Plzen|NO|stars_4
+151535|Pytloun|Liberec|NO|stars_4
+151536|Relax Inn|Prague|NO|stars_4
+151538|Residence Retezova|Prague|NO|stars_4
+151539|Residence Tabor|Prague|NO|stars_3
+151543|Rubicon|Prague|NO|stars_3
+151544|Ruby Blue|Ostrava|NO|stars_4
+151546|Salvator|Prague|NO|stars_3
+151548|Sant Georg|Marianske Lazne|NO|stars_4
+151551|Slovan|Brn/Brna|NO|stars_3
+151560|Little Quarter|Prague|YES|stars_3.5
+151564|U Krize|Prague|YES|stars_3.5
+151569|Ungelt Prague|Prague|NO|stars_4
+151577|Vitkova Hora|Karlsbad|NO|stars_3
+151578|Vydra|Kasperske Horny|NO|stars_3
+151582|Zamek Zabreh|Ostrava|NO|stars_4
+151593|Bellevue Karlov|Benesov|NO|stars_4
+151618|OREA Fontana I & II|Luhacovice|NO|stars_3
+151620|Orion|Prague|NO|stars_3
+151622|Park Inn Ostrava|Ostrava|NO|stars_4
+151625|Travel|Prague|NO|stars_3
+151626|Pension Prague City|Prague|NO|stars_3
+151627|Pension Tara|Prague|NO|stars_1
+151634|Praga Central Residence|Prague|NO|stars_3
+151636|Prague Golden Age|Prague|NO|stars_3
+151640|Relax Park Modra Stodola|Horomerice|NO|stars_4
+151641|Residence Bene|Prague|NO|stars_3
+151643|Residence La Passionaria|Marianske Lazne|NO|stars_4
+151646|Royal Ricc|Brn/Brna|YES|stars_4
+151653|Sheraton Prague Charles Square|Prague|YES|stars_5
+151663|Villa Basileia|Karlsbad|NO|stars_3
+151664|Villa Patriot|Marianske Lazne|NO|stars_4
+151669|Pension Accord|Prague|NO|stars_3
+151671|King George's|Prague|NO|stars_3
+151672|Betlem Club|Prague|NO|stars_3
+151673|Golden Key|Prague|YES|stars_3
+151675|Andante|Prague|NO|stars_3
+182330|Barbara|Marianske Lazne|NO|stars_3
+182466|Europa|Brn/Brna|YES|stars_3
+182467|Tommy|Nachod|NO|stars_3
+182469|Villa Gloria|Marianske Lazne|NO|stars_3
+182634|Grund Ski & Golf Resort|Mlade Buky|NO|stars_4
+182726|Jurys Inn Prague|Prague|YES|stars_4
+182796|Kurhaus Vesely|Lazne Bohdanec|NO|stars_3
+182816|Cajkowskij|Karlsbad|NO|stars_4
+182844|Park Inn Hotel Prague|Prague|YES|stars_4
+182912|City Central|Prague|YES|stars_3
+182913|Grand Majestic Plaza|Prague|YES|stars_4
+182979|Colloseum|Prague|YES|stars_3
+183163|Kurhaus Diana|Frantiskovy Lazne|NO|stars_3
+183164|Kurhotel Reza|Frantiskovy Lazne|NO|stars_3
+183420|Kings Court|Prague|YES|stars_5
+183421|Ibis Plzen|Plzen|NO|stars_3
+184239|OREA Concertino|Jindrichuv Hradek|NO|stars_4
+184246|Mìdínek|Kutna Hora|NO|stars_3
+184249|OREA Devet Skal|Svratka|NO|stars_3
+184255|U Ceske Koruny|Prague|NO|stars_3
+187789|Euroagentur Julis|Prague|NO|stars_4
+187914|Designhotel Elephant Praha|Prague|YES|stars_4
+188835|Morris Golfhotel|Marianske Lazne|NO|stars_4
+196099|Wellness Hotel Rezidence|Nové Hrady|NO|stars_4
+196160|Lafonte|Karlsbad|NO|stars_4
+196319|Cerny Slon|Prague|NO|stars_4
+201598|Kurhotel Hubert|Frantiskovy Lazne|NO|stars_3
+201601|Vila Valas¡ka|Luhacovice|NO|0
+201604|Schwefelbad Ostrozská Nová Ves|Ostrozská Nová Ves|NO|stars_3
+201823|Jurkovicuv Dum|Luhacovice|NO|stars_4
+201825|Zálesí|Luhacovice|NO|0
+202304|Promenada|Karlsbad|NO|stars_4
+202305|Klinovec Apartments|Loucna-Klinovec|NO|stars_3
+202941|Mühle|Mostov|NO|stars_3
+202996|Wellness & Treatment Hotel GHC / GHC Klinik Prag|Prague|NO|stars_4
+202998|Kurhotel Brussel|Frantiskovy Lazne|NO|stars_4
+203000|Astoria|Jachymov|NO|stars_3
+203001|Kurkomplex Curie -Praha - Elektra - Kurhaus Elektra|Jachymov|NO|stars_3
+203412|Bohemia|Horni Blatna|NO|stars_3
+203563|Villa Charlotte|Karlsbad|NO|stars_4
+203580|Praga 1885|Prague|NO|stars_4
+203688|7 Angels|Prague|NO|stars_3
+205011|Templova Apartments|Prague|NO|stars_3
+205200|Arigone|Olomouc|NO|stars_3
+205259|Arte|Brn/Brna|NO|stars_4
+205334|A-Sport Hotel|Brn/Brna|NO|stars_3
+207019|Cascade|Most|NO|stars_3
+207137|Central|Plzen|NO|stars_4
+207151|Central Tiepolo|Prague|NO|stars_3
+207248|Charles Bridge Apartments|Prague|NO|stars_2.5
+207420|City Hotel|Brn/Brna|NO|stars_3
+207640|Barcelo Brno Palace|Brn/Brna|YES|stars_4
+207927|Cyro|Brn/Brna|NO|stars_3
+208696|Edinburgh|Marianske Lazne|NO|stars_3
+208874|Enjoy Inn|Plzen|NO|stars_3
+209245|Filip|Budweis|NO|stars_3
+209402|Francis|Frantiskovy Lazne|NO|stars_3
+209535|Romantick|Cesky Krumlov / Krumau|NO|stars_2.5
+209787|Giovanni Giacomo|Bad Teplice|NO|stars_4
+209856|Golden Fish|Plzen|NO|stars_4
+209888|Karolina Golf|Karlsbad|NO|stars_3
+210038|Green Inn Hotel|Ostravice|NO|stars_5
+210937|La Fenice Residence|Prague|NO|stars_3
+212058|Kavalerie|Karlsbad|NO|stars_3
+213128|Leonardo|Cesky Krumlov / Krumau|NO|stars_4
+213668|Mahleruv Penzion Na Hradbach|Jihlava|NO|stars_3
+213924|Maxim|Beroun|NO|stars_3
+214015|Otakar|Prague|NO|stars_3
+214715|Old Town Square Apartments|Prague|NO|stars_3
+214749|Ondras Z Beskyd|Ostravice|NO|stars_3
+215078|Parkhotel Brno|Brn/Brna|NO|stars_4
+215214|Pension Ametyst|Cesky Krumlov / Krumau|NO|stars_3
+215223|Pension Bambino|Liberec|NO|stars_2
+215261|Pension Fontana Svitavy|Svitavy|NO|stars_3
+215316|Pension Mona|Harrachov|NO|stars_2
+215425|Penzion Svet|Cesky Krumlov / Krumau|NO|stars_3
+216433|Puk|Beroun|NO|stars_4
+216446|Pytloun Design Hotel|Liberec|NO|stars_4
+216921|Residence Salvia|Liberec|NO|stars_4
+216938|U Cerneho Orla|Prague|NO|stars_4
+217028|Resident Harrachov|Harrachov|NO|stars_4
+217090|Restaurant & Design Hotel Noem Arch|Brn/Brna|NO|stars_4
+217281|Richard|Marianske Lazne|NO|stars_4
+217462|Rossini|Frantiskovy Lazne|NO|stars_3
+217479|Rous|Plzen|NO|stars_4
+217795|Hostel Santini Prague|Prague|NO|stars_5
+217815|Savannah|Znojmo|NO|stars_4
+217955|Seneca|Cesky Krumlov / Krumau|NO|stars_4
+218595|Svambersky dum|Cesky Krumlov / Krumau|NO|stars_3
+218608|SwissHouse Apartmets & Spa|Marianske Lazne|NO|stars_4
+219909|U Zvonu|Plzen|NO|stars_4
+219966|Vaka|Brn/Brna|NO|stars_4
+220425|Villa Schwaiger|Prague|NO|stars_4
+220931|Zavis z Falkenstejna|Hluboká nad Vltavou|NO|stars_4
+221202|Arnost Garni|Pardubice|NO|stars_3
+221892|Euro|Pardubice|NO|stars_4
+222420|Kaskáda Golf Resort|Kurim|NO|stars_4
+222820|Motel Dacice|Dacice|NO|stars_3
+223027|Stilec|Budweis|NO|stars_3
+223452|Sokolský Dum Austerlitz|Slavkov u Brna|NO|stars_3
+223492|Stara Skola|Horice na Sumave|NO|stars_2
+223785|Vranov|Vranov u Brna|NO|stars_3
+223840|Zámecký Zlatý Orel|Hranice na Morave|NO|stars_3
+223857|Zlatý Lev|Zatec|NO|stars_4
+226716|First Republic|Prague|NO|stars_4
+226790|Vista|Brn/Brna|YES|stars_3
+226821|MOODs Boutique|Prague|NO|stars_4
+226998|Kolonada|Karlsbad|NO|stars_4
+227170|Barceló Praha Five|Prague|YES|stars_4
+227481|NH Olomouc Congress|Olomouc|YES|stars_4
+227682|Parkhotel Morris|Novy Bor - Lausitzgebirge/Lausitz Mountains|NO|stars_4
+227820|Friday|Prague|YES|stars_4
+227849|Clement|Prague|YES|stars_4
+228009|Pension Barytka|Spindleruv Mlyn|NO|stars_3
+228213|Royal Regent|Karlsbad|NO|stars_4
+228383|Red & Blue Design|Prague|YES|stars_4
+228751|Sanatorium Klima|Frantiskovy Lazne|NO|stars_4
+229137|Zimni Lazne|Podebrady|NO|stars_3
+229196|Pavlov|Karlsbad|NO|stars_4
+229472|Boromeum Residence|Hradec Králové|NO|stars_3
+229507|Andel Apartments|Prague|NO|stars_3
+229511|Nautilus|Tabor|NO|stars_4
+229515|Sporthotel Zaton|Vetrní|NO|stars_4
+229521|Rezidence Vitkova|Prague|NO|stars_3
+230351|Lessertown|Prague|NO|stars_3
+231979|Aplaus|Litomysl|NO|stars_4
+231981|Verona Mea|Beroun|NO|stars_3
+232432|Pomi|Harrachov|NO|stars_3
+232750|Trevi|Prague|NO|stars_4
+232758|Olympik Artemis|Prague|NO|stars_4
+233309|Donatello|Prague|NO|stars_4
+233310|Downtown Residence|Prague|NO|stars_3
+233312|PurPur|Prague|NO|stars_3
+233313|Residence Leon D'Oro|Prague|YES|stars_3
+233330|Zizkova Bouda|Pec Pod Snezkou|NO|stars_2
+234118|Charles Bridge Residence|Prague|NO|stars_3
+235618|INGO Arnika|Kubova Hut|NO|stars_3
+237024|Mercure Ostrava Center|Ostrava|NO|stars_4
+237133|Kristýna|Spindleruv Mlyn|NO|stars_3
+237384|U Kata|Kutna Hora|NO|stars_3
+237806|Gabriela|Vitkovice|NO|stars_3
+237827|Simply Hotel|Prague|NO|stars_3
+237836|Andel Apartments Prague B&B|Prague|NO|stars_3
+237964|Star 1-2|Veiprty|NO|stars_3
+241248|Pension na Krizovatce|Pec Pod Snezkou|NO|stars_2
+241676|Taurus|Prague|NO|stars_4
+241822|Senimo|Olomouc|NO|stars_3
+243639|Clarion Congress Usti Nad Labem|Usti nad Labem|NO|stars_4
+243759|Pension Thalleruv Dum|Cesky Krumlov / Krumau|NO|stars_3
+243787|Chateau Zbiroh|Zbiroh|NO|stars_4
+244308|Svata Katerina|Pocatky|NO|stars_4
+245284|Studanka|Rychnov nad Kneznou|NO|stars_4
+245578|Maxant|Frymburk Hrdonov|NO|stars_3
+247212|Villa Mansland Gay Prague|Prague|NO|stars_3
+247485|Kurkomplex Pawlik/ Isis - Pawlik|Frantiskovy Lazne|NO|stars_4
+247486|Kurkomplex Pawlik/ Isis - Isis|Frantiskovy Lazne|NO|stars_3
+247764|Old Town|Brn/Brna|NO|stars_4
+249659|Fusion Praha|Prague|NO|stars_4
+253461|National Museum Aparthouse|Prague|NO|stars_3.5
+253464|Arcadia Residence|Prague|NO|stars_3
+253465|Masaryk Residence|Prague|NO|stars_4
+253466|At the Green Grape|Prague|NO|stars_4
+253469|Volcano Spa Hotel|Prague|NO|stars_4
+253472|Hostel Marabou Prague|Prague|NO|stars_2
+253473|Hotel Aladin|Prague|NO|stars_3
+253474|Pure White|Prague|NO|stars_4
+253475|Residence Pinkas Prague|Prague|NO|stars_3
+253476|Noir|Prague|NO|stars_4
+253477|Little Town Budget Hotel - Hostel|Prague|NO|stars_3
+253479|Aparthotel Na Belidle|Prague|NO|stars_3
+253482|Green Oasis Wenceslas Square|Prague|NO|stars_3
+253485|St. Christopher's at Mosaic House|Prague|NO|stars_4
+253488|Royal Road Residence|Prague|NO|stars_3
+253490|Thunovska 19|Prague|NO|stars_4
+253493|Bijou de Prague|Prague|YES|stars_4
+253497|Corto Old Town Pension|Prague|NO|stars_3
+253499|Red Chair Hotel (U Cervené Zidle)|Prague|NO|stars_3
+253500|Hostel Home|Prague|NO|stars_2
+253501|Residence Týnská|Prague|NO|stars_4
+253503|Residence Jecna|Prague|NO|stars_4
+253505|Hotel & Residence Standard|Prague|NO|stars_3
+253508|Astra Krasova I|Prague|NO|stars_1
+253509|Cimburkova 33|Prague|NO|stars_3
+253511|Kern|Prague|NO|stars_3
+253512|Hunger Wall Residence|Prague|NO|stars_4
+253513|Sporthotel Praha|Prague|NO|stars_2
+253514|Easy Journey|Prague|NO|stars_3
+253515|Filip|Prague|NO|stars_3
+253518|Aaron|Prague|NO|stars_3
+253519|Alice Penzion|Prague|NO|stars_2
+253522|Platan pension|Prague|NO|stars_2.5
+253524|Pension Edvin|Prague|NO|stars_3
+253525|Hostel Rosemary|Prague|NO|stars_2
+253526|Jewel Prague|Prague|NO|stars_4
+253527|Villa Milada|Prague|NO|stars_4
+253528|Deminka Palace|Prague|NO|stars_4
+253529|Alchymist Prague Castle|Prague|NO|stars_5
+253531|Merchant's Yard Residence|Prague|NO|stars_4
+253532|Residence V Tuních 14|Prague|NO|stars_3
+254106|Depandance Romantic Suites|Marianske Lazne|NO|stars_3
+254107|Villa Marion|Marianske Lazne|NO|stars_3
+254108|Pegas|Brn/Brna|NO|stars_3
+254112|EEL Ubytovani Brno|Brn/Brna|NO|stars_3
+254114|A Podlesí|Brn/Brna|NO|stars_3
+254256|Pension Pod Lanovkou|Jachymov|NO|stars_2
+254257|Dependency Luzice|Jachymov|NO|stars_3
+254982|Sebastian|Cesky Krumlov / Krumau|NO|stars_3
+254985|Mini Hotel Abraka|Cesky Krumlov / Krumau|NO|stars_3
+254989|Peregrin|Cesky Krumlov / Krumau|NO|stars_3
+254991|Garni Mysí Díra|Cesky Krumlov / Krumau|NO|stars_3
+254992|U Matesa|Cesky Krumlov / Krumau|NO|stars_3
+254993|Rehavital|Jablonec nad Nisou|NO|stars_3
+255888|Pension Schneeberg|Bozi Dar|NO|stars_3
+255926|Pytloun City Boutique Hotel|Liberec|NO|stars_4
+255929|Pytloun Travel Hotel|Liberec|NO|stars_3
+256058|U Krále|Jicin|NO|stars_3
+256059|Paríz|Jicin|NO|stars_3
+256077|Teplice Plaza|Bad Teplice|NO|stars_4
+256144|Pension City|Plzen|NO|stars_3
+256258|Antik Hotel Sofia Litomysl|Litomysl|NO|stars_3
+256343|Pension Primus|Beroun|NO|stars_2
+256446|Budweis|Budweis|NO|stars_4
+256826|Schlosspark|Karlsbad|NO|stars_4
+256827|Windsor SPA Hotel|Karlsbad|NO|stars_3
+256829|Excelsior|Karlsbad|NO|0
+256887|Pension Krivá|Olomouc|NO|stars_3
+256888|Sporthotel Barborka|Hluboká nad Vltavou|NO|stars_3
+257574|The Forest Garden Hotel|Hrensko|NO|stars_4
+257848|Avionika - Guest House|Kovarska|NO|stars_3
+257893|U Zlateho byka|Písek|NO|stars_3
+258008|Golf Resort Konopiste|Benesov|NO|stars_4
+258024|Racek|Cerna v. Posumavi|NO|stars_3
+258025|Miura Hotel|Celadna|NO|stars_4
+258076|Zlatá Lípa|Decin|NO|stars_3
+258126|Penzion Na Doline|Frenstat pod Radhostem|NO|stars_3
+258141|Albatros Active|Prachatice|NO|stars_3
+258142|Albatros Relax|Prachatice|NO|stars_4
+258233|Afrika|Frýdek-Místek|NO|stars_4
+258430|Morava|Znojmo|NO|stars_2
+259345|Kravi Hora|Boretice|NO|stars_3
+259400|Ibis Olomouc Centre|Olomouc|NO|stars_3
+260174|Golden Prague Residence & Hotel InterContinental Praha - Golden Prague Residence|Prague|NO|stars_4.5
+260182|Kur Hotel Harvey|Frantiskovy Lazne|NO|stars_4
+260467|Pyramida - Pyramida I|Frantiskovy Lazne|NO|stars_4
+260468|Pyramida - Pyramida II|Frantiskovy Lazne|NO|stars_4
+260775|Zlata Vaha|Prague|NO|stars_3
+260800|Jezerka|Sec|NO|stars_3
+260801|Kotyza|Humpolec|NO|stars_4
+260874|MH Apartments Central Prag|Prague|NO|stars_4
+261181|Ski|Nové Mesto na Morave|NO|stars_3
+261182|Vitality|Vendryne|NO|stars_4
+261290|Maximus Resort|Brn/Brna|NO|stars_4
+261817|Vista|Králíky|NO|stars_4
+261818|Wellness Hotel Diana|Velke Losiny|NO|stars_4
+261819|Wellness Resort Energetic|Roznov Pod Radhostem|NO|stars_4
+263160|Jilska|Prague|NO|stars_3
+263161|Grandior Hotel Prague|Prague|NO|stars_5
+263185|Residence VYSTA|Prague|NO|stars_3
+265714|OREA Hotels - Wellness Hotel Horizont & Hotel Spicák|Zelezna Ruda|NO|stars_3
+267526|Bohemia Apartments Prague Centre|Prague|NO|stars_3
+267527|Apartments Happy Prague 2|Prague|NO|stars_3
+267528|Apartments Dusní|Prague|NO|stars_3
+267531|Apartments Tynska 7|Prague|NO|stars_3
+267532|Jungmann|Prague|NO|stars_4
+267534|Na Strani|Prague|NO|stars_3
+267538|I'm Hostels and Apartments|Prague|NO|stars_2
+267540|Wenceslas Square|Prague|NO|stars_3
+267543|Hostel Sklep|Prague|NO|stars_2
+267544|Staying Prague|Prague|NO|stars_3
+270516|Speedway|Marianske Lazne|NO|stars_3
+270517|Penzion Dvorákova|Brn/Brna|NO|stars_2
+270518|Jonathan Pension|Brn/Brna|NO|stars_3
+275781|Quisisana Palace|Karlsbad|NO|stars_5
+275782|Salve|Karlsbad|NO|stars_4
+275783|Luxury Spa & Wellness Hotel Prezident|Karlsbad|NO|stars_4
+276872|La Fresca|Kromeriz|NO|stars_4
+278231|Prague Central Apartments|Prague|NO|stars_4
+285377|Charles Bridge Palace|Prague|NO|stars_4
+285386|Apartmenthaus Graf|Prague|NO|stars_3
+285387|Chateau Hotel Liblice|Bysice|NO|stars_4
+286409|Perla Jizery|Josefuv Dul|NO|stars_3
+288069|Seifert|Nové Hamry|NO|stars_3
+288391|Selsky Dvur|Vyskovec|NO|stars_3
+288392|Penzion Sirius|Vyskovec|NO|stars_3
+288393|Kopanice|Zitková|NO|stars_4
+289419|Akademie Hotel|Olomouc|NO|stars_3
+289422|Relaxing & Regeneration Centre|Hluboká nad Vltavou|NO|stars_5
+289423|Pytloun Hotel Ostrov|Tisa|NO|stars_4
+289424|Adámkova Vila|Frýdek-Místek|NO|stars_4
+289822|Bykov|Hromnice|NO|stars_3
+289823|Chateau Kotera|Ratbor|NO|stars_4
+289868|Clochard|Chomutov|NO|stars_3
+290729|Krusnohor|Ostrov nad Ohrí|NO|stars_3
+291362|Penzion Speller|Benesov|NO|stars_2
+291967|Euroagentur Joseph 1699|Trebic|NO|stars_4
+292105|Kurhotel Berlin|Marianske Lazne|NO|stars_3
+295443|Kurkomplex Curie - Praha - Elektra|Jachymov|NO|stars_3
+297840|Spa & Wellness Hotel Alexandria|Luhacovice|NO|stars_4
+299647|Rainbow-Inn|Prague|NO|stars_3
+301256|At the Golden Plough Apartments|Prague|NO|stars_3
+301259|Royal Court Apartments|Prague|NO|stars_3
+302618|Spa & Wellness Hotel Harmonie|Marianske Lazne|NO|stars_4
+302619|Danubius Health Spa Resort Centrální Lázne & Maria SPA - Maria SPA Courtyard|Marianske Lazne|NO|stars_4
+302621|Kurhaus Palace 1+2  & Dependance Bellaria - Palace 1|Frantiskovy Lazne|NO|stars_4
+302622|Kurhaus Palace 1+2  & Dependance Bellaria - Palace 2|Frantiskovy Lazne|NO|stars_3
+302623|Kurhaus Palace 1+2  & Dependance Bellaria - Bellaria|Frantiskovy Lazne|NO|0
+302633|Jirásek|Konstantinovy Lazne|NO|0
+302634|Prusík|Konstantinovy Lazne|NO|0
+302635|Theresienbad|Dubi|NO|0
+302636|Inn|Lázne Libverda|NO|0
+302637|Pension Frýdlant|Lázne Libverda|NO|0
+302638|Kurhotel Bezruc|Jesenik|NO|0
+302639|Kurhotel Jan Ripper|Jesenik|NO|0
+302640|Moravan|Teplice nad Becvou|NO|stars_3
+311124|Andel's Hotel & Suites Prague - Andel's Hotel|Prague|NO|stars_4
+311125|Andel's Hotel & Suites Prague - Andel's Suites|Prague|NO|stars_4
+311202|Lazne Hotel Vraz|Vráz|NO|stars_3
+354503|Darwin|Prague|NO|stars_4
+359467|Star 4|Veiprty|NO|stars_3
+359932|pentahotel Prag|Prague|NO|stars_4
+359949|Bergpension Orlik|Pec Pod Snezkou|NO|stars_2
+363460|Stredoveky|Detenice|NO|0
+365243|Spa Hotel Vita|Budweis|NO|stars_4
+365545|UNIC Prague|Prague|NO|stars_4
+368854|Best Western Plus Pytloun|Liberec|NO|stars_4
+373501|Victor|Prague|NO|stars_3
+373506|Lifestyle Hotel|Prague|NO|stars_4
+373521|Hotel 51|Prague|NO|stars_3
+373523|Berchtold Zamek|Vidovice|NO|stars_3
+374460|Relax|Cerna v. Posumavi|NO|stars_4
+380468|Jitrava|Liberec|NO|stars_4
+383419|Miroslava Spa|Lednice na Morave|NO|stars_4
+384388|Rezidence Bradfort|Karlsbad|NO|stars_3
+384392|Petr|Karlsbad|NO|stars_3.5
+389593|Apartmany Kouty|Loucna nad Desnou|NO|0
+389846|Olympionik|Melnik|NO|stars_3
+390241|Arkada|Slavonice|NO|stars_3
+390909|Corona|Kaplice|NO|stars_4
+391195|Ceské Zleby|Stozec|NO|stars_3
+391283|Pohoda|Luhacovice|NO|stars_4
+391939|The Emblem Hotel|Prague|NO|stars_5
+392214|Star Hotel Benecko|Jilemnice|NO|stars_3
+400812|EA Hotel Embassy Prague|Prague|YES|stars_4
+403424|Vlkova Central Palace - Residence|Prague|NO|stars_3.5
+403574|Campea Aparthotel|Brn/Brna|NO|stars_3
+404067|Kladno|Kladno|NO|stars_3
+404393|Beseda|Prague|YES|stars_4
+404407|Pytloun Hotel Harrachov|Harrachov|NO|stars_3
+407888|La Ballerina|Prague|NO|stars_5
+408799|Danubius Health Spa Resort Centrální Lázne & Maria SPA|Marianske Lazne|NO|stars_4
+409006|Helios|Lipová-lázne|NO|stars_3
+409213|Hotel Maxmilian Lifestyle Resort|Loucen|NO|0
+409214|Penzion Bela|Bela Pod Pradedem|NO|0
+411019|Hotel Slunecna Louka|Lipno nad Vltavou|NO|0
+411789|Hotel Rajska zahrada|Nové Mesto nad Metují|NO|stars_4
+411818|Hotel  Capek|Karlsbad|NO|stars_4
+412277|Golf  - Depandance|Prague|NO|stars_4
+417522|Zvon Design Suites|Budweis|NO|stars_5

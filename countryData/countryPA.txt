@@ -1,0 +1,87 @@
+10717|Contadora Beach Resort|Isla Contadora|NO|stars_3
+11916|Ejecutivo|Panama City|NO|stars_4
+11987|El Panama Convention Center & Casino|Panama City|YES|stars_4
+17529|Miramar Intercontinental|Panama City|YES|stars_4.5
+20670|Royal Decameron Golf Beach Resort & Villas|Farallon|NO|stars_4
+27073|Country Inn & Suites Panama Canal|Panama City|YES|stars_3
+27074|Panama Marriott|Panama City|NO|stars_4
+38204|Gamboa Rainforest Resort|Gamboa|YES|stars_4.5
+38207|Crowne Plaza Panama|Panama City|YES|stars_4
+38208|Meliá Panamá Canal|Colon|YES|stars_4.5
+47982|Playa Blanca Hotel & Resort|Playa Blanca|YES|stars_4
+48090|Las Huacas|Panama City|YES|stars_4
+64574|Intercontinental Playa Bonita Resort & Spa|Playa Bonita|YES|stars_5
+67627|Radisson Decapolis Panama City|Panama City|NO|stars_4
+76406|Gran Hotel & Casino Soloy|Panama City|YES|stars_3.5
+76407|Riande Granada|Panama City|YES|stars_4
+77564|GHL Hotel Panama Marbella|Panama City|NO|stars_4
+87763|Riande Airport Hotel & Resort|Panama City|YES|stars_4
+88149|The Continental Hotel & Casino|Panama City|YES|stars_4
+88167|The Bristol|Panama City|NO|stars_5
+88393|Tropical Suites|Bocas del Toro|YES|stars_0
+88427|Country Inn & Suites Panama City|Panama City|YES|stars_3
+88796|Bambito Resort|Volcán|YES|stars_4
+90634|DeVille|Panama City|YES|stars_4
+90639|Hotel Celuisma Los Guayacanes|Chitre|NO|stars_3.5
+90642|Acqua Lodge Punta Caracol|Bocas del Toro|YES|stars_3.5
+91120|Sheraton Panama Hotel & Convention Center|Panama City|YES|stars_5
+93695|Avalon Grand Panama|Panama City|NO|stars_4
+93697|Aramo|Panama City|YES|stars_3
+100735|Playa Tortuga|Bocas del Toro|YES|stars_4
+103251|Holiday Inn Panama Canal|Panama City|YES|stars_4
+104102|Torres de Alba|Panama City|NO|stars_4
+121516|Courtyard by Marriott at Multiplaza Mall|Panama City|YES|stars_4
+122450|New Washington|Colon|YES|stars_3
+122451|Stanford|Panama City|YES|stars_3
+122452|Veneto, a Wyndham Grand Hotel|Panama City|YES|stars_4.5
+122454|Tower House Suite|Panama City|YES|stars_3
+132889|Coral Suites|Panama City|NO|stars_4
+132890|Marbella|Panama City|NO|stars_3
+135434|Benidorm|Panama City|YES|stars_3
+135435|Bahia Suites|Panama City|YES|stars_3
+135436|Veracruz|Panama City|YES|stars_2.5
+138631|Andino|Panama City|YES|stars_3
+161875|La Cresta Inn|Panama City|NO|stars_3
+161876|Via Espana|Panama City|NO|stars_3
+161879|Los Mandarinos|El Valle de Antón|NO|stars_4
+161882|Amador Ocean View Hotel & Suites|Panama City|NO|stars_3
+161886|Four Points Colon|Colon|YES|stars_4
+162139|Valle Escondido Resort Golf and Spa|Boquete|NO|stars_4
+182879|Toscana Inn|Panama City|NO|stars_3
+188019|JW Marriott Panama Golf & Beach Resort|Playa Blanca|NO|stars_5
+227422|Le Méridien Panama|Panama City|YES|stars_5
+227757|Riu Panama Plaza|Panama City|NO|stars_5
+228022|Esplendor Panamá|Panama City|YES|stars_4
+229152|Solarium Coronado Beach|Panama City|YES|stars_3
+230511|Centrum Tower Suites|Panama City|NO|stars_3
+232917|Dos Mares|Panama City|YES|stars_3
+233743|Radisson Summit & Golf Panama|Panama City|NO|stars_4
+233744|San Roque B&B Panama|Panama City|NO|stars_2.5
+234556|Manrey|Panama City|NO|stars_5
+235103|Ciudad de David|David|NO|stars_4
+235568|Vista Del Mar / Bay Front Tower / Grand Bay Tower|Panama City|NO|stars_5
+235569|Wyndham Garden Panama City|Panama City|YES|stars_3.5
+236689|Victoria Hotel & Suites|Panama City|NO|stars_4
+237287|Mediterranean Dreams|Panama City|NO|stars_3
+238858|Trump Ocean Club International Hotel & Tower Panama|Panama City|NO|stars_5
+239308|Eco Inn Avila|Panama City|NO|stars_3
+239901|Courtyard Panama City Metromall|Panama City|NO|stars_3.5
+242018|Sheraton Bijao Beach Resort|Santa Clara|YES|stars_4
+244204|Doubletree by Hilton|Panama City|NO|stars_4
+246137|Las Clementinas|Panama City|NO|stars_3.5
+247733|Expo Centro Zona Libre|Colon|NO|stars_3
+247787|Panama Studio Apartments|Panama City|NO|stars_3
+260370|The Westin Playa Bonita|Panama City|YES|stars_5
+260971|Wyndham Grand Playa Blanca|Playa Blanca|NO|stars_5
+261177|Hard Rock Panama Megapolis|Panama City|NO|stars_4
+280143|Waldorf Astoria Panama|Panama City|NO|stars_5
+280154|Tantalo Hotel / Kitchen / Roofbar|Panama City|NO|stars_3.5
+280156|Marriott Executive Apartments Panama City, Finisterre|Panama City|NO|stars_4
+287188|Tryp by Wyndham Panama Centro|Panama City|YES|stars_3.5
+287189|Autograph Lodge|Panama City|NO|stars_3
+310849|Hacienda del Mar|Pearl Islands|YES|stars_0
+310851|The Westin Panama|Panama City|YES|stars_5
+363476|Los Quetzales Eco-Lodge|Volcán|NO|stars_2.5
+365482|Riu Playa Blanca|Playa Blanca|NO|stars_4
+368751|Aloft Panama|Panama City|YES|stars_4
+414694|Wyndham Garden Panama Centro|Panama City|YES|stars_3

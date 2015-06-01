@@ -94,7 +94,6 @@ $countrys =  array(
               'LU' => 'Luxembourgh',
               'LV' => 'Latvia',
               'LY' => 'Libyan Arab Jamahiriya',
-              'MA' => 'Morocco',
               'MC' => 'Monaco',
               'MD' => 'Moldova, Republic of',
               'MG' => 'Madagascar',
@@ -105,32 +104,20 @@ $countrys =  array(
               'MP' => 'Northern Mariana Islands',
               'MQ' => 'Martinique',
               'MT' => 'Malta',
-              'MU' => 'Mauritius',
-              'MV' => 'Maldives',
-              'MW' => 'Malawi',
-              'MX' => 'México',
-              'MY' => 'Malaysia',
-              'MZ' => 'Mozambique',
-              'NA' => 'Namibia',
-              'NC' => 'New Caledonia',
-              'NG' => 'Nigeria',
-              'NI' => 'Nicaragua',
-              'NL' => 'Netherlands',
-              'NO' => 'Norway',
-              'NP' => 'Nepal',
-              'NZ' => 'New Zealand',
-              'OM' => 'Oman',
-              'PA' => 'Panama',
-              'PE' => 'Peru',
-              'PF' => 'French Polynesia',
-              'PG' => 'papua New Guinea',
-              'PH' => 'Phillipines',
-              'PK' => 'Pakistan',
-              'PL' => 'Poland',
-              'PR' => 'Puerto Rico',
-              'PT' => 'Portugal',
-              'PW' => 'Palau',
-              'PY' => 'Paraguay',
-              'QA' => 'Qatar',
               'US' => 'United States'__________________Error
           );
+
+AR
+AU
+AT
+BG
+BR
+CA
+CH
+CN
+ES
+FR_largo
+GR_largo
+GB_largo
+IT_largo
+MA

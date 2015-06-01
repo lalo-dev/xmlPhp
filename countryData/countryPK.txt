@@ -1,0 +1,16 @@
+59969|Pearl Continental|Karachi|YES|stars_0
+109611|Pearl Continental Peshawar|Peschawar|YES|stars_0
+161865|Ramada Multan|Multan|YES|stars_0
+161870|Pearl Continental Resort and Conf Bhurban|Abbottabad|YES|stars_0
+161871|Ramada Plaza Karachi Airport|Karachi|YES|stars_0
+161872|Pearl Continental|Rawalpindi|YES|stars_0
+161873|Pearl Continental Muzaffarabad|Muzaffarabad|YES|stars_0
+289974|Fortalice Kohsaar|Islamabad|YES|stars_0
+289978|Hotel One Downtown|Lahore|YES|stars_0
+289981|Hotel One The Mall Lahore|Lahore|YES|stars_0
+289982|Fortalice Multan|Multan|YES|stars_0
+295099|Hotel One Bahawalpur|Bahawalpur|YES|stars_0
+295101|Hotel One Faisalabad|Faisalabad|YES|stars_0
+295102|Zaver Pearl Continental Hotel|Gwadar|YES|stars_0
+295104|Hotel One Sialkot|Sialkot|YES|stars_0
+370899|Hotel One Gulberg|Lahore|YES|stars_0

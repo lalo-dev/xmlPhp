@@ -1,0 +1,25 @@
+8560|Barcelo Montelimar Beach|Montelimar|NO|stars_4
+55487|Holiday Inn Managua - Convention Center|Managua|NO|stars_3.5
+55488|Crowne Plaza Managua|Managua|NO|stars_4
+55489|Real InterContinental Metrocentro|Managua|NO|stars_4
+84355|Best Western Las Mercedes|Managua|NO|stars_3
+88158|Globales Camino Real|Managua|NO|stars_4
+88169|Kekoldi de Granada|Granada|NO|stars_3
+88170|Europeo|Managua|NO|stars_3
+90643|Arenas Beach|Corn Island|NO|stars_2.5
+90650|Alhambra|Granada|NO|stars_3
+91118|Los Robles|Managua|NO|stars_3
+91119|Morgan's Rock Hacienda & Ecolodge|San Juan del Sur|NO|stars_3
+94168|Hilton Princess Managua|Managua|NO|stars_4
+139187|Plaza Colon|Granada|NO|stars_3
+159902|Barcelo Managua|Managua|NO|stars_4
+160004|Aloha|Managua|NO|stars_3
+160014|Dario|Granada|NO|stars_4
+160100|Mozonte|Managua|NO|stars_3
+232053|Jicaro Island Ecolodge|Granada|NO|stars_4
+235101|Hotel El Almirante|Granada|NO|stars_3
+238859|Pelican Eyes Resort & Spa|San Juan del Sur|NO|stars_4
+239152|Brandt's Los Robles de San Juan|Managua|NO|stars_3
+239153|Brandt's Colonial Los Robles|Managua|NO|stars_4
+247796|Bahia del Sol Villas & Condo|San Juan del Sur|NO|stars_3
+407278|Austria|Leon|NO|stars_3

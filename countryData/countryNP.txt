@@ -1,0 +1,40 @@
+14033|Himalaya|Kathmandu|YES|stars_4
+19759|Radisson Kathmandu|Kathmandu|NO|stars_4.5
+20723|Royal Singi|Kathmandu|NO|stars_3.5
+25951|Malla|Kathmandu|YES|stars_4.5
+27295|Hyatt Regency Kathmandu|Kathmandu|NO|stars_5
+27296|Everest|Kathmandu|YES|stars_5
+31219|Fish Tail Lodge|Pokhara|NO|stars_3.5
+31220|Shangri-La Village|Pokhara|NO|stars_4.5
+31221|Pokhara Grande|Pokhara|NO|stars_4.5
+51332|Yak & Yeti|Kathmandu|NO|stars_5
+55477|Thamel|Kathmandu|NO|stars_2
+55480|Crowne Plaza Kathmandu Soaltee|Kathmandu|YES|stars_5
+58562|Moonlight|Kathmandu|NO|stars_2.5
+73015|Shangri-La|Kathmandu|YES|stars_4.5
+75780|De L'Annapurna|Kathmandu|NO|stars_5
+77718|Dwarika's|Kathmandu|NO|stars_5
+77719|Grand|Kathmandu|NO|stars_4
+81932|Kantipur|Pokhara|NO|stars_3
+107173|Fulbari Resort & Spa|Pokhara|NO|stars_4
+129738|Hotel Ambassador|Kathmandu|NO|stars_3
+129739|Guest House Kathmandu|Kathmandu|YES|stars_3
+132843|Park Village Resort|Kathmandu|NO|stars_3.5
+132845|Gangjong|Kathmandu|NO|stars_3
+132849|Shanker|Kathmandu|NO|stars_4
+132857|Barahi|Pokhara|YES|stars_3
+135302|Kantipur Temple House|Thamal|NO|stars_3
+138130|Buddha Maya Garden|Lumbini|NO|stars_3
+160087|Gokarna Forest Golf Resort & Spa|Kathmandu|NO|stars_5
+201539|The Begnas Lake Resort & Village|Pokhara|NO|stars_3
+228394|Mt. Kailash Resort|Pokhara|YES|stars_3
+235074|The Dwarika's Himalayan Shangri-La Village Resort|Dhulikhel|NO|stars_4
+235560|Acme Guest House|Kathmandu|NO|stars_2
+235562|Lai Lai Holiday Inn|Kathmandu|NO|stars_2
+235563|Utse|Kathmandu|NO|stars_2.5
+242310|Grand Millennium Guest House|Kathmandu|NO|stars_1.5
+242311|Marsyangdi Mandala|Kathmandu|NO|stars_3
+242312|Samsara Resort|Kathmandu|NO|stars_3
+242313|Panorama|Pokhara|NO|stars_2
+244198|Heritage Home|Kathmandu|NO|stars_2
+261243|Temple Tree Resort & Spa|Pokhara|NO|stars_3

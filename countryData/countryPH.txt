@@ -1,0 +1,220 @@
+6999|Lorenzo Main Resort|Boracay Island|NO|stars_2.5
+7588|Amanpulo|Pamalican Island|YES|stars_5
+8401|Badian Island Wellness Resort|Badian|NO|stars_5
+8622|Bayview Park|Manila|YES|stars_3
+9161|Bohol Beach Club|Panglao|YES|stars_3
+10434|City Garden|Manila|YES|stars_3
+10534|El Nido Apulit Island Resort|Apulit Island|YES|stars_4
+10537|Club Paradise|Dimakya Island|NO|stars_4
+11981|El Nido Lagen Island Resort|Lagen Island|YES|stars_4
+11982|El Nido Miniloc Resort|Bacuit Island|YES|stars_4
+12991|Fridays Boracay|Boracay Island|YES|stars_4
+14273|Waterfront Manila Pavilion Hotel & Casino|Manila|NO|stars_4
+16463|Lorenzo South Beach Resort|Boracay Island|YES|stars_3
+16752|Mandarin Oriental Manila|Makati|NO|stars_5
+16765|Manila|Manila|YES|stars_5
+16885|Maribago Blue Water Beach Resort|Mactan|NO|stars_4
+18679|Paradise Garden Resort|Boracay Island|YES|stars_4
+18894|Pearl Farm Beach Resort|Samal Island|NO|stars_3.5
+19091|Patio Pacific|Boracay Island|NO|stars_3
+19124|Plantation Bay|Mactan|NO|stars_5
+21476|Shangri-La's Mactan Resort & Spa|Cebu Island|YES|stars_5
+22525|Tambuli Beach Club|Mactan|NO|stars_3
+22794|The Heritage Manila|Manila|YES|stars_4
+22921|The Peninsula Manila|Manila|YES|stars_5
+23058|Sofitel Philippine Plaza|Manila|YES|stars_5
+32405|Ananyana Resort|Panglao|NO|stars_3.5
+37918|Alona Palm Beach Resort|Panglao|YES|stars_4
+38808|Dos Palmas Resort|Arrecife|NO|stars_5
+38809|Hotel Jen Manila|Pasay City|YES|stars_4
+47470|Alegre Beach Resort|Cebu Island|NO|stars_4
+47472|InterContinental Manila|Manila|YES|stars_5
+47473|Diamond Manila|Manila|NO|stars_5
+47474|Edsa Shangri-La Manila|Manila|YES|stars_5
+47475|Pan Pacific Manila|Manila|YES|stars_5
+52440|Berjaya Makati|Makati|YES|stars_3
+52441|Dusit Thani|Manila|NO|stars_5
+52442|Garden of Eden|Puerto Galera|NO|stars_4
+52635|Boracay Regency Beach Resort|Boracay Island|YES|stars_4
+52637|Red Coconut|Boracay Island|YES|stars_3
+57651|Estacio Uno Lifestyle Resort|Boracay Island|NO|stars_4
+57652|Coco Beach Resort|Puerto Galera|NO|stars_3
+59972|Dolphin House|Moalboal|NO|stars_4
+60853|Kimberly|Manila|NO|stars_3
+60862|Mandala Spa|Boracay Island|YES|stars_4
+60904|Seawind|Boracay Island|YES|stars_3.5
+61578|Pinjalo Resort Villas|Boracay Island|NO|stars_3
+73147|Makati Shangri-La|Manila|YES|stars_5
+75861|New World Manila Bay Hotel|Manila|YES|stars_5
+76234|Best Western Boracay Tropics Resort|Boracay Island|YES|stars_5
+77235|Cebu City Marriott|Cebu City|YES|stars_4
+77236|Waterfront Cebu City Hotel & Casino|Cebu City|YES|stars_4
+77237|Marco Polo Davao|Davao|YES|stars_4
+77248|Marco Polo Plaza|Cebu City|YES|stars_5
+77249|Holiday Plaza|Cebu Island|NO|stars_3
+77251|Mövenpick Resort & Spa Cebu|Mactan|YES|stars_5
+77252|Costabella Tropical Beach|Mactan|NO|stars_3.5
+77380|Sumilon Bluewater Island Resort|Insel Sumilon|NO|stars_4
+81707|El Dorado Beach Resort|Negros|NO|stars_3
+81708|Oasis Resort|Panglao|NO|stars_3
+88609|Linden Suites|Manila|YES|stars_4
+88681|New World Makati|Makati|NO|stars_5
+89203|Best Western La Corona Manila|Manila|YES|stars_3
+90252|Amorita Resort|Panglao|NO|stars_4
+91094|Pearl Garden|Manila|YES|stars_3
+91095|Microtel Inn & Suites|Boracay Island|NO|stars_3
+91429|Sangat Island Reserve|Coron|NO|stars_2.5
+91545|Best Western Oxford Suites Makati|Makati|YES|stars_3
+91746|Millennium Plaza Serviced Residences|Makati|YES|stars_3
+91959|Discovery Shores|Boracay Island|NO|stars_5
+92459|Asya Resort|Boracay Island|NO|stars_3
+93515|The Parklane Cebu|Cebu Island|YES|stars_4
+93518|Crown Regency Hotel & Towers Cebu|Cebu City|YES|stars_4
+93520|Somerset et Salcedo Residences|Makati|YES|stars_4
+93523|Somerset et Millenium Residences|Makati|YES|stars_4
+96002|Legend Palawan|Palawan|NO|stars_3
+96009|Panglao Island Nature Resort|Panglao|NO|stars_3
+103462|Executive Plaza|Manila|YES|stars_3
+103644|Atrium|Manila|YES|stars_3
+103646|Crown Regency Makati|Makati|YES|stars_4
+103647|Garden Plaza Suites|Manila|YES|stars_3
+103648|Crowne Plaza Galleria|Quezon City|YES|stars_5
+105730|Century Park Manila|Manila|YES|stars_4.5
+106724|Discovery Suites|Manila|NO|stars_4
+107692|Holiday Inn Manila Galleria|Manila|YES|stars_4
+108017|Imperial Palace Suites|Quezon City|YES|stars_3
+108359|Las Palmas|Manila|YES|stars_3
+109044|Microtel Inn & Suites - Santo Tomas Batangas|Santo Tomas|YES|stars_0
+109047|Microtel Inn & Suites Eagle Ridge|Cavite|YES|stars_0
+109048|Microtel Inn & Suites Luisita|Tarlac|YES|stars_0
+109049|Microtel Inn & Suites Baguio|Baguio|YES|stars_0
+110185|Richmonde|Manila|NO|stars_4
+111154|The Bellevue Manila|Muntinlupa City|YES|stars_5
+122216|Blue Star Dive & Resort|Bohol|NO|stars_3
+122217|Hippocampus Beach Resort|Malapascua|NO|stars_3
+122218|Love's Lodge|Moalboal|NO|0
+122220|Coco Grove Beach Resort|Siquijor|NO|stars_3
+122237|Dolphin Bay Beachfront Resort|Mindoro|NO|stars_3
+122877|G Hotel by Waterfront|Manila|NO|stars_4
+122879|Eskaya Beach Resort & Spa|Panglao|NO|stars_5
+124839|Le Soleil de Boracay|Boracay Island|NO|stars_3
+128890|Malayan Plaza|Manila|YES|stars_4
+129755|Grand|Cebu City|NO|stars_3
+129758|Lotus Garden|Manila|YES|stars_3
+129759|Ascott Makati|Manila|YES|stars_5
+129761|Somerset Olympia|Manila|YES|stars_4
+129762|Fraser Place Manila|Manila|NO|stars_5
+132956|Days|Batangas|YES|stars_0
+132958|Waterfront Airport & Casino|Cebu Island|YES|stars_4
+132959|Days Cebu Airport|Cebu Island|YES|stars_0
+132963|Days|Iloilo City|YES|stars_0
+132964|Bsa Suites|Manila|NO|stars_3
+132965|Miramar|Manila|YES|stars_3
+132968|Hostel 1632|Manila|YES|stars_2
+132974|Citadel Inn Makati|Manila|YES|stars_3
+132975|Makati Palace|Manila|NO|stars_3
+132976|Palm Plaza|Manila|YES|stars_3
+132977|El Cielito Makati|Makati|YES|stars_3
+132979|The Pearl Manila|Manila|YES|stars_3
+132982|Days|Tagaytay|YES|stars_0
+134212|City Garden Makati|Makati|NO|stars_3
+134310|Asian Mansion II Condotel|Makati|YES|stars_3
+134312|BSA Mansion Condotel|Makati|YES|stars_3
+134313|Best Western Plus Antel|Makati|YES|stars_3
+134314|The Tides Hotel Boracay|Boracay Island|YES|stars_4
+134315|The Mabuhay Manor|Pasay City|YES|stars_3
+135289|Mabuhay Dive Resort|Puerto Galera|NO|0
+135333|Action Geckos Resort|Camiguin|NO|0
+135334|Amontillado Beach Resort|Negros|NO|0
+135335|La Estrella Beach Resort|Cabilao|NO|stars_3
+135339|Lost Horizon Beach Resort|Panglao|NO|stars_3
+135340|Mermaid Resort|Puerto Galera|NO|stars_3.5
+135341|Whispering Palms Bungalow Resort|Insel Sipaway|NO|stars_5
+135342|Sipalay Easy Diving and Beach Resort|Negros|NO|stars_3
+135438|Prince Plaza II Condotel|Makati|YES|stars_3
+135439|The Garden Heights|Quezon City|YES|stars_3
+135440|Regalia Tower Suites|Quezon City|YES|stars_3
+135441|The Royal Bellagio|Makati|YES|stars_3
+136228|Shangri-La's Boracay Resort & Spa|Boracay Island|YES|stars_5
+136229|Atmosphere Resort|Dumaguete|NO|stars_4
+137378|Vida|Angeles City|YES|stars_0
+137576|Alta Vista de Boracay|Boracay Island|NO|stars_4
+137810|Hotel Fleuris Palawan|Puerto Princesa|NO|stars_3
+137838|Crown Regency Suites & Residences Mactan|Lapu-Lapu City|YES|stars_4
+137976|Torre Venezia|Quezon City|NO|stars_3
+138413|Cebu White Sands at Maribago|Cebu City|NO|stars_3.5
+138430|Waterfront Insular Davao|Davao|YES|stars_3.5
+138449|Crown Regency Residences|Cebu City|YES|stars_3
+138450|Crown Regency Residence|Davao|YES|stars_4
+138544|El Rio Y Mar Island Resort|Coron|NO|stars_4
+140139|Orchid Garden Suite Manila|Manila|YES|stars_3
+161921|Astoria Plaza|Manila|NO|stars_3
+161922|Vivere|Muntinlupa City|YES|stars_0
+162143|Microtel Inn & Suites Davao|Davao|YES|stars_0
+182814|Astoria Boracay|Boracay Island|NO|stars_4
+182815|Boracay Mandarin Island Hotel|Boracay Island|YES|stars_4.5
+182965|Two Seasons Resort|Boracay Island|NO|stars_4
+196016|Boracay Ocean Club Beach Resort|Boracay Island|YES|stars_3
+201687|Diplomat|Cebu City|YES|stars_3
+202570|Amarela Resort|Bohol|YES|stars_3.5
+202722|Crown Regency Prince Resort|Boracay Island|YES|stars_4
+227423|Henann Garden Resort|Boracay Island|NO|stars_4
+227424|H2O|Manila|YES|stars_4
+227802|Bohol Sea Resort|Panglao|NO|stars_3
+227826|Exotic Island Dive & Beach Resort|Malapascua|NO|stars_4
+227827|FloWer Beach Resort|Bohol|NO|stars_3
+227829|Southern Leyte Divers & Resort|San Roque|NO|0
+227890|Misibis Bay|Cagraray Island|NO|stars_5
+228572|Nandana Boracay|Boracay Island|NO|stars_4
+234544|Crown Regency Beach Resort|Boracay Island|YES|stars_3.5
+234545|Fairways & Bluewater|Boracay Island|NO|stars_4
+234550|The Farm at San Benito|Batangas|NO|stars_5
+234564|Crimson Beach Mactan Island|Lapu-Lapu City|NO|stars_5
+234566|7 Stones Boracay Suites|Boracay Island|NO|stars_4
+234568|Lancaster Manila|Mandaluyong City|NO|stars_3
+234571|Henann Lagoon Resort|Boracay Island|NO|stars_4
+234595|Kasai Village Beach Resort|Moalboal|NO|stars_3
+236154|Eastwood Richmonde|Quezon City|NO|stars_4
+237078|Panglao Bluewater Beach Resort|Panglao|NO|stars_5
+239983|The B|Muntinlupa City|YES|stars_3
+241508|Pearl Lane|Manila|NO|stars_3
+244216|Radisson Blu Cebu|Cebu City|NO|stars_5
+244224|St Giles Makati|Makati|NO|stars_3
+246215|Be Resorts Mactan|Mactan|NO|stars_3
+246226|Subic International|Olongapo City|NO|stars_3
+246481|Holiday Inn Makati|Makati|NO|stars_4
+247802|Armada Manila|Manila|NO|stars_4
+260592|Sheridan Beach Resort & Spa|Sabang|YES|stars_4
+260968|Picasso Boutique Serviced Residences|Makati|NO|stars_4
+261449|El Nido Resorts Pangulasian Island|El Nido|NO|stars_4
+261450|Calypso|Boracay Island|NO|stars_3
+262439|Oasis Paco Park|Manila|YES|stars_0
+278637|Asya Premier Suites|Boracay Island|NO|stars_4
+283718|St. Ellis|Legaspi|YES|stars_0
+284166|Quest Hotel & Conference Center Cebu|Cebu City|YES|stars_3
+284168|Cebu Business|Cebu City|NO|stars_3
+287174|El Nido Floating Hotel|El Nido|YES|stars_0
+292343|Anda White Beach Resort|Bohol|YES|stars_0
+295448|Maxims|Pasay City|NO|stars_5
+297244|Kawayan Holiday Resort|Siquijor|NO|stars_3.5
+297247|Kokay's Maldito Dive Resort|Malapascua|NO|stars_3
+297761|Turtle Bay Dive Resort|Moalboal|NO|stars_3.5
+300238|Manila Marriott|Pasay City|NO|stars_5
+359539|Buri Resort & Spa|Puerto Galera|YES|stars_4
+359542|Infinity Resort|Puerto Galera|NO|stars_4
+359544|The Bellevue Resort|Panglao|YES|stars_4.5
+359545|Momo Beach House|Panglao|NO|stars_3
+359546|The District Boracay|Boracay Island|NO|stars_4
+363272|Dive Point Alcoy|Alcoy|NO|0
+363278|Sumisid Lodge|Moalboal|NO|0
+363465|Polaris Beach Resort|Cabilao|NO|0
+366666|Oakwood Premier Manila|Pasig City|YES|stars_0
+369589|Days Cebu Toledo|Moalboal|YES|stars_0
+370713|Raffles Makati|Makati|NO|stars_5
+372076|Acacia Manila|Muntinlupa City|YES|stars_0
+390960|Magic Island Dive Resort|Moalboal|NO|stars_4
+391323|Marco Polo Ortigas - Manila|Manila|YES|stars_0
+408741|South Palms Resort Panglao|Panglao|NO|stars_4.5
+410477|Crimson Hotel Filinvest City Manila|Muntinlupa City|YES|stars_0
+411410|Amun Ini Beach Resort & Spa|Bohol|NO|stars_5
+411546|Pico Sands Hotel|Batangas|NO|stars_4

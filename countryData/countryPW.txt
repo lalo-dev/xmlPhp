@@ -1,0 +1,6 @@
+91431|The Carolines Resort|Palau|NO|stars_3.5
+91433|Palau Plantation Resort|Palau|NO|stars_3.5
+109533|Palau Pacific Resort|Koror|NO|stars_4.5
+184006|Rose Garden Resort|Palau|NO|stars_3
+234598|Landmark Marina|Koror|NO|stars_3.5
+298069|Cliffside|Koror|NO|0

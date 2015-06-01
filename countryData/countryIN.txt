@@ -1,0 +1,3164 @@
+10225|Centaur IGI Airport|Delhi|YES|stars_5
+14489|Hyatt Regency Delhi|Delhi|NO|stars_5
+14730|The Imperial New Delhi|Delhi|YES|stars_5
+22727|The Connaught|Delhi|YES|stars_4
+22877|Oberoi Maidens|Delhi|YES|stars_4
+22905|The Park|New Delhi|YES|stars_5
+25954|The Leela Goa & The Club - The Leela Goa|Mobor Beach|NO|stars_5
+25956|Taj Exotica|Benaulim Beach|YES|stars_5
+25959|Vivanta Holiday Village|Candolim Beach|YES|stars_5
+25961|Majorda Beach Resort|Majorda Beach|NO|stars_5
+25962|Club Mahindra Varca Beach Resort|Varca Beach|YES|stars_4
+25965|Coconut Grove|Betalbatim Beach|YES|stars_4
+25971|Holiday Inn Resort Goa|Cavelossim|YES|stars_4.5
+25972|Sonesta Inns|Candolim Beach|NO|stars_3
+25974|The Heritage Village Club|Arrosim Beach|YES|stars_4
+26156|Vila Goesa|Calangute|YES|stars_3
+26284|Longuinhos Beach Resort|Colva|YES|stars_3
+26289|Victor Exotica Beach Resort|Candolim Beach|YES|stars_3
+26291|Dona Sylvia Beach Resort|Cavelossim|YES|stars_4
+26292|The Kenilworth Beach Resort|Utorda Beach|NO|stars_5
+26295|Ramada Caravela Beach Resort|Varca Beach|YES|stars_5
+27290|Sheraton New Delhi|Delhi|NO|stars_5
+27291|Comfort Inn Heritage|Bombay/ Mumbai|YES|stars_3
+27292|Ramada Plaza Palm Grove|Bombay/ Mumbai|YES|stars_5
+27294|Cidade de Goa Resort|Vainguinim Beach|YES|stars_5
+27737|Laguna Anjuna|Anjuna|YES|stars_3
+27739|Goa Marriott Resort & Spa|Panjim|NO|stars_5
+27740|Santa Monica|Calangute|NO|stars_3
+27741|Ondas do Mar|Calangute|NO|stars_2
+29352|Marari Beach Resort|Mararikulam|NO|stars_4
+30476|Poovar Island Resort|Trivandrum|NO|stars_3
+30478|Kayaloram Lake Resort|Alleppey|NO|stars_3
+30480|Uday Samudra Leisure Beach Hotel|Kovalam|YES|stars_4
+30484|Kumarakom Lake Resort|Kumarakom|YES|stars_5
+30487|Coconut Bay Resort|Mullor|NO|stars_3
+31755|Somatheeram Ayurveda Resort|Trivandrum|NO|stars_3.5
+31756|Surya Samudra Private Retreats|Trivandrum|NO|stars_4.5
+31759|Comfort Inn Vijay Residency|Bangalore|YES|stars_3
+31760|Radisson Blu Plaza Delhi|Delhi|YES|stars_5
+31762|Royal Orchid|Bangalore|NO|stars_5
+31763|Breeze|Madras/Chennai|NO|stars_3
+31764|Novotel Mumbai Juhu Beach|Bombay/ Mumbai|NO|stars_4
+31765|Hyatt Regency Mumbai|Bombay/ Mumbai|NO|stars_5
+31766|Paras Mahal|Udaipur|YES|stars_3
+31767|Vivanta Connemara|Madras/Chennai|NO|stars_5
+31768|The New Kenilworth|Calcutta|YES|stars_4
+31769|West End|Bombay/ Mumbai|NO|stars_3.5
+32081|Estrela do Mar|Calangute|YES|stars_3
+32083|Horizon Beach Resort|Velsao Beach|YES|stars_3
+32084|Nanu Resort|Betalbatim Beach|YES|stars_3
+32404|Travancore Heritage Resort|Trivandrum|NO|stars_3
+32654|The Zuri White Sands Resort & Casino|Varca Beach|YES|stars_5
+38215|Goan Heritage|Calangute|YES|stars_3
+38467|Seaview|Kanniyakumari|NO|stars_3
+38468|Germanus|Madurai|NO|stars_3
+38470|Park Plaza|Madurai|NO|stars_2
+38473|The Madurai Residency|Madurai|NO|stars_3
+38476|Manaltheeram Ayurveda Beach Village|Trivandrum|NO|stars_4
+38478|Isola Di Cocco|Poovar|YES|stars_3
+38479|Carmelia Haven|Vandanmedu|NO|stars_3
+38480|Thapovan Heritage Home|Vizhinjam|NO|stars_3
+38553|Sea Breeze Resort|Candolim Beach|YES|stars_3
+38638|Radisson Blu Resort Temple Bay|Mamallapuram|NO|stars_4.5
+38796|Fariyas|Bombay/ Mumbai|YES|stars_4
+38797|Le Meridien Bangalore|Bangalore|YES|stars_5
+38798|Marine Plaza|Bombay/ Mumbai|YES|stars_4.5
+38799|Eros by Hilton New Delhi Nehru Place|Delhi|YES|stars_5
+38800|Coconut Lagoon Resort|Kumarakom|NO|stars_4
+39097|Swagath Holiday Resort|Kovalam|NO|stars_3
+39099|Fort Munnar|Munnar|NO|stars_4
+47510|Vivanta Fisherman's Cove|Covelong|NO|stars_5
+47511|Taj Coromandel|Madras/Chennai|YES|stars_5
+47512|Trident Chennai|Madras/Chennai|NO|stars_5
+47513|Le Royal Meridien Chennai|Madras/Chennai|YES|stars_5
+47514|The Park Chennai|Madras/Chennai|YES|stars_5
+47515|Devi Garh by lebua|Udaipur|NO|stars_5
+47516|The LaLit Laxmi Vilas Palace|Udaipur|YES|stars_5
+47517|Taj Lake Palace|Udaipur|YES|stars_5
+47518|The Oberoi Udaivilas|Udaipur|YES|stars_5
+47519|Shiv Niwas Palace|Udaipur|YES|stars_5
+47520|Taj Lands End|Bombay/ Mumbai|YES|stars_5
+47521|The Leela Mumbai|Bombay/ Mumbai|YES|stars_5
+47522|Trident Nariman Point|Bombay/ Mumbai|YES|stars_5
+47523|The Taj Mahal Palace|Bombay/ Mumbai|YES|stars_5
+47524|Vivanta President|Bombay/ Mumbai|YES|stars_5
+47525|Grand Hyatt Mumbai|Bombay/ Mumbai|YES|stars_5
+47526|JW Marriott Mumbai|Bombay/ Mumbai|NO|stars_5
+47529|Brunton Boat Yard|Cochin|NO|stars_4.5
+47530|Vivanta Malabar|Cochin|YES|stars_5
+47531|The Malabar House|Cochin|YES|stars_3.5
+47532|Hyatt Regency Kolkata|Calcutta|YES|stars_5
+47533|Taj Bengal|Calcutta|YES|stars_5
+47534|The Oberoi Grand|Calcutta|YES|stars_5
+47536|Vivanta Hari Mahal|Jodhpur|NO|stars_4.5
+47537|Umaid Bhawan Palace|Jodhpur|NO|stars_5
+47538|Fort Khimsar|Khimsar|NO|stars_3
+47539|Jai Mahal Palace|Jaipur|YES|stars_5
+47540|ITC Rajputana|Jaipur|YES|stars_5
+47541|The Oberoi Rajvilas|Jaipur|NO|stars_5
+47543|Rambagh Palace|Jaipur|YES|stars_5
+47544|Samode Haveli|Jaipur|NO|stars_3.5
+47545|Deogarh Mahal|Deogarh|NO|stars_3.5
+47546|Taj Palace|Delhi|YES|stars_5
+47547|The Grand New Delhi|Delhi|YES|stars_5
+47548|The Oberoi|New Delhi|YES|stars_5
+47549|The Taj Mahal|Delhi|YES|stars_5
+47550|Le Meridien New Delhi|Delhi|YES|stars_5
+47551|Vivanta Fort Aguada|Sinquerim Beach|YES|stars_5
+47554|Pousada Tauma|Calangute|NO|stars_4
+47556|Gajner Palace|Bikaner|NO|stars_4
+47557|Laxmi Niwas Palace|Bikaner|NO|stars_4.5
+47559|Taj West End|Bangalore|YES|stars_5
+47560|The Oberoi Bangalore|Bangalore|YES|stars_5
+47561|Vivanta MG Road|Bangalore|YES|stars_5
+47568|The Gateway Fatehabad Road Agra|Agra|YES|stars_5
+47571|Jaypee Palace|Agra|YES|stars_5
+47572|ITC Mughal|Agra|YES|stars_5
+47573|Trident Agra|Agra|YES|stars_5
+47863|Whispering Palms Beach Resort|Candolim Beach|YES|stars_3
+48159|The Oberoi Vanyavillas|Ranthambhore Nationalpark|NO|stars_5
+48160|The Oberoi Amarvilas|Agra|YES|stars_5
+48161|The Leela Kovalam|Trivandrum|YES|stars_5
+51327|The LaLiT Golf & Spa Resort Goa|Canacona|YES|stars_5
+51328|The Suryaa New Delhi|Delhi|YES|stars_5
+51329|Ambassador|Bombay/ Mumbai|YES|stars_4
+51331|The Park Bangalore|Bangalore|YES|stars_5
+51422|Aldeia Santa Rita|Candolim Beach|YES|stars_3
+52106|The Gateway Marine Drive Ernakulam|Ernakulam|YES|stars_5
+52336|The Oberoi Cecil|Shimla|NO|stars_5
+52337|Wildflower Hall|Shimla|NO|stars_5
+55012|Umaid Bhawan|Jaipur|YES|stars_3
+55013|Holiday Inn Jaipur|Jaipur|YES|stars_4
+55014|The Residence|Bombay/ Mumbai|YES|stars_3.5
+55015|InterContinental Marine Drive|Bombay/ Mumbai|YES|stars_5
+55016|The LaLit Mumbai|Bombay/ Mumbai|YES|stars_5
+55017|Renaissance Mumbai & Convention Centre|Bombay/ Mumbai|NO|stars_5
+55700|Vikram|Delhi|NO|stars_3.5
+57788|Ananda in the Himalayas|Rishikesh|NO|stars_5
+58070|Ideal Beach Resort|Mamallapuram|NO|stars_3
+58178|The Gateway Residency Road Bangalore|Bangalore|NO|stars_4
+58180|Le Méridien|Cochin|YES|stars_5
+58218|Udai Kothi|Udaipur|YES|stars_3
+58220|Hilltop Palace|Udaipur|YES|stars_3
+58222|Mandawa Haveli|Jaipur|YES|stars_3
+58321|Sunstar Residency|Delhi|YES|stars_3
+62662|Ashok Country Resort|Delhi|YES|stars_4
+62665|Vivanta Ambassador|Delhi|YES|stars_5
+62667|The Metropolitan Hotel & Spa|New Delhi|YES|stars_5
+62669|Jaypee Siddharth|Delhi|YES|stars_5
+62671|Clarks Amer Jaipur|Jaipur|YES|stars_5
+62672|Mansingh Towers|Jaipur|NO|stars_3
+62673|Trident Jaipur|Jaipur|NO|stars_5
+62674|Trident Udaipur|Udaipur|YES|stars_5
+62675|Clarks Shiraz|Agra|NO|stars_5
+62676|Marina Agra|Agra|YES|stars_4
+62677|Mansingh Palace|Agra|YES|stars_4
+63222|Alsisar Haveli|Jaipur|NO|stars_3
+63239|Hilton Mumbai International Airport|Bombay/ Mumbai|YES|stars_5
+63245|Airlink|Bombay/ Mumbai|YES|stars_3
+63247|ITC Maratha|Bombay/ Mumbai|YES|stars_5
+63248|Kohinoor Continental|Bombay/ Mumbai|YES|stars_4
+63249|VITS Mumbai|Bombay/ Mumbai|YES|stars_4
+63251|Ramee Guestline Juhu|Bombay/ Mumbai|YES|stars_4
+63254|Best Western Hotel Sahil|Bombay/ Mumbai|YES|stars_3
+63255|The Orchid|Bombay/ Mumbai|YES|stars_5
+63376|Old Anchor Resort|Cavelossim|YES|stars_3
+63379|Colonia Santa Maria|Calangute|YES|stars_3
+63380|Colonia de Braganza Resort|Calangute|YES|stars_2
+63381|Dona Alcina Resort|Goa|YES|stars_3
+63411|City Park|Delhi|NO|stars_4
+63412|The Hans|Delhi|YES|stars_4
+63413|Shangri-La's Eros Hotel New Delhi|New Delhi|YES|stars_5
+63465|Nikki s Nest|Chowara|NO|stars_3
+63466|Vivanta by Taj - Kumarakom|Kottayam|NO|stars_5
+63470|Golden Park|Calcutta|YES|stars_3.5
+63471|Bangaram Island Resort|Bangaram Island|NO|stars_4
+63472|Abad Whispering Palms|Kumarakom|YES|stars_3
+63473|Casino|Cochin|YES|stars_3.5
+63474|The Park Kolkata|Calcutta|YES|stars_5
+63475|Hindustan International|Calcutta|YES|stars_5
+63533|Mirador|Bombay/ Mumbai|YES|stars_4
+64393|Gorbandh Palace|Jaisalmer|NO|stars_3
+64394|The Gateway Jodhpur|Jodhpur|NO|stars_4
+64396|Ticlo Resort|Calangute|YES|stars_2
+64398|Phoenix Park Inn Resort|Candolim Beach|YES|stars_3
+64526|Royal Orchid Beach Resort & Spa|Utorda Beach|YES|stars_4
+64605|Devaaya Ayurveda|Goa|YES|stars_4
+64713|Kalari Kovilakom - The Palace for Ayurveda|Cochin|NO|stars_4
+64716|Royal Orchid Central Grazia Vashi|Navi Mumbai|YES|stars_4
+64717|The Gateway Janardhanapuram Varkala|Varkala|NO|stars_4
+64996|Aman-i-Khás|Ranthambhore Nationalpark|YES|stars_5
+64997|Vivanta by Taj - Kovalam|Kovalam|NO|stars_5
+66330|Varca Palms Beach|Varca Beach|YES|stars_3
+67648|Howard Park Plaza|Agra|YES|stars_4
+67658|Gokulam Park|Cochin|YES|stars_4
+67692|Radisson Blu Chennai|Madras/Chennai|NO|stars_5
+67819|Radha Regent|Madras/Chennai|YES|stars_3
+67822|Aditya Park|Hyderabad|YES|stars_3
+67823|Radisson Jalandhar|Jalandhar|NO|stars_4
+67824|Country Inn & Suites Vaishno|Jammu|NO|stars_3
+67825|La Place Sarovar Portico|Lucknow|NO|stars_3
+67826|Park Plaza Ludhiana|Ludhiana|NO|stars_5
+67828|Radisson Blu Hotel Noida|Noida|NO|stars_5
+67829|Country Inn & Suites|Orissa|NO|stars_5
+68552|India|Varanasi|NO|stars_3
+68553|HHI Varanasi|Varanasi|YES|stars_4
+68554|Palace on Ganges|Varanasi|NO|stars_3.5
+68555|The Gateway Hotel Ganges|Varanasi|NO|stars_4.5
+68557|Clarks Khajuraho|Khajuraho|NO|stars_4.5
+68558|Radisson Khajuraho|Khajuraho|NO|stars_4.5
+68559|Usha Bundela|Khajuraho|NO|stars_3
+68560|TAJ Chandela|Khajuraho|NO|stars_5
+68565|Radisson Varanasi|Varanasi|NO|stars_5
+68687|The Claridges New Delhi|Delhi|YES|stars_5
+68688|Tiger Den Resort|Khilchipur|NO|stars_3
+68690|Le Meridien|Jaipur|YES|stars_5
+68783|Regent Continental|New Delhi|YES|stars_3
+68830|Ramanashree|Mysore|NO|stars_3
+68903|Trident Cochin|Cochin|YES|stars_5
+68928|Sun-n-Sand|Bombay/ Mumbai|YES|stars_5
+68938|Tivoli Garden Resort|Delhi|NO|stars_4.5
+68939|The Gordon House South Mumbai|Bombay/ Mumbai|NO|stars_3.5
+69004|Fort Rajwada|Jaisalmer|NO|stars_5
+69401|Udai Vilas Palace|Bharatpur|NO|stars_3
+71264|Bal Samand Palace|Jodhpur|NO|stars_3.5
+71266|Narayan Niwas Palace|Jaisalmer|NO|stars_2
+71267|Fateh Prakash Palace|Udaipur|YES|stars_5
+71268|Rampratap Palace|Udaipur|YES|stars_4
+71415|Hillock|Mount Abu|NO|stars_3.5
+71418|Lalgarh Palace|Bikaner|NO|stars_3.5
+71419|Fateh Bagh|Ranakpur|NO|stars_3.5
+71935|Marriott Hyderabad|Hyderabad|NO|stars_5
+71936|Fortune Select Manohar|Hyderabad|NO|stars_4
+71937|Best Western Amrutha Castle|Hyderabad|YES|stars_3.5
+71999|Quality Inn Residency|Hyderabad|YES|stars_3
+74021|Cardamom County|Thekkady|YES|stars_4
+74022|Punnamada Backwater Resort|Alleppey|NO|stars_3.5
+74030|Ajit Bhawan Palace|Jodhpur|NO|stars_4
+74269|KTDC Samudra|Kovalam|NO|stars_3
+74623|Sterling Swamimalai Resort|Kumbakonam|NO|stars_3
+74926|Vivanta Sawai Madhopur Lodge|Ranthambhore Nationalpark|NO|stars_4
+75054|Nalapad Residency|Bangalore|NO|stars_2
+75056|Hotel Vishnupriya|Udaipur|YES|stars_3
+75058|The Residency Towers|Madras/Chennai|YES|stars_4
+75059|Usha Kiran Palace|Gwalior|YES|stars_4
+75063|Metro Heights|Delhi|NO|stars_3
+75064|Maharani Plaza|Jaipur|YES|stars_2
+75065|The LaLit New Delhi|Delhi|YES|stars_5
+75066|ITC Grand Central|Bombay/ Mumbai|YES|stars_5
+75076|The Elgin|Darjeeling|YES|stars_4
+75077|Fortune Resort Central Darjeeling|Darjeeling|NO|stars_3.5
+75082|Fortune Kences Tirupati|Tirupati|YES|stars_3
+75083|Crown|Bhubaneswar|NO|stars_3
+75084|Ramada Chennai Egmore|Madras/Chennai|YES|stars_3.5
+75085|Casa de Goa|Calangute|YES|stars_3
+75086|Bangalore International|Bangalore|NO|stars_3
+75087|Yamuna View|Agra|YES|stars_3.5
+75088|Abad Airport|Cochin|YES|stars_3
+75397|Trident Gurgaon|Gurgaon|NO|stars_5
+75526|Samode Palace|Jaipur|NO|stars_4.5
+75756|Bollywood Sea Queen|Goa|YES|stars_3
+75757|Chances Casino & Resort|Vainguinim Beach|YES|stars_4.5
+75758|The Beach|Goa|YES|stars_4.5
+75768|Bambolim Beach Resort|Goa|YES|stars_3
+76161|Ronil Beach|Baga|YES|stars_3
+76316|Krishna Palace|Bombay/ Mumbai|YES|stars_3.5
+76839|Amanbagh|Ajabgarh|YES|stars_5
+77090|Dekeling Resort|Darjeeling|NO|stars_2
+77091|Wyte Fort|Cochin|YES|stars_3
+77093|Viceroy|Darjeeling|NO|stars_3
+77095|Vasant Continental|Delhi|YES|stars_5
+77098|Spice Village|Thekkady|YES|stars_3.5
+77261|Neelams The Grand|Calangute|YES|stars_3
+77262|Goa Beach House|Goa|NO|stars_3
+77295|Silver Oaks|Kalimpong|NO|stars_4
+77296|K.K. Royal Days Convention Center|Jaipur|YES|stars_4
+77297|The Royal Plaza|Gangtok|NO|stars_4
+77298|Norkhill|Gangtok|NO|stars_3
+77327|Maharani Palace|Jaipur|YES|stars_3
+77442|Ritz Plaza|Amritsar|NO|stars_2.5
+77443|Casa Anjuna|Anjuna|NO|stars_3
+77444|Casa Baga|Bardez|NO|stars_3
+77699|Mansingh|Jaipur|YES|stars_4.5
+77700|Raj Palace|Jaipur|YES|stars_5
+77701|Rajdarshan|Udaipur|YES|stars_3
+77702|Ranbanka Palace|Jodhpur|NO|stars_3
+77703|Mandir Palace|Jaisalmer|NO|stars_5
+77705|Ambassador Pallava|Madras/Chennai|YES|stars_4
+77706|Abad Grande Residencia|Cochin|YES|stars_3
+77707|The Capitol|Bangalore|YES|stars_4
+77708|Taj Deccan|Hyderabad|NO|stars_5
+77709|Taj Krishna|Hyderabad|NO|stars_5
+77710|Godwin|Bombay/ Mumbai|YES|stars_3
+77711|Fortune Hotel The South Park|Trivandrum|YES|stars_4
+77712|Hilton Garden Inn Trivandrum|Trivandrum|YES|stars_4
+77748|Old Harbour|Cochin|NO|stars_4
+79211|WelcomHeritage Grand Imperial|Agra|YES|stars_4
+79256|Shiv Vilas|Jaipur|YES|stars_5
+79714|Fortune Select Global|Gurgaon|YES|stars_4
+79716|Vestin Park|Madras/Chennai|YES|stars_3
+81894|The Gateway Ummed Ahmedabad|Ahmedabad|NO|stars_5
+81904|Kailash Beach Resort|Puducherry|NO|stars_3
+81913|Narain Niwas Palace|Jaipur|YES|stars_4
+81917|Anandha Inn|Puducherry|NO|stars_3.5
+81919|The Promenade|Puducherry|NO|stars_4
+81920|GRT Regency|Madurai|NO|stars_3
+81924|Sangam|Thanjavur|NO|stars_3
+81925|Le Meridien Pune|Pune|YES|stars_5
+81926|The Pride|Pune|YES|stars_5
+81927|The Central Park|Pune|NO|stars_4
+81928|Sun-n-Sand|Pune|NO|stars_5
+81929|The Centurion Hotel|Pune|YES|stars_4
+82154|Sardargarh Heritage|Sardargarh|NO|stars_4
+82236|Nizmar Resort|Calangute|YES|stars_3
+82237|Park Hyatt Goa Resort & Spa|Arrosim Beach|YES|stars_5
+82238|Backwater Ripples Resort|Kumarakom|NO|stars_3.5
+82239|Silver Sands Resort|Colva|YES|stars_3
+82491|Orange County, Kabini|Bheeramballi|NO|stars_5
+85025|Ala Goa Resort|Goa|YES|stars_2
+85026|Maizons Lakeview Resort|Bardez|YES|stars_3
+85037|The Glenburn Tea Estate|Glenburn|NO|stars_4
+85040|Chariot Beach Resort|Mamallapuram|NO|stars_4
+85754|Lemon Tree Amarante Beach Resort|Candolim Beach|YES|stars_4
+85795|Palace Bikaner House|Mount Abu|NO|stars_3
+86056|Lagoa Azul Resort|Baga|NO|stars_3
+86137|Chorao Island Residency|Chorao Island|NO|stars_3
+86530|Aguada Anchorage - The Villa Resort|Sinquerim Beach|YES|stars_4
+86531|Sodder's Renton Manor|Bardez|YES|stars_2
+86532|Williams Beach Retreat Private Limited|Colva|YES|stars_2
+86841|Krishnatheeram Beach Resort|Varkala|NO|stars_3
+86846|Deshadan Beach Resort|Varkala|NO|stars_3
+86848|Raja Park Beach Resort|Varkala|NO|stars_2.5
+86958|Fortune Landmark Ahmedabad|Ahmedabad|YES|stars_4.5
+86959|Le Meridien|Ahmedabad|YES|stars_4
+86960|Cama Hotel|Ahmedabad|NO|stars_3
+86967|The LaLit Temple View Khajuraho|Khajuraho|NO|stars_5
+86968|The LaLiT Ashok Bangalore|Bangalore|YES|stars_5
+86974|The LaLiT Great Eastern Kolkata|Calcutta|NO|stars_5
+86975|The LaLit Grand Palace Srinagar|Srinagar|NO|stars_5
+87222|Harmonia Ayurveda Beach Garden|Trivandrum|NO|stars_3
+87335|The Retreat by Zuri|Varca Beach|YES|stars_4
+88676|Chateau Windsor|Bombay/ Mumbai|NO|stars_3
+90275|Jagat Niwas Palace|Udaipur|YES|stars_3
+90456|Oceano Cliff Ayurvedic Beach Retreat|Varkala|NO|stars_3
+90458|Karni Bhawan Palace|Bikaner|NO|stars_2
+90459|Desert Resort Mandawa|Mandawa|NO|stars_3
+90462|Estuary Island|Poovar|NO|stars_4
+90466|Colonia Jose Menino|Varca Beach|YES|stars_2
+91012|Karohi Haveli|Udaipur|YES|stars_3
+91551|Silver Ferns|Delhi|NO|stars_3
+91690|Lake Palace Resort|Alleppey|NO|stars_4
+91799|GRT Grand|Madras/Chennai|YES|stars_4
+91850|ITC Sonar Bangla|Calcutta|YES|stars_5
+91940|Lalitha Mahal Palace|Mysore|NO|stars_4.5
+91993|The Peerless Inn|Calcutta|YES|stars_4
+91994|Good Times|Delhi|NO|stars_2.5
+91995|The Claremont|Delhi|YES|stars_3.5
+91998|Taj Baghvan at Pench National Park|Pench Nationalpark|NO|stars_4
+91999|Koder House|Cochin|YES|stars_4
+92000|The Zuri Kumarakom Kerala|Kumarakom|NO|stars_5
+92040|The Oberoi Mumbai|Bombay/ Mumbai|YES|stars_5
+92780|Mapple Abhay|Jodhpur|YES|stars_4
+92836|Empire Beach Pension|Calangute|NO|stars_2
+92837|Soul Vacation|Colva|NO|stars_3
+92863|Broadway|Delhi|NO|stars_3
+92864|The Corus|Delhi|NO|stars_3
+92866|Park Plaza|Jodhpur|YES|stars_4
+92867|Manvar Resort & Desert Camp|Wüste Thar|NO|stars_4
+92869|Ahilya Fort|Maheshwar|NO|stars_4
+92870|Ranjit's Svaasa|Amritsar|NO|stars_3
+93486|Parle International|Bombay/ Mumbai|YES|stars_3
+93487|Classic Holidays|Jaipur|NO|stars_2
+93488|Regaalis|Bangalore|YES|stars_3.5
+93489|Ashu Palace|Delhi|YES|stars_3
+93490|The Accord Metropolitan|Madras/Chennai|YES|stars_5
+93492|Ashoka International|Delhi|YES|stars_3
+93493|Quality Inn Sabari|Madras/Chennai|YES|stars_3
+93494|The Grand Central|Trivandrum|YES|stars_3
+93495|The Meadows|Aurangabad|YES|stars_3
+93496|Ambassador Ajanta|Aurangabad|YES|stars_3.5
+93991|Maria Rosa Resort|Calangute|NO|stars_2
+95674|The Crown Goa|Goa|YES|stars_4
+95677|Ambica Empire|Madras/Chennai|YES|stars_3
+95678|Himmatgarh Palace|Jaisalmer|YES|stars_3
+95679|Jaipur Inn|Jaipur|YES|stars_2
+95929|Villa Bomfim|Calangute|NO|stars_2
+96221|Bhanwar Niwas|Bikaner|NO|stars_3
+96888|Parkland Green Park|Delhi|NO|stars_3
+98448|AJ International|Bangalore|YES|stars_3
+98451|Thirty Three|Delhi|YES|stars_3
+98720|The Grand Haveli|Nawalgarh|NO|stars_1
+98815|Swati Deluxe|Delhi|YES|stars_3
+98866|The Pride|Madras/Chennai|YES|stars_4
+98868|The Mercy|Cochin|YES|stars_3
+98870|Royale Residency|Agra|YES|stars_3
+98890|Fortune Select Palms Chennai|Madras/Chennai|YES|stars_4
+99523|Surya Sangolda|Goa|YES|stars_4
+99524|Suncity|Delhi|YES|stars_3
+99525|Royal Residency|Delhi|YES|stars_3
+99527|Exotic Palms|Goa|YES|stars_2
+99528|Raunak International|Delhi|YES|stars_3
+99529|Star Grand Villa|Delhi|YES|stars_3
+100700|Chokhi Dhani Resort|Jaipur|NO|stars_4
+100838|The Golkonda|Hyderabad|YES|stars_4
+100839|Abad Atrium|Cochin|YES|stars_4
+100840|The Emerald - Hotel & Executive Apartments|Bombay/ Mumbai|YES|stars_4
+100841|Fortune Park Bella Casa Jaipur|Jaipur|YES|stars_4
+101149|Amar Yatri Niwas|Agra|NO|stars_2
+101151|Amar Agra|Agra|YES|stars_3
+101152|Atithi|Agra|NO|stars_3
+101153|Hotel Chanakya / Chanakaya|Agra|NO|stars_2
+101155|Grand Agra|Agra|NO|stars_3
+101158|Pushp Villa|Agra|YES|stars_3
+101160|Utkarsh Vilas|Agra|YES|stars_3
+101162|Comfort Inn Sunset|Ahmedabad|YES|stars_3
+101163|Comfort Inn President|Ahmedabad|YES|stars_3
+101165|Inder Residency|Ahmedabad|NO|stars_5
+101166|Nalanda|Ahmedabad|NO|stars_3
+101168|Sarovar Portico|Ahmedabad|YES|stars_3
+101169|The Pride|Ahmedabad|YES|stars_5
+101172|The Ambassador|Ajmer|NO|stars_3
+101177|Mansingh Palace|Ajmer|NO|stars_3
+101180|Grand Continental|Allahabad|NO|stars_3
+101184|Samrat|Allahabad|NO|stars_3
+101188|Clarks Inn Alwar|Alwar|NO|stars_3
+101197|MK|Amritsar|NO|stars_4
+101199|Parkside P.R Residency|Amritsar|NO|stars_3
+101204|Amarpreet|Aurangabad|NO|stars_3
+101208|Welcomhotel Rama International|Aurangabad|NO|stars_5
+101209|Taj Residency|Aurangabad|NO|stars_5
+101210|The Manor|Aurangabad|NO|stars_3
+101228|Jungle Lodge Bandhavgarh|Bandhavgarh-Nationalpark|NO|stars_3
+101234|Abhishek|Bangalore|NO|stars_3
+101237|Chancery|Bangalore|YES|stars_4
+101239|Evoma|Bangalore|NO|stars_4
+101241|Golden Palms|Bangalore|NO|stars_5
+101242|37 Crescent|Bangalore|YES|stars_3
+101243|Atria|Bangalore|YES|stars_4
+101246|TAP Gold Crest|Bangalore|NO|stars_3
+101249|Hyatt Bangalore MG Road|Bangalore|NO|stars_5
+101250|ITC Windsor|Bangalore|YES|stars_5
+101252|Lake View Residency|Bangalore|YES|stars_3
+101254|Monarch Luxur|Bangalore|YES|stars_3
+101255|Museum Inn|Bangalore|NO|stars_3
+101256|Nahar's Heritage|Bangalore|YES|stars_3
+101257|Ramee Guestline Bangalore|Bangalore|YES|stars_4
+101258|Ramanashree Brunton|Bangalore|YES|stars_3
+101260|Savannah Sinclairs|Bangalore|YES|stars_5
+101261|St. Mark´s|Bangalore|YES|stars_4
+101263|The Monarch|Bangalore|YES|stars_3
+101264|The President|Bangalore|YES|stars_3
+101265|The Solitaire|Bangalore|YES|stars_4
+101269|Express Residency|Vadodara|NO|stars_3.5
+101271|Hotel Savshanti Towers|Vadodara|NO|stars_3
+101273|Surya Palace|Vadodara|NO|stars_3
+101275|Revival Lords Inn|Vadodara|NO|stars_3
+101279|Shiva Oasis Resort Behror|Behror|NO|stars_3
+101283|The Bagh|Bharatpur|NO|stars_4
+101291|Lake View Ashok|Bhopal|NO|stars_3
+101293|Jehan Numa Palace|Bhopal|NO|stars_4
+101294|Noor Us Sabah Palace|Bhopal|NO|stars_4
+101296|Ginger|Bhubaneswar|NO|stars_3
+101298|Hindustan International|Bhubaneswar|NO|stars_4
+101302|Swosti Premium|Bhubaneswar|NO|stars_4
+101304|Mayfair Lagoon|Bhubaneswar|NO|stars_5
+101308|Trident Bhubaneswar|Bhubaneswar|NO|stars_5
+101318|Basant Vihar Palace|Bikaner|NO|stars_3
+101319|Harasar Haveli|Bikaner|NO|stars_3
+101320|Heritage Resort|Bikaner|NO|stars_3
+101336|KC Crossroad|Chandigarh|NO|stars_3
+101362|The Piccadily|Chandigarh|NO|stars_4
+101368|Beverly|Madras/Chennai|NO|stars_3
+101370|My Fortune Chennai|Madras/Chennai|YES|stars_5
+101372|Deccan Plaza|Madras/Chennai|NO|stars_3
+101374|Abu Palace|Madras/Chennai|NO|stars_3
+101376|Maurya International|Madras/Chennai|NO|stars_3
+101378|President|Madras/Chennai|NO|0
+101386|ITC Park Sheraton & Towers|Madras/Chennai|NO|stars_5
+101388|Savera|Madras/Chennai|NO|stars_4
+101389|Southern Crest|Madras/Chennai|NO|stars_3
+101390|Aruna Chennai|Madras/Chennai|NO|stars_4
+101391|Benzz Park Tulip|Madras/Chennai|NO|stars_4
+101392|The Checkers|Madras/Chennai|NO|stars_3.5
+101393|The Royal Regency|Madras/Chennai|YES|stars_3
+101398|Bassi Fort|Chittaurgarh|NO|stars_3
+101404|The Residency|Coimbatore|NO|stars_4
+101408|Club Mahindra Kodagu Valley|Coorg|NO|stars_4
+101410|Orange County Resort|Coorg|NO|stars_5
+101416|Ramganga Resort|Corbett-Nationalpark|NO|stars_3
+101421|The Hideaway River Lodge|Corbett-Nationalpark|NO|stars_3
+101427|Grand View|Dalhousie|NO|stars_3
+101429|Mount View|Dalhousie|NO|stars_3
+101444|Sinclairs|Darjeeling|NO|stars_3
+101445|Mayfair Hill Resort|Darjeeling|NO|stars_3
+101448|Windamere|Darjeeling|NO|stars_4
+101453|Aketa|Dehradun|NO|stars_3
+101454|Hotel Madhuban Dehradun|Dehradun|NO|stars_4
+101465|Africa Avenue Safdarjung|Delhi|NO|stars_3
+101467|Avalon Courtyard|Delhi|YES|stars_4
+101472|Crest Inn|Delhi|YES|stars_3
+101473|Alka|Delhi|NO|stars_3
+101482|Deemarks|Delhi|YES|stars_3.5
+101487|Gold Regency|Delhi|NO|stars_3
+101488|International Inn|Delhi|NO|stars_2
+101490|Metro City|Delhi|YES|stars_2
+101491|Mohan International|Delhi|YES|stars_2
+101495|Palace Heights|Delhi|NO|stars_3
+101497|Rahul Palace|Delhi|YES|stars_3
+101499|Shanti Palace|Delhi|YES|stars_3.5
+101500|Shervani|Delhi|YES|stars_3
+101501|Star|Delhi|NO|stars_3
+101502|The Manor|Delhi|NO|stars_4
+101503|Vishesh Continental|Delhi|NO|stars_2
+101504|Welcome Palace|Delhi|YES|stars_2.5
+101505|Yuvraj Deluxe|Delhi|YES|stars_2
+101507|ITC Maurya Tower|Delhi|YES|stars_5
+101509|Janpath|Delhi|NO|stars_4
+101510|Lotus Nikko Inn|Delhi|NO|stars_2
+101514|Samrat|Delhi|YES|stars_5
+101518|Asia Health Resorts & Spa|Dharamsala|NO|stars_3
+101519|Best Western Anand Palace|Dharamsala|NO|stars_3
+101520|Club Mahindra Kangra Valley|Dharamsala|NO|stars_3
+101521|Grace|Dharamsala|NO|stars_2
+101531|Sinclairs Retreat Dooars|Dooars|NO|stars_3
+101539|Cambay Spa & Golf Resort|Gandhinagar|NO|stars_4.5
+101540|Fortune Inn Haveli|Gandhinagar|YES|stars_4
+101554|Orange Village Resort|Gangtok|NO|stars_4
+101556|Alor Holiday Resort|Calangute|YES|stars_2
+101557|Baywatch Resort|Goa|YES|stars_3
+101561|Casablanca Beach Resort|Goa|NO|stars_3
+101565|Mandovi|Goa|NO|stars_3
+101568|Lazylagoon Sarovar Portico Suites|Baga|YES|stars_4
+101571|Doubletree By Hilton Goa Arpora Baga|Goa|YES|stars_4
+101575|Vista do Rio Resort|Goa|NO|stars_3
+101577|Clarks Inn Bareilly|Bareilly|NO|stars_3
+101620|Crowne Plaza Gurgaon|Gurgaon|YES|stars_5
+101621|Heritage Village (Manesar)|Gurgaon|YES|stars_4
+101622|Chaupal|Gurgaon|NO|stars_3
+101626|Park Plaza|Gurgaon|NO|stars_4
+101628|The Bristol|Gurgaon|NO|stars_5
+101629|Lemon Tree City Center|Gurgaon|YES|stars_4
+101635|Dynasty|Guwahati|NO|stars_4
+101637|Gwalior Regency|Gwalior|NO|stars_2.5
+101638|The Central Park|Gwalior|NO|stars_3
+101643|The Haveli Hari Ganga|Haridwar|NO|stars_3
+101645|Sun|Haridwar|NO|stars_3
+101646|Paradise Village Beach Resort|Goa|YES|stars_3
+101650|Classic Residency|Haridwar|NO|stars_3
+101651|Country Inn & Suites Haridwar|Haridwar|NO|stars_4
+101652|Ashok|Hassan|NO|stars_2.5
+101654|Southern Star|Hassan|NO|stars_3
+101655|Malligi|Hospet|NO|stars_3
+101656|Aditya Hometel|Hyderabad|YES|stars_3
+101657|Athithi Inn|Hyderabad|NO|stars_3
+101659|Comfort Inn City Park|Hyderabad|YES|stars_3
+101660|Katriya Hotel & Towers|Hyderabad|NO|stars_3
+101661|Taj Banjara|Hyderabad|YES|stars_5
+101662|ITC Kakatiya|Hyderabad|YES|stars_5
+101664|Ista|Hyderabad|YES|stars_5
+101666|Minerva Grand|Secunderabad|NO|stars_3
+101667|NKMs Grand|Hyderabad|NO|stars_3
+101669|Kamat Lingapur|Hyderabad|NO|stars_3
+101670|Mapple Inn|Hyderabad|YES|stars_3
+101671|Sitara Hotel|Hyderabad|NO|stars_4
+101673|Novotel Hyderabad Convention Centre|Hyderabad|NO|stars_4.5
+101674|Sarovar Portico|Indore|NO|stars_4
+101678|Taj Tristar|Hyderabad|NO|stars_3
+101679|jüSTa - The Residence Hyderabad|Hyderabad|YES|stars_3
+101680|Fortune Landmark Indore|Indore|YES|stars_4.5
+101681|Sayaji|Indore|NO|stars_4
+101691|Comfort Inn Hawa Mahal|Jaipur|YES|stars_3
+101692|Hari Mahal Palace|Jaipur|YES|stars_4
+101694|Arya Niwas|Jaipur|NO|stars_3
+101697|OM Tower|Jaipur|YES|stars_3
+101698|Chandragupt|Jaipur|NO|stars_3
+101699|Aashish|Jaipur|YES|stars_3
+101702|Kanchan Deep|Jaipur|NO|stars_3
+101709|Sarang Palace|Jaipur|NO|stars_3
+101710|Shalimar|Jaipur|NO|stars_2.5
+101712|Jaipur Palace|Jaipur|YES|stars_3.5
+101713|Pride Amber Vilas Resort|Jaipur|NO|stars_3.5
+101714|Naila Bagh Palace|Jaipur|NO|stars_3
+101716|Park Prime Jaipur|Jaipur|YES|stars_4
+101718|Sajjan Niwas|Jaipur|NO|stars_3
+101721|The Wall Street|Jaipur|NO|stars_3
+101722|Rajasthan Desert Safari Camp|Jaisalmer|NO|stars_3
+101723|The Gateway Rawalkot Jaisalmer|Jaisalmer|NO|stars_4
+101727|The Maya|Jalandhar|NO|stars_3
+101728|Asia Jammu Tawi|Jammu|NO|stars_3
+101729|Fortune Inn Riviera Jammu|Jammu|YES|stars_0
+101753|Rahi Coral Beach Resort|Calangute|YES|stars_2
+101763|Bal Samand Garden Retreat|Jodhpur|NO|stars_3
+101768|Candy Rajputana by Peppermint|Jodhpur|YES|stars_3
+101769|Ratnawali|Jodhpur|NO|stars_2
+101770|Krishna Prakash Heritage Haveli|Jodhpur|YES|stars_3
+101772|Shree Ram International|Jodhpur|YES|stars_3
+101781|Tuli Tiger Resort|Kanha|NO|stars_3
+101782|Kanha Jungle Lodge|Kanha|NO|stars_3
+101785|Cape Residency|Kanyakumari|NO|stars_2
+101786|Singar International|Kanyakumari|NO|stars_3
+101788|Estuary View Resorts|Karwar|NO|stars_2
+101795|Asia Vaishno Devi|Katra|NO|stars_4
+101812|Ramada Khajuraho|Khajuraho|YES|stars_4
+101813|Abad Fort|Cochin|YES|stars_2.5
+101815|Abad Metro|Cochin|YES|stars_2
+101816|Abad Plaza|Cochin|YES|stars_3
+101819|The Avenue Regent|Cochin|YES|stars_4
+101820|Presidency|Cochin|NO|stars_4
+101824|Poovath Heritage Hotel|Cochin|NO|stars_3
+101825|Quality Airport|Cochin|NO|stars_3
+101829|The Woods Manor|Cochin|NO|stars_3
+101832|JC Residency|Kodaikanal|NO|stars_3
+101837|The Floatel|Calcutta|YES|stars_4
+101843|Lytton|Calcutta|NO|stars_3.5
+101848|Park Palace|Calcutta|NO|stars_2
+101853|Aquaserenne|Kollam|NO|stars_3.5
+101856|Umed Bhawan Palace|Kota|NO|stars_3
+101857|Nahar´s Stone House Retreat|Kotagiri|NO|stars_3
+101858|The Windsor Castle|Kottayam|NO|stars_3
+101863|WelcomHotel Raviz Kadavu|Calicut|NO|stars_4.5
+101867|Cocobay Resort|Kumarakom|NO|stars_3
+101877|Shambhala|Leh|NO|0
+101884|Sahil Sarovar Portico|Lonavala|NO|stars_3
+101886|Comfort Inn Lucknow|Lucknow|NO|stars_3
+101889|Vivanta Gomti Nagar|Lucknow|NO|stars_5
+101891|A' Hotel Ludhiana|Ludhiana|NO|stars_3.5
+101892|Fortune Park Klassik Ludhiana|Ludhiana|YES|stars_3
+101893|City Heart Sarovar Portico|Ludhiana|NO|stars_3
+101895|Fortune Pandiyan Madurai|Madurai|YES|stars_3
+101897|Sangam|Madurai|NO|stars_3
+101898|Royal Court|Madurai|NO|stars_3
+101899|The Gateway Pasumalai Madurai|Madurai|NO|stars_4.5
+101904|Apple Country Resort|Manali|NO|stars_3
+101906|Club Mahindra Snowpeaks Manali|Manali|NO|stars_3
+101908|Holiday Inn|Manali|NO|stars_3.5
+101913|Snow Valley Resorts|Manali|NO|stars_3
+101914|Snowcrest Manor|Manali|NO|stars_3
+101916|Quality Inn River Country|Manali|NO|stars_3.5
+101917|Sarovar Portico|Manali|NO|stars_4
+101920|Sagar Resort|Manali|NO|stars_3
+101924|The Highland Park|Manali|NO|stars_4
+101945|Radha Ashok|Mathura|NO|stars_3
+101946|Goverdhan Palace|Mathura|YES|stars_0
+101949|Cama Rajputana Club Resort|Mount Abu|NO|stars_3.5
+101950|Connaught House|Mount Abu|NO|stars_2
+101951|Jaipur House|Mount Abu|NO|stars_3
+101957|Bandra Residency|Bombay/ Mumbai|NO|stars_2
+101960|Executive Enclave|Bombay/ Mumbai|NO|stars_3
+101961|Grand Sarovar Premiere|Bombay/ Mumbai|YES|stars_5
+101962|Ajanta|Bombay/ Mumbai|YES|stars_3
+101964|Bawa International|Bombay/ Mumbai|YES|stars_3.5
+101967|King's International|Bombay/ Mumbai|YES|stars_3
+101968|Midtown Pritam|Bombay/ Mumbai|NO|stars_3
+101969|The Peninsula Grand|Bombay/ Mumbai|YES|stars_4
+101970|Rodas|Bombay/ Mumbai|NO|stars_3
+101971|Sahara Star|Bombay/ Mumbai|YES|stars_5
+101972|Shalimar|Bombay/ Mumbai|YES|stars_4
+101973|Suba Galaxy|Bombay/ Mumbai|NO|stars_3
+101974|Suba Palace|Bombay/ Mumbai|YES|stars_3
+101975|Supreme|Bombay/ Mumbai|YES|stars_3
+101977|Juhu|Bombay/ Mumbai|NO|stars_3
+101980|Duke's Forest Lodge|Ponmudi|NO|stars_3.5
+101985|Sea Palace|Bombay/ Mumbai|NO|stars_3
+101986|Sea Princess|Bombay/ Mumbai|YES|stars_4.5
+101987|Singh's International|Bombay/ Mumbai|NO|stars_1.5
+101988|The Resort Mumbai|Bombay/ Mumbai|YES|stars_5
+101989|The Retreat|Bombay/ Mumbai|NO|stars_4.5
+101991|Transit|Bombay/ Mumbai|YES|stars_3
+101993|Club Mahindra Lakeview Resort|Munnar|NO|stars_4
+101994|Abad Copper Castle|Munnar|NO|stars_3
+102000|Tall Trees|Munnar|NO|stars_4
+102002|Tea County, KTDC Hill Resort|Munnar|NO|stars_4
+102010|Green Castle|Mussoorie|NO|stars_3
+102012|Hill Queen|Mussoorie|NO|stars_3
+102013|Nand Residency|Mussoorie|NO|stars_3
+102015|Jaypee Residency Manor|Mussoorie|YES|stars_4.5
+102022|The Claridges Nabha|Mussoorie|NO|stars_4
+102023|Sandesh the Prince|Mysore|NO|stars_4
+102025|Howard Johnson Inn The Monarch|Mysore|NO|stars_3
+102029|Pai Vista|Mysore|NO|stars_3.5
+102033|Regaalis|Mysore|NO|stars_3
+102034|Airport Centre Point|Nagpur|NO|stars_3
+102043|The Pride|Nagpur|YES|stars_5
+102044|Tuli International|Nagpur|NO|stars_3.5
+102061|Palace Belvedere|Nainital|NO|stars_3
+102064|Shervani Hilltop|Nainital|NO|stars_3.5
+102075|Quality Inn Regency|Nashik|NO|stars_2.5
+102090|Lake View|Ooty|NO|stars_3
+102092|Sinclairs|Ooty|NO|stars_3
+102102|Taj Savoy|Ooty|NO|stars_4.5
+102105|Fortune Resort Sullivan Court|Ooty|YES|stars_3
+102115|Kairali Ayurvedic Health Resort|Palakkad|NO|stars_4
+102131|Annamalai International|Puducherry|NO|stars_3
+102137|Le Dupleix|Puducherry|NO|stars_3.5
+102138|Fortune Resort Bay Island|Port Blair|YES|stars_4
+102140|Peerless Sarovar Portico|Port Blair|NO|stars_3.5
+102144|Gandharv Residency|Pune|NO|stars_3
+102145|RutuGandh Heritage|Pune|YES|stars_1.5
+102146|Sunderban|Pune|NO|stars_3
+102149|Quality Hotel The Regency|Pune|YES|stars_3
+102150|Vivanta by Taj Blue Diamond|Pune|NO|stars_5
+102151|The Sagar Plaza|Pune|NO|stars_3.5
+102154|Seasons Koregaon Park|Pune|NO|stars_3
+102156|Seasons Aundh|Pune|YES|stars_4
+102159|Mayfair Beach Resort|Puri|YES|stars_4
+102162|Toshali Sands|Puri|NO|stars_4
+102166|Jagat Palace|Pushkar|NO|stars_3
+102168|Hotel Pushkar Fort|Pushkar|NO|stars_3
+102173|The Pushkar Bagh|Pushkar|NO|stars_4
+102174|Sai Renaissance|Bangalore|NO|stars_3
+102175|Sai Towers|Puttaparthi|NO|stars_2
+102177|Mayura|Raipur|NO|stars_3
+102179|Anand Regency|Rajahmundry|NO|stars_3
+102184|Royal Park|Rameshwaram|YES|stars_2
+102194|Ganga Kinare|Rishikesh|NO|stars_4
+102195|EllBee Ganga View|Rishikesh|NO|stars_4
+102196|Great Ganga|Rishikesh|NO|stars_3
+102197|Natraj|Rishikesh|NO|0
+102198|Tapovan Resort|Rishikesh|NO|stars_3
+102199|Vasundhara Palace|Rishikesh|NO|stars_3
+102202|Samode Bagh|Jaipur|NO|stars_4
+102204|Sariska Palace|Sariska National Park|NO|stars_3.5
+102220|The Lion Safari Camp|Sasan Gir|YES|stars_4
+102221|The Tiger Villa|Ranthambhore Nationalpark|NO|stars_2
+102223|Nahargarh Ranthambore|Khilchipur|NO|stars_4
+102224|Ranthambhore Safari Lodge|Ranthambhore Nationalpark|YES|stars_3
+102225|The Pugmark|Khilchipur|NO|stars_3
+102226|Alsisar Mahal|Shekhawati|NO|stars_3.5
+102235|East Bourne|Shimla|NO|stars_4
+102238|Shilon Resort|Shimla|NO|stars_3.5
+102240|Woodville Palace|Shimla|NO|stars_3
+102241|Willow Banks|Shimla|NO|stars_3.5
+102242|Asia The Dawn|Shimla|NO|stars_3
+102250|Quality Inn Himdev|Shimla|NO|stars_3
+102251|Radisson Shimla|Shimla|NO|stars_5
+102252|Springfields|Shimla|NO|stars_3
+102254|Toshali Royal View Resort|Shimla|NO|stars_3
+102255|Shraddha Park Inn|Shirdi|NO|stars_3.5
+102256|Sun-n-Sand|Shirdi|NO|stars_5
+102259|Cindrella|Siliguri|NO|stars_3.5
+102264|Ahdoos|Srinagar|NO|stars_3
+102265|Broadway|Srinagar|NO|stars_4
+102267|Grand Mumtaz|Srinagar|NO|stars_3
+102268|Heevan Resort|Srinagar|NO|stars_3
+102278|Oriental Towers|Thanjavur|NO|stars_3
+102285|Periyar House|Thekkady|NO|stars_3
+102286|Club Mahindra Tusker Trails|Thekkady|NO|stars_3.5
+102289|Mascot KTDC|Trivandrum|NO|stars_4
+102293|Sangam|Tiruchirappalli|NO|stars_3
+102296|Ramee Guestline Tirupati|Tirupati|NO|stars_3
+102297|Fort Khejarla|Jodhpur|YES|stars_4
+102298|Rajputana|Udaipur|YES|stars_4
+102300|Shikarbadi Hotel|Udaipur|NO|stars_3
+102301|Swaroop Vilas|Udaipur|YES|stars_2.5
+102304|Fortune Park Galaxy|Vapi|YES|stars_0
+102306|Hotel Ideal Tower|Varanasi|NO|stars_4
+102308|Meraden Grand|Varanasi|NO|stars_3
+102312|MM Continental|Varanasi|NO|stars_2
+102313|Pallavi International|Varanasi|NO|stars_2.5
+102314|Ramada Plaza|Varanasi|YES|stars_4.5
+102319|Fortune Murali Park|Vijayawada|YES|stars_4
+102320|Quality DV Manor|Vijayawada|NO|stars_4
+102321|Daspalla Visakhapatnam|Visakhapatnam|NO|stars_3
+102323|The Park|Visakhapatnam|YES|stars_5
+102329|Grand Palace|Yercaud|NO|stars_3
+103398|Bogmallo Beach Resort|Bogmallo|YES|stars_4
+103402|jüSTa Panchsheel Park|Delhi|YES|stars_4
+103510|Alor Grande|Goa|YES|stars_2
+103511|Astoria|Goa|YES|stars_2
+103512|Santana Beach Resort|Goa|YES|stars_2.5
+103513|Sodder's Svelton Manor|Calangute|YES|stars_3
+103677|Cary's|Calangute|YES|stars_2
+103678|Sun City Resort|Baga|NO|stars_3
+103813|MGM Beach Resort|Madras/Chennai|NO|stars_3.5
+104176|Ashiana Regency|Shimla|NO|stars_3
+104280|Bajaj Indian Home Stay|Delhi|YES|stars_2.5
+106228|Royal Orchid Fort Resort|Mussoorie|NO|stars_4
+107698|Gem Park-Ooty|Ooty|NO|stars_4
+108653|Marriott Executive Apartments Lakeside Chalet|Bombay/ Mumbai|NO|stars_4
+110562|The Corbett Hideaway|Corbett-Nationalpark|NO|stars_3
+110571|Raheem Residency|Alleppey|NO|stars_3.5
+110572|Barefoot at Havelock Resort|Havelock Island|NO|stars_3
+122230|The Lodhi|Delhi|NO|stars_4.5
+122310|JP Cordial|Bangalore|YES|stars_3
+122311|Dr. Rajkumar International|Bangalore|YES|stars_3
+124139|White House|Delhi|YES|stars_3
+124548|Bhaskar Plaza|Hyderabad|YES|stars_3
+124549|Ramanashree|Bangalore|YES|stars_3
+124550|Pai Viceroy JC Road|Bangalore|YES|stars_3
+124552|The Bell|Bangalore|YES|stars_3
+124553|Nice Palace|Delhi|YES|stars_2.5
+124554|Casa Aleixo|Calangute|YES|stars_2.5
+124555|Chalston Beach Resort|Calangute|YES|stars_2
+124556|Cavala The Sea Side Resort|Calangute|YES|stars_2
+124557|Sodder's Gloria Ann|Goa|YES|stars_3
+124558|Marinha Dourada Resort|Bardez|YES|stars_3
+124559|Santiago|Calangute|YES|stars_3
+124560|Per Avel Beach Holiday Home|Candolim Beach|YES|stars_2
+124561|Don Hill|Goa|YES|stars_1
+124562|Baga Villa|Baga|YES|stars_1.5
+124563|Gaffino's Beach Resort|Mobor Beach|YES|stars_2
+124564|Beiramar Alfran Resort|Calangute|YES|stars_2
+124565|Don Joao|Goa|YES|stars_2
+124566|Grand Kochi|Ernakulam|YES|stars_3
+124567|Icon Towers|Delhi|YES|stars_2
+127008|Bougainvillea Granpa''s Inn|Anjuna|NO|stars_2
+127009|The Golden Palms|Colva|YES|stars_4
+127799|Fragrant Nature Resort|Kollam|NO|stars_4
+128526|Chettinadu Mansion|Kanadukathan|NO|stars_3
+128871|The Leela Palace|Bangalore|YES|stars_5
+128895|Ajanta|Delhi|NO|stars_2
+129575|Nirvana Hermitage|Anjuna|NO|stars_3
+129576|Hampshire Plaza|Hyderabad|YES|stars_4
+129579|Astoria|Delhi|NO|stars_2
+129580|Royal Palace|Delhi|YES|stars_2.5
+129581|Sri Nanak Continental|Delhi|NO|stars_3
+129582|Clark International|Delhi|YES|stars_3
+129583|Clarion Collection|Delhi|YES|stars_4
+131830|Goldfinch|Bangalore|YES|stars_4
+131831|Royal Orchid Central|Bangalore|YES|stars_4
+131832|The Infantry Hotel|Bangalore|YES|stars_3
+131833|Mapple Express|Bangalore|YES|stars_3
+131834|Royal Orchid Resort & Convention Centre|Bangalore|YES|stars_3
+131835|jüSTa - The Residence Off MG Road|Bangalore|YES|stars_3.5
+131836|Belair|Bangalore|NO|stars_3
+131837|Tricolour|Bangalore|NO|stars_3
+131840|Darisa Resort|Anjuna|YES|stars_2
+131841|Woodbridge|Hyderabad|YES|stars_3
+131842|Amer View|Jaipur|YES|stars_3
+131843|Umaid Mahal|Jaipur|YES|stars_3
+131844|Rang Mahal|Jaisalmer|NO|stars_4
+131849|Royal Orchid Metropole|Mysore|YES|stars_4
+131850|Pablas International|Delhi|YES|stars_3
+131851|Vishal Residency|Delhi|NO|stars_2.5
+131853|Karat 87|Delhi|YES|stars_3
+131854|Tara Palace|Delhi|NO|stars_3
+131855|Pauls Court|Delhi|NO|stars_2
+131857|Chand Palace|Delhi|NO|stars_2
+131858|Sunstar Grand|Delhi|YES|stars_3
+131859|Maurya Heritage|Delhi|YES|stars_2
+131860|Woodpark|Shimla|NO|stars_2
+134391|Fortune Park Panchwati|Calcutta|YES|stars_3.5
+134392|Grand Peepal|Delhi|YES|stars_3
+134393|Travancore Court|Cochin|YES|stars_3
+134394|Britona Riverside Retreat|Goa|YES|stars_2
+134395|Jasminn|Betalbatim Beach|YES|stars_3
+134396|Pride Park Premier|Gurgaon|YES|stars_4
+134397|Jesant Valley Resort|Candolim Beach|YES|stars_1
+134398|Lua Nova|Calangute|YES|stars_2
+134399|Ronil Royale|Calangute|YES|stars_3
+134401|Somy Resorts|Calangute|YES|stars_2
+135250|Shahpura Bagh|Shahpura|NO|stars_4
+135256|Shahpura House|Jaipur|NO|stars_3.5
+135279|The Windermere Estate|Munnar|NO|stars_3
+135282|Elephant Court|Periyar|NO|stars_4.5
+135286|The Dune|Puducherry|NO|stars_3.5
+135296|Chitvan Jungle Lodge|Kanha|NO|stars_3.5
+135539|TJS Royale|Delhi|YES|stars_2
+135540|Raunak Plaza|Delhi|YES|stars_3
+135541|Dona Terezinha|Calangute|YES|stars_2
+135542|Libton Manor|Candolim Beach|YES|stars_1
+135543|The Goan Village|Candolim Beach|YES|stars_3
+136073|Svelte Hotel & Personal Suites|Delhi|YES|stars_4
+136406|Harbour View Residency|Cochin|YES|stars_3
+136743|Terra Paraiso Resort|Calangute|YES|stars_3
+136825|Highland Beach Resort|Candolim Beach|YES|stars_3
+137155|SPB 87|Delhi|YES|stars_3
+137233|TAJ HOME STAY|Agra|NO|stars_2
+137404|Peppermint|Hyderabad|YES|stars_3
+137452|Incredible Home Stay|Delhi|YES|stars_2.5
+137468|Suncourt Yatri|Delhi|YES|stars_3
+137486|Royal Orchid Central|Jaipur|YES|stars_4
+137806|Royal Orchid Brindavan Garden|Mysore|YES|stars_4
+137836|Royal Orchid Central|Pune|YES|stars_4
+138060|Ramee Guestline Dadar|Bombay/ Mumbai|YES|stars_4
+138086|Royal Orchid Golden Suites|Pune|YES|stars_4
+138124|The Atrium|Faridabad|NO|stars_5
+138672|Bangalore Gate|Bangalore|NO|stars_3
+138905|Westway Hotel Calicut|Calicut|NO|stars_3
+138906|Fortune Select Exotica Navi Mumbai|Navi Mumbai|YES|stars_4
+138908|Fortune Select Trinity Bengaluru|Bangalore|YES|stars_4
+138915|Galaxy|Gurgaon|YES|stars_5
+138939|Grand Hometel Mumbai|Bombay/ Mumbai|NO|stars_3
+139077|Lemon Tree East Delhi Mall, Kaushambi|Ghaziabad|YES|stars_4
+139084|Lohmod|Delhi|NO|stars_3
+139169|Oakland|Delhi|YES|stars_3
+139170|Parkland Kalkaji|Delhi|YES|stars_5
+139171|GreenValley|Delhi|NO|stars_3.5
+139172|Parkland Safdarjung Enclave|Delhi|YES|stars_3
+139225|Radha Hometel|Bangalore|NO|stars_3
+139243|Ramada Powai|Bombay/ Mumbai|YES|stars_4.5
+139307|Royal Holidays|Delhi|YES|stars_2.5
+139313|Rupam|Delhi|NO|stars_3
+139457|The Park Navi Mumbai|Bombay/ Mumbai|YES|stars_5
+139500|Vishal Heritage|Delhi|YES|stars_2.5
+140212|Ramanashree California Resort|Bangalore|YES|stars_3
+140213|Jai Mahal Palace|Bangalore|YES|stars_4
+140214|Shelton Grand|Bangalore|YES|stars_3
+140215|Grand Pavillion|Bangalore|YES|stars_3
+140217|Fortune Inn Jukaso Pune|Pune|YES|stars_3.5
+140218|Grand Park Inn|Delhi|YES|stars_3
+140219|Gautam Residency|Delhi|YES|stars_3
+140220|Grand Central|Delhi|NO|stars_2.5
+140221|Palm Resort Goa|Calangute|YES|stars_2
+140222|Maggies Guesthouse|Calangute|YES|stars_2
+140223|Ramada|Jaipur|YES|stars_4
+141676|Nandhana Grand|Bangalore|YES|stars_3
+141677|The Chevron|Bangalore|YES|stars_3
+141678|Samruddhi Suites|Bangalore|YES|stars_3
+141679|Shree Adiga Residency|Bangalore|YES|stars_3
+141680|Palmarinha Resort|Calangute|YES|stars_3
+143774|Cherai Beach Resorts|Cochin|NO|stars_3
+144334|Sunstar Heritage|Delhi|YES|stars_3
+144335|Red Castle|Delhi|YES|stars_2
+144341|Housez 43|Calcutta|NO|stars_2
+144343|Golden Manor|Bombay/ Mumbai|NO|stars_3
+144344|Four Seasons Hotel Mumbai|Bombay/ Mumbai|NO|stars_5
+157273|Royal Garden|Bombay/ Mumbai|NO|stars_3
+157274|Imperial|Jaisalmer|NO|stars_3
+157276|The Orchard Suites Sankey Road|Bangalore|YES|stars_3
+157277|Ramada Bangalore|Bangalore|YES|stars_3
+157278|Deccan Rendezvous|Pune|YES|stars_4
+157281|The Gordon House Pune|Pune|YES|stars_4
+157282|Cambay Sapphire|Ahmedabad|YES|stars_3
+157285|Western Queen|Delhi|NO|stars_2
+157286|St Laurn Business Hotel|Pune|NO|stars_4
+157287|Le Waterina Lakeside Resort|Madras/Chennai|NO|stars_4
+157288|Park Field Resotel|Bangalore|NO|stars_4
+157291|Kapila|Pune|NO|stars_3
+157292|Classic|Delhi|NO|stars_3
+157293|Southern|Delhi|YES|stars_3
+157294|The Royal Plaza|Delhi|YES|stars_4
+157295|Oakwood Residence Naylor Road|Pune|YES|stars_4
+157296|Milan International|Bombay/ Mumbai|NO|stars_3
+157297|Brunton Aster|Bangalore|NO|stars_3
+157298|Casa Cottage|Bangalore|NO|stars_3
+157299|Shilton Suites|Bangalore|NO|stars_3
+157301|The Citrine Shashank|Bangalore|YES|stars_3
+157303|BB Palace|Delhi|NO|stars_3
+157306|Oakwood Premier Mumbai|Bombay/ Mumbai|YES|stars_5
+157308|Lemon Tree Indore|Indore|YES|stars_3.5
+157309|Komfort Terraces|Bangalore|NO|stars_3
+157312|Highgates|Bangalore|YES|stars_3
+157315|Shilton Residence|Bangalore|YES|stars_3
+157316|Metro Palace|Bombay/ Mumbai|YES|stars_3
+157318|Red Carpet Residence|Bangalore|YES|stars_3
+157320|The Gateway MG Road Vijayawada|Vijayawada|NO|stars_4
+157322|Comfort Inn President|Delhi|YES|stars_3
+157323|Naman Palace|Delhi|YES|stars_2
+157324|Hotel Surya International|Delhi|YES|stars_3
+157325|Mandakini|Kanpur|NO|stars_2
+157326|Airlines International|Bombay/ Mumbai|YES|stars_2
+157328|Pearl Continental|Cochin|NO|stars_3
+157331|Fortune Select JP Cosmos Bengaluru|Bangalore|NO|stars_4
+157332|Jukaso Inn|Delhi|NO|stars_3
+157333|Ashiana|Delhi|NO|stars_2
+157336|Courtyard|Madras/Chennai|NO|stars_4
+157337|Mandakini Grand|Delhi|YES|stars_2
+157338|Bamyan The Boutique|Delhi|NO|stars_3
+157341|Katriya De Royal|Hyderabad|NO|stars_4
+157345|Mandakini Plaza|Kanpur|NO|stars_3
+157346|Iris|Bangalore|YES|stars_3
+157348|B Continental|Delhi|YES|stars_3
+157349|Mandakini Palace|Delhi|YES|stars_2
+157350|The Elanza|Bangalore|YES|stars_3.5
+157351|Lemon Tree Udyog Vihar|Gurgaon|YES|stars_3
+157352|Maia Beacon Residences|Bangalore|YES|stars_2.5
+157353|Le Heritage|Delhi|NO|stars_2
+157355|Aurora Towers|Pune|NO|stars_4
+157357|Blue Sapphire|Delhi|NO|stars_2
+157358|The Muse Sarovar Portico|Delhi|YES|stars_4
+157359|Waves|Delhi|NO|stars_2
+157360|Hanuwant Palace|Delhi|NO|stars_2.5
+157362|The Gateway Akota Gardens Vadodara|Vadodara|NO|stars_4.5
+157364|The Leela Ambience Gurgaon Hotel & Residences|Gurgaon|YES|stars_5
+157365|The Gateway Athwa Lines Surat|Surat|NO|stars_5
+157368|Poppys|Tiruppur|NO|stars_3
+157371|Sutra d'Onyx|Bombay/ Mumbai|NO|stars_2.5
+157372|The Gateway Beach Road Visakhapatnam|Visakhapatnam|NO|stars_5
+157374|Taj Chandigarh|Chandigarh|NO|stars_5
+157376|Leonia Holistic Destination|Hyderabad|NO|stars_5
+157377|Hilton Shillim Estate Retreat & Spa|Pune|NO|stars_4.5
+157378|New Bengal|Bombay/ Mumbai|NO|stars_1.5
+157385|The Gateway Hotel Church Road|Coonoor|NO|stars_4
+157387|Time Square|Cochin|YES|stars_3
+157393|Clark Greens|Delhi|YES|stars_3.5
+157395|Green Park|Hyderabad|NO|stars_4
+157396|Garden Hotel|Udaipur|NO|stars_3
+157397|The Cambay Boutique|Gurgaon|YES|stars_3
+157398|Jaisalgarh|Jaisalmer|NO|stars_3
+157399|Unique Residency|Bangalore|NO|stars_3
+157400|Anjani|Udaipur|NO|stars_3
+157401|Ellaa|Hyderabad|NO|stars_4
+157402|New Delhi Homestay|Delhi|NO|stars_2.5
+157406|Lemon Tree Vembanad Lake Resort|Kumarakom|YES|stars_4
+157407|Green Woods Resort|Thekkady|NO|stars_3
+157411|Saptagiri|Delhi|YES|stars_3
+157412|Indus Valley Ayurvedic Centre|Mysore|NO|stars_3
+157417|Thekkady Wild Corridor|Thekkady|NO|stars_4
+157418|Snow Crest Inn|Dharamsala|NO|stars_3
+157420|Country Inn & Suites By Carlson, Jalandhar|Jalandhar|NO|stars_3
+157423|Avion|Bombay/ Mumbai|NO|stars_3
+157426|The Royal Retreat|Udaipur|NO|stars_4
+157428|jüSTa - The Residence Indiranagar|Bangalore|YES|stars_3.5
+157432|Taj Club House|Madras/Chennai|NO|stars_5
+157433|Quality Sabari Classic|Madras/Chennai|NO|stars_3.5
+157436|Raiin Tree|Bangalore|YES|stars_3
+157437|Silicrest|Bangalore|NO|stars_3
+157439|The Gateway Old Port Road Mangalore|Mangalore|NO|stars_4
+157440|Saj Earth Resort|Cochin|NO|stars_5
+157441|The House of MG|Ahmedabad|NO|stars_3.5
+157442|Bawa Continental|Bombay/ Mumbai|YES|stars_3
+157443|Leoney Resort|Goa|NO|stars_2
+157444|The Paradise by Tunga|Bombay/ Mumbai|YES|stars_3
+157445|Halcyon|Bangalore|NO|stars_3
+157446|Infinity Corbett Wilderness Resort|Ramnagar|NO|stars_4
+157448|The Gateway Ambad Nashik|Nashik|NO|stars_5
+157449|Lemon Tree Hinjawadi|Pune|YES|stars_4
+157451|Beverly Hills|Pune|YES|stars_3
+157454|The Legend|Bombay/ Mumbai|YES|stars_3
+157456|Beach & Lake Resort|Trivandrum|NO|stars_3
+157457|Presa Di Goa|Calangute|NO|stars_3
+157458|Ramada Resort Cochin|Cochin|YES|stars_4
+157459|jüSTa - The Residence Greater Kailash|Delhi|YES|stars_3
+157461|Ohris Banjara|Hyderabad|NO|stars_3
+157466|Holiday Inn Mumbai International Airport|Bombay/ Mumbai|YES|stars_4
+157468|Sterling Greenwoods|Ahmedabad|NO|stars_3
+157470|SMS|Jaipur|NO|stars_5
+157471|Peerless Sarovar Portico|Durgapur|NO|stars_3
+157472|Best Western Premier Vedic Village Spa Resort|Calcutta|NO|stars_5
+157474|The Acura BMK|Gurgaon|YES|stars_4
+157475|Mandakini Nirmal|Jaipur|NO|stars_2
+157483|Goan Clove Apartements|Goa|NO|stars_3
+157484|The Westin Sohna Resort & Spa|Gurgaon|YES|stars_5
+157485|Cambay Palm Lagoon|Kollam|NO|stars_3
+157487|Oakwood Premier Prestige Bangalore|Bangalore|YES|stars_5
+157490|Omni|Delhi|YES|stars_2
+157491|Hotel Orchid Garden|Delhi|NO|stars_2.5
+157492|Shilton Royale|Bangalore|YES|stars_3
+157493|St Laurn Suites Hinjewadi|Pune|NO|stars_5
+157494|The Paul|Bangalore|NO|stars_5
+157495|Goldfinch Mangalore|Mangalore|NO|stars_4
+157496|Apra Inn|Delhi|YES|stars_2.5
+157497|Avalon Ayurveda|Mussoorie|NO|stars_3
+157498|Cosmo|Delhi|NO|stars_2
+157499|Empire International|Bangalore|NO|stars_3
+157500|Ivory Palace|Delhi|YES|stars_2.5
+157501|Lemon Tree Ahmedabad|Ahmedabad|YES|stars_4
+157502|Manglam|Lucknow|NO|stars_2
+157710|Jhalamand Garh|Jodhpur|YES|stars_3
+157711|Infinity Rann of Kutch|Bhuj|YES|stars_3
+157712|Ramee Guestline Khar|Bombay/ Mumbai|YES|stars_3
+167555|The Leela Palace Udaipur|Udaipur|YES|stars_5
+177189|Alila Diwa Goa|Majorda Beach|NO|stars_5
+182240|Garden|Bombay/ Mumbai|NO|stars_2
+182241|Sojourn|Calcutta|YES|stars_3
+182242|Lemon Tree Chennai|Madras/Chennai|YES|stars_4
+182463|Neeleshwar Hermitage|Neeleshwar|NO|stars_4
+182555|Mandakini Castle|Jaipur|YES|stars_3
+182556|Golden Residency|Bangalore|YES|stars_2
+182558|Kailrugji|Jaipur|NO|stars_3
+182595|Siesta de Goa|Goa|YES|stars_2
+182778|Shanti Home|Delhi|NO|stars_3
+183026|Royal Village|Cochin|YES|stars_3
+183027|Gagan Plaza|Kanpur|NO|stars_2
+183028|Mayfair|Kanpur|NO|stars_2
+183029|Khandwa Haveli|Jaipur|NO|stars_3
+183231|Manama|Bombay/ Mumbai|NO|stars_2
+183553|Pooja Palace|Delhi|YES|stars_3
+183556|Pearl Plaza|Delhi|YES|stars_2.5
+183557|Jyoti Mahal|New Delhi|YES|stars_3
+183558|New Hindustan Intenational|Delhi|NO|stars_2
+183559|Sun Village|Delhi|NO|stars_2
+183560|Mapple The River Crescent Resort|Manali|NO|stars_3
+183563|Grand Mercure Bangalore|Bangalore|NO|stars_5
+183564|Lemon Tree Electronics City|Bangalore|YES|stars_4
+183565|Chanchal Continental|Delhi|NO|stars_2
+183566|Balaji Deluxe|Delhi|NO|stars_2.5
+183567|Chanchal Deluxe|Delhi|NO|stars_2.5
+183568|Delhi City Centre|Delhi|NO|stars_2
+183569|Somerset Greenways|Madras/Chennai|NO|stars_5
+183572|Parkland Kailash Colony|Delhi|YES|stars_3
+183573|Royal Orchid Suites|Bangalore|YES|stars_4
+183576|Highway Residency|Bombay/ Mumbai|NO|stars_1.5
+183577|Fortune Inn Grazia Noida|Noida|YES|stars_4
+183578|Parkland Exotica|Delhi|NO|stars_4
+183580|Parkland Defence Colony|Delhi|YES|stars_3
+183585|Airport International|Bombay/ Mumbai|YES|stars_3
+183586|Fortune Select Metropolitan Jaipur|Jaipur|YES|stars_4
+183589|MGM Mark Whitefield|Bangalore|NO|stars_3
+183590|The O Pune|Pune|NO|stars_5
+183591|Sarovar|Udaipur|YES|stars_3
+183593|Mandakini Villas|Agra|YES|stars_2
+183594|Lemon Tree Aurangabad|Aurangabad|YES|stars_3
+183596|Arma Executive|Bombay/ Mumbai|NO|stars_2
+183597|Park Plaza Royal Palms|Bombay/ Mumbai|NO|stars_4.5
+183599|Cabbana Orchid|Phagwara|NO|stars_5
+183600|Siris 18|Gurgaon|NO|stars_3
+184030|Chomu Palace|Jaipur|NO|stars_4.5
+185386|Nadesar Palace|Varanasi|NO|stars_5
+185387|Vivanta by Taj - Trivandrum|Trivandrum|NO|stars_5
+185674|Beach Symphony|Marari Beach|NO|stars_3.5
+185676|The Killians|Cochin|NO|stars_4
+185682|Kurumba Village|Ooty|NO|stars_4
+185687|The Orchard|Pushkar|NO|stars_3
+185689|Serai Dessert Camp|Jaisalmer|NO|stars_4.5
+187496|Sardar Samand Palace|Jodhpur|NO|stars_4
+187519|Novotel Hyderabad Airport|Hyderabad|YES|stars_4.5
+187551|Pushkar Resorts|Pushkar|NO|stars_4
+187553|The Clover|Gurgaon|NO|stars_3
+187770|Raj Park|Madras/Chennai|YES|stars_3.5
+187792|The Gateway KM Road Chikmagalur|Chikmagalur|NO|stars_4
+188046|Shilpi Resort|Udaipur|YES|stars_3
+188127|Nattika Beach Ayurveda Resort|Nattika|NO|stars_3
+188236|Marquis Beach Resort|Candolim Beach|NO|stars_3
+188257|The Kuchaman Fort|Kuchaman|NO|0
+188270|Radisson Blu Udaipur Palace Resort & Spa|Udaipur|NO|stars_5
+188273|Heritage|Madurai|NO|stars_3.5
+188274|Blackberry Hills Mountain EcoLodges|Munnar|NO|stars_3
+188275|Atithi|Puducherry|NO|stars_4
+195994|Villa 29 (Homestay-Gold)|Delhi|YES|stars_1.5
+195995|Ashoka Palace|Delhi|YES|stars_2
+195996|Buddha|Delhi|NO|stars_1
+195998|Raja|Delhi|NO|stars_3
+195999|Kafila|Delhi|NO|stars_2
+196000|Le Marlin|Delhi|YES|stars_2
+201530|Bethsaida Hermitage|Trivandrum|NO|stars_3
+201756|Grand Magrath|Bangalore|NO|stars_3
+201757|Beacon Court|Calangute|YES|0
+201782|Church Street Inn|Bangalore|NO|stars_1.5
+201785|Inder Residency|Udaipur|YES|stars_4
+201787|Host Inn International|Bombay/ Mumbai|NO|stars_2.5
+201794|Prazeres Resort|Candolim Beach|YES|stars_2
+202259|Four Points Jaipur City Square|Jaipur|YES|stars_4
+202486|Abad Turtle Beach|Marari Beach|NO|stars_3
+202535|Goveia Holiday Homes|Candolim Beach|YES|stars_3
+203102|Citrus Hotels Goa|Calangute|NO|stars_3
+203103|Aura|Delhi|YES|stars_3
+203104|Rockland|Delhi|NO|stars_3
+203461|Turtle on the Beach|Trivandrum|NO|stars_5
+226583|Trinity Isle|Bangalore|YES|stars_3
+226584|Chetan International|Bangalore|NO|stars_2
+226585|Clarks Exotica Airport Hotel - Bangalore|Bangalore|NO|stars_4.5
+226587|Radha Regent|Bangalore|NO|stars_4
+226591|The Oakwood|Pune|NO|stars_4
+226592|The Backwater Resort - Gold Field|Kumarakom|NO|stars_3
+226593|Nazri Resort|Calangute|YES|stars_3
+226594|Aster Inn|Delhi|NO|stars_3
+226602|Chirag Residency|Delhi|NO|stars_3
+226607|Good Times Tripti|Delhi|NO|stars_3
+226608|La Suite|Delhi|YES|stars_3
+226609|Paras International|Delhi|YES|stars_3
+226611|Dakha International|Delhi|YES|stars_2
+226612|Vista Park|Gurgaon|NO|stars_3.5
+226616|Florence|Delhi|YES|stars_3
+226617|Florence Inn|Delhi|YES|stars_3
+226863|SinQ Beach Resort|Calangute|NO|stars_3
+226867|Spree Hotel Bangalore|Bangalore|YES|stars_4
+226876|Chalet Citadel Serviced Apartment|Bangalore|YES|stars_3
+227228|Citrus Hotels Pune|Pune|NO|stars_4
+227229|Niky International|Jodhpur|YES|stars_3
+227230|Shanti Residency|Jaisalmer|NO|stars_2
+227232|Gateway Hyderabad|Hyderabad|NO|stars_3
+227238|Jewel Of Chembur|Bombay/ Mumbai|YES|stars_3
+227239|Marigold Residency|Bombay/ Mumbai|YES|stars_3
+227240|Pooja Heritage|Bombay/ Mumbai|YES|stars_1
+227241|Solitaire|Bombay/ Mumbai|YES|stars_3
+227242|Dew Drops|Bangalore|YES|stars_3
+227243|Fortune Park JP Celestial Bengaluru|Bangalore|YES|stars_4
+227244|Magaji Orchid|Bangalore|NO|stars_3
+227245|Nandhana Comforts|Bangalore|NO|stars_1
+227246|Nandhana Homotel|Bangalore|YES|stars_3
+227247|Airport|Delhi|YES|stars_3
+227248|Bless Inn|Delhi|YES|stars_2
+227249|Conclave Boutique|Delhi|YES|stars_3
+227250|Country Inn & Suites Sahibabad|Ghaziabad|YES|stars_4.5
+227251|Delhi Heights|Delhi|NO|stars_3
+227252|Dolphinn Grand|Delhi|YES|stars_3
+227253|Grand Sartaj|Delhi|YES|stars_3
+227254|Lohias|Delhi|YES|stars_2
+227256|The Class|Delhi|YES|stars_2
+227257|Iris Park|Delhi|YES|stars_3
+227258|Kelson Deluxe|Delhi|YES|stars_2
+227259|Krishna Cottage|Delhi|YES|stars_2
+227260|Le Grand Kalkaji|Delhi|YES|stars_3
+227261|Le Grand Deluxe|Delhi|YES|stars_2.5
+227262|Love My India|Delhi|YES|stars_1
+227263|Praskash Kutir|Delhi|NO|stars_1
+227264|Regale Inn|Delhi|YES|stars_3
+227265|Roxy Deluxe|Delhi|YES|stars_2
+227266|Sara Greens|Delhi|YES|stars_3
+227267|Sara Residency|Delhi|YES|stars_2.5
+227268|Snow White Deluxe|Delhi|YES|stars_2.5
+227269|Sun Villa|Delhi|YES|stars_1
+227270|The Heritage B & B|Delhi|YES|stars_1
+227271|Tranquil Homes|Delhi|YES|stars_1
+227272|The White Klove|Delhi|YES|stars_3
+227273|Wycome Ashok|Delhi|YES|stars_1
+227369|Park Inn Gurgaon|Gurgaon|YES|stars_3
+227371|Newtons Manor|Jodhpur|YES|stars_1.5
+227537|Clarks Inn Pacific Mall|Delhi|YES|stars_3
+227538|Alpine Tree|Delhi|YES|stars_2
+227539|Metro Residency|Bombay/ Mumbai|YES|stars_2
+227540|Jayshree|Bombay/ Mumbai|YES|stars_2
+227541|Regal Enclave|Bombay/ Mumbai|YES|stars_3
+227542|The Solitaire|Jaipur|YES|stars_3
+227546|Cosy Grand|Delhi|YES|stars_3
+227547|Perfect Residency|Delhi|YES|stars_1
+227548|DLF City Club Phase III|Delhi|NO|stars_3.5
+227550|Clarks Inn Nehru Place|Delhi|YES|stars_3
+227551|Rawla Rawatsar|Jaipur|YES|stars_1
+227553|Mandakini Palace|Kanpur|NO|stars_2
+227554|Hotel Simla Place|Lucknow|YES|stars_2
+227562|Sunrise Villa|Delhi|YES|stars_3
+227563|Inder Prakash|Udaipur|YES|stars_3
+227564|Aashiyan|Delhi|YES|0
+227565|Tulip Inn Lucknow|Lucknow|YES|stars_3
+227566|Noida BNB|Delhi|YES|stars_2
+227568|Chalet Orchid Service Apartment - geschlossen|Bangalore|YES|stars_3
+227569|Chalet Diamond Service Apartment|Bangalore|YES|stars_3
+227570|Touch Wood|Bangalore|NO|stars_2
+227571|Crystal Beach Resort By Cambay|Calangute|YES|stars_2.5
+227574|Chandelao Garh|Jodhpur|YES|stars_3
+227576|Chandra Inn|Jodhpur|YES|stars_3
+227578|Ambica Deluxe|Delhi|YES|stars_2
+227579|Forest Green|Delhi|YES|stars_3
+227580|Shimla Heritage|Delhi|YES|stars_2
+227581|Anmol Deluxe|Delhi|YES|stars_2
+227582|Aman Palace|Delhi|YES|stars_2
+227584|Cambay Spa & Resort Kukas|Jaipur|YES|stars_4
+227585|Cambay Spa & Resort Udaipur|Udaipur|YES|stars_3.5
+227586|Devra (Home Stay )|Udaipur|YES|stars_3
+227587|East Lite|Agra|YES|stars_1.5
+227588|Vsl  Grand Serviced Apartments|Bangalore|YES|stars_3
+227589|The Pride|Bangalore|YES|stars_4
+227590|Bizz Tamanna Hotel|Hinjawadi|YES|stars_2
+227591|Royalty|Pune|YES|stars_3
+227592|Residency Palace|Jodhpur|YES|stars_3
+227593|Bawa Suites|Bombay/ Mumbai|YES|stars_3
+227595|Executive Tamanna Hotel|Hinjawadi|NO|stars_2
+227596|Marvel Umed|Jodhpur|YES|stars_3
+227597|Marugarh|Jodhpur|YES|stars_3
+227598|Mahal Khandela|Jaipur|YES|stars_3
+227599|Krishna Niwas|Udaipur|YES|stars_1.5
+227600|Jaiwana Haveli|Udaipur|YES|stars_3
+227601|Jaipur Darbar|Jaipur|YES|stars_3
+227602|Varishtta|Bombay/ Mumbai|YES|stars_2
+227603|Jaipur Heritage|Jaipur|YES|stars_3
+227604|Bawa Regency|Bombay/ Mumbai|YES|stars_2
+227605|Haveli Guest House|Jodhpur|YES|stars_2
+227606|Golden Swan|Bombay/ Mumbai|YES|stars_2
+227607|Glitz|Jaipur|NO|stars_2
+227608|Garden Villa Homestay|Agra|YES|stars_2
+227609|Panna Vilas|Udaipur|YES|stars_2.5
+227610|Prabha International|Bangalore|YES|stars_3
+227611|The Green Path Eco|Bangalore|YES|stars_2
+227612|Tudor Inn|Bangalore|YES|stars_2
+227613|Coral Tree|Bangalore|YES|stars_3
+227614|Curzon Suites|Bangalore|YES|stars_3
+227615|Tuli Imperial|Nagpur|YES|stars_5
+227616|Oakwood Premier|Pune|YES|stars_4
+227617|Park Inn Hotel Jaipur Jai Singh Highway|Jaipur|YES|stars_4
+227618|Optus Premier|Gurgaon|YES|stars_4
+227619|Hotel OK International|Varanasi|YES|stars_4
+227620|Shantai|Pune|YES|stars_3
+227621|Janki Executive|Aurangabad|YES|stars_2
+227622|Rama Deluxe|Delhi|YES|stars_3
+227623|Rama Residency|Gurgaon|YES|stars_2
+227624|Ivy Studios|Pune|YES|stars_3
+227625|Ravla Khempur|Udaipur|YES|stars_1
+227626|Sagar Residency|Delhi|YES|stars_3
+227628|The Cameron|Delhi|YES|stars_3
+227635|Aura de Asia|Delhi|NO|stars_3
+227653|Siris 18|Agra|YES|stars_3
+227654|Maya International|Bangalore|NO|stars_2.5
+227656|Green Park|Madras/Chennai|YES|stars_4
+227657|Paradise|Jaipur|NO|stars_4
+227658|Apex Intercontinental|Jaipur|YES|stars_3
+227659|Hotel Woodland|Pune|NO|stars_3
+227660|Salem Castle|Salem|YES|stars_3
+227661|Brookside|Pune|YES|stars_3
+227663|Trident Bandra Kurla|Bombay/ Mumbai|YES|stars_5
+227664|The Avenue Center|Cochin|YES|stars_3
+227666|The Renai Cochin|Cochin|YES|stars_4
+227667|The International by Tunga|Bombay/ Mumbai|YES|stars_3
+227668|Oriental Residency|Bombay/ Mumbai|YES|stars_3
+227669|Gautam Deluxe|Delhi|NO|stars_3
+227670|The Beaufort Inn|Delhi|NO|stars_3
+227671|Lamba's House|Gurgaon|YES|stars_2
+227672|C Park Inn|Delhi|YES|stars_2
+227673|DolphInn - Just Like Home|Delhi|YES|stars_2.5
+227674|Star of The Sea Resort|Benaulim Beach|YES|stars_2
+227704|Mapple Emerald|Gurgaon|NO|stars_4
+227855|Hilton Garden Inn New Delhi|Delhi|NO|stars_4
+227929|The Corinthians Resort & Club Pune|Pune|YES|stars_5
+227932|The Daanish Residency|Delhi|YES|stars_3
+227933|Vesta Maurya Palace|Jaipur|YES|stars_3
+227934|Cambay Golf Resort Jamdoli|Jaipur|YES|stars_4
+227935|Pal Haveli|Jodhpur|YES|stars_3
+227936|Indrashan Homestay|Jodhpur|NO|stars_2
+227937|Polo Heritage|Jodhpur|YES|stars_1
+227938|1589 The Royal CM|Jaipur|YES|stars_3
+227939|Maya International|Jaipur|YES|stars_3
+227940|Aditya International|Jaipur|YES|stars_2
+227941|Royal Orchid Central|Ahmedabad|YES|stars_4
+227942|Jagat Villas|Jodhpur|NO|stars_3
+228105|Mewar Haveli|Udaipur|YES|stars_1
+228106|Shambhu Vilas|Udaipur|YES|stars_2
+228107|Krishinton Suites|Bangalore|YES|stars_3
+228108|Rajblas|Gurgaon|YES|stars_3
+228109|Star Inn|Delhi|YES|stars_1
+228110|Grand President|Delhi|YES|stars_3
+228111|32nd Milestone Delhi|Gurgaon|YES|stars_4
+228112|360 Degree Beach Resort|Candolim Beach|YES|stars_3
+228114|Mykonos Blu|Baga|YES|stars_2.5
+228115|Colva Kinara|Colva|YES|stars_2.5
+228116|Resort Park Avenue|Calangute|YES|stars_2
+228117|Ruffles Beach Resort|Candolim Beach|YES|stars_2.5
+228119|Yogi Executive|Bombay/ Mumbai|YES|stars_4
+228120|Siddhartha Inn|Nagpur|YES|stars_2
+228121|Sapna Marine|Bombay/ Mumbai|YES|stars_2
+228122|Dream Cochin|Cochin|NO|stars_5
+228325|Village Royal|Calangute|YES|stars_2
+228364|Rajmahal|Agra|YES|stars_3
+228368|King's Abode|Ranakpur|YES|stars_2
+228369|Parc Estique|Pune|NO|stars_4
+228370|Ritz|Bombay/ Mumbai|YES|stars_4
+228371|Celebrations|Bombay/ Mumbai|NO|stars_3
+228372|Baia Do Sol|Calangute|YES|stars_2
+228373|Casa Severina|Bardez|YES|stars_3
+228374|Resort de Coracao|Calangute|YES|stars_4
+228375|Villa Fatima Beach Resort|Bardez|YES|stars_2
+228589|Camelot Resort|Calangute|NO|stars_2.5
+228743|Swati|Delhi|YES|stars_2.5
+228757|The Leela Palace Kempinski New Delhi|New Delhi|YES|stars_5
+228761|Vivanta Bekal|Bekal|NO|stars_5
+228885|The Park Hyderabad|Hyderabad|NO|stars_5
+228951|The Baga Marina Beach Resort|Baga|YES|stars_3
+229031|Planet Residency|Bombay/ Mumbai|NO|stars_3
+229032|The Westin Mumbai Garden City|Bombay/ Mumbai|YES|stars_5
+229033|Nirali Dhani|Jodhpur|NO|stars_3
+229034|Cambay Grand Ahmedabad|Ahmedabad|NO|stars_5
+229076|The Elite Suite|Pune|NO|stars_3
+229077|Welcomheritage Panjim Inn / Pousada / People's|Panjim|NO|stars_2.5
+229080|Sand Castles Holiday Homes|Panjim|NO|stars_1
+229083|Sandesh Kingston|Bangalore|NO|stars_2
+229220|A's Holiday Beach Resort|Candolim Beach|NO|stars_3
+229236|The Oberoi, Gurgaon|Gurgaon|NO|stars_5
+229238|Tree of Life Resort & Spa|Jaipur|NO|stars_5
+229239|Gaj Kesri|Bikaner|NO|stars_4
+229240|Swissôtel Kolkata|Calcutta|NO|stars_5
+229242|Old Lighthouse Bristow|Cochin|NO|stars_3
+229257|Vivanta Whitefield|Bangalore|NO|stars_5
+229258|Vivanta Panaji|Panjim|NO|stars_5
+229447|The Piccadily|New Delhi|NO|stars_5
+230656|VITS Aurangabad|Aurangabad|NO|stars_4
+230657|VITS Nagpur|Nagpur|NO|stars_4
+230660|Ramada Udaipur Resort & Spa|Udaipur|NO|stars_4
+230664|Unicontinental Mumbai|Bombay/ Mumbai|NO|stars_2
+230670|Krishna Palace|Hospet|NO|stars_3
+230675|Cypress|Pune|NO|stars_3
+230684|Sadanand Regency|Pune|NO|stars_3
+230685|Sapna|Pune|NO|stars_2
+230695|Surya Kunj|Jodhpur|NO|stars_3
+230871|Clarks Inn Suites - Delhi/NCR|Ghaziabad|NO|stars_4
+230872|VITS Nashik|Nashik|NO|stars_3
+230917|May Flower|Bangalore|NO|0
+230920|Arma Court|Bombay/ Mumbai|NO|stars_2
+230921|GMR 18 Grand|Bangalore|NO|stars_3
+230923|Arma Residency|Bombay/ Mumbai|NO|stars_1
+230931|Melange Luxury Serviced Apartments|Bangalore|NO|stars_4
+230958|Relax Inn|New Delhi|NO|stars_3
+230964|S & B East Inn|New Delhi|NO|stars_3
+230970|Miramar|Panjim|NO|stars_2
+230972|The View Heights Resorts|Kovalam|NO|stars_3
+230977|Jyoti Dwelling|Bombay/ Mumbai|NO|stars_3
+230983|Red Palms Residency|Bombay/ Mumbai|NO|stars_1.5
+230999|Satkar Residency|Bombay/ Mumbai|NO|stars_3
+231002|Shubhangan|Bombay/ Mumbai|NO|stars_3
+231006|Sunrise|Bombay/ Mumbai|NO|stars_2.5
+231008|The Beatle|Bombay/ Mumbai|NO|stars_4
+231438|Red Fox Jaipur|Jaipur|NO|stars_3
+231551|Soma Kerala Palace|Cochin|NO|stars_4
+231680|The LaLit Resort & Spa Bekal|Bekal|NO|stars_5
+231685|Sun-n-Sand|Nagpur|NO|stars_5
+231886|Suryagarh|Jaisalmer|NO|stars_5
+232166|Clarks Height Delhi|Delhi|NO|stars_3
+232253|Akshaya Laxmi Comfort|Bangalore|NO|stars_2
+232254|Icon Villa|New Delhi|NO|stars_3
+232259|Venus Residency|Bangalore|NO|stars_2
+232260|Adarsh Hamilton|Bangalore|NO|stars_4
+232261|9 Marks Inn St. Marks|Bangalore|NO|stars_3
+232262|The Basil|Bangalore|NO|stars_2
+232263|Dudhsagar Spa Resort|Goa|NO|stars_3
+232264|Columbus|Bombay/ Mumbai|NO|stars_2
+232265|JK Regency|Bombay/ Mumbai|NO|stars_2
+232266|7 Flag International|Bombay/ Mumbai|NO|stars_3
+232267|Satellite|Bombay/ Mumbai|NO|stars_2
+232268|Imperial Residency|Bombay/ Mumbai|NO|stars_3
+232270|Ace Residency|Bombay/ Mumbai|NO|stars_2
+232893|jüSTa Gurgaon Hotel|Gurgaon|NO|stars_4
+232894|Royal Castle|Bombay/ Mumbai|NO|stars_2
+232984|Amshi International Inn|Bangalore|NO|stars_2
+232988|Ashraya International|Bangalore|NO|stars_3
+232992|Pai Comforts|Bangalore|NO|stars_2.5
+232994|Best Western Premier La Marvella|Bangalore|NO|stars_5
+232995|Silicon Hearth|Bangalore|NO|stars_2
+232998|Akshara Dunsvirk Court|New Delhi|NO|stars_3
+232999|Pulse Impulse|New Delhi|NO|stars_2
+233001|The Visaya|New Delhi|NO|stars_4
+233002|Pal Regency|New Delhi|YES|stars_1.5
+233004|Quality Inn Pearl|Hyderabad|NO|stars_3.5
+233005|The Fern|Jaipur|NO|stars_5
+233010|Archana Residency|Bombay/ Mumbai|NO|stars_2
+233015|Arma Galaxy|Bombay/ Mumbai|NO|stars_1
+233018|Courtyard Mumbai International Airport|Bombay/ Mumbai|NO|stars_4
+233020|Grand Residency & Service Apartment|Bombay/ Mumbai|NO|stars_3
+233021|Apollo|Bombay/ Mumbai|NO|stars_3
+233022|Grant|Bombay/ Mumbai|NO|stars_2
+233023|Lerida|Bombay/ Mumbai|NO|stars_2
+233024|Plaza|Bombay/ Mumbai|NO|stars_2
+233025|Shilpa Residency|Bombay/ Mumbai|NO|stars_2
+233026|Kamran Residency|Bombay/ Mumbai|NO|stars_2
+233027|Lavender Bough|Bombay/ Mumbai|NO|stars_3
+233028|Neelkiran|Bombay/ Mumbai|NO|stars_1
+233030|Sharanam Thane|Thane|NO|stars_3
+233031|Silver Inn|Bombay/ Mumbai|NO|stars_3
+233033|Suba International|Bombay/ Mumbai|NO|stars_4
+233037|Three Star|Bombay/ Mumbai|NO|stars_3
+233039|Venkat Presidency|Bombay/ Mumbai|NO|stars_2.5
+233044|Yogi Metropolitan|Bombay/ Mumbai|NO|stars_3
+233046|Yogi Midtown|Bombay/ Mumbai|NO|stars_4
+233048|Parkland Prashant Vihar|New Delhi|NO|stars_3
+233085|Studio Estique|Pune|NO|stars_3
+233086|The Citiotel|Pune|NO|stars_3
+233087|Fateh Garh|Udaipur|NO|stars_5
+233269|Green Forest|Kumily|NO|stars_4
+233281|1589 Comfort Zone Delhi|Delhi|NO|stars_3
+233284|1589 City Mark|Gurgaon|NO|stars_4
+233290|Courtyard Gurgaon|Gurgaon|NO|stars_4
+233292|Emblem Gurgaon|Gurgaon|NO|stars_3
+233293|Emblem Delhi|Delhi|NO|stars_3
+233294|Prainha Resort & Cottage By The Sea|Panjim|NO|stars_3
+233296|Tangerine Boutique Resort|Bardez|NO|stars_3
+233298|Windhaven Resort|Ramakkalmedu|NO|stars_3
+233299|The Park on Vembanad Lake|Alleppey|NO|stars_5
+233524|Sea Lord|Bombay/ Mumbai|NO|stars_2
+233530|Nahargarh Haveli|Jaipur|NO|stars_3
+233531|Royal Sarovar Premiere|Siliguri|NO|stars_4
+234189|jüSTa - The Residence MG Road|Bangalore|NO|stars_3
+234191|Raintree Anna Salai|Madras/Chennai|NO|stars_5
+234193|Holiday Inn Cochin|Cochin|NO|stars_4.5
+234194|Rockwell Plaza|New Delhi|NO|stars_3
+234196|Osborne Holiday Resort|Bardez|NO|stars_2
+234199|Mandakini Jaya International|Hyderabad|NO|stars_2
+234201|Rajputana Haveli|Jaipur|NO|stars_3
+234204|Cartel Palace|New Delhi|NO|stars_3
+234207|Iris Hometel Harinagar|New Delhi|NO|stars_3
+234216|Prince International|New Delhi|NO|stars_2
+234219|Shervani Nehru Place|New Delhi|NO|stars_4
+234221|Vanson Villa|New Delhi|NO|stars_3
+234222|Walnut Castle|New Delhi|NO|stars_3
+234227|Visalam|Kanadukathan|NO|stars_3
+234230|Holiday Inn Pune Hinjewadi|Pune|NO|stars_4
+234234|Mapple Adhwryou Pune|Pune|NO|stars_4
+234685|Keys Trivandrum|Trivandrum|NO|stars_3
+234686|Fortune Inn Sree Kanya|Visakhapatnam|YES|stars_3
+234690|Pragati Resorts|Hyderabad|NO|stars_3
+234697|Lords Plaza Bangalore|Bangalore|NO|stars_3
+234699|The Sunway GRT Grand|Puducherry|NO|stars_3
+234701|Mangalam|Calcutta|NO|stars_2
+234702|Ista Amritsar|Amritsar|NO|stars_4
+234704|Astoria Plazza, 108 Arjun Marg|Gurgaon|NO|stars_2.5
+234706|Orion|Goa|NO|stars_4
+234708|Lotus Beach Resort|Benaulim Beach|NO|stars_3
+234711|Splendid World|Bangalore|NO|stars_3
+234712|The Senate|Bangalore|NO|stars_3
+234714|Courtyard Hyderabad|Hyderabad|NO|stars_4
+234715|Golden Haveli|Jaisalmer|NO|stars_3
+234745|Somatheeram Ayurvedic Health Resort|Trivandrum|NO|stars_3
+234786|Crowne Plaza New Delhi Okhla|New Delhi|NO|stars_5
+235243|Horizon|Calangute|NO|stars_3
+235249|Palmshore Beach Resort|Kovalam|NO|stars_3
+235418|Abalone Resort|Baga|NO|stars_2
+235419|Airport Residency|New Delhi|NO|stars_3
+235420|Ambrosia Sarovar Portico|Haridwar|NO|stars_4
+235421|Thar Vilas|Jaisalmer|NO|stars_3
+235514|Infantaria Comfort|Baga|NO|stars_2
+235515|Lake Nahargarh Palace|Chittaurgarh|NO|stars_3
+235516|Aurangabad Gymkhana Club|Aurangabad|NO|stars_3
+235517|Beleza By The Beach|Goa|NO|stars_4
+235520|Young Island Comforts|Bangalore|NO|stars_3
+235522|Desertscape Resort Jodhpur|Jodhpur|NO|stars_3
+235526|The Regenza by Tunga|Bombay/ Mumbai|NO|stars_4
+235528|Tjs Grand Karolbagh|New Delhi|NO|stars_3
+235529|Tulip Inn Gurgaon|Gurgaon|NO|stars_3
+235530|Tulip Inn Mandawa|Mandawa|NO|stars_3
+235531|Priya Residency|Secunderabad|NO|stars_2
+235532|Quality Sewa Grand|Faridabad|NO|stars_3
+235533|Quality Inn Bliss|Gurgaon|NO|stars_3
+235536|Melodious Waves|Goa|NO|stars_2
+235539|Mercure|Hyderabad|NO|stars_4
+235646|Khaas Bagh Heritage|Jodhpur|NO|stars_3.5
+235866|Pullman Gurgaon Central Park|Gurgaon|NO|stars_4.5
+235991|Travencore Heritage|Kovalam|NO|0
+236156|Calangute Towers|Calangute|YES|stars_3
+236604|BluPetal|Bangalore|NO|stars_3
+236605|The Royal Demazong|Gangtok|NO|stars_3
+236606|Bissau Palace|Jaipur|NO|stars_2.5
+236611|Club Mahindra Backwater Retreat Ashtamudi|Kollam|NO|stars_3.5
+236614|Four Points Visakhapatnam|Visakhapatnam|YES|stars_5
+236638|The Greenhouse Pushkar|Pushkar|NO|stars_3
+237022|The Leela Palace Chennai|Madras/Chennai|YES|stars_5
+237116|Radisson Blu Resort Goa|Cavelossim|NO|stars_5
+237364|Star Rocks Delhi|Delhi|YES|stars_3.5
+237423|Villa Anjuna|Anjuna|NO|stars_2
+237424|Lemon Tree Premier HITEC City|Hyderabad|YES|stars_4
+237425|Vesta International|Jaipur|NO|stars_3.5
+237429|Park Central Kochi|Cochin|NO|stars_3
+237432|Bawa Walson|Calcutta|NO|stars_3
+237434|Park View|Bombay/ Mumbai|NO|stars_3
+237435|Four Points by Sheraton Pune|Pune|YES|stars_4
+237452|Ambassador|Vadodara|NO|stars_3
+237455|Mango Suites|Amritsar|NO|stars_3
+237456|Mayfair Spa Resort|Gangtok|NO|stars_5
+237507|Shangri La Mumbai|Bombay/ Mumbai|NO|stars_5
+237537|Skylon|Ahmedabad|NO|stars_2
+237538|Kanak|Ahmedabad|NO|stars_2
+237539|The Curzon Court|Bangalore|NO|stars_3
+237540|Geo|Bangalore|NO|stars_2.5
+237541|The Residency|Madras/Chennai|NO|stars_3.5
+237542|Kassani GR|Hyderabad|NO|stars_3
+237543|Heritage Mandawa|Mandawa|NO|stars_3
+237544|Meridian Plaza|New Delhi|NO|stars_2.5
+237545|Amara|New Delhi|NO|stars_3
+237546|Best Western Skycity Hotel|Gurgaon|NO|stars_4
+237547|Astoria Plazza, 137 Sector|Gurgaon|NO|stars_2
+237548|Om Vilas|Gurgaon|NO|stars_2
+237550|Sunstar Heights|Delhi|NO|stars_2
+237551|O' Delhi|New Delhi|NO|stars_2
+237552|Bright|New Delhi|NO|stars_2
+237553|Hotel Surya|Varanasi|NO|stars_3
+237554|Vaibhav|Varanasi|NO|stars_3
+237555|Zeeras|Varanasi|NO|stars_3
+237556|Palacio de Goa|Panjim|NO|stars_2
+237557|Salida del Sol|Panjim|NO|stars_3
+237558|Tourist International Pune|Pune|NO|stars_2
+237559|Sayaji|Pune|YES|stars_4
+237560|Park Ornate|Pune|NO|stars_3
+237561|Phoenix|Pune|NO|stars_3
+237562|The Sea Horse Resort|Bardez|NO|stars_3
+237564|Sandalwood Hotel & Retreat|Panjim|NO|stars_4
+237565|Shikara Beach Resort|Cavelossim|NO|stars_2
+237568|Primo Bom Terra Verde|Bardez|NO|stars_3
+237569|The Village Square|Vagator|NO|stars_3
+237572|La Gulls Court|Bardez|NO|stars_3
+237573|Csm Holiday Village|Calangute|NO|stars_2
+237575|White Orchid Resort|Candolim Beach|NO|stars_2
+237576|La Oasis - Anjuna|Anjuna|NO|stars_3
+237766|Grand Lotus Hotel|Delhi|NO|stars_3
+237965|Adamo The Bellus|Calangute|YES|stars_3
+238147|Ibis Mumbai Airport|Bombay/ Mumbai|NO|stars_3
+238586|Grand Hyatt Goa|Goa|NO|stars_5
+238825|Indira International|New Delhi|NO|stars_3
+238826|HK Clarks Inn Amritsar|Amritsar|NO|stars_3
+238829|Fidalgo|Panjim|NO|stars_3.5
+238830|Mantra Amaltas|New Delhi|NO|stars_4
+239105|Agatti Island Beach Resort|Agatti|NO|stars_2
+239125|Hilton Chennai|Madras/Chennai|NO|stars_5
+239126|Westin Hyderabad Mindspace|Hyderabad|YES|stars_5
+239247|Tiger Den Resort|Tala|NO|stars_3
+239894|Kadaltheeram Ayurvedic Beach Resort|Varkala|NO|0
+239906|Vivanta By Taj Surajkund|Faridabad|NO|stars_4.5
+239912|Mihir Garh|Jodhpur|NO|stars_5
+239930|Suryauday Haveli Varanasi|Varanasi|NO|stars_3
+239955|Suryaa Villa|Jaipur|NO|stars_3
+239957|Perola Do Mar|Candolim Beach|NO|stars_2
+239959|Jessica Saffron Resort|Candolim Beach|NO|stars_1.5
+239972|Fahrenheit|Calangute|NO|stars_3
+240457|Natural Lake View|Udaipur|NO|stars_2
+240459|The Tiger|Udaipur|NO|stars_2.5
+240462|Hotel le Cadre|New Delhi|NO|stars_3
+240464|Red Fox|New Delhi|NO|stars_3
+240480|Taurus Hotel & Conventions|New Delhi|NO|stars_4
+240483|Keys Hotel Nestor|Bombay/ Mumbai|NO|stars_3
+240525|Heritage Village Resorts|Manali|NO|stars_3
+240527|New Adarsh|Manali|NO|stars_3
+240528|Sarthak Resorts|Manali|NO|stars_3
+240529|Manali Heights|Manali|NO|stars_3.5
+240536|Park Prime Kolkata|Calcutta|NO|stars_4
+240591|Jaisal Palace|Jaisalmer|NO|stars_3
+240597|Red Fox Hyderabad|Hyderabad|NO|stars_3
+240862|Lemon Tree Premier Leisure Valley|Gurgaon|YES|stars_4
+240866|Villagio Inn|Goa|NO|stars_3.5
+240877|Vesta Bikaner Palace|Bikaner|NO|stars_4
+241126|Centre Point|Nagpur|NO|stars_3
+241139|Oriental Residency|Ahmedabad|NO|stars_4
+241140|Courtyard Ahmedabad|Ahmedabad|NO|stars_5
+241142|Windsor Castle|Aurangabad|NO|stars_3
+241147|Rani Bagh|Jodhpur|NO|stars_3
+241149|Temple on Ganges|Varanasi|NO|stars_2
+241153|Mirage|Bombay/ Mumbai|YES|stars_4
+241254|The Spring|Madras/Chennai|NO|stars_3
+241255|Harrisons|Madras/Chennai|NO|stars_3
+241259|The Park Pod|Madras/Chennai|NO|stars_4
+241261|Mirvana Nature Resort|Jaisalmer|NO|stars_3
+241263|Mahadev Palace|Jaisalmer|NO|stars_2.5
+241265|Marol Residency|Bombay/ Mumbai|NO|stars_1
+241281|Saar Inn|New Delhi|NO|stars_3
+241283|The Pearl - a Royal Residency|New Delhi|NO|stars_3
+241284|JHT|New Delhi|NO|stars_3
+241286|Perfect|New Delhi|NO|stars_2.5
+241287|Venus|New Delhi|NO|stars_3
+241300|Sheesh Mahal|New Delhi|NO|stars_2
+241302|Dreamland|New Delhi|NO|stars_2
+241308|Spearmint Hyderabad|Hyderabad|NO|stars_3
+241309|The Central Court|Hyderabad|NO|stars_3
+241310|Tulip Inn Hyderabad|Hyderabad|NO|stars_3
+241364|Siddhartha Palace|Ahmedabad|NO|stars_3
+241365|Taj Plaza|Agra|NO|stars_2
+241764|Chancery Pavillon|Bangalore|NO|stars_4.5
+242042|Crystal Inn|Agra|NO|stars_3
+242044|Crown|Ahmedabad|NO|stars_2
+242045|Dev Corporate|Ahmedabad|NO|stars_3
+242047|Maruti|Ahmedabad|NO|stars_1
+242058|Platinum Inn|Ahmedabad|NO|stars_3
+242060|Ramada Ahmedabad|Ahmedabad|NO|stars_4
+242062|The Metropole|Ahmedabad|NO|stars_4
+242063|Treatotel|Ahmedabad|NO|stars_3
+242064|Indra Vilas|Mandawa|NO|stars_2
+242066|Tiger Lagoon|Bandhavgarh-Nationalpark|NO|stars_3.5
+242067|Mogli Jungle Resorts|Bandhavgarh-Nationalpark|NO|stars_2.5
+242068|Bundela|Bandhavgarh-Nationalpark|NO|stars_3.5
+242069|Barons Inn|Bangalore|NO|stars_3
+242071|Isis Suites|Bangalore|NO|stars_3
+242072|Maurya|Bangalore|NO|stars_2
+242073|Sovereign Heritage|Bangalore|NO|stars_3
+242075|The Zuri Whitefield|Bangalore|NO|stars_5
+242076|Aloft Bengaluru Whitefield|Bangalore|YES|stars_4
+242079|Magnum Resort|Bardez|NO|stars_2
+242080|Kadamb Kunj|Bharatpur|NO|stars_3
+242081|Mahalkhas Palace|Bharatpur|NO|stars_2
+242083|The Birders Inn|Bharatpur|NO|stars_3
+242084|Amer Greens|Bhopal|NO|stars_3
+242086|Marudyan Resort|Bikaner|NO|stars_2
+242087|Raj Vilas Palace|Bikaner|NO|stars_3
+242088|Hometel Chandigarh|Chandigarh|NO|stars_3
+242089|The Komfort Inn|Chandigarh|NO|stars_2
+242090|Aloft Chennai|Madras/Chennai|YES|stars_4
+242091|Royal Plaza|Madras/Chennai|NO|stars_3
+242092|Club Mahindra Nature Trails|Corbett-Nationalpark|NO|stars_3
+242093|Jims Jungle Retreat|Corbett-Nationalpark|NO|stars_4
+242094|Mapple Leisure Resort|Corbett-Nationalpark|NO|stars_3.5
+242097|Clarks Inn Kailash Colony|Delhi|NO|stars_3
+242098|WelcomHotel Dwarka|Dwarka|NO|stars_5
+242100|Express Sarovar Portico|Faridabad|NO|stars_3
+242101|Country Inn & Suites By Carlson, Goa Candolim|Candolim Beach|NO|stars_4
+242103|Plaza De Antonio|Calangute|NO|stars_2
+242106|Seabreeze Beach|Calangute|NO|stars_2
+242107|Seabreeze Village|Calangute|NO|stars_2
+242111|Sun Park Resort|Baga|NO|stars_2
+242112|The Fern Gardenia Resort|Goa|NO|stars_3.5
+242113|DLF City Club Phase IV|Gurgaon|NO|stars_3
+242114|Doubletree by Hilton Gurgaon|Gurgaon|NO|stars_4
+242115|Ramada Gurgaon Central|Gurgaon|NO|stars_4
+242116|The Grand Bizzotel|Gurgaon|NO|stars_3
+242117|Godwin|Haridwar|NO|stars_4
+242118|Royal Orchid Central Kireeti|Hospet|NO|stars_4
+242119|Vijayshree Heritage Village|Hospet|NO|stars_3
+242121|Amogh Boutique|Hyderabad|NO|stars_3
+242123|Mandava Hotel & Suites|Hyderabad|NO|stars_3
+242124|Oyster Suites|Hyderabad|NO|stars_3
+242126|Libra|Jaipur|NO|stars_3
+242127|Sarovar Portico Jaipur|Jaipur|NO|stars_3.5
+242129|Basant Inn|Jodhpur|NO|stars_3
+242130|Bundela Tiger Retreat|Kanha|NO|stars_3
+242131|Mogli Resorts|Kanha|NO|stars_2.5
+242132|The Baagh|Kanha|NO|stars_3.5
+242133|Wild Chalet Resort|Kanha|NO|stars_3
+242134|Grand Seasons|Cochin|NO|stars_2
+242135|Club Mahindra Kumbalgarh Fort|Kumbhalgarh|NO|stars_3.5
+242136|Mamallaa Heritage|Mamallapuram|NO|stars_2
+242137|Udai Vilas Palace Mandawa|Mandawa|NO|stars_2
+242138|Four Points by Sheraton Vashi|Navi Mumbai|YES|stars_4
+242139|The Cottage|Bombay/ Mumbai|NO|stars_2
+242141|Roop Vilas Palace|Nawalgarh|NO|stars_1
+242142|Te New Delhi|New Delhi|NO|stars_3
+242144|Kingston Park|New Delhi|NO|stars_3
+242147|Stallions Hotel|New Delhi|NO|stars_2
+242148|Star Plaza|New Delhi|NO|stars_3
+242150|The Tulip Inn, Karol Bagh|New Delhi|NO|stars_2.5
+242151|Velvet Apple|New Delhi|NO|stars_3
+242152|Golf View|Noida|NO|stars_3
+242153|Savoy Suites|Noida|NO|stars_3
+242155|Ocean Palms|Calangute|NO|stars_3
+242156|Resorte de Tio Carmino|Calangute|NO|stars_2
+242157|Joia do Mar|Bardez|NO|stars_3
+242158|Living Room Hotels, Goa|Bardez|NO|stars_3
+242159|Ozran Heights Beach Resort|Bardez|NO|stars_3
+242160|Titos My Hotel|Bardez|NO|stars_2
+242161|Valentines Retreat|Bardez|NO|stars_2
+242162|Danish Villa Sheddon, Ooty @ Zest - Mahindra Holidays & Resorts|Ooty|NO|stars_3
+242163|Club Mahindra Derby Green|Ooty|NO|stars_3
+242164|Hotel Park Prime Goa|Panjim|NO|stars_3
+242166|Hyatt Regency Pune|Pune|NO|stars_5
+242167|Ista|Pune|NO|stars_5
+242168|Le Royce|Pune|NO|stars_3
+242169|Mandakini Ambience Model Colony|Pune|NO|stars_2
+242170|Mandakini Ambience Wakad|Pune|NO|stars_2.5
+242172|Parichay Hotel|Pune|NO|stars_2
+242173|Royal Park|Pune|NO|stars_3
+242175|Shree Panchratna|Pune|NO|stars_2
+242177|The President|Pune|NO|stars_4
+242178|VITS Pune|Pune|NO|stars_4
+242180|Imperial Palace|Rajkot|NO|stars_4
+242181|Pradhyuman Lords Inn|Rajkot|NO|stars_3
+242182|The Grand Bhagwati Rajkot|Rajkot|NO|stars_4
+242185|Laxman Jhula Divine Resort|Rishikesh|NO|stars_4
+242186|San Joao Holiday Homes|Goa|NO|stars_2
+242187|Club Mahindra Whispering Pines|Mashobra|NO|stars_3
+242188|Joecons Beach Resort|Benaulim Beach|NO|stars_3
+242190|MayFair Hideaway Spa Resort|Betul|YES|stars_4
+242191|Silken Sands Hotel|Benaulim Beach|NO|stars_2
+242192|Budget Inn Bellevue|Surat|NO|stars_3
+242193|Budget Inn Hotel Hospice|Surat|NO|stars_3
+242195|Aditi|Vadodara|NO|stars_2
+242196|Sapphire Regency|Vadodara|NO|stars_2
+242197|Siddharth Palace|Vadodara|NO|stars_3
+242198|Siddhartha|Varanasi|NO|stars_2
+243891|Lords Plaza|Surat|NO|stars_3
+243894|The Regale by Tunga|Bombay/ Mumbai|NO|stars_4
+243895|Crowne Plaza Bengaluru Electronics City|Bangalore|NO|stars_5
+243896|Svenska Bangalore|Bangalore|NO|stars_4.5
+243909|Ibis Bangalore Techpark|Bangalore|NO|stars_3.5
+243910|Novotel Bengaluru Techpark Hotel|Bangalore|NO|stars_5
+243914|Chalet Centrum|Bangalore|NO|stars_3
+243915|The Waterstones|Bombay/ Mumbai|YES|stars_5
+243916|JW Marriott|Chandigarh|NO|stars_5
+243918|Lords Eco Inn|Dahej|NO|stars_2.5
+243921|L'Hotel Eden|Goa|NO|stars_3
+243922|Fortune Select Excalibur|Gurgaon|YES|stars_4
+243923|Hotel Krishna|New Delhi|NO|stars_3
+243924|Kemps Corner|Bombay/ Mumbai|NO|stars_2
+243925|Livasa Inn|New Delhi|NO|stars_3
+243926|Lords Plaza|Ankleshwar|NO|stars_3
+243928|Anila Hotels|New Delhi|NO|stars_3
+243931|Best Western Jubilee Ridge|Hyderabad|NO|stars_3
+243933|Meluha The Fern|Bombay/ Mumbai|NO|stars_5
+243936|Sofitel Mumbai BKC|Bombay/ Mumbai|NO|stars_5
+243941|Svenska Mumbai|Bombay/ Mumbai|NO|stars_5
+243942|Best Western Devasthali|Goa|NO|stars_4
+243943|Crowne Plaza New Delhi Rohini|New Delhi|NO|stars_4.5
+243944|Holiday Inn New Delhi Mayur Vihar Noida|New Delhi|NO|stars_4
+243945|Crowne Plaza New Delhi Mayur Vihar Noida|New Delhi|NO|stars_5
+243949|Delhi Darbar|New Delhi|NO|stars_2
+243950|City Park Airport|Gurgaon|NO|stars_4
+243952|Alpina Hotels & Suites|New Delhi|NO|stars_3
+243954|Le Roi|New Delhi|NO|stars_3
+243956|The Pearl Hotel Delhi|New Delhi|NO|stars_3
+243957|Ibis Pune Hotel|Pune|NO|stars_3
+243959|Mercure Lavasa|Pune|NO|stars_4
+243960|Courtyard Pune City Centre|Pune|NO|stars_4
+243961|Welcome Heritage Koolwal Kothi|Nawalgarh|NO|stars_3
+243962|Best Western Merrion|Amritsar|NO|stars_4
+243968|Gurkha Houseboats|Srinagar|NO|stars_3
+243970|Best Western Maryland|Chandigarh|NO|stars_3
+243971|Best Western Peace Valley|Goa|NO|stars_3.5
+246205|Mövenpick Hotel & Spa Bangalore|Bangalore|NO|stars_5
+246207|Country Inn & Suites Gurgaon Sector 29|Gurgaon|NO|stars_4
+246208|Radisson Blu Hotel Pune Kharadi|Pune|NO|stars_5
+246210|Mandakini Saket Regency|Lucknow|NO|stars_2
+246211|Mandakini Destination Gurgaon|Gurgaon|NO|stars_2
+246234|Anand Villa|Agra|NO|stars_2
+246235|Golden Tulip|Amritsar|YES|stars_4
+246242|Infinity Bandhavgarh Wilderness|Bandhavgarh-Nationalpark|NO|stars_3
+246244|Bhandhav Vilas|Bandhavgarh-Nationalpark|NO|stars_3
+246245|Citadel|Bangalore|NO|stars_4
+246256|Aaram Baagh|Pushkar|NO|stars_1.5
+246258|Lemon Tree Premier Ulsoor Lake|Bangalore|YES|stars_4
+246259|Matthan|Bangalore|NO|stars_5
+246260|Mels Regency|Bangalore|NO|stars_3
+246261|Sterling Holidays Silver Oaks|Darjeeling|NO|stars_3
+246262|Sterling Holidays Kasturi Plaza|Gangtok|NO|stars_2
+246263|Surbhi|Gwalior|NO|stars_2
+246264|First Transit|Hyderabad|NO|stars_3
+246265|Minerva Grand Banjara Hills|Hyderabad|NO|stars_3
+246266|Lebua Resort, Jaipur|Jaipur|NO|stars_5
+246267|Jaipur Greens|Jaipur|NO|stars_3
+246268|Infinity Kanha|Kanha|NO|stars_3
+246269|Sterling Holidays White Mist|Manali|NO|stars_2.5
+246270|JC Chalet|Bombay/ Mumbai|NO|stars_3
+246271|Karl Residency|Bombay/ Mumbai|NO|stars_3
+246272|Sterling Holidays Green Vistas|Munnar|NO|stars_2
+246273|Fortune JP Palace|Mysore|YES|stars_4
+246274|Sterling Holidays Elk Hill|Ooty|NO|stars_3
+246275|Sterling Holidays Fern Hill|Ooty|NO|stars_2.5
+246276|The Grand Bhagwati Surat|Surat|NO|stars_4.5
+246277|Colonel?s Retreat at Airport|Delhi|NO|stars_3
+246279|Impress|New Delhi|NO|stars_3
+246280|The Corporate|New Delhi|NO|stars_2
+246281|The Raj|Delhi|NO|stars_3
+246282|Vedas Heritage|Delhi|NO|stars_3
+246283|Almondz|New Delhi|NO|stars_3
+246285|Amby Inn|New Delhi|NO|stars_3
+246286|Amrit Villa|New Delhi|NO|stars_2.5
+246287|Anand Hotel Delhi|New Delhi|NO|stars_3
+246288|Colonel´s Retreat|New Delhi|NO|stars_2
+246289|Corporate Park|New Delhi|NO|stars_2
+246290|Divine Paradise|New Delhi|NO|stars_3
+246292|Emarald|New Delhi|NO|stars_3
+246293|Emperor Palms|New Delhi|YES|stars_3
+246294|Golden Deluxe|New Delhi|NO|stars_2
+246295|La Wisteria Boutique|New Delhi|NO|stars_3
+246296|Le Seasons|New Delhi|NO|stars_3
+246297|Sarthak Palace|New Delhi|NO|stars_3
+246298|The Indravan|New Delhi|NO|stars_3
+246299|The Vishraam|New Delhi|NO|stars_3
+246324|Casa Paradiso|Panjim|NO|stars_2
+246325|Paradise Inn|Panjim|NO|stars_2
+246333|Renzo's Inn|Calangute|NO|stars_2
+246335|The Sol|Candolim Beach|NO|stars_4
+246337|Holiday Beach Resort|Candolim Beach|NO|stars_2
+246340|Micasa Beach Resort|Pernem|NO|stars_3
+246344|Montego Bay Beach Village|Pernem|NO|stars_3
+246347|Peninsula Beach Resort|Calangute|NO|stars_3
+246353|Rococco@Ashvem|Anjuna|NO|stars_3
+246354|Royal Mirage Beach Resort|Candolim Beach|NO|stars_2
+246355|La Vaiencia Beach Resort|Anjuna|NO|stars_2
+246361|Haathi Mahal|Cavelossim|NO|stars_3
+246365|Kurabar Kothi|Udaipur|NO|stars_2
+247306|Lemon Tree Chandigarh|Chandigarh|YES|stars_3
+247478|Best Western AVN Arogya Hotel|Madurai|NO|stars_3
+247623|Fortune Resort Grace|Mussoorie|YES|stars_4
+247624|Fortune Select Dasve Lavasa|Pune|YES|stars_0
+247625|Fortune Select Regina|Candolim Beach|YES|stars_4
+247626|Fortune Park Vallabha|Hyderabad|YES|stars_4
+247631|Fortune Select Loudon|Calcutta|NO|stars_4
+247632|Fortune Inn Valley View Manipal|Udupi|YES|stars_3.5
+247634|Radisson Blu Marina Connaught Place|New Delhi|NO|stars_4
+247635|Fortune Park DJ Avenue|New Delhi|YES|stars_4
+247644|Fortune Park Boulevard|New Delhi|YES|stars_4
+247645|Fortune Inn Exotica Hinjewadi|Pune|YES|stars_3
+247647|Fortune Park Lakecity Thane|Thane|YES|stars_4
+247653|Clarks Inn Gurgaon - Delhi/NCR|Gurgaon|NO|stars_3
+247654|Clarks Inn Apple Tree|Ghaziabad|NO|stars_3
+247655|Clarks Inn Kaushambi|Ghaziabad|NO|stars_3
+247656|Clarks Inn Airport|Hubli-Dharwad|NO|stars_3
+247672|The Gateway Beach Road Calicut|Calicut|NO|stars_4.5
+247673|The Gateway Gir Forest|Sasan Gir|NO|stars_4
+247736|Radisson Blu Agra Taj East Gate Road|Agra|NO|stars_5
+247737|Park Plaza Bengaluru|Bangalore|NO|stars_5
+247738|Delhi Pride|New Delhi|NO|stars_3
+247760|Radisson Blu Hotel Greater Noida|Noida|NO|stars_5
+248030|St Laurn Towers|Ahmedabad|NO|stars_4
+248032|Park Plaza|Ahmedabad|NO|stars_4
+248033|WelcomHeritage Bijayniwas Palace|Ajmer|NO|stars_4
+248034|Premier Inn Bengaluru Whitefield|Bangalore|NO|stars_3
+248035|KR Inn|Bangalore|NO|stars_3
+248037|Brigade Homestead Lavelle|Bangalore|NO|stars_2
+248038|Brigade Homestead Jayanagar|Bangalore|NO|stars_3
+248043|Ganges Rivera|Haridwar|NO|stars_3
+248047|Royal Orchid|Jaipur|NO|stars_4
+248050|Royal Orchid Central Shimoga|Shimoga|NO|stars_4
+248064|Royal Orchid Central|Vadodara|YES|stars_4
+248065|The Capital - Kochi City|Cochin|NO|stars_3
+248068|Noorya Hometel|Pune|NO|stars_3
+248094|Jal Sagar|Vadodara|NO|stars_2
+248095|Imperial Apartments|New Delhi|NO|stars_3.5
+248097|Jewel Palace|New Delhi|NO|stars_3
+248100|Country Inn & Suites Gurgaon Udyog Vihar|Gurgaon|NO|stars_4.5
+248106|Amantran Pahargung|Delhi|NO|stars_2
+248107|Divine Inn|New Delhi|NO|stars_3
+248110|Jaya Excellency|Hyderabad|NO|stars_2
+248112|Radisson Hyderabad Hitec City|Hyderabad|NO|stars_5
+248117|Galaxy Residency|Bombay/ Mumbai|NO|stars_2
+248118|Galaxy Avenue|Bombay/ Mumbai|NO|stars_1
+248157|Heritage Dakshin|Navi Mumbai|NO|stars_2
+248158|Mina International|Bombay/ Mumbai|NO|stars_2
+248159|Samraj|Bombay/ Mumbai|NO|stars_2
+248185|Fortune|Bombay/ Mumbai|NO|stars_3
+248189|Suresha|Bombay/ Mumbai|NO|stars_2.5
+248196|LandMark Suites|Bombay/ Mumbai|NO|stars_3
+248204|White Feather Guest House|Pernem|NO|stars_1.5
+248207|Marbela Beach Boutique|Pernem|NO|stars_3.5
+248209|Nifa|Pernem|NO|stars_2
+248212|Le Magnifique|Panjim|NO|stars_1.5
+248217|White Pearl Suites|Baga|NO|stars_4.5
+248221|Annapurna Vishram Dhaam|Anjuna|NO|stars_2.5
+248224|The Glitz Goa|Calangute|NO|stars_4
+248879|Citi International|New Delhi|NO|stars_3
+249153|Radisson Blu Dwarka|New Delhi|NO|stars_5
+249377|Angels Resort|Bardez|NO|stars_3
+249380|Apra Deluxe|New Delhi|NO|stars_3
+249381|Apra International|New Delhi|NO|stars_3
+249385|Cuba Agonda|Palolem Beach|NO|stars_2
+249386|Cuba Patnem Apartments|Palolem Beach|NO|stars_2
+249387|Cuba Patnem Bungalows (Beach Huts)|Palolem Beach|NO|stars_2
+249388|Cuba Premium Bungalows (Beach Huts)|Palolem Beach|NO|stars_2
+249389|Cuba Retreat Mandrem|Pernem|NO|stars_2
+249390|Keys Bangalore Hosur Road|Bangalore|NO|stars_3
+249391|Keys Bangalore Whitefield|Bangalore|NO|stars_3
+249399|The Pride|Calcutta|NO|stars_5
+249400|Pride Cochin|Cochin|NO|stars_4
+249401|Pride Emarald Island Resort|Alleppey|NO|stars_3.5
+249403|The Ashtan Sarovar Portico|New Delhi|NO|stars_3
+249404|The BMK|New Delhi|NO|stars_3
+249405|Arihant Inn|New Delhi|NO|stars_2
+249406|Cabana|New Delhi|NO|stars_2.5
+249407|Country Inn & Suites Delhi Satbari|Delhi|NO|stars_4
+249408|Golden Tulip Chattarpur New Delhi|New Delhi|YES|stars_5
+249409|GRD Inn|New Delhi|NO|stars_3
+249410|MarbleArch|Delhi|NO|stars_2
+249411|Mehra Residency|New Delhi|NO|stars_2
+249412|Pawan Plaza|New Delhi|NO|stars_2
+249413|Premier Inn Shalimar Bagh|New Delhi|NO|stars_3.5
+249414|Prince Palonia|New Delhi|NO|stars_3
+249415|Radisson Blu Paschim Vihar|New Delhi|NO|stars_5
+249417|Regent Intercontinental|New Delhi|NO|stars_3
+249426|Runway|New Delhi|NO|stars_2
+249427|Siam Orchid Suites|New Delhi|NO|stars_3
+249432|Silver Stone / Silverstone|New Delhi|NO|stars_3
+249433|Sunrise|Delhi|NO|stars_3
+249434|Topaz|New Delhi|NO|stars_3
+249435|Vardhaman Inn|New Delhi|NO|stars_2
+249436|Vista Inn|New Delhi|NO|stars_2.5
+249437|Tavisha Villa|Noida|NO|stars_3
+249438|Park Plaza Faridabad|Faridabad|NO|stars_4
+249439|Tip Top Plaza|Thane|NO|stars_3
+249440|Lemon Tree Hotel Whitefield Bengaluru|Bangalore|NO|stars_4
+249443|I-Space|Bangalore|NO|stars_3
+249444|Icon Chandigarh|Chandigarh|NO|stars_4
+249446|Daspalla Hyderabad|Hyderabad|YES|stars_3.5
+249447|Deshadan Plaza Cochin|Cochin|NO|stars_3
+249448|Courtyard by Marriott Pune Hinjewadi|Pune|NO|stars_4
+249450|The Raviz|Kollam|NO|stars_5
+249452|Baga Residency|Baga|NO|stars_2
+249453|Bella Rosa|Bardez|NO|stars_2
+249455|Dona Sa Maria|Cavelossim|NO|stars_2.5
+249457|Ginger Tree Beach|Candolim Beach|NO|stars_3
+249458|Godwin|Candolim Beach|NO|stars_4
+249460|Nagoa Grande|Bardez|NO|stars_4
+249463|Nitya Resort|Calangute|NO|stars_3
+249464|Cuba Palolem Beach Resort|Palolem Beach|NO|stars_2
+249465|The Royale Assagao|Bardez|NO|stars_3
+249466|The Zeal Resort|Bardez|NO|stars_3
+249468|Xavier Beach Resort|Candolim Beach|NO|stars_2
+249472|Zeib Executive Homes|Calangute|NO|stars_3
+249475|Aurum|Jaipur|NO|stars_3
+249476|Jaipur Marriott|Jaipur|NO|stars_5
+249479|Mapple Empire Regency|Jaipur|NO|stars_2.5
+249480|Majestic Court Sarovar Portico|Navi Mumbai|NO|stars_4
+249481|Ramada Navi Mumbai|Navi Mumbai|NO|stars_4
+249482|Grand Ballard Estate|Bombay/ Mumbai|NO|stars_3
+249623|Hotel Aditya Palace|Agra|NO|stars_2
+249628|Ginger Ahmedabad|Ahmedabad|NO|stars_3
+249642|Classic Inn|Bangalore|NO|stars_3
+249643|Ginger Bangalore|Bangalore|NO|stars_3
+249644|Nagarjuna Suites|Bangalore|NO|stars_3
+249685|Carnoustie Beach Resort|Marari Beach|NO|stars_5
+249700|Mayfair Convention|Bhubaneswar|YES|stars_4
+249707|Hotel Gemini Inn Chennai|Madras/Chennai|NO|stars_3
+249713|Himalayan Heights|Gangtok|NO|stars_3
+249721|The International Centre, Goa|Goa|NO|stars_3
+249723|Riverside Regency Resort|Bardez|NO|stars_2
+249726|Habitare Suites|Gurgaon|NO|stars_1
+249753|Grandeur|Hyderabad|NO|stars_3
+249762|Ohris Baseraa Inn|Hyderabad|NO|stars_3
+249769|Lake View Homes|Hyderabad|NO|stars_3
+249778|Raghuraj Palace|Jaipur|NO|stars_2
+249783|Umaid Lake Palace|Dausa|NO|stars_3
+249789|The Pearl|Calcutta|NO|stars_3
+249791|Honeymoon Inn|Manali|NO|stars_3
+249796|Residency Andheri|Bombay/ Mumbai|NO|stars_3
+249798|Hotel Sapphire Residency|Bombay/ Mumbai|NO|stars_2
+249801|Cambay Sapphire Neemrana|Neemrana|NO|stars_4
+249821|Comfort Inn Anneha|Delhi|NO|stars_3
+249845|Metro Tower Airport|Delhi|NO|stars_2
+249858|The Chariot Resort & Spa|Puri|NO|stars_4
+249865|Golden Tulip Udaipur|Udaipur|YES|stars_3.5
+249911|Ananta Spa & Resort|Pushkar|YES|stars_5
+259451|Keys The Aures|Aurangabad|NO|stars_3
+259452|Sapphire|Bangalore|NO|stars_2.5
+259453|JP Chennai|Madras/Chennai|NO|stars_3
+259454|The Park Calangute Goa|Calangute|NO|stars_5
+259456|Jameson Inn Shiraz|Calcutta|NO|stars_3
+259457|Kohinoor Elite|Bombay/ Mumbai|NO|stars_3
+259461|Spree Shivai Hotel Pune|Pune|NO|stars_4
+259463|Imperial Pacific|Gurgaon|NO|stars_3
+259464|Central Blue Stone|Gurgaon|NO|stars_4
+259465|Regenta Hotel & Convention Centre|New Delhi|NO|stars_4
+259466|UDS Villa|New Delhi|NO|stars_3
+259467|Oodles Chattarpur|New Delhi|NO|stars_3
+259468|Oodles Nehru Place|New Delhi|NO|stars_3
+259469|The Grand Shoba|New Delhi|NO|stars_3
+259470|Delhi Heart|New Delhi|NO|stars_3
+259471|Veera Palace|New Delhi|NO|stars_3
+259472|MetroPolitan|New Delhi|NO|stars_3
+259473|Rousha Inn|Ghaziabad|NO|stars_3
+259474|Qube Studio Greater Noida|Noida|NO|stars_3
+259835|Novotel Visakhapatnam Varun Beach|Visakhapatnam|NO|stars_5
+259847|Hampton Vadodara Alkapuri|Vadodara|NO|stars_3.5
+259856|Best Western Plus Levana|Lucknow|NO|stars_4
+259857|Aamby Valley City|Pune|NO|stars_5
+259866|Country Inn & Suites Gurgaon Sector 12|Gurgaon|NO|stars_4
+260335|Africa Avenue GK1|New Delhi|NO|stars_3
+260637|Aloft Ahmedabad|Ahmedabad|NO|stars_4
+260638|Aloft Chandigarh Zirakpur|Chandigarh|NO|stars_4
+260639|Aloft Coimbatore Singanallur|Coimbatore|YES|stars_4
+260726|Ibis Delhi Airport|Delhi|NO|stars_3
+261093|Country Inn & Suites By Carlson Ajmer|Ajmer|NO|stars_4
+261097|Keys Pimpri-Pune|Pune|NO|stars_3
+261098|Keys Katti-Ma|Madras/Chennai|NO|stars_3
+261099|The Continental|Lucknow|NO|stars_3
+261100|Wildflower Resort|Bandhavgarh-Nationalpark|NO|stars_3
+261101|Kaitlyns Hospitality Bangalore|Bangalore|NO|stars_3
+261102|Mango Hotels, Bangalore - Koramangala I|Bangalore|NO|stars_3
+261103|The Pllazio Gurgaon|Gurgaon|NO|stars_4
+261104|Yug Villa|New Delhi|NO|stars_3
+261105|Tourist Deluxe|New Delhi|NO|stars_3
+261107|Jivitesh|New Delhi|NO|stars_4
+261108|Parkland Grand Kapashera|Delhi|NO|stars_3
+261109|Namaskar|Delhi|NO|0
+261110|The LaLiT Jaipur|Jaipur|NO|stars_5
+261111|Rajasthali Resort & Spa|Jaipur|NO|stars_5
+261242|Raas|Jodhpur|NO|stars_4.5
+261245|Parkland Retreat|Delhi|NO|stars_4
+261396|The Leela Goa & The Club - The Club at The Leela|Mobor Beach|NO|stars_5
+261397|The Leela Goa & The Club|Mobor Beach|NO|stars_5
+261398|Casa Vagator|Vagator|NO|stars_3
+261451|Wyndham Grand Agra|Agra|NO|stars_5
+261452|Fairmont Jaipur|Jaipur|NO|stars_5
+261453|Desert Tulip|Jaisalmer|NO|stars_4
+261455|The O Hotel Goa|Candolim Beach|NO|stars_4.5
+261528|Vivaana Haveli|Mandawa|NO|stars_4
+261542|Shreyas Retreat|Bangalore|NO|stars_3
+261630|Alila Bangalore|Bangalore|NO|stars_5
+261635|The Serai Chikmagalur|Chikmagalur|NO|stars_4
+265184|Affordable Home Stays|Gurgaon|NO|stars_3
+265185|Leisure Inn West Gurgaon|Gurgaon|NO|stars_4
+265188|The Westin Gurgaon, New Delhi|Gurgaon|YES|stars_5
+265191|Radisson Suites|Gurgaon|NO|stars_4
+265396|Apartment 52|New Delhi|NO|stars_3
+265398|Bonlon Inn|New Delhi|NO|stars_3
+265411|Wood Castle|New Delhi|NO|stars_2.5
+265416|Hotel Rockland|New Delhi|NO|stars_3
+265420|Eurostar International|New Delhi|NO|stars_2
+265423|Hotel Delhi 37|New Delhi|NO|stars_3
+265426|The Grace Hotel|New Delhi|NO|stars_3
+265430|Grand Godwin|New Delhi|YES|stars_3
+265431|Baba Deluxe|New Delhi|NO|stars_2
+265434|Hotel Godwin Deluxe|New Delhi|NO|stars_3
+265436|Hotel lals Haveli|New Delhi|NO|stars_2
+265439|Singh Empire Dx|New Delhi|NO|stars_3
+265440|Hotel Sita International|New Delhi|NO|stars_3
+265442|Pallavi Palace|New Delhi|NO|stars_2
+265443|Palm D'OR|New Delhi|NO|stars_3
+265444|Sahib Hotel|New Delhi|NO|stars_2.5
+265448|The Solace|New Delhi|NO|stars_3
+265451|Malik Continental|New Delhi|NO|stars_3
+265452|Fraser Suites New Delhi|New Delhi|NO|stars_5
+265459|Suncourt Corporate|New Delhi|NO|stars_3
+265612|Ibis Bengaluru Hosur Road|Bangalore|NO|stars_3
+265670|Radisson Blu Plaza Hyderabad Banjara Hills|Hyderabad|NO|stars_5
+272509|The Amber|Delhi|NO|stars_3.5
+272510|La Sapphire Airport Hotel|Delhi|NO|stars_3
+272511|Airport Hotel Vishal Residency|Delhi|NO|stars_3
+272512|Tavern Business Hotel|Delhi|NO|stars_3
+272521|Hotel Midland|Bombay/ Mumbai|NO|stars_2
+273175|Prem Abhilasha Guest House Home Stay|Jaipur|NO|stars_2
+273176|Gorbandh|Udaipur|NO|stars_2
+273315|Coconut Creek Farm & Home Stay|Kumarakom|NO|stars_3
+274299|Raj Residency|Madras/Chennai|NO|stars_1
+274608|The Blue House, Oldest Guest House|Jodhpur|NO|stars_3
+276012|Le Royale Residency|Pune|NO|stars_4
+276074|GRT Nature Trails Sky Rocca|Yercaud|NO|stars_3
+276079|Kairali - The Ayurvedic Healing Village|Palakkad|NO|stars_5
+278829|Swimsea Beach Resort|Panjim|NO|stars_2
+278832|La Mansion Goa|Goa|NO|stars_3
+278835|Hotel Manvin's|Goa|NO|stars_3
+278836|Hotel Mayura|Goa|NO|stars_2
+278838|Ginger Goa|Goa|NO|stars_3
+279464|The Emerald Forest|Varca Beach|NO|stars_4
+279466|Tarika's Sea Breeze|Varca Beach|NO|stars_3
+279467|Banyan Tree Courtyard|Candolim Beach|NO|stars_2
+279468|Royal Mirage Boutique Hotel|Candolim Beach|NO|stars_3
+279469|Sukhmantra Resort|Candolim Beach|NO|stars_4
+279470|Bougainvillea Guest House|Candolim Beach|NO|stars_3
+279473|Sodder's Gloria-Anne Beach Haven|Candolim Beach|NO|stars_3
+279476|Summerville Beach Resort|Candolim Beach|NO|stars_2
+279478|Sodder's Beach Classic|Candolim Beach|NO|stars_2.5
+279718|Check Inn Hotel|Delhi|NO|stars_3
+279720|Aashraye|Delhi|NO|stars_3
+279721|Hotel Delhi Aerocity|Delhi|NO|stars_3
+279722|Hotel Pahwa International|Delhi|NO|stars_3
+279723|Metro Continental|Delhi|NO|stars_3
+279724|Hotel Intercity|Delhi|NO|stars_3
+279725|Hotel Today International|Delhi|NO|stars_3
+279727|Rama Inn|Delhi|NO|stars_2
+279728|Le Alfanso|Delhi|NO|stars_2
+279729|Hotel Hari Piorko|Delhi|NO|stars_2
+279731|Hotel Megha Sheraton|Delhi|NO|stars_2
+279732|Hotel Kwality|Delhi|NO|stars_2
+279733|Hotel Madonna|Delhi|NO|stars_3
+279737|Hotel Baba Inn|Delhi|NO|stars_2
+279738|Sun International|Delhi|NO|stars_3
+279740|Hotel Sohi Residency|Delhi|NO|stars_3
+279741|Singh Sahib|Delhi|NO|stars_2.5
+279742|Hotel Shivdev International|Delhi|NO|stars_3
+279743|Hotel Parkway Deluxe|Delhi|NO|stars_3
+279747|Hotel Kingston|Delhi|NO|stars_3
+279748|La Vista|Delhi|NO|stars_3
+279750|Raas Vilas|Delhi|NO|stars_3
+279751|Hotel Airport City|Delhi|NO|stars_3
+279752|Hotel Citylite|Delhi|NO|stars_2
+279753|Sarovar Portico, Naraina|Delhi|NO|stars_4
+279754|Cosy Palace|Delhi|NO|stars_3
+279756|Madhuban Managed by Peppermint|Delhi|NO|stars_3.5
+279757|Hotel Private Affair|Delhi|NO|stars_3
+279759|Hotel Ivory 32|Delhi|NO|stars_3
+279763|Ginger East Delhi|Delhi|NO|stars_3
+279764|Country Inn By Carlson Delhi Saket|Delhi|NO|stars_4
+279765|Trinity Art Hotel|Delhi|NO|stars_3
+279766|Liv Inn - Naraina|Delhi|NO|stars_3
+279767|Regalia Retreat|Delhi|NO|stars_3
+279768|Ffour|Delhi|NO|stars_3
+279774|The Nanee Suites|Delhi|NO|stars_4
+279775|Hotel Western King|Delhi|NO|stars_2
+279788|Le Sutra|Bombay/ Mumbai|NO|stars_3.5
+279790|Suncity Residency|Bombay/ Mumbai|NO|stars_3
+279792|Hotel Atlantic|Bombay/ Mumbai|NO|stars_2
+279793|Diplomat Hotel|Bombay/ Mumbai|NO|stars_3
+279795|Residency Hotel - Fort - Mumbai|Bombay/ Mumbai|NO|stars_2
+279796|Hotel Sun N Sheel|Bombay/ Mumbai|NO|stars_3
+279798|Hotel Orritel West|Bombay/ Mumbai|YES|stars_3
+279799|Ascot Hotel|Bombay/ Mumbai|NO|stars_3
+279803|Regent Hotel Colaba|Bombay/ Mumbai|NO|stars_3
+279804|Hotel Planet Plaza|Bombay/ Mumbai|NO|stars_2
+279805|Strand Hotel|Bombay/ Mumbai|NO|stars_2
+279809|Astoria Hotel|Bombay/ Mumbai|NO|stars_3
+279815|Dragonfly|Bombay/ Mumbai|NO|stars_3
+279820|Regent|Bombay/ Mumbai|NO|stars_3
+279821|Sunshine|Bombay/ Mumbai|NO|stars_2
+279822|Orange Inn Hotel|Bombay/ Mumbai|NO|stars_2
+279823|Hotel Cosmo|Bombay/ Mumbai|NO|stars_2
+280271|Country Clube De Goa|Anjuna|NO|stars_3
+280274|Ginger Tree Boutique Resort|Anjuna|NO|stars_3
+280275|La Oasis by The Verda|Anjuna|NO|stars_3
+280276|Nilaya Hermitage|Anjuna|NO|stars_3
+280278|Hafh Resorts|Anjuna|NO|stars_3
+280279|The Orange House|Anjuna|NO|stars_2
+280280|Spazio Leisure Resort|Anjuna|NO|stars_3
+280281|The Banyan Soul|Anjuna|NO|stars_2
+280285|Resort Rio|Arpora|NO|stars_5
+280289|Stain Glass Cottage|Colva|NO|stars_2
+280291|Costa Del Sol|Colva|NO|stars_2.5
+280292|Seagull|Calangute|NO|stars_2.5
+280293|Sharanam Green Resort|Calangute|NO|stars_3
+280294|Belle Wista Wado - Enviro Green Resort|Calangute|NO|stars_2.5
+280296|Villa Theresa Beach Resort|Calangute|NO|stars_3
+280298|Avantika Resort|Calangute|NO|stars_2
+280303|All Seasons Beach Classic, Calangute|Calangute|NO|stars_2
+280305|19Belo Cabana|Calangute|NO|stars_3
+280307|Calangute Grande|Calangute|NO|stars_3
+280308|Falcon Resort|Calangute|NO|stars_2.5
+280309|Royal Heritage Resort|Calangute|NO|stars_2
+280311|Atlanta Beach Resort|Calangute|NO|stars_3
+280312|Kris Resort|Calangute|NO|stars_2
+280315|Sea Shore Beach Resort|Calangute|NO|stars_2
+280321|Hotel Taj Resorts|Agra|NO|stars_3
+280322|Sai Home Stay (Bed and Breakfast) near Taj Mahal|Agra|NO|stars_2
+280323|Hotel Mahalaya Dasaprakash|Agra|NO|stars_3
+280325|Hotel Sidhartha|Agra|NO|stars_1
+280327|Hotel Taj Heritage|Agra|NO|stars_2
+280330|Hotel Shree Residency|Agra|NO|stars_2
+280331|Mango Suites Ascent|Agra|NO|stars_3
+280334|Hotel Priya|Agra|NO|stars_3
+280335|Bhoomi Residency- A Boutique Hotel|Agra|NO|stars_3
+280337|Hotel Alpine|Agra|NO|stars_2.5
+280339|Om Sai Palace|Agra|NO|stars_3
+280342|Hotel Ashish Palace|Agra|NO|stars_2.5
+280343|Classic 7 Hotel & Restaurant|Jaipur|NO|stars_3
+280348|Divine The Boutique|Jaipur|NO|stars_3
+280358|Hotel Kalyan|Jaipur|NO|stars_2
+280359|Peppermint Hotel|Jaipur|NO|stars_3
+280361|Hotel Baba Haveli|Jaipur|NO|stars_2
+280365|Palms|Jaipur|NO|stars_2.5
+280366|The Nangi's Pride By Real Worth Hotels & Resorts|Jaipur|NO|stars_3
+280370|H.R. Palace|Jaipur|NO|stars_3
+280372|Laxmi Palace|Jaipur|NO|stars_3
+280373|Dera Rawatsar|Jaipur|NO|stars_3
+280374|Om Niwas Suite|Jaipur|NO|stars_3
+280376|The Gold Palace & Resorts|Jaipur|NO|stars_3
+280377|Savoy|Jaipur|NO|stars_2
+280378|Heritage Retreat|Jaipur|NO|stars_5
+280379|Devraj Niwas Boutique Hotel|Jaipur|NO|stars_3
+280380|Arco Palace|Jaipur|NO|stars_3
+280381|Laxmi Niwas|Jaipur|NO|stars_2
+280385|Ruby|Jaipur|NO|stars_2
+280392|Udaigarh|Udaipur|NO|stars_3
+280399|Amantra Comfort Hotel|Udaipur|NO|stars_3
+280400|Mandiram Palace|Udaipur|NO|stars_2
+280402|Labh Garh Palace|Udaipur|NO|stars_3
+280411|Citrus Backwater Spa Retreat Alleppey|Alleppey|NO|stars_3
+280420|Country Spa Wellness Beach Resort|Kovalam|NO|stars_3
+280422|Pappukutty Beach Resort, Kovalam|Kovalam|NO|stars_3
+280423|Kovalam Beach Hotel|Kovalam|NO|stars_3
+280424|Travancore Palace Beach Resort|Kovalam|NO|stars_3
+280426|Jeevan Ayurvedic Beach Resort|Kovalam|NO|stars_2
+280427|Hill & Sea View Beach Resort|Kovalam|NO|stars_3
+280428|Hotel Moonlight|Kovalam|NO|stars_3
+280429|Hotel Marine Palace|Kovalam|NO|stars_3
+280430|Tom's Inn|Kovalam|NO|stars_2.5
+280436|Illikkalam Lake Resort|Kumarakom|NO|stars_3
+280835|Tissa's Inn|Cochin|NO|stars_3
+280836|Tea Bungalow|Cochin|NO|stars_3.5
+280837|Rossitta Wood Castle|Cochin|NO|stars_2.5
+280839|Sonnetta Residency|Cochin|NO|stars_3
+280847|Edassery Mansion|Cochin|NO|stars_3
+280849|NM Royale County|Cochin|NO|stars_3.5
+280852|Hotel Fort Queen|Cochin|NO|stars_3
+280857|Hotel Excellency|Cochin|NO|stars_2
+280858|The International Hotel|Cochin|NO|stars_3
+280860|Heritage Methanam|Cochin|NO|stars_3
+280862|The Senate Hotel|Cochin|NO|stars_3
+280865|Beaumonde The Fern|Cochin|NO|stars_4.5
+280867|Sri Harsha Residency|Bangalore|NO|stars_3
+280870|Chalukya|Bangalore|NO|stars_2.5
+280872|The HHI Select Bengaluru|Bangalore|NO|stars_3
+280875|Tea Pavillion|Bangalore|NO|stars_2
+280876|Kanishka|Bangalore|NO|stars_3
+280877|Greenview Homes|Bangalore|NO|stars_2
+280878|Maple Leaf|Bangalore|NO|stars_2
+280879|Maple Green|Bangalore|NO|stars_2
+280880|9 Marks Inn Indranagar|Bangalore|NO|stars_3
+280885|Bluemoon Grand|Bangalore|NO|stars_2
+280886|Orchid Suites|Bangalore|NO|stars_3
+280887|Woodstock Express|Bangalore|NO|stars_3
+280888|Octave Hotel|Bangalore|NO|stars_3
+280890|Bluemoon Log Inn|Bangalore|NO|stars_2.5
+280892|Confident Cascade|Bangalore|NO|stars_3
+280894|Sterling Suites Langford Town|Bangalore|YES|stars_3
+280895|Vivanta By Taj Yeshwantpur|Bangalore|NO|stars_5
+280896|Sheraton Bangalore Hotel at Brigade Gateway|Bangalore|NO|stars_5
+280897|Shilton Tranquil|Bangalore|NO|stars_3
+280898|Airavatam Boutique Hotel|Bangalore|NO|stars_3
+280900|The Grand Continent|Bangalore|NO|stars_3
+280901|Purple Lotus|Bangalore|NO|stars_4
+280905|Sterling Suites - Marathahalli|Bangalore|YES|stars_3
+280906|Escape Hotel & Spa|Bangalore|NO|stars_4
+280908|Citrus Hotels Bengaluru|Bangalore|NO|stars_3
+280909|Safina Hotel|Bangalore|NO|stars_3
+280910|Casa De Bengaluru|Bangalore|NO|stars_3
+280911|Lotus Park|Bangalore|NO|stars_2
+280915|Link Inn|Bangalore|NO|stars_2
+280917|Citadines Richmond Bangalore|Bangalore|NO|stars_3.5
+280918|ITC Royal Gardenia, Bengaluru|Bangalore|YES|stars_5
+280919|Lotus Suites|Bangalore|NO|stars_2
+280924|Nandhini R.T. Nagar|Bangalore|NO|stars_2
+280925|Mango Suites Brilliance|Bangalore|NO|stars_3
+280928|Rosline The Boutique Hotel|Bangalore|NO|stars_3
+280935|Quality Inn Shravanthi|Bangalore|NO|stars_4
+280936|Davanam Sarovar Portico Suites|Bangalore|NO|stars_4
+280947|Tiger Inn|Calcutta|NO|stars_2
+280955|Hotel Trimoorti|Calcutta|NO|stars_2
+280957|Kempton|Calcutta|NO|stars_4
+280961|The Corporate|Calcutta|NO|stars_3
+280962|Hotel Pan Asia Continental|Calcutta|NO|stars_3
+280969|Southern Plaza|Calcutta|NO|stars_3
+280970|Hotel Crestwood|Calcutta|NO|stars_3
+280974|The Sonnet|Calcutta|NO|stars_4
+280976|Casa Salt Lake - Green / Peach / Blue / Pink / Yellow / Red|Calcutta|NO|stars_2
+280985|Indismart Hotel|Calcutta|NO|stars_3
+281284|ITC Grand Chola, Chennai|Madras/Chennai|YES|stars_5
+281286|Hotel Mars|Madras/Chennai|NO|stars_2
+281290|The Raintree Hotel|Madras/Chennai|YES|stars_5
+281300|Hotel Mount Heera|Madras/Chennai|NO|stars_2
+281302|Fortel|Madras/Chennai|NO|stars_4
+281305|Hyatt Regency Chennai|Madras/Chennai|NO|stars_5
+281306|Hotel Pearl International|Madras/Chennai|NO|stars_3
+281310|Inn Chennai|Madras/Chennai|NO|stars_3
+281311|Sea Shell Residency|Madras/Chennai|NO|stars_2
+281318|Perfect Haven Egmore|Madras/Chennai|NO|stars_3
+281320|VGP Golden Beach Resort|Madras/Chennai|NO|stars_3.5
+281321|Shylee Niwas Service Apartment Kodambakkam|Madras/Chennai|NO|stars_2
+281323|Perfect Haven @ OMR|Madras/Chennai|NO|stars_3
+281324|Radisson Blu Chennai City Centre|Madras/Chennai|NO|stars_5
+281328|Crescent Park|Madras/Chennai|NO|stars_2
+281329|Citrus Kottivakkam Chennai|Madras/Chennai|NO|stars_4
+281330|Crescent Inn|Madras/Chennai|NO|stars_3
+281331|Hotel Suriya International|Madras/Chennai|NO|stars_2
+281336|Smart Haven at Kodambakkam|Madras/Chennai|NO|stars_3
+281337|Nakshatra Serviced Apartments-Bawa Road|Madras/Chennai|NO|stars_3
+281344|BKR Grand Hotel|Madras/Chennai|NO|stars_3
+281345|Mallika Residency|Madras/Chennai|NO|stars_2
+281346|Bell Hotel|Madras/Chennai|NO|stars_3
+281350|Asiana Place|Madras/Chennai|YES|stars_3
+281362|The Byke Old Anchor, Goa|Cavelossim|NO|stars_3
+281364|Green Acres Resort|Kodaikanal|NO|stars_3
+281368|Hotel Mount View|Kodaikanal|NO|stars_3
+281372|Hotel Spring Valley|Kodaikanal|NO|stars_3
+281398|Mamalla Beach Resort|Mamallapuram|NO|stars_2.5
+281400|Blue Bay|Mamallapuram|NO|stars_3
+281401|Highland Shoreline|Mamallapuram|NO|stars_2
+281420|Bella Vista Resort|Munnar|NO|stars_3
+281424|Le Celestium|Munnar|NO|stars_3
+281426|Clouds Valley Leisure|Munnar|NO|stars_3
+281428|Ambady's Falling Waters|Munnar|NO|stars_3
+281437|The Silver Tips|Munnar|NO|stars_4
+281438|Emmel Dwellings|Munnar|NO|stars_2
+281442|Misty Mountain Resort|Munnar|NO|stars_3
+281812|The Marwar Hotel & Gardens|Jodhpur|NO|stars_3
+281820|The Kothi Heritage|Jodhpur|NO|stars_3
+281823|Lariya Resort|Jodhpur|NO|stars_3
+281824|Niralidhani Ethnic Resort|Jodhpur|NO|stars_4
+281825|Hem Guest House|Jodhpur|NO|stars_3
+281827|Amargarh Resort|Jodhpur|NO|stars_3
+281855|Days Hotel Neemrana|Neemrana|YES|stars_3
+281857|Tiger Safari Resort|Sawai Madhopur|NO|stars_3
+281862|The Amaris|Rishikesh|NO|stars_4
+281863|Ganga Beach Resort|Rishikesh|NO|stars_3
+281866|Kapil|Shimla|NO|stars_3
+281868|Fairmount|Shimla|NO|stars_3
+281869|Snow King Retreat|Shimla|NO|stars_3
+281875|Sukh Sagar Regency|Shimla|NO|stars_3
+281876|Landmark|Shimla|NO|stars_2.5
+281878|The Cedar Grand - Hotel & Spa|Shimla|NO|stars_3
+281882|Wingait Inn|Shimla|NO|stars_3
+281883|Marigold Holiday Cottages|Shimla|NO|stars_3
+281985|Casa Britona|Bardez|NO|stars_3
+281986|Camphor|Bardez|NO|stars_3
+281988|Casa Colvale|Bardez|NO|stars_3
+282044|Ratan Villas|Mount Abu|NO|stars_3
+282047|Hotel Udaigarh - The Heritage Retreat|Mount Abu|NO|stars_3
+282048|Hotel Sunset Inn|Mount Abu|NO|stars_3
+282055|Brys Fort|Jaisalmer|NO|stars_4
+282056|Hotel Rose Villa|Jaisalmer|NO|stars_2
+282057|The Royale Jaisalmer|Jaisalmer|NO|stars_3
+282059|Mystic Jaisalmer Hostel / Backpacker|Jaisalmer|NO|stars_2.5
+282067|Jaisal Vilas|Jaisalmer|NO|stars_4
+282217|Hotel Antelope|Leh|NO|stars_3
+282222|Thongsal|Leh|NO|stars_3
+282234|||NO|0
+282235|||NO|0
+282270|||NO|0
+282272|||NO|0
+282273|||NO|0
+282281|||NO|0
+282291|||NO|0
+282292|||NO|0
+282293|||NO|0
+282294|||NO|0
+282296|||NO|0
+282297|||NO|0
+282298|Manasarovar The Fern|Hyderabad|NO|stars_5
+282299|Sri Sai Cyber Guest House|Hyderabad|NO|stars_2
+282300|Golkonda Resorts & Spa|Hyderabad|NO|stars_4
+282302|Expotel Hotel|Hyderabad|NO|stars_3.5
+282303|Hotel Sitara Grand|Hyderabad|NO|stars_3
+282305|Hotel Tanisha|Hyderabad|NO|stars_2
+282306|Vista Homes|Hyderabad|NO|stars_3
+282307|Sravya Compact Residency|Hyderabad|NO|stars_2
+282309|Park Hyatt Hyderabad|Hyderabad|NO|stars_5
+282311|Inner Circle - A Business Hotel|Hyderabad|NO|stars_3
+282314|At Home Apartment Hotel|Hyderabad|NO|stars_3
+282315|Ramada Jalandhar City Centre|Jalandhar|NO|stars_4
+282321|Hotel Katra Continental|Jammu|NO|stars_3
+282322|Hotel The Vaishnodevi|Jammu|NO|stars_2
+282323|Hotel Bhawani International|Jammu|NO|stars_2
+282325|Shree Hari Niwas|Jammu|NO|stars_3
+282326|KC Residency|Katra|NO|stars_3.5
+282330|Aveda Ludhiana|Ludhiana|NO|stars_4
+282333|Keys Hotel|Ludhiana|NO|stars_3
+282335|Onn|Ludhiana|NO|stars_3
+282337|Park Plaza Noida|Noida|NO|stars_4
+282339|Jaypee Greens Golf & Spa Resort|Greater Noida|YES|stars_5
+282345|Corporate Residency|Ahmedabad|NO|stars_3
+282351|Vice President|Ahmedabad|NO|stars_2.5
+282355|The Grand Bhagwati|Ahmedabad|NO|stars_3.5
+282357|Country Inns & Suites By Carlson - Ahmedabad|Ahmedabad|NO|stars_4
+282394|Hotel City Castle|Amritsar|NO|stars_2
+282400|Radisson Blu Amritsar|Amritsar|NO|stars_5
+282408|CJ International|Amritsar|NO|stars_3
+282431|Hotel Atithi|Aurangabad|NO|stars_3
+282537|Hotel Chandela - A Taj Leisure Hotel|Khajuraho|NO|stars_3.5
+282538|Shri Krishna Jungle Resort|Khajuraho|NO|stars_2
+282539|Hotel Lakeside|Khajuraho|NO|stars_2
+282552|Maya Hotel|Chandigarh|NO|stars_4
+282554|Park Plaza Chandigarh|Chandigarh|NO|stars_4.5
+282556|The Fort Ramgarh|Panchkula|NO|stars_3
+282562|Diamond Plaza|Chandigarh|NO|stars_3
+282603|Myrica Hotels|Corbett-Nationalpark|NO|stars_3
+282633|Bharat Resorts|Dehradun|NO|stars_3
+282634|Hotel Softel Plaza|Dehradun|NO|stars_3.5
+282635|Hotel Doon Castle|Dehradun|NO|stars_3
+282686|Silent Shores Resort & Spa|Mysore|NO|stars_3
+282687|Jade Garden|Mysore|NO|stars_3
+282689|The Quorum|Mysore|NO|stars_4.5
+282691|Aishwarya Residency|Mysore|NO|stars_3
+282693|Peridot Inn|Mysore|NO|stars_3
+282697|Hotel Adhi Manor|Mysore|NO|stars_2
+282698|Ginger Mysore|Mysore|NO|stars_3
+282699|Hotel Bombay Tiffanys|Mysore|NO|stars_3
+282732|Swaraj Resorts|Bharatpur|NO|stars_3
+282741|Mana Hotel|Ranakpur|NO|stars_4
+282871|Broadway (Annexe)|Darjeeling|NO|stars_3
+282889|Bliss|Tirupati|NO|stars_3
+282891|Grand World Tirupati|Tirupati|NO|stars_3
+282989|Mayflower Beach Resort|Baga|NO|stars_3
+282997|WelcomHeritage Denzong Regency|Gangtok|NO|stars_3.5
+283010|Hotel Yavachi|Gangtok|NO|stars_3
+283048|Hotel Mass|Puducherry|NO|stars_3
+283050|Raj Residency|Puducherry|NO|stars_2
+283052|Accord Puducherry|Puducherry|NO|stars_4.5
+283053|Ginger Pondicherry|Puducherry|NO|stars_3
+283061|Grand Gardenia|Tiruchirappalli|NO|stars_3
+283064|The Westin Pune Koregaon Park|Pune|YES|stars_5
+283067|Hotel Madhav International|Pune|NO|stars_3
+283069|The Orchid|Pune|NO|stars_4
+283071|Park Central|Pune|NO|stars_3
+283074|Ramee Grand|Pune|NO|stars_4
+283077|JW Marriott Hotel Pune|Pune|NO|stars_5
+283079|Compact Homes|Pune|NO|stars_2
+283080|Shompen|Port Blair|NO|stars_3
+283084|Sinclairs Bayview|Port Blair|NO|stars_3
+283112|Casa Palacio Siolim House|Siolim|NO|stars_3
+283122|Hotel City Plaza|Srinagar|NO|stars_3
+283125|Vivanta by Taj - Dal View, Srinagar|Srinagar|NO|stars_5
+283126|Silver Star|Srinagar|NO|stars_3.5
+283127|The Residency Hotel|Srinagar|NO|stars_3
+283128|Royal Dandoo Palace of Houseboat|Srinagar|NO|stars_3.5
+283129|Peacock Houseboats|Srinagar|NO|stars_3
+283131|De - Laila Group Of House Boats|Srinagar|NO|stars_2
+283137|The Hhi Bhubaneswar|Bhubaneswar|NO|stars_4
+283151|Hotel Regal|Ajmer|NO|stars_3
+283155|Hotel Satyam Palace|Pushkar|NO|stars_3
+283164|Bay Leaf, Ayurveda Spa Resort|Visakhapatnam|NO|stars_3
+283171|Vivanta by Taj Surya|Coimbatore|NO|stars_5
+283172|Clarion Hotel|Coimbatore|NO|stars_4
+283174|Grand Plaza|Coimbatore|NO|stars_2
+283175|Le Meridien Coimbatore|Coimbatore|YES|stars_4.5
+283178|Juhu Grand Service Apartment|Salem|NO|stars_2.5
+283180|Lake Forest Hotel|Yercaud|YES|stars_0
+283182|Vishwaratna|Guwahati|NO|stars_3
+283183|Landmark|Guwahati|NO|stars_3
+283184|Kiranshree Portico|Guwahati|NO|stars_3.5
+283186|Nandan|Guwahati|NO|stars_3
+283189|Ginger Guwahati|Guwahati|NO|stars_3
+283205|Emerald Trail|Bhimtal|NO|stars_2.5
+283206|Hotel Hari Heritage|Haridwar|NO|stars_3
+283207|Radisson Blu Haridwar|Haridwar|NO|stars_5
+283208|The Urmi|Haridwar|NO|stars_3
+283210|Ganga Lahari|Haridwar|NO|stars_3
+283211|Hotel Neelkant|Haridwar|NO|stars_3
+283212|Clarks Inn Brinjal Haridwar|Haridwar|NO|stars_3
+283213|Aalia Hotels & Resorts|Haridwar|NO|stars_4
+283214|Ganga Sadan|Haridwar|NO|stars_3.5
+283221|Madhuban Highlands|Mussoorie|NO|stars_4
+283222|Country Inn & Suites By Carlson Mussoorie|Mussoorie|NO|stars_4
+283224|Country Inn|Mussoorie|NO|stars_3
+283226|Rokeby Manor|Mussoorie|NO|stars_4
+283232|Golden Palms Hotel & Spa Sylverton|Mussoorie|NO|stars_4
+283237|Hotel Shamrock|Raipur|NO|stars_3
+283238|Celebration Raipur|Raipur|NO|stars_3
+283245|Hill View Nainital|Nainital|NO|stars_2
+283261|Nidra Hotel Vadodara|Vadodara|NO|stars_3
+283263|Hotel Yuvraj|Vadodara|NO|stars_3
+283269|Ginger Vadodara|Vadodara|NO|stars_3
+283271|Hotel Aditya|Rajkot|NO|stars_3
+283273|Silver Palace Hotel|Rajkot|NO|stars_3
+283275|Sarovar Portico, Rajkot|Rajkot|NO|stars_3.5
+283278|Golden Star|Surat|NO|stars_3
+283280|Hotel Dreamland|Surat|NO|stars_2
+283285|Vibe By The LaLiT Traveller|Faridabad|NO|stars_4
+283289|The Fern Residency|Gurgaon|NO|stars_3
+283292|The Angel Hotel|Gurgaon|NO|stars_3
+283293|Villa A2|Gurgaon|NO|stars_2.5
+283295|Bawa Residency|Gurgaon|NO|stars_3
+283298|Park Lane Gurgaon|Gurgaon|NO|stars_2
+283303|Hotel City Premier|Gurgaon|NO|stars_3
+283306|Crossroads|Gurgaon|NO|stars_3
+283310|Tarudhan Valley by Seasons Hotels|Gurgaon|NO|stars_4
+283312|Tarika's Jungal Retreat|Chail|NO|stars_3.5
+283313|Hotel Chail Residency|Chail|NO|stars_2
+283314|Fernhill Resort Chail|Chail|NO|stars_2
+283315|Shining Star Resort|Khajjiar|NO|stars_3
+283317|Lall Ji Tourist Resort|Dalhousie|NO|stars_3
+283318|Snow Valley Resorts|Dalhousie|NO|stars_3
+283319|Pong View|Dharamsala|NO|stars_2.5
+283321|Surya Mcleod|Dharamsala|NO|stars_3
+283322|Aveda|Dharamsala|NO|stars_4
+283323|UNA Comfort Nandini|Dharamsala|NO|stars_3
+283324|Dal Lake Resort|Dharamsala|NO|stars_2
+283329|Corporates' Orchard Park|Kullu|NO|stars_3
+283330|Hilltone Resorts|Manali|NO|stars_3
+283337|Kalinga Grand|Manali|NO|stars_2
+283338|Manali Resorts|Manali|NO|stars_4
+283340|Holiday Cottages|Manali|NO|stars_3
+283342|Rock Manali|Manali|NO|stars_4
+283343|Sun Park Resort|Manali|NO|stars_3
+283344|Chetna & Cottage|Manali|NO|stars_2
+283346|De Vivendi Resorts Manali|Manali|NO|stars_3
+283347|Snow Princess|Manali|NO|stars_3
+283353|Manu Allaya|Manali|NO|stars_4
+283354|Le Grand|Manali|NO|stars_3
+283365|Zahgeer Continental|Srinagar|NO|stars_3
+283366|Grand Mumtaz Resorts|Pahalgam|NO|stars_4
+283367|Himalaya House|Pahalgam|NO|stars_2
+283369|Senetor Pine - N - Peak|Pahalgam|NO|stars_3.5
+283371|Ginger Hotel Jamshedpur|Jamshedpur|NO|stars_3
+283373|Lotus Resort Karwar|Karwar|NO|stars_3
+283376|The Prestige|Mangalore|NO|stars_2
+283377|Ginger Mangalore|Mangalore|NO|stars_3
+283380|The Quilon Beach Hotel & Convention Center|Kollam|NO|stars_4
+283386|Radisson Blu Indore|Indore|NO|stars_5
+283388|Hotel Infiniti|Indore|NO|stars_3
+283389|Country Inn By Carlson-Indore|Indore|NO|stars_3.5
+283390|Chokhi Dhani Indore|Indore|NO|stars_4
+283394|Ginger Indore|Indore|NO|stars_3
+283397|Satya Ashoka|Jabalpur|NO|stars_3
+283398|The Golf View|Pachmarhi|NO|stars_3
+283403|Fariyas Resort Lonavala|Lonavala|NO|stars_5
+283406|Hotel Sapphire|Lonavala|NO|stars_3
+283407|Citrus Hotels Lonavala|Lonavala|NO|stars_3
+283412|Treasure Island Resort|Lonavala|NO|stars_3
+283416|Lagoona Resort|Lonavala|NO|stars_3.5
+283419|Evershine A Keys Resort|Mahabaleshwar|NO|stars_4
+283420|Brightland Holiday Village|Mahabaleshwar|NO|stars_4
+283421|Citrus Chambers Mahabaleshwar|Mahabaleshwar|NO|stars_3
+283427|Hotel Rahi Plaza|Mahabaleshwar|NO|stars_2
+283429|Fountain Hotel|Mahabaleshwar|NO|stars_3
+283439|Ginger Nashik|Nashik|NO|stars_3
+283440|Hotel Rama Heritage|Nashik|NO|stars_2
+283442|Hotel Shantikamal|Shirdi|NO|stars_2.5
+283447|St Laurn Meditation And Spa|Shirdi|NO|stars_5
+283449|United 21|Thane|NO|stars_3
+283450|Alka Residency|Thane|NO|stars_2
+283459|New Ideal Panchakarma Centre|Chowara|NO|stars_2.5
+283460|Ginger Trivandrum|Trivandrum|NO|stars_3
+283461|Windsor Rajadhani Hotel|Trivandrum|NO|stars_4
+283466|SP Grand Days Hotel|Trivandrum|NO|stars_3.5
+283467|The Residency Tower|Trivandrum|NO|stars_4
+283468|Maurya Rajadhani|Trivandrum|NO|stars_4
+283469|KTDC Chaithram Trivandrum|Trivandrum|NO|stars_2.5
+283768|Blue Lagoon|Canacona|NO|stars_2
+283771|Casa Fiesta|Canacona|NO|stars_2
+283772|Seaview Resort|Canacona|NO|stars_3
+284221|Mahagun Sarovar Portico, Vaishali|Ghaziabad|NO|stars_4
+284367|Ginger Tirupur|Tiruppur|NO|stars_3
+284701|Hotel Ozran Heights|Vagator|NO|stars_3
+284704|Hacienda de Goa Resort|Vagator|NO|stars_3
+284785|Mango Suites Helios|Secunderabad|NO|stars_3
+284809|Pirache Village Eco Resorts|Pernem|NO|stars_3
+286856|Eaton Smart New Delhi Airport|Delhi|NO|stars_3.5
+286866|Js Inn|Delhi|YES|stars_0
+286870|Redfox Delhi Airport|Delhi|NO|stars_3
+286878|Tivoli Cititel|Delhi|NO|stars_3
+286879|Sage Hotel|Delhi|NO|stars_3.5
+286904|Daisy Residency|Bombay/ Mumbai|NO|stars_3
+286906|Ginger Mumbai (Andheri)|Bombay/ Mumbai|NO|stars_3
+286907|Hotel Avon Ruby|Bombay/ Mumbai|YES|stars_3
+286909|Hotel Royal Park|Bombay/ Mumbai|NO|stars_2.5
+286910|iHOTEL|Bombay/ Mumbai|NO|stars_2
+287319|Mira|Calangute|NO|stars_3
+287360|Jasmine Palace|Kovalam|NO|stars_3
+287484|Crowne Plaza Kochi|Cochin|NO|stars_5
+287485|Sreeragam Luxury Villa Retreat|Cochin|NO|stars_3
+287486|KTDC Bolgatty Island Resort Kochi|Cochin|NO|stars_3
+287497|Empire International - Church Street|Bangalore|YES|stars_0
+287498|Empire Suites - Castle Street|Bangalore|YES|stars_0
+287499|Paraag|Bangalore|NO|stars_3
+287504|Olive Suite|Bangalore|NO|stars_3
+287507|Sterling Suites Residency Road|Bangalore|YES|stars_0
+287509|The Mayer|Bangalore|NO|stars_3
+287510|The Mayer Indiranagar|Bangalore|NO|stars_3
+287511|Tranquil Orchards Suites|Bangalore|YES|stars_3
+287514|Casa Fortuna|Calcutta|NO|stars_3
+287974|Park Hyatt Chennai|Madras/Chennai|NO|stars_5
+287981|Quality Inn Sabari Resorts|Kodaikanal|NO|stars_3
+287982|The Carlton|Kodaikanal|YES|stars_4.5
+287985|Sparsa Resorts Kanyakumari|Kanniyakumari|NO|stars_3
+288018|Ayurcounty Chancellor Resorts|Munnar|NO|stars_3
+288019|Mountain Club - Munnar|Munnar|NO|stars_4
+288024|Issacs Residency|Munnar|NO|stars_3
+288026|Camp Noel|Munnar|NO|stars_3.5
+288474|The Grand Dragon Ladakh|Leh|NO|stars_4
+288843|Avasa Hotel|Hyderabad|NO|stars_5
+288844|Regenta One Hyderabad|Hyderabad|NO|stars_5
+288845|Trident Hyderabad|Hyderabad|NO|stars_5
+288850|Hotel Varun|Jammu|NO|stars_3
+288851|The Piccadily Lucknow|Lucknow|YES|stars_0
+289050|Holiday Inn Express Ahmedabad|Ahmedabad|NO|stars_3
+289051|Tulip Inn Ahmedabad|Ahmedabad|YES|stars_3
+289052|Ritz Inn|Ahmedabad|NO|stars_3
+289058|Comfort Inn Alstonia|Amritsar|NO|stars_3.5
+289059|Shiraz Castle|Amritsar|NO|stars_3
+289060|Country Inn & Suites By Carlson Amritsar|Amritsar|NO|stars_3.5
+289128|Hotel Harmony|Khajuraho|NO|stars_2
+289130|Hotel Zen|Khajuraho|NO|stars_2
+289135|Golden Tulip Chandigarh Panchkula|Chandigarh|YES|stars_4
+289137|The Bella Vista|Chandigarh|NO|stars_4
+289138|The Toy Hotel Chandigarh|Chandigarh|NO|stars_4
+289480|Cocoon Service Hotel|Pune|NO|stars_3.5
+289598|Wangnoo Houseboats|Srinagar|NO|stars_3
+289607|Pushkar Villas Resort|Pushkar|NO|stars_2
+289611|Country Inn - Bhimtal|Bhimtal|NO|stars_4
+289612|Tulip Inn Mussoorie Barlowganj|Mussoorie|YES|stars_3
+289613|Sterling Mussoorie|Mussoorie|NO|stars_3
+289614|Country Inn Sattal|Nainital|NO|stars_2
+289619|Comfort Inn Legacy|Rajkot|NO|stars_3
+289621|Ginger Faridabad|Faridabad|NO|stars_3
+289632|Jukaso IT Suites|Gurgaon|NO|stars_4
+289633|Royal Ramiro Residency|Gurgaon|NO|stars_3
+289634|Aamod Dalhousie|Dalhousie|NO|stars_3
+289644|The Piccadily Manali|Manali|NO|stars_3
+289658|Hotel Sunny Classic|Mahabaleshwar|NO|stars_2
+289660|Saj Resorts|Mahabaleshwar|NO|stars_3
+289662|Hotel Rahi|Mahabaleshwar|NO|stars_2
+289664|Radisson Blu Nagpur|Nagpur|NO|stars_5
+289665|Lily Sarovar Portico|Nashik|NO|stars_3
+289666|Ibis Nashik|Nashik|NO|stars_3
+289668|Saish Hotel|Shirdi|NO|stars_2
+289998|Beach Bunglows|Canacona|NO|stars_2
+290000|Roundcube|Canacona|NO|stars_2
+290772|Radisson Blu Ghaziabad|Ghaziabad|NO|stars_5
+290773|Ibis Navi Mumbai|Navi Mumbai|NO|stars_3
+290774|Royal Tulip Navi Mumbai|Navi Mumbai|YES|stars_4.5
+292635|Sai Palace Hotel|Bombay/ Mumbai|NO|stars_3
+293590|Chandigarh Ashok|Panchkula|NO|stars_4
+293591|Golden Tulip Ranchi|Ranchi|YES|stars_4
+294978|Madhubhan Resort and Spa|Anand|YES|stars_0
+295593|Ratnawali|Jaipur|NO|stars_3
+295602|MGM Eastwoods|Madras/Chennai|NO|stars_3
+295629|Usha Kiran Palace Hotel & Towers|Agra|NO|stars_3
+295631|Neelams The Glitz|Calangute|NO|stars_3
+295640|Karni Bhawan|Jodhpur|YES|stars_1
+296121|Clarks Varanasi|Varanasi|NO|stars_5
+296247|Crowne Plaza Greater Noida|Noida|NO|stars_4
+296387|Claresta Sarovar Portico, Hosur|Hosur|NO|stars_4
+296395|Chalet Riviera Bangalore|Bangalore|NO|stars_3
+296403|Dreams Inn Greater Noida|Greater Noida|NO|stars_2
+296406|Clarks Inn Corbett Resort & Spa|Ramnagar|NO|stars_3
+296407|Clarks Exotica Faridabad - Delhi / NCR|Faridabad|NO|stars_3
+296414|Vasundhara Sarovar Premiere|Vayalar|NO|stars_5
+296416|Mango Hotels, Mysore - Jayalakshmipuram|Mysore|NO|stars_3
+296417|J S Residency Varanasi|Varanasi|NO|stars_3
+296418|Ganga Fuji Home|Varanasi|NO|stars_2
+296742|Kempinski Ambience Hotel Delhi|Delhi|NO|stars_5
+297489|Banyan Tree Kerala|Cochin|NO|stars_5
+297595|Paradise Resort|Kumbakonam|NO|stars_3
+297605|The Palms Town and Country Club|Gurgaon|YES|stars_4
+298134|Deccan Park Ooty|Ooty|NO|stars_3
+298177|Corbett River View Retreat|Corbett-Nationalpark|NO|stars_3.5
+298207|Citrus Hotels Gurgaon Central|Gurgaon|NO|stars_3.5
+298208|Citrus Hotels Sriperumbudur|Madras/Chennai|NO|stars_3
+298209|Ballal Residency|Bangalore|NO|stars_3
+298368|Span Resorts|Manali|NO|stars_4
+298371|Hilltone|Mount Abu|NO|stars_3
+298401|Heevan|Pahalgam|NO|stars_3
+298403|Millennium Park|Panchgani|NO|stars_3
+298434|Rain Forest Resort|Thrissur|YES|stars_3
+298452|Classic Avenue|Trivandrum|NO|stars_3.5
+299729|Ivory Tower|Bangalore|NO|stars_1.5
+299759|Silver Sand Holiday Village|Candolim Beach|NO|stars_2
+299822|Woodrose|Bangalore|NO|stars_3
+299824|Olde Bangalore Resort and Convention Centre|Bangalore|YES|stars_4
+299891|Vedic Village Resort|Cochin|NO|stars_3.5
+299995|Aalankrita|Hyderabad|NO|stars_3
+300054|Riverside Resort & Spa|Kumbakonam|NO|stars_4
+300112|New Haven|New Delhi|NO|stars_3
+300274|Ginger Pune Pimpri|Pune|NO|stars_3
+300275|Ginger Pune Wakad|Pune|NO|stars_3
+300322|Palmleaves Beach Resort|Trivandrum|NO|stars_3
+300348|Chunda Palace|Udaipur|NO|stars_4.5
+300503|Laika Boutique Stay|Bangalore|NO|stars_3.5
+300515|Combermere|Shimla|NO|stars_3
+300616|Azzure by Spree Hotels|Bardez|NO|stars_4
+300619|La Cabana Beach & Spa|Pernem|NO|stars_3
+300620|Riva Beach Resort|Pernem|NO|stars_3.5
+300621|The Mitaroy Goa|Panjim|NO|stars_1
+300844|Hilton Garden Inn Gurgaon Baani Square|Gurgaon|NO|stars_4
+300990|Alila Fort Bishangarh|Bishangarh|NO|stars_3.5
+301369|The Grand Sarwan|New Delhi|NO|stars_3
+301380|Asian International|New Delhi|NO|stars_3
+301382|Ajaya Varanasi|Varanasi|NO|stars_2
+301660|Eighth Bastion|Cochin|NO|stars_3.5
+301921|Formule 1 Ahmedabad|Ahmedabad|NO|stars_3
+302181|Radisson Blu Hotel Jaipur Airport|Jaipur|NO|stars_5
+302284|Erandia Marari Ayurveda Beach Resort|Marari Beach|NO|stars_4
+302521|Flora Airport|Cochin|NO|stars_4
+311196|Angara by Silver Sands|Candolim Beach|NO|stars_2
+319472|Lui Beach Resort|Candolim Beach|NO|stars_2
+321115|Vivek Hotel|Delhi|NO|stars_2.5
+321233|Days Inn Navi Mumbai Ii|Bombay/ Mumbai|NO|0
+321244|Kum Kum|Bombay/ Mumbai|NO|stars_2
+322796|Lal Mahal Palace Hotel Jaipur|Jaipur|NO|stars_3
+322801|Hotel Krishna Palace|Jaipur|NO|stars_3
+323361|Maple Suites|Bangalore|NO|stars_3
+323365|Sherwood Suites|Bangalore|NO|stars_3
+323380|East Palace|Calcutta|NO|stars_3
+323385|Sunflower Guest House|Calcutta|NO|stars_2
+324749|Hotel Oriental Inn|Madras/Chennai|NO|stars_3
+324763|Royal Paris Hotel|Madras/Chennai|NO|stars_3
+324768|Shri Devi Park|Madras/Chennai|NO|stars_3
+324783|The Gopi Nivas Grand|Kanniyakumari|NO|stars_3
+327117|PK Residency|Noida|NO|stars_3
+327849|Hotel The Solluna Resort|Corbett-Nationalpark|NO|stars_3.5
+327982|Hotel Paradise|Mysore|NO|stars_3
+327984|Golden Landmark Resort|Mysore|NO|stars_3.5
+327988|The Windflower Spa & Resort|Mysore|NO|stars_4
+329025|Hotel Mayura|Raipur|YES|stars_0
+329203|Sea Rock Hotel|Trivandrum|NO|0
+334934|Bahia Fort|Bhatinda|NO|stars_4
+334954|Indeco Hotels Swamimalai|Kumbakonam|YES|stars_0
+354476|Resort de Crossroads|Bardez|NO|stars_3
+354477|North 16 Goa|Calangute|NO|stars_4.5
+354486|The Clematis|Bardez|NO|stars_3.5
+359512|Ayurveda Vaidyasala|Poovar|NO|stars_5
+363234|NaturOville Vedic Retreat|Dehradun|NO|stars_4
+363557|Lemon Tree Premier|Jaipur|YES|stars_4
+363558|The Westin Chennai Velachery|Madras/Chennai|YES|stars_5
+363744|Golden Palm Hotel and Spa|Calangute|NO|stars_4
+363745|Goldenpalms Hotel & Spa Delhi|New Delhi|NO|stars_3
+363747|Park Ascent|Noida|NO|stars_4
+363748|Shahee Resort|Panchgani|NO|stars_3
+363749|Wayanad Silverwoods|Wayanad|NO|stars_4
+364004|Hotel Hot Spring Therme & Spa|Shimla|NO|stars_3
+365215|Vivanta by Taj Madikeri|Coorg|NO|stars_5
+365221|Courtyard Kochi Airport|Cochin|NO|stars_4
+365222|Dusit Devarana|New Delhi|NO|stars_5
+367729|Golden Tulip Goa Candolim|Goa|YES|stars_4
+367733|Silver Sands Hideaway|Candolim Beach|NO|stars_3
+368550|Lemon Tree Premier Delhi Airport|Delhi|YES|stars_4
+368551|Park Plaza Delhi Cbd Shahdara|Delhi|NO|stars_4
+368552|Tulip Inn West Delhi|Delhi|YES|stars_3
+368578|Country Inn & Suites By Carlson Navi Mumbai|Bombay/ Mumbai|NO|stars_4
+368581|Hotel Cruz Royale|Bombay/ Mumbai|NO|stars_2
+368585|Lalco Service Apartment Llp|Bombay/ Mumbai|YES|stars_4
+368589|Residency Sarovar Portico|Bombay/ Mumbai|NO|stars_4
+368592|GCC Hotel & Club|Thane|NO|stars_3
+368861|Doubletree By Hilton Agra|Agra|NO|stars_4
+368863|Ibis Jaipur|Jaipur|NO|stars_2.5
+368864|The Aodhi|Udaipur|NO|stars_3
+368965|Bengaluru Marriott Whitefield|Bangalore|NO|stars_5
+368967|Crest Executive Suites|Bangalore|NO|stars_3
+368968|Double Tree Suites By Hilton Bangalore|Bangalore|NO|stars_4
+368969|Formule1 Bengaluru Whitefield|Whitefield|NO|stars_3
+368970|Hilton Bangalore Residences|Bangalore|NO|stars_4.5
+368972|Oakwood Residence Prestige Whitefield Bangalore|Bangalore|YES|stars_5
+368974|Springs Hotel And Spa Bangalor|Bangalore|NO|stars_4
+368979|The Gateway Hotel Em Bypass|Calcutta|NO|stars_5
+369279|The Gateway Hotel Itexpressway|Madras/Chennai|NO|stars_5
+369282|Indeco Mahabalipuram|Mamallapuram|YES|stars_0
+369457|Dewa Retreat-rishikesh|Rishikesh|NO|stars_4
+369992|India Awadh|Lucknow|NO|stars_4
+369993|Best Western Plus Stella|Bhatinda|NO|stars_3
+369994|Radisson Blu Hotel Ludhiana|Ludhiana|NO|stars_4.5
+369995|Parkside Zebra Corporate Suites-noida|Noida|NO|stars_3
+370119|Comfort Inn Suba|Ahmedabad|NO|stars_3
+370122|Eastin Easy Citizen Ahmedabad|Ahmedabad|NO|stars_3
+370126|Hyatt Ahmedabad|Ahmedabad|NO|stars_5
+370128|Lemon Tree Premier The Atrium|Ahmedabad|NO|stars_3.5
+370129|Radisson Blu Hotel Ahmedabad|Ahmedabad|NO|stars_5
+370133|Ramada Amritsar|Amritsar|NO|stars_3.5
+370145|Hotel Panchavati|Aurangabad|NO|stars_3
+370200|Fern Residency Chandigarh|Chandigarh|NO|stars_3
+370206|Legend Sarovar Portico Baddi|Chandigarh|NO|stars_3
+370207|The Lalit Chandigarh|Chandigarh|NO|stars_5
+370229|Tarikas Jungal Park|Corbett-Nationalpark|NO|stars_4
+370241|Hometel Roorkee|Dehradun|NO|stars_3
+370281|Country Inn And Suites Mysore|Mysore|NO|stars_4.5
+370382|Best Western Rj Resort|Darjeeling|NO|stars_3
+370478|DoubleTree by Hilton Hotel Pune - Chinchwad|Pune|NO|stars_4.5
+370480|Hhi Pune|Pune|NO|stars_4
+370573|Rk Sarovar Portico|Srinagar|NO|stars_3
+370576|Ramada Neemrana Jaipur Highway|Alwar|NO|stars_4
+370584|Pride Biznotel Ranipet|Kanchipuram|NO|stars_4
+370589|Hotel Nahar Nilgiris|Ooty|NO|stars_2
+370595|Srs Lakshya|Haridwar|NO|stars_4
+370599|The Aranya Safari Resort|Ramnagar|NO|stars_3
+370601|Lion Lords Inn Rajula|Bhavnagar|NO|stars_3
+370602|The Fern Residency Rajkot|Rajkot|NO|stars_4
+370608|Anya Gurgaon|Gurgaon|NO|stars_4
+370610|KC Hotel & Spa|Panchkula|NO|stars_5
+370623|Khyber Himalayan Resort N Spa|Gulmarg|NO|stars_5
+370627|Radisson Blu Hotel Ranchi|Ranchi|NO|stars_4
+370629|Hotel Panchvati Comforts|Bijapur|YES|stars_0
+370631|The Tamara  Coorg|Coorg|NO|stars_5
+370632|Hyatt Place Hampi|Hubli-Dharwad|NO|stars_3.5
+370633|The Gateway Hotel Lakeside|Hubli-Dharwad|NO|stars_4.5
+370634|Courtyard Bhopal Marriott|Bhopal|NO|stars_4
+370637|The Dukes Retreat-khandala|Lonavala|NO|stars_3
+370638|U Tropicana Alibaug|Lonavala|NO|stars_3.5
+370642|Sai La Villa International|Shirdi|NO|0
+371606|Radisson Blu Hotel Rudrapur|Haldwani|NO|stars_5
+371616|Radisson Hotel Kandla|Kachchh/Kutch|NO|stars_5
+371996|Basil The Residency|New Delhi|NO|stars_3
+372000|Park Residency|New Delhi|NO|stars_3
+372001|Hotel Pitrashish Pride|New Delhi|YES|stars_3
+372005|The Umrao|New Delhi|NO|stars_4
+372206|Quality Inn Viha|Kumbakonam|NO|stars_4
+372475|Vishram Village|Edava|NO|0
+372683|Hyatt Regency Gurgaon|Gurgaon|NO|stars_5
+374057|Le Seasons Beach Resort|Candolim Beach|NO|stars_3
+378173|Mayank Residency Airport Hotel|Delhi|NO|stars_2.5
+380568|Eurasia|Jaipur|NO|stars_3
+380762|Sai Vishram Hotel|Bangalore|NO|stars_4
+380764|La Classic|Bangalore|NO|stars_4
+380765|Confident Amoon The Glamour Spa - Resort|Bangalore|NO|stars_4
+383679|Shl Mosaic Hotels|Noida|NO|stars_4
+384424|Periyar Nest Resort|Thekkady|NO|stars_3
+384700|Orritel Hotel|Pune|NO|stars_3
+385247|Dolphin Hotels Ltd.|Visakhapatnam|NO|stars_4
+385249|Grt Grand Estancia Salem|Salem|NO|stars_4
+385258|Ahuja Residency Gurgaon|Gurgaon|NO|stars_3
+385259|Ginger Manesar|Gurgaon|NO|stars_3
+385274|God's Own Country Ayurveda Resorts|Trivandrum|NO|stars_3
+390184|The Uppal, an Ecotel Hotel New Delhi|New Delhi|YES|stars_4.5
+390292|Paradise Isle Beach Resort Udupi, Mangal|Udupi|NO|stars_3
+391239|Vana Malsi Estate|Dehradun|NO|stars_5
+391244|Mapple Exotica|New Delhi|NO|stars_4
+391353|Park Plaza Salem|Salem|NO|stars_4
+391550|Aloft Bengaluru Cessna Business Park|Bangalore|YES|stars_4
+391569|Country Inn & Suites Meerut|Meerut|NO|stars_3.5
+391738|The Ritz-Carlton Bangalore|Bangalore|NO|stars_5
+392479|10 Calangute|Goa|NO|stars_3
+392490|The Rivasa Resort|Goa|NO|stars_2
+392506|Casa Amarilla|Goa|NO|stars_2
+392518|Club Mahindra Emerald Palms|Goa|NO|stars_4
+392519|Coconut Creek Resort|Goa|NO|stars_3
+392527|Deltin Suites|Goa|NO|stars_4
+392531|Down Hill Village|Goa|NO|stars_2
+392580|Supreme|Goa|NO|stars_3
+392582|Viva Goa International|Goa|NO|stars_3
+392593|juSTa Panjim|Goa|NO|stars_3.5
+392595|KeysResort - Ronil|Goa|NO|stars_3
+392603|Leela Cottages|Goa|NO|stars_3.5
+392614|Martin's Comfort|Goa|NO|stars_3
+392618|Nikita Residency|Goa|NO|stars_2
+392624|Meraden Opus|Anjuna|NO|stars_3
+392657|Safira River Front Resort|Goa|NO|stars_3
+392687|The Hawaii Comforts|Goa|NO|stars_3
+392688|The HQ|Goa|NO|stars_4
+392693|The Queeny|Goa|NO|stars_3
+392694|The Sapphire Comfort Hotel|Goa|NO|stars_3
+392697|The Tamarind Hotel|Goa|NO|stars_3
+392698|The Treehouse Blue|Goa|NO|stars_3
+392719|Windsor Bay|Goa|NO|stars_3
+392720|Woodbourne Resort|Goa|NO|stars_3
+392725|Aura Grande|Bombay/ Mumbai|NO|stars_4
+392771|Bliss Comfort|Bombay/ Mumbai|NO|stars_2
+392787|Grace Residency|Bombay/ Mumbai|NO|stars_3
+392798|Landmark Annex|Bombay/ Mumbai|NO|stars_3
+392835|KC Residency|Bombay/ Mumbai|NO|stars_2
+392840|Mumbai Metro - The Executive|Bombay/ Mumbai|NO|stars_3
+392844|Oritel Service Apartments|Bombay/ Mumbai|NO|stars_3
+392846|Pals Hotel|Bombay/ Mumbai|NO|stars_2
+392878|Sukh Hotel|Bombay/ Mumbai|YES|stars_3
+392902|9 Star|Agra|NO|stars_3
+392920|Gayatri Palace|Agra|NO|stars_3
+392932|Love Kush|Agra|NO|stars_3
+392936|Mani Ram Palace|Agra|NO|stars_3
+392974|Taj Galaxy|Agra|NO|stars_3
+393001|Taj Inn Hotel|Agra|NO|stars_3
+393007|1589 Genration X|Jaipur|NO|stars_3
+393029|Acacia Inn|Jaipur|NO|stars_3
+393078|Hayat Rabbani|Jaipur|NO|stars_2.5
+393103|Mansarovar Palace|Jaipur|NO|stars_2
+393182|Lebua Lodge at Amer|Jaipur|NO|stars_5
+393183|Loha Garh Fort Resort|Jaipur|NO|stars_4.5
+393184|Lords Plaza Jaipur|Jaipur|NO|stars_3
+393201|Raya Inn|Jaipur|NO|stars_3
+393231|Anand Palace Hotel|Udaipur|NO|stars_3
+393237|Club Mahindra Udaipur|Udaipur|NO|stars_3.5
+393246|Horizon Hotel|Udaipur|NO|stars_3
+393322|Valley View|Udaipur|NO|stars_4
+393332|Jaisingh Garh - A Boutique Hotel|Udaipur|NO|stars_3
+393360|The Little Prince Heritage Home|Udaipur|NO|stars_2
+393370|Gupta INN|Varanasi|NO|stars_2
+393373|Buddha|Varanasi|NO|stars_3
+393385|New Temples Town|Varanasi|NO|stars_3
+393395|Varuna|Varanasi|NO|stars_3
+393396|Vibhavharsh|Varanasi|NO|stars_3
+393405|Rivatas By Ideal|Varanasi|NO|stars_4
+393408|Club Mahindra Poovar|Poovar|NO|stars_3.5
+393418|Cosy Regency|Alleppey|NO|stars_2.5
+393419|Deshadan Backwater Resort|Alleppey|NO|stars_4
+393441|Panoramic Sea Resort|Alleppey|NO|stars_3
+393457|The World Backwaters|Alleppey|NO|stars_4
+393474|Niraamaya Retreats Surya Samudra|Kovalam|NO|stars_4.5
+393480|The Ocean Park Beach Resort|Kovalam|NO|stars_3
+393486|Club Mahindra|Kumarakom|NO|stars_3
+393488|Green Fields Kumarakom|Kumarakom|NO|stars_3
+393535|Golf View Hotel & Suites|Cochin|NO|stars_3
+393540|Honolulu Homestay|Cochin|NO|stars_2
+393551|Millennium Continental|Cochin|NO|stars_3
+393576|P J Princess Regency|Cochin|NO|stars_3
+393632|Arafa Inn|Bangalore|NO|stars_3
+393635|Arte Boutique|Bangalore|NO|stars_4
+393649|Brunton Heights|Bangalore|NO|stars_3
+393656|Chairman Club & Resort|Bangalore|NO|stars_3
+393658|Chalet Lake City|Bangalore|NO|stars_3
+393663|City Centre Residency|Bangalore|NO|stars_3
+393672|D-Habitat Suites, Rooms n Apartments|Bangalore|NO|stars_3
+393679|Eagleton|Bangalore|NO|stars_4
+393684|Ginger Hotel Koramangala|Bangalore|NO|stars_3
+393686|Goldfinch Retreat|Bangalore|NO|stars_4
+393692|Green Valley Resorts|Bangalore|NO|stars_3
+393709|Basant Residency|Bangalore|NO|stars_3
+393712|Comfort|Bangalore|NO|stars_2.5
+393713|Crystal Castle|Bangalore|NO|stars_3
+393715|Fiesta Grand|Bangalore|NO|stars_3
+393716|Gardeenia Comforts|Bangalore|NO|stars_3
+393788|Parijatha Gateway Hotel|Bangalore|NO|stars_3
+393847|Solitaire Suites|Bangalore|NO|stars_3
+393852|Stamford Residency|Bangalore|NO|stars_3
+393862|Sunray Hotel|Bangalore|NO|stars_3
+393885|The Iris Inn By Bhagini|Bangalore|NO|stars_3
+393898|Thyme - The Transit|Bangalore|NO|stars_2.5
+393937|De Sovrani|Calcutta|NO|stars_4
+393944|233 Park Street|Calcutta|NO|stars_3
+393956|Mannat International|Calcutta|NO|stars_2
+393961|Niharika|Calcutta|NO|stars_3
+393980|Marina Hotel and Restaurant|Calcutta|NO|stars_2
+393981|Metropole|Calcutta|NO|stars_3
+393983|Middleton Inn|Calcutta|NO|stars_3
+393986|Monotel - A Luxury Business Hotel|Calcutta|NO|stars_4
+393991|Park Plaza Ballygunge|Calcutta|NO|stars_4.5
+393994|Sapphire Suites|Calcutta|NO|stars_4
+394041|AVNB Towers|Madras/Chennai|NO|stars_2
+394053|E Hotel|Madras/Chennai|NO|stars_3.5
+394085|Kensington|Madras/Chennai|NO|stars_3
+394087|Le Repose|Madras/Chennai|NO|stars_3
+394090|Mars Classic|Madras/Chennai|NO|stars_3
+394091|Mars Deluxe|Madras/Chennai|NO|stars_2
+394106|The Retreat|Madras/Chennai|NO|stars_2
+394133|Peace Park Inn|Madras/Chennai|NO|stars_3
+394140|Pride Biznotel Sriperumbudur|Madras/Chennai|NO|stars_3
+394141|Raj Palace|Madras/Chennai|NO|stars_3
+394145|Red Sun Serviced Apartments|Madras/Chennai|NO|stars_3
+394184|TazKamar Inn|Madras/Chennai|NO|stars_3
+394186|The Grand Marena Apartment|Madras/Chennai|NO|stars_3
+394192|The Lotus Service Apartment|Madras/Chennai|NO|stars_3
+394216|Hill Country Holiday Resort|Kodaikanal|NO|stars_4
+394222|Hotel Jai|Kodaikanal|NO|stars_3
+394268|JC Residency|Madurai|NO|stars_3
+394282|Golden Sun Hotel & Beach Resort|Mamallapuram|NO|stars_3
+394346|The Cool Resort|Munnar|NO|stars_3
+394364|Chhotaram Prajapat Homestay|Jodhpur|NO|stars_2
+394365|Devi Bhawan|Jodhpur|NO|stars_3
+394375|Hare Krishna Guest House|Jodhpur|NO|stars_2
+394381|Celebration|Jodhpur|NO|stars_2
+394400|Indana Palace|Jodhpur|NO|stars_5
+394403|Jodhana Elite|Jodhpur|NO|stars_3
+394409|Madho Vilas|Jodhpur|NO|stars_3
+394454|Sanctuary Resort|Ranthambhore Nationalpark|NO|stars_3
+394460|Raj Palace Resort|Ranthambhore Nationalpark|NO|stars_3
+394473|Divine Ganga Cottage|Rishikesh|NO|stars_3
+394479|Ganesha Inn|Rishikesh|NO|stars_3
+394514|Club Mahindra - The Destination, Kandaghat|Shimla|NO|stars_3
+394526|Blue Diamond|Shimla|NO|stars_1.5
+394530|Hotel CK International|Shimla|NO|stars_3
+394533|Deepjyoti|Shimla|NO|stars_2
+394549|Marina|Shimla|NO|stars_4
+394558|Rock Heaven|Shimla|NO|stars_2.5
+394590|Shimla Havens Resort|Shimla|NO|stars_3.5
+394624|New Mamta|Mount Abu|NO|stars_3
+394641|The Colonial Manek Manor|Mount Abu|NO|stars_3
+394645|Chokhi Dhani - The Palace Hotel|Jaisalmer|NO|stars_4
+394656|Akash Deep|Jaisalmer|NO|stars_3
+394677|Sky Plaza|Jaisalmer|NO|stars_3
+394694|Registhan Guest House|Jaisalmer|NO|stars_3
+394750|Akhil Beach Resort|Varkala|NO|stars_3
+394788|Executel Hi-Tech|Hyderabad|NO|stars_3
+394789|Executel Xtnd Begumpet|Hyderabad|NO|stars_3
+394850|Swagath De Royal|Hyderabad|NO|stars_3
+394854|Humsika Inn|Hyderabad|NO|stars_2
+395045|Silver Leaf|Noida|NO|stars_2
+395055|Four Points by Sheraton|Ahmedabad|NO|stars_4
+395101|Nami Residency|Ahmedabad|NO|stars_3
+395144|Hong Kong Inn|Amritsar|NO|stars_3
+395182|Prems Paradise|Amritsar|NO|stars_3
+395206|Humble UNA Smart|Amritsar|NO|stars_4
+395210|MC International|Amritsar|NO|stars_3
+395271|Isabel Palace|Khajuraho|NO|stars_3
+395282|Orange Resort|Chandigarh|NO|stars_3
+395283|The Golden Palms Hotel & Spa|Chandigarh|NO|stars_4
+395325|Orbit|Chandigarh|NO|stars_3.5
+395326|Orbit-34|Chandigarh|NO|stars_3
+395334|Rajshree|Chandigarh|NO|stars_3
+395357|Mint Hotel|Chandigarh|NO|stars_3
+395367|The Golden Palms Hotel & Spa - Zirakpur|Chandigarh|NO|stars_4
+395398|Ashoka's Tiger Trail|Corbett-Nationalpark|NO|stars_3
+395404|Corbett Gateway Resort & Spa|Corbett-Nationalpark|NO|stars_3
+395433|The Hridayesh Wilderness Resort|Corbett-Nationalpark|NO|stars_5
+395487|Vishranti|Dehradun|NO|stars_3
+395491|Club Mahindra Kanatal|Dehradun|NO|stars_3
+395493|The Terraces|Dehradun|NO|stars_4
+395505|Abhishek|Mysore|NO|stars_2.5
+395514|Palace Plaza|Mysore|NO|stars_3
+395526|Kings Kastle|Mysore|NO|stars_3
+395527|Kings Kourt|Mysore|NO|stars_3
+395530|M T R Residency|Mysore|NO|stars_2
+395556|Urban Oasis|Mysore|NO|stars_2.5
+395557|Urban Oasis Gokulam|Mysore|NO|stars_2
+395567|Bodhgaya Regency|Bodhgaya|NO|stars_3
+395585|Chandra Hill Resort|Ranakpur|NO|stars_3
+395593|Beaumont Plantation Retreat|Thekkady|NO|stars_3
+395603|Jungle Park Resort|Thekkady|NO|stars_3
+395618|Tigers Roare|Thekkady|NO|stars_3
+395666|Mayfair Hotel Darjeeling|Darjeeling|NO|stars_4
+395684|Fortune Select Grand Ridge|Tirupati|YES|stars_4
+395695|Minerva Grand|Tirupati|NO|stars_4
+395824|Bagh Tola|Kanha|NO|stars_3
+395891|Ocean Spray|Puducherry|NO|stars_4
+395911|The Windflower Resorts & Spa|Puducherry|NO|stars_4
+395928|Ramyas Hotel|Tiruchirappalli|NO|stars_3
+395998|Ashish Plaza|Pune|NO|stars_3
+395999|Ashiyana|Pune|NO|stars_3
+396078|Pancard Clubs|Pune|NO|stars_3
+396116|J Hotel|Port Blair|NO|stars_3
+396140|Batra Hotel and Residences|Srinagar|NO|stars_3
+396204|Ibni Kabeer|Srinagar|NO|stars_3
+396220|Mirage|Srinagar|NO|stars_3
+396250|Sadaf|Srinagar|NO|stars_3
+396261|Star of Kashmir|Srinagar|NO|stars_3
+396315|Ronak Resort|Srinagar|NO|stars_3
+396317|Royal Khazir Boutique|Srinagar|NO|stars_3
+396355|La Franklin Hotel|Bhubaneswar|YES|stars_0
+396427|1589 Royal Heritage Hotel|Ajmer|NO|stars_3
+396434|Data Inn|Ajmer|NO|stars_3
+396535|Meghalaya|Visakhapatnam|NO|stars_3
+396553|Club Mahindra Baiguney|Pelling|NO|stars_3
+396593|Tamara Resort|Coimbatore|NO|stars_3
+396618|Mystique Ville|Ooty|NO|stars_2
+396622|Delightz Inn Tiger Hill Resorts|Ooty|NO|stars_3
+396623|Destiny The Farms Stay|Ooty|NO|stars_3
+396624|Doddabetta Resort|Ooty|NO|stars_3
+396636|Darshan|Ooty|NO|stars_3
+396654|Maruthi Cottages|Ooty|NO|stars_2
+396663|Sabol Holidays|Ooty|NO|stars_3
+396722|Golden Nest Resorts|Yercaud|NO|stars_3
+396779|Harsh Ananda|Allahabad|YES|stars_0
+396844|Mapple Hermitage Bhimtal|Bhimtal|NO|stars_3.5
+397009|ILbert Manor|Mussoorie|NO|stars_4
+397020|Sun N Snow|Mussoorie|NO|stars_3
+397044|Dolmaar Resort|Nainital|NO|stars_2.5
+397138|The Fern residency|Vadodara|NO|stars_3
+397223|Platinum Hotel|Rajkot|NO|stars_4
+397308|Clarens Hotel|Gurgaon|NO|stars_4
+397328|Golden Tulip Gurgaon|Gurgaon|YES|stars_4
+397421|The Atara|Gurgaon|NO|stars_3
+397442|The Treehouse Gurgaon|Gurgaon|NO|stars_3
+397461|Vivanta By Taj - Gurgaon, NCR|Gurgaon|NO|stars_5
+397529|GK Conifer|Dharamsala|NO|stars_3
+397548|Karnika Resort|Dharamsala|NO|stars_3
+397552|The Citadel Resorts|Dharamsala|NO|stars_3
+397555|Villa Paradiso|Dharamsala|NO|stars_3
+397558|Gandhi Paradise|Dharamsala|NO|stars_3
+397593|Victoria Continental Inn|Kasauli|NO|stars_4
+397601|Sandhya Kasol|Kullu|NO|stars_3
+397613|Apple Green Resorts|Manali|NO|stars_2
+397647|Chander Palace|Manali|NO|stars_3
+397688|New Shivalik|Manali|NO|stars_2.5
+397764|Sandhya Resort and Spa|Manali|NO|stars_4
+397810|The Vintage|Gulmarg|NO|stars_4
+397860|Maa Saraswati|Katra|NO|stars_3
+398009|The Windflower Resorts & Spa|Bandipur|NO|stars_4
+398016|4 Seasons Homestay|Kushalnagar|NO|stars_2.5
+398018|Amanvana Spa Resort|Coorg|NO|stars_4
+398019|Ambatty Greens Resort|Coorg|NO|stars_3.5
+398033|Club Mahindra Virajpet|Coorg|NO|stars_4
+398035|Coorg Hallimane|Coorg|NO|stars_2
+398090|Parumpara Holiday Resort|Coorg|NO|stars_2
+398116|The Windflower Resorts & Spa|Coorg|NO|stars_4.5
+398137|Deepa Comforts|Mangalore|NO|stars_3
+398219|Joys Palace|Thrissur|NO|stars_4
+398226|Banasura Hill Resort|Wayanad|NO|stars_3
+398261|Planet Green plantation Resorts|Wayanad|NO|stars_3
+398423|Aristro|Lonavala|NO|stars_3
+398445|Kings Inn Holiday Home|Lonavala|NO|stars_2.5
+398448|Under the Over, A Sterling Holiday Resort|Lonavala|NO|stars_3
+398464|Sunrise Hill Resort|Lonavala|NO|0
+398468|Upper Deck Resort|Lonavala|NO|stars_3
+398472|Zara Resort|Lonavala|NO|stars_3
+398477|Fountain Village|Mahabaleshwar|NO|stars_3
+398494|Girija|Mahabaleshwar|NO|stars_2.5
+398495|Krishna Continental|Mahabaleshwar|NO|stars_2
+398523|Regenta MPG Club|Mahabaleshwar|NO|stars_3
+398571|The Nagpur Ashok|Nagpur|NO|stars_3
+398659|Atali Ganga|Ratnagiri|NO|stars_3
+398725|Sai Grand Castle Inn|Shirdi|NO|stars_3
+398743|Sai Sangam|Shirdi|NO|stars_3
+398770|Icchapurti Sai Residency|Shirdi|NO|stars_2
+398773|Marigold Regency|Shirdi|NO|stars_3
+398774|Matrix Inn|Shirdi|NO|stars_4
+398863|Indrapuri Rajadhani|Trivandrum|NO|stars_3
+398870|Uday Suites|Trivandrum|NO|stars_3
+398872|Vasudevam Premium Suites|Trivandrum|NO|stars_3
+398976|Konark Inn|Navi Mumbai|NO|stars_2
+398985|Laurent & Benon Premium Service Apartments|Navi Mumbai|NO|0
+398991|Pallavi Avida|Navi Mumbai|NO|stars_3
+399044|VELAN Hotel Greenfields|Tiruppur|NO|stars_3
+399052|Ahuja Residency Sunder Nagar|New Delhi|NO|stars_3
+399059|Arjun Hotel|New Delhi|NO|stars_3
+399095|All iz Well|New Delhi|NO|stars_3
+399109|Castle Blue|New Delhi|NO|stars_3
+399115|City Star|New Delhi|NO|stars_3
+399128|Elegance|New Delhi|NO|stars_3
+399140|Gulnar|New Delhi|NO|stars_3
+399163|Moments|New Delhi|NO|stars_3
+399186|Ramhan|New Delhi|NO|stars_3
+399188|Rangoli|New Delhi|NO|stars_3
+399189|Regent Grand|New Delhi|NO|stars_4
+399201|Shanti Villa|New Delhi|NO|stars_3
+399203|Shelton|New Delhi|NO|stars_3
+399206|Shri Vinayak|New Delhi|NO|stars_3
+399214|Staywell Dx.|New Delhi|NO|stars_3
+399239|JP Hotel and Resorts|New Delhi|NO|stars_4
+399240|Karon Hotels - Lajpat Nagar|New Delhi|NO|stars_3
+399256|Mystique Moments|New Delhi|NO|stars_2.5
+399264|Palm Spring Medi Spa & Stays Hotel|New Delhi|NO|stars_3
+399285|Stallen Hospitality|New Delhi|NO|stars_3
+399294|The Allure|New Delhi|NO|stars_3
+399300|The JRD Luxury Butique Hotel|New Delhi|NO|stars_3
+399337|Khanvel Resort|Silvassa|NO|stars_3
+399359|Bahia Resorts|Bhatinda|NO|stars_3
+399417|Horseland Hotel And Mountain Spa|Matheran|NO|stars_2
+399421|Usha Ascot|Matheran|NO|stars_3
+399480|The Fern Samali Resort|Dapoli|NO|stars_3
+399593|Golden Swan Beach Resort|Murud|NO|0
+399779|JW Marriott New Delhi Aerocity|New Delhi|NO|stars_5
+400763|Kohinoor Asiana|Madras/Chennai|NO|stars_5
+400790|Marigold by Greenpark|Hyderabad|NO|stars_5
+400791|Novotel Goa Shrem Resort|Bardez|NO|stars_4
+400792|Fairfield by Marriott Bengaluru Rajajinagar|Bangalore|NO|stars_3.5
+400793|JW Marriott Bengaluru|Bangalore|NO|stars_5
+400949|The Fern Beira Mar Resort|Benaulim Beach|NO|stars_3
+400951|Pride Sun Village Resort Spa|Calangute|YES|stars_4
+401588|Hilton Jaipur|Jaipur|NO|stars_5
+404401|Four Points by Sheraton New Delhi, Airport Highway|New Delhi|NO|stars_4
+405192|Four Points Dehradun|Dehradun|YES|stars_4
+405193|Golden Tulip Bangalore Electronic City|Bangalore|YES|stars_4
+405194|Golden Tulip Bhiwadi|Bhiwadi|YES|stars_4
+405195|Golden Tulip Jaipur|Jaipur|YES|stars_0
+405197|Tulip Inn Mussoorie Mall Road|Mussoorie|YES|stars_0
+406124|Hyatt Raipur|Raipur|NO|stars_4
+406125|Hyatt Regency Ludhiana|Ludhiana|NO|stars_5
+406368|Sanskriti Vedic Retreat|Rishikesh|NO|stars_4
+406458|Grand Mercure Goa Shrem|Candolim Beach|NO|stars_5
+406718|Novotel Ahmedabad|Ahmedabad|NO|stars_4
+406723|Novotel Kolkata Hotel and Residences|Calcutta|NO|stars_4
+407129|Four Points by Sheraton Bengaluru|Bangalore|YES|stars_0
+407133|Holiday Inn New Delhi International Airport|New Delhi|NO|stars_4
+407149|Novotel Pune Nagar Road|Pune|NO|stars_4
+408573|Jaypee Delcourt|Greater Noida|YES|stars_0
+408584|Hotel La Capitol|Panjim|NO|stars_3
+408585|Shanti Morada|Goa|NO|stars_4
+408803|Srishti Ayurvedic Retreats|Thrissur|NO|0
+409862|Fortune The Savoy|Mussoorie|YES|stars_0
+411512|Kalari Rasayana|Paravur|NO|stars_4
+411599|Centra Inn|Delhi|NO|stars_3
+415494|Regenta Ahmedabad|Ahmedabad|YES|stars_0
+416627|Lemon Tree Hotel Shimona|Madras/Chennai|YES|stars_0
+417747|SAMANA Ayurveda Hotel|Trivandrum|NO|0

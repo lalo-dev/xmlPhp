@@ -1,0 +1,74 @@
+9192|Bora Bora Lagoon Resort & Spa|Bora Bora|NO|stars_5
+21805|Sofitel Moorea la Ora Beach Resort|Moorea|NO|stars_5
+21808|Sofitel Tahiti Maeva Beach|Papeete|NO|stars_4
+21809|Sofitel Bora Bora Marara Beach Resort & Private Island|Bora Bora|NO|stars_4
+22570|Royal Huahine|Huahine|NO|stars_4
+27156|Le Meridien Tahiti|Tahiti|YES|stars_4
+27157|Intercontinental Resort Tahiti|Tahiti|NO|stars_5
+27158|Hilton Tahiti|Tahiti|NO|stars_4
+27160|The Royal Tahitien|Tahiti|NO|stars_3
+27161|Intercontinental Moorea Resort|Moorea|NO|stars_5
+27162|Hilton Moorea Lagoon Resort|Moorea|YES|stars_5
+27163|Les Tipaniers|Moorea|NO|stars_2
+27165|Intercontinental Bora Bora Le Moana Resort|Bora Bora|YES|stars_4.5
+27169|Bora Bora Pearl Beach Resort|Bora Bora|NO|stars_4.5
+27171|Le Meridien Bora Bora|Bora Bora|YES|stars_5
+27174|Le Maitai Polynesia|Bora Bora|NO|stars_3
+27176|Raiatea Hawaiki Nui|Raiatea|NO|stars_3
+27177|Manihi Pearl Beach Resort - geschlossen|Manihi|NO|stars_4
+27178|Kia Ora Rangiroa|Rangiroa|NO|stars_4
+30784|Relais Mahana|Huahine|NO|stars_3
+31749|Tikehau Pearl Beach Resort|Tikehau|NO|stars_4
+31750|Hanakee Hiva Oa Pearl Lodge|Hiva Oa|NO|stars_4
+31751|Keikahanui Nuku Hiva Pearl Lodge|Nuku Hiva|NO|stars_4
+32427|Relais Fenua|Punaauia|NO|stars_2
+32429|Temanoha Village Pension|Moorea|NO|0
+32432|Les Relais de Josephine Pension|Rangiroa|NO|stars_2
+35605|Hibiscus|Moorea|NO|stars_3
+38026|Moorea Pearl Beach Resort|Moorea|NO|stars_4
+38842|Fare Vaihere|Moorea|NO|stars_3.5
+39867|Sunset Beach Motel|Raiatea|NO|stars_2
+39868|Hilton Bora Bora Nui Resort & Spa|Bora Bora|NO|stars_5
+39869|White Sand Beach Resort|Fakarava|NO|stars_3
+41012|Radisson Plaza Resort Tahiti|Tahiti|NO|stars_4
+52605|Pension Au Phil du Temps|Tahaa|NO|stars_2
+52608|Pension Tokerau Village|Fakarava|NO|0
+53030|Vahine Island Resort|Tahaa|NO|stars_4
+55806|Motu ITI|Moorea|NO|stars_2.5
+56371|Le Maitai Rangiroa|Rangiroa|NO|stars_3
+57758|Bora Bora Beach Resort - geschlossen|Bora Bora|NO|stars_3
+60251|Havaiki Pension|Fakarava|NO|stars_2
+60252|Pension Tuanake|Rangiroa|NO|stars_2
+72478|Intercontinental Bora Bora Resort & Thalasso Spa|Bora Bora|YES|stars_5
+79957|The St. Regis Bora Bora Resort|Bora Bora|YES|stars_5
+80279|La Pirogue|Tahaa|NO|stars_2.5
+96513|Legends Residences - Moorea|Moorea|NO|stars_4
+103270|Four Seasons Bora Bora|Bora Bora|NO|stars_5
+139828|Manava Suite Resort Tahiti|Punaauia|NO|stars_4
+139886|Tahiti Nui|Papeete|NO|stars_3
+142153|Raiatea Lodge|Raiatea|NO|stars_3
+162129|Fare Pea Iti|Tahaa|NO|stars_3
+185675|Pension Vanira Lodge|Tahiti|NO|0
+202352|Opoa Beach|Raiatea|NO|stars_3
+226936|Matira|Bora Bora|NO|stars_4.5
+228753|Tevahine Dream Pension|Rangiroa|NO|stars_2.5
+234738|Le Mandarin Tahiti|Papeete|NO|stars_3
+240774|Linareva|Moorea|NO|stars_3
+245445|Hotel Atiapiti|Raiatea|NO|0
+245446|Le Taha'a Island Resort & Spa|Tahaa|NO|stars_5
+245447|Maitai Lapita Village Huahine|Huahine|NO|stars_3
+248396|Pension Tupuna|Huahine|NO|stars_2
+286280|Sofitel Bora Bora Private Island|Bora Bora|NO|stars_5
+296916|Pension Kanahau|Hiva Oa|NO|0
+296978|Maupiti Residence|Maupiti|NO|0
+296990|Relais Royal Tikehau|Tikehau|NO|stars_2
+311003|Fare Maeva|Huahine|NO|0
+311007|Tetamanu Village|Fakarava|NO|0
+311127|Aotera Pension|Rangiroa|NO|0
+311131|Fare Miti|Moorea|NO|0
+311132|Fenua Mata I Oa|Moorea|NO|0
+311135|Le Passage|Tahaa|NO|0
+311145|Tikehau Village|Tikehau|NO|0
+311146|Titaina Pension|Tahaa|NO|0
+359636|The Brando|Tetiaroa|NO|stars_6
+359640|Mataiva Village|Mataiva|NO|0

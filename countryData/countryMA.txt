@@ -1,0 +1,731 @@
+1902|Adrar|Agadir|YES|stars_3
+1903|LTI Agadir Beach Club|Agadir|YES|stars_4
+1905|Club Al Moggar Garden Beach|Agadir|YES|stars_4
+1908|Atlas Amadil Beach|Agadir|YES|stars_4
+1909|Argana|Agadir|YES|stars_4
+1910|Kenzi Europa|Agadir|YES|stars_4
+1911|Les Dunes D'Or Hotel & Spa|Agadir|NO|stars_4
+1912|Agadir Les Omayades|Agadir|YES|stars_4
+1913|Ryad Mogador Al Madina|Agadir|YES|stars_4
+1914|smartline Oasis|Agadir|YES|stars_4
+1915|Residence Shems|Agadir|YES|stars_3
+1916|Sahara|Agadir|NO|stars_5
+1918|Sud Bahia|Agadir|YES|stars_3
+1919|Tagadirt|Agadir|YES|stars_3
+1921|Caribbean Village Agador & El Pueblo Tamlelt|Agadir|NO|stars_3
+1922|Blue Sea Le Tivoli|Agadir|YES|stars_4
+1923|Casablanca Le Lido Thalasso & Spa|Casablanca|YES|stars_4
+1926|Kenzi Farah|Marrakesch|YES|stars_5
+1927|Le Tichka Marrakech|Marrakesch|YES|stars_4
+1928|Siaha Safir|Marrakesch|NO|stars_4
+1933|Husa Solazur & Spa|Tanger|NO|stars_4
+1934|Tanjah Flandria|Tanger|YES|stars_4
+1935|Melia Palais Salam|Taroudant|YES|stars_4
+5712|Best Western Odyssee Park Hotel|Agadir|YES|stars_4
+5713|Residence Igoudar|Agadir|YES|stars_3
+5714|Marhaba|Agadir|YES|stars_3
+5715|Anezi Tower Hotel & Apartments|Agadir|YES|stars_4
+5716|Beach Albatros Agadir|Agadir|YES|stars_4
+5717|Transatlantique|Agadir|NO|stars_3
+5818|Atlantic Palace Thalasso Golf & Casino Resort Agadir|Agadir|YES|stars_5
+5821|Royal|Agadir|YES|stars_2
+5824|Aferni|Agadir|YES|stars_3
+5825|Coralia Club Agadir La Kasbah|Agadir|YES|stars_4
+5826|Amine|Marrakesch|YES|stars_3
+6982|Belere Rabat|Rabat|NO|stars_4
+7586|Amanjena|Marrakesch|YES|stars_5
+11401|Des Cascades|Imouzzer|NO|stars_3
+14607|Ibis Agadir|Agadir|YES|stars_3
+14736|Imperial Borj|Marrakesch|YES|stars_5
+15213|Kamal|Agadir|NO|stars_3
+15337|Marrakech Le Semiramis|Marrakesch|YES|stars_4
+15707|La Mamounia|Marrakesch|NO|stars_5
+15728|Le Palmeraie Village|Marrakesch|YES|stars_4
+16083|Le Meridien N'Fis|Marrakesch|YES|stars_5
+16610|Mabrouk|Agadir|NO|stars_3
+18409|Oudaya Hotel|Marrakesch|YES|stars_3
+18555|Palmeraie Palace & Hotel Du Golf - Palmeraie Palace|Marrakesch|YES|stars_5
+20322|Jacaranda Golf|Agadir|NO|stars_4
+20456|Royal Decameron Tafoukt Beach|Agadir|YES|stars_4
+20460|RIU Tikida Beach|Agadir|YES|stars_4
+20782|Ryad Mogador Essaouira|Essaouira|YES|stars_4
+23145|RIU Tikida Garden|Marrakesch|YES|stars_4
+23243|Kasbah du Toubkal|Imlil|NO|stars_3
+23572|Valtur Agadir|Agadir|NO|stars_4
+24573|Yasmina|Agadir|YES|stars_3
+28239|Palais des Roses|Agadir|YES|stars_5
+29300|Royal Mirage Fes|Fes|YES|stars_5
+29302|Zaki|Meknes|NO|stars_4
+32650|Iberostar Founty Beach|Agadir|YES|stars_4
+34944|ClubHotel RIU Tikida Dunas|Agadir|YES|stars_4
+38005|Le Medina Essaouira Thalassa Sea & Spa|Essaouira|YES|stars_5
+38006|La Tour Hassan|Rabat|YES|stars_5
+38008|Sofitel Agadir Royal Bay Resort|Agadir|YES|stars_5
+38017|Royal Mansour Casablanca|Casablanca|YES|stars_5
+38333|Pullman Mazagan Royal Golf & Spa|El Jadida|YES|stars_4
+38369|L'Amphitrite Palace|Skhirat|YES|stars_5
+38442|Sofitel Marrakech - Lounge & Spa|Marrakesch|YES|stars_5
+38778|Club Med Agadir|Agadir|NO|stars_3
+39053|Club Med Marrakech la Medina|Marrakesch|NO|stars_3
+40193|Coralia Palmariva|Marrakesch|YES|stars_4
+40194|Al Jasira Hotel|Essaouira|YES|stars_3
+42655|Atlas Almohades Agadir|Agadir|YES|stars_4
+46600|Wassim|Fes|NO|stars_4
+46601|Jnan Palace|Fes|YES|stars_5
+46604|Villa des Orangers|Marrakesch|NO|stars_5
+46605|Es Saadi Gardens & Resorts - The Hotel / The Palace / Villas|Marrakesch|YES|stars_5
+46606|Kenzi Basma|Casablanca|YES|stars_4
+46607|Sheraton Casablanca Hotel & Towers|Casablanca|YES|stars_5
+47312|Hyatt Regency Casablanca|Casablanca|NO|stars_5
+47314|Atlas Almohades Casablanca City Center|Casablanca|YES|stars_4
+48277|Atlas Medina & Spa|Marrakesch|YES|stars_5
+48343|Residence Intouriste|Agadir|YES|stars_3
+48484|Les Jardins La Medina|Marrakesch|YES|stars_5
+49942|Mövenpick Hotel Casablanca|Casablanca|YES|stars_5
+49944|Mansour Eddahbi|Marrakesch|YES|stars_5
+49945|Sofitel Rabat Jardin des Roses|Rabat|YES|stars_5
+49946|El Minzah|Tanger|YES|stars_5
+50191|Les Merinides|Fes|YES|stars_5
+50193|Menzeh Zalagh|Fes|NO|stars_4
+50194|Splendid|Fes|NO|stars_3
+50195|Nassim|Marrakesch|YES|stars_4
+50196|Ibis Marrakech Center Gare|Marrakesch|YES|stars_3
+50676|Golden Tulip Farah Rabat|Rabat|YES|stars_5
+51869|Ourida|Rabat|NO|stars_4
+52663|Zalagh Parc Palace|Fes|YES|stars_5
+55987|Club Med Yasmina|Tetouan|NO|stars_4
+58003|Hicham|Marrakesch|YES|stars_3
+59581|Club Sangho Privilège Marrakech|Marrakesch|YES|stars_4
+61753|Diwane|Marrakesch|YES|stars_4
+63922|Tropicana|Marrakesch|NO|stars_4
+63923|Flathotel Residence|Agadir|YES|stars_4
+64470|Hivernage & Spa|Marrakesch|YES|stars_5
+65016|Riad Slitine|Marrakesch|NO|stars_4
+66328|Royal Mirage Deluxe Hotel|Marrakesch|YES|stars_5
+66329|Fes Inn|Fes|YES|stars_3
+66388|El Andalous|Marrakesch|YES|stars_4
+71809|Kasbah Tamadot|Asni|NO|stars_5
+72301|Ramada Fes|Fes|YES|stars_5
+72302|Agdal|Marrakesch|YES|stars_3
+72303|Belere|Erfoud|YES|stars_4
+72304|El Ati|Erfoud|NO|stars_4
+72305|Kasbah Tizimi|Erfoud|NO|stars_4
+73435|Helnan Chellah|Rabat|YES|stars_4
+73437|Ibis Casa Voyageurs|Casablanca|YES|stars_3
+75494|Riad Moucharabieh|Marrakesch|YES|stars_4
+75969|Al Kabir|Marrakesch|YES|stars_3
+76261|Les Jardins de la Koutoubia|Marrakesch|YES|stars_5
+76362|Tikida Golf Palace|Agadir|YES|stars_5
+76447|Golden Tulip Farah Marrakesch|Marrakesch|YES|stars_4
+76514|Riad Amina|Marrakesch|YES|stars_4
+76521|Exe Rembrandt Hotel|Tanger|YES|stars_3
+76522|Barcelo Casablanca|Casablanca|YES|stars_4
+76523|Ramada les Almohades Tanger|Tanger|YES|stars_4
+76524|Ryad Mogador Opera|Marrakesch|YES|stars_4
+76537|Riad 72 & Riad Due|Marrakesch|NO|stars_4
+76961|Bougafer|Tinerhir|NO|stars_4
+76962|Mercure Sheherazade|Rabat|YES|stars_3
+76963|Mercure Ouarzazate|Ouarzazate|YES|stars_4
+76966|Riad Les Oliviers|Marrakesch|YES|stars_3
+76968|Riad Amssaffah|Marrakesch|NO|stars_2.5
+76969|Riad Ifoulki|Marrakesch|NO|stars_3.5
+76972|Atlas Asni|Marrakesch|YES|stars_4
+76973|Le Caspien|Marrakesch|YES|stars_3
+77285|Kenza|Marrakesch|YES|stars_2.5
+77286|Moroccan House Marrakech|Marrakesch|YES|stars_3
+77287|Idou Anfa|Casablanca|YES|stars_4
+77491|Riad Karmela|Marrakesch|YES|stars_4
+77830|Ibis Rabat|Rabat|YES|stars_3
+77831|Le Diwan Rabat|Rabat|YES|stars_4
+77872|Des Iles|Essaouira|YES|stars_4
+77873|Suisse|Casablanca|YES|stars_4
+78016|Ibis Fnideq|Fnideq|YES|stars_3
+78190|Residence Rihab|Agadir|YES|stars_3
+78518|Akabar|Marrakesch|NO|stars_3
+78815|Royal Atlas|Agadir|NO|stars_5
+78830|Timoulay|Agadir|YES|stars_4
+80417|Palace d'Anfa|Casablanca|YES|stars_5
+80418|Riad Souss Antiguo Val d'Anfa|Casablanca|YES|stars_4
+81781|Transatlantique|Meknes|NO|stars_4
+81782|Auberge Tombouctou|Merzouga|NO|stars_4
+81785|Palais Asmaa|Zagora|YES|stars_4
+81788|Dar Azawad Hotel & Wüstencamps - Reve Sahara/ Les Hommes Bleus/ Le Sand|M'Hamid|NO|stars_3.5
+81789|Les Amandiers|Tafraoute|NO|stars_4
+81790|Riad Salam|Zagora|YES|stars_4
+81791|Kerdous|Col du Kerdous|NO|stars_4
+81792|Xaluca Maadid Erfoud|Erfoud|NO|stars_4
+81794|Saghro|Tinerhir|NO|stars_4
+81795|Mövenpick Malabata & Casino|Tanger|YES|stars_5
+81796|Tazarkount|Afourer|NO|stars_4
+81797|Palm's|Erfoud|YES|stars_4
+81802|Riad Dar El Assafir|Marrakesch|YES|stars_4
+81811|Kasbah Dar Daif|Ouarzazate|NO|stars_3
+81812|Berbere Palace|Ouarzazate|YES|stars_5
+81813|Riad Al Madina|Essaouira|YES|stars_3.5
+81816|Riad Dar Loulema|Essaouira|NO|stars_2
+81823|Riad Maison Bleue|Fes|NO|stars_4.5
+81825|Ibis Fes|Fes|YES|stars_3
+81827|Sofitel Fès Palais Jamai|Fes|YES|stars_5
+81828|Le Littoral|Casablanca|YES|stars_4
+81829|Golden Tulip Farah Casablanca|Casablanca|YES|stars_5
+82391|Riad Charai|Marrakesch|NO|stars_4
+85533|Riad Dar Souihla|Marrakesch|YES|stars_4
+85534|Rivoli|Casablanca|YES|stars_4
+85535|Ayoub|Marrakesch|YES|stars_3
+85537|Riad Dama|Marrakesch|YES|stars_4
+85623|Oum Palace|Casablanca|YES|stars_4
+86537|Dar Ouladna|Marrakesch|YES|stars_5
+86684|Riad Dar Al Andalus|Fes|NO|stars_4
+86807|Kenzi Azghor|Ouarzazate|YES|stars_4
+86920|Azur|Casablanca|YES|stars_4
+86921|El Oumnia Puerto|Tanger|YES|stars_4
+86923|Ryad Mogador Menara|Marrakesch|YES|stars_5
+86931|Ibis Meknes|Meknes|NO|stars_3
+87265|Riad Taylor|Marrakesch|YES|stars_5
+89061|Riyad Sheherazade|Fes|NO|stars_5
+89087|Mounia Fes|Fes|NO|stars_3
+89088|Le Zenith|Casablanca|YES|stars_4
+89110|Ryad Mogador Marrakech|Marrakesch|YES|stars_3
+89144|Kasbah Le Mirage|Marrakesch|YES|stars_4
+89177|Islane|Marrakesch|YES|stars_3
+89314|Imperial Holiday|Marrakesch|YES|stars_4
+89372|Des Arts Resort & Spa|Casablanca|YES|stars_5
+89451|Ibis El Jadida|El Jadida|NO|stars_3
+89477|Ryad Mogador Agdal|Marrakesch|YES|stars_5
+89492|Les Jardins D'Ines|Marrakesch|YES|stars_5
+89497|Pavillon du Golf|Marrakesch|YES|stars_5
+90968|Zahrat al Jabal|Fes|YES|stars_3
+90969|Volubilis|Casablanca|YES|stars_2
+90970|Ametis Club Karam|Ouarzazate|YES|stars_3
+90972|Marina Smir Thalasso & Spa|Tetouan|YES|stars_5
+90973|Riad Tinmel|Marrakesch|YES|stars_4
+90975|Riad Palais Mehdi|Marrakesch|YES|stars_5
+90976|Dar Baya|Marrakesch|YES|stars_3
+90977|Dar Jeeling|Marrakesch|YES|stars_3
+90978|Dar Lholoum|Marrakesch|YES|stars_3
+91015|Reda|Zagora|NO|stars_4
+91017|La Roseraie|Marrakesch|NO|stars_4
+91019|Les Borjs de la Kasbah|Marrakesch|YES|stars_4
+91172|Riad Basim|Marrakesch|NO|stars_4
+91173|Riad Palais Sebban|Marrakesch|NO|stars_5
+91174|Riads Lotus - Riad Perle|Marrakesch|YES|stars_5
+91177|Riad de Fes|Fes|NO|stars_5
+91178|Riad des Golfs|Agadir|NO|stars_4
+91179|Riad Arabesque|Fes|YES|stars_5
+91181|Caravanserai|Marrakesch|NO|stars_4
+91183|Villa Mandarine|Rabat|NO|stars_5
+91184|Jnane Sherazade|Casablanca|YES|stars_4.5
+91185|Le Mirage|Tanger|NO|stars_4
+91186|Dar Ahlam|Ouarzazate|NO|stars_4
+91188|La Sultana|Marrakesch|NO|stars_5
+91189|Dar Rhizlane|Marrakesch|NO|stars_5
+91192|Rabat|Rabat|YES|stars_5
+91194|Hanane Club|Ouarzazate|YES|stars_4
+91195|Le Zat|Ouarzazate|YES|stars_4
+91196|Ouarzazate Le Tichka|Ouarzazate|YES|stars_3
+91198|Le Rif & Spa|Tanger|YES|stars_4
+91199|Villa Maroc|Essaouira|NO|stars_3.5
+91200|Palais L'Heure Bleue|Essaouira|NO|stars_4
+91841|Royal Decameron Issil|Marrakesch|YES|stars_4
+92428|Ibis Marrakech Palmeraie|Marrakesch|YES|stars_3
+92746|Ocean Vagabond|Essaouira|NO|stars_3.5
+92887|Menzeh Dalia|Meknes|NO|stars_4
+94019|Riad Salam|Erfoud|NO|stars_4
+94649|Ibis Ouarzazate|Ouarzazate|NO|stars_3
+95020|ROBINSON Club Agadir|Agadir|YES|stars_4
+96817|El Hati|Marrakesch|NO|stars_3
+98201|Riad Mimouna|Essaouira|YES|stars_4
+98452|Riad Alwane|Marrakesch|YES|stars_3
+100266|Riad Enija|Marrakesch|NO|stars_4
+100311|Jm Suites|Casablanca|YES|stars_5
+100313|Riad Opale|Marrakesch|YES|stars_5
+100315|Corail|Marrakesch|YES|stars_3
+100842|Riads Lotus - Riad Ambre|Marrakesch|YES|stars_4.5
+101757|Riad La Maison Rouge|Marrakesch|YES|stars_3.5
+102391|Dar Achaiah|Marrakesch|YES|stars_5
+102484|Robinson Riad Zakaria|Marrakesch|NO|stars_4
+102544|Ryad Mogador Kasbah|Marrakesch|YES|stars_4
+102700|Marrakech Ryads Parc & Spa|Marrakesch|YES|stars_4
+102702|Riad 58 Blu|Marrakesch|YES|stars_4
+103016|Riad Armelle|Marrakesch|NO|stars_4
+103547|Riad el Nour|Marrakesch|YES|stars_4
+103614|Riad Africa|Marrakesch|YES|stars_4
+104054|La Maison Bleue|Fes|YES|0
+104057|Angsana Riad Collection Morocco|Marrakesch|YES|stars_4.5
+105463|Bled al Fassia|Marrakesch|YES|stars_5
+106577|Dar Atta|Marrakesch|YES|stars_2.5
+106579|Dar Les Cigognes by Sanssouci Collection|Marrakesch|NO|stars_4
+106580|Dar Shama|Marrakesch|YES|stars_5
+107294|Golden Tulip Farah Khouribga|Khouribga|YES|stars_5
+107295|Golden Tulip Farah Safi|Safi|YES|stars_4
+108263|La Ferme Des Oliviers|Marrakesch|NO|stars_5
+108271|La Maison Arabe|Marrakesch|NO|stars_5
+108469|Les Deux Tours|Marrakesch|YES|stars_5
+109194|Murano Oriental Resort Marrakech|Marrakesch|YES|stars_5
+109305|Novotel Casablanca City Center|Casablanca|NO|stars_4
+109526|Es Saadi Gardens & Resorts - The Palace|Marrakesch|NO|stars_5
+109976|Best Western Toubkal|Casablanca|NO|stars_4
+110168|Riad Catalina|Marrakesch|NO|stars_4
+110169|Riad Damia|Fes|YES|stars_5
+110170|Riad Dar Dmana|Fes|NO|stars_4
+110173|Riad El Ghalia|Fes|YES|stars_4.5
+110176|Riad Myra|Fes|YES|stars_5
+110472|Riads Lotus - Riad Privilege|Marrakesch|YES|stars_5
+110539|Chergui Kasbah|Merzouga|NO|stars_4
+110540|Atlas Essaouira & Spa|Essaouira|YES|stars_5
+110541|Kasbah Lamrani|Tinerhir|NO|stars_3
+111140|Rose Garden Resort & Spa|Marrakesch|YES|stars_5
+122254|Imperial Plaza|Marrakesch|YES|stars_4
+122255|Mont Gueliz|Marrakesch|YES|stars_3
+122409|Villa Damonte|Essaouira|YES|stars_3
+122410|Sentido Kenzi Menara Palace|Marrakesch|YES|stars_2
+122411|Dar Guerris|Marrakesch|YES|stars_4
+122412|Riad Pourpre|Marrakesch|YES|stars_4
+124678|Diwan|Casablanca|NO|stars_4
+124679|Villa Blanca Urban|Casablanca|YES|stars_4
+124681|Transatlantique|Casablanca|YES|stars_4
+124685|Riad Serail|Marrakesch|YES|stars_3
+124686|Riad Monceau|Marrakesch|NO|stars_5
+124687|Zahia Marrakech|Marrakesch|YES|stars_3
+124689|Riad el Farah|Marrakesch|YES|stars_3
+124690|Riad Bakoua - Dar Safia|Marrakesch|YES|stars_4
+125299|Fatinat-Marrakech|Marrakesch|NO|stars_4
+125302|Riad Jonan|Marrakesch|NO|stars_4
+125306|Riad El Cadi|Marrakesch|NO|stars_4
+125309|La Maison des Oliviers|Marrakesch|YES|stars_4
+125315|La Maison Nomade|Marrakesch|NO|stars_3
+126909|Volubilis Inn|Meknes|YES|stars_4
+129706|Riads Lotus - Riad Omarine|Essaouira|YES|stars_5
+129708|Riad Les Bougainvilliers|Marrakesch|YES|stars_4
+129709|Las Palmeras|Marrakesch|NO|stars_5
+129711|Moulay Yacoub|Safi|NO|stars_4
+129712|Chellah|Tanger|NO|stars_3
+132685|Business|Casablanca|YES|stars_4
+132687|Riad Sable Chaud|Marrakesch|NO|stars_4
+132688|Riad Les Hibiscus|Marrakesch|YES|stars_4
+132691|Tachfine|Marrakesch|NO|stars_3
+132692|Le Tafilalet|Marrakesch|YES|stars_3
+132695|Riad Amira|Marrakesch|NO|stars_4
+132700|La Perle Du Sud|Ouarzazate|YES|stars_3
+132704|Riad Dar El Kebira|Rabat|YES|stars_5
+132708|Batha|Fes|YES|stars_3
+132710|Ahlen|Tanger|NO|stars_3
+134100|Riad Daria|Marrakesch|NO|stars_5
+134169|Ibis Tanger Free Zone|Tanger|YES|stars_3
+134210|Ibis Casablanca City Center|Casablanca|NO|stars_3
+134445|Tghat|Fes|NO|stars_4
+134497|Residence Agyad Maroc|Agadir|NO|stars_3.5
+134626|Kenzi Oasis Hotel|Marrakesch|YES|stars_4
+135827|Ksar Massa|Sidi R'bat-Massa|NO|stars_3
+135828|Golden Beach Aparthotel|Agadir|YES|stars_3
+135832|Dar Zitoune|Taroudant|YES|stars_4
+135833|La Gazelle d'Or|Taroudant|NO|stars_5
+135846|La Sultana|Oualidia|NO|stars_4.5
+135852|Riad Zamane|Fes|NO|stars_3.5
+135854|Sofia|Fes|NO|stars_4
+135855|Riad Louna|Fes|NO|stars_4
+135857|Palais Didi|Meknes|NO|stars_4
+135858|Riad Yacout|Meknes|YES|stars_4
+135861|Riad Farnatchi|Marrakesch|NO|stars_5
+135862|Palais Calipau|Marrakesch|NO|stars_5
+135866|Riad Kaiss|Marrakesch|NO|stars_4
+135882|Riad Shama|Marrakesch|NO|stars_4
+135887|Gallia|Marrakesch|NO|stars_1
+135891|Le Fint|Ouarzazate|YES|stars_4
+135896|Kasbah Xaluca Dades|Boumalne Dadès|NO|stars_4
+136453|Iberostar Saidia|Saidia|YES|stars_5
+136454|Riad Schanez|Marrakesch|YES|stars_4
+136455|Amani Hotel|Marrakesch|YES|stars_3
+136460|Majorelle|Marrakesch|YES|stars_3
+136461|Du Pacha|Marrakesch|YES|stars_2
+136462|Riad Dar Rassam|Marrakesch|YES|stars_3
+136464|Riad Dar Amane|Marrakesch|YES|stars_3
+136465|Riad Dar Latifa|Marrakesch|YES|stars_3
+136664|Maison DO|Marrakesch|YES|stars_3
+136710|Club les Almoravides|Marrakesch|YES|stars_4
+136719|Oumlil|Rabat|NO|stars_4
+137046|Riad Itrane|Marrakesch|YES|stars_4.5
+137189|Riad Altair|Marrakesch|NO|stars_4
+137461|Amalay|Marrakesch|NO|stars_3
+137525|Anfa Port|Casablanca|NO|stars_4
+137566|Idou Tiznit|Tiznit|YES|stars_4
+137567|Ryad Mogador Gueliz|Marrakesch|YES|stars_4
+138102|Al Khaima|Asilah|NO|stars_3
+138346|Palais Soltan Riad & Spa|Marrakesch|NO|stars_4
+138468|Kenzi Tower|Casablanca|YES|stars_5
+138855|Dellarosa|Marrakesch|YES|stars_4
+142910|Le Dorint|Agadir|NO|stars_5
+142912|Ametis Nouzha|Fes|YES|stars_3
+142915|Volubilis|Fes|NO|stars_4
+142991|Ajiad|Casablanca|YES|stars_3
+142992|Atlas Orient Oujda|Oujda|YES|stars_4
+144211|Riad Lotus Savinio|Marrakesch|YES|stars_5
+145135|Riad Ineslisa|Marrakesch|YES|stars_3
+145137|Riad Dar Mumtaz|Marrakesch|YES|stars_4
+145138|Riad el Amine|Fes|YES|stars_5
+145144|RIU Tikida Palmeraie|Marrakesch|YES|stars_4
+159623|Domaine des Remparts & Spa|Marrakesch|YES|stars_5
+159695|Ibis Essaouira|Essaouira|YES|stars_3
+159803|Riad A La Belle Etoile|Rabat|NO|stars_3.5
+159804|Riad Al Fassia Aguedal|Marrakesch|YES|stars_4
+159805|Riad Carina|Marrakesch|YES|stars_3
+159806|Riad Diana|Marrakesch|YES|stars_4
+159808|Riad Fez Yamanda|Fes|NO|stars_3.5
+159809|Maison Arabo Andalouse|Marrakesch|NO|stars_3
+159810|Riad Karam|Agadir|YES|stars_3
+159836|Sultana Royal Golf|Ouarzazate|YES|stars_4
+159858|Villa des trois golfs|Marrakesch|NO|stars_5
+159860|Villa Guest|Marrakesch|YES|stars_4
+159866|Washington|Casablanca|YES|stars_4
+159872|de la Corniche|Casablanca|YES|stars_4
+159873|Ryads Naoura Barriere|Marrakesch|NO|stars_5
+162711|Club Med la Palmeraie|Marrakesch|NO|stars_4
+162712|Club Med Le Riad|Marrakesch|NO|stars_5
+163487|Tildi Agadir|Agadir|YES|stars_4
+182245|Oriental Bay Beach Golf & Spa|Berkane|YES|stars_5
+182246|Dawliz|Tanger|YES|stars_4
+182247|Riad Dar Ilham|Marrakesch|YES|stars_4
+182248|Kasbah Dar Ilham|Marrakesch|YES|stars_5
+182249|Kasbah Imdoukal|Zagora|YES|stars_4
+182250|Riad 1001 Nuits|Marrakesch|YES|stars_4
+182251|Riad Herougui|Marrakesch|YES|stars_4
+182252|Miramar|Essaouira|YES|stars_3
+182253|Riad Kasbah Caracalla|Marrakesch|YES|stars_4
+182588|Flat Apart Slimania|Marrakesch|YES|stars_4
+182589|Riad Al Mansoura|Marrakesch|YES|stars_3.5
+182777|Taj Palace Marrakech|Marrakesch|NO|stars_5
+182783|Mazagan Beach Resort|El Jadida|NO|stars_5
+182927|Riad Ambre et Epices|Marrakesch|YES|stars_4
+182928|The Villa by Hivernage Tamesloht|Marrakesch|YES|stars_5
+182929|Le Petit Riad|Ouarzazate|YES|stars_3
+183211|Palm Plaza|Marrakesch|YES|stars_5
+183642|Amiris|Marrakesch|YES|stars_4
+183643|Riad Al Assala Medina|Marrakesch|YES|stars_5
+183645|Eden Andalou Spa & Resort|Marrakesch|YES|stars_5
+183646|Adama|Marrakesch|YES|stars_4
+183647|Villa Al Assala la Palmerale|Marrakesch|YES|stars_5
+187867|AnaYela|Marrakesch|NO|stars_4
+187868|Riad Madani|Marrakesch|NO|stars_4
+187869|Riad des Eaux|Marrakesch|NO|stars_4
+187871|Kasbah Bab Ourika|Ourika|NO|stars_3.5
+188088|Gite Nadia|Casablanca|YES|stars_4
+188089|Riad Maison Du Sud|Essaouira|YES|stars_3
+188090|Tarik|Tanger|YES|stars_3
+188091|Riad Shaden|Marrakesch|YES|stars_4
+188092|Riad Sidi Ayoub|Marrakesch|YES|stars_4
+188093|Riad Dar Limoun Amara|Marrakesch|YES|stars_3
+188094|Les Seuils de l'Atlas|Marrakesch|YES|stars_3.5
+196005|Al Mounia|Casablanca|YES|stars_4
+196006|Riad Asna|Marrakesch|YES|stars_3
+201596|Bab Hotel|Marrakesch|YES|stars_4.5
+201603|Riad Barroko|Marrakesch|YES|stars_4
+201607|Riad Le Nid De La Colombe|Marrakesch|NO|stars_3
+201608|Riad Sidi Mimoune|Marrakesch|NO|stars_3
+201706|Royal Mansour Marrakech|Marrakesch|NO|stars_5
+201748|Riad Zayane|Marrakesch|YES|stars_4
+202544|Ryad Mogador Menzah|Marrakesch|YES|stars_4
+205426|Atlas Terminus & Spa|Oujda|YES|stars_5
+207908|Crystal Pacha Marrakesch|Marrakesch|YES|stars_5
+207995|Dar Kantzaro|Marrakesch|NO|stars_5
+208002|Dar Nilam|Tanger|YES|stars_3.5
+208256|Demeures d'Orient|Marrakesch|NO|stars_5
+211081|Continental|Tanger|YES|stars_3
+212077|Kenzi Club Oasis|Marrakesch|NO|stars_4
+213231|Les Terres M'barka|Marrakesch|YES|stars_5
+214889|Palais Du Desert & Spa|Erfoud|NO|stars_5
+216822|Résidence Fleurie|Agadir|YES|stars_2
+217202|Riad Fes El Bali|Fes|YES|stars_4
+217209|Riad Asmitou|Essaouira|NO|stars_3
+217211|Riad Au 20 Jasmins|Fes|NO|stars_4
+217215|Riad Calista|Marrakesch|NO|stars_4
+217231|Riad Flam|Marrakesch|NO|stars_4
+217237|Riad Jardin Secret|Marrakesch|NO|stars_2
+217240|Riad La Perle De La Médina|Fes|NO|stars_3.5
+217244|Riad le Ksar de Fes|Fes|NO|stars_4
+217247|Les Clefs Du Sud|Marrakesch|NO|stars_4
+217248|Riad Les Deux Mondes|Essaouira|NO|stars_3
+217258|Riad Mazal|Marrakesch|NO|stars_4
+217259|Riad Merdoudi|Marrakesch|NO|stars_4
+217575|Ryad Watier|Essaouira|YES|stars_2.5
+218512|Suite Novotel Marrakech|Marrakesch|YES|stars_4
+221210|Assam|Kenitra|NO|stars_3
+221433|Calipau Sahara|Dakhla (Dajla)|NO|stars_3
+221655|Dar Tifawine|Marrakesch|NO|stars_4
+222489|Kasbah Igoudar|Lalla Takerkoust|NO|stars_4
+226538|Riad Fleur d'Orient|Marrakesch|NO|stars_3.5
+226539|Clubhotel Eldorador Palmeraie|Marrakesch|YES|stars_4
+226656|Residence Assounfou|Marrakesch|YES|stars_4
+226657|Terres d'Amanar|Tahannaout|YES|stars_4
+226658|Riad dar Aicha|Marrakesch|YES|stars_3
+226659|Riad Dar Tariq|Marrakesch|YES|stars_3
+226660|Riad Massaoud|Marrakesch|YES|stars_3
+226661|Riad Al Jazira|Marrakesch|YES|stars_4
+226662|Riad Zitouna|Marrakesch|YES|stars_3
+226663|Bouregreg|Rabat|YES|stars_3
+226751|Marquise Villa|Marrakesch|YES|stars_3
+226752|Riad Litzy|Marrakesch|YES|stars_5
+226878|Dar Rania|Marrakesch|YES|stars_4
+227066|Dar Zemora|Marrakesch|NO|stars_4.5
+227203|Studiotel Afoud|Agadir|YES|stars_3
+227204|Ksar Shama|Ouirgane|YES|stars_3.5
+227205|Riad Baraka Karam|Marrakesch|YES|stars_4
+227206|Riad Dar Sara & Dar Sara Srira|Marrakesch|YES|stars_4
+227408|Riad El Aissi|Taroudant|YES|0
+227409|Diamant Vert|Fes|YES|stars_3
+227410|Azukar|Marrakesch|YES|stars_4
+227411|Riad Al Ksar & Spa|Marrakesch|YES|stars_4
+227412|Atlas Targa All In Aqua Parc|Marrakesch|YES|stars_4
+227413|Riad Chennaoui|Marrakesch|YES|stars_3
+227414|Villa Margot|Marrakesch|YES|stars_5
+227415|Noor El Jena|Marrakesch|YES|stars_5
+227648|Dar Nadir|Marrakesch|YES|stars_4
+227649|Riad Dar Khaddouj|Marrakesch|NO|stars_2
+227769|Madrid|Chefchaouen|NO|stars_2
+227770|Residence Nejma|Agadir|YES|stars_3
+227771|Riad Les Jardins des Lilas|Marrakesch|YES|stars_3
+227772|Dar Panorama|Ouarzazate|NO|stars_2
+227774|Riad Maktoub|Ouarzazate|NO|stars_2
+227775|Dar Lorkam|Ouarzazate|NO|stars_3
+227776|Etoile Filante D'Or|Ouarzazate|NO|stars_2
+227892|Kenzi Club Agdal Medina|Marrakesch|YES|stars_5
+228347|Founty Beach Appart|Agadir|YES|stars_3
+228348|Be Live Collection Saïdia|Saidia|YES|stars_5
+228349|Relax Airport|Casablanca|YES|stars_4
+228350|Beau Rivage|Essaouira|YES|stars_1
+228351|Sirayane Boutique & Spa|Marrakesch|YES|stars_5
+228352|Villa Nomade|Marrakesch|YES|stars_5
+228353|Ouednoujoum Eco Lodge|Ouarzazate|YES|stars_5
+228354|Kasbah Ellouze|Ouarzazate|NO|stars_2
+228552|Sofitel Marrakech - Palais Imperial|Marrakesch|YES|stars_5
+228927|Chez Famile Ben Moro|Ouarzazate|YES|stars_2
+228929|Bivouac Dunes de Chegaga|Zagora|YES|stars_4
+228930|Bivouac Les Dunes De Tinfou|Zagora|YES|stars_2
+228931|Dar Bensouda|Fes|YES|stars_4
+229075|Amoud|Casablanca|YES|stars_3
+229158|Chems Du Lac|Afourer|NO|stars_4
+229227|Michlifen Ifrane Suites & Spa|Ifrane|NO|stars_5
+229228|Bliss Cameleon|Marrakesch|NO|stars_4
+229229|Dar Crystal|Marrakesch|NO|stars_3
+229230|Jnane Tamsna|Marrakesch|NO|stars_5
+229231|Widiane Suites & Spa|Beni-Mellal|NO|stars_5
+229232|Villa de l'O|Essaouira|NO|stars_5
+229233|Dar L'Oussia|Essaouira|NO|stars_5
+229753|Riad Zarka|Marrakesch|NO|stars_3
+229767|Riad Amira Victoria|Marrakesch|NO|stars_4
+229943|Villa Warhol|Marrakesch|NO|stars_4
+229944|Intercontinental Tanger|Tanger|YES|stars_4
+230063|Maison Dmana / Dar Dmana|Ouarzazate|NO|stars_3
+230064|Bassatine Skoura|Ouarzazate|NO|stars_2
+230065|Defat Kasbah|Ouarzazate|NO|stars_2
+230074|Bivouac Erg Lihoudi|Zagora|NO|stars_3
+230077|Bivouac Nahkla|Zagora|NO|stars_3
+230082|Dar Chama/Darchamaa|Ouarzazate|NO|stars_3
+230086|Kasbah Assafar|El-Kelâa M'Gouna|NO|stars_2
+230091|Kasbah Agounsane|Marrakesch|NO|stars_4
+230093|Riad La Croix Berbere|Marrakesch|NO|stars_4
+230094|Riad Dar Nabila|Marrakesch|NO|stars_3
+230098|Riad Moullaoud|Marrakesch|NO|stars_5
+230099|La Renaissance|Marrakesch|NO|stars_4
+230507|Sogatour Sidi Harazem|Fes|NO|stars_4
+232240|Nadia|Ouarzazate|YES|stars_3
+232275|Jnane La Kasbah|Erfoud|NO|stars_4
+232276|Ksar Assalassil|Erfoud|NO|stars_4
+232277|Riad Etoile d'Essaouira|Essaouira|NO|stars_2
+232280|Riad Ibn Khaldoun|Fes|NO|stars_2.5
+232283|Riad Heritage|Marrakesch|NO|stars_4
+232287|Riad Al Badia|Marrakesch|NO|stars_4
+232288|Dar Loula|Marrakesch|NO|stars_4
+232289|Riad Aladdin|Marrakesch|NO|stars_4
+232290|Les Orangers D'Alilia|Marrakesch|NO|stars_3
+232291|Zalagh Kasbah & Spa|Marrakesch|NO|stars_4
+232592|Pickalbatros Aqua Fun Club Marrakech|Marrakesch|NO|stars_5
+232887|Dar Ouali|Marrakesch|YES|stars_3
+233537|Hamada Du Draa Relais|Zagora|NO|stars_3
+233538|Riad Lalla Calipau|Marrakesch|NO|stars_5
+233539|El Hadna|Marrakesch|NO|stars_3
+233540|Riad O|Marrakesch|NO|stars_4.5
+233541|Riad Vendôme & Spa|Marrakesch|NO|stars_4
+233545|Bab Rimal|Zagora|NO|stars_3
+233547|Riad Anda|Aoulouz|NO|stars_3
+233549|Riad Auberge Assounfou|Tiznit|NO|stars_2
+233553|Enasma|Casablanca|NO|stars_3
+233554|Majestic|Casablanca|NO|stars_3
+233555|Salim|Casablanca|NO|stars_3
+233556|Guynemer|Casablanca|NO|stars_3
+233601|Auberge Kasbah Meteorite|Alnif|NO|stars_3
+233602|Palmeraie|Ouarzazate|YES|stars_3
+233605|Dolce Vita Thalasso|Temara|NO|stars_4
+233606|Texuda|Rabat|NO|stars_3
+234511|Menzeh Fes|Fes|YES|stars_4
+234552|Kasbah Hajja|Ait Ben Haddou|NO|stars_4
+234557|Auberges Des Gorges Du Dades|Tinerhir|NO|stars_3
+234558|Vieux Château du Dadès|Ouarzazate|NO|stars_3
+234844|Riad Alida|Marrakesch|NO|stars_3.5
+235053|Kasbah Leila|Merzouga|NO|stars_4
+235054|Ryad Le Mechouar|Essaouira|NO|stars_2.5
+235055|Dar Sohane|Marrakesch|NO|stars_4
+235057|Riad Caesar|Marrakesch|NO|stars_3.5
+235062|Dar Eddaya|Rabat|NO|stars_4
+235217|Riad Esprit du Maroc|Marrakesch|NO|stars_5
+235409|Riad Ailen|Marrakesch|NO|stars_4
+235413|Riad Dubai|Marrakesch|NO|stars_4
+235414|Golden Tulip Andalucia Golf Tanger|Tanger|YES|stars_5
+235416|Riad Roukaya|Marrakesch|NO|stars_4
+235417|Riad Tigmi El Janoub|Ouarzazate|NO|stars_4
+235565|Azoul|Ouarzazate|NO|stars_3
+235566|Dar Meryem|Marrakesch|NO|stars_4
+235567|Domaine Tarik|Marrakesch|NO|stars_5
+235570|Jaimas Chez Naji Chegaga|Zagora|NO|stars_4
+235572|Shems Moon Suite & Spa|Marrakesch|NO|stars_4
+235585|Kasbah Didis|Tinerhir|NO|stars_4
+235586|Kasbha El Mahdaoui|Ouarzazate|NO|stars_2
+235588|Riad Chorfa|Marrakesch|NO|stars_5
+235589|Noramed|Ouarzazate|NO|stars_2
+235590|Palais Targa|Marrakesch|NO|stars_5
+236149|Riads Lotus - Ambre / Perle / Privilege / Omarine|Marrakesch|NO|stars_5
+236256|Kasbah Tabelkoukt|Mirleft|NO|stars_3
+236257|Atlantic|Agadir|YES|stars_3
+236258|La Tour De Toile|Taroudant|NO|stars_2
+236584|Riad Bahja|Marrakesch|NO|stars_4
+236645|Moroccan House Casablanca|Casablanca|NO|stars_3
+236650|New Farah|Agadir|NO|stars_3
+236819|Art Suites El Jadida|El Jadida|NO|stars_4
+236820|Palais des Remparts|Essaouira|NO|stars_5
+236821|Riad Lalla Zoubida|Fes|NO|stars_2
+236823|Riad Reda|Fes|NO|stars_5
+236826|Auberge Toda Kalaat|Ouarzazate|NO|stars_2
+236830|Riad Ksar Ighnda|Ait Ben Haddou|NO|stars_5
+236831|Dar Jameel|Tanger|NO|stars_2
+236833|Casa Annasr|Chefchaouen|NO|stars_2
+236834|Kasbah Oulad Othmane|Ouarzazate|NO|stars_3
+236836|Dar Naciria|Marrakesch|NO|stars_4
+236837|Oliveraie de Marigha|Asni|NO|stars_3.5
+236846|Dar Al Assad|Marrakesch|NO|stars_5
+236847|Les Trois Palmiers|Marrakesch|NO|stars_3
+236848|Villa du Lac - Marrakech|Marrakesch|NO|stars_4
+237136|Sofitel Essaouira Mogador Golf & Spa|Essaouira|NO|stars_5
+237592|Littoral Auberge|Agadir|NO|stars_2
+237593|Art Palace & Spa|Casablanca|YES|stars_5
+237595|Les Saisons|Casablanca|NO|stars_4
+237596|Dar Grenadine|Skoura|NO|stars_2
+237597|Kasbah Azalay|Zagora|NO|stars_5
+237814|Four Seasons Marrakech|Marrakesch|NO|stars_5
+237830|Riad Hcekarram|Marrakesch|NO|stars_3
+237875|Riad Dar Donab|Marrakesch|NO|stars_4.5
+237877|Riad Villa Blanche|Agadir|NO|stars_4
+238318|Les Palmiers|Agadir|NO|stars_2
+238319|Casablanca|Casablanca|NO|stars_3
+238320|Dar Zman|Chefchaouen|NO|stars_2
+239436|Gite Mentaga|Taroudant|NO|0
+239437|Hacienda Martil|Tetouan|NO|stars_3
+239438|Dar Catalina|Marrakesch|NO|stars_4
+239439|Les Jardins de l'Agdal & SPA|Marrakesch|NO|stars_5
+239440|Chems|Marrakesch|NO|stars_4
+239441|Idrissides Premium Urban Club|Marrakesch|NO|stars_4
+239453|Kasbah Amridil|Skoura|NO|stars_2
+239455|Al Baraka Des Loisirs|Ouarzazate|NO|stars_3
+239843|Lodge K|Marrakesch|NO|stars_5
+239844|Le Doge|Casablanca|NO|stars_5
+239897|Bab Al Bahar Hotel & Spa|Dakhla (Dajla)|NO|stars_4
+239898|Les Jardins de Skoura|Skoura|NO|stars_3.5
+239904|Marrakech Garden|Marrakesch|NO|stars_5
+239973|Sahara Regency|Dakhla (Dajla)|NO|stars_4
+239974|Mumtaz Mahal|Essaouira|NO|stars_3.5
+239975|Du Louvre|Casablanca|NO|stars_3
+240062|Palmeraie Palace & Hotel Du Golf - Hotel du Golf|Marrakesch|NO|stars_5
+240065|Riad Terra Bahia|Marrakesch|NO|stars_4
+240066|Riad Paula|Marrakesch|NO|stars_3
+240212|Riad Chergui|Marrakesch|NO|stars_4
+240213|Ryad Amiran|Marrakesch|NO|stars_4.5
+240214|Ryads Al Maaden Medina & Golfs Resort|Marrakesch|NO|stars_5
+241757|Riad Andalib|Fes|NO|stars_4
+241815|Dar Sabra Resort & Spa|Marrakesch|NO|stars_4
+242293|Riad Tafilag|Taroudant|NO|stars_4
+245178|Riu Palace Tikida Agadir|Agadir|NO|stars_5
+247117|Sofitel Thalassa Sea & Spa|Agadir|NO|stars_5
+247395|Cesar Resort & Spa|Marrakesch|NO|stars_5
+247480|Riad Shaloma|Marrakesch|NO|stars_4
+248626|Bo Hotel & Spa|Agadir|NO|stars_3
+249126|Riad Viva|Marrakesch|NO|stars_5
+249430|Adam Park|Marrakesch|NO|stars_5
+249431|Red Hotel Marrakech|Marrakesch|NO|stars_3
+249651|Opera Plaza|Marrakesch|NO|stars_4
+259373|Almas|Marrakesch|NO|stars_3
+259514|Paradis Plage Surf, Yoga & Spa Resort|Agadir|NO|stars_5
+259672|Residence Bab Aourir|Aourir|NO|0
+259673|Le Jardin des Biehn|Fes|NO|stars_4
+259674|Riad Shemsi|Marrakesch|NO|stars_3
+260426|Riad Nashira & Spa|Marrakesch|NO|stars_5
+260580|Pullman Marrakech Palmeraie Resort & Spa|Marrakesch|NO|stars_5
+260736|Palais Namaskar Marrakech|Marrakesch|NO|stars_5
+260756|Riad Dar Foundouk|Marrakesch|NO|stars_4
+260867|Sofitel Casablanca Tour Blanche|Casablanca|NO|stars_5
+261063|Omega Agadir|Agadir|NO|stars_4
+261439|Riad Palais Ommeyad|Fes|NO|stars_5
+261456|Villa Makassar|Marrakesch|NO|stars_5
+261606|Riad Said|Fes|NO|stars_4
+261607|Riad Layla|Fes|NO|stars_4
+261619|La Pause|Agafay|NO|0
+261627|Chergui|Erfoud|NO|stars_3.5
+262351|Palais Jena|Marrakesch|NO|stars_4
+262353|Jet Eldo La Palmeraie|Marrakesch|NO|stars_4
+262371|Royal Mirage Marrakech|Marrakesch|YES|stars_4
+265591|Caribbean Village Agador & El Pueblo Tamlelt - Caribbean Village Agador|Agadir|NO|stars_3
+265592|Caribbean Village Agador & El Pueblo Tamlelt - El Pueblo Tamlelt|Agadir|NO|stars_3
+266645|Riad Dar More|Marrakesch|NO|stars_4
+266707|Villa Vanille|Marrakesch|NO|stars_3.5
+266741|Dar Zouhour|Rabat|NO|stars_3
+272384|Les Jardins de Villa Maroc|Essaouira|NO|stars_3
+272455|Barcelo Fes Medina|Fes|NO|stars_4
+272458|Palais Amani|Fes|YES|stars_5
+272459|Palais Faraj Suites & Spa|Fes|NO|stars_5
+277366|Kasbah Ait Ben Damiette|Skoura|NO|stars_4
+277889|Atlas Marina Beach Suites & Spa|Agadir|NO|stars_5
+277902|Selman Marrakech|Marrakesch|NO|stars_5
+277911|Ibis Tanger City Center|Tanger|NO|stars_3
+279690|Palais Medina & Spa|Fes|NO|stars_5
+285209|Golden Tulip Rawabi Marrakech|Marrakesch|YES|stars_4
+285213|Riad Bab Marrakech|Marrakesch|NO|0
+290728|Xaluca Dades|Boumalne Dadès|NO|stars_4
+295681|Cesar & Spa|Tanger|NO|stars_4
+296696|Riad Al Khansaa|Essaouira|NO|stars_4
+296697|Tigimiza Suites & Pavillons|Marrakesch|NO|stars_5
+296863|Sofitel Marrakech - Lounge & Spa / Palais Imperial|Marrakesch|NO|stars_5
+296882|Secret Garden|Marrakesch|NO|stars_5
+297283|Mosaic Palais Aziza|Marrakesch|NO|stars_5
+300208|Riad Zolah|Marrakesch|NO|stars_4
+302301|Riad Hamdane & Spa|Marrakesch|NO|stars_4
+302545|Riad Swaka|Marrakesch|NO|stars_4
+310885|The Pearl Marrakech|Marrakesch|NO|stars_5
+310942|Es Saadi Gardens & Resorts - The Hotel|Marrakesch|YES|stars_5
+311126|Ocean Vagabond|Dakhla (Dajla)|NO|stars_3
+314857|Meriem|Marrakesch|NO|stars_4
+332498|La Perle Du Dades|Boumalne Dadès|NO|stars_3
+354514|Grace Hotel Marrakech|Marrakesch|NO|stars_5
+359846|Riad Ain Marrakech|Marrakesch|NO|stars_5
+364054|Palais de l'O|Marrakesch|NO|stars_5
+364109|Karam Palace|Ouarzazate|NO|stars_4
+366688|Les Jardins D'Argane|Essaouira|NO|stars_4
+367093|Le Trianon Luxury Hotel & Spa|Casablanca|NO|stars_4
+372504|Beachcomber Royal Palm|Marrakesch|NO|stars_5
+373015|Club Marmara Madina|Marrakesch|NO|stars_4
+373028|Riad dar Alhambra|Marrakesch|NO|stars_4
+400961|Gray Boutique Hotel & Spa|Casablanca|NO|stars_5
+401097|Kech Boutique Hotel & Spa|Marrakesch|NO|stars_4
+401442|Grand Mogador Tanger|Tanger|NO|stars_5
+401450|Algilà Fes Medina Charme Hotel|Fes|NO|stars_5
+401451|Riad Alkaderi|Marrakesch|NO|stars_5
+401452|Riad Cle De Sol|Marrakesch|NO|stars_5
+401479|Ramada Encore Tangier|Tanger|NO|stars_3
+401554|Palais Medali|Tameslouht|NO|stars_5
+404408|Luabay Marrakech Palmeraie Adults Only & Spa|Marrakesch|NO|stars_5
+405207|Riad Braya|Fes|YES|0
+405915|Riad Fatouma|Marrakesch|NO|stars_4
+406216|Riad Qodwa|Marrakesch|NO|stars_4
+406235|Rive Hôtel|Rabat|NO|stars_4
+408580|Medina Gardens|Marrakesch|NO|stars_4
+409183|Riad La Parenthese|Marrakesch|NO|stars_4
+411806|Be Live Marrakesch|Marrakesch|NO|stars_4
+411837|Lunja Village|Agadir|NO|stars_4
+412311|Riad 72 & Riad Due - Riad Due|Marrakesch|NO|0
+413032|Mandarin Oriental Marrakech|Marrakesch|NO|stars_5

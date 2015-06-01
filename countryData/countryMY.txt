@@ -1,0 +1,451 @@
+6983|Capitol|Kuala Lumpur|YES|stars_3
+8069|Aseania Resort Langkawi|Pantai Tengah|NO|stars_3
+8623|Bayview Beach Resort|Batu Ferringgi|YES|stars_4
+8634|Beach Garden Resort|Pantai Cenang|NO|stars_2
+8841|Beringgis Beach Resort & Spa|Papar|YES|stars_3
+8845|The Palace|Kota Kinabalu|YES|stars_4
+8846|The Taaras Beach & Spa Resort|Redang|YES|stars_4
+8847|Berjaya Tioman Resort|Tioman|YES|stars_4
+10258|The Royale Bintang|Kuala Lumpur|YES|stars_4
+10332|Holiday Villa Beach Resort & Spa Cherating|Cherating|NO|stars_3.5
+10990|Riverside Majestic|Kuching|YES|stars_4
+10991|Crown Princess|Kuala Lumpur|YES|stars_4.5
+11726|Dorsett Regency|Kuala Lumpur|YES|stars_4
+12155|Equatorial Penang|Penang Island|YES|stars_5
+12400|Bintang Fairlane Residence Bukit Bintang|Kuala Lumpur|YES|stars_4
+12459|Federal Villa Beach Resort|Pantai Tengah|YES|stars_3
+13165|Gem Beach Resort|Kuala Terengganu|YES|stars_3
+13430|Grand Continental|Kuala Lumpur|YES|stars_3
+13431|Grand Continental|Kuching|YES|stars_3
+13500|Grand Pacific|Kuala Lumpur|NO|stars_3
+13979|Batang Ai Longhouse Resort, Managed by Hilton|Lubok Antu|YES|stars_3.5
+14100|Holiday Inn Resort Penang|Penang Island|YES|stars_4
+14104|Holiday Inn Kuala Lumpur Glenmarie|Shah Alam|YES|stars_4
+14173|Damai Beach Resort|Damai Beach|YES|stars_4
+14174|Damai Puri Resort & Spa|Damai Beach|YES|stars_4
+14255|Grand Margherita|Kuching|YES|stars_4
+14506|Hyatt Regency Kinabalu|Kota Kinabalu|YES|stars_5
+14507|Hyatt Regency Kuantan Resort|Kuantan|YES|stars_4.5
+14753|Impiana KLCC|Kuala Lumpur|YES|stars_4
+14754|Impiana Resort Cherating|Kuantan|YES|stars_4
+14964|Istana|Kuala Lumpur|YES|stars_5
+15142|JW Marriott|Kuala Lumpur|YES|stars_5
+15564|Kuching Hilton|Kuching|YES|stars_5
+15923|Holiday Villa Beach Resort & Spa|Pantai Tengah|YES|stars_4
+16749|Mandarin Oriental Kuala Lumpur|Kuala Lumpur|YES|stars_5
+17366|Merdeka Palace|Kuching|YES|stars_4.5
+17492|Corus Kuala Lumpur|Kuala Lumpur|YES|stars_4
+17779|Mutiara Burau Bay Resort|Langkawi|YES|stars_3
+17957|Nexus Resort|Karambunai|YES|stars_4.5
+18062|Copthorne Orchid Penang|Penang Island|YES|stars_4
+18585|Sama-Sama Hotel Kuala Lumpur International Airport|Sepang|YES|stars_4.5
+18595|Pangkor Laut Resort/Estates|Pangkur|YES|stars_5
+18684|Rainbow Paradise Beach Resort|Tanjung Bungah|YES|stars_4
+18788|Hotel Soleil Kuala Lumpur|Kuala Lumpur|YES|stars_3
+18911|Meritus Pelangi Beach Resort & Spa|Pantai Cenang|YES|stars_5
+18927|Intercontinental Mutiara Beach Resort Penang|Teluk Bahang|NO|stars_5
+18953|Perhentian Island Resort|Insel Perhentian Besar|YES|stars_3
+19443|Primula Beach|Kuala Terengganu|YES|stars_4
+19576|Quality City Center|Kuala Lumpur|YES|stars_4
+20142|Renaissance Kuala Lumpur|Kuala Lumpur|YES|stars_5
+20395|The Ritz-Carlton Kuala Lumpur|Kuala Lumpur|YES|stars_5
+20698|Mulu Marriott Resort & Spa|Royal Mulu|YES|stars_4.5
+21019|Sabah Sandakan|Sandakan|YES|stars_4
+21464|Shangri-La|Kuala Lumpur|YES|stars_5
+21468|Shangri-La Golden Sands Resort|Batu Ferringgi|YES|stars_4
+21471|Shangri-La's Rasa Ria Resort & Spa Kota Kinabalu|Kota Kinabalu|YES|stars_5
+21472|Shangri-La Rasa Sayang Resort & Spa|Batu Ferringgi|YES|stars_5
+21474|Shangri-La's Tanjung Aru Resort & Spa|Kota Kinabalu|YES|stars_5
+21537|Sheraton Imperial|Kuala Lumpur|YES|stars_5
+21545|Sheraton Langkawi Beach & Resort|Teluk Nibong|YES|stars_5
+22397|Sunway Pyramid|Petaling Jaya|YES|stars_4
+22442|Swiss-Garden Hotel & Residences|Kuala Lumpur|YES|stars_4
+22443|Swiss Garden Beach Resort Kuantan|Kuantan|YES|stars_4
+22445|Swiss-Inn Kuala Lumpur|Kuala Lumpur|YES|stars_3
+22534|Tanjong Jara Resort|Dungun|YES|stars_5
+22535|Tanjung Rhu Resort|Langkawi|YES|stars_5
+22673|The Andaman|Datai Bay|YES|stars_5
+22677|Royale Aryani|Merang|YES|stars_4
+22735|The Datai|Langkawi|YES|stars_5
+22819|The Lanai Beach Resort|Pantai Tengah|NO|stars_3
+22837|Sutera Harbour Resorts - The Magellan|Kota Kinabalu|YES|stars_5
+22897|Seri Pacific|Kuala Lumpur|YES|stars_4
+22902|Pangkor Island Beach Resort|Pangkur|YES|stars_4
+22935|The Promenade|Kota Kinabalu|YES|stars_4
+22957|Grand Millennium|Kuala Lumpur|YES|stars_5
+27301|Casa del Mar|Langkawi|YES|stars_4
+27955|Carcosa Seri Negara|Kuala Lumpur|YES|stars_5
+27956|Teluk Dalam Resort|Pangkur|YES|stars_3
+27957|Lone Pine|Batu Ferringgi|YES|stars_4.5
+30568|Equatorial|Kuala Lumpur|YES|stars_4
+31784|The Westin Langkawi Resort & Spa|Langkawi|YES|stars_5
+35282|Melia Kuala Lumpur|Kuala Lumpur|YES|stars_4
+39067|Club Med Cherating Beach|Cherating|NO|stars_4
+40608|Eastern Pavillion Boutique Resort & Spa Cherating|Cherating|YES|stars_4
+46559|Bayview Georgetown Penang|Penang Island|YES|stars_4
+46563|Flamingo Hotel by the Beach|Penang Island|YES|stars_4
+46567|Federal|Kuala Lumpur|YES|stars_4
+46572|Parkroyal Penang|Penang Island|YES|stars_4
+46575|Laguna Redang Island|Redang|YES|stars_3
+46583|Prince Hotel & Residence|Kuala Lumpur|YES|stars_5
+46588|Swiss-Garden Resort Damai Laut|Lumut|YES|stars_4
+47495|Eastern & Oriental Penang|Penang Island|YES|stars_5
+47496|Royal Penang|Penang Island|YES|stars_4
+47497|Four Seasons Resort Langkawi|Langkawi|YES|stars_5
+47498|Langkawi Lagoon Resort|Langkawi|YES|stars_4
+47499|Palace of the Golden Horses|Kuala Lumpur|YES|stars_5
+47501|Kota Bahru Renaissance|Kota Bharu|YES|stars_5
+47502|Puteri Pacific|Johor Bahru|YES|stars_5
+47503|Sibu Island Resort|Sibu Tengah|NO|stars_4
+52345|Dynasty|Kuala Lumpur|YES|stars_3
+52361|Parkroyal|Kuala Lumpur|YES|stars_5
+52362|The Westin Kuala Lumpur|Kuala Lumpur|YES|stars_5
+53051|Hilton|Kuala Lumpur|YES|stars_5
+53774|D-Villa Residence (ex. Holiday Villa Apartment Suites Kuala Lumpur)|Kuala Lumpur|YES|stars_3
+59253|Vistana|Penang Island|YES|stars_4
+60893|Mutiara Taman Negara Resort|Taman Negara-National Park|YES|stars_3.5
+60902|Sunset Beach Resort|Langkawi|NO|stars_2
+61577|Vistana|Kuala Lumpur|YES|stars_3.5
+62869|The Lakehouse|Cameron Highlands|YES|stars_4
+62945|Ye Olde Smokehouse|Fraser''s Hill|NO|stars_3
+62966|Crowne Plaza Mutiara Kuala Lumpur - geschlossen|Kuala Lumpur|YES|stars_5
+63159|Sepilok Nature Resort|Sandakan|YES|stars_1.5
+63383|Four Points Penang|Penang Island|YES|stars_4
+63478|Berjaya Langkawi Resort|Langkawi|YES|stars_4
+63481|Langkawi Village Resort|Langkawi|NO|stars_3
+63552|Resorts World Kijal|Kijal Beach|NO|stars_4
+63553|Bubu Long Beach Resort|Perhentian|NO|stars_3
+64525|Sipadan Kapalai Dive Resort|Sipadan|NO|stars_3.5
+64528|Lankayan Island Resort|Insel Lankayan|NO|stars_3.5
+64569|The Club Saujana Resort|Shah Alam|YES|stars_5
+65902|Hilton Petaling Jaya|Petaling Jaya|YES|stars_5
+68651|Japamala Resort|Tioman|YES|stars_3.5
+68738|Le Meridien Kota Kinabalu|Kota Kinabalu|YES|stars_5
+72000|Cameron Highlands Resort|Cameron Highlands|YES|stars_4.5
+72244|Vivanta by Taj - Rebak Island|Langkawi|YES|stars_5
+72541|Sutra Beach Resort|Merang|YES|stars_3
+72627|Permai Rainforest Resort|Kuching|NO|stars_3
+72640|Manukan Island Resort|Manukan Island|YES|stars_2
+72684|Tanjung Sanctuary Resort|Langkawi|NO|stars_4
+73086|Sipadan-Mabul Resort|Insel Mabul|NO|stars_3.5
+73142|Strawberry Park Resort|Tanah Rata|YES|stars_4
+73143|Hotel Equatorial Melaka|Malacca|YES|stars_4.5
+75578|Ancasa Hotel & Spa Kuala Lumpur|Kuala Lumpur|YES|stars_3
+75586|Frangipani Langkawi Resort|Pantai Tengah|YES|stars_3.5
+76168|Boulevard|Kuala Lumpur|YES|stars_4
+77041|Concorde Inn Kuala Lumpur International Airport|Sepang|YES|stars_3
+77356|Novotel City Center|Kuala Lumpur|YES|stars_4
+77357|Resorts World Langkawi|Langkawi|YES|stars_3
+78178|Le Meridien|Kuala Lumpur|YES|stars_5
+78179|Pacific Regency|Kuala Lumpur|YES|stars_5
+78992|Gayana Eco Resort|Gaya Island|YES|stars_5
+79894|The Reef Dive Resort Mataking Island|Tawau|NO|stars_4
+80013|Berjaya Times Square|Kuala Lumpur|YES|stars_4.5
+80767|Hydro Penang|Penang Island|YES|stars_4
+80891|Kapas Island Resort|Kapas|NO|stars_3
+81882|Heritage|Cameron Highlands|YES|stars_3.5
+82166|Ramada Plaza Melaka|Malacca|YES|stars_4.5
+82167|Thistle Johor Bahru|Johor Bahru|YES|stars_4.5
+82174|Cititel Mid Valley|Kuala Lumpur|YES|stars_3
+82245|Park City Everly|Miri|YES|stars_4
+82357|Evergreen Laurel|Penang Island|YES|stars_5
+82358|Cititel Penang|Penang Island|YES|stars_4
+82359|Traders Penang|Penang Island|YES|stars_4
+82362|Mahkota|Malacca|YES|stars_4
+82363|MiCasa|Kuala Lumpur|YES|stars_5
+82667|Bayview Melaka|Malacca|YES|stars_4
+82668|Gurney Resort|Penang Island|YES|stars_4
+82669|Grand Continental Penang|Penang Island|YES|stars_3
+82670|Mines Wellness|Kuala Lumpur|YES|stars_5
+82682|Layang Layang Island Resort|Layang-Layang|NO|stars_3
+84363|Lanson Place Ambassador Row Serviced Residences|Kuala Lumpur|YES|stars_4
+85017|Blue Bay Resort|Lumut|YES|stars_3
+85018|The Zon All Suites Residences on the Park|Kuala Lumpur|YES|stars_4
+85202|Traders Kuala Lumpur|Kuala Lumpur|YES|stars_4
+85203|Avillion Port Dickson|Port Dickson|YES|stars_4
+85204|Bayview Langkawi|Langkawi|YES|stars_4
+85624|Sabah Oriental|Kota Kinabalu|YES|stars_3.5
+85625|Mutiara Johor Bahru|Johor Bahru|YES|stars_4
+85626|Concorde Kuala Lumpur|Kuala Lumpur|YES|stars_4
+85714|Nova|Kuala Lumpur|YES|stars_3
+85715|Puri Melaka|Malacca|YES|stars_3
+85716|Grand Continental|Kuantan|YES|stars_3
+85720|Holiday Villa Hotel & Suites Subang|Subang Jaya|YES|stars_4.5
+85723|Bon Ton Resort Langkawi|Pantai Tengah|YES|stars_4
+86037|Sunway Georgetown|Penang Island|YES|stars_4
+86546|Grand Continental|Kuala Terengganu|YES|stars_3.5
+86934|The Legend Cherating Resort|Kuantan|YES|stars_4
+86935|Pearl International|Kuala Lumpur|YES|stars_4
+87278|Resorts World Genting - Awana Hotel|Genting Highlands|YES|stars_5
+87281|First World|Genting Highlands|YES|stars_3
+87283|Genting Grand Hotel|Genting Highlands|YES|stars_4.5
+87284|Grand Seasons|Kuala Lumpur|YES|stars_4
+87286|Excelsior|Perak|YES|stars_3
+87291|Pulai Desaru Beach|Johor Bahru|YES|stars_4
+87294|PNB Darby Park Executive Suites|Kuala Lumpur|YES|stars_4
+87296|Highlands|Genting Highlands|YES|stars_3.5
+87298|Theme Park|Genting Highlands|YES|stars_3
+88049|Colmar Tropicale Berjaya Hills|Bukit Tinggi|YES|stars_4
+88055|Heritage Ipoh|Ipoh|YES|stars_3
+88056|Syuen|Ipoh|YES|stars_4
+88060|Berjaya Waterfront|Johor Bahru|YES|stars_4.5
+88063|Grand Crystal|Alor Setar|NO|stars_3
+88065|Swiss-Inn Sungai Petani|Sungai Petani|NO|stars_3
+88067|Grand Riverview|Kota Bharu|YES|stars_4
+88077|Grand Central|Kuala Lumpur|NO|stars_2.5
+88080|Midah|Kuala Lumpur|YES|stars_3
+88082|InterContinental Kuala Lumpur|Kuala Lumpur|YES|stars_5
+88092|Ariva Gateway Kuching|Kuching|NO|stars_4
+88096|Ascott Kuala Lumpur|Kuala Lumpur|YES|stars_5
+88103|Grand Continental Langkawi|Kuah|YES|stars_3
+88104|One Helang|Langkawi|YES|stars_3.5
+88106|Kampung Tok Senik|Langkawi|YES|stars_3
+88111|Sentral Melaka|Malacca|YES|stars_3
+88118|Cheong Fatt Tze Mansion - ab April 2014 The Blue Mansion|Penang Island|YES|stars_3.5
+88358|Putrajaya Shangri-La|Putrajaya|YES|stars_5
+90157|Marriott Putrajaya|Putrajaya|YES|stars_5
+90158|Northam All Suites|Penang Island|YES|stars_4
+90160|Georgetown City|Penang Island|YES|stars_4
+90161|Miri Marriott Resort & Spa|Miri|YES|stars_4.5
+90170|Sunway Seberang Jaya|Penang Island|YES|stars_4
+90173|Perdana|Kota Bharu|YES|stars_4
+91050|Mandarin Court|Kuala Lumpur|YES|stars_3
+91052|Lake Kenyir Resort|Pengkalan Gawi|YES|stars_3
+91053|Bukit Merah Laketown Resort|Simpang Empat|YES|stars_3.5
+91054|Pulai Springs Resort - Anugraha Boutique / Cinta Ayu All Suites|Johor Bahru|YES|stars_4
+91055|Langkasuka|Langkawi|YES|stars_3
+91056|Selesa Johor Bahru|Johor Bahru|YES|stars_4
+91069|Naza Talyya Penang|Tanjung Tokong|YES|stars_3
+91723|Malaya|Kuala Lumpur|YES|stars_2.5
+91725|Tanahmas The Sibu|Sarawak|YES|stars_3
+91727|Desaru Golden Beach|Johor Bahru|YES|stars_3
+91728|Cyberview Lodge Resort & Spa|Kuala Selangor|YES|stars_5
+91947|The Nomad Sucasa|Kuala Lumpur|YES|stars_4
+92072|Jerejak Resort and Spa|Pulau Jerejak|YES|stars_3.5
+92454|Tuaran Beach Resort|Kota Kinabalu|NO|stars_2
+92852|The Majestic|Malacca|YES|stars_5
+93916|Alpha Genesis|Kuala Lumpur|YES|stars_3
+94497|Le Grandeur Palm Resort Johor|Johor Bahru|YES|stars_5
+94543|Grand Dorsett Subang|Subang Jaya|YES|stars_5
+95242|Maya|Kuala Lumpur|YES|stars_5
+95491|Cititel Express|Kuala Lumpur|YES|stars_3
+95686|G Hotel Gurney|Penang Island|YES|stars_5
+99532|One World|Petaling Jaya|YES|stars_5
+99533|Brisdale|Kuala Lumpur|YES|stars_3
+100177|Mesilau Nature Resort|Kinabalu Nationalpark|NO|stars_3
+101570|Suria Cherating Beach Resort|Cherating|NO|stars_3
+102239|The Royale Bintang The Curve|Petaling Jaya|NO|stars_3.5
+102350|Seri Malaysia Kulim|Kulim|YES|stars_2
+102352|Corona Inn|Kuala Lumpur|YES|stars_3
+102353|The Gardens Hotel & Residences|Kuala Lumpur|YES|stars_5
+103526|The Piccolo|Kuala Lumpur|YES|stars_4
+103527|Royal Kuala Lumpur|Kuala Lumpur|YES|stars_4
+103528|Holiday Inn|Malacca|YES|stars_4
+106400|Concorde Shah Alam|Shah Alam|YES|stars_4
+106799|Eastin|Kuala Lumpur|YES|stars_4
+109901|Quality Shah Alam|Shah Alam|NO|stars_4
+110605|Grand Borneo|Kota Kinabalu|YES|stars_4
+111261|The Summit Subang USL|Petaling Jaya|NO|stars_4
+125322|Copthorne Hotel Cameron Highlands|Cameron Highlands|YES|stars_4
+129726|Everly Resort|Malacca|YES|stars_4
+129729|Sandakan|Sandakan|NO|stars_3
+132761|Impiana Ipoh|Ipoh|YES|stars_4
+132764|Somerset Seri Bukit Ceylon|Kuala Lumpur|NO|stars_4
+132766|Merang Suria Resort|Kuala Terengganu|YES|stars_3
+132768|Naza Talyya|Malacca|YES|stars_3
+132770|Equatorial Bangi|Putrajaya|YES|stars_5
+134305|Silka Maytower Kuala Lumpur|Kuala Lumpur|YES|stars_3.5
+134306|Century Pines Resort|Cameron Highlands|YES|stars_3.5
+137119|Avillion Legacy|Malacca|YES|stars_4
+137448|D'Oriental Inn|Kuala Lumpur|YES|stars_2
+137593|Geopark|Burau Bay|NO|stars_2
+138534|Flamingo by The Lake|Kuala Lumpur|YES|stars_3
+142007|Grand Blue Wave Shah Alam|Kuala Selangor|YES|stars_4
+143759|Belum Rainforest Resort|Banding Island|NO|stars_3
+145024|The Royale Chulan|Kuala Lumpur|YES|stars_5
+145244|360 Urban Resort Hock Lee Center|Kuching|NO|stars_3.5
+145245|Four Points Kuching|Kuching|YES|stars_4
+145322|Pom Pom Island Resort|Pom Pom Island|NO|stars_3
+157267|Silka Johor|Johor Bahru|YES|stars_3
+159562|Best Western Kinabalu Daya|Kota Kinabalu|NO|stars_3
+159591|Citrus|Kuala Lumpur|YES|stars_3
+159630|Duta Vista Suites|Kuala Lumpur|YES|stars_3
+159648|Grand Dorsett Labuan|Labuan|YES|stars_5
+159754|Novotel 1Borneo|Kota Kinabalu|YES|stars_4
+159780|Pullman Putrajaya Lakeside|Putrajaya|NO|stars_5
+159878|The Saujana|Shah Alam|YES|stars_5
+163470|Rega Lodge|Ipoh|YES|stars_2
+163473|Bunga Raya Island Resort & Spa|Kota Kinabalu|YES|stars_5
+182516|De Rhu Beach Resort|Kuantan|YES|stars_3
+183691|AVANI Sepang Goldcoast Resort|Sepang|NO|stars_5
+187832|Hard Rock Penang|Penang Island|YES|stars_4
+188061|Serai di Lanjut|Rompin|NO|0
+196031|Suria City Johor Bahru|Johor Bahru|YES|stars_3
+201313|The Kudat Riveria|Kudat|NO|0
+201660|Fraser Place|Kuala Lumpur|YES|stars_5
+201732|Waterfront Labuan Financial|Labuan|NO|stars_4
+201733|Rosa Passadena|Cameron Highlands|NO|stars_3
+201734|Coral View Island Resort|Insel Perhentian Besar|NO|stars_2.5
+202547|Cititel Express Kota Kinabalu|Kota Kinabalu|YES|stars_3
+203194|Starpoints Kuala Lumpur|Kuala Lumpur|YES|stars_3
+203195|Eastin Penang|Penang Island|YES|stars_4
+203437|Pullman Kuching|Kuching|NO|stars_5
+204567|Ancasa Allsuites Resort & Spa|Port Dickson|NO|stars_3.5
+207119|Celyn|Kota Kinabalu|NO|stars_3
+207324|China Town Inn|Kuala Lumpur|NO|stars_2
+207378|Citin Langkawi|Kuah|NO|stars_3
+207379|Citin Masjid Jamek|Kuala Lumpur|NO|stars_3
+213278|Likas Square Condotel|Kota Kinabalu|NO|stars_3
+214427|Sentral Johor Bahru|Johor Bahru|NO|stars_3
+214480|New York|Johor Bahru|NO|stars_3
+215485|Phoenix|Kuala Lumpur|NO|stars_2
+216440|Puteri Park|Kuala Lumpur|NO|stars_3
+217962|Sentral Kuala Lumpur|Kuala Lumpur|YES|stars_3
+218005|Shangri-La Kota Kinabalu|Kota Kinabalu|NO|stars_3
+219179|The Jesselton|Kota Kinabalu|NO|stars_3
+221539|Celyn Resort Kinabalu|Ranau|NO|stars_3
+222442|Histana|Klang|NO|stars_3
+227219|De La Ferns - Boutique Resort|Cameron Highlands|YES|stars_3
+227302|Sari Pacifica Resort & Spa, Redang|Redang|NO|stars_5
+227303|Sari Pacifica Sibu Island|Insel Sibu|NO|stars_4.5
+227323|Casa del Rio|Malacca|NO|stars_5
+227379|Anggun Kuala Lumpur|Kuala Lumpur|YES|stars_4
+227380|Avillion Admiral Cove|Port Dickson|YES|stars_3.5
+227464|The Danna Langkawi|Pantai Kok|NO|stars_5
+227980|MaluriI|Kuala Lumpur|YES|stars_3
+228029|Century Suria Service Apartment Langkawi|Kuah|YES|stars_3
+228737|Doubletree By Hilton Kualar Lumpur|Kuala Lumpur|NO|stars_5
+228926|Ri-Yaz Heritage Marina Resort & Spa|Kuala Terengganu|NO|stars_5
+229064|GTower|Kuala Lumpur|YES|stars_5
+229065|Bella Vista Resort & Spa Langkawi|Langkawi|NO|stars_3
+229976|Tune Hotel Downtown Penang|George Town|NO|stars_3
+229977|Tune Hotel 1Borneo Kota Kinabalu|Kota Kinabalu|NO|stars_3
+229979|Tune Hotel Downtown Kuala Lumpur|Kuala Lumpur|NO|stars_3
+229981|Tune Hotel Waterfront Kuching|Kuching|NO|stars_3
+229987|Tune Hotel KLIA-LCCT Airport|Sepang|NO|stars_3
+230516|De Palma Shah Alam|Shah Alam|NO|stars_3
+232176|Parkroyal Serviced Suites|Kuala Lumpur|NO|stars_4
+232913|B-Suite|Penang Island|NO|stars_3
+233110|Tower Regency Hotel & Apartments|Perak|NO|stars_3
+234236|Megah D'Aru|Kota Kinabalu|NO|stars_2.5
+234237|Eagle Bay|Langkawi|NO|stars_2
+234523|Palm Garden Ioi Resort|Putrajaya|NO|stars_4
+234524|Vistana|Kuantan|NO|stars_4
+235981|Ming Garden Hotel & Residences|Kota Kinabalu|NO|stars_4
+236497|Première|Klang|NO|stars_4
+236667|Somerset Ampang Kuala Lumpur|Kuala Lumpur|NO|stars_4
+236865|Gem Island Resort & Spa|Kuala Terengganu|NO|stars_3
+236866|Aseania Resort|Insel Besar|NO|stars_3
+236884|Four Points Langkawi Resort|Mukim Padang|YES|stars_4
+238148|The Banjaran Hotsprings Retreat|Ipoh|YES|stars_5
+238353|Courtyard Hotel @ 1Borneo|Kota Kinabalu|NO|stars_3
+238354|Sentral Pudu|Kuala Lumpur|NO|stars_3
+238356|Sri Tiara|Kuala Lumpur|NO|stars_4
+238359|Empire Subang|Kuala Lumpur|NO|stars_4
+238361|RH Hotel Sibu, Sarawak|Sibu|NO|stars_3
+238362|Abell|Kuching|NO|stars_3
+238364|Philea Resort & Spa|Malacca|NO|stars_5
+238365|Penaga|Penang Island|NO|stars_4
+238765|Sutera Harbour Resorts - The Pacific|Kota Kinabalu|YES|stars_5
+239288|Gaya Island Resort|Gaya Island|NO|stars_5
+239394|Furama Bukit Bintang|Kuala Lumpur|NO|stars_4
+239895|The Chateau Spa & Organic Wellness Resort|Bukit Tinggi|NO|stars_5
+240061|Horizon|Kota Kinabalu|NO|stars_4
+240439|M.S. Garden|Kuantan|NO|stars_4
+240444|Grand Blue Wave Johor Bahru|Johor Bahru|NO|stars_4
+241694|Lotus Desaru Beach Resort|Kota Tinggi|NO|stars_4
+241695|A'Famosa Resort|Malacca|NO|stars_4
+243568|Fahrenheit Suites|Kuala Lumpur|NO|stars_4
+243569|Suria Hill Country House|Bentong|NO|stars_3
+245190|Langkah Syabas Beach Resort|Kampung Laut Kinarut|NO|stars_2.5
+246198|Villa Samadhi|Kuala Lumpur|NO|stars_5
+246424|Best Western Sandakan Hotel & Residence|Sandakan|NO|stars_3
+246425|Kinabalu Park|Kundasang|NO|stars_3
+246426|Poring Hot Springs & Nature Reserve|Ranau|NO|stars_3
+246427|Bukit Gambang Resort City - Caribbean Bay Resort / Arabian Bay Resort / Global Heritage|Kuantan|NO|stars_4
+246428|Sentosa Regency|Alor Setar|NO|stars_3
+246431|Lost World|Ipoh|NO|stars_3
+246870|White Lodge Chalet|Langkawi|NO|stars_2
+247848|My Hotel Langkawi|Kuah|NO|stars_3
+247849|Bahagia|Kuah|NO|stars_3
+247850|Alamanda|Kuala Lumpur|NO|stars_2
+247851|Lipis Plaza|Kuala Lipis|NO|stars_2
+247852|Pontian Garden|Pontian|NO|0
+248156|Grand Hyatt Kuala Lumpur|Kuala Lumpur|NO|stars_5
+249361|Sepilok Jungle Resort|Sandakan|NO|stars_2
+249362|Frenz Kuala Lumpur|Kuala Lumpur|NO|stars_3
+249364|Charlie Motel Langkawi|Pantai Tengah|NO|stars_1
+259497|Favehotel Cenang Beach|Langkawi|NO|stars_2.5
+259498|Landcons|Pantai Cenang|NO|stars_2
+259499|Mali Perdana Resort|Pantai Cenang|NO|stars_2
+259501|The Maple Suite|Kuala Lumpur|NO|stars_3
+259502|Langkapuri Inn|Pantai Cenang|NO|stars_2
+259503|Delta Motel & Restaurant|Pantai Cenang|NO|stars_2
+259504|Tanjung Malie Beach Motel|Pantai Cenang|NO|stars_2
+259505|Shahzan Inn|Kuantan|NO|stars_3
+259506|Best Western Wana Riverside|Malacca|NO|stars_3
+259507|Havanita|Mersing|NO|stars_3
+259508|The Sterling|Malacca|NO|stars_3.5
+259509|Citrus Johor Bahru|Johor Bahru|NO|stars_3.5
+259510|Century Bay Service Suites|George Town|NO|stars_3.5
+260039|Terrapuri|Kampung Mangkuk|NO|stars_2
+260047|Tunamaya Beach & Spa Resort Tioman|Tioman|NO|stars_4
+260312|Damas Suites & Residences|Kuala Lumpur|NO|stars_4
+260313|Apple|Kuala Lumpur|NO|stars_2
+260314|Family|Klang|NO|stars_3
+260509|Four Points Sandakan|Sandakan|YES|stars_4
+261074|Kensington|Sandakan|NO|stars_2
+261075|Hsiang Garden|Sandakan|NO|stars_1
+261076|Central Sandakan|Sandakan|NO|stars_2
+261077|The Pavilion|Sandakan|NO|stars_3
+261078|M Joy|Kuala Lumpur|NO|stars_2
+261079|The Nomad Residences Bangsar|Kuala Lumpur|NO|stars_4
+261081|Ali Baba|Kuala Lumpur|NO|stars_2
+261083|D'New 1|Petaling Jaya|NO|stars_2
+261084|Golden Leaf|Johor Bahru|NO|stars_2
+261085|Here|Johor Bahru|NO|stars_2
+261086|OAK Valley Boutique|Johor Bahru|NO|stars_2
+261363|2inn1 Boutique Hotel & Spa|Sandakan|NO|stars_2
+261364|My Habitat Residence|Kuala Lumpur|NO|stars_4
+261365|AnCasa Express @ Pudu|Kuala Lumpur|NO|stars_2
+261366|One-Stop Serviced Residence|Kuala Lumpur|NO|stars_3
+261367|Zoom Inn Boutique|Johor Bahru|NO|stars_2
+261368|Grand Sentosa|Johor Bahru|NO|stars_3
+261555|Mabul Water Bungalow|Insel Mabul|NO|stars_3
+261884|Tune Hotel Bintulu|Bintulu|NO|stars_3
+261885|Tune Hotel Kulim|Kulim|NO|stars_3
+261886|Tune Hotel Kota Damansara|Petaling Jaya|NO|stars_3
+261887|Tune Hotel Ipoh|Ipoh|NO|stars_3
+261888|Tune Hotel Kota Bharu City Centre|Kota Bharu|NO|stars_3
+261890|Tune Hotel Danga Bay|Johor Bahru|NO|stars_3
+261894|Kulai City Inn|Kulai|NO|stars_2
+261899|Super 8|George Town|NO|stars_2
+261902|EQ Ferringhi|Batu Ferringgi|YES|stars_2.5
+261903|1926 Heritage|George Town|NO|stars_3
+262291|Sunway Putra|Kuala Lumpur|YES|stars_4
+262292|5 Elements|Kuala Lumpur|YES|stars_0
+262306|De Palma Inn Kuala Selangor|Kuala Selangor|NO|stars_3
+262326|RentNow Apartments|Kuala Lumpur|NO|stars_4
+262337|Sunway Resort & Spa|Petaling Jaya|YES|stars_5
+264382|Temple Tree at Bon Ton|Pantai Tengah|NO|stars_4
+269288|The Smokehouse by The Golf Course|Cameron Highlands|YES|stars_3
+277870|Victory Street Boutique|Kuala Lumpur|YES|stars_0
+278417|Seri Chenang Resort & Spa Langkawi|Langkawi|NO|stars_5
+278428|23 Love Lane|Penang Island|NO|stars_4
+278448|The Crown Borneo|Kota Kinabalu|NO|stars_3
+278599|De Palma Waterfront Kuching|Kuching|NO|stars_2
+283478|Palm Beach Resort & Spa|Labuan|NO|stars_3
+285204|Ibis Styles Kuala Lumpur Fraser Business Park|Kuala Lumpur|NO|stars_3
+287551|Grand Lexis Port Dickson|Port Dickson|NO|stars_4.5
+296311|Cherengin Hills Convention & Spa Resort|Bentong|NO|stars_3
+297640|Majestic Kuala Lumpur|Kuala Lumpur|NO|stars_5
+300533|E&O Residences Kuala Lumpur|Kuala Lumpur|NO|stars_5
+300698|Ramada Plaza Dua Sentral Kuala Lumpur|Kuala Lumpur|NO|stars_4
+301708|Ibis Styles KL Cheras|Kuala Lumpur|NO|stars_3
+310840|Aloft Kuala Lumpur Sentral|Kuala Lumpur|YES|stars_4
+316999|Courtyard @ Heeren Boutique Hotel|Malacca|NO|stars_4
+363949|Vivatel|Kuala Lumpur|NO|stars_4
+391872|Lanson Place Bukit Ceylon Serviced Residences|Kuala Lumpur|NO|stars_5
+408657|Bella Vista Express Langkawi|Langkawi|NO|stars_3
+411542|The Ocean Residence|Kuah|NO|stars_3
+417786|Love Inn Boutique Hotel|Kuala Lumpur|YES|stars_0

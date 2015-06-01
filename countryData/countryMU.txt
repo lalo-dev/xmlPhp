@@ -1,0 +1,180 @@
+1937|Long Beach|Belle Mare|NO|stars_5
+1938|One & Only Le Saint Geran|Belle Mare|NO|stars_5
+1939|Beachcomber Shandrani Deluxe Resort|Blue Bay|NO|stars_5
+1940|Klondike|Flic en Flac|NO|stars_3
+1941|La Pirogue|Flic en Flac|YES|stars_4
+1942|Pearle Beach|Flic en Flac|NO|stars_3
+1943|Sofitel Mauritius L'Imperial Resort & Spa|Flic en Flac|YES|stars_5
+1944|Villas Caroline|Flic en Flac|NO|stars_3
+1945|Beachcomber Le Mauricia|Grand Baie|YES|stars_4
+1946|Beachcomber Le Victoria|Pointe aux Piments|YES|stars_4
+1947|Beachcomber Royal Palm|Grand Baie|NO|stars_5
+1948|Beachcomber Trou aux Biches|Grand Baie|NO|stars_5.5
+1951|Merville Beach|Grand Baie|YES|stars_3
+1952|Villas Mon Plaisir|Trou aux Biches|NO|stars_3
+1953|Veranda Grand Baie Hotel & Spa|Grand Baie|YES|stars_3
+1955|Shangri-La's Le Touessrok Resort & Spa|Trou d'Eau Douce|YES|stars_5
+1956|Beachcomber Le Paradis Golfclub & Resort|Le Morne|NO|stars_5
+1957|Berjaya Le Morne Beach Resort|Le Morne|NO|stars_4
+1962|Silver Beach|Trou d'Eau Douce|NO|stars_3
+1963|Maritim Mauritius|Balaclava|YES|stars_5
+6557|Émeraude Beach Attitude|Belle Mare|NO|stars_3
+6559|Coin de Mire Attitude|Grand Baie|YES|stars_3
+6560|Ambre|Belle Mare|NO|stars_4
+6562|Casuarina Resort & Spa|Trou aux Biches|YES|stars_3
+6563|Coral Azur Mont Choisy|Mon Choisy|YES|stars_3
+7002|Mourouk Ebony|Rodrigues Island|NO|stars_2.5
+8644|Dinarobin - Dinarobin Hotel & Golf Club|Le Morne|NO|stars_5
+8645|Beachcomber Le Canonnier|Pointe aux Canonniers|NO|stars_4
+8655|Lux Belle Mare|Belle Mare|YES|stars_5
+8740|Constance Belle Mare Plage|Poste de Flacq|YES|stars_5
+9120|Blue Lagoon Beach|Blue Bay|NO|stars_3
+10590|Le Récif Attitude Resort|Pointe aux Piments|YES|stars_3
+10910|Cotton Bay|Rodrigues Island|NO|stars_3
+13955|Hibiscus Beach Resort & Spa|Grand Baie|YES|stars_3
+14010|Hilton Mauritius Resort & Spa|Flic en Flac|YES|stars_5
+14948|Island Sports Club|La Balise Marina|NO|stars_2.5
+15703|La Maison d'Été|Poste Lafayette|NO|0
+15747|The Ravenala Attitude|Balaclava|NO|stars_4
+16126|Veranda Palmar Beach|Belle Mare|NO|stars_3.5
+16147|Constance Le Prince Maurice|Belle Mare|YES|stars_5
+16165|Le Surcouf|Belle Mare|NO|stars_3
+16174|Tropical Attitude|Trou d'Eau Douce|YES|stars_3
+16243|Les Cocotiers|Anse aux Anglais|NO|stars_3
+16266|Lux Le Morne|Le Morne|YES|stars_5
+16766|Manisa|Flic en Flac|YES|stars_3
+18200|Ocean Beach Hotel & Spa|Grand Baie|NO|stars_3
+18677|Paradise Cove|Cap Malheureux|YES|stars_5
+18875|Veranda Paul & Virginie Hotel & Spa|Grand Gaube|YES|stars_3
+19774|Le Meridien Ile Maurice|Pointe aux Piments|YES|stars_4
+22325|Le Sugar Beach Resort|Flic en Flac|YES|stars_5
+22878|The Oberoi Mauritius|Pointe aux Piments|NO|stars_5
+22961|The Residence|Belle Mare|YES|stars_5
+24157|Veranda Pointe aux Biches|Pointe aux Piments|YES|stars_3
+26129|Blumarine Attitude|Anse La Raie|NO|stars_4
+26131|Les Cocotiers|Baie du Tombeau|NO|stars_2
+26140|Friday Attitude|Trou d'Eau Douce|NO|stars_3
+26274|The Sands Resort|Flic en Flac|YES|stars_4
+27383|Valtur Le Flamboyant|Belle Mare|NO|stars_4
+31442|Calodyne Sur Mer|Grand Gaube|NO|stars_3
+32651|Lux Grand Gaube|Grand Gaube|YES|stars_5
+35283|Riu Le Morne|Le Morne|NO|stars_4
+38196|Le Preskil Beach Resort|Mahebourg|NO|stars_3.5
+38898|Le Palmier|Flic en Flac|NO|stars_2
+38901|Sakoa Boutik Hotel|Trou aux Biches|NO|stars_4
+39066|Club Med La Pte. aux Canonniers|Pointe aux Canonniers|NO|stars_4
+39579|Tarisa Resort & Spa|Grand Baie|NO|stars_3
+47585|Heritage Awali Golf & Spa Resort|Bel Ombre|YES|stars_5
+47860|Tamarin|Tamarin|NO|stars_3
+48151|Heritage Le Telfair Golf & Spa Resort|Bel Ombre|YES|stars_5
+51420|Outrigger Mauritius Resort & Spa|Bel Ombre|YES|stars_5
+52718|Pointe Venus|Rodrigues Island|NO|stars_4
+53026|Maradiva Villas Resort & Spa|Flic en Flac|YES|stars_5
+55983|Coral Beach Bungalows|Poste Lafayette|NO|stars_3
+56382|Le Palmiste|Trou aux Biches|YES|stars_3
+57586|Gold Beach|Flic en Flac|NO|stars_3
+57701|Clifford|Grand Gaube|NO|0
+59182|Blue Bird - Appartement -|Pereybere|NO|stars_3
+59574|Astroea Beach|Mahebourg|NO|stars_4
+61105|Jet 7 Apartments|Flic en Flac|NO|stars_3
+61866|Villa Eureka 1|Trou aux Biches|NO|0
+63374|Sous Le Badamier|Grand Baie|YES|stars_2
+64720|Les Lodges Andréa|La Pointe Jerome|NO|stars_3
+64772|Le Ti Fleur Soleil|Grand Baie|NO|stars_2
+69067|Villas Seagull|Trou aux Biches|NO|0
+69518|La Palmeraie Boutique Hotel|Belle Mare|YES|stars_4
+72676|La Mariposa Beach Resort|Black River|NO|stars_3
+76296|20° Sud|Grand Baie|NO|stars_4
+76429|Les Chalets en Champagne|Chamarel|NO|stars_3
+76430|Lakaz Chamarel|Chamarel|NO|stars_4
+77736|Ocean Beauty|Pereybere|NO|stars_4
+80492|Shanti Maurice - A Nira Resort|St. Felix|YES|stars_5
+81951|Pik Pik|Le Morne|NO|stars_2
+82620|Villa Feng Shui|Poste Lafayette|NO|0
+82624|Villa La Pointe|Pointe aux Canonniers|YES|stars_3
+87331|Tamassa Resort|Bel Ombre|YES|stars_4
+92159|Club Med La Plantation d'Albion|Port Louis|NO|stars_5
+92984|Cape Garden|Bain Boeuf|NO|stars_3
+93311|Four Seasons Resort Mauritius At Anahita|Beau Champ|NO|stars_5
+95804|The Bay|La Preneuse|NO|stars_3.5
+96115|Four Heavens|Pereybere|NO|stars_4
+99996|Villa Maison Blanche|La Preneuse|NO|0
+100000|Les Orchidees Apartments|Flic en Flac|YES|stars_2.5
+103004|Residence Capri|Mon Choisy|YES|stars_3
+103005|Casa Del Sol|Mon Choisy|YES|stars_3
+103254|The Westin Mauritius Turtle Bay Resort & Spa|Turtle Bay|YES|stars_5
+110487|Mont Choisy Beach Villas|Mon Choisy|NO|stars_3.5
+110489|La Pointe Villas|Mon Choisy|NO|stars_3
+110490|Residence Villas Mont Choisy|Mon Choisy|YES|stars_3
+110500|Acacia Apartments|Pereybere|YES|stars_3
+122689|Riu Coral|Le Morne|NO|stars_3
+122690|Voile d' Or|Bel Ombre|NO|stars_4
+124695|Oasis Beach Club|Pointe aux Piments|YES|stars_2
+135446|Best Western Laguna Beach Mauritius|Grande Rivière Sud-Est|YES|stars_3
+136120|InterContinental Mauritius Resort|Balaclava|NO|stars_5
+159711|Labourdonnais Waterfront|Port Louis|YES|stars_5
+159723|Le Suffren & Marina|Port Louis|YES|stars_4
+182853|La Margarita|Pointe aux Piments|NO|stars_2
+183189|Marlin Creek Residence|West Coast|YES|stars_3
+187274|Anahita The Resort|Beau Champ|YES|stars_5
+187864|Heritage the Villas|Bel Ombre|NO|stars_5
+196007|Aanari & Spa|Flic en Flac|YES|stars_3
+196008|Le Cardinal Exclusive Resort|Trou aux Biches|YES|stars_5
+201724|Hennessy Park|Ebene|YES|stars_4
+201749|Grand Bay Suites|Grand Baie|YES|stars_3.5
+203105|Villa Narmada|Grand Baie|YES|stars_2
+226499|Jalsa Beach Hotel & Spa|Poste Lafayette|NO|stars_4
+226954|Villa Merville Oasis|Grand Baie|NO|stars_3
+226956|Villa Ilot Malais|Case Noyale|NO|stars_4.5
+227856|De Conti|Pointe aux Piments|NO|stars_3
+227862|Tamarina|Tamarin|NO|stars_4
+228171|Port Chambly Hotel & Village - The Address Boutique Hotel / Les Chamblynes Villas|Terre Rouge|NO|stars_4
+228662|Sofitel So Mauritius|Bel Ombre|NO|stars_5
+228740|Sankhara Villas|Poste Lafayette|NO|0
+229217|The St. Regis Mauritius Resort|Le Morne|YES|stars_5
+232892|Le Samara|Pereybere|NO|stars_3
+233335|Cape Bay|Bain Boeuf|NO|stars_3.5
+234200|Péreybère Hotel & Apartments Mauritius|Pereybere|YES|stars_3
+236989|Angsana Balaclava|Turtle Bay|NO|stars_5
+237449|Bon Azur Elegant|Trou aux Biches|NO|stars_5
+238090|Cape Point Seafront Exclusive Suites & Penthouses|Cap Malheureux|NO|stars_4
+238092|White Oaks|Trou aux Biches|NO|stars_4
+238298|Tamarinier Apartments|Flic en Flac|NO|stars_2.5
+238300|Mon Choisy Beach Resort|Mon Choisy|NO|stars_3
+238301|West Coast View Residence|Pereybere|NO|stars_3
+239067|Paradise Beach|Pointe d' Esny|NO|stars_4
+241266|Plage Bleue|Trou aux Biches|NO|stars_3
+247483|Mascareignes Private Pool Villas|Trou aux Biches|NO|stars_4
+260618|Poste Lafayette Resort & Spa|Poste Lafayette|NO|stars_4
+260634|Belle Haven Luxury Apartements|Mon Choisy|NO|stars_4
+261669|Leora Beach|Tamarin|NO|stars_3.5
+277913|Maritim Cystals Beach Hotel Mauritius|Belle Mare|NO|stars_4
+292232|Des 2 Mondes|Mon Choisy|NO|stars_3
+302292|Zilwa Attitude|Calodyne|NO|stars_4
+302363|Casa Florida|Pereybere|NO|stars_3
+302464|Riu Creole|Le Morne|NO|stars_3
+302512|Be Cosy Apart Hotel|Trou aux Biches|NO|stars_3
+335022|Baystone Boutique Hotel & Spa|Pointe aux Canonniers|NO|stars_5
+354461|Athena Villas|Pereybere|NO|stars_4
+354462|Oasis Villas|Pereybere|NO|stars_5
+359374|Haute Rive Resort & Spa|Riviere du Rempart|NO|stars_5
+359388|Dodola Lodge|Pereybere|NO|stars_3
+359390|Solana Beach|Belle Mare|NO|stars_4
+359550|Tekoma|Rodrigues Island|NO|stars_4
+365580|La Hacienda|Grand Port|NO|stars_3.5
+367685|Domaine des Alizées Club & Spa|Pereybere|NO|stars_4
+401443|Gold Crest|Quatre Bornes|NO|stars_3
+406242|Holiday Inn Mauritius Airport|Mahebourg|NO|stars_4
+408896|Horizon Cap Ouest|Flic en Flac|NO|stars_4
+412160|Port Chambly Hotel & Village - The Address Boutique Hotel|Terre Rouge|NO|stars_4
+412177|||NO|stars_4
+412178|||NO|stars_4
+412179|||NO|stars_4
+413039|Dinarobin - Dinarobin Villen|Le Morne|NO|stars_5
+417553|Baladirou Villas|Grand Gaube|NO|stars_4
+417556|Chillpill Bed And Breakfast|Mahebourg|NO|stars_3
+417557|Clos du Littoral|Grand Baie|NO|stars_1
+417559|Gardens Retreat|Pereybere|NO|stars_3
+417563|Le Cerisier|Trou aux Biches|NO|stars_3
+417565|Matibi Villa|Grand Gaube|NO|stars_4
+417571|Stylia Villas|Trou d'Eau Douce|NO|stars_5

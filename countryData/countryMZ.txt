@@ -1,0 +1,41 @@
+51370|Dugong Lodge|Vilanculos|NO|stars_5
+51371|Southern Sun Maputo|Maputo|NO|stars_3.5
+51372|Marlin Lodge|Benguerra Island|NO|stars_4.5
+51374|Anantara Bazaruto Island Resort & Spa|Bazaruto Island|NO|stars_5
+51375|Avani Pemba Beach Hotel & Spa|Pemba|NO|stars_4
+51729|Benguerra Lodge|Benguerra Island|NO|stars_5
+64776|Flamingo Bay Water Lodge|Inhambane|NO|stars_4
+64777|Vilanculos Beach Lodge|Vilanculos|NO|stars_4
+64791|Matemo Island|das Quirimbas|NO|stars_4
+72732|Medjumbe Private Island|das Quirimbas|NO|stars_5
+72733|Barra Lodge|Inhambane|NO|stars_3
+76443|Pestana Bazaruto Lodge|Bazaruto Island|YES|stars_4
+76775|Polana Serena|Maputo|YES|stars_5
+85205|Pestana Rovuma|Maputo|YES|stars_4
+85206|Pestana Inhaca Lodge|Inhaca|YES|stars_4
+85207|Tivoli Maputo|Maputo|YES|stars_3
+92832|Quilálea Island Resort|Quilalea Island|NO|stars_5
+92833|Vamizi Island Lodge|Vamizi Island|NO|stars_5
+97260|Azura|Benguerra Island|NO|stars_5
+100896|Pomene Lodge|Pomene Bay|NO|stars_2.5
+105630|Cardoso|Maputo|YES|stars_4
+110613|Casa Barry Lodge|Tofo|YES|stars_2.5
+122691|Avenida|Maputo|YES|stars_5
+122693|Casa Rex|Vilanculos|NO|stars_4
+122697|Ibo Island Lodge|das Quirimbas|NO|stars_4
+159642|Girassol Bahia|Maputo|NO|stars_4
+159643|Girassol Indy Congress & Spa|Maputo|NO|stars_4
+159644|Girassol Lichinga|Lichinga|NO|stars_3
+159645|Girassol Nampula|Nampula|NO|stars_3
+201606|Tivoli Beira|Beira|YES|stars_3
+201994|Terminus|Maputo|NO|stars_3
+234610|Casa do Capitao|Inhambane|NO|stars_4
+234975|Barra Beach Club|Inhambane|NO|stars_4
+235328|Radisson Blu Maputo|Maputo|NO|stars_5
+260150|Koba Beach|Pemba|NO|stars_4
+296800|White Pearl Resort Ponta Mamoli|Zitundo|NO|stars_5
+297752|Massinga Beach Lodge|Inhambane|NO|stars_4
+298835|Coral Lodge 15.41|Nampula|NO|stars_5
+359526|Machangulo Beach Lodge|Maputo|NO|stars_3.5
+359758|Blue Footprints Eco Lodge & Dive Centre|Tofo|NO|stars_4
+407860|The Dona Ana|Vilanculos|NO|stars_3

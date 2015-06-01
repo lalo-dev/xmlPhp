@@ -1,0 +1,761 @@
+3|Sofitel Legend Old Cataract|Aswan|YES|stars_5
+4|Ibis Styles Dahab Lagoon|Dahab|NO|stars_4
+5|Dessole Aladdin Beach Resort|Hurghada|NO|stars_4
+8|Aqua Fun|Hurghada|YES|stars_3
+9|Arabella Azur Resort|Hurghada|YES|stars_4
+10|Arabia Azur Resort|Hurghada|NO|stars_4
+11|Beirut|Hurghada|YES|stars_3
+12|SUNRISE Grand Select Crystal Bay|Hurghada|YES|stars_4
+13|Coral Beach Rotana Resort|Hurghada|YES|stars_4
+14|Dawar el Omda Hotel|El Gouna|YES|stars_4
+15|Desert Inn|Hurghada|NO|stars_3
+17|El Samaka Beach Hotel|Hurghada|NO|stars_3
+18|El Tabia|Hurghada|NO|stars_2
+19|Geisum Village|Hurghada|NO|stars_2
+21|Giftun Azur Resort|Hurghada|NO|stars_3.5
+22|Grand Hotel|Hurghada|NO|stars_4
+23|Regina Resort|Hurghada|YES|stars_4
+24|Hilton Hurghada Plaza|Hurghada|YES|stars_5
+25|SUNRISE Holidays Resort|Hurghada|YES|stars_4.5
+26|Hilton Hurghada Resort|Hurghada|YES|stars_5
+27|Marriott Beach Resort|Hurghada|YES|stars_5
+28|Mövenpick Resort Hurghada|Hurghada|YES|stars_5
+29|Jasmine Village|Hurghada|NO|stars_3
+30|La Perla|Hurghada|YES|stars_3
+31|Marlin Inn Beach Resort|Hurghada|NO|stars_4
+32|Al Mashrabiya Resort|Hurghada|NO|stars_3
+33|Sonesta Pharaoh Beach|Hurghada|YES|stars_5
+35|Sunny Days Palma De Mirette Resort & Spa|Hurghada|NO|stars_4
+37|Mövenpick Resort & Spa El Gouna|El Gouna|YES|stars_5
+39|Presidential|Hurghada|NO|stars_2
+40|Reemyvera Resort|Hurghada|NO|stars_4
+41|Sea Shell|Hurghada|NO|stars_4
+42|Sand Beach|Hurghada|NO|stars_3
+43|Seahorse|Hurghada|NO|stars_3
+45|Smartline Colour Beach|Hurghada|NO|stars_3
+46|Sheraton Soma Bay Resort|Soma Bay|YES|stars_5
+47|Sindbad Club Aquapark Resort - Beach Resort / Aquahotel / Aqua Park Resort|Hurghada|NO|stars_4
+48|Mercure Hurghada Hotel|Hurghada|YES|stars_4
+49|Comfort Ambassador Club|Hurghada|NO|stars_3
+51|Club Paradisio El Gouna|El Gouna|NO|stars_4
+54|Utopia Beach Club|Quseir|NO|stars_4
+55|Sofitel Cairo El Gezirah|Cairo|YES|stars_5
+56|Golden Tulip Flamenco|Cairo|YES|stars_4
+57|Grand Pyramids|Gizeh|YES|stars_4
+58|Shepheard|Cairo|YES|stars_4
+60|Le Meridien Heliopolis|Cairo|YES|stars_5
+62|Mena House Oberoi|Cairo|YES|stars_5
+63|Le Passage Cairo Hotel & Casino|Cairo|YES|stars_5
+64|Mövenpick Cairo Pyramids|Cairo|YES|stars_5
+65|Oasis|Cairo|YES|stars_4
+66|President|Cairo|NO|stars_3
+67|Safir Cairo|Cairo|NO|stars_5
+68|Hilton Zamalek Residence|Cairo|NO|stars_4
+69|InterContinental Cairo Semiramis|Cairo|NO|stars_5
+71|Sheraton Cairo Towers & Casino|Cairo|YES|stars_5
+72|Mercure Cairo Le Sphinx Hotel|Cairo|YES|stars_5
+73|Victoria|Cairo|YES|stars_3
+75|Eatabe Luxor Hotel|Luxor|YES|stars_4
+78|Maritim Jolie Ville Kings Island Luxor|Luxor|YES|stars_5
+79|Emilio|Luxor|YES|stars_3
+80|Iberotel Luxor|Luxor|YES|stars_4
+81|Sofitel Winter Palace Luxor & Pavillon Winter Luxor|Luxor|NO|stars_5
+82|Sonesta St. George|Luxor|YES|stars_5
+83|Hilton Nuweiba Coral Resort|Nuweiba|YES|stars_4
+84|Mövenpick Resort El Quseir|Quseir|NO|stars_4.5
+85|Lamar Resort Abu Soma|Abu Soma|YES|stars_4
+86|Lotus Bay Beach Resort|Safaga|YES|stars_3.5
+87|Safaga Marina|Safaga|NO|0
+88|Menaville Safaga|Safaga|NO|stars_4
+89|Shams Safaga|Safaga|NO|stars_4
+90|Baron Resort Sharm el Sheikh|Sharm el Sheikh|NO|stars_5
+91|Dessole Cataract Resort & Cataract Layalina - Cataract Layalina|Sharm el Sheikh|YES|stars_3.5
+92|Coral Sea Sensatori Resort|Sharm el Sheikh|YES|stars_5
+93|Domina Coral Bay - Oasis|Sharm el Sheikh|NO|stars_5
+94|Falcon al Diar Resort|Sharm el Sheikh|NO|stars_4
+95|Hilton Sharm El Sheikh Fayrouz Resort|Sharm el Sheikh|YES|stars_4
+96|Ghazala Beach / Village|Sharm el Sheikh|NO|stars_4
+98|Helnan Marina Sharm|Sharm el Sheikh|YES|stars_4
+99|Continental Garden Reef Resort|Sharm el Sheikh|YES|stars_5
+100|Kahramana|Na'ama Bay|YES|stars_3
+101|Sharm El Sheikh Marriott Resort - Beach / Mountain|Sharm el Sheikh|NO|stars_5
+102|Maritim Jolie Ville Resort & Casino|Sharm el Sheikh|YES|stars_5
+103|New Tiran|Sharm el Sheikh|YES|stars_4
+104|Aquamarina|Sharm el Sheikh|NO|0
+105|Novotel Sharm el Sheikh Beach & Palm|Sharm el Sheikh|YES|stars_5
+108|Sanafir Hotel|Sharm el Sheikh|NO|stars_4
+110|Seti Sharm Resort|Sharm el Sheikh|YES|stars_4
+111|Mövenpick Resort Sharm El Sheikh|Sharm el Sheikh|YES|stars_5
+112|Sonesta Beach Resort|Sharm el Sheikh|YES|stars_5
+115|Tropicana Rosetta & Jasmine Club|Sharm el Sheikh|YES|stars_3
+116|Tropicana Tivoli|Sharm el Sheikh|YES|stars_4
+117|Hilton Taba Resort & Nelson Village|Taba|YES|stars_5
+5172|Le Pacha Beach & Resort|Hurghada|NO|stars_3.5
+5700|Swiss Inn Resort Dahab|Dahab|YES|stars_4
+5701|Sultan Bey Resort|El Gouna|YES|stars_4
+5702|Helnan Nuweiba Bay Resort|Nuweiba|NO|stars_4
+5703|Al Bostan|Sharm el Sheikh|NO|stars_4
+5772|Grand Resort|Hurghada|NO|stars_5
+6356|Sheraton Miramar Resort El Gouna|El Gouna|YES|stars_5
+6358|Beesh Beesh|Hurghada|NO|stars_3
+6359|LTI Albatros White Beach|Hurghada|NO|stars_4
+6361|The Three Corner Triton Empire|Hurghada|YES|stars_3
+6364|Sol Y Mar Paradise Beach|Safaga|YES|stars_4
+6462|Gaddis|Luxor|YES|stars_3
+6463|Pyramisa Isis Hotel & Suites Luxor|Luxor|YES|stars_4.5
+6873|Dessole Pyramisa Sharm El-Sheikh Resort & Villas|Sharm el Sheikh|YES|stars_5
+6874|Dreams Beach & Vacation Resort|Sharm el Sheikh|YES|stars_5
+6875|Tropicana Nuweiba|Nuweiba|NO|stars_4
+7184|Steigenberger Aqua Magic|Hurghada|NO|stars_4
+7225|Golden 5 Almas Resort|Hurghada|NO|stars_4.5
+7263|Beach Albatros Garden|Hurghada|NO|stars_4
+7366|Ali Baba Palace & Village|Hurghada|NO|stars_4
+7589|Amar Sina|Sharm el Sheikh|YES|stars_3
+8091|Mövenpick Resort Aswan|Aswan|YES|stars_5
+8285|Atlas Zamalek|Cairo|NO|stars_4
+8586|Basma|Aswan|YES|stars_4
+8630|Beach Albatros Sharm|Sharm el Sheikh|YES|stars_4
+8680|Beirut|Cairo|YES|stars_3
+8685|Bel Air Azur Resort|Hurghada|NO|stars_4
+8719|Bella Vista|Hurghada|NO|stars_4
+9198|Iberotel Borg El Arab|Borg El Arab|NO|stars_4.5
+9491|The Movie Gate Hurghada|Hurghada|NO|stars_4
+9520|Camel Dive Club & Hotel|Sharm el Sheikh|NO|stars_3
+10396|Cinderella Beach|Quseir|NO|stars_3
+10489|Cleopatra Assuan|Aswan|YES|stars_3
+10492|Cleopatra Tsokkos|Sharm el Sheikh|YES|stars_3
+10511|Club Azur Resort|Makadi Bay|NO|stars_4
+10775|Coral Beach Rotana Resort - Montazah|Sharm el Sheikh|NO|stars_4
+10776|Coral Beach Rotana Tiran|Sharm el Sheikh|YES|stars_4
+10862|Cosmopolitan|Cairo|YES|stars_4
+11107|Daniela Village Dahab|Dahab|NO|stars_3
+11884|Eden Rock|Sharm el Sheikh|NO|stars_2.5
+11963|El Gezira|Hurghada|NO|stars_5
+12013|El Salamlek Palace|Alexandria|NO|stars_5
+12295|Europa|Cairo|NO|stars_3
+12410|Falcon Hills & Viva Sharm - Falcon Hills|Sharm el Sheikh|YES|stars_3
+12421|Fanadir Holiday Resort|Quseir|YES|stars_3.5
+12425|Alf Leila Wa Leila 1001 Nacht|Hurghada|YES|stars_4
+12428|Fantazia|Sharm el Sheikh|NO|stars_3
+12865|Fort Arabesque|Makadi Bay|NO|stars_4
+12935|Four Seasons Cairo at the First Residence|Cairo|YES|stars_5
+12995|Friendship|Hurghada|NO|stars_2
+13419|Grand Plaza Hotel & Resort|Hurghada|NO|stars_4
+13420|Tirana Grand Azure|Sharm el Sheikh|YES|stars_5
+13488|Grand Makadi|Makadi Bay|NO|stars_5
+13859|Hauza Beach Resort|Sharm el Sheikh|YES|stars_4
+13909|Helnan Palestine|Alexandria|YES|stars_5
+13989|Dahab Resort|Dahab|YES|stars_5
+14008|Hilton Luxor|Luxor|YES|stars_5
+14024|Hilton Sharm Dreams Resort|Sharm el Sheikh|YES|stars_5
+14025|Hilton Sharm Waterfalls Resort|Sharm el Sheikh|NO|stars_5
+14305|Sultan Gardens Resort|Sharm el Sheikh|YES|stars_5
+14370|Hor Palace|Hurghada|YES|stars_3
+14515|Hyatt Regency Sharm El Sheikh|Na'ama Bay|NO|stars_5
+14517|Miramar Resort Taba Heights|Taba|NO|stars_5
+14556|Iberotel Club Fanara & Residence|Ras Um El Sid|YES|stars_4
+14557|Iberotel Coraya Beach|Marsa Alam|YES|stars_5
+14558|Royal Grand Sharm|Sharm el Sheikh|YES|stars_5
+14559|Iberotel Lido|Na'ama Bay|YES|stars_4
+14560|Iberotel Makadi Beach|Makadi Bay|YES|stars_5
+14561|Iberotel Makadi Oasis Club & Resort|Makadi Bay|YES|stars_4
+14562|Iberotel Palace|Sharm el Sheikh|YES|stars_5
+14794|Inmo Divers Home|Dahab|NO|stars_2.5
+14870|Pyramids Park Resort|Cairo|YES|stars_5
+14938|Isis Corniche|Aswan|YES|stars_4
+15162|Kahramana Beach Resort|Marsa Alam|NO|stars_4
+15861|Lagona Village / Dahab|Dahab|NO|stars_2
+15879|Laguna Vista Beach Resort|Nabq|YES|stars_5
+16102|TIA Heights Makadi Bay|Makadi Bay|NO|stars_5
+16111|Le Meridien Pyramids|Cairo|YES|stars_5
+16195|Royal Rojana Resort|Sharm el Sheikh|YES|stars_5
+16351|Lillyland Beach Club Resort|Hurghada|NO|stars_4
+16650|Magawish Village Resort|Hurghada|NO|stars_4
+16705|Jaz Makadi Star & Spa|Makadi Bay|YES|stars_5
+16706|TASTY Jaz Makadina|Makadi Bay|YES|stars_4
+16707|Sol y Mar Makadi Sun|Makadi Bay|YES|stars_4
+16757|Mangrove Bay Resort|Quseir|NO|stars_2.5
+17039|Marriott Cairo & Omar Khayyam Casino|Cairo|YES|stars_5
+17487|Minamark Beach Resort|Hurghada|YES|stars_4
+17712|Moon Valley Resort|Hurghada|NO|stars_3
+17992|Nile Ritz-Carlton|Cairo|YES|stars_5
+18039|Noria Resort|Sharm el Sheikh|YES|stars_4
+18061|Novotel Cairo 6th Of October|Cairo|YES|stars_4
+18175|The Oberoi Sahl Hasheesh|Sahl Hasheesh|YES|stars_5
+18346|Orca Village|Safaga|NO|stars_2
+18506|Palermo Resort Hotel|Sharm el Sheikh|NO|stars_3
+18553|Palmera Beach Resort|Ain El Sukhna (Ain Soukhna)|NO|stars_4
+18850|Aida Sharm|Sharm el Sheikh|NO|stars_3
+18853|Turquoise Beach Hotel|Sharm el Sheikh|YES|stars_3
+18932|Pensee Royal Garden Resort|Quseir|NO|stars_4
+18999|Pharaon|Luxor|NO|stars_3
+19009|Philippe|Luxor|NO|stars_3
+19240|New Pola|Luxor|NO|stars_3
+19427|Ghazala Gardens|Sharm el Sheikh|NO|stars_4
+19461|Princess Club|Hurghada|NO|stars_3
+19562|Pyramisa Suites Hotel & Casino|Cairo|YES|stars_5
+19809|Taba Paradise Resort|Taba|NO|stars_5
+19910|Hilton Ramses|Cairo|YES|stars_5
+19997|Reef Oasis Hotels & Resorts - Reef Oasis Beach Resort|Sharm el Sheikh|YES|stars_5
+20056|Regina Nuweiba Resort|Nuweiba|NO|stars_3
+20521|Robinson Club Soma Bay|Soma Bay|NO|stars_4
+20565|Roma|Hurghada|NO|stars_4
+20664|Royal Azur Resort|Hurghada|NO|stars_4
+20707|Royal Paradise|Sharm el Sheikh|NO|stars_4
+20736|Zak Royal Wings|Hurghada|NO|stars_2.5
+20848|Safari Beach Resort|Nuweiba|NO|stars_2
+21300|Nubian Village|Sharm el Sheikh|YES|stars_5
+21302|Sea Garden|Hurghada|NO|stars_3
+21303|Sea Gull Beach Resort|Hurghada|YES|stars_4
+21309|Sol Y Mar Sea Star|Taba|YES|stars_4
+21310|Sea Star Beau Rivage|Hurghada|NO|stars_5
+21460|Shams Alam Beach Resort|Marsa Alam|NO|stars_4
+21479|Sharm Holiday Resort|Sharm el Sheikh|NO|stars_4
+21481|Sharming Inn|Sharm el Sheikh|YES|stars_4
+21534|Fairmont Heliopolis & Fairmont Towers|Cairo|YES|stars_5
+21547|Sheraton|Luxor|YES|stars_5
+21557|Sheraton Montazah|Alexandria|YES|stars_5
+21585|Sheraton Sharm Hotel & Villas Resort|Sharm el Sheikh|YES|stars_5
+21610|Siag Pyramids|Cairo|YES|stars_4
+21718|Siva Grand Beach|Hurghada|NO|stars_4
+21915|Sonesta|Cairo|YES|stars_5
+21920|Sonesta Club|Sharm el Sheikh|YES|stars_4
+22084|St. Joseph|Luxor|YES|stars_3
+22166|Steigenberger Golf Resort|El Gouna|YES|stars_5
+22296|Sultan Beach Resort|Hurghada|NO|stars_4
+22384|SunSet|Sharm el Sheikh|YES|stars_3
+22446|El Khan|El Gouna|NO|stars_3
+22448|Stella Grand Hotel|Ain El Sukhna (Ain Soukhna)|YES|stars_5
+22449|Dive Inn Resort|Dahab|NO|stars_4
+22966|Monte Carlo Resort|Sharm el Sheikh|YES|stars_5
+23019|The Three Corners Rihana Resort & Rihana Inn|El Gouna|YES|stars_4
+23116|Amira Safaga|Safaga|NO|stars_3
+23119|Barceló Cairo Pyramids|Cairo|NO|stars_4
+23459|Partner Tutotel|Luxor|YES|stars_3
+23503|Karma|Sharm el Sheikh|NO|stars_3
+24349|Waves Beach Resort|Hurghada|NO|stars_2
+24600|Windsor Zaafarana Hotel & Resort|Zaafaranah|NO|stars_4
+24609|Zahabia|Hurghada|NO|stars_3
+24777|Pyramisa Isis Island Aswan|Aswan|YES|stars_5
+25805|Sunny Days El Palacio|Hurghada|NO|stars_4
+25807|AA Grand Oasis Resort|Sharm el Sheikh|YES|stars_4
+25833|Club Calimera Akassia Swiss Resort & lti Akassia Beach - Club Calimera Akassia Swiss Resort|Quseir|YES|stars_4.5
+25851|Tropitel Naama Bay|Sharm el Sheikh|YES|stars_4.5
+25859|The Bayview Resort Taba Heights|Taba|YES|stars_5
+26315|MAGIC LIFE Sharm el Sheikh Imperial|Nabq|YES|stars_5
+26425|Sharm Plaza|Sharm el Sheikh|YES|stars_5
+26426|Radisson Blu Resort Sharm el Sheikh|Sharm el Sheikh|YES|stars_5
+26462|Concorde El Salam Sharm Beach & Sports|Sharm el Sheikh|YES|stars_5
+26563|Naama Sun|Sharm el Sheikh|NO|stars_3.5
+26585|Hilton Long Beach Resort|Hurghada|YES|stars_4
+26627|Hilton Sharks Bay Resort|Sharm el Sheikh|YES|stars_4
+26750|Royal Albatros Moderna|Sharm el Sheikh|YES|stars_5
+26751|Al Diwan Resort|Sharm el Sheikh|YES|stars_3
+26783|Brigitte|Hurghada|NO|stars_2
+27099|Maadi|Cairo|YES|stars_4
+27309|Cataract Pyramids Resort|Cairo|YES|stars_5
+27311|Cairotel|Cairo|NO|stars_3
+27377|Valtur Club Sinai Grand Resort|Sharm el Sheikh|NO|stars_4
+27889|Beach Albatros Resort Marsa Alam|Quseir|YES|stars_4
+27893|Catherine Plaza|St. Katherina|NO|stars_4
+27894|Wadi El-Raha|St. Katherina|NO|stars_2.5
+27939|Nefertari|Abu Simbel|NO|stars_4
+27940|Seti Abu Simbel|Abu Simbel|NO|stars_4
+28051|Tropicana Rosetta & Jasmine Club - Rosetta|Sharm el Sheikh|NO|stars_3
+28480|Mexicana Sharm Resort|Sharm el Sheikh|YES|stars_4
+30052|Les Rois|Hurghada|NO|stars_3
+30879|Steigenberger Nile Palace|Luxor|YES|stars_5
+31089|The Desert Rose Resort|Hurghada|YES|stars_5
+31193|Marsa Shagra|Marsa Alam|NO|stars_2.5
+31194|Wadi Lahami - geschlossen|Ras Banas|NO|stars_4
+31195|International Hot Spring|Bahariya Oasis|NO|stars_3
+31197|Sol y Mar The Pioneers|Charga Oasis|NO|stars_4
+31199|Paradise|Siwa Oasis|NO|stars_3
+32131|Savoy Hotels - Savoy / Royal Savoy / Sierra / The Villas|Sharm el Sheikh|YES|stars_5
+32252|The Three Corners Palmyra Resort|Sharm el Sheikh|YES|stars_4
+32303|Sharm Inn Amarein|Sharm el Sheikh|YES|stars_3
+32400|Captain's Inn|El Gouna|YES|stars_3
+32401|Turtle's Inn|El Gouna|YES|stars_3
+32649|Lahami Bay|Berenice|NO|stars_4.5
+32919|SUNRISE Select Garden Beach Resort & Spa|Hurghada|YES|stars_5
+33195|Aurora Oriental Resort|Sharm el Sheikh|YES|stars_5
+34942|Jaz Makadi Saraya Resort|Makadi Bay|YES|stars_5
+35848|Island View Resort|Sharm el Sheikh|YES|stars_5
+35920|Cataract Resort|Marsa Alam|YES|stars_4
+35938|Montillon Grand Horizon Beach Resort|Hurghada|NO|stars_4
+36240|Grand Seas Hostmark|Hurghada|YES|stars_4
+36596|Novotel Cairo Airport|Cairo|YES|stars_4
+36597|Happy City|Cairo|NO|stars_3
+36599|Al Moudira|Luxor|NO|stars_4
+36600|La Residence Des Cascades Golf, Spa & Thalasso - ab 11/2015 Westin Soma Bay Golf Resort & Spa|Soma Bay|YES|stars_5
+36602|Four Seasons Resort|Sharm el Sheikh|NO|stars_5
+36603|Happy Life Village|Dahab|YES|stars_3
+38296|Solitaire Resort|Marsa Alam|NO|stars_4
+38370|SENTIDO Palm Royale|Soma Bay|YES|stars_5
+38768|Zoser|Cairo|YES|stars_4.5
+38769|Renaissance Golden View Beach Resort|Sharm el Sheikh|YES|stars_5
+38830|Arena Inn Hotel & Arena Inn Appartements - Hotel|El Gouna|YES|stars_3
+38880|The Three Corners Ocean View|El Gouna|YES|stars_4
+39071|Dana Beach Resort|Hurghada|YES|stars_5
+39085|Crystal Sharm|Sharm el Sheikh|YES|stars_4
+39241|Club Reef Resort|Sharm el Sheikh|NO|stars_4
+39418|Mercure Romance Alexandria|Alexandria|YES|stars_4
+39419|Steigenberger Hotel Cecil|Alexandria|YES|stars_4
+39441|Sentido Kahramana Park|Marsa Alam|NO|stars_4
+39442|Jaz Solaya Resort|Madinat Coraya|YES|stars_4.5
+39508|JAZ Dahabeya|Dahab|YES|stars_4
+41092|Golden 5 The Club Hotel|Hurghada|YES|stars_4
+41689|Ganet Sinai Resort|Dahab|NO|stars_2.5
+41690|Three Corners Equinox Beach Resort|El Naaba|NO|stars_4
+41769|Andreas|Hurghada|NO|stars_3
+42341|The Three Corners Triton Empire Beach Resort|Hurghada|YES|stars_3
+42349|Amarante Garden Palms Resort|Na'ama Bay|NO|stars_4
+42359|Festival Shedwan Golden Beach Resort|Hurghada|NO|stars_3
+42484|Pharaohs|Cairo|YES|stars_3
+42486|JW Marriott Cairo|Cairo|YES|stars_5
+42487|Conrad Cairo|Cairo|YES|stars_5
+42490|Hilton Pyramids Golf Resort|Cairo|YES|stars_5
+42492|Beach Albatros Resort|Hurghada|NO|stars_4
+42668|Sofitel Taba Heights|Taba|NO|stars_5
+42669|Hilton Alexandria Green Plaza|Alexandria|YES|stars_5
+42670|Morgenland Village|St. Katherina|NO|stars_4
+42671|St.Catherine Village|St. Katherina|NO|stars_4
+47878|Xperience Kiroseiz Parkland|Na'ama Bay|YES|stars_5
+48205|King Tut Aqua Park Beach Resort|Hurghada|NO|stars_4
+48208|Mercure Luxor Karnak|Luxor|YES|stars_5
+48210|Jaz Lamaya Resort|Madinat Coraya|YES|stars_5
+48299|Domina Coral Bay - Prestige Resort|Sharm el Sheikh|YES|stars_5
+51414|Grand Nile Tower|Cairo|YES|stars_5
+51974|Luna Sharm|Sharm el Sheikh|NO|stars_3
+52516|Mövenpick Cairo Media City|Cairo|YES|stars_5
+52517|Paradise Inn Beach Resort|Alexandria|NO|stars_4
+52518|Windsor Palace|Alexandria|NO|stars_4
+52520|Rixos Alamein|El Alamein|NO|stars_5
+52522|Sea Life Resort|Sharm el Sheikh|YES|stars_4
+52544|Concorde el Salam Cairo|Cairo|YES|stars_5
+52546|Kanabesh|Sharm el Sheikh|NO|stars_3
+52633|Jewels Sahara Resort|Hurghada|NO|stars_4
+52661|Star|Nabq|YES|stars_5
+52741|Sol Y Mar Riva Club/ Sol y Mar Riva Mar/ Sol y Mar Riva Beach|Ras Um El Sid|YES|stars_5
+52917|All Seasons Badawia|Sharm el Sheikh|YES|stars_3
+52918|Poinciana Sharm Resort|Sharm el Sheikh|NO|stars_4
+53276|Four Season Nile Plaza|Cairo|YES|stars_5
+53277|Meliá Sinai|Ras Nasrani|YES|stars_5
+53709|Dessole Titanic Aqua Park Resort|Hurghada|YES|stars_4
+54509|Tulip Resort|Marsa Alam|NO|stars_4
+57000|TUI best FAMILY Iberotel Samaya|Marsa Alam|YES|stars_4.5
+57001|Elaria Beach Resort|Nuweiba|NO|stars_4
+59330|Ali Pasha Hotel|El Gouna|YES|stars_3
+59867|Jaz Belvedere|Sharm el Sheikh|YES|stars_5
+59873|Om Kolthoom Hotel & Towers|Cairo|NO|stars_4
+59878|Beduin Moon|Dahab|NO|stars_2
+60191|Desert Lodge|Dakhla Oasis|NO|stars_3
+61015|Princess Palace|Hurghada|NO|stars_3
+61016|Halomy Village|Na'ama Bay|YES|stars_3
+61226|Horus|Hurghada|NO|stars_2
+62089|Golden 5 Paradise Resort|Hurghada|YES|stars_5
+62340|El Samaka Comfort Hotel|Hurghada|NO|stars_3
+62341|Makadi Palace|Makadi Bay|NO|stars_5
+62460|Island Garden Resort|Sharm el Sheikh|YES|stars_4
+62528|Elysees|Hurghada|NO|stars_4
+62611|SUNRISE Select Royal Makadi Resort|Makadi Bay|YES|stars_5
+62633|Carnelia Beach Resort|Marsa Alam|NO|stars_3.5
+63174|Sabena Marmara Resort|Sharm el Sheikh|NO|stars_4
+63440|Sea Club Resort|Sharm el Sheikh|YES|stars_5
+63441|Verginia Sharm Resort|Sharm el Sheikh|YES|stars_4
+63442|Xperience St. George Homestay|Sharm el Sheikh|YES|stars_4
+63448|Calimera Habiba Beach Resort|Marsa Alam|NO|stars_4
+63561|Gafy Resort|Na'ama Bay|NO|stars_4
+63781|El Wekala Golf Resort|Taba|YES|stars_4
+63782|Sol Taba Red Sea|Taba|YES|stars_5
+63783|Dessole Holiday Taba Resort|Taba|NO|stars_4
+63784|Morgana Azur Resort|Taba|NO|stars_4
+63914|Faraana Reef Resort|Ras Um El Sid|NO|stars_4
+64694|Charm Life Paradise Resort|Hurghada|NO|stars_4
+64904|Gardenia Plaza Hotel & Resort|Sharm el Sheikh|YES|stars_4
+64964|Palm Beach Resort|Hurghada|NO|stars_4
+65164|Pickalbatros Sea World|Hurghada|YES|stars_4
+65166|Nefertari|Safaga|NO|stars_3
+65167|Panorama Bungalow Resort El Gouna|El Gouna|YES|stars_4
+66254|Dreams Beach Marsa Alam|Quseir|NO|stars_5
+66325|El Gezira Gardens|Luxor|NO|stars_3
+66326|InterContinental Citystars Cairo|Cairo|YES|stars_5
+66327|Reef Oasis Hotels & Resorts - Reef Oasis Blue Bay Resort|Sharm el Sheikh|NO|stars_5
+68181|Harmony Makadi Bay Resort|Makadi Bay|YES|stars_5
+68294|Grand Rotana Resort & Spa|Sharm el Sheikh|YES|stars_5
+68446|Park Inn by Radisson Sharm El Sheikh Resort|Sharm el Sheikh|YES|stars_4
+68802|Swiss Inn Plaza Resort Marsa Alam|Marsa Alam|NO|stars_4
+69491|Jaz Almaza Beach Resort|Marsa Matrouh|YES|stars_5
+69493|Porto Marina Resort & Spa|El Alamein|NO|stars_5
+69494|Radisson Blu El Quseir|Quseir|YES|stars_5
+69495|Jaz Mirabel Resort - Club / Park / Beach|Sharm el Sheikh|NO|stars_5
+69503|Hotel La Perla|Sharm el Sheikh|YES|stars_3
+69554|Falcon Hills & Viva Sharm - Viva Sharm|Sharm el Sheikh|YES|stars_3
+70039|Ramada Plaza|Na'ama Bay|YES|stars_4
+71083|Ecolodge Awlad  Baraka|Marsa Alam|NO|stars_2
+71161|Golden 5 Diamond Resort|Hurghada|NO|stars_5
+71427|Sunwing Family Star|Makadi Bay|NO|stars_5
+71431|Nubian Island|Sharm el Sheikh|YES|stars_5
+71650|Sharm Club Resort|Sharm el Sheikh|NO|stars_4
+71651|Sharm Reef|Sharm el Sheikh|NO|stars_4
+72045|Baron Heliopolis|Cairo|YES|stars_4
+72246|Tropitel Dahab Oasis Resort|Dahab|YES|stars_4
+72247|Mövenpick Taba Resort|Taba|NO|stars_5
+72690|Horizon|Sharm el Sheikh|YES|stars_4
+72691|Blue Reef|Sharm el Sheikh|NO|stars_3
+73118|Concorde|Cairo|YES|stars_3
+73155|Hormoheb|Cairo|NO|stars_3
+73156|Indiana|Cairo|YES|stars_3
+73160|Zouara|Sharm el Sheikh|NO|stars_3
+74032|Tamra Beach|Sharm el Sheikh|NO|stars_4
+74714|Strand Taba Heights Beach & Golf Resort|Taba|YES|stars_5
+75026|The Karvin|Cairo|YES|stars_3
+75028|Caroline Crillon|Cairo|YES|stars_3
+75378|Sea View|Hurghada|NO|stars_2
+75426|Royal Marshal|Cairo|NO|stars_3
+75555|Casablanca Delta Pyramids|Cairo|YES|stars_4
+75668|Horizon Pyramids|Cairo|YES|stars_4
+75730|Delta Sharm Resort|Na'ama Bay|NO|stars_4
+75748|Country Club|Sharm el Sheikh|NO|stars_3
+75752|Middle East|Gizeh|YES|stars_3
+75873|Abu Dabab Diving Lodge|Marsa Alam|NO|stars_3
+76310|Dessole Cataract Resort & Cataract Layalina|Sharm el Sheikh|YES|stars_4
+76358|Steigenberger Al Dau Beach|Hurghada|YES|stars_5
+76675|Eiffel|Hurghada|NO|stars_2
+76850|Premium Blue Lagoon Resort|Hurghada|YES|stars_5
+76851|Dessole Pyramisa Sahl Hasheesh|Sahl Hasheesh|YES|stars_5
+76852|Serenity Makadi Beach|Makadi Bay|YES|stars_5
+76853|Siva Sharm|Sharm el Sheikh|NO|stars_5
+76915|Al Nabila Grand Makadi|Makadi Bay|NO|stars_5
+77026|Domina Coral Bay - Harem Resort|Sharm el Sheikh|YES|stars_5
+77290|Sharm Cliff Resort|Sharm el Sheikh|NO|stars_4
+77291|Talisman|Cairo|NO|stars_3
+77292|Gawharet Al Ahram|Cairo|YES|stars_4
+77381|Cinderella|Hurghada|NO|stars_2
+77435|Coral Garden|Safaga|NO|stars_2
+77592|Prima Life Makadi Resort|Hurghada|NO|stars_4
+77743|Marhaba|Aswan|NO|stars_3
+77744|Nuweiba Resort Swisscare|Nuweiba|NO|stars_3
+77880|Domina Coral Bay - Sultan|Sharm el Sheikh|YES|stars_5
+77935|Regency Plaza Aqua Park & Spa Resort|Sharm el Sheikh|NO|stars_5
+78630|SENTIDO Mamlouk Palace Resort|Hurghada|YES|stars_5
+78633|Coral Sea Oriental|Sharm el Sheikh|NO|stars_4
+79388|Rehana Sharm Resort|Nabq|NO|stars_4
+79520|Morris Luxor|Luxor|NO|stars_3.5
+79878|Caribbean World Soma Bay|Soma Bay|YES|stars_5
+80012|Sultana Beach Resort|Hurghada|NO|stars_3
+80454|Stella Sea Club Hotel|Ain El Sukhna (Ain Soukhna)|YES|stars_4
+81754|Panorama Bungalows Resort Hurghada|Hurghada|YES|stars_4
+81767|Ras Sudr Resort|Sinai|NO|stars_5
+81772|El Nabila|Cairo|NO|stars_3.5
+81852|Domina Coral Bay - King's Lake Resort|Sharm el Sheikh|YES|stars_5
+81949|Ramada Ras Sudr|Ras Sudr|NO|stars_4.5
+82223|Pharao Egypt|Cairo|YES|stars_3
+82280|Nefertiti Sun Flower|Hurghada|NO|stars_3
+82329|Hilton Alexandria Corniche|Alexandria|NO|stars_5
+82364|Domina Coral Bay - Aquamarine Resort|Sharm el Sheikh|YES|stars_5
+82366|Sol Y Mar Makadi Marine|Makadi Bay|YES|stars_4
+82409|Baron Palms Resort Sharm El Sheikh|Sharm el Sheikh|NO|stars_5
+82704|El-Malikia Resort Abu Dabbab|Marsa Alam|YES|stars_5
+85120|Three Corners Fayrouz Plaza|Marsa Alam|NO|stars_5
+85267|Aqua Blu Resort|Sharm el Sheikh|YES|stars_4
+85666|SunConnect Sunrise Diamond Resort|Sharm el Sheikh|YES|stars_5
+85783|Sharm Grand Plaza|Sharm el Sheikh|YES|stars_5
+85973|Coral Hills Resort|Sharm el Sheikh|NO|stars_3.5
+86045|Jannah Beach|Marsa Alam|NO|stars_4.5
+86090|MAGIC LIFE Kalawy Imperial|Kalawy|NO|stars_4
+86353|Royal House|Luxor|YES|stars_3
+86683|Ecolodge Nakari Village|Marsa Alam|NO|stars_3
+86746|Crystal Cyrene|Sharm el Sheikh|YES|stars_4
+86806|Otium Aloha|Sharm el Sheikh|NO|stars_4
+86810|Amwaj Oyoun Hotel & Resort|Sharm el Sheikh|YES|stars_5
+86811|Souvenir|Hurghada|NO|stars_2
+86866|Windsor|Cairo|YES|stars_3
+86980|Otium Golden|Sharm el Sheikh|NO|stars_4
+87220|Royal City|Hurghada|NO|stars_2
+87395|RED SEA HOTELS - Siva Port Ghalib / The Palace Port Ghalib / Port Ghalib Resort|Port Ghalib|NO|stars_5
+89082|Pyramids View|Cairo|NO|stars_3.5
+90002|Imperial Shams Abu Soma|Soma Bay|YES|stars_5
+90003|Le Mirage New Tower|Na'ama Bay|YES|stars_4
+90142|Sea Garden Resort|Nabq|NO|stars_5
+90162|Sun & Sea|Hurghada|NO|stars_3
+90175|Tropicana Azure Club|Nabq|NO|stars_4
+90194|Maritim Jolie Ville Golf & Resort|Sharm el Sheikh|YES|stars_5
+90666|Arabesque|Luxor|NO|stars_3
+90667|Flopater|Luxor|NO|stars_3
+90671|Makadi Spa|Makadi Bay|NO|stars_5
+90705|Otium Amphoras|Sharm el Sheikh|NO|stars_5
+90706|Continental Plaza Beach Resort (ex Inter Plaza Beach)|Sharm el Sheikh|YES|stars_5
+90897|Regency Hotel|Alexandria|NO|stars_3
+90898|Kaoud Sporting|Alexandria|NO|stars_3
+90900|Elphistone Resort|Marsa Alam|NO|stars_4
+91078|Titanic Beach Spa & Aqua Park|Hurghada|YES|stars_5
+91103|Santana|Cairo|NO|stars_3
+91129|Mercure Forsan Island Ismailia|Ismailia|NO|stars_4
+91134|Siwa Shali Resort|Siwa Oasis|NO|stars_3.5
+91135|Helnan Auberge|Oase Fayoum|NO|stars_3.5
+91136|Kasr El Bawity|Bahariya Oasis|NO|stars_3
+91157|Aurora Nada Marsa Alam Resort|Marsa Alam|NO|stars_4
+91201|Queens Valley|Luxor|YES|stars_3
+91362|Zabargad Berenice Resort|Hamata|NO|stars_3
+91364|The Oasis|Marsa Alam|NO|stars_4
+91557|Creative Green Sudr Resort|Ras Sudr|NO|stars_4
+91574|Maritim Jolie Ville Royal Peninsula Hotel & Resort|Na'ama Bay|YES|stars_5
+91618|Magic Nile Cruiser Boat|Boats|YES|stars_5
+91780|Le Mirage Moon Resort|Marsa Alam|NO|stars_4
+91997|Aqua Vista Resort & Spa|Hurghada|YES|stars_4
+93124|Cleopatra Luxury Makadi Resort|Makadi Bay|NO|stars_5
+94021|Cairo Khan|Cairo|NO|stars_3
+95055|The Three Corners Sea Beach Resort|Marsa Alam|NO|stars_4
+95503|Holiday Inn Cairo Maadi|Cairo|YES|stars_5
+95504|Le Meridien Dahab Resort|Dahab|YES|stars_5
+95509|Paradise|Ras Sudr|NO|stars_3
+95583|Grand Marina|Hurghada|NO|stars_4
+96123|Stella di Mare Golf|Ain El Sukhna (Ain Soukhna)|NO|stars_5
+96512|Steigenberger Makadi|Makadi Bay|YES|stars_5
+96675|The Breakers Diving & Surfing Lodge|Soma Bay|NO|stars_4
+97210|Marina Lodge at Port Ghalib (ex: Coral Beach Marina Lodge)|Port Ghalib|NO|stars_4
+97806|Green Village Resort|Makadi Bay|NO|stars_4
+97905|Laguna Vista Garden Resort|Nabq|NO|stars_5
+98259|Royal Beach Resort|Ras Sudr|NO|stars_4
+98344|Tauchbasis - TGI Diving Center/Sheraton Miramar|El Gouna|NO|stars_5
+98345|Jaz Dar El Madina|Madinat Coraya|YES|stars_4
+98349|Oriental Rivoli|Sharm el Sheikh|NO|stars_4
+99456|Dessole Sea Beach|Sharm el Sheikh|NO|stars_4
+99925|Festival Le Jardin Resort|Hurghada|YES|stars_4
+99957|Albatros Palace Resort|Hurghada|YES|stars_5
+100251|Kempinski Soma Bay|Soma Bay|YES|stars_5
+100348|Gorgonia Beach|Marsa Alam|YES|stars_5
+100525|Rehana Royal Beach Resort & Spa|Nabq|NO|stars_5
+100547|El Hayat Sharm|Nabq|YES|stars_4
+100548|Blue Reef Marsa Alam|Marsa Alam|NO|stars_4
+100694|Swiss Inn Luxor|Luxor|NO|stars_4
+101007|Citadel Azur|Hurghada|NO|stars_5
+101603|Savoy Hotels - Sierra|Sharm el Sheikh|YES|stars_5
+102210|Premier Le Rêve Hotel & Spa|Sahl Hasheesh|NO|stars_5
+102481|Jaz Aquamarine Resort|Hurghada|YES|stars_5
+102582|Dima Beach Resort|Marsa Alam|NO|stars_3
+102612|Stella Makadi Resort & Spa|Makadi Bay|YES|stars_4
+102686|Sentido Oriental Dream Resort|Marsa Alam|NO|stars_5
+102690|Tirana Aqua Park Resort|Nabq|NO|stars_4
+102917|Mövenpick Resort El Sokhna|Ain El Sukhna (Ain Soukhna)|NO|stars_5
+102919|Swiss Inn Pyramids Golf Resort & Swiss Inn Plaza - Swiss Inn Pyramids Golf Resort|Cairo|NO|stars_5
+103611|Sol y Mar Ivory Suites|Hurghada|YES|stars_4
+103716|Fairmont Nile City|Cairo|NO|stars_5
+103803|Swiss Inn Nile|Cairo|YES|stars_3.5
+105048|Dome Marina Swiss Inn Resort|Ain El Sukhna (Ain Soukhna)|NO|stars_4
+107572|Hilton Cairo World Trade Center Residence|Cairo|NO|stars_4
+110413|New Ramoza|Hurghada|NO|stars_3.5
+110475|Sol y Mar Shams Suites|Nabq|YES|stars_3
+110603|Nesima Resort|Dahab|NO|stars_3
+122235|Sea Sun|Dahab|NO|stars_4
+122257|Carols Beau Rivage|Marsa Matrouh|NO|stars_5
+122508|Four Seasons Alexandria at San Stefano|Alexandria|YES|stars_5
+122623|Festival Riviera Resort|Hurghada|NO|stars_4
+122634|Old Palace Resort Sahl Hasheesh|Sahl Hasheesh|NO|stars_5
+122635|Amarante Pyramids|Cairo|YES|stars_5
+122637|Sheraton Dreamland|6th of October City|YES|stars_5
+122892|Jungle Aqua Park|Hurghada|NO|stars_4
+122893|The Three Corners Sunny Beach Resort|Hurghada|NO|stars_4
+122934|AL Remal Port|Safaga|NO|stars_3
+125018|Ocean Club|Sharm el Sheikh|NO|stars_3
+126426|Resta Reef Resort|Marsa Alam|YES|stars_4
+130840|Aifu Resort El-Montazah|Alexandria|NO|stars_3.5
+130844|Falcon Naama Blue|Sharm el Sheikh|YES|stars_3
+134243|Tobya Boutique|Taba|NO|stars_4
+134472|Sol Y Mar Dolphin House|Marsa Alam|YES|stars_4
+134561|Family Club Hotel|Hurghada|NO|stars_3
+134617|Mina Palace Hotel|Luxor|NO|stars_2
+134656|Resta Club Resort / Resta Sharm|Sharm el Sheikh|YES|stars_4
+134695|Viking Club|Sharm el Sheikh|NO|stars_4
+135041|Panorama Naama Heights|Sharm el Sheikh|YES|stars_4
+135292|Cliff Top|Sharm el Sheikh|NO|stars_3
+136417|Dahab Paradise|Dahab|YES|stars_3
+136534|RED SEA HOTELS - The Palace Port Ghalib|Port Ghalib|NO|stars_5
+136601|Caesars Palace|Cairo|YES|stars_3
+138354|Holiday Inn Citystars|Cairo|NO|stars_5
+139762|Wadi Lahmy Azur Resort|Marsa Alam|NO|stars_3
+139857|Sol Dahab Red Sea|Dahab|NO|stars_4
+140083|Karnak Hotel|Luxor|NO|stars_3
+140473|Resta Grand Resort|Marsa Alam|NO|stars_5
+140486|Yara Beach Club|Soma Bay|NO|stars_3
+143426|Fantazia Resort|Marsa Alam|NO|stars_5
+144317|Desert Pearl|Hurghada|YES|stars_3
+144364|Mediterranean Azur|Alexandria|NO|0
+151698|||NO|0
+151702|||NO|0
+151705|||NO|0
+156945|||NO|0
+163381|||NO|0
+182139|||NO|0
+182408|||NO|0
+182426|||NO|0
+182430|||NO|0
+182431|||NO|0
+182432|||NO|0
+182539|||NO|0
+182540|||NO|0
+182874|Jaz Little Venice Golf Resort|Ain El Sukhna (Ain Soukhna)|NO|stars_5
+182902|Plaza Alexandria|Alexandria|NO|stars_4
+182964|Pasadena Boutique Hotel & Resort|Nabq|NO|stars_4
+183180|Tiran Island|Sharm el Sheikh|YES|stars_4
+183182|Albatros Amira Resort & Spa|Ras Sudr|NO|stars_4
+183425|Holidays Express|Cairo|NO|stars_4
+183428|Falcon Naama Star|Sharm el Sheikh|YES|stars_3.5
+184029|Helnan Aswan|Aswan|YES|stars_5
+185342|Rixos Sharm el Sheikh|Sharm el Sheikh|YES|stars_5
+187852|Tiba Pyramids|Cairo|NO|stars_4
+187854|Swiss Inn Dream Resort|Taba|YES|stars_4.5
+188029|Jaz Crystal|Marsa Matrouh|YES|stars_5
+188030|Pyramisa Sunset Pearl|Sahl Hasheesh|YES|stars_5
+188075|Jaz Makadi Saraya Palms|Makadi Bay|NO|stars_4.5
+188076|JAZ Oriental Resort|Marsa Matrouh|NO|stars_5
+195933|The Resort Apartments|Hurghada|YES|stars_3
+201839|Golden 5 Topaz Suites Hotel|Hurghada|NO|stars_4
+202840|La Hacienda Beach Resort|Ras Sudr|NO|0
+202958|Paradise Club Shoni Bay|Marsa Alam|NO|stars_4
+203067|Marina Residence|Hurghada|NO|stars_3
+203070|Le Riad de Charme|Cairo|NO|stars_5
+203290|Amwaj Blue Beach Resort & Spa|Soma Bay|NO|stars_5
+213662|Magma Apartments Hurghada Dream|Hurghada|YES|stars_3
+214055|Miami Beach Hotel|Dahab|NO|stars_3
+214392|Nakhil Inn And Dream|Nuweiba|NO|stars_3
+216540|Radisson Blu Alexandria|Alexandria|NO|stars_4.5
+218607|Swiss Wellness Spa Resort|Hurghada|NO|stars_3
+226569|Club Med Sinai Bay|Taba Heights|NO|stars_4
+227235|Le Royale Sonesta Collection Luxury Resort|Sharm el Sheikh|NO|stars_5
+227343|Aurora Bay Resort|Marsa Alam|NO|stars_4.5
+227690|The Grand Sharm El Sheikh|Ras Um El Sid|NO|stars_5
+227711|Mosaique Hotel|El Gouna|NO|stars_4
+227727|Paradise Makadi Beach|Makadi Bay|NO|stars_4.5
+227740|Cleopatra Luxury Resort|Nabq|NO|stars_5
+227755|Titanic Palace|Hurghada|NO|stars_5
+227874|Sphinx Resort|Hurghada|NO|stars_3.5
+227882|Fanadir Hotel|El Gouna|NO|stars_4
+227962|Kempinski Nile Hotel|Cairo|YES|stars_5
+228076|Onatti Beach Resort|Quseir|NO|stars_4
+228143|AMC Royal Hotel|Hurghada|NO|stars_5
+228147|Golden 5 Emerald Resort|Hurghada|YES|stars_5
+228152|Radisson Blu Hotel, Cairo Heliopolis|Cairo|NO|stars_5
+228195|T-Club Berenice Villas|Berenice|NO|stars_5
+228240|Melia Sharm|Sharm el Sheikh|NO|stars_5
+228562|Sunwing Waterworld Makadi|Makadi Bay|NO|stars_4.5
+228748|Pharaoh Club|Hurghada|NO|stars_3
+228758|Happy Life Resort|Marsa Alam|NO|stars_4
+229480|JAZ Bluemarine|Hurghada|NO|stars_5
+229490|Makadi Fun City|Makadi Bay|NO|stars_5
+229496|Iberotel IL Mercato|Sharm el Sheikh|NO|stars_5
+229768|Golden Rose|Hurghada|NO|stars_3
+231719|Coral Sun Beach|Safaga|YES|stars_4
+231870|Club Calimera Akassia Swiss Resort & lti Akassia Beach - lti Akassia Beach|Quseir|NO|stars_4.5
+231911|Serenity Fun City Resort|Makadi Bay|NO|stars_5
+231985|4S Hotel|Dahab|NO|stars_3
+231986|Partner Royal|Alexandria|NO|stars_4
+232019|Shams Prestige Resort|Soma Bay|NO|stars_5
+232169|El Andalous Apartments|Sahl Hasheesh|YES|stars_4
+232170|Palm Beach Piazza|Sahl Hasheesh|YES|stars_4
+233327|Aquamarine Sun Flower Resort|Taba|NO|stars_4
+233328|Helnan Taba Resort|Taba|NO|stars_3.5
+233618|Barceló Tiran Sharm|Sharm el Sheikh|YES|stars_5
+234839|Domina Coral Bay - Elisir|Sharm el Sheikh|NO|stars_5
+234899|Palm Azur Resort|Hurghada|NO|stars_4.5
+235293|Magic Beach|Hurghada|NO|stars_4
+236087|Da Vinci|Hurghada|NO|stars_3
+236089|Sharm Resort|Sharm el Sheikh|NO|stars_4
+236286|Stella Makadi Gardens|Makadi Bay|NO|stars_5
+236949|Hilton Marsa Alam Nubian Resort|Marsa Alam|NO|stars_5
+237823|Tropitel Sahl Hasheesh|Sahl Hasheesh|NO|stars_5
+239834|Xperience Sea Breeze Resort|Sharm el Sheikh|NO|stars_5
+241301|Bravo Mount Verde|Hurghada|NO|stars_3
+241548|Baron Palace Sahl Hasheesh|Sahl Hasheesh|NO|stars_5
+241875|Flobater Luxor|Luxor|NO|stars_3
+241876|Aqua Hotel Resort & Spa|Sharm el Sheikh|NO|stars_4
+243609|Sunrise Grand Select Montemare|Sharm el Sheikh|NO|stars_5
+243611|SUNRISE Grand Select Arabian Beach Resort|Sharks Bay|NO|stars_5
+243899|Dyarna|Dahab|NO|stars_2.5
+243902|Nemo Dive Club and Hotel|Safaga|NO|0
+245351|Sharm El Sheikh Marriott Resort - Beach|Sharm el Sheikh|NO|stars_5
+245353|Sharm El Sheikh Marriott Resort - Mountain|Sharm el Sheikh|NO|stars_5
+246714|Dreams Beach & Vacation Resort - Dream Beach|Sharm el Sheikh|NO|stars_5
+246715|Dreams Beach & Vacation Resort - Dreams Vacation|Sharm el Sheikh|NO|stars_5
+247273|Sindbad Club Aquapark Resort - Beach Resort|Hurghada|NO|stars_4
+247275|Sindbad Club Aquapark Resort - Aquahotel|Hurghada|NO|stars_4
+247323|Grand Plaza Hotel & Resort - Grand Plaza Hotel|Hurghada|NO|stars_4
+247324|Grand Plaza Hotel & Resort - Grand Plaza Resort|Hurghada|NO|stars_4
+247500|Savoy Hotels - Royal Savoy|Sharm el Sheikh|NO|stars_5
+249108|Concorde Moreen Beach Resort & Spa|Marsa Alam|NO|stars_5
+249652|Le Metropole|Alexandria|NO|stars_4
+249661|Hauza Mandarin|Sharm el Sheikh|NO|stars_3.5
+250063|Abo Nawas|Marsa Alam|NO|stars_4
+250075|Gemma Resort|Marsa Alam|NO|stars_4
+252700|Veraclub Queen Sharm|Sharm el Sheikh|NO|stars_4
+258677|Taziry Ecolodge|Siwa Oasis|YES|stars_0
+259994|Sol Y Mar Riva Club/ Sol y Mar Riva Mar/ Sol y Mar Riva Beach - Riva Club|Ras Um El Sid|NO|stars_5
+259995|Sol Y Mar Riva Club/ Sol y Mar Riva Mar/ Sol y Mar Riva Beach - Riva Mar|Ras Um El Sid|NO|stars_5
+259996|Sol Y Mar Riva Club/ Sol y Mar Riva Mar/ Sol y Mar Riva Beach - Riva Beach|Ras Um El Sid|NO|stars_5
+260200|Novotel Sharm el Sheikh Beach & Palm - Beach|Sharm el Sheikh|NO|stars_5
+260202|Novotel Sharm el Sheikh Beach & Palm - Palm|Sharm el Sheikh|NO|stars_5
+260461|Sea Club Aqua Park|Nabq|NO|stars_5
+260473|Fairmont Heliopolis & Fairmont Towers - Fairmont Heliopolis|Cairo|NO|stars_5
+260474|Fairmont Heliopolis & Fairmont Towers - Fairmont Towers Heliopolis|Cairo|NO|stars_5
+260490|Jaz Mirabel Resort - Club|Sharm el Sheikh|NO|stars_5
+260491|Jaz Mirabel Resort - Park|Sharm el Sheikh|NO|stars_5
+260492|Jaz Mirabel Resort - Beach|Sharm el Sheikh|NO|stars_5
+260607|Sheraton Sharm Hotel & Villas Resort - Sheraton Sharm Hotel|Sharm el Sheikh|NO|stars_5
+260608|Sheraton Sharm Hotel & Villas Resort - Sheraton Sharm Villas Resort|Sharm el Sheikh|NO|stars_5
+261673|Reef Oasis Hotels & Resorts - Beach Resort / Senses Resort / Blue Bay Resort|Sharm el Sheikh|NO|stars_4.5
+261674|Reef Oasis Hotels & Resorts - Sentido Reef Oasis Senses Resort|Sharm el Sheikh|NO|stars_5
+265607|The Three Corners Rihana Resort & Rihana Inn - Rihana Resort de Luxe|El Gouna|NO|stars_4
+265608|The Three Corners Rihana Resort & Rihana Inn - Rihana Inn|El Gouna|NO|stars_4
+265682|Domina Coral Bay - Aquamarine / Elisir / Harem / King's Lake / Oasis / Sultan / Prestige|Sharm el Sheikh|NO|stars_5
+265730|Lotus|Luxor|NO|stars_3
+277488|Roots Camp|Quseir|NO|stars_2
+284858|Triton Empire Inn|Hurghada|YES|stars_2
+295447|Rocketa|Dahab|NO|stars_3
+296595|Coral Hills Resort|Marsa Alam|NO|stars_4
+296668|Amazonia Gardenia Hurghada|Hurghada|NO|stars_4
+297183|Mövenpick Resort Soma Bay|Soma Bay|NO|stars_5
+301890|Coral Sea Holiday Village|Sharm el Sheikh|NO|stars_5
+301892|Coral Sea Aqua Club|Sharm el Sheikh|NO|stars_4
+301893|Coral Sea Water World|Sharm el Sheikh|NO|stars_4.5
+301894|Aida Better Life|Sharm el Sheikh|NO|stars_4
+302260|Sofitel Winter Palace Luxor & Pavillon Winter Luxor - Pavillon Winter Luxor|Luxor|YES|stars_5
+302261|Sofitel Winter Palace Luxor & Pavillon Winter Luxor - Sofitel Winter Palace|Luxor|NO|stars_5
+302267|RED SEA HOTELS - Port Ghalib Resort|Port Ghalib|NO|stars_4.5
+302268|RED SEA HOTELS - Siva Port Ghalib|Port Ghalib|NO|stars_4.5
+302344|Rehana Royal Prestige Resort & Spa|Nabq|NO|stars_5
+302384|Swiss Inn Pyramids Golf Resort & Swiss Inn Plaza - Swiss Inn Plaza|Cairo|NO|stars_4
+302499|Laguna Beach Resort|Marsa Alam|NO|stars_4
+309135|Rohanou Beach Resort & Ecolodge|Quseir|NO|stars_4
+309202|Tropicana Rosetta & Jasmine Club - Jasmine Club|Sharm el Sheikh|NO|stars_3
+310946|Arena Inn Hotel & Arena Inn Appartements - Appartements|El Gouna|NO|stars_3
+310947|Arena Inn Hotel  & Arena Inn Appartements|El Gouna|NO|stars_3.5
+311052|TIA Aqua Park Hotel & Resort|Makadi Bay|NO|stars_4
+314382|Savoy Hotels - Savoy|Sharm el Sheikh|NO|stars_5
+335056|Sunrise Orchid Resort|Na'ama Bay|NO|stars_4.5
+335805|Premium Palma Resort|Hurghada|NO|stars_4
+359927|Concorde El Salam Sharm Beach & Sports - Beach|Sharm el Sheikh|NO|stars_4.5
+359928|Concorde El Salam Sharm Beach & Sports - Sports|Sharm el Sheikh|NO|stars_5
+365523|Three Corners Royal Star Beach|Hurghada|NO|stars_4
+365537|Nubia Aqua Beach Resort|Hurghada|NO|stars_4
+366596|Faraana Heights Resort|Sharm el Sheikh|NO|stars_4
+366767|Albatros Garden Resort|Hurghada|NO|stars_4
+366775|Le Meridien Cairo Airport|Cairo|NO|stars_5
+366782|Grand Azure Resort|Sharm el Sheikh|NO|0
+372995|Flamenco Beach & Resort|Quseir|YES|stars_4
+391231|Makadi Garden Azur Resort|Makadi Bay|NO|stars_4
+392457|Jasmin Palace Resort & Spa|Hurghada|NO|stars_4.5
+404219|Caves Beach Resort|Hurghada|NO|stars_5
+405271|Resta Club Marina View Port Ghalib|Port Ghalib|NO|stars_3
+405991|Iberotel Makadi Oasis Club & Resort - Oasis Club|Makadi Bay|NO|stars_4
+405992|Iberotel Makadi Oasis Club & Resort - Oasis Resort|Makadi Bay|NO|stars_4
+405999|La Maison Bleue|El Gouna|NO|stars_5
+406488|Zee Resorts - Zee Brayka Lagoon Resort|Marsa Alam|NO|stars_4
+407210|Sindbad Club Aquapark Resort - Sindbad Aqua Park Resort|Hurghada|NO|stars_4
+407821|Zee Resorts - Zee Brayka Beach Resort|Marsa Alam|NO|stars_4.5
+408733|Brayka Bay Resort (ab Winter 2015/2016)|Marsa Alam|NO|stars_5
+408947|Club Calimera Akassia Swiss Resort & lti Akassia Beach|Quseir|NO|stars_4.5
+409279|Jaz Makadi Aquaviva|Hurghada|NO|stars_4.5
+411448|Mirage Aqua Park Hotel und Spa|Hurghada|NO|stars_5
+415534|Be Live Collection Marsa Alam|Marsa Alam|NO|stars_4
+417547|Viva Blue Resort & Diving, Sharm El Naga|Soma Bay|NO|stars_4

@@ -1,0 +1,312 @@
+15102|Jose Antonio|Lima|NO|stars_4
+16301|Libertador Arequipa|Arequipa|YES|stars_4.5
+16302|Palacio del Inka|Cuzco|YES|stars_5
+16618|Inkaterra Machu Picchu Pueblo|Machu Picchu|NO|stars_5
+17625|Monasterio|Cuzco|YES|stars_5
+19325|Foresta Hotel & Suite|Lima|YES|stars_4
+19326|Sonesta Posadas del Inca Cuzco|Cuzco|YES|stars_3
+21011|Machu Picchu Sanctuary Lodge|Machu Picchu|NO|stars_4.5
+21502|Sheraton Lima Hotel & Convention Center|Lima|YES|stars_5
+26396|Country Club Lima|Lima|NO|stars_5
+26988|JW Marriott|Lima|NO|stars_5
+27227|Sonesta El Olivar - Lima|Lima|YES|stars_5
+27229|Sonesta Posadas del Inca - Lake Titicaca|Puno|NO|stars_4
+31810|Sonesta Posadas del Inca Arequipa|Arequipa|NO|stars_4
+32030|Eco Inn|Puno|NO|stars_3
+35715|Melia Lima|Lima|YES|stars_5
+38959|Jose Antonio|Cuzco|NO|stars_4
+59569|Arqueologo|Cuzco|NO|stars_3
+65695|Doubletree El Pardo|Lima|NO|stars_4
+72019|Miraflores Park|Lima|YES|stars_5
+76136|Estelar Miraflores|Lima|YES|stars_5
+76414|Swissotel Lima|Lima|NO|stars_5
+76415|Casa Andina Private Collection - Valle Sagrado|Yanahuara|NO|stars_3.5
+84135|Del Prado Inn|Cuzco|NO|stars_3
+84153|Basadre Suites|Lima|NO|stars_3
+84224|Clifford|Lima|YES|stars_3
+87404|Monte Real|Lima|NO|stars_3
+88527|Libertador San Isidro Golf|Lima|YES|stars_4
+90757|Casa Andina Private Collection - Miraflores|Lima|NO|stars_4.5
+90801|Mabey Palacio|Cuzco|NO|stars_3
+90802|Dorado Plaza|Iquitos|NO|stars_4
+91274|La Hacienda|Lima|NO|stars_4
+91280|Casa Andina Classic Cusco Plaza|Cuzco|NO|stars_3
+91281|Ruinas|Cuzco|NO|stars_3
+91282|Ramada Costa del Sol Cusco|Cuzco|YES|stars_4
+91521|Casa Andina Classic - Puno Plaza|Puno|NO|stars_3
+91522|Embajadores|Lima|NO|stars_3
+91523|San Agustin Internacional|Cuzco|YES|stars_3
+91524|Casa Andina Classic Arequipa Jerusalén|Arequipa|NO|stars_3
+92059|Wyndham Costa del Sol Lima Airport|Lima|NO|stars_3.5
+92354|Carmel|Lima|NO|stars_3
+92355|Libertador|Trujillo|YES|stars_4
+92356|El Gran Marques|Trujillo|NO|stars_4
+92358|Casa Andina Select - Gran Hotel Chiclayo|Chiclayo|NO|stars_4
+92359|Ramada Costa del Sol Chiclayo|Chiclayo|YES|stars_3
+92361|Libertador Titicaca Lake|Puno|YES|stars_4.5
+92362|Novotel Cusco|Cuzco|NO|stars_4
+92364|Casa Andina Private Collection - Puno|Puno|NO|stars_4
+92366|Casa Andina Private Collection - Cusco|Cuzco|NO|stars_4
+92367|Casa Andina Private Collection Arequipa|Arequipa|NO|stars_4
+93395|Colca Lodge|Chivay|NO|stars_3
+93398|Sonesta Posadas del Inca - Sacred Valley - Yucay|Urubamba-Tal|YES|stars_3
+93402|Casa Andina Classic - Nasca / Nazca|Nazca|NO|stars_3
+93603|Club Andino|Huaraz|NO|stars_3
+93909|Garden|Lima|NO|stars_4
+93911|El Condado Miraflores|Lima|YES|stars_4
+93912|Conquistadores|Lima|YES|stars_4
+105021|Best Western Los Andes De America|Cuzco|NO|stars_3
+106682|Del Pilar Miraflores|Lima|YES|stars_4
+107335|Golf Los Incas Apart|Lima|NO|stars_4
+108545|Delfines Hotel & Casino|Lima|YES|stars_4.5
+108547|Los Portales|Cuzco|NO|stars_3
+109664|Plaza del Bosque Apartment|Lima|NO|stars_4.5
+110347|Roosevelt & Suites|Lima|NO|stars_4
+110384|Sumaq Machu Picchu|Aguas Calientes|YES|stars_5
+110914|Sofitel Royal Park|Lima|YES|stars_5
+121507|Las Americas Pardo Thunderbird|Lima|YES|stars_5
+129008|Hatuchay Tower|Machu Picchu|YES|stars_3
+129013|Eco Inn Cuzco|Cuzco|YES|stars_4
+129753|Mariel|Lima|YES|stars_3
+129754|San Agustin Exclusive|Lima|YES|stars_4
+132903|El Corregidor|Arequipa|NO|stars_3
+132904|San Agustin Posada del Monasterio|Arequipa|NO|stars_3
+132907|Los Apus & Mirador|Cuzco|NO|stars_3
+132912|San Agustin El Dorado|Cuzco|YES|stars_4
+132916|Casa Andina Classic - Cusco San Blas|Cuzco|NO|stars_3
+132917|Casa Andina Classic - Cusco Koricancha|Cuzco|NO|stars_3
+132918|Agusto's|Cuzco|NO|stars_3
+132922|Casa Andina Classic - Cusco Catedral|Cuzco|NO|stars_3
+132924|Antara|Lima|NO|stars_4
+132928|San Agustin Riviera|Lima|YES|stars_3.5
+132931|Suites Del Bosque|Lima|NO|stars_4
+132933|San Agustin Colonial|Lima|YES|stars_3
+132935|Grand Bolivar|Lima|NO|stars_3
+132937|Maria Angola|Lima|YES|stars_4
+132946|Balsa Inn|Puno|NO|stars_3
+132948|Casa Andina Classic - Puno Tikarani|Puno|NO|stars_3
+134094|Royal Inca II|Cuzco|NO|stars_3
+134095|Royal Inca I|Cuzco|NO|stars_3
+136865|Las Casitas del Colca|Colca|NO|stars_5
+137171|Sol & Luna Lodge & Spa|Urubamba-Tal|NO|stars_4
+137536|San Blas|Lima|NO|stars_3
+137538|Libertador Tambo del Inca|Urubamba-Tal|NO|stars_5
+137634|Royal Inka Pisac|Pisac|NO|stars_2
+137635|San Agustin Urubamba|Urubamba-Tal|YES|stars_3
+137742|ACOSTA|Iquitos|NO|stars_3
+137781|PASTORURI|Huaraz|NO|stars_3
+137782|Thunderbird Carrera|Lima|YES|stars_4
+137783|San Agustin Monasterio de la Recoleta|Urubamba-Tal|YES|stars_4
+137801|Jose Antonio|Puno|NO|stars_4
+138081|Victoria Regia|Iquitos|NO|stars_3
+138824|Crowne Plaza Lima|Lima|NO|stars_4.5
+139167|Park Suites|Lima|NO|stars_3
+139463|Estelar Apartamentos Bellavista|Lima|YES|stars_4
+157628|Thunderbird Fiesta Hotel & Casino|Lima|NO|stars_4.5
+161890|New Corpac|Lima|YES|stars_3
+161892|Sonesta Posadas del Inca - Miraflores|Lima|YES|stars_3
+161896|La Fuente Arequipeña|Arequipa|NO|stars_3
+161897|Libertador Paracas Luxury Collection Resort|Paracas|YES|stars_5
+161899|Radisson Decapolis Miraflores|Lima|NO|stars_4
+161900|Radisson San Isidro|Lima|NO|stars_4
+161901|Santa Cruz|Lima|NO|stars_3
+161904|Sol de Oro Suites Apart|Lima|NO|stars_4
+161905|Terra Andina|Cuzco|YES|stars_3
+161907|Second Home Peru|Lima|NO|stars_3
+161908|Bussines Tower Hotel|Lima|NO|stars_4
+161909|qp Hotels All Suites boutique|Lima|NO|stars_4
+161914|NM Lima|Lima|NO|stars_4
+161917|El Lago Estelar|Arequipa|NO|stars_4
+162141|El Ducado|Lima|YES|stars_3
+183226|San Jeronimo|Cuzco|YES|stars_3
+183227|Rio Sagrado|Urubamba-Tal|YES|stars_4.5
+183696|Inkayra|Cuzco|NO|stars_3
+183701|Jose Antonio Executive|Lima|NO|stars_4
+183703|Miramar|Lima|NO|stars_3
+187304|Casa San Blas Boutique|Cuzco|NO|stars_3
+187306|Casa Andina Classic - Miraflores Centro|Lima|NO|stars_3
+187307|Casa Andina Classic - Miraflores San Antonio|Lima|NO|stars_3
+196032|Aranwa Sacred Valley|Urubamba-Tal|YES|stars_4.5
+196033|Taypikala Cuzco|Cuzco|YES|stars_3
+208599|Duo Boutique|Lima|NO|stars_3
+212821|L'Baron Jockey Plaza Mall|Lima|NO|stars_3
+227137|Las Dunas|Ica|NO|stars_4
+227172|Novotel Lima|Lima|NO|stars_4
+227822|El Rosal Cusco|Cuzco|NO|stars_3
+227921|Sonesta Cusco|Cuzco|NO|stars_4
+228165|Habitat|Lima|NO|stars_3
+229958|Casa Boutique Spa Encantada|Cuzco|NO|stars_3
+229960|Casa de Campo|Cuzco|NO|stars_3
+229965|DoubleTree Resort by Hilton Paracas - Peru|Paracas|NO|stars_4.5
+229967|Hacienda Majoro Boutique & Resort|Nazca|NO|stars_3
+229974|Corto Maltes Amazonia Lodge|Puerto Maldonado|NO|0
+233745|Chakana Hostel|Cuzco|NO|stars_2
+234531|Eco Inn Valle del Colca|Arequipa|NO|stars_3
+234533|Casa Cartagena|Cuzco|NO|stars_5
+234539|Munay Wasi Inn|Cuzco|NO|stars_3
+234541|Agusto's Urubamba|Urubamba-Tal|NO|stars_4
+236309|Casa Andina Select - Miraflores|Lima|NO|stars_4
+238649|Lima Wasi|Lima|NO|stars_3
+238764|Aranwa Boutique|Cuzco|NO|stars_5
+238854|La Hacienda Puno|Puno|NO|stars_3
+239178|Westin Lima Hotel & Convention Center|Lima|YES|stars_5
+239305|Tika Wasi|Cuzco|NO|stars_2.5
+239306|Buena Vista Cusco|Cuzco|NO|stars_2
+241611|Allpa Hotel & Suites|Lima|NO|stars_3
+247856|Faraona Grand|Lima|NO|stars_3
+249304|Mabey Urubamba|Urubamba-Tal|NO|stars_3
+249940|Tambo del Inka Resort & Spa|Urubamba-Tal|YES|stars_5
+249942|Stefanos Hotel|Lima|NO|stars_3
+259537|Palacio Nazarenas|Cuzco|YES|stars_5
+259791|Andean Wings|Cuzco|NO|stars_4
+259793|La Hacienda Plaza de Armas|Puno|NO|stars_3
+260342|Atton San Isidro|Lima|NO|stars_4
+260343|La Hacienda Bahía Paracas|Paracas|NO|stars_4
+260344|Costa del Sol Trujillo|Trujillo|NO|stars_4
+261092|Maison du Soleil|Arequipa|NO|stars_3
+261309|San Francisco Plaza|Cuzco|NO|stars_3
+261613|Vichayito Bungalows & Carpas by Aranwa|Piura|NO|stars_3.5
+265763|Ferre Colonial|Lima|NO|stars_3
+266794|Florida del Inca Hotel|Cuzco|NO|stars_3
+266796|Casona les Pleiades|Cuzco|NO|stars_3
+266801|Misters Inkas Hotels Inn Palace Exclusive|Cuzco|NO|stars_3
+266803|Kenamari|Cuzco|NO|stars_3
+266805|Pacha Hotel Museo|Cuzco|NO|stars_3
+266810|Antawasi Cusco|Cuzco|NO|stars_2.5
+266811|Casa de Mama Cusco 2|Cuzco|NO|stars_3
+266813|Los Aticos|Cuzco|NO|stars_2
+266817|Hostal Tu Hogar|Cuzco|NO|stars_3
+266819|Hotel Golden Inca|Cuzco|NO|stars_3
+266820|Quinua Villa Boutique|Cuzco|NO|stars_3
+266821|Casa de Mama Cusco|Cuzco|NO|stars_3
+266826|La Morada|Cuzco|NO|stars_3
+266837|El Mirador de Santa Ana|Cuzco|NO|stars_3
+266838|Hotel Mister Inkas II|Cuzco|NO|stars_3
+266840|Hostal Madre Tierra|Cuzco|NO|stars_3
+266842|Rumi Punku|Cuzco|NO|stars_3
+266853|Tambo del Arriero|Cuzco|NO|stars_3
+266854|Sol Plaza Inn Hotel|Cuzco|NO|stars_3
+266855|Sumac Wasi|Cuzco|NO|stars_2.5
+266857|Torre Dorada|Cuzco|NO|stars_3
+266858|Inkas Inn Cusco|Cuzco|NO|stars_2
+266867|Kamana|Lima|NO|stars_3
+266868|D'Osma Bed & Breakfast|Lima|NO|stars_2
+266870|La Paz Apart Hotel|Lima|NO|stars_3
+266871|Las Palmas|Lima|NO|stars_3
+266874|HosteLima|Lima|NO|stars_2
+266875|Hotel Ferre Miraflores|Lima|NO|stars_3
+266877|Peru Star Boutique Apartments|Lima|NO|stars_4
+266878|Machu Picchu Suites|Lima|NO|stars_3
+266881|B&B Miraflores Wasi Independencia|Lima|NO|stars_3
+266884|Peruaparts|Lima|NO|stars_3
+266885|F1 Hostel|Lima|NO|stars_2
+266886|Vila Santa Hotel|Lima|NO|stars_3
+266887|Albergue Miraflores House|Lima|NO|stars_2
+266888|Killari|Lima|NO|stars_2
+266889|Open Guest House|Lima|NO|stars_2
+266890|Inka Frog Exclusive Bed & Breakfast|Lima|NO|stars_3
+266893|Casa San Martin|Lima|NO|stars_3
+266894|Soul Mate Inn|Lima|NO|stars_3
+266897|Esperanza|Lima|NO|stars_2
+266898|Pucllana Lodge Hostel|Lima|NO|stars_2
+266903|San Isidro Inn|Lima|NO|stars_3
+266905|Penascal Surf|Lima|NO|stars_3
+266908|Sm Hotel And Business|Lima|NO|stars_3
+266909|Aloja Inn|Lima|NO|stars_2
+266910|Inkari Suites Hotel|Lima|NO|stars_3
+266914|La Casa de Blanca|Lima|NO|stars_2.5
+266916|Cirque Hostel|Lima|NO|stars_2
+266920|Inkari Apart Hotel|Lima|NO|stars_3
+266923|Señorio Gran Hotel|Lima|NO|stars_3
+266927|Hostal Victor|Lima|NO|stars_2
+271194|Casa Arequipa|Arequipa|NO|stars_3
+271197|Helena - Arequipa|Arequipa|NO|stars_3
+271200|Hostal Villa Sillar|Arequipa|NO|stars_3
+271201|Dreams Boutique Hotel|Arequipa|NO|stars_3
+271202|qp Hotels Arequipa|Arequipa|NO|stars_4
+271203|Casona Terrace Hotel|Arequipa|NO|stars_3
+271204|Hostal Scandinavia|Arequipa|NO|stars_2
+271211|Hoteles Benavides|Arequipa|NO|stars_3
+271213|Refugio Ecológico|Arequipa|NO|stars_3
+271215|Inkanto|Arequipa|NO|stars_3
+271218|Azul Colonial Inn|Arequipa|NO|stars_3
+271219|Alwa Rooms & Services Hotel Boutique|Arequipa|NO|stars_3
+271221|La Casona de Palacio Viejo|Arequipa|NO|stars_3
+271222|Queen's Villa|Arequipa|NO|stars_3
+271225|Natura Inn|Arequipa|NO|stars_3
+271226|La Maison del Solar|Arequipa|NO|stars_3
+271232|Tradicion Colca|Arequipa|NO|stars_3
+272838|Hotel Manco Capac|Puno|NO|stars_2
+272840|Qalasaya|Puno|NO|stars_4
+272841|Conde De Lemos Hotel|Puno|NO|stars_3
+272844|Presidente Inn|Puno|NO|stars_3
+272847|Punuypampa Inn|Puno|NO|stars_3
+272850|Hotel Puno Terra|Puno|NO|stars_3
+272852|San Antonio Suites|Puno|NO|stars_3
+274136|Hotel Dubai|Iquitos|NO|stars_3
+274139|Amazon Apart Hotel|Iquitos|NO|stars_3
+274140|Nativa Apartments|Iquitos|NO|stars_3
+276026|Andescamp Lodge|Huaraz|NO|stars_1
+276028|La Casa de Maruja B&B|Huaraz|NO|stars_2
+276029|El Tumi|Huaraz|NO|stars_3
+276031|Hotel Colomba|Huaraz|NO|stars_3
+276033|Luna Rumi Lodge|Urubamba-Tal|NO|stars_3
+276039|La Hacienda del Valle|Yanahuara|NO|stars_3
+276041|La Casona de Yucay Hotel|Urubamba-Tal|NO|stars_3
+276042|Inkallpa Valle Sagrado Lodge & Spa|Urubamba-Tal|NO|stars_3
+276131|Gran Bolívar|Trujillo|NO|stars_3
+276132|Le Mans|Trujillo|NO|stars_3
+276134|Las Palmeras Inn|Trujillo|NO|stars_3
+276135|Las Terrazas|Trujillo|NO|stars_3
+276137|Qhamar|Trujillo|NO|stars_3
+276138|Portada del Sol|Trujillo|NO|stars_3
+276139|Casa Muchik Boutique|Trujillo|NO|stars_3
+276140|Alexander|Trujillo|NO|stars_3
+276141|Residencial Munay Wasi|Trujillo|NO|stars_2
+276142|Plaza Grau|Trujillo|NO|stars_3
+276238|Killawasi Lodge|Chivay|NO|stars_3
+276241|Hotel Kunan Wasi|Nazca|NO|stars_3
+276784|El Albergue Ollantaytambo|Ollantaytambo|NO|stars_3
+277192|Hotel Ollanta|Ica|NO|stars_2.5
+277334|Gran Palma|Paracas|NO|stars_3
+277447|Sahara Mancora|Mancora|NO|stars_3
+277448|Eco Lodge|Mancora|NO|stars_3
+277449|El Escudero Lodge|Mancora|NO|stars_2
+277451|Hotelier|Mancora|NO|stars_3
+277452|Naif Rustic & Ecologic Lodge|Mancora|NO|stars_2
+277979|Luxury Home San Jeronimo Cusco|Cuzco|NO|stars_3
+277980|Amerika Boutique Hotel|Cuzco|NO|stars_3
+277982|JW Marriott Hotel Cusco|Cuzco|NO|stars_5
+277989|ibis Larco Miraflores|Lima|NO|stars_3
+277990|Bayview Hotel|Lima|NO|stars_3
+283653|Costa del Sol Cajamarca|Cajamarca|NO|stars_4
+284581|Costa del Sol Piura|Piura|NO|stars_4
+284827|Hotel Grandmare & Bungalows|Mancora|NO|stars_3.5
+285257|Suites Larco 656|Lima|NO|stars_2
+289169|Los Portales Hotel Chiclayo|Chiclayo|NO|stars_3
+291345|Royal Decameron Punta Sal|Punta Sal|NO|stars_4
+292237|Qawana Boutique Lodge|Cuzco|NO|stars_3
+292473|Kuntur Wassi Colca Hotel|Cabanaconde|NO|stars_3
+293775|Samay Hostel|Huancayo|NO|0
+294135|El Sauce Resort|Tarapoto|NO|stars_3
+295106|Casa Andina Chachapoyas|Chachapoyas|NO|stars_3
+295107|Los Portales Hotel Tarma|Tarma|NO|stars_3
+295428|Terrazas de Bocapán by Casa Andina|Zorritos|NO|stars_3
+295429|Los Balcones de Zorritos|Zorritos|NO|stars_3
+295431|Hotel y Restaurante El Molino|San Vicente de Canete|NO|0
+296187|El Angolo|Lima|NO|stars_3
+296816|DCO Suites Lounge & Spa|Mancora|NO|stars_4.5
+298261|Siete Ventanas|Cuzco|NO|stars_3
+300211|Aranwa - Pueblito Encantado del Colca|Arequipa|NO|stars_4
+300212|Nobility|Lima|NO|stars_4
+314937|The Guest House at Fallen Angel|Cuzco|NO|stars_4
+334836|Buena Vista Mancora|Mancora|NO|stars_3
+359651|Ramada Costa del Sol Tumbes|Tumbes|YES|stars_3
+364983|La Posada De Los Tumpis|Tumbes|NO|stars_3
+365383|Four Points by Sheraton Miraflores|Lima|YES|stars_4
+367141|Arts Boutique B|Lima|NO|stars_4
+367143|Hilton Lima Miraflores|Lima|NO|stars_4.5
+371944|Casa Andina Classic Chincha|Ica|NO|stars_3
+372332|Casa Hacienda San Jose|Chincha Alta|NO|stars_5
+401052|Aranwa Paracas|Paracas|NO|stars_4.5
+405298|Dazzler Lima|Lima|NO|stars_4

@@ -1,0 +1,1226 @@
+8592|Batory|Krakow|NO|stars_3
+10754|Copernicus|Krakow|NO|stars_5
+12328|Europejski|Warsaw|YES|stars_3
+13416|Mercure Warszawa Grand|Warsaw|YES|stars_4
+13784|Hanza|Gdansk|NO|stars_4
+13951|Mercure Gdansk Stare Miasto|Gdansk|YES|stars_4
+14108|Scandic Wroclaw|Wroclaw|YES|stars_4
+14109|Scandic Gdansk|Gdansk|YES|stars_4
+15010|Radisson Blu Sobieski Hotel|Warsaw|YES|stars_4
+16156|Le Meridien Bristol|Warsaw|YES|stars_5
+16921|Novotel Marina|Gdansk|NO|stars_3
+17306|Mercure Fryderyk Chopin - geschlossen|Warsaw|YES|stars_3
+19221|Pod Roza|Krakow|NO|stars_4
+21497|Sheraton Warsaw|Warsaw|YES|stars_5
+23683|Sofitel Warsaw Victoria|Warsaw|YES|stars_5
+26455|Bornit|Szklarska Poreba|NO|stars_4
+26622|Mercure Karpacz Resort|Karpacz|YES|stars_3
+26623|Konradowka|Karpacz|NO|stars_3
+26624|Mercure Jelenia Gora|Jelenia Gora|YES|stars_3
+27999|Golebiewski|Mikolajki|NO|stars_4
+28001|Las Gizycko / Europa|Gizycko|NO|stars_2.5
+28002|Talty|Talty|NO|stars_3
+28003|Panoramic-Oscar|Mragowo|NO|stars_3
+28004|Mercure Mragowo Resort & Spa|Mragowo|NO|stars_4
+28005|Hotel Orbis Posejdon Gdansk|Gdansk|YES|stars_3
+28006|Anders|Stare Jablonki|NO|stars_4
+28007|Sofitel Grand Sopot|Sopot|YES|stars_5
+28009|Kormoran|Rowy|NO|stars_3
+28011|Meduza|Mielno|NO|stars_3
+28012|Sandra|Pogorzelica|NO|stars_3
+28013|Senator|Dzwirzyno|NO|stars_4
+28015|Amber Baltic Hotel Miedzyzdroje|Miedzyzdroje|YES|stars_4
+28016|Etna|Kolobrzeg|NO|stars_3.5
+28017|Wyspianski|Krakow|YES|stars_3
+28018|Belweder|Karpacz|NO|stars_2
+28596|Park Hotel Kur & Spa Buczyn'ski|Swieradow Zdroj|NO|stars_4
+28597|Mona Lisa|Kolobrzeg|NO|stars_3
+28957|Monopol|Wroclaw|YES|stars_5
+28961|Orbis Francuski|Krakow|YES|stars_4
+29335|Atrium|Krakow|YES|stars_3
+31703|Hotel Sofitel Wroclaw Old Town|Wroclaw|YES|stars_5
+31735|Holiday Inn City Centre|Krakow|YES|stars_5
+31736|Warsaw Marriott Hotel|Warsaw|YES|stars_5
+34322|Campanile Wroclaw Stare Miasto|Wroclaw|YES|stars_2
+34323|Radisson Blu Breslau|Wroclaw|YES|stars_5
+34324|Radisson Blu Szcecin|Szczecin|NO|stars_4
+34325|Campanile Krakau|Krakow|YES|stars_2
+34326|Novotel Krakow Centrum|Krakow|YES|stars_4
+34453|Schloss-gut-Hotel Kadyny Country Club|Kadyny|NO|stars_3
+34455|Atol|Swinoujscie|NO|stars_3
+34456|Haffner|Sopot|YES|stars_4
+34457|Ewa|Mragowo|NO|stars_3
+34458|Schloss-Hotel Karnity|Milomlyn|NO|stars_3
+34459|Podewils Schlosshotel|Krag|NO|stars_3
+34460|Amax|Mikolajki|NO|stars_3
+36258|Senator Kurhaus|Swinoujscie|NO|stars_2
+36405|New Skanpol|Kolobrzeg|NO|stars_3
+36406|Wolin|Miedzyzdroje|NO|stars_3
+36407|Fryderyk|Bad Reinerz|NO|stars_3
+36408|Schloss Kliczkow|Kliczkow|NO|stars_4
+36409|Sasanka|Szklarska Poreba|NO|stars_3
+36622|Dom Muzyka|Gdansk|NO|stars_3
+37748|Jantar|Dziwnowek|NO|stars_3
+38118|Regent Warsaw Hotel|Warsaw|NO|stars_5
+38133|The Westin Warsaw Hotel|Warsaw|YES|stars_5
+38230|Senacki|Krakow|YES|stars_4
+38231|Radisson Blu Krakau|Krakow|YES|stars_5
+38282|El Pak|Swinoujscie|NO|stars_2
+39563|Wodnik|Henkenhagen|NO|stars_3
+39664|Dwor Oliwski|Gdansk|YES|stars_5
+39666|Dozamel|Kolobrzeg|NO|stars_3
+39667|Damian|Pobierowo|NO|stars_3
+39668|Aurora|Miedzyzdroje|NO|stars_4
+39744|Campanile Warszawa|Warsaw|YES|stars_2
+40004|Sheraton Krakow|Krakow|YES|stars_5
+40005|Novotel Szczecin|Szczecin|YES|stars_4
+40218|Schlosshotel Budzistowo|Kolobrzeg|NO|stars_3
+40219|Energetyk|Ustka|NO|stars_3
+40220|Warminska Gietrzwald|Gietrzwald|NO|stars_3.5
+40221|Mercure Kasprowy|Zakopane|YES|stars_3
+41306|Lazur|Swinoujscie|NO|stars_3
+41307|Mazurek|Miedzyzdroje|NO|stars_1
+41308|Bielik|Miedzyzdroje|NO|stars_3.5
+41310|Leo|Swieradow Zdroj|NO|stars_3
+48266|Malachit|Swieradow Zdroj|NO|stars_3
+48498|InterContinental Warschau|Warsaw|YES|stars_5
+49993|Novotel Warszawa Centrum|Warsaw|YES|stars_4
+49994|Mercure Warszawa Centrum|Warsaw|YES|stars_4
+49995|Radisson Blu Centrum Hotel|Warsaw|YES|stars_5
+50223|Novotel Krakow City West|Krakow|YES|stars_4
+50224|Orbis Cracovia|Krakow|YES|stars_3
+50683|Vera|Warsaw|YES|stars_3
+50774|Ibis budget Warszawa Centrum|Warsaw|YES|stars_3
+51151|Mercure Zamosc Stare Miasto|Zamosc|NO|stars_3
+51312|Kurhotel Pro-Vita|Kolobrzeg|NO|stars_3
+52933|Ikar|Kolobrzeg|NO|stars_3
+52961|Perla|Krakow|YES|stars_3
+53077|Leba|Leba|NO|stars_3
+53078|Lidia|Darlowko|NO|stars_4
+53080|Promenada Hotel & Spa|Swinoujscie|NO|stars_3
+54719|Kursanatorium Mega|Kolobrzeg|NO|stars_4
+54720|Unitral|Mielno|NO|stars_4
+54721|Wellness & Spa Wy & Spa|Pobierowo|NO|stars_4
+55557|Golden Tulip Warsaw Centre|Warsaw|YES|stars_4
+55724|Novotel Poznan Centrum|Poznan|YES|stars_4
+55779|Villa Kunterbunt|Puck|NO|stars_3
+56006|Ester|Krakow|YES|stars_4
+56051|Best Western Felix|Warsaw|YES|stars_3
+56052|Courtyard Warsaw International Airport|Warsaw|YES|stars_4
+56053|Gromada Lotnisko|Warsaw|YES|stars_3
+56244|Aspel|Krakow|YES|stars_3
+56245|Krakus|Krakow|YES|stars_3
+56246|Logos|Krakow|YES|stars_3
+56247|Classic|Krakow|YES|stars_3
+56248|Kazimierz I|Krakow|NO|stars_3
+56273|Wanda|Krakow|YES|stars_3
+56274|Novotel Warszawa Airport Hotel|Warsaw|YES|stars_4
+56394|Amadeus|Krakow|YES|stars_4
+56567|Mercure Wroclaw Centrum|Wroclaw|YES|stars_4
+56585|Ibis budget Wroclaw Stadion|Wroclaw|YES|stars_2
+56663|Stadt/Land-gut-Hotel Wodnik|Gizycko|NO|stars_3
+56664|Robert's Port|Mikolajki|NO|stars_4
+56665|Novotel Gdansk Centrum|Gdansk|YES|stars_3
+56690|Gromada Dom Chlopa|Warsaw|YES|stars_3.5
+56721|Justyna|Krakow|YES|stars_4
+56722|Chopin Cracow|Krakow|YES|stars_3
+56723|Sympozjum|Krakow|YES|stars_4
+56728|Novotel Wroclaw Hotel|Wroclaw|YES|stars_3
+56729|Hotel Novotel Poznan Malta|Poznan|YES|stars_3
+56730|Mercure Gdynia Centrum|Gdynia|YES|stars_3
+56731|Orbis Polonez|Poznan|YES|stars_3
+56732|Crown Piast Hotel & Park|Krakow|YES|stars_5
+56733|Ruczaj|Krakow|YES|stars_3
+56736|Orbis Hotel Wroclaw|Wroclaw|YES|stars_4
+56737|Gromada Zakopane|Zakopane|YES|stars_3
+56738|Gromada Poznan|Poznan|YES|stars_3
+56743|Orbis Giewont Zakopane|Zakopane|NO|stars_3
+56745|Best Western Galicya|Krakow|YES|stars_3
+56756|Hotel Mercure Poznan Centrum|Poznan|YES|stars_4
+56758|Best Western Kraków Old Town|Krakow|YES|stars_3
+56759|Hotel Orient|Krakow|YES|stars_4
+56760|HP Park Plaza Hotel|Wroclaw|YES|stars_4
+56810|Polaris|Swinoujscie|NO|stars_3
+56813|Rybak|Miedzyzdroje|NO|stars_2.5
+57204|Regent|Krakow|YES|stars_3
+57205|Rezydent|Krakow|YES|stars_3
+57241|Baltic Park Resort Stoczniowiec|Pogorzelica|NO|stars_3
+57244|Passat|Niechorze|NO|stars_3
+57456|Alga|Swinoujscie|NO|stars_4
+57457|Cieplice|Bad Warmbrunn - Cieplice|NO|stars_3
+57495|Start|Krakow|YES|stars_2
+57711|Rialto|Warsaw|NO|stars_5
+57791|W.M. System Krakow|Krakow|YES|stars_3
+58139|Villa Delfin Spa|Swinoujscie|NO|stars_3
+58420|Demel|Krakow|YES|stars_4
+58424|Dedek Park|Warsaw|NO|stars_3
+58425|Hetman|Warsaw|YES|stars_3
+58953|Kurhaus Verano|Kolobrzeg|NO|0
+60226|Daisy|Krakow|YES|stars_2
+60408|Best Western Hotel Portos|Warsaw|YES|stars_3
+60409|Aramis|Warsaw|YES|stars_1
+60410|Start Atos|Warsaw|YES|stars_2
+60884|Bona|Krakow|YES|stars_2
+60885|Rokk|Krakow|YES|stars_2
+61044|Grandhotel Krakow|Krakow|YES|stars_5
+61045|Polski Pod Bialym Orlem|Krakow|NO|stars_3
+61104|Petrus|Krakow|YES|stars_3
+62768|Litwor|Zakopane|NO|stars_5
+62791|Belvedere|Zakopane|NO|stars_4
+62792|Czarny Potok|Zakopane|NO|stars_3
+63147|Airport Hotel Okecie|Warsaw|YES|stars_4
+63163|Polonia Palace|Warsaw|YES|stars_4
+63166|MDM|Warsaw|YES|stars_3
+63920|Metropol|Warsaw|YES|stars_3
+64056|Las|Piechowice|NO|stars_3
+64611|Land-gut-Hotel Piastow Grod|Bad Reinerz|NO|stars_3
+64612|Jelenia Struga|Kowary|NO|stars_4
+64659|Royal|Krakow|YES|stars_3
+68243|Kurhotel Diament|Kolobrzeg|NO|stars_3
+68847|Matejko|Krakow|NO|stars_3
+68915|Akces|Dzwirzyno|NO|stars_3
+69167|Monika|Krakow|YES|stars_2
+69260|Ibis Warszawa Stare Miasto|Warsaw|NO|stars_2
+69261|Villa Baltica|Gdansk|NO|stars_3
+69530|Villa Herkules|Swinoujscie|NO|stars_3
+69531|Arthotel Posejdon|Rewal|NO|stars_3
+69532|Argentyt|Mielno|NO|stars_3
+69533|Villa & Hotel Lambert Medical Spa|Henkenhagen|NO|stars_4
+69535|Schloss Ryn|Ryn|NO|stars_4
+69537|Alpejski|Karpacz|NO|stars_4
+69559|Gold|Swinoujscie|NO|stars_3
+69560|Spa Dr. Irena Eris Wzgorza Dylewskie|Ostroda|NO|stars_5
+70402|Wielki Blekit|Kamien Pomorski|NO|stars_3
+70403|Marena|Heidebrink (Miedzywodzie)|NO|stars_3.5
+70404|Jantar Niechorze|Niechorze|NO|stars_3.5
+70405|Alcest|Rewal|NO|stars_3
+70410|Jantar Ustka|Ustka|NO|stars_3
+70411|Universal|Lazy|NO|stars_2
+70440|Relax Inn Health & Spa|Henkenhagen|NO|stars_3
+70443|Helena|Kruklanki|NO|stars_3
+70444|Akademicki Zwiazek Sportowy Wilkasy|Gizycko|NO|stars_3
+70900|LEO Karli|Bad Polzin|NO|stars_3
+70902|St. Lukas|Swieradow Zdroj|NO|stars_4
+70932|Gromada|Torun|NO|stars_3
+71220|Rezydent|Sopot|YES|stars_5
+72343|Ibis budget Torun|Torun|NO|stars_1
+72344|Silesia|Kattowitz|NO|stars_3
+72346|Mercure Torun Centrum|Torun|YES|stars_4
+72646|Meduza|Swinoujscie|NO|0
+73550|Afrodyta|Swinoujscie|NO|stars_3
+74690|Solny|Kolobrzeg|NO|stars_3
+75444|Santorini|Krakow|YES|stars_3
+75901|Bosman|Szklarska Poreba|NO|stars_3
+75902|Relaks|Karpacz|NO|stars_3
+75905|Gevita Jugowice|Jugowice|NO|stars_3
+75906|Geovita Ladek Zdroj|Ladek Zdroj|NO|stars_3
+75908|Geovita Zakopane|Zakopane|NO|stars_3
+75909|Redyk|Zab|NO|stars_3
+75910|Geovita Zlockie|Zlockie|NO|stars_3
+76011|Quality System Krakow West|Krakow|YES|stars_3
+77084|Alexander|Krakow|YES|stars_3
+77504|Erania|Henkenhagen|NO|stars_4
+77517|Orbis Neptun|Szczecin|YES|stars_3
+78003|Afrodyta|Osno Lubuskie|NO|stars_3
+78006|Reha Centrum Bad Schwarzbach|Swieradow Zdroj|NO|stars_3
+78117|Omega Grzybowo|Grzybowo|NO|0
+78492|Baltic Park Swinemünde|Swinoujscie|NO|stars_3
+78493|Vestina|Miedzyzdroje|NO|stars_3
+78516|Eden|Krakow|YES|stars_3
+78641|Albatros|Rowy|NO|stars_3
+78892|Sheraton Poznan|Poznan|YES|stars_5
+79159|andel's Cracow|Krakow|YES|stars_4
+79756|Geovita Mrzezyno|Mrzezyno|NO|stars_3
+79757|Laola|Pobierowo|NO|stars_2
+79758|Villa Anna Lisa|Swinoujscie|NO|stars_3
+79759|Geovita Dzwirzyno|Dzwirzyno|NO|stars_3
+79760|Geovita Dabki|Dabki|NO|stars_3
+79830|Lubicz|Ustka|NO|stars_4
+79982|Qubus Krakow|Krakow|YES|stars_4
+80290|Ewa Medical & Spa|Swieradow Zdroj|NO|stars_3
+82514|San|Kolobrzeg|NO|stars_3
+82568|Art|Wroclaw|YES|stars_4
+82574|Hotel Efekt Express Kraków|Krakow|YES|stars_4
+82871|Kurhotel Berliner|Swieradow Zdroj|NO|stars_3
+82872|Krysztal Conference & Spa|Szklarska Poreba|NO|stars_4
+82873|Kurhaus Wielka Pieniawa|Bad Altheide (Polanica Zdrój)|NO|stars_3
+84294|Mamaison Hotel Le Regina|Warsaw|YES|stars_5
+84358|Saski|Krakow|NO|stars_3
+85087|Dom Zdrojowy|Swieradow Zdroj|NO|0
+85089|Zdrowie|Bad Altheide (Polanica Zdrój)|NO|0
+85090|Kurhaus Zacisze|Bad Kudowa|NO|stars_3
+85091|Sanatorium Jan Kazimierz|Bad Reinerz|NO|0
+85092|Sanatorium Rybniczanka|Swinoujscie|NO|stars_3
+85093|Millennium|Heidebrink (Miedzywodzie)|NO|stars_3
+85094|Kurhotel Baltyk I & II|Kolobrzeg|NO|stars_3
+85095|Sanatorium Mewa 1/Mewa 4|Kolobrzeg|NO|0
+85096|Sanatorium Muszelka|Kolobrzeg|NO|0
+85097|Jantar SPA|Kolobrzeg|NO|stars_3
+85890|Qubus Glogów|Glogau|NO|stars_3
+85891|Qubus Legnica|Liegnitz|NO|stars_4
+85893|Qubus Walbrzych|Waldenburg|NO|stars_3
+85898|Qubus Gliwice|Gliwice|YES|stars_3
+85899|Papuga Park|Bielitz-Biala|NO|stars_4
+86001|IBB Grand Lublinianka|Lublin|YES|stars_4
+86002|Orbis Aria Sosnowiec|Kattowitz|YES|stars_3
+86003|Mercure Czestochowa Centrum|Czestochowa|YES|stars_3
+86004|Mercure Lublin Centrum|Lublin|YES|stars_3
+86008|Arkona - geschlossen|Szczecin|YES|stars_2
+86051|Jantar|Rewal|NO|stars_3
+86272|Kurhaus Bad Flinsberg|Swieradow Zdroj|NO|stars_3.5
+86273|Kurhaus Perelka|Kolobrzeg|NO|0
+86274|Kurhaus Baginscy Spa|Pobierowo|NO|stars_3
+86275|Kurhaus Albatros|Mielno|NO|stars_3
+86553|Novotel Katowice Centrum|Kattowitz|YES|stars_4
+86594|Milomlyn|Milomlyn|NO|stars_3
+86599|Ariston|Karpacz|NO|stars_4
+86606|Villa Scaliano|Bad Kudowa|NO|stars_3
+86607|Agat|Szklarska Poreba|NO|stars_3
+86610|Willa Taaakaryba|Kolobrzeg|NO|0
+86709|Pod Wawelem|Krakow|NO|stars_3
+86938|Ibb Andersia|Poznan|YES|stars_4
+87116|Bursztynowy Palac|Swieszyno|NO|stars_4
+87183|Kurhotel Adam & Spa|Bad Kudowa|NO|stars_3
+87185|Swieradow|Swieradow Zdroj|NO|stars_3
+87189|Kurhotel Krysztal|Swieradow Zdroj|NO|0
+87190|Kuranlage Syrena|Mielno|NO|stars_3
+87191|Kurhaus Olymp & Olymp II & Olymp III|Kolobrzeg|NO|stars_3
+87192|Kurhaus Maxymilian|Kolobrzeg|NO|stars_3
+87195|Kurhaus Niwa|Kolobrzeg|NO|stars_3
+87196|Kurhaus Bryza|Dzwirzyno|NO|stars_3
+87456|Paszkowka Palace|Krakow|NO|stars_4
+88319|Vivaldi|Poznan|YES|stars_4
+88432|Royal Route Residence by ApartmentsApart|Warsaw|YES|stars_3
+88444|Old Town|Krakow|YES|stars_3
+88509|Hotel Jan|Krakow|NO|stars_3
+88529|Praski  Hotel|Warsaw|YES|stars_2
+88769|Kazimierz II|Krakow|YES|stars_3
+90094|Arka Medical Spa|Kolobrzeg|NO|stars_4
+90120|Campanile Szczecin|Szczecin|YES|stars_2
+90123|Tumski|Wroclaw|NO|stars_3
+90180|Major|Krakow|YES|stars_3
+90499|Kurhaus Gryf|Bad Polzin|NO|stars_3
+90504|Górnik Kurhaus|Kolobrzeg|NO|stars_3
+90917|Villa Rezydent|Swinoujscie|NO|stars_3
+90918|Villa Tarsis|Kolobrzeg|NO|stars_3
+91465|Sanatorium Agat|Bad Warmbrunn - Cieplice|NO|0
+91466|Polonia|Bad Kudowa|NO|0
+91468|Polaris III|Swinoujscie|NO|stars_3
+91469|Polaris II|Swinoujscie|NO|stars_3
+91470|Nautilus|Miedzyzdroje|NO|stars_3
+91471|Kurhaus Max|Henkenhagen|NO|stars_3
+91955|Witek|Krakow|NO|stars_4
+92060|Nosalowy Dwór Resort & SPA - Nosalowy Dwór|Zakopane|NO|stars_3
+92061|Bania Thermal & Ski|Bialka Tatrzanska|NO|stars_4
+92063|Maria|Zakopane|NO|0
+92064|Willa Szarotka|Zakopane|NO|stars_3
+92782|Farmona SPA|Krakow|YES|stars_3
+92911|Atrium|Szczecin|NO|stars_4
+92913|NH Poznan|Poznan|YES|stars_4
+93226|Villa Jedynak|Swinoujscie|NO|stars_3
+93290|Nad Parseta|Kolobrzeg|NO|stars_3
+93722|Columbus|Krakow|YES|stars_3
+94203|Hilton|Warsaw|YES|stars_5
+95002|Alexander II|Krakow|NO|stars_3
+95003|Hotel Amber|Krakow|NO|stars_3
+95135|Campanile Lodz|Lodz|YES|stars_2
+95222|Dolina Charlotty|Stolp|NO|stars_4
+95223|Ksiezycowy Dworek|Ketrzyn|NO|0
+95224|Masuria & Spa|Lukta|NO|stars_4
+95536|Baltic Home Regina Maris|Swinoujscie|NO|stars_3
+95537|Pension Plaza|Rewal|NO|stars_3
+97063|Qubus Maria Magdalena Wroclaw|Wroclaw|YES|stars_4
+97334|Ikar Plaza|Kolobrzeg|NO|stars_4
+97407|Kurhaus Bursztyn/Bernstein|Kolobrzeg|NO|stars_3
+97924|Best Western Bonum|Gdansk|YES|stars_3
+99214|Campanile Poznan|Poznan|YES|stars_2
+99887|Villa Eva|Gdansk|YES|stars_3
+99889|Ostoya Palace|Krakow|YES|stars_4
+100512|Qubus Lódz|Lodz|YES|stars_3
+100513|Qubus Prestige Katowice|Kattowitz|YES|stars_4
+100519|Wolne Miasto|Gdansk|YES|stars_3
+102694|Willa Albatros|Gdansk|YES|stars_2
+102695|Secesja|Krakow|YES|stars_3
+102696|Spatz|Krakow|YES|stars_3
+102697|Maly|Krakow|YES|stars_2.5
+102835|Oliwski|Gdansk|NO|stars_3
+103207|Vivaldi|Karpacz|NO|stars_3
+103210|Carmen|Karpacz|NO|stars_3
+103212|META|Szczyrk|NO|stars_4
+103213|Helios|Zakopane|NO|stars_2
+103650|Best Western Premier Krakow Hotel|Krakow|YES|stars_4
+104270|Babka Tower|Warsaw|NO|stars_3
+104310|Bartan Gdansk|Gdansk|NO|stars_3
+105059|Mazurkas|Ozarów Mazowiecki|YES|stars_4
+105604|Campanile Katowitz|Kattowitz|YES|stars_2
+106709|Diament|Kattowitz|NO|stars_4
+106711|Diament Economy Gliwice|Gliwice|NO|stars_3
+106712|Diament Zabrze|Hindenburg (Zabrze)|NO|stars_3
+106931|Europejski|Krakow|NO|stars_3
+107151|Fortuna|Krakow|NO|stars_3
+107830|Holiday Inn Warschau Josefow|Jozefow|NO|stars_4
+107935|HP Park Olsztyn|Allenstein (Olsztyn)|NO|stars_3
+108208|Kongresowy|Kielce|NO|stars_3
+109055|Bochnia Hotel & Spa|Bochnia|NO|stars_3
+109137|Monopol|Kattowitz|NO|stars_5
+109195|Nadmorski|Gdynia|NO|stars_4
+109267|Noma Residence|Tychy|NO|stars_4
+109365|Omega|Allenstein (Olsztyn)|NO|stars_3
+109487|Opera|Sopot|NO|stars_3
+109721|Prezydencki|Rzeszow|NO|stars_3
+109931|Qubus Zlotoryja|Zlotoryja|NO|stars_3
+110119|Mamaison Residence Diana|Warsaw|YES|stars_4
+110163|Reytan|Warsaw|NO|stars_3
+110367|Royal|Poznan|NO|stars_3
+111097|Quality System - Hotel Poznan|Poznan|YES|stars_3
+111542|Villa Marilor|Zakopane|NO|stars_5
+111642|Wentzl|Krakow|NO|stars_4
+111758|Mercure Cieszyn|Cieszyn|NO|stars_3
+122390|Freedom Hostel|Krakow|YES|stars_2
+122862|Magnolia I|Swieradow Zdroj|NO|0
+122863|Pod Jeleniem|Swieradow Zdroj|NO|0
+124844|Quality System Wroclaw North-East|Wroclaw|YES|stars_3
+124846|Poleski|Krakow|NO|stars_3
+124847|Rubinstein|Krakow|YES|stars_4
+124848|Ascot|Krakow|YES|stars_3
+124849|Campanile Lublin|Lublin|YES|stars_2
+124850|Sheraton Sopot|Sopot|YES|stars_5
+127382|Willa Lubicz|Gdynia|NO|stars_3
+128786|Villa Angela|Gdansk|NO|stars_3
+128789|Stare Miasto|Poznan|NO|stars_3
+128790|Noce i Dnie|Postolowo|NO|stars_3
+128792|Galery 69|Stawiguda|NO|stars_3.5
+129765|Polonia|Wroclaw|NO|stars_3
+132985|Pod Orlem|Bydgoszcz|NO|stars_4
+132991|Stara Karczma|Gdansk|NO|stars_3
+132994|ParkHotel Economic|Modlnica|NO|stars_2
+132997|Stary|Krakow|NO|stars_5
+132998|Atelier|Krakow|YES|stars_3
+132999|BlueBells Apartments|Krakow|YES|stars_3
+133000|The Bonerowski Palace|Krakow|YES|stars_5
+133003|Miramar|Sopot|NO|stars_2
+133004|Pod Czarna Roza|Torun|NO|stars_3
+133007|Ibis Ostrobramska|Warsaw|NO|stars_2
+134442|Aquarius Spa|Kolobrzeg|NO|stars_5
+135105|Kielczanka|Kolobrzeg|NO|stars_3
+135106|Hotel Diva Spa|Kolobrzeg|NO|stars_4
+135204|Kursanatorium Krus|Szklarska Poreba|NO|stars_3
+135442|Benefis|Krakow|YES|stars_3
+135667|Król Plaza Spa|Jaroslawiec|NO|stars_4
+135668|Willa Alexander|Mielno|NO|stars_4.5
+135674|Filmar|Thorn|NO|stars_4
+135804|Verde Montana|Bad Kudowa|NO|stars_4
+135925|Radisson Blu Gdansk|Gdansk|NO|stars_5
+136249|Bernstein Wellnesszentrum|Dabki|NO|stars_3
+136478|Silesian - Economy|Kattowitz|YES|stars_2
+136479|Silesian - Quality|Kattowitz|YES|stars_3
+136539|andel's Lodz|Lodz|NO|stars_4
+136540|Marina|Miedzyzdroje|NO|stars_3
+136544|Manor|Allenstein (Olsztyn)|NO|stars_4
+136708|Apis|Krakow|YES|stars_3
+138053|Grand Lodz|Lodz|NO|stars_3
+138190|Redbrick Aparthotel|Krakow|NO|stars_3.5
+138192|Wielopole|Krakow|NO|stars_3
+139701|Willa Jolanta|Gdansk|NO|stars_3
+142039|Gdansk|Gdansk|YES|stars_4
+142181|Ambasador|Krakow|YES|stars_3
+142182|Bellamonte|Zakopane|YES|stars_3
+142183|City Park Hotel & Residence|Poznan|YES|stars_5
+143106|HP Park|Poznan|YES|stars_3
+143385|Lesna Polana|Henkenhagen|NO|stars_3
+144359|Kossak|Krakow|YES|stars_4
+145134|The Secret Garden|Krakow|YES|stars_2
+145248|Zentrum SPA Chimera|Niechorze|NO|0
+160240|Maximus Spa|Dziwnowek|NO|stars_3.5
+161935|Ibis Lodz Centrum|Lodz|NO|stars_2
+161936|Ibis Warszawa Centrum|Warsaw|NO|stars_2
+161938|Kuracyjny|Gdynia|NO|stars_3
+161943|Floryan|Krakow|NO|stars_3
+161945|Borys|Walim|NO|stars_2
+161947|Solar Palace|Mragowo|NO|stars_3
+161948|Astoria|Krakow|YES|stars_3
+161952|Warminski|Allenstein (Olsztyn)|NO|stars_3
+161955|Lezno Palace Airport|Gdansk|NO|stars_3
+161964|Caspar|Jelenia Gora|NO|stars_3
+161965|Antique Apartments|Krakow|NO|stars_3
+161967|Villa Sedan|Sopot|NO|stars_2.5
+161970|Ibis Czestochowa|Czestochowa|NO|stars_2
+161972|Elektor - Old Town - Krakow|Krakow|NO|stars_3
+161975|MaMaison Parkhotel Vienna|Bielitz-Biala|NO|stars_4
+161976|David|Krakow|YES|stars_3
+161977|Ibis Szczecin|Szczecin|NO|stars_2
+161980|Rigga|Wladyslawowo|NO|stars_3
+161981|Ibis Katowice Zabrze|Hindenburg (Zabrze)|NO|stars_2
+161982|Ibis Poznan Centrum|Poznan|NO|stars_2
+161983|Focus Lodz|Lodz|YES|stars_3
+161984|Focus Szczecin|Szczecin|YES|stars_3
+161985|NIL POL Apartments|Warsaw|NO|stars_3
+161986|Mikolaj|Krakow|NO|stars_3
+161987|Ottaviano|Swinoujscie|NO|stars_3
+161990|Qubus Gorzów Wielkopolski|Landsberg an der Warthe|NO|stars_4
+161991|Qubus Kielce|Kielce|NO|stars_4
+161992|Ibis Krakow Centrum|Krakow|NO|stars_2
+161993|Park Hotel Diament|Kattowitz|NO|stars_4
+161994|Diament Ustron|Ustron|NO|stars_3
+161995|Turowka|Krakow|NO|stars_4
+161998|Apollo|Karpacz|NO|stars_3
+162002|Best Western Villa Aqua|Sopot|NO|stars_2
+162003|Olimpia|Krakow|YES|stars_3
+163483|Villa Royal|Zakopane|YES|stars_3
+177193|Old Time|Krakow|NO|stars_3
+182411|Arstone Villa am Park|Swinoujscie|NO|stars_3
+182420|Sandra Spa Karpacz|Karpacz|NO|stars_4
+182804|Hotel & Medi-Spa Bialy Kamien / Weißer Stein|Swieradow Zdroj|NO|stars_4
+182990|Qubus Gdansk|Gdansk|YES|stars_4
+182991|Park Inn by Radisson Krakow|Krakow|YES|stars_4
+183162|Leda|Kolobrzeg|NO|stars_4
+183708|Kazimierz Residence|Krakow|YES|stars_3
+188108|Unicus|Krakow|YES|stars_4
+196055|Trofana|Miedzyzdroje|NO|stars_3
+196199|Willa Port Resort|Ostroda|NO|stars_4
+197222|Golabek|Leba|NO|stars_3
+201491|Ferienanlage Promenada|Swinoujscie|NO|0
+201493|Ferienanlage Grzybowo|Grzybowo|NO|0
+201494|Aparthotel Kolobrzeg|Kolobrzeg|NO|0
+201496|Ferienanlage Jaroslawiec|Jaroslawiec|NO|0
+201498|Villa Fred|Gdynia|NO|stars_4
+201499|Feriendorf Mamry|Wegorzewo|NO|0
+201769|Platinum|Ostroda|NO|stars_4
+202308|Renusz|Gdansk|NO|stars_3
+202309|Anek|Mragowo|NO|stars_3
+202572|Globus|Krakow|NO|stars_3
+202987|The Granary - La Suite Hotel|Wroclaw|YES|stars_5
+203207|Wloski|Poznan|YES|stars_3
+203208|Swing|Krakow|YES|stars_4
+203209|Fero Express|Krakow|YES|stars_3
+203630|1231|Torun|NO|stars_4
+203733|AAA Krakow Apartments - Atlantis Apartments|Krakow|NO|stars_4
+203806|Abella Guest Rooms & Apartments|Krakow|NO|stars_2.5
+203940|Afrodyta|Mielno|NO|0
+204050|Akira Bed&Breakfast|Wroclaw|NO|stars_2
+204506|Stadt-gut-Hotel Ambasador|Rzeszow|NO|stars_4
+204602|Angel Bed & Breakfast|Krakow|NO|stars_3
+204651|Antica Guesthouse|Krakow|NO|stars_2
+204676|Hotel Rozany Gaj|Gdynia|NO|stars_3
+204875|Apartamenty Bracka 6|Krakow|NO|stars_4
+204879|Apartamenty Hotelowe Zgoda by DeSilva|Warsaw|NO|stars_3
+204880|Apartamenty Muzyczny Kraków|Krakow|NO|0
+204889|Apartamenty Tww Lubicz|Krakow|NO|stars_3
+204890|Apartamenty TWW Tomasza|Krakow|NO|stars_3
+204921|Aparthotel Panorama Avangard|Swinoujscie|NO|stars_3.5
+204923|Aparthotel Park Avangard|Swinoujscie|NO|stars_4
+204945|Apartment Lemon|Krakow|NO|stars_3
+204975|Apartments Florian - Kazimierz|Krakow|NO|stars_3
+205216|Arkadia|Warsaw|NO|stars_3
+205251|Art Niebieski|Krakow|NO|stars_5
+205434|Atrium|Elbing|NO|stars_3
+205612|B & B Unikat Pokoje Goscinne|Krakow|NO|stars_2
+205671|B&B Kolory|Krakow|NO|0
+205720|Bacero|Wroclaw|YES|stars_3
+205898|Bayjonn|Sopot|NO|stars_3
+206087|Belwederski|Warsaw|NO|stars_3
+206182|Best Western Premier Katowice Hotel|Kattowitz|NO|stars_4
+206235|Bis|Jelenia Gora|NO|stars_3
+206240|Biskupia Apartments|Krakow|NO|stars_3
+206266|Blow Up Hall 5050|Poznan|NO|stars_5
+206325|Bohema Hotel & Spa|Bydgoszcz|NO|stars_5
+206351|Boogie Hostel|Wroclaw|NO|stars_1
+206449|Branicki|Bialystok|NO|stars_4
+206607|Bulwar|Torun|NO|stars_4
+207070|Castle Inn|Warsaw|NO|stars_3
+207154|Central Krakow Apartments|Krakow|NO|stars_3
+207188|Centrum|Kolobrzeg|NO|0
+207190|Centrum Dikul|Wroclaw|NO|stars_3
+207192|Centrum Kongresowe IOR|Poznan|NO|stars_3
+207423|City|Bydgoszcz|NO|stars_4
+207595|Columbus|Rowy|NO|stars_3
+207673|Conrad|Krakow|YES|stars_4
+207865|Cristal Park|Tarnow|NO|stars_3
+207873|Crocus|Zakopane|NO|stars_4
+207911|Crystal Suites|Krakow|NO|stars_3
+208299|Hotel Mercure Warszawa Airport|Warsaw|NO|stars_3
+208320|Park Hotel Diament Wroclaw|Wroclaw|NO|stars_4
+208396|Dom Casimi|Krakow|NO|stars_2
+208428|Domino Apartments|Krakow|NO|stars_2
+208454|Don Prestige Residence|Poznan|NO|stars_4
+208622|Dwa Bratanki|Rzeszow|NO|stars_3
+208623|Dwór Kosciuszko|Krakow|NO|stars_5
+208630|Dziki Potok|Karpacz|NO|stars_3
+208774|Elbrus Spa & Wellness|Szczyrk|NO|stars_3
+208980|Europa|Sopot|NO|stars_3
+209001|Europa|Lublin|NO|stars_4
+209013|Europeum|Wroclaw|NO|stars_3
+209018|EuroResidence Apartament Home|Kattowitz|NO|stars_3
+209320|Florianska Apartment House|Krakow|NO|stars_3
+209432|Frolic Goats Hostel|Poznan|NO|stars_1
+209459|Gaja|Poznan|NO|stars_3
+209474|Galicja|Wieliczka|NO|stars_3
+209840|Globtroter|Krakow|NO|stars_2.5
+209857|Aparthotel Station|Krakow|NO|stars_2
+209905|Gosciniec Nowa Wioska|Waldenburg|NO|stars_3
+209940|Havet Resort & Spa|Dzwirzyno|NO|stars_5
+209985|Grand Rzeszów|Rzeszow|NO|stars_4
+210005|Grand Sal|Wieliczka|NO|stars_4
+210070|Grodek|Krakow|NO|stars_5
+210074|Gromada Koszalin|Koszalin|NO|stars_3
+210084|Grot|Marienburg|NO|stars_3
+210114|Guest Rooms Maria|Krakow|NO|stars_3
+210453|Hetman|Rzeszow|NO|stars_3
+210598|Holland House Residence|Gdansk|NO|stars_4
+210890|Hostel Yellow|Krakow|NO|stars_2
+210931|Geovita Wisla & Conference Center|Wisla|NO|stars_3
+211600|Huzar|Lublin|NO|stars_3
+211717|Ilonn|Poznan|NO|stars_4
+211736|Impresja|Gdansk|NO|stars_3
+211915|Jasek|Wroclaw|NO|stars_3
+212009|Kamienica Pod Kasztanami|Swinoujscie|NO|stars_2
+212029|Karmel|Krakow|NO|stars_3
+212061|Kazimierz Secret|Krakow|NO|stars_2
+212204|Kopernik|Torun|NO|stars_3
+212217|Hotel Korona Spa & Wellness|Lublin|NO|stars_4
+212224|Kraków City Apartments|Krakow|YES|stars_3
+212252|Kudowa|Bad Kudowa|NO|stars_4
+212434|La Gioia Designer's Lofts Luxury Apartments|Krakow|NO|stars_4
+212435|La Gioia Modern Designed Apartments|Krakow|NO|stars_4
+212510|La Petite|Gdansk|NO|stars_3
+213125|LeoApart|Wroclaw|NO|stars_3
+213486|Lord|Warsaw|NO|stars_4
+213612|Best Western Grand Hotel|Kielce|NO|stars_3
+213706|Maltanski|Krakow|NO|stars_3
+213943|Mazury|Gizycko|NO|stars_3
+213991|Melody Hostel|Poznan|NO|stars_1
+214352|Murowanica|Zakopane|NO|stars_3
+214447|Neptun|Gdynia|NO|stars_3
+214648|Oberza Pod Lipami|Gdansk|NO|stars_2
+214649|Oberza Sasiadów|Krakow|NO|stars_3
+214681|Oki Doki Hostel|Warsaw|NO|stars_2
+214803|Magnat Spa|Grzybowo|NO|stars_3
+214808|Osrodek Hotelarski Fian|Zakopane|NO|stars_3
+214844|P&O Apartments|Warsaw|NO|stars_4
+214850|Palac Paulinum|Jelenia Gora|NO|stars_3
+214851|Palac Wojanów|Jelenia Gora|NO|stars_4
+214963|Panorama|Krakow|NO|stars_2
+215123|Patio|Wroclaw|NO|stars_3
+215398|Pensjonat Max|Karpacz|NO|stars_3
+215400|Orzel Pensjonat & Apartments - Pensjonat|Koscielisko|NO|stars_3
+215404|Pensjonat Stara Wedzarnia|Gdansk|NO|stars_3
+215442|Pergamin Apartments|Krakow|NO|stars_3
+215462|Petite Fleur|Torun|NO|stars_3
+215576|Platinium|Wroclaw|NO|stars_5
+215624|Via Steso|Gdansk|NO|stars_3
+216398|ProHarmonia Rezydencja Wellness|Ladek Zdroj|NO|0
+216684|Rejs|Ustka|NO|stars_4
+216932|Residence St. Andrew's Palace|Warsaw|NO|stars_4
+217083|Rest Warschau|Warsaw|NO|stars_2
+217174|Reymont|Lodz|NO|stars_3
+217176|Rezydencja 5 Debów|Miedzyzdroje|NO|0
+217177|Rezydencja Krasickiego|Krakow|YES|stars_3
+217179|Rezydencja Solei|Poznan|NO|stars_4
+217492|Royal Baltic|Ustka|NO|stars_4
+217541|Ruben|Zielona Gora|NO|stars_4
+217576|Rycerski|Szczecin|NO|stars_3
+217586|Sloneczny Mlyn|Bydgoszcz|NO|stars_4
+217674|Salwator Apartments|Krakow|NO|stars_3
+218173|Solei|Poznan|NO|stars_4
+218374|Start|Zakopane|NO|stars_2.5
+218639|Teczowy Mlyn|Kielce|NO|stars_4
+218659|Tango House Bed & Breakfast|Krakow|NO|stars_3
+219700|Top Apartments|Krakow|NO|stars_3
+219840|Trzy Swiaty|Gliwice|NO|stars_3
+219889|Twardowski|Poznan|NO|stars_4
+219901|Tyniecki|Krakow|NO|stars_3
+220024|Vega|Wroclaw|YES|stars_3
+220044|Ventus Rosa Apartments|Krakow|NO|stars_3.5
+220065|Vestina|Wisla|NO|stars_3
+220081|Victoria Apartments|Krakow|NO|stars_4
+220150|Villa Admiral|Gdynia|NO|stars_3
+220382|Villa Pascal|Gdansk|NO|stars_2
+220397|GreenLine Hotel Villa Red|Ustka|NO|stars_3.5
+220422|Villa Sart|Gdansk|NO|stars_2
+220449|Villa Tilia|Bad Altheide (Polanica Zdrój)|NO|stars_3
+220455|Villa Toscana|Zakopane|NO|stars_3
+220475|Villa Verdi Pleasure & Spa|Leba|NO|stars_3
+220485|Villa Zakamycze|Krakow|NO|stars_3
+220636|Wawel|Krakow|NO|stars_3
+220759|Wilenski|Allenstein (Olsztyn)|NO|stars_4
+220760|Wilga|Krakow|NO|stars_3
+220767|Willa Arkadia|Poznan|NO|stars_4
+220768|Willa Atelier|Zakopane|NO|stars_3
+220769|Willa Atena|Swinoujscie|NO|stars_3
+220772|Willa Carlton|Zakopane|NO|stars_2
+220773|Residence Willa Isabel|Gdansk|NO|stars_3
+220774|Willa Jaskowy Dworek|Gdansk|NO|stars_3
+220777|Willa Kominiarski Wierch|Zakopane|NO|stars_3
+220786|Willa Zameczek|Bad Altheide (Polanica Zdrój)|NO|stars_3
+220823|Witomino|Gdynia|NO|stars_2
+221311|Barka|Kalwaria Zebrzydowska|NO|stars_3
+221609|Kocierz Hotel & Spa|Andrychow|NO|stars_3
+221639|Czarny Kos|Borkowo|NO|stars_3
+221746|DeSilva Inn Katowice Airport|Kattowitz|NO|stars_3
+221747|Desilva Piaseczno|Piaseczno|NO|stars_3
+221810|Duo|Janów Lubelski|NO|stars_4
+221814|Dwór Kaliszki|Pisz|NO|stars_3
+222075|Gromada Busko Zdrój|Busko-Zdrój|NO|stars_3
+222076|Gromada Lomza|Lomza|NO|stars_3
+222077|Gromada Pila|Schneidemühl|NO|stars_3
+222079|Gromada Radom Borki|Radom|NO|stars_3
+222080|Gromada Radom Centrum|Radom|NO|stars_3
+222294|Geovita Krynica-Zdroj|Krynica-Zdrój|NO|stars_3
+222383|Iskra|Radom|NO|stars_3
+222443|Klimek Spa|Muszyna|NO|stars_4
+222465|Krynica Conference & SPA|Krynica-Zdrój|NO|stars_4
+222714|Mlyn|Wloclawek|NO|stars_4
+222813|Morag|Mohrungen (Morag)|NO|stars_2
+222844|Murat|Gdynia|NO|stars_3
+222900|Orle|Gdansk|NO|stars_3
+222903|Ossa Congress & Spa|Rawa Mazowiecka|NO|stars_4
+222914|Palac Brunów|Jelenia Gora|NO|stars_3
+222952|Parkhotel Lyson|Andrychow|NO|stars_4
+223037|Pensjonat Maxim|Kwidzyn|NO|stars_3
+223117|Prezydent|Krynica-Zdrój|NO|stars_4
+223469|Spa Dr Irena Eris Krynica Zdrój|Krynica-Zdrój|NO|stars_4
+223539|Szara Willa|Oppeln|NO|stars_3
+223697|Victor|Pruszków|NO|stars_3
+223741|Villa Estera - Hotel & Restauracja|Warsaw|NO|stars_4
+223816|Schloss-gut-Hotel Wieniawa|Rekowo|NO|stars_3
+223819|Wilga by Katowice Airport|Kattowitz|NO|stars_3
+223851|Zielona Weranda|Wielun|NO|stars_3
+226879|angelo Katowice|Kattowitz|YES|stars_4
+227014|Sand|Kolobrzeg|NO|stars_4
+227292|Land-gut-Hotel Olympic|Wronki|NO|stars_3
+227880|Villa Romantica|Szklarska Poreba|NO|stars_3
+227881|Artus|Karpacz|NO|stars_3
+228395|Boss|Warsaw|YES|stars_3
+228559|Dwor Polski|Wroclaw|NO|stars_4
+228660|Hotel GEM|Wroclaw|NO|stars_3
+228703|Marine Hotel & Ultra Marine by Zdrojowa - Marine Hotel|Kolobrzeg|NO|stars_5
+228749|Irys|Swinoujscie|NO|stars_3
+228750|Kurhaus Amber Spa|Kolobrzeg|NO|0
+229503|Galion|Gdansk|NO|stars_3
+230100|Bursztyn|Swinoujscie|NO|stars_3
+230111|Rubbens & Monet - Rubbens|Torun|NO|stars_3
+230122|Pensjonat Ogrodow|Czestochowa|NO|stars_3
+230188|Hotton|Gdynia|NO|stars_3
+230189|Stadt-gut-Hotel Faltom Spa|Rumia|NO|stars_4
+230193|SPA Jawor|Jaworze|NO|stars_4
+230206|Dworek Osada Wedrowca|Kosakowo|NO|stars_2
+230209|Gästezimmer Apartments Basztowa|Krakow|NO|stars_3
+230210|AparAstor|Krakow|NO|stars_3
+230214|Delta|Krakow|NO|stars_3
+230218|Golden Lion Apartments Szewska|Krakow|NO|stars_2.5
+230226|Aparthotel Siesta|Krakow|NO|stars_3
+230229|Maksymilian|Krakow|NO|stars_3
+230232|B.A.S. Villa Residence|Krakow|NO|stars_3
+230235|Hostel 70's|Krakow|NO|stars_2
+230243|Dworek Tryumf|Ksiezyno|NO|stars_3
+230246|Centrum Konferencji i Rekreacji Akwawit|Leszno|NO|stars_3
+230252|Black & White|Myslenice|NO|stars_3
+230256|Novum|Niepolomice|NO|stars_3
+230258|Zbyszko w Nowogrodzie|Nowogród|NO|stars_3
+230263|Stylehotels Vacanza|Siemianowice Slaskie|NO|stars_3
+230266|Villa Sentoza|Sopot|NO|stars_3
+230271|Wiktoria|Szklarska Poreba|NO|stars_2
+230289|Tatra Chalet|Zakopane|NO|stars_5
+230291|Grand Stamary|Zakopane|NO|stars_4
+230292|Skalny|Zakopane|NO|stars_3
+230577|Geovita Jadwisin|Serock|NO|0
+231635|Hilton Gdansk|Gdansk|NO|stars_5
+231642|Stary Tartak|Ilawa|NO|stars_4
+231906|Villa Jantar|Swinoujscie|NO|stars_3
+231908|Puchacz|Niechorze|NO|stars_3
+231990|500|Poznan|NO|stars_3
+231998|Duet|Wroclaw|NO|stars_3
+232002|Lech|Poznan|NO|stars_2
+232039|Kacperski|Lodz|NO|stars_3
+232044|Pensjonat M.F.|Elbing|NO|stars_3
+232054|Zamek Czocha|Marklissa|NO|0
+232059|Zimnik|Lipowa|NO|stars_4
+232430|Polonia|Rewal|NO|stars_3
+232431|Bocianie Gniazdo|Pogorzelica|NO|stars_2
+232599|Centrum|Krakow|NO|stars_4
+232918|Hilton Garden Inn Krakow|Krakow|NO|stars_4
+233351|Delfin|Dabki|NO|stars_4
+233412|Hotel Villa Antares I / II|Swinoujscie|NO|stars_2.5
+233414|Hotel Villa Antares I / II -  Villa Antares II|Swinoujscie|NO|stars_2.5
+233416|Slavia|Miedzyzdroje|NO|stars_2.5
+233417|Panorama Spa|Trzesacz|NO|stars_3
+234559|Golden Cracow|Krakow|NO|stars_2
+234979|Old Town Apartments Grodzka|Krakow|NO|stars_3
+235198|Pension Gaviata Loca|Miedzyzdroje|NO|0
+235279|Baginski & Chabinka Spa|Miedzyzdroje|NO|stars_3.5
+235280|Kurhaus Grunwald|Miedzyzdroje|NO|stars_3
+235281|Stary Dziwnów|Dziwnow|NO|stars_3
+235282|Lubiewo Forest & Sea Resort|Miedzyzdroje|NO|stars_3
+236133|Gryf|Heidebrink (Miedzywodzie)|NO|stars_2.5
+237164|Kurhaus Zameczek|Bad Kudowa|NO|0
+238668|Interferie Medical Spa|Swinoujscie|NO|stars_4
+238808|Diament|Gliwice|NO|stars_4
+238809|GreenLine Schloss Stonsdorf / Palac Staniszow|Jelenia Gora|NO|stars_2.5
+239309|Motel Morawica|Krakow|NO|stars_3
+239874|Kinga Hotel Wellness|Czorsztyn|NO|stars_4
+239986|Pergamin Aparthotel|Krakow|NO|stars_3
+240413|Galaxy|Krakow|NO|stars_4
+240415|Camea|Krakow|NO|stars_3
+240504|Baltic Plaza Hotel Medi Spa|Kolobrzeg|NO|stars_4
+240595|Bungalowanlage Gryf|Pobierowo|NO|stars_3
+240602|Ferienpark Stilo|Miedzyzdroje|NO|stars_3
+240605|RK Hostel|Krakow|NO|stars_2
+241056|Focus Gdansk|Gdansk|NO|stars_3
+241059|Schloss Nowecin|Leba|NO|stars_2
+241635|Amber|Gdansk|NO|stars_3
+241660|Jantar|Bad Altheide (Polanica Zdrój)|NO|stars_2
+241672|Spa Dom Zdrojowy|Jastarnia|NO|stars_4
+241680|Wellstreet Hotel|Zielona Gora|NO|stars_4
+241696|Arsenal Palace|Kattowitz|NO|stars_4
+241697|Queen Boutique|Krakow|NO|stars_4
+241961|Kurhaus Wistom|Kolobrzeg|NO|stars_3
+242868|Paula Wellness und Spa|Pobierowo|NO|stars_3
+242869|Orka|Trzesacz|NO|stars_3
+244227|Holiday Inn Bydgoszcz|Bydgoszcz|NO|stars_3.5
+245561|Doris Spa|Kolobrzeg|NO|stars_3.5
+246177|Marine Hotel & Ultra Marine by Zdrojowa - Ultra Marine|Kolobrzeg|NO|stars_5
+246307|Kurhaus Kaja|Swieradow Zdroj|NO|stars_3
+247465|Health Resort & Medical Spa Panorama Morska|Jaroslawiec|NO|stars_4
+247466|Medical Park - Riverside Spa|Szelków|NO|stars_4.5
+247914|Platinum Palace Residence|Poznan|NO|stars_5
+247915|Platinum Palace Apartments|Poznan|NO|stars_4
+247916|Platinum Palace|Wroclaw|NO|stars_5
+249229|Piast|Rewal|NO|0
+249497|Poziom 511 & Spa|Zawiercie|NO|stars_4
+249498|Camping Malta & Hotel|Poznan|NO|stars_3
+249499|Puro|Wroclaw|NO|stars_3
+249518|Palac Brzezno|Prusice|NO|0
+249521|Batory|Tluszcz|NO|stars_3
+249523|Best Western Hotel Poleczki|Warsaw|NO|stars_3
+249524|B&B Hotel Warszawa-Okecie|Warsaw|NO|stars_2
+249525|Admiral|Gdansk|NO|stars_4
+249526|Czarna Perla|Gdansk|NO|stars_3
+249531|Logos|Gdansk|NO|stars_2
+249533|Dom Sonata|Gdansk|NO|stars_3
+249542|Neptun|Gdansk|NO|stars_2
+249543|Ibis Styles Gdynia Reda|Reda|NO|stars_3
+249545|Na Skarpie|Charzykowy|NO|stars_2
+249546|Delfin - Bildungs & Sportzentrum|Puck|NO|0
+249548|Dom Nauczyciela|Sopot|NO|0
+249549|Falko|Rumia|NO|stars_3
+250066|Hampton by Hilton Swinoujscie|Swinoujscie|NO|stars_3
+259302|Golebiewski Karpacz|Karpacz|NO|stars_4
+259372|Sloneczny Dom|Dziwnowek|NO|stars_3
+259377|Schloss-gut-Hotel Sarmata|Sandomierz|NO|stars_3
+259396|Villa Mariner|Mielno|NO|stars_3
+259552|Qubus Bielsko-Biala|Bielitz-Biala|NO|stars_4
+259553|Morski|Gdynia|NO|stars_2
+259554|Home Krakau|Krakow|NO|stars_4
+259555|St. Norbert|Nowe Brzesko|NO|stars_3
+259556|Colibra|Warsaw|NO|stars_3
+259740|Kurhaus Poznanianka|Kolobrzeg|NO|stars_3
+259802|CKP Kolberg|Kolobrzeg|NO|0
+259860|Lazur|Mielno|NO|stars_3
+260513|Puerto Banus Spa Resort|Pobierowo|NO|0
+260581|Villa Bravo|Miedzyzdroje|NO|0
+260658|Kurhotel Victoria SPA|Kolobrzeg|NO|stars_3
+260944|Gwarek|Ustron|NO|stars_2
+260945|Kotarz Spa & Wellness|Brenna|NO|stars_3
+260959|Grand Cru|Gdansk|NO|stars_4
+261214|Campanile Wroclaw Centrum|Wroclaw|YES|stars_3
+261308|Aneta|Grzybowo|NO|stars_3
+261556|Golden Tulip Miedzyzdroje Residence|Miedzyzdroje|YES|stars_4
+264672|Platinum Residence|Warsaw|NO|stars_4.5
+264675|ApartHotel Miodosytnia|Krakow|NO|stars_3
+264677|Club Hotel Atlantic|Krakow|NO|stars_3
+264684|Old Town Apartments Slawkowska|Krakow|NO|stars_3
+264685|Rubens Guest House|Krakow|NO|stars_3
+264686|U Pana Cogito Hotel|Krakow|NO|stars_3
+265768|Jan & Aquapark|Darlowo|NO|stars_3
+265775|Best Western Gorzow Wlkp.|Landsberg an der Warthe|NO|stars_3
+270522|Apartment Gdansk Seaside Koga|Gdansk|NO|stars_4
+270523|La Guitarra Hostel|Gdansk|NO|stars_1
+270525|Hotel Beethoven|Gdansk|NO|stars_3
+270527|Apartment Mysliwskie Wzgorze|Gdansk|NO|stars_4
+270529|Apartment Ogarna|Gdansk|NO|stars_3
+270532|Artus|Gdansk|NO|stars_3
+270536|Apartament Szeroka|Gdansk|NO|0
+270537|Apartment Nebbia|Gdansk|NO|stars_3
+270539|Hotel Spojnia|Gdansk|NO|stars_3
+270540|Gdanska Szkola Floretu|Gdansk|NO|stars_1.5
+270542|Straszny Dwor|Mielno|NO|stars_4
+270884|Apartment Bonne Journee|Miedzyzdroje|NO|stars_3
+270885|Villa Martini|Miedzyzdroje|NO|stars_3
+271391|Aparthotel Delta Zakopane - Delta Garden|Zakopane|NO|0
+271395|Dwór Karolówka|Zakopane|NO|stars_3
+271396|Willa Jan|Zakopane|NO|stars_3
+271398|VISITzakopane Sun Apartments|Zakopane|NO|stars_3
+271399|Hotel Rysy|Zakopane|NO|stars_5
+271402|Willa Tatry|Zakopane|NO|stars_3
+272044|Elektoralna Apartment|Warsaw|NO|stars_3
+272045|Rycerska Apartment|Warsaw|NO|stars_3
+272047|Platinum Apartamenty|Warsaw|NO|stars_4
+272048|Marszalkowska Apartment|Warsaw|NO|stars_3
+272049|Design City Mostowa Apartment|Warsaw|NO|stars_3
+272050|SleepWell Apartments|Warsaw|NO|stars_3
+272051|Senator Warsaw|Warsaw|NO|stars_4
+272053|Szucha Apartment|Warsaw|NO|stars_2
+272054|Design City Brzozowa Apartment|Warsaw|NO|stars_2
+272055|Hostel Krokodyl|Warsaw|NO|stars_1
+272056|Design City Freta Apartment|Warsaw|NO|stars_3
+272058|Warsaw Design Apartments|Warsaw|NO|0
+272060|Bed and Breakfast Nowolipki|Warsaw|NO|stars_3
+272061|Duval Serviced Apartments|Warsaw|NO|stars_1
+272062|Podwale Apartment|Warsaw|NO|stars_3.5
+272065|WawaBed Bed & Breakfast|Warsaw|NO|stars_4
+272066|Design City Suzina Apartment|Warsaw|NO|stars_3
+272068|Exclusive Apartments Atelier R|Warsaw|NO|stars_4
+272069|Hotel Arkadia Royal|Warsaw|NO|stars_3
+272070|TWW Mokotow - Apartments|Warsaw|NO|stars_4
+272073|NaOpaczy Villa|Warsaw|NO|stars_3
+272077|Haston City Hotel|Wroclaw|NO|stars_4
+272078|Boogie Hostel Deluxe|Wroclaw|NO|stars_3
+272079|Academus Pub & Apartments|Wroclaw|NO|stars_3
+272080|Exclusive Apartments Just In Center|Wroclaw|NO|stars_4
+272082|24W Apartments Rynek|Wroclaw|NO|stars_3
+272083|Ami Hotel Bed and Breakfast|Wroclaw|NO|stars_2
+272084|Apartment Central|Wroclaw|NO|stars_3
+272087|Dragon Aparthostel|Krakow|NO|stars_2
+272088|Smart Studio|Krakow|NO|stars_3
+272089|Red Kurka Apartments|Krakow|NO|stars_3
+272090|Emotions|Krakow|NO|stars_1.5
+272092|Crystal Suites Chez Rubinstein|Krakow|NO|stars_3
+272093|Komorowski Luxury Guest Rooms|Krakow|NO|stars_4
+272099|Sewa Apartamenty|Krakow|NO|stars_3
+272100|Hostel Euro-Room|Krakow|NO|stars_2
+272102|Zodiakus Hostel|Krakow|NO|stars_2
+272108|Old Walls Hostel|Krakow|NO|stars_1.5
+272112|Aparthotel Adler|Krakow|NO|stars_3
+272113|Nobel Suites|Krakow|NO|stars_3
+272114|Green Energy Rooms|Krakow|NO|stars_3
+272117|Flower Hostel|Krakow|NO|stars_2
+272125|Liv'Inn Aparthotel|Krakow|NO|stars_3
+272126|Old Town Apartments Krakow|Krakow|NO|stars_3
+272151|Monte Cassino De Luxe|Sopot|NO|stars_4
+272153|Apartament Aleksander|Sopot|NO|stars_4
+272154|Mera Spa Hotel|Sopot|YES|stars_4
+272155|Apartament Wiktor|Sopot|NO|stars_4
+272156|Apartments Sopot|Sopot|NO|stars_4
+273056|Hotel St. Bruno|Gizycko|NO|stars_4
+273415|Park Hotel|Szczecin|NO|stars_4
+273416|Marina Hotele Przestrzenna|Szczecin|NO|stars_1
+273417|Marina Hotele Twardowskiego|Szczecin|NO|stars_2
+274219|Ikar Hotel|Poznan|NO|stars_3
+274222|Apartament Grunwald|Poznan|NO|stars_4
+274223|Hotelik 31|Poznan|NO|stars_3
+274225|Apartments Poznan|Poznan|NO|stars_4
+274227|Comfort Suite nr 2|Poznan|NO|stars_3
+274231|Apartament Galileo|Poznan|NO|stars_4
+274233|Poznan Apartment with a View|Poznan|NO|stars_3
+274234|Garden Boutique Hotel|Poznan|NO|stars_3
+274317|Villa & Hotel Lambert Medical Spa - Villa Lambert|Henkenhagen|NO|stars_3
+274386|Apartamenty Ustka Krokus|Ustka|NO|stars_3
+274457|Villa Pallas|Allenstein (Olsztyn)|NO|stars_3
+274458|Palac Pakoszow|Piechowice|NO|stars_3
+274459|Apartament Dariusz|Jurata|NO|stars_4
+274586|Hotel Carskie Koszary|Zamosc|NO|stars_3
+274653|Czardasz|Plock|NO|stars_4
+274721|Willa Puck|Puck|NO|stars_3
+274948|Czarny Potok Resort & Spa|Krynica-Zdrój|NO|stars_4
+275374|Best Inn|Bydgoszcz|NO|stars_3
+275375|Hotel Focus Bydgoszcz|Bydgoszcz|NO|stars_2
+275376|Park Hotel Bydgoszcz|Bydgoszcz|NO|stars_3
+275430|Hotel Liburnia|Cieszyn|NO|stars_3
+275495|Corona|Tychy|NO|stars_2
+275678|Hotel Royal|Gliwice|NO|stars_3
+275686|Vistula Apartments|Torun|NO|stars_3
+275729|The Grawert Residence|Ladek Zdroj|NO|0
+275778|Hotel Bella Notte|Kattowitz|NO|stars_3
+275779|Hotel Olympia Spodek|Kattowitz|NO|stars_3
+275780|M Hotel Sosnowiec|Kattowitz|NO|stars_3
+275842|Ambasador Centrum Hotel Lodz|Lodz|NO|stars_4
+275843|Ambasador Chojny Hotel Lodz|Lodz|NO|stars_3
+275844|NoBo Hotel|Lodz|NO|stars_3
+275845|M Hotel|Lodz|NO|stars_3
+275846|Loft Aparts|Lodz|NO|stars_4
+275850|Hotel Palac Jugowice|Jugowice|NO|stars_4
+275881|Villa Polanica|Bad Altheide (Polanica Zdrój)|NO|stars_4
+275882|Bukowy Park Hotel Medical Spa|Bad Altheide (Polanica Zdrój)|NO|stars_4
+275883|Hotel Polanica|Bad Altheide (Polanica Zdrój)|NO|stars_3
+275884|Hotel Alpejski|Bad Altheide (Polanica Zdrój)|NO|stars_3
+276050|Hotel Gwarna|Liegnitz|NO|stars_4
+276053|Ibis Styles Walbrzych|Waldenburg|NO|stars_3
+276078|Amber Palace|Strzekecino|NO|stars_4
+276194|Nawigator|Szczawnica|NO|stars_3
+276195|Modrzewie Park Hotel|Szczawnica|NO|stars_5
+276317|SPA Hotel Splendor|Rzeszow|NO|stars_4
+276610|Apartamenty Komfort|Augustów|NO|stars_2
+276612|Gromada Cedzyna|Kielce|NO|stars_3
+276613|Odyssey ClubHotel Wellness & SPA|Kielce|NO|stars_5
+277028|Hotel Podkowa|Siewierz|NO|stars_4
+277136|Hotel Bartis|Bartoszyce|NO|stars_3
+277137|Krasicki|Lidzbark Warminski|NO|0
+277138|||NO|0
+277140|||NO|0
+277142|||NO|0
+277143|||NO|0
+277144|||NO|0
+279293|||NO|0
+279294|||NO|0
+279295|||NO|0
+279586|||NO|0
+279587|||NO|0
+279588|||NO|0
+279589|||NO|0
+279590|||NO|0
+279592|||NO|0
+279593|||NO|0
+279594|||NO|0
+279595|||NO|0
+279596|||NO|0
+279597|||NO|0
+279598|||NO|0
+279600|||NO|0
+279601|||NO|0
+279602|||NO|0
+279603|||NO|0
+279604|||NO|0
+279605|||NO|0
+279606|||NO|0
+279608|||NO|0
+279609|||NO|0
+279610|||NO|0
+282702|||NO|0
+282988|||NO|0
+283604|||NO|0
+284634|||NO|0
+284847|||NO|0
+286115|||NO|0
+286637|||NO|0
+286639|||NO|0
+289352|||NO|0
+292102|||NO|0
+292103|||NO|0
+292104|||NO|0
+292113|||NO|0
+292114|||NO|0
+292115|||NO|0
+292553|||NO|0
+292554|||NO|0
+292555|||NO|0
+292556|||NO|0
+292560|||NO|0
+292787|||NO|0
+292985|||NO|0
+292986|||NO|0
+293062|||NO|0
+293117|||NO|0
+293436|||NO|0
+293437|||NO|0
+293447|||NO|0
+293470|||NO|0
+293471|||NO|0
+293506|||NO|0
+293573|||NO|0
+293574|||NO|0
+293805|||NO|0
+294268|||NO|0
+294269|||NO|0
+294272|||NO|0
+294273|||NO|0
+294592|||NO|0
+294594|||NO|0
+295108|||NO|0
+295109|||NO|0
+295432|||NO|0
+295433|||NO|0
+295434|||NO|0
+295442|||NO|0
+295650|||NO|0
+295652|||NO|0
+295677|||NO|0
+295790|||NO|0
+300875|||NO|0
+301116|||NO|0
+301573|||NO|0
+301586|||NO|0
+302611|||NO|0
+302612|Kurhaus Dom Zdrojowy|Bad Warmbrunn - Cieplice|NO|0
+302613|Kurhaus Edward|Bad Warmbrunn - Cieplice|NO|0
+302614|Caspar|Bad Warmbrunn - Cieplice|NO|stars_3
+302615|Altes Kurhaus|Swieradow Zdroj|NO|0
+302617|Kurhaus Wojciech|Ladek Zdroj|NO|0
+302644|Sanatorium Barbarka|Swinoujscie|NO|stars_3
+302645|Kurhaus Chalkozyn|Kolobrzeg|NO|0
+310897|Interferie Sport Hotel & Aquapark|Swieradow Zdroj|NO|stars_3
+310922|Dolce Vita|Henkenhagen|NO|0
+311229|Cristal Resort|Szklarska Poreba|NO|stars_4
+324438|Hotel Apartamenty Retro|Poznan|NO|stars_2
+354401|Czeszka|Swieradow Zdroj|NO|stars_3
+354425|Cottonina Villa & Mineral Spa Resort|Swieradow Zdroj|NO|stars_3
+354510|Habenda|Budzyn|NO|stars_4
+354511|Osada Dankow|Milomlyn|NO|stars_3
+359383|Sulislaw Palace|Grodków|NO|0
+359486|Butorowy Dwor|Koscielisko|NO|stars_3
+363239|JM Apart Hotel|Warsaw|NO|stars_4
+363459|Hotel Glamour|Przezmierowo|NO|stars_3
+363461|Sulkowski|Wloszakowice|NO|stars_3
+363477|Villa Rezydent Sky|Swinoujscie|NO|stars_3
+363866|Villa Solaris|Niechorze|NO|0
+363870|Pension Stachowiak Family|Rewal|NO|stars_3
+363976|Boulevard Ustronie Morskie by Zdrojowa|Henkenhagen|NO|stars_3.5
+364142|Apartment4you|Warsaw|NO|stars_3
+364143|Stalowa 52 Hostel & Apartments|Warsaw|NO|stars_3
+364144|Moon Hostel|Warsaw|NO|stars_2
+364153|Hotel Pulawska Residence|Warsaw|NO|stars_3
+364157|JOVI Apartments|Sopot|NO|stars_4
+364158|Artis Hotel & Spa|Zamosc|NO|stars_4
+365046|Golden Tulip Gdansk Residence|Gdansk|YES|stars_4
+365047|Warszawianka|Serock|NO|stars_4
+365356|Grand Lubicz|Ustka|NO|stars_5
+365357|Mikolajki Hotel|Mikolajki|NO|stars_5
+365358|Mikolajki Resort by DeSilva|Mikolajki|NO|stars_3
+365411|Slowiniec|Ustka|NO|stars_3
+365516|Malinowy Dwor|Swieradow Zdroj|NO|stars_4
+365521|Santa Monica|Mikolajki|NO|stars_3
+365554|Golden Tulip Krakow City Center|Krakow|YES|stars_4
+365603|Era|Swieradow Zdroj|NO|stars_3
+367865|Fahrenheit Hotel Gdansk|Gdansk|NO|stars_4
+367866|Hampton By Hilton Gdansk Airport|Gdansk|NO|stars_3
+368307|DoubleTree by Hilton Hotel & Conference Centre Warsaw|Warsaw|NO|stars_4
+368308|Exclusive Apartments 19 Dzielnica|Warsaw|NO|stars_4
+368312|Hampton By Hilton Warsaw Airport|Warsaw|NO|stars_3.5
+368313|Hampton By Hilton Warsaw City Centre|Warsaw|NO|stars_3
+368327|As Apartments South Wroclaw|Wroclaw|NO|stars_3
+368332|Moderion Apartments|Wroclaw|NO|stars_3
+368338|Apartamenty Zakrzowek-cracow|Krakow|NO|stars_4
+368339|Aparthotel Weekend|Krakow|NO|stars_3
+368345|Mercure Raclawice Doslonce Conference & Spa|Raclawice|NO|stars_4
+368346|Hotel Magnat Airport|Krakow|NO|stars_3
+368347|Puro Hotel Krakow|Krakow|NO|stars_4
+368350|Yarden Aparthotel Krakow|Krakow|NO|stars_3
+369212|City Solei Boutique Hotel|Poznan|NO|stars_4
+369218|Kolegiacki Hotel|Poznan|NO|stars_3
+369219|Korel Hotel|Poznan|NO|stars_3
+369308|Apart Hotel Gwiazda Morza - Wladyslawowo|Wladyslawowo|NO|stars_3
+369352|Kopernik Hotel Olsztyn|Allenstein (Olsztyn)|NO|stars_2
+369621|Mercure Krynica Zdroj Resort & Spa|Krynica-Zdrój|NO|stars_4
+369634|Koscielisko Residence|Koscielisko|NO|stars_3
+370181|Campanile Bydgoszcz|Bydgoszcz|YES|stars_3
+370183|Kuznia Hotel Bydgosczcz|Bydgoszcz|NO|stars_3
+370430|Doubletree By Hilton Lodz|Lodz|NO|stars_4
+370432|Hotel Tobaco Lodz|Lodz|NO|stars_3
+370433|Novotel Lodz Centrum|Lodz|NO|stars_4
+370556|Red Baron|Schweidnitz|NO|stars_4
+370560|Centrum Konferencyjne Hotel Focus|Lublin|NO|stars_3
+370564|Luxor Hotel|Lublin|NO|stars_3
+370787|Bristol Tradition And Luxury|Rzeszow|NO|stars_5
+370789|Hotel Rzeszow|Rzeszow|NO|stars_4
+371887|Kombornia Guests Rooms-korczyna Krosno|Krosno|NO|stars_4
+371889|Hotel Piaskowy Pszczyna|Pszczyna|NO|stars_3
+371980|Hotel Fajkier Wellness And Spa-kroczyce|Kroczyce|NO|stars_3
+372477|Atrium SPA Apartamenty|Sarbinowo Morskie|NO|stars_3
+372784|Villa & Hotel Lambert Medical Spa - Hotel Lambert Medical Spa|Henkenhagen|NO|stars_4
+372901|Hostel Poco Loco|Poznan|NO|stars_2
+372939|Sloneczny Brzeg|Mielno|NO|0
+372948|Greno Hotel & Spa|Karpacz|NO|stars_3
+374477|Villa Asesor|Gdansk|NO|stars_2
+374503|Arena|Gdansk|NO|stars_3
+374509|Apartinfo Szafarnia Apartamenty|Gdansk|NO|stars_3
+374516|Gdansk Apartment Service|Gdansk|NO|stars_3
+374526|Pod Or Em|Gdansk|NO|stars_3
+376658|Spiacy Rycerz Willa|Zakopane|NO|0
+376666|Orla Willa|Zakopane|NO|stars_3
+376667|Panorama|Zakopane|NO|stars_3
+376670|Sabala|Zakopane|NO|stars_3
+376677|Pod Brzyzkiem Willa|Zakopane|NO|stars_3
+376682|Villa Vita|Zakopane|NO|stars_4
+377363|H15 Boutique Apartments|Warsaw|NO|stars_5
+377379|Executive Suites Apartamenty|Warsaw|NO|stars_3
+377409|Delta Apart House|Wroclaw|NO|stars_3
+377411|Grape Hotel|Wroclaw|NO|stars_5
+377426|Villa Maria Bed And Breakfast|Krakow|NO|stars_3
+377447|Novum House Apartamenty|Krakow|NO|0
+377482|Central Hostel Sopot|Sopot|NO|stars_2
+377483|Villa Antonina|Sopot|NO|stars_4
+377495|La Siesta|Jastrzebia Gora|NO|stars_4
+381484|Nocleg Poznan|Poznan|NO|stars_3
+381490|Soda Hostel - Apartments|Poznan|NO|stars_2
+381495|Home I Garbary|Poznan|NO|stars_4
+381499|Blooms Boutique Apartments|Poznan|NO|stars_3
+381502|Traffic Hotel|Poznan|NO|stars_2
+381505|Daglezja|Poznan|NO|stars_2
+382420|Villa Florek - Spa & Willa Arielka - Villa Florek - Spa|Rewal|NO|stars_3
+383171|Diament Ustron SPA & Wellness|Ustron|NO|stars_4
+383303|Ventus Rosa Aparthotel|Bielitz-Biala|NO|stars_3
+383306|Palac Kotulinskich|Bielitz-Biala|NO|stars_4
+383332|Reymontowka Pensjonat Zakopane|Koscielisko|NO|stars_3
+383855|Picaro|Bunzlau|NO|stars_3
+384263|Elblag|Elbing|NO|stars_4
+384321|Palac Romantyczny|Torun|NO|0
+384471|Boutique Hotel's II|Lodz|NO|stars_2
+384472|City Residence|Lodz|NO|stars_3
+384473|Aparts Loft Bed - Breakfast|Lodz|NO|stars_3
+384474|City Town Apartments|Lodz|NO|stars_3
+384478|Boutique Hotel's I|Lodz|NO|stars_3
+384482|Pelikan|Lodz|NO|stars_2
+385177|Niemcza Spa|Schweidnitz|NO|stars_3
+385179|Srebrna Gora|Klodzko|NO|stars_3
+385183|Centrum Malbork|Marienburg|NO|stars_3
+385188|Art Residence|Lublin|NO|stars_4
+385189|Apartamenty Krolewska|Lublin|NO|stars_2
+385195|Geovita|Schneidemühl|NO|0
+385827|Cristal Park Dabrowa Tarnowska|Dabrowa Tarnowska|NO|stars_4
+386942|Kasztel|Bochnia|NO|stars_3
+386957|Lamberton|Ozarów Mazowiecki|NO|stars_3
+387586|Geovita Bukowy Dworek|Lagow|NO|0
+389763|Beata|Muszyna|NO|stars_3
+390143|Palac Zegrzynski|Zegrze|NO|stars_4
+390788|AKZENT Schlosshotel Wiechlice|Szprotawa|NO|stars_4
+390802|Columna Medica|Sieradz|NO|stars_4
+391941|Willa Studio|Rewal|NO|0
+391942|Villa Florek - Spa & Willa Arielka|Rewal|NO|stars_3
+392066|Holiday Resort Rewita WDW Rogowo|Rogowo|NO|0
+392082|Rewita WDW Miedzyzdroje|Miedzyzdroje|NO|0
+392416|Diune Hotel & Resort by Zdrojowa|Kolobrzeg|NO|stars_5
+399791|Rewita WDW Uniescie|Mielno|NO|0
+399795|Glendoria|Lukta|NO|0
+399842|Best Western Plus Q Hotel Wroclaw|Wroclaw|NO|stars_4
+401056|Herbarium Hotel & Spa|Gmina Gasawa|NO|stars_4
+401128|Rezydencja Korab|Miedzyzdroje|NO|0
+401362|Magnolia Spa|Kolobrzeg|NO|0
+401474|GrandHotel Tiffi|Ilawa|NO|stars_5
+403950|Focus Katowice Chorzow|Chorzów|NO|stars_3
+404038|Augustowia Centrum Wypoczynkowo-konferen|Augustów|NO|stars_2
+404384|Jastarnia|Jastarnia|NO|stars_3
+405342|Business Faltom|Gdynia|NO|stars_4
+405343|Sloneczny Zdroj|Busko-Zdrój|NO|stars_4
+405500|Aparthotel Santi|Krakow|NO|stars_4
+405505|Kracow Residence|Krakow|NO|stars_3
+405506|Metropolitan Boutique Hotel|Krakow|NO|stars_4
+405518|Villa Flaming|Sopot|NO|stars_3
+405665|Boutique Hotel's III Comfort|Lodz|NO|stars_3
+405769|Hotel Lenart|Wieliczka|NO|stars_4
+405829|Trojca Arlamow Hotel|Lesko|NO|stars_4
+406074|Nawigator SPA|Rewal|NO|0
+407877|OW Jawor|Sarbinowo Morskie|NO|0
+408624|Nosalowy Dwór Resort & SPA - Grand Nosalowy Dwór|Zakopane|NO|stars_4
+409059|Orzel Pensjonat & Apartments|Koscielisko|NO|0
+409060|Orzel Pensjonat & Apartments - Apartments|Koscielisko|NO|0
+411083|Rubbens & Monet|Torun|NO|stars_3
+411469|Aparthotel Baltic Spa|Swinoujscie|NO|0
+411470|Hotel West Baltic Resort|Swinoujscie|NO|stars_4
+411487|Kurhotel Baltyk I & II - Baltyk I|Kolobrzeg|NO|0
+411522|Vital SPA Ressort Czapielski Mlyn|Brodnica Górna|NO|0
+411571|Hotel Cristal SPA|Dzwirzyno|NO|stars_4
+411724|Hotel Prima Natura|Kolobrzeg|NO|stars_3
+411727|Hotel Spa Akacjowy Dwór|Stargard Szczecinski|NO|stars_3
+411743|Royal Park Hotel & SPA|Mielno|NO|stars_3
+411781|Blue Marine Mielno|Mielno|NO|stars_3
+411795|Metropolis Design|Krakow|NO|stars_4
+411813|Hotel Drei Inseln|Swinoujscie|NO|stars_3
+411961|DoubleTree by Hilton Krakow Hotel & Convention Center|Krakow|NO|stars_4
+412196|Hotel Admiral|Swinoujscie|NO|stars_3
+412198|Baltic Cliff Spa & Wellness|Niechorze|NO|stars_3.5
+412215|Hotel Borgata|Henkenhagen|NO|stars_3
+412245|Hotel Miedzyzdroje|Miedzyzdroje|NO|stars_4
+413766|Emocja Spa & Amber|Uniescie|NO|stars_3
+413868|Puro Hotel Poznan|Poznan|NO|stars_4
+413872|Invite|Wroclaw|NO|stars_4
+417521|The Spiski Palace|Krakow|NO|stars_4
+417690|Ferienpark Blue Mare|Lukecin|NO|0

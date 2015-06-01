@@ -1,0 +1,39 @@
+58066|Las Margaritas|Asuncion|NO|stars_4
+58067|Westfalenhaus|Asuncion|NO|stars_4
+83662|Portal del Sol|Asuncion|NO|stars_4
+83663|Palmas del Sol|Asuncion|NO|stars_3
+83700|Sabe Center|Asuncion|NO|stars_4
+83842|Internacional|Asuncion|NO|stars_4
+84037|Gran Armele|Asuncion|NO|stars_3
+88757|Terrazas del Sol Apart and Hotel|Asuncion|NO|stars_4
+91252|Granados Park|Asuncion|NO|stars_4.5
+92331|Casino Yacht & Golf Club Paraguayo|Asuncion|NO|stars_5
+92332|Sheraton Asuncion|Asuncion|YES|stars_5
+92333|Chaco|Asuncion|NO|stars_4
+92336|Casablanca Spa & Golf|Ciudad del Este|NO|stars_3
+92337|Papillon|Bella Vista|NO|stars_3.5
+94145|Crowne Plaza Asuncion|Asuncion|NO|stars_4
+111180|Hotel Excelsior|Asuncion|NO|stars_5
+133036|Cecilia|Asuncion|NO|stars_3
+133037|Zaphir|Asuncion|NO|stars_3
+138953|Guarani Esplendor|Asuncion|NO|stars_4
+162128|Villa Morra Suites|Asuncion|NO|stars_5
+183709|Premier Hill Suite Boutique|Asuncion|NO|stars_4
+183710|La Mision Boutique|Asuncion|NO|stars_4
+184016|Isla del Bosque|Curuzú|NO|0
+229155|San Diego|Asuncion|NO|stars_3
+229156|Bristol|Asuncion|NO|stars_3
+230422|Catedral|Ciudad del Este|NO|stars_2
+230430|Casino Acaray|Ciudad del Este|NO|stars_5
+230434|Sama - Ciudad del Este|Minga Guazu|NO|stars_3
+230440|Panorama Inn|Ciudad del Este|NO|stars_4
+230498|Centro|Ciudad del Este|NO|stars_3
+236706|Cide Resort|Ciudad del Este|NO|stars_4
+274318|Hotel Royal Gardens|Asuncion|NO|stars_3.5
+274319|Maison Suisse Hotel Hurard|Asuncion|NO|stars_3
+274320|Hotel Le Pelican|Asuncion|NO|stars_3
+274324|La Morada Posada Boutique|Asuncion|NO|stars_3
+276203|Paraíso Golf & Resort|Ciudad del Este|NO|stars_3
+281446|Hotel Pantanal Inn|Asuncion|NO|stars_3
+288034|Bourbon Conmebol Asuncion Convention Hotel|Luque|YES|stars_4
+295438|Country Hotel|Trinidad|NO|stars_2.5

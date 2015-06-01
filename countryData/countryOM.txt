@@ -1,0 +1,99 @@
+7218|Al Bustan Palace|Muscat|YES|stars_5
+7228|Al Sawadi Beach Resort|Barka|NO|stars_4
+11004|Crowne Plaza Muscat|Muscat|YES|stars_4
+12406|Falaj Daris|Nizwa|NO|stars_3
+13482|Grand Hyatt Muscat|Muscat|YES|stars_5
+14020|Hilton Salalah|Salalah|NO|stars_5
+14284|Muscat Holiday|Muscat|YES|stars_4
+17777|Intercontinental Muscat|Muscat|YES|stars_5
+18009|Golden Tulip Nizwa|Nizwa|YES|stars_4
+19799|Radisson Blu Muscat|Muscat|YES|stars_4
+20781|Ruwi|Muscat|YES|stars_3
+20875|Crowne Plaza Salalah|Salalah|NO|stars_5
+21565|Sheraton Oman|Muscat|YES|stars_5
+21825|Sohar Beach|Sohar|NO|stars_4
+22420|Sur Plaza|Sur|YES|stars_3
+33396|The Chedi Muscat|Muscat|YES|stars_5
+51413|Ras Al Hadd|Sur|NO|stars_3
+51720|Villa Shams|Muscat|NO|stars_3
+52915|Ramada Qurum Beach|Muscat|YES|stars_4
+52916|Al Falaj|Muscat|YES|stars_4
+56337|Atana Khasab|Khasab|NO|stars_4
+60953|Sur Beach Holiday|Sur|NO|stars_3
+63372|Shangri-La's Barr al Jissah - Al Waha / Al Bandar / Al Husn|Muscat|NO|stars_5
+64679|1000 Nights Camp|Wahiba Sands|NO|stars_2
+64783|Golden Tulip Seeb Muscat|Muscat|YES|stars_4
+68194|Extra Divers Lodge|Muscat|NO|stars_3
+68567|Beach Bay|Muscat|NO|stars_4
+68568|Al Nahda Resort & Spa|Barka|YES|stars_5
+69519|Safeer International|Muscat|NO|stars_3
+69521|Haffa House|Muscat|NO|stars_4
+72417|Golden Oasis|Muscat|YES|stars_3
+76957|Al Sharqiya Sands|Ibra|NO|stars_3
+79935|Al Diyar|Nizwa|NO|stars_2
+82254|Bhawan Safari Village|Muscat|NO|stars_3.5
+82492|Ramee Guestline Qurum|Muscat|NO|stars_4
+87419|Six Senses Zighy Bay|Zighy Bay|NO|stars_5
+91013|Safari|Nizwa|YES|stars_2
+91014|Sama Al Wasil Camp|Wahiba Sands|NO|stars_3.5
+91660|Tauchbasis - Oman Dive Center|Muscat|NO|stars_3
+91745|Beach|Muscat|YES|stars_3
+94615|Al Madinah Holiday|Muscat|NO|stars_4
+95587|Midan Suites|Muscat|NO|stars_3
+95588|Majan Continental|Muscat|NO|stars_4
+102896|Desert Nights Camp|Wahiba Sands|YES|stars_3
+110536|Golden Tulip Resort Dibba|Dibba|YES|stars_4
+122573|Jebel Shams Resort|Jebel Akdhar|NO|stars_2
+122620|Extra Divers Villa|Khasab|NO|stars_2.5
+132886|Haffa House|Salalah|NO|stars_3
+132887|Al Jabal|Salalah|NO|stars_3
+138521|Hala Apartments|Muscat|YES|stars_3
+157268|Mutrah|Muscat|YES|stars_2
+160146|Safeer Continental|Muscat|NO|stars_3
+160147|Safeer Hotel Suites|Muscat|NO|stars_2.5
+160148|Safeer Plaza|Muscat|NO|stars_3
+182739|Park Inn by Radisson Muscat|Muscat|NO|stars_4
+183693|Crowne Plaza Sohar|Sohar|NO|stars_4.5
+204071|Al Maha International|Muscat|YES|stars_3
+211631|Ibis Muscat|Muscat|YES|stars_3
+223538|Masirah Island Resort|Masirah Island|NO|stars_3.5
+227000|Salalah Marriott Resort|Mirbat|NO|stars_5
+228234|The View Campsite|Jebel Akdhar|NO|stars_3
+230471|Al Wadi Hotel Sohar|Sohar|NO|stars_3
+236312|Millennium Resort Mussanah|Mussanah|NO|stars_4
+238962|Sahab|Jebel Akdhar|NO|stars_4
+238967|The Platinum|Muscat|YES|stars_4
+238972|Sifawy Boutique Hotel|Jebel Sifah Beach|NO|stars_4
+239700|City Seasons Muscat|Muscat|NO|stars_4
+246050|Shangri-La's Barr al Jissah - Al Waha|Muscat|NO|stars_5
+246051|Shangri-La's Barr al Jissah - Al Bandar|Muscat|NO|stars_5
+246052|Shangri-La's Barr al Jissah - Al Husn|Muscat|NO|stars_5
+259763|Tulip Inn Muscat|Muscat|YES|stars_3
+259764|Waves International|Muscat|NO|stars_4
+260094|Juweira Boutique Hotel|Salalah|NO|stars_5
+261442|Ras Al Jinz Turtle Reserve|Ras Al Jinz|NO|stars_3
+268799|Eastin Residences Muscat|Muscat|NO|stars_4
+268803|Rotana Muscat|Muscat|NO|stars_3
+269256|Darbat Hotel|Salalah|NO|stars_3
+269257|Hamdan Plaza|Salalah|NO|stars_3
+285743|Dmas Hotel|Muscat|NO|stars_3
+285902|Samharam Tourist Village|Salalah|NO|stars_3
+296590|Seeb Johny International|Muscat|NO|stars_3
+297271|City Hotel Duqm|Duqm|NO|stars_3
+298129|Arabian Oryx Camp|Wahiba Sands|NO|stars_3
+299302|Best Western Premier Muscat|Muscat|NO|stars_4
+300114|Safari Village Service Apartments|Muscat|NO|stars_3
+300527|Arabian Sea Villas|Salalah|NO|0
+300680|Muscat Dunes|Muscat|NO|stars_3
+300682|City Center Hotel|Muscat|NO|stars_4
+302171|Beach Resort Salalah|Salalah|NO|stars_3
+309166|Butterfly Suites|Sohar|NO|stars_2.5
+309167|Waves Suites Salalah|Salalah|NO|stars_4
+335032|Roulette Hotel|Oman|NO|stars_5
+354455|Salalah Rotana Resort|Salalah|NO|stars_5
+359781|Wadi Shab Resort|Sur|NO|stars_3
+365450|Crowne Plaza Duqm|Haima|NO|stars_4
+372656|Alila Jabal Akhdar|Nizwa|NO|stars_5
+391866|Salalah Gardens Residences|Salalah|NO|stars_4
+405934|Holiday Inn Muscat Al Seeb|Muscat|NO|stars_4
+408737|Atana Musandam|Khasab|NO|stars_4

@@ -1,0 +1,1596 @@
+9137|Via Inn Asakusa|Tokyo|YES|stars_3
+11003|Metropolitan Tokyo|Tokyo|NO|stars_4
+13501|Grand Palace|Tokyo|YES|stars_4
+13733|Hakone Kowakien|Hakone|YES|stars_3
+13820|Harumi Grand|Tokyo|NO|stars_3
+14335|Narita Tobu Airport|Narita|YES|stars_3
+14510|Hyatt Regency Osaka|Osaka|NO|stars_5
+14881|International Kyoto|Kyoto|NO|stars_4
+15307|Keio Plaza Tokyo|Tokyo|YES|stars_4
+17925|Hotel New Hankyu Osaka|Osaka|NO|stars_3
+17926|New Hiroden|Hiroshima|NO|stars_3
+17929|New Miyako|Kyoto|YES|stars_3
+17932|New Otani Tokyo|Tokyo|NO|stars_5
+17937|Grand Prince Hotel New Takanawa|Tokyo|YES|stars_4
+18784|Park Hyatt Tokyo|Tokyo|YES|stars_5
+20346|Rihga Royal Tokyo|Tokyo|NO|stars_4
+21601|Shiba Park|Tokyo|YES|stars_3
+23189|Tokyo Prince|Tokyo|YES|stars_3
+24589|Yoshi-Ima Ryokan|Kyoto|NO|stars_3
+31789|Okura Tokyo|Tokyo|YES|stars_5
+37919|ANA Crowne Plaza Narita|Narita|YES|stars_4
+37920|Avanshell Kyoto|Kyoto|NO|stars_3
+37921|Imperial|Tokyo|YES|stars_5
+37922|Kyoto Tower|Kyoto|NO|stars_3
+37924|The Westin Miyako Kyoto|Kyoto|YES|stars_4
+37925|Best Western Premier Nagasaki|Nagasaki|NO|stars_4
+37926|Sunroute Hiroshima|Hiroshima|NO|stars_3
+37927|Imperial Osaka|Osaka|YES|stars_5
+37928|New Tanda|Nagasaki|YES|stars_3
+37929|Rihga Royal Osaka|Osaka|NO|stars_5
+38110|Chinzanso|Tokyo|YES|stars_5
+38111|Grand Hyatt Tokyo|Tokyo|YES|stars_5
+42239|InterContinental Yokohama Grand|Yokohama|YES|stars_5
+42240|Pan Pacific Yokohama Bay Tokyu|Yokohama|YES|stars_5
+42242|Brighton Kyoto|Kyoto|NO|stars_5
+42243|Kyoto Hotel Okura|Kyoto|NO|stars_5
+42245|Kyoto Tokyu|Kyoto|YES|stars_4
+42246|Hilton Tokyo Narita Airport|Narita|YES|stars_4
+42247|Narita Excel Tokyu|Narita|YES|stars_3.5
+42248|Nikko Narita|Narita|YES|stars_4
+42249|Hilton Osaka|Osaka|YES|stars_4
+42250|New Otani Osaka|Osaka|YES|stars_5
+42251|Miyako Osaka|Osaka|YES|stars_4
+42253|ANA InterContinental Tokyo|Tokyo|YES|stars_5
+42254|Dai-ichi|Tokyo|NO|stars_4
+42255|Four Seasons at Marunouchi|Tokyo|NO|stars_5
+42256|Hilton Tokyo|Tokyo|NO|stars_5
+42257|The Westin Tokyo|Tokyo|YES|stars_5
+42258|Grand Pacific Le Daiba|Tokyo|YES|stars_4
+47467|Keikyu EX Inn Shinagawa-Ekimae|Tokyo|NO|stars_3
+47468|Ryokan Gora-Kadan|Hakone|NO|stars_4
+51349|Shinagawa Prince|Tokyo|YES|stars_3
+55081|Holiday Inn Express Shin Kobe|Kobe|NO|stars_3
+57647|Royal Park|Tokyo|YES|stars_4.5
+57648|Aranvert|Kyoto|YES|stars_3
+57789|InterContinental Tokyo Bay|Tokyo|YES|stars_5
+57790|Courtyard Tokyo Ginza|Tokyo|NO|stars_4
+59162|Century|Kyoto|NO|stars_3
+65008|Mandarin Oriental Tokyo|Tokyo|NO|stars_5
+65792|Hilton Nagoya|Nagoya|YES|stars_4
+66459|Grand Park Otaru|Otaru|YES|stars_4
+67121|Hilton Tokyo Bay|Chiba|NO|stars_4
+67835|Radisson Narita Airport|Narita|NO|stars_4
+73150|Granvia Kyoto|Kyoto|NO|stars_5
+73151|New Hankyu|Kyoto|NO|stars_3
+73152|Karasuma|Kyoto|NO|stars_3
+73153|Sheraton Miyako|Tokyo|YES|stars_4
+76741|Conrad Tokyo|Tokyo|YES|stars_5
+77036|Ryokan Hiiragiya|Kyoto|YES|stars_5
+77941|Wataya-Bessoh|Ureshino Onsen|YES|stars_4
+79181|Hyatt Regency Kyoto|Kyoto|NO|stars_5
+81288|Il Cuore Namba|Osaka|NO|stars_3.5
+81289|Cross|Osaka|NO|stars_4
+81914|Kyoto Royal & Spa|Kyoto|NO|stars_4
+81915|Grand Prince Hotel Takanawa|Tokyo|YES|stars_4
+84236|Ramada Osaka - geschlossen|Osaka|NO|stars_4
+86572|Nikko Tokyo|Tokyo|YES|stars_4.5
+90258|Hyatt Regency Tokyo|Tokyo|YES|stars_4.5
+90259|Palace Hotel Tokyo|Tokyo|NO|stars_5
+92162|Club Med Sahoro|Shintoku|NO|stars_3.5
+99953|the b roppongi|Tokyo|NO|stars_3
+99954|the b akasaka|Tokyo|YES|stars_3
+103514|Monterey Kyoto|Kyoto|YES|stars_4
+103517|Celestine|Tokyo|YES|stars_4
+103518|Hotel Listel Shinjuku|Tokyo|YES|stars_3
+103519|Shinjuku Washington Hotel Main Building|Tokyo|YES|stars_3
+103520|Shinjuku Prince|Tokyo|YES|stars_3
+103521|The Prince Park Tower Tokyo|Tokyo|YES|stars_4.5
+103522|Sunroute Plaza Shinjuku|Tokyo|YES|stars_3
+103523|Fraser Place Shinjuku|Tokyo|YES|stars_4
+103548|Comfort Narita|Narita|YES|stars_3
+103550|Comfort Sapporo|Sapporo|YES|stars_3
+103889|Akasaka Excel Tokyu|Tokyo|YES|stars_4
+104024|ANA InterContinental Ishigaki Resort|Ishigaki|NO|stars_4
+104026|JR Hotel Clement Takamatsu|Takamatsu|NO|stars_4
+104027|ANA Crowne Plaza Fukuoka|Fukuoka|NO|stars_4
+104029|ANA Crowne Plaza Hiroshima|Hiroshima|NO|stars_4
+104030|Okura JR - Huis Ten Bosch|Sasebo|NO|stars_4
+104031|ANA Crowne Plaza Kanazawa|Kanazawa|NO|stars_4
+104032|Crowne Plaza ANA Kyoto|Kyoto|NO|stars_4
+104033|ANA InterContinental Manza Beach Resort|Okinawa|NO|stars_4
+104035|ANA Nagasaki Gloverhill|Nagasaki|NO|stars_3.5
+104037|ANA Okayama|Okayama|YES|stars_4
+104039|ANA Crowne Plaza Osaka|Osaka|NO|stars_4
+104040|ANA Sapporo|Sapporo|YES|stars_4
+104041|ANA Crowne Plaza Toyama|Toyama|NO|stars_4
+104043|ANA Crowne Plaza Wakkanai|Wakkanai|NO|stars_3
+104172|Asahikawa Terminal|Asahikawa|NO|stars_3
+104173|Asakusa View|Tokyo|NO|stars_4
+104181|Associa Shizuoka|Shizuoka|NO|stars_4
+104182|Associa Toyohashi|Toyohashi|NO|stars_3.5
+104291|Bandai Silver|Niigata|NO|stars_3
+105621|Capitol Tokyu|Tokyo|NO|stars_5
+105721|Centraza Hakata|Fukuoka|NO|stars_4
+105732|Century Southern Tower|Tokyo|YES|stars_4
+105734|Cerulean Tower Tokyu|Tokyo|NO|stars_5
+105836|Grand Fresa Akasaka|Tokyo|NO|stars_3
+105837|Chisun Grand Sapporo|Sapporo|NO|stars_3
+105839|Chisun Inn Asakusa|Tokyo|NO|stars_3
+105840|Chisun Inn Nagoya|Nagoya|NO|stars_2
+105841|APA Hotel TKP Sapporo Ekimae|Sapporo|NO|stars_2
+105843|Nest Sapporo Ekimae|Sapporo|NO|stars_3
+105845|Chisun Shinsaibashi|Osaka|NO|stars_3
+105846|Chisun Utsunomiya|Utsunomiya|NO|stars_3
+105986|Comfort Akita|Akita|NO|stars_3
+106005|Comfort Hotel Central International Airport|Tokoname|NO|stars_3
+106022|Comfort Hakata|Fukuoka|NO|stars_3
+106023|Comfort Himeji|Himeji|NO|stars_3
+106024|Comfort Inn Hiroshima Heiwa-Odori|Hiroshima|NO|stars_3
+106025|Comfort Hiroshima Otemachi|Hiroshima|NO|stars_3
+106184|Comfort Inn Kyoto Gojo|Kyoto|NO|stars_2.5
+106287|Comfort Inn Suzuka|Suzuka|YES|stars_3
+106319|Comfort Inn Kochi|Kochi|NO|stars_3
+106320|Comfort Komatsu|Komatsu|YES|stars_2.5
+106322|Comfort Koriyama|Koriyama|NO|stars_3
+106336|Comfort Nagasaki|Nagasaki|NO|stars_3
+106337|Comfort Nagoya Chiyoda|Nagoya|YES|stars_3
+106339|Comfort Oita|Oita|NO|stars_3
+106340|Comfort Okayama|Okayama|NO|stars_3
+106342|Comfort Osaka Shinsaibashi|Osaka|NO|stars_3
+106359|Comfort Sakai|Osaka|NO|stars_3
+106360|Comfort Sendai East|Sendai|NO|stars_3
+106361|Comfort Inn Sendai West|Sendai|NO|stars_3
+106373|Comfort Inn Tendo|Tendo|NO|stars_3
+106374|Comfort Tokyo Kiyosumi - Shirakawa|Tokyo|NO|stars_3
+106386|Comfort Yokohama Kannai|Yokohama|NO|stars_3
+106554|Dai Ichi Annex|Tokyo|NO|stars_3
+106555|Dai Ichi Inn Ikebukuro|Tokyo|NO|stars_2.5
+106556|Dai Ichi Tokyo Seafort|Tokyo|YES|stars_3
+106768|Dream Gate Maihama|Urayasu|NO|stars_3
+106797|East 21 Tokyo|Tokyo|NO|stars_4
+107240|Ginza Nikko|Tokyo|NO|stars_4
+107369|Grand Hyatt Fukuoka|Fukuoka|NO|stars_5
+107417|Granvia Hiroshima|Hiroshima|NO|stars_4
+107420|Granvia Osaka|Osaka|NO|stars_4
+107421|Granvia Wakayama|Wakayama|NO|stars_4
+107534|Heiannomori Kyoto|Kyoto|NO|stars_3
+107567|Highland Resort Hotel & Spa|Fujiyoshida|NO|stars_3.5
+107585|Grand Prince Hiroshima|Hiroshima|YES|stars_4
+107741|President Mito|Mito|NO|stars_3
+107970|Hyatt Regency Fukuoka|Fukuoka|NO|stars_5
+107972|Hyatt Regency Hakone Resort & Spa|Hakone|NO|stars_4
+108070|Isezakicho Washington|Yokohama|NO|stars_3
+108088|JAL City Hiroshima|Hiroshima|NO|stars_3
+108089|JAL City Kannai Yokohama|Yokohama|NO|stars_3
+108094|JAL City Naha|Okinawa|NO|stars_4
+108095|JAL City Sendai|Sendai|NO|stars_3
+108096|JAL City Tamachi Tokyo|Tokyo|NO|stars_3
+108097|Hotel Wing International Premium Tokyo Yotsuya|Tokyo|NO|stars_3
+108098|Hilton Fukuoka Sea Hawk|Fukuoka|NO|stars_4
+108136|JR Tower Nikko Sapporo|Sapporo|NO|stars_4.5
+108205|Kobe Meriken Park Oriental|Kobe|NO|stars_4
+108225|Kumejima Island Eef Beach|Kumejima|NO|stars_2
+108231|Grand Prince Hotel Kyoto|Kyoto|YES|stars_4
+108316|Laforet Tokyo|Tokyo|NO|stars_4
+108679|Marriott Resort & Spa Okinawa|Okinawa|NO|stars_4
+108837|Mercure Ginza Tokyo|Tokyo|NO|stars_4
+109009|Metropolitan Edmont|Tokyo|NO|stars_4
+109014|Metropolitan Sendai|Sendai|NO|stars_3.5
+109157|Monterey Ginza|Tokyo|NO|stars_4
+109197|Tokyu Hotel|Nagoya|YES|stars_4
+109210|Nara|Nara|NO|stars_4
+109212|Narita Port|Narita|NO|stars_3
+109229|New Otani Hakata|Fukuoka|NO|stars_3.5
+109230|New Otani Inn Tokyo|Tokyo|NO|stars_3
+109231|New Otani Inn Yokohama|Yokohama|NO|stars_3
+109234|New Otani Inn Sapporo|Sapporo|NO|stars_3.5
+109244|Nikko Alivila / Yomitan Resort Okinawa|Okinawa|NO|stars_4
+109248|Nikko Fukuoka|Fukuoka|NO|stars_4
+109250|Nikko - Huis Ten Bosch|Nagasaki|NO|stars_3.5
+109252|Nikko Kanazawa|Kanazawa|NO|stars_4
+109253|Nikko Kansai Airport|Osaka|NO|stars_4
+109257|Nikko Naha Grand Castle|Okinawa|NO|stars_4
+109258|Nikko Nara|Nara|NO|stars_4
+109260|Nikko Yaeyama|Ishigaki|NO|stars_3
+109426|Oakwood Residence Aoyama|Tokyo|YES|stars_0
+109427|Oakwood Residence Azabujyuban|Tokyo|YES|stars_0
+109443|Hilton Odawara Resort & Spa|Odawara|NO|stars_4
+109457|Okura Fukuoka|Fukuoka|NO|stars_5
+109458|Okura Kobe|Kobe|NO|stars_4
+109460|Okura Sapporo|Sapporo|NO|stars_4
+109461|Okura Tokyo Bay|Urayasu|NO|stars_4
+109508|Otsu Prince|Otsu|YES|stars_4
+109528|Palace Hakone|Hakone|NO|stars_4
+109529|Palace Omiya|Omiya|YES|stars_0
+109530|Palace Tachikawa|Tokyo|YES|stars_0
+109583|Park Tokyo|Tokyo|YES|stars_4
+109609|Pearl City Kobe|Kobe|NO|stars_3
+109668|Plaza Kobe|Kobe|NO|stars_4
+109693|Portopia|Kobe|NO|stars_4
+109734|The Prince Sakura Tower Tokyo|Tokyo|NO|stars_5
+109864|Quality Kobe|Kobe|NO|stars_3
+109919|Quality Toyokawa|Toyokawa|NO|stars_3
+110018|Bellevue Garden Kansai International Airport|Osaka|YES|stars_3
+110097|Renaissance Naruto Resort|Tokushima|NO|stars_4
+110098|Renaissance Okinawa Resort|Okinawa|NO|stars_4
+110350|Rose Garden Shinjuku|Tokyo|YES|stars_3
+110351|Rose Yokohama|Yokohama|NO|stars_4
+110638|Royal Park Shiodome Tower|Tokyo|NO|stars_4
+110676|Yokohama Sakuragicho Washington|Yokohama|YES|stars_3
+110712|Sannomiya Terminal|Kobe|NO|stars_3
+110788|Seiyo Ginza|Tokyo|NO|stars_5
+110829|Sheraton Grande Ocean Resort|Miyazaki|YES|stars_4
+110832|Sheraton Sapporo|Sapporo|NO|stars_4
+110834|Shibuya Excel Tokyu|Tokyo|YES|stars_4
+110835|Shin Yokohama Prince Hotel|Yokohama|NO|stars_4
+110864|Vessel Hotel Fukuoka Kaizuka|Fukuoka|NO|stars_2
+110867|Sleep Inn Ishigaki Island|Ishigaki|NO|stars_3
+110868|Sleep Inn Kanda Kitakyushu Airport|Miyako|NO|0
+110918|Mercure Nagoya Cypress|Nagoya|NO|stars_4
+111026|InterContinental The Strings Tokyo|Tokyo|NO|stars_5
+111049|Sun Marina|Okinawa|NO|stars_4
+111080|Sunshine City Prince|Tokyo|YES|stars_3
+111094|Swissôtel Nankai|Osaka|YES|stars_4.5
+111231|The Peninsula Tokyo|Tokyo|YES|stars_5
+111242|The Ritz-Carlton Osaka|Osaka|NO|stars_5
+111243|The Ritz-Carlton Tokyo|Tokyo|YES|stars_5
+111308|Tokyo Bay Ariake Washington|Tokyo|YES|stars_3
+111309|Tokyo Dome|Tokyo|YES|stars_4
+111311|Tokyu Inn Shinbashi Atagoyama|Tokyo|YES|stars_3
+111707|Yokohama Bay Sheraton Hotel & Towers|Yokohama|YES|stars_4.5
+111711|Mercure Yokosuka|Yokosuka|NO|stars_3
+111735|ANA Kumamoto New Sky|Kumamoto|NO|stars_4
+111737|Star Gate Hotel Kansai Airport|Izumisano|YES|stars_4
+111745|ANA Kushiro|Kushiro|NO|stars_3
+111818|Laguna Garden|Okinawa|NO|stars_4
+124629|Rihga Royal Kyoto|Kyoto|YES|stars_4
+124630|Sunroute Okayama|Okayama|YES|stars_3
+128889|Rhino|Kyoto|NO|stars_3
+129620|Suginoi|Beppu|NO|stars_4
+129622|Washington|Chiba|NO|stars_3
+129623|Sunroute Hakata|Fukuoka|NO|stars_3
+129624|Hakata Excel Tokyu|Fukuoka|NO|stars_4
+129625|The Prince Hakone|Hakone|NO|stars_4
+129626|Ark|Hiroshima|NO|stars_3
+129627|Chisun Hiroshima|Hiroshima|NO|stars_3
+129628|Oriental Hiroshima|Hiroshima|NO|stars_4
+129630|Excel Tokyu|Kanazawa|NO|stars_4
+129631|Plaza|Kobe|NO|stars_3
+129632|Maiko Villa|Kobe|NO|stars_4
+129633|Kobe Bay Sheraton Hotel & Towers|Kobe|YES|stars_4
+129636|Court Shijo|Kyoto|NO|stars_3
+129638|Victoria Inn|Nagasaki|NO|stars_3
+129639|Kanko|Nagoya|NO|stars_4
+129640|com's Nagoya|Nagoya|NO|stars_3
+129641|International Nagoya|Nagoya|NO|stars_3.5
+129643|Moonbeach|Okinawa|NO|stars_4
+129644|Rizzan Sea Park Tancha Bay|Okinawa|NO|stars_4
+129645|Zampamisaki Royal|Okinawa|NO|stars_4
+129646|Okinawa Kariyushi Beach Resort Ocean Spa|Okinawa|NO|stars_4
+129647|Kariyushi Urban Resort|Okinawa|NO|stars_4
+129648|Hotel Osaka Baytower|Osaka|NO|stars_4
+129649|Laforet Shin|Osaka|YES|stars_4
+129650|Toko City Umeda|Osaka|NO|stars_3
+129651|Chisun Inn Umeda|Osaka|NO|stars_2
+129652|Dai-ichi|Osaka|NO|stars_4
+129653|Flexstay Shinsaibashi Inn|Osaka|NO|stars_3
+129655|APA Hotel Osaka-Temma|Osaka|NO|stars_3
+129659|APA Villa Hotel Yodoyabashi|Osaka|NO|stars_3
+129660|Monterey|Osaka|NO|stars_4
+129662|Sunroute Umeda|Osaka|NO|stars_3
+129663|Il Monte|Osaka|NO|stars_3
+129664|Weekly Mansion Otemae|Osaka|NO|stars_3
+129666|Leopalace|Sapporo|NO|stars_3
+129669|Green Hotel Takayama|Takayama|NO|stars_4
+129672|Shinjuku New City|Tokyo|NO|stars_3
+129673|Hotel Sunlite Shinjuku|Tokyo|YES|stars_3
+129674|Route-Inn Tokyo Asagaya|Tokyo|NO|stars_3
+129676|Pearl Kasai|Tokyo|NO|stars_3
+129678|Mitsui Garden Ginza Premier|Tokyo|NO|stars_4
+132287|The Windsor Toya Resort & Spa|Abuta|NO|stars_5
+132292|Leopalace|Asahikawa|NO|stars_3
+132293|Loisir Asahikawa|Asahikawa|NO|stars_3
+132297|APA Hotel & Resort Tokyo Bay Makuhari|Chiba|NO|stars_3
+132298|New Otani Makuhari|Chiba|NO|stars_4
+132300|Crowne Plaza ANA Chitose|Chitose|YES|stars_4
+132301|Wing International Chitose|Chitose|NO|stars_3
+132302|com's New Chitose Airport|Chitose|NO|stars_4
+132304|Sunlife23|Fukuoka|NO|stars_3
+132305|Canal City Washington|Fukuoka|NO|stars_3
+132306|Miyako Hakata|Fukuoka|NO|stars_4
+132307|Takakura|Fukuoka|NO|stars_3
+132308|Chisun Hakata|Fukuoka|NO|stars_3
+132310|Il Palazzo|Fukuoka|NO|stars_4
+132312|Sky Court Hakata|Fukuoka|NO|stars_2
+132315|Gifu Miyako Hotel|Gifu|NO|stars_4
+132316|Washington Plaza|Gifu|NO|stars_3
+132326|Tokyu Hotel|Hakuba|NO|stars_4
+132328|Okura Act City|Hamamatsu|NO|stars_4
+132330|Court|Hamamatsu|NO|stars_3
+132333|Plaza|Himeji|NO|stars_3
+132336|APA Hotel Himejieki-Kita|Himeji|NO|stars_3
+132337|Tokyu Bizfort|Hiroshima|NO|stars_3
+132340|Rihga Royal Hiroshima|Hiroshima|NO|stars_4
+132345|Rembrandt Kagoshima|Kagoshima|NO|stars_4
+132346|Tokyu Inn|Kagoshima|NO|stars_3
+132348|Castle Inn|Kanazawa|NO|stars_3
+132352|Sky Court|Kawasaki|NO|stars_2
+132353|Sunroute Kawasaki|Kawasaki|NO|stars_3
+132354|Kawasaki Nikko|Kawasaki|NO|stars_4
+132357|Dai-ichi|Kitakyushu|NO|stars_3
+132358|Rihga Royal Kokura|Kitakyushu|NO|stars_4
+132361|Sunroute Sopra|Kobe|NO|stars_3
+132363|Chisun Kobe|Kobe|NO|stars_3
+132369|Chisun|Koriyama|NO|stars_3
+132372|Washington Plaza|Kumamoto|NO|stars_3
+132374|Ark|Kumamoto|NO|stars_3
+132381|Watazen Ryokan|Kyoto|YES|stars_3
+132382|Mystays Shijo|Kyoto|NO|stars_3
+132383|APA Hotel Kyoto-Gion|Kyoto|NO|stars_3
+132384|Hearton Kyoto|Kyoto|NO|stars_3
+132385|Dai-ni Tower|Kyoto|NO|stars_3
+132387|Nikko Princess Kyoto|Kyoto|NO|stars_4.5
+132389|Alpha|Kyoto|NO|stars_3
+132396|Toko City|Matsumoto|NO|stars_3
+132397|Tokyu Inn|Matsumoto|NO|stars_3
+132399|Tokyu Inn|Matsuyama|NO|stars_3
+132402|Holiday Inn ANA Resort Miyazaki|Miyazaki|NO|stars_4
+132405|Sunroute Nagano|Nagano|NO|stars_3
+132409|JAL City Nagasaki|Nagasaki|NO|stars_3
+132415|ANA Crowne Plaza Grand Court Nagoya|Nagoya|YES|stars_4
+132417|Marriott Associa|Nagoya|YES|stars_4.5
+132418|Cypress Garden|Nagoya|NO|stars_3
+132419|Hamilton|Nagoya|NO|stars_3
+132420|APA Hotel Nagoya-Nishiki|Nagoya|NO|stars_3
+132421|Tokyu Inn|Nagoya|NO|stars_3
+132422|The Westin Nagoya Castle|Nagoya|YES|stars_4
+132423|Royal Park Inn|Nagoya|NO|stars_3
+132424|Leopalace|Nagoya|NO|stars_4
+132427|Sky Court|Narita|NO|stars_2
+132428|International Garden|Narita|NO|stars_3.5
+132431|Marroad International|Narita|NO|stars_3.5
+132432|Mercure Narita|Narita|NO|stars_3
+132434|Chisun & Conference Center Niigata|Niigata|NO|stars_3
+132435|Sunroute Niigata|Niigata|NO|stars_3
+132437|Leopalace|Niigata|NO|stars_3
+132439|Nikko Niigata|Niigata|NO|stars_4
+132440|ANA Crowne Plaza Niigata|Niigata|NO|stars_4
+132442|Novotel Koshien Osaka West|Nishinomiya|NO|stars_4
+132444|Manseikaku Ryokan|Noboribetsu|NO|stars_3
+132445|Numazu Riverside|Numazu|YES|stars_3.5
+132448|Granvia Okayama|Okayama|NO|stars_4
+132449|Royal|Okayama|NO|stars_3
+132450|Okayama International|Okayama|NO|stars_4
+132452|Okinawa Port|Okinawa|NO|stars_3
+132453|Terrace|Okinawa|NO|stars_4
+132455|ANA Crowne Plaza Okinawa Harborview|Okinawa|NO|stars_4
+132456|Loisir Hotel & Spa Tower Naha|Naha|NO|stars_4
+132457|Miyako|Okinawa|NO|stars_3.5
+132458|Jal Private Resort Okuma|Okinawa|NO|stars_4
+132463|Castle|Osaka|NO|stars_3
+132464|Universal Port|Osaka|NO|stars_4
+132465|Namba Washington Plaza|Osaka|NO|stars_3
+132466|The Westin Osaka|Osaka|YES|stars_4.5
+132467|APA Villa Hotel Tanimachi 4 Chome-Ekimae|Osaka|NO|stars_3
+132468|Rihga Nakanoshima Inn|Osaka|NO|stars_3
+132469|Ark|Osaka|NO|stars_3
+132470|Shinosaka|Osaka|NO|stars_3
+132472|Plaza Osaka|Osaka|NO|stars_3
+132473|Hankyu International|Osaka|NO|stars_5
+132474|Tokyu Inn|Osaka|NO|stars_3
+132475|Hotel Claiton Shin-Osaka|Osaka|NO|stars_3
+132478|Lutheran|Osaka|NO|stars_3
+132480|Shin-osaka Washington Plaza|Osaka|NO|stars_3
+132481|Keihan Universal Tower|Osaka|NO|stars_4
+132484|Chisun Shin-Osaka|Osaka|NO|stars_3
+132485|Monterey La Soeur|Osaka|NO|stars_3.5
+132486|Namba Oriental|Osaka|YES|stars_4
+132487|Nikko Osaka|Osaka|NO|stars_4
+132489|Royal Oak|Otsu|NO|stars_4
+132490|Hotel Agora Regency Sakai|Sakai|NO|stars_3.5
+132494|Royton|Sapporo|NO|stars_3.5
+132495|Renaissance|Sapporo|NO|stars_4
+132496|Jozankei Milione Ryokan|Sapporo|NO|stars_4
+132497|Jasmac Plaza|Sapporo|NO|stars_3.5
+132498|Park|Sapporo|NO|stars_3.5
+132499|Sapporo Grand|Sapporo|NO|stars_4
+132500|Excel Tokyu|Sapporo|NO|stars_4
+132501|Novotel Sapporo|Sapporo|NO|stars_4
+132502|Tokyo Dome|Sapporo|YES|stars_4
+132503|Sapporo Prince|Sapporo|NO|stars_4
+132507|Holiday Inn Ana Sapporo Susukino|Sapporo|NO|stars_3
+132508|Keio Plaza Sapporo|Sapporo|YES|stars_4
+132510|Holiday Inn ANA Sendai|Sendai|NO|stars_3
+132512|Koyo Grand|Sendai|NO|stars_4
+132516|Chisun Sendai|Sendai|NO|stars_3
+132520|Shima Kanko The Classic|Shima|NO|stars_4
+132521|Shimoda Tokyu|Shimoda|NO|stars_3.5
+132525|Shin-Osaka Esaka Tokyu Inn|Suita|NO|stars_3
+132529|Associa Takayama Resort|Takayama|NO|stars_4
+132530|Hida Plaza|Takayama|NO|stars_3
+132531|Washington Plaza|Takayama|NO|stars_3
+132532|Best Western Takayama|Takayama|NO|stars_3
+132534|Kokusai|Toba|NO|stars_4
+132537|Fukuoka Kaikan|Tokyo|NO|stars_3
+132538|Green Korakuen|Tokyo|NO|stars_3
+132542|Pearl Ryogoku|Tokyo|NO|stars_3
+132543|Shibuya Tokyu Inn|Tokyo|YES|stars_3
+132544|Pearl Kayabacho|Tokyo|YES|stars_3
+132545|Tokyo Asakusabashi Belmont|Tokyo|NO|stars_3
+132546|Best Western Shinjuku Astina|Tokyo|NO|stars_3
+132547|Chisun Hamamatsucho|Tokyo|NO|stars_3
+132548|Yaesu Terminal|Tokyo|NO|stars_3
+132549|Dai-ichi Ryogoku|Tokyo|NO|stars_3
+132550|Omori Tokyu Inn|Tokyo|NO|stars_3
+132552|Kichijoji Tokyu Inn|Tokyo|NO|stars_3
+132554|Akihabara Washington|Tokyo|YES|stars_3
+132555|Sunroute Asakusa|Tokyo|NO|stars_3
+132557|Universe Nihombashi Kayabacho|Tokyo|YES|stars_3
+132558|the b sangenjaya|Tokyo|NO|stars_3
+132560|Nihonbashi Villa|Tokyo|NO|stars_2
+132561|Princess Garden|Tokyo|NO|stars_3
+132562|Monterey Hanzomon|Tokyo|NO|stars_3
+132564|Tokyo Inn|Tokyo|NO|stars_2
+132565|Tokyo Grand|Tokyo|NO|stars_3
+132567|Toko|Tokyo|NO|stars_3
+132570|Shibuya Tobu|Tokyo|NO|stars_3
+132571|Nihonbashi Saibo|Tokyo|NO|stars_3
+132572|Bellclassic|Tokyo|NO|stars_3
+132573|Smile Tokyo Asagaya|Tokyo|NO|stars_2
+132574|Haneda Excel Tokyu|Tokyo|YES|stars_3.5
+132575|JAL City Haneda Tokyo|Tokyo|NO|stars_3
+132576|APA Hotel Nishi-Azabu|Tokyo|NO|stars_3
+132577|APA Hotel Tokyo-Itabashi|Tokyo|NO|stars_3
+132579|Mitsui Garden Kamata|Tokyo|NO|stars_3
+132580|Lungwood|Tokyo|NO|stars_3
+132581|Chisun Ueno|Tokyo|NO|stars_3
+132582|Sky Court Koiwa|Tokyo|NO|stars_2
+132583|Akasaka Yoko|Tokyo|NO|stars_3
+132584|Rembrandt Inn Nishikasai|Tokyo|NO|stars_3
+132587|Smile Asakusa|Tokyo|NO|stars_2
+132589|Asia Center Of Japan|Tokyo|NO|stars_3
+132590|Vista Hotel Kamata Tokyo|Tokyo|NO|stars_3
+132592|Monterey Akasaka|Tokyo|NO|stars_4
+132598|Senri Hankyu|Toyonaka|NO|stars_3
+132599|Sunroute Ueda|Ueda|NO|stars_3
+132601|Sheraton Grande Tokyo Bay|Urayasu|YES|stars_4
+132603|Tokyu Inn|Wakayama|NO|stars_3
+132607|New Grand|Yokohama|NO|stars_4
+132609|Camelot Japan|Yokohama|NO|stars_3
+132610|Live Max Yokohama-Tsurumi|Yokohama|YES|stars_3
+132611|Breezbay|Yokohama|NO|stars_3
+132613|Mystays|Yokohama|NO|stars_3
+132614|Monterey|Yokohama|NO|stars_4
+134333|Hilton Niseko Village|Niseko|NO|stars_5
+137019|Tobu|Sapporo|NO|stars_3
+137035|Nikko Himeji|Himeji|NO|stars_4
+137062|Monterey Edelhof|Sapporo|NO|stars_4
+137069|Best Western Newcity Hirosaki|Hirosaki|NO|stars_4
+137076|APA Hotel Karuizawa-Ekimae|Karuizawa|NO|stars_3
+137087|Best Western Joytel Osaka|Osaka|NO|stars_3
+137100|Monterey|Sapporo|NO|stars_3.5
+137112|Keio Plaza Hachioji|Hachioji|NO|stars_3
+137113|Loisir Hakodate|Hakodate|NO|stars_3.5
+137114|APA Hotel Naha|Naha|NO|stars_3
+137132|Sky|Kanazawa|NO|stars_3
+137146|Kansai Airport Washington|Osaka|NO|stars_3
+137190|Manseikaku Lakeside Terrace|Abuta|NO|stars_3.5
+137193|Associa Shin-Yokohama|Yokohama|NO|stars_4
+137197|Rembrandt Atsugi|Atsugi|YES|stars_3
+137200|Chisun Inn Esaka|Suita|NO|stars_3
+137206|ARK|Sendai|NO|stars_3
+137218|City Route|Osaka|NO|stars_2
+137223|Port|Utsunomiya|NO|stars_3
+137229|Mitsui Garden Osaka Yodoyabashi|Osaka|NO|stars_3
+137288|Hotel Ascent|Fukuoka|NO|stars_3
+137328|Best Western Kansai Airport|Osaka|NO|stars_3
+137365|Loisir Joetsu|Niigata|NO|stars_3
+137379|Ryokan Daiichi Takimotokan|Noboribetsu|YES|stars_4
+137390|Hotel Resol Gifu|Gifu|NO|stars_3
+137408|Resol Hakodate|Hakodate|NO|stars_3
+137424|Kushiro Prince|Kushiro|NO|stars_3
+137440|Kokusai|Kanazawa|NO|stars_3
+137443|APA Hotel Kyoto-Ekimae|Kyoto|NO|stars_3
+137735|The Green Leaf Niseko Village|Niseko|NO|stars_4
+137880|Izumiya Ryokan|Kyoto|NO|stars_3
+138310|Karuizawa Prince East|Karuizawa|NO|stars_3
+138392|APA Hotel Kyoto-Eki-Horikawadori|Kyoto|NO|stars_3
+138418|Nikko Toyohashi|Toyohashi|NO|stars_4
+138434|APA Hotel Osaka-Higobashi-Ekimae|Osaka|NO|stars_3
+138436|Crowne Plaza ANA Kobe|Kobe|YES|stars_4
+138463|Gracery Ginza|Tokyo|NO|stars_3
+138537|Vista Hotel Sapporo Nakajimakohen|Sapporo|NO|stars_3
+139663|Kamenoi Beppu|Beppu|NO|stars_3
+142060|Azumaen Ryokan|Unzen|NO|stars_3
+142070|Ryokan Gion-Hatanaka|Kyoto|YES|stars_4
+142081|Kinugawa Onsen Ryokan|Nikko|NO|stars_3
+142090|Marunouchi|Tokyo|YES|stars_4
+142093|Hotel Com's Osaka - geschlossen|Osaka|NO|stars_3
+142100|Oak|Tokyo|NO|stars_2
+142106|Sadachiyo Sukerokunoyado|Tokyo|NO|stars_3
+142107|Seaside Ryokan|Miyajima Island|NO|stars_3
+142111|Kisyu Shirahama Onsen Musashi|Shirahama|YES|stars_3
+142117|Todaya Ryokan|Toba|YES|stars_4
+142118|Tokyu Resort|Miyako Jima Island|NO|stars_3.5
+142119|Tozankaku Ryokan|Kyoto|NO|stars_3
+145019|Somerset Azasu East Tokyo|Tokyo|YES|stars_4
+145133|Somerset Roppongi|Tokyo|YES|stars_4
+159244|Moriguchi Royal Pines|Moriguchi|NO|stars_3
+159245|Oakwood Residence Roppongi T-Cube|Tokyo|YES|stars_0
+159247|Brighton City Osaka Kitahama|Osaka|YES|stars_3
+159248|Comfort Tokyo Higashi Nihombashi|Tokyo|YES|stars_3
+159249|Azur Takeshiba|Tokyo|NO|stars_3.5
+159250|Aki Grand|Hatsukaichi|NO|stars_3
+159252|Loisir Ogaki|Ogaki|NO|stars_3.5
+159254|Comfort Saga|Saga|NO|stars_3
+159256|Shin-Osaka Station Annex|Osaka|NO|stars_3
+159258|Comfort Shin Yamaguchi|Yamaguchi|NO|stars_3
+159259|Chisun Inn Kagoshima|Kagoshima|NO|stars_2
+159260|Comfort Yamagata|Yamagata|NO|stars_3
+159263|Kitano Arms|Tokyo|NO|stars_3.5
+159265|Comfort Hakodate|Hakodate|NO|stars_3
+159267|Sunroute Shinagawa Seaside|Tokyo|NO|stars_3
+159269|Oakwood Apartments Shirokane|Tokyo|YES|stars_0
+159270|The Westin Awaji Island Resort & Conference Center|Minami-Awaji|YES|stars_4
+159273|Comfort Tsubamesanjo|Sanjo|YES|stars_3
+159274|Kawagoe Prince|Kawagoe|NO|stars_4
+159276|Comfort Kokura North|Kitakyushu|NO|stars_3
+159279|Comfort Nara|Nara|YES|stars_3
+159280|Comfort Niigata|Niigata|NO|stars_3
+159282|Chisun Grand Nagasaki|Nagasaki|NO|stars_3
+159283|Comfort Tomakomai|Tomakomai|NO|stars_3
+159286|Sleep Inn Miyakonojo|Miyakonojo|NO|stars_3
+159287|Chisun Shinagawa West|Tokyo|NO|stars_3
+159288|Screen Kyoto|Kyoto|NO|stars_4
+159290|Loisir Yokkaichi|Yokkaichi|NO|stars_3
+159292|Ginza Grand|Tokyo|NO|stars_3.5
+159294|Oakwood Premier Tokyo Midtown|Tokyo|YES|stars_0
+159299|Daiwa Roynet Tokyo Osaki|Tokyo|YES|stars_3
+159304|Metropolitan Marunouchi|Tokyo|NO|stars_4
+159451|Niseko Northern Resort Annupuri|Sapporo|NO|stars_4
+159452|Weekly Mansion Tokyo at Asakusa|Tokyo|YES|stars_2
+159454|Nikko Northland Obihiro|Obihiro|NO|stars_4
+159455|Weekly Mansion Tokyo at Akasaka|Tokyo|NO|stars_2.5
+182500|Citadines Tokyo Shinjuku|Tokyo|YES|stars_3
+187695|Monterey Amalie|Chuo-ku|NO|stars_4
+187696|Monterey Kobe|Kobe|NO|stars_3
+201597|Toyocho Vista|Tokyo|NO|stars_3
+201599|Agora Place Asakusa|Tokyo|YES|stars_3
+202389|ibis Tokyo Shinjuku|Tokyo|YES|stars_3
+202537|Villa Fontaine Tamachi|Tokyo|NO|stars_3
+202540|Villa Fontaine Roppongi|Tokyo|NO|stars_4
+202541|Villa Fontaine Shiodome|Tokyo|NO|stars_3
+203176|Sutton Place Hakata|Fukuoka|NO|stars_3
+203177|Shangri-La Tokyo|Tokyo|YES|stars_5
+203178|Cityhotel Lonestar Shinjuku|Tokyo|YES|stars_3
+203179|Arietta & Trattoria Gotanda|Tokyo|YES|stars_3
+203180|Arietta & Osteria Osaka|Osaka|YES|stars_3
+218566|the b akasaka-mitsuke|Tokyo|NO|stars_3
+218783|The B Ochanomizu|Tokyo|NO|stars_3
+220888|Yanagibasi Tokyo|Tokyo|NO|stars_2
+227348|Ryokan Senhime Monogatari|Nikko|YES|stars_3.5
+227488|Kyoto Garden Ryokan Yachiyo - Kyoto|Kyoto|NO|stars_3.5
+227943|BlueWave Inn|Hiroshima|NO|stars_3
+227944|Hearton Higashi Shinagawa|Tokyo|NO|stars_3
+227945|Ginza Creston|Tokyo|YES|stars_3
+227946|Villa Fontaine Roppongi Annex|Tokyo|YES|stars_3
+227947|Villa Fontaine Shinjuku|Tokyo|YES|stars_3
+227948|Villa Fontaine Ueno|Tokyo|YES|stars_3
+227949|Villa Fontaine Otemachi|Tokyo|YES|stars_3
+227950|Villa Fontaine Kudanshita|Tokyo|YES|stars_3
+227988|La Suite Kobe Harborland|Kobe|NO|stars_4.5
+228445|the b nagoya|Nagoya|NO|stars_3
+228446|Nishi Shinjuku|Tokyo|YES|stars_3
+228448|Sun Members Tokyo Shinjuku|Tokyo|YES|stars_3
+228449|Takanawa Keikyu|Tokyo|NO|stars_2
+228450|Yaesu Fujiya|Tokyo|NO|stars_3
+229147|St. Regis Osaka|Osaka|YES|stars_5
+229148|The Westin Sendai|Sendai|YES|stars_5
+229149|Mercure Sapporo|Sapporo|NO|stars_4
+230415|Nagoya Crown|Nagoya|NO|stars_3
+230794|Villa Fontaine Hakozaki|Tokyo|NO|stars_3
+232023|the b hachioji|Hachioji|NO|stars_3
+232193|B:Conte Ariake|Tokyo|NO|stars_3
+232194|Hundredstay Tokyo Shinjuku|Tokyo|NO|stars_4
+232195|Keio Plaza Tama|Tama|NO|stars_4
+232875|Mitsui Garden Kyoto Shijo|Kyoto|NO|stars_3
+233345|Grand Intelligent|Hiroshima|NO|stars_3
+234250|APA Hotel Fukuoka - Watanabe Dori|Fukuoka|NO|stars_3
+234251|Central Fukuoka|Fukuoka|NO|stars_3
+234252|Court Hakata-ekimae|Fukuoka|NO|stars_3
+234256|IP Fukuoka|Fukuoka|NO|stars_3
+234269|Kinsuikan|Hiroshima|NO|stars_4
+234270|Mitsui Garden Hiroshima|Hiroshima|NO|stars_3
+234272|Miyajima Grand Arimoto|Hiroshima|YES|stars_4
+234273|Miyarikyu|Hiroshima|NO|stars_4
+234280|Beach Sunshine|Okinawa|NO|stars_3
+234287|EM Welcom Center & Costa Vista Okinawa|Okinawa|NO|stars_4
+234289|Ishigaki Resort Grandvrio|Okinawa|NO|stars_3.5
+234292|KAFU Resort Fuchaku Condo|Okinawa|YES|stars_4.5
+234341|The Ritz-Carlton Okinawa|Okinawa|NO|stars_5
+234347|Okinawa Sun Coast|Okinawa|NO|stars_3
+234350|Smile Okinawa Naha|Okinawa|NO|stars_3
+234351|Oriental Hills Okinawa|Okinawa|NO|stars_5
+234352|Pacific Okinawa|Okinawa|NO|stars_3
+234353|Resort Kume Island|Okinawa|NO|stars_2
+234355|Resonex Nago|Okinawa|NO|stars_3
+234356|Rocore Naha|Okinawa|NO|stars_3
+234359|Route-Inn Naha Maejima|Okinawa|NO|stars_3
+234361|Seaside The Beach|Okinawa|NO|stars_3
+234362|Spa Resort Exes|Okinawa|NO|stars_5
+234363|Sun Okinawa|Okinawa|NO|stars_2.5
+234366|The Atta Terrace Club Towers|Okinawa|NO|stars_5
+234368|Tokyo Daiichi Okinawa Grand Mer Resort|Okinawa|YES|stars_4
+234369|Tokyu Bizfort Naha|Okinawa|NO|stars_3
+234374|Gracery Tamachi|Tokyo|NO|stars_3
+234376|Grand City|Tokyo|NO|stars_3
+234385|Remm Akihabara|Tokyo|YES|stars_3
+234386|Remm Hibiya|Tokyo|NO|stars_3
+234394|Sunroute Shinbashi|Tokyo|NO|stars_3
+234395|Sunroute Takadanobaba|Tokyo|NO|stars_3
+234397|the b ikebukuro|Tokyo|NO|stars_3
+234399|Tokyo Ueno Touganeya|Tokyo|NO|stars_3
+234401|Toshi Center|Tokyo|NO|stars_3
+234402|Unizo Asakusa|Tokyo|NO|stars_3
+234404|Unizo Shinbashi|Tokyo|NO|stars_3
+234429|APA Hotel Keisei Narita-Ekimae|Chiba|NO|stars_3
+234431|Riverge Akebono|Fukui|NO|stars_3
+234432|Ark Hakata Royal|Fukuoka|NO|stars_3
+234433|Court Tenjin|Fukuoka|NO|stars_3
+234434|Garden Palace|Fukuoka|NO|stars_3
+234435|Hummingbird Chuo Inn|Fukuoka|NO|stars_3
+234436|Monterey Le Soeur|Fukuoka|NO|stars_4
+234437|Sunline|Fukuoka|NO|stars_3
+234440|Garden Palace|Hiroshima|NO|stars_3
+234443|Jal City|Hakodate|NO|stars_3
+234446|Suizenji Comfort|Kumamoto|NO|stars_3
+234448|Monterey Nagasaki|Nagasaki|NO|stars_3.5
+234449|Guesthouse Nara Komachi|Nara|NO|stars_2
+234460|Ginza Capital Hotel - Main & Annex|Tokyo|NO|stars_3
+234463|Mitsui Garden Yotsuya|Tokyo|NO|stars_3
+234479|Niwa|Tokyo|NO|stars_3
+235051|Citadines Karasuma-Gojo Kyoto|Kyoto|YES|stars_3
+235052|Ryokan Misono Kurashiki|Okayama|NO|stars_3
+235056|Hearton Nishi Umeda|Osaka|NO|stars_3
+235058|Hearton Minami Senba|Osaka|NO|stars_3
+235059|Hearton Shinsaibashi|Osaka|NO|stars_3
+235060|Star Yokohama|Yokohama|NO|stars_4
+235318|Blue Wave Inn Sapporo|Sapporo|NO|stars_3
+236626|Urvest Ohmori|Tokyo|NO|stars_3
+236627|New Star Ikebukuro|Tokyo|NO|stars_2
+236628|Mitsui Garden Kashiwa|Chiba|NO|stars_3
+236630|Hearton Kita Umeda|Osaka|NO|stars_3
+237525|Toyoko Inn Kanazawa Kenrokuen Korinbo|Kanazawa|NO|stars_3
+237526|Toyoko Inn Tokyo Kanda Akihabara|Tokyo|NO|stars_3
+237527|Toyoko Inn Yokohama Stadium-mae Shinkan|Yokohama|NO|stars_3
+237528|Toyoko Inn Narita Kuko|Narita|NO|stars_3
+237529|Toyoko Inn Sendai Chuo Iti-chome Iti-ban|Sendai|NO|stars_2.5
+237530|Toyoko Inn Kyoto Gojo-Omiya|Kyoto|NO|stars_3
+238157|Village Kyoto|Kyoto|NO|stars_3
+238160|Toyoko Inn Tokyo Tsukuba Express Asakusa-eki|Chuo-ku|NO|stars_3
+238161|Toyoko Inn Tokyo Nihon-bashi|Tokyo|NO|stars_3
+238167|Toyoko Inn Sapporo Susukino Minami|Sapporo|NO|stars_3
+238168|Toyoko Inn Osaka JR Noda Ekimae|Osaka|NO|stars_2.5
+238170|Toyoko Inn Nagoya Sakae|Nagoya|NO|stars_3
+238209|Monterey Ginza La Soeur|Tokyo|NO|stars_4
+238753|Villa Fontaine Shinsaibashi|Osaka|NO|stars_3
+238755|City N.U.T.S|Tokyo|NO|stars_2
+238759|Livemax Shin Osaka|Osaka|NO|stars_2
+238760|Shin Osaka Hotel|Osaka|NO|stars_3
+239412|Gracery Sapporo|Sapporo|NO|stars_4
+239414|Toyoko Inn Sapporo-eki Nishi-guchi Hokudai Mae|Sapporo|NO|stars_3
+239415|Toyoko Inn Kobe Sannomiya 2|Kobe|NO|stars_2.5
+239416|Toyoko Inn Tokyo Machida-eki Odakyu-sen|Tokyo|NO|stars_3
+239417|Toyoko Inn Tokyo Ikebukuro Kita-guchi 2|Tokyo|NO|stars_3
+239418|Toyoko Inn Tsukuba Express Yashio-eki|Saitama-shi|NO|stars_3
+239421|Ascent Shinjuku|Tokyo|NO|stars_3
+239422|Shiba Daimon|Tokyo|NO|stars_2
+239424|UNIZO Kyoto|Kyoto|NO|stars_3
+239425|Namba Dotonbori|Osaka|NO|stars_3
+239427|Cityplaza Osaka & Spa|Osaka|NO|stars_3.5
+239430|Osaka Fujiya|Osaka|NO|stars_3
+239433|Chisun Inn Osaka Hommachi|Osaka|NO|stars_3
+240290|Toyoko Inn Fujisan Mishima-eki|Shizuoka|NO|stars_3
+240291|Toyoko Inn Hiroshima-ekimae Ohashi|Hiroshima|NO|stars_3
+240292|Toyoko Inn Yokohama Tsurumi-eki Higashi|Yokohama|NO|stars_3
+240293|Toyoko Inn Tokyo Haneda Kuko No.1|Tokyo|NO|stars_3
+240294|Toyoko Inn Tokyo-eki Shin-Ohashi Mae|Tokyo|NO|stars_3
+240295|Toyoko Inn Tokyo Shinagawa Aomono-yokocho-eki|Tokyo|NO|stars_3
+240296|Toyoko Inn Tokyo Tozai-Sen Nishi-kasai|Tokyo|NO|stars_2.5
+240393|Vista Grande Osaka|Osaka|NO|stars_3
+240395|Arrow Osaka|Osaka|NO|stars_2
+240399|Asuka|Tokyo|NO|stars_3.5
+240404|Sardonyx Ueno|Tokyo|NO|stars_3
+240477|Shin-Osaka Station Honkan|Osaka|NO|stars_3
+241200|Cross Sapporo|Sapporo|NO|stars_4
+241362|Club Med Kabira Beach|Ishigaki|NO|stars_4
+241687|Toyoko Inn Osaka Umeda Higashi|Osaka|NO|stars_2
+241688|Toyoko Inn Yodoyabashi-eki Minami|Osaka|NO|stars_3
+242203|Aso Villa Park|Aso|NO|stars_3
+242206|Francs|Chiba|NO|stars_3
+242214|Daiwa Roynet Hakata-Gion|Fukuoka|NO|stars_3
+242216|Evergreen Marinoa|Fukuoka|NO|stars_4
+242217|Fukuoka Floral Inn Nishinakasu|Fukuoka|NO|stars_2
+242219|Hakata Green Hotel Tenjin|Fukuoka|NO|stars_3
+242221|Heiwadai Tenjin|Fukuoka|NO|stars_2
+242223|Kkr Hakata|Fukuoka|NO|stars_3
+242224|Leopalace Hakata|Fukuoka|NO|stars_4
+242225|Luigans|Fukuoka|NO|stars_4.5
+242226|Mystays Inn Fukuoka Tenjin Minami|Fukuoka|NO|stars_3
+242229|Premier Plaza|Fukuoka|NO|stars_3
+242230|President Hakata|Fukuoka|NO|stars_3
+242231|Smile Hakata|Fukuoka|NO|stars_3
+242232|the b hakata|Fukuoka|NO|stars_3
+242236|Grantia Fukuyama Spa Resort|Fukuyama|NO|stars_3
+242238|Okada|Hakone|NO|stars_3
+242239|Resorpia Hakone|Hakone|NO|stars_3.5
+242242|Yumoto Fujiya|Hakone|NO|stars_3.5
+242243|Hiroshima Intelligent Annex|Hiroshima|NO|stars_3
+242244|Daiwa Roynet Kawasaki|Kawasaki|NO|stars_3
+242246|Crown Palais Kitakyushu|Kitakyushu|NO|stars_3
+242247|Crown Palais Kokura|Kitakyushu|NO|stars_3
+242248|Sunsky|Kitakyushu|NO|stars_3
+242249|Arima Onsen Kinzan|Kobe|YES|stars_3
+242251|Tousen Goshobo|Kobe|NO|stars_3
+242253|Maruko|Kumamoto|YES|stars_0
+242257|Kanucha Resort|Nago|NO|stars_4
+242258|New Otani Saga|Saga|NO|stars_3
+242261|Best Western Sendai|Sendai|NO|stars_3
+242262|com's Sendai|Sendai|NO|stars_3
+242263|Monterey Sendai|Sendai|NO|stars_3.5
+242265|Pearl City Sendai|Sendai|NO|stars_3
+242267|Sendai Washington|Sendai|NO|stars_3
+242271|Oriental Tokyo Bay|Urayasu|NO|stars_3
+242273|Tokyo Bay Tokyu - geschlossen|Urayasu|NO|stars_4
+242274|Warakuen|Ureshino Onsen|NO|stars_4
+242278|Court Shinyokohama|Yokohama|NO|stars_3
+242279|Daiwa Roynet Shin-Yokohama|Yokohama|NO|stars_3
+242280|Yokohama Kokusai|Yokohama|NO|stars_3
+244091|Garden Palace|Nagoya|NO|stars_3
+244093|Kita|Sapporo|NO|stars_4
+244095|Jozankei Grand Zuien Ryokan|Sapporo|NO|stars_3
+244096|Jozankei Shogetsu Grand Ryokan|Sapporo|NO|stars_3.5
+244097|Watermark|Sapporo|NO|stars_3
+244098|Keihan Sapporo|Sapporo|NO|stars_3
+244099|Piena Kobe|Chuo-ku|NO|stars_3.5
+244100|Resol Trinity|Kanazawa|NO|stars_3
+244101|Mystays Tenjin|Fukuoka|NO|stars_3
+244102|Prince|Oiso|NO|stars_3
+244106|Urban|Kyoto|NO|stars_3
+244107|Gion Fukuzumi Ryokan|Kyoto|NO|stars_3
+244110|Matsui Honkan Ryokan|Kyoto|NO|stars_4
+244111|Keihan Kyoto|Kyoto|NO|stars_3
+244112|Hirashin Ryokan|Kyoto|NO|stars_3
+244115|Castle Plaza|Nagoya|NO|stars_4
+244117|Yamatoya Honten Ryokan|Osaka|YES|stars_3
+244118|Kaneyoshi Ryokan|Osaka|YES|stars_3
+244119|Mystays Inn Sakaisuji Honmachi|Osaka|NO|stars_3
+244120|U Community|Osaka|NO|stars_3
+244127|Hillarys|Osaka|NO|stars_3
+244128|Monterey Grasmere|Osaka|NO|stars_4
+244129|Sunlife|Osaka|NO|stars_3
+244131|Mielparque|Osaka|NO|stars_3
+244132|Keihan Universal City|Osaka|NO|stars_3
+244133|Super Hotel Osaka & Natural Hot Springs|Osaka|NO|stars_3
+244134|Garden Palace|Tokyo|NO|stars_3
+244137|Ace Inn|Matsusaka|NO|stars_2.5
+245185|Daiwa Roynet Oita|Oita|NO|stars_3
+246186|Wing International Himeji|Himeji|NO|stars_3
+246187|Wing International Sagamihara|Sagamihara|NO|stars_3
+246188|Wing International Meguro|Tokyo|NO|stars_3
+246189|Wing International Yokohama-Kannai|Yokohama|NO|stars_3
+246190|Grand Central|Tokyo|NO|stars_3
+247650|Okinawa NaHaNa Hotel|Okinawa|NO|stars_4
+247720|Vessel Inn Hakata Nakasu|Fukuoka|NO|stars_3
+247721|Best Western Naha Inn|Naha|NO|stars_3
+247722|Best Western Fino Oita|Oita|NO|stars_3
+247724|Best Western Fino Osaka Shinsaibashi|Osaka|NO|stars_3
+247725|Best Western Hotel Fino Sapporo|Sapporo|NO|stars_3
+247726|Best Western Sapporo Nakajima Koen|Sapporo|NO|stars_3
+247773|the b kobe|Kobe|NO|stars_3
+247774|Machiya Residence Inn - Kohakuan / Shikokuan / Tokiwa-an|Kyoto|NO|0
+247775|Grand Arc Hanzomon|Tokyo|NO|stars_3
+247776|Sakura Hatagaya|Tokyo|NO|stars_2
+249222|Yashiro Grand|Kumamoto|NO|stars_3
+249483|Smile Mito|Mito|NO|stars_2
+249484|Sakura Hostel Asakusa|Tokyo|NO|stars_2
+260714|Garden Palace & Kansai Airport SPA|Osaka|NO|stars_3
+260720|Consort Shin Osaka|Osaka|NO|stars_3
+260721|APA Villa Hotel Nagoya Marunouchi-Ekimae|Nagoya|NO|stars_3
+260722|Trusty Tokyo Bay Side|Tokyo|NO|stars_4
+260953|The Tokyo Station|Tokyo|NO|stars_4.5
+260954|B:Conte Asakusa|Tokyo|NO|stars_3
+261870|Candeo Fukuyama|Fukuyama|NO|stars_3
+261871|Candeo Kikuyo|Kumamoto|NO|stars_3
+261872|Candeo Ozu|Kumamoto|NO|stars_3
+261873|Candeo Sano|Sano|NO|stars_3
+261874|Candeo Shimada|Shizuoka|NO|stars_3
+261875|Candeo Kameyama|Kameyama|NO|stars_3
+261876|Candeo Chino|Nagano|NO|stars_3
+261877|Candeo Handa|Handa|NO|stars_3
+261878|Candeo The Hakata Terrace|Fukuoka|NO|stars_4
+264383|APA Hotel Ningyocho-Ekikita|Tokyo|NO|stars_3
+264384|Art Hamamatsucho|Tokyo|NO|stars_3
+264385|Ayase Kokusai|Tokyo|NO|stars_3
+264386|Edoite Annex|Tokyo|NO|stars_2
+264387|APA Hotel Tokyo-Shiomi-Ekimae|Tokyo|NO|stars_3
+264389|APA Hotel Tokyo-Ojima|Tokyo|NO|stars_3
+265229|APA Hotel Ikebukuro-Eki-Kitaguchi|Tokyo|NO|stars_3
+265232|APA Villa Hotel Akasaka-Mitsuke|Tokyo|NO|stars_3
+265234|Astil Ueno|Hachioji|NO|stars_3
+265240|Centurion Hotel Residential Akasaka|Tokyo|NO|stars_3.5
+265243|Dormy Inn Akihabara|Hachioji|NO|stars_3
+265244|Dormy Inn Suidobashi|Hachioji|NO|stars_3
+265245|Dormy Inn Tokyo-Hatchobori|Hachioji|NO|stars_3
+265246|Hotel MyStays Kanda|Tokyo|NO|stars_3
+265248|Ginza Kokusai|Hachioji|NO|stars_2.5
+265253|Avanshell Akasaka|Hachioji|NO|stars_3
+265258|Hotel Kizankan|Hachioji|NO|stars_3
+265259|Hotel Live Max Akihabara|Hachioji|NO|stars_2
+265262|New Ueno|Hachioji|NO|stars_3
+265263|Ohedo|Hachioji|NO|stars_2.5
+265264|Grand Park Hotel Panex Tokyo|Tokyo|NO|stars_3
+265265|Resol Ikebukuro|Hachioji|NO|stars_3
+265266|Hotel Ryumeikan Tokyo|Tokyo|NO|stars_4
+265268|Sunroute Higashi Shinjuku|Tokyo|NO|stars_3
+265269|Sunroute Patio Omori|Tokyo|NO|stars_3
+265270|Chisun Inn Kamata|Tokyo|NO|stars_3
+265277|Kamogawa Inn Nihonbashi|Hachioji|NO|stars_2
+265278|Kamogawa Inn Sugamo|Hachioji|NO|stars_3
+265281|KKR Hotel Tokyo|Hachioji|NO|stars_3.5
+265284|Lotte City|Hachioji|YES|stars_3
+265285|Mitsui Garden Ueno|Hachioji|NO|stars_3
+265289|Ochanomizu Shoryukan|Hachioji|NO|stars_3
+265298|Sakura Fleur Aoyama|Tokyo|NO|stars_3
+265301|Sakura Ikebukuro|Hachioji|NO|stars_3
+265303|Shinjuku Kuyakushomae Capsule Hotel|Hachioji|NO|stars_1
+265304|Shinjuku Park Hotel|Hachioji|NO|stars_3
+265307|Smile Hamamatsucho|Hachioji|NO|stars_3
+265308|Solaria Nishitetsu Ginza|Hachioji|NO|stars_3
+265309|Starplaza Ikebukuro|Tokyo|NO|stars_3
+265313|Super Hotel Ueno-Okachimachi|Hachioji|NO|stars_2
+265315|Sutton Place Ueno|Hachioji|NO|stars_3
+265317|Tateshina|Hachioji|NO|stars_2
+265318|Tokyo Kiba Hotel|Hachioji|NO|stars_1.5
+265319|Tokyo Plaza|Hachioji|NO|stars_3
+265321|Tokyu Stay Gotanda|Hachioji|NO|stars_3
+265322|Tokyu Stay Higashi-Ginza|Hachioji|NO|stars_3
+265323|Tokyu Stay Monzen-Nakacho|Hachioji|NO|stars_3
+265324|Tokyu Stay Nihombashi|Hachioji|NO|stars_3
+265327|Tokyu Stay Nishi-Shinjuku|Hachioji|NO|stars_3
+265328|Tokyu Stay Shibuya Shin-Minamiguchi|Hachioji|NO|stars_3
+265331|Tokyu Stay Ikebukuro|Hachioji|NO|stars_3
+265332|Tokyu Stay Kamata|Hachioji|NO|stars_3
+265336|Tokyu Stay Shimbashi|Tokyo|NO|stars_3
+265367|Ueno First City Hotel|Hachioji|NO|stars_3
+265376|Villa Fontaine Hamamatsucho|Hachioji|NO|stars_3
+265377|Villa Fontaine Hatchobori|Hachioji|NO|stars_3
+265378|Villa Fontaine Jimbocho|Hachioji|NO|stars_3
+265379|Villa Fontaine Kayabacho|Hachioji|NO|stars_3
+265381|Wing International Ikebukuro|Hachioji|NO|stars_3
+265762|Best Western Nagoya|Nagoya|NO|stars_4
+269348|Tokyu Stay Suidobashi|Tokyo|NO|stars_3
+269349|Tokyu Stay Aoyama Premier|Tokyo|NO|stars_3
+269350|Wing International Korakuen|Tokyo|NO|stars_3
+269351|Dormy Inn Asakusa|Tokyo|NO|stars_3
+269352|Dormy Inn Meguro-Aobadai|Tokyo|NO|stars_3
+269353|Tokyu Stay Shibuya|Tokyo|NO|stars_3
+269354|Dormy Inn Shinsaibashi|Osaka|NO|stars_4
+269355|Wing International Shin-Osaka|Osaka|NO|stars_3
+269357|Dormy Inn Umeda Higashi|Osaka|NO|stars_3
+269358|Ichiei|Osaka|YES|stars_3
+272527|Dormy Inn Nagoya|Nagoya|NO|stars_3
+272529|Dormy Inn Hiroshima|Hiroshima|NO|stars_3
+274123|Dormy Inn Kanazawa|Kanazawa|NO|stars_3.5
+275298|Dormy Inn Soga|Chiba|NO|stars_3
+275815|The Beach Tower Okinawa|Okinawa|NO|stars_4
+275827|Dormy Inn Sapporo Annex|Sapporo|NO|stars_3
+275828|Dormy Inn Sapporo|Sapporo|NO|stars_3
+276436|La Vista Hakodate Bay|Hakodate|NO|stars_4
+276437|Dormy Inn Matsumoto|Matsumoto|NO|stars_4
+276589|Dormy Inn Kurashiki|Kurashiki|NO|stars_3
+276590|Dormy Inn Toyama|Toyama|NO|stars_3
+276708|Miyama Ouan|Takayama|NO|stars_4
+276827|La Vista Daisetsuzan|Higashikawa|NO|stars_4
+278859|Shibuya Creston Hotel|Tokyo|NO|stars_3
+278861|Palace Studio Kojimachi|Tokyo|NO|stars_3
+278862|Diamond|Tokyo|NO|stars_3
+278863|APA Hotel Hatchobori - Ekiminami|Tokyo|NO|stars_3
+278864|Empire Shinjuku|Tokyo|NO|stars_2.5
+278866|Khaosan Tokyo Kabuki|Tokyo|NO|stars_2
+278867|Khaosan Tokyo Samurai|Tokyo|NO|stars_2
+278868|R&B Hotel Ueno Hirokoji|Tokyo|NO|stars_3
+278869|Best Hotel|Tokyo|NO|stars_2
+278870|Kadoya|Tokyo|NO|stars_3
+278871|Pearl Hotel Yaesu|Tokyo|NO|stars_3
+278872|Sotetsu Fresa Inn Hamamatsucho Daimon|Tokyo|NO|stars_3
+278875|Keio Presso Inn Kayabacho|Tokyo|NO|stars_3
+278876|Capsule Hotel and Sauna Cosmo Plaza Akabane|Tokyo|NO|stars_1
+278877|APA Hotel Kodemmacho-Ekimae|Tokyo|NO|stars_3
+278878|APA Hotel Tokyo-Kudanshita|Tokyo|NO|stars_3
+278879|Nishitetsu Inn Nihonbashi|Tokyo|NO|stars_3
+278882|Daiwa Roynet Tokyo Akabane|Tokyo|NO|stars_3
+278883|Concieria Azabu Juban|Tokyo|NO|stars_3
+278884|Tokyo Green Palace|Tokyo|NO|stars_3
+278886|APA Hotel Kanda-Eki-Higashi|Tokyo|NO|stars_3
+278887|Sotetsu Fresa Inn Tokyo Kyobashi|Tokyo|NO|stars_3
+278890|Coco Grand Ueno Shinobazu|Tokyo|NO|stars_3.5
+278893|Tachikawa Grand Hotel|Tachikawa|NO|stars_3.5
+278898|THE GATE HOTEL KAMINARIMON by HULIC|Tokyo|NO|stars_4
+278900|Aizuya Inn|Tokyo|NO|stars_2
+278904|E Hotel Higashi Shinjuku|Tokyo|NO|stars_3
+278909|APA Hotel Roppongiichome-Ekimae|Tokyo|NO|stars_3
+278914|Uraku Aoyama|Tokyo|NO|stars_4
+278922|APA Hotel Nihonbashi-Hamachoeki-Minami|Tokyo|NO|stars_3
+278926|Nakano Sunplaza Hotel|Tokyo|NO|stars_3
+278928|Park Avenue|Tokyo|NO|stars_2
+278929|Concieria Shimbashi|Tokyo|NO|stars_3
+278930|Soho Asakusa Hotel|Tokyo|NO|stars_2
+278931|Palace Studio Shinjuku Parkside|Tokyo|NO|stars_3
+278932|Fukudaya|Tokyo|NO|stars_3
+278933|Hokke Inn Nihonbashi|Tokyo|NO|stars_3
+278937|R&B Hotel Kamata Higashi-guchi|Tokyo|NO|stars_2.5
+278939|APA Hotel Shimbashi-Onarimon|Tokyo|NO|stars_3
+278940|Arca Torre Roppongi|Tokyo|NO|stars_3
+278941|Concieria Shiba Koen|Tokyo|NO|stars_3
+278942|Forest Hongo|Tokyo|NO|stars_3
+278943|Dormy Inn Premium Shibuya Jingumae|Tokyo|NO|stars_3
+278945|FlexStay Kameido Inn|Tokyo|NO|stars_2
+278946|APA Hotel Tsukiji-Eki-Minami|Tokyo|NO|stars_3
+278947|Nishitetsu Inn Shinjuku|Tokyo|NO|stars_3
+278948|Hotel Sunline Kamata|Tokyo|NO|stars_3
+278949|Nishitetsu Inn Kamata|Tokyo|NO|stars_3
+278951|R&B Hotel Tokyo Toyo-cho|Tokyo|NO|stars_2.5
+278952|Tokyu Stay Yoga|Tokyo|NO|stars_3
+278953|Tokyu Stay Yotsuya|Tokyo|NO|stars_3
+278954|Tokyu Stay Meguro-Yutenji|Tokyo|NO|stars_3
+278957|Gion Machiya|Kyoto|NO|stars_4
+278958|Sugicho|Kyoto|NO|stars_3
+278961|Kanra Kyoto|Kyoto|NO|stars_4
+278962|Kyoyadoya Suzaku Kikyou-an|Kyoto|NO|stars_3
+278965|Centnovum Kyoto|Kyoto|NO|stars_3.5
+278969|Gagakuan|Kyoto|NO|stars_4
+278971|Guesthouse Roujiya|Kyoto|NO|stars_2
+278973|Shoubuan Machiya Residence Inn|Kyoto|NO|stars_4
+278977|Almont Hotel Kyoto|Kyoto|NO|stars_3
+278985|Ranzan|Kyoto|NO|stars_4
+278986|Machiya Residence Inn - Tokiwa-an|Kyoto|NO|stars_4
+278988|Gion Maifukan|Kyoto|NO|stars_3.5
+278989|Ryokan Nenrinbo|Kyoto|NO|stars_3.5
+278991|Sunroute Kyoto|Kyoto|NO|stars_3
+278992|R&B Hotel Kyoto-eki Hachijyo-guchi|Kyoto|NO|stars_3
+278996|Ryokan Seikoro|Kyoto|YES|stars_4
+278997|Koto Hotel Kyoto|Kyoto|NO|stars_2
+279000|Sakanoue|Kyoto|NO|stars_4
+279001|Motonago|Kyoto|NO|stars_3
+279002|Honnoji|Kyoto|NO|stars_3
+279003|Kagariya|Kyoto|NO|stars_4
+279005|APA Villa Hotel Kyoto-Ekimae|Kyoto|NO|stars_3
+279006|Kyoto Hotel Sanoya Inn|Kyoto|NO|stars_3
+279008|Dormy Inn Premium Kyoto Ekimae|Kyoto|NO|stars_3
+279009|Station Ryokan Sparkling Dolphins Kyoto|Kyoto|NO|stars_2
+279013|Ryokan Yoshida-sanso|Kyoto|NO|stars_4
+279014|Smile Kyoto-Shijo|Kyoto|NO|stars_3
+279015|Kyoto Garden Palace|Kyoto|NO|stars_3
+279019|Daiwa Roynet Kyoto Shijo Karasuma|Kyoto|NO|stars_3
+279021|Ryotei Rangetsu|Kyoto|NO|stars_4
+279022|Wakamiya|Kyoto|NO|stars_3
+279023|Live Max Kyoto Ekimae|Kyoto|NO|stars_2
+279024|Kyoyadoya Kurenai-an|Kyoto|NO|stars_3
+279026|Châtelet Inn Kyoto|Kyoto|NO|stars_2.5
+279030|Mitsui Garden Kyoto Sanjo|Kyoto|NO|stars_3
+279031|Iroha Ryokan|Kyoto|NO|stars_3
+279032|Kyoto City Hotel|Kyoto|NO|stars_3
+279033|Daiwa Roynet Kyoto-Hachijoguchi|Kyoto|NO|stars_3
+279034|Gojo Machiya|Kyoto|NO|stars_4
+279038|Gion Shinmonso|Kyoto|YES|stars_3
+279043|The Palace Side Hotel|Kyoto|NO|stars_3
+279044|Royal Park Hotel The Kyoto|Kyoto|NO|stars_3.5
+279046|Hokke Club Kyoto|Kyoto|NO|stars_3
+279047|Kyoto Garden|Kyoto|NO|stars_3
+279052|Matsui Bekkan Hanakanzashi|Kyoto|NO|stars_3
+279053|Sanbounishinotouin-cho Machiya|Kyoto|NO|stars_4
+279055|Kyoto Horikawa Inn|Kyoto|NO|stars_2
+279056|Kyoto Central Inn|Kyoto|NO|stars_3
+279063|Daiwa Roynet Yotsubashi|Osaka|NO|stars_3
+279064|New Osaka Shinsaibashi|Osaka|NO|stars_3
+279065|Chuo Selene|Osaka|NO|stars_2
+279067|Chuo|Osaka|NO|stars_2
+279068|Nishitetsu Inn Shinsaibashi|Osaka|NO|stars_3
+279069|Fraser Residence Nankai Osaka|Osaka|NO|stars_4
+279070|Keihan Tenmabashi|Osaka|NO|stars_3
+279073|Hokke Club Osaka|Osaka|NO|stars_3
+279074|Taiyo|Osaka|NO|stars_2
+279076|Tennoji Miyako Hotel|Osaka|NO|stars_3
+279077|APA Hotel Osaka-Tanimachi|Osaka|NO|stars_3
+279079|Raizan North|Osaka|NO|stars_2
+279080|Raizan South|Osaka|NO|stars_2
+279082|APA Hotel Tennouji-Ekimae|Osaka|NO|stars_3
+279083|BlueWave Inn Yotsubashi|Osaka|NO|stars_3
+279085|City Inn Nishitanabe|Osaka|NO|stars_2
+279086|Elsereine Osaka|Osaka|NO|stars_3.5
+279088|Live Max Otemae|Osaka|NO|stars_2
+279091|Chuo Oasis|Osaka|NO|stars_2
+279092|Osaka Floral Inn Namba|Osaka|NO|stars_3
+279094|Naniwa|Osaka|NO|stars_3
+279095|Kuramoto|Osaka|YES|stars_3
+279096|Capsule Hotel Asahi Plaza Shinsaibashi|Osaka|NO|stars_2
+279097|Live Max Namba|Osaka|NO|stars_2
+279098|Keihan Kyobashi|Osaka|NO|stars_3
+279099|Shinsaibashi Lions Rock|Osaka|NO|stars_3
+279102|Vista Hotel Premio Dojima|Osaka|NO|stars_3
+279103|Humour Resort New Oriental|Osaka|NO|stars_3
+279104|Family Inn & Resort Fifty's Osaka|Osaka|NO|stars_2
+279106|APA Hotel Namba-Shinsaibashi|Osaka|NO|stars_3
+279107|Osaka Teikoku Hotel|Osaka|NO|stars_2.5
+279111|Trusty Shinsaibashi|Osaka|NO|stars_4
+279112|Kanku Sunplus Yutaka|Osaka|NO|stars_2.5
+279114|Spa World|Osaka|NO|stars_3.5
+279116|Shin Osaka Sunny Stone|Osaka|NO|stars_3
+279117|Business Hotel Nissei|Osaka|NO|stars_3
+279119|APA Hotel Midosuji-Honmachi-Ekimae|Osaka|NO|stars_3
+279120|Daiki|Osaka|NO|stars_2
+279121|First Cabin Midousuji-Namba|Osaka|NO|stars_2
+279122|Osaka River-Side Hotel|Osaka|NO|stars_3
+279123|Hanshin|Osaka|NO|stars_3.5
+279125|Kintetsu Universal City|Osaka|NO|stars_3
+279126|Daiwa Roynet Osaka Uehonmachi|Osaka|NO|stars_3
+279127|International House Osaka|Osaka|NO|stars_3
+279128|Business Hotel Kansai|Osaka|NO|stars_1.5
+279129|New Yutaka|Osaka|NO|stars_2.5
+280014|Narita U-City Hotel|Narita|NO|stars_3
+280015|Chisun Inn Chiba Hamano R16|Chiba|NO|stars_3
+280017|Richmond Narita|Narita|NO|stars_3
+280019|Green Plaza Hakone|Hakone|NO|stars_4
+280022|Fujiya|Hakone|NO|stars_4
+280023|Hakone Hisui|Hakone|NO|stars_4
+280025|Sir Winston|Nagoya|NO|stars_4
+280027|Hotel Kiyoshi Nagoya (2nd Building)|Nagoya|NO|stars_2
+280028|Daiwa Roynet Nagoya-Shinkansenguchi|Nagoya|NO|stars_3
+280029|Daiwa Roynet Nagoya-Ekimae|Nagoya|NO|stars_3
+280030|Route-Inn Nagoya Higashi Betsuin|Nagoya|NO|stars_3
+280031|Richmond Nagoya Nayabashi|Nagoya|NO|stars_3
+280032|Hotel Kiyoshi Nagoya|Nagoya|NO|stars_2
+280033|Daiichi Fuji Hotel|Nagoya|NO|stars_3
+280034|Wing International Nagoya|Nagoya|NO|stars_3
+280035|Nagoya New Rolen|Nagoya|NO|stars_3
+280036|Nishitetsu inn Nagoyanishiki|Nagoya|NO|stars_3
+280037|Daini Fuji|Nagoya|NO|stars_3
+280038|Trusty Nagoya|Nagoya|NO|stars_3
+280040|Meitetsu Inn Nagoya Ekimae|Nagoya|NO|stars_3
+280042|Sun Nagoya Via Shirakawa|Nagoya|NO|stars_3
+280043|Live Max Nagoya|Nagoya|NO|stars_2
+280044|Nagoya Sakae Washington Plaza|Nagoya|NO|stars_3
+280045|Sun Hotel Nagoya Nishiki|Nagoya|NO|stars_3
+280046|Nagoya Ekimae Montblanc|Nagoya|NO|stars_3
+280047|Trusty Nagoya Sakae|Nagoya|NO|stars_3
+280050|R&B Hotel Nagoya Nishiki|Nagoya|NO|stars_3
+280052|Route-Inn Nagoya Imaike Ekimae|Nagoya|NO|stars_3
+280053|Meitetsu Inn Nagoya Nishiki|Nagoya|NO|stars_3
+280054|Kishu Tetsudo Nagoya Sakae|Nagoya|NO|stars_3
+280056|APA Hotel Nagoya-Sakae|Nagoya|NO|stars_3
+280057|R&B Hotel Nagoya Sakae Higashi|Nagoya|NO|stars_3
+280058|Route-Inn Nagoya Sakae|Nagoya|NO|stars_3
+280059|Meitetsu New Grand Hotel|Nagoya|NO|stars_3
+280060|Nagoya Creston|Nagoya|NO|stars_3
+280061|APA Hotel Hiroshima-Ekimae|Hiroshima|NO|stars_3
+280062|Sheraton Hiroshima|Hiroshima|YES|stars_4
+280063|Urbain Hiroshima Executive|Hiroshima|NO|stars_3
+280064|KKR Hiroshima|Hiroshima|NO|stars_3
+280066|Hiroshima Intelligent Hotel Main & New Building|Hiroshima|NO|stars_3
+280067|Mielparque Hiroshima|Hiroshima|NO|stars_3
+280070|Daiwa Roynet Hiroshima|Hiroshima|NO|stars_3
+280072|Dormy Inn Hakata Gion|Fukuoka|NO|stars_3
+280073|Route-Inn Hakata Ekimae|Fukuoka|NO|stars_3
+280074|Elbis Fukuoka|Fukuoka|NO|stars_3
+280076|Nissei Fukuoka|Fukuoka|NO|stars_3
+280077|Nishitetsu Inn Fukuoka|Fukuoka|NO|stars_3
+280078|Nishitetsu Inn Hakata|Fukuoka|NO|stars_3
+280080|Heiwadai Hotel 5|Fukuoka|NO|stars_2
+280081|Anchor Hotel Hakata|Fukuoka|NO|stars_3
+280083|Heiwadai Hotel Arato|Fukuoka|NO|stars_2
+280084|Heiwadai Hotel Otemon|Fukuoka|NO|stars_2
+280085|With The Style Fukuoka|Fukuoka|NO|stars_4
+280086|Plaza Hotel Tenjin|Fukuoka|NO|stars_3
+280087|Royal Park Hotel the Fukuoka|Fukuoka|NO|stars_4
+280089|Valie Hotel Tenjin|Fukuoka|NO|stars_3
+280090|Route-Inn Hakata Eki Minami|Fukuoka|NO|stars_3
+280091|Hakata Nakasu Washington Plaza|Fukuoka|NO|stars_3
+280092|Kamenoi Fukuoka Kanenokuma|Fukuoka|NO|stars_3
+280093|Hokke Club Fukuoka|Fukuoka|NO|stars_3
+280095|R&B Hakata Ekimae|Fukuoka|NO|stars_3
+280098|APA Hotel Hakata-Ekimae|Fukuoka|NO|stars_3
+280099|Sunline Fukuoka Hakata Ekimae|Fukuoka|NO|stars_3
+280100|Hakata Green Hotel Annex|Fukuoka|NO|stars_3
+280101|Resol Hakata|Fukuoka|NO|stars_3
+280102|Nishitetsu Inn Tenjin|Fukuoka|NO|stars_3
+280103|Richmond Fukuoka Tenjin|Fukuoka|NO|stars_3
+281011|APA Hotel Nagasaki-Ekimae|Nagasaki|NO|stars_3
+281013|Dormy Inn Nagasaki|Nagasaki|NO|stars_3
+281014|APA Hotel Nagasaki-Ekiminami|Nagasaki|NO|stars_3
+281072|Comfort Hotel Kushiro|Kushiro|NO|stars_3
+281074|La Vista Kushirogawa|Kushiro|NO|stars_3
+281075|Hotel Rasso Kushiro|Kushiro|NO|stars_2.5
+281115|R&B Hotel Kanazawa-eki Nishi-guchi|Kanazawa|NO|stars_3
+281116|APA Hotel Kanazawa-Chuo|Kanazawa|NO|stars_3
+281117|Kanazawa Manten Hotel Ekimae|Kanazawa|NO|stars_3
+281118|APA Hotel Kanazawa-Ekimae|Kanazawa|NO|stars_3
+281120|Daiwa Roynet Kanazawa|Kanazawa|NO|stars_2.5
+281122|APA Villa Hotel Kanazawa-Katamachi|Kanazawa|NO|stars_3
+281124|Route-Inn Kanazawa Ekimae|Kanazawa|NO|stars_3
+281125|APA Hotel Kanazawa-Nomachi|Kanazawa|NO|stars_3
+281126|APA Hotel Kanazawa-Nishi|Kanazawa|NO|stars_3
+281127|Kanazawa Central|Kanazawa|NO|stars_3
+281128|Kanazawa Kenrokusou|Kanazawa|NO|stars_3
+281129|Yuyarurusaisai|Kanazawa|NO|stars_3
+281377|Mizukami|Kobe|NO|stars_3
+281379|Kobe Sannomiya Union|Kobe|NO|stars_3
+281380|Area One Kobe|Kobe|NO|stars_3
+281382|Oriental|Kobe|NO|stars_4
+281384|Green Hill Kobe|Kobe|NO|stars_3
+281386|Suave Kobe Asuta|Kobe|NO|stars_3
+281387|Daiwa Roynet Kobe-Sannomiya|Kobe|NO|stars_3
+281389|Kobe Port Tower Hotel|Kobe|NO|stars_3
+281391|Trusty Kobe Kyukyoryuchi|Kobe|NO|stars_4
+281535|Sotetsu Fresa Inn Yokohama Totsuka|Yokohama|NO|stars_3
+281536|Daiwa Roynet Yokohama-Koen|Yokohama|NO|stars_3
+281537|Navios Yokohama|Yokohama|NO|stars_3
+281539|Yokohama Garden|Yokohama|NO|stars_3.5
+281540|Daiwa Roynet Yokohama Kannai|Yokohama|NO|stars_3
+281541|Plumm|Yokohama|NO|stars_3
+281544|APA Hotel Yokohama-Kannai|Yokohama|NO|stars_3
+281545|Live Max Yokohama - Kannai|Yokohama|NO|stars_3
+281546|Central Plaza|Yokohama|NO|stars_2
+281548|Richmond Yokohama Bashamichi|Yokohama|NO|stars_3
+281549|Yokohama Heiwa Plaza|Yokohama|NO|stars_2
+281550|Bayside Marina Yokohama|Yokohama|NO|stars_3.5
+282029|Sotetsu Fresa Inn Fujisawa Shonandai|Fujisawa|NO|stars_3
+282253|Hotel Nord Otaru|Otaru|NO|stars_3
+282254|Kuramure|Otaru|NO|stars_4.5
+282255|Dormy Inn Premium Otaru|Otaru|NO|stars_3
+282381|Route-Inn Kumamoto Ekimae|Kumamoto|NO|stars_3
+282385|Chisun Inn Kumamoto Miyuki|Kumamoto|NO|stars_3
+282387|Dormy Inn Kumamoto|Kumamoto|NO|stars_3
+282388|APA Hotel Kumamoto-Nichigin-Nishi|Kumamoto|NO|stars_3
+282389|Kamenoi Kumamoto Inter Goryou|Kumamoto|NO|stars_3
+282390|Kamenoi Kumamoto Kousikita Bypass|Kumamoto|NO|stars_3
+282391|Kamenoi Kumamoto Arao|Kumamoto|NO|stars_3
+282392|Kikunan Onsen UBL Hotel|Kumamoto|NO|stars_4
+282414|Sunroute Aomori|Aomori|NO|stars_3
+282415|Route-Inn Aomori Chou Inter|Aomori|NO|stars_3
+282425|Resorpia Atami|Atami|NO|stars_3
+282715|Route-Inn Court Fujiyoshida|Fujiyoshida|NO|stars_3
+282717|Gamagori Classic|Gamagori|NO|stars_3
+282719|Route-Inn Gifukencho Minami|Gifu|NO|stars_3
+282720|Daiwa Roynet Gifu|Gifu|NO|stars_3
+282892|Kise Country Club|Okinawa|NO|stars_4
+282893|Hotel Rasso Airport|Okinawa|NO|stars_3
+282894|Daiwa Roynet Okinawa Kenchomae|Naha|NO|stars_3
+282895|Daiwa Roynet Naha Omoromachi|Naha|NO|stars_3
+282896|Tabinoyado Rakuchin|Naha|NO|stars_3
+282897|Hotel Taira|Naha|NO|stars_3
+282898|Kise Beach Palace|Nago|NO|stars_3
+282903|Rasso Kokusai Dori|Naha|NO|stars_3
+282904|Okinawa Sunplaza Hotel|Naha|NO|stars_3
+282905|Kokusai Plaza|Naha|NO|stars_3
+282906|Goyah-so Guesthouse|Okinawa|NO|stars_2.5
+282907|Naha Grand Hotel|Naha|NO|stars_3
+282908|The Terrace Club at Busena|Okinawa|NO|stars_5
+282909|The Busena Terrace|Okinawa|NO|stars_5
+282910|Weekly (Daily) Harborview Mansion Honkan|Okinawa|NO|stars_2
+282911|Daiwa Roynet Naha Kokusai-dori|Naha|NO|stars_3
+282912|Blion Naha|Naha|NO|stars_3
+282913|Solvita Okinawa Matsuyama|Okinawa|NO|stars_2
+282916|Cresia|Okinawa|NO|stars_3
+282917|Grantia Naha|Okinawa|NO|stars_3
+282918|Hotel Live Max Naha|Naha|NO|stars_2
+282919|Hotel Rasso Naha Matsuyama|Naha|NO|stars_3
+282920|Nishitetsu Resort Inn Naha|Naha|NO|stars_3
+282921|Ocean|Okinawa|NO|stars_3
+282924|Mercure Okinawa Naha|Naha|NO|stars_4
+282929|Red Planet Naha Okinawa|Okinawa|NO|stars_3
+282930|DoubleTree by Hilton Hotel Naha|Okinawa|NO|stars_4
+282931|Hotel Maruki|Okinawa|NO|stars_3
+282932|Naha Beach Side Hotel|Okinawa|NO|stars_3
+282934|Crown Hotel Okinawa|Okinawa|NO|stars_3
+282935|Hokke Club Naha Shintoshin|Okinawa|NO|stars_3
+282936|Resort Inn Rasso Ishigaki|Ishigaki|NO|stars_2.5
+282937|Onna Marine View Palace|Okinawa|NO|stars_3
+282938|Route-Inn Nago|Nago|NO|stars_3
+282939|GRG Hotel Naha-Higashimachi|Okinawa|NO|stars_3
+282940|Ryukyu Sun Royal Hotel|Okinawa|NO|stars_3
+282941|Vessel Hotel Campana Okinawa|Chatan|NO|stars_4
+282943|GRG Hotel Naha|Okinawa|NO|stars_3
+282944|Shiraho friends house|Okinawa|NO|stars_2
+282956|Hotel Ronshan Sapporo|Sapporo|NO|stars_3
+282957|APA Hotel Sapporo|Sapporo|NO|stars_3
+282958|APA Hotel Sapporo-Susukino|Sapporo|NO|stars_3
+282959|Sunroute Sapporo|Sapporo|NO|stars_3
+282960|The Hamilton Sapporo|Sapporo|NO|stars_3
+282961|Route-Inn Sapporo Kitayojo|Sapporo|NO|stars_3
+282962|Chateraise Gateaux Kingdom|Sapporo|NO|stars_4
+282963|APA Hotel Sapporo-Odorikoen|Sapporo|NO|stars_3
+282964|Daiwa Roynet Sapporo Susukino|Sapporo|NO|stars_3
+282965|Ascent Inn Sapporo|Sapporo|NO|stars_3
+282967|Route-Inn Sapporo Shiroishi|Sapporo|NO|stars_3
+282968|Art Hotels Sapporo|Sapporo|NO|stars_4
+282969|Hokke Club Sapporo|Sapporo|NO|stars_3
+282970|Hotel Live Max Sapporo|Sapporo|NO|stars_3
+282971|Resol Trinity Sapporo|Sapporo|NO|stars_3
+282972|APA Hotel & Resort Sapporo|Sapporo|NO|stars_3
+282973|Route-Inn Sapporo Ekimae Kitaguchi|Sapporo|NO|stars_3
+282974|Sapporo Aspen Hotel|Sapporo|NO|stars_3
+282975|Route-Inn Sapporo Chuo|Sapporo|NO|stars_3
+282976|Century Royal Hotel|Sapporo|NO|stars_4
+282977|Mitsui Garden Hotel Sapporo|Sapporo|NO|stars_3
+282978|Frame Sapporo|Sapporo|NO|stars_3
+282980|Sapporo Garden Palace|Sapporo|NO|stars_3
+282982|JR Inn Sapporo|Sapporo|NO|stars_2
+282984|Hotel Rasso Susukino|Sapporo|NO|stars_2.5
+282986|Hotel Sho Sapporo|Sapporo|NO|stars_3
+282987|Clubby Sapporo|Sapporo|NO|stars_3.5
+283019|Shizuoka Kita Washington Plaza|Shizuoka|NO|stars_3
+283020|Abant Inn Shizuoka|Shizuoka|NO|stars_3
+283656|Asahikawa Grand|Asahikawa|NO|stars_3
+283657|Dormy Inn|Asahikawa|NO|stars_3
+283659|Daiwa Roynet Akita|Akita|NO|stars_4
+283662|Grantia Akita Spa Resort|Akita|NO|stars_3
+283663|Grantia Hakodate Goryokaku|Hakodate|NO|stars_3
+283665|Grantia Hakodate Ekimae|Hakodate|NO|stars_3
+283666|Dormy Inn Hakodate Goryoukaku|Hakodate|NO|stars_3
+283668|Remm Kagoshima|Kagoshima|NO|stars_3
+283669|Dormy Inn Kagoshima|Kagoshima|NO|stars_3
+283671|New Station|Matsumoto|NO|stars_3
+283672|Harmonie Bien|Matsumoto|NO|stars_3
+283673|Matsumoto Kagetsu|Matsumoto|NO|stars_3
+283677|Mielparque Matsuyama Hotel|Matsuyama|NO|stars_3
+283678|Matsuyama Washington Plaza|Matsuyama|NO|stars_3
+283679|Hotel Okudogo|Matsuyama|NO|stars_4
+283680|Sen Guesthouse|Matsuyama|NO|stars_2
+283682|Daiwa Roynet Morioka|Morioka|NO|stars_3
+283686|Route-Inn Court Shinonoi|Nagano|NO|stars_3
+283691|APA Hotel Niigata-Furumachi|Niigata|NO|stars_3
+283693|Chisun Inn Niigata Chuo Inter|Niigata|NO|stars_3
+283694|Dormy Inn Niigata|Niigata|NO|stars_3
+283695|APA Hotel Niigata-Higashinakadori|Niigata|NO|stars_3
+283696|Route-Inn Niigata-Nishi Inter|Niigata|NO|stars_3
+283697|Daiwa Roynet Sendai|Sendai|NO|stars_3
+283698|Smile Sendai Izumi Ic|Sendai|NO|stars_2.5
+283699|Library Higashi Nibancho|Sendai|NO|stars_3
+283700|Route-Inn Sendai Izumi Inter|Sendai|NO|stars_3
+283702|R&B Hotel Sendai Hirose-dori Ekimae|Sendai|NO|stars_3
+283703|APA Villa Hotel Sendaieki-Itsutsubashi|Sendai|NO|stars_3
+283704|APA Hotel Sendai-Kotodai-Koen|Sendai|NO|stars_3
+283705|Sendai Garden Palace|Sendai|NO|stars_3
+283707|Dormy Inn Wakkanai|Wakkanai|NO|stars_3
+283710|APA Hotel Yamagata-Ekimae Odori|Yamagata|NO|stars_3
+283912|Comfort Hachinohe|Hachinohe|NO|stars_3
+283913|Dormy Inn Himeji|Himeji|NO|stars_3
+283914|Chisun Inn Himejiyumesakibashi|Himeji|NO|stars_2
+283915|Hyogo Floral Inn Himeji|Himeji|NO|stars_3
+283916|Kamakura Prince|Kamakura|NO|stars_4
+283918|Live Max Kawasaki-Ekimae|Kawasaki|NO|stars_2
+283920|Nishitetsu Inn Kokura|Kitakyushu|NO|stars_3
+283921|Kamenoi Kitakyushu Yahata|Kitakyushu|NO|stars_3
+283923|BlueWave Inn Kokura|Kitakyushu|NO|stars_3
+283924|Kamenoi Kitakyushu Kokura|Kitakyushu|NO|stars_3
+283925|Comfort Hotel Kurosaki|Kitakyushu|NO|stars_3
+283930|APA Hotel Kitakami-Ekinishi|Kitakami|NO|stars_3
+283934|APA Hotel Komatsu|Komatsu|NO|stars_3
+283936|APA Hotel Koriyama-Ekimae|Koriyama|NO|stars_3
+283937|Route-Inn Koriyama Inter|Koriyama|NO|stars_3
+283938|Route-Inn Koriyama|Koriyama|NO|stars_3
+283939|Chisun Inn Kurashiki Mizushima|Kurashiki|NO|stars_2.5
+283940|Kurashiki-Ekimae|Kurashiki|NO|stars_2
+283941|Mito Keisei Hotel|Mito|NO|stars_4
+283942|Daiwa Roynet Mito|Mito|NO|stars_3
+283944|Mito Hotel Season|Mito|NO|stars_3
+283946|Route-Inn Miyazaki|Miyazaki|NO|stars_3
+283947|Kamenoi Miyazaki Sadowara|Miyazaki|NO|stars_3
+283948|Route-Inn Nagaoka Ekimae|Nagaoka|NO|stars_3
+283950|Asukasou|Nara|YES|stars_3
+283951|Nara Washington Plaza|Nara|NO|stars_3
+283952|Fujita Nara|Nara|NO|stars_3.5
+283954|Epinard Nasu|Nasu|NO|stars_3
+283955|Floracion|Nasu|NO|stars_3
+283956|Island Hotel and Resort Nasu|Nasu|NO|stars_4
+283958|Nishitetsu Resort Inn Beppu|Beppu|NO|stars_3
+283959|Khaosan Beppu Spa Hostel|Beppu|NO|stars_2
+283960|Umine|Beppu|NO|stars_5
+283962|Resorpia Beppu|Beppu|NO|stars_3
+283964|Daiwa Roynet Okayama-Ekimae|Okayama|NO|stars_3
+283965|Okayama View Hotel|Okayama|NO|stars_3
+283967|APA Hotel Okayamaeki-Higashiguchi|Okayama|NO|stars_3
+283968|Hotel Leopalace Okayama|Okayama|NO|stars_3
+283969|Okayama City Hotel Koseicho|Okayama|NO|stars_3
+283971|Okayama Washington Plaza|Okayama|NO|stars_3
+283973|Okayama Koraku Hotel|Okayama|NO|stars_3
+283974|Excel Okayama|Okayama|NO|stars_3
+283975|Reiah Hotel Otsu Ishiyama|Otsu|NO|stars_3
+283976|Watermark Nagasaki - Huis Ten Bosch|Sasebo|NO|stars_5
+283977|Route-Inn Suzuka|Suzuka|NO|stars_3
+283978|Dormy Inn Takamatsu|Takamatsu|NO|stars_3
+283979|Chisun Inn Takamatsu|Takamatsu|NO|stars_3
+283980|Takamatsu Washington Plaza|Takamatsu|NO|stars_3
+283981|Takamatsu Century Hotel|Takamatsu|NO|stars_3
+283982|Golden Time Takamatsu|Takamatsu|NO|stars_2
+283984|Route-Inn Takasakieki Nishiguchi|Takasaki|NO|stars_3
+283985|APA Hotel Takasaki-Ekimae|Takasaki|NO|stars_3
+283986|Dormy Inn Takasaki|Takasaki|NO|stars_3
+283987|Takasaki Washington Hotel Plaza|Takasaki|NO|stars_3
+283990|Hotel Plaza Inn Tokushima|Tokushima|NO|stars_2
+283991|Tokushima Washington Plaza|Tokushima|NO|stars_3
+283994|APA Villa Hotel Toyama-Ekimae|Toyama|NO|stars_3
+283995|Toyama Manten|Toyama|NO|stars_2.5
+283996|APA Hotel Toyama|Toyama|NO|stars_3
+283997|Daiwa Roynet Toyama|Toyama|NO|stars_3
+283999|Chisun Inn Toyokawa Ic|Toyokawa|NO|stars_3
+284001|Urayasu Beaufort Hotel|Urayasu|NO|stars_3
+284003|Chisun Inn Utsunomiyakanuma|Utsunomiya|NO|stars_3
+284004|Wakayama Marina City Royal Pines Hotel|Wakayama|NO|stars_4
+284005|Daiwa Roynet Wakayama|Wakayama|NO|stars_3.5
+284006|Dormy Inn Premium Wakayama|Wakayama|NO|stars_3
+284007|Route-Inn Yokkaichi|Yokkaichi|NO|stars_3
+284008|Yokkaichi Miyako Hotel|Yokkaichi|NO|stars_3.5
+284009|Yonago Washington Hotel Plaza|Yonago|NO|stars_3
+284073|APA Hotel Fukui-Katamachi|Fukui|NO|stars_3
+284074|Route-Inn Fukui Ekimae|Fukui|NO|stars_3
+284075|Route-Inn Fukuioowada|Fukui|NO|stars_3
+284076|Chisun Inn Fukui|Fukui|NO|stars_2.5
+284077|Chisun Inn Fukushima Nishi Ic|Fukushima|NO|stars_2
+284083|Hakuba Mominoki|Hakuba|NO|stars_4
+284084|Gakuto Villas|Hakuba|NO|stars_3
+284089|Hakuba Berg-land|Hakuba|NO|stars_3
+284090|Sierra Resort Hotel Hakuba|Hakuba|NO|stars_4
+284091|Lodge & Bar Side Hill|Hakuba|NO|stars_3
+284092|Crown Palais Hamamatsu|Hamamatsu|NO|stars_3
+284094|Floris Hotel Villa Kuretake|Hamamatsu|NO|stars_3
+284095|Kuretake Inn Central Hamamatsu|Hamamatsu|NO|stars_3
+284096|Route-Inn Hamamatsu Ekihigashi|Hamamatsu|NO|stars_3
+284097|Hamanako Benten Resort The Ocean|Hamamatsu|NO|stars_3
+284098|Comfort Hamamatsu|Hamamatsu|NO|stars_3
+284099|Route-Inn Hamamatsunishi Inter|Hamamatsu|NO|stars_3
+284100|Kuretake Inn Act Hamamatsu|Hamamatsu|NO|stars_3
+284101|Daiwa Roynet Hamamatsu|Hamamatsu|NO|stars_3
+284102|Iwaki Washington|Iwaki|NO|stars_3
+284103|Live Max Yumoto|Iwaki|NO|stars_2
+284106|APA Hotel Kagadaishoji-Ekimae|Kaga|NO|stars_3
+284107|Katayamazu Onsen Kasuikyo|Kaga|NO|stars_3.5
+284108|Sumiya Kihoan|Kameoka|NO|stars_3
+284111|Dormy Inn Kitami|Kitami|NO|stars_3
+284115|Matsue New Urban Annex|Matsue|NO|stars_3
+284117|Dormy Inn Obihiro|Obihiro|NO|stars_3
+284119|Comfort Hotel Obihiro|Obihiro|NO|stars_3
+284120|Liberty Plaza|Sakai|NO|stars_3
+284121|Daiwa Roynet Sakai-Higashi|Sakai|NO|stars_3
+284122|APA Hotel Sakai-Ekimae|Sakai|NO|stars_3
+284124|Hotel Kintetsu Aquavilla Ise Shima|Shima|NO|stars_4
+284125|Prime Resort Kashikojima|Shima|NO|stars_4
+284127|Shimoda Prince|Shimoda|NO|stars_3
+284128|Shimonoseki Station West Washington Hotel Plaza|Shimonoseki|NO|stars_3
+284129|Nishi-Nagato Resort|Shimonoseki|NO|stars_4
+284130|Kamenoi Hotel Yamaguchi Shimonoseki|Shimonoseki|NO|stars_3
+284131|Wing International Shimonoseki|Shimonoseki|NO|stars_3
+284132|Dormy Inn Premium Shimonoseki|Shimonoseki|NO|stars_3
+284134|Sunny Stone|Suita|NO|stars_3
+284135|Hankyu Expo Park|Suita|NO|stars_3
+284137|Honjin Hiranoya Kachoan|Takayama|NO|stars_4
+284138|Honjin Hiranoya Bekkan|Takayama|NO|stars_3
+284140|Hanaougi Bettei Iiyama|Takayama|NO|stars_3
+284144|Hida Hanasatonoyu Takayama Ouan|Takayama|NO|stars_3
+284146|Oyado Koto No Yume|Takayama|NO|stars_4
+284147|Futarishizuka Hakuun|Takayama|NO|stars_3
+284149|Ueda Ekimae Royal|Ueda|NO|stars_3
+284150|Azumaya Resort|Ueda|NO|stars_3
+284151|Uematsuya Ryokan|Ueda|NO|stars_3.5
+284152|Route-Inn Ueda|Ueda|NO|stars_3
+284193|Country Inn Milky House|Niseko|NO|stars_2
+284208|Dormy Inn Hirosaki|Hirosaki|NO|stars_3
+284209|Kyu Karuizawa|Karuizawa|NO|stars_3.5
+284210|AMMS Accion|Karuizawa|NO|stars_4
+284211|Chisun Inn Karuizawa|Karuizawa|NO|stars_2.5
+284212|Sapporo Kitahiroshima Classe|Kitahiroshima|NO|stars_4
+284213|Comfort Hotel Kure|Kure|NO|stars_3
+284214|Kamenoi Fukuoka Munakata|Munakata|NO|stars_3
+284215|Chisun Inn Munakata|Munakata|NO|stars_2.5
+284225|Tokachigawa Onsen Sanyoan|Otofuke|NO|stars_4
+284280|Village Izukogen|Ito|NO|stars_3.5
+284281|Kawana|Ito|NO|stars_4
+284282|Kazeno Kaori|Ito|NO|stars_4
+284283|Seamore Umedaru-Spa|Shirahama|YES|stars_3
+284549|Wing International Miyakonojo|Miyakonojo|NO|stars_3
+284551|APA Hotel Ogaki-Ekimae|Ogaki|NO|stars_3
+284553|APA Hotel Saga-Ekimae-Chuo|Saga|NO|stars_3
+284556|Dormy Inn Tomakomai|Tomakomai|NO|stars_3
+284558|Hotel Nidom|Tomakomai|NO|stars_3
+284559|Chisun Inn Tosu|Tosu|NO|stars_3
+284561|Route-Inn Court|Yamanashi|NO|stars_3
+284706|Route-Inn Sagamihara|Sagamihara|NO|stars_3
+284707|Live Max Sagamihara|Sagamihara|NO|stars_2
+284709|Daiwa Roynet Tsukuba|Tsukuba|NO|stars_3
+284801|Comfort Hotel Kariya|Kariya|NO|stars_3
+284828|Chisun Inn Sanofujioka Ic|Sano|NO|stars_3
+285942|Ryumeikan Honten|Tokyo|YES|stars_0
+285946|Mume|Kyoto|YES|stars_0
+285947|Kinoe|Kyoto|YES|stars_4
+285948|Kinparo|Kyoto|YES|stars_3
+285949|Momijiya Ryokan|Kyoto|YES|stars_0
+285950|Togetsutei|Kyoto|YES|stars_0
+285952|Oyado Ishicho|Kyoto|YES|stars_4
+287158|Hiroshima Kokusai|Hiroshima|NO|stars_3
+287544|Inasayama Kanko|Nagasaki|YES|stars_0
+287737|Akan no Mori Tsuruga Resort Hanayuuka|Kushiro|YES|stars_0
+287738|Akan Tsuruga Bessou Hinanoza|Kushiro|YES|stars_4
+287739|Forest Akan Tsuruga Resort HANA YU KA|Kushiro|NO|0
+287740|Lake Akan Tsuruga Resort Spa Tsuruga Wings|Kushiro|YES|0
+287986|Hyoe Koyokaku|Kobe|YES|stars_3
+287987|Nakanobo Zuien|Kobe|YES|stars_3.5
+287988|Takayama So Hanano|Kobe|NO|stars_4
+287989|Arima Onsen Gekkoen Korokan|Kobe|YES|stars_4
+287990|Arima Onsen Gekkoen Yugetsusanso|Kobe|YES|stars_4
+287992|Kobe Shisuen|Kobe|NO|stars_2.5
+288647|Sonia|Otaru|NO|stars_3
+289083|Hotel Micuras|Atami|NO|stars_3
+289085|Atsugi Urban|Atsugi|YES|stars_3
+289086|Vista Atsugi|Atsugi|NO|stars_3
+289174|Lake Shikotsu Tsuruga Resort Spa Mizu no Uta|Chitose|YES|stars_4
+289236|Vista Ebina|Ebina|NO|stars_3
+289395|Roco Inn Matsuyama|Okinawa|NO|stars_3
+289396|Roco Inn Okinawa|Okinawa|NO|stars_3
+289398|Super Hotel Naha Shintoshin|Okinawa|NO|stars_3
+289413|Jozankei Tsuruga Resort Spa MORI no UTA|Sapporo|NO|stars_4
+289439|Century Shizuoka|Shizuoka|YES|stars_0
+289440|Ureshino Kanko Taishoya|Ureshino Onsen|YES|stars_0
+289959|Hanabishi|Hakodate|YES|stars_0
+289960|Kagoshima Sunroyal Hotel|Kagoshima|YES|stars_3
+289961|Kinkoh Kougen Hotel|Kagoshima|YES|stars_0
+289962|Onsen Hotel Nakahara Bessou|Kagoshima|YES|stars_3
+289964|Yamatoya Honten|Matsuyama|YES|stars_4.5
+289965|Hotel Taikan|Morioka|YES|stars_0
+289967|Hotel Monte Hermana Sendai|Sendai|NO|stars_3
+289968|Sakan|Sendai|YES|stars_0
+289970|Gokan No Yu Tsuruya|Yamagata|YES|stars_0
+289971|Lucent Takamiya|Yamagata|YES|stars_0
+290177|Yumenoi|Himeji|YES|stars_0
+290180|Merieges|Miyazaki|YES|stars_0
+290182|Grantia Aoshima Taiyokaku|Miyazaki|NO|stars_3
+290183|Kasuga|Nara|YES|stars_3
+290184|Nara Hakushikaso|Nara|YES|stars_3
+290189|Washuzan Simoden|Okayama|YES|stars_0
+290190|Biwako Hanakaido|Otsu|YES|stars_3.5
+290191|Biwako Ryokusuitei|Otsu|YES|stars_3
+290192|Dantoukan Kikunoya|Otsu|YES|stars_3
+290193|Yumotokan|Otsu|YES|stars_3
+290194|Hanajukai|Takamatsu|NO|stars_4
+290195|Takinoyu|Tendo|YES|stars_0
+290197|Osakaya Hiinanoyu|Wakayama|YES|stars_0
+290523|Yoshikawaya|Fukushima|YES|stars_0
+290525|Ryokan Wataya|Karatsu|YES|stars_0
+290526|Ohehonke|Kitami|YES|stars_0
+290527|Charoku Bekkan|Miyazu|YES|stars_0
+290528|Genmyoan|Miyazu|YES|stars_3
+290531|Fukujuso|Shima|YES|stars_0
+290532|Shima Kanko Bay Suites|Shima|NO|stars_5
+290533|Hirayukan|Takayama|YES|stars_0
+290764|Hoshinoya Karuizawa|Karuizawa|YES|stars_0
+290776|Ryokan Beniayu|Nagahama|YES|stars_0
+290783|Sasai|Otofuke|YES|stars_0
+290840|Yanagiya|Shirahama|YES|stars_0
+290841|Kyushu|Unzen|YES|stars_0
+290842|Unzen Fukiya|Unzen|YES|stars_3
+290843|Unzen Miyazaki Ryokan|Unzen|YES|stars_4
+290844|Unzen Shinyu|Unzen|YES|stars_0
+290845|Yumoto|Unzen|YES|stars_0
+291011|Nakayamasou|Miyakonojo|YES|stars_0
+291012|Shikisai Hotel Chiyodakan|Saga|YES|stars_0
+291013|Wakamizu|Takarazuka|YES|stars_0
+292344|Shiomiso|Tokyo|YES|stars_0
+292345|Futabaso|Kyoto|YES|stars_0
+292346|Ichibokan|Kyoto|YES|stars_0
+292347|Kashoen|Kyoto|YES|stars_0
+292348|Nishimuraya Shogetsutei|Kyoto|YES|stars_0
+292349|Fushioukaku|Osaka|YES|stars_0
+292643|Daimaru Besso|Fukuoka|YES|stars_0
+292811|Hotel Ranpu|Nagasaki|YES|stars_0
+292812|Ibusuki Hakusuikan|Nagasaki|YES|stars_5
+293006|Ginpaso|Kobe|YES|stars_4
+293007|Asanoya|Kobe|YES|stars_0
+293008|Kinparo|Kobe|YES|stars_0
+293009|Kinsui|Kobe|YES|stars_0
+293010|Nishimuraya Honkan|Kobe|YES|stars_0
+293011|Okukinosaki Seaside Hotel|Kobe|YES|stars_0
+293012|Tsutaya Seirantei|Kobe|YES|stars_0
+293835|Fujiya|Tanabe|YES|stars_3
+293836|Sakoya|Nara|YES|stars_3
+293998|Bousui Ryokan Shizuoka Hotel|Shizuoka|YES|stars_0
+293999|Hotel Kurobe|Chubu|YES|stars_0
+294000|Dougashima New Ginsui|Chubu|YES|stars_0
+294001|Takahan|Chubu|YES|stars_0
+294654|Seoto Yuoto Ukiha|Hita|YES|stars_0
+294655|Tsuetate Kanko Hizenya|Hita|YES|stars_0
+294656|Dormy Inn Kofu|Kofu|NO|stars_4
+294657|Yumura Tokiwa|Kofu|YES|stars_0
+294658|Smile Kumagaya|Kumagaya|NO|stars_3
+295004|Taisetsu|Kamikawa|YES|stars_4
+295005|Kifuuclub Shiretoko|Shari|YES|stars_0
+295007|Shiretoko Grand Kitakobushi|Shari|YES|stars_0
+295008|Shiretoko Prince Kazanamiki|Shari|YES|stars_3
+295010|Inatori Ginsuiso|Izu|YES|stars_0
+295011|Ootaki|Yugawara|YES|stars_0
+295013|Hotel Urashima - Honkan / Nagisakan Nisshokan / Sanjokan|Nachikatsuura|YES|stars_3
+295014|Awaji International The Sun Plaza|Sumoto|YES|stars_0
+295015|New Awaji|Sumoto|YES|stars_3.5
+295016|Hashidate Bay Hotel|Yosano|YES|stars_0
+295017|Kissenkan Chikusuitei|Gero|YES|stars_0
+295018|Suimeikan|Gero|YES|stars_0
+295019|Kokonoe Yuyutei|Yutsubo|YES|stars_0
+295022|Yuze|Kazuno|YES|stars_0
+295025|Tachibanaya|Tsuruoka|YES|stars_0
+295392|Kakegawa Grand Hotel|Kakegawa|NO|stars_3
+295675|Wing International Sukagawa|Sukagawa|NO|stars_3
+297644|Gosho Bessho|Kobe|NO|stars_3.5
+298517|Mikawaya Ryokan|Hakone|NO|stars_3
+298540|Hakuba Alps|Hakuba|NO|stars_2
+298552|Rickshaw Inn|Takayama|NO|stars_2
+298581|New Wakasa|Nara|NO|stars_3
+299208|Palm & Fountain Terrace Hotel|Urayasu|NO|stars_3
+299209|Hokke Club|Kagoshima|NO|stars_3
+299213|Matsubaya Ryokan|Kyoto|NO|stars_3
+299215|Ryokan Biyu no Yado|Nagano|NO|stars_3
+300342|Manza Prince|Tsumagoi|NO|stars_3
+300372|APA Hotel Fukuoka-Yukuhashi-Ekimae|Yukuhashi|NO|stars_3
+309153|APA Hotel Chiba Yachiyo-Midorigaoka|Chiba|NO|stars_3
+310872|APA Hotel Uozu-Ekimae|Toyama|NO|stars_3
+310873|APA Hotel Tottori-Ekimae|Tottori|NO|stars_3
+310874|APA Resort Myoko-Pine Valley|Myoko|NO|stars_3
+310875|APA Hotel Takaoka-Marunouchi|Toyama|NO|stars_3
+310876|APA Hotel Kanku-Kishiwada|Osaka|NO|stars_3
+310879|APA Hotel Yamaguchi-Hofu|Hofu|NO|stars_3
+317121|El Inn Kyoto|Kyoto|NO|stars_3
+317166|1-2-3 Tennoji|Osaka|NO|stars_2
+321908|Hotel Narita Kikusui|Narita|NO|stars_3
+321949|J-Hoppers Hiroshima|Hiroshima|NO|stars_2
+321963|Sun Business Hotel|Fukuoka|NO|stars_3
+325078|Shin Yokohama Grace Hotel|Yokohama|YES|stars_3
+328277|Okinawa Hotel|Okinawa|NO|stars_3
+328281|Haimurubushi|Okinawa|NO|stars_4
+328310|Hotel Paco Sapporo|Sapporo|NO|stars_3
+328314|Jozankei Hotel|Sapporo|NO|stars_3
+330197|Sun Days Inn Kagoshima|Kagoshima|NO|stars_3
+330219|Rantei|Sendai|YES|stars_0
+330220|Green Mark|Sendai|NO|stars_3
+334295|Chisun Inn Marugame Zentsuji|Marugame|NO|stars_2.5
+367746|Kyoto Kokusai Hotel|Kyoto|NO|stars_3.5
+367747|Ryokan Kohro|Kyoto|YES|stars_3
+368999|Chisun Inn Nagasaki Airport|Nagasaki|NO|stars_3
+369000|Sasebo Washington Hotel|Nagasaki|NO|stars_3
+370385|Chisun Resort Okinawa Churaumi|Okinawa|NO|stars_3
+370387|Rihga Royal Gran Okinawa|Okinawa|NO|stars_4
+370410|Jouzankei Tsuruga Mori No Uta|Sapporo|YES|stars_0
+370889|One Niseko Resort Towers|Hakodate|NO|stars_4
+370890|Chisun Inn Shiojiri Kita Ic|Matsumoto|NO|stars_2.5
+370891|Chisun Inn Suwa Ic|Matsumoto|NO|stars_2.5
+370892|Hotel Seifuen|Niigata|YES|stars_0
+371074|Hoshinoya Okinawa|Ishigaki|YES|stars_0
+371075|Chisun Inn Hitachinaka|Mito|NO|stars_3
+371076|Satoya Mukashibanashi Yuzanso|Otsu|YES|stars_3
+371319|Aizuwakamatsu Washington Hotel|Fukushima|NO|stars_3
+371321|Lake Saroma Tsuruga Resort|Kitami|YES|stars_4
+371323|Comfort Hotel Hikone|Shiga|NO|stars_3
+371617|Bettei Senjuan|Minakami-machi|NO|stars_4.5
+371618|Chisun Inn Kofu Isawa|Yamanashi|NO|stars_2.5
+372006|Lake Abashiri Tsuruga Resort|Abashiri|YES|stars_3.5
+372007|Chisun Inn Iwate Ichinoseki Ic|Ichinoseki|NO|stars_3
+372008|Oakwood Residence Akasaka|Tokyo|YES|stars_0
+372161|Hotel Nagisaya|Nachikatsuura|YES|stars_0
+372904|Hotel New Hankyu Annex|Osaka|NO|stars_4
+374076|The Crest Hotel Tachikawa|Tokyo|NO|stars_3.5
+391165|The Ritz-Carlton Kyoto|Kyoto|NO|stars_5
+401447|Intercontinental Hotel Osaka|Osaka|NO|stars_5
+406126|Andaz Tokyo Toranomon Hills|Tokyo|NO|stars_5
+408664|Anima Grand Hotel|Kobe|YES|stars_3.5
+408719|Best Western Yokohama|Yokohama|NO|stars_3
+412040|Hilton Okinawa Chatan Resort|Okinawa|NO|stars_5
+413017|Osaka Marriott Miyako|Osaka|NO|stars_5
+416352|Shiraraso Grand Hotel|Shirahama|NO|stars_4

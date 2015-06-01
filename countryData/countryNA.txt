@@ -1,0 +1,187 @@
+13889|Heinitzburg|Windhoek|NO|stars_4.5
+15174|Avani Windhoek Hotel & Casino|Windhoek|YES|stars_4
+18382|Oropoko Lodge|Okahandja|NO|stars_3.5
+19116|Palmquell|Windhoek|NO|stars_3
+20849|Safari & Safari Court|Windhoek|YES|stars_4
+20899|Sam's Giardino|Swakopmund|NO|stars_2
+21983|Sossusvlei Desert Lodge|Namib Rand|NO|stars_4
+23652|Villa Verdi Guesthouse Hotel Windhoek|Windhoek|NO|stars_3
+24469|Windhoek Country Club Resort|Windhoek|NO|stars_4
+24498|Wolwedans - Dune Camp|Namib Rand|NO|stars_5
+26106|Twyfelfontein Lodge|Damaraland|NO|stars_3
+26107|Kempinski Mokuti Lodge Etosha|Etosha National Park|YES|stars_4
+26111|Cañon Roadhouse|Fishriver Canyon|NO|stars_2
+26114|Canyon|Keetmanshoop|NO|stars_3
+26116|The Nest|Lüderitz|YES|stars_4
+26117|Hammerstein Restcamp|Sesriem|NO|stars_2
+26119|Okapuka Ranch|Okahandja|NO|stars_3.5
+26121|Midgard Country Estate|Okahandja|NO|stars_4
+26122|Ghaub Guestfarm|Tsumeb|NO|stars_3
+26123|Etosha Garten|Outjo|NO|stars_2
+26125|Hansa|Swakopmund|YES|stars_4
+27685|Vingerklip Lodge|Damaraland|NO|stars_3
+27687|Mushara Lodge|Etosha National Park|NO|stars_3
+27688|Etosha Aoba Lodge|Tsumeb|NO|stars_3
+27701|Helmeringhausen|Helmeringhausen|NO|stars_3
+27704|Cañon Lodge|Fishriver Canyon|NO|stars_3
+27706|Kalahari Anib|Mariental|NO|stars_3.5
+27707|Intu Afrika Kalahari - Zebra Lodge / Camelthorn Lodge / Suricat Tented Lodge|Mariental|NO|stars_2.5
+27708|Rostock Ritz|Naukluft Park|NO|stars_3
+27710|Epako Game Lodge|Omaruru|NO|stars_3
+27712|Oshakati Country Lodge|Oshakati|NO|stars_4
+27713|Okonjima Main Lodge & Bush Camp|Otjiwarongo|NO|stars_4
+27714|Otjibamba Lodge|Otjiwarongo|NO|stars_2
+27715|Kulala Desert Lodge|Sossusvlei|NO|stars_4
+27717|Zebra River Lodge|Windhoek|NO|stars_3
+27718|Büllsport|Naukluft Park|NO|stars_2.5
+27719|Sossusvlei Lodge|Sossusvlei|YES|stars_4
+27720|Namib Naukluft Lodge|Namib Dessert|NO|stars_3
+27722|Swakopmund|Swakopmund|NO|stars_4
+27725|Auas Game|Windhoek|NO|stars_3
+27850|Toko Lodge & Safariis|Kamanjab|NO|stars_2.5
+27852|Palmwag Lodge|Damaraland|NO|stars_4
+31842|Huab Lodge & Bush Spa|Kamanjab|NO|stars_4
+31843|Mowani Mountain Camp|Damaraland|NO|stars_4.5
+31844|Cape Cross Lodge|Kreuzkap|NO|stars_3
+31845|Protea Hotel Sea View Zum Sperrgebiet|Lüderitz|NO|stars_3
+33078|Moni|Windhoek|NO|stars_2.5
+38195|Mount Etjo Safari Lodge|Kalkfeld|NO|stars_3
+38462|Namibia Wildlife Resorts (NWR) - Halali Resort|Etosha National Park|NO|stars_2
+38678|Desert Homestead & Horse Trails|Sossusvlei|NO|stars_3
+38919|Le Mirage Desert Lodge & Spa|Sossusvlei|YES|stars_3
+40159|GocheGanas|Goche Ganas|NO|stars_4
+42479|Namibia Wildlife Resorts (NWR) - Okaukuejo Resort|Etosha National Park|NO|stars_2
+42480|Protea Burning Shore|Swakopmund|NO|stars_4
+48304|Ai Aiba The Rockpainting Lodge|Omaruru|NO|stars_3.5
+51363|N'Kwazi Lodge|Rundu|NO|stars_3
+51364|Namushasha Lodge|Katima Mulilo|NO|stars_3
+51366|Eagle Tended Lodge & Spa|Etosha National Park|NO|stars_4
+51367|Frans Indongo Lodge|Otjiwarongo|NO|stars_3
+51369|Onganga|Windhoek|NO|stars_3
+51692|Namibia Wildlife Resorts (NWR) - Namutoni Resort|Etosha National Park|NO|stars_2
+51693|Palmwag Rhino Camp|Kakaoland|NO|stars_4
+51695|Protea Walvis Bay|Walvis Bay|NO|stars_3
+51723|Vondelhof Guesthouse|Windhoek|NO|stars_3
+51724|Central Lodge|Keetmanshoop|NO|stars_3
+51725|Desert Horse Inn / Eagles Nest Chalets - Desert Horse Inn|Aus|NO|stars_3.5
+51726|Intermezzo|Swakopmund|NO|stars_2.5
+51727|Naua Naua Game Lodge|Etosha National Park|NO|stars_3
+52241|iGowati Lodge|Khorixas|NO|stars_2
+64729|Kavita Lion Lodge|Kamanjab|NO|stars_3
+64731|Mahangu Safari Lodge|Caprivi|NO|stars_3
+64733|Etosha Safari Camp & Etosha Safari Lodge - Etosha Safari Camp|Etosha National Park|NO|stars_3
+64785|Etosha Gateway|Etosha National Park|NO|stars_3
+64787|Bagatelle Kalahari Game Ranch|Mariental|NO|stars_3
+64788|Opuwo Country|Opuwo|NO|stars_3
+64789|Ameib Ranch|Omaruru|NO|stars_3
+64790|Rossmund Lodge|Swakopmund|NO|stars_4
+68193|Little Kulala Lodge|Sossusvlei|NO|stars_5
+72715|Thule|Windhoek|NO|stars_3
+72716|Olive Grove Gästehaus|Windhoek|NO|stars_3.5
+72719|Doro Nawas Camp|Damaraland|NO|stars_5
+72721|Ruacana Eha Lodge|Ruacana|NO|stars_3
+72723|Etusis Lodge|Karibib|NO|stars_3
+76371|Hakusembe River Lodge|Rundu|NO|stars_2
+76372|Bougain Villa|Windhoek|NO|stars_3
+76441|Grootberg Lodge|Damaraland|NO|stars_3
+76492|Europa Hof|Swakopmund|NO|stars_3
+76618|Cañon Village|Fishriver Canyon|NO|stars_3.5
+76691|Protea Furstenhof|Windhoek|NO|stars_3
+76697|Sossusvlei Desert Camp|Sossusvlei|YES|stars_4
+76774|A Little Sossus Lodge|Sossusvlei|NO|stars_3
+76997|!Uris Safari Lodge|Tsumeb|NO|stars_3
+77820|Ongava Game Reserve - Little Ongava|Etosha National Park|NO|stars_5
+78977|Haus Sonneneck|Windhoek|NO|stars_2.5
+79449|Etosha Mountain Lodge|Etosha National Park|NO|stars_4.5
+87079|Serra Cafema Camp|Kunene|NO|stars_5
+90679|Protea Guesthouse Indongo|Swakopmund|NO|stars_3
+90776|Desert Horse Inn / Eagles Nest Chalets - Eagle's Nest Chalets|Aus|NO|stars_3.5
+90780|Divava Okavango Lodge & Spa|Bagani|YES|stars_5
+90841|Fischreiher Guesthouse|Swakopmund|NO|stars_3
+91043|Sossus Dune Lodge|Namib Rand|NO|stars_4
+91153|Jordani Gästehaus|Windhoek|NO|stars_3
+92220|Waterberg Camp|Waterberg-Nationalpark|NO|stars_3
+103660|Namibia Wildlife Resorts (NWR) - Onkoshi Resort|Etosha National Park|NO|stars_4
+103662|Etosha Safari Camp & Etosha Safari Lodge - Etosha Safari Lodge|Outjo|NO|stars_3
+103664|Hoodia Desert Camp|Naukluft Park|NO|stars_3
+103702|Adler Garni|Swakopmund|NO|stars_3
+110524|The Elegant Guesthouse|Windhoek|NO|stars_4
+110566|Vogelstrausskluft Lodge|Fishriver Canyon|NO|stars_3.5
+110568|Camp Kwando|Caprivi|NO|stars_3.5
+110610|SeaSide Hotel & Spa|Swakopmund|NO|stars_4
+128909|Taleni Etosha Village|Etosha National Park|YES|stars_3
+132773|Protea Thuringerhof|Windhoek|NO|stars_3
+135307|Protea Hotel Zambezi River Lodge|Katima Mulilo|NO|stars_3
+135987|Amani Lodge|Windhoek|NO|stars_3
+135998|Guesthouse Terra Africa|Windhoek|NO|stars_3
+136003|Wolwedans - Dunes Lodge|Namib Rand|NO|stars_4
+136004|The Stiltz|Swakopmund|NO|stars_3.5
+136006|Onguma Treetop Camp|Etosha National Park|NO|stars_4
+136147|Okonjima The Villa|Otjiwarongo|NO|stars_5
+136148|Etango Ranch|Windhoek|NO|stars_2.5
+136149|Old Traders Lodge|Omaruru|NO|stars_4
+136151|Mushara Outpost|Tsumeb|NO|stars_5
+136805|Eagle Tented Lodge & Spa|Etosha National Park|NO|stars_3.5
+142295|Ohange Namibia Lodge|Otavi|NO|stars_3
+142320|Caprivi River Lodge|Katima Mulilo|NO|stars_2.5
+142389|Nunda Lodge|Popa Falls|NO|stars_3
+142857|Casa Blanca Guesthouse|Windhoek|NO|stars_3
+142868|Uhland|Windhoek|NO|stars_2.5
+142875|Eagles Rock|Khomas Hochland|NO|stars_2
+142891|Immanuel Wilderness Lodge|Windhoek|NO|stars_3
+142900|Zelda Game & Guest farm|Gobabis|NO|0
+142905|Ondekaremba Gaestefarm|Windhoek|NO|stars_2.5
+160118|Protea Ondangwa|Ondangwa|NO|stars_4
+160119|Protea Pelican Bay|Walvis Bay|NO|stars_4
+182850|Swakopmund Guesthouse|Swakopmund|NO|stars_4
+182895|Ai-Ais Hotspring Spa|Ai Ais|NO|stars_3.5
+182897|Ugab Terrace Lodge|Ugab Fluss|NO|stars_3
+183079|Etotongwe Lodge|Outjo|NO|stars_3
+183081|Ardilla Mini Lodge|Okahandja|NO|stars_3
+188293|Kambaku Safari Lodge|Otjiwarongo|NO|stars_4
+203029|N/a'an ku se Lodge|Windhoek|NO|stars_4
+227837|Damara Mopane Lodge|Damaraland|NO|stars_3.5
+227838|Kaisosi River Lodge|Rundu|NO|stars_3
+227839|Mazambala Island Lodge|Caprivi|NO|stars_2.5
+228003|Namibia Wildlife Resorts (NWR) - Dolomite Resort|Etosha National Park|NO|stars_4
+228170|Fish River Lodge|Fishriver Canyon|NO|stars_3
+228175|Moon Mountain Lodge|Naukluft Park|YES|stars_4
+228176|Swakopmund Boutique|Swakopmund|NO|stars_4
+228177|Hilton Windhoek|Windhoek|NO|stars_5
+228178|River Crossing Lodge|Windhoek|NO|stars_3
+228182|Khowarib Lodge|Namibia|NO|stars_3
+229898|Toshari Lodge|Etosha National Park|NO|stars_3
+232914|Royal Benguela Guesthouse|Swakopmund|NO|stars_3
+234499|Protea Long Beach Lodge|Walvis Bay|NO|stars_3
+234783|Kalahari Farmhouse|Mariental|NO|stars_4
+236247|Pebble Stone House|Swakopmund|NO|stars_3
+238412|Emanya@Etosha|Etosha National Park|NO|stars_4
+239042|Kalahari Red Dunes Lodge|Kalkrand|NO|stars_4
+239303|Onguma Safari Camps|Etosha National Park|NO|stars_5
+248440|Safari & Safari Court - Safari Hotel|Windhoek|NO|stars_3
+248441|Safari & Safari Court - Safari Court|Windhoek|YES|stars_4
+259365|Beach|Swakopmund|NO|stars_4
+260965|Oyster Box Guesthouse|Swakopmund|NO|stars_4
+279139|Villa Moringa Guesthouse|Windhoek|NO|stars_5
+279140|Etango Ranch Guestfarm|Windhoek|NO|stars_3
+295096|Popa Falls Camp|Divundu|NO|stars_2
+298553|Nkasa Lupala Tented Lodge|Caprivi|NO|stars_4
+298836|Wolwedans - Private Camp|Namib Rand|NO|stars_5
+298887|Namib Desert Lodge|Namib Dessert|NO|stars_3
+298891|Hohenstein Lodge|Usakos|NO|stars_3
+298922|Waterberg Guest Farm|Waterberg-Nationalpark|NO|stars_3
+299325|Onguma Game Reserve|Etosha National Park|NO|stars_3
+310953|Desert Breeze|Swakopmund|NO|stars_3.5
+310991|Swakopmund Sands|Swakopmund|NO|stars_3
+311008|Ongula Homestead Lodge|Ondangwa|NO|stars_3
+335000|West Nest Logde|Gobabis|NO|stars_3
+335001|Ozongwindi Lodge|Omaruru|NO|stars_3
+335002|Camp Chobe|Caprivi|NO|stars_3
+359706|zum Kaiser|Swakopmund|NO|stars_4
+363864|Olive Exclusive Boutique Hotel|Windhoek|NO|stars_5
+400880|Intu Afrika Kalahari - Zebra Lodge|Mariental|NO|stars_3
+406427|Namib Dune Star Camp|Sossusvlei|NO|stars_3
+406459|Popa Falls Lodge|Caprivi|NO|stars_3
+407796|Uukwaluudhi Safari Lodge|Swakopmund|NO|stars_3.5
+408796|Fiume Lodge|Grootfontein|NO|stars_3
+408797|Africa Safari Lodge|Mariental|NO|stars_4

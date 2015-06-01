@@ -1,0 +1,1628 @@
+2067|Clube Albufeira|Albufeira|YES|stars_4
+2068|Aldeia das Acoteias|Albufeira|YES|stars_3
+2069|Alfamar Beach & Sport Resort & Algarve Gardens|Praia da Falesia|YES|stars_4
+2070|Alisios|Albufeira|YES|stars_4
+2071|Auramar Beach Resort|Albufeira|YES|stars_3
+2072|Belver Boa Vista Hotel & Spa|Albufeira|YES|stars_4
+2073|California|Albufeira|YES|stars_3
+2074|Vila Galé Cerro Alagoa|Albufeira|YES|stars_4
+2075|Belver Hotel Da Aldeia|Albufeira|YES|stars_3
+2076|Da Gale|Albufeira|NO|stars_2
+2077|Falesia|Praia da Falesia|NO|stars_4
+2078|Globo|Portimao|YES|stars_3
+2079|Monica Isabel Beach Club - 3* / 4*|Albufeira|YES|stars_3
+2081|Pine Cliffs Resort - Sheraton Algarve / Pine Cliffs Residence / The Terraces / Townhouses|Praia da Falesia|YES|stars_5
+2082|Sol e Mar|Albufeira|YES|stars_4
+2085|Topazio|Albufeira|YES|stars_3
+2086|Vila Galé Atlantico|Albufeira|YES|stars_4
+2087|Aldeamento da Bemposta|Alvor|NO|stars_3
+2088|Alvor Golf|Alvor|YES|stars_3
+2089|Pestana Delfim Beach Resort|Alvor|YES|stars_4
+2090|Pestana Dom Joao II & Alvor Atlantico Residences|Alvor|YES|stars_4
+2092|Holiday Inn Algarve - Armacao De Pera|Armacao de Pera|YES|stars_4
+2093|Vila Galé Nautico|Armacao de Pera|YES|stars_4
+2095|Rosamar|Armacao de Pera|NO|stars_3
+2097|Pestana Viking Resort|Senhora da Rocha|YES|stars_4
+2098|Blue & Green Vilalara Thalassa Resort|Armacao de Pera|YES|stars_5
+2099|Golden Club Cabanas|Cabanas|YES|stars_3
+2102|Tivoli Carvoeiro|Carvoeiro|YES|stars_4
+2103|Colina Sol|Carvoeiro|YES|stars_3
+2104|Colina Village|Carvoeiro|YES|stars_3
+2105|Baia Cristal|Carvoeiro|YES|stars_4
+2107|Quinta do Paraiso|Carvoeiro|YES|stars_3
+2108|Algar Seco Parque|Carvoeiro|NO|stars_4
+2109|Rocha Brava Village Resort|Carvoeiro|YES|stars_4
+2111|Ancora Park|Lagos|YES|stars_3
+2112|Tivoli Lagos|Lagos|YES|stars_4
+2114|Lagosmar|Lagos|YES|stars_2
+2115|Magnolia Mar Beach Club|Lagos|YES|stars_3
+2116|Marina Rio|Lagos|YES|stars_4
+2117|Dom Pedro Meia Praia Beach Club|Lagos|YES|stars_3
+2119|Monte Mar|Lagos|YES|stars_3
+2120|Perola do Oceano & Perola da Meia Praia|Lagos|NO|stars_3
+2121|Vivenda Miranda Romantik|Lagos|YES|stars_4
+2123|Navegadores|Monte Gordo|NO|stars_3
+2124|Eurotel Altura|Altura|YES|stars_4
+2125|Vasco da Gama|Monte Gordo|YES|stars_3
+2126|Luna Clube Brisamar|Alvor|YES|stars_3
+2127|Sol Flor da Rocha|Praia da Rocha|YES|stars_3
+2128|Belavista da Luz|Luz|NO|stars_4
+2129|Algarve Mor Hotel|Praia da Rocha|YES|stars_3
+2130|Turim Estrela do Vau Hotel|Praia da Rocha|YES|stars_4
+2131|Jupiter|Praia da Rocha|YES|stars_4
+2132|Luar|Praia da Rocha|YES|stars_3
+2133|Oriental|Praia da Rocha|YES|stars_4
+2134|Clube Praia da Rocha|Praia da Rocha|YES|stars_3
+2136|Presidente Hotel|Praia da Rocha|YES|stars_4
+2137|Vau Costa|Praia da Rocha|NO|stars_4
+2138|Vau|Praia da Rocha|NO|stars_4
+2140|Atismar|Quarteira|YES|stars_3
+2141|Claudiana|Quarteira|YES|stars_3
+2142|Dom Jose|Quarteira|YES|stars_3
+2144|Ozadi Tavira Hotel|Tavira|YES|stars_3
+2145|Pedras da Rainha|Tavira|YES|stars_3
+2147|Ria Park Garden Hotel|Vale do Lobo|YES|stars_4
+2150|Pinhal do Sol|Quarteira|YES|stars_3
+2153|Vila Galé Ampalius|Vilamoura|YES|stars_4
+2154|Crowne Plaza Vilamoura|Vilamoura|YES|stars_5
+2155|Dom Pedro Golf Resort|Vilamoura|YES|stars_4
+2156|Dom Pedro Marina|Vilamoura|YES|stars_4
+2157|Tivoli Marina Vilamoura|Vilamoura|YES|stars_5
+2158|Pinhal da Marina|Vilamoura|YES|stars_4
+2159|Vila Galé Marina|Vilamoura|YES|stars_4
+2161|Jardim Atlantico|Prazeres|YES|stars_4
+2162|Galo Resort Hotel Galomar|Caniço|YES|stars_3
+2163|Four Views Oasis (ex. Oasis Atlantic)|Caniço|YES|stars_4
+2164|Hotel Rocamar & Hotel Royal Orchid - Hotel Rocamar|Caniço|YES|stars_4
+2165|Hotel Rocamar & Hotel Royal Orchid - Hotel Royal Orchid|Caniço|YES|stars_4
+2166|Studios Lua Sol|Caniço|NO|stars_5
+2167|Vila Ventura|Caniço|YES|stars_3
+2168|Alto Lido|Funchal|YES|stars_4
+2169|Pestana Bay Ocean Aparthotel|Funchal|YES|stars_4
+2171|Baia Azul|Funchal|YES|stars_4
+2172|Dorisol Estrelicia & Buganvilia & Mimosa - Dorisol Buganvilia|Funchal|YES|stars_3
+2173|Pestana Carlton Madeira|Funchal|YES|stars_5
+2174|Pestana Palms|Funchal|YES|stars_4
+2175|Pestana Village & Miramar|Funchal|YES|stars_4
+2176|Casa Velha do Palheiro|Funchal|YES|stars_5
+2177|Pestana Casino Park|Funchal|YES|stars_5
+2179|The Cliff Bay|Funchal|YES|stars_5
+2180|Colombo Residencial|Funchal|YES|stars_2
+2181|Do Carmo|Funchal|YES|stars_3
+2182|Do Centro|Funchal|YES|stars_3
+2184|Duas Torres|Funchal|YES|stars_3
+2186|Quinta da Bela Vista - Madeira|Funchal|YES|stars_5
+2187|Dorisol Estrelicia & Buganvilia & Mimosa - Dorisol Estrelicia|Funchal|YES|stars_3
+2188|Dorisol Florasol|Funchal|YES|stars_3
+2189|Girassol|Funchal|YES|stars_4
+2191|Madeira Palacio Resort|Funchal|YES|stars_5
+2192|Madeira Panoramico|Funchal|YES|stars_4
+2195|Monte Carlo|Funchal|YES|stars_3
+2196|Estalagem Monte Verde|Funchal|NO|stars_3
+2197|Orca Praia|Funchal|YES|stars_3
+2199|Enotel Quinta do Sol|Funchal|YES|stars_4
+2200|Quinta Splendida Wellness & Botanical Garden|Caniço|YES|stars_4
+2201|Reid's Palace|Funchal|YES|stars_5
+2204|Four Views Baia|Funchal|YES|stars_4
+2205|Savoy - geschlossen|Funchal|YES|stars_5
+2206|Flame Tree Madeira|Funchal|YES|stars_2
+2207|Residencial Vila Lusitania|Funchal|NO|stars_3
+2208|Savoy Gardens|Funchal|YES|stars_4
+2209|Windsor|Funchal|YES|stars_4
+2210|Dom Pedro Garajau|Caniço|YES|stars_3
+2211|Dom Pedro Baia Club|Machico|YES|stars_4
+2212|Luamar|Vila Baleira|YES|stars_4
+2213|Porto Santo|Vila Baleira|YES|stars_4
+2214|Praia Dourada|Vila Baleira|YES|stars_3
+2215|Torre Praia|Vila Baleira|YES|stars_4
+2217|Enotel Golf|Santo António da Serra|YES|stars_4
+2218|Santa Catarina|Santa Cruz|YES|stars_4
+2219|Quinta do Furao|Santana|YES|stars_4
+2220|Estalagem do Mar|Sao Vicente|YES|stars_4
+2221|Colina do Castelo|Castelo Branco|YES|stars_4
+5175|Albufeira Jardim|Albufeira|YES|stars_3
+6105|Vila Petra|Albufeira|YES|stars_4
+6106|Azul Praia|Altura|NO|stars_2
+6107|Penina Hotel & Golf Resort|Alvor|YES|stars_5
+6109|Turiquintas|Porches|YES|stars_3
+6115|Canavial I & II Apartamentos|Lagos|NO|stars_3
+6116|Albergaria Solar de Mos|Lagos|YES|stars_4
+6118|Mirachoro Sol|Portimao|YES|stars_2
+6121|Algarve Casino|Praia da Rocha|YES|stars_5
+6125|Prainha Aldeamento / Clube / Village|Alvor|YES|stars_4
+6126|Quinta do Lago|Quinta do Lago|YES|stars_5
+6127|Ria Park Hotel & Spa|Vale do Lobo|YES|stars_5
+6128|Luna Olympus|Vilamoura|YES|stars_4
+6154|Cais da Olivera|Caniço|YES|stars_4
+6156|Dorisol Estrelicia & Buganvilia & Mimosa - Dorisol Mimosa|Funchal|YES|stars_3
+6157|Quinta Bela Sao Tiago|Funchal|YES|stars_4
+6158|Komplex - Jardins d'Ajuda Suite Hotel & Musa d'Ajuda Hotel|Funchal|YES|stars_4
+6161|Avenue Park|Funchal|NO|stars_4.5
+6162|Sofia|Funchal|YES|stars_4
+7019|A Beira Sol|Lagos|NO|stars_3
+7023|AS Lisboa|Lisbon|YES|stars_3
+7076|Acores Atlantico|Ponta Delgada|YES|stars_4
+7141|Afonso Domingues|Batalha|YES|stars_4
+7169|Residencia Água de Madeiros|Água de Madeiros|NO|stars_2
+7245|Alba|Monte Gordo|YES|stars_3
+7266|Albatroz|Cascais|YES|stars_5
+7272|Albergaria Dias|Funchal|NO|stars_4
+7273|Albergaria do Calvario|Évora|YES|stars_4
+7274|Albergaria Josefa d'Obidos|Obidos|YES|stars_3
+7275|Miramar Hotel & SPA|Nazaré|YES|stars_4
+7291|Alcaide|Vau|NO|stars_2
+7306|Aldeia da Cuada|Faja Grande|NO|stars_3
+7307|Aldeia da Fonte|Lajes do Pico|YES|stars_4
+7353|Corinthia Lisbon|Lisbon|YES|stars_5
+7355|Komplex Alfagar I & II - Alfagar I|Albufeira|YES|stars_3
+7359|Algar|Armacao de Pera|NO|stars_3
+7360|Algarve Clube Atlantico|Carvoeiro|NO|stars_4
+7373|Alif Campo Pequeno|Lisbon|YES|stars_3
+7427|Almar|Albufeira|YES|stars_3
+7493|Altamira|Agua de Pau|NO|stars_3
+7495|Alte|Alte|YES|stars_3
+7516|Altis Grand Hotel|Lisbon|YES|stars_5
+7518|Alto do Moinho|Albufeira|YES|stars_3
+7605|Amazonia Lisboa|Lisbon|YES|stars_3
+7606|Amazonia Estoril|Estoril|YES|stars_4
+7655|Americana|Funchal|YES|stars_2
+7899|Aqualuz Lagos|Lagos|YES|stars_4
+7934|Arangues|Setubal|YES|stars_3
+8129|Astoria|Coimbra|YES|stars_3
+8254|Atlantico - geschlossen|Estoril|YES|stars_4
+8255|Atlantico|Figueira da Foz|NO|stars_3
+8259|Atlântico Golf Hotel & Villas do Lago - Atlântico Golf Hotel|Peniche|NO|stars_4
+8346|Avenida|Ponta Delgada|YES|stars_4
+8348|Avenida Palace|Lisbon|YES|stars_5
+8350|Avenida Praia|Praia da Rocha|NO|stars_3
+8359|Aviz|Porto|YES|stars_3
+8428|Bahia Palace|Vila Franca do Campo|YES|stars_4
+8437|Baia|Cascais|YES|stars_3
+8440|Yellow Praia de Monte Gordo|Monte Gordo|YES|stars_4
+8449|Baia Grande|Albufeira|YES|stars_4
+8467|Balaia Golf Village|Albufeira|YES|stars_4
+8506|Baltum|Albufeira|YES|stars_2
+8541|Barão de Forrester|Alijo|YES|stars_3
+8552|3K Barcelona|Lisbon|YES|stars_4
+8578|Barracuda|Ponta Delgada|YES|stars_3
+8679|Beira Mar|Angra do Heroismo|NO|stars_3
+8696|Bela Vista Hotel & Spa|Praia da Rocha|NO|stars_5
+8779|Belo Sol|Funchal|YES|stars_3
+8802|Bem Parece|Albufeira|YES|stars_3
+9279|Brisa Sol|Albufeira|YES|stars_4
+9303|Britania|Lisbon|YES|stars_4
+9409|Cabanas de Sao Jorge Village|Sao Jorge|YES|stars_2.5
+9434|Penha Longa Spa & Golf Resort|Sintra|YES|stars_5
+9478|Calema|Monte Gordo|YES|stars_3
+9502|Caloura|Agua de Pau|YES|stars_4
+9635|Canadiano|Ponta Delgada|YES|stars_3
+9724|Caravelas|Madalena|YES|stars_3
+9796|Carvoeiro Clube|Carvoeiro|NO|stars_4
+9797|Pestana Gramacho Golf Resort|Carvoeiro|NO|stars_4
+9798|Carvoeiro Sol|Carvoeiro|YES|stars_3
+9823|Casa Bela Moura|Armacao de Pera|NO|stars_4
+9829|Casa do Alto|Vilamoura|NO|stars_3
+9848|Casa Costa Azul|Albufeira|NO|stars_3
+9850|Casa da Piedade|Sao Vicente|NO|stars_2.5
+9857|Casa das Torres de Oliveira|Mesao Frio|NO|stars_3
+9873|Casa de Sezim|Guimaraes|NO|stars_3.5
+9887|Casa do Campo|Celorico de Basto|NO|stars_4
+9888|Casa do Caseiro|Funchal|NO|stars_2.5
+9889|Casa do Correio-Mor|Ponte de Barca|NO|stars_4
+9890|Casa do Foral|Rio Maior|NO|stars_3
+9894|Vila Domilu|Carvoeiro|NO|stars_4
+9898|Casa Dona Ana|Lagos|NO|stars_4
+9938|Casa Idalina|Lagos|NO|stars_3
+10015|Palacete Flor da Rosa|Crato|YES|stars_4.5
+10077|Casa Vale d'el Rei|Tavira|NO|stars_3
+10084|Casabela|Ferragudo|YES|stars_4
+10087|Casablanca Inn|Monte Gordo|YES|stars_3
+10091|Casal dos Patos|Praia de Areia Branca|NO|stars_3
+10112|Casas Tipicas|Ribeira Brava|NO|0
+10165|Castelo de Alvito|Alvito|YES|stars_4.5
+10166|Pousada de Palmela / Castelo de Palmela|Palmela|YES|stars_4
+10213|Cegonha Country Club|Vilamoura|YES|stars_4
+10269|Cerro da Marina|Albufeira|YES|stars_4
+10521|Club dos Arcos|Praia da Rocha|NO|stars_3
+10547|Clube do Lago|Estoril|YES|stars_4
+10577|Colina do Mar|Albufeira|YES|stars_3
+10578|Colina dos Mouros|Silves|YES|stars_3
+10581|Colmo|Santana|YES|stars_4
+10742|Convento de Sao Francisco|Franca do Campo|NO|stars_3
+10743|Convento de Sao Paulo|Redondo|NO|stars_4
+10874|Costa d'Oiro Ambiance Village|Lagos|YES|stars_4
+10878|Ever Caparica - Beach & Conference Hotel|Costa da Caparica|YES|stars_4
+10977|Cristina 1|Albufeira|NO|0
+11006|Vidamar Resorts Madeira|Funchal|YES|stars_5
+11059|Memmo Baleeira|Sagres|YES|stars_4
+11060|da Bolsa|Porto|YES|stars_3
+11061|M'ar De Ar Muralhas|Évora|YES|stars_4
+11063|Olissippo Lapa Palace|Lisbon|YES|stars_5
+11069|Da Pergola|Cascais|NO|stars_3.5
+11071|Da Praia Norte|Peniche|NO|stars_3
+11072|Da Rocha|Praia da Rocha|YES|stars_4
+11075|Urgeiriça|Canas de Senhorim|YES|stars_4
+11139|Arribas|Praia Grande|YES|stars_3
+11201|Angra Garden|Angra do Heroismo|YES|stars_3
+11216|Domus Selecta Inglaterra|Estoril|YES|stars_4
+11507|VIP Executive Diplomatico|Lisbon|YES|stars_4
+11550|Clube Apartmentos do Algarve|Quarteira|YES|stars_3
+11552|Quinta do Arco|Arco de Sao Jorge|NO|stars_4
+11553|Quinta Atrio|Prazeres|NO|stars_3.5
+11554|do Baixinho 1 & 3|Viana do Castelo|NO|0
+11557|Casa do Cerro|Vilamoura|NO|0
+11558|Do Colegio|Ponta Delgada|YES|stars_4
+11559|Bom Jesus Do Elevador|Braga|YES|stars_4
+11561|Quinta do Lodao|Espadanedo|NO|0
+11562|Hotel Do Mar|Sesimbra|YES|stars_4
+11565|Do Parque|Albufeira|YES|stars_3
+11566|Bom Jesus Do Parque|Braga|YES|stars_4
+11567|SANA Reno Hotel|Lisbon|YES|stars_3
+11597|Dom Afonso II|Alcacer do Sal|NO|stars_3.5
+11598|Dom Carlos Park|Lisbon|YES|stars_3
+11599|Pousada de Dom Diniz|Vila Nova de Cerveira|YES|stars_4
+11600|Pousada de Queluz - Lisboa, D. Maria I|Queluz|YES|stars_4
+11601|Pousada de Vila Vicosa - Dom João IV|Vila Vicosa|YES|stars_4
+11602|Best Western D. Luís|Coimbra|YES|stars_3
+11603|Alif Avenidas|Lisbon|YES|stars_4
+11604|Albufeira Sol|Albufeira|YES|stars_4
+11605|Dom Pedro Palace|Lisbon|YES|stars_5
+11607|Vila Baleira Resort|Vila Baleira|YES|stars_4
+11608|Dom Pedro Portobelo|Vilamoura|YES|stars_4
+11647|Don Tenorio|Sagres|YES|stars_3
+11649|Dona Rita Park|Atouguia da Baleia|NO|stars_3
+11720|Enotel Lido|Funchal|YES|stars_5
+11732|Dos Templarios|Tomar|YES|stars_4
+11813|Dunas de Alvor|Alvor|NO|stars_3
+11814|Dunas Park Beach Club|Praia da Manta Rota|NO|stars_3
+12132|Estalagem Encumeada|Encumeada|YES|stars_3
+12152|Equador|Cascais|NO|stars_3
+12210|Escola Hoteleira|Funchal|NO|stars_4
+12235|Estalagem a Quinta|Santo António da Serra|NO|stars_4
+12236|Estalagem Brisa Mar|Seixal|NO|stars_3
+12238|Estalagem Corte do Norte|Ponta Delgada|NO|stars_3
+12239|Estalagem Da Ponta Do Sol & Hotel Da Vila - Estalagem Da Ponta Do Sol|Ponta do Sol|YES|stars_4
+12240|Do Cerro|Albufeira|YES|stars_4
+12241|Estalagem do Convento|Obidos|NO|stars_4
+12242|Estalagem do Muchaxo|Cascais|YES|stars_4
+12245|Guadiana River Hotel|Alcoutim|YES|stars_4
+12250|Estalagem Quinta da Casa Branca|Funchal|YES|stars_5
+12251|Komplex Quinta da Penha de Franca / Quinta da Penha de Franca Mar|Funchal|YES|stars_4
+12253|Quinta do Estreito Vintage House|Camara de Lobos|YES|stars_5
+12255|Quinta Jardins do Lago|Funchal|YES|stars_5
+12256|Estalagem Quintinha de Sao Joao|Funchal|YES|stars_5
+12258|Estalagem Senhora da Guia|Cascais|YES|stars_5
+12259|Estalagem Senhora da Rosa|Faja de Baixo|NO|stars_4
+12260|Porto Bay Serra Golf|Santo António da Serra|YES|stars_4
+12263|Estalagem de Santo Andre|Povoa de Varzim|NO|stars_4
+12265|São Felix Hillside & Nature|Povoa de Varzim|YES|stars_4
+12270|Estoril Eden|Estoril|YES|stars_4
+12271|Palacio Estoril|Estoril|YES|stars_5
+12332|Eva|Faro|YES|stars_4
+12454|Faial Resort|Horta|NO|stars_4
+12474|HF Fénix Lisboa|Lisbon|YES|stars_4
+12522|Figuerinhas|Armacao de Pera|NO|stars_3.5
+12807|Pousada Flor de Rosa / do Crato|Crato|YES|stars_4.5
+12827|Florida|Lisbon|YES|stars_4
+12866|Fortaleza do Guincho|Cascais|YES|stars_5
+12867|Luna Forte da Oura|Albufeira|YES|stars_4
+12869|Forte de Sao Francisco|Chaves|YES|stars_4
+12877|Forte Sao Joao|Albufeira|NO|stars_2
+12950|Four Seasons Ritz|Lisbon|YES|stars_5
+12956|Foz de Atlantida|Monte Gordo|NO|stars_4
+13081|Galo Resort Hotel Alpino Atlantico|Caniço|YES|stars_4
+13082|Calheta Beach|Calheta|YES|stars_4
+13083|Galo Resort Hotel Galosol|Caniço|YES|stars_4
+13276|Apartamentos Turisticos Interjumbria - Golden Beach|Albufeira|NO|stars_3
+13345|Gorgulho|Funchal|YES|stars_3
+13647|Guadiana|Monte Gordo|YES|stars_3
+13926|Herdade de Nossa Senhora das Gracas|Maia|NO|0
+14098|Holiday Inn Lisbon|Lisbon|YES|stars_4
+14387|Horta da Moura|Reguengos de Monsaraz|NO|stars_4
+14539|Iberlagos|Lagos|NO|stars_3
+14587|Ibis Faro|Faro|YES|stars_2
+14588|Ibis Porto Gaia|Vila Nova de Gaia|YES|stars_2
+14603|Ibis Lisboa Jose Malhoa|Lisbon|YES|stars_2
+14614|Ibis Saldanha|Lisbon|YES|stars_2
+14691|Ilha Graciosa|Santa Cruz|NO|stars_3
+14720|Imperatriz|Funchal|YES|stars_3
+14786|Infante Pousada|Sagres|YES|stars_3.5
+14787|Infante de Sagres|Porto|YES|stars_5
+14795|Inn & Art Gallery|Caniço|NO|stars_3
+14872|Internacional|Porto|YES|stars_3
+14902|HF Ipanema Porto|Porto|YES|stars_4
+15014|As Janelas Verdes|Lisbon|YES|stars_4
+15020|Jardim do Vau|Alvor|YES|stars_4
+15851|Lageado Park|Albufeira|NO|0
+15893|Lamego|Lamego|YES|stars_4
+16032|Lawrence's Hotel|Sintra|YES|stars_5
+16095|Dona Filipa & San Lorenzo Golf Resort|Quinta do Lago|YES|stars_5
+16107|Intercontinental Lisbon|Lisbon|YES|stars_5
+16316|Lido|Estoril|YES|stars_3
+16390|Lisboa Plaza|Lisbon|YES|stars_4
+16391|Do Chiado|Lisbon|YES|stars_4
+16392|Lisboa Tejo|Lisbon|NO|stars_3
+16430|Pousada dos Lóios|Évora|YES|stars_3.5
+16597|Luz Bay Club|Luz|YES|stars_4
+16623|Madeira Regency Cliff|Funchal|YES|stars_4
+16624|Madeira Regency Palace|Funchal|YES|stars_5
+16640|3K Madrid|Lisbon|YES|stars_4
+16793|Mar e Sol|Sao Pedro de Muel|YES|stars_4
+16802|Mar Alvor|Alvor|NO|stars_3
+16806|Mar a Vista|Albufeira|YES|stars_2
+16955|Marina Sao Roque|Lagos|YES|stars_3
+17029|Marques de Pombal|Lisbon|YES|stars_4
+17030|Olissippo Marques de Sa|Lisbon|YES|stars_4
+17281|Mercure Porto Centro|Porto|YES|stars_4
+17404|Metropole|Lisbon|YES|stars_3
+17410|SANA Metropolitan Hotel|Lisbon|YES|stars_4
+17507|Mirachoro Praia|Carvoeiro|YES|stars_4
+17547|Miraparque|Lisbon|YES|stars_3
+17659|Monte d'Oiro|Lagos|YES|stars_4
+17660|Monte da Alcaria do Clemente|Zambujeira do Mar|NO|stars_2.5
+17661|Monte dos Avos - geschlossen|Luz de Tavira|NO|stars_2
+17662|Monte Dourado|Carvoeiro|NO|stars_3
+17694|Montesol|Monte Gordo|NO|stars_3
+17708|Four Views Monumental Lido|Funchal|YES|stars_4
+17756|Mouraliz|Vilamoura|YES|stars_3
+17771|Mundial|Lisbon|YES|stars_4
+17852|Navigator|Sagres|NO|stars_3
+17891|Neptuno|Albufeira|YES|stars_3
+18096|Novotel Lisboa|Lisbon|YES|stars_4
+18138|O Curtado|Santana|NO|stars_3
+18212|Ocidental|Santa Cruz das Flores|NO|stars_2
+18232|Axis Ofir|Esposende|YES|stars_4
+18315|Ondamar|Albufeira|YES|stars_4
+18415|Pousada Conde de Ourém|Ourem|YES|stars_3
+18450|Paço de Calheiros|Ponte de Lima|NO|stars_4
+18451|Paço de Sao Cipriano|Guimaraes|NO|stars_4
+18481|Curia Palace|Anadia|YES|stars_4
+18482|Bussaco Palace|Bucaco|YES|stars_5
+18490|Tivoli Palacio de Seteais|Sintra|YES|stars_5
+18530|Pestana Palm Gardens|Carvoeiro|YES|stars_4
+18711|Paraiso do Atlantico|Quarteira|YES|stars_4
+18973|Pestana Cascais Ocean & Conference Aparthotel|Cascais|YES|stars_4
+18974|Pestana Alvor Praia|Alvor|YES|stars_5
+18975|Pestana Levante|Armacao de Pera|YES|stars_4
+18978|Pestana Porto|Porto|YES|stars_4
+19241|Cheerfulway Polana Hotel|Albufeira|YES|stars_3
+19262|Ponta Delgada|Ponta Delgada|NO|stars_3
+19263|Ponta Grande Resort|Albufeira|YES|stars_4
+19311|Porto Santa Maria|Funchal|YES|stars_4
+19372|Dorisol Pousada dos Vinhaticos|Serra de Agua|YES|stars_3
+19375|Pousada de Viana do Castelo|Viana do Castelo|YES|stars_4
+19383|Praia Azul|Torres Vedras|NO|stars_3
+19384|Praia da Oura|Albufeira|YES|stars_3
+19386|Praia de Lobos|Vila do Porto|NO|stars_3
+19389|Praia Mar|Carcavelos|YES|stars_4
+19474|Principe Perfeito|Viseu|YES|stars_4
+19660|Balaia Mar & Apartamentos da Balaia - Apartamentos da Balaia|Albufeira|YES|stars_3
+19664|Quinta da Boa Viagem|Viana do Castelo|NO|stars_3.5
+19665|Quinta da Bouca d'Arques|Viana do Castelo|NO|stars_3
+19666|Quinta da Capela|Porto da Cruz|NO|stars_4
+19668|Quinta da Fonte|Funchal|NO|stars_3
+19673|Hotel Quinta da Marinha Resort|Cascais|YES|stars_5
+19674|Quinta da Nasce Agua|Angra do Heroismo|NO|stars_4
+19676|Quinta da Ortiga|Santiago de Cacem|NO|stars_3
+19679|Quinta da Portada Branca|Camacha|YES|stars_4
+19680|Quinta da Varzea|Querenca Loule|NO|stars_3.5
+19681|Quinta da Victoria|Viana do Castelo|NO|stars_3.5
+19684|Quinta das Lagrimas|Coimbra|YES|stars_4
+19685|Quinta das Palmeiras|Armacao de Pera|NO|stars_3
+19687|Quinta de Lagoa|Mira|NO|stars_3
+19689|Quinta de Sant'Ana|Gradil|NO|stars_4
+19692|Quinta de Santo Antonio|Elvas|YES|stars_4
+19693|Quinta de Santo Antonio da Serra|Santo António da Serra|YES|stars_3
+19694|Quinta de São Lourenço|Anadia|NO|stars_3
+19696|Quinta de Vermil|Ponte de Lima|NO|stars_4
+19700|Quinta do Lorde|Canical|NO|stars_5
+19701|Quinta do Mar da Luz|Luz|YES|stars_3
+19706|Quinta do Paco d'Anha|Viana do Castelo|NO|stars_4
+19709|Quinta Dom Sapo|Viana do Castelo|NO|stars_3
+19711|Quinta dos Amigos|Vale do Lobo|NO|stars_4
+19712|Quinta Dos Oliveiras|Carvoeiro|NO|stars_3
+19713|Quinta Mae dos Homens|Funchal|YES|stars_3
+19716|Quinta Paraiso da Mia|Luz|NO|stars_3
+19717|Quinta Perestrello|Funchal|YES|stars_4
+19835|Raga|Funchal|YES|stars_4
+19838|Pousada de Estremoz, Rainha Santa Isabel|Estremoz|YES|stars_4
+19962|Real Parque|Lisbon|YES|stars_4
+19963|Real Residencia|Lisbon|YES|stars_4
+20173|Pensao Residencial Roma|Lisbon|NO|stars_4
+20247|Solar da Boaventura Residencia|Boaventura|NO|stars_3
+20249|Residencial A Lareira|Caniço|NO|stars_2.5
+20250|Aqua Natura Madeira|Porto Moniz|YES|stars_4
+20258|Residencial Vilamar|Luz|NO|stars_3
+20363|Rio Apartments|Vilamoura|YES|stars_3
+20416|Porto Bay Falesia|Olhos de Água|YES|stars_4
+20417|Luna Falesia Mar|Praia da Falesia|YES|stars_3
+20439|RIU Palace Madeira|Caniço|YES|stars_4
+20527|Rocamar Exclusive Hotel & Spa|Albufeira|YES|stars_3
+20564|Roma|Lisbon|YES|stars_3
+20767|Rural Refugio da Vila|Portel|NO|stars_4
+20836|Saboia|Estoril|YES|stars_3
+20880|Salgueiro|Porto Moniz|YES|stars_3
+21005|SANA Executive Hotel|Lisbon|YES|stars_3
+21007|SANA Rex Hotel|Lisbon|YES|stars_3
+21008|SANA Sesimbra Hotel|Sesimbra|YES|stars_4
+21044|Sandy Mar|Viana do Castelo|NO|stars_3
+21066|Pousada de Santa Clara a Velha|Santa Clara-a-Velha|YES|stars_3
+21068|Santa Cristina|Condeixa-a-Nova|NO|stars_3
+21070|Grande Real Santa Eulalia|Albufeira|YES|stars_5
+21081|Pousada de Marvão - Santa Maria|Marvao|YES|stars_4
+21083|Pousada do Geres Amares, Sta. Maria do Bouro|Amares|YES|stars_4
+21090|Pousada de Guimarães Santa Marinha|Guimaraes|YES|stars_4
+21113|Pousada de Bragança - São Bartolomeu|Braganca|YES|stars_3
+21115|Pousada do Geres/Caniçada - Sao Bento|Geres|YES|stars_3.5
+21116|Vivenda Sao Bento|Esposende|NO|0
+21117|Pousada São Brás|Sao Bras de Alportel|YES|stars_4
+21118|Pousada de Setubal - Sao Filipe|Setubal|NO|stars_4
+21119|Pousada de Beja - Sao Francisco|Beja|YES|stars_4
+21121|Sao Gens|Serpa|NO|stars_4
+21122|Sao Gonçalo|Marao|NO|stars_4
+21124|São Jorge Garden|Velas|YES|stars_3
+21125|Sao Jose|Porto|YES|stars_3
+21126|Pousada de Manteigas|Manteigas|NO|stars_3.5
+21127|São Miguel|Sousel|YES|stars_3.5
+21128|Sao Miguel Park|Ponta Delgada|YES|stars_4
+21129|Sao Paulo e Alegria Apartements|Funchal|YES|stars_3
+21132|São Rafael Suite|Albufeira|NO|stars_5
+21133|Pousada de Valença do Minho - São Teotónio|Valenca do Minho|NO|stars_3.5
+21421|Pousada de Arraiolos - Nossa Senhora da Assuncao|Arraiolos|YES|stars_3.5
+21422|Pousada de Nossa Senhora da Oliveira - Guimaraes|Guimaraes|YES|stars_3
+21423|Hotel Fortaleza de Almeida|Almeida|YES|stars_3.5
+21496|Sheraton Porto & Spa|Porto|YES|stars_5
+21546|Sheraton Lisboa Hotel & Spa|Lisbon|YES|stars_5
+21644|Silchoro|Albufeira|NO|stars_3
+21806|Sofitel Lisbon Liberdade|Lisbon|YES|stars_5
+21840|Carvi Beach Resort|Lagos|YES|stars_3
+21841|Sol e Serra|Castello de Vide|YES|stars_3
+21853|Sol Nascente|Lagos|NO|stars_3
+21862|Pousada Solar da Rede|Mesao Frio|NO|stars_4
+21864|Solar do Conde|Capelas|YES|stars_3
+21866|Solar do Lalem|Maia|NO|stars_3.5
+21881|Solferias|Carvoeiro|YES|stars_4
+22060|Squash|Praia da Rocha|NO|stars_3
+22267|Suave Mar|Esposende|YES|stars_3
+22282|Turim Suisso Atlântico Hotel|Lisbon|YES|stars_3
+22516|Talisman|Ponta Delgada|YES|stars_4
+22622|Terra Nostra Garden|Furnas|YES|stars_3
+22626|Terrace Club Algarve|Armacao de Pera|YES|stars_3
+22627|Terrace Mar|Funchal|YES|stars_4
+23028|The Vintage House Douro|Pinhao|YES|stars_5
+23175|Tivoli Coimbra|Coimbra|YES|stars_4
+23176|Tivoli Jardim|Lisbon|YES|stars_4
+23177|Tivoli Lisboa|Lisbon|YES|stars_5
+23178|Tivoli Porto|Porto|YES|stars_5
+23179|Tivoli Sintra|Sintra|YES|stars_4
+23222|Torre da Rocha|Praia da Rocha|NO|stars_2
+23247|Toural|Guimaraes|NO|stars_4
+23443|Turial Park|Albufeira|YES|stars_3
+23500|Universal|Geres|NO|stars_3
+23555|Vale do Gaio|Torrao|YES|stars_3
+23556|Vale do Lobo Resort|Quinta do Lago|NO|stars_5
+23590|Varandas de Albufeira|Albufeira|YES|stars_4
+23656|Axis Vermar Conference & Beach|Povoa de Varzim|YES|stars_4
+23687|Vidago Palace|Vidago|NO|stars_5
+23725|Vila Afonso|Camara de Lobos|NO|stars_3
+23732|Vila Channa|Albufeira|YES|stars_3
+23733|Villas D. Dinis Charming Residence|Lagos|YES|stars_3
+23734|Vila Duparchy|Luso|NO|stars_1
+23735|Vila Gaivota|Ferragudo|YES|stars_4
+23736|Vila Galé Albacora|Tavira|YES|stars_4
+23737|Vila Galé Estoril|Estoril|YES|stars_4
+23738|Vila Galé Porto|Porto|YES|stars_4
+23739|Vila Galé Praia|Albufeira|YES|stars_4
+23740|Vila Galé Cascais|Cascais|YES|stars_4
+23744|Vila Marachique|Alvor|NO|stars_3
+23747|Vila Palmeira|Lagos|NO|stars_4
+23748|Vila Sao Vicente|Albufeira|NO|stars_3
+23749|Vila Senhora da Rocha|Armacao de Pera|YES|stars_3
+23752|Villa Valmar|Lagos|NO|stars_3
+23753|Vila Verde|Gaula|NO|stars_2
+23754|Vila Vicencia|Funchal|NO|stars_4
+23757|Vila Vita Parc|Porches|YES|stars_5
+23758|Vilabranca|Lagos|YES|stars_3
+23760|Vilana|Armacao de Pera|NO|stars_3.5
+23762|Vilar do Golf|Quinta do Lago|YES|stars_4
+23867|Villa Esmeralda|Lagos|NO|stars_4
+23973|Villa Opuntia|Caniço|NO|stars_1
+24587|York House|Lisbon|NO|stars_4
+24648|Zodiaco|Quarteira|YES|stars_3
+24700|VIP Executive Zurique|Lisbon|YES|stars_3
+24739|Alcazar|Monte Gordo|YES|stars_3
+25983|Monte Mar Palace|Ponta Delgada|YES|stars_4
+26080|Duas Nacoes|Lisbon|NO|stars_2
+26418|Choupana Hills Resort|Funchal|YES|stars_5
+26419|Royal Savoy|Funchal|YES|stars_5
+26522|Solar da Bica|Sao Vicente|NO|stars_3
+26523|Casa do Papagaio Verde|Funchal|NO|stars_3
+26635|Pestana Palace|Lisbon|YES|stars_5
+26636|Tivoli Oriente|Lisbon|YES|stars_4
+26656|do Campo|Ribeira Brava|YES|stars_4
+26660|Pestana Atalaya - geschlossen|Caniço|YES|stars_4
+26747|Enotel Baia|Ponta do Sol|YES|stars_4
+26837|Solar do Castelo|Lisbon|YES|stars_4
+26853|Dom Manuel I|Lagos|NO|stars_4
+26854|Vila Monte|Moncarapacho|YES|stars_4
+26858|Hotel Moniz Sol|Porto Moniz|YES|stars_4
+28205|Do Mar|Povoacao|NO|stars_4
+28214|Charming Hotel Quinta das Vistas|Funchal|YES|stars_5
+28262|Bayside Salgados|Albufeira|YES|stars_3
+28326|Domus Maris|Albufeira|YES|stars_3
+28479|Orquidea|Funchal|YES|stars_3
+28892|Americano|Lisbon|NO|stars_2
+28894|Avenida Parque|Lisbon|NO|stars_3
+29566|Real Bellavista|Albufeira|YES|stars_4
+29580|Marina Club Resort - Marina Club I / Marina Club II / Marina Club Suite Hotel|Lagos|YES|stars_4
+29596|Do Ribeirinho|Porto Moniz|NO|stars_3
+29613|Vila Mos|Lagos|YES|stars_4
+29615|Euro Moniz|Porto Moniz|YES|stars_3
+29718|Porto Palacio|Porto|YES|stars_5
+29719|Boa-Vista|Porto|YES|stars_3
+29720|Residencial Sao Gabriel|Porto|YES|stars_2.5
+29726|Pinhal da Foz|Esposende|NO|stars_3
+29727|Mercure Figueira da Foz|Figueira da Foz|YES|stars_4
+29728|Vila Bicuda|Cascais|YES|stars_4
+29729|Riviera|Carcavelos|YES|stars_4
+29733|Solar da Fornalha|Moncarapacho|NO|stars_3
+29734|Luzmar Villas|Luz|YES|stars_4
+29736|Aqua Meia Praia|Lagos|YES|stars_3
+29748|The Lince Azores Great & Spa|Ponta Delgada|YES|stars_4
+29750|Vila Nova Hotel|Ponta Delgada|YES|stars_3
+29754|Do Martelo|Terceira, Island|NO|stars_4
+32293|Paul do Mar|Paul do Mar|YES|stars_4
+32733|Grande do Porto|Porto|YES|stars_3
+32734|Malaposta|Porto|YES|stars_3
+33207|Capela das Artes|Alcantarilha|YES|stars_3.5
+33333|Velamar|Albufeira|YES|stars_3
+33856|Casas Valleparaizo|Camacha|NO|stars_3
+33858|Quinta da Quebrada|Arco de Sao Jorge|NO|stars_3
+34307|VIP Executive Villa Rica|Lisbon|YES|stars_4
+34308|Almirante|Lisbon|YES|stars_3
+34927|Dunamar|Monte Gordo|YES|stars_4
+34929|Da Calma|Olhao|NO|stars_3
+34931|Casa Al Gharb|Carvoeiro|NO|0
+34934|Quinta Alegre|Estreito da Calheta|NO|stars_4
+35936|Via Donana Apartments|Lagos|YES|stars_3
+35946|Parque do Rio - Ofir|Ofir|NO|stars_4
+35947|Santana Hotel & Spa|Vila do Conde|YES|stars_4
+35949|Farol Design|Cascais|YES|stars_5
+35951|Vila Galé Ericeira|Ericeira|YES|stars_4
+35953|Pateo dos Solares|Estremoz|YES|stars_5
+35956|Villa Termal Caldas De Monchique|Monchique|YES|stars_3
+35958|Quinta Rosa de Lima|Portimao|NO|0
+35959|Clube Porto de Mos|Lagos|YES|stars_4
+35961|Formosa Park Apartamento|Almancil|YES|stars_4
+35962|Quinta Jardins do Golfe|Quinta do Lago|NO|stars_4
+35963|Vila Galé Tavira|Tavira|YES|stars_4
+35972|Estalagem dos Clérigos|Nordeste|YES|stars_4
+35973|Marina|Vila Franca do Campo|YES|stars_3
+35974|Do Caracol|Angra do Heroismo|YES|stars_4
+35975|Quinta das Buganvilias|Castelo Branco|NO|stars_3
+37776|Porta Nova|Tavira|YES|stars_4
+37826|Domus Selecta Vila Gale Clube Do Campo|Beja|YES|stars_4
+38002|Pousada de Belmonte - Convento de Belmonte|Belmonte|YES|stars_3.5
+38003|Pousada da Torreira / Murtosa - Ria de Aveiro|Murtosa|YES|stars_3
+38079|VIP Executive Eden Aparthotel|Lisbon|YES|stars_4
+38249|Resort Vila Porto Mare - Porto Mare / Eden Mar / The Residence|Funchal|YES|stars_4
+38422|Travel Park|Lisbon|YES|stars_3
+38816|Paraiso de Albufeira|Albufeira|YES|stars_4
+38817|O'Farol|Ponta do Pargo|NO|stars_3
+39027|Jorge V|Lisbon|YES|stars_3
+39057|Club Med Da Balaia|Da Balaia|NO|stars_4
+39187|Das Hortencias|Arco de Sao Jorge|NO|stars_3
+39238|Real Lota|Praia da Manta Rota|YES|stars_3
+39239|Benvindo|Albufeira|NO|stars_3
+39350|Baia de Monte Gordo|Monte Gordo|YES|stars_3
+39727|Hotel Borges Chiado|Lisbon|NO|stars_3
+39728|NH Liberdade|Lisbon|YES|stars_4
+39786|Pousada de Vila Pouca da Beira, Convento do Desagravo|Vila Pouca da Beira|YES|stars_4
+39937|Praia d'el Rey Golf & Beach Resort - Marriott Hotel|Obidos|YES|stars_5
+40071|Estalagem dos Camoes|Ponta Delgada|YES|stars_4
+40072|Quinta da Abelheira|Ponta Delgada|NO|stars_3
+40073|Royal Garden|Ponta Delgada|NO|stars_4
+40074|Terceira Mar|Angra do Heroismo|YES|stars_4
+40075|Quinta do Vale|Flamengos|NO|stars_3
+40109|Mar e Serra|Portimao|NO|stars_3
+40241|Burgau Beach Hotel|Burgau|YES|stars_3
+40537|Ria Plaza Resort|Almancil|YES|stars_3
+40549|lti Pestana Grand|Funchal|YES|stars_5
+40741|Club Amarilis|Praia da Rocha|YES|stars_3
+41026|Quinta do Monteverde|Viana do Castelo|NO|stars_3
+41027|Real Palacio|Lisbon|YES|stars_5
+41028|Vila Galé Opera|Lisbon|YES|stars_4
+41029|Olissippo Castelo Othon Palace|Lisbon|YES|stars_4
+41030|Turim Lisboa hotel|Lisbon|YES|stars_4
+41031|Lisbon Marriott|Lisbon|YES|stars_4
+41032|SANA Lisboa Hotel|Lisbon|YES|stars_4
+41033|SANA Malhoa Hotel|Lisbon|YES|stars_4
+41034|Comfort Inn Embaixador|Lisbon|YES|stars_3
+41035|VIP Inn Berna|Lisbon|YES|stars_3
+41036|VIP Executive Saldanha|Lisbon|NO|stars_4
+41037|Avenida Alameda|Lisbon|NO|stars_2
+41038|Fenix Porto|Porto|YES|stars_4
+41039|HF Tuela Porto|Porto|YES|stars_3
+41040|Golden Tulip Porto Gaia Hotel|Vila Nova de Gaia|YES|stars_4
+41041|Vila Valverde|Luz|YES|stars_4
+41042|Vila Mar Azul|Lagos|YES|stars_3
+41043|Boca do Rio|Portimao|YES|stars_4
+41044|Presa de Moura|Carvoeiro|YES|stars_4
+41045|Colina Verde Golf & Sports Resort|Moncarapacho|YES|stars_4
+41047|Canal da Agua|Odeceixe|NO|stars_3
+41048|Herdade do Touril de Baixo|Zambujeira do Mar|NO|stars_4.5
+41049|Vila Park|Vila Nova de Santo Andre|YES|stars_3
+41050|Londres|Estoril|YES|stars_3
+41051|VIP Inn Miramonte|Sintra|YES|stars_2
+41053|Quinta da Vigia|Colares|NO|stars_3
+41054|Hotel Club d'Azeitao|Azeitao|YES|stars_4
+41055|Belver Grande Hotel da Curia|Anadia|YES|stars_3
+41056|Penacova|Penacova|NO|stars_3
+41057|Pousada São Vicente|Braga|YES|stars_4
+41059|Casa de Calcada|Amarante|YES|stars_5
+41060|Maria da Fonte|Povoa de Lanhoso|NO|stars_4
+41061|AJ Hotel|Chaves|NO|stars_3
+41064|Casa Domingos|Viana do Castelo|NO|0
+41067|Quinta da Meia Eira|Castelo Branco|NO|stars_3
+41068|Do Mirante Aparthotel|Agua de Pau|NO|stars_4
+41069|Santa Maria|Vila do Porto|NO|stars_3
+41070|Pousada da Horta Forte de Santa Cruz|Horta|YES|stars_3.5
+41139|Luna Miramar|Albufeira|YES|stars_4
+41141|Costa de Prata II|Figueira da Foz|YES|stars_3
+41142|Costa de Prata I|Figueira da Foz|YES|stars_3
+41328|Villas d'Agua|Albufeira|NO|stars_4
+41340|Residencial Lar do Areeiro|Lisbon|YES|stars_2
+41439|Quinta da Praia|Alvor|YES|stars_3
+42263|Exe Lisboa Parque Hotel|Lisbon|YES|stars_4
+42272|Comfort Inn Ponta Delgada|Ponta Delgada|NO|stars_3
+46643|Clube Maria Luisa|Albufeira|YES|stars_3
+46644|Colina da Lapa|Carvoeiro|YES|stars_4
+46645|Marina Falesia - geschlossen|Vilamoura|NO|stars_3
+46733|Mirachoro II y III|Portimao|YES|stars_2
+46756|Hotel das Termas - Curia|Anadia|YES|stars_3
+46760|Alta Oura Apartments|Albufeira|NO|stars_3
+46784|Janelas do Mar Apartments|Albufeira|YES|stars_3
+46785|Valmangude Jardim|Albufeira|YES|stars_3
+46788|Amazonia Jamor|Lisbon|YES|stars_4
+46789|Amazonia Palmela|Palmela|YES|stars_4
+46807|Balaia Plaza|Albufeira|YES|stars_4
+46808|Balaia Sol|Albufeira|YES|stars_3
+46866|Jardins da Rocha|Praia da Rocha|YES|stars_3
+46870|Dom Carlos Liberty|Lisbon|YES|stars_3
+46912|Holiday Inn Lisbon Continental|Lisbon|YES|stars_4
+46940|HF Ipanema Park|Porto|YES|stars_5
+47068|SANA Capitol Hotel|Lisbon|YES|stars_3
+47091|Lisboa|Lisbon|YES|stars_4
+47094|Internacional Design Hotel|Lisbon|NO|stars_4
+47146|Estalagem dos Zimbros|Sesimbra|YES|stars_4
+47173|Residencial Pao de Acucar|Porto|YES|stars_3
+47174|Residencial dos Aliados|Porto|YES|stars_3
+47206|Grande Hotel de Paris|Porto|YES|stars_3
+47399|Madeira|Funchal|NO|stars_3
+47402|Quinta do Monte|Funchal|YES|stars_5
+47655|Quinta da Serra|Camara de Lobos|YES|stars_5
+47656|Garajau Terrace|Caniço|YES|stars_4
+47657|Quinta Mirabela|Funchal|YES|stars_5
+47855|Yellow Alvor Garden Hotel|Alvor|YES|stars_4
+48355|Monte da Quinta Resort - Club|Quinta do Lago|YES|stars_4
+48474|Pestana Vila Sol Golf & Resort|Vilamoura|YES|stars_5
+48476|Radisson Blu Lissabon|Lisbon|YES|stars_4
+48652|Vitor's Plaza|Portimao|YES|stars_3
+48654|Rural San Roque|São Roque do Faial|YES|stars_3
+48657|Edificio Cruzeiro|Praia da Rocha|NO|stars_3
+48659|Komplex Mourabel - Parque Mourabel|Vilamoura|YES|stars_3
+48801|Urbamar Kings|Quarteira|NO|stars_3
+48868|Luna Clube Oceano|Albufeira|YES|stars_3
+48869|Our Atlantico|Albufeira|YES|stars_3
+48870|Acqua Maris Balaia|Albufeira|YES|stars_3
+48933|Plaza Real|Portimao|YES|stars_3
+48980|Cidadela Cascais|Cascais|YES|stars_3
+48999|Nautilus|Vilamoura|NO|stars_2
+49000|Browns|Vilamoura|YES|stars_4
+49001|Solar dos Vilarinhos|Albufeira|NO|stars_3
+49002|Cerro Branco|Albufeira|YES|stars_3
+49003|Cerro Malpique|Albufeira|YES|stars_3
+49004|Clube VilaRosa|Praia da Rocha|YES|stars_3
+49005|Flor da Laranja|Albufeira|YES|stars_3
+49006|Tropical Sol|Albufeira|YES|stars_4
+49007|Montechoro Hotel & Clube 99|Albufeira|YES|stars_4
+49008|Belmonte|Albufeira|YES|stars_3
+49012|Cabana do Pai Tomas|Comporta|NO|stars_1
+49044|Expo Astoria|Lisbon|NO|stars_3
+49049|Mercure Lisboa|Lisbon|YES|stars_4
+49056|Tryp Montijo Parque|Montitjo|YES|stars_3
+49068|As Americas|Aveiro|YES|stars_4
+49069|Dom Henrique Othon Classic|Porto|YES|stars_4
+49076|Regua Douro|Peso da Regua|YES|stars_4
+49079|Quality Inn Porto|Porto|YES|stars_3
+49082|Quality Inn Portus Cale|Porto|YES|stars_4
+49083|Curia Clube|Anadia|YES|stars_3
+49115|Tulipamar|Troia|NO|stars_3
+49116|Magnoliamar|Troia|NO|stars_4
+49118|Rosamar|Troia|NO|stars_4
+49132|Principe Lisboa|Lisbon|YES|stars_3
+49150|Natura Algarve Club|Albufeira|YES|stars_3
+49175|Estalagem Casa Melo Alvim|Viana do Castelo|YES|stars_4
+49184|Estalagem de Monsaraz|Monsaraz|YES|stars_4
+49191|Sao Jose Fatima|Fatima|YES|stars_3
+49197|Tryp Oriente|Lisbon|YES|stars_4
+49202|Belavista Avenida|Albufeira|YES|stars_3
+49203|Santa Maria|Fatima|NO|stars_4
+49204|Amadeos|Matosinhos|NO|stars_3
+49206|Grande de Luso|Luso|YES|stars_4
+49207|Mercure Braga Centro|Braga|YES|stars_4
+49208|Cabecinho|Anadia|NO|stars_3
+49215|Belver Beta Porto|Porto|YES|stars_4
+49216|Hotel Meira|Vila Praia de Ancora|YES|stars_4
+49233|Província Charming|Reguengos de Monsaraz|YES|stars_3
+49243|Solmonte|Praia da Rocha|NO|stars_3
+49244|Torre Verde 3 Castelos|Portimao|NO|stars_3
+49247|Hotel de Turismo da Guarda|Guarda|YES|stars_3
+49263|Albergaria el Rei Dom Manuel|Marvao|YES|stars_4
+49266|Porta do Sol|Caminha|YES|stars_4
+49267|Atlantis Sintra Estoril|Alcabideche|YES|stars_4
+49283|Dom Fernando|Évora|YES|stars_3
+49288|Princesa Hotel & Tea|Lisbon|YES|stars_2
+49296|Albergaria Residencial Tony da Silva|Valpaços|NO|stars_3
+49299|Estalagem Lago Azul|Ferreira do Zêzere|YES|stars_4
+49300|Comfort Inn Braga|Braga|YES|stars_3
+49315|Do Sado|Setubal|YES|stars_4
+49375|Fundador|Guimaraes|YES|stars_3
+49376|Quality Inn Sabrosa|Sabrosa|NO|stars_3
+49377|Premium Setubal Hotel & Spa|Setubal|YES|stars_4
+49386|Comfort Inn Fafe-Guimaraes|Fafe|YES|stars_2
+49392|Dom Afonso Henriques|Lisbon|NO|stars_2
+49395|Quality Inn Casa da Campea|Vila Real|NO|stars_3
+49396|Lutecia|Lisbon|YES|stars_4
+49431|Quality Inn Cartaxo|Cartaxo|NO|stars_3
+49438|Sao Mamede|Estoril|YES|stars_2
+49457|Quality Inn Montalegre|Montalegre|NO|stars_4
+49458|Praia|Nazaré|YES|stars_4
+49518|Atlantida Sol|Figueira da Foz|YES|stars_3
+49524|Varandas da Falesia|Sesimbra|YES|stars_3
+49525|Nelas Parq|Nelas|YES|stars_3
+49559|ibis budget Braga Centro|Braga|YES|stars_3
+49575|Evora Hotel|Évora|YES|stars_4
+49612|Sweet Residence & Gardens|Figueira da Foz|YES|stars_3
+49613|Wellington|Figueira da Foz|NO|stars_3
+49629|Torre Velha|Albufeira|YES|stars_2
+49639|Pateo Village|Albufeira|YES|stars_3
+49649|Monaco|Faro|YES|stars_3
+49655|Dos Anjos|Lisbon|YES|stars_3
+49727|Moliceiro|Aveiro|NO|stars_4
+49735|Villas Barrocal|Pera|YES|stars_3
+50032|Menfis|Porto|YES|stars_3
+50054|Solar Palmeiras|Paco de Arcos|YES|stars_4
+50067|Tryp Expo Porto|Porto|YES|stars_3
+50078|Dona Ines|Coimbra|YES|stars_3
+50302|Real Oeiras|Paco de Arcos|YES|stars_4
+50335|Mercure Porto Gaia|Vila Nova de Gaia|YES|stars_4
+50336|Veneza|Aveiro|YES|stars_3
+50366|Eduardo VII|Lisbon|YES|stars_3
+50367|Novotel Porto Gaia|Vila Nova de Gaia|YES|stars_4
+50434|Aguas do Geres|Geres|YES|stars_3
+50449|Luna Esperança Centro|Setubal|YES|stars_4
+50456|Cristal Caldas|Caldas da Rainha|YES|stars_3
+50457|Cristal Marinha|Marinha Grande|YES|stars_3
+50458|Cristal Vieira Praia & Cristal Praia - Cristal Vieira Praia|Vieira de Leiria|YES|stars_3
+50466|Garcia d'Orta|Castello de Vide|YES|stars_3
+50470|Praia do Sol|Costa da Caparica|YES|stars_2
+50493|Praiagolfe|Espinho|YES|stars_4
+50502|Residencial Ribamar|Nazaré|NO|stars_2
+50517|Cinquentenario|Fatima|YES|stars_4
+50524|Al Foz|Alcochete|NO|stars_3
+50541|Luna Alpinus|Albufeira|YES|stars_4
+50542|Marialva Park|Cantonhede|YES|stars_3
+50543|Ibis Bragança|Braganca|YES|stars_2
+50544|Ibis Guimaraes Centro|Guimaraes|NO|stars_2
+50545|Ibis Braga|Braga|YES|stars_2.5
+50586|Residencial Rochavau|Praia da Rocha|YES|stars_3
+50816|Moinho de Vento|Viseu|NO|stars_3
+50817|Turismo de Tabua|Tabua|NO|stars_2
+50818|Onix|Viseu|NO|stars_3
+50819|Soldoiro|Albufeira|YES|stars_3
+50824|Alto da Colina|Albufeira|YES|stars_4
+50832|Aldeamento de Peixinhos|Vila Vicosa|YES|stars_4
+50845|Guimarães|Guimaraes|YES|stars_4
+51020|Montebelo|Viseu|YES|stars_5
+51041|Cruz Alta|Fatima|YES|stars_3
+51054|Vanguarda|Guarda|NO|stars_3
+51071|Albergaria O Gato|Odivelas|NO|stars_3.5
+51073|Grao Vasco|Viseu|NO|stars_4
+51112|Sao Lazaro|Braganca|NO|stars_3.5
+51120|Cabanas Park Resort|Tavira|YES|stars_4
+51133|America Fatima|Fatima|YES|stars_3
+51189|Lux Mundi|Fatima|YES|stars_3
+51215|Alvorada|Estoril|YES|stars_3
+51275|Santo Antonio|Lagos|NO|0
+51547|Estalagem Eira do Serrado|Eira do Serrado|YES|stars_4
+51553|Oura Val|Albufeira|NO|stars_2
+51577|Alagoa Mar|Albufeira|YES|stars_4
+51624|Sinerama|Sines|YES|stars_3
+51627|Cerro Mar Atlantico & Garden - Atlantico|Albufeira|YES|stars_4
+51628|Quinta da Bellavista|Albufeira|YES|stars_3
+51630|Cheerfulway Vila Alba Apartments|Albufeira|YES|stars_3
+51632|Tivoli Marina Portimao|Portimao|YES|stars_4
+51633|Regina|Albufeira|NO|stars_3
+51636|Tropimar|Portimao|YES|stars_2
+51827|Leziria Parque|Vila Franca de Xira|YES|stars_3
+51884|Do Parque|Anadia|NO|stars_3
+51887|Axis Ponte de Lima|Ponte de Lima|YES|stars_3
+51889|Grande Hotel da Póvoa|Povoa de Varzim|YES|stars_3
+51894|Ever Lisboa City Centre|Lisbon|YES|stars_3
+51927|Best Western Rainha Dona Amélia|Castelo Branco|YES|stars_3
+51931|Comfort Inn Almedina|Coimbra|YES|stars_3
+52031|Vilas Oliveira|Funchal|YES|stars_3
+52043|Estoril 7|Alcabideche|YES|stars_3
+52066|Jardins Vale Parra|Albufeira|YES|stars_3
+52116|Hotel do Parque|Sao Pedro do Sul|NO|stars_4
+52191|Ourasol|Albufeira|YES|stars_3
+52194|Estalagem Monte do Casal|Faro|YES|stars_4
+52195|Residencial Greco|Funchal|YES|stars_3
+52227|Vila Branca|Albufeira|YES|stars_3
+52525|Marina Atlantico|Ponta Delgada|YES|stars_4
+52533|Casas do Frade|Lomba da Fazenda|NO|stars_2
+52976|Pousada de São Sebastião|Angra do Heroismo|YES|stars_4.5
+52982|Estalagem do Vale|Sao Vicente|YES|stars_4
+52983|Do Canal|Horta|YES|stars_4
+52984|Colombo|Vila do Porto|YES|stars_4
+52986|Bom Jesus|Braga|NO|stars_4
+54385|Romantica Quinta de Nespereiras|Lagos|NO|stars_3.5
+54387|Studios Porto de Mos Residence|Lagos|NO|stars_3.5
+54388|Quinta das Figueirinhas & Quintinha Village - Quintinha Village|Porches|NO|stars_3
+54389|Alagoa Azul|Monte Gordo|YES|stars_3
+54472|Sensimar Falesia|Praia da Falesia|YES|stars_4
+55545|Quinta das Eiras|Santo António da Serra|YES|stars_3
+56416|Alagoa Praia Norte|Monte Gordo|YES|stars_3
+56425|Mar a Vista|Portimao|YES|stars_3
+56586|Do Golfe Apartamentos|Vilamoura|YES|stars_3
+57208|Clube Praia do Vau|Portimao|YES|stars_3
+57338|SANA Estoril Hotel|Estoril|YES|stars_3
+57422|Vale de Carros|Albufeira|YES|stars_3
+57529|Vila Recife|Albufeira|YES|stars_3
+57705|Bairro Alto|Lisbon|YES|stars_5
+59559|Residencial Horizonte|Lisbon|YES|stars_3
+59561|Vilmar Villas|Lagos|NO|stars_4
+60682|Casa Mitchell|Albufeira|YES|stars_3
+60735|Tryp Porto Centro|Porto|YES|stars_3
+60736|VIP Executive Santa Iria|Santa Iria da Azoia|YES|stars_4
+60737|Bom Jesus Do Templo|Braga|YES|stars_4
+60826|ChoroMar|Albufeira|YES|stars_3
+60831|Acores Lisboa|Lisbon|YES|stars_4
+61152|Solar de Sao Joao|Albufeira|YES|stars_3
+61154|Gida|Quarteira|NO|stars_3
+61228|Quinta Pedra dos Bicos|Albufeira|YES|stars_4
+61236|Clube Humbria|Olhos de Água|YES|stars_4
+61239|Solar da Oura|Albufeira|YES|stars_3
+61783|Rainha D. Leonor|Albufeira|YES|stars_3
+61784|Jardim da Meia Praia|Lagos|YES|stars_4
+61923|Estrela da Luz|Lagos|YES|stars_4
+62052|Santa Eulalia Hotel & Spa|Albufeira|YES|stars_3
+62295|Clube da Meia Praia|Lagos|NO|stars_3
+62296|The Lake Resort|Vilamoura|YES|stars_5
+62298|Praia Verde Boutique Hotel|Altura|YES|stars_4
+62316|Quinta do Alto Sao Joao|Ponta do Sol|NO|stars_3.5
+62318|Casa da Capelinha|Ponta Delgada|NO|stars_3
+62398|Principe Da Beira|Fundão|YES|stars_4
+62477|Excelsior|Lisbon|NO|stars_3
+62478|VIP Executive Art's|Lisbon|YES|stars_4
+62479|VIP Executive Suites Marquês|Lisbon|YES|stars_4
+62608|Altis Park|Lisbon|YES|stars_4
+62856|Solplay|Linda-a-Velha|YES|stars_4
+63236|Cantinho do Mar|Albufeira|YES|stars_3
+63443|Club Alvor Ferias|Alvor|YES|stars_3
+64450|VIP Executive Azores|Ponta Delgada|YES|stars_4
+64456|Nacional|Lisbon|YES|stars_3
+64766|Quinta das Vinhas|Estreito da Calheta|NO|stars_3.5
+64849|Eurosol Alcanena|Alcanena|YES|stars_3
+64892|Cheerfulway Bravamar|Ribeira Brava|YES|stars_3
+64895|Best Western Inca|Porto|YES|stars_4
+64896|Casa de Juste|Lousada|NO|stars_3
+64924|Soleil Peniche|Peniche|YES|stars_3
+64925|Eurosol Residence|Leiria|YES|stars_4
+64927|Meia Lua|Ovar|YES|stars_3.5
+64928|Avelames|Pedras Salgadas|NO|stars_3
+64929|Rali|Viana do Castelo|NO|stars_3
+65009|Altis Suites|Lisbon|YES|stars_4
+65014|Fatima|Fatima|YES|stars_4
+65015|Dom Luis Elvas|Elvas|YES|stars_3
+66286|Principe Real|Lisbon|YES|stars_4
+66287|Grande Pensão Alcobia|Lisbon|NO|stars_2.5
+66298|Vale d'el Rei Suite & Villas|Carvoeiro|YES|stars_4
+66302|Pátios da Vila Apartamentos|Vila Nova de Milfontes|NO|stars_3
+66304|São Domingos|Mértola|YES|stars_4
+66305|Best Western Plus Santa Clara|Évora|YES|stars_3.5
+66307|Convento do Espinheiro, a Luxury Collection Hotel & Spa|Évora|YES|stars_5
+66309|Cascais Miragem|Cascais|YES|stars_5
+66311|Mira Villas|Mira|YES|stars_4
+68563|Pousada de Tavira - Convento da Graça|Tavira|YES|stars_4.5
+68583|Tryp Dona María|Covilha|YES|stars_4
+68588|Holiday Inn Porto Gaia|Vila Nova de Gaia|YES|stars_4.5
+68596|Tryp Coimbra|Coimbra|YES|stars_4
+68627|Palacio da Lousa Boutique Hotel|Lousa|YES|stars_4
+68764|Balaia Atlantico|Albufeira|YES|stars_4
+68781|Vita Sol Park|Lagos|YES|stars_3
+69391|Adriana Beach Club|Albufeira|YES|stars_4
+69392|Suites Alba Resort & Spa|Carvoeiro|YES|stars_5
+69396|Aparthotel da Se|Funchal|YES|stars_3
+69400|Pestana Alvor Park|Alvor|YES|stars_4
+69759|Vila Galé Santa Cruz|Santa Cruz|YES|stars_4
+69760|Madeira Bright Star|Funchal|YES|stars_4
+70115|Horta|Horta|YES|stars_4
+70116|Quinta das Merces|Angra do Heroismo|NO|stars_4
+70428|Casa das Paredes|Fafe|NO|stars_3
+70431|Quinta da Mata|Chaves|NO|stars_3
+70432|Quinta de Cortinhas|Arcos de Valdevez|NO|stars_3
+70772|Da Vila|Cascais|YES|stars_3
+70773|Balaia Mar & Apartamentos da Balaia - Balaia Mar|Albufeira|YES|stars_3
+71057|Ibis Evora|Évora|NO|stars_3
+71058|Novotel Setubal|Setubal|YES|stars_4
+71059|Ibis Setubal|Setubal|YES|stars_2
+71170|Eurostars das Artes|Porto|YES|stars_4
+71171|Ibis Europarque|Santa Maria Da Feira|YES|stars_2
+71172|Ibis Porto Norte|Trofa|YES|stars_2
+71195|Turismo do Minho|Vila Nova de Cerveira|YES|stars_4
+71196|Moutados|Vila Nova de Famalicao|NO|stars_3
+71197|Ibis Porto Sao Joao|Porto|YES|stars_2
+71689|Montinho de Ouro|Praia Da Luz|YES|stars_3
+71690|Ibis Coimbra|Coimbra|YES|stars_2
+71691|Ibis Viseu|Viseu|YES|stars_2
+71692|Ibis Figueira da Foz|Figueira da Foz|YES|stars_2
+71693|Ibis Leiria|Leiria|NO|stars_2
+71695|Holiday Inn Express Lisbon - Oeiras|Lisbon|YES|stars_3
+71696|Dom Goncalo|Fatima|YES|stars_4
+71697|Jardins da Ria|Torreira|NO|stars_4
+72166|Quinta Verde|Sintra|NO|stars_4
+72347|The Ocean Club|Lagos|NO|stars_3.5
+72349|Quinta Corticada|Rio Maior|NO|0
+72350|Albergaria Rosa Montes|Burgau|YES|stars_3
+72351|IATE|Praia da Rocha|YES|stars_3
+72353|Ocean Gardens|Funchal|YES|stars_4
+72355|Eurosol Leiria & Eurosol Jardim|Leiria|YES|stars_3
+72356|Jardim / Afonso V|Aveiro|YES|stars_3
+72416|Waterside Village|Luz|YES|stars_4
+72454|Aviz|Lisbon|YES|stars_4
+72989|AlvorMar Apartamentos Turísticos|Alvor|NO|stars_3
+73420|Pousada de Santiago do Cacém|Santiago de Cacem|NO|0
+73426|Pousada de Condeixa-a-Nova|Condeixa-a-Nova|YES|stars_3
+73428|Alvaflor|Vilamoura|YES|stars_3
+73429|Zarco|Vilamoura|YES|stars_3
+73430|Turismo da Covilha|Covilha|YES|stars_4
+73431|Altura Mar Apartamentos|Altura|YES|stars_3
+75364|Mirachoro I|Albufeira|YES|stars_3
+75536|Quinta da Balaia|Albufeira|YES|stars_3
+75772|Stella Maris|Albufeira|YES|stars_4
+75856|Bejaparque|Beja|YES|stars_4
+76064|Pico da Urze|Calheta|YES|stars_4
+76129|Heritage Avenida Liberdade|Lisbon|YES|stars_4
+76130|Portugal|Lisbon|NO|stars_4
+78043|Pousada de Elvas - Santa Luzia|Elvas|YES|stars_3.5
+78060|Quarteira Sol|Quarteira|YES|stars_4
+78461|Pousada das Amoras|Proenca-a-Nova|NO|stars_4
+78464|Grande Real Villa Italia|Cascais|YES|stars_5
+78467|Rural da Daroeira|Alvalade|NO|0
+78468|Vitoria Stone|Évora|YES|stars_4
+78679|Termas de Moncao|Moncao|YES|stars_4
+78779|Sao Sebastiao de Boliqueime|Boliqueime|YES|stars_3
+79479|Olhos Do Mar|Albufeira|YES|stars_3
+79530|Monte da Bravura - Green Resort|Lagos|YES|stars_4
+79546|Estalagem Engenho Velho|Calheta|NO|stars_4
+79680|Golden Residence|Funchal|YES|stars_4
+79736|Flor de Sal|Viana do Castelo|NO|stars_4
+79737|Quinta do Marco|Tavira|NO|stars_3
+79775|Zenit Lisboa|Lisbon|YES|stars_4
+79868|Sesimbra Hotel & Spa|Sesimbra|YES|stars_4
+80098|Lagoas Park|Porto Salvo|YES|stars_4
+80676|Real d'Obidos|Obidos|NO|stars_4
+80677|Melia Ria|Aveiro|YES|stars_4
+80678|Estalagem Porto Antigo|Cinfaes|NO|stars_4
+80679|Antillia|Ponta Delgada|YES|stars_4
+80680|Nossa Senhora da Estrela|Lagoa|YES|stars_3
+80681|Vale do Navio & Acorsonho|Capelas|YES|stars_4
+81147|Residencial Pina|Funchal|NO|stars_3
+81269|Vale d'Oliveiras Resort & Spa|Carvoeiro|YES|stars_5
+81290|Santa Teresinha|Alvor|NO|stars_3
+81578|Santa Catarina|Praia da Rocha|YES|stars_3
+81633|Turim Europa Hotel|Lisbon|YES|stars_4
+81661|Novochoro|Albufeira|YES|stars_3
+81996|Residencial Joao XXI|Lisbon|NO|stars_3
+82039|American Diamonds|Lisbon|NO|stars_3
+82175|Oceanus|Albufeira|YES|stars_3
+82218|Madeira Regency Club|Funchal|YES|stars_4
+82219|Olhos d'Agua|Albufeira|YES|stars_3
+82290|Varandas do Atlantico|Terceira, Island|YES|stars_3
+82481|Santa Maria Park|São João da Madeira|YES|stars_4
+82547|De Moura|Moura|YES|stars_3
+82661|Appartements Pontalaia|Sagres|NO|stars_4
+82817|AC Porto|Porto|YES|stars_4
+83581|Faro|Faro|YES|stars_4
+85212|Tropical Promises|Povoa de Varzim|YES|stars_4
+85707|Maritur|Albufeira|YES|stars_4
+85770|Atlantida Apartaments|Funchal|YES|stars_4
+86013|Quinta dos Poetas|Olhao|YES|stars_4
+86014|Olissippo Oriente Othon Palace|Lisbon|YES|stars_4
+86332|Praia Sol|Quarteira|YES|stars_3
+86861|Turim Iberia Hotel|Lisbon|YES|stars_4
+87311|Sereia da Oura|Albufeira|YES|stars_3
+87314|Viva Marinha|Cascais|YES|stars_5
+87433|HF Fénix Urban|Lisbon|YES|stars_4
+88120|Residencial Santa Eulalia|Albufeira|YES|stars_2
+89414|Wr Hotel Sao Joao da Madeira|Porto|YES|stars_4
+89426|Do Caramulo|Viseu|NO|stars_4
+90127|Hilton Vilamoura & As Cascatas Golf Resort|Vilamoura|YES|stars_5
+90137|Porto Dona Maria Golf & Resort|Luz|YES|stars_4
+90191|Dolce CampoReal|Turcifal|YES|stars_5
+90701|Aldeia Dos Capuchos Golf & Spa|Costa da Caparica|YES|stars_4
+91026|Jeronimos 8|Lisbon|NO|stars_4
+91888|Quinta do Serrado|Porto Santo Island|YES|stars_4
+91892|Orada Apartamentos Turísticos|Albufeira|YES|stars_4
+91893|Clarion Suites Lisbon|Lisbon|YES|stars_4
+91895|Delta Residencial|Lisbon|NO|stars_2
+91938|Beachtour Ericeira|Ericeira|NO|stars_3
+92171|Villa Santana|Santana|NO|stars_3
+92653|Casa Espraguina|Loule|NO|0
+92846|Palacio dos Melos|Viseu|YES|stars_4
+92847|Inatel Castelo de Vide|Castello de Vide|NO|stars_3
+93144|Oceano Atlantico|Portimao|YES|stars_4
+93908|Doubletree by Hilton Lisbon - Fontana Park|Lisbon|YES|stars_4
+95142|Robinson Club Quinta Da Ria|Vila Nova de Cacela|YES|stars_4
+95143|ClubHotel Riu Guarana|Praia da Falesia|YES|stars_4
+95144|Al Mar Appartements|Praia da Falesia|NO|stars_3.5
+95314|Aquapura Douro Valley|Lamego|YES|stars_5
+95547|Casas de Campo do Pomar|Santana|NO|stars_2
+95710|Praia Dona Ana|Lagos|NO|0
+95740|Vitor's Village|Ferragudo|YES|stars_4
+96032|Palacio Belmonte|Lisbon|NO|stars_4.5
+96124|Francis|Beja|NO|stars_3
+96125|Melius|Beja|NO|stars_3
+96700|Vera Cruz Hotel|Porto|YES|stars_2
+97598|Bessa|Porto|YES|stars_4
+97656|Vale do Garrao Villas|Vale do Garrao|YES|stars_4
+97660|Castilho Apartamentos|Vila Nova de Milfontes|NO|stars_3
+97663|Casa do Adro|Vila Nova de Milfontes|NO|stars_2.5
+97670|Monte do Sobral|Alcáçovas|NO|stars_3
+97684|Hotel Serra da Estrela|Serra da Estrêla|YES|stars_4
+97687|Estalagem Varanda dos Carqueijais|Serra da Estrêla|YES|stars_4
+97691|Albergaria Bracara Augusta|Braga|YES|stars_4
+97697|Albergaria Matriz|Ponta Delgada|YES|stars_3
+97699|Furnas Spa|Furnas|NO|stars_4
+97703|Quinta do Canavial|Sao Jorge|NO|stars_2
+97884|Quinta da Cova do Milho|Santo António da Serra|YES|stars_3
+99189|Vilamoura Beach|Vilamoura|YES|stars_5
+99798|Hotel Imperial Aveiro|Aveiro|YES|stars_3
+99799|Clube Praia Mar|Portimao|YES|stars_3
+99841|Albergaria Catedral|Funchal|YES|stars_4
+99924|Casa de Peixinhos|Vila Vicosa|YES|stars_3.5
+100320|Palma Monforte|Monforte|YES|stars_3
+100321|Pestana Porto Santo Beach Resort|Porto Santo Island|YES|stars_5
+100322|VIP Grand Lisboa Hotel & Spa|Lisbon|YES|stars_5
+100323|Park Porto Gaia|Porto|YES|stars_2
+100326|Santa Eufémia|Covilha|YES|stars_2
+100327|Lux Fátima|Fatima|YES|stars_4
+100328|Convento da Alpendurada|Marco de Canaveses|YES|stars_4
+100650|Vista Marina|Albufeira|NO|stars_4
+100655|Funchal Design|Funchal|YES|stars_4
+100702|Villa C|Vila do Conde|YES|stars_4
+100739|White Waters|Machico|YES|stars_3
+100882|Mare|Nazaré|YES|stars_3
+100883|Mansao da Torre|Obidos|NO|stars_3
+101430|Douro|Porto|NO|stars_3
+101433|Praia Marina|Praia da Vitória|YES|stars_4
+101434|Flamingo Residence|Portimao|NO|stars_3
+101436|Santa Maria|Faro|YES|stars_3
+101437|Monte Santo Resort|Carvoeiro|NO|stars_5
+102206|Victory Village|Quinta do Lago|NO|stars_4
+102207|Vilanova|Albufeira|YES|stars_3
+102354|Quinta das Mineirinhas Apartamentos|Vila Nova de Cerveira|YES|stars_4
+102355|Hotel do Terço|Barcelos|YES|stars_3
+102356|HF Fénix Garden|Lisbon|YES|stars_3
+102357|Your Hotel & Spa|Alcobaca|NO|stars_3
+102358|Bom Jesus Do Lago|Braga|YES|stars_3
+102359|Baía da Luz|Lagos|YES|stars_4
+102374|Melia Madeira Mare|Funchal|YES|stars_5
+102375|Pestana Promenade|Funchal|YES|stars_4
+102399|Reich Appartments|Calheta|NO|stars_3
+102698|Albergaria Ordem De Santiago|Alcacer do Sal|YES|stars_3
+103133|Turim Alameda Hotel|Lisbon|YES|stars_4
+103134|Luna Alvor Village|Alvor|YES|stars_4
+103205|The Lince Madeira Lido Atlantic|Funchal|YES|stars_4
+103312|Chalés da Montanha|Covilha|YES|stars_2.5
+103318|Penafiel Park Hotel & Spa|Penafiel|YES|stars_4
+103652|Sol Lagos Studios|Lagos|YES|stars_2
+103705|Vila Joya|Albufeira|NO|stars_5
+110465|Noria Velha|Lagoa|YES|stars_3
+110466|Cerro Mar Atlantico & Garden - Garden|Albufeira|YES|stars_4
+110926|Solar dos Canavarros|Sabrosa|NO|stars_3
+122245|Whale'come ao Pico Residencial|Insel Pico|NO|stars_2
+122247|Residencial Vista Do Vale|Furnas|NO|stars_3
+122358|Tivoli Victoria & The Residences at Victoria - Tivoli Victoria|Vilamoura|NO|stars_5
+122391|Solar do Sol|Albufeira|YES|stars_3
+122392|Eurostars das Letras|Lisbon|YES|stars_5
+122394|Monte da Quinta Resort - Suites|Quinta do Lago|YES|stars_4
+122395|Portas do Sol da Bemposta|Portimao|YES|stars_2
+122883|M'ar De Ar Aquaduto|Évora|NO|stars_5
+124855|Apulia Praia|Apulia|YES|stars_3
+124857|Tulip Inn Estarreja Hotel & SPA|Estarreja|YES|stars_4
+128797|Paredes Apartamento|Paredes|YES|stars_3
+129771|Residencial Jardim Da Amadora|Lisbon|YES|stars_2
+129773|F Palmela Aldeamento de Palmela|Àguas de Moura|YES|stars_3
+129774|Komplex Mourabel - Oasis Village|Vilamoura|NO|stars_3
+133009|Pousada San Bento|Caniçada|NO|stars_3
+133011|Residencial Alfonso III|Faro|NO|stars_2
+133019|Hotel Afrin Lisboa|Lisbon|NO|stars_2
+133022|Residencial Caravela|Lisbon|NO|stars_3
+133023|Botanico|Lisbon|NO|stars_3
+133030|Antas|Porto|NO|stars_3
+134177|Ibis Lisboa Liberdade|Lisbon|YES|stars_2
+134222|Villa Albatroz|Cascais|YES|stars_5
+134378|Convento dos Capuchos|Moncao|NO|stars_4
+134379|Quinta do Piroleiro|Afif|NO|stars_3
+134415|Albergaria Valbom|Cascais|YES|stars_3
+134508|Aqua Mar Aparthotel|Albufeira|YES|stars_3
+135037|Vila Galé Lagos|Lagos|YES|stars_4
+135087|Pousada Palácio de Estoi|Estoi|YES|stars_4.5
+135090|Pousada Hospital de São Teotónio|Viseu|NO|0
+135359|Vista Marina|Praia da Rocha|NO|stars_4
+135408|Pestana Colombos|Vila Baleira|NO|stars_5
+135490|Forte Do Vale|Albufeira|YES|stars_4
+135492|Veleiro|Monte Gordo|NO|stars_3
+135579|Albergaria Nossa Senhora da Rocha|Porches|YES|stars_3
+135929|Areias Village|Albufeira|YES|stars_4
+136150|The Vine|Funchal|YES|stars_5
+136213|Furnas Lake Villas|Furnas|YES|stars_4
+136262|Pousada de Viseu|Viseu|YES|stars_4.5
+136273|O Zimbreiro|Insel Pico|NO|stars_2.5
+136481|Paladim|Albufeira|YES|stars_4
+136482|Navarras|Amarante|YES|stars_3
+136484|Monte Do Carmo Hotel Rural|Azaruja|YES|stars_4
+136485|Vincci Baixa|Lisbon|YES|stars_4
+136552|Colina da Fajã|Calheta|NO|stars_3
+136581|Baia Brava|Santa Cruz|NO|stars_4
+137534|Pramsor - geschlossen|Leiria|NO|stars_2
+137560|Cliphotel Gaia Porto|Porto|YES|stars_3
+138095|Regina|Fatima|NO|stars_3
+138099|Alegre|Luso|YES|stars_3
+139129|NH Lisboa Campo Grande|Lisbon|YES|stars_4
+139858|Altis Belem|Lisbon|YES|stars_5
+139859|Sintra Sol Apartments|Praia das Macas|NO|stars_3
+139862|Miramar Sul|Nazaré|YES|stars_4
+139864|Casal Novo|Sao Martinho do Porto|NO|stars_3
+139865|Casa Dos Mangues|Sao Martinho do Porto|NO|stars_3
+139866|Axis Viana|Viana do Castelo|YES|stars_4
+139867|Aquafalls Spa|Caniçada|NO|stars_5
+139872|Sweet Atlantic Spa|Figueira da Foz|YES|stars_4
+139889|Principe Do Monaco|Ponta Delgada|NO|stars_5
+139890|Pocinho Bay|Madalena|NO|stars_4
+140482|Mar Bravo|Nazaré|NO|stars_3
+142134|Algamar Apartments|Vilamoura|NO|stars_2
+142150|Casino Chaves|Chaves|YES|stars_4
+142151|Conde d'Agueda|Agueda|YES|stars_4
+142152|Grande Hotel das Caldas da Felgueira|Canas de Senhorim|YES|stars_3
+142180|Paraiso Apartamentos|Funchal|YES|stars_3
+143110|Canico Bay Club|Caniço|NO|stars_4
+143118|Casa da Varzea|Ponte de Lima|NO|stars_3
+143134|Casas Da Lapa|Seia|NO|stars_4
+143140|Eden Village|Vilamoura|NO|stars_3
+143146|Monte Prado|Melgaço|NO|stars_4
+143153|Quinta Da Bela Vista|Ponte de Lima|NO|stars_3
+143171|Senhora do Castelo|Mangualde|YES|stars_3
+144355|Luna Alvor Bay|Alvor|NO|stars_3
+145140|Solaqua|Albufeira|YES|stars_4
+145143|Salgados Vila das Lagoas Apartments|Guia|YES|stars_4.5
+145243|Troia Resort - Aqualuz Suite Hotel & Apartamentos|Troia|YES|stars_4
+151316|Aqua Pedra dos Bicos|Albufeira|YES|stars_4
+162054|Casa Beato Nuno|Fatima|YES|stars_3
+162055|Ilhavo|Ilhavo|NO|stars_4
+162060|Barra|Ilhavo|NO|stars_3
+162061|Covilha Parque|Covilha|NO|stars_2
+162067|Castrum Villae|Castro Laboreiro|NO|stars_3
+162074|Hospedaria Pinhalmar|Peniche|NO|stars_3
+162092|Aquae Flaviae|Chaves|NO|stars_3
+162094|AS Sao Joao da Madeira|São João da Madeira|YES|stars_2
+162096|Vigia Resorts - The View|Salema|NO|stars_4
+162099|Estalagem Riabela|Torreira|NO|stars_4
+162101|Residencial Salema|Salema|NO|stars_3
+162102|La Fontaine|Esmoriz|NO|stars_3
+162108|Caldas Internacional|Caldas da Rainha|YES|stars_3
+162109|Best Western Dom Bernardo|Faro|NO|stars_3
+162110|Lusitano|Golega|NO|stars_4
+162124|Quinta da Encosta Velha - Vigia Resorts|Budens - Salema|YES|stars_4
+162136|O Poejo Boutique|Santo António das Areias|YES|stars_4
+163484|Residencial Vila Bela|Albufeira|YES|stars_2
+163485|Pensão Albufeirense|Albufeira|YES|stars_2
+163486|Quinta de São Miguel de Arcos|Vila do Conde|YES|stars_3.5
+163488|Axis Porto|Matosinhos|YES|stars_4
+163489|Concha Residencial|Sao Martinho do Porto|YES|stars_2
+163490|Golf Mar|Torres Vedras|YES|stars_3
+182166|Hotel das Termas do Vimeiro|Torres Vedras|NO|stars_2
+182522|Turoasis|Vila Nova de Cacela|YES|stars_4
+182992|Bom Sucesso Design Resort Leisure & Golf|Obidos|YES|stars_5
+182994|Eirasol|Albufeira|YES|stars_3
+183192|Auris Apartamentos Turisticos|Lisbon|NO|stars_3
+183193|Troia Design Hotel|Troia|YES|stars_5
+183966|Salgados Palace|Guia|NO|stars_5
+185360|Jardim do Mar|Jardim do Mar|NO|stars_3
+187360|Estrela de Fatima|Fatima|YES|stars_4
+188109|Aqua|Ovar|YES|stars_4
+188110|Montado & Golf Resort|Palmela|YES|stars_4
+195898|Pousada Do Porto, Palácio do Freixo|Porto|YES|stars_5
+196001|Estalagem Da Ponta Do Sol & Hotel Da Vila - Da Vila|Ponta do Sol|NO|stars_3
+196017|Montemuro|Castro Daire|NO|stars_3
+196027|Palace Monte Real|Monte Real|YES|stars_4
+196028|Quinta da Barroca|Armamar|YES|stars_3
+197167|Quinta do Vale do Monte|Viana do Castelo|NO|stars_3.5
+197231|São Rafael Atlântico|Albufeira|YES|stars_5
+201669|Holiday Inn Express Porto Exponor|Leça da Palmeira|YES|stars_3
+201673|Varandas do Atlântico|Albufeira|YES|stars_3
+201712|Bergchalets Serra da Estrela|Serra da Estrêla|NO|stars_3.5
+201858|Gaivota|Ponta Delgada|NO|stars_4
+202160|Casa Celso|Albufeira|NO|0
+202166|Casa Rato|Albufeira|NO|0
+202179|Villa Caroline|Quinta do Conde|NO|0
+202192|Real Marina Hotel & Spa|Olhao|YES|stars_5
+202194|Altis Avenida|Lisbon|YES|stars_5
+202197|Convento Sao Saturnino|Sintra|NO|stars_4
+202198|Quinta Junqueiros|Azoia|NO|stars_3
+202200|H2otel|Unhais da Serra|NO|stars_4
+202202|Da Montanha|Pedrogao Pequeno|NO|stars_4
+202203|Fonte Santa|Monfortinho|NO|stars_4
+202205|Residencial Bela Vista|Lajes do Pico|NO|stars_3
+202206|Cantinho das Buganvilias|Velas|NO|stars_4
+202405|Casa Nossa Senhora da Conceicao|Calheta|NO|stars_3
+202597|Holiday Inn Express Lisbon Airport|Lisbon|YES|stars_3
+202741|Arcanjo|Lagoa|NO|stars_2
+202744|Casa do Termo|Lagoa|NO|stars_3.5
+202748|Residencial Sete Cidades|Ponta Delgada|NO|stars_3
+202749|Verde Mar|Horta|NO|stars_4
+202841|Quinta das Figueirinhas & Quintinha Village - Quinta das Figueirinhas|Porches|NO|stars_3
+202906|Quinta do Xarrama|Évora|NO|stars_2.5
+204138|Albergaria Parque das Laranjeiras|Vilamoura|NO|stars_3
+204250|Casas da Comporta|Comporta|NO|stars_4
+204251|Aldeia Da Falésia|Albufeira|NO|stars_3
+204301|Alfamar Beach & Sport Resort & Algarve Gardens - Algarve Gardens|Praia da Falesia|YES|stars_3
+204928|Vila Luz|Praia Da Luz|NO|stars_4
+205354|Astoria|Monfortinho|YES|stars_3
+205377|Atalaia Sol|Lagos|NO|stars_4
+205752|Baía Da Barca|Madalena|YES|stars_4
+206936|Casa Do Outeiro|Batalha|NO|stars_3
+207356|Cidnay|Santo Tirso|NO|stars_4
+207933|Da Estação|Braga|YES|stars_3
+208864|Encosta do Lago Resort Club|Almancil|NO|stars_4.5
+208934|Albatroz Beach & Yacht Club|Santa Cruz|NO|stars_5
+209020|Eurosol Gouveia|Gouveia|NO|stars_3
+209416|Lisbon Serviced Apartments - Bairro Alto|Lisbon|NO|stars_4
+209417|Lisbon Serviced Apartments - Cais do Sodré|Lisbon|NO|stars_3.5
+209458|Gaiahotel|Vila Nova de Gaia|NO|stars_4
+209713|Gat Rossio|Lisbon|NO|stars_3
+211732|Império|Torres Vedras|NO|stars_4
+212618|Lagunamar|Almancil|NO|stars_4
+213320|Lisbon Story Guesthouse|Lisbon|NO|stars_3
+213867|Martinhal Beach Resort & Village|Sagres|NO|stars_5
+214202|Mondim de Basto|Mondim de Basto|YES|stars_4
+214328|Moura Golf Village|Vilamoura|YES|stars_3
+214420|Nave|Porto|NO|stars_2
+214820|Oura View Beach Club|Albufeira|NO|stars_3
+215635|Ponta Grande Vila do Castelo|Albufeira|YES|stars_3
+215665|Porto Trindade|Porto|NO|stars_4
+216517|Quinta do Caracol|Tavira|NO|stars_3.5
+216520|Quinta Do Moinho De Vento|Vila Nova de Milfontes|NO|stars_2
+216802|Molhe Hotel Conde Carvalhal|Funchal|NO|stars_4
+216828|Residence Golf Club|Vilamoura|NO|stars_2.5
+216958|Residencial Alcides|Ponta Delgada|NO|stars_3
+217023|Residencial Universal|Porto|NO|stars_2
+217788|Santarém|Santarem|NO|stars_4
+218155|Sol Póvoa|Povoa de Varzim|NO|stars_3
+218161|Solar dos Mascarenhas|Vila Vicosa|NO|stars_3
+218367|Star Inn Porto|Porto|YES|stars_3
+219621|The Wine House|Lamego|NO|stars_3.5
+219720|Torre Mar|Povoa de Varzim|YES|stars_2
+220094|Tivoli Victoria & The Residences at Victoria - The Residences at Victoria|Vilamoura|NO|stars_5
+220511|Atlântico Golf Hotel & Villas do Lago - Villas do Lago|Peniche|NO|stars_3
+221060|Albergaria Senhora do Espinheiro|Serra da Estrêla|NO|stars_3
+221475|Casa de Fataunços|Vouzela|NO|stars_4
+221520|Casas Do Coro|Mêda|NO|stars_4
+221610|Convento Da Provença|Portalegre|NO|stars_3
+221780|Douro Palace Resort & Spa|Santa Cruz do Douro|NO|stars_4
+222057|Graciosa Resort|Graçiosa|YES|stars_4
+222169|Herdade Do Monte Redondo|Alter do Chão|NO|stars_4
+222170|Herdade Do Sobroso - Country House|Alqueva|NO|stars_4
+222238|Hospedaria do Convento|Figueira de Castelo Rodrigo|NO|stars_3.5
+222807|Monte dos Apóstolos|Portalegre|YES|stars_3.5
+223132|Quiaios|Figueira da Foz|NO|stars_4
+223137|Quinta das Alfaias|Vila do Conde|YES|stars_3
+223143|Quinta de Santana|Ribeira Grande|YES|stars_4
+223149|Quinta do Chocalhinho|Odemira|NO|0
+223152|Quinta do Mel|Olhos de Água|NO|stars_3
+223325|Alves Rural|Braga|YES|stars_3.5
+223344|Rural Quinta da Geia|Aldeia das Dez|NO|stars_4
+223346|Quinta de Bispos Rural|Caramulo|NO|stars_4
+223527|Summerplace Guesthouse|Calheta|NO|stars_4
+226654|Casa da Insua|Penalva do Castelo|YES|stars_5
+226736|Inatel Flores|Santa Cruz das Flores|NO|stars_4
+226769|Casa do Condado de Beiros|Sao Pedro do Sul|NO|stars_1.5
+226822|Honório Apartamentos|Vilamoura|YES|stars_3
+226823|Longevity Wellness Resort Monchique|Monchique|YES|stars_5
+226824|The Old Village|Vilamoura|YES|stars_3
+226882|Teatro|Porto|YES|stars_4
+226883|Vila Galé Coimbra|Coimbra|YES|stars_4
+227222|Edificio Albufeira|Albufeira|YES|stars_2
+227223|Oasis Beach|Lagos|YES|stars_3
+227224|Porta da Vila|Lagos|YES|stars_3
+227225|Yellow Lagos Meia Praia|Lagos|YES|stars_5
+227226|O Alambique de Ouro Resort|Fundão|YES|stars_4
+227227|Inspira Santa Marta|Lisbon|YES|stars_4
+227301|The Vintage House Lisboa|Lisbon|YES|stars_5
+227319|Agua Marinha|Albufeira|NO|stars_3
+227393|Gaivota|Porto Moniz|NO|stars_1
+227397|Luxe Hotel by Turim Hotels|Lisbon|NO|stars_2
+227430|Eden Resort|Albufeira|YES|stars_4
+227431|Requinte - Praia da Granja|Vila Nova de Gaia|YES|stars_2
+227433|Vale da Lapa|Carvoeiro|YES|stars_5
+227999|Villa Doris Suites|Lagos|NO|stars_4
+228023|Melia Braga|Braga|YES|stars_5
+228024|Arrábida Resort & Golf Academy|Palmela|YES|stars_4
+228025|Santa Barbara Dos Mineiros Hotel Rural|Lousal|YES|stars_4
+228275|Residencial A Ilha|Angra do Heroismo|NO|stars_2
+228277|Encosta do Mar|Ribeira Grande|NO|0
+228280|Castelos Da Rocha|Portimao|NO|stars_3
+228282|Vidamar Resorts Algarve|Albufeira|YES|stars_5
+228283|Lisboa Almada Hotel|Almada|YES|stars_4
+228287|Jardins de Santa Eulalia|Santa Eulalia|NO|stars_3
+228291|Palm Village|Vilamoura|NO|stars_2
+228308|Casas d'Arramada|Ribeira Funda|NO|stars_2.5
+228309|Vilamor|Alvor|NO|stars_3
+228397|Herdade do Montalvo|Alcacer do Sal|YES|stars_4
+228594|Leziria Apartments|Vilamoura|NO|stars_3
+228608|Casa de Canedo|Celorico de Basto|NO|stars_3
+228682|LX Boutique|Lisbon|NO|stars_4
+228728|Areias do Seixo Charm|Penafirme|NO|stars_5
+228729|Coracao de Fátima|Fatima|NO|stars_3
+228730|Montebelo Aguieira Lake Resort & Spa|Mortágua|NO|stars_5
+228825|Herdade da Malhadinha|Albernoa|NO|stars_5
+228827|Apartamentos na Marina Garvetur|Albufeira|NO|stars_3
+228857|Casa Penhas Douradas|Manteigas|NO|stars_4
+228858|Lago Montargil & Villas|Ponte de Sor|NO|stars_5
+229042|Monte da Vilarinha|Bordeira|NO|stars_3.5
+229046|Termas de Sao Vicente Palace|Pinheiro (Penafiel)|NO|stars_4
+230288|Villa Bora Bora|Armacao de Pera|NO|stars_3
+230301|Santa Maria|Alcobaca|NO|stars_3
+230303|Quinta da Romaneira|Cotas|NO|stars_5
+230325|Herdade Lago Real|Mira|NO|stars_3
+230331|ZMAR Eco Camping|Odemira|NO|stars_3.5
+230337|Residencial Vale Verde|Furnas|NO|stars_2
+230338|Rural Casas Novas|Chaves|NO|stars_4
+230339|Adegas do Pico|Sao Roque Do Pico|NO|stars_3
+230441|Pestana Sintra Golf & Spa Resort|Sintra|YES|stars_4
+230642|Convento Nossa Senhora do Carmo Hotel Rural|Freixinho|NO|stars_4
+231790|The Oitavos|Cascais|NO|stars_5
+231992|Premium Porto|Porto|NO|stars_3
+232070|Komplex Quinta da Penha de França / Quinta da Penha de França Mar - Quinta da Penha de França Mar|Funchal|NO|stars_4
+232488|Quinta Polaris|Carvoeiro|NO|stars_3
+232554|Cascade Resort - Cascade Wellness & Lifestyle Resort / Apartments|Lagos|NO|stars_5
+232805|Quinta do Rossio|Angra do Heroismo|NO|stars_3
+232910|Guesthouse Dom Manuel II Charming Residence|Lagos|NO|stars_4
+232947|The Yeatman|Vila Nova de Gaia|NO|stars_5
+233102|Altis Prime|Lisbon|NO|stars_4
+233418|Residencial PortoMadrid|Porto|YES|stars_2
+233482|Quinta das Colmeias|Santo António da Serra|NO|stars_3
+233483|Quinta dos Avós|Gaula|NO|0
+233515|Residencial Teresinha|Praia da Vitória|NO|stars_3
+233516|Albergaria Foz do Sado / Sol Tróia|Troia|NO|stars_4
+234565|Palmeiras Santa Eulália|Santa Eulalia|NO|stars_3
+234624|Onyria Marinha Edition Hotel & Thalasso|Cascais|NO|stars_5
+234779|Aldeia da Pedralva|Vila do Bispo|NO|stars_3
+234781|Riverside Resort & Spa|Lagoa|NO|stars_4
+234965|Real Marina Residence|Olhao|YES|stars_3.5
+235107|Estalagem Vista Real|Castro Marim|NO|stars_4
+235213|Hotel da Estrela|Lisbon|NO|stars_4
+235392|Monte Paraíso|Lavre|NO|0
+235393|Inatel Caparica|Costa da Caparica|NO|stars_3
+235394|Inatel Entre-os-Rios|Penafiel|NO|stars_3
+235395|Inatel Foz do Arelho|Foz do Arelho|NO|stars_3
+235396|Inatel Luso|Luso|NO|stars_3
+235397|Inatel Oeiras|Oeiras|NO|stars_3
+235398|Inatel Santa Maria da Feira|Santa Maria Da Feira|NO|stars_3
+235400|Inatel Vila Ruiva|Vila Ruiva|NO|stars_4
+235698|Salgados Dunas Suites|Guia|NO|stars_4
+235703|Aquashow Park|Quarteira|NO|stars_4
+235973|||NO|stars_5
+235974|Morgado Golf & Country Club|Portimao|NO|stars_4
+236105|Prainha Aldeamento / Clube / Village - Aldeamento da Prainha|Alvor|YES|stars_3
+236713|Zenite|Angra do Heroismo|NO|stars_2
+236715|Eurostars Oporto|Porto|NO|stars_4
+236716|Casa das Irmãs Dominicanas|Fatima|NO|stars_3
+236719|Santo Amaro|Fatima|NO|stars_3
+236721|Ponta Grande Carvoeiro|Carvoeiro|NO|stars_3
+236722|Inatel Albufeira|Albufeira|NO|stars_3
+236726|Inatel Porto Santo|Porto Santo Island|NO|stars_3
+236727|Inatel Piodão|Piódão|NO|stars_4
+236728|Basic Braga by AXIS|Braga|NO|stars_3
+236729|Casa de Campo A Abegoaria|Sao Roque Do Pico|NO|stars_2.5
+236730|Casa da Amieira|Amiais de Cima|NO|stars_4
+236733|Carris Porto Ribeira|Porto|NO|stars_4
+236870|Quinta da Timpeira|Lamego|NO|stars_3.5
+237080|Golfinho|Madalena|NO|0
+237311|Lisbon Serviced Apartments - Marquês de Pombal|Lisbon|NO|stars_4
+237317|L'and Vineyards|Montemor-O-Novo|NO|stars_5
+237319|Monte Gordo Hotel|Monte Gordo|NO|stars_4
+237322|SANA Silver Coast Hotel|Caldas da Rainha|YES|stars_4
+237323|Monte Rei Golf & Country Club|Vila Nova de Cacela|NO|stars_5
+238256|Hilton Conrad Algarve|Quinta do Lago|NO|stars_5
+238291|Alvor Baía|Alvor|NO|stars_4
+238292|InterContinental Porto - Palácio das Cardosas|Porto|NO|stars_5
+239182|Salgados Palm Village Apartments & Suites|Guia|NO|stars_4
+239189|Lisbon Serviced Apartments - Praça Do Municipio|Lisbon|NO|stars_4
+239875|Mira Sagres|Sagres|NO|stars_3
+240058|Residencial Montanha|Sao Roque Do Pico|NO|stars_3
+240281|L'Escale de L'Atlantic|Insel Pico|NO|stars_2
+242320|Atlantida Mar|Praia da Vitória|NO|stars_4
+244233|Lisbon City|Lisbon|NO|stars_3
+245125|Residencial Monumental|Funchal|NO|stars_2
+245344|Galo Resort Hotels - Galomar/ Galosol/ Alpino Atlantico|Caniço|NO|stars_4
+245359|Resort Vila Porto Mare - Porto Mare|Funchal|NO|stars_4
+245361|Resort Vila Porto Mare - Eden Mar|Funchal|NO|stars_4
+245362|Resort Vila Porto Mare - The Residence|Funchal|NO|stars_4
+245495|Pestana Village & Miramar - Pestana Village|Funchal|YES|stars_4
+245496|Pestana Village & Miramar - Pestana Miramar|Funchal|YES|stars_4
+245875|Belmar Spa & Beach Resort|Lagos|NO|stars_4
+245878|Neya Lisboa|Lisbon|NO|stars_4
+246223|Casa Rei das Praias|Ferragudo|NO|stars_4
+246229|Furadouro Boutique Beach & Spa|Ovar|NO|stars_4
+246232|Vitória Village Appartements|Porto|NO|stars_4
+246236|Casas do Patio|Nordeste|NO|stars_3
+246539|Quinta Dos Curubas|Franca do Campo|NO|stars_3
+246631|Holiday Inn Express Lisbon - Alfragide|Lisbon|NO|stars_3
+247503|Herdade do Rio Torto|Portel|NO|stars_3
+247505|Quinta da Mó|Furnas|NO|stars_4
+247506|Quinta de Resela|Vila Verde|NO|0
+247517|Cerro Mar Atlantico & Garden|Albufeira|NO|stars_4
+247874|Pestana Dom João Villas|Alvor|NO|stars_4
+248276|TSAR Lisbon|Lisbon|NO|stars_4
+248287|Komplex Mourabel - Parque Mourabel/Pe Do Lago/Oasis Village|Vilamoura|YES|stars_3
+248397|Palheiro Village|Funchal|NO|stars_4
+259441|Park Hotel Airport|Maia|NO|stars_2
+259742|Senhora de Belém|Pombal|NO|stars_2
+259743|Porta Azul|Porto|NO|stars_2.5
+260010|Amendoeira Golf Resort|Alcantarilha|NO|stars_4
+260011|A Casa do Ouvidor|Sao Roque Do Pico|NO|stars_3.5
+260012|Eurostars Rio Douro Hotel & Spa|Castelo de Paiva|NO|stars_4
+260013|Vivenda Belo Horizonte|Caniço|NO|stars_3
+260014|Cabo Girão|Camara de Lobos|NO|stars_4
+260231|Lisbon Short Stay|Lisbon|NO|stars_4
+260500|Pedras D'el Rei Nature Sports & Beach Resort|Santa Luzia|YES|stars_3
+261506|Lisboa Carmo|Lisbon|NO|stars_4
+261507|Evidencia Light Sta Catarina|Lisbon|NO|stars_2
+261612|Myriad by SANA Hotels|Lisbon|YES|stars_5
+261671|Oura Praia|Albufeira|NO|stars_4
+264912|Komplex Alfagar I & II - Alfagar II|Albufeira|NO|stars_4
+264915|Hilton Vilamoura & As Cascatas Golf Resort - As Cascatas|Vilamoura|NO|stars_5
+265498|Marina Club Resort - Marina Club I|Lagos|NO|stars_3
+265499|Marina Club Resort - Marina Club II|Lagos|NO|stars_4
+265500|Marina Club Resort - Marina Club Suite Hotel|Lagos|NO|stars_4
+265584|Pine Cliffs Resort - Sheraton Algarve|Praia da Falesia|YES|stars_5
+265585|Pine Cliffs Resort - Pine Cliffs Residence|Praia da Falesia|YES|stars_5
+265586|Pine Cliffs Resort - The Terraces|Praia da Falesia|NO|stars_4
+265687|Montechoro Hotel & Clube 99 - Montechoro Hotel|Albufeira|NO|stars_4
+265688|Montechoro Hotel & Clube 99 - Montechoro Clube 99|Albufeira|NO|stars_3
+265702|Hilton Vilamoura & As Cascatas Golf Resort - Hilton Vilamoura|Vilamoura|NO|stars_5
+266969|Four Seasons Vilamoura|Vilamoura|NO|stars_4
+266971|Quinta de São Lourenço|Calheta|NO|stars_3.5
+268012|Inatel Manteigas|Manteigas|NO|stars_3
+268014|Praia d'el Rey Golf & Beach Resort - Holiday Residences|Obidos|NO|stars_4
+268018|Herdade da Matinha|Cercal do Alentejo|NO|stars_3.5
+268822|Pousada de Cascais|Cascais|NO|stars_5
+268825|Casa Vela Guest House|Cascais|NO|stars_4
+268830|Casa Shanti Niketan|Cascais|NO|stars_3
+268831|The Charm of Cascais|Cascais|NO|stars_5
+269301|Carmo's Boutique|Ponte de Lima|NO|stars_5
+269307|Golden Tulip Braga Hotel & Spa|Braga|YES|stars_4
+269316|Villa Sandini Hotel e Spa|Vila Nova de Gaia|NO|stars_5
+269317|Delfim Douro|Lamego|NO|stars_4
+269343|Casa do Plátano|Arraiolos|NO|stars_3
+271866|Douro Scala|Mesao Frio|NO|stars_5
+273211|Solar de Alvega|Abrantes|NO|stars_3
+274283|Imani Country House|Évora|NO|stars_4
+275265|Museu|Mértola|NO|stars_3
+276387|Vigia Resorts - Parque da Floresta Golf Leisure Resort|Vila do Bispo|NO|stars_4
+278043|Fontecruz Lisboa|Lisbon|NO|stars_5
+278044|Mercy Hotel|Lisbon|NO|stars_5
+285263|Pestana Pine Hill Residences|Vilamoura|NO|stars_4.5
+286051|Design and Wine Hotel|Caminha|NO|stars_4
+292107|Casa Vicentina|Odeceixe|NO|stars_3
+292138|Pestana Dom Joao II & Alvor Atlantico Residences - Alvor Atlantico Residences|Alvor|YES|stars_4
+292139|Pestana Dom Joao II & Alvor Atlantico Residences - Dom Joao II|Alvor|YES|stars_4
+294606|Quinta da Palmeira|Arganil|NO|stars_4
+295437|Herdade da Cortesia|Avis|NO|stars_4
+295457|Aldeia Do Lago Casas De Campo|Portel|NO|stars_1.5
+295594|Solverde Apartamento|Espinho|YES|stars_3
+295776|Epic Sana Algarve|Albufeira|YES|stars_5
+295873|Quinta da Cruz|Amarante|NO|stars_4
+296598|Alentejo Marmoris Hotel & Spa|Vila Vicosa|NO|stars_5
+296600|Monte do Zambujeiro|Odemira|NO|stars_4
+296603|Angra Marina|Angra do Heroismo|NO|stars_5
+296703|Quinta dos Figos|Terceira, Island|NO|0
+296757|Vale do Navio & Acorsonho - Vale do Navio|Capelas|NO|stars_4
+296758|Vale do Navio & Acorsonho - Acorsonho|Capelas|NO|stars_4
+297638|Quinta Do Morgado|Tavira|NO|stars_3
+299711|Pico do Refugio|Rabo de Peixe|NO|stars_4
+299800|Lageado Sol|Albufeira|NO|stars_3
+299860|Quinta do Lorde - São Lourenço Bay Suites|Canical|NO|stars_4.5
+300111|Paiva|Monte Gordo|NO|stars_3
+301229|Artvilla Casas de Campo|Vila-Nova|NO|stars_4
+301230|Casas de Juromenha|Alandroal|NO|stars_4
+301231|Cooking and Nature Emotional Hotel|Alvados|NO|stars_4
+301232|Monte Xisto Rural|Santiago de Cacem|NO|stars_4
+301235|Patio da Avo Faustina|Golega|NO|stars_3
+301236|Rio do Prado|Foz do Arelho|NO|stars_3.5
+301237|Sintra Boutique|Sintra|NO|stars_4
+301327|Casa Cristina|Carvoeiro|NO|stars_4
+301350|EPIC SANA Lisboa Hotel|Lisbon|YES|stars_5
+301537|Prainha Aldeamento / Clube / Village - Clube|Alvor|YES|stars_4
+301538|Prainha Aldeamento / Clube / Village - Village|Alvor|NO|stars_3
+301901|Komplex Alfagar I & II|Albufeira|NO|stars_3
+302193|Castelo de Vide|Castello de Vide|NO|stars_3
+302347|Solverde SPA & Wellness Center|São Félix da Marinha|YES|stars_5
+302386|Glenridge Beach & Golf Resort|Albufeira|NO|stars_3
+302467|Hotel da Musica|Porto|NO|stars_4
+309137|Castro Marim Golfe & Country Club|Castro Marim|NO|stars_4
+309190|Pinheiros da Balaia Villas|Brejos|NO|stars_4
+335024|Vila Galé Collection Palácio dos Arcos|Paco de Arcos|NO|stars_5
+335059|Olissippo Saldanha|Lisbon|NO|stars_4
+354445|Be Live Family Palmeiras Village|Porches|NO|stars_4
+359375|Alfamar Beach & Sport Resort & Algarve Gardens - Alfamar Beach & Sport Resort|Praia da Falesia|NO|stars_4
+359438|Cristal Vieira Praia & Cristal Praia - Cristal Praia|Praia da Vieira|NO|stars_4
+359459|Vidamar Resorts Algarve - Hotel|Albufeira|NO|stars_5
+359460|Vidamar Resorts Algarve - Villas|Albufeira|NO|stars_5
+359565|Komplex - Jardins d'Ajuda Suite Hotel|Funchal|NO|stars_4
+359567|Komplex - Musa d'Ajuda Hotel|Funchal|NO|stars_4
+359696|Madre De Agua|Gouveia|NO|stars_4
+359707|EcorkHotel - Evora Suites & Spa|Évora|NO|stars_4
+359775|Vila D'Obidos|Obidos|NO|stars_4
+359785|Monte da Quinta Resort - Club / Suites|Quinta do Lago|NO|stars_5
+363232|Monte Filipe Hotel & Spa|Alpalhao|NO|stars_4
+363357|The Beautique Hotels Figueira|Lisbon|NO|stars_4
+363411|Refugio do Pico|Prainha - Pico|NO|stars_3.5
+363431|Evidencia Belverde Atitude Hotel|Costa da Caparica|NO|stars_4
+363458|Alto Fairways|Alvor|NO|stars_3
+363472|Komplex Quinta da Penha de França / Quinta da Penha de França Mar - Quinta da Penha de França|Funchal|NO|stars_4
+365326|Memmo Alfama|Lisbon|NO|stars_4.5
+366529|Casas do Moinho|Odeceixe|NO|stars_3.5
+373039|Hotel Segredos de Vale Manso|Aldeia do Mato|NO|stars_4
+374183|Quinta Da Veiga Manor House|Pinhao|NO|stars_4
+380516|Quinta Do Monte Panoramic Gardens A Reso|Madeira|NO|stars_5
+390982|Evolutee Royal Obido Spa & Golf Resort|Obidos|NO|stars_5
+391202|Pousada de Juventude De Lagoa|Lagoa|NO|stars_2
+391529|Mirachoro II y III - Mirachoro II|Portimao|NO|stars_2
+391530|Mirachoro II y III - Mirachoro III|Portimao|NO|stars_3
+392027|Tryp Lisboa Aeroporto|Lisbon|NO|stars_4
+392195|Residencial Central|Porto Santo Island|NO|stars_2
+400755|Monte da Galrixa|Sao Teotonio|NO|stars_3
+400756|Herdade do Amarelo|São Luís|NO|stars_4.5
+400757|Monte do Giestal|Abela|NO|stars_3
+400758|Casa da Cisterna|Figueira de Castelo Rodrigo|NO|stars_3.5
+400795|Quinta de Marrocos|Valdigem|NO|stars_3
+400945|Porto Bay Liberdade|Lisbon|NO|stars_5
+401441|Herdade do Vau|Beja|NO|stars_3.5
+401627|Casa Yolanda|Carvoeiro|NO|0
+403270|Turim Av Liberdade Hotel|Lisbon|NO|stars_4
+403354|Ns Hostel|Coimbra|NO|stars_2
+403358|Holiday Inn Express Lisbon - Av. Liberdade|Lisbon|NO|stars_3
+406469|Casa Ponta Balleia|Terra do Pao|NO|0
+406471|Casa la Madrugada|Lajido|NO|0
+406551|Cascade Wellness & Lifestyle Resort|Lagos|NO|stars_5
+407883|Quinta de Santa Barbara|Lagoa|NO|stars_4
+409162|Tivoli Victoria & The Residences at Victoria|Vilamoura|NO|stars_5
+411038|Valverde|Lisbon|NO|stars_5
+411039|BessaHotel Liberdade|Lisbon|NO|stars_4
+411370|Sàccharum|Calheta|NO|stars_4
+411491|Quinta dos Perfumes|Tavira|NO|stars_4
+411550|Crowne Plaza Porto|Porto|YES|stars_5
+412333|Duecitânia Design Hotel|Penela|NO|stars_4
+413038|Cancela do Porco|Insel Pico|NO|stars_3
+413281|Quinta de Casaldronho Wine Hotel|Lamego|NO|stars_4
+413484|Praia d'el Rey Golf & Beach Resort - Marriott Hotel/ Holiday Resideces/ The Beachfront|Obidos|NO|stars_4.5
+413577|Roulette Hotel 3 Sterne|Portugal|NO|stars_3
+413946|Hotel Atrio|Estreito da Calheta|NO|stars_4
+414001|Troia Resort|Troia|NO|stars_4
+414841|Hotel Rocamar & Hotel Royal Orchid|Caniço|NO|stars_4
+417656|Pestana South Beach|Alvor|NO|stars_4

@@ -7,7 +7,7 @@
  * @return string
  */
 
-ini_set('max_execution_time', 6000); //300 seconds = 5 minutes
+ini_set('max_execution_time', 10000); //300 seconds = 5 minutes
 
 function curl_get($url, array $get = NULL, array $options = array()) {
     $defaults = array(
@@ -256,7 +256,8 @@ foreach ($object->items->item as $item) {
         $fact = simplexml_load_string($res3);
 
         if ($fact->code == '404') {
-            $classCategory = '0';
+            //$classCategory = '0';
+            $classCategory = 'stars_0';
         } else {
             foreach ($fact->item->factsheet->sections->section as $section) {
                 switch ($section['name']) {

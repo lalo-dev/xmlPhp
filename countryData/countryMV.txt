@@ -1,0 +1,144 @@
+1756|Angaga|Ari Atoll|NO|stars_4
+1757|Diamonds Athuruga|Ari Atoll|NO|stars_5
+1758|Chaaya Reef Ellaidhoo|Ari Atoll|YES|stars_4
+1759|Holiday Island Resort & Spa|Süd Ari Atoll|YES|stars_4
+1761|VOI Maayafushi Resort|Ari Atoll|NO|stars_4
+1763|Mirihi|Ari Atoll|NO|stars_5
+1764|Velidhu Island Resort|Ari Atoll|YES|stars_3
+1765|Vilamendhoo Island Resort|Süd Ari Atoll|NO|stars_4
+1766|Rravo Alimatha Club|Felidhu Atoll|NO|0
+1767|Bandos Island Resort|North Male Atoll|NO|stars_4
+1769|Adaaran Select Hudhuranfushi Resort|North Male Atoll|NO|stars_4
+1772|Summer Island Village|North Male Atoll|NO|stars_3
+1773|Vivanta Coral Reef|North Male Atoll|NO|stars_5
+1774|Paradise Island Resort & The Haven at Paradise Island Resort - Paradise Island|North Male Atoll|YES|stars_4.5
+1775|Kuramathi Island Resort - Village / Coconut Village / Cottage & Spa / Blue Lagoon|Rasdhu Atoll|YES|stars_4
+1776|Biyadhoo Island|South Male Atoll|NO|stars_3
+1778|Embudu Village|South Male Atoll|YES|stars_3
+1779|Fihalhohi Island Resort|South Male Atoll|YES|0
+1780|Fun Island|South Male Atoll|NO|stars_3
+1782|Holiday Inn Resort Kandooma Maldives|South Male Atoll|NO|stars_4
+6552|Reethi Beach Resort|Fonimagoodhoo|NO|stars_4
+6553|Chaaya Lagoon Hakuraa Huraa|Meemu Atoll|YES|stars_4
+6555|One & Only Reethi Rah|Reethi|NO|stars_5
+8067|Asdu|North Male Atoll|NO|stars_3
+8538|Banyan Tree Vabbinfaru|North Male Atoll|NO|stars_5
+8576|Baros Maldives|North Male Atoll|YES|stars_5
+8590|Bathala Island Resort|Ari Atoll|NO|stars_3
+9154|Coco Bodu Hithi|North Male Atoll|NO|stars_5
+10562|Coco Palm Dhuni Kolhu|Baa Atoll|NO|stars_5
+10566|Cocoa Island by COMO|South Male Atoll|NO|stars_5
+12154|Equator Village|Addu Atoll|NO|stars_3
+12181|Eriyadu Island Resort|North Male Atoll|NO|stars_3.5
+12530|Filitheyo Island Resort|Faafu Atoll|NO|stars_4
+12947|Four Seasons Resort Maldives at Kuda Huraa|North Male Atoll|NO|stars_5
+13023|Sheraton Maldives Full Moon & Spa|North Male Atoll|YES|stars_5
+13088|Gangehi Island Resort|Ari Atoll|NO|stars_5
+13895|Helengeli Island Resort|North Male Atoll|NO|stars_4
+14637|Angsana Resort & Spa|Ihuru|NO|stars_5
+14817|Kurumba Maldives|North Male Atoll|YES|stars_5
+15212|Kam|Malé City|NO|stars_3
+15225|Kanuhura|Laviyani Atoll|NO|stars_5
+15466|Komandoo Island Resort & Spa|Laviyani Atoll|NO|stars_4
+15566|Kuda Rah Club|Süd Ari Atoll|NO|stars_5
+15580|Kuredu Island Resort & Spa|Laviyani Atoll|YES|stars_4
+15870|Velassaru Maldives|Velassaru (Laguna)|YES|stars_5
+16356|Lily Beach Resort|Lily|NO|stars_5
+16556|Sun Island Resort & Spa|Süd Ari Atoll|YES|stars_5
+16557|Royal Island Resort & Spa|Baa Atoll|YES|stars_5
+16637|Madoogali|Ari Atoll|NO|stars_4
+16713|Makunudu Island Resort|North Male Atoll|NO|stars_4
+16716|Conrad Maldives Rangali Island|Rangali|YES|stars_5
+17172|Medhufushi Island Resort|Meemu Atoll|NO|stars_5
+17205|Adaaran Select Meedhupparu|Raa Atoll|NO|stars_4
+17208|Meeru Island Resort|Meeru|YES|stars_4
+17807|Huvafen Fushi|Nakatchafushi|NO|stars_5
+17977|Nika Island Resort|Ari Atoll|NO|stars_5
+19923|Adaaran Club Rannalhi|South Male Atoll|YES|stars_4
+21922|Soneva Fushi by Six Senses|Baa Atoll|NO|stars_5
+23120|Diamonds Thudufushi|Ari Atoll|NO|stars_5
+23124|Thulhagiri Island Resort & Spa|North Male Atoll|NO|stars_4
+23546|Vakarufalhi Island Resort|Ari Atoll|NO|stars_4
+23612|Angsana Resort & Spa Velavaru|South Nilandhe Atoll|NO|stars_5
+23615|Anantara Veli Resort & Spa|Veligandu|NO|stars_5
+23616|Veligandu Island Resort|Rasdhu Atoll|YES|stars_4
+24174|Vilu Reef Island Resort|South Nilandhe Atoll|NO|stars_4
+26466|Gili Lankanfushi Maldives|North Male Atoll|NO|stars_5
+28044|Taj Exotica Resort & Spa|South Male Atoll|NO|stars_5
+32039|Olhuveli Beach & Spa Resort|South Male Atoll|NO|stars_4
+32077|VOI Dhiggiri Resort|Felidhu Atoll|NO|stars_4
+32080|Hulhule Island|Hulhule Island|NO|stars_4
+34001|Palm Beach|Laviyani Atoll|NO|stars_4
+38789|Lux Maldives|Ari Atoll|YES|stars_5
+38907|Club Med Kani|North Male Atoll|NO|stars_4
+39068|Club Faru|North Male Atoll|NO|stars_2.5
+42344|Ranveli|Ari Atoll|NO|stars_4
+47932|Adaaran Prestige Vadoo|South Male Atoll|YES|stars_5
+51314|Kandolhu Island|Ari Atoll|NO|stars_5
+51786|Mookai|Malé City|NO|stars_3
+52536|Kihaad Maldives|Baa Atoll|NO|stars_5
+57787|Hideaway Beach Resort & Spa|Dhonakulhi Island|NO|stars_5
+64392|Adaaran Prestige Water Villas|Raa Atoll|YES|stars_5
+64592|Chaaya Island Dhonveli|North Male Atoll|YES|stars_4
+68520|Anantara Dhigu Resort & Spa Maldives|Dhigufinolhu|NO|stars_5
+71989|Four Seasons Resort Maldives at Landaa Giraavaru|Baa Atoll|NO|stars_5
+72675|W Hotels Retreat & Spa Maldives|North Ari Atoll|YES|stars_5
+87330|J Resort Alidhoo|Haa Alifu Atoll|YES|stars_4.5
+87339|Herathera Island Resort|Addu Atoll|NO|stars_4
+87424|Banyan Tree Maledives Madivaru - geschlossen|Madivaru|NO|stars_5
+87475|The Sun Siyam Iru Fushi|Noonu Atoll|NO|stars_5
+90818|JA Manafaru|Haa Alifu Atoll|NO|stars_5
+91045|Rihiveli Beach Resort|South Male Atoll|NO|stars_4
+95780|Zitahli Dholhiyadhoo Resort & Spa|Shaviyani Atoll|NO|stars_5
+97070|Zitahli Resort & Spa Kuda Funafaru|Noonu Atoll|NO|stars_5
+102746|Raalhuveli|Nord Huvadhu Atoll|NO|stars_4.5
+103079|Naladhu Maldives|Veligandu|NO|stars_5
+103081|Shangri-La's Villingili Resort & Spa|Addu Atoll|NO|stars_5
+103084|Park Hyatt Maldives, Hadahaa|Nord Huvadhu Atoll|NO|stars_5
+103396|Constance Halaveli Resort|Ari Atoll|NO|stars_5
+110503|Nalahiya|Malé City|NO|stars_3
+134999|Robinson Club Maldives|Funamadua|NO|stars_4
+136104|Six Senses Laamu|Laamu Atoll|NO|stars_5
+136266|Centara Grand Island Resort & Spa Maldives|Ari Atoll|YES|stars_4
+139610|The Regent Maldives|Maalefushi|NO|stars_6
+139892|Guraidhoo Guesthouse|Guraidhoo|NO|0
+161864|Central Hotel & Apartments|Malé City|NO|stars_3
+182706|Gasfinolhu Island Resort|North Male Atoll|NO|stars_3
+182707|Jen Malé|Malé City|NO|stars_4
+202030|Anantara Kihavah Villas Maldives|Baa Atoll|NO|stars_5
+227843|Constance Moofushi Resort|Ari Atoll|NO|stars_5
+228764|Maafushivaru Island Resort|Ari Atoll|NO|stars_4
+232496|Jumeirah Dhevanafushi|Meradhoo Island|NO|stars_5
+236981|Jumeirah Vittaveli|South Male Atoll|NO|stars_5
+237921|Niyama Maldives|Süd Nilandhe Atoll|NO|stars_5
+237928|Viceroy Maldives|Shaviyani Atoll|NO|stars_5
+238408|Ayada Maldives|Gaafu Dhaalu Atoll|NO|stars_5
+240218|Mookai Suites|Malé City|NO|stars_3
+246499|Dusit Thani Maldives|Baa Atoll|NO|stars_5
+247791|Relax Inn|Malé City|NO|stars_3
+248854|Nasandhura Palace|Malé City|NO|stars_3
+249233|Reveries Diving Village|Gan|NO|stars_4
+259607|Atmosphere Kanifushi|Laviyani Atoll|NO|stars_5
+259741|Marble|Malé City|NO|stars_3
+260408|Asseyri Tourist Inn|Hanimaadhoo|NO|stars_3
+260409|Fuana Inn|Hulhumalé Island|NO|stars_3
+260410|Summer Villa Guesthouse|Maafushi|NO|stars_3
+260672|The Residence Maldives|Nord Huvadhu Atoll|NO|stars_5
+260790|Safari Island|Ari Atoll|NO|stars_4
+260902|Centara Ras Fushi Resort & Spa Maldives|North Male Atoll|NO|stars_4
+261040|Ui Inn|Hulhumalé Island|YES|stars_3
+277435|Hulhumalé Inn|Hulhumalé Island|YES|stars_3
+277436|White Shell Beach Inn|Maafushi|NO|stars_3
+277437|Arena Lodge Maldives|Maafushi|NO|stars_3
+286103|Sting Ray MV|Malé City|NO|0
+292137|House Clover|Malé City|NO|stars_3
+295984|Variety Stay Guest House Maldives|North Male Atoll|NO|stars_3
+335809|Maalifushi By COMO|Thaa Atoll|NO|stars_5
+335817|Cheval Blanc Randheli|Noonu Atoll|NO|stars_6
+359757|Loama Maamigili Resort and Spa|Raa Atoll|NO|stars_5
+366686|Paradise Island Resort & The Haven at Paradise Island|North Male Atoll|NO|stars_4.5
+366687|Paradise Island Resort & The Haven at Paradise Island - The Haven|North Male Atoll|NO|stars_5
+391991|Kaani Beach|Maafushi|NO|stars_4
+405862|Velaa Private Island|Noonu Atoll|NO|stars_5
+406104|Amilla fushi Isaland Resort Maldives|Baa Atoll|NO|stars_5
+407124|The Barefoot Eco|Hanimaadhoo|NO|stars_3.5

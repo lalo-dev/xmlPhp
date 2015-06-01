@@ -1,0 +1,81 @@
+11583|Intercontinental Doha|Doha|YES|stars_5
+21519|Sheraton Doha Hotel & Resort|Doha|YES|stars_5
+27944|Doha Marriott Hotel|Doha|YES|stars_5
+27945|The Ritz-Carlton Doha|Doha|YES|stars_5
+39380|Mövenpick Doha|Doha|YES|stars_4
+39381|Rydges Plaza Doha|Doha|YES|stars_4
+52722|Sealine Beach Resort|Doha|YES|stars_4
+60365|Radisson Blue Hotel Doha|Doha|NO|stars_4
+64677|Four Seasons|Doha|NO|stars_5
+73989|Mercure Grand Doha City Centre|Doha|YES|stars_4
+74753|Regency|Doha|YES|stars_3
+75487|Al Muntazah Plaza|Doha|YES|stars_3
+75488|Inter Diplomat|Doha|NO|stars_2
+75489|Merwebhotel Al Sadd|Doha|YES|stars_4
+76949|Shezan|Doha|YES|stars_3
+80033|The Ritz-Carlton Sharq Village & Spa|Doha|YES|stars_5
+95585|Mövenpick Tower & Suites|Doha|NO|stars_5
+99704|Al Sultan Beach Resort|Doha|NO|stars_5
+110517|La Cigale|Doha|YES|stars_5
+110518|W Hotels Doha & Residences|Doha|YES|stars_5
+122252|Grand Hyatt Doha|Doha|NO|stars_5
+124860|Al Liwan Suites|Doha|YES|stars_4
+124861|Al Bustan|Doha|NO|stars_3
+124863|Gulf Horizon|Doha|NO|stars_3
+129775|Millennium Doha|Doha|YES|stars_5
+133043|Plaza Inn Doha|Doha|YES|stars_4
+133044|Le Park|Doha|YES|stars_4
+133045|Al Mourouj Inn|Doha|YES|stars_3
+136806|Royal Qatar|Doha|YES|stars_4
+137313|Le Grand|Doha|YES|stars_3
+137498|La Villa Palace|Doha|NO|stars_3
+157269|Gloria|Doha|YES|stars_4
+162133|Retaj Al Rayyan|Doha|YES|stars_4
+162134|Somerset West Bay, Doha|Doha|YES|stars_4
+188111|Ayana Golden Coast Hotel|Doha|YES|stars_4
+196029|Doha Gate Inn|Doha|YES|stars_3
+196030|La Villa Inn Hotel Apartments|Doha|NO|stars_3
+202120|Swiss-Belhotel Doha|Doha|YES|stars_4
+210588|Holiday Villa & Residence City Centre|Doha|YES|stars_4
+218212|Souq Waqif|Doha|NO|stars_4
+227435|Diamond|Doha|YES|stars_3
+229157|Oryx Rotana|Doha|NO|stars_5
+230464|Al Ghazal Suites|Doha|NO|stars_3
+232919|Al Nakheel|Doha|YES|stars_3
+233748|Kempinski Residence & Suites Doha|Doha|NO|stars_5
+235388|Ramada Encore Doha|Doha|NO|stars_4
+236707|Retaj Residence Al Sadd|Doha|NO|stars_4
+237122|Hilton Doha|Doha|NO|stars_5
+237171|Coral Doha|Doha|NO|stars_4
+238230|Retaj Residence Al Corniche|Doha|NO|stars_4
+238231|Retaj Inn Doha|Doha|NO|stars_3
+240389|Grand Heritage Doha Hotel & Spa|Doha|NO|stars_5
+240639|Safir Doha|Doha|NO|stars_4
+240640|Crystal Palace|Doha|NO|stars_3
+240641|Le Vendome|Doha|NO|stars_5
+240642|Horizon Manor|Doha|NO|stars_4
+240643|Grand Qatar Palace|Doha|NO|stars_3
+245534|Fraser Suites Doha|Doha|NO|stars_5
+245965|InterContinental Doha - The City|Doha|NO|stars_5
+245997|Crowne Plaza Doha - The Business Park|Doha|NO|stars_5
+259794|Century Hotel Doha|Doha|NO|stars_3
+259795|Retaj Royale|Doha|NO|stars_5
+259796|St. Regis Doha|Doha|YES|stars_5
+259797|Wyndham Grand Regency Doha|Doha|YES|stars_5
+260404|The Torch|Doha|NO|stars_5
+260405|Concorde Hotel Doha|Doha|NO|stars_5
+260960|Dunes Hotel & Suites|Doha|NO|stars_4
+261311|Copthorne Doha|Doha|NO|stars_5
+261622|Al Safa Royal Suites|Doha|NO|stars_4
+261623|Al Mirqab Boutique|Doha|NO|stars_5
+261624|Al Najada Boutique|Doha|NO|stars_5
+261628|Arumaila Boutique|Doha|NO|stars_5
+264599|Gulf Paradise Doha|Doha|NO|stars_3
+264605|Grand Regal|Doha|YES|stars_5
+292530|Musheireb Boutique|Doha|NO|stars_5
+295647|Al Seef|Doha|YES|stars_3
+359685|Al Jasra Boutique Hotel|Doha|NO|stars_5
+368235|Gokulam Park Doha|Doha|NO|stars_4
+391608|Banana Island Resort Doha by Anantara|Doha|NO|stars_5
+411079|Zubarah Hotels & Resort|Doha|NO|stars_5
+413053|Marriott Marquis City Center  Doha Hotel|Doha|NO|stars_4.5

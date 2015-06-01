@@ -1,0 +1,13 @@
+77832|Kumbali Lodge|Lilongwe|NO|stars_3
+90611|Club Makokola|Mangochi|NO|stars_3
+97230|Sunbird Capital|Lilongwe|NO|stars_3
+97233|Kaya Mawa Lodge|Likoma Island|NO|stars_4
+110531|Danforth Lodge|Malawi See|NO|stars_3.5
+136019|Mumbo Island Camp|Mumbo Island|NO|stars_3
+229867|Pumulani Lodge|Lake Malawi National Park|NO|stars_4.5
+297329|Ngala Beach Lodge|Nkhotakota|NO|stars_3
+297330|Norman Carr Cottage|Malawi See|NO|stars_3
+297743|Chintheche Inn|Chintheche|NO|stars_3
+298824|Chelinda Lodge|Nyika Nationalpark|NO|stars_3.5
+298831|Huntingdon House|Thyolo|NO|stars_5
+363867|Mkulumadzi Lodge|Majete Wildlife Reserve|NO|stars_4.5

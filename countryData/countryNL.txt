@@ -1,0 +1,1134 @@
+7080|The Poet Amsterdam|Amsterdam|YES|stars_2
+7650|Landal Ameland State|Nes|NO|0
+7681|Conscious Museum Square|Amsterdam|YES|stars_3
+7683|Best Western Leidse Square|Amsterdam|YES|stars_3
+7685|Amstel Botel BV Hotelschiff|Amsterdam|YES|stars_3
+7686|InterContinental Amstel|Amsterdam|YES|stars_5
+7687|Amsterdam & De Roode Leeuw|Amsterdam|YES|stars_4
+7963|Arena|Amsterdam|YES|stars_4
+8132|Astoria|Noordwijk|NO|stars_3
+8243|NH Atlantic Den Haag|Kijkduin|YES|stars_4
+8549|NH Amsterdam Barbizon Palace|Amsterdam|YES|stars_5
+8670|Hampshire Hotel Beethoven|Amsterdam|YES|stars_3
+8707|Bell-Hotel|Zandvoort|NO|stars_3
+8801|Amrath Belvoir|Nijmegen|NO|stars_4
+8925|Eden Amsterdam - Hampshire Eden|Amsterdam|YES|stars_3
+9046|Bilderberg Europa Hotel|Scheveningen|YES|stars_4
+9085|The Dylan|Amsterdam|YES|stars_5
+9214|Bosch en Zee|De Koog|NO|0
+9216|WestCord Residentie Boschrijck|Terschelling Island|NO|stars_3.5
+9715|NH Caransa|Amsterdam|YES|stars_4
+9762|Fletcher Hotel-Restaurant Carlton|Naaldwijk|NO|stars_4
+9764|Carlton Beach|Scheveningen|NO|stars_4
+10419|Citta Romana|Hellevoetsluis|NO|stars_4
+11054|Fletcher Hotel-Resort Amelander Kaap|Hollum|NO|stars_4
+11205|De Boei|Egmond aan Zee|NO|stars_3
+11217|Vakantiepark De Krim Texel|De Cocksdorp|NO|stars_4
+11218|De L'Europe|Amsterdam|YES|stars_5
+11237|De Looier|Amsterdam|YES|stars_3
+11259|De Zeeuwse Stromen|Renesse|NO|stars_4
+11336|Best Western Delphi|Amsterdam|YES|stars_4
+11341|Delta Hotel|Amsterdam|YES|stars_3
+11471|Die Port van Cleve|Amsterdam|YES|stars_4
+11621|Badhotel Domburg|Domburg|NO|stars_4
+11805|Duinpark De Witte Raaf|Noordwijk aan Zee|NO|stars_3
+11806|Duinrell|Wassenaar|NO|stars_3
+11885|Hampshire Savoy Rotterdam|Rotterdam|NO|stars_4
+12127|Emslandermeer|Vlagtwedde|NO|stars_3
+12504|Fletcher Badhotel Noordwijk|Noordwijk aan Zee|NO|stars_3
+12959|Floris France|Amsterdam|YES|stars_3
+13305|Maxima Hotels Jan van Scorel|Schoorl|NO|stars_4
+13311|NH Zandvoort|Zandvoort|YES|stars_4
+13385|Landal De Lommerbergen|Reuver|NO|stars_3
+13386|Landal Het Vennenbos|Hapert|NO|stars_3
+13387|Landal Landgoed 't Loo|T Loo|NO|stars_3
+13390|Center Parcs Parc Sandur|Emmen|NO|stars_3
+13463|NH Amsterdam Grand Hotel Krasnapolsky|Amsterdam|YES|stars_5
+13588|Greenside|De Koog|NO|stars_4
+13690|Landal Resort Haamstede|Haamstede|NO|stars_3
+13949|Het Grootslag|Anduk|NO|stars_3
+14116|Holiday Inn|Leiden|NO|stars_4
+14240|Holiday Inn Ijmuiden Seaport Beach|IJmuiden|NO|stars_4
+14814|Inntel Hotel Amsterdam Centre|Amsterdam|YES|stars_4
+15012|Bilderberg Hotel Jan Luyken|Amsterdam|YES|stars_4
+15091|NH Carlton Amsterdam|Amsterdam|NO|stars_4
+15115|Juliana|Julianadorp|NO|stars_3
+15364|Kijkduin Park|Kijkduin|NO|stars_3
+15898|Hampshire Hotel - Lancaster Amsterdam|Amsterdam|NO|stars_3
+16090|Wyndham Apollo Amsterdam|Amsterdam|YES|stars_4
+16404|Landal Villapark Livingstone|Haamstede|NO|stars_3
+16712|Beach Resort Makkum|Makkum|NO|stars_4
+17279|Mercure Amsterdam Centre Canal District|Amsterdam|YES|stars_3
+17346|Golden Tulip Noordwijk Beach|Noordwijk|NO|stars_4
+18051|Nova Hotel & Apartments|Amsterdam|YES|stars_3
+18249|Okura Amsterdam|Amsterdam|NO|stars_5
+18321|Landal Beach Resort Ooghduyne|Julianadorp|NO|stars_3.5
+18323|Hightop|Noordwijk aan Zee|NO|stars_3
+18808|Park Hotel Amsterdam|Amsterdam|YES|stars_4
+18885|Pavillons Sneekermeer|Offingerwier/Sneeker Meer|NO|0
+19282|Landal Port Greve|Brouwershaven|NO|stars_3
+19291|Center Parcs Port Zélande|Ouddorp|NO|stars_4
+19519|Hotel Pulitzer, Amsterdam|Amsterdam|YES|stars_5
+19783|Radisson Blu Amsterdam|Amsterdam|YES|stars_4
+20124|Rembrandt Classic|Amsterdam|YES|stars_3
+20311|Rho|Amsterdam|YES|stars_3
+21219|NH Amsterdam Schiller|Amsterdam|YES|stars_4
+21359|WestCord Strandhotel Seeduyn|Vlieland Island|NO|stars_4
+21686|Singel|Amsterdam|YES|stars_3
+21756|Landal Sluftervallei|De Cocksdorp|NO|stars_3
+21781|Ink Amsterdam - MGallery Collection|Amsterdam|YES|stars_4
+22258|Landal Stroombroek|Braamt|NO|stars_3
+22459|Landal Natuurdorp Suyderoogh|Lauwersoog|NO|stars_3.5
+22619|Tulip Inn Amsterdam Centre|Amsterdam|YES|stars_3
+22643|Landal Beach Park Texel|De Koog|NO|stars_3.5
+22774|Softiel Legend The Grand Amsterdam|Amsterdam|YES|stars_5
+23064|The Manhattan Rotterdam|Rotterdam|YES|stars_5
+23432|WestCord Art Hotel Amsterdam 3***|Amsterdam|YES|stars_3
+23433|WestCord City Centre Hotel Amsterdam|Amsterdam|YES|stars_3
+23579|Van Oranje|Noordwijk|NO|stars_5
+23680|Park Plaza Victoria Amsterdam|Amsterdam|YES|stars_4
+24422|Hampshire Hotel - Theatre District Amsterdam|Amsterdam|NO|stars_3
+24621|Fletcher Hotel-Restaurant Zeeduin|Wijk aan Zee|NO|stars_4
+24622|Zeeland Village|Scharendijke|NO|stars_3
+24663|Zuiderduin - Appartementhotel / Ferienwohnungen|Egmond aan Zee|NO|stars_4
+25790|Swissotel Amsterdam|Amsterdam|YES|stars_4
+25791|New West Inn|Amsterdam|NO|stars_3
+28529|Familyland|Hoogerheide|NO|0
+28536|Buitenplaats|Callantsoog|NO|stars_3.5
+28538|Aquadelta|Bruinisse|NO|stars_3.5
+28539|Hampshire Inn - Arc Hotel Zeeland|Renesse|NO|stars_3
+28954|Bilderberg Hotel De Bovenste Molen|Venlo|YES|stars_4
+28956|Bilderberg Kasteel Vaalsbroek|Vaals|YES|stars_4
+31538|Ferienpark Klein Vink|Arcen|NO|stars_3.5
+31701|Grand Hotel Amrâth Kurhaus The Hague Scheveningen|The Hague|NO|stars_5
+31715|NH City Centre Amsterdam|Amsterdam|YES|stars_3
+31716|Park Plaza Vondelpark Amsterdam|Amsterdam|YES|stars_4
+32638|Mercure Hotel Amsterdam City|Amsterdam|YES|stars_4
+32683|Bilderberg Hotel De Kleppermann|Hoevelaken|YES|stars_3.5
+32751|Bilderberg Garden|Amsterdam|YES|stars_5
+32894|WestCord Hotel Noordsee|Ameland|NO|stars_4
+32896|Zwanenwater|Callantsoog|NO|stars_3
+32902|Rockanje aan Zee|Rockanje|NO|stars_3
+32903|De Soeten Haert|Renesse|NO|stars_3
+32904|Golden Tulip Strandhotel Westduin|Vlissingen|YES|stars_4
+32906|Zuiderzee|Medemblik|NO|stars_2
+32907|Golden Tulip Tjaarda Oranjewoud|Oranjewoud|YES|stars_4
+33509|Beach Hotel|Noordwijk|NO|stars_4
+33510|Best Western Palace|Zandvoort|NO|stars_4
+33511|The Radisson Blu Palace Hotel|Noordwijk|NO|stars_4
+35208|Bos & Duin|Oostkapelle|NO|stars_4
+35209|Roompot Beach Resort|Kamperland|NO|stars_4
+35210|Roompot Klein Poelland|Renesse|NO|stars_3
+35211|Herkingen Ferienpark|Herkingen|NO|stars_3
+35213|Nordzee Park|Ouddorp|NO|stars_3
+35214|Zonne|Noordwijk|NO|stars_3
+35215|Boehmian Resort|St. Maartenszee|NO|stars_3
+35216|Residenz Californie|De Koog|NO|stars_3
+35217|Best Western Hotel Spaander|Volendam|YES|stars_3
+35218|HEM 'T Tolhuus|Warder|YES|stars_3
+35219|Hampshire Golfhotel - Waterland|Purmerend|NO|stars_4
+35478|The Albus|Amsterdam|YES|stars_4
+35479|Crowne Plaza Amsterdam City Centre|Amsterdam|YES|stars_4
+35480|NH Doelen|Amsterdam|YES|stars_4
+36471|Grand Opduin|De Koog|NO|stars_4
+36473|Badhotel Scheveningen|The Hague|NO|stars_3
+36474|Fletcher Hotel-Restaurant Marijke|Bergen|NO|stars_4
+36475|Beekse Bergen Bungalowpark|Hilvarenbeek|NO|stars_3
+36548|NH Amsterdam Centre|Amsterdam|YES|stars_4
+36549|Omega|Amsterdam|YES|stars_3
+37752|Fletcher Hotel-Restaurant De Witte Raaf|Noordwijk|NO|stars_4
+37753|Faber|Zandvoort|NO|stars_3
+37758|Center Parcs De Kempervennen|Westerhoven|NO|stars_5
+37759|Center Parcs Het Meerdal|America|NO|stars_4
+37761|Center Parcs Limburgse Peel|America|NO|stars_3
+37763|Center Parcs Park Zandvoort an der Nordsee - Hotel & Ferienhäuser|Zandvoort|NO|stars_3
+38637|Scaldia Village|Breskens|NO|stars_4
+39183|City Garden|Amsterdam|YES|stars_3
+39184|Avenue|Amsterdam|YES|stars_3
+39255|Crowne Plaza Den Haag - Promenade|The Hague|YES|stars_5
+39256|Mövenpick Voorburg|The Hague|NO|stars_4
+39257|Novotel Den Haag City Centre|The Hague|NO|stars_4
+39258|Crowne Plaza Maasricht|Maastrich|NO|stars_4
+39259|Novotel Maastricht|Maastrich|NO|stars_4
+39606|Ibis Den Haag / Scheveningen|Scheveningen|NO|stars_3
+39608|Fletcher Hotel-Restaurant Nieuwvliet Bad|Nieuwvliet-Bad|NO|stars_3
+39609|Hampshire Churchill|Terneuzen|NO|stars_4
+39610|Princess Hotel Loosdrecht|Loosdrecht|YES|stars_4
+39765|Kustpark Texel|De Koog|NO|stars_3
+39881|Thermaetel & Thermae 2000|Bad Valkenburg|NO|stars_4
+39882|Scandic Sanadome Hotel|Nijmegen|NO|stars_4
+39915|Hampshire Classic De Klinze|Oudkerk|NO|stars_4
+39916|Hampshire De Wiemsel|Ootmarsum|NO|stars_4
+39917|Hampshire Landhuishotel & Restaurant De Bloemenbeek|De Lutte|NO|stars_4
+39918|Sandton Resort Bad Boekelo|Boekelo|NO|stars_4
+39919|Hampshire De Arendshoeve|Bergambacht|NO|stars_4
+40360|Ibis Tilburg|Tilburg|NO|stars_3
+40361|Mercure Tilburg Centrum|Tilburg|NO|stars_3.5
+40362|Novotel Breda|Breda|NO|stars_4
+40506|Prins Hendrik|Texel|NO|stars_3
+40530|De Paris|Amsterdam|YES|stars_3
+40548|Center Parcs De Eemhof|Zeewolde|NO|stars_5
+41311|Hotel & Résidence De Draak - Hampshire Classic|Bergen op Zoom|NO|stars_4
+41313|Badhotel Renesse & Villa Westerduin - Badhotel Renesse|Renesse|NO|stars_3
+47099|Hilton Rotterdam|Rotterdam|YES|stars_4.5
+47100|Bastion Rotterdam Rhoon|Rotterdam|NO|stars_3
+47101|Holiday Inn Rotterdam|Rotterdam|NO|stars_4
+47102|NH Atlanta Rotterdam|Rotterdam|YES|stars_4
+47129|Sheraton Amsterdam Airport|Amsterdam|YES|stars_4
+47130|Steigenberger Airport Hotel|Schiphol|NO|stars_4
+47134|Tulip Inn Amsterdam Riverside|Amsterdam|YES|stars_3
+47135|Radisson Blu Amsterdam Airport|Amsterdam|YES|stars_5
+47136|Mercure Hotel Amsterdam Airport|Amsterdam|YES|stars_4
+47137|Novotel Amsterdam City|Amsterdam|YES|stars_4
+47138|Crowne Plaza Amsterdam Schiphol|Hoofddorp|YES|stars_4
+47139|Renaissance Amsterdam|Amsterdam|YES|stars_5
+47140|Ibis Amsterdam Airport|Badhoevedorp|YES|stars_3
+47142|Bastion Amsterdam/Centrum-Zuidwest|Amsterdam|NO|stars_3
+47143|Hilton Amsterdam|Amsterdam|NO|stars_5
+47144|Bastion Amsterdam/Amstel|Amsterdam|YES|stars_3
+47235|Amsterdam American Hotel - Hampshire Eden|Amsterdam|YES|stars_4
+47343|Bastion Maastricht Centrum|Maastrich|YES|stars_4
+47344|NH Maastricht|Maastrich|YES|stars_4
+47777|Carlton De Brug|Mierlo|NO|stars_4
+48415|Des Indes|The Hague|YES|stars_5
+48417|Mercure Central|The Hague|YES|stars_4
+49824|Bel Air Den Haag|The Hague|NO|stars_4
+49825|Pullman Eindhoven Cocagne|Eindhoven|NO|stars_4
+49826|NH Utrecht|Utrecht|YES|stars_4
+49838|NH Amsterdam Schiphol Airport|Hoofddorp|YES|stars_4
+49839|Hilton Amsterdam Airport Schiphol|Schiphol|YES|stars_4
+50128|Parkhotel Den Haag|The Hague|NO|stars_4
+50129|Paleis|The Hague|YES|stars_4
+50130|Park Plaza|Eindhoven|NO|stars_4
+50131|Amrath Grand Hotel de l'Empereur|Maastrich|YES|stars_4
+50132|Park Plaza Utrecht|Utrecht|NO|stars_4
+50133|Mercure Utrecht Nieuwegein|Nieuwegein|NO|stars_4
+50661|NH Capelle|Capelle aan den IJssel|YES|stars_4
+50728|Bastion Amsterdam/Centrum-Noord|Amsterdam|YES|stars_3
+50729|Citadel|Amsterdam|YES|stars_3
+50730|Hampshire Babylon Den Haag|The Hague|NO|stars_4
+50732|Postillion Hotel Utrecht Bunnik|Bunnik|NO|stars_3
+50733|NH Centre Utrecht|Utrecht|YES|stars_3
+50813|Novotel Den Haag World Forum|The Hague|NO|stars_4
+51240|Bilderberg Hotel De Keizerskroon|Apeldoorn|YES|stars_4
+51649|Dorint Airport Hotel Amsterdam|Amsterdam|NO|stars_4
+52098|Bilderberg Parkhotel Rotterdam|Rotterdam|NO|stars_4
+53084|Efteling Hotel|Kaatsheuvel|NO|stars_4
+53168|Carlton Square Haarlem|Haarlem|NO|stars_4
+53169|Fletcher Hotel-Restaurant De Dikke Van Dale|Sluis|NO|stars_4
+53171|IJsselmeer Resort Het Grootslag & Villapark IJsselhof|Andijk|NO|stars_4
+53244|Ibis Amsterdam Centre|Amsterdam|NO|stars_3
+53245|NH Tropen|Amsterdam|YES|stars_3
+54469|Kustpark Egmond Aan Zee|Egmond aan Zee|NO|stars_3
+55490|The Toren|Amsterdam|NO|stars_4
+55496|Bilderberg Hotel 't Speulderbos|Garderen|YES|stars_3.5
+55497|Carlton Ambassador|The Hague|YES|stars_4
+55500|Marriott Amsterdam|Amsterdam|YES|stars_5
+55607|Hotel Damrak|Amsterdam|YES|stars_2
+55608|Beursstraat|Amsterdam|YES|stars_1
+55609|The Exchange|Amsterdam|YES|stars_2
+55712|NH Amsterdam Noord|Amsterdam|YES|stars_4
+55743|De Paardekreek|Kortgene|NO|stars_4
+55993|Ibis Stopera|Amsterdam|YES|stars_3
+56042|Dutch Design Hotel Artemis|Amsterdam|YES|stars_4
+56043|Hotel Cornelisz|Amsterdam|YES|stars_3
+56044|Sandton Hotel De Filosoof|Amsterdam|YES|stars_6
+56046|Bastion Utrecht|Utrecht|NO|stars_3
+56047|Estherea|Amsterdam|YES|stars_4
+56048|Hampshire Inn - Prinsengracht|Amsterdam|YES|stars_3
+56057|Heart of Amsterdam|Amsterdam|YES|stars_2
+56058|Aalborg|Amsterdam|YES|stars_3
+56072|Atlanta|Amsterdam|YES|stars_3
+56074|Di - Ann|Amsterdam|YES|stars_2
+56076|Heemskenk|Amsterdam|YES|stars_4
+56077|Des Arts|Amsterdam|YES|stars_2
+56089|Manofa|Amsterdam|YES|stars_1
+56125|Memphis EMB|Amsterdam|YES|stars_4
+56169|Casa 400|Amsterdam|YES|stars_3
+56195|Acca International|Amsterdam|YES|stars_3
+56196|Campanile Amsterdam - Zuidoost|Amsterdam|YES|stars_3
+56261|Best Western Amsterdam Airport Hotel|Hoofddorp|YES|stars_4
+56264|Bastion Schiphol Hoofddorp|Hoofddorp|YES|stars_3
+56265|Bastion Den Haag/Rijswijk|Rijswijk|YES|stars_3
+56281|Amsterdam House Eureka|Amsterdam|YES|stars_3
+56330|WestCord Hotel Schylge|Terschelling Island|NO|stars_4
+56370|Sandton Hotel Toor|Alphen aan den Rijn|NO|stars_4
+56581|West Side Inn Amsterdam|Amsterdam|YES|stars_3
+56582|Inntel Rotterdam Centre|Rotterdam|YES|stars_4
+56583|Rotterdam|Rotterdam|YES|stars_4
+56584|Maritime Rotterdam|Rotterdam|YES|stars_3
+56658|Art Gallery|Amsterdam|YES|stars_2
+56659|Golden Tulip Apple Park|Maastrich|YES|stars_4
+56691|Imperial|Amsterdam|YES|stars_2
+56909|Tulip Inn Rotterdam|Rotterdam|YES|stars_3
+56939|Grand Hotel Central|Rotterdam|NO|stars_3
+56997|Hotel Europa 92|Amsterdam|YES|stars_3
+57349|Vincent Van Gogh|Amsterdam|YES|stars_1
+57441|Golfzang|Egmond aan Zee|NO|stars_4
+57709|The College|Amsterdam|YES|stars_4
+57882|Best Western Plus Airport Rotterdam|Rotterdam|YES|stars_4
+58039|NH Geldrop|Geldrop|YES|stars_4
+58165|Fletcher Zuiderduin Beachhotel|Westkapelle|NO|stars_4
+58390|Bommelje|Domburg|NO|stars_4
+58840|The Bridge|Amsterdam|NO|stars_3
+58846|Vondel|Amsterdam|YES|stars_4
+59957|Theater Figi|Zeist|NO|stars_4
+60051|Center Parcs Het Heijderbos|Heijen|NO|stars_5
+60227|EuroHotel|Rotterdam|YES|stars_3
+60393|NH Veluwe Conference Centre Sparrenhorst|Nunspeet|NO|stars_4
+60489|Regardz Berghotel Amersfoort|Amersfoort|YES|stars_4
+60622|Courtyard Amsterdam Airport|Hoofddorp|YES|stars_4
+61763|In Den Hoof & Restaurant|Maastrich|YES|stars_3
+61774|Hampshire Designhotel Maastricht|Maastrich|YES|stars_4
+62070|Beaumont Maastricht|Maastrich|YES|stars_4
+62116|Amrath DuCasque|Maastrich|YES|stars_4
+62117|Amrâth Grand Heerlen|Heerlen|YES|stars_4
+62118|Mabi|Maastrich|YES|stars_4
+62158|Amrâth Born-Sittard Thermen|Born|YES|stars_4
+62285|Apollo Utrecht City Centre|Utrecht|YES|stars_4
+62286|Mercure Eindhoven|Eindhoven|YES|stars_4
+62287|Amrath Alkmaar|Alkmaar|YES|stars_4
+62386|Kasteel Vaeshartelt|Maastrich|YES|stars_3
+63217|Holiday Inn Eindhoven|Eindhoven|NO|stars_4
+63423|Trianon|Amsterdam|YES|stars_2
+63424|Ibis Styles Amsterdam Central Station|Amsterdam|YES|stars_3
+64082|Ibis Amsterdam City West|Amsterdam|YES|stars_3
+66462|Hilton Royal Parc Soestduinen|Soestduinen|NO|stars_4
+68832|Grand Huis ter Duin|Noordwijk|NO|stars_5
+68833|Strandhotel|Noordwijk|NO|stars_3
+68834|Koningshof|Noordwijk|NO|stars_3
+68835|Amare|Zandvoort|NO|stars_3
+69117|Hampshire 108 Meerdevoort|The Hague|NO|stars_4
+69475|Het wapen van Marion|Sluis|NO|stars_3
+69569|Ferienanlage Walibi Village|Biddinghuizen|NO|stars_2.5
+69716|Hampshire Rembrandt Square|Amsterdam|YES|stars_4
+69838|Blooming|Bergen|NO|stars_4
+71182|Cape Helius|Hellevoetsluis|NO|stars_3
+71184|Stayokay Texel|Den Burg|NO|stars_2
+71481|Apple Inn|Amsterdam|YES|stars_2
+71482|BackStage|Amsterdam|YES|stars_2
+71870|Ferienpark Hof Domburg|Domburg|NO|stars_3
+72330|Tulip Inn Maastricht Aachen Airport|Maastrich|YES|stars_3
+73131|Plantage|Amsterdam|YES|stars_2
+73977|Park - Efteling Freizeitpark|Kaatsheuvel|NO|stars_3.5
+75079|Van der Valk Gilze - Rijen|Gilze en Rijen|NO|stars_4
+75443|Apollofirst a Hampshire Classic|Amsterdam|YES|stars_4
+75619|NH Marquette|Heemskerk|YES|stars_4
+76215|Mövenpick Amsterdam City Centre|Amsterdam|YES|stars_4
+76860|NH Zoetermeer|Zoetermeer|YES|stars_4
+76861|NH Conference Centre Koningshof|Veldhoven|YES|stars_4
+76862|NH Noordwijk Conference Center Leeuwenhorst|Noordwijkerhout|YES|stars_4
+76863|NH Naarden|Naarden|YES|stars_4
+76865|NH Groningen|Groningen|YES|stars_4
+76866|NH Zuid Limburg - geschlossen|Epen|YES|stars_4
+76867|NH Jan Tabak|Bussum|YES|stars_4
+76868|NH Rijnhotel|Arnheim|YES|stars_4
+76869|NH Best|Best|YES|stars_3
+76870|NH Den Haag|The Hague|YES|stars_4
+76871|NH Museum Quarter|Amsterdam|YES|stars_4
+77604|Golden Tulip Leiden Centre|Leiden|YES|stars_4
+77605|Novotel Eindhoven|Eindhoven|YES|stars_4
+77606|Bastion Rotterdam/Barendrecht|Rotterdam|YES|stars_3
+77613|Ibis Den Hague City Centre|The Hague|YES|stars_3
+77614|Bastion Leiden/Voorschoten|Leiden|YES|stars_3
+77975|Fontana Resort Bad Nieuweschans|Nieuweschans|NO|stars_4
+78495|Fletcher Hotel-Restaurant Duinoord|Wassenaar|NO|stars_3
+78496|Delta|Vlaardingen|NO|stars_4
+78500|Center Parcs De Huttenheugte|Dalen|NO|stars_4
+78755|Landal Esonstad|Anjum|NO|stars_3.5
+78848|Postillion Amersfoort/Veluwemeer|Putten|NO|stars_3
+79158|Damrak Inn|Amsterdam|YES|stars_2
+79792|De Palatijn EMB Hotel|Alkmaar|NO|stars_4
+79827|Hampshire Mijdrecht Marickenland|Mijdrecht|NO|stars_4
+79828|Fletcher Badhotel Egmond aan Zee|Egmond aan Zee|NO|stars_3
+79925|Prinsen|Amsterdam|YES|stars_3
+80197|Ferienpark Bloemketerp|Franeker|NO|0
+80213|Grand Hotel Amstelveen|Amstelveen|NO|stars_4
+80224|Hotel Bellevue - geschlossen|Egmond aan Zee|NO|stars_3
+80768|Nadia|Amsterdam|YES|stars_3
+81285|Hampshire Hotel Groningen Centre|Groningen|NO|stars_3
+81743|De Witte Keizerin|Simpelveld|NO|stars_3
+82479|Campanile Breda|Breda|YES|stars_3
+82480|Campanile Rotterdam Oost|Rotterdam|YES|stars_3
+82593|Hotel Apeldoorn|Apeldoorn|NO|stars_4
+82687|Best Western Dam Square Inn|Amsterdam|YES|stars_3
+82692|Chic&Basic Amsterdam|Amsterdam|YES|stars_2
+86095|Hans Brinker|Amsterdam|NO|stars_1
+86549|NH Groningen Hotel de Ville|Groningen|YES|stars_4
+86550|Bastion Groningen|Groningen|YES|stars_3
+86609|Golden Tulip Weert|Weert|YES|stars_4
+86665|Best Western Cityhotel the Goderie|Roosendaal|NO|stars_4
+86666|Hotel 2000|Bad Valkenburg|NO|stars_3
+86668|Tulip Inn Heerlen City Centre|Heerlen|YES|stars_3
+86669|Best Western Aduard|Aduard|NO|stars_3
+86671|Ruyghe Venne|Westerbork|NO|stars_4
+86937|Luxer|Amsterdam|YES|stars_3
+88550|Schiphol A4|Schiphol|YES|stars_4
+88614|Mozart|Amsterdam|NO|stars_3
+90174|Bastion Amsterdam/Zaandam-Zuid|Zaandam|YES|stars_3
+90177|Grand Amrath Amsterdam|Amsterdam|YES|stars_5
+90406|Hampshire City Groningen|Groningen|NO|stars_3
+91735|Holiday Inn Amsterdam|Amsterdam|YES|stars_4
+91736|Park Plaza Amsterdam Airport|Amsterdam|YES|stars_4
+92188|Savoy Amsterdam|Amsterdam|YES|stars_4
+92189|Falcon Plaza|Amsterdam|YES|stars_3
+92190|Campanile Delft|Delft|YES|stars_3
+92191|The Grand Winston|Rijswijk|YES|stars_4
+92766|De Nachtegaal|Lisse|YES|stars_4
+93268|Novotel Rotterdam Schiedam|Rotterdam|NO|stars_4
+95148|Hotel Paganini|Amsterdam|YES|stars_2
+95628|Campanile Zevenaar|Zevenaar|YES|stars_3
+95629|Borgmann Villa|Amsterdam|YES|stars_3
+96669|Hunzepark|Emmen|NO|0
+96759|Cordial|Amsterdam|YES|stars_3
+96760|Flipper|Amsterdam|YES|stars_2
+96762|Thorbecke Hotel|Amsterdam|YES|stars_1.5
+96787|Fletcher Familiehotel Paterswolde|Groningen|NO|stars_4
+97596|Lloyd Cultural Embassy|Amsterdam|YES|stars_3
+97597|Golden Tulip Amsterdam Vinkeveen - geschlossen|Vinkeveen|YES|stars_4
+97610|Buitenplaats Hof van Zeeland|Heinkenszand|NO|0
+97615|Park de Katjeskelder|Oosterhout|NO|stars_4
+97616|Villapark de Wijde Aa|Roelofarendsveen|NO|0
+97618|Duynparc de Heeren van S-Gravensande|'s-Gravenzande|NO|0
+97634|Duynzicht Villapark|Julianadorp|NO|0
+97635|Duynopgangh Villapark|Julianadorp|NO|0
+97651|Marinapark Volendam|Volendam|NO|stars_3
+99215|Campanile Gouda|Gouda|YES|stars_3
+99824|Hostel Centraal|Amsterdam|YES|stars_2
+99846|Campanile Rotterdam West - Vlaardingen|Rotterdam|YES|stars_3
+99870|Aadam Wilhelmina|Amsterdam|YES|stars_2
+99871|King Hotel|Amsterdam|YES|stars_3
+99872|Alexander|Amsterdam|YES|stars_3
+99873|NL Hotel District Leidseplein|Amsterdam|YES|stars_3
+99891|de Duif|Lisse|NO|stars_3
+100710|Recreatiepark Wiringherlant|Hippolytushoef|NO|stars_3
+100778|Nieuw Slotania|Amsterdam|YES|stars_3
+100949|Apollo Almere City Centre|Almere|YES|stars_4
+100960|GreenLine Schaepkens van St. Fijt|Bad Valkenburg|NO|stars_3
+102723|Milano|Rotterdam|YES|stars_3
+102724|Van Walsum|Rotterdam|YES|stars_3
+102725|Art Hotel Rotterdam|Rotterdam|YES|stars_4
+102726|Benelux|Rotterdam|YES|stars_2
+103532|City Amsterdam|Amsterdam|YES|stars_2
+103832|Tulip Inn Leiderdorp|Leiderdorp|YES|stars_3
+103999|Ambassade|Amsterdam|NO|stars_4
+104019|AMS Atlas|Amsterdam|YES|stars_3
+104226|||NO|0
+104315|||NO|0
+104316|||NO|0
+104317|||NO|0
+104318|||NO|0
+104319|||NO|0
+104320|||NO|0
+104321|||NO|0
+104322|||NO|0
+104323|||NO|0
+104324|||NO|0
+104325|||NO|0
+104326|||NO|0
+104328|||NO|0
+104329|||NO|0
+104491|||NO|0
+104579|||NO|0
+104724|||NO|0
+104747|||NO|0
+104751|||NO|0
+104753|||NO|0
+104808|||NO|0
+104930|||NO|0
+104985|||NO|0
+105086|||NO|0
+105282|||NO|0
+105444|||NO|0
+105445|||NO|0
+105447|||NO|0
+105450|||NO|0
+105451|||NO|0
+105643|||NO|0
+105645|||NO|0
+106393|||NO|0
+106697|||NO|0
+106715|||NO|0
+106788|||NO|0
+107021|||NO|0
+107274|||NO|0
+107276|||NO|0
+107281|||NO|0
+107283|||NO|0
+107284|||NO|0
+107286|||NO|0
+107288|||NO|0
+107289|||NO|0
+107290|||NO|0
+107291|||NO|0
+107293|||NO|0
+107297|||NO|0
+107301|||NO|0
+107302|||NO|0
+107303|||NO|0
+107305|||NO|0
+107306|||NO|0
+107307|||NO|0
+107311|||NO|0
+107313|||NO|0
+107314|||NO|0
+107321|||NO|0
+107326|||NO|0
+107328|||NO|0
+107370|||NO|0
+107447|||NO|0
+108155|||NO|0
+108342|||NO|0
+108772|||NO|0
+108776|||NO|0
+108819|||NO|0
+108820|||NO|0
+108846|||NO|0
+108849|||NO|0
+108912|||NO|0
+108985|||NO|stars_3
+109183|Mövenpick Hertogenbosch|Den Bosch|NO|stars_4
+109218|Nes|Amsterdam|NO|stars_3
+109239|Hampshire Newport Huizen|Huizen|NO|stars_4
+109386|Novotel Rotterdam Brainpark|Rotterdam|NO|stars_4
+109549|Papendal Congresscentre|Arnheim|NO|stars_4
+109656|Piet Hein|Amsterdam|NO|stars_3
+109932|NH Waalwijk|Waalwijk|YES|stars_4
+110047|Randwyck|Maastrich|NO|stars_4
+110048|Ravel|Hilversum|NO|stars_3
+110153|Hotel Restaurant Oud London|Zeist|NO|stars_4
+110505|Hotel Vivaldi|Amsterdam|NO|stars_2
+110506|Best Western Plus Blue Square|Amsterdam|YES|stars_4
+110507|Hestia|Amsterdam|NO|stars_3
+111391|Princess Hotel Amersfoort|Amersfoort|YES|stars_3
+111392|Best Western Amsterdam Airport Uithoorn|Uithoorn|NO|stars_3
+111397|Best Western de Veluwe|Beekbergen|NO|stars_3
+111398|Tulip Inn Bergen op Zoom|Bergen op Zoom|YES|stars_3
+111399|Tulip Inn Bodegraven|Bodegraven|YES|stars_3
+111400|Tulip Inn Brinkhotel-Zuidlaren|Tynaarlo|YES|stars_4
+111401|Fletcher Badhotel Callantsoog|Callantsoog|NO|stars_3
+111403|Tulip Inn Franeker|Franeker|YES|stars_3.5
+111404|WestCord Hotel De Veluwe|Garderen|NO|stars_4
+111405|Tulip Inn Media Park Hilversum|Hilversum|YES|stars_3
+111406|Hoogeveen|Hoogeveen|NO|stars_3
+111410|Fletcher Hotel-Restaurant Paasberg|Lochem|NO|stars_3
+111417|Tulip Inn Oosterhout|Oosterhout|YES|stars_3
+111422|Tulip Inn Sevenum|Sevenum|YES|stars_3
+111425|Ten Cate Emmen|Emmen|NO|stars_4
+111452|Hotel Victorie|Amsterdam|NO|stars_2
+111463|Van der Valk Maastricht|Maastrich|NO|stars_4
+111464|Van der Valk Heerlen|Heerlen|NO|stars_4
+111805|Fletcher Hotel-Restaurant Heiloo|Heiloo|NO|stars_4
+111809|Golden Tulip & Tulip Inn Zoetermeer|Zoetermeer|YES|stars_4
+111831|Winselerhof|Landgraaf|NO|stars_4
+122446|D'Orangerie|Maastrich|YES|stars_3
+122448|Villa Cornelia Apart.|Utrecht|YES|stars_2
+122945|Best Western Blue Tower|Amsterdam|YES|stars_4
+124819|Apollo Lelystad City Centre|Lelystad|YES|stars_4
+124820|Max|Amsterdam|YES|stars_2
+124823|Y-Boulevard|Amsterdam|YES|stars_2
+124824|Ibis Styles Amsterdam Amstel|Amsterdam|YES|stars_2
+124825|Ibis Styles Amsterdam City|Amsterdam|YES|stars_3
+125967|Ajax|Amsterdam|NO|stars_2
+126857|Noordzee|Katwijk|NO|stars_3
+127342|Fletcher Hotel-Restaurant De Grote Zwaan|De Lutte|NO|stars_3
+127412|Best Western Nobis Asten|Asten|NO|stars_3
+127413|Sandton Eindhoven City Centre|Eindhoven|NO|stars_3
+127441|de Weyman|Haarlem|NO|stars_3
+127625|Leeuwenbrug|Delft|NO|stars_3
+127687|Fletcher Hotel-Restaurant Du Commerce|Middelburg|NO|stars_3
+127734|SnowWorld Landgraaf Sporthotel|Landgraaf|NO|stars_4
+127749|Bon Repos|Noorbeek|NO|stars_3
+127750|Fletcher Hotel-Restaurant Koogerend|Den Burg|NO|stars_3
+127794|Wesseling|Dwingeloo|NO|stars_4
+127899|Fletcher Hotel-Restaurant Hellendoorn|Hellendoorn|NO|stars_3
+128776|Golden Tulip West Ende|Helmond|YES|stars_4
+128777|Landhotel Legemeer - Hampshire Classic|Skarsterlân|NO|stars_4
+128778|Van der Valk Nieuwerkerk|Nieuwerkerk aan den IJssel|NO|stars_4
+128782|Fletcher Hotel-Restaurant De Mallejan|Vierhouten|NO|stars_4
+128784|Apollo 's-Hertogenbosch - Zaltbommel - geschlossen|Zaltbommel|NO|stars_4
+132776|Banks Mansion|Amsterdam|NO|stars_4
+132777|Sander|Amsterdam|YES|stars_3
+132779|A-train|Amsterdam|NO|stars_3
+132783|Belfort|Amsterdam|YES|stars_3
+132784|Inner|Amsterdam|YES|stars_2
+132785|Bastion Deluxe Hotel Apeldoorn het Loo|Apeldoorn|NO|stars_4
+132786|Bilderberg Landgoed Lauswolt|Beetsterzwaag|YES|stars_4
+132787|Van der Valk Eindhoven|Eindhoven|NO|stars_4
+132788|Golden Tulip Heerlickheijd van Ermelo|Ermelo|YES|stars_4
+132789|Campanile Gorinchem|Gorinchem|YES|stars_3
+132790|Hampshire Plaza Groningen|Groningen|NO|stars_3
+132791|Van der Valk Haarlem - Zuid|Haarlem|NO|stars_4
+132792|Bilderberg Hotel Klein Zwitserland|Heelsum|YES|stars_4
+132793|Hotel-Restaurant 's-Hertogenbosch|Rosmalen|NO|stars_4
+132795|Ibis Leiderdorp|Leiden|NO|stars_3
+132798|Golden Tulip Ampt van Nijkerk|Nijkerk|YES|stars_4
+132799|Erica|Berg En Dal|NO|stars_4
+132800|Bastion Rotterdam Terbregseplein|Rotterdam|YES|stars_3
+132801|Bilderberg Château Holtmühle|Tegelen|YES|stars_3.5
+132804|ibis Utrecht|Utrecht|NO|stars_3
+132807|Bilderberg Hotel Wolfheze|Wolfheze|YES|stars_3.5
+134866|Ibis Rotterdam/Vlaardingen|Rotterdam|NO|stars_3
+134939|Roemer|Amsterdam|YES|stars_4
+135385|Van der Valk Rotterdam - Blijdorp|Rotterdam|YES|stars_4
+135397|Landgoed de Holtweijde|Lattrop|NO|stars_4
+135398|Fletcher de Cooghen|De Koog|NO|stars_3
+135399|Sandton Paal 8 Hotel aan Zee|Terschelling Island|NO|stars_4
+135401|'t Klokje|Renesse|NO|stars_3
+135403|Resort Hof van Saksen|Nooitgedacht|NO|stars_4
+136222|SS Rotterdam by Westcord Hotels|Rotterdam|NO|stars_4
+136724|Fletcher Hotel-Restaurant Het Witte Huis|Soest|NO|stars_3
+136755|Armada Hotel Amsterdam|Amsterdam|YES|stars_2
+139861|Het Hoger Huys|Noordwijk aan Zee|NO|stars_4
+140245|Ambassador City Centre|Haarlem|NO|stars_3
+140332|Ferienpark Zuytland Buiten|Zuidland|NO|0
+142185|Hotel NH Amsterdam Zuid|Amsterdam|YES|stars_4
+142186|De Gerstekorrel|Amsterdam|YES|stars_2
+142986|Inntel Amsterdam Zaandam|Zaandam|YES|stars_4
+159882|Alexander|Noordwijk|NO|stars_4
+159883|Amrath Grand Hotel & Theater Gooiland|Hilversum|NO|stars_4
+159884|Amrath Grand Frans Hals|Haarlem|NO|stars_4
+159885|Amrath Brabant|Breda|NO|stars_4
+159887|Amrath Maarsbergen|Maarsbergen|YES|stars_4
+159889|Apollo Breda City Centre|Breda|NO|stars_4
+159890|Best Western Apollo Museumhotel Amsterdam City Centre|Amsterdam|YES|stars_3
+159901|B&B De Heerlijkheid|Ruinerwold|NO|stars_4
+159910|Best Western Amadore Arneville|Middelburg|NO|stars_4
+159911|Best Western De Jonge|Assen|NO|stars_3
+159912|Best Western De Rustende Jager|Haarlemmermeer|NO|stars_4
+159913|Best Western de Zwaan|Raalte|NO|stars_3
+159914|Fletcher Hotel-Restaurant Steenwijk|Steenwijk|NO|stars_3
+159916|Best Western Petit|The Hague|NO|stars_3
+159919|Van Heeckeren Hotel|Nes|NO|stars_3
+159923|Best Western Museumhotels Delft|Delft|NO|stars_4
+159924|Best Western Hof Van Putten|Putten|NO|stars_3
+159933|Campanile 's-Hertogenbosch|Den Bosch|YES|stars_3
+159934|Campanile Leeuwarden|Leeuwarden|YES|stars_3
+159935|Campanile Eindhoven|Eindhoven|YES|stars_3
+159936|Campanile Venlo|Venlo|YES|stars_3
+159938|Chateâu St. Gerlach|Maastrich|NO|stars_4
+159940|citizenM Amsterdam Schiphol Airport|Amsterdam|NO|stars_4
+159959|Crown Inn|Eindhoven|NO|stars_3
+159968|Oranje Leeuwarden - Hampshire Eden|Leeuwarden|NO|stars_4
+159980|Fletcher Gilde|Deventer|NO|stars_3
+159983|Brunssummerheide Golf Residenz|Brunssum|NO|stars_4
+159986|H2otel Rotterdam|Rotterdam|NO|stars_3
+159987|Hampshire Classic - Landgoed Groot Warnsborn|Arnheim|NO|stars_4
+159988|Hampshire De Eese|Steenwijk|NO|stars_3
+159989|Hampshire Paping Ommen|Ommen|NO|stars_3
+159990|Hampshire Stad Munster|Winterswijk|NO|stars_4
+159992|Hampshire Inn - Dormylle|Mill|NO|stars_4
+159993|Hampshire Inn - Landgoed Stakenberg|Nunspeet|NO|stars_3
+159994|Hampshire Inn - Mooi Veluwe|Putten|NO|stars_3
+159995|Hampshire Trivium & Spa|Etten-Leur|NO|stars_4
+159998|Hilton The Hague|The Hague|NO|stars_5
+160001|Alp de Veenen|Amstelveen|NO|stars_3
+160005|Atlanta|Bad Valkenburg|NO|stars_4
+160010|Sandton Château de Raay|Baarlo|NO|stars_4
+160015|De Admiraal|Utrecht|NO|stars_2
+160018|De Bosrand|Ede|NO|stars_3
+160019|De Lindeboom|Den Burg|NO|stars_3
+160027|Van der Valk Hilversum - de Witte Bergen|Eemnes|NO|stars_4
+160031|Van der Valk Den Haag - Nootdorp|The Hague|NO|stars_4
+160036|Gastronomique De Echoput|Apeldoorn|NO|stars_5
+160037|Grand Cafe Heeren van Noordwijk|Noordwijk|NO|stars_3
+160039|Het Hart van Weesp|Weesp|NO|stars_2
+160043|Kap|Amsterdam|NO|stars_2
+160049|Marienpoel|Leiden|NO|stars_4
+160050|Mitland|Utrecht|YES|stars_4
+160054|One|Rotterdam|NO|stars_4
+160058|Restaurant de Beurs|Hoofddorp|NO|stars_4
+160062|Royal|Sas van Gent|NO|stars_3
+160064|Savelberg|Leidschendam|NO|stars_4
+160067|Jagershuis|Amstelveen|NO|stars_4
+160068|V Frederiksplein|Amsterdam|NO|stars_3
+160071|Zandbergen|Amsterdam|NO|stars_3
+160073|Zwanenburg|Haarlemmermeer|NO|stars_3
+160077|Sandton IJsselhotel|Deventer|NO|stars_4
+160081|Kasteel Wittem|Gulpen|NO|stars_4
+160083|Kruisherenhotel Maastricht|Maastrich|NO|stars_4
+160085|Landgoed Overste Hof|Landgraaf|NO|stars_3
+160089|Librije's Zwolle|Zwolle|NO|stars_5
+160097|Misc Eatdrinksleep|Amsterdam|NO|stars_2
+160115|Sandton Pillows Zwolle|Zwolle|NO|stars_4
+160117|Prominent Inn|Noordwijk|NO|stars_4
+160140|De Hunzebergen|Exloo|NO|stars_4
+160141|Resort De Zeven Heuvelen|Groesbeek|NO|stars_3
+160144|Hostellerie Schuddebeurs|Schuddebeurs|NO|stars_3
+160157|Steyn Hotel & Apartments|Zeist|NO|stars_3
+160167|Orange Tulip & Dam - Orange Tulip|Amsterdam|YES|stars_2
+160174|WestCord Hotel Delft|Delft|NO|stars_3.5
+160177|Van der Valk Akersloot / A9 Alkmaar|Akersloot|NO|stars_4
+160178|Van der Valk Ara - Zwijndrecht|Zwijndrecht|NO|stars_4
+160179|Van der Valk Assen|Assen|NO|stars_4
+160180|Van der Valk Avifauna - Alphen a/d Rijn|Alphen aan den Rijn|NO|stars_4
+160181|Van der Valk Breukelen|Breukelen|NO|stars_4
+160182|Van der Valk Casino Sassenheim|Sassenheim|NO|stars_4
+160183|Van der Valk Cuijk - Nijmegen|Cuijk|NO|stars_4
+160185|Van der Valk De Gouden Leeuw|Voorschoten|NO|stars_4
+160187|Van der Valk Emmeloord|Noordoostpolder|NO|stars_4
+160190|Van der Valk Hardegarijp - Leeuwarden|Leeuwarden|NO|stars_3
+160192|Van der Valk Houten|Houten|NO|stars_4
+160193|Van der Valk Leiden|Leiden|NO|stars_4
+160194|Van der Valk Leusden - Amersfoort|Amersfoort|NO|stars_4
+160195|Van der Valk Nuland|Den Bosch|NO|stars_4
+160196|Van der Valk Ridderkerk|Rotterdam|NO|stars_4
+160198|Van der Valk Tiel|Tiel|NO|stars_4
+160199|Van der Valk Venlo|Venlo|NO|stars_4
+160200|Van der Valk Volendam|Katwoude|NO|stars_4
+160201|Van der Valk 's-Hertogenbosch-Vught|Vught|NO|stars_4
+160211|Wahdo|The Hague|NO|stars_3
+160215|Fletcher Hotel-Restaurant Rooland|Arcen|NO|stars_4
+160220|Hampshire Bon Aparte|Lochem|NO|stars_4
+160221|Parkhotel Horst - Hampshire Classic|Horst aan de Maas|NO|stars_4
+160222|Van der Valk Schloss Bloemendal|Vaals|NO|stars_4
+160225|Klein Zwitserland|Slenaken|NO|stars_4
+160227|Fletcher Hotel-Restaurant La Ville Blanche|Thorn|NO|stars_3
+160228|Hampshire ´t Hof van Gelre|Lochem|NO|stars_4
+163471|NH Amersfoort|Amersfoort|NO|stars_4
+182135|Golden Tulip Zevenbergen|Zevenbergen|YES|stars_4
+182160|WestCord Fashion Hotel Amsterdam|Amsterdam|YES|stars_4
+184266|Aparthotel Delden|Ambt Delden|NO|stars_4
+184271|Victoria|Bergen aan Zee|NO|stars_3
+184280|Guldenberg|Helvoirt|NO|stars_3
+184293|Zonheuvel|Doorn|NO|stars_3
+184299|Parkhotel Het Gulpdal|Slenaken|NO|stars_4
+184301|Fletcher Hotel-Restaurant Het Veluwse Bos|Beekbergen|NO|stars_3
+184320|Riche|Bad Valkenburg|NO|stars_4
+184325|Fletcher Duinhotel Burgh Haamstede|Burgh-Haamstede|NO|stars_4
+185349|Ferienpark Slagharen|Slagharen|NO|stars_3.5
+187523|Campanile Amersfoort|Amersfoort|NO|stars_3
+187574|Campanile Zwolle|Zwolle|YES|stars_3
+188095|Aalders|Amsterdam|YES|stars_3
+197221|Efteling Village Bosrijk|Kaatsheuvel|NO|stars_4
+202563|WestCord WTC Hotel Leeuwarden|Leeuwarden|YES|stars_4
+202954|Central Park Amsterdam|Amsterdam|NO|stars_3
+203196|Acostar|Amsterdam|YES|stars_2
+203197|Hotel CC|Amsterdam|YES|stars_3
+203418|Sint Nicolaas|Amsterdam|NO|stars_3
+203431|Hotel de Vassy|Egmond aan Zee|NO|stars_3
+204023|Airport Texel|De Cocksdorp|NO|stars_3
+204367|Allure|Amsterdam|NO|stars_3
+204390|Alp|Amsterdam|NO|stars_2
+204544|Amstel Corner|Amsterdam|NO|stars_3
+204545|Amstelzicht|Amsterdam|NO|stars_3
+204547|Amsterdam Downtown|Amsterdam|NO|stars_2
+204549|Amsterdam Parklane|Amsterdam|NO|stars_2
+204551|Amsterdam Wiechmann|Amsterdam|NO|stars_2
+204691|Apart Het Veerse Meer|Kortgene|NO|stars_3
+205029|Apollo|Nijmegen|NO|stars_3
+205056|Apart Ons Epen|Epen|NO|stars_3
+205106|Aquarius|Scheveningen|NO|stars_3
+205142|Arcen|Arcen|NO|stars_3
+205341|Asteria|Venray|NO|stars_4
+205481|Auberge Du Bonheur|Tilburg|NO|stars_4
+205635|B&B De Baronie|Amsterdam|NO|stars_3
+205639|B&B De Prince|Nijmegen|NO|stars_2
+205674|B&B La Festa|Amsterdam|NO|stars_3.5
+205708|Baan|Rotterdam|NO|stars_2
+205917|Beach Hotel|Zandvoort|NO|stars_3
+205921|Beach Hotel de Vigilante|Makkum|NO|stars_4
+205982|Bed & Breakfast Soul Inn|Delft|NO|stars_3
+206088|Bema|Amsterdam|NO|stars_1
+206181|Inntel Art Eindhoven|Eindhoven|NO|stars_4
+206390|Botterweck|Bad Valkenburg|NO|stars_3
+206408|NL-Hotel Museumplein|Amsterdam|NO|stars_3
+206410|Boutique Lumiere|Eindhoven|NO|stars_3
+206413|Boutique Seven One Seven|Amsterdam|NO|stars_4
+206415|Boutique View|Amsterdam|NO|stars_2
+206469|Breitner|Rotterdam|NO|stars_3
+206805|Canal House|Amsterdam|NO|stars_4
+207246|Chariot Amsterdam Apartment|Amsterdam|NO|stars_3
+207323|Shanghai Hotel Holland|Delft|YES|stars_4
+207854|Creusen|Epen|NO|stars_4
+207906|Crystal|Amsterdam|NO|stars_2
+207965|D'Amsterdam|Amsterdam|NO|stars_3
+208046|De Borgh|Zevenbergen|NO|stars_3
+208059|De Foreesten|Vierhouten|NO|stars_4
+208073|De Koepoort|Enkhuizen|NO|stars_4
+208120|De Lastage Apartments|Amsterdam|NO|stars_3.5
+208125|de Leijhof|Oisterwijk|NO|stars_3
+208139|De Maasparel|Arcen|NO|stars_3
+208140|Hotel de Magneet|Hoorn|NO|stars_3
+208148|Ringhotel De Oolderhof|Roermond|NO|stars_4
+208151|De Oude Taveerne|Amsterdam|NO|stars_3
+208152|de Paasberg|Ede|NO|stars_3
+208157|De Pelikaan Texel|De Koog|NO|stars_3
+208158|De Plataan|Delft|NO|stars_3
+208169|de Stoppelberg|Beekbergen|NO|stars_2
+208171|De Torenhoeve|Burgh-Haamstede|NO|stars_3
+208179|De Vischpoorte|Deventer|NO|stars_3
+208188|de Weverij|Oss|NO|stars_4
+208243|Delta|The Hague|NO|stars_2
+208259|Den Helder|Den Helder|NO|stars_3
+208615|Dutch Masters Apartments|Amsterdam|NO|stars_3
+208860|ReeHorst|Ede|NO|stars_4
+209297|Fletcher Hotel-Restaurant Boschoord|Oisterwijk|NO|stars_3
+209411|Frederik Park House|Amsterdam|NO|stars_3
+209418|Freeland|Amsterdam|NO|stars_2
+209467|Galerie Hotel Dis|Maastrich|NO|stars_3
+209982|Quartier du Port|Rotterdam|NO|stars_4
+209983|Grand Hotel Post Plaza|Leeuwarden|NO|stars_4
+210147|Gulpen|Gulpen|NO|stars_3
+210167|H2O Hostel Terschelling|Hoorn|NO|stars_2
+210436|Hermitage Amsterdam|Amsterdam|NO|stars_2
+210447|Het Rechthuis|Uithoorn|NO|stars_4
+210539|Hoksbergen|Amsterdam|NO|stars_2
+210595|Hotel-Restaurant Crasborn|Thorn|NO|stars_3
+210929|Hotel & Brasserie de Zwaan|Venray|NO|stars_4
+210938|Best Western Fidder's Hotel & Restaurant|Zwolle|NO|stars_3
+211247|Hegra Amsterdam Centre|Amsterdam|NO|stars_2
+211388|De Lutt|De Lutte|NO|stars_4
+211530|Gulpenerland|Gulpen|NO|stars_4
+211830|Iris|Amsterdam|NO|stars_2
+211978|Hotel Jupiter|Amsterdam|NO|stars_3
+212185|Kogerstaete Texel|De Koog|NO|stars_3
+212682|Landgoed de Rosep|Oisterwijk|NO|stars_4
+212685|Landgoedhotel Moermond|Renesse|NO|stars_3
+212707|Fletcher Landhotel De Borken|Dwingeloo|NO|stars_4
+213115|Leidsesquare Luxury Suites|Amsterdam|NO|stars_4
+213413|Logies de Tabaksplant|Amersfoort|NO|stars_3
+213707|Malts|Haarlem|NO|stars_3
+213727|Manna|Nijmegen|NO|stars_4
+213746|Mansion Bos & Ven|Oisterwijk|NO|stars_4
+213868|Martini Centre|Groningen|NO|stars_2
+213914|Maurits|Scheveningen|NO|stars_3
+214101|Mimosa Scheveningen|Scheveningen|NO|stars_2
+214330|Mozaic|The Hague|NO|stars_3
+214344|Multatuli|Amsterdam|NO|stars_3
+214479|WestCord Hotel New York|Rotterdam|NO|stars_4
+214501|Nicolaas Witsen|Amsterdam|NO|stars_3
+214508|Nieuw Minerva|Leiden|NO|stars_3
+214758|Ons Krijtland|Epen|NO|stars_3
+214761|Oorsprongpark|Utrecht|NO|stars_2
+214769|Molenbos|De Cocksdorp|NO|stars_3
+215082|Parkhotel Valkenburg|Bad Valkenburg|NO|stars_4
+215097|Parkzicht|Eindhoven|NO|stars_3
+215577|Plato|Scheveningen|NO|stars_3
+216372|Prince Hendrik Suites|Amsterdam|NO|0
+216476|Queen|Eindhoven|NO|stars_3
+216492|Quentin Arrive|Amsterdam|NO|stars_1
+216493|Quentin England|Amsterdam|NO|stars_2
+216494|Quentin Hotel|Amsterdam|NO|stars_3
+216586|Hotel Teun|Amsterdam|NO|stars_2
+216747|Rembrandt|Leiden|NO|stars_3
+217032|Residenz Stadslogement|The Hague|NO|stars_3
+217100|Breeburg|Bergen|NO|stars_3
+217102|Hotel Bulten|Winterswijk|NO|stars_3
+217110|Hotel de Pauwenhof|Maastrich|NO|stars_4
+217113|HCR De Stadsherberg|Franeker|NO|stars_3
+217114|Restaurant De Uitkijk Hellendoorn|Hellendoorn|NO|stars_4
+217141|Restaurant Overbosch|Garderen|NO|stars_3
+217394|Rokin|Amsterdam|YES|stars_3
+217748|Sandton Hotel De Roskam|Rheden|NO|stars_4
+217753|Malie Hotel Utrecht - Hampshire Classic|Utrecht|NO|stars_4
+217845|Schimmelpenninck Huys|Groningen|NO|stars_3
+217916|Sebel|The Hague|NO|stars_3
+218071|Sipermann|Amsterdam|NO|stars_2
+218336|Stad en Land|Alkmaar|NO|stars_3
+218513|Suitehotel Pincoffs|Rotterdam|NO|stars_4
+218635|t Witte Huys|Scheveningen|NO|stars_2
+218671|Tatenhove Texel|De Koog|NO|stars_3
+218724|Terminus|Goes|NO|stars_3
+218743|Texel|De Cocksdorp|NO|stars_3
+219750|Townhouse Maastricht|Maastrich|NO|stars_4
+219831|Truelove Antique & Guesthouse|Amsterdam|NO|stars_3
+220222|Villa de Klughte|Wijk aan Zee|NO|stars_3
+220336|Villa Magnolia|Oostkapelle|NO|stars_3
+220574|Volksabdij|Ossendrecht|NO|stars_3
+220621|Washington|Amsterdam|NO|stars_2
+220641|Weber|Amsterdam|NO|stars_3
+220856|Lightotel|Eindhoven|NO|stars_1
+220858|Woudschoten Conferentiecentrum|Zeist|NO|stars_3
+220954|Zorn Hotels|Noordwijk aan Zee|NO|stars_3
+220959|Zuiver / Amstelpark|Amsterdam|NO|stars_3
+221015|AC Hotel Holten|Rijssen-Holten|NO|stars_3
+221016|Tulip Inn Meerkerk|Meerkerk|YES|stars_3
+221204|Artisan|Oirschot|NO|stars_3
+221225|Auberge de Campveerse Toren|Veere|NO|stars_3
+221231|Auberge De Papenberg|Boxmeer|NO|stars_4
+221268|B&B Farmhouse|Leeuwarden|NO|stars_3
+221277|B&B 't Koningsbed|Utrecht|NO|stars_3
+221368|Boer Goossens|Den Bosch|NO|stars_3
+221385|Hotel De Brabantse Biesbosch|Dordrecht|NO|stars_3
+221424|Cafe Restaurant Duinzicht|Schiermonnikoog Island|NO|stars_3
+221552|Chariot|Aalsmeer|NO|stars_4
+221680|De Herbergh van Badhoevedorp|Badhoevedorp|NO|stars_3
+221686|De koekoekshof|Assen|NO|stars_3
+221700|Hotel De Leygraaf|Den Bosch|NO|stars_3
+221701|De Limbourg|Geleen|NO|stars_3
+221702|De Mariahoeve|Terherne|NO|stars_3
+221713|Hotel de Schout|Denekamp|NO|stars_4
+221752|Fletcher Hotel-Restaurant Dinkeloord|Beuningen|NO|stars_3
+221861|Fletcher Hotel-Restaurant Elzenduin|Ter Heijde|NO|stars_4
+221868|Emjee|Leeuwarden|NO|stars_2
+222033|Best Western Hotel Gieling|Duiven|NO|stars_3
+222056|Golden Tulip Graaf Bernstorff|Schiermonnikoog Island|NO|stars_4
+222111|Hampshire Boshotel Vlodrop|Roermond|NO|stars_4
+222146|Havenhotel Texel|Texel|NO|stars_3
+222150|HCR de Kroon|Wissenkerke|NO|stars_3
+222187|Logis Hotel - Restaurant Het Wapen van Elst|Elst|NO|stars_3
+222222|Hotel Epping|Utrecht|NO|stars_3
+222271|Hostellerie De Hamert|Wellerlooi|NO|stars_4
+222296|Kasteel Doenrade|Heerlen|NO|stars_4
+222422|Kasteel Daelenbroeck - Hampshire Classic|Roermond|NO|stars_4
+222423|Kasteel Engelenburg|Zutphen|NO|stars_4
+222424|Kasteel Geulzicht|Maastrich|NO|stars_4
+222487|Fletcher Hotel-Restaurant De Kempen|Reusel|NO|stars_3
+222575|Landhuis Hotel de Herikerberg|Markelo|NO|stars_4
+222669|Linge Elst|Elst|NO|stars_3
+222710|Hotel Lunia|Weststellingwerf|NO|stars_3
+222793|Molengroet|Alkmaar|NO|stars_3
+222810|Montfoort|Woerden|NO|stars_3
+222812|Mooirivier|Dalfsen|NO|stars_4
+222815|Best Western Scholtenhagen|Enschede|NO|stars_3
+222823|Motel Koolen|Wijchen|NO|stars_2
+222870|Nobel|Ballum (Ameland)|NO|stars_4
+222892|Oosterschelde|Sint-Philipsland|NO|stars_3
+222959|Parkhotel Auberge Vincent|Eindhoven|NO|stars_3
+223076|Polysport|Arnheim|NO|stars_2
+223225|Resort Landgoed Westerlee|Winschoten|NO|stars_4
+223241|Hotel Restaurant De Buizerd|Noord-Scharwoude|NO|0
+223251|Restaurant Gerardushoeve|Heerlen|NO|stars_3
+223253|Goerres|Akkrum|NO|stars_3
+223268|Restaurant Umberto|Wijchen|NO|stars_3
+223382|Sandton Restaurant Hotel De Nederlanden|Vreeland|NO|stars_3
+223472|Fletcher Spaarnwoude|Velsen|NO|stars_4
+223547|t Paviljoen|Rhenen|NO|stars_4
+223549|'t Waepen van Veere|Veere|NO|stars_3
+223666|Van der Valk Arnhem|Arnheim|NO|stars_4
+223736|Villa de Theetuin|Winschoten|NO|stars_3
+223788|Vue des Montagnes|Maastrich|NO|stars_3
+223811|WestCord Hotel De Wadden|Vlieland Island|NO|stars_3
+223812|WestCord Residentie Vlierijck|Vlieland Island|NO|stars_4
+223822|Willibrordhaeghe|Helmond|NO|stars_4
+223847|Hotel Zeezicht|Harlingen|NO|stars_3
+228392|Amrath Hazeldonk|Breda|YES|stars_3
+229992|Holthurnsche Hof|Berg En Dal|NO|stars_4
+230004|Hampshire Crown Eindhoven|Eindhoven|NO|stars_4
+230531|De Dankbaarheid|Stavoren|NO|stars_4
+231711|Amadore De Kamperduinen|Kamperland|NO|stars_4
+231712|Landal Waterparc Veluwemeer|Biddinghuizen|NO|stars_3.5
+231718|Landal Dunimar|Noordwijkerhout|NO|stars_3
+232345|Conscious Vondelpark|Amsterdam|NO|stars_3
+232798|Villa Vennendal Landgoedhotel|Nunspeet|NO|stars_4
+232844|Park de Woudhoeve|Egmond aan Zee|NO|stars_2
+233384|Ferienpark de Pluimpot|Scherpenisse|NO|0
+233740|Hampshire Hotel - The Manor Amsterdam|Amsterdam|NO|stars_4
+236617|Crowne Plaza Amsterdam South|Amsterdam|NO|stars_4
+238218|DoubleTree Amsterdam Centraal Station|Amsterdam|NO|stars_4
+238219|JL No76|Amsterdam|NO|stars_4
+238273|Conservatorium|Amsterdam|NO|stars_5
+241509|Bastion Rotterdam/Beneluxtunnel|Vlaardingen|NO|stars_4
+241526|Landal Hoog Vaals|Vaals|NO|stars_3.5
+241670|Landal Orveltermarke|Witteveen|NO|stars_4
+241719|Landal Résidence Terschelling|Midsland|NO|stars_4
+242309|Notting Hill|Amsterdam|NO|stars_4
+244191|Holiday Inn Express Amsterdam - Schiphol|Schiphol|NO|stars_3
+246531|Holiday Inn Express Amsterdam - Sloterdijk Station|Amsterdam|NO|stars_3
+247732|Best Western City Hotel Leiden|Leiden|NO|stars_3
+250095|Andaz Amsterdam, Prinsengracht|Amsterdam|NO|stars_5
+259403|Best Western Plus City Hotel Gouda|Gouda|NO|stars_4
+259432|Fletcher Hotel-Restaurant Nautisch Kwartier|Huizen|NO|stars_3
+259438|Ibis Leiden Centre|Leiden|NO|stars_3
+259439|Het Raedthuys Restaurant & Suites|Sint-Maartensdijk|NO|stars_4
+259780|Ramada Apollo Amsterdam Centre|Amsterdam|NO|stars_4
+260169|Espresso City Centre|Amsterdam|NO|stars_3
+260285|Port|Rotterdam|NO|stars_3
+261213|Holiday Inn Express Amsterdam - South|Amsterdam|NO|stars_3
+261961|Bronckhorst Amsterdam|Amsterdam|NO|stars_3
+261962|Merici|Sittard|NO|stars_4
+265179|Best Western Zaan Inn|Zaandam|NO|stars_3
+270740|Charles Apartment|Amsterdam|NO|stars_4
+270742|Amnesia Apartment|Amsterdam|NO|stars_3
+270743|Amsterdam Center Romance Apartment|Amsterdam|NO|stars_4
+270744|Atlantis Amsterdam|Amsterdam|NO|stars_3
+270747|Sonnenberg Apartments|Amsterdam|NO|stars_3
+270749|Hotel Fita|Amsterdam|NO|stars_3
+270750|Sebastians|Amsterdam|NO|stars_3
+270752|City Centre Apartments Jolanda|Amsterdam|NO|stars_5
+270753|Flower Market|Amsterdam|NO|stars_3
+270754|Gay Amistad Hotel|Amsterdam|NO|stars_2
+270755|Shauna Apartment|Amsterdam|NO|stars_3
+270756|Presidents Choice Apartment|Amsterdam|NO|stars_3
+270757|Jordaan Apartments Amsterdam|Amsterdam|NO|stars_3
+270758|Marnix Hotel|Amsterdam|NO|stars_1
+270760|Excellent Rooms in Amsterdam|Amsterdam|NO|stars_3
+270762|CS Apartment|Amsterdam|NO|stars_3
+270763|La Remise Bed & Breakfast|Amsterdam|NO|stars_4
+270764|Ultraviolet Studios|Amsterdam|NO|stars_2
+270765|Hotel 83|Amsterdam|NO|stars_1
+270766|Hotel Iron Horse|Amsterdam|NO|stars_3
+270767|P.C. Hooft Loft Apartment|Amsterdam|NO|stars_4
+270768|Yellow & Red Tulip Apartment|Amsterdam|NO|stars_4
+270769|Old City Amsterdam Bed&Breakfast|Amsterdam|NO|stars_3
+270770|Artis Aquarium Apartment|Amsterdam|NO|stars_3
+270772|Nemo Apartments & Guest House|Amsterdam|NO|stars_3
+270773|Prince Henry Private Suites & Gardens|Amsterdam|NO|stars_4
+270776|Prinsengracht Studio|Amsterdam|NO|stars_3
+270779|Clemens Amsterdam|Amsterdam|NO|stars_2
+270780|Dam Square Experience Apartment|Amsterdam|NO|stars_3
+270782|The Old Lady|Amsterdam|NO|stars_3
+270783|Amsterdam Boutique Apartments|Amsterdam|NO|stars_2
+270785|Bed & Apartment Singel 96|Amsterdam|NO|stars_3
+270786|Tourist Inn Budget Hotel|Amsterdam|NO|stars_1
+270789|Easyhotel Amsterdam City Centre South|Amsterdam|NO|stars_2
+270790|Kuwadro Bed & Breakfast|Amsterdam|NO|stars_2
+270791|Olympic Stadium Apartment|Amsterdam|NO|stars_3
+270792|Vondelpark Apartment|Amsterdam|NO|stars_3
+270793|Authentic Jordaan Apartment|Amsterdam|NO|stars_3
+270796|Studio Bloemgracht|Amsterdam|NO|stars_3
+270798|Hotel Restaurant Larende|Amsterdam|NO|stars_3
+270799|Barangây|Amsterdam|NO|stars_3
+270800|Hotel Mosaic|Amsterdam|NO|stars_3
+270803|Elandsgracht Apartment|Amsterdam|NO|stars_3
+270804|Ams Suites|Amsterdam|NO|stars_3.5
+270806|Frans Hals Loft|Amsterdam|NO|stars_3
+270808|Apostrophe B&B|Amsterdam|NO|stars_2
+270812|Herengracht Apartment|Amsterdam|NO|0
+270813|Kees Apartment|Amsterdam|NO|stars_3
+270814|The Blue Sheep B&B|Amsterdam|NO|stars_3
+270815|Angels Canal House|Amsterdam|NO|stars_3
+270816|Hotel Parkview|Amsterdam|NO|stars_3
+270819|Phildutch Houseboat Amsterdam Bed and Breakfast|Amsterdam|NO|stars_3
+270821|Jordaan Residence|Amsterdam|NO|stars_4
+270824|Rietvelt Apartment|Amsterdam|NO|stars_4
+270825|Rietvelt Loft|Amsterdam|NO|stars_3
+270826|Bed and Breakfast Amsterdam|Amsterdam|NO|stars_2.5
+270827|Funky Chickin|Amsterdam|NO|stars_2
+270828|Xaviera Hollander's Happy House Bed & Breakfast|Amsterdam|NO|stars_1.5
+270829|All Inn The Family B&B|Amsterdam|NO|stars_3
+270830|Watercraddle|Amsterdam|NO|stars_3
+270831|BedonBoard|Amsterdam|NO|stars_3
+270832|Visseringstaete|Amsterdam|NO|stars_5
+270835|Old Masters Apartment|Amsterdam|NO|stars_3
+270836|Eastern Park Apartments|Amsterdam|NO|stars_4
+270837|Museum Suites|Amsterdam|NO|stars_4
+270838|Las Vegas|Amsterdam|NO|stars_3
+272130|Hotel Wassenaar|Wassenaar|NO|stars_3
+272195|B&B De Haven|Leiden|NO|stars_3
+272201|Hotel Restaurant Zee van Tijd|Nes|NO|stars_2
+272810|City Studios|Rotterdam|NO|stars_3
+273075|Inner City Hotel|Dordrecht|NO|stars_3
+273076|Villa Augustus|Dordrecht|NO|stars_4
+273541|Fletcher Hotel-Restaurant Duinzicht|Ouddorp|NO|stars_4
+273556|Court Garden Hotel|The Hague|NO|stars_3
+273558|Symphony Hotel Noordzee|The Hague|NO|stars_3
+273946|Van der Valk Sneek|Sneek|NO|stars_4
+274026|Residences Maastricht|Maastrich|NO|stars_3
+274027|Zenden Design Hotel Maastricht|Maastrich|NO|stars_3
+274028|Britannique|Maastrich|NO|stars_3
+274029|Le Virage|Maastrich|NO|stars_3
+274030|Kasteel de Hoogenweerth|Maastrich|NO|stars_4
+274244|Hotel De Keizerskroon|Hoorn|NO|stars_3
+274340|Hotel Zilt|Vlissingen|NO|stars_3
+274341|Hotelsuites de Driesprong|Loosdrecht|NO|stars_4
+274441|Havaa Apartments|Utrecht|NO|stars_4
+274442|Badhu|Utrecht|NO|stars_3
+274583|Sycamore - B&B|Eindhoven|NO|stars_3
+274753|Hotel & Spa Savarin - Hampshire Classic|Rijswijk|NO|stars_5
+275308|Van der Valk Almere|Almere|NO|stars_4
+275367|Brasserie Hotel de Nymph|Brielle|NO|stars_4
+275461|Hampshire Hotel - Delft Centre|Delft|NO|stars_4
+275480|Lonneker Staete|Enschede|NO|stars_4
+275481|Mamas Bed & Breakfast|Enschede|NO|stars_3
+275765|Van der Valk Middelburg|Middelburg|NO|stars_4
+275841|Forest Hotel|Den Helder|NO|stars_3
+275960|Hotel Café Restaurant Monopole|Harderwijk|NO|stars_3
+275961|Hotel Harderwijk op de Veluwe|Harderwijk|NO|stars_4
+275971|Fletcher Hotel-Restaurant Veldenbos|Nunspeet|NO|stars_3
+275972|Tuindorphotel 't Lansink|Hengelo|NO|stars_4
+275973|Shire Bed and Breakfast|Wervershoof|NO|stars_3
+276424|Hotel Nijver|Geldrop|NO|stars_4
+276592|Hampshire Lumen|Zwolle|NO|stars_4
+281501|Rosendael|Utrecht|NO|stars_4
+281502|Holiday Inn Express Utrecht- Papendorp|Utrecht|NO|stars_3
+282393|Van der Valk Amersfoort A1|Amersfoort|NO|stars_4
+283035|WestCord Hotel Salland|Raalte|NO|stars_3
+284025|Golden Tulip Parkstad Zuid-Limburg|Kerkrade|YES|stars_4
+284026|Hilton Garden Inn Leiden|Oegstgeest|NO|stars_4
+284842|Stadhouderskade Apartment & Studio|Amsterdam|NO|stars_4
+287327|Hotel Dordrecht|Dordrecht|NO|stars_3
+287328|Van der Valk Dordrecht|Dordrecht|NO|stars_4
+291016|De Bonte Wever|Assen|NO|stars_4
+291663|Van der Valk Duiven-Arnhem|Duiven|NO|stars_4
+292686|Bed & Breakfast Inndeberm|Rotterdam|NO|stars_3
+292754|Maashof|Venlo|NO|stars_3
+292940|Bed & Breakfast Bonjour|Maastrich|NO|stars_4
+293545|Vakantie Appartementen & Parking Service De Buitenrand|De Kwakel|NO|stars_3
+293734|Huis ten Wolde|De Bult|NO|stars_4
+294573|Hotel Princenhof|Drachten|NO|stars_3
+294574|De Roode Leeuw|Terborg|NO|stars_3
+294575|Blauwestadhoeve|Midwolda|NO|stars_3
+294577|Heijenrath|Heijenrath|NO|stars_2
+294582|Alex Rooms|Zwanenburg|NO|stars_3
+294583|Fletcher Hotel-Restaurant Sallandse Heuvelrug|Rijssen|NO|stars_4
+294584|Herberg de Klomp|Vilsteren|NO|stars_3
+295582|WestCord Art Hotel Amsterdam 4****|Amsterdam|NO|stars_4
+295998|Preston Palace|Almelo|NO|stars_3
+297571|De Noordduinen|Katwijk|NO|stars_3.5
+297694|Golden Tulip Amsterdam West|Amsterdam|YES|stars_4
+298306|Ferienpark Akenveen|Tynaarlo|NO|0
+299771|Vossius Vondelpark|Amsterdam|NO|stars_3
+300124|Park Inn By Radisson Amsterdam Airport Schiphol|Schiphol|NO|stars_3
+302450|Landal Strand Resort Nieuwvliet-Bad|Nieuwvliet-Bad|NO|stars_4
+302508|Bilderberg Résidence Groot Heideborgh|Garderen|YES|stars_4
+302515|Fletcher Hotel Amsterdam|Amsterdam|NO|stars_4
+302590|art'otel amsterdam, by park plaza|Amsterdam|NO|stars_5
+317636|Camping De Branding|Zandvoort|NO|stars_2
+324967|Hotel Bliss|Breda|NO|stars_4
+333993|Hof Christina Hoevehotel|Vrouwenpolder|NO|stars_3
+359442|Sir Albert|Amsterdam|NO|stars_4
+359898|Zuiderduin - Appartementhotel|Egmond aan Zee|NO|stars_3.5
+359899|Zuiderduin - Ferienwohnungen|Egmond aan Zee|NO|stars_3.5
+363264|Hampton by Hilton Amsterdam Arena Boulevard|Amsterdam|NO|stars_3
+363409|MEININGER Amsterdam City West|Amsterdam|NO|stars_2
+363473|Roompot Egmond aan Zee|Egmond aan Zee|NO|stars_3
+363606|Room Mate Aitana|Amsterdam|NO|stars_4
+365528|Roompot Nordzee Cadzand-Bad|Cadzand-Bad|NO|stars_4
+365529|Ferienpark Roompot Weerterbergen|Weert|NO|stars_4
+366653|Amsterdam City Identity Apartments|Amsterdam|NO|stars_3
+367903|Amadi Park Hotel|Amsterdam|NO|stars_4
+367906|Grand Hotel Downtown|Amsterdam|NO|stars_4
+367910|The Amsterdam Canal Hotel|Amsterdam|NO|stars_3
+367911|Waldorf Astoria Amsterdam|Amsterdam|NO|stars_5
+368495|Mookerheide Hampshire Classic|Nijmegen|NO|0
+369005|Groenendael Hotel And Conferentiec|Hilvarenbeek|NO|stars_3
+369344|Hampton Amsterdam Airport Schiphol|Hoofddorp|NO|stars_3
+369415|Hotel Glow|Eindhoven|NO|stars_3
+369416|Tulip Inn Eindhoven Airport|Eindhoven|YES|stars_3
+369515|Bastion Amsterdam Airport|Hoofddorp|NO|stars_4
+370131|Mercure Hotel Amersfoort Centre|Amersfoort|NO|stars_4
+372560|nhow Rotterdam|Rotterdam|NO|stars_4
+372742|De Wielingen|Cadzand-Bad|NO|stars_4
+377186|Het Zwaantje|Callantsoog|NO|stars_2
+381335|Haas Op Het Vrijthof Luxury Guesthouse|Maastrich|NO|stars_4
+382364|Mary K Hotel Luxury Art Hotel|Utrecht|NO|stars_3
+382485|Thermen Bussloo Wellness & Hotel|Apeldoorn|NO|stars_4
+382756|Dux Hotel|Roermond|NO|stars_4
+384681|Arrows|Uden|NO|stars_4
+384682|Bed En Brood-Veere|Veere|NO|stars_4
+386207|50-50 Belmont|Ede|NO|stars_4
+391287|Hampshire Hotel Fitland - Leiden|Leiden|NO|stars_4
+391288|Hampshire Hotel Fitland - Helmond|Helmond|NO|stars_3
+391444|Nova Hotel & Apartments - Nova Hotel|Amsterdam|NO|stars_3
+391576|Holiday Inn Express Amsterdam - Arena Towers|Amsterdam|NO|stars_3
+391577|Holiday Inn Amsterdam - Arena Towers|Amsterdam|NO|stars_4
+391986|Ferienpark Belterwiede|Wanneperveen|NO|0
+400982|Brooklyn Hotel|Amsterdam|NO|stars_4
+400984|De Hallen|Amsterdam|NO|stars_4
+402681|WestCord Art Hotels Amsterdam|Amsterdam|NO|stars_3
+403758|Easyhotel Den Haag|The Hague|NO|stars_2
+404798|Hotel Mansion|Amsterdam|NO|stars_3
+404852|Easyhotel Rotterdam City Centre|Rotterdam|NO|stars_2
+405272|Hyatt Place Amsterdam Airport|Hoofddorp|NO|stars_4
+406732|ibis budget Amsterdam Zaandam|Zaandam|NO|stars_2
+407159|Grandhotel Ter Duin|Burgh-Haamstede|NO|stars_4
+407906|Best Western Premier Couture|Amsterdam|NO|stars_4
+407908|Corendon Vitality Hotel|Amsterdam|NO|stars_4
+408995|Hotel Fitland XL Sittard|Sittard|NO|stars_3
+411520|CoHo Suites|Amsterdam|NO|stars_3
+412315|Tulip Inn Leiden Centre|Leiden|YES|stars_3
+414655|Center Parcs Park Zandvoort an der Nordsee - Hotel|Zandvoort|NO|stars_4
+414656|Center Parcs Park Zandvoort an der Nordsee - Ferienhäuser|Zandvoort|NO|stars_4
+417551|Royal Amsterdam Hotel|Amsterdam|NO|stars_4

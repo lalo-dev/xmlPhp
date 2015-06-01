@@ -1,0 +1,61 @@
+9744|Caribe Hilton|San Juan|NO|stars_4
+10747|Copamarina Beach Resort|Guanica|YES|stars_3
+11938|El Convento|San Juan|NO|stars_4
+12014|El San Juan Resort & Casino|San Juan|YES|stars_4
+14407|Hosteria del Mar|San Juan|NO|stars_2.5
+19257|Hilton Ponce Golf & Casino Resort|Ponce|NO|stars_4
+20965|Marriott Resort & Stellaris Casino|San Juan|NO|stars_4
+22801|Horned Dorset Primavera|Rincon|NO|stars_4
+22802|Hyatt Hacienda Del Mar, A Hyatt Residence Club|Dorado|YES|stars_0
+22982|The Ritz-Carlton San Juan|Isla Verde|NO|stars_5
+24409|Rio Mar Beach Resort & Spa, a Wyndham Grand Resort|Rio Grande|YES|stars_4
+24537|Sheraton Old San Juan Hotel & Casino|San Juan|YES|stars_4
+32093|Doubletree by Hilton San Juan|San Juan|YES|stars_4
+32104|Rincon Beach Resort|Mayagüez|YES|stars_3
+38531|Intercontinental San Juan|San Juan|YES|stars_4
+38532|Gran Melia Golf Resort Puerto Rico|Rio Grande|YES|stars_4.5
+38738|San Juan Water & Beach Club|San Juan|YES|stars_4
+59292|Hotel Miramar|San Juan|YES|stars_3
+65509|Embassy Suites Dorado del Mar Beach & Golf Resort|Dorado|YES|stars_3
+65625|Embassy Suites San Juan Casino|Isla Verde|YES|stars_3
+66469|Hampton Inn & Suites San Juan|San Juan|YES|stars_0
+67534|Normandie|San Juan|YES|stars_4
+67535|Radisson Ambassador Plaza Hotel & Casino|San Juan|YES|stars_3
+76391|Wyndham Garden at Palmas del Mar|Humacao|YES|stars_3
+79066|Verdanza|Isla Verde|YES|stars_3
+79067|Howard Johnson Carolina San Juan|Isla Verde|YES|stars_3
+79068|Courtyard Isla Verde Beach Resort|Isla Verde|YES|stars_4
+79956|El Conquistador|Fajardo|YES|stars_4
+94018|Aquarius Vacation Club Boquerón Beach Resort|Boqueron|YES|stars_3
+94020|Club Cala de Palmas|Humacao|NO|stars_3
+94081|Villa Montana Beach Resort|Aguadilla|NO|stars_4
+94429|Holiday Inn Ponce & Tropical Casino|Ponce|YES|stars_3
+94657|Four Points Caguas Real Hotel & Casino|Caguas|YES|stars_3
+106433|Coral Princess Inn|San Juan|YES|stars_0
+106861|Quality Inn El Portal|San Juan|YES|stars_2
+107736|Holiday Inn Mayaguez & Tropical Casino|Mayagüez|NO|stars_3
+110695|San Juan Beach|San Juan|YES|stars_2.5
+124854|Plaza De Armas|San Juan|NO|stars_2
+134176|The Condado Plaza Hilton|San Juan|YES|stars_4
+162005|Howard Johnson Ponce|Ponce|YES|stars_0
+162006|La Concha: A Renaissance Resort|San Juan|NO|stars_4
+162013|Fajardo Inn|Puerto Real|NO|stars_3
+162022|La Playa Hotel|Carolina|YES|stars_0
+162023|Howard Johnson Inn Downtown Mayaguez|Mayagüez|YES|stars_2
+162045|Parador Villas De Mar Hau|Isabela|NO|stars_3
+182521|Sheraton Puerto Rico Hotel & Casino|San Juan|YES|stars_4
+219050|The Gallery Inn|San Juan|YES|stars_0
+227221|Ramada Ponce|Ponce|YES|stars_3
+232196|Terraces at Rincon|Rincon|NO|stars_4
+234970|St. Regis Bahia Beach Resort|Rio Grande|YES|stars_5
+234971|W Hotels Retreat & Spa - Vieques Island|Vieques|YES|stars_4.5
+244231|Howard Johnson Centro Cardiovascular San Juan|San Juan|YES|stars_0
+261218|O:live|San Juan|NO|stars_4
+278385|CasaBlanca Hotel|San Juan|YES|stars_0
+278388|Ciqala Luxury Home Suites|San Juan|NO|stars_4
+278467|Casa Islena Inn|Rincon|NO|stars_2.5
+295637|Las Casitas Village a Waldorf Astoria Resort|Fajardo|YES|stars_5
+297315|Casa Grande Mountain Retreat|Utuado|NO|stars_2.5
+302309|Dorado Beach, a Ritz Carlton|Dorado|NO|stars_5
+316459|Regency Hotel San Juan|San Juan|YES|stars_0
+406130|Hyatt Place San Juan/Bayamón|Bayamón|NO|stars_3
