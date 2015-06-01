@@ -1,0 +1,3584 @@
+6996|Lisboa|Macao (Macau)|YES|stars_5
+7700|Grand Park Xian|Xian|YES|stars_5
+8075|Asia Beijing|Beijing|YES|stars_5
+8526|Crown Plaza Kunming City Centre|Kunming|NO|stars_4.5
+9674|Capital|Beijing|YES|stars_5
+10176|Castle|Suzhou|YES|stars_4
+11079|Sheraton Guilin|Guillin|YES|stars_5
+11834|Xinmei East China Hotel|Shanghai|NO|stars_3
+12157|Equatorial Shanghai|Shanghai|YES|stars_4
+13007|Fubo|Guillin|YES|stars_3
+13232|Riverside|Canton (Guangzhou)|YES|stars_4
+13256|Gloria Resort|Sanya|YES|stars_5
+13483|Grand Hyatt|Shanghai|YES|stars_5
+13495|Grand New World|Xian|YES|stars_4
+13664|Plaza Guilin|Guillin|YES|stars_4
+14508|Regency Macau|Macao (Macau)|YES|stars_4
+15056|JC Mandarin|Shanghai|YES|stars_5
+15071|Jinjiang Shanghai|Shanghai|YES|stars_5
+16344|Lijiang Grand|Lijiang|NO|stars_3
+16746|Mandarin Garden|Nanjing|YES|stars_5
+16748|Mandarin Oriental Macau|Macao (Macau)|NO|stars_5
+16754|Grand Lapa Macau|Macao (Macau)|YES|stars_5
+17498|Sichuan Minshan|Chengdu|NO|stars_4
+17500|Minzu|Beijing|YES|stars_4
+17933|New Otani Chang Fu Gong|Beijing|YES|stars_5
+17939|pentahotel Beijing|Beijing|YES|stars_4
+18065|Ramada Plaza|Hangzhou|YES|stars_4
+18192|Ocean|Shanghai|YES|stars_4
+18441|Pravo|Shanghai|YES|stars_3.5
+18891|Fairmont Peace|Shanghai|NO|stars_5
+19437|Prime|Beijing|YES|stars_5
+19501|Shangri-La Pudong|Shanghai|YES|stars_5
+19567|Dynasty|Xian|YES|stars_3
+20676|Royal Garden|Guillin|YES|stars_5
+21469|Shangri-La|Beijing|YES|stars_5
+21596|Sheraton Xian|Xian|YES|stars_5
+21688|Swissotel Beijing|Beijing|YES|stars_5
+21803|Sofitel Hyland|Shanghai|YES|stars_4
+21994|South China Resort|Sanya|YES|stars_4
+22499|Taiwan|Beijing|YES|stars_3
+22786|The Great Wall Sheraton|Beijing|YES|stars_5
+22893|The Peninsula|Beijing|YES|stars_5
+23129|Tibet|Chengdu|YES|stars_5
+24327|Wangfujing Grand|Beijing|YES|stars_4
+24435|White Swan|Canton (Guangzhou)|YES|stars_5
+24502|Zhejiang Narada Grand|Hangzhou|YES|stars_5
+24559|Novotel Xin Qiao|Beijing|YES|stars_4
+24561|Xuanwu|Nanjing|NO|stars_5
+27963|Pousada de Sao Tiago|Macao (Macau)|YES|stars_5
+28021|Holiday Inn Resort Sanya Bay|Sanya|YES|stars_4
+28023|Resort Golden Palm Sanya|Yalong Bay|YES|stars_4
+30589|Jing Guang New World|Beijing|YES|stars_5
+30590|Regal Shanghai East Asia|Shanghai|YES|stars_4
+32406|Grand Hyatt Beijing|Beijing|YES|stars_5
+32407|Qianmen Jian Guo|Beijing|NO|stars_4
+32408|Grand Mercure Beijing Central|Beijing|YES|stars_4
+35389|Grand View Garden|Beijing|YES|stars_4
+35391|Lansheng|Shanghai|YES|stars_4
+35392|Bell Tower|Xian|YES|stars_4
+35393|Le Garden|Xian|YES|stars_4
+35394|Guilin Park Hotel|Guillin|YES|stars_4
+38096|Four Seasons Shanghai|Shanghai|YES|stars_5
+38097|The Portman Ritz-Carlton|Shanghai|YES|stars_5
+38143|JW Marriott Chongqing|Chungking (Chongqing)|YES|stars_5
+38562|Holiday Inn Shanghai Downtown|Shanghai|YES|stars_4
+38563|Kunlun|Beijing|YES|stars_5
+38564|Shanghai|Shanghai|NO|stars_4
+38565|Sheraton Hongqiao|Shanghai|YES|stars_5
+38566|Park Plaza Science Park|Beijing|YES|stars_4
+38587|Shangri-La Changchun|Changchun|YES|stars_5
+38589|Shangri-La Qingdao|Tsingtau (Qingdao)|YES|stars_5
+38590|Shangri-La Golden Flower|Xian|YES|stars_5
+38591|Shangri-La|Shenzhen|YES|stars_5
+38810|Beijing|Beijing|YES|stars_5
+38811|The Westin Bund Center|Shanghai|YES|stars_5
+39170|Exhibition Centre|Beijing|NO|stars_3
+39172|Hua Ting Hotel & Towers|Shanghai|YES|stars_5
+39414|Holiday Inn City Centre|Canton (Guangzhou)|YES|stars_4
+39415|Okura Garden|Shanghai|NO|stars_5
+39417|Grand Metropark Xi'an|Xian|YES|stars_5
+51341|Beijing International|Beijing|YES|stars_4.5
+51343|Kempinski Lufthansa Center|Beijing|YES|stars_5
+51344|Majesty Plaza|Shanghai|YES|stars_4.5
+52360|Holiday Inn Macau|Macao (Macau)|YES|stars_4
+52712|Sanya Sheraton|Yalong Bay|YES|stars_5
+53053|The Garden|Canton (Guangzhou)|YES|stars_5
+53054|Howard Johnson Plaza|Shanghai|YES|stars_5
+53055|Landmark Canton|Canton (Guangzhou)|YES|stars_4
+54537|Guangzhou|Beijing|YES|stars_4
+54538|Hengsheng Peninsula International|Shanghai|YES|stars_4
+54702|Holiday Inn Changan West|Beijing|YES|stars_4
+54703|Hilton Beijing|Beijing|YES|stars_5
+54704|Metropark Lido|Beijing|YES|stars_4
+54706|Jian Guo|Beijing|YES|stars_4
+54708|Holiday Inn Downtown Beijing|Beijing|YES|stars_4
+54709|China World|Beijing|YES|stars_5
+54711|Crowne Plaza Wangfujing|Beijing|YES|stars_5
+54712|Holiday Inn Temple Of Heaven|Beijing|YES|stars_4
+54714|Crowne Plaza|Tsingtau (Qingdao)|YES|stars_5
+55702|Grand Beijing|Beijing|NO|stars_5
+58077|The Venice|Shenzhen|NO|stars_5
+58316|Jinling|Nanjing|YES|stars_5
+58322|Hilton Shanghai|Shanghai|YES|stars_5
+58323|Captain Hostel - Yan An Road Branch|Shanghai|NO|stars_2
+58324|DoubleTree Shanghai - Pudong|Shanghai|YES|stars_5
+58682|Horizon Resort & Spa|Sanya|YES|stars_5
+58683|Resort Intime|Dadonghai Bay|YES|stars_5
+58742|Radisson Blu Beijing|Beijing|YES|stars_4
+58743|Traders Beijing|Beijing|YES|stars_4
+58744|Rosedale|Beijing|YES|stars_4
+60915|Bai Yun Hotel|Canton (Guangzhou)|YES|stars_4.5
+60927|Hua Du|Beijing|YES|stars_3
+60929|Intercontinental Pudong|Shanghai|YES|stars_5
+60933|Jin Jiang Tower|Shanghai|YES|stars_5
+60934|Greenland Jiulong|Shanghai|YES|stars_4
+60938|Shangri-La|Hangzhou|YES|stars_5
+63536|Marriott Hongqiao|Shanghai|NO|stars_5
+64416|Renaissance Shanghai Yangtze|Shanghai|YES|stars_5
+64417|Rainbow|Shanghai|YES|stars_4
+64451|Harmony|Beijing|YES|stars_3
+64452|New Asia|Shanghai|YES|stars_3
+64453|Guangdong|Shanghai|YES|stars_4
+65475|Hilton Dalian|Dalian|NO|stars_4
+66238|Jianguo|Canton (Guangzhou)|YES|stars_5
+66240|Asia International|Canton (Guangzhou)|YES|stars_5
+66241|HNA Central|Canton (Guangzhou)|YES|stars_4
+66244|Rosedale|Canton (Guangzhou)|YES|stars_4
+66245|DongFang|Canton (Guangzhou)|YES|stars_5
+66246|Lido|Canton (Guangzhou)|YES|stars_3
+66247|Wa King Town|Canton (Guangzhou)|YES|stars_4
+66248|Guangdong Victory|Canton (Guangzhou)|YES|stars_4
+66408|Hilton Chongqing|Chungking (Chongqing)|YES|stars_5
+67619|Radisson Plaza Xing Guo|Shanghai|YES|stars_5
+68657|RJ Brown|Beijing|YES|stars_3
+68658|Sofitel on Renmin Square Xian|Xian|YES|stars_5
+68659|Sanya Marriott Resort & Spa|Sanya|YES|stars_5
+68932|Guilin Bravo Hotel Grand Wing|Guillin|YES|stars_4
+70037|Kunming|Kunming|YES|stars_4
+70074|Holiday Inn Central Plaza|Beijing|YES|stars_4
+71800|Mission Hills Shenzhen|Shenzhen|NO|stars_5
+72589|Banyan Tree Lijiang|Lijiang|YES|stars_5
+73085|Grand Coloane Resort|Macao (Macau)|YES|stars_5
+73148|Novotel Atlantis|Shanghai|YES|stars_4
+75324|Renaissance Shanghai Pudong|Shanghai|YES|stars_5
+75777|Gloria Plaza|Beijing|YES|stars_4
+75778|Bamboo Garden|Beijing|NO|stars_3
+75779|Novotel Peace|Beijing|YES|stars_4
+75835|Radisson Blu Shanghai New World|Shanghai|YES|stars_5
+76323|Hilton Sanya Resort & Spa|Sanya|YES|stars_5
+76324|Golden Jade Sunshine|Shanghai|NO|stars_4
+76354|Central Shanghai|Shanghai|YES|stars_4
+76355|Grand Noble Xi'an|Xian|YES|stars_4.5
+76738|Wynn Macau|Macao (Macau)|YES|stars_5
+76740|Raffles|Beijing|YES|stars_5
+76826|Lijiang Waterfall|Guillin|YES|stars_5
+77257|Aurum International|Xian|YES|stars_4
+77258|Tianyu Gloria Grand|Xian|YES|stars_5
+77259|Grand Mercure Xian Renmin Square|Xian|YES|stars_5
+77260|Mercure on Renmin Square|Xian|YES|stars_4
+77266|Sanya Yalong Bay Seaview International Resort|Sanya|YES|stars_4.5
+77280|HuaYu Resort & Spa Yalong Bay Sanya|Sanya|YES|stars_5
+77281|Shanhaitian|Sanya|YES|stars_5
+77631|Crowne Plaza Fudan Shanghai|Shanghai|YES|stars_5
+78125|The Bund|Shanghai|YES|stars_4
+78126|Park Plaza Beijing Wangfujing|Beijing|YES|stars_4
+79038|New Century|Shanghai|YES|stars_4
+79179|Holiday Inn Shanghai Pudong|Shanghai|YES|stars_4
+79180|Salvo|Shanghai|YES|stars_4
+80018|Dong Fang|Beijing|YES|stars_3.5
+80142|Golden River View|Shanghai|NO|stars_4
+80578|The Hongta|Shanghai|YES|stars_5
+80579|The Ritz-Carlton|Beijing|YES|stars_5
+81990|Fuchun Resort|Hangzhou|NO|stars_5
+82152|Rainbow Beijing|Beijing|YES|stars_3.5
+82153|Liang An|Shanghai|YES|stars_3
+82318|CTS Plaza|Beijing|YES|stars_4
+82319|Astor House|Shanghai|YES|stars_3
+82320|Skytel|Xian|YES|stars_4
+82321|Guilin Osmanthus|Guillin|YES|stars_3
+83868|New Era|Kunming|YES|stars_4
+83955|Royalton|Shanghai|YES|stars_4
+84071|Harbour Plaza Chongqing|Chungking (Chongqing)|YES|stars_5
+84092|Kempinski Chengdu|Chengdu|YES|stars_5
+84104|Ramada Plaza Tian Lu Hotel Wuhan|Wuhan|YES|stars_5
+84141|Phoenix City|Canton (Guangzhou)|YES|stars_5
+84155|Shangri-La Dalian|Dalian|YES|stars_5
+84165|New Harbour Service Apartments|Shanghai|YES|stars_4
+84171|Chang Hang|Shanghai|YES|stars_3
+84177|Jin Jiang Park|Shanghai|YES|stars_4
+84179|Zhongyu Century Grand|Beijing|YES|stars_4
+84180|Zhao An|Shanghai|YES|stars_3
+84182|Nanyang King's Gate|Canton (Guangzhou)|YES|stars_4
+84184|Oasis Tower|Shanghai|NO|stars_3
+84187|Ascott Beijing|Beijing|YES|stars_5
+84189|Somerset Grand Fortune Garden|Beijing|YES|stars_4
+84190|Luxury Serviced Residence|Beijing|YES|stars_4
+84192|Acme Sunhall Serviced Apartment|Shanghai|YES|stars_5
+84194|Somerset Xu Hui|Shanghai|YES|stars_4
+84196|Somerset Olympic Tower|Tianjin|NO|stars_4
+84197|Springdale Serviced Residence|Canton (Guangzhou)|YES|stars_4
+84198|New West Street International Hotel|Guillin|NO|stars_4
+84199|Somerset Harbour Court|Dalian|YES|stars_4.5
+84214|GreenTree Inn Shanghai Quyang|Shanghai|NO|stars_2.5
+84234|V8 Train Station Branch|Canton (Guangzhou)|YES|stars_2
+84307|Sakura Kunming|Kunming|YES|stars_4
+84333|Oriental Riverside|Shanghai|YES|stars_5
+84359|Howard Johnson Plaza Guizhou|Guiyang|YES|stars_4.5
+84360|Yangshuo Paradise|Yangshuo|YES|stars_4
+84389|Nikko Dalian|Dalian|YES|stars_5
+84393|The Yangtze Boutique|Shanghai|YES|stars_5
+84451|Zhejiang International|Hangzhou|YES|stars_5
+84495|Long Hu Hotspring|Beijing|YES|stars_3
+85012|Grand Emperor|Macao (Macau)|YES|stars_4
+85013|Best Western Taipa|Macao (Macau)|YES|stars_3
+85140|Dong Jiao Min Xiang Hotel|Beijing|YES|stars_3.5
+85143|Jian Guo Garden|Beijing|YES|stars_4
+85156|Yangshuo New Century Resort|Yangshuo|NO|stars_4
+85513|Emperor Macau|Macao (Macau)|YES|stars_3
+85514|Beverly Plaza Macau|Macao (Macau)|YES|stars_4
+85516|Metropark|Macao (Macau)|YES|stars_4
+85517|Metropole|Macao (Macau)|YES|stars_3
+85521|Rio|Macao (Macau)|YES|stars_4
+85522|The Ritz-Carlton Macao, Studio City|Macao (Macau)|YES|stars_3
+85523|Sintra|Macao (Macau)|YES|stars_3
+87417|Days|Shanghai|YES|stars_4
+87434|Mandarin Oriental Sanya|Sanya|YES|stars_5
+87889|Red Wall|Beijing|YES|stars_3
+88151|Casa Real|Macao (Macau)|YES|stars_4
+88198|HNA Resort Kangle Garden|Wanning|NO|stars_5
+88316|Canaan International|Xian|YES|stars_3
+88481|Swiss-Belhotel on the Park|Wuhan|YES|stars_4
+88489|Holiday Inn Express Hefei Downtown|Hefei|YES|stars_4
+88638|Nikko Tianjin|Tianjin|YES|stars_5
+88661|Howard Johnson Paragon|Beijing|YES|stars_4
+88863|Yong An|Beijing|YES|stars_3
+88946|Zhongan|Beijing|YES|stars_2
+88977|Grand Mercure Shenzhen Oriental Ginza|Shenzhen|YES|stars_5
+89007|City View|Shanghai|NO|stars_4
+89008|Chateau Regency|Suzhou|YES|stars_5
+89013|Howard Johnson Allsuites|Shanghai|YES|stars_4
+89014|LinTong|Shanghai|NO|stars_2
+89015|Rendezvous Shanghai Merry|Shanghai|YES|stars_4
+89023|Rayfont Celebrity|Shanghai|NO|stars_4
+89076|Magnificent International|Shanghai|YES|stars_3
+89079|Lilac International Suite|Canton (Guangzhou)|YES|stars_3
+89080|Shanghai Luminous Modern Universe|Shanghai|NO|stars_4
+89127|Lake View Hangzhou|Hangzhou|YES|stars_4
+89128|International Conference Hotel of Nanjing|Nanjing|NO|stars_4
+89130|Huachen International|Hangzhou|NO|stars_4
+89131|Culture Plaza Zhejiang|Hangzhou|YES|stars_4
+89133|Jin Jiang Pacific|Shanghai|YES|stars_3
+89139|Jin Jiang Galaxy|Shanghai|YES|stars_4
+89172|Jin Jiang|Nanjing|YES|stars_4
+89180|Jin Jiang Cypress|Shanghai|YES|stars_4
+89181|Jinjiang Airlines Shenzhen|Shenzhen|YES|stars_5
+89182|Jian Guo|Shanghai|YES|stars_4
+89245|Century Kingdom|Shenzhen|NO|stars_5
+89286|V8 Zi Yuan Gang Branch|Canton (Guangzhou)|YES|stars_2
+89344|Wuhan Jin Jiang International|Wuhan|YES|stars_5
+89345|Holiday Islands|Canton (Guangzhou)|NO|stars_5
+89346|Pine City|Shanghai|YES|stars_4
+89347|Jin Jiang Jin Sha|Shanghai|YES|stars_3
+89349|World Trade Shanxi|Taiyuan|NO|stars_5
+89383|Zhejiang XiZi|Hangzhou|NO|stars_4.5
+89407|HNA Beach & Spa Resort|Haikou|YES|stars_5
+89413|Somerset ZhongGuanCun|Beijing|YES|stars_4.5
+89416|Green Court Serviced Apartment|Shanghai|YES|stars_4
+89417|Citadines Xinghai Suzhou|Suzhou|YES|stars_4
+90253|Narada Resort & Spa|Sanya|YES|stars_5
+90254|Sofitel Wanda|Beijing|YES|stars_5
+90255|Hyatt on the Bund|Shanghai|YES|stars_5
+90257|Le Royal Méridien|Shanghai|YES|stars_5
+90530|Dorure International|Shanghai|YES|stars_3
+90534|Universal Resort Sanya|Yalong Bay|NO|stars_5
+91538|StarWorld Macau|Macao (Macau)|YES|stars_5
+91541|Four Points by Sheraton Shanghai, Pudong|Shanghai|YES|stars_4
+91542|Shangri-La Wuhan|Wuhan|YES|stars_5
+91543|Marriott China|Canton (Guangzhou)|YES|stars_5
+91792|Beijing Wuhuan|Beijing|YES|stars_4
+92460|New World|Shanghai|YES|stars_5
+92860|Swissotel Grand|Shanghai|YES|stars_5
+92861|Yinhe Dynasty|Chengdu|YES|stars_4
+93293|Mangrove Tree Resort Yalong Bay|Sanya|YES|stars_5
+93699|Grand International|Canton (Guangzhou)|YES|stars_5
+93700|Nanyang Royal|Canton (Guangzhou)|YES|stars_4
+93702|Tianyuan Tower Hangzhou|Hangzhou|YES|stars_4
+93705|Jin Jiang Metropole|Shanghai|YES|stars_3
+93706|Howard Johnson Zhangjiang|Shanghai|YES|stars_4
+93707|Argyle International Airport Hongqiao|Shanghai|YES|stars_4
+93761|Great|Beijing|NO|stars_3
+93762|Xinhai Jinjiang|Beijing|YES|stars_4
+93763|Shatan|Beijing|YES|stars_3
+93764|Oriental Garden|Beijing|NO|stars_4
+93765|Jinjiang Fuyuan|Beijing|NO|stars_4.5
+93766|Fujian|Beijing|NO|stars_4
+93767|Somerset Apartment|Beijing|YES|stars_3
+93769|Citycourt|Beijing|YES|stars_3
+94017|Jingmin Central|Xiamen|YES|stars_5
+94146|Holiday Inn Zhongshan|Shenyang|YES|stars_4
+94147|Crowne Plaza Zhongshan|Shenyang|YES|stars_5
+94148|Novotel Bauhinia|Shenzhen|YES|stars_4
+94149|Holiday Inn Donghua Shenzhen|Shenzhen|YES|stars_4
+94173|Sofitel Zhongshan Golf Resort|Nanjing|YES|stars_5
+94174|Holiday Inn Shifu|Canton (Guangzhou)|YES|stars_4
+94175|Holiday Inn North|Chungking (Chongqing)|YES|stars_4
+94176|Intercontinental Chongqing|Chungking (Chongqing)|YES|stars_5
+94177|Crowne Plaza Chengdu City Center|Chengdu|YES|stars_4.5
+94181|Crowne Plaza Shanghai|Shanghai|YES|stars_5
+94182|Holiday Inn Shanghai Vista|Shanghai|YES|stars_4
+94183|Crowne Plaza Pudong Shanghai|Shanghai|YES|stars_5
+94238|Intercontinental Financial Street Beijing|Beijing|YES|stars_5
+94618|Sheraton Xiamen|Xiamen|YES|stars_5
+94630|Sheraton|Ningbo|YES|stars_5
+95497|Donghu Hotel|Shanghai|YES|stars_4
+95684|Green Lake Resort|Kunming|YES|stars_5
+95983|Days Inn Forbidden City|Beijing|YES|stars_3
+95984|The Panorama|Shanghai|YES|stars_4
+96216|Palace Lijiang|Lijiang|YES|stars_4
+96496|The Ritz-Carlton Financial Street|Beijing|YES|stars_5
+96497|The Ritz-Carlton Sanya|Sanya|YES|stars_5
+96578|Yafan Longmen|Shanghai|YES|stars_4
+96579|CITIC Beijing Airport|Beijing|YES|stars_4
+96582|Qianyuan International Business Hotel|Beijing|YES|stars_3.5
+96583|Renaissance Shanghai Yuyuan Garden|Shanghai|YES|stars_5
+96584|The Westin Beijing Financial Street|Beijing|YES|stars_5
+96585|Fortune Land International|Beijing|YES|stars_3
+96586|The Presidential|Beijing|YES|stars_5
+96587|China Central Palace Service Apartment|Beijing|YES|stars_4
+96589|Golden Palace Silver Street Hotel|Beijing|YES|stars_3
+96590|San Want|Shanghai|YES|stars_4
+96591|Millennium Hongqiao|Shanghai|YES|stars_5
+97514|Wancheng Huafu International|Beijing|YES|stars_3
+97516|Broadway Mansions|Shanghai|YES|stars_4.5
+97520|City Shanghai|Shanghai|YES|stars_4
+97521|Howard Johnson Huaihai|Shanghai|YES|stars_4.5
+97522|The Bridge|Shanghai|YES|stars_3
+97943|Grand Mercure Shanghai Hongqiao|Shanghai|YES|stars_5
+99662|Lu Song Yuan|Beijing|YES|stars_3
+99703|Commune by the Great Wall|Beijing|YES|stars_5
+99713|JW Marriott Beijing|Beijing|YES|stars_5
+99714|Kun Tai Royal|Beijing|YES|stars_5
+99715|Kapok|Beijing|NO|stars_4
+99721|Four Points|Lhasa|YES|stars_4
+99726|Han's Royal Garden|Beijing|YES|stars_5
+99795|Tianfu Sunshine|Chengdu|YES|stars_4
+99830|Ruijin|Shanghai|NO|stars_4
+100200|Doubletree|Beijing|YES|stars_4.5
+100201|Crowne Plaza International Airport|Beijing|YES|stars_5
+100202|Zhongtang Courtyard|Beijing|YES|stars_3
+100203|Longwu Jingpin|Beijing|YES|stars_3
+100204|Sunjoy|Beijing|YES|stars_3
+100205|Double Happiness Courtyard|Beijing|YES|stars_3
+100300|Pullman Guangzhou Baiyun Airport|Canton (Guangzhou)|YES|stars_5
+100301|Westin Guangzhou|Canton (Guangzhou)|YES|stars_5
+100310|Crowne Plaza Hangzhou Xanadu Resort|Hangzhou|YES|stars_5
+100569|Holiday Inn Hangzhou|Hangzhou|YES|stars_4
+100744|Marco Polo Suzhou|Suzhou|YES|stars_5
+100745|Grand Palace Guangzhou|Canton (Guangzhou)|YES|stars_4
+100753|Best Western Olympic Stadium|Beijing|YES|stars_4
+100755|Sunworld Beijing|Beijing|YES|stars_4
+100756|Boya|Beijing|YES|stars_4
+100759|The Regent|Beijing|YES|stars_5
+100760|Sheraton Chengdu Lido|Chengdu|YES|stars_5
+100761|Golden Bridge|Canton (Guangzhou)|YES|stars_4
+100762|The Ritz-Carlton|Canton (Guangzhou)|YES|stars_5
+100763|Shangri-La Guangzhou|Canton (Guangzhou)|YES|stars_5
+100764|Ramada Pearl|Canton (Guangzhou)|YES|stars_4
+100765|Elan Guangzhou|Canton (Guangzhou)|YES|stars_3
+100766|Crowne Plaza City Centre|Canton (Guangzhou)|YES|stars_5
+100767|Ascott Guangzhou|Canton (Guangzhou)|YES|stars_5
+100768|Yangshuo Tangrenjie|Yangshuo|YES|stars_4
+100769|Friendship|Hangzhou|YES|stars_4
+100770|88 Xintiandi|Shanghai|YES|stars_5
+100771|Cachet Boutique Shanghai|Shanghai|YES|stars_4.5
+100772|Shangri-La Suzhou|Suzhou|YES|stars_5
+100773|Pan Pacific|Suzhou|YES|stars_5
+100816|The Landmark|Macao (Macau)|YES|stars_5
+101220|Sofitel Westlake|Hangzhou|YES|stars_5
+101221|Lily|Hangzhou|NO|stars_3
+101223|Kunming Jin Jiang Hotel|Kunming|YES|stars_4
+101610|Mercure Suzhou Park|Suzhou|YES|stars_4
+101611|Parkview|Shanghai|YES|stars_4
+101615|Tianfuyuan Sanya|Sanya|YES|stars_4.5
+101745|Marco Polo Parkside|Beijing|YES|stars_5
+101746|Manhattan Business|Shanghai|YES|stars_3
+101748|Sofitel Chengdu Taihe|Chengdu|YES|stars_5
+101751|Eadry Resort Sanya|Sanya|YES|stars_5
+101752|Yuhai International Resort & Suites|Sanya|YES|stars_4
+101754|Free Town|Beijing|YES|stars_3
+101756|Sanya Pearl Sea View|Sanya|YES|stars_4
+101758|Crown Towers at City of Dreams|Macao (Macau)|YES|stars_5
+101760|Liston|Shanghai|YES|stars_4
+101761|Shanghai Regius Exhibitiong|Shanghai|YES|stars_3
+102396|Somerset Emerald City|Suzhou|YES|stars_4
+103013|Holiday Inn Express Putuo|Shanghai|YES|stars_3
+103446|Jinglun|Beijing|YES|stars_4
+103447|Nikko New Century|Beijing|YES|stars_5
+103448|City Inn Happy Valley|Beijing|YES|stars_2
+103449|Holiday Inn Yangtze|Chungking (Chongqing)|YES|stars_4
+103450|Sofitel Forebase Chongqing|Chungking (Chongqing)|YES|stars_5
+103451|Wanda International|Dalian|YES|stars_4
+103452|Furama|Dalian|YES|stars_5
+103453|Mercure Teda Dalian|Dalian|NO|stars_4
+103454|Warm Yes|Canton (Guangzhou)|YES|stars_3
+103455|Skyline Plaza|Canton (Guangzhou)|YES|stars_3
+103456|Guangzhou|Canton (Guangzhou)|YES|stars_3
+103457|Daysun Park|Canton (Guangzhou)|YES|stars_4
+103458|Portman Plaza|Ningbo|YES|stars_4
+103459|Goodsun International|Ningbo|YES|stars_4
+103460|Best Western Kylie|Ningbo|YES|stars_3
+103461|Citic International|Ningbo|YES|stars_5
+103468|Crowne Plaza Lake Malaren Shanghai|Shanghai|YES|stars_4
+103469|Best Western Hangzhou Meiyuan|Hangzhou|YES|stars_4
+103501|Linda Seaview / Lindao Seaview|Sanya|YES|stars_4
+103502|Days Hotel & Suites Sanya Resort|Sanya|YES|stars_4.5
+103504|Guest House International|Dadonghai Bay|YES|stars_4
+103560|Imperial-Court|Yichang|NO|stars_4.5
+103561|Peninsula|Yichang|YES|stars_4
+103563|Pinghu Hotel Yichang|Yichang|YES|stars_3
+103565|365 Days Inn|Yichang|YES|stars_3
+103566|Jin Jiang Royal Garden Resort|Dadonghai Bay|YES|stars_4
+103570|Fraser Suites CBD|Beijing|YES|stars_4.5
+103622|Ever Sunshine|Shanghai|YES|stars_4
+103623|Ramada Caohejing|Shanghai|YES|stars_3.5
+103624|Delight Pacific Ladoll|Shanghai|YES|stars_4.5
+103625|Royal Court|Shanghai|YES|stars_4
+103626|Ramada Zhabei|Shanghai|YES|stars_3
+103627|Grand Skylight Gardens|Shanghai|YES|stars_4
+103628|Yun's Paradise|Shanghai|YES|stars_4
+103629|Ramada Hongkou|Shanghai|YES|stars_4
+103707|Four Points by Sheraton Shenzhen|Shenzhen|YES|stars_4
+103708|InterContinental|Shenzhen|YES|stars_5
+103709|Kempinski Shenzhen|Shenzhen|YES|stars_5
+103710|Guangdong|Shenzhen|YES|stars_3.5
+103711|Empire|Shenzhen|YES|stars_3
+103712|Grand Skylight|Shenzhen|YES|stars_4
+103713|Century Plaza|Shenzhen|YES|stars_4
+103714|Vienna Airport|Shenzhen|YES|stars_3
+103715|Colour Inn-shenzhen Shekou Branch|Shenzhen|YES|stars_2
+103717|Marco Polo Shenzhen|Shenzhen|YES|stars_5
+103718|OCT City Inn Exhibition|Shenzhen|YES|stars_2
+103719|Days Inn Shenzhen|Shenzhen|YES|stars_3.5
+103722|Fraser Place Shekou|Shenzhen|YES|stars_5
+103723|The Pavilion|Shenzhen|YES|stars_5
+103724|The Pavilion Century Tower|Shenzhen|YES|stars_4
+103725|City Inn Shangbu South Road|Shenzhen|YES|stars_2
+103726|City Inn Happy Valley|Shenzhen|YES|stars_2
+103727|City Inn Xinqiao|Shenzhen|YES|stars_2
+103728|Regalia Resort & Spa (Li Gong Di)|Suzhou|YES|stars_5
+103780|Golden Dragon|Macao (Macau)|YES|stars_4
+103781|MGM Grand Macau|Macao (Macau)|NO|stars_5
+103812|Banyan Tree Sanya|Sanya|YES|stars_5
+103886|Airport Garden|Beijing|YES|stars_3
+104349|Chang An Grand|Beijing|YES|stars_5
+104353|Guangxi Plaza|Beijing|NO|stars_4
+104361|Jing Lin|Beijing|NO|stars_4
+104362|Jing Du Yuan|Beijing|YES|stars_3
+104369|Phoenix Suyuan|Beijing|YES|stars_3
+104371|Tibet|Beijing|NO|stars_4
+104661|Best Western C-Bank Wuhan|Wuhan|YES|stars_5
+104683|Chongqing East Garden|Chungking (Chongqing)|YES|stars_4
+105177|Best Western Premier Qingdao Kilin Crown|Tsingtau (Qingdao)|YES|stars_4
+105180|Best Western Premier Wuhan Mayflowers Hotel|Wuhan|YES|stars_5
+105258|Best Western Shenzhen Felicity|Shenzhen|YES|stars_4.5
+105746|Changsha Dolton International|Changsha|YES|stars_5
+105830|Chime Long|Canton (Guangzhou)|YES|stars_5
+105832|China Mayors Plaza|Canton (Guangzhou)|YES|stars_4
+105851|Chong Wen Men|Beijing|NO|stars_3
+106478|Courtyard Pudong|Shanghai|NO|stars_4
+106479|New World Shunde|Shunde|NO|stars_4
+106481|Courtyard by Marriott Wuxi|Wuxi|NO|stars_4
+106511|Crowne Plaza Century Park|Shanghai|YES|stars_5
+106512|Crowne Plaza Changshu|Suzhou|YES|stars_4
+106517|Crowne Plaza Jinan City Centre|Jinan|NO|stars_5
+106522|Crowne Plaza Nanjing Hotel & Suites|Nanjing|YES|stars_5
+106527|Crowne Plaza Paragon Xiamen|Xiamen|YES|stars_5
+106528|V- Continent Beijing Parkview Wuzhou|Beijing|YES|stars_5
+106536|Crowne Plaza Suzhou|Suzhou|NO|stars_5
+106541|Crowne Plaza Zhanjiang|Zhanjiang|NO|stars_3.5
+106550|Holiday Inn Datong City Centre|Datong|NO|stars_4
+106997|Holiday Inn Express Dalian City Centre|Dalian|YES|stars_3
+107035|Holiday Inn Express Shangdi|Beijing|YES|stars_3
+107052|Holiday Inn Express Zhengzhou Zhongzhou|Zhengzhou|YES|stars_3
+107161|Fietser International Residence|Shenzhen|NO|stars_3.5
+107175|Zhujiang Overseas|Canton (Guangzhou)|YES|stars_3
+107258|Gloria Plaza Dalian|Dalian|YES|stars_3
+107260|Gloria Plaza Shenyang|Shenyang|YES|stars_4
+107261|Gloria Plaza Suzhou|Suzhou|YES|stars_4
+107359|Grand Bay View|Zhuhai|YES|stars_5
+107388|Grand Metropark|Beijing|NO|stars_4
+107389|Grand Metropark Hangzhou|Hangzhou|YES|stars_5
+107392|Grand Noble Hotel|Dongguan|YES|stars_5
+107412|Grandview Macau|Macao (Macau)|YES|stars_4
+107426|Zhaolong|Beijing|YES|stars_4.5
+107454|Guangzhou East Asia|Canton (Guangzhou)|NO|stars_3
+107474|Hai Tian|Tsingtau (Qingdao)|YES|stars_5
+107496|Capital Star Hangzhou|Hangzhou|YES|stars_4
+107499|Hangzhou Huajiashan Resort|Hangzhou|NO|stars_4
+107546|Hengfeng Haiyue International|Shenzhen|NO|stars_5
+107547|Hengshan Picardie|Shanghai|YES|stars_4.5
+107548|Hengshan Moller Villa|Shanghai|YES|stars_4
+107578|Hilton Hefei|Hefei|YES|stars_5
+107591|HNA Resort Huagang|Hangzhou|YES|stars_4
+107614|Holiday Inn Binhai Tianjin|Tianjin|NO|stars_3.5
+107627|Holiday Inn Chengdu Century City - Westtower|Chengdu|YES|stars_4
+107641|Holiday Inn Daya Bay|Huizhou|YES|stars_3.5
+107645|Crowne Plaza Ordos|Ordos|NO|stars_4
+107704|Holiday Inn City Centre|Harbin|YES|stars_4
+107706|Holiday Inn Hefei|Hefei|YES|stars_4
+107711|Holiday Inn Hohhot|Hohhot|NO|stars_4
+107717|Holiday Inn Jasmine Suzhou|Suzhou|YES|stars_4
+107789|Holiday Inn Sea View Qinhuangdao|Qinhuangdao|NO|stars_4
+107816|Meilian Holiday City Centre|Wuhan|YES|stars_4
+107817|Holiday Inn Express Tianjin City Centre|Tianjin|YES|stars_3.5
+107835|Holiday Inn Riverside|Wuhan|YES|stars_4
+107837|Holiday Inn Youlian Suzhou|Suzhou|YES|stars_4
+107839|Holiday Inn Zhengzhou|Zhengzhou|YES|stars_4
+107840|Holiday Inn Zhuhai|Zhuhai|YES|stars_4
+107848|Hong Gang|Shanghai|NO|stars_3
+107934|Oriental Deluxe Zhejiang|Hangzhou|NO|stars_4
+107940|Hua Ting Guest House|Shanghai|YES|stars_3
+107943|Huanhai Gloria Inn Qingdao|Tsingtau (Qingdao)|YES|stars_3
+107969|Hyatt Regency|Dongguan|YES|stars_5
+107973|Hyatt Regency Hangzhou|Hangzhou|YES|stars_5
+108130|Joy City International|Beijing|YES|stars_4
+108144|JW Marriott Shanghai at Tomorrow Square|Shanghai|YES|stars_5
+108179|Kingwing Hotel|Beijing|YES|stars_5
+108426|Le Meridien She Shan|Shanghai|YES|stars_5
+108540|Loong Palace|Beijing|YES|stars_5
+108618|Marco Polo Xiamen|Xiamen|YES|stars_5
+108644|Marriott West|Beijing|YES|stars_5
+108656|Marriott Executive Apartments Tomorrow Square|Shanghai|NO|stars_5
+108658|Marriott Executive Apartments Union Square Shanghai Pudong|Shanghai|NO|stars_5
+108990|Meritus Shantou China|Shantou|YES|stars_5
+109001|Metropark Service Apartment Shanghai|Shanghai|YES|stars_4
+109003|Metropark Yangzhou|Yangzhou|YES|stars_4
+109204|Nanyuan|Ningbo|YES|stars_5
+109213|National Chengdu|Chengdu|NO|stars_4
+109227|New Garden Shanghai|Shanghai|NO|stars_3
+109380|Novotel Qi Yun|Hefei|YES|stars_4
+109411|Novotel Watergate|Shenzhen|NO|stars_4
+109414|Novotel Xin Hua|Wuhan|NO|stars_5
+109422|Oakwood Gold Arch Residence|Canton (Guangzhou)|YES|stars_0
+109728|Prime|Chengdu|NO|stars_3
+110025|Ramada Plaza|Fuzhou|NO|stars_4
+110026|Ramada Plaza Nanjing|Nanjing|YES|stars_4
+110027|Ramada Plaza Pudong|Shanghai|YES|stars_4
+110029|Ramada Pudong Airport|Shanghai|YES|stars_4
+110057|Regal International East Asia|Shanghai|YES|stars_5
+110091|Boyue Beijing|Beijing|YES|stars_5
+110103|Renaissance Suzhou|Suzhou|NO|stars_5
+110104|Renaissance Tianjin|Tianjin|YES|stars_5
+110105|Renaissance Tianjin Teda|Tianjin|NO|stars_5
+110298|Riverside|Shanghai|NO|stars_3
+110642|Royal Suites & Towers|Shenzhen|NO|stars_4.5
+110649|Ruitai Hongqiao|Shanghai|YES|stars_3
+110772|The Seagull on the Bund|Shanghai|NO|stars_4
+110801|Seventh Heaven|Shanghai|NO|stars_3
+110804|Shandong Pacific Grand|Yantai|YES|stars_4
+110806|Guhua Garden|Shanghai|NO|stars_3.5
+110810|Shangri-La Zhongshan|Zhongshan|YES|stars_5
+110812|Shangri-La|Beihai|NO|stars_5
+110813|Shangri-La Fuzhou|Fuzhou|YES|stars_5
+110814|Shangri-La Harbin|Harbin|YES|stars_5
+110824|Rose Shenyang|Shenyang|YES|stars_4
+110826|Shenzhen Beijing|Beijing|YES|stars_4
+110828|Sunshine Shenzhen|Shenzhen|YES|stars_5
+110890|Sofitel Golf Resort|Dongguan|YES|stars_5
+110892|Sofitel Galaxy Nanjing|Nanjing|YES|stars_5
+110893|Sofitel Grand Park|Hefei|YES|stars_5
+110911|Pan Pacific Xiamen|Xiamen|YES|stars_5
+110912|Sofitel Riverside|Qingyuan|NO|stars_5
+110913|Sofitel Royal Lagoon|Dongguan|YES|stars_5
+110916|Sofitel Silver Plaza|Jinan|YES|stars_5
+110922|Sofitel Zhengzhou International|Zhengzhou|YES|stars_5
+110948|Songhujiang Gloria Inn|Harbin|YES|stars_3
+111093|Swish-Hotel Dalian|Dalian|YES|stars_5
+111288|Tianjin Golden Crown|Tianjin|NO|stars_4.5
+111297|Times Plaza Shenyang|Shenyang|NO|stars_4
+111351|Traders Fudu Changzhou|Changzhou|YES|stars_5
+111353|Traders Shenyang|Shenyang|YES|stars_4
+111622|Wanyou Conifer|Chungking (Chongqing)|YES|stars_4
+111665|Winterless|Beijing|YES|stars_3
+111682|Jin Jiang Grand|Wuxi|YES|stars_4
+111693|Xiamen International Seaside|Xiamen|NO|stars_5
+111694|Gaosu Shenzhou|Xian|NO|stars_4
+111714|Youngor Central|Suzhou|YES|stars_4
+111721|Yuquan Simpson|Jinan|YES|stars_4
+111727|Jumbo|Zhuhai|YES|stars_4
+111844|Dalian Harbour View|Dalian|NO|stars_5
+121520|Hilton Capital Airport|Beijing|YES|stars_5
+121533|Jin Jiang Jing'an|Shanghai|NO|stars_4
+124179|Grand Hyatt Guangzhou|Canton (Guangzhou)|YES|stars_5
+124180|Tai Lian|Guillin|YES|stars_3
+124181|Zhongshan International|Hangzhou|YES|stars_3
+124186|Jiaolou Business|Beijing|YES|stars_2.5
+124187|Shijia House|Beijing|YES|stars_4.5
+124188|Comfort Suites Yayuncun|Beijing|YES|stars_4
+124189|Mandarin|Shanghai|YES|stars_4
+124192|Dong Jiao State Guesthotel|Shanghai|YES|stars_5
+124193|Ibis Lianyang|Shanghai|YES|stars_3
+124194|Topsun on the Bund|Shanghai|YES|stars_4
+124195|A-Live Design - geschlossen|Shanghai|YES|stars_3
+124196|Vienna International LuJiaZui|Shanghai|YES|stars_3
+124197|Citadines Biyun Shanghai|Shanghai|YES|stars_4
+124202|Shangri-La Xian|Xian|YES|stars_5
+129278|Yatai Hotel Jilin|Changchun|YES|stars_3
+129281|Homeland|Chengdu|YES|stars_4.5
+129282|Xin Liang|Chengdu|NO|stars_4
+129283|Sichuan|Chengdu|YES|stars_3.5
+129289|Regent|Dali|YES|stars_5
+129290|Landscape|Dali|YES|stars_3
+129291|Central Plaza|Dalian|YES|stars_4
+129294|Lee Wan|Dalian|YES|stars_4
+129296|Regal Palace Hotel|Dongguan|NO|stars_5
+129302|Golden City|Foshan|YES|stars_4
+129304|Oriental Resort|Canton (Guangzhou)|YES|stars_5
+129305|Landsman|Canton (Guangzhou)|YES|stars_3.5
+129306|Liuhua|Canton (Guangzhou)|YES|stars_4
+129307|Hilbin|Canton (Guangzhou)|YES|stars_4
+129308|Haitao|Canton (Guangzhou)|YES|stars_3
+129309|Fu Ho|Canton (Guangzhou)|YES|stars_3
+129310|Yanling|Canton (Guangzhou)|YES|stars_4
+129314|Landmark International|Canton (Guangzhou)|YES|stars_4
+129315|Ocean|Canton (Guangzhou)|YES|stars_4
+129316|Jian Li Harmony|Canton (Guangzhou)|NO|stars_4
+129318|Royal Mediterranean|Canton (Guangzhou)|YES|stars_5
+129320|Star|Canton (Guangzhou)|YES|stars_4
+129321|Hotel Canton|Canton (Guangzhou)|YES|stars_4
+129324|Royal International|Canton (Guangzhou)|YES|stars_4
+129325|Guang Dong|Canton (Guangzhou)|YES|stars_2
+129327|Guangdong Yingbin|Canton (Guangzhou)|NO|stars_4
+129328|Donlord International|Canton (Guangzhou)|NO|stars_4.5
+129330|King Garden|Canton (Guangzhou)|NO|stars_4
+129331|Mandarin|Canton (Guangzhou)|NO|stars_4
+129334|It World|Canton (Guangzhou)|YES|stars_3.5
+129335|Huashi GDH|Canton (Guangzhou)|YES|stars_4
+129336|President Hotel|Canton (Guangzhou)|YES|stars_4
+129337|Guangdong Bostan|Canton (Guangzhou)|YES|stars_3
+129340|Majestic|Canton (Guangzhou)|YES|stars_3
+129347|Sheraton|Haikou|YES|stars_5
+129348|Hai Kou|Haikou|YES|stars_4
+129349|Hua Tian|Haikou|YES|stars_4
+129351|Ssaw Hubin|Hangzhou|YES|stars_3
+129353|Kande International|Huizhou|NO|stars_4.5
+129355|Kai Wah Plaza International|Kunming|YES|stars_5
+129356|Uchoice|Kunming|YES|stars_4
+129364|Howard Johnson Plaza|Ningbo|YES|stars_5
+129365|Xiyuan|Beijing|YES|stars_5
+129366|Yuyang|Beijing|YES|stars_4.5
+129367|Tian Tang Yang Guang|Beijing|YES|stars_3
+129368|Beijing Landmark Towers|Beijing|YES|stars_4
+129369|Dawan|Beijing|YES|stars_3
+129370|Friendship|Beijing|YES|stars_4
+129373|Grand Regency|Tsingtau (Qingdao)|YES|stars_5
+129375|Hyton|Sanya|NO|stars_4
+129377|Rendezvous Baohong|Sanya|NO|stars_5
+129378|Palm Beach Resort & Spa|Sanya|YES|stars_4
+129379|HNA Resort & International Asian Pacific Convention Center|Sanya|YES|stars_5
+129383|Sunrise International|Shenyang|NO|stars_5
+129385|Nan Hai|Shenzhen|YES|stars_5
+129386|Lao Di Fang|Shenzhen|NO|stars_3
+129387|Huaan Conifer International|Shenzhen|NO|stars_4.5
+129388|Crowne Plaza Landmark Shenzhen|Shenzhen|YES|stars_5
+129390|Lushan|Shenzhen|YES|stars_4
+129391|Grand Skylight Garden|Shenzhen|YES|stars_4
+129392|Guang Shen Hotel|Shenzhen|NO|stars_3
+129393|Regency|Shenzhen|YES|stars_3
+129394|Kaili|Shenzhen|YES|stars_3.5
+129396|Shanshui Trends Luohu|Shenzhen|YES|stars_3
+129397|Zense|Shenzhen|NO|stars_4
+129398|The Panglin|Shenzhen|YES|stars_5
+129399|Golden Lustre|Shenzhen|YES|stars_4
+129400|Hong Feng|Shenzhen|NO|stars_4
+129401|Fortune|Shenzhen|NO|stars_4
+129402|New Times|Shenzhen|NO|stars_4
+129404|Ming Wah International Convention Centre|Shenzhen|YES|stars_4
+129405|Seaview O City|Shenzhen|YES|stars_4
+129407|Metropark|Shenzhen|YES|stars_4
+129416|Maihao International|Zhuhai|NO|stars_4
+129713|Grand Waldo|Macao (Macau)|YES|stars_5
+129714|Venetian Macao Resort|Macao (Macau)|NO|stars_5
+129902|Imperial Traders|Canton (Guangzhou)|YES|stars_4
+129904|Parkview Square|Canton (Guangzhou)|YES|stars_3
+129905|Guang Sha|Canton (Guangzhou)|YES|stars_3
+129906|Grand Royal|Canton (Guangzhou)|YES|stars_5
+129908|Baiyun International Convention Center|Canton (Guangzhou)|YES|stars_4.5
+129909|V8 Xilang|Canton (Guangzhou)|YES|stars_2
+129910|Han Feng International|Canton (Guangzhou)|YES|stars_3
+129911|Longzhou|Canton (Guangzhou)|NO|stars_3
+129914|Ming Cheng|Guillin|YES|stars_3
+129915|Hong Kong|Guillin|NO|stars_4
+129916|Zhong Shan|Guillin|YES|stars_3
+129918|Sovereign|Guillin|YES|stars_4
+129919|Grand 0773|Guillin|YES|stars_3
+129923|Universal|Guillin|YES|stars_3
+129931|Ramada Plaza|Guiyang|YES|stars_4
+129936|Meritus Mandarin Haikou|Haikou|YES|stars_5
+129938|Holiday Wuyang|Hangzhou|NO|stars_4
+129940|Zhejiang New Century|Hangzhou|NO|stars_3
+129942|Xinqiao|Hangzhou|NO|stars_4
+129943|Redstar Culture|Hangzhou|YES|stars_4
+129944|Regal Plaza|Hangzhou|YES|stars_4
+129945|Zhejiang Grand|Hangzhou|NO|stars_4
+129946|Enjoyor|Hangzhou|NO|stars_3
+129948|Sunny|Hangzhou|YES|stars_4
+129949|Crowne Plaza|Hangzhou|NO|stars_4
+129950|Hill & River|Hangzhou|YES|stars_4
+129952|Goethe|Hangzhou|NO|stars_5
+129957|Qingshuiwan Holiday|Hangzhou|NO|stars_3
+129960|St. Rich Hotel|Hangzhou|NO|stars_4
+129962|Tian Hang|Hangzhou|NO|stars_3
+129963|Zhejiang Bin Guan|Hangzhou|NO|stars_5
+129965|Na De|Hangzhou|NO|stars_4
+129966|Best Western Premier Richful Green|Hangzhou|YES|stars_4
+129968|Huachen Kenzo Hotel Hangzhou|Hangzhou|NO|stars_3.5
+129969|West Lake Hillview International|Hangzhou|YES|stars_4
+129970|Hongdu|Hangzhou|YES|stars_3
+129971|Blossom|Hangzhou|NO|stars_4
+129972|Holiday Inn Xiaoshan|Hangzhou|YES|stars_4
+129973|Zhejiang Railway|Hangzhou|NO|stars_3
+129981|Friendship Palace|Harbin|YES|stars_4
+129982|Green|Harbin|NO|stars_3
+129984|Power|Harbin|NO|stars_3
+129994|Walla|Hefei|YES|stars_3
+130000|Phoenix|Hohhot|NO|stars_4
+130023|Silver Plaza Quancheng|Jinan|NO|stars_3.5
+130026|Longdu International|Jinan|YES|stars_4
+130030|Shandong|Jinan|NO|stars_5
+130043|Narada|Jinhua|NO|stars_4
+130051|Sheraton Jiuzhaigou Resort|Jiuzhaigou|YES|stars_0
+130060|Empark Grand|Kunming|NO|stars_5
+130061|Hydro Majestic|Kunming|YES|stars_4
+130065|Economic Trade|Kunming|YES|stars_4
+130080|Swissotel Kunshan|Kunshan|NO|stars_5
+130084|International|Langfang|NO|stars_4
+130100|Jardin Secret|Lhasa|NO|stars_4
+130113|Holiday Inn Mudanjiang|Mudanjiang|NO|stars_4
+130123|Grand|Nanjing|YES|stars_5
+130132|New Era|Nanjing|YES|stars_4
+130136|Yongjiang|Nanning|NO|stars_4
+130137|Ming Yuan Xindu|Nanning|YES|stars_4.5
+130144|Golden Port|Ningbo|NO|stars_4
+130145|Crowne Plaza City Center|Ningbo|YES|stars_5
+130147|Asia Garden|Ningbo|YES|stars_3
+130150|Ningbo Xinzhou Hotel|Ningbo|NO|stars_4
+130154|Jade Garden|Beijing|YES|stars_4
+130155|Super 8 Yizhuang Tianbao|Beijing|YES|stars_0
+130156|Tian Tan|Beijing|YES|stars_4
+130158|Guo Hong|Beijing|YES|stars_4
+130160|Zhong An Inn Dong Dan|Beijing|YES|stars_2
+130162|He Ping Li Hotel|Beijing|NO|stars_3
+130164|Super 8 Beijing Guo Mao|Beijing|YES|stars_2.5
+130166|Ocean|Beijing|YES|stars_4
+130168|Yan Xiang|Beijing|NO|stars_3
+130169|Scitech|Beijing|NO|stars_4
+130171|Beijing Henan Plaza|Beijing|YES|stars_4
+130172|Traveler Inn Hua Qiao|Beijing|YES|stars_3
+130173|Tang Yue|Beijing|YES|stars_3
+130174|Xinyuan|Beijing|YES|stars_5
+130181|Aulympic Airportel|Beijing|NO|stars_3
+130186|King & Queen Garden|Beijing|NO|stars_4
+130189|Plaza|Beijing|YES|stars_4
+130190|North Garden|Beijing|YES|stars_4
+130193|Xixi Friendship|Beijing|YES|stars_4
+130194|The St. Regis|Beijing|YES|stars_5
+130196|Rich Hotel|Beijing|NO|stars_3
+130201|Eastern Air Business|Beijing|YES|stars_3
+130203|City Central Youth|Beijing|YES|stars_2
+130205|Dong Changan|Beijing|NO|stars_3
+130208|Ping An Fu|Beijing|NO|stars_3
+130209|Yong Xing Garden Hotel Beijing|Beijing|NO|stars_4
+130210|Super House International|Beijing|YES|stars_4
+130214|Lake View|Beijing|YES|stars_5
+130218|Super 8 Dong Si|Beijing|YES|stars_2
+130220|Poly Plaza|Beijing|NO|stars_4
+130222|Beijing Botaihotel|Beijing|YES|stars_3
+130223|Chong Qing|Beijing|YES|stars_3
+130226|Zhongan Inn Andingmen|Beijing|NO|stars_3
+130231|Xijiao|Beijing|YES|stars_4
+130235|Avic|Beijing|NO|stars_4
+130241|Timbo Hotel Beijing|Beijing|NO|stars_3
+130242|Haige International|Beijing|NO|stars_3.5
+130248|News Plaza|Beijing|YES|stars_4.5
+130249|Super 8 Jin Bao Jie|Beijing|YES|stars_2
+130262|Ai Hua|Beijing|NO|stars_2
+130264|Jade International Youth Hostel|Beijing|YES|stars_2
+130265|Red Cross Hotel|Beijing|YES|stars_2.5
+130266|Zi Yu|Beijing|NO|stars_3
+130269|New Century Grand Hotel|Beijing|YES|stars_5
+130271|FX Hotel Capital International Airport|Beijing|YES|stars_3
+130274|Holiday Garden|Beijing|NO|stars_4
+130278|Asia Pacific Garden|Beijing|NO|stars_3.5
+130280|Continental Grand|Beijing|NO|stars_4
+130287|Oriental Bay International|Beijing|NO|stars_5
+130288|Saga Intl Youth Hostel|Beijing|YES|stars_2
+130289|Far East Hotel|Beijing|NO|stars_2
+130291|Celebrity International Grand|Beijing|YES|stars_5
+130294|Peixin|Beijing|YES|stars_4
+130309|Sea View Garden|Tsingtau (Qingdao)|YES|stars_5
+130311|Dongfang|Tsingtau (Qingdao)|YES|stars_4
+130314|Huanghai|Tsingtau (Qingdao)|YES|stars_4
+130315|Sanfod|Tsingtau (Qingdao)|YES|stars_4
+130319|Qingdao Sifang|Tsingtau (Qingdao)|YES|stars_3
+130321|Zhong Gang Mansion|Tsingtau (Qingdao)|YES|stars_3
+130322|Santiago|Tsingtau (Qingdao)|YES|stars_3
+130325|Qingdao Garden|Tsingtau (Qingdao)|NO|stars_4
+130349|Landscape Beach|Sanya|YES|stars_4
+130352|Radisson Pudong Century Park|Shanghai|YES|stars_5
+130353|Dingtian Ruili Service Apt|Shanghai|YES|stars_4
+130354|Holiday Inn Express Meilong|Shanghai|YES|stars_3
+130355|Yihe Longbai|Shanghai|NO|stars_4
+130356|Bothland|Shanghai|NO|stars_3
+130361|Purple Mountain|Shanghai|NO|stars_5
+130362|Bao An|Shanghai|NO|stars_4
+130363|J. Real Residence Suites|Shanghai|NO|stars_4
+130364|Dijon|Shanghai|YES|stars_4
+130366|Garden Avenue|Shanghai|YES|stars_4
+130367|Hundred Centuries|Shanghai|YES|stars_3
+130368|Best Western Shanghai Ruite|Shanghai|YES|stars_4
+130369|Four Points by Sheraton Shanghai, Daning|Shanghai|YES|stars_4
+130372|Highsure All Suite|Shanghai|YES|stars_4
+130373|Great Tang|Shanghai|YES|stars_4.5
+130374|Motel 168 Chifeng|Shanghai|NO|stars_2.5
+130378|Tianlin|Shanghai|NO|stars_3
+130379|Highton International|Shanghai|YES|stars_4
+130380|New Century Mansion|Shanghai|YES|stars_3
+130381|Shanghai Star Chengsheng Mercure Xian|Shanghai|NO|stars_3
+130385|Yashidu Suites|Shanghai|NO|stars_4
+130391|Blue Palace|Shanghai|NO|stars_4
+130392|Jin Jiang Magnolia|Shanghai|NO|stars_3
+130393|Kelamayi Petroleum|Shanghai|NO|stars_3
+130394|Jin Chang|Shanghai|YES|stars_3
+130396|Pullman Shanghai Skyway|Shanghai|YES|stars_5
+130399|Hong Ye Hotel Shanghai|Shanghai|NO|stars_3
+130400|Grand Metro Park Jia You|Shanghai|YES|stars_4
+130401|HuaJun Suite|Shanghai|YES|stars_4
+130402|Noble Center|Shanghai|NO|stars_3
+130403|Qian Dao Hu|Shanghai|YES|stars_2
+130406|Grand Mercure Shanghai Baolong|Shanghai|YES|stars_4
+130408|Tian Ping|Shanghai|NO|stars_4
+130412|Grand You You|Shanghai|YES|stars_3
+130413|Swan|Shanghai|NO|stars_3
+130417|Qianqiao International Linghe Road|Shanghai|NO|stars_4
+130418|Super 8 Feng Ye Bei Wai Tan|Shanghai|YES|stars_2
+130421|Motel 168 Huoshan|Shanghai|NO|stars_2.5
+130422|Riverfront Business|Shanghai|YES|stars_4
+130423|Villas|Shanghai|YES|stars_3
+130424|Universal Ever-Rich|Shanghai|YES|stars_4
+130429|The Bund Riverside|Shanghai|YES|stars_4
+130431|Lakeside Holiday|Shanghai|YES|stars_2.5
+130432|Anting Villa|Shanghai|YES|stars_4
+130433|Kingswell Tongji|Shanghai|YES|stars_4
+130435|Motel 168 Zhoujiazui|Shanghai|NO|stars_2.5
+130436|Xin Dong Fang|Shanghai|NO|stars_3.5
+130438|Asset|Shanghai|NO|stars_3
+130439|Barony Wanyuan|Shanghai|YES|stars_4
+130440|Supreme Tower|Shanghai|YES|stars_4
+130441|Charms|Shanghai|YES|stars_3
+130442|Shanxi Business|Shanghai|YES|stars_4
+130443|Yalong International|Shanghai|YES|stars_4
+130444|Rayfont Xuhui|Shanghai|NO|stars_4
+130446|Starway Chuangye|Shanghai|NO|stars_2
+130447|Ambassador|Shanghai|YES|stars_4
+130449|Forte|Shanghai|NO|stars_4
+130450|Ldf All Suites|Shanghai|NO|stars_4
+130451|Best Western Pudong Sunshine|Shanghai|YES|stars_4
+130461|Sofitel Shenyang Lido Hotel|Shenyang|YES|stars_5
+130467|Kempinski Shenyang|Shenyang|YES|stars_5
+130482|Capital Plaza|Shenzhen|YES|stars_4
+130483|Grand Chu|Shenzhen|NO|stars_4
+130488|Shanshui Trends Shang Meilin|Shenzhen|NO|stars_3
+130490|South Union|Shenzhen|NO|stars_3
+130493|Orient Sunseed|Shenzhen|NO|stars_3.5
+130512|Super 8 Suzhou Jin Han Lin|Suzhou|YES|stars_0
+130514|Ping Jiang|Suzhou|YES|stars_4
+130519|Zhong Shan|Suzhou|YES|stars_3
+130520|Bamboo Grove|Suzhou|YES|stars_4
+130522|New Century|Suzhou|YES|stars_4
+130523|Boutix Amusement Land|Suzhou|NO|stars_5
+130526|||NO|0
+130536|||NO|0
+130559|||NO|0
+130570|||NO|0
+130571|||NO|0
+130572|||NO|0
+130573|||NO|0
+130574|||NO|0
+130597|||NO|0
+130598|||NO|0
+130601|||NO|0
+130608|||NO|0
+130613|||NO|0
+130614|||NO|0
+130628|||NO|0
+130630|||NO|0
+130634|||NO|0
+130638|||NO|0
+130640|Pullman Xiamen Powerlong|Xiamen|NO|stars_5
+130641|Gulang Villa|Xiamen|YES|stars_3.5
+130653|Longdu|Xiamen|NO|stars_3
+130654|Xiamen Plaza|Xiamen|YES|stars_4
+130656|Ramada|Xiamen|YES|stars_4
+130658|Howard Johnson Ginwa Plaza|Xian|YES|stars_5
+130664|Orient|Xian|YES|stars_4
+130665|Empress|Xian|NO|stars_4
+130684|Jing Hai|Yantai|YES|stars_4
+130687|Three Gorges Project|Yichang|YES|stars_4
+130688|Three Gorges Xiba|Yichang|YES|stars_3
+130689|Three Gorges Dongshan|Yichang|YES|stars_3
+130693|Yi Wu|Yiwu|YES|stars_4
+130695|Hyde Jianguo|Yiwu|NO|stars_5
+130696|Yimei Plaza|Yiwu|YES|stars_4
+130697|Ramada Plaza Yiwu|Yiwu|YES|stars_4
+130698|Kingdom Narada Grand|Yiwu|NO|stars_5
+130699|SSAW City Center|Yiwu|NO|stars_4
+130700|Yihe|Yiwu|YES|stars_4
+130703|Best Western Premier Ocean|Yiwu|YES|stars_4
+130704|Pattra Resort|Zengcheng|YES|stars_5
+130718|Crowne Plaza|Zhengzhou|YES|stars_4.5
+130721|Best Western Zhenjiang International|Zhenjiang|YES|stars_4
+130729|Guangdong Regency|Zhuhai|YES|stars_4
+130735|Century|Zibo|NO|stars_5
+131627|Country Garden Holiday Resorts|Foshan|NO|stars_4
+132723|Guia|Macao (Macau)|NO|stars_3
+132724|Rocks|Macao (Macau)|YES|stars_3.5
+132725|Riviera|Macao (Macau)|YES|stars_4
+132726|Taipa Square|Macao (Macau)|YES|stars_4
+132727|Fu Hua Guang Dong|Macao (Macau)|YES|stars_3
+132729|Royal|Macao (Macau)|YES|stars_4.5
+133933|Redbuds Flower|Changchun|YES|stars_5
+133936|Days Zhuozhan|Changchun|YES|stars_4.5
+133938|South Lake|Changchun|YES|stars_5
+133951|Southern Pearl International|Changsha|YES|stars_4
+133956|Oak Bay Garden|Changzhou|NO|stars_3.5
+133958|Jinling Plaza|Changzhou|YES|stars_4
+133967|Jinjiang|Chengdu|YES|stars_5
+133972|Tai Yi|Chengdu|YES|stars_3.5
+133973|Luo Man Grand|Chengdu|YES|stars_4
+133975|Garden City Hotel|Chengdu|YES|stars_4
+133977|Shangri-La Chengdu|Chengdu|NO|stars_5
+133988|Yangtze Island|Chungking (Chongqing)|YES|stars_4
+133999|San Ta Yuan|Dali|YES|stars_3
+134000|Asia Star|Dali|NO|stars_4
+134003|Sun Moon Lake|Dalian|YES|stars_3
+134009|Xinghai Golf|Dalian|NO|stars_4
+134010|Golden Shine|Dalian|YES|stars_4
+134011|International Airport|Dalian|NO|stars_4
+134012|Tangyin|Dalian|NO|stars_3
+134014|Liangyun|Dalian|NO|stars_4
+134018|Dalian Zhongxia Garden|Dalian|NO|stars_4
+134019|Zhongshan|Dalian|YES|stars_4
+134022|King Hall|Dalian|YES|stars_4
+134023|Bohai Pearl|Dalian|YES|stars_4
+134024|Sea Horizon|Dalian|NO|stars_4
+134025|Delight|Dalian|YES|stars_4
+134028|Ramada Plaza Dalian|Dalian|YES|stars_4
+134042|Richwood Garden|Dongguan|NO|stars_5
+134045|South China International|Dongguan|NO|stars_4.5
+134051|Haiyatt Garden Houjie|Dongguan|NO|stars_4
+134057|Sheraton|Dongguan|YES|stars_5
+134058|Goodview Hotel Sangem, Zhangmutou|Dongguan|YES|stars_5
+134111|Sichuan South Wing|Chengdu|YES|stars_3
+134192|West Street|Guillin|YES|stars_2
+134256|Holiday Inn Express Minzuyuan|Beijing|YES|stars_3
+134257|B&B Inn Shaoyaoju|Beijing|YES|stars_2
+134259|Super 8 Cuiwei|Beijing|YES|stars_2
+134260|Olympic Park Boutique|Beijing|YES|stars_4
+134261|B&B Inn Baishiqiao|Beijing|YES|stars_2
+134262|Royal Marina Plaza|Canton (Guangzhou)|YES|stars_5
+134263|Grand China|Canton (Guangzhou)|YES|stars_3
+134264|Xin Gang Holiday|Canton (Guangzhou)|YES|stars_3
+134265|Pa Zhou Conference|Canton (Guangzhou)|YES|stars_3
+134274|Yuan Yang|Canton (Guangzhou)|YES|stars_3
+134276|Venice|Canton (Guangzhou)|NO|stars_3
+134277|New Tian He|Canton (Guangzhou)|YES|stars_3
+134279|Vanwarm|Hangzhou|YES|stars_4
+134280|Sheraton Kingsley|Nanjing|YES|stars_5
+134281|Fraser Residence|Shanghai|YES|stars_4
+134282|GreenTree Inn Wuding|Shanghai|YES|stars_3
+134283|FX Hotel XuJiaHui|Shanghai|YES|stars_3
+134285|Motel 168 An Yuan Road Inn|Shanghai|YES|stars_2
+134289|Silkroad|Xian|NO|stars_3
+134332|Kayumanis|Nanjing|YES|stars_4.5
+134480|Grand Park Kunming|Kunming|YES|stars_5
+135223|Ramada Plaza Peace|Shanghai|YES|stars_4
+135391|The Westin Chaoyang|Beijing|YES|stars_5
+135392|Inn Fine|Dalian|YES|stars_5
+135393|Kempinski Dalian|Dalian|YES|stars_5
+135585|Mountain Villa|Canton (Guangzhou)|YES|stars_3
+135587|Yihe Ou Zhuang|Canton (Guangzhou)|YES|stars_4
+135590|Ai Yuan|Yangshuo|YES|stars_3
+135593|Regency Holiday Yangshuo|Yangshuo|YES|stars_3
+135594|Dong Jiang Golf Resort|Guillin|YES|stars_4
+135596|Ssaw Yilian|Hangzhou|YES|stars_3
+135598|Hong Li|Hangzhou|YES|stars_3
+135600|Hai Hua Man Long Resort|Hangzhou|YES|stars_4
+135601|Rose Garden Resort|Hangzhou|YES|stars_4
+135602|Marriott Ningbo|Ningbo|YES|stars_5
+135606|Kingland Riverside Service|Shanghai|YES|stars_4
+135608|Lujiazui Century|Shanghai|YES|stars_3
+135609|Vivasha|Shanghai|YES|stars_4
+135610|Ibis The Center|Shenyang|YES|stars_3
+135612|Marco Polo Wuhan|Wuhan|YES|stars_5
+136121|Merchantel|Beijing|YES|stars_4
+136231|Renaissance Capital Beijing|Beijing|YES|stars_5
+136378|Marriott City Wall|Beijing|YES|stars_5
+136379|Kings Joy|Beijing|YES|stars_2
+136393|Hilton Wangfujing|Beijing|YES|stars_5
+136394|Zhong Tang De Sheng|Beijing|YES|stars_4
+136397|InterContinental Qingdao|Tsingtau (Qingdao)|YES|stars_5
+136639|Shangri-La's Kerry Centre|Beijing|YES|stars_5
+136647|Lexington Shenyang Rich Gate|Shenyang|YES|stars_4.5
+136648|West Lake Golden Plaza|Hangzhou|YES|stars_4
+136653|Super 8 Shangdi|Beijing|YES|stars_2
+136659|Yijia Business Inn|Ningbo|YES|stars_3
+136669|Belgravia Serviced Residence|Shanghai|YES|stars_4
+136670|Ying Feng|Shanghai|YES|stars_3
+136671|Blue Horizon Royal Parklane International|Shanghai|YES|stars_4
+136673|The Inn At Bay Harbor|Dalian|YES|stars_3
+136677|Landison Plaza Hangzhou|Hangzhou|YES|stars_5
+136680|Sheraton Residences Pudong|Shanghai|YES|stars_5
+136681|FX Hotel Yansha|Beijing|YES|stars_3
+136688|B&B Inn Olympic Village|Beijing|YES|stars_2
+136689|City Convenience Inn|Hangzhou|YES|stars_2
+136695|FX Hotel ZhongGuanCun|Beijing|YES|stars_3
+136696|Motel 168 Aomen|Shanghai|YES|stars_2
+136701|Grand Century|Shenyang|YES|stars_4
+136741|Four Seasons Macao, Cotai Strip|Macao (Macau)|NO|stars_5
+136815|Sofitel Macau at Ponte 16|Macao (Macau)|YES|stars_5
+136922|88 Park|Chungking (Chongqing)|YES|stars_4
+136937|Carlton|Chungking (Chongqing)|YES|stars_5
+136962|Wan Xing Bei Ning|Nanning|NO|stars_3
+136967|Wan Xing Min Zhu|Nanning|NO|stars_3
+137000|Melody|Xian|YES|stars_3
+137006|Li River|Yangshuo|NO|stars_3
+137026|Hangzhou Tower|Hangzhou|NO|stars_4
+137030|Holiday Inn Aqua City|Nanjing|YES|stars_4
+137040|Jinling|Wuxi|YES|stars_4.5
+137050|Rayfont Hotel & Apartment|Shanghai|NO|stars_3.5
+137053|Nanyang Seascape|Zhuhai|YES|stars_4
+137077|The Victoria|Macao (Macau)|YES|stars_3
+137131|Super 8 Feng Ye Lu Jia Zui|Shanghai|YES|stars_2
+137152|Super 8 Feng Ye Nanzhan|Shanghai|YES|stars_2
+137164|Howard Johnson Caida Plaza|Shanghai|YES|stars_4.5
+137192|Radisson Blu Hong Quan|Shanghai|YES|stars_5
+137212|Wyndham Grand Plaza Royale Oriental Shanghai|Shanghai|YES|stars_5
+137266|Holiday Inn Park View|Tsingtau (Qingdao)|YES|stars_4
+137274|KaiLiLai|Xiamen|YES|stars_2
+137286|Fairmont Residence|Beijing|YES|stars_4
+137336|Fengye Super 8 Hongqiao|Shanghai|YES|stars_2
+137409|New World|Wuhan|YES|stars_5
+137415|Li Jing|Shanghai|YES|stars_3
+137432|Howard Johnson Songjiang|Shanghai|YES|stars_4
+137433|Crowne Plaza Wuhu|Wuhu|NO|stars_4
+137438|Howard Johnson All Suites|Suzhou|YES|stars_5
+137441|InterContinental Beichen|Beijing|YES|stars_5
+137445|Yishiyuan|Nanjing|YES|stars_4
+137465|Renjia International|Yangzhou|YES|stars_4
+137689|Gyalthang Dzong Hotel|Shangri-La|YES|stars_4
+137709|Grand Millennium|Beijing|YES|stars_5
+137739|Banyan Tree Ringha|Jiantang|YES|stars_5
+137741|Huama|Lijiang|YES|stars_2.5
+137891|Ramada Wujiaochang|Shanghai|YES|stars_4
+137904|Howard Johnson Hawana|Canton (Guangzhou)|NO|stars_4
+137911|Garden|Taicang|NO|stars_4.5
+137913|Kingtown|Shanghai|YES|stars_4
+137914|Yafan Fashion|Shanghai|NO|stars_3
+137919|Zheng Xie|Beijing|YES|stars_4
+137924|Joyfull International|Shanghai|NO|stars_4
+137932|Designer|Dongguan|YES|stars_4
+137939|Xindadu|Beijing|YES|stars_4
+137943|Rainbird International|Chengdu|YES|stars_4
+137948|Copthorne Qingdao|Tsingtau (Qingdao)|YES|stars_4
+137952|Washington Inn|Shanghai|YES|stars_3
+137953|Ramada Plaza Gateway|Shanghai|YES|stars_4
+137954|Quest International Hotel Xian|Xian|YES|stars_4
+137957|La Casa Elegant|Shanghai|NO|stars_4
+137983|Shanghai Centralstar|Shanghai|NO|stars_4
+137985|Victoria Regal|Hangzhou|YES|stars_4
+137986|Jinzhou Business|Canton (Guangzhou)|NO|stars_3
+137989|Lakeside|Xiamen|YES|stars_4
+138180|TianAn Rega|Beijing|YES|stars_4
+138280|Hong Du|Zhuhai|YES|stars_3
+138376|Swissotel Foshan|Foshan|YES|stars_5
+138382|ShangHai|Shenzhen|YES|stars_3
+138384|The Longemont Shanghai|Shanghai|YES|stars_5
+138461|Novotel Beijing Sanyuan|Beijing|YES|stars_4
+138464|Haitao|Shenzhen|NO|stars_3
+138482|Aegean Conifer Resort|Sanya|YES|stars_5
+138511|Luo Hu|Shenzhen|NO|stars_4
+138526|CAA Holy Sun|Shenzhen|YES|stars_4
+138887|Eva Inn|Guillin|YES|stars_3.5
+138904|Forstar|Chengdu|NO|stars_4
+138926|Gloria Grand Nanchang|Nanchang|NO|stars_4.5
+138952|Guangye Jinjiang|Tsingtau (Qingdao)|YES|stars_4
+138982|Holiday Inn Downtown Hefei|Hefei|YES|stars_4
+139023|Intercontinental Dalian|Dalian|YES|stars_5
+139247|Raystar|Canton (Guangzhou)|NO|stars_4
+139259|Regalia Shanghai (Changning)|Shanghai|YES|stars_4
+139260|Regalia Serviced Residence|Suzhou|NO|stars_4
+139269|Residence on River''s Edge|Shanghai|YES|stars_4
+139442|Swiss-Belhotel Changchun|Changchun|YES|stars_4
+139510|Wonhurg International|Shenyang|NO|stars_4
+139549|Holiday Inn Express Zhabei|Shanghai|YES|stars_3
+139569|Jinqiao Apartmenthotel|Beijing|NO|stars_4
+139653|The Opposite House|Beijing|YES|stars_5
+139655|Beijing Sihe Courtyard|Beijing|NO|stars_3
+139918|Grand Kempinski Shanghai|Shanghai|YES|stars_5
+140151|Kempinski Xi'an|Xian|YES|stars_5
+140156|Garden Xian|Xian|YES|stars_4
+140158|Empark Grand Shanxi Xi'an|Xian|YES|stars_5
+140159|Titan Times|Xian|YES|stars_5
+140160|Fraser Suites Top Glory|Shanghai|YES|stars_5
+140161|Elangrace Guangdong Road Hotel Shanghai|Shanghai|YES|stars_3
+140164|Ivy|Shanghai|YES|stars_4.5
+140176|Qianqiao International Pudong Avenue|Shanghai|YES|stars_2
+140177|Yunfeng Grand Shanghai|Shanghai|YES|stars_3
+140180|Jiuhua Chunshenhu|Suzhou|YES|stars_5
+140181|Best Western Tianjin Juchuan|Tianjin|YES|stars_4
+140185|Best Western Byronn Tianjin|Tianjin|YES|stars_4
+140186|Champagne Town|Tianjin|YES|stars_2
+140188|Renaissance|Wuhan|YES|stars_5
+140191|Tiananmen Yier Guesthouse|Beijing|YES|stars_3
+140192|Xuan Wu Men|Beijing|YES|stars_3
+140193|Grand Skylight Catic Hotel|Beijing|YES|stars_4
+140239|Hunan Fowin|Changsha|YES|stars_3.5
+140240|Crowne Plaza City Centre|Changsha|YES|stars_5
+140241|Jasmine International|Changsha|YES|stars_4
+140242|Jinhui International|Changsha|YES|stars_3
+140243|Howard Johnson Parkland|Dalian|YES|stars_4
+140246|Honglou International|Hangzhou|YES|stars_4
+140247|Days Riverview Hangzhou|Hangzhou|YES|stars_3
+140254|Gui Hua|Kunming|YES|stars_3
+140256|Nan Men Lijiang|Lijiang|YES|stars_3
+140257|Lijiang Dianjunwang|Lijiang|YES|stars_5
+140258|He Xi Lijiang|Lijiang|YES|stars_4
+140259|Li Wang Lijiang|Lijiang|YES|stars_4
+140666|Paradise|Changchun|YES|stars_4
+140668|New Empire|Changsha|YES|stars_4
+140681|Himalaya|Chengdu|NO|stars_3
+140685|Lhasa Grand|Chengdu|YES|stars_4
+140687|Pretty Tian Fu|Chengdu|NO|stars_3
+140695|Chenxi Super 8|Dalian|YES|stars_2.5
+140701|Best Western Fuzhou Fortune|Fuzhou|NO|stars_4
+140705|Communication Business|Hangzhou|NO|stars_3.5
+140707|Lakeside|Hangzhou|YES|stars_4
+140749|Eastern Pearl|Nanjing|NO|stars_4
+140753|Jinling Jingyuan Plaza|Nanjing|YES|stars_4
+140755|Jin Hua|Nanning|NO|stars_4
+140772|China People's Palace|Beijing|NO|stars_4
+140779|Beijing HWA|Beijing|YES|stars_3
+140785|Ruicheng Hotel|Beijing|NO|stars_3
+140786|Spring Garden Hotel Beijing|Beijing|NO|stars_3
+140790|Yilan Hotel Beijing|Beijing|YES|stars_2
+140801|Eastern Airlines|Shanghai|NO|stars_3.5
+140804|Green Garden|Shanghai|YES|stars_4
+140808|Rhea Boutique Jinqiao|Shanghai|YES|stars_4
+140809|Joyage Business Jing An|Shanghai|NO|stars_2.5
+140810|Rhea Lakeview|Shanghai|YES|stars_3.5
+140811|Piao Ying|Shanghai|YES|stars_3
+140814|Renhe|Shanghai|YES|stars_3
+140815|Sky Fortune Boutique|Shanghai|YES|stars_5
+140829|New Century Hotel Taizhou|Taizhou|YES|stars_4
+140842|New Southasia|Wenzhou|NO|stars_3
+140844|Tian Du|Wenzhou|NO|stars_3
+140845|Victoria Grand|Wenzhou|YES|stars_4
+140860|Sheraton Wuxi Binhu|Wuxi|YES|stars_5
+140869|Riyuegu Hotspring|Xiamen|NO|stars_5
+140873|Wen Yuan|Xian|NO|stars_3
+140891|Yindu|Yiwu|YES|stars_4
+140894|Huafang Jinling International|Zhangjiagang|YES|stars_5
+140898|Zhangjiajie International Hunan|Zhangjiajie|YES|stars_4
+140900|Pipaxi|Zhangjiajie|YES|stars_3
+141877|White Tower Yier Guesthouse|Beijing|YES|stars_3
+141878|Su Ning Universal|Nanjing|YES|stars_5
+141879|Pudi Boutique|Shanghai|YES|stars_4.5
+144307|Han Yi|Chengdu|YES|stars_4
+144308|Crowne Plaza Sun Palace|Beijing|YES|stars_5
+144309|Jianguo|Xian|YES|stars_4
+144311|Hotel G ( bald Tangram)|Beijing|YES|stars_4.5
+144313|Vienna Guowang|Shenzhen|YES|stars_2.5
+144314|Ramada Plaza|Yantai|YES|stars_4
+144315|Mian Yang Chengdu|Chengdu|YES|stars_2
+154130|Yunshan|Canton (Guangzhou)|YES|stars_3.5
+154131|Jun Shan|Canton (Guangzhou)|NO|stars_3
+154141|Legendale Beijing|Beijing|YES|stars_5
+154146|Lee Garden Service Apartments|Beijing|YES|stars_5
+154149|Wangfujing Guesthouse|Beijing|YES|stars_3
+154151|Home Inn BeiXinQiao|Beijing|NO|stars_2
+154153|Beijing Courtel|Beijing|NO|stars_3
+154155|Hutong Inn|Beijing|YES|stars_3
+154157|Soluxe Courtyard|Beijing|NO|stars_3
+154163|N.E. Hotel Beijing|Beijing|NO|stars_3
+154172|Ramada Parkside|Beijing|YES|stars_4
+154180|Starmoon|Beijing|YES|stars_3
+154181|Traders Upper East|Beijing|YES|stars_4
+154186|Taiyue Heights|Beijing|NO|stars_4
+154188|Oakwood Residence|Beijing|YES|stars_5
+154189|Ritan International|Beijing|YES|stars_4
+154201|Century Towers Beijing|Beijing|NO|stars_3
+154202|Fairmont Beijing|Beijing|YES|stars_5
+154204|Fulton|Beijing|NO|stars_4
+154205|Howard Johnson Regel Court|Beijing|NO|stars_5
+154206|Park Hyatt Beijing|Beijing|YES|stars_5
+154207|KaiHeng Century|Beijing|NO|stars_3.5
+154220|Chateau de Luze|Beijing|NO|stars_4.5
+154222|Home Inn GuoMao|Beijing|YES|stars_2
+154224|Radegast Bohao|Beijing|YES|stars_4.5
+154234|Oakwood Apartments|Beijing|NO|stars_4
+154248|Shanshui Trends Shaoyaoju|Beijing|YES|stars_2.5
+154255|The Apartments on Finacial Street Beijing|Beijing|NO|stars_5
+154256|Grand Metropark Yuantong|Beijing|YES|stars_5
+154261|Home Inn Beijing XiZhiMen|Beijing|YES|stars_2
+154265|Home Inn Xinxingqiao|Beijing|NO|stars_2
+154266|Ao Xiang Ge|Beijing|YES|stars_3
+154268|Shanshui Trends Hangtian Bridge|Beijing|YES|stars_3
+154276|Mercure Wanshang|Beijing|YES|stars_4
+154283|Days Inn Joiest|Beijing|YES|stars_3
+154284|Holiday Inn Express Beijing Temple of Heaven|Beijing|YES|stars_3
+154285|Home Inn Beiwei Road|Beijing|NO|stars_2
+154286|Jingtailong International Hotel|Beijing|YES|stars_4
+154289|Shindom Beijing|Beijing|NO|stars_3
+154298|Zhongyan|Beijing|NO|stars_3
+154309|Commercial Business|Beijing|YES|stars_3.5
+154320|Shanshui Trends Liuliqiao|Beijing|YES|stars_2.5
+154329|Ariva Beijing West|Beijing|NO|stars_4
+154332|Central Garden|Beijing|NO|stars_4
+154334|Jiayuan|Beijing|YES|stars_3
+154335|Yihai Business Hotel|Beijing|NO|stars_3
+154340|Super 8 Beijing Xue Yuan Lu|Beijing|YES|stars_0
+154343|Crowne Plaza Beijing Zhongguancun|Beijing|YES|stars_5
+154345|Jade Palace Zhongguancun|Beijing|YES|stars_5
+154346|Yanshan Business|Beijing|YES|stars_4
+154347|Home Inn XiaoXiTian|Beijing|NO|stars_2
+154350|Empark Grand Beijing|Beijing|NO|stars_5
+154353|Ruyi Business Beijing|Beijing|NO|stars_4
+154356|Aman at Summer Palace|Beijing|YES|stars_5
+154357|Fragrant Hill Empark Hotel|Beijing|NO|stars_4
+154358|Aloft Beijing Haidian|Beijing|YES|stars_4
+154359|Four Points by Sheraton Beijing, Haidian|Beijing|YES|stars_4
+154368|Courtyard Beijing Northeast|Beijing|YES|stars_4
+154370|Holiday Inn Express Beijing Huacai|Beijing|YES|stars_3
+154371|International Bamboo & Rattan Tower|Beijing|YES|stars_4
+154372|Quality Wangjing|Beijing|YES|stars_4
+154376|Hua Shan Yuan Hot Spring|Beijing|NO|stars_4
+154379|Pullman Beijing South|Beijing|YES|stars_5
+154380|Liaoning International Hotel|Beijing|NO|stars_5
+154389|Hui Yuan Plaza Airport|Beijing|NO|stars_3
+154393|Airport Express|Beijing|NO|stars_3
+154396|Best Western Grandsky|Beijing|NO|stars_3
+154401|Zhuhang Airport Business|Beijing|NO|stars_3
+154414|Jiangxi Grand|Beijing|YES|stars_4
+154416|Fraternal Cooperation International Beijing|Beijing|YES|stars_4
+154419|Lijingwan International|Beijing|NO|stars_5
+154420|Schonbrunn Beijing|Beijing|YES|stars_4
+154422|Super 8 Beijing Ao Shi|Beijing|YES|stars_0
+154425|Super 8 Beijing Birds Nest|Beijing|YES|stars_0
+154427|Super 8 Beijing Guo Zhan He Ping Li|Beijing|YES|stars_0
+154429|Super 8 Beijing Shijingshan Jiu Jiu Yuan|Beijing|YES|stars_0
+154430|Super 8 Yong Qiang|Beijing|YES|stars_0
+154431|Wenjin|Beijing|YES|stars_5
+154432|Xihua Business|Beijing|YES|stars_4
+154442|The Emperor Beijing|Beijing|NO|stars_3.5
+154452|Shengyi Holiday Villa|Sanya|NO|stars_5
+154456|Yalong Bay Villas & SPA Resort|Sanya|YES|stars_5
+154459|Cactus Resort|Sanya|YES|stars_4
+154460|Huandao Beach Hotel|Sanya|NO|stars_3
+154461|Pullman Sanya Yalong Bay|Sanya|YES|stars_5
+154462|Tianhong Resort|Sanya|NO|stars_5
+154472|Howard Johnson Resort Sanya Bay|Sanya|YES|stars_4.5
+154495|East Asia|Shanghai|YES|stars_2
+154499|Baron Business Bund|Shanghai|NO|stars_4
+154507|Mason Hotel Shanghai|Shanghai|NO|stars_3
+154508|New Westlake|Shanghai|NO|stars_4.5
+154511|Tian Cheng|Shanghai|NO|stars_4
+154517|Home Inn Shanghai XuJiaHui|Shanghai|NO|stars_2
+154526|The Mansion|Shanghai|YES|stars_5
+154530|Motel 168 Changping|Shanghai|NO|stars_2
+154532|Home Inn ShanXi Road|Shanghai|NO|stars_2
+154534|Jing'an|Shanghai|NO|stars_4
+154536|Fanyang Downtown Resort|Shanghai|NO|stars_3
+154537|The Puli Hotel & Spa|Shanghai|YES|stars_5
+154538|URBN|Shanghai|YES|stars_4.5
+154541|Yan'an|Shanghai|NO|stars_4
+154545|Ruitai Jing'an|Shanghai|YES|stars_4
+154547|Renaissance Zhongshan Park Shanghai|Shanghai|YES|stars_5
+154552|International Service Apartments|Shanghai|NO|stars_3.5
+154553|pentahotel Shanghai|Shanghai|YES|stars_4
+154555|Carolina Shanghai|Shanghai|NO|stars_3
+154559|Fenhe Grand|Shanghai|YES|stars_2.5
+154561|Guangxi|Shanghai|YES|stars_2
+154571|Mingde Grand|Shanghai|YES|stars_5
+154573|Jinrong International|Shanghai|NO|stars_4
+154578|GreenTree Inn Jiangpu|Shanghai|NO|stars_2.5
+154583|Huajing Grand|Shanghai|NO|stars_3.5
+154585|Park Hyatt Shanghai|Shanghai|YES|stars_5
+154589|Pu Dong Hotel|Shanghai|NO|stars_3.5
+154591|Starway Lujiazui Branch|Shanghai|YES|stars_4
+154592|Tong Mao|Shanghai|NO|stars_4
+154594|Grand Soluxe Zhongyou|Shanghai|YES|stars_4
+154602|Chinas Best Value Inn - Shanghai Dongfang Road|Shanghai|YES|stars_2
+154604|Benjoy Jufeng Road|Shanghai|YES|stars_3
+154605|Byfond Shanghai|Shanghai|NO|stars_3
+154621|Honghe|Shanghai|NO|stars_3
+154634|Tongji Garden Apartment|Shanghai|YES|stars_3.5
+154638|Jinting Hotel Shanghai|Shanghai|NO|0
+154641|Hong Qiao State Guest|Shanghai|YES|stars_5
+154643|Rich Garden|Shanghai|NO|stars_3
+154645|Gubei Garden|Shanghai|NO|stars_4
+154649|Holiday Inn Express Wujiaochang|Shanghai|YES|stars_3
+154656|Hotel the Land|Shanghai|NO|stars_3
+154671|Diamond Court|Shanghai|NO|stars_4
+154672|La Garfield|Shanghai|YES|stars_4
+154675|Howard Johnson Plaza Lingang|Shanghai|YES|stars_4
+154679|Gloria Plaza Kangqiao Shanghai|Shanghai|YES|stars_4
+154684|Sofitel Huanghe Sheshan Resort|Shanghai|YES|stars_5
+154690|July Plaza International|Shanghai|YES|stars_3
+154707|Ibis Xian Heping Gate|Xian|NO|stars_3
+154708|Jiahe Business Hotel Xi'an|Xian|NO|stars_3
+154711|Citadines Central|Xian|YES|stars_3.5
+154712|Super 8 Hotel Xian Xidajie|Xian|YES|stars_3
+154713|Union Alliance Atravis Executive|Xian|YES|stars_4
+154714|West Capital International Xi'an|Xian|NO|stars_4
+154716|The Good World Xi'an|Xian|YES|stars_4
+154719|HNA Downtown|Xian|NO|stars_4
+154726|Rail Tel Communication Commercial|Xian|NO|stars_3
+154730|Days Xi'an|Xian|YES|stars_4
+154740|Starway Xishan|Guillin|NO|stars_3
+154742|Jin Wan|Guillin|NO|stars_3
+154744|7 Days Inn Train Station Branc|Guillin|YES|stars_3
+154755|Green Land|Kunming|YES|stars_5
+154756|Golden Spring|Kunming|YES|stars_4
+154764|Dinghong Holiday Hotel Hangzhou|Hangzhou|NO|stars_3
+154768|Sunny Huansha|Hangzhou|NO|stars_3
+154770|Dahua|Hangzhou|NO|stars_4
+154774|Liuying Garden|Hangzhou|NO|stars_3
+154788|Merchant Marco|Hangzhou|NO|stars_4
+154793|Zhejiang Business Hotel|Hangzhou|NO|stars_4
+154795|Huguang Hotel Hangzhou|Hangzhou|NO|stars_3
+154798|Oakwood Residence|Hangzhou|YES|stars_5
+154800|The New|Hangzhou|NO|stars_4
+154801|Hangzhou Xihu State Guesthouse|Hangzhou|NO|stars_5
+154805|Overseas Chinese Hotel Hangzhou|Hangzhou|YES|stars_3
+154819|Haiwaihai International|Hangzhou|YES|stars_3
+154826|Zhonghao Hotel Hangzhou|Hangzhou|NO|stars_3
+154829|Longhill|Hangzhou|NO|stars_4
+154835|New Century Grand|Hangzhou|YES|stars_5
+154837|New Century Xiaoshan Zhejiang|Hangzhou|YES|stars_4
+154841|New Century Resort Qiandao Lake|Hangzhou|YES|stars_4.5
+154847|Four Points by Sheraton Hangzhou, Binjiang|Hangzhou|NO|stars_4
+154848|Ramada Plaza Riverside Hangzhou|Hangzhou|YES|stars_4
+154850|Super 8 Hangzhou Zhe Tian|Hangzhou|YES|stars_0
+154861|Holiday Inn Express Chengdu Gulou|Chengdu|YES|stars_3
+154864|Zenec International|Chengdu|NO|stars_3
+154880|Universal House Golden Gulf|Chengdu|NO|stars_4
+154885|Haiyatt Garden|Chengdu|YES|stars_5
+154886|Holiday Inn Chengdu Century City - Easttower|Chengdu|NO|stars_4
+154888|InterContinental Century City Chengdu|Chengdu|YES|stars_5
+154922|Days Wudu|Chungking (Chongqing)|YES|stars_0
+154923|DLT|Chungking (Chongqing)|NO|stars_3.5
+154925|HNA|Chungking (Chongqing)|YES|stars_3
+154926|Home Inn Chongqing ShangQingSi|Chungking (Chongqing)|YES|stars_2
+154934|Chongqing Tianlai Hotel|Chungking (Chongqing)|NO|stars_4.5
+154956|Yunsong Garden Hotel|Huangshan-Mountains|NO|stars_3.5
+154957|Xin Yue Xin|Canton (Guangzhou)|NO|stars_2
+154962|Joyful Sea|Canton (Guangzhou)|NO|stars_3
+154966|Starway Tianlong|Canton (Guangzhou)|NO|stars_3
+154970|Zhejiang|Canton (Guangzhou)|NO|stars_4
+154973|Suntec Plaza|Canton (Guangzhou)|NO|stars_3
+154977|Yinghao|Canton (Guangzhou)|NO|stars_3
+154978|BaiLing|Canton (Guangzhou)|NO|stars_3
+154994|Sino Trade Centre|Canton (Guangzhou)|YES|stars_3
+154996|Datang|Canton (Guangzhou)|YES|stars_3
+154999|Huahai|Canton (Guangzhou)|NO|stars_3
+155003|New Pearl River International Apartment|Canton (Guangzhou)|NO|stars_4
+155006|Peach Blossom River|Canton (Guangzhou)|YES|stars_3
+155009|Regal Riviera|Canton (Guangzhou)|NO|stars_4
+155010|Sanflowery Hotel Guangzhou|Canton (Guangzhou)|NO|stars_4
+155011|Star City|Canton (Guangzhou)|YES|stars_3
+155012|Vienna Hotel Sanyuanli Branch|Canton (Guangzhou)|NO|stars_3.5
+155018|Yihe Summer Palace|Canton (Guangzhou)|NO|stars_4
+155020|Golden World|Canton (Guangzhou)|YES|stars_2
+155032|Pengan|Canton (Guangzhou)|NO|stars_3
+155034|Shanshui Trends East Railway Station|Canton (Guangzhou)|NO|stars_3
+155036|Chundu|Canton (Guangzhou)|NO|stars_3
+155037|Good International|Canton (Guangzhou)|NO|stars_4
+155039|Overseas Chinese Friendship Hotel|Canton (Guangzhou)|NO|stars_3
+155041|University Business|Canton (Guangzhou)|YES|stars_3
+155044|Nan Guo|Canton (Guangzhou)|NO|stars_4
+155047|Teem Ease|Canton (Guangzhou)|NO|stars_3
+155048|Yu Tong|Canton (Guangzhou)|NO|stars_4
+155049|Dragon Pearl Business|Canton (Guangzhou)|NO|stars_2
+155051|Yingfeng|Canton (Guangzhou)|NO|stars_3
+155055|Dragon Lake Princess|Canton (Guangzhou)|NO|stars_5
+155061|New Century|Canton (Guangzhou)|NO|stars_4
+155071|Fortune|Canton (Guangzhou)|NO|stars_3.5
+155076|Imperial|Panyu|NO|stars_3.5
+155077|Panyu|Canton (Guangzhou)|NO|stars_4
+155082|Nanfang Yiyuan|Canton (Guangzhou)|NO|stars_3.5
+155092|Hongfan Hotel Guangzhou|Canton (Guangzhou)|NO|stars_3
+155093|Chateau Star River Guangzhou|Canton (Guangzhou)|NO|stars_5
+155094|Euro Asia|Canton (Guangzhou)|YES|stars_4
+155099|White Palace|Canton (Guangzhou)|YES|stars_3.5
+155109|Xin Ding|Lhasa|NO|stars_4
+155110|Conifer Lishui Yangguang|Lijiang|YES|stars_4
+155123|Fangyuan Jinling Plaza|Nanjing|YES|stars_0
+155129|Central|Nanjing|YES|stars_5
+155132|Home Inn Xinjiekou|Nanjing|YES|stars_2
+155142|Jinling Riverside Hotel|Nanjing|YES|stars_4.5
+155150|Purple Palace Nanjing|Nanjing|YES|stars_4
+155151|Jinling Resort|Nanjing|YES|stars_4
+155157|Super 8 Hua Guan Confucius Temple|Nanjing|YES|stars_0
+155158|Super 8 Xin Jie Kou|Nanjing|YES|stars_0
+155163|Scholars Inn Jinmen|Suzhou|NO|stars_3
+155178|Aster|Suzhou|YES|stars_5
+155192|Garden|Suzhou|YES|stars_5
+155195|New King Lion Mansion|Suzhou|NO|stars_3
+155198|Traveler Inn Gusu|Suzhou|NO|stars_3
+155204|Scholars Inn Panmen|Suzhou|NO|stars_3
+155210|Scholars City|Suzhou|NO|stars_3
+155212|Crown Serviced Apartment Suzhou|Suzhou|NO|stars_3
+155214|Grand Metropark Suzhou|Suzhou|YES|stars_5
+155216|Kempinski Suzhou|Suzhou|YES|stars_5
+155231|Jin Cheng Jin Jiang International|Suzhou|NO|stars_4
+155237|Super 8 Yuan Qu Xin Yi|Suzhou|YES|stars_0
+155244|Home Inn Wuhan Gaoxiong|Wuhan|YES|stars_2
+155246|Home Inn Wuhai LiuDuQiao|Wuhan|YES|stars_2
+155250|Super 8 Hankou Railway Station|Wuhan|YES|stars_2
+155255|Logosun Wuhan|Wuhan|NO|stars_4
+155258|Ramada Plaza Optics Valley Wuchang|Wuhan|YES|stars_4
+155263|Super 8 Yangtse River Qingshan|Wuhan|YES|stars_0
+155264|Hongguang Wuhan|Wuhan|NO|stars_5
+155280|Ibis Wuxi Hi Tech|Wuxi|NO|stars_3
+155284|Ramada Wuxi|Wuxi|NO|stars_2.5
+155285|Ramada Encore Hotel Wuxi|Wuxi|YES|stars_3
+155293|Ramada Plaza Wuxi|Wuxi|YES|stars_4
+155294|Kempinski Wuxi|Wuxi|NO|stars_5
+155308|Jin-An|Changchun|NO|stars_5
+155309|Super 8 Changchun|Changchun|YES|stars_0
+155310|Super 8 Qi Mao Cheng|Changchun|YES|stars_0
+155313|Oceanwide Elite|Tsingtau (Qingdao)|YES|stars_4
+155314|Zhanqiao Prince|Tsingtau (Qingdao)|YES|stars_4
+155316|Dynasty|Tsingtau (Qingdao)|YES|stars_5
+155318|Sophia International|Tsingtau (Qingdao)|YES|stars_4
+155324|Dong Hai|Tsingtau (Qingdao)|NO|stars_4
+155330|Qingdao Hotel|Tsingtau (Qingdao)|NO|stars_3
+155333|Sunny World|Tsingtau (Qingdao)|NO|stars_4
+155340|Grand Mercure Qingdao Airport|Tsingtau (Qingdao)|NO|stars_4
+155343|Ibis Qingdao Huangdao|Tsingtau (Qingdao)|NO|stars_3
+155344|Housing International|Tsingtau (Qingdao)|YES|stars_4.5
+155354|Hedong Shenzhen|Shenzhen|NO|stars_3
+155355|Holiday Inn Express Luohu Shenzhen|Shenzhen|YES|stars_3
+155363|Shenzhen Junting|Shenzhen|NO|stars_3
+155364|Lee Garden Hotel|Shenzhen|NO|stars_3
+155373|Feng Shun Business|Shenzhen|YES|stars_3
+155376|Hai Lian|Shenzhen|NO|stars_3
+155379|Kapok Shenzhen|Shenzhen|YES|stars_4
+155382|Shenzhen Royal Hotel|Shenzhen|NO|stars_3
+155388|Shenzhen Sichuan|Shenzhen|NO|stars_4
+155394|Chicago Suites International|Shenzhen|NO|stars_4
+155408|Futian Shangri-La|Shenzhen|YES|stars_5
+155410|Shenzhen Royalty Hotel|Shenzhen|NO|stars_3.5
+155415|Ack Cyber|Shenzhen|NO|stars_3
+155416|Hong Bo|Shenzhen|NO|stars_3
+155420|Grand Soluxe Zhongyou|Shenzhen|NO|stars_4
+155431|Sheraton Dameisha Resort|Shenzhen|YES|stars_5
+155443|Qiushuishan Grand|Shenzhen|NO|stars_3.5
+155447|Baolilai International Hotel|Shenzhen|NO|stars_5
+155471|Qingjiang Yichang|Yichang|YES|stars_4
+155479|Home Inn Tianjin BinJiang Road|Tianjin|NO|stars_2
+155481|Holiday Inn Express Binhai Tianjin|Tianjin|YES|stars_3
+155483|King Hall|Tianjin|NO|stars_4
+155488|Tianjin Golden Ocean Hotel|Tianjin|YES|stars_4
+155495|Super 8 Tiajin Chang Jiang Dao|Tianjin|YES|stars_0
+155510|Ibis Tianjin Teda|Tianjin|YES|stars_3
+155511|Mayfair|Tianjin|YES|stars_4
+155515|Hyatt Regency Jing Jin City Resort & Spa|Tianjin|YES|stars_5
+155517|Crowne Plaza Tianjin Binhai|Tianjin|YES|stars_5
+155518|Junhui Jianguo|Tianjin|NO|stars_4
+155519|Ruiwan New Century Hotel|Tianjin|YES|stars_5
+155530|Home Inn Shanghai ZhaBei Park|Shanghai|NO|stars_2
+155531|Super 8 Ya Tai|Fuzhou|YES|stars_0
+155551|Sheraton Changsha|Changsha|YES|stars_4.5
+155559|Sky Gold Coast|Changsha|NO|stars_3
+155573|Jin Jiang International|Changzhou|YES|stars_4
+155574|Holiday Inn Changzhou Wujin|Changzhou|YES|stars_4
+155582|Friendship Business|Dalian|YES|stars_3
+155586|Dalian Leewan Business Hotel|Dalian|YES|stars_3
+155589|Sunjoy|Dalian|NO|stars_4
+155591|Xinghai COEX Business / Sanjiang Business|Dalian|YES|stars_3
+155595|Bay Shore|Dalian|YES|stars_4
+155597|East Hotel Dalian|Dalian|YES|stars_4
+155598|Jinyuan Hotel Dalian|Dalian|NO|stars_3
+155602|HaoHai International|Datong|NO|stars_3
+155606|Jiang Long Hotel|Dongguan|NO|stars_3.5
+155611|Pullman Dongguan Forum|Dongguan|NO|stars_5
+155617|Goodview International Tangxia|Dongguan|YES|stars_5
+155619|Royal Garden International|Dongguan|NO|stars_4.5
+155621|The Lotus Villa Hotel Dongguan|Dongguan|YES|stars_0
+155629|Parklane|Dongguan|NO|stars_5
+155642|Sheraton Guiyang|Guiyang|YES|stars_5
+155664|Sofitel Wanda|Harbin|YES|stars_5
+155665|Harbin International|Harbin|YES|stars_4
+155666|Super 8 Harbin Long Ta|Harbin|YES|stars_0
+155683|Super 8 Jinan Jing Wei|Jinan|YES|stars_0
+155690|Super 8 Yan Chun|Shijiazhuang|YES|stars_0
+155692|Sheraton|Urumqi|YES|stars_5
+155693|Super 8 Hotel Urumqi Ba Yin He|Urumqi|YES|stars_0
+155701|Di Yuan|Yiwu|NO|stars_3
+155705|Suofeite Hotel Yiwu|Yiwu|NO|stars_3
+155707|Yiwu International Mansion Hotel|Yiwu|NO|stars_4
+155714|Ramada Plaza Zhengzhou|Zhengzhou|YES|stars_4.5
+155722|Galactic Peace International|Nanchang|YES|stars_0
+155730|Super 8 Hotel Nanchang Yitai|Nanchang|YES|stars_0
+155736|Le Meridien Shimei Bay Beach Resort & Spa|Wanning|YES|stars_5
+155741|Days Inn Business Place|Yinchuan|YES|stars_4
+155749|Shangri-La Huhhot|Hohhot|NO|stars_5
+155783|New Maocheng Hotel Ningbo|Ningbo|NO|stars_3
+155785|Smile and Nature Ningbo|Ningbo|YES|stars_5
+155787|New Century|Ningbo|YES|stars_4
+155789|Pitman Rooming House|Ningbo|NO|stars_3
+155792|Super 8 Hotel Ningbo Meihe|Ningbo|YES|stars_0
+155793|Tong Tu Yuan|Ningbo|NO|stars_2
+155809|New Century Grand|Ningbo|YES|stars_5
+155812|Days Fortune Xiamen|Xiamen|YES|stars_4
+155815|Millennium Harbourview|Xiamen|YES|stars_4
+155834|Xianglu GRAND Hotel|Xiamen|NO|stars_4
+155839|Yuejia Yibao|Xiamen|NO|stars_3
+155848|C&D Hotel|Xiamen|YES|stars_5
+155860|Super 8 Hotel Lanzhou Walking Street|Lanzhou|YES|stars_0
+155884|Sheraton Huizhou Beach Resort|Huizhou|YES|stars_0
+155892|Smile & Natural International|Jiujiang|NO|stars_4.5
+155899|Holiday Inn Jiuzhai Jarpo|Jiuzhaigou|NO|stars_3.5
+155921|New Century|Shaoxing|YES|stars_4.5
+155925|Jinchang New Century Hotel Shaoxing|Shaoxing|YES|stars_4
+155932|Ramada Plaza Taian|Tai'an|YES|stars_4
+155946|Weihai Haiyue Jianguo|Weihai|NO|stars_5
+155959|Super 8 Bai Xiang|Yangzhou|YES|stars_0
+155960|Super 8 Qing Yuan|Yangzhou|YES|stars_0
+155965|Machinery Shandong|Yantai|YES|stars_3
+155975|Sunway Golden Diamond Hotel|Zhongshan|NO|stars_4
+155977|Crowne Plaza Zhongshan Xiaolan|Zhongshan|YES|stars_4
+155982|Catic|Zhuhai|NO|stars_4
+155986|Harbour View Hotel & Resort|Zhuhai|YES|stars_5
+155988|Zhuhai Holiday Resort|Zhuhai|NO|stars_5
+156026|Shangri-La Baotou|Baotou|NO|stars_5
+156035|Crowne Plaza Hotel Dandong|Dandong|NO|stars_4.5
+156055|New Century Grand|Kaifeng|YES|stars_5
+156086|Super 8 Hotel Wenzhou Xing Rong|Wenzhou|YES|stars_0
+156094|Ex Palm D'Or|Wenzhou|NO|stars_4
+156095|Onehome H.S. Art Hotel Wenzhou|Wenzhou|YES|stars_5
+156110|Jinling Runyang Bridge|Zhenjiang|YES|stars_5
+156111|Super 8 Hotel Zhenjiang Mai Sha|Zhenjiang|YES|stars_0
+156142|Holiday Inn Express Changshu|Changshu|YES|stars_3
+156145|Super 8 Hotel Changshu Bo Si Deng|Changshu|YES|stars_0
+156167|Songtsam Shangri-La|Shangri-La|YES|stars_4
+156172|Taizhou Phoenix Villa|Taizhou|NO|stars_4
+156192|Wulingyuan International Resort|Zhangjiajie|YES|stars_5
+156194|Xiang Dian International|Zhangjiajie|YES|stars_4
+156214|Jiali International Hotel|Xuzhou|NO|stars_3.5
+156219|New Century Grand|Xuzhou|YES|stars_4.5
+156225|Yidu Jinling Grand Hotel|Yancheng|YES|stars_4.5
+156226|Days Hotel Golden Peacock Spa Resort Hefei|Lujiang|YES|stars_0
+156280|Sheraton Zhoushan|Zhoushan|YES|stars_4.5
+156289|Zhengda New Century Hotel Qingtian|Lishui|YES|stars_0
+156300|Wenshan International|Ji'an|NO|stars_4
+156321|Days Hotel and Suites Jiaozuo|Jiaozuo|YES|stars_4
+156327|Ramada|Meizhou|YES|stars_4
+156349|Super 8 Lu Neng|Yibin|YES|stars_0
+156356|Landmark Grand|Karamay|NO|stars_3
+156362|Super 8 Hui Long|Huangshi|YES|stars_0
+156375|Perfect Inn|Beijing|YES|stars_3
+156382|The Eton|Shanghai|YES|stars_5
+156383|Jade Emperor Hotel|Hangzhou|NO|stars_3
+156386|King World|Chungking (Chongqing)|YES|stars_5
+156387|JiangHe|Canton (Guangzhou)|YES|stars_3
+156390|Shenzhen Gold|Shenzhen|NO|stars_4
+156393|Vaya Huatian International|Changsha|YES|stars_5
+157657|Days Inn Business Place YinFeng|Beijing|YES|stars_4
+157658|Grand Gongda Jianguo|Beijing|YES|stars_4
+157659|AC Embassy|Beijing|YES|stars_4
+157660|Olsen|Beijing|YES|stars_3
+157661|City|Xian|YES|stars_3
+157662|Holiday Inn Tianjin Riverside|Tianjin|YES|stars_4
+157663|Ordos|Beijing|YES|stars_3
+157670|Central Dalian|Dalian|YES|stars_3
+157671|City Inn Yunhe Humen|Dongguan|YES|stars_2
+157672|City Inn Nancheng Dongguan|Dongguan|YES|stars_2
+157673|Yi Wu Commatel|Canton (Guangzhou)|YES|stars_3
+157674|Leisure Inn Yangshuo|Guillin|YES|stars_3
+157682|Grand Metropark Qihui|Jinan|YES|stars_4
+157683|Sofitel Wanda Ningbo|Ningbo|YES|stars_5
+157684|Howard Johnson Business Club|Shanghai|YES|stars_5
+157685|Shangtex|Shanghai|YES|stars_3
+157686|Dazhong Airport (South Building)|Shanghai|YES|stars_3
+157687|Courtyard Xujiahui|Shanghai|YES|stars_4
+157689|Minya|Shanghai|YES|stars_5
+157690|H Hotel|Shanghai|YES|stars_4
+157691|The Ritz-Carlton Shenzhen|Shenzhen|YES|stars_5
+161823|City Inn Sanyuanli|Canton (Guangzhou)|YES|stars_2
+161825|Pa Zhou|Canton (Guangzhou)|YES|stars_3
+161826|Home Inn Dongguan|Dongguan|YES|stars_2
+161827|Edinburgh Yanggongdi|Hangzhou|NO|stars_3
+161828|Holiday Inn Express South|Hefei|YES|stars_3
+161829|GreenTree Inn Shimen 2 Road|Shanghai|YES|stars_2
+161830|Rhea Railway Station|Shanghai|YES|stars_3
+161831|City Inn Laojie Longgang|Shenzhen|YES|stars_2
+161832|City Inn OCT Loft|Shenzhen|YES|stars_2
+161834|Heizee Xian|Xian|YES|stars_4
+161835|Karson Xian|Xian|YES|stars_3
+163383|City Inn Bao An Chuang Ye Lu|Shenzhen|YES|stars_2
+163452|Chang An Holiday|Zhuhai|YES|stars_5
+182130|Gallery Suites Shanghai|Shanghai|NO|stars_5
+182180|Crowne Plaza Foshan|Foshan|YES|stars_5
+182181|City Inn Shi Qi Zhongshan|Zhongshan|YES|stars_2
+182182|Class Fotel|Beijing|YES|stars_3
+182183|Carlany Binyue Hotel|Shanghai|YES|stars_4
+182184|General Star|Shanghai|YES|stars_3
+182185|Zhong Xie|Beijing|YES|stars_3
+182294|The Riverside Baroque Palace|Beijing|YES|stars_5
+182295|Xin Hua Yuan|Zhuhai|YES|stars_3
+182296|Da Cheng|Changsha|YES|stars_4
+182297|Jinjiang North Jiefang Road|Canton (Guangzhou)|YES|stars_2
+182298|Huating Holiday Inn|Guillin|YES|stars_3
+182299|Chinas Best Value Inn Bund|Shanghai|YES|stars_2
+182300|King Park View|Beijing|YES|stars_3
+182301|Ramada Plaza Sino Bay|Shanghai|YES|stars_4
+182302|Kai Bo|Shanghai|YES|stars_3
+182304|Xiongchu International|Wuhan|YES|stars_5
+182347|Beach Castle|Tsingtau (Qingdao)|YES|stars_3
+182348|New Century Grand Hotel|Changchun|YES|stars_4
+182350|Yicheng Business|Canton (Guangzhou)|YES|stars_3
+182352|Juntao International|Shunde|YES|stars_4
+182353|City Inn Foshan Ji Hua Lu|Foshan|YES|stars_2
+182355|Bund Wave|Shanghai|YES|stars_2
+182356|Yi Chen Hua Tian|Shanghai|YES|stars_5
+182357|Xizhao Temple|Beijing|YES|stars_4
+182358|Motel Donghuan|Shenzhen|YES|stars_2
+182359|Shenneng Business|Beijing|YES|stars_2.5
+182360|Royalston|Shanghai|YES|stars_4
+182373|Crowne Plaza Yantai Sea View|Yantai|YES|stars_5
+182375|Home Inn Huixindongqiao|Beijing|YES|stars_2
+182376|Home Inn Anhuaqiao|Beijing|YES|stars_2
+182377|HNA|Haikou|YES|stars_4
+182379|Hanting Express Shanghai Lujiazui Minsheng|Shanghai|YES|stars_3
+182381|Crowne Plaza Guangzhou Science City|Canton (Guangzhou)|YES|stars_5
+182382|Glenview ITC Plaza Chongqing|Chungking (Chongqing)|YES|stars_5
+182383|Jin Jiang Oriental|Chungking (Chongqing)|YES|stars_5
+182435|DoubleTree Huaqiao|Kunshan|NO|stars_4.5
+182818|Grand Soluxe|Sanya|YES|stars_4.5
+182907|Howard Johnson Tech Center Plaza|Hefei|YES|stars_4.5
+182908|Ya Hua|Changsha|YES|stars_4
+182909|Motel 168 Ping Kang Road Inn|Canton (Guangzhou)|YES|stars_2
+183351|Regal Jinfeng|Shanghai|YES|stars_4
+183352|Holiday Inn Shanghai Pudong Nanpu|Shanghai|YES|stars_4
+183353|Radisson Plaza Tianjin|Tianjin|YES|stars_5
+183354|Parkyard|Shanghai|NO|stars_4
+183355|City Inn Chengdu Jinhe Road|Chengdu|YES|stars_2
+183357|Altira Macau|Macao (Macau)|YES|stars_5
+183359|Somerset Garden City|Shenzhen|YES|stars_4
+183360|Best Eastern Yangshuo|Yangshuo|YES|stars_3
+183361|Somerset JieFangBei|Chungking (Chongqing)|YES|stars_4
+183362|Orient Fashion|Shenzhen|NO|stars_3
+183363|Eagle Canyon Hotel|Tsingtau (Qingdao)|NO|stars_4
+183364|Grand Link|Guillin|YES|stars_4
+183368|Orange Huaishu Road|Ningbo|YES|stars_3
+183369|Orange Xuanwumen|Nanjing|YES|stars_2
+183371|Orange Xinjiekou|Nanjing|YES|stars_2
+183374|Yahsin Business Hotel|Shanghai|NO|stars_4
+183375|Orange Yuehu|Ningbo|YES|stars_3
+183380|Ascott Raffles City|Beijing|YES|stars_5
+185325|24K International People's Square|Shanghai|NO|stars_2
+185327|24K International Fu Zhou|Shanghai|NO|stars_2
+185329|Motel 168 The Bund Inn|Shanghai|YES|stars_2
+185393|Crowne Plaza North Beijing|Beijing|NO|stars_5
+185399|Super 8 Hotel Chengdu Fu Kai|Chengdu|YES|stars_0
+185402|Henry Business|Canton (Guangzhou)|NO|stars_4
+185403|Manwan Resort Hotel|Dali|YES|stars_5
+185405|Howard Johnson Jindi Plaza Datong|Datong|YES|stars_4
+185406|Goodview Hotel Sangem, Qiaotou|Dongguan|YES|stars_4
+185409|Guangdong Dasha Hotel|Canton (Guangzhou)|NO|stars_4
+185440|Jimao|Shanghai|NO|stars_3
+185441|Jinxuan|Shanghai|NO|stars_3
+185449|Yuyuan International HMCC Gold|Taiyuan|NO|stars_4
+185662|5 Star Wharton International Hotel Nanning|Nanning|NO|0
+185696|New Henderson|Xian|NO|stars_3
+188034|Hard Rock|Macao (Macau)|YES|stars_4
+188047|Xi Hai|Beijing|YES|stars_2
+188048|Garden Inn Xidan|Beijing|YES|stars_2
+188049|Garden Inn Jiefang Road West|Changsha|YES|stars_2
+188050|Garden Inn Yuanjialing|Changsha|YES|stars_2
+188051|Motel 168 North Tian He Road Inn|Canton (Guangzhou)|YES|stars_2
+188052|Ssaw Plaza|Hangzhou|YES|stars_4
+188053|Ariva|Tsingtau (Qingdao)|YES|stars_4
+188054|8 Colors|Shanghai|YES|stars_3
+188056|Buena Vista Gulf|Yantai|YES|stars_4
+188057|Ssaw Cheng Zhong|Yiwu|YES|stars_3.5
+188072|Hotel Jia Long|Beijing|YES|stars_3
+188073|Chateau L'Act|Lijiang|YES|stars_5
+190065|Ai Qun|Canton (Guangzhou)|NO|stars_3
+190072|Airland|Shenzhen|NO|stars_4
+190105|Ambassador|Shenzhen|NO|stars_4
+190108|Amersino Hotel Shanghai|Shanghai|NO|stars_3
+190109|Amethyst|Hangzhou|NO|stars_4
+190113|An-E Xuetao Branch|Chengdu|YES|stars_2
+190115|An-e Dong Ma Peng Branch|Chengdu|NO|stars_2
+190116|Ane Eying Branch|Chengdu|NO|stars_2
+190145|Art Star Hotel Guangzhou|Canton (Guangzhou)|NO|stars_3
+190150|Asia Pacific Beijing|Beijing|NO|stars_3.5
+190216|Baohong Hotel Sanya|Sanya|NO|stars_5
+190253|Beijing Airlines Beijing|Beijing|NO|stars_3
+190255|Auspicious Business|Beijing|NO|stars_3
+190259|Century Guojian|Beijing|NO|stars_4
+190265|Beijing Dacheng International|Beijing|NO|0
+190274|Beijing Fleet|Beijing|NO|0
+190336|Taiyue Villa|Beijing|NO|stars_4
+190417|Blue Horizon International Hotel Dongying|Dongying|NO|stars_4.5
+190429|Bodi Boutique|Shanghai|YES|stars_4
+190431|Gloria Plaza Airport Qingdao|Tsingtau (Qingdao)|NO|stars_4
+190433|Bolton Hotel Dongguan|Dongguan|NO|stars_4
+190437|Bossfield Hotel Shenzhen|Shenzhen|NO|stars_4
+190473|C.Kong International|Beijing|NO|stars_4
+190502|Celebrity City|Chengdu|NO|stars_5
+190516|Century Huatian|Beijing|NO|stars_4
+190530|Changbaishan International Beijing|Beijing|NO|stars_4
+190542|Changmen Hotel Suzhou|Suzhou|YES|stars_3
+190569|Chenlong Business|Shanghai|NO|stars_2
+190570|Chenming International Hotel|Weifang|NO|0
+190642|Cinderella Apartment|Beijing|NO|stars_2
+190644|Cinese Guangdong|Canton (Guangzhou)|NO|stars_4.5
+190671|City View Xuhui|Shanghai|NO|stars_3
+190674|Citytel Inn|Beijing|YES|stars_2
+190689|Colorful Days|Canton (Guangzhou)|YES|stars_3
+190696|Communications Beijing|Beijing|NO|stars_3
+190708|Corea Beijing|Beijing|NO|stars_3
+190709|Dorsett Regency Wuhan|Wuhan|YES|stars_4
+190710|Cosmopolite Apartments Beijing|Beijing|NO|stars_4
+190719|Cruiseinn International Hotel Shenzhen|Shenzhen|NO|stars_3.5
+190794|Days Lianyungang|Lianyungang|YES|stars_3
+190795|Days Landscape Resort|Jilin|NO|stars_4
+190796|Days Hotel Zhong Hui Changshu|Changshu|YES|stars_0
+190802|De Sense Guangdong|Canton (Guangzhou)|NO|stars_3.5
+190821|Di Jing Yuan Service Apartment|Shanghai|NO|stars_4
+190852|Dongfang|Beijing|NO|stars_2.5
+190887|Dongyue Fashion|Canton (Guangzhou)|NO|stars_2.5
+190899|Dragon Spring|Beijing|NO|stars_4
+190939|Eastern Garden Service Apartment Shanghai|Shanghai|NO|stars_4
+190950|Starway Premier ECO Grand|Changzhou|NO|stars_4
+190954|Eden Resort|Yibin|NO|stars_4
+190956|Edinburgh Holiday|Hangzhou|NO|stars_3.5
+190964|E-Key Business Hotel Suzhou|Suzhou|NO|0
+190966|Elan Inn Wensan|Hangzhou|NO|stars_2
+190996|Escargotel Beijing|Beijing|NO|stars_2
+191007|Everbright International|Shanghai|YES|stars_4
+191039|Feitian Grand|Beijing|YES|stars_4
+191054|Fenglan Business Hotel Shanghai|Shanghai|NO|stars_2
+191076|Forbidden City|Beijing|YES|stars_2
+191092|Four Season Club Chateau Star River|Beijing|NO|stars_4
+191166|Gaotique Shanghai|Shanghai|YES|stars_4
+191180|Garden Wuyuan|Wuyuan|NO|stars_3
+191191|Gehua New Century Beijing|Beijing|YES|stars_5
+191212|Days Xin Kai Lai|Harbin|YES|stars_3.5
+191214|Glorious Suzhou|Suzhou|YES|stars_2
+191227|Golden Central Hotel Shenzhen|Shenzhen|NO|stars_4
+191263|Golden Phoenix Seaview|Sanya|NO|stars_4
+191269|Golden Sea|Changsha|NO|stars_3
+191296|Gotel Capital|Beijing|NO|stars_4
+191302|Grand Barong Zhoushan|Zhoushan|NO|stars_4
+191305|Grand Continental Service Apartments|Canton (Guangzhou)|YES|stars_3
+191342|Green Tree Inn Qiutao Road|Hangzhou|NO|0
+191349|Green Westin|Chengdu|YES|stars_3
+191364|GreenTree Inn Beijing Guangmingqiao|Beijing|NO|stars_3
+191371|GreenTree Inn Hongqiao Airport Shanghai|Shanghai|NO|stars_2.5
+191374|GreenTree Inn Nanjing Caochangmen Business Hotel|Nanjing|NO|stars_3
+191376|GreenTree Inn National Stadium Beijing|Beijing|NO|stars_3
+191381|GreenTree Inn YiTianXia|Shanghai|NO|stars_3
+191387|GreenTree Inn Yizhuang|Beijing|NO|stars_3
+191419|Guangdong Inn Express Shenzhen|Shenzhen|NO|stars_3
+191420|Guangdong New Xiangjiang|Canton (Guangzhou)|NO|stars_3
+191425|Guangming Beijing|Beijing|YES|stars_4
+191456|Gui Fu Guilin|Guillin|YES|stars_4
+191462|Guidu|Beijing|YES|stars_4
+191479|Guomao Jiari|Dalian|NO|stars_3
+191537|Haifu|Shenzhen|NO|stars_3
+191587|Haiyue Bay Holiday|Sanya|NO|stars_4
+191602|Hangzhou Commercial Center Hangzhou|Hangzhou|NO|stars_3
+191615|ZTG Resort Thousand Island Lake|Qiandaohu|NO|stars_5
+191721|Happy Inn International|Beijing|YES|stars_3
+191748|Hebi Guest House Hotel Hebi|Hebi|NO|stars_4
+191761|Heng Fu Lai|Canton (Guangzhou)|YES|stars_2
+191809|Holiday Inn Express Grand Canal|Hangzhou|NO|stars_3
+191811|Holiday Inn Express Wangjing|Beijing|YES|stars_3
+191815|Holiday Inn Moon River Beijing|Beijing|YES|stars_4
+191865|Home Inn Heping North Street|Shenyang|YES|stars_2
+191880|Home Inn Wuhan CuiWei Street|Wuhan|YES|stars_2
+191881|Home Inn Wuhan Ziyang Street|Wuhan|YES|stars_2
+191883|Home Inn Harbin Kuan Qiao Street|Harbin|NO|stars_2
+191896|Home Inn Caishiko Beijing|Beijing|YES|stars_2
+191899|Home Inn Ciyunsi Qiao|Beijing|NO|stars_2
+191908|Home Inn Hemei|Shanghai|NO|stars_2
+191911|Home Inn Huamao|Beijing|YES|stars_2
+191928|Home Inn Liuhe Yongning Road|Nanjing|YES|stars_2
+191933|Home Inn Shangdi Road|Beijing|NO|stars_2
+191943|Home Inn Tiantan Nanmen|Beijing|NO|stars_2
+191948|Home Inn Xiangzhou|Zhuhai|NO|stars_2
+191951|Home Inn Xinjiekou|Beijing|NO|stars_2
+191954|Home Inn Yozhuang Tianhuaxi|Beijing|NO|stars_2
+191955|Home Inn Zhenping Road|Shanghai|NO|stars_2
+191958|Home Inn Wuhan Louyu Road|Wuhan|YES|stars_2
+191962|Home Inn Development Zone Yantai|Yantai|NO|stars_2
+192016|Days Honglou|Shanghai|YES|stars_4
+192020|Hongrui Jinling Grand Hotel Hefei|Hefei|NO|stars_4
+192068|Howard Johnson Conference Resort Chengdu|Dujiangyan|YES|stars_2.5
+192119|Hua Du|Yiwu|NO|stars_3
+192231|Huayu Minfu|Zhuhai|NO|stars_4
+192244|Hubei|Beijing|NO|stars_4
+192282|Hutong Culture Inn|Beijing|YES|stars_3
+192296|Inlodge Beijing|Beijing|NO|stars_3.5
+192306|InterContinental Resort Jiuzhai Paradise|Jiuzhaigou|NO|stars_5
+192345|Islandia Water Spa & Hotel Chengdu|Chengdu|NO|stars_4
+192404|Jiangtian Hotel Shanghai|Shanghai|NO|stars_3
+192478|Jin Jiang Inn Minsheng Road Shanghai|Shanghai|NO|stars_2.5
+192517|Jindapeng Hotel Shenzhen|Shenzhen|NO|stars_2
+192581|Jingyi|Beijing|YES|stars_4
+192593|Jinhangxian International|Beijing|NO|stars_3
+192614|JinJiang Inn Anzhenli Inn|Beijing|NO|stars_2
+192615|JinJiang Inn Changchun Street Inn|Beijing|NO|stars_2.5
+192620|Jinjiang Inn Changchun Convention & Exhibition Center|Changchun|NO|stars_2.5
+192622|JinJiang Inn  Fuzhou|Fuzhou|NO|stars_2
+192641|Jinjiang Inn ETDZ Beijing|Beijing|NO|stars_2.5
+192642|JinJiang Inn Expo|Shanghai|NO|stars_2.5
+192644|JinJiang Inn Guoquan|Shanghai|NO|stars_2
+192647|JinJiang Inn Hongkou Football Stadium|Shanghai|NO|stars_2
+192649|JinJiang Inn Huqingping|Shanghai|NO|stars_2
+192652|Jinjiang Inn Maglev Station|Shanghai|NO|stars_2.5
+192654|Jinjiang Inn Ningbo Metro Ningbo|Ningbo|NO|stars_2.5
+192655|Hanting Changshou Road|Shanghai|NO|stars_2
+192656|Jinjiang Inn Railway Station|Shanghai|NO|stars_2.5
+192657|Jinjiang Inn North Shanghai Hutai Rd|Shanghai|NO|stars_2
+192659|Jinjiang Inn Northwest Shanghai Zhenbei Road|Shanghai|NO|stars_2.5
+192661|Jinjiang Inn Shanghai By The Bund|Shanghai|NO|stars_3
+192662|Jinjiang Inn Shanghai By The North Bund|Shanghai|NO|stars_2.5
+192664|Jinjiang Inn New International Expo Center|Shanghai|NO|stars_2
+192665|Jinjiang Inn Shanghai Zhongshan Park|Shanghai|NO|stars_2
+192666|Jinjiang Inn South Railway Station|Shanghai|NO|stars_2.5
+192669|Jinjiang Inn West Shanghai Changning Rd|Shanghai|NO|stars_2.5
+192670|Jinjiang Inn West Shanghai Yejiazhai Rd|Shanghai|NO|stars_2
+192671|JinJiang Inn Xi'an|Xian|NO|stars_2.5
+192673|JinJiang Inn Xinsong Road|Shanghai|NO|stars_2
+192675|JinJiang Inn Yangpudaqiao Branch|Shanghai|NO|stars_2
+192676|Jinjiang Inn Yixian Rd Shanghai|Shanghai|NO|stars_2
+192677|Jin Jiang Inn Yongdingmen Beijing|Beijing|NO|stars_2.5
+192679|Jinjiang Inn Zhangjiang|Shanghai|NO|stars_2
+192686|JinJiang Majiapu Inn|Beijing|NO|stars_2
+192690|JinJiang Temple of Heaven Inn|Beijing|NO|stars_2.5
+192692|Jinjiang Xihu Avenue Inn Hangzhou|Hangzhou|NO|stars_2
+192693|JinJiang Xizhimen Inn Beijing|Beijing|NO|stars_2.5
+192694|JinJiang Yizhuang Development Zone Inn|Beijing|NO|stars_2.5
+192700|Jinjing Inn|Beijing|NO|stars_2
+192701|Jinjing Inn North Gonghexin Rd|Shanghai|NO|stars_2
+192734|Jinruilin Hotel Guangzhou|Canton (Guangzhou)|NO|stars_3
+192760|Jinye Guangzhou|Canton (Guangzhou)|NO|stars_3.5
+192773|Jinyun Sunny|Lishui|NO|stars_4
+192831|Julu Garden Villa|Shanghai|NO|stars_4.5
+192853|JW Marriott Shenzhen|Shenzhen|YES|stars_5
+192886|Kangnian International Hotel Hengyang|Hengyang|NO|stars_4
+192906|King Court|Canton (Guangzhou)|NO|stars_4
+192919|Kingdo|Zhuhai|NO|stars_4
+192957|Lake View Garden|Suzhou|NO|stars_4
+192992|Lapis Casa Boutique Baoqing|Shanghai|NO|stars_3
+192995|Le Tour Traveler's Rest Youth Hostel|Shanghai|NO|stars_2
+192997|Leaguer Recreation Resort|Sanya|NO|stars_5
+193000|Leeden Hotel Jiaxing|Jiaxing|NO|stars_3
+193006|Leidisen Hotel Huzhou|Huzhou|NO|0
+193014|Les Suites Orient|Shanghai|YES|stars_5
+193059|Lijiada Shanghai|Shanghai|NO|stars_2
+193075|Lingcai Hotel Chengdu|Chengdu|NO|stars_3
+193086|Litian|Tsingtau (Qingdao)|YES|stars_4
+193091|Liutong Hotel Hangzhou|Hangzhou|NO|stars_4
+193092|Liverpool Hotel Suzhou|Suzhou|NO|stars_4
+193111|Longda Holiday|Harbin|NO|stars_4
+193112|Longda Times|Harbin|NO|stars_3
+193212|Marriott Northeast|Beijing|YES|stars_5
+193213|Marriott The Sandalwood|Beijing|NO|stars_4
+193216|Master Hotel Wenjindu Branch|Shenzhen|NO|stars_3
+193259|New World Metro Grand Hotel|Shenzhen|NO|stars_4
+193261|Metropark Hotel Xiamen|Xiamen|NO|stars_4
+193268|Michael's House|Beijing|NO|stars_3
+193279|Millennium|Wuxi|NO|stars_5
+193298|Mingcheng International Hotel Changsha|Changsha|YES|stars_5
+193318|Mingzhu Shanghai|Shanghai|NO|stars_3
+193339|Modern|Harbin|YES|stars_4
+193354|Motel 168 Shanghai Bayi Road Inn - Chongming|Shanghai|NO|stars_2
+193355|Motel 168 Hai Hang Inn|Yantai|NO|stars_2.5
+193357|Motel 168 Shanghai Wuzhong Road|Shanghai|NO|stars_2.5
+193360|Motel 168 Wu Luo Road Inn|Wuhan|NO|stars_3
+193362|Motel 168 Chuansha Road|Shanghai|NO|stars_2
+193366|Motel 168 Gonghexin Road Shanghai|Shanghai|NO|stars_2.5
+193397|Motel 168 Ping Qi Road Inn|Suzhou|NO|stars_2
+193403|Motel 168 Lan Lin Road Inn|Changzhou|NO|stars_2.5
+193407|Motel 168 Zhenjiang North Road|Tsingtau (Qingdao)|NO|stars_3
+193409|Motel 268 Hua Qiang Inn|Shenzhen|YES|stars_2
+193459|Nanjing Airport Hotel|Nanjing|NO|stars_3
+193480|Nanyuan Chain Inn Kaiming Branch Ningbo|Ningbo|NO|stars_2
+193482|Nanyuan Chain Inns Fengqi Branch|Hangzhou|YES|stars_2
+193485|Nanyuan|Jinjiang|NO|stars_3
+193490|Nanyuan Inn|Suzhou|YES|stars_2
+193491|Nanyuan International Apartment Ningbo|Ningbo|YES|stars_2
+193507|New Beacon Qingzhilu|Shanghai|NO|stars_3.5
+193553|New Land Business Hotel Wuhan|Wuhan|NO|stars_3
+193554|New Mainland|Canton (Guangzhou)|NO|stars_3
+193579|New World Holiday Huijing|Shanghai|NO|stars_2.5
+193581|New World Dalian|Dalian|YES|stars_5
+193708|Overseas Chinese Hotel Shenzhen|Shenzhen|NO|stars_3
+193721|Pangu 7 Star|Beijing|NO|stars_5
+193740|Park Plaza West|Beijing|YES|stars_4
+193771|Pengda|Canton (Guangzhou)|NO|stars_3
+193777|Peony International|Xiamen|NO|stars_5
+193779|Sofitel Legend Peoples Grand Hotel Xian|Xian|NO|stars_5
+193801|Piao Home Inns Dong Si|Beijing|NO|stars_2
+193803|Piaohome Inn Dinghuiqiao|Beijing|NO|stars_2
+193815|Plant Garden Business|Suzhou|NO|stars_3
+193818|Pleasant Grasse|Canton (Guangzhou)|NO|stars_3.5
+193820|Pod Inn Hangzhou|Hangzhou|NO|stars_2
+193854|Wanda Realm Beijing|Beijing|YES|stars_5
+193875|Qiandao Lake Elaninn|Qiandaohu|NO|stars_2
+193890|Qiao Yuan|Beijing|YES|stars_3
+193965|Radiance Shanghai|Shanghai|NO|stars_4
+193973|Railway Station Jinjiang Central Inn Wuxi|Wuxi|NO|stars_2.5
+193974|Grand Mercure Dongguan Humen|Dongguan|NO|stars_4
+193975|Ramada Huangshan|Huangshan-Mountains|NO|stars_4
+193978|Ramada Parkview|Changzhou|NO|stars_4
+193982|Rayfont Nanpu|Shanghai|YES|stars_3
+194025|Riverside Fairmont Hotel|Chengdu|NO|stars_4
+194069|Royal Tulip On The Beach|Shanghai|NO|stars_5
+194092|Rundu|Canton (Guangzhou)|YES|stars_3.5
+194129|Sanyu|Canton (Guangzhou)|NO|stars_3
+194130|Sanzan|Nanning|NO|stars_3.5
+194146|Sea Time Royal Apartment Shenzhen|Shenzhen|NO|stars_3
+194152|Seasons Park Apart Beijing|Beijing|NO|stars_3
+194156|Seaview Resort Xiamen|Xiamen|YES|stars_4.5
+194168|Seven Star International Hotel Pingxiang|Pingxiang|NO|stars_4
+194200|Shanghai Airlines Travel Pudong Airport|Shanghai|YES|stars_3.5
+194223|Motel 168 Chain-Bole Motel Shanghai|Shanghai|NO|stars_2.5
+194232|Xinhui|Shanghai|NO|stars_3
+194243|Shangri-La|Ningbo|YES|stars_5
+194244|Shangri-La Wenzhou|Wenzhou|YES|stars_5
+194277|Citadines Gaoxin|Xian|NO|stars_4
+194290|Sheng Gang Express|Beijing|NO|stars_2
+194334|Shenzhen Southern Inn Shenzhen|Shenzhen|NO|stars_3
+194337|Shenzhen Xing Hua|Shenzhen|NO|stars_3
+194338|Zhulin Shenzhen|Shenzhen|NO|stars_3
+194339|Shenzhou China Hotel Shanghai|Shanghai|NO|stars_2.5
+194343|Sheraton Shenzhen Futian|Shenzhen|YES|stars_5
+194398|Shunde Country Garden Holiday Resort|Foshan|NO|stars_4
+194436|Silver River|Canton (Guangzhou)|YES|stars_3.5
+194443|Singapore|Xiamen|NO|stars_3
+194470|Somerset Youyi|Tianjin|NO|stars_4
+194475|Songtsam Retreat at Shangri-La|Shangri-La|NO|stars_4.5
+194505|Sports|Shanghai|YES|stars_3.5
+194513|Ssaw Hotel Shaoxing|Shaoxing|NO|stars_4.5
+194518|Star City Landmark Apartment|Beijing|YES|stars_3.5
+194550|Sun Island Golf Hotspring Resort|Shanghai|NO|stars_4
+194560|Doubletree by Hilton Qingdao Chenyang|Tsingtau (Qingdao)|NO|stars_4.5
+194577|Sunshine Capital|Dongguan|NO|stars_3
+194599|Sunway Airport Hotel|Shenzhen|YES|stars_3.5
+194600|Sunworld Dynasty|Beijing|YES|stars_5
+194608|Super 8 Fang Zhuang Yin Ma|Beijing|YES|stars_0
+194615|Super 8 Da Kun Yinchuan|Yinchuan|YES|stars_0
+194620|Super 8 Xingtai Kai Xuan|Xingtai|YES|stars_0
+194622|Super 8 Tongzhou Xin Hua Da Jie|Beijing|NO|stars_2
+194626|Super 8 Xuan Wu Men|Beijing|YES|stars_0
+194635|Super 8 Tian Xin|Changchun|YES|stars_0
+194639|Super 8 Wei Ke Hotel Ordos|Ordos|YES|stars_0
+194673|Tai Mu Shan International|Beijing|NO|stars_4
+194683|Tailong Business|Hangzhou|NO|stars_3
+194700|Taizhou Garden|Taizhou|NO|stars_4
+194713|Tangshan Hotel|Beijing|NO|stars_4
+194753|The Fountain|Shanghai|YES|stars_3
+194763|The Interlaken OCT|Shenzhen|NO|stars_5
+194778|University Town International|Canton (Guangzhou)|NO|stars_4
+194835|Tianlong|Zhumadian|NO|stars_4
+194859|Tiantan Wancheng|Beijing|YES|stars_3
+194877|Dongguan Tianyu Hotel|Dongguan|NO|stars_4
+194886|Tianzhidao Hotel Chengdu|Chengdu|NO|stars_3.5
+194900|Times Holiday|Beijing|NO|stars_3
+194909|Tokai|Canton (Guangzhou)|NO|stars_3
+194933|Home Inn Olympic Center|Changzhou|YES|stars_2
+194936|Home Inn Fengqiao Suzhou|Suzhou|YES|stars_2
+194954|Traveler Inn Hepingli|Beijing|NO|stars_3
+194987|Unotel Sanmao|Canton (Guangzhou)|NO|stars_3
+194999|Vanguard|Canton (Guangzhou)|NO|stars_4
+195013|Vienna|Beijing|NO|stars_3
+195019|Vision Fashion Hotel Shenzhen|Shenzhen|NO|stars_4
+195037|Wanda Holiday Express|Harbin|YES|stars_2
+195073|Water Sky Hotel Shenzhen|Shenzhen|NO|stars_3
+195077|Wealthy All Suites Hotel Suzhou|Suzhou|YES|stars_4
+195097|Jinjiang Inn ChengDu Wenshufang|Chengdu|NO|stars_2.5
+195144|World Expo Hotel Zhejiang|Jiashan|NO|stars_4.5
+195156|Wuhua International|Changsha|NO|stars_3.5
+195176|Wuyi Square Jinjiang Inn Wuhu|Wuhu|NO|stars_2.5
+195184|Swiss International Xiamen|Xiamen|YES|stars_5
+195187|Xi Di Wan|Canton (Guangzhou)|NO|stars_2
+195209|Xi'an International Hotel|Xian|NO|0
+195271|Xin Chang Bai Yun|Shaoxing|NO|0
+195321|Xinghaiqi Holiday|Beijing|YES|stars_3
+195417|Xuan Yuan International|Huangshan-Mountains|NO|stars_4
+195421|Xuelong|Canton (Guangzhou)|NO|stars_3
+195425|Kempinski Hotel Yixing|Wuxi|NO|stars_5
+195501|Yi He Hotel Guangzhou|Canton (Guangzhou)|NO|stars_4
+195566|Yin Yun Seaview Resort|Sanya|NO|stars_3
+195592|Yosemite|Beijing|NO|stars_4
+195602|Youth Holiday|Beijing|NO|stars_2
+195684|Yuntian|Luoyang|NO|stars_3
+195688|Jade Link|Shanghai|YES|stars_4
+195690|Yuquan Hangzhou|Hangzhou|NO|stars_4
+195703|Yuyao|Yuyao|NO|stars_5
+195736|Zhejiang Media Hotel Hangzhou|Hangzhou|NO|stars_4
+195775|Zhong'an Huana Holiday Hotel|Hangzhou|NO|stars_3
+195776|Zhongan Inn Meiyuan|Beijing|NO|stars_3
+195790|Zhong Hua Men Hotel|Nanjing|NO|stars_3
+195809|Zhongtian Fenghuang Hotel Changzhou|Changzhou|NO|stars_4
+195828|Zhongzhou Hotel Zhengzhou|Zhengzhou|NO|0
+195832|Zhouheng Hotel Sanya|Sanya|NO|stars_3
+195847|Zhuying Garden|Canton (Guangzhou)|NO|stars_3
+195869|Zobon Art|Zhuhai|NO|stars_5
+195900|Mao Lin Hui Feng|Beijing|YES|stars_3
+195946|Crowne Plaza Grand Canal|Hangzhou|YES|stars_5
+195951|Garden Inn Guanyinqiao|Chungking (Chongqing)|YES|stars_2
+195952|Garden Inn Shiziling|Changsha|YES|stars_2
+195955|Jin Jiang Inn Henglong|Shanghai|YES|stars_2
+201932|GT Starwing|Beijing|YES|stars_4
+201933|Broadcasting Tower|Beijing|YES|stars_4
+201936|Vision|Beijing|YES|stars_5
+201939|Leeden|Canton (Guangzhou)|YES|stars_4
+201940|Four Points by Sheraton Guangzhou, Dongpu|Canton (Guangzhou)|YES|stars_4.5
+201941|Daysun Ritz International|Canton (Guangzhou)|YES|stars_4
+201942|Motel 168 Luo Xi Bridge Inn|Canton (Guangzhou)|YES|stars_2
+201943|Motel 168 Huizhou Wheat|Huizhou|YES|stars_2
+201944|Motel 168 Hongling|Shenzhen|YES|stars_2
+201955|Ramada Pudong Shanghai Expo|Pudong|YES|stars_4
+201959|Kingkey Palace|Shenzhen|YES|stars_5
+201961|Grand Garden|Suzhou|YES|stars_4
+201964|Grand Soluxe International|Xian|YES|stars_4
+201968|Binhai Jianguo|Tianjin|YES|stars_4
+201969|Fu Heng|Yiwu|YES|stars_2.5
+202429|The Peninsula|Shanghai|YES|stars_5
+202495|Motel 168 Guangzhou Avenue|Canton (Guangzhou)|YES|stars_2
+202496|Asana Executive Apartments|Tsingtau (Qingdao)|YES|stars_5
+202498|Cypress Garden|Shanghai|YES|stars_4
+202499|Grand Central|Shanghai|YES|stars_5
+202500|InterContinental Puxi|Shanghai|YES|stars_5
+202504|Sam Q|Canton (Guangzhou)|YES|stars_3
+202505|Nanyuan Inn Exhibition Center|Ningbo|YES|stars_2
+202506|Nanyuan Inn Beilun|Ningbo|NO|stars_2
+203155|Crowne Plaza Riverside|Chungking (Chongqing)|NO|stars_5
+203159|Sheraton|Shunde|YES|stars_5
+203160|Jiang Yue|Canton (Guangzhou)|YES|stars_3
+203163|Blue Sky|Canton (Guangzhou)|YES|stars_3
+203164|Green Lotus|Yangshuo|YES|stars_5
+203165|Wyndham Grand Plaza Royale Hangzhou|Hangzhou|YES|stars_5
+203166|Holiday Inn Express Nanhuizui|Shanghai|YES|stars_3
+206003|Courtyard View|Beijing|NO|stars_3
+210546|Holiday Inn Beijing Deshengmen|Beijing|NO|stars_4
+211939|JinJiang Inn - Beijing West Train Inn|Beijing|NO|stars_2
+214786|Oriental Bund|Shanghai|NO|stars_4
+226554|Jianguo Hotspring|Beijing|YES|stars_4
+226555|Radegast Lake View|Beijing|YES|stars_5
+226556|Tiantan Sports|Beijing|NO|stars_3
+226558|Home Inn Quanan Square|Changchun|YES|stars_2
+226559|Shanshui Trends|Chengdu|YES|stars_2
+226560|Millennium Chengdu|Chengdu|YES|stars_5
+226561|Days Hillsun & Suite|Chungking (Chongqing)|YES|stars_5
+226562|Fairyland|Dali|YES|stars_3
+226563|InterContinental Foshan|Foshan|NO|stars_5
+226564|Crowne Plaza Lijiang Ancient Town|Lijiang|YES|stars_5
+226565|Yinxiang Gu Cheng|Lijiang|YES|stars_4
+226566|Paradise|Shanghai|YES|stars_4
+226567|Nan Ying|Shanghai|YES|stars_3
+226570|Holiday Inn Shanghai Jinxiu|Shanghai|YES|stars_4
+226571|Holiday Inn Shanghai West|Shanghai|YES|stars_4
+226572|Holiday Inn Express Shanghai Sanlin|Shanghai|YES|stars_3
+226573|Nanyuan Inn Tianyi|Ningbo|YES|stars_2
+226574|Nanyuan Inn|Ningbo|YES|stars_2
+226575|Le Meridien|Tsingtau (Qingdao)|YES|stars_5
+226576|Holiday Inn Express Tianjin Dongli|Tianjin|YES|stars_3
+226577|Holiday Inn Xian Greenland Century City|Xian|YES|stars_4
+226664|Grand Hyatt Macau|Macao (Macau)|NO|stars_5
+226723|Pullman Lijiang Resort & Spa|Lijiang|NO|stars_5
+227440|Grand Hyatt|Shenzhen|YES|stars_5
+227442|Regal Master|Chengdu|YES|stars_5
+227446|The Westin Nanshan|Shenzhen|YES|stars_5
+227448|Le Meridien Nanan|Chungking (Chongqing)|YES|stars_5
+227449|Nanyuan Inn Bohai|Tianjin|YES|stars_2
+227450|Guangzhou Tianyue|Canton (Guangzhou)|YES|stars_3
+227452|Charming Holiday|Zhuhai|YES|stars_5
+227453|Days Inn|Canton (Guangzhou)|YES|stars_3
+227455|The Westin|Tianjin|YES|stars_5
+227456|Chang An Great Aim|Zhongshan|YES|stars_3
+227457|City Inn Yuandong|Huizhou|YES|stars_2
+227458|Oakwood Residence|Shanghai|YES|stars_4.5
+227459|Tianlun Regar|Shenyang|YES|stars_4
+227460|Holiday Inn Express Tianjin Airport|Tianjin|YES|stars_3
+227461|Ming Ri Wuzhou|Beijing|YES|stars_3
+227462|Zhongtailai|Zhanjiang|YES|stars_4
+227463|Motel 168 Jiuyanqiao|Chengdu|YES|stars_2
+227465|Ying Ge Hai Holiday|Canton (Guangzhou)|YES|stars_4
+227466|Yun's Paradise Waltz|Shanghai|YES|stars_4
+227467|Motel168 Pudong Airport (North Building)|Shanghai|YES|stars_2
+227794|Huabin International|Beijing|YES|stars_4
+227796|Nanyuan Inn Wangfujing|Beijing|YES|stars_2
+227797|Purple Courtyard|Beijing|YES|stars_2
+227798|Four Season Homeland|Chengdu|YES|stars_4
+227799|Cheerful|Canton (Guangzhou)|YES|stars_3
+227800|New West Street International|Guillin|YES|stars_5
+227801|Overseas Chinese Mansion|Guillin|YES|stars_3
+227803|Park Resort|Yangshuo|YES|stars_3
+227804|Soluxe Qixia|Guillin|YES|stars_3
+227806|Nanning Marriott|Nanning|YES|stars_5
+227809|Ascott Huai Hai Road|Shanghai|YES|stars_5
+227810|Nanyuan Inn Gaoxin|Ningbo|NO|stars_2
+227811|Shofo Boutique|Lijiang|YES|stars_4.5
+227813|Ramada Casa|Yangzhou|YES|stars_4
+227814|Tangla Hotel|Tianjin|YES|stars_5
+227816|Nanyuan Inn Zhongshan Branch|Tianjin|NO|stars_2.5
+228013|Garden Inn Jianghaner Road|Wuhan|YES|stars_2
+228014|Luhuitou State Guesthouse & Resort|Sanya|YES|stars_5
+228016|Mingshen Jinjiang Golf Resort|Sanya|YES|stars_4.5
+228018|Days Henglong|Changshu|YES|stars_4
+228019|Ibis|Suzhou|YES|stars_3
+228523|Langham Place Capital Airport|Beijing|YES|stars_5
+228524|Home Inn Da Ping|Chungking (Chongqing)|YES|stars_2
+228525|Home Inn Yanshaxinyuanli|Beijing|YES|stars_2
+228526|Home Inn Qingniwaqiao|Dalian|YES|stars_2
+228527|Home Inn Wuyi Plaza|Dalian|YES|stars_2
+228529|Home Inn Baiyun Avenue|Canton (Guangzhou)|YES|stars_2
+228531|Weldon|Canton (Guangzhou)|YES|stars_5
+228532|Home Inn Changjiang Walkstreet|Hefei|YES|stars_3
+228534|Home Inn Baotuquan|Jinan|YES|stars_2
+228535|Home Inn Jinshi|Jinan|YES|stars_2
+228536|Home Inn Baita|Kunming|YES|stars_2
+228537|Home Inn Dongfeng Square|Kunming|YES|stars_2
+228538|Home Inn Qingnian Road|Kunming|YES|stars_2
+228539|Home Inn Fuzimiao|Nanjing|YES|stars_2
+228540|Home Inn Hunan Road|Nanjing|YES|stars_2
+228541|Nanyuan Inn Xiaogang|Ningbo|YES|stars_2
+228542|Home Inn South Fuzhou Road|Tsingtau (Qingdao)|YES|stars_2
+228543|Home Inn West Yinchuan Road|Tsingtau (Qingdao)|YES|stars_2
+228544|The Qube|Pudong|YES|stars_4
+228545|The Ritz-Carlton Pudong|Pudong|YES|stars_5
+228546|Home Inn Qing Yang Road|Kunshan|NO|stars_2
+228547|Home Inn Dadongmen|Wuhan|YES|stars_2
+228548|Home Inn Dadongmen 2nd|Wuhan|YES|stars_2
+228549|Home Inn Economic Development|Wuhan|YES|stars_2
+228727|Banyan Tree Hangzhou|Hangzhou|NO|stars_5
+228910|Starway Xinfuan|Yangshuo|YES|stars_4
+228911|Shanshui Trends Huaqiangbei|Shenzhen|NO|stars_4
+228915|Leeden|Suzhou|YES|stars_4
+228918|Home Inn Shouxi Lake|Yangzhou|YES|stars_2
+228919|Grand Mercure Shanghai Zhongya|Shanghai|NO|stars_5
+228920|Guoman|Shanghai|NO|stars_5
+228921|Red Wall Garden|Beijing|YES|stars_4
+228928|Courtyard Puxi|Shanghai|YES|stars_4
+229067|Home Inn SanYuanQiao|Beijing|YES|stars_2
+229068|Home Inn Baliqiao|Beijing|NO|stars_2
+229069|Home Inn Gaoshenqiao Luoma Plaza|Chengdu|YES|stars_2
+229070|Home Inn Xinnanmen|Chengdu|YES|stars_2
+229071|Home Inn Zhongshan Road|Harbin|NO|stars_2
+229072|Home Inn Central Street|Harbin|NO|stars_2
+229073|Home Inn Bayi Crossroads|Jinan|YES|stars_2
+229074|Home Inn Baodai West Road|Suzhou|YES|stars_2
+229078|Home Inn Guozhan Zhongxin|Tianjin|NO|0
+229079|Home Inn Xinkai|Tianjin|NO|stars_2
+229081|Home Inn Weijinnanlu Tianta|Tianjin|NO|stars_2
+229082|Home Inn Wuqing Kaifaqu|Tianjin|NO|stars_2
+229084|Home Inns Anshan Xidao|Tianjin|NO|stars_2
+229086|Home Inn Tianmendun|Wuhan|YES|stars_2
+229087|Home Inn Xinhuaxia Road|Wuhan|YES|stars_2
+229089|Home Inn Luoshinan|Wuhan|YES|stars_2
+229092|Home Inn Tongjiang Avenue - geschlossen|Wuhan|YES|stars_2
+229095|Home Inn Congning Road|Wuxi|NO|stars_2
+229096|Home Inn Xinqu Wangzhuang|Wuxi|YES|stars_2
+229097|Home Inn Erma Road|Yantai|YES|stars_2
+229098|Home Inn Bus Station|Yantai|YES|stars_2
+229099|Home Inn Gezhou Dam|Yichang|YES|stars_2
+229100|Home Inn Jingguang Road|Zhengzhou|NO|stars_2
+229101|Home Inn Wenhua Road|Zhengzhou|NO|stars_2
+229103|Home Inn Huanghe Road|Zhengzhou|NO|stars_2
+229104|Intercontinental Sanya Resort|Sanya|YES|stars_5
+229177|Home Inn Guogeli Street|Harbin|NO|stars_2
+229179|Home Inn Sophia Church|Harbin|NO|stars_2
+229183|Tangla|Beijing|YES|stars_5
+229184|Tea Boutique|Hangzhou|NO|stars_4
+229185|Soul|Suzhou|NO|stars_4
+229186|Sun Town Sun Joy|Canton (Guangzhou)|NO|stars_3
+229187|Home Inn Wangcheng Park|Luoyang|NO|stars_2
+229188|Home Inn Middle Tanggong Road|Luoyang|NO|stars_2
+230277|Home Inn Qinta|Beijing|NO|stars_2
+230284|Wyndham Grand Plaza Royale Furongguo Changsha|Changsha|NO|stars_5
+230290|Hilton Chongqing Nanshan Resort & Spa|Chungking (Chongqing)|NO|stars_5
+230294|Hilton Guiyang|Guiyang|NO|stars_4
+230297|The Dragon|Hangzhou|YES|stars_5
+230314|Yi Bang Residence|Lijiang|NO|stars_4
+230315|Intercontinental Nanjing|Nanjing|NO|stars_5
+230327|Doubletree by Hilton Shenyang|Shenyang|NO|stars_4
+230329|Hilton Shenzhen Futian|Shenzhen|NO|stars_4
+230330|Holiday Inn Express Suzhou Changjiang|Suzhou|NO|stars_3
+230333|Doubletree Wuxi-Lingshan|Wuxi|NO|stars_3.5
+230340|Home Inn (East Changying Road)|Xian|NO|stars_2
+230342|Home Inn Railway Station|Xian|NO|stars_2
+230703|Kingtown Hongmei|Shanghai|YES|stars_4
+230710|Nikko Shanghai|Shanghai|NO|stars_5
+230712|Renaissance Putuo|Shanghai|NO|stars_5
+230717|Hilton Shanghai Hongqiao|Shanghai|NO|stars_5
+230724|Waldorf Astoria on The Bund|Shanghai|NO|stars_5
+230732|Xuhui International Executive Suites Shanghai|Shanghai|YES|stars_4.5
+232331|Home Inn The Second Taibei Road|Wuhan|NO|stars_2
+232362|InterContinental Shanghai Expo|Shanghai|NO|stars_5
+232363|Kailun|Shanghai|NO|stars_2
+232364|Longting New Century Qiandao Lake|Hangzhou|NO|stars_4
+232384|Shangri-La Guilin|Guillin|NO|stars_5
+232386|The Langham Xintiandi|Shanghai|NO|stars_5
+232853|Home Inn Dabeiyao|Beijing|NO|stars_2
+232855|Home Inn Shuangjin|Beijing|NO|stars_2
+232856|Home Inn Daguanyuan|Beijing|NO|stars_2
+232865|Grand Metro Park|Sanya|YES|stars_5
+232870|Nikko Wuxi|Wuxi|NO|stars_5
+232871|Ibis Yangzhou Development Zone|Yangzhou|NO|stars_2
+232967|Home Inn Jinsong|Beijing|NO|stars_2
+232968|Home Inn Zhanlanguan|Beijing|NO|stars_2
+232978|Garden Inn Yanjiang Dong Lu|Canton (Guangzhou)|NO|stars_2
+232980|Garden Inn Gangding|Canton (Guangzhou)|NO|stars_2
+232982|Garden Inn Yile Road|Canton (Guangzhou)|NO|stars_2
+232986|Garden Inn Luoxi|Canton (Guangzhou)|NO|stars_2
+233008|KaJi Apartment|Canton (Guangzhou)|YES|stars_3
+233017|Nanyuan Chain Inn Chengnan Road|Ningbo|YES|stars_2
+233034|Garden Inn Dongmen Middle Road|Shenzhen|NO|stars_2
+233042|Home Inn Wudadao|Tianjin|NO|stars_2
+233043|Home Inn Han Guang Men|Xian|YES|stars_2
+233184|Indigo Shanghai On The Bund|Shanghai|YES|stars_4.5
+233237|Mercure Beijing Downtown|Beijing|NO|stars_4
+233238|Piao Home Inn Beijing Jiu Xian Bridge|Beijing|NO|stars_2
+233239|Piao Home Inn Wang Fu Jing|Beijing|NO|stars_2
+233240|Piao Home Inn Da Guan Yuan|Beijing|NO|0
+233243|Piao Home Inn Beijing Jianguomen|Beijing|NO|0
+233244|Piao Home Inn Qianmen|Beijing|NO|stars_2
+233246|Grand Metropark Chongqing|Chungking (Chongqing)|NO|stars_5
+233247|Mels Weldon Dongguan Humen|Dongguan|NO|stars_5
+233248|Triumphal View|Dongguan|NO|stars_5
+233249|Baiyun Lakeside|Canton (Guangzhou)|NO|stars_5
+233250|Nan Feng|Canton (Guangzhou)|NO|stars_4
+233251|Ramada Plaza|Canton (Guangzhou)|YES|stars_4.5
+233253|Sofitel Guangzhou Sunrich|Canton (Guangzhou)|NO|stars_5
+233258|Chateau Star River|Shanghai|NO|stars_5
+233260|Modena Putuo|Shanghai|NO|stars_4
+233638|Days Hotel Beijing New Exhibition Center|Beijing|YES|stars_4
+233640|Nanyuan Inn Tiantan|Beijing|NO|stars_2
+233643|Seaside Resort|Sanya|NO|stars_4
+233645|Andersen Culture|Shanghai|NO|stars_4
+233646|Eaton Luxe Nanqiao|Shanghai|NO|stars_4
+233647|Wyndham Bund East Shanghai|Shanghai|YES|stars_5
+233946|Aden|Beijing|NO|stars_3.5
+233953|Huaqiang Plaza|Shenzhen|NO|stars_4
+233956|Empark Grand|Changsha|NO|stars_5
+233958|Tianjin Saixiang|Tianjin|NO|stars_5
+233979|Xujiahui Park|Shanghai|NO|stars_4
+233982|Golden Tulip Ashar Suites Shanghai Central|Shanghai|YES|stars_4
+233986|Ramada Plaza Pu Dong South|Shanghai|NO|stars_4
+234055|Marvel Shanghai|Shanghai|NO|stars_4
+234056|Yangshuo Resort|Yangshuo|NO|stars_5
+234105|Courtyard by Marriott Suzhou|Suzhou|NO|stars_4
+234108|Marriott Tianhe|Canton (Guangzhou)|NO|stars_5
+234110|Holiday Inn Hangzhou CBD|Hangzhou|NO|stars_4
+234111|Howard Johnson Plaza Waigaoqiao|Shanghai|YES|stars_4.5
+234112|Vienna South Railway Station|Canton (Guangzhou)|NO|stars_2
+234145|Dorsett Shanghai|Shanghai|NO|stars_4
+234548|Laurel|Beijing|NO|stars_3
+234589|Guangdong Geological Landscape|Canton (Guangzhou)|NO|stars_4
+234590|Tian Hu|Guillin|NO|stars_3
+234593|Irene Jinshu Boutique|Shanghai|NO|stars_2.5
+234599|Ariva Tianjin|Tianjin|NO|stars_4
+234647|Earthly Paradise Bird Nest Resort|Sanya|NO|stars_5
+234654|Days Hotel & Suites Xinxing|Xian|YES|stars_4.5
+234655|Days Inn City Centre|Xian|NO|stars_3
+234658|Poly White Rose|Wuhan|NO|stars_4.5
+234659|Le Meridien|Xiamen|YES|stars_5
+234660|Landison Longjing Resort|Hangzhou|NO|stars_4.5
+235187|She & He Hotel Apartment - Huifeng|Canton (Guangzhou)|NO|stars_4
+235190|Super 8 Qi Bao|Shanghai|NO|stars_2
+235192|Gucun Park Shanghai|Shanghai|NO|stars_4
+235193|Sheraton Hongkou|Shanghai|YES|stars_5
+235332|Holiday Inn Focus Square|Beijing|NO|stars_4
+235333|InterContinental Suzhou|Suzhou|NO|stars_5
+235334|Kerry Pudong|Shanghai|NO|stars_5
+235335|Kunshan Newport|Kunshan|NO|stars_4
+235336|Sichuan Longzhaoshu|Beijing|NO|stars_4
+235337|Tai Xiang Business Inn|Canton (Guangzhou)|NO|stars_3
+235338|Traditional View|Beijing|NO|stars_3
+235354|Amanfayun|Hangzhou|YES|stars_5
+235356|Casa Serena|Shanghai|NO|stars_4
+235357|China World Summit Wing|Beijing|NO|stars_5
+235359|Crowne Plaza Chaoyang U-Town|Beijing|NO|stars_5
+235477|Gongqing|Jiujiang|NO|stars_4
+236270|International|Lijiang|YES|stars_5
+236272|Ouman Leiden|Shanghai|YES|stars_2
+236347|Royal Tulip Luxury Carat|Canton (Guangzhou)|YES|stars_4.5
+236348|Sheraton Zhongshan|Zhongshan|YES|stars_5
+236349|JW Marriott Hangzhou|Hangzhou|NO|stars_5
+236414|Chinese Culture Holiday Wangfujing|Beijing|NO|stars_3
+236416|Howard Johnson Riverfront Plaza Fuzhou|Fuzhou|YES|stars_5
+236493|Sophia|Hangzhou|NO|stars_4
+236496|Chateau Star River Guangzhou Haiyi Peninsula|Canton (Guangzhou)|NO|stars_5
+236505|Yun Cheng|Canton (Guangzhou)|NO|stars_3
+236506|Harmony Resort Hotel|Zhuhai|NO|stars_4
+236756|Somerset Riverview Chengdu|Chengdu|NO|stars_4
+236757|Modena Jinjihu Suzhou|Suzhou|NO|stars_4
+236758|Modena Heping Tianjin|Tianjin|NO|stars_4
+236974|Jinyueyuan Air Botique|Lijiang|NO|stars_3.5
+237009|Central International Shanghai|Shanghai|NO|stars_4
+237011|Home Inn Xiaonanjie|Shenyang|NO|stars_2
+237012|Binhai Grand|Wenzhou|NO|stars_5
+237016|Jumeirah Himalayas Hotel|Shanghai|NO|stars_5
+237017|Poly|Canton (Guangzhou)|NO|stars_4
+237026|Yunli|Canton (Guangzhou)|NO|stars_4
+237028|Sun Flower Hotel|Beijing|NO|stars_3
+237167|Okura Macau|Macao (Macau)|NO|stars_5
+237807|Pa Zhou Bay|Canton (Guangzhou)|NO|stars_3
+237988|Crowne Plaza Yichang|Yichang|NO|stars_4
+238350|Forte International|Beijing|NO|stars_3.5
+238355|Guomen Business|Beijing|NO|stars_3
+238357|Starway Premier No. 8 Xiaoyunli|Beijing|NO|stars_4
+238358|Jia Hao|Beijing|NO|stars_2
+238360|Beijing Airport GR International Business Hotel|Beijing|NO|stars_3
+238363|Guo An|Beijing|NO|stars_3
+238367|Inner Mongolia Grand|Beijing|NO|stars_4
+238376|Howard Johnson Hongqiao Airport|Shanghai|YES|stars_4.5
+238377|Holiday Inn Shanghai Pudong Kangqiao|Pudong|NO|stars_4
+238378|New Century Puxi|Shanghai|YES|stars_4
+238380|Lihao International|Pudong|NO|stars_4
+238381|Yuloon|Shanghai|NO|stars_4.5
+238382|Ibis Waigaoqiao|Shanghai|NO|stars_2.5
+238383|Regal Plaza Hotel & Residence|Shanghai|NO|stars_4
+238384|Colorful City|Shenzhen|NO|stars_3
+238385|Asta|Shenzhen|NO|stars_4
+238387|The Luxe Manor|Shenzhen|NO|stars_3
+238515|Shangru Yangguang|Beijing|NO|stars_4
+238516|Purple British|Beijing|NO|stars_3
+238517|Baolong Homelike Youyi|Shanghai|NO|stars_2
+238520|Holiday Inn Express Wuhou|Chengdu|NO|stars_3
+238524|Gardford International|Canton (Guangzhou)|NO|stars_4
+238528|Junjia|Canton (Guangzhou)|NO|stars_2
+238529|Miya|Canton (Guangzhou)|NO|stars_3
+238531|Paco Business Baiyun|Canton (Guangzhou)|NO|stars_2.5
+238532|Milu|Canton (Guangzhou)|NO|stars_3
+238536|Elan Inn Longxiang|Hangzhou|NO|stars_2
+238538|Elan Inn East Station|Hangzhou|NO|stars_2
+238540|Elan Inn Hubin|Hangzhou|NO|stars_2.5
+238541|Elan Inn Zhaohui|Hangzhou|NO|stars_2
+238543|Elan Inn Huanglong|Hangzhou|NO|stars_2.5
+238549|Sheraton Jiangyin|Jiangyin|YES|stars_4.5
+238550|Novotel Nanjing East Suning Galaxy|Nanjing|NO|stars_4.5
+238551|Home Inn Jiangning|Nanjing|NO|stars_2
+238552|Regalia Resort & Spa Qinhuai River|Nanjing|NO|stars_5
+238553|Holiday Inn Qingdao City Center|Tsingtau (Qingdao)|NO|stars_4
+238554|Kunlun Gloria Seaview Resort|Tsingtau (Qingdao)|NO|stars_4
+238555|Sheraton Wenzhou|Wenzhou|YES|stars_5
+238556|Landison Plaza|Wuxi|NO|stars_5
+238653|Paco Business Tianhe|Canton (Guangzhou)|NO|stars_2
+238654|Kolam Gloria Plaza|Hefei|NO|stars_4
+238656|Ding Ye New Century|Nanjing|NO|stars_5
+238657|Home Inn Tianjin University|Tianjin|NO|stars_2
+238659|Conrad Sanya Haitang Bay|Sanya|NO|stars_5
+238814|Wyndham Grand Plaza Royale Palace|Chengdu|YES|stars_5
+239181|Garden Inn Xidajie|Xian|NO|stars_2
+239326|Red Wall Jingshan Garden|Beijing|NO|stars_4
+239336|Lasony Serviced Apartment|Chengdu|NO|stars_3.5
+239337|Kingers|Dongguan|NO|stars_3
+239341|Crowne Plaza Huadu|Canton (Guangzhou)|NO|stars_5
+239345|Hung Fuk Mun|Canton (Guangzhou)|NO|stars_3
+239350|Gang Wan Business|Canton (Guangzhou)|NO|stars_3
+239355|Hilton Guangzhou Tianhe|Canton (Guangzhou)|NO|stars_5
+239357|China Dragon|Canton (Guangzhou)|NO|stars_3
+239359|Spring Time Zhuijang|Canton (Guangzhou)|NO|stars_3
+239366|Mandarin Spring|Canton (Guangzhou)|NO|stars_3
+239369|Ibis Huangshi|Canton (Guangzhou)|NO|stars_2.5
+239378|Yue Xiu|Canton (Guangzhou)|NO|stars_4
+239379|Casa Riva|Canton (Guangzhou)|NO|stars_4
+239384|Gordon|Canton (Guangzhou)|NO|stars_2
+239391|Ximala Business Jiahe Branch|Canton (Guangzhou)|NO|stars_2
+239403|Home Inn Tianhe North Time Square|Canton (Guangzhou)|NO|stars_2.5
+239404|Ladoll Service Apartment|Shanghai|NO|stars_4
+239409|Fenyang Garden|Shanghai|NO|stars_5
+239419|Vienna Shanghai World Expo Garden Branch|Shanghai|NO|stars_4
+239420|Acme Expo Riverside Apartments|Shanghai|NO|stars_4
+239423|Royal International|Shanghai|NO|stars_5
+239426|Crowne Plaza Longgang City Centre|Shenzhen|NO|stars_5
+239428|Dehan|Zhuhai|NO|stars_5
+239880|Piao Home Inn Beijing Xi Ke Zhan|Beijing|NO|stars_2
+239882|Days Hotel & Suites Fudu|Changzhou|YES|stars_4.5
+239883|Days Jindu|Fuzhou|YES|stars_3.5
+239887|Super 8 Shenyang Zhong Jie|Shenyang|YES|stars_2
+239888|Xingyue Business Hotel|Shenzhen|NO|stars_3
+239946|Good Dream Business Shanghai Changning|Shanghai|NO|stars_3
+240074|Holiday Inn Songjiang|Shanghai|NO|stars_4
+240077|Eiffelton|Shanghai|NO|stars_4
+240084|Kingtown Riverside Hotel Plaza Shanghai|Shanghai|NO|stars_4
+240092|Courtyard Jiading|Shanghai|NO|stars_4
+240094|Sunrise On The Bund|Shanghai|NO|stars_5
+240149|Starway Jiaxin|Shanghai|NO|stars_3
+240158|Starway Xuhui|Shanghai|NO|stars_3
+240159|Carolina Yishan Road|Shanghai|NO|stars_4
+240160|Holiday Inn Express New Hongqiao|Shanghai|NO|stars_3
+240171|Home Inn Minhang Gymnasium|Shanghai|NO|stars_2
+240316|China National Convention Center Grand Hotel|Beijing|NO|stars_4
+240317|Park Hyatt Ningbo Resort & Spa|Ningbo|NO|stars_5
+240318|Four Points by Sheraton Qingdao, Chenyang|Tsingtau (Qingdao)|YES|stars_4.5
+240321|Narada Resort & Spa Qixian Mount|Sanya|NO|stars_5
+240324|Howard Johnson Tongfang Plaza Zhuji|Zhuji|YES|stars_5
+240328|Vienna Chunfeng|Shenzhen|NO|stars_2
+240331|Fraser Suites Suzhou|Suzhou|NO|stars_5
+240333|City Inn Gongbei|Zhuhai|NO|stars_3
+240336|Narada Boutique Hangzhou Xiaoshan|Hangzhou|NO|stars_4
+240339|Jinyuan Hangzhou|Hangzhou|NO|stars_3
+240341|Paco Business Longkou West|Canton (Guangzhou)|NO|stars_3
+240342|Horizontal|Canton (Guangzhou)|NO|stars_2
+240343|Sheraton Guangzhou|Canton (Guangzhou)|YES|stars_5
+240347|Yi Jia Yi Business|Canton (Guangzhou)|NO|stars_3
+240353|Everyday|Canton (Guangzhou)|NO|stars_3
+240357|Lucky|Canton (Guangzhou)|NO|stars_3
+241249|Garden Inn Zhongshan Silu|Canton (Guangzhou)|NO|stars_2
+241251|Hua Tian|Guillin|NO|stars_3
+241361|Club Med Yabuli|Yabuli|NO|stars_4
+241659|Ai Du|Canton (Guangzhou)|NO|stars_2
+241663|Regalia Resort & Spa (Tangshan)|Nanjing|NO|stars_5
+241666|Tangla Hotel Shenzhen|Shenzhen|NO|stars_5
+241692|Galaxy|Macao (Macau)|NO|stars_5
+241758|Ambassador Mansion|Beijing|NO|stars_3
+241759|Beijing Saga|Beijing|NO|stars_3
+241760|Win Win Hotel Beijing|Beijing|NO|stars_4
+241761|Milan Hangzhou|Hangzhou|NO|stars_4
+241808|Dongguan Oriental Glory|Dongguan|NO|stars_4
+241809|Hilton Baiyun|Canton (Guangzhou)|NO|stars_5
+241812|Hilton Hangzhou Qiandao Lake Resort|Chun'an|NO|stars_5
+242470|Pullman|Zhangjiajie|NO|stars_4
+242476|Doubletree Wuxi|Wuxi|NO|stars_4
+243249|Yi Feng|Canton (Guangzhou)|NO|stars_4
+243531|Grand Skylight|Tianjin|NO|stars_4
+243537|Haiyatt Garden Suzhou|Wujiang|NO|stars_4
+243538|Citadines Zhuankou Wuhan|Wuhan|NO|stars_4
+243540|Pullman Oceanview Sanya Bay Resort & Spa|Sanya|NO|stars_5
+243544|Baolong Homelike Jing'An|Shanghai|YES|stars_2.5
+243545|Worldunion Service Apartment|Shanghai|YES|stars_3
+243553|Fairmont Yangcheng Lake|Kunshan|NO|stars_5
+243556|Dongjia Apartment|Shenzhen|NO|stars_3
+243579|Yinhaigang|Canton (Guangzhou)|NO|stars_2
+243581|Nanjing Vogue|Nanjing|NO|stars_3
+243583|Ron Yard|Beijing|NO|stars_4
+243584|Baolong Homelike Zhongshan|Shanghai|NO|stars_2
+243585|Holiday Inn Express Beijing Dongzhimen|Beijing|NO|stars_3
+243586|Holiday Inn Haidian|Beijing|NO|stars_4
+243593|Courtyard Hangzhou Wulin|Hangzhou|NO|stars_4
+243595|Intercontinental Hangzhou|Hangzhou|NO|stars_5
+243596|InterContinental Onethousand Island Lake Resort|Hangzhou|NO|stars_5
+243598|Crowne Plaza Huizhou|Huizhou|NO|stars_4
+243599|Intercontinental Huizhou Resort|Huizhou|NO|stars_5
+243600|Kempinski Huizhou|Huizhou|NO|stars_5
+243602|Courtyard Kunshan|Kunshan|NO|stars_3
+243604|Crowne Plaza Maanshan|Ma'anshan|NO|stars_4
+243605|Crowne Plaza Nanchang Riverside|Nanchang|NO|stars_4
+243606|Glarun Jinling|Nanjing|NO|stars_5
+243607|DoubleTree Sanya Haitang Bay|Sanya|NO|stars_4
+243608|Renaissance Sanya Resort & Spa|Sanya|NO|stars_5
+243613|Shanghai Marriott Changfeng Park|Shanghai|NO|stars_5
+243615|Benjoy|Shanghai|NO|stars_3
+243616|Days Insun Shanghai|Shanghai|YES|stars_4
+243617|Crowne Plaza Shenyang Parkview|Shenyang|NO|stars_4
+243618|Jiasheng Palace|Suzhou|NO|stars_5
+243619|Suzhou Marriott|Suzhou|NO|stars_4.5
+243620|Lakeview Marriott Executive Apartments|Tianjin|NO|stars_5
+243621|Renaissance Tianjin Lakeview|Tianjin|NO|stars_5
+243626|Hilton Xian|Xian|NO|stars_5
+243627|Crowne Plaza Xiangyang|Xiangyang|NO|stars_4
+243634|Ramada Zibo|Zibo|YES|stars_3
+244026|Westin Wuhan Wuchang|Wuhan|YES|stars_5
+244027|Westin Pazhou|Canton (Guangzhou)|YES|stars_5
+244028|The Bauhinia Hotel Guangzhou|Canton (Guangzhou)|NO|stars_3
+244030|VILI International|Canton (Guangzhou)|NO|stars_4
+244031|Home Fond (Luohu)|Shenzhen|NO|stars_4
+244032|Home Fond (Nanshan)|Shenzhen|NO|stars_4
+244033|Ramada Plaza Shenzhen|Shenzhen|NO|stars_4
+244034|Suisse Place Ligongdi Suzhou|Suzhou|YES|stars_4
+244035|Crowne Plaza Xian|Xian|NO|stars_5
+244037|Swisstouches Xian|Xian|NO|stars_5
+244038|Shanghai Marriott Hotel City Center|Shanghai|NO|stars_5
+244039|Scholars Hotel Pingjiang Fu|Suzhou|NO|stars_4
+244040|Vienna International Jiuxing|Shanghai|NO|stars_3
+244047|All-Right|Beijing|NO|stars_2
+244050|Club China Chic|Beijing|NO|stars_3.5
+244052|Days Inn Business Place Longwan|Beijing|YES|stars_4
+244055|Sheraton Beijing Dongcheng|Beijing|YES|stars_5
+244056|Shunjing SPA|Beijing|NO|stars_4
+244060|Stratus Bei Tai Ping Zhuang|Beijing|NO|stars_2
+244062|Tangyun Conference Resort|Beijing|NO|stars_4
+244064|La Nice Schengen Grand|Beijing|NO|stars_4
+245144|Four Seasons Hangzhou at West Lake|Hangzhou|NO|stars_5
+245194|Novotel Guiyang Downtown|Guiyang|NO|stars_4
+245881|Indigo Xiamen Harbour|Xiamen|NO|stars_4
+245957|InterContinental Ningbo|Ningbo|NO|stars_5
+245961|InterContinental Tangshan|Tangshan|NO|stars_5
+245962|InterContinental Wuxi|Wuxi|NO|stars_5
+245985|Crowne Plaza Chengdu Panda Garden|Chengdu|NO|stars_5
+245987|Crowne Plaza Hefei|Hefei|NO|stars_4
+245988|Crowne Plaza Huangshan Yucheng|Huangshan-Mountains|NO|stars_4
+245989|Crowne Plaza Shanghai Anting Golf|Shanghai|NO|stars_4
+245990|Crowne Plaza Shanghai Harbour City|Shanghai|NO|stars_4
+245991|Crowne Plaza Shanghai Xiayang Lake|Shanghai|NO|stars_4.5
+245993|Crowne Plaza Xishuangbanna|Xishuangbanna|NO|stars_4
+246029|Holiday Inn Taicang City Centre|Taicang|NO|stars_4
+246030|Holiday Inn Shijiazhuang Central|Shijiazhuang|NO|stars_4
+246031|Holiday Inn Nantong Oasis International|Nantong|NO|stars_4
+246032|Holiday Inn Tianjin Aqua City|Tianjin|NO|stars_4
+246033|Holiday Inn Shaoxing|Shaoxing|NO|stars_4
+246034|Holiday Inn Chengdu Oriental Plaza|Chengdu|NO|stars_4
+246035|Holiday Inn Yinchuan International Trade Centre|Yinchuan|NO|stars_4
+246036|Holiday Inn Changbaishan Suites|Jilin|NO|stars_4
+246037|Holiday Inn Resort Changbaishan|Jilin|NO|stars_4
+246095|Holiday Inn Macao Cotai Central|Macao (Macau)|NO|stars_4
+246200|Ibis Beijing Jianguomen|Beijing|NO|stars_2.5
+246201|Ibis Dalian Sanba|Dalian|NO|stars_3
+246202|Ibis Qingdao Donghai|Tsingtau (Qingdao)|NO|stars_3
+246203|Motel 168|Shanghai|NO|stars_3
+246204|Sheraton Xian North City|Xian|YES|stars_5
+246312|Holiday Inn Express Changzhou Center|Changzhou|NO|stars_3
+246313|Holiday Inn Express Chongqing Jinxiucheng|Chungking (Chongqing)|NO|stars_3
+246314|Holiday Inn Express Nantong Xinghu|Nantong|NO|stars_3
+246458|Grand Skylight International Guanlan|Bao'an|NO|stars_5
+246463|Royal Garden Inn|Suzhou|NO|stars_3
+246465|Dacheng Shanshui International|Zhangjiajie|NO|stars_4.5
+246482|Furong International|Dalian|NO|stars_4
+246483|Huaicheng Dalian|Dalian|NO|stars_3
+246484|Baiyun City|Canton (Guangzhou)|NO|stars_3
+246486|Jinyadian|Canton (Guangzhou)|NO|stars_3
+246487|Soluxe|Canton (Guangzhou)|NO|stars_5
+246488|Grand Hoya|Tsingtau (Qingdao)|NO|stars_4
+246489|The Castle|Tsingtau (Qingdao)|NO|stars_5
+246492|Andaz Shanghai|Shanghai|NO|stars_5
+246494|PEI Mansion|Shanghai|NO|stars_5
+246495|Hangzhou Evergreen|Hangzhou|NO|stars_3
+246496|Rejing International Hangzhou|Hangzhou|NO|stars_4
+246983|Cote Cour Beijing|Beijing|NO|stars_4
+246984|Tang House NanLuoGuXiang|Beijing|NO|stars_3
+246985|Tang House (Fuxue Hutong)|Beijing|NO|stars_3
+246998|Phoenix Rujia Sea View Holiday|Sanya|NO|stars_2
+247002|Ai Hua|Shanghai|NO|stars_3
+247003|Shanghai Marriott Luwan|Shanghai|NO|stars_5
+247004|Le Sun Chine|Shanghai|NO|stars_5
+247009|Wongtee V Hotel|Shenzhen|NO|stars_5
+247016|The St. Regis Tianjin|Tianjin|YES|stars_5
+247020|Home Inn Xiamen Wenzao|Xiamen|NO|stars_2
+247023|Citadines Xingqing Palace Xi'an|Xian|NO|stars_4
+247032|Datang Changan Huiguan|Xian|NO|stars_4
+247033|The Westin|Xian|YES|stars_5
+247060|Zhong Qiao|Canton (Guangzhou)|NO|stars_2
+247193|Holiday Inn Express Tianjin Heping|Tianjin|NO|stars_3
+247633|Best Western Premier Fortune|Fuzhou|NO|stars_4
+247637|Best Western Bestway|Xian|NO|stars_3.5
+247873|Shichahai Shadow Art Performance|Beijing|NO|stars_4
+247876|Beijing Gongti A-Hotel|Beijing|NO|stars_3
+247877|Jiang Tai Art / Jiangtai Art|Beijing|NO|stars_4
+247878|Super 8 Huang Hua Gang|Canton (Guangzhou)|NO|stars_2.5
+247879|Calvin Grand|Canton (Guangzhou)|NO|stars_4
+247880|Sheraton Guangzhou Huadu Resort|Canton (Guangzhou)|YES|stars_5
+247881|Xianghe|Canton (Guangzhou)|NO|stars_3
+247882|Sheraton Qiandao Lake Resort|Hangzhou|YES|stars_5
+247885|Renaissance Huizhou|Huizhou|NO|stars_4
+247886|Walker Boutique|Xian|NO|stars_4
+247887|China Community Culture & Art Hotel|Tsingtau (Qingdao)|NO|stars_4
+247888|Herton Seaview|Sanya|NO|stars_3
+247889|Yalong Bay Sanya Farinn|Yalong Bay|NO|stars_2.5
+247890|Imperial Palace Club|Shanghai|NO|stars_4
+247891|Riverview Shanghai|Shanghai|NO|stars_4.5
+247892|The Castle|Shenzhen|NO|stars_4
+248251|St. Regis Lhasa|Lhasa|YES|stars_5
+249513|Sheraton Chongqing Hotel|Chungking (Chongqing)|YES|stars_5
+249515|Westin|Nanjing|YES|stars_5
+249614|City Inn Happy Valley|Chengdu|NO|stars_2
+249615|Four Points Hainan Sanya|Sanya|YES|stars_4
+249616|Golden Sun|Foshan|NO|stars_5
+249617|Four Points Shenzhou Peninsula Resort|Wanning|YES|stars_0
+249626|Four Points by Sheraton Lianyungang|Lianyungang|YES|stars_0
+249629|Four Points by Sheraton|Taicang|YES|stars_4
+249630|Spring Time Tianhe|Canton (Guangzhou)|NO|stars_3
+249631|Smart Baiyun|Canton (Guangzhou)|NO|stars_3
+249654|Victoria|Canton (Guangzhou)|NO|stars_4
+249657|Southern Club|Canton (Guangzhou)|NO|stars_5
+249689|The St. Regis Sanya Yalong Bay Resort|Sanya|YES|stars_5
+249737|Elan Inn West Lake|Hangzhou|NO|stars_2.5
+252672|Pousada De Coloane|Coloane|NO|stars_4
+254290|JinJiang Inn - Beijing Guangqumen Inn|Beijing|NO|stars_2
+254291|JinJiang Inn - Beijing Houhai|Beijing|NO|stars_2
+254293|Shangda International|Beijing|YES|stars_4
+254294|Ibis Beijing Capital Airport|Beijing|NO|stars_3
+254297|The Classic Courtyard|Beijing|NO|stars_2
+254298|Ramada Beijing North|Beijing|NO|stars_3.5
+254304|JinJiang Inn - Guang'anmen Inn|Beijing|NO|stars_2
+254311|Kuntai|Beijing|NO|stars_5
+254313|FX Inn XiSanQi|Beijing|NO|stars_3
+254319|Grace Beijing|Beijing|NO|stars_4
+254328|Ibis Beijing Dongdaqiao|Beijing|NO|stars_3
+254332|Victory Star Inn|Beijing|NO|stars_2
+254336|Motel268 BeiJing Wang Fu Jing Inn|Beijing|NO|stars_2.5
+254337|GreenTree Alliance Beijing West Railway Station North Square Hotel|Beijing|NO|stars_3
+254339|Jinjiang Inn Beijing Olympic Village Datun Road|Beijing|NO|stars_2
+254342|Hutong Inn Tiananmen Courtyard|Beijing|NO|stars_3
+254343|Beijing Confucious Hotel|Beijing|NO|stars_2
+254347|Shichahai Sandalwood Boutique|Beijing|NO|stars_4
+254349|Piao Home Inn Huamao|Beijing|NO|stars_2
+254353|Jinjiang Inn Beijing Ciyun Temple|Beijing|NO|stars_2
+254354|Tai Shan|Beijing|NO|stars_5
+254365|Shindom Inn Beijing Jianguomen|Beijing|NO|stars_2
+254366|Xiao Yuan Alley Courtyard|Beijing|NO|stars_3
+254371|Imperial Courtyard|Beijing|NO|stars_3.5
+254378|Jinjiang Inn Beijing Fangzhuang|Beijing|NO|stars_2
+254388|Jinjiang Inn Olympic Park|Beijing|NO|stars_2.5
+254400|Graceland Yard Hotel|Beijing|NO|stars_4
+254407|Tianrui|Beijing|NO|stars_3
+254501|Le Parker International Hotel|Sanya|NO|stars_5
+254507|Yu Hai Seascape Hotel|Sanya|NO|stars_3
+254512|Kempinski Haitang Bay Sanya|Sanya|NO|stars_5
+254514|Sanya San Jin Holiday Hotel|Sanya|NO|stars_3
+254517|Jinjiang Inn Hainan Dongfengqiao|Haikou|NO|stars_2
+255247|Sofitel Shanghai Jing An Huamin|Shanghai|NO|stars_5
+255249|Ibis JinshaJiang|Shanghai|NO|stars_3
+255256|Paramount & Gallery Hotel|Shanghai|NO|stars_3.5
+255258|Ibis Xujiahui|Shanghai|NO|stars_3
+255260|SOHO International Youth Hostel|Shanghai|NO|stars_3
+255261|GreenTree Inn Shanghai Century Park|Shanghai|NO|stars_2.5
+255262|Jinjiang Inn Shanghai Hongqiao Hami Road|Shanghai|NO|stars_2
+255265|Baolong Homelike Hong Qiao Branch|Shanghai|NO|stars_2
+255268|Baolong Homelike Wujiao Chang|Shanghai|NO|stars_2
+255273|Jinjiang Inn Shanghai Nanhui Hangtou|Shanghai|NO|stars_2
+255275|GreenTree Inn Shanghai Chengshan Road Express|Shanghai|NO|stars_2.5
+255276|Shahai International|Shanghai|NO|stars_4
+255278|Donghu Guest House|Shanghai|NO|stars_3
+255281|Jinjiang Inn Shanghai Pudong Airport II|Shanghai|NO|stars_3
+255284|Jinjiang Inn Shanghai Huamu|Shanghai|NO|stars_2
+255286|Jinjiang Inn Chifeng Road|Shanghai|NO|stars_2
+255288|Jinjiang Inn Lujiabang Road|Shanghai|NO|stars_2
+255289|Jinjiang Inn Shanghai Pudong Xinjinqiao Rd|Shanghai|NO|stars_2
+255293|Jinjiang Inn Expo Park Pusan Road|Shanghai|NO|stars_2.5
+255294|Motel168 Shanghai Yangpu Bridge Inn|Shanghai|NO|stars_2.5
+255295|Jinjiang Inn Chuansha Huaxia Road East|Shanghai|NO|stars_2
+255296|Sina Hotel|Shanghai|NO|stars_3
+255298|Jinjiang Inn Shanghai Hailun Rd|Shanghai|NO|stars_2.5
+255299|Motel168 Shanghai East TianMu Road Inn|Shanghai|NO|stars_2.5
+255300|Jinjiang Inn Shanghai Huaihai Road East|Shanghai|NO|stars_3
+255301|Jinjiang Inn Shanghai Jiaotong University Xuhui Campus|Shanghai|NO|stars_2.5
+255306|Jinjiang Inn Shanghai Gaohang Jujin Rd|Shanghai|NO|stars_2
+255307|GreenTree Alliance Shanghai Zhongshan Park|Shanghai|NO|stars_2.5
+255310|Jinjiang Inn Shanghai Wanping Rd.(S)|Shanghai|NO|stars_2.5
+255311|Motel 168 Jin Chuan Road Inn|Shanghai|NO|stars_2
+255312|Jinjiang Inn Shanghai Lujiazui|Shanghai|NO|stars_2.5
+255317|Motel168 Shanghai XinCun Road Inn|Shanghai|NO|stars_2.5
+255320|Xi He Feng Run|Xian|NO|stars_3
+255321|Jinjiang Inn Xian Dongguan|Xian|NO|stars_2
+255322|King Town No.1|Xian|NO|stars_3
+255323|Sunda Gentleman International Hotel|Xian|NO|stars_4
+255326|Ramada Bell Tower|Xian|NO|stars_4
+255334|Tang Dynasty Art Garden|Xian|NO|stars_5
+255337|Cien Hotel|Xian|NO|stars_3
+255338|Century Landscape|Xian|NO|stars_3
+255345|Jinjiang Inn Jianguomen|Xian|NO|stars_2.5
+255376|Feng Yuyan Hotel|Guillin|NO|stars_2
+255379|Moondance Hotel|Guillin|NO|stars_3.5
+255380|Yangshuo Hidden Dragon Villa|Guillin|NO|stars_3
+255382|Guilinyi Royal Palace|Guillin|NO|stars_5
+255384|Bamboo House Resort|Guillin|NO|stars_3.5
+255385|Yangshuo River View Hotel|Guillin|NO|stars_3
+255386|Yangshuo Village Inn|Guillin|NO|stars_3
+255387|Leader Guest House-LongJi Branch|Guillin|NO|stars_3
+255388|Howard Johnson Tropical Garden Plaza Kunming|Kunming|YES|stars_4.5
+255392|Sheraton Hangzhou Wetland Park Resort|Hangzhou|NO|stars_5
+255394|Hangzhou Tea Pu Rui Hotel|Hangzhou|NO|stars_3
+255397|GreenTree Inn Hangzhou West Lake Avenue Hotel|Hangzhou|NO|stars_3
+255401|Angsana Hangzhou|Hangzhou|NO|stars_5
+255402|Ramada Plaza Hangzhou Xiaoshan|Hangzhou|NO|stars_4
+255403|NARADA Resort & Spa Liangzhu|Hangzhou|NO|stars_5
+255405|Flower Inn West Lake|Hangzhou|NO|stars_3
+255409|Brook|Hangzhou|NO|stars_4
+255411|Vienna Wullin Square|Hangzhou|NO|stars_4
+255412|Zhejiang Milan Continental|Hangzhou|NO|stars_4
+255415|E M Grand Hotel|Hangzhou|NO|stars_4
+255416|Hangzhou Yingri International Hotel|Hangzhou|NO|stars_3
+255417|Jinjiang Inn Zhejiang Tonglu|Hangzhou|NO|stars_2.5
+255418|Hangzhou European-Style Holiday Hotel|Hangzhou|NO|stars_3
+255419|Hangzhou Junfu International Hotel|Hangzhou|NO|stars_4
+255420|Zhejiang Duhao|Hangzhou|NO|stars_4
+255421|GreenTree Inn Hangzhou West GenShan Road Hotel|Hangzhou|NO|stars_2
+255429|Soaring Gental Hotel|Chengdu|NO|stars_3
+255434|Rhombus Chengdu Fantasia|Chengdu|NO|stars_5
+255435|Celebrity Resort Huashuiwan|Chengdu|NO|stars_5
+255439|Angel HuaXi|Chengdu|NO|stars_4
+255441|Ane Fuqin Branch|Chengdu|NO|stars_3
+255442|An-e Renmin Park Branch|Chengdu|NO|stars_2.5
+255443|Jiali Hotel - Width Alley|Chengdu|NO|stars_3
+255444|Anegrand Hotel|Chengdu|YES|stars_4
+255447|Chengdu Tianren Grand|Chengdu|NO|stars_4
+255448|Ane Hotel - E Mei Branch|Chengdu|NO|stars_3
+255449|For Star Hotel-Renmin North Road|Chengdu|NO|stars_4
+255450|Sacen Grand Hotel|Chengdu|NO|stars_3
+255452|An-e Waishuangnan Branch|Chengdu|NO|stars_3
+255453|Huan Hua Brocade Hotel|Chengdu|NO|stars_3.5
+255463|Jinjiang Inn Sport University|Chengdu|NO|stars_2.5
+255480|Fraser Suites Chengdu|Chengdu|NO|stars_5
+255481|Ming Lu Hotel|Chengdu|NO|stars_3
+255484|Ramada Plaza Chong Qing North|Chungking (Chongqing)|NO|stars_4.5
+255485|Yueyou Jiefangbei Branch|Chungking (Chongqing)|NO|stars_3
+255487|DoubleTree by Hilton Hotel Chongqing North|Chungking (Chongqing)|NO|stars_4.5
+255489|FX Hotel Third Military Medical University|Chungking (Chongqing)|NO|stars_3
+255491|FX Hotel at Technology & Business University|Chungking (Chongqing)|NO|stars_3
+255493|Motel 168 Chongqing Jiefangbei Inn|Chungking (Chongqing)|NO|stars_3
+255495|Days Hotel Dianya Chongqing|Chungking (Chongqing)|YES|stars_4
+255498|Ramada Plaza Chongqing West|Chungking (Chongqing)|NO|stars_4
+255503|Beity Hot Spring Tourism Resort|Chungking (Chongqing)|NO|stars_5
+255505|The Linden Centre|Dali|NO|stars_3.5
+255506|Grand Bay View International Hotel Dali|Dali|NO|stars_4
+255507|Days Suites Bojing Huangshan|Huangshan-Mountains|NO|stars_3.5
+255509|Huang Shan Pine Ridge Lodge|Huangshan-Mountains|NO|stars_3
+255511|Guangzhou Suiyun Hotel|Canton (Guangzhou)|NO|stars_3
+255514|J hotel|Canton (Guangzhou)|NO|stars_4
+255521|Yuwa|Canton (Guangzhou)|NO|stars_4
+255524|Guang Hua Hotel|Canton (Guangzhou)|NO|stars_2
+255525|Ming Hong Zhixing|Canton (Guangzhou)|NO|stars_3
+255527|Master Hotel Tianhe|Canton (Guangzhou)|NO|stars_3
+255530|Guangzhou Wings Hotel|Canton (Guangzhou)|NO|stars_3
+255535|V8 Xi Cun Branch|Canton (Guangzhou)|NO|stars_2
+255536|Yi an Business Hotel|Canton (Guangzhou)|NO|stars_2
+255537|Guangzhou Minghong Hotel -Xiwan|Canton (Guangzhou)|NO|stars_3
+255538|Dongzhi Hotel|Canton (Guangzhou)|NO|stars_3
+255539|Jingdu|Canton (Guangzhou)|NO|stars_3
+255540|Q-City|Canton (Guangzhou)|NO|stars_3
+255547|No.1 Wenlin Garden|Lijiang|NO|stars_4
+255549|Blossom Hill Inn|Lijiang|NO|stars_3
+255551|Jinjiang Inn Train Station|Luoyang|NO|stars_2
+255553|Jinjiang Inn Xigong Stadium|Luoyang|NO|stars_3
+255556|Jinjiang Inn Nanjing Coach Station (E)|Nanjing|NO|stars_2
+255558|Days Hotel Nanjing|Nanjing|YES|stars_4
+255559|Nanjing Vogue Boutique Motel|Nanjing|NO|stars_4
+255560|Hilton Nanjing Riverside|Nanjing|NO|stars_4.5
+255562|Baliyuanshu Vogue Hotespring|Nanjing|NO|stars_4
+255564|Travelers' Soul Inn|Nanjing|NO|stars_2
+255571|Jinjiang Inn Nanjing Train Station|Nanjing|NO|stars_2
+255572|Motel 168 XinJieKou Inn|Nanjing|NO|stars_2.5
+255576|Motel 168 Nanjing Zhong Fu Road Inn|Nanjing|NO|stars_2
+255583|Howard Johnson Wuzhong Business Club Hotel Suzhou|Suzhou|YES|stars_5
+255590|Noahs Hotel Suzhou|Suzhou|NO|stars_4
+255592|Shengshi Jin Jiang International Hotel|Suzhou|NO|stars_4
+255593|Days Hotel Suzhou|Suzhou|YES|stars_4
+255599|Scholars Inn Mudu|Suzhou|NO|stars_3
+255600|Ramada Kunshan|Suzhou|YES|stars_4
+255604|inlodge Hotel Suzhou with all Duplex Suites|Suzhou|NO|stars_4
+255605|Starway Dynasty|Suzhou|NO|stars_3
+255606|Jin Jiang International Taicang|Suzhou|NO|stars_5
+255607|Motel 168 Guan Qian Street Inn|Suzhou|NO|stars_2
+255615|Scholars Inn Suzhou Industry Park|Suzhou|NO|stars_4
+255617|Jinling Guanyuan International|Suzhou|YES|stars_4.5
+255620|Windsor Park Hotel Kunshan|Suzhou|NO|stars_4
+255627|Scholars Hotel Dushu Lake|Suzhou|NO|stars_4
+255629|Jinjiang Inn Suzhou New District Tayuan Road|Suzhou|NO|stars_2
+255631|Jinjiang Inn Kunshan Huaqiao Business Park|Suzhou|NO|stars_2
+255632|Zhong Hui Zhi Yuan|Suzhou|NO|stars_2
+255633|Motel168 Suzhou Sanxiang Road Inn|Suzhou|NO|stars_2
+255637|Dongshan|Suzhou|NO|stars_3
+255640|Suzhou Xinhu Hotel|Suzhou|NO|stars_3.5
+255646|Jinjiang Inn Wuhan Zhangzhidong Road|Wuhan|NO|stars_2.5
+255648|Jinjiang Inn Wuhan Jiangtan Buxing Street|Wuhan|NO|stars_3
+255654|Greentree Inn Wuhan Hankou Jiangtan Hotel|Wuhan|NO|stars_2.5
+255657|Howard Johnson Garden Plaza Yixing|Wuxi|YES|stars_4
+255659|Jinjiang Inn Wuxi Xicheng Road|Wuxi|NO|stars_2
+255664|Jinjiang Inn Wuxi New District Wangzhuang East Road|Wuxi|NO|stars_2
+255665|Jinjiang Inn Wuxi Liangqing Road|Wuxi|NO|stars_2
+255667|GreenTree Inn Wuxi New District Airport Hotel|Wuxi|NO|stars_2.5
+256261|Jinjiang Inn Chuangchun Quanan Square|Changchun|NO|stars_2.5
+256269|Jinjiang Inn Qingdao Zhengyang Road|Tsingtau (Qingdao)|NO|stars_2.5
+256270|Jinjiang Inn Qingdao Yanerdao Road|Tsingtau (Qingdao)|NO|stars_2
+256273|Jinjiang Inn Central Qingdao Hangzhou Rd.|Tsingtau (Qingdao)|NO|stars_2
+256275|Jinjiang Inn Qingdao Zhongshan Road|Tsingtau (Qingdao)|NO|stars_2
+256282|Motel 168 Qingdao Railway Station Inn|Tsingtau (Qingdao)|NO|stars_2
+256285|Maple Leaf City Hotel|Shenzhen|NO|stars_3
+256287|Sunon Holiday Villa Hotel|Shenzhen|NO|stars_3
+256288|Maple Leaf Convenience Hotel|Shenzhen|NO|stars_3
+256289|The Bauhinia Hotel Shenzhen|Shenzhen|NO|stars_4
+256290|Mahayana OCT Hotel Shenzhen|Shenzhen|NO|stars_4
+256294|Shenzhen Kylin Villa|Shenzhen|NO|stars_4
+256295|Sanlian|Shenzhen|NO|stars_4
+256296|The St. Regis Shenzhen|Shenzhen|YES|stars_5
+256297|FX East Lake Park|Shenzhen|NO|stars_3
+256298|Maple Leaf Modern Hotel|Shenzhen|NO|stars_3
+256299|The Pavilion Hotel Longgang|Shenzhen|NO|stars_4
+256301|LVGEM|Shenzhen|NO|stars_4.5
+256303|Sun Flower Hotel and Residence|Shenzhen|NO|stars_4
+256307|The Overseas Chinese Building Hotel|Shenzhen|NO|stars_3
+256311|Jinjiang Inn Shenzhen Airport|Shenzhen|NO|stars_2
+256312|Laguna Hotel|Shenzhen|NO|stars_4
+256313|Qu Apart Tel|Shenzhen|NO|stars_4
+256315|Oasis O-City Hotel Shenzhen|Shenzhen|NO|stars_4
+256316|Otique Aqua|Shenzhen|NO|stars_4
+256317|Parkview O City Hotel Shenzhen|Shenzhen|NO|stars_3.5
+256318|Motel268 Shenzhen Nanshan Qilin|Shenzhen|NO|stars_3
+256319|Tiancheng Sha Tsui|Shenzhen|NO|stars_3.5
+256323|Yes Inn|Shenyang|NO|stars_3
+256326|Jinjiang Inn Shenyang Zhong Street|Shenyang|NO|stars_2.5
+256328|Jinjiang Inn Shenyang North Station|Shenyang|NO|stars_2.5
+256330|Somerset Heping Shenyang|Shenyang|NO|stars_4
+256331|Maritim Hotel Shenyang|Shenyang|NO|stars_5
+256434|Ramada Yichang|Yichang|YES|stars_5
+256482|Ibis Tianjin Tian Wei|Tianjin|NO|stars_3
+256485|Warner International Golf Club, Tianjin|Tianjin|NO|stars_3
+256486|Grand View Hotel|Tianjin|NO|stars_5
+256487|GreenTree Inn Great Mercy Temple|Tianjin|NO|stars_3
+256488|Tianjin Rego Garden|Tianjin|NO|stars_4
+256489|Jinjiang Inn Tianjin Train Station|Tianjin|NO|stars_2.5
+256492|Jinjiang Inn Tianjin Tanggu|Tianjin|NO|stars_2
+256494|Sheraton Tianjin Binhai|Tianjin|YES|stars_5
+256498|Jinjiang Inn Tianjin Hongqiao Guangrongdao|Tianjin|NO|stars_3
+256502|Jinbin International|Tianjin|NO|stars_4
+256509|Jinjiang Inn Tianjin Xianyang Road|Tianjin|NO|stars_2.5
+256511|Somerset International Building Tianjin|Tianjin|NO|stars_4
+256513|Jinjiang Inn Tianjin Bawei Road|Tianjin|NO|stars_2
+256567|Westin Minjiang|Fuzhou|YES|stars_5
+256703|Longchamp Garden Hotel Changsha|Changsha|YES|stars_5
+256704|Jinjiang Inn Changsha Nanhu|Changsha|NO|stars_3
+256705|Motel168 Changsha GaoQiao Inn|Changsha|NO|stars_2.5
+256706|Jinjiang Inn Changsha Dongfeng Rd.|Changsha|NO|stars_3
+256710|Jinjiang Inn Changsha Helong Stadium|Changsha|NO|stars_2.5
+256711|Motel168 Changsha FuRong Road Inn|Changsha|NO|stars_2
+256713|Jinjiang Inn Changsha Wuyi Square|Changsha|NO|stars_2.5
+256715|Sheraton Changzhou Xinbei Hotel|Changzhou|NO|stars_4.5
+256717|Starway Glamorous Park City|Changzhou|NO|stars_3
+256718|Jinjiang Inn Changzhou Olympic Center|Changzhou|NO|stars_2
+256719|Howard Johnson Kaina Plaza|Changzhou|YES|stars_5
+256720|Sheraton Changzhou Wujin|Changzhou|NO|stars_5
+256746|Conrad Dalian|Dalian|NO|stars_5
+256750|Jinjiang Inn Dalian Xishan Street|Dalian|NO|stars_2
+256753|Wellton International|Dongguan|NO|stars_5
+256755|Lotus Villa Botique Hotel|Dongguan|NO|stars_5
+256756|Grand Mercure Dongguan Shijie|Dongguan|NO|stars_4
+256757|Royal Guangdong|Dongguan|NO|stars_4
+256759|Ying Feng|Dongguan|NO|stars_3
+256761|Pullman Dongguan Changan|Dongguan|NO|stars_4
+256975|Motel 168 Guiyang Shengfu Road Inn|Guiyang|NO|stars_2.5
+256976|Hyatt Regency Guiyang|Guiyang|NO|stars_5
+256979|Jinjiang Inn Harbin Changjiang Road|Harbin|NO|stars_2.5
+256982|Ibis Harbin Shangzhi|Harbin|NO|stars_3
+256987|Jinjiang Inn Central Jinan Daming Lake|Jinan|NO|stars_3
+256988|Jinjiang Inn Jinan Quancheng Park|Jinan|NO|stars_2
+256989|Jinjiang Inn Jinan Shandong Univesity|Jinan|NO|stars_2
+256990|Jinjiang Inn Jinan Jingsanweiba Road|Jinan|NO|stars_2
+256995|Hyatt Regency Jinan|Jinan|NO|stars_5
+256998|Sheraton Jinan Hotel|Jinan|YES|stars_5
+257004|Jinjiang Inn Shijiazhuang Ping'an Street|Shijiazhuang|NO|stars_2
+257007|Jinjiang Inn Zhengzhou Dashiqiao|Zhengzhou|NO|stars_2.5
+257008|Aloft Zhengzhou Shangjie|Zhengzhou|YES|stars_3.5
+257009|Jinjiang Inn Zhengzhou Wenhua Road|Zhengzhou|NO|stars_3
+257010|Jinjiang Inn Zhengzhou Hanghai Road|Zhengzhou|NO|stars_3
+257013|Jinjiang Inn Zhengzhou Zhongyuan Road|Zhengzhou|NO|stars_2
+257050|Grand Skylight International Hotel Nanchang|Nanchang|YES|stars_4.5
+257055|Jinjiang Inn Yingchuan Xinyue Square|Yinchuan|NO|stars_2.5
+257091|Jinjiang Inn Hefei Jin Zhai Road Zhong Keda|Hefei|NO|stars_3
+257092|Days Hotel And Suites Hefei|Hefei|YES|stars_4
+257157|Starway Huaxiang Xiangshan|Ningbo|NO|stars_3
+257159|Howard Johnson Jinhai Plaza Ninghai|Ningbo|YES|stars_0
+257161|Kaiyuan Ningbo Jiulong Lake Resort|Ningbo|NO|stars_5
+257163|Cixi Landison Plaza Hotel|Ningbo|NO|stars_5
+257165|GreenTree Inn Ningbo Tianyi Plaza|Ningbo|NO|stars_2
+257166|Jinjiang Inn Ningbo Zhaohui Rd.|Ningbo|NO|stars_2
+257169|Zhe Hai Grand Hotel|Ningbo|NO|stars_3
+257170|Jinjiang Inn Xiangshan Shipu|Ningbo|NO|stars_2
+257173|Jinjiang Inn Xiamen Train Station|Xiamen|NO|stars_2
+257174|Jinjiang Inn Xiamen Convention & Exhibition Center|Xiamen|NO|stars_2
+257268|Chateau Star River Taiyuan|Taiyuan|NO|stars_5
+257296|Jinjiang Inn Nanning International Exhibition Center|Nanning|NO|stars_2.5
+257299|Zelin|Nanning|NO|stars_3
+257394|Jinjiang Inn Shantou Hengshan Rd|Shantou|NO|stars_2
+257397|Dayu Kaiyuan|Shaoxing|NO|stars_4
+257398|Landison Hotel Xinchang|Shaoxing|NO|stars_4
+257400|YaoJiang New Century Grand Zhuji|Shaoxing|YES|stars_4.5
+257401|Jinjiang Inn Central Shengli Road|Shaoxing|NO|stars_2.5
+257406|Starway Kangshan|Yangzhou|NO|stars_3
+257407|Jinling|Yangzhou|YES|stars_4.5
+257413|Jinjiang Inn Yangzhou Siwangting Road|Yangzhou|NO|stars_2
+257415|Motel168 YangZhou WenChangGe Road Inn|Yangzhou|NO|stars_2.5
+257418|Jinjiang Inn Yantai International Exhibition Center|Yantai|NO|stars_2
+257419|Jinjiang Inn Yantai Development Zone Changjiang Road|Yantai|NO|stars_2
+257422|GreenTree Inn Yantai South Street Hotel|Yantai|NO|stars_2
+257425|Ibis Zhongshan The Center|Zhongshan|NO|stars_3
+257426|Jinjiang Inn Xiangzhou Lovers Road (C)|Zhuhai|NO|stars_2.5
+257428|Jinjiang Inn Zhuhai Jida Jiuzhou Avenue|Zhuhai|NO|stars_2
+257432|Motel168 Zhuhai NingXi Road Inn|Zhuhai|NO|stars_2.5
+257451|Ramada Plaza Shunde|Foshan|YES|stars_4.5
+257452|Aloft Nanhai Foshan|Foshan|YES|stars_4
+257472|Jinjiang Inn Yiwu|Jinhua|NO|stars_2
+257480|Jinjiang Inn Wenzhou Renmin Road|Wenzhou|NO|stars_2.5
+257482|Treasure Island|Wenzhou|NO|stars_4
+257487|Jinjiang Inn Zibo Train Station|Zibo|NO|stars_2
+257488|Jinjiang Inn Zibo Liuquan Road|Zibo|NO|stars_2.5
+257516|Radisson Blu Liuzhou|Liuzhou|NO|stars_5
+257543|Jinjiang Inn Taizhou Nantong Rd|Taizhou|NO|stars_2.5
+257544|DoubleTree by Hilton Jiangsu Taizhou|Taizhou|NO|stars_4
+257545|GreenTree Inn Taizhou East Meilan Road Hotel|Taizhou|NO|stars_2.5
+257565|Jinjiang Inn Xuzhou Train Station|Xuzhou|NO|stars_2
+257566|GreenTree Inn Xuzhou North Minzhu Road Hotel|Xuzhou|NO|stars_2.5
+257887|Sheraton Hohhot Hotel|Hohhot|NO|stars_4.5
+257902|Jinjiang Inn Wusi Road|Xining|NO|stars_2.5
+257910|Jinjiang Inn Qingyuan Shifu|Qingyuan|NO|stars_2.5
+257911|Jinjiang Inn Quanzhou Wenling Road N|Quanzhou|NO|stars_2.5
+257912|Marco Polo Jinjiang|Jinjiang|NO|stars_5
+257919|Grand Skylight Hotel|Yueyang|YES|stars_4
+257923|Days Hotel Legend Mudanjiang|Mudanjiang|NO|stars_4
+257924|Holiday Inn Suifenhe|Suifenhe|NO|stars_4
+257925|Ramada Hotel And Suites Boao|Qionghai|YES|stars_4
+257926|Ramada Plaza Shaoguan City Centre|Shaoguan|NO|stars_4
+257936|Jinjiang Inn Weifang Dongfeng Street W|Weifang|NO|stars_2
+257963|Jinjiang Inn Yancheng Colorful Asia|Yancheng|NO|stars_3
+257970|Jinjiang Inn Huzhou Bailemen|Huzhou|NO|stars_3
+257971|Jinjiang Inn Zhoushan Putuo Shenjiamen|Zhoushan|NO|stars_2
+257972|Landison Hotel Zhoushan|Zhoushan|NO|stars_4
+257973|Huaqiao New Century Grand|Lishui|YES|stars_5
+257976|Jinjiang Inn Anyang Wenfeng Main Road|Anyang|NO|stars_2
+257980|Jinjiang Inn Rizhao Haiqu Park|Rizhao|NO|stars_2
+257982|Jinjiang Inn Rizhao Haibin Wu Rd|Rizhao|NO|stars_2
+257999|Jinjiang Inn Dongying Er Rd.(W)|Dongying|NO|stars_2
+258001|Yide|Jinzhong|NO|stars_3
+258007|New Century Fengming Resort Zaozhuang|Zaozhuang|YES|stars_4
+258394|Jinjiang Inn Shiyan Beijing Road|Shiyan|NO|stars_3
+258397|Baolong Homelike Mudanjiang|Baoshan (Shanghai)|NO|stars_2
+258398|Jinjiang Inn Baoyang Dock|Baoshan (Shanghai)|NO|stars_2
+258422|Songjiang New Century Grand Shanghai|Songjiang|YES|stars_5
+258425|Jinjiang Inn Shanghai Songjiang University Town|Songjiang|NO|stars_2
+258427|Motel 168 North Song Wei Road Inn|Songjiang|NO|stars_2
+258841|Jinjiang Inn Beijing Tongzhou Xinhua Street East Guyunhe|Beijing|NO|stars_2
+258961|L'Otel|Shanghai|NO|stars_3
+258968|Mei Du|Shanghai|NO|stars_3
+258972|Jinjiang Inn Fengxian Nanqiao Road|Shanghai|NO|stars_2
+259183|Anantara Xishuangbanna Resort & Spa|Xishuangbanna|NO|stars_5
+259234|Ibis Manchuli|Manchuli|NO|stars_3
+259309|Howard Johnson New Port Resort|Haikou|YES|stars_5
+259525|Mingyoun Central|Chengdu|NO|stars_5
+259526|ZTE|Nanjing|NO|stars_4
+259529|Kirin|Shanghai|NO|stars_2.5
+259530|Zhengjia Guangzhou|Canton (Guangzhou)|NO|stars_3
+259533|Guangzhou Bontai|Canton (Guangzhou)|NO|stars_4.5
+259534|Ibis Hangzhou Southern Song Dynasty|Hangzhou|NO|stars_3
+259535|Veegle Hangzhou Gejiang|Hangzhou|NO|stars_4
+259536|ZTG Mingting Westlake|Hangzhou|NO|stars_3
+259538|Hangzhou Jasmine International|Hangzhou|NO|stars_4
+259539|Zhanshan Garden|Tsingtau (Qingdao)|NO|stars_4
+259545|Ocean Sonic Resort Sanya|Sanya|NO|stars_5
+259546|Timton International|Sanya|NO|stars_5
+259550|Huali Shishang|Shenzhen|NO|stars_3
+260635|Aloft Zhengzhou Zhengdong New District|Zhengzhou|YES|stars_0
+260636|Aloft Haiyang|Haiyang|YES|stars_0
+260675|Four Seasons Shanghai Pudong|Pudong|NO|stars_5
+260724|Sheraton Macao Cotai Central|Macao (Macau)|YES|stars_5
+260967|Oakwood Premier Guangzhou|Canton (Guangzhou)|YES|stars_5
+260969|Guangzhou The Royal Garden|Canton (Guangzhou)|NO|stars_4
+260970|Holiday Inn Express Shanghai Jinsha|Shanghai|NO|stars_3
+260972|Tegoo|Xiamen|YES|stars_5
+261186|Best Western Premier Royal Phoenix Beijing|Beijing|NO|stars_4
+261336|The One - Executive Suites Shanghai by Kempinski|Shanghai|NO|stars_5
+261558|Anantara Sanya Resort & Spa|Sanya|NO|stars_5
+261672|Chengdu Marvel|Chengdu|NO|stars_4
+261675|Four Seasons Guangzhou|Canton (Guangzhou)|NO|stars_5
+261677|Swiss-Belhotel Hefei|Hefei|NO|stars_4
+261678|The Westin Xiamen|Xiamen|YES|stars_5
+261679|Xiamen Royal Victoria|Xiamen|NO|stars_5
+264532|Super 8 Hotel Beijing Jiu Long|Beijing|YES|stars_0
+264823|Jinjiang Inn Shanghai Hongmei Road South|Shanghai|NO|stars_2
+264824|Jinjiang Inn Shanghai Minhang Dongchuan Road|Shanghai|NO|stars_2.5
+264825|Jinjiang Inn Shanghai Minhang Wujing|Shanghai|NO|stars_2
+264828|Motel 168 Shanghai Jinshan Shihua Inn|Shanghai|NO|stars_2
+264843|Expo Jin Jiang Apartment|Shanghai|NO|stars_4
+265745|Best Western Premier Venice Park|Suqian|NO|stars_5
+276626|Wenzhou International Hotel|Wenzhou|NO|stars_4
+276627|Wenzhou Jiangjun Hotel|Wenzhou|NO|stars_4
+279318|Holiday Inn Express Beijing Airport Zone|Beijing|NO|stars_3
+279321|Warner Beijing SunThirsty Apartment|Beijing|NO|stars_3
+279326|Shanshui Trends Hotel (Qianmen)|Beijing|NO|stars_3
+279328|Homekey Hotel|Beijing|NO|stars_3
+279329|161 Hostel|Beijing|NO|stars_3
+279330|WYNN International Apartments|Beijing|NO|stars_2.5
+279333|Beijing Lotus Hotel|Beijing|NO|stars_2
+279334|Springs Valley|Beijing|NO|stars_4
+279335|BackHome Beijing Guest House|Beijing|NO|stars_2
+279340|Old Beijing Square Hotel|Beijing|NO|stars_4
+279365|Longhigh Resort Apartment|Sanya|NO|stars_3
+279369|Qing Tian Yu Tan Service Apartment|Sanya|NO|stars_3
+279371|Phoenix Waterside Gloria Resort|Sanya|NO|stars_4
+279372|MGM Grand Sanya|Sanya|NO|stars_5
+279696|Mayson Shanghai Bund Serviced Apartment|Shanghai|NO|stars_3
+279697|Aquaspace Serviced Apartment|Shanghai|NO|stars_4
+279703|Blavii House|Shanghai|NO|stars_5
+279704|Jingyue 99 Hotel - Shiwan|Shanghai|NO|stars_2.5
+279705|Jingyue 99 Hotel - Jiangzhen|Shanghai|NO|stars_2
+279706|Shanghai Excellence|Shanghai|NO|stars_2
+279709|Mayson Shanghai Pudong Serviced Apartment|Shanghai|NO|stars_3
+279710|Life Adamo Boutique Hotel|Shanghai|NO|stars_3
+279711|Shanghai Ketangjian Boutique|Shanghai|NO|stars_3.5
+279712|Seine Taster Hotel|Shanghai|NO|stars_4
+279713|SaintLand Serviced Apartment|Shanghai|NO|stars_3
+279716|Xiangzimen Youth Hostel|Xian|NO|stars_2
+279831|Yangshuo Rosewood Inn|Guillin|NO|stars_3
+279833|Rosewood Hotel|Guillin|NO|stars_3
+279834|Yangshuo Phoenix Pagoda Fonglou Retreat|Guillin|NO|stars_3
+279835|Triumphal Golden Horse|Kunming|NO|stars_3
+279838|ACG Hotel City Center|Hangzhou|NO|stars_2
+279839|Lotus 52 Villa|Hangzhou|NO|stars_3.5
+279840|iTowns Hotel Tianyuan Branch|Hangzhou|NO|stars_3
+279841|Yinqiao Hotel|Hangzhou|NO|stars_3
+279842|New Century Grand Hotel Tonglu Hangzhou China|Hangzhou|NO|stars_5
+279843|Xixuan Spa Hotel Hangzhou|Hangzhou|NO|stars_4
+279844|ACG Hotel Shangpin|Hangzhou|NO|stars_2
+279845|Xiangji Yard Boutique Hotel|Hangzhou|NO|stars_3.5
+279849|Hangzhou Wuyang Star Inns Fengqi Branch|Hangzhou|NO|stars_3
+279851|Hangzhou New Dongpo Hotel|Hangzhou|NO|stars_3
+279852|C&Q Residence Hangzhou|Hangzhou|NO|stars_3
+279853|Eastern Golden Apartment|Hangzhou|NO|stars_3
+279854|Yilin Apartment|Hangzhou|NO|stars_3
+279855|Westlake 7 Service Apartment|Hangzhou|NO|stars_3
+279950|Holiday Inn Chengdu Xindu|Chengdu|NO|stars_4
+279951|Ane Courtyard Hotel|Chengdu|NO|stars_3
+279952|Starway Huana|Chungking (Chongqing)|NO|stars_3
+279953|Radisson Blu Plaza Chongqing|Chungking (Chongqing)|NO|stars_5
+279958|Goten Hotel|Canton (Guangzhou)|NO|stars_3
+279959|Guangzhou Masia Hotel|Canton (Guangzhou)|NO|stars_3
+279960|China Smart|Canton (Guangzhou)|NO|stars_3
+279961|Guangzhou Yingshang Hotel (Railway Station Branch)|Canton (Guangzhou)|NO|stars_3
+279962|PengMan Apartment (J.living)|Canton (Guangzhou)|NO|stars_4
+279965|Super 8 Hotel Guangzhou Railway Station|Canton (Guangzhou)|NO|stars_2
+279966|Hengdong Business Hotel - Guangzhou|Canton (Guangzhou)|NO|stars_3
+279967|Guangzhou Chuanghui Business Hotel|Canton (Guangzhou)|NO|stars_4
+279970|Nomo Times International YOU Apartment|Canton (Guangzhou)|NO|stars_3
+279973|Yushan Holiday Hotel|Canton (Guangzhou)|NO|stars_2.5
+279974|Vienna Hotel Dekang Road Branch|Canton (Guangzhou)|NO|stars_3
+279975|Jiangyue Hotel Changshou Branch|Canton (Guangzhou)|NO|stars_3
+279976|Haiyue|Canton (Guangzhou)|NO|stars_3
+279978|Central International Apartment Guangzhou|Canton (Guangzhou)|NO|stars_3.5
+279979|Yuancun Branch City|Canton (Guangzhou)|NO|stars_2.5
+279980|Yucheng Hotel|Canton (Guangzhou)|NO|stars_4
+279985|Bangtai International Apartment|Canton (Guangzhou)|NO|stars_3.5
+279986|East Coast Hotel|Canton (Guangzhou)|NO|stars_4
+279987|Cedar Hotel|Canton (Guangzhou)|NO|stars_4
+279990|Holiday Villa Hotel & Residence Guangzhou|Canton (Guangzhou)|NO|stars_3
+279992|Blossom Hill Inn Springland|Lijiang|NO|stars_4
+279994|Zen Garden Hotel|Lijiang|NO|stars_3
+279995|Fan'er Ba Boutique Hotel|Lijiang|NO|stars_3.5
+279999|Nanjing Kaibin Apartment-Chengkai YueShi Branch|Nanjing|NO|stars_3
+280000|The Cumberland Boutique|Nanjing|NO|stars_4
+280001|Nanjing Kaibin Apartment-Xinjiekou Branch|Nanjing|NO|stars_3
+280003|Nanjing Grand Haitang Branch|Nanjing|NO|stars_3
+280004|Nanjing Kaibin Apartment-Xinjiekou Kairun Branch|Nanjing|NO|stars_3
+280006|Nanjing Kaibin Apartment-Zhujianglu Muma Branch|Nanjing|NO|stars_3
+280007|Nanjing Kaibin Apartment-Shengtian Plaza Branch|Nanjing|NO|stars_3
+280009|Blossom Hill Inn Zhouzhuang - Seasonland|Suzhou|NO|stars_3.5
+280010|Starway Yi Yun Zhangjiagang Pedestrian Street|Suzhou|NO|stars_3
+280012|Royal Suites and Towers Wuhan|Wuhan|NO|stars_5
+280013|Worldhotel Grand Juna Wuxi|Wuxi|NO|stars_5
+281218|Sheraton Jiaozhou Hotel|Tsingtau (Qingdao)|YES|stars_5
+281219|Grand Metropark Hotel Qingdao|Tsingtau (Qingdao)|NO|stars_4
+281220|Home World Hotel|Shenzhen|NO|stars_4
+281223|Shengang Hotel Apartment ( Lanxigu Branch)|Shenzhen|NO|stars_3
+281224|Shengang Apartment (Taikoo Shing Branch)|Shenzhen|NO|stars_3
+281225|Liangde Hotel Shenzhen|Shenzhen|NO|stars_3
+281226|Norinco Hotel|Shenzhen|NO|stars_3
+281227|Shengang Hotel Apartment (Huanggang Port Branch)|Shenzhen|NO|stars_3
+281229|Shengang Hotel Apartment (Yuhedi Branch)|Shenzhen|NO|stars_3
+281232|Shenzhen You Ran Ju Hotel|Shenzhen|NO|stars_3
+281235|Mission Hills Dongguan|Dongguan|NO|stars_5
+281236|U Hotel|Shenzhen|NO|stars_3.5
+281239|Guang Sheng International Hotel|Shenzhen|NO|stars_3
+281241|Ascott Maillen Shenzhen|Shenzhen|NO|stars_4.5
+281244|Taizi Hotel|Shenzhen|NO|stars_3
+281247|Yuejia Business Hotel|Shenzhen|NO|stars_3
+281251|Modern Classic Hotel|Shenzhen|NO|stars_5
+281255|Shenzhen Kingdom Impression Hotel|Shenzhen|NO|stars_3
+281256|Shenzhen Nanyuewan Hotel|Shenzhen|NO|stars_3
+281258|Zhen Xing Hotel|Shenzhen|NO|stars_2
+281260|Shenzhen Better Hotel|Shenzhen|NO|stars_3
+281261|Super 8 Hotel Diwang Branch|Shenzhen|NO|stars_3
+281263|Mellow Orange Hotel|Shenzhen|NO|stars_3
+281267|Golden Palace Hotel|Shenzhen|NO|stars_3
+281268|Xiangmei Jingjiang Branch|Shenzhen|NO|stars_3
+282115|Sheraton Fuzhou Hotel|Fuzhou|YES|stars_5
+282646|Vienna Hotel Dongguan Houjie Da Dao Branch|Dongguan|NO|stars_2.5
+283088|Renaissance Guiyang Hotel|Guiyang|NO|stars_5
+283090|Harbin Joysome Serviced Apartment|Harbin|NO|stars_3
+283091|Heilongjiang Kunlun|Harbin|NO|stars_4
+283092|Grand Mercure Urumqi Hualing|Urumqi|NO|stars_5
+283093|Novotel Zhengzhou Convention Centre|Zhengzhou|NO|stars_4
+283585|Pan Pacific Ningbo|Ningbo|NO|stars_5
+283586|Howard Johnson Sunshine Plaza Ningbo|Ningbo|YES|stars_4.5
+283587|Nikko Xiamen|Xiamen|NO|stars_5
+283793|Sheraton Qingyuan Lion Lake Resort|Qingyuan|YES|stars_4.5
+283794|Mayland Resort|Qingyuan|NO|stars_5
+283795|Grand Metropark Hotel Violet Swan|Tangshan|NO|stars_4
+283796|Four Points by Sheraton Yangzhou, Hanjiang|Yangzhou|YES|stars_4
+283798|Grand Skylight CIMC Hotel Yangzhou|Yangzhou|YES|stars_4
+283799|Sheraton Yantai Golden Beach Resort|Yantai|YES|stars_5
+284038|Emeishan Hostel C|Leshan|NO|stars_3
+284364|Holiday Inn Shanghai Songjiang|Songjiang|NO|0
+284618|Days Hotel & Suites Zhaozhuang Xingyi Resort|Xingyi|YES|stars_3.5
+286164|Beijing Airport Gold Route Int|Beijing|NO|stars_3.5
+286169|Conrad Beijing|Beijing|NO|stars_5
+286175|Four Seasons Beijing|Beijing|NO|stars_5
+286205|Super 8 Hotel Beijing Cao Qiao|Beijing|YES|stars_0
+286214|Super 8 Huairou Kai Fang Lu|Beijing|YES|stars_0
+286216|Super 8 Hotel Beijing South Railway Station North Square|Beijing|YES|stars_0
+286217|Super 8 Zhong Gua|Beijing|YES|stars_0
+286223|Beijing Dreams Travel Hostel|Beijing|NO|stars_2.5
+286225|Grand Hotel Du Palais Rouge (Lama Temple)|Beijing|NO|stars_3
+286226|Hotel Du Palais Rouge (Bell Tower)|Beijing|NO|stars_3
+286229|Yitel Beijing Wangjing 798|Beijing|NO|stars_3
+286295|Grand Fortune Bay Hotel|Sanya|NO|stars_5
+286826|Yahsin Hotel|Shanghai|YES|stars_0
+286838|Super 8 Hotel Xian Da Yan Ta|Xian|YES|stars_0
+286920|Yangshuo Dongling Resort|Guillin|NO|stars_3
+286923|Golden Eagle Summit Hotel|Kunming|NO|stars_5
+286936|Lead Noble Boutique Hotel|Hangzhou|NO|stars_3.5
+286955|White Horse Lake Jianguo Hotel|Hangzhou|NO|stars_4
+286982|Elite Hotel European Style|Chengdu|NO|stars_4
+286990|Minyoun Suniya International|Chengdu|NO|stars_5
+286993|Oakwood Residence Funder Cheng|Chengdu|YES|stars_0
+287005|Days Hotel and Suites Dianya Chongqing|Chungking (Chongqing)|YES|stars_4
+287006|Days Hotel MingYue|Chungking (Chongqing)|YES|stars_3
+287016|Country Garden Phoenix|Huangshan-Mountains|NO|stars_4
+287037|Hengda Grand Hotel|Canton (Guangzhou)|NO|stars_4
+287045|Li Peng Business Hotel|Canton (Guangzhou)|NO|stars_3
+287056|River Rhythm Grand Hotel|Canton (Guangzhou)|NO|stars_4
+287074|Yitel|Minhang|NO|stars_4
+287079|Dan Executive Apartment Guangzhou|Canton (Guangzhou)|NO|stars_4
+287080|Libo Business Hotel|Canton (Guangzhou)|NO|stars_4
+287118|Four Points by Sheraton Suzhou|Suzhou|YES|stars_4.5
+287121|Ibis Changshu|Suzhou|NO|stars_3
+287132|Worldhotel Grand Dushulake|Suzhou|NO|stars_5
+287914|Wyndham Grand Qingdao|Tsingtau (Qingdao)|NO|stars_5
+287952|The Langham Shenzhen|Shenzhen|NO|stars_5
+287956|Vienna International Shajing|Shenzhen|NO|stars_4
+288274|Indigo Tianjin Haihe|Tianjin|NO|stars_4
+288370|Days Hotel Hotspring FuZhou|Fuzhou|YES|stars_0
+288375|Howard Johnson Changshan Lake Plaza Changle|Fuzhou|YES|stars_0
+289139|Days Hotel And Suites Changsha|Changsha|YES|stars_3
+289155|New Century Resort Joyland|Changzhou|YES|stars_0
+289159|Super 8 Hotel Changzhou Tong Jiang|Changzhou|YES|stars_0
+289219|HJ International Hotel Dongguan|Dongguan|NO|stars_3.5
+289272|Howard Johnson Tianzhu Plaza F|Fuyang|YES|stars_4.5
+289500|Kempinski Guiyang|Guiyang|NO|stars_5
+289508|Inzone Garland Hotel|Jinan|NO|stars_4
+289529|Chinese Rose Garden Hotel|Zhengzhou|NO|stars_4
+289734|Sheraton Hefei Xinzhan Hotel|Hefei|YES|stars_0
+289740|The Westin Hefei Baohe|Hefei|YES|stars_0
+289788|Cixi Dapengshan Resort Hotel|Ningbo|NO|stars_4.5
+289791|Howard Johnson Ifc Plaza Ningbo|Ningbo|YES|stars_5
+289799|The Westin Ningbo|Ningbo|YES|stars_5
+289805|Dh And Suites Mingfa Xiamen|Xiamen|YES|stars_4
+289810|Kempinski Xiamen|Xiamen|NO|stars_5
+289813|The Greenway Grand Hotel Cityc|Xiamen|NO|stars_3.5
+289939|Crowne Plaza LANZHOU|Lanzhou|NO|stars_4
+289940|Lanzhou Lanyuan Jianguo Hotel|Lanzhou|NO|stars_4
+289948|Bang Sheng Business Hotel|Nanning|NO|0
+289954|Ming Yuan Business Hotel|Nanning|NO|stars_3.5
+289955|New Cozy Harbour Hotel|Nanning|NO|stars_4
+289957|Ibis Xichang Hangtian|Xichang|NO|stars_3
+290067|Howard Johnson Business Club Hotel Shaoxing|Shaoxing|YES|stars_4.5
+290072|Super 8 Hotel Weihai Wai Tan|Weihai|NO|stars_2
+290094|Star City|Zhuhai|NO|stars_4
+290170|City Inn Qinghui Shunde|Foshan|NO|0
+290171|Marco Polo Lingnan Tiandi Foshan|Foshan|NO|stars_5
+290381|Pullman Anshan Time Square|Anshan|NO|stars_4
+290388|Manhaway International Hotel|Daqing|NO|stars_4
+290389|Sheraton Daqing Hotel|Daqing|YES|stars_0
+290392|DoubleTree by Hilton Hotel Qinghai - Golmud|Golmud|NO|stars_4.5
+290416|Sheraton Jinzhou Hotel|Jinzhou|YES|stars_5
+290420|Super 8 Hotel Langfang San Da J|Langfang|YES|stars_0
+290427|Holiday Inn Nanyang|Nanyang|NO|stars_3
+290430|Shangrila Hotel Manzhouli|Qiqihar|NO|stars_5
+290434|Jinding Hotel Luxury|Wenzhou|NO|stars_4
+290445|Crowne Plaza Zhenjiang|Zhenjiang|NO|stars_4
+290449|Sheraton Zhenjiang Hotel|Zhenjiang|YES|stars_5
+290451|Super 8 Zibo Tong Qian|Zibo|YES|stars_0
+290735|Sheraton Changbaishan Resort|Baishan|YES|stars_0
+290751|Ramada Plaza|Weifang|NO|stars_4
+290752|Ibis Weifang Jinsha Square Hotel|Weifang|NO|stars_3
+290754|Super 8 Hotel Weifang Sheng Ha|Weifang|YES|stars_0
+290911|Super 8 Anyang Hong Qi Road|Anyang|YES|stars_0
+290912|Holiday Inn Resort Chaohu Hot Spring|Chaohu|NO|stars_4
+291335|Peoples Grand|Yulin|NO|stars_4
+292452|Super 8 Beijing Shunyi Bo Lian|Beijing|YES|stars_0
+292639|Ruier Daisi|Chungking (Chongqing)|YES|stars_0
+295444|Tian Xi|Canton (Guangzhou)|NO|stars_3
+295576|The New Pearl River Shore Apartment|Canton (Guangzhou)|NO|stars_3.5
+295645|Landmark International Science City|Canton (Guangzhou)|NO|stars_4
+295680|Four Points by Sheraton Tai'an|Tai'an|YES|stars_4
+296227|Hyatt Regency Chongqing|Chungking (Chongqing)|NO|stars_5
+296230|InterContinental Chengdu Global Center|Chengdu|NO|stars_5
+296232|InterContinental Sancha Lake|Ziyang|NO|stars_4.5
+296235|InterContinental Heilong Lake|Meishan|NO|stars_4.5
+296236|Holiday Inn Panjin Aqua City|Panjin|NO|stars_4
+296237|Crowne Plaza Tianjin Jinnan|Tianjin|NO|stars_4
+296239|Crowne Plaza Hailing Island|Yangjiang|NO|stars_4
+296241|Vertical City Hotel Guangzhou|Canton (Guangzhou)|NO|stars_4
+296243|Tonino Lamborghini Boutiquehotel|Suzhou|NO|stars_5
+296649|Mandarin Oriental Pudong|Shanghai|NO|stars_5
+297118|China Club Beijing|Beijing|NO|stars_4
+297120|Red Capital Ranch / Shambhala at the Great Wall|Beijing|NO|stars_3
+297529|Banyan Tree Shanghai On The Bund|Shanghai|NO|stars_5
+299818|Brilliant Resort And Spa Chongqing|Chungking (Chongqing)|NO|stars_5
+300657|Prince Hotel Shenzhen|Shenzhen|NO|stars_3
+300658|Fudu Qingfeng Garden|Changzhou|NO|stars_5
+300703|Beifang Langyue|Beijing|NO|stars_3
+300840|Grand Hotel Qinhuang|Qinhuangdao|NO|stars_5
+300843|Ztg Grand Hotel Airport Hangzhou|Hangzhou|NO|stars_4
+301120|Minshan Yuanlin Grand Hotel|Chungking (Chongqing)|NO|stars_3.5
+301121|Xin Zhi Shang Business Apartment|Chungking (Chongqing)|NO|stars_3
+301122|Days Hotel & Suites St. Jack Resort|Chungking (Chongqing)|YES|stars_4.5
+301129|Tavernew|Canton (Guangzhou)|NO|stars_3
+301135|Jinjiang Inn Shanghai Jiading Chengzhong Road|Shanghai|NO|stars_2.5
+301136|Jinjiang Inn Shanghai Nanxiang|Shanghai|NO|stars_2.5
+301141|Sheng Du International|Shandong|NO|stars_5
+301161|Super 8 Hotel Qingdao Shan Ning|Tsingtau (Qingdao)|NO|stars_2
+301163|Serenity Marina|Sanya|NO|stars_4
+301164|The Royal Begonia|Sanya|YES|stars_5
+301170|GDH Inn (Shenzhen Huahai)|Shenzhen|NO|stars_3
+301173|ZZZ|Shenzhen|NO|stars_3
+301174|Jisheng Hotel Shenzhen (Longgang Branch)|Shenzhen|NO|stars_3
+301177|Chongqing Hengda|Chungking (Chongqing)|NO|stars_4.5
+301186|Chongqing Safari Park River & Holiday Hotel|Chungking (Chongqing)|NO|stars_4
+301187|Angsana Fuxian Lake|Chengjiang|NO|stars_5
+301204|Jinjiang Inn Zhoukou Huanghe Road|Zhoukou|NO|stars_3
+301423|Ibis Chengdu Hongxing Road|Chengdu|NO|stars_3
+301424|Ibis Chongqing Ranjiaba|Chungking (Chongqing)|NO|stars_3
+301429|Pullman Linyi Lushang|Linyi|NO|stars_4
+301430|Ibis Ningbo Qianhu|Ningbo|NO|stars_3
+301433|Pullman Wuxi New Lake|Wuxi|NO|stars_4
+301525|Golden Richard|Shanghai|NO|stars_4
+301561|Kapok Shenzhen Bay|Shenzhen|NO|stars_4
+302209|Sheraton Sanya Haitang Bay Resort|Sanya|YES|stars_0
+302609|Grand Lisboa|Macao (Macau)|NO|stars_5
+310814|Four Points by Sheraton Guangdong, Heshan|Heshan|YES|stars_0
+310815|Four Points by Sheraton Langfang|Langfang|YES|stars_3.5
+310816|Four Points by Sheraton Taizhou|Taizhou|YES|stars_4.5
+310818|Sheraton Jingyuetan|Changchun|YES|stars_4.5
+310819|Sheraton Shanghai Waigaoqiao|Shanghai|YES|stars_5
+310820|Sheraton Shenzhou Peninsula Resort|Wanning|YES|stars_0
+310828|The Westin Changbaishan Resort|Baishan|YES|stars_0
+310829|Twelve at Hengshan|Shanghai|YES|stars_5
+310830|W Guangzhou|Canton (Guangzhou)|YES|stars_5
+311078|East Beijing|Beijing|NO|stars_5
+321488|Wenjun Mansion Hotel|Chengdu|NO|stars_3
+321632|Home Hotel (Guangzhou Yuexiu)|Canton (Guangzhou)|NO|stars_2
+324611|Huiheju Hotel|Tsingtau (Qingdao)|NO|stars_3
+329353|Welcome Inn|Nanchang|NO|stars_4
+333942|Wuyuan Qinghuawu International Hotel|Shangrao|NO|stars_4
+354475|Tangram Hotel Xinyuanli|Beijing|YES|stars_4
+363301|Haitang Bay Gloria Sanya Hotspring Resort|Sanya|NO|stars_5
+363599|Shangri-La Changzhou|Changzhou|NO|stars_5
+363600|Hyatt Regency Qingdao|Tsingtau (Qingdao)|NO|stars_4
+363601|Radisson Blu Resort Wetland Park Wuxi|Wuxi|NO|stars_5
+363602|Kempinski Hotel Chongqing|Chungking (Chongqing)|NO|stars_5
+363709|China Old Story Inns of Dali|Dali|NO|stars_3
+363801|Wanda Vista|Taiyuan|NO|stars_5
+363860|Tangla Hotels Resorts International|Tianjin|NO|stars_5
+365212|Mandarin Oriental Guangzhou|Canton (Guangzhou)|NO|stars_5
+365256|Ascott IFC|Canton (Guangzhou)|NO|stars_5
+365372|Le Méridien Yixing|Yixing|YES|stars_5
+365373|Sheraton Qinhuangdao Beidaihe|Qinhuangdao|YES|stars_0
+365375|Sheraton Shenyang South City|Shenyang|YES|stars_4.5
+365495|Hotel Maximilian|Beijing|NO|stars_4
+366692|Vanburgh Guangzhou|Canton (Guangzhou)|NO|stars_5
+366712|Days Hotel Suites Yangjiang|Yangjiang|YES|stars_2.5
+366713|Eaton Luxe Xinqiao|Shanghai|NO|stars_5
+367947|Kingrand Hotel|Beijing|NO|stars_5
+367949|Marriott Exec Apts Imperial Ma|Beijing|NO|stars_5
+367952|New World Beijing|Beijing|NO|stars_5
+367954|Rosewood Beijing|Beijing|NO|stars_5
+367955|S8 Hotel Beijing Miyun Gu Lou|Beijing|YES|stars_0
+367961|Super 8 Beijing Changping|Beijing|YES|stars_0
+367964|Super 8 Lai Guan|Beijing|NO|stars_2
+368017|Doubletree Hainan Qixianling|Sanya|NO|0
+368023|Raffles Hainan|Sanya|NO|stars_5
+368024|Ramada Plaza Sanya|Sanya|NO|stars_4
+368026|Westin Sanya Haig Bay Resort|Sanya|YES|stars_0
+368028|Doubletree Haikou Meilan|Haikou|NO|stars_4
+368030|Shangri-la Hotel Haikou|Haikou|NO|stars_5
+368508|Furama Xpress Hotel|Shanghai|NO|0
+368509|Gardenview Hotel|Shanghai|NO|stars_4
+368514|Jintuo Business|Shanghai|NO|stars_3
+368523|Renaissance Caohejing Shanghai|Shanghai|NO|stars_5
+368524|Royal Tulip Zhujiajiao|Shanghai|NO|stars_5
+368527|Shanghai Holland|Shanghai|NO|stars_4
+368528|Shanghai Marriott Pudong East|Shanghai|NO|stars_5
+368536|Wh Ming Hotel|Shanghai|NO|stars_5
+368600|Ramada Kunming North|Kunming|NO|stars_3.5
+368601|Wyndham Grand Plaza Royale Colorful Yunnan Kunming|Kunming|NO|stars_4
+368602|Doubletree By Hilton Hangzhou East|Hangzhou|NO|stars_4
+368605|Pins De La Brume|Hangzhou|NO|stars_5
+368607|South China Harbor View Hotel|Hangzhou|NO|stars_4
+368621|Dorsett Grand Chengdu|Chengdu|NO|stars_5
+368631|Ramada Chengdu North|Chengdu|NO|stars_4
+368635|Sofis Jin Yuan Hotel|Chengdu|NO|stars_4
+368646|Doubletree By Hilton Chongqing Wanzhou|Chungking (Chongqing)|NO|stars_4
+368652|Ramada Plaza Chongqing Banan|Chungking (Chongqing)|NO|stars_4
+368653|Rd Blu Chongqing Sha Ping Ba|Chungking (Chongqing)|NO|stars_5
+368655|Westin Chongqing Liberation Square|Chungking (Chongqing)|YES|stars_5
+368658|Howard Johnson Macrolink Plaza Huangshan|Huangshan-Mountains|YES|stars_3
+368663|Doubletree By Hilton Guangzhou|Canton (Guangzhou)|NO|stars_4
+368664|Fraser Suites Guangzhou|Canton (Guangzhou)|NO|stars_5
+368670|Guangzhou Clayton Hotel|Canton (Guangzhou)|NO|stars_4
+368675|Ibis Guangzhou Gdd|Canton (Guangzhou)|NO|stars_3
+368682|Pearl River International Hotel|Canton (Guangzhou)|NO|stars_4
+368683|Poly World Trading Center Hotel Apartmen|Canton (Guangzhou)|NO|stars_4.5
+368691|Super8 Hotel Guangzhou Huangpu|Canton (Guangzhou)|YES|stars_0
+368703|Nanjing Dingye New Century Hotel|Nanjing|YES|stars_0
+368710|Super8 Hotel Nanjing South Rai|Nanjing|YES|stars_2
+368711|Doubletree By Hilton Suzhou Anhui|Suzhou|NO|stars_3.5
+368718|Ramada Suzhou Luzhi|Suzhou|NO|stars_4
+368724|Hilton Wuhan Optics Valley|Wuhan|NO|stars_4
+368726|New Beacon Luguang Intl Hotel|Wuhan|NO|stars_4
+368728|Royal Grace Hotel Optics Valley|Wuhan|NO|stars_4
+368729|Somerset Wusheng Wuhan|Wuhan|NO|stars_4
+368730|Super8 Hotel Wuhan Xudong Xiao|Wuhan|YES|stars_0
+368733|Jurong Yukun New Century Hotel|Wuxi|YES|stars_5
+369246|Four Points Qingdao Jiaonan|Tsingtau (Qingdao)|NO|stars_3.5
+369247|Hilton Qindao Golden Beach|Tsingtau (Qingdao)|NO|stars_4
+369254|Four Seasons Shenzhen|Shenzhen|NO|stars_5
+369255|Hilton Shenzhen Shekou Nanhai|Shenzhen|NO|stars_4
+369258|Marriott Exec Apts Oct Harbour|Shenzhen|NO|stars_3.5
+369260|Oriental Shine Hotel|Shenzhen|NO|stars_3.5
+369261|The Art Hotel|Shenzhen|NO|stars_3.5
+369262|Vienna Hotel Shuanglong Subway Station|Shenzhen|NO|stars_4
+369263|Grand Hyatt Shenyang|Shenyang|NO|stars_4
+369265|Shangri La Shenyang|Shenyang|NO|stars_5
+369266|Shenyang Haiyun International|Shenyang|NO|stars_5
+369508|Banyan Tree Tianjin Riverside|Tianjin|NO|stars_5
+369609|Days Hotel Dawn Fuzhou|Fuzhou|YES|stars_2
+369610|Days Tengshan Fujian|Fuzhou|YES|stars_2.5
+370163|Beihai Guanling Resort Hotel|Beihai|NO|stars_4
+370234|Bolt Hotel|Dalian|NO|stars_4
+370508|Hilton Zhengzhou|Zhengzhou|NO|stars_3.5
+370509|Le Meridien Zhengzhou-henan|Zhengzhou|NO|stars_5
+370684|Ramada Plaza Xishuangbanna|Xishuangbanna|NO|stars_4.5
+370733|Howard Johnson Shipu Plaza Nin|Ningbo|NO|stars_4
+370736|Riviera Hotel Ningbo|Ningbo|NO|stars_4.5
+370825|Days Hotel Lu An Taiyuan|Taiyuan|YES|stars_0
+370871|Grand Soluxe International|Nanning|NO|stars_4
+370872|Nanning Win Win Hotel|Nanning|NO|stars_5
+370879|Howard Johnson Minmetals Plaza - Yingkou|Yingkou|YES|stars_4
+370994|Days Hotel Siping|Jilin|YES|stars_3
+371019|Shangri La|Yangzhou|NO|stars_5
+371027|Hilton Zhongshan Downtown|Zhongshan|NO|stars_4
+371066|Days Hotel Huanan|Foshan|YES|stars_3
+371067|Hilton Foshan|Foshan|NO|stars_4
+371239|Ramada Plaza Qiandeng Kunshan|Kunshan|NO|stars_3
+371240|Tonino Lamborghini City Center Hotel|Kunshan|NO|stars_5
+371245|Shangri La Hotel Qufu|Qufu|NO|stars_5
+371472|Cosmic Guangdong International Hotel|Nantong|NO|stars_4
+371473|Days Inn Qi Xiu|Nantong|NO|stars_2
+371480|Doubletree By Hilton Wuhu|Wuhu|NO|stars_4
+371486|Doubletree By Hilton Jiaxing|Jiaxing|NO|stars_4
+371521|Country Garden Phoenix Luxury|Anqing|NO|stars_4
+371525|Ramada Longyan|Longyan|NO|stars_4
+371554|Crowne Plaza Xuzhou Dalong Lake|Xuzhou|NO|stars_4
+371557|Sheraton Huzhou Hot Spring Rst|Huzhou|YES|stars_5
+371561|Wanda Realm Ningde|Ningde|NO|stars_4
+371850|Wanda Realm Huaian|Huai'an|NO|stars_5
+371852|Depo Hotel International|Putian|NO|stars_4.5
+371853|DoubleTree by Hilton Hotel Putian|Putian|NO|stars_4.5
+371861|Jia He International Hotel|Yulin|NO|stars_4
+375264|Tailong Hotel - Beijing|Beijing|NO|stars_2
+375286|Wahaha Hotel - Beijing|Beijing|NO|stars_3
+375362|Palace International|Beijing|NO|stars_5
+375370|Yi Fa North Hotel - Beijing|Beijing|NO|stars_3
+375452|Beijing Hyde Courtyard Hotel|Beijing|NO|stars_3
+375462|Beijing Willow Hotel Guang'anmen|Beijing|NO|stars_3
+375506|Super 8 Hotel Beijing Ju Feng|Beijing|YES|stars_0
+375599|Sun Serviced Apartments Huamao - Beijing|Beijing|NO|stars_3
+375600|Mayson Beijing CBD Guomao Serviced Apartments|Beijing|NO|stars_3
+375613|Shanshui Trends Fangzhuang|Beijing|NO|stars_3
+375682|Green Tree Miyun Xinzhong Street|Beijing|NO|stars_2.5
+376090|Heaven 18 Degrees Blue Holiday Apartment|Sanya|NO|0
+377735|Lian Bang Hotel - Shanghai|Shanghai|NO|stars_3
+377739|Olympic Xujiahui|Shanghai|NO|stars_3.5
+377758|New Space International Hotel|Shanghai|NO|stars_2.5
+377759|Xinshikong Apartments Abest Zhongshan Pa|Shanghai|NO|stars_3
+377760|Mayson Shanghai Serviced Apartment Zhong|Shanghai|NO|stars_3
+377799|Genting Star Dabaishu|Shanghai|NO|stars_3
+377805|GreenTree Inn Shanghai Changyang Road Business Hotel|Shanghai|NO|stars_2.5
+377873|Donghu Service Apartment|Shanghai|NO|stars_3
+377919|Sweet Home Hotel - Shanghai|Shanghai|NO|stars_3
+377922|Motel 168 Hongqiao Hub|Shanghai|NO|stars_2
+377973|Nanjiao Hotel - Shanghai|Shanghai|NO|stars_4
+378123|Hotel New|Xian|NO|stars_4
+378149|Ruifeng Yueke Xi'an|Xian|NO|stars_3.5
+378296|Haili Binya Hotel - Kunming|Kunming|NO|stars_4
+378345|Super 8 Hotel Hangzhou Ping Hai Lu|Hangzhou|YES|stars_0
+378360|Likai|Hangzhou|NO|stars_2
+378576|Xiaoshan Hanma Holiday Inn - Hangzhou|Hangzhou|NO|stars_4
+378652|Chengdu Jaho Yuetmei Hotel|Chengdu|NO|stars_4
+379096|She He Hotel Apartment-Wells Apartment|Canton (Guangzhou)|NO|stars_4
+379098|Private-Enjoyed Home Apartment Wales Apa|Canton (Guangzhou)|NO|stars_4
+379126|Yuebei Business Hotel - Guangzhou|Canton (Guangzhou)|NO|stars_3
+379137|Private-Enjoyed Home Apartment Time U|Canton (Guangzhou)|NO|stars_3
+379208|Jia He|Canton (Guangzhou)|NO|stars_3
+379244|F-H Hotel Wills Branch|Canton (Guangzhou)|NO|stars_4
+379262|Hui Ao Hotel|Canton (Guangzhou)|NO|stars_3
+379312|Vienna Hotel Chimelong Park|Canton (Guangzhou)|NO|stars_3
+379864|Wuhan Junyi Dynasty Hotel|Wuhan|NO|stars_4
+379889|Country Garden Phoenix Luxury|Wuhan|NO|stars_4.5
+381660|Qingdao Long Jia Hotel - Qingdao|Tsingtau (Qingdao)|NO|stars_2.5
+381701|Shangcheng Mingliu Holiday Hotel|Tsingtau (Qingdao)|NO|stars_3
+381741|Haitian Sports Center Hotel|Tsingtau (Qingdao)|NO|stars_4
+381762|Qingdao Home Inn - Yan'an Third Road|Tsingtau (Qingdao)|NO|stars_3
+381812|Han Yuan Hotel - Qingdao|Tsingtau (Qingdao)|NO|stars_3
+381830|Hanting Inn Jingangshan Road - Qingdao|Tsingtau (Qingdao)|NO|stars_3
+381835|Liheyuan Hotel - Qingdao|Tsingtau (Qingdao)|NO|stars_3
+381851|Sentosa Hotel - Shenzhen|Shenzhen|NO|stars_3.5
+381947|South China Harbour View Hotel|Shenzhen|NO|stars_4
+381965|Victor|Shenzhen|NO|stars_4
+382065|Grand Metropark|Shenyang|NO|stars_5
+384094|Harbour Plaza Deluxe Serviced Apartments|Dalian|NO|stars_3.5
+384095|Jinbai International|Dalian|NO|stars_3
+384104|Spring Hotel|Dalian|NO|stars_4
+384298|Fuyang International Trade Center Hotel|Fuyang|NO|stars_4.5
+384747|Regal Poly Guiyang Hotel|Guiyang|NO|stars_5
+384929|Bintuan Grand Hotel - Urumqi|Urumqi|NO|stars_4
+385319|Ssaw Hotel Nanchang|Nanchang|NO|stars_4
+385410|Green Tree Inn Hefei Science Avennue Bus|Hefei|NO|stars_2.5
+385636|Green Tree Inn Xiamen University Busines|Xiamen|NO|stars_2.5
+385740|Xiamen Qicai Linglongge Family Inn|Xiamen|NO|stars_3
+385744|Rainbow Hotel - Xiamen|Xiamen|NO|stars_3
+385762|Jinjiang Inn Central Xiamen Songbai|Xiamen|NO|stars_2
+385777|Coco Boutique|Xiamen|NO|stars_4
+385787|City Boutique Hotel Lotus South Road - X|Xiamen|NO|stars_3.5
+386287|Diamond International Hotel|Nanning|NO|stars_3
+386500|Howard Johnson Parkview Plaza|Ordos|YES|stars_4.5
+386630|Reader Hotel - Taian|Tai'an|NO|stars_3
+387115|Shengshi Huaxia International|Dujiangyan|NO|stars_4
+387174|Tianrun Hotel|Jinhua|NO|stars_3
+387208|Xin Ao Golden Elephant Hotel - Langfang|Langfang|NO|stars_4
+387766|Polka Hotel - Wuhu|Wuhu|NO|stars_4
+387813|Seaview Hotel|Jiaxing|NO|stars_5
+387930|Jinma International Hotel - Jinjiang|Jinjiang|NO|stars_4
+387953|Regalia Resorts - Spa|Shangri-La|NO|stars_4
+388211|Milan|Huzhou|NO|stars_3
+388273|Double-Dove Peace International Hotel|Linhai|NO|stars_4
+388275|Xierdun . Sweet Family Garden|Lishui|NO|stars_3
+388425|Jian Ming International Hotel - Shishi|Shishi|NO|stars_4
+388710|Anyang Booking Upon Request, Hrs Will Co|Anyang|NO|stars_3.5
+389095|Chuzhou International Hotel - Chuzhou|Chuzhou|NO|stars_3
+389208|Blue Horizon Xinyue|Dongying|NO|stars_4
+389239|Hangzhou Bay International Hotel - Haiya|Haiyan|NO|stars_4
+389267|The Winners Palace|Jinzhong|NO|stars_4
+389282|Manzhouli International Hotel - Manzhoul|Manjur|NO|stars_3
+389306|Jingdu International|Shangrao|NO|stars_3.5
+389311|Jiangshan Hotel - Suqian|Suqian|NO|stars_3.5
+389327|Greentown Landison Hotel - Xinchang|Xinchang|NO|stars_5
+390622|Hai Yuan Hotel - Shuozhou|Shuozhou|NO|stars_3
+390647|Jinling Wanxi Hotel|Lu?an|NO|stars_5
+390686|Junyuan Huatian|Huaihua|NO|stars_4
+390710|King House Hotel - Dazhou|Dazhou|NO|stars_3
+391258|Ascott Raffles City Chengdu|Chengdu|NO|stars_5
+391260|Ascott Midtown Suzhou|Suzhou|NO|stars_5
+391314|Yanqi Lake Kempinski Hotel|Beijing|NO|stars_5
+391318|Langham Place Guangzhou|Canton (Guangzhou)|NO|stars_5
+391320|Langham Place Xiamen|Xiamen|NO|stars_5
+391324|Mövenpick Hotel Enshi|Enshi|NO|stars_4
+391328|Millennium Fuqing|Fuqing|NO|stars_4
+391355|Pullman Shanghai South|Shanghai|NO|stars_5
+391542|Waldorf Astoria Beijing|Beijing|NO|stars_5
+391551|Aloft Dalian|Dalian|YES|stars_4
+391621|InterContinental Fuzhou|Fuzhou|NO|stars_4
+391622|InterContinental Kunming|Kunming|NO|stars_5
+391623|InterContinental Sanya Haitang Bay Resort|Sanya|NO|stars_4
+391643|The Castle|Dalian|YES|stars_0
+391735|The Ritz-Carlton Chengdu|Chengdu|NO|stars_5
+391736|The Ritz-Carlton Tianjin|Tianjin|NO|stars_5
+392348|Hilton Nanjing|Nanjing|NO|stars_5
+399664|Hilton Garden Inn Shenzhen Bao'an|Shenzhen|NO|stars_3
+399734|Hilton Shijiazhuang|Shijiazhuang|NO|stars_4
+400908|Hotel Éclat Beijing|Beijing|NO|stars_5
+400909|Modena New District Wuxi|Wuxi|NO|stars_4
+400921|Cavan Hotel|Canton (Guangzhou)|NO|stars_4.5
+401448|Jing An Shangri-La West Shanghai|Shanghai|NO|stars_5
+401553|Mercure Chengdu North|Chengdu|NO|stars_4
+402660|Hilton Changzhou|Changzhou|NO|stars_4
+403306|Holiday Inn Shanghai Hongqiao|Shanghai|NO|stars_4
+405177|Four Points by Sheraton Hefei|Hefei|YES|stars_0
+405178|Sheraton Bailuhu Resort|Huizhou|YES|stars_5
+405179|Sheraton Langfang Chaobai River Hotel|Langfang|YES|stars_0
+405180|Sheraton Qingdao Licang Hotel|Tsingtau (Qingdao)|YES|stars_4.5
+405181|Sheraton Shantou Hotel|Shantou|YES|stars_5
+406120|Hyatt Regency Suzhou|Suzhou|NO|stars_5
+406121|Hyatt Regency Tianjin East|Tianjin|NO|stars_5
+406122|Park Hyatt Changbaishan|Baishan|NO|stars_4
+406613|ibis Styles Changbaishan Wanda|Baishan|NO|stars_2.5
+406614|Grand Mercure Beijing Dongcheng|Beijing|YES|stars_4
+406628|Pullman Weifang Wanda|Weifang|NO|stars_4
+406844|Holiday Inn Express Beijing Yizhuang|Beijing|NO|stars_3
+406872|Shanshui Trends Hotel Tianzhu|Beijing|NO|stars_3
+406883|Super 8 Beijing Tongzhou Jiukeshu|Beijing|YES|stars_0
+406924|Chengdu Minyoun Royal Hotel|Chengdu|NO|stars_5
+406937|Crowne Plaza Chengdu West|Chengdu|NO|stars_4
+406949|Howard Johnson Hi-tech Plaza Chengdu|Chengdu|YES|stars_4
+406963|Leeden Hotel Chengdu|Chengdu|NO|stars_4
+406964|Liyuanxiang Liyage Hotel|Chengdu|NO|stars_4
+407026|Ramada Changzhou|Changzhou|NO|stars_3.5
+407027|Ramada Changzhou North|Changzhou|NO|stars_3.5
+407243|Holiday Inn Resort Beijing Yanqing|Beijing|NO|stars_4
+407246|Howard Johnson Nanshan Plaza Bengbu|Bengbu|YES|stars_4
+407270|Howard Johnson Puhui Plaza|Chungking (Chongqing)|YES|stars_3.5
+407281|Yitel Hotel Dalian|Dalian|NO|stars_4
+407283|Chaptel|Hangzhou|NO|stars_5
+407291|Wanda Realm Harbin|Heyuan|NO|stars_4
+407426|Euro Garden Hotel|Canton (Guangzhou)|NO|stars_4
+407432|Haili Garden Hotel Guangzhou|Canton (Guangzhou)|NO|stars_4
+407514|Days Hotel & Suites China Town Changsha|Changsha|YES|stars_0
+407612|Foshan Kinson Hotel|Foshan|NO|stars_3
+407660|GreenTree Inn Jiangsu Changzhou Liyang Pingling Square Business Hotel|Liyang|NO|stars_3
+408017|Fx Hotel Shanghai At Liuying Road|Shanghai|NO|stars_3
+408075|G luxe Hongqiao Shanghai|Shanghai|NO|stars_4.5
+408080|Kaiyuan Sanli New Century Grand Hotel Zhejiang|Hangzhou|NO|stars_4
+408120|The Yihe Mansions|Nanjing|NO|stars_5
+408289|Inner Mongolia Jin Jiang International Hotel|Hohhot|NO|stars_5
+408310|Jianguo Hotel|Ningbo|NO|stars_5
+408349|Dibai 7 Star Hotel Nanning|Nanning|NO|stars_7
+408540|Hanting Hongqiao Airport 2nd Shanghai|Minhang|NO|stars_3
+408840|Howard Johnson Agile Plaza Chengdu|Chengdu|YES|stars_0
+408848|Wyndham Foshan Shunde|Foshan|YES|stars_0
+408861|Super 8 Hotel Hefei Dong Yi Huan|Hefei|YES|stars_0
+408872|Wyndham Kunming Resort|Kunming|YES|stars_4
+408877|Super 8 Hotel Lianyungang Hai Bin Yu Chang Zhongshanlu|Lianyungang|YES|stars_0
+408882|Super 8 hotel Liaocheng Dong Chang Xi Lu|Liaocheng|YES|stars_0
+408889|Holiday Inn Qingdao Expo|Tsingtau (Qingdao)|NO|stars_4
+408891|Howard Johnson Kangda Plaza Qingdao|Tsingtau (Qingdao)|YES|stars_5
+408893|The Westin Qingdao|Tsingtau (Qingdao)|NO|stars_5
+408899|Shanghai Hongqiao Airport Hotel Air China|Shanghai|NO|stars_5
+408900|Crowne Plaza Shanghai Noah Square|Shanghai|NO|stars_4.5
+408904|Crowne Plaza Shaoxing|Shaoxing|NO|stars_4
+408907|Days Hotel & Suites Shimei Bay|Wanning|YES|stars_0
+408909|Days Hotel & Suites Shuozhou|Shuozhou|YES|stars_0
+408915|Wanda Vista Tianjin|Tianjin|NO|stars_5
+408923|Days Hotel Hualing Wuhan|Wuhan|YES|stars_4
+408936|Howard Johnson Domando Plaza Wulanchabu|Ulanqab (Wulanchabu)|YES|stars_0
+409814|Grand Skylight International Hotel Guiyang|Guiyang|NO|stars_5
+409829|Yiwu Yourworld International Conference Centre|Yiwu|NO|stars_5
+410085|Mission Hills Resort Haikou|Haikou|NO|stars_5
+410706|La Perle International Hotel|Canton (Guangzhou)|NO|stars_5
+410771|The PuYu Hotel And Spa|Wuhan|NO|stars_5
+410783|Swiss Belhotel Liyuan Wuxi|Wuxi|NO|stars_5
+411765|Crowne Plaza Beijing Lido|Beijing|NO|stars_4.5
+411772|The St. Regis Chengdu|Chengdu|NO|stars_5
+411773|Shangri La Hotel Tianjin|Tianjin|NO|stars_5
+411774|Gran Melia Hotel Xian|Xian|NO|stars_5
+411951|DoubleTree by Hilton Hotel Guangzhou Science City|Canton (Guangzhou)|NO|stars_4
+412018|DoubleTree by Hilton Hotel Heyuan|Heyuan|NO|stars_5
+412039|Hilton Wenchang|Qionghai|NO|0
+412172|The Westin Blue Bay Resort|Lingshui|YES|stars_0
+412174|The Westin Zhujiajian Resort|Zhoushan|YES|stars_4
+412987|Courtyard Boluo|Huizhou|NO|stars_3.5
+412989|Courtyard Hangzhou Qianjiang|Hangzhou|NO|stars_4
+412990|Haikou Marriott|Haikou|NO|stars_4
+412993|JW Marriott Beijing Central|Beijing|NO|stars_5
+412994|JW Marriott Chongqing City Centre|Chungking (Chongqing)|NO|stars_4
+412996|JW Marriott Zhengzhou|Zhengzhou|NO|stars_4.5
+412998|Renaissance Chengdu|Chengdu|NO|stars_5
+412999|Shanghai Marriott  Parkview|Shanghai|NO|stars_4.5
+413000|Shunde Marriott|Foshan|NO|0
+413435|Crowne Plaza Yiwu Expo|Yiwu|NO|stars_4
+413436|Crowne Plaza Zhangzhou|Zhangzhou|NO|stars_4
+413437|Holiday Inn Express Yangzhou City Center|Yangzhou|NO|stars_3
+413438|Ramada YangZhou BaoYing|Yangzhou|NO|stars_3
+413493|Difu Business Hotel|Shenzhen|NO|stars_3
+413676|Ifc Residence|Shanghai|NO|stars_5
+414045|Pan Pacific Tianjin Hotel|Tianjin|NO|stars_5

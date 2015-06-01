@@ -1,0 +1,1013 @@
+193|Duni Royal Resort - Marina Beach|Djuni (Duni)|NO|stars_4.5
+194|Duni Royal Resort - Pelican|Djuni (Duni)|NO|stars_4
+197|Royal Club Victoria - Elenite Holiday Village|Elenite|YES|stars_3
+199|Balaton|Sunny Beach|NO|stars_2.5
+202|Burgas Beach|Sunny Beach|NO|stars_4
+203|Hrizantema|Sunny Beach|NO|stars_4
+204|Parkhotel Continental / Parkhotel Continental Prima - Parkhotel Continental|Sunny Beach|NO|stars_3
+205|Delta Beach|Sunny Beach|NO|stars_4
+206|Globus|Sunny Beach|YES|stars_4
+209|Kalofer|Sunny Beach|NO|stars_3
+211|Kristal|Golden Sands|YES|stars_4
+212|Kuban|Sunny Beach|YES|stars_3
+214|Palas|Sunny Beach|NO|stars_3
+216|Pomorie Sunny Beach|Sunny Beach|YES|stars_3
+217|Slawianski / Slavyanski|Sunny Beach|YES|stars_3
+218|Chaika Resort - Metropol|Sunny Beach|NO|stars_3
+220|Zefir Beach|Sunny Beach|NO|stars_1
+222|Bor (Pine) & Edelweiss|Borovez|NO|stars_3
+223|Flora Hotel & Apartment|Borovez|NO|stars_4
+224|Borovetz Resort - Yagoda Chalets|Borovez|NO|stars_3
+225|Yastrebets|Borovez|YES|stars_4
+226|Borovetz Resort - Malina Villas|Borovez|NO|stars_3
+227|Grand Hotel Murgavez|Pamporovo|YES|stars_4
+228|Perelik|Pamporovo|YES|stars_3
+229|Prespa|Pamporovo|NO|stars_3
+230|Dolphin|Sveti Konstantin|NO|stars_4
+232|Samokov|Borovez|YES|stars_4
+233|Interhotel Sandanski|Sandanski|NO|stars_4
+234|Ramada Sofia|Sofia|YES|stars_4
+235|Rodina|Sofia|YES|stars_4
+238|Dobrotitza Beach|Albena|NO|stars_3
+239|Dobrudja|Albena|YES|stars_4
+240|Dorostor|Albena|YES|stars_3
+241|Eliza|Albena|NO|stars_3
+242|Kaliakra|Albena|NO|stars_4
+245|Kompass|Albena|YES|stars_3
+247|Mura Beach|Albena|YES|stars_4
+248|Orchidea|Albena|NO|stars_3
+249|Panorama|Albena|YES|stars_3
+252|Warschawa|Albena|NO|0
+253|Ambassador|Golden Sands|NO|stars_3
+254|Astoria Beach|Golden Sands|NO|stars_4
+255|Atlas|Golden Sands|NO|stars_4
+256|Berlin Golden Beach|Golden Sands|YES|stars_4
+258|Glarus|Golden Sands|NO|stars_4
+260|Imperial|Golden Sands|NO|stars_5
+262|Javor/ Yavor|Golden Sands|NO|stars_4
+263|Park Hotel Madara|Golden Sands|NO|stars_4
+264|Mimosa|Golden Sands|NO|stars_4
+267|Nympha Beach|Golden Sands|NO|stars_3
+268|Palma|Golden Sands|YES|stars_4
+269|Preslav|Golden Sands|YES|stars_3
+270|Admiral|Golden Sands|NO|stars_5
+271|Shipka|Golden Sands|NO|stars_3
+272|Slavey|Golden Sands|NO|stars_4
+273|Sorniza|Golden Sands|NO|stars_3
+276|Joliot Curie|Sveti Konstantin|NO|stars_2.5
+277|Koral|Sveti Konstantin|YES|stars_3
+278|Lebed|Sveti Konstantin|YES|stars_4
+279|Sunny Day Resort - Marina|Sveti Konstantin|NO|stars_4
+280|Sunny Day Resort - Mirage|Sveti Konstantin|NO|stars_4
+281|Neptun|Sveti Konstantin|NO|stars_2.5
+282|Sunny Day Resort - Palace|Sveti Konstantin|NO|stars_5
+283|Rossitza|Sveti Konstantin|NO|stars_3
+284|Tschaika|Sveti Konstantin|YES|stars_3
+285|Grand Hotel Varna|Sveti Konstantin|YES|stars_5
+286|Sunny Day Resort - Veronica|Sveti Konstantin|NO|stars_3
+6002|Zornitza|Sunny Beach|NO|stars_3.5
+6003|Kotva|Sunny Beach|NO|stars_3.5
+6930|Villas Magnolia|Albena|NO|stars_3
+6935|Pliska|Golden Sands|NO|stars_3
+6937|Siniger|Golden Sands|NO|stars_2
+6938|Havana Hotel & Casino|Golden Sands|NO|stars_4
+6939|Kamchia Park|Golden Sands|NO|stars_3
+7210|Aktinia|Sunny Beach|YES|stars_3.5
+7679|Komplex Amfibia Beach - Amfibia, Morska Zvezda, Fregata|Sunny Beach|YES|stars_3
+7744|Aneli-S|Bansko|NO|stars_3
+7923|Grifid Arabella|Golden Sands|YES|stars_4
+8117|Resort Astoria & Orel|Sunny Beach|NO|stars_2.5
+8315|Aurora|Sveti Konstantin|NO|stars_4
+8360|Avliga Beach|Sunny Beach|NO|stars_3
+8457|Baikal|Sunny Beach|NO|stars_3
+8527|Bansko|Bansko|NO|stars_4
+9184|Bonita Beach|Golden Sands|NO|stars_1
+9191|Bor|Sunny Beach|NO|stars_4
+9210|Borjana|Albena|NO|stars_3
+11316|Delfin|Sunny Beach|YES|stars_3
+11353|Delta Palace|Sunny Beach|NO|stars_4
+11543|Laguna Park|Sunny Beach|NO|stars_4
+11757|Amelia|Albena|NO|stars_3
+11815|Duni Royal Resort - Holiday Village|Djuni (Duni)|NO|stars_4
+12044|Sveta Elena|Sveti Konstantin|YES|stars_4
+12182|Erma|Golden Sands|NO|stars_2
+12293|Europa|Sunny Beach|YES|stars_3
+12344|Evrika Beach Clubhotel|Sunny Beach|YES|stars_4
+12357|Primasol Sunlight Sunrise|Golden Sands|NO|stars_3
+12780|Flagman|Sozopol|NO|stars_3
+12810|Flora|Nesebar|NO|stars_3
+13241|Glarus Beach|Sunny Beach|NO|stars_3
+13254|Gloria|Sveti Konstantin|NO|stars_3
+13364|Gradina|Golden Sands|YES|stars_3
+13915|Hemus|Sofia|YES|stars_3
+14548|Sentido Golden Star Family & Golden Star|Golden Sands|YES|stars_4
+14552|Royal Bay|Elenite|YES|stars_4
+15047|Regina|Sunny Beach|NO|stars_3
+15187|MPM Kalina Garden|Sunny Beach|YES|stars_4
+15218|Kamelia|Albena|NO|stars_3
+15245|Karlovo|Sunny Beach|NO|stars_3
+15431|Klisura|Sunny Beach|NO|stars_3.5
+15869|Laguna Beach|Albena|YES|stars_4
+15875|Laguna Mare & Laguna Garden - Laguna Mare|Albena|YES|stars_4
+16200|Althea|Albena|YES|stars_3
+16348|Lilia|Golden Sands|YES|stars_4
+16454|Longosa|Sunny Beach|NO|stars_4
+16529|Lotos Beach|Golden Sands|NO|stars_4
+16580|Ljuljak|Golden Sands|NO|stars_3
+16583|Luna|Golden Sands|YES|stars_4
+16704|Mak|Golden Sands|NO|stars_3
+16722|Malibu|Albena|NO|stars_4
+16726|Malina|Golden Sands|YES|stars_2
+16727|Malina|Pamporovo|NO|stars_3
+17401|Grifid Hotel Metropol|Golden Sands|NO|stars_4
+17731|Komplex Amfibia Beach - Morska Zwezda|Sunny Beach|YES|stars_3
+18015|Nona|Albena|NO|stars_3
+18153|Oasis|Albena|NO|stars_3
+18280|Olymp|Sunny Beach|YES|stars_3
+18539|Palma|Kranevo|NO|stars_3
+18582|Pamporovo|Pamporovo|YES|stars_5
+18957|Perla|Golden Sands|YES|stars_3
+18970|Perunika|Golden Sands|YES|stars_3
+19209|Pliska|Sunny Beach|NO|stars_2
+19252|Polyusi|Sunny Beach|YES|stars_3
+19255|Interhotel Pomorie|Pomorie|NO|stars_3
+19845|PrimaSol Ralitsa Superior Aqua Club|Albena|YES|stars_3
+20278|Residenzia Margarita|Trakata|NO|stars_2
+20280|Royal Rio Beach|Golden Sands|NO|stars_3
+20312|Club Calimera Sunny Beach - Zvete|Sunny Beach|NO|stars_4
+20349|Rila|Sunny Beach|NO|stars_2.5
+20350|Rila|Borovez|YES|stars_4
+20421|Gergana Beach|Albena|NO|stars_4
+20454|Slavuna Beach|Albena|NO|stars_3.5
+20640|Russalka|Russalka|NO|stars_2
+20747|Rubin|Sveti Konstantin|YES|stars_4
+20774|Roussalka|Sveti Konstantin|NO|stars_2
+21045|Grand  Sunny Beach|Sunny Beach|YES|stars_4
+21499|Sofia Hotel Balkan, a Luxury Collection Hotel|Sofia|YES|stars_5
+21695|Sirena Beach|Sunny Beach|NO|stars_3
+21767|Snezhanka|Pamporovo|YES|stars_3
+21777|Sofia|Golden Sands|NO|stars_4
+22061|Sredetz|Sunny Beach|NO|stars_3
+22072|St. George|Pomorie|YES|stars_4
+22249|Club Hotel Strandja|Sunny Beach|NO|stars_4
+22432|Svejest|Sunny Beach|NO|stars_2
+23161|Tintjava|Golden Sands|NO|stars_3
+23269|Trakia|Sunny Beach|YES|stars_3
+23415|Chaika Resort - Chaika Beach|Sunny Beach|YES|stars_4
+23439|Tundja|Sunny Beach|YES|stars_2
+23719|Viktoria|Nesebar|YES|stars_3
+23920|Villa List|Sozopol|NO|stars_4
+24209|Vita Park Hotel & Villen Vita Park|Albena|YES|stars_3
+24646|Zlatna Kotva Beach|Golden Sands|NO|stars_3
+24701|Magnolia Garden|Albena|NO|stars_3
+28069|Perla Beach Complex - Perla Plaza|Primorsko|NO|stars_3
+28253|International Casino & Tower Suites|Golden Sands|YES|stars_5
+28256|Dolphin Marina|Sveti Konstantin|YES|stars_4
+28257|Albatros|Sveti Konstantin|NO|stars_3
+28259|Kini Park|Golden Sands|NO|stars_3
+28311|St. Stefan|Nesebar|YES|stars_3
+28699|Magnolia|Albena|YES|stars_3
+28701|Nessebar Beach|Sunny Beach|NO|stars_3
+28702|Bellevue Hotel|Sunny Beach|YES|stars_4
+28704|Riviera Beach|Golden Sands|YES|stars_5
+29223|Hotel.com|Albena|YES|stars_3
+29450|Kavkaz Golden Dune|Sunny Beach|YES|stars_4
+29452|Paradise Beach|Sveti Vlas|YES|stars_4
+29544|Sunny Day Veronika|Sveti Konstantin|NO|stars_3
+29568|Laguna Mare & Laguna Garden - Laguna Garden|Albena|NO|stars_4
+29581|Azurro|Sunny Beach|NO|stars_3
+29616|Ritza|Sveti Konstantin|YES|stars_4
+29618|Palm Beach|Golden Sands|YES|stars_4
+31272|Kaliakra Palace|Golden Sands|NO|stars_4
+32270|Sirius Beach|Sveti Konstantin|YES|stars_4
+32294|Exotica|Golden Sands|YES|stars_3
+32295|Dana Palace Park|Golden Sands|NO|stars_3
+32296|Astoria|Golden Sands|NO|stars_3
+32297|Aquamarine|Sunny Beach|YES|stars_3
+32915|Festa Panorama|Nesebar|YES|stars_4
+32916|Hotel Tiara Beach|Sunny Beach|YES|stars_4
+33322|Berlin Green Park|Golden Sands|YES|stars_4
+33323|Sun Palace|Sunny Beach|NO|stars_4
+34769|Morsko Oko Garden|Golden Sands|NO|stars_4
+34945|Marina Grand Beach|Golden Sands|YES|stars_5
+34946|Viva Club|Golden Sands|YES|stars_4
+34947|Paraiso Beach|Obzor|NO|stars_3
+34948|Luca Helios Beach|Obzor|YES|stars_4
+34949|Riu Helios|Sunny Beach|YES|stars_4
+34950|Victoria Palace|Sunny Beach|YES|stars_4.5
+34951|Alba|Sunny Beach|YES|stars_4
+34952|Martinez|Sozopol|YES|stars_4
+35371|Colosseum|Sunny Beach|YES|stars_4
+35372|Diamond|Sunny Beach|NO|stars_4
+35373|Silver|Golden Sands|NO|stars_3
+35855|Briz|Golden Sands|NO|stars_3
+35856|Warschau|Golden Sands|NO|stars_2
+38277|Strazhite|Bansko|NO|stars_4
+38278|Tanne|Bansko|YES|stars_4
+38279|Finlandia|Pamporovo|YES|stars_4
+39074|Avenue|Sunny Beach|NO|stars_2
+39079|Junona|Sunny Beach|YES|stars_3
+39081|Korona|Sunny Beach|YES|stars_3
+39338|Holiday Park|Golden Sands|YES|stars_4
+39342|Kaliopa|Albena|NO|stars_3
+39352|Panorama|Sveti Konstantin|YES|stars_3
+39490|Sol Luna Bay Resort - Bay / Mare|Obzor|YES|stars_4
+39491|Sol Nessebar Resort - Mare / Bay / Palace|Nesebar|YES|stars_4
+39497|Izola Paradise|Sunny Beach|NO|stars_3
+39498|Mena Palace|Sunny Beach|NO|stars_4
+39499|Sun City|Sunny Beach|YES|stars_3
+39500|Duni Royal Resort - Marina Royal Palace|Djuni (Duni)|YES|stars_5
+39506|Iberostar Sunny Beach Resort|Sunny Beach|YES|stars_4
+39578|Weisse Lagune / White Lagoon|Baltschik|NO|stars_3
+39623|Astera|Golden Sands|NO|stars_4
+39624|Gladiola & Gladiola Star|Golden Sands|NO|stars_3
+39625|Azalia|Sveti Konstantin|NO|stars_4
+39626|Helena Sands|Sunny Beach|YES|stars_5
+39627|Helena Park|Sunny Beach|YES|stars_5
+39628|Dune Residence|Sunny Beach|NO|stars_4
+39629|Sol Marina Palace|Nesebar|YES|stars_4
+39630|Bella Vista Beach Club|Sinemoretz|YES|stars_4
+40245|Flamingo|Albena|YES|stars_4
+40247|Paradise Green Park|Golden Sands|YES|stars_3
+40248|Golden Beach Park|Golden Sands|YES|stars_4
+40250|DIT Orpheus Boutique Hotel|Sunny Beach|NO|stars_3
+40252|Bohemi|Sunny Beach|YES|stars_3
+40253|Juli|Sunny Beach|YES|stars_3
+40254|Sunny Beach Plaza - geschlossen|Sunny Beach|NO|stars_4
+40255|Fiesta Beach & Fiesta M - Fiesta Beach|Sunny Beach|YES|stars_4
+40258|Sofi|Sozopol|NO|stars_3
+40515|Edelweiss|Golden Sands|YES|stars_4
+40516|Elena Hotel|Golden Sands|YES|stars_4
+40517|Royal|Golden Sands|NO|stars_3
+40518|Marvel|Sunny Beach|YES|stars_4
+40519|PrimaSol Sineva - Beach / Park|Sveti Vlas|NO|stars_3
+40523|Sunshine Club Magnolia & Spa|Golden Sands|NO|stars_4
+40597|Wela|Sunny Beach|YES|stars_4
+40599|Bora Bora|Sunny Beach|YES|stars_3
+40600|Carina Beach|Sunny Beach|YES|stars_3
+40602|Hotel Sunny|Sozopol|NO|stars_3
+40670|Hotel Hawaii|Nesebar|NO|stars_3
+40671|Nassi|Sveti Vlas|NO|stars_3
+40672|Consul|Sveti Vlas|NO|stars_3
+40673|Paloma|Sunny Beach|YES|stars_3
+40674|Odessos Park|Golden Sands|YES|stars_4
+40675|Bellevue|Golden Sands|NO|stars_3
+41076|Termal|Golden Sands|NO|stars_3
+41249|Kristal|Sunny Beach|NO|stars_4
+41341|Estreya Palace & Residence|Sveti Konstantin|YES|stars_4
+42264|Trakia Plaza Hotel|Sunny Beach|NO|stars_4
+42287|Reef|Sveti Vlas|NO|stars_3
+46276|Mirage|Burgas|YES|stars_4
+46391|Royal Park|Elenite|YES|stars_4
+46393|Aristo|Nesebar|YES|stars_3
+46403|Amfora beach|Sunny Beach|YES|stars_3
+46404|Capitol|Varna|YES|stars_4
+46408|Gala|Sveti Vlas|YES|stars_4
+46409|Maritza|Plovdiv|YES|stars_4
+46497|Ela|Borovez|NO|stars_3
+46501|Pirin|Bansko|NO|stars_4
+46504|Sv. Nikola|Sandanski|YES|stars_3
+46505|Dvoretsa|Welingrad|YES|stars_5
+46521|Kristel Park|Kranevo|NO|stars_3
+46522|Sirena|Kranevo|NO|stars_3
+46523|Alekta|Varna|NO|stars_3
+46526|Larisa|Sveti Vlas|NO|stars_3
+46529|Dari|Nesebar|NO|stars_3
+46537|Primorsko Club - Bisser|Primorsko|NO|stars_4
+46540|Eos|Kiten|NO|stars_3
+46541|Kontinental|Kiten|NO|stars_3
+47833|Green Park|Kiten|YES|stars_3
+47920|Iglika Palace|Borovez|YES|stars_3
+47921|Victoria|Borovez|YES|stars_3
+47922|Kempinski Grand Arena|Bansko|YES|stars_5
+48177|Riviera|Ravda|YES|stars_3
+48259|Festa Chamkoria|Borovez|YES|stars_4
+48309|Perla Beach Complex - Perla I / Perla Il / Perla III / Perla Plaza|Primorsko|NO|stars_4
+52631|Sunny Holiday|Sunny Beach|NO|stars_3
+53058|Grifid Clubhotel Bolero|Golden Sands|NO|stars_4
+53059|Clubhotel Miramar|Obzor|YES|stars_4
+53329|Perla|Sunny Beach|NO|stars_3
+53330|Caesar Palace Beach|Sveti Vlas|NO|stars_4
+53331|DoubleTree Varna - Golden Sands|Golden Sands|YES|stars_4
+54244|Aqua Azur|Sveti Konstantin|NO|stars_4
+54245|Hotel Atlant|Sveti Konstantin|NO|stars_3
+54246|Melia Grand Hermitage|Golden Sands|YES|stars_5
+54247|Saturn|Sunny Beach|NO|stars_3
+54249|Flamingo|Sunny Beach|YES|stars_4
+54250|Fenix|Sunny Beach|NO|stars_4
+54305|Meridian|Sunny Beach|YES|stars_4
+54306|Imperial|Sunny Beach|YES|stars_4
+54307|Bilyana Beach|Nesebar|YES|stars_4
+54309|Selena Beach|Sozopol|NO|stars_3
+55582|Dahlia Gardens|Golden Sands|NO|stars_3
+55584|Club Calimera Sunny Beach - Rodopi / Zvete|Sunny Beach|NO|stars_4
+55585|Flora Park|Sunny Beach|NO|stars_4
+56892|LTI Neptun Beach|Sunny Beach|YES|stars_4
+57002|Aphrodite|Golden Sands|NO|stars_4
+57004|TUI best FAMILY RIU Helios Bay|Obzor|YES|stars_4
+58359|Primorsko Club - Les Magnolias|Primorsko|YES|stars_4
+59842|Orlov|Albena|YES|stars_3
+59843|Maria Luisa|Sofia|YES|stars_4
+59844|Lion|Sofia|YES|stars_3
+59846|Anthony|Sunny Beach|YES|stars_2
+59847|Mercury|Sunny Beach|NO|stars_4
+60177|Leipzig|Plovdiv|YES|stars_4
+60239|Aqua|Varna|YES|stars_3
+61198|Augusta|Hisar|NO|stars_3
+61201|Ivana Palace|Sunny Beach|YES|stars_3
+61249|Briz2|Varna|NO|stars_3
+61254|Rilavitosha|Sunny Beach|YES|stars_2
+61369|Novotel Plovdiv|Plovdiv|YES|stars_5
+61370|Ambassador|Sofia|YES|stars_4
+61373|Crystal Palace|Sofia|YES|stars_4
+61374|Park Moskva|Sofia|YES|stars_3
+61376|Grand Victoria|Sunny Beach|YES|stars_4
+61377|Downtown|Sofia|YES|stars_4
+61380|Best Western Europe|Sofia|YES|stars_4
+61382|Aurelia|Sunny Beach|YES|stars_3
+61383|Jeravi|Sunny Beach|YES|stars_4
+61386|Plaza|Burgas|YES|stars_3.5
+61387|Kempinski Hotel Marinela Sofia|Sofia|YES|stars_5
+61509|Nobel|Sunny Beach|YES|stars_4
+61768|Radisson Blu Grand|Sofia|YES|stars_5
+61775|City Mark|Varna|YES|stars_3
+61776|Miami|Sveti Vlas|YES|stars_2
+61803|Sveta Sofia|Sofia|YES|stars_4
+62324|Geneva|Sofia|YES|stars_4
+62325|Grand Sofia|Sofia|YES|stars_5
+62326|Maxi Park|Sofia|YES|stars_4
+62458|Golden Fish|Burgas|NO|stars_3
+62459|Oazis|Burgas|NO|stars_4
+62523|Bravo Village Apartments|Sunny Beach|YES|stars_3
+62536|Golden Tulip - Business Varna|Varna|YES|stars_4
+62537|Grand London|Varna|YES|stars_5
+62538|Panorama|Varna|YES|stars_4
+62868|Harmony Beach|Nesebar|NO|stars_2
+63211|Majestic Beach Resort|Sunny Beach|YES|stars_4
+63292|Sunrise|Sveti Vlas|YES|stars_3
+63762|Blue Sky|Golden Sands|NO|stars_3
+64053|Lion Borovez|Borovez|YES|stars_4
+64664|MPM Royal Central|Sunny Beach|YES|stars_3
+65029|Riga|Rousse|YES|stars_4
+65056|Smolyan|Smoljan|YES|stars_3
+65118|Helios|Baltschik|NO|stars_3
+66071|Hilton Sofia|Sofia|YES|stars_5
+66285|Green Park|Golden Sands|NO|stars_3
+68171|Shoumen|Schumen|NO|stars_4
+69169|Villen Valentina|Kranevo|NO|stars_3.5
+69617|Riva|Golden Sands|YES|stars_3
+69956|Hotel Zora|Sunny Beach|YES|stars_3
+69957|Amaris|Sunny Beach|NO|stars_3
+69958|Condor Beach|Sunny Beach|NO|stars_3
+69959|Selena Star|Sozopol|YES|stars_3
+70878|Casablanca|Obzor|YES|stars_4
+70923|Santa Marina|Varna|YES|stars_3
+70924|Enika|Varna|YES|stars_3
+70925|Alen Mak 7|Varna|YES|stars_3
+70926|Divesta|Varna|YES|stars_4
+70927|Oasis Village|Varna|YES|stars_3
+70928|Detelina|Golden Sands|YES|stars_3
+70929|Odessos|Varna|YES|stars_3
+71015|Lozenetz|Sofia|YES|stars_3
+71016|Harmony Levski|Sofia|YES|stars_2
+71017|Harmony|Sofia|YES|stars_3
+71018|Slavyanska Beseda|Sofia|YES|stars_3
+71019|Park Inn by Radisson Sofia|Sofia|YES|stars_4
+71020|Best Western Expo|Sofia|YES|stars_4
+71021|Accord|Sofia|YES|stars_3
+71089|Hotel Komplex Bulsun Hotels - Grand Hotel & Spa Primoretz|Burgas|YES|stars_5
+71160|Imperial Park|Plovdiv|YES|stars_4
+71274|Largo|Sunny Beach|NO|stars_2.5
+71276|Panorama|Sveti Vlas|YES|stars_3
+71277|Regatta Palace|Sunny Beach|YES|stars_3.5
+71278|Smolian|Sunny Beach|YES|stars_3
+71279|Sunny Day I|Sunny Beach|YES|stars_3
+71280|Sapphire|Sunny Beach|YES|stars_3
+71393|Izvora|Kranevo|NO|stars_3
+71449|Hotel Allegra|Golden Sands|YES|stars_4
+71756|Sveti Vlas|Sveti Vlas|YES|stars_3
+71871|Mistral|Sveti Konstantin|YES|stars_4
+72742|Luxor|Burgas|YES|stars_3
+72743|Almond Hill Villas|Koschariza|YES|stars_3
+72744|Sunny Villas|Koschariza|YES|stars_3
+72745|Rutland Court - geschlossen|Ravda|YES|stars_3
+72746|Central - geschlossen|Sofia|YES|stars_3
+72748|Anna-Kristina|Widin|YES|stars_3
+72749|Aqua|Burgas|YES|stars_3
+72750|Niky|Sofia|YES|stars_3
+72751|Messambria Fort Beach|Elenite|YES|stars_3
+72752|Bora|Burgas|YES|stars_3
+72753|BC Diamant Komplex - Diamant Residence / Efir / Efir II / Happy / Kasandra / Sunrise - Efir|Sunny Beach|YES|stars_3
+72754|Green Fort|Sunny Beach|YES|stars_3
+72755|Kaya|Sunny Beach|YES|stars_3.5
+72756|Palm Court|Burgas|YES|stars_3
+72757|Medic|Sofia|YES|stars_2
+72758|Prima 1|Burgas|YES|stars_3
+72759|Serdika|Sofia|YES|stars_3
+72760|Spectra Holidays Club|Burgas|YES|stars_3
+72762|Sunny Fort|Burgas|YES|stars_3
+72763|Tedi|Burgas|YES|stars_3
+72764|Rila|Sofia|YES|stars_3
+72765|Ramada Trimontium Princess|Plovdiv|YES|stars_4
+72766|Grand Yantra|Veliko Tarnovo|YES|stars_4
+72767|Devin Spa|Dewin|YES|stars_4
+72768|Harmony Bankya|Sofia|YES|stars_3
+72770|Best Western Prima|Varna|YES|stars_3
+72771|Splendid|Varna|YES|stars_4
+72772|Sankt Peterburg|Plovdiv|YES|stars_4
+72773|St. George|Borovez|NO|stars_4
+72774|Star|Plovdiv|YES|stars_3
+73120|Brod|Sofia|YES|stars_3
+73478|Borovetz Resort - Breza|Borovez|NO|stars_3
+73479|Borovetz Resort - Moura|Borovez|NO|stars_3
+74894|Varshava|Golden Sands|YES|stars_2
+75051|Casa Brava 2|Burgas|YES|stars_3
+75052|Opal|Burgas|YES|stars_3
+75111|Party Hotel Golden Strand|Golden Sands|NO|stars_3
+75321|Planeta|Sunny Beach|YES|stars_4.5
+75491|Festa Sofia|Sofia|YES|stars_4
+75656|Rutland Bay|Ravda|YES|stars_3
+75657|Severina|Sunny Beach|YES|stars_3
+75840|Kiparissite|Sunny Beach|NO|stars_4
+76045|Dana Palace|Golden Sands|NO|stars_3
+76062|Light|Sofia|YES|stars_3
+76063|Mura|Bansko|NO|stars_3
+76067|Lion Bansko|Bansko|YES|stars_4
+76387|Arabella Beach|Albena|NO|stars_4
+76531|South Beach|Sveti Vlas|YES|stars_4
+76856|Katarino Spa|Bansko|YES|stars_4
+76945|Menabria Nessebar|Nesebar|YES|stars_3
+77139|Sokol|Borovez|NO|stars_3
+77140|Belmont|Pamporovo|NO|stars_4
+77141|Evridika|Pamporovo|YES|stars_3
+77142|Orlovetz|Pamporovo|YES|stars_5
+77144|Razlog|Bansko|YES|stars_3
+77227|Bells Kambanite|Burgas|YES|stars_4
+77228|Sunset Resort - Alpha / Beta / Sigma / Delta I / Delta II / Eta / Villen|Pomorie|YES|stars_5
+77879|Sun Village|Sunny Beach|YES|stars_3.5
+77981|Serenity Bay|Tsarevo|YES|stars_4
+78219|Evridika|Nesebar|NO|stars_3
+78237|Amfora|Sveti Konstantin|NO|stars_3
+78238|Slunchogled|Golden Sands|NO|stars_3
+78239|Aquarius|Sveti Konstantin|NO|stars_3
+78623|Barcelo Royal Beach|Sunny Beach|YES|stars_5
+78624|Sea Wind|Sveti Vlas|NO|stars_3
+78691|Tzarevetz / Zarevez|Golden Sands|NO|stars_1
+78764|Lion Sunny Beach|Sunny Beach|YES|stars_4
+78828|Romance Splendid|Sveti Konstantin|YES|stars_4
+78829|Dallas Residence|Varna|NO|stars_5
+79025|Mountain Paradise Aparthotel|Bansko|YES|stars_4
+79128|Andalucia Beach|Elenite|YES|stars_4
+79224|Atrium Beach|Elenite|YES|stars_4
+79229|Coral|Sozopol|NO|stars_3
+79240|Primorsko Club - Villas Ropotamo & Ropotamo Maisonetten & Ropotamo Lotus|Primorsko|NO|stars_3
+79538|Forum|Sunny Beach|YES|stars_4
+79699|Mistral|Baltschik|YES|stars_4
+80284|Bahami Residence|Sunny Beach|YES|stars_3
+80296|Karolina|Sunny Beach|YES|stars_4
+82378|Seven Hills|Plovdiv|NO|stars_3
+82379|Grand Montana|Bansko|YES|stars_4
+82380|Mont Blanc|Bansko|YES|stars_3
+82381|Extreme|Pamporovo|YES|stars_4
+82382|Mountview Lodge|Bansko|YES|stars_3
+82383|Eagles Nest|Bansko|YES|stars_3
+82384|Triada|Sofia|YES|stars_4
+82699|Diter|Sofia|YES|stars_3
+82700|Vega|Sofia|YES|stars_4
+82711|Marina View Holiday Village|Sveti Vlas|YES|stars_4
+82712|Arena di Serdika|Sofia|YES|stars_5
+82713|Golden Fort|Sunny Beach|YES|stars_4
+84425|Renaissance|Sofia|YES|stars_3
+85136|Sun|Sofia|YES|stars_3
+85137|St. Valentin|Sofia|YES|stars_3
+85138|Velingrad Grand|Welingrad|YES|stars_4
+85199|Victoria|Sunny Beach|NO|stars_4
+85437|Laguna Holiday|Sunny Beach|YES|stars_3
+85440|Orphey|Bansko|YES|stars_4
+85441|Burgas|Burgas|YES|stars_4
+85442|Holiday Inn Sofia|Sofia|YES|stars_5
+85445|Central Park|Sofia|YES|stars_4
+85447|Best Western Plus City Hotel Sofia|Sofia|YES|stars_4
+85449|Gloria Palace|Sofia|YES|stars_4
+85450|Legends|Sofia|YES|stars_3
+85452|Meg-Lozenetz|Sofia|YES|stars_3
+85453|Sky Way|Sofia|YES|stars_4
+85454|Sofia Plaza|Sofia|YES|stars_4
+85653|Light|Welingrad|YES|stars_4
+85654|Hera|Sozopol|YES|stars_3
+85655|Bay View Villas|Sunny Beach|YES|0
+85790|Iztok|Sofia|YES|stars_4
+85791|Elit|Sunny Beach|YES|stars_4
+85794|Anel|Sofia|YES|stars_5
+86393|Duchess|Varna|NO|stars_3
+86808|Dionis|Varna|YES|stars_3
+86954|Hotel Complex Selena|Sunny Beach|NO|stars_3
+87099|Casa Boyana Boutique|Sofia|YES|stars_4
+88845|Dunav Apartment House|Sofia|NO|stars_3
+89005|Best Western Park|Varna|YES|stars_3
+90195|Riva Park|Golden Sands|NO|stars_3
+90927|Olymp Park|Welingrad|YES|stars_4
+90928|Gurko|Veliko Tarnovo|YES|stars_3
+90937|Nord|Plovdiv|NO|stars_3
+90940|Rodopi|Plovdiv|NO|stars_3
+90943|Dolce Vita|Sveti Vlas|YES|stars_3
+90944|Elit 4|Sunny Beach|YES|stars_4
+90945|Gabi|Plovdiv|YES|stars_3
+90946|Prim|Sandanski|YES|stars_3
+90950|Rusalka|Plovdiv|YES|stars_3.5
+91596|Orpheus|Dewin|NO|stars_4
+91597|Studio|Veliko Tarnovo|YES|stars_4
+91598|Elbrus Spa|Welingrad|YES|stars_3
+91871|Sun|Sunny Beach|YES|stars_3
+91873|Iris|Sveti Vlas|NO|stars_2.5
+91874|Julia|Sveti Vlas|NO|stars_3
+91875|Orchidea Spa Boutique|Golden Sands|YES|stars_4
+91876|Nikea Park|Golden Sands|NO|stars_4
+92106|L & B|Sunny Beach|YES|stars_3
+92107|Park Hotel Gardenia|Bansko|YES|stars_4
+92108|Obzor Beach Resort|Obzor|YES|stars_4
+93246|Aparthotel South Beach|Tsarevo|NO|stars_4
+93247|Duni Royal Resort - Belleville|Djuni (Duni)|NO|stars_4
+93466|Hill|Sofia|YES|stars_4
+95006|Zornitza Sands|Elenite|YES|stars_3.5
+95082|Perla Sun Park|Primorsko|NO|stars_4
+95729|Byala Beach Resort|Byala|YES|stars_4
+95730|Casa Milla|Bansko|YES|stars_3
+95731|Snowplough Apartments|Bansko|YES|stars_3
+95732|Lucky|Pamporovo|YES|stars_3.5
+95733|Villa Park|Borovez|YES|stars_4
+96701|Redenka Holiday Club - Palace / Lodge / Chalets / Grand Redenka|Bansko|YES|stars_4
+97453|Esperanto|Sunny Beach|NO|stars_3
+97938|Arte|Sofia|YES|stars_3
+98257|Sea Horse|Burgas|NO|stars_3
+98438|Star|Sunny Beach|NO|stars_3
+98440|Dafovska|Pamporovo|NO|stars_3
+98441|Silver House|Sofia|YES|stars_4
+98442|Yasen Holiday Villlage|Burgas|YES|0
+98443|Vechna-R|Burgas|YES|stars_3
+99647|Premier|Veliko Tarnovo|YES|stars_4
+99739|Bansko Royal Towers|Bansko|YES|stars_4
+99740|Yalta|Sunny Beach|YES|stars_3
+100648|Royal Beach Varna|Golden Sands|NO|stars_3
+100652|Central|Golden Sands|NO|stars_4
+101145|Juzhni Noshti|Sveti Vlas|NO|0
+102209|Iskar|Sunny Beach|NO|stars_3
+102335|Grand Hotel Pomorie|Pomorie|NO|stars_5
+102497|Bijou|Ravda|NO|stars_3
+102498|Helios Spa & Resort|Golden Sands|YES|stars_4
+102627|Marack 1+2|Sunny Beach|YES|stars_3
+103135|Dana|Golden Sands|NO|0
+103438|Top|Sveti Vlas|YES|stars_3
+103439|Gran Monastery|Pamporovo|YES|stars_4
+104093|Apartment House Sofia|Sofia|NO|stars_3
+104212|Atlantic|Sofia|NO|stars_3
+106551|Dafi|Plovdiv|NO|stars_3
+107841|Holiday Village Diplomat|Sofia|NO|stars_3
+108711|Maxim|Sofia|YES|stars_3
+111443|Uniqato|Stara Zagora|YES|stars_0
+122241|Primorsko Grandhotel|Primorsko|YES|stars_5
+122332|Yavor Palace|Sunny Beach|YES|stars_4
+122333|Etara|Sveti Vlas|YES|stars_4
+122334|Grand Resort Beach|Sveti Vlas|YES|stars_2
+124041|Summer Dreams Apartments|Sunny Beach|NO|stars_3
+124082|MPM Hotel Guinness Bansko|Bansko|YES|stars_4
+124083|Lucky Bansko|Bansko|YES|stars_5
+124084|Panorama Beach Complex|Nesebar|NO|stars_4
+124085|Laplandia|Pamporovo|YES|stars_3
+124086|Royal Best Western|Plovdiv|YES|stars_3
+124087|Alliance|Plovdiv|YES|stars_4
+124088|Vitosha Park|Sofia|YES|stars_4
+124089|Pliska Hotel|Sofia|YES|stars_1
+124090|Anita Aparthotel|Sunny Beach|YES|stars_3
+124091|Ashton Hall|Sunny Beach|YES|stars_3
+124142|Stella Polaris Holiday Complex|Sunny Beach|YES|stars_3
+124144|Sunset Sunny Beach|Sunny Beach|NO|stars_3
+124145|Panorama Fort Beach|Sveti Vlas|YES|stars_4
+124147|Velina|Welingrad|YES|stars_3
+125028|Sands Holiday Apartments|Sunny Beach|NO|stars_2
+125029|Maria Revas|Sunny Beach|YES|stars_4.5
+125031|Milennia Apartmenthotel|Sunny Beach|YES|stars_3
+125033|Poseidon|Sunny Beach|NO|stars_3
+126886|Olymp|Bansko|NO|stars_3
+126889|Vigo|Nesebar|YES|stars_4
+126908|Pirin Park|Sandanski|NO|stars_5
+127481|Garden of Eden|Sveti Vlas|NO|stars_5
+128040|Rodopski Home|Tschepelare|YES|stars_4
+128861|Bulgaria Aparthotel|Sofia|YES|stars_4
+133698|Hotel Marieta Palace|Nesebar|NO|stars_4
+133699|Italia|Nesebar|YES|stars_3
+133700|Rostov|Plewen|NO|stars_3
+133705|Central Forum|Sofia|YES|stars_4
+133706|Oasis Sunny Beach|Sunny Beach|NO|stars_4.5
+133707|Cherno More|Varna|NO|stars_4
+134188|Bulgaria|Burgas|YES|stars_4
+134352|White Peaks|Bansko|YES|stars_3
+134353|Sunny Day Club|Sunny Beach|YES|stars_3
+134547|Joya Park Complex|Golden Sands|NO|stars_4
+134710|Dunav|Sunny Beach|NO|stars_3
+134711|Jupiter|Sunny Beach|YES|stars_3
+134712|Corona|Sveti Vlas|NO|stars_3
+135066|Les Fleurs|Sofia|YES|stars_4
+135069|Best Western Bistra & Galina Hotel Complex|Rousse|YES|stars_4
+135350|Blue Orange Beach|Sozopol|NO|stars_4
+135351|Laguna Beach Resort & Spa|Sozopol|YES|stars_4
+135352|Santa Marina Holiday Village|Sozopol|YES|stars_3.5
+135437|Sunrise All Suites Resort|Obzor|YES|stars_3
+136160|Plamena Palace|Primorsko|NO|stars_4
+136223|mOdus|Varna|YES|stars_4
+136349|Belvedere|Bansko|YES|stars_4
+136353|Sun Flower|Burgas|YES|stars_4
+136365|Izvora Complex|Veliko Tarnovo|YES|stars_3
+136367|Montecito|Sofia|YES|stars_3
+136369|Calisto Sozopol|Sozopol|YES|stars_3
+136830|Serena Residence|Sozopol|YES|stars_3
+136837|Metropolitan|Sofia|YES|stars_4
+136853|Bansko Spa & Holiday|Bansko|YES|stars_4
+138164|St. Ivan Rilski Spa & Apart|Bansko|YES|stars_4
+139589|Oasis|Baltschik|NO|stars_2.5
+139590|Lotos|Baltschik|NO|stars_3
+139591|Flamingo Grand|Albena|YES|stars_5
+139592|Sunflower|Golden Sands|NO|stars_3
+139614|Plaza Varna|Varna|NO|stars_3
+139635|Marina Holiday Club|Pomorie|NO|stars_4
+139772|Komplex Amfibia Beach - Amfibia|Sunny Beach|NO|stars_3
+140542|Sandanski Park|Sandanski|YES|stars_3
+140547|Ralitsa Vlas Apartments|Sveti Vlas|YES|stars_3
+143860|Palitra|Varna|NO|stars_3
+143862|Time Out|Sandanski|NO|stars_3
+143962|Tia Maria|Sunny Beach|YES|stars_3
+143963|Elitsa|Bansko|NO|stars_3
+143965|Alegro|Veliko Tarnovo|YES|stars_3
+143967|Plovdiv Guesthouse|Plovdiv|NO|stars_1
+143969|Strimon Spa Club|Kustendil|NO|stars_5
+143970|Kendros|Plovdiv|NO|stars_3
+143971|Consul Airport|Sofia|NO|stars_3
+143972|Alexander Business Apartments|Sofia|YES|stars_4.5
+143973|Art Plaza|Sofia|NO|stars_3
+143975|Sofia Residence|Sofia|YES|stars_4
+143977|Atol|Sunny Beach|YES|stars_3
+143979|Excelsior|Golden Sands|NO|stars_3
+143981|Narcis|Bansko|NO|stars_4
+143982|Astera|Bansko|NO|stars_4
+143987|Winslow Highland|Bansko|YES|stars_2
+143989|Seapark Homes Neshkov|Varna|NO|stars_3
+143990|All Seasons Club|Bansko|NO|stars_4
+143992|The Cliff Beach & Spa|Obzor|NO|stars_4
+143994|ApartPalazzo|Sunny Beach|NO|stars_3
+143995|Royal Sun|Sunny Beach|NO|stars_3
+143996|Prestige City 1|Sunny Beach|NO|stars_3
+144305|Impala|Varna|YES|stars_3
+144306|Danube Plaza|Rousse|YES|stars_3
+144369|Avion|Plovdiv|YES|stars_3
+160236|Grenada|Sunny Beach|NO|stars_4
+160251|Hotel Avalon|Sunny Beach|NO|stars_3
+162687|Banderitsa|Bansko|NO|stars_4
+163444|Snow Legend|Bansko|YES|stars_3
+182421|Festa Pomorie Resort|Pomorie|NO|stars_4
+182425|Sea Breeze|Sunny Beach|YES|stars_3
+182461|Budapest|Sofia|YES|stars_3
+182904|Excelsior|Sunny Beach|YES|stars_3
+182905|Chaika Resort - Arcadia|Sunny Beach|YES|stars_4
+185671|Rhodopa House|Pamporovo|NO|stars_3
+187595|Anna Palace|Rousse|NO|stars_3
+187800|Valeo|Baltschik|NO|stars_3
+188025|Winslow Atrium|Bansko|YES|stars_3
+188026|Sea Grace|Sunny Beach|YES|stars_3
+195891|Bendita Mare|Golden Sands|YES|stars_3
+195892|Regina Mare|Tsarevo|YES|stars_4
+196070|Calypso|Sunny Beach|YES|stars_4
+197246|Saint Thomas|Sozopol|NO|stars_4.5
+197255|Riu Pravets Resort Golf & SPA|Pravets|YES|stars_4
+201509|Festa Via Pontica Resort|Pomorie|NO|stars_5
+201609|Bor|Welingrad|NO|stars_4
+201719|Vihren Palace Ski & Spa Resort|Bansko|YES|stars_4
+201788|Grand Hotel Bansko|Bansko|YES|stars_4
+201826|Emerald|Bansko|NO|stars_4
+202257|Oleander|Sunny Beach|NO|stars_3
+202482|Famous House|Plovdiv|YES|stars_3
+202709|St. George Palace|Sveti Vlas|NO|stars_4
+204034|Ajax|Sofia|NO|stars_3
+204266|Hotel Alex|Bansko|NO|stars_3
+204405|Alpin|Borovez|NO|stars_4
+204910|Four Leaf Clover|Bansko|NO|stars_2
+205330|Aspen Golf, Ski & Spa Resort - Aspen Golf|Razlog|NO|stars_4
+205331|Aspen Golf, Ski & Spa Resort - Aspen Suites|Razlog|NO|stars_4
+206071|Belmont|Bansko|YES|stars_4
+206250|BlackSeaRama Golf & Villas|Baltschik|NO|stars_4.5
+206480|Brigantina Beach|Golden Sands|NO|stars_3
+206481|Bright House|Plovdiv|NO|stars_3
+206604|Bulgari Boutique|Sofia|NO|stars_3
+206716|California|Sofia|NO|stars_3
+206947|Casa Ferrari Bed & Breakfast|Sofia|NO|stars_3
+207380|Citius|Varna|NO|stars_3
+207536|Club Martin|Bansko|NO|stars_3
+207706|Guest House Coral|Obzor|NO|stars_3
+208317|Diamanti|Sozopol|NO|stars_3
+208687|Eden Holiday Apartments|Golden Sands|NO|stars_2
+208714|Ego|Plovdiv|YES|stars_3
+208779|Elegance|Stara Zagora|NO|stars_3
+209030|Evelina Palace|Bansko|NO|stars_4
+209034|Evergreen Apart Hotel & Spa|Bansko|NO|stars_3
+209063|Expo|Plovdiv|NO|stars_3
+209106|Family Hotel Yanevs|Lozenets|NO|stars_3
+209875|Golden Yavor Apartment Complex|Golden Sands|YES|stars_4
+210107|Guest House Fotinov|Burgas|YES|stars_2
+210240|Hanat|Varna|NO|stars_4
+210460|Hi Boutique|Varna|NO|stars_3
+211636|Iceberg|Borovez|NO|stars_4
+212142|Kiparis Alfa|Smoljan|NO|stars_3
+212145|Kirios|Nesebar|NO|stars_3
+212226|Kralev Dvor|Bansko|NO|stars_3
+213277|Lighthouse Golf Resort & Spa|Baltschik|NO|stars_5
+213807|Marina Cape|Ravda|NO|stars_4
+214033|Hotel Metropol|Plovdiv|NO|stars_3
+214150|Mirena|Plovdiv|NO|stars_3
+214261|More|Sozopol|NO|stars_3
+214315|Hotel Motivi|Sveti Konstantin|NO|stars_3
+214450|Nessebar Royal Palace|Nesebar|NO|stars_3
+214474|New Line Village|Sunny Beach|NO|stars_3
+214770|Orbita|Varna|NO|stars_2
+214791|Bon Voyage Orlando|Sofia|NO|stars_3
+214959|Panorama|Veliko Tarnovo|NO|stars_4
+214960|Panorama & Marina Freya Resort|Sveti Vlas|NO|stars_3
+214967|Panorama Resort Apartments|Bansko|NO|stars_4
+215452|Perun Lodge|Bansko|YES|stars_5
+215556|Pirin Rise Apartments|Bansko|NO|stars_3
+215634|Pomorie Bay Apartments & Spa|Pomorie|NO|stars_3
+216217|Premier Luxury Mountain Resort|Bansko|NO|stars_5
+216353|Prespa Family|Bansko|NO|0
+216552|Hotel Rahoff|Bansko|NO|stars_3
+216556|Rainbow Resort - Rainbow 1, Rainbow 2, Rainbow 3 , Rainbow 4|Sunny Beach|NO|stars_3
+217293|Rilena|Kiten|NO|stars_3
+217493|Royal Bansko|Bansko|NO|stars_3
+217805|Sarafovo Plaza Complex|Burgas|NO|stars_3
+217876|Scotty's Boutique|Sofia|NO|stars_3
+217888|Sea Paradise Complex|Baltschik|NO|0
+218138|Sofia Guesthouse|Sofia|NO|stars_1
+218139|Sofia Inn Residence|Sofia|NO|stars_3
+218218|South Pearl Resort & Spa|Sozopol|NO|stars_4
+218245|Spa Hotel Persenk|Dewin|NO|stars_5
+218357|Stambolov|Veliko Tarnovo|NO|stars_2
+218463|Strandja|Golden Sands|NO|stars_3
+218553|Sunny Bay|Pomorie|YES|stars_3
+218675|Taurus Detelina Residence|Bansko|YES|stars_3
+219159|The House|Sofia|NO|stars_3
+219509|The Stream Resort|Pamporovo|NO|stars_3
+219830|Tropics|Sunny Beach|NO|stars_3
+220040|Ventura|Varna|NO|stars_3
+220724|Terra Complex|Razlog|YES|stars_4
+221211|Asti Arthotel|Tsarevo|NO|stars_3
+221215|Atlantis Resort & Spa|Sarafovo|NO|stars_3.5
+221881|Eskada Beach|Tsarevo|NO|stars_3
+226501|Belleville|Sunny Beach|NO|stars_3
+227072|Trakia Garden|Sunny Beach|YES|stars_3
+227100|Grand Dimyat|Varna|YES|stars_5
+227177|Koraba|Golden Sands|NO|0
+227400|Vezhen|Golden Sands|YES|stars_3
+227638|Pirin Palace|Bansko|YES|stars_3
+227639|Apartcomplex Business|Plovdiv|YES|stars_3
+227640|Perelik Palace|Pamporovo|YES|stars_4
+227641|Chateau del Mar|Sunny Beach|YES|stars_4
+227687|Villa Roka SPA|Bansko|YES|stars_4
+227792|Polaris Inn|Bansko|YES|stars_3
+227793|Vega Village|Sveti Vlas|NO|stars_4
+227930|Boomerang|Sunny Beach|YES|stars_3
+228338|Northern Star|Bansko|YES|stars_3
+228340|Sunny Sea Palace|Sunny Beach|YES|stars_3
+228579|Festa Winter Palace|Borovez|YES|stars_5
+228588|Orpheus|Pamporovo|NO|stars_4
+228809|Pirin Golf & Country Club - Holiday Apartment & Villas|Razlog|YES|stars_4
+228895|Royal Beach|Chernomorets|NO|stars_3
+228904|Forest Nook|Pamporovo|NO|stars_3.5
+229106|Harmony Hills|Varna|NO|stars_4
+229371|Aphrodite Beach|Nesebar|NO|stars_3
+229380|Emerald Beach Resort & Spa|Ravda|NO|stars_5
+229383|Smilen|Smoljan|NO|stars_3
+229384|Art 'Otel|Sofia|NO|stars_4
+229387|Paradise View|Sozopol|NO|stars_3
+229389|Central Apart|Sunny Beach|NO|stars_3
+229394|Holiday Fort Noks Golf Club|Sunny Beach|NO|0
+229396|Palace Marina Dinevi|Sveti Vlas|NO|stars_5
+230223|Berlin Park Vitosha|Sofia|NO|stars_4
+230224|Casa Karina|Bansko|NO|stars_3
+231699|Riu Dolce Vita|Golden Sands|NO|stars_4
+231710|Grifid Vistamar|Golden Sands|NO|stars_4
+231918|Arkutino Resort|Arkutino|NO|stars_4
+232181|Bellevue Residence|Bansko|NO|stars_4
+232183|The Mill|Nesebar|NO|stars_3
+232184|Mursalitsa Spa|Pamporovo|NO|stars_2
+232535|St. Dimitar|Primorsko|NO|stars_3
+232823|PrimaSol Ralitsa Superior|Albena|NO|stars_4
+235272|Best Western Premier Thracian|Sofia|NO|stars_4
+235294|Vemara Club|Byala|NO|stars_4
+236519|Zeus|Pomorie|NO|stars_3
+236633|Gallery|Sunny Beach|NO|0
+236683|Atm Centre|Sofia|NO|stars_3
+236966|City Avenue|Sofia|YES|stars_3
+236967|Ikonomov Spa|Bansko|NO|stars_3
+237118|Sornitza sands|Sunny Beach|NO|0
+237185|Riviera Blue|Sunny Beach|NO|stars_4
+237416|Art Gardia|Varna|NO|stars_3
+237513|Zlaten Rog|Golden Sands|NO|stars_3
+237517|Cabacum Beach Residence|Golden Sands|NO|stars_3
+237518|Minotel Rashev|Veliko Tarnovo|NO|stars_3
+237610|Viand|Sunny Beach|NO|stars_4
+238511|Tes Flora Apartments|Borovez|NO|stars_4
+239011|Ryor|Sunny Beach|NO|stars_3
+239245|Interhotel|Veliko Tarnovo|NO|stars_4
+239248|Kaylaka Park|Plewen|NO|stars_4
+239310|Yassen|Sunny Beach|NO|stars_3
+239314|Royal Castle Design & Spa|Elenite|NO|stars_5
+240004|MPM Hotel Sport Bansko|Bansko|YES|stars_4
+240005|Lina Guest house|Bansko|NO|stars_3
+240013|Euphoria Club Hotel & Spa|Borovez|NO|stars_4
+240015|Sunrise Club Ravda|Ravda|NO|stars_3
+240017|Graffit Gallery|Varna|NO|stars_5
+240204|Elite Apartments|Sunny Beach|NO|stars_3
+241650|Regnum Apart|Bansko|NO|stars_4
+241651|Winslow Elegance|Bansko|NO|stars_3
+241806|Cosmopolitan|Rousse|YES|stars_0
+243440|Thracian Cliffs Golf & Beach Resort|Baltschik|NO|stars_4.5
+243757|Piry/Piri|Bansko|NO|stars_4
+245409|Sol Nessebar Resort - Mare|Nesebar|NO|stars_4
+245410|Sol Nessebar Resort - Bay|Nesebar|NO|stars_4
+245411|Sol Nessebar Resort - Palace|Nesebar|NO|stars_5
+245562|Kamelia|Pamporovo|NO|stars_4
+246845|Grand Royale Hotel & Spa|Bansko|NO|stars_4
+247331|Primasol Sineva - Beach|Sveti Vlas|NO|stars_4
+247332|Primasol Sineva - Park|Sveti Vlas|NO|stars_3
+247418|Gladiola & Gladiola Star - Gladiola|Golden Sands|NO|stars_3
+247419|Gladiola & Gladiola Star - Gladiola Star|Golden Sands|NO|stars_4
+247482|Topola Skies Golf & Spa|Baltschik|NO|stars_4
+247527|Perla Beach Complex - Perla I|Primorsko|NO|stars_4
+247528|Perla Beach Complex - Perla Il|Primorsko|NO|stars_3.5
+247529|Perla Beach Complex - Perla III|Primorsko|NO|stars_3
+247707|Apolis|Sozopol|NO|stars_3
+248171|Villa Aurora|Sveti Konstantin|NO|0
+248533|Central Plaza|Sunny Beach|NO|0
+249217|AquaView|Golden Sands|NO|stars_4
+249303|Dreams Black Sea|Nesebar|NO|0
+252889|Red B and B|Sofia|NO|stars_2
+252893|Arte Apartment House|Sofia|NO|stars_2
+252895|Sofia Place|Sofia|NO|stars_3
+252896|VIP Apartments Sofia|Sofia|NO|stars_3
+252897|Avel - Guest House|Sofia|NO|stars_3
+252898|BIZ Apart Sofia|Sofia|NO|stars_4
+252902|St. George|Sofia|NO|stars_3
+252903|Galiani Hostel|Sofia|NO|stars_2
+252907|Luxury in the Forest|Sofia|NO|stars_4
+252908|Gulliver|Sofia|NO|stars_2
+252909|Amsterdam|Sofia|NO|stars_3
+252912|Antik|Varna|NO|stars_3
+252913|Niagara|Varna|NO|stars_3
+252915|Poseidon Villas|Golden Sands|NO|stars_2
+252916|Oceanic Casino & Hotel|Golden Sands|NO|stars_3
+252917|Color|Golden Sands|NO|stars_2
+254979|Sans Souci Family|Sozopol|NO|stars_3
+254980|Ofir|Sozopol|NO|stars_4
+254981|Costa Bulgara Complex|Sozopol|NO|stars_3.5
+255177|Vassiliovata Kashta|Bansko|NO|stars_3
+255179|Mountain Romance Spa|Bansko|NO|stars_3
+255181|Old House 1980|Bansko|NO|stars_3
+255182|Green Life Ski & Spa Resort Bansko|Bansko|NO|stars_4
+255183|Balkan Jewel Resort|Bansko|NO|stars_3.5
+255184|Bansko Castle Lodge|Bansko|NO|stars_3
+255185|Downtown|Bansko|NO|stars_5
+255189|Pollo Resort|Nesebar|NO|stars_3
+255195|Elenite Villas|Nesebar|NO|stars_3.5
+255199|Privilege Fort Beach|Elenite|NO|stars_4
+255200|Diamond - Dinevi Resort|Sveti Vlas|YES|stars_4
+255201|Camelot Residence|Nesebar|NO|stars_3
+255202|Riviera Fort Beach|Nesebar|NO|stars_3
+255204|Aparthotels Marack|Nesebar|NO|stars_3
+255207|Hotel Zora|Golden Sands|NO|stars_2
+255210|Fort Noks|Nesebar|NO|stars_2
+255211|Sunny Planex|Nesebar|NO|stars_3
+255217|Sirena|Nesebar|NO|stars_3
+255219|Nessebar Fort Club|Nesebar|NO|stars_2
+255221|Venecia|Primorsko|NO|stars_3
+255222|Primorsko Club - Villas Holiday|Primorsko|NO|stars_3
+255244|Ofir Boutique|Sandanski|NO|stars_4
+256362|Agata Beach|Tsarevo|NO|stars_3
+256429|Velingrad La Casa|Welingrad|NO|stars_3
+256562|Park Plovdiv|Plovdiv|NO|stars_3.5
+256564|Boris Palace|Plovdiv|NO|stars_3
+256565|Renaissance|Plovdiv|NO|stars_2
+256631|Crystal|Smoljan|NO|stars_3
+256833|Tarnava|Veliko Tarnovo|NO|stars_3
+256835|SPA Complex Ismena|Dewin|NO|stars_4
+257489|Chalets at Pamporovo Village|Tschepelare|NO|stars_3
+257853|Rimini Club|Schumen|NO|stars_3
+258505|Alpha|Blagoewgrad|NO|stars_3
+258506|Family Hotel Zodiac|Samokow|NO|stars_2
+258507|All Seasons Mountain Vistas|Samokow|NO|stars_2
+258510|Villa Stresov|Samokow|NO|stars_5
+259017|Villa Prolet|Varna|NO|stars_3
+259379|Grand Sirena|Ravda|NO|stars_3
+259383|Liani|Sunny Beach|NO|stars_3
+259411|Golden Line|Golden Sands|NO|stars_4
+259494|Resort Astoria & Orel - Astoria|Sunny Beach|NO|stars_4
+259495|Resort Astoria & Orel - Orel|Sunny Beach|NO|stars_2
+259527|Penelope Palace|Pomorie|NO|stars_3.5
+260015|DIT Blue Pearl|Sunny Beach|NO|stars_4
+260095|Pirin Golf Hotel & Spa|Bansko|NO|stars_5
+260625|Black Sea Paradise|Sozopol|NO|stars_3
+261120|Aquatonik|Welingrad|NO|stars_5
+261122|Club Hotel Yanakiev|Borovez|NO|stars_4
+261123|Merian Palace|Stara Zagora|NO|stars_4
+261207|Resort Jasmine Club & Hotel Kokiche|Sunny Beach|NO|stars_3
+261209|Resort Jasmine Club & Hotel Kokiche - Hotel Kokiche|Sunny Beach|NO|stars_2
+261295|Sunrise Club|Sunny Beach|NO|stars_3
+261329|Orbilux|Bansko|NO|stars_3
+261330|Prestige City 2|Primorsko|NO|stars_3
+261333|Greenville|Ravda|NO|stars_3
+261334|Peev|Ravda|NO|0
+261335|St. George Nessebar|Nesebar|NO|stars_3
+261508|Zdravets|Golden Sands|NO|stars_4
+261945|Kalina Palace|Trjawna|NO|stars_4
+265547|Parkhotel Continental / Parkhotel Continental Prima - Prima|Sunny Beach|NO|stars_3
+265696|Best Western Plus Bristol Hotel|Sofia|NO|stars_4
+265868|City Apartment|Sofia|NO|stars_4
+265869|Prime Rentals Apartments Downtown Sofia|Sofia|NO|stars_3
+265870|Nadin Apartment|Sofia|NO|stars_4
+265872|Liza Apartment|Sofia|NO|stars_3.5
+265873|Stefani Apartment|Sofia|NO|stars_3
+265874|Milena Apartment|Sofia|NO|stars_3
+265875|Butterfly Apartment|Sofia|NO|stars_4
+272129|DreamBG Apartments|Sozopol|NO|stars_3
+272276|Gondola Apartments & Suites|Bansko|NO|stars_2
+272279|Trinity Sea Residence|Nesebar|NO|stars_3
+272283|Grand Resort Apartments-Garden|Nesebar|NO|stars_3
+274899|Guest Rooms Plovdiv|Plovdiv|NO|stars_1
+275784|Bulgaria Apartment|Veliko Tarnovo|NO|stars_2
+284905|Akvaya|Veliko Tarnovo|NO|stars_3
+286776|Imperial|Nesebar|NO|stars_4
+288172|Anastasia Residence Hotel Apart|Vitoscha|NO|stars_3
+288173|Fashion|Sofia|NO|stars_3
+288174|Hotel Favorit|Sofia|NO|stars_3
+288175|Rich|Welingrad|YES|stars_0
+291413|Centaur|Blagoewgrad|NO|stars_2
+291871|Melanya Mountain Retreat|Ardino|NO|stars_4
+291873|Todoroff Wine & Spa Hotel|Rodopi|NO|stars_4
+291875|Riverside|Jambol|NO|stars_3
+296645|Murite Club|Bansko|YES|stars_4
+296667|Darius Apartments|Sunny Beach|NO|stars_3
+296944|Colosseum II|Sunny Beach|YES|stars_3.5
+297012|Eco Komplex Sherba|Varna|NO|stars_3.5
+297013|Akazia|Golden Sands|NO|stars_3.5
+297014|Royal Palm|Sveti Vlas|NO|stars_3
+297061|Florimont Casa Boutique|Bansko|NO|stars_3
+297066|Florimont Heights Apparthotel|Bansko|NO|stars_4
+297067|Radina's Way|Borovez|NO|stars_4
+297440|Royal Park & Spa|Bansko|NO|stars_4
+297493|Riagor|Sunny Beach|NO|stars_3
+298259|Belchin Garden Hotel Spa|Samokow|NO|stars_4
+300091|Alex Beach|Sveti Vlas|NO|stars_3
+300651|PirinPlace|Bansko|YES|stars_3
+301385|Novotel Sofia|Sofia|NO|stars_4
+302628|BC Diamant Komplex - Diamant Residence / Efir / Efir II / Happy / Kasandra / Sunrise - Diamant Residence|Sunny Beach|NO|stars_4
+309150|Tsarevets|Veliko Tarnovo|NO|stars_3
+310855|Estreya Palace|Sveti Konstantin|YES|stars_3
+311098|Rio Verde|Sunny Beach|NO|stars_3
+359351|Deva|Sunny Beach|NO|stars_3
+359423|BC Diamant Komplex - Diamant Residence / Efir / Efir II / Happy / Kasandra / Sunrise - Efir II|Sunny Beach|NO|stars_3.5
+359424|BC Diamant Komplex - Diamant Residence / Efir / Efir II / Happy / Kasandra / Sunrise - Happy|Sunny Beach|NO|stars_2
+359425|BC Diamant Komplex - Diamant Residence / Efir / Efir II / Happy / Kasandra / Sunrise - Kasandra|Sunny Beach|NO|stars_3
+359737|Balkan Hotel|Sunny Beach|NO|stars_1
+359825|Magic Dreams|Sveti Vlas|NO|stars_1
+365104|Laguna Mare & Laguna Garden|Albena|NO|stars_4
+365455|Chaika Resort - Chaika Beach / Metropol / Arcadia|Sunny Beach|NO|stars_3.5
+365477|Primorsko Club - Forrest Beach / Les Magnolias / Bisser & Neptun / Villas Ropotamo & Ropotamo Maisonetten & Ropotamo Lotus / Villas Holiday / Villas Kedar|Primorsko|NO|stars_3
+365512|Villa Iglika|Sunny Beach|NO|stars_4
+365571|Admiral Plaza|Sunny Beach|NO|stars_3
+366551|Komplex Amfibia Beach - Fregata|Sunny Beach|YES|stars_3
+366831|Galant Hotel Sofia|Sofia|NO|stars_3
+366837|Sense Hotel Sofia|Sofia|NO|stars_5
+368460|Hotel Sunrice|Primorsko|NO|stars_4
+369436|Balneo Complex Saint Spas - Valingrad|Welingrad|NO|stars_5
+369773|Orbita Palace|Rousse|NO|stars_3
+370341|White House|Baltschik|NO|stars_3
+372535|Cantilena|Nesebar|NO|stars_3
+372587|Sunny Beauty|Sunny Beach|NO|stars_3.5
+372630|Bor & Edelweiss - Bor (Pine)|Borovez|NO|stars_3
+372631|Bor (Pine) & Edelweiss - Edelweiss|Borovez|NO|stars_3
+372632|Regina Maria Spa|Baltschik|NO|stars_4
+391153|Sol Luna Bay Resort - Bay|Obzor|NO|stars_4
+391154|Sol Luna Bay Resort - Mare|Obzor|NO|stars_4
+391168|Redenka Holiday Club - Redenka Chalets|Bansko|YES|stars_4
+391219|Sunset Resort - Alpha|Pomorie|NO|stars_5
+391221|Sunset Resort - Sigma|Pomorie|NO|stars_5
+391345|Parkhotel Continental / Parkhotel Continental Prima|Sunny Beach|NO|stars_3
+391820|Redenka Holiday Club - Redenka Palace|Bansko|YES|stars_4
+399792|Moonlight|Sveti Vlas|NO|stars_5
+403290|Galeon Apart Complex|Sunny Beach|NO|stars_4
+403330|Suite Sofia|Sofia|NO|stars_4
+404293|Megas|Sunny Beach|NO|0
+405214|White Rock Castle Suite|Baltschik|NO|stars_4
+409077|Primorsko Club - Forrest Beach|Primorsko|NO|stars_4
+411612|ClubHotel Riu Helios Paradise|Sunny Beach|NO|stars_4
+411630|Royal Perla|Primorsko|NO|stars_5
+411816|Therma Palace|Kranevo|NO|stars_5
+412153|Smartline Arena Mar|Golden Sands|NO|stars_4
+412286|Fiesta Beach & Fiesta M - Fiesta M|Sunny Beach|NO|stars_4
+415561|TM Deluxe Hotel|Sunny Beach|NO|stars_3

@@ -1,0 +1,4093 @@
+7068|Das Kronthaler|Achenkirch|NO|stars_4
+7085|Activ Sunny Hotel Sonne|Kirchberg|NO|stars_4
+7099|Adler|Hinterglemm|NO|stars_4
+7102|Adler|Hirschegg|NO|stars_3
+7256|Austria Trend Albatros Hotel - geschlossen|Vienna|YES|stars_4
+7322|Alexander|Vienna|YES|stars_3
+7336|Alexandra|Lermos|NO|0
+7426|Almajur|Mittelberg|NO|stars_3
+7430|Almdorf Grassler|Lamm|NO|stars_3.5
+7432|Almesberger|Aigen im Mühlkreis|NO|stars_4
+7433|Almhof|Maria Alm|NO|stars_4
+7434|Almhof|Galtür|NO|stars_4
+7435|Almhof Lackner|Ried im Zillertal|NO|stars_3
+7443|Aloisia|Scheffau|NO|stars_3
+7446|Alpenblick|Zell am See|NO|stars_4
+7447|Alpenfriede|Jerzens|NO|stars_3
+7448|Kleon|Vent|NO|stars_3
+7450|Alpengasthof Wochenbrunn|Ellmau|NO|stars_2.5
+7452|Alpenhof|Brixen im Thale|NO|stars_4
+7453|Alpenhof|Fulpmes|NO|stars_3
+7454|Alpenhof|St. Anton (am Arlberg)|NO|stars_3
+7455|Alpenhof Kristall|Mayrhofen|NO|stars_3
+7458|Alpenland|Sölden|NO|stars_3
+7459|Alpenland|Obergurgl|NO|stars_4
+7461|Alpenrose|Fulpmes|NO|stars_3
+7462|Alpenrose|Sölden|NO|stars_2
+7465|Alpenschlössl|Söll|NO|stars_4
+7466|Alpenwelt|Neustift|NO|stars_3
+7470|Alpin|Kaprun|NO|stars_3
+7471|Alpin|Scheffau|NO|stars_3
+7472|Alpinresort Sport & Spa|Saalbach|YES|stars_4
+7474|Alpina|St. Johann im Pongau|NO|stars_4
+7476|Alpina|Ischgl|NO|stars_4
+7478|Alpina|Hinterglemm|NO|stars_3
+7491|Altachhof|Saalbach|NO|stars_3
+7496|Alte Bachmühle|Viehhofen|NO|stars_3
+7521|Radisson Blu Hotel Altstadt Salzburg|Salzburg|YES|stars_5
+7522|Altstadt Vienna|Vienna|YES|stars_4
+7523|Altstadthotel Wolf-Dietrich|Salzburg|YES|stars_4
+7532|Am Brillantengrund|Vienna|YES|stars_3
+7553|Am Kurzentrum - geschlossen|Bad Hofgastein|NO|stars_2
+7557|Am Parkring|Vienna|YES|stars_4
+7559|Am Riedl|Koppl|NO|stars_3
+7563|Am Schubertring|Vienna|NO|stars_4
+7565|Strandhotel Entner|Pertisau|YES|stars_4
+7581|Amadeus|Salzburg|NO|stars_3
+7594|Allegro|Vienna|YES|stars_3
+7618|Ambassador|Vienna|YES|stars_5
+7699|Grand Wien|Vienna|YES|stars_5
+7710|Austria Trend Ananas|Vienna|YES|stars_4
+7717|Austria Trend Anatol|Vienna|YES|stars_4
+7735|Andreas|Vienna|NO|stars_3
+7761|Aktiv Hotel Elan|Oberau|NO|stars_3
+7956|Boltzmann|Vienna|YES|stars_4
+7957|Elisabethpark|Bad Gastein|YES|stars_4
+7959|Arcotel Wimberger Wien|Vienna|YES|stars_4
+8009|Arkadenhof|Vienna|NO|stars_4
+8045|Arthur Strolz|St. Anton (am Arlberg)|NO|stars_2
+8047|Enziana Hotel Vienna|Vienna|YES|stars_4
+8061|Aschauerhof / Aschauer Hof|Kirchberg|NO|stars_3
+8123|Austria Trend Astoria|Vienna|YES|stars_4
+8186|NH Salzburg City|Salzburg|YES|stars_4
+8194|Hotel NH Atterseehaus Suites|Vienna|YES|stars_4
+8196|NH Wien Belvedere|Vienna|YES|stars_4
+8232|Atlanta|Vienna|NO|stars_4
+8280|Atlantis Vienna|Vienna|YES|stars_4
+8291|Attila|Kirchberg|NO|0
+8300|Auf der Wiese|Mayrhofen|NO|stars_2
+8311|Auhof|Niederau|NO|stars_2.5
+8334|Austria|Vienna|NO|stars_3
+8335|Austria|Niederau|NO|stars_3
+8337|Austria Trend Lassalle|Vienna|YES|stars_4
+8339|Alphotel Innsbruck|Innsbruck|YES|stars_4
+8340|Hotel am Mirabellplatz|Salzburg|NO|stars_4
+8395|Eurothermen Resort Royal|Bad Ischl|YES|stars_4
+8400|Badhaus|Zell am See|NO|stars_4
+8403|Bäckelarwirt|Sölden|NO|stars_3
+8612|Der Salzburger Hof|Salzburg|YES|stars_4
+8671|Beethoven|Vienna|NO|stars_4
+8678|Austria Trend beim Theresianum|Vienna|YES|stars_3
+8761|Mondi Holiday Bellevue|Bad Gastein|NO|stars_4
+8762|Hotel Ferienclub Bellevue am Walchsee|Walchsee|NO|stars_4
+8789|Belvedere|Velden|NO|stars_2.5
+8818|Bergblick|Gosau|NO|stars_3
+8820|Bergblick|Nauders|NO|stars_3
+8833|Bergkräuterhof Hotel Steinbock|Mittelberg|NO|stars_3
+8835|Bergkranz|Mieders|NO|stars_3
+8837|Bergland|Mayrhofen|NO|stars_2.5
+8945|Best Western Hotel Imlauer Altstadt & Hotel Bräu IMLAUER - Hotel Bräu IMLAUER|Salzburg|YES|stars_4
+8957|Best Western Premier Kaiserhof Wien|Vienna|YES|stars_4
+9072|Birkenhof|Sölden|NO|stars_3
+9082|Blaiken|Scheffau|NO|stars_3
+9092|Blaue Gans|Salzburg|NO|stars_4
+9140|Blumberg|St. Johann im Pongau|NO|0
+9151|Bodner|Ellmau|NO|stars_3
+9245|Brandauerhof|Walchsee|NO|stars_3
+9287|Hotel Bristol Wien|Vienna|YES|stars_5
+9321|Brugger|Fulpmes|NO|stars_3
+9322|Bruggerhof|Kitzbühel|NO|stars_3
+9323|Bruggerhof|Fulpmes|NO|stars_3
+9341|Kinderhotel Buchau|Eben am Achensee|NO|stars_4.5
+9372|Burgenland|Eisenstadt|NO|stars_4
+9373|Burgfellnerhof|Rohrmoos|NO|stars_4
+9703|Capricorno|Vienna|NO|stars_4
+9760|Villa Carlton|Salzburg|YES|stars_4
+9774|Carlton Opera|Vienna|NO|stars_3
+9788|Carossa|Abersee|YES|stars_3
+10235|Central|Seefeld|NO|stars_4
+10236|Alpen-Comfort-Hotel Central|Nauders|YES|stars_4
+10380|Christophorus|Bad Hofgastein|NO|stars_3
+10431|Austria Trend Eventhotel Pyramide|Vösendorf|NO|stars_4
+10437|City Tabor|Vienna|NO|stars_3
+10485|Claudia|Thumersbach|NO|stars_3
+10706|Congress|Vienna|NO|stars_3
+10725|Continental|Vienna|YES|stars_3
+10805|Sanotel Cordial|Bad Gastein|NO|stars_4
+10806|Cordial Familien- & Sporthotel Going|Going|NO|stars_4
+10807|Goldenes Theaterhotel|Salzburg|YES|stars_4
+10808|Cordial Theaterhotel|Vienna|NO|stars_4
+10942|Courtyard Linz|Linz|NO|stars_4
+10968|Cristall|Vienna|NO|stars_3
+11076|Dachsbrücke|Loibichl|NO|stars_2.5
+11077|Dachstein|Filzmoos|NO|stars_4
+11129|Danzer|Aspach|NO|stars_3
+11145|Das Triest|Vienna|YES|stars_5
+11146|Das Weitzer|Graz|YES|stars_4
+11154|Daxer|Zell am See|NO|stars_3
+11213|De France|Vienna|YES|stars_5
+11375|Mate Dependance|Vienna|YES|stars_3
+11384|Der Lindenhof|Bad Gastein|NO|stars_3
+11386|Der Steirerhof|Bad Waltersdorf|NO|stars_5
+11387|Der Waldhof|Zell am See|YES|stars_4
+11433|Crystal & Sportiv - Sportiv|Obergurgl|NO|stars_4
+11434|Deutschmeister|Vienna|NO|stars_4
+11477|Familotel Dilly|Windischgarsten|NO|stars_4
+11586|Doktorwirt|Salzburg|NO|stars_4
+11628|Domizil|Kaprun|NO|stars_2
+11657|Donnerhof|Fulpmes|NO|stars_4
+11677|Mercure Wien Westbahnhof|Vienna|YES|stars_4
+11680|Mercure Grand Hotel Biedermeier|Vienna|YES|stars_4
+11687|Fuchs-Palast|St. Veit a. d. Glan|NO|stars_4
+11702|Feriendorf Königsleitn|Litschau|NO|stars_3
+11704|Rogner Bad Blumau|Bad Blumau|YES|stars_4
+11724|Dorothy|Seeboden|NO|stars_3
+11751|Drei Kreuz|Salzburg|NO|stars_3
+11856|Alpenhotel Edelweiss|Maurach|NO|stars_3
+12069|Alpin Juwel|Hinterglemm|NO|stars_4
+12100|Embacher Sporthotel|Embach|NO|stars_3
+12148|Enzian|Hochsölden|NO|stars_4
+12177|Erika|Wagrain|NO|stars_3
+12190|Ertl|Seeboden|NO|stars_3
+12192|Erzherzog Johann|Graz|YES|stars_4
+12193|Erzherzog Rainer|Vienna|YES|stars_4
+12209|Eschenhof|Bad Kleinkirchheim|NO|stars_4
+12299|Austria Trend Europa|Vienna|YES|stars_4
+12414|pentahotel Vienna|Vienna|NO|stars_4
+12415|Falkner|Längenfeld|NO|stars_2
+12416|Falkneralm|Längenfeld|NO|stars_2
+12420|Familienresidenz|Villach|NO|stars_4
+12453|Favorita|Vienna|NO|stars_4
+12470|Felsenhof|Flachau|NO|stars_4
+12471|Erlebnishotel Fendels|Fendels|NO|stars_4
+12472|Feneberg|Ehrwald|NO|stars_3
+12487|Hotel Lerch|St. Johann im Pongau|NO|stars_4
+12489|Ferienpark Waldpension Putz|Berg im Drautal|NO|stars_3.5
+12766|Fischerwirt|Zell am See|NO|stars_4
+12974|Bergjuwel|Neustift|YES|stars_4
+13012|Fürst Metternich|Vienna|YES|stars_3
+13016|Naturhotel LechLife|Wängle|NO|stars_4
+13029|Falkensteiner Funimation Katschberg|Rennweg am Katschberg|NO|stars_4
+13044|Centralhotel Gablerbräu|Salzburg|YES|stars_3.5
+13051|Gaislachalm|Sölden|NO|stars_2
+13125|Garni Almhof|Mayrhofen|NO|stars_3
+13127|Belmont|Fiss|NO|stars_4
+13129|Garni Hutter|Leogang|NO|stars_3
+13130|Garni Obermair|Mayrhofen|NO|stars_3
+13137|4* Gartenhotel|Vienna|YES|stars_4
+13140|Gaspingerhof|Gerlos|YES|stars_4
+13141|Gassner|Neukirchen|NO|stars_4
+13144|Gasthof Moser|Weissensee|NO|stars_4
+13147|Gasthof Stern|Längenfeld|NO|stars_4
+13186|Georgshof|Unterach|NO|stars_3
+13190|Germania|Bad Hofgastein|NO|stars_4
+13244|Glemmtalerhof|Hinterglemm|NO|stars_4.5
+13253|Glocknerhof|Berg im Drautal|NO|stars_4
+13309|Kunsthof|Vienna|NO|stars_3
+13313|Goldener Hirsch|Salzburg|YES|stars_5
+13318|Goldried Park|Matrei in Osttirol|NO|stars_3
+13347|Vitalhotel Gosau|Gosau|NO|stars_4
+13360|Graben|Vienna|YES|stars_4
+13368|Graf Stadion|Vienna|NO|stars_3
+13451|Grand Hotel|Zell am See|YES|stars_4
+13547|Grauer Bär|Sölden|NO|stars_4
+13599|Gridlon|St. Anton (am Arlberg)|NO|stars_4
+13627|Grüner Baum|Ehrwald|NO|stars_4
+13775|Hannes|Brixen im Thale|NO|stars_3
+13776|Hanneshof Resort - Hanneshof & Bischofsmütze & Nebenhäuser (Anneliese, Maier, Appartements Raika)|Filzmoos|NO|stars_4
+13785|Haller´s Genuss & Spa|Mittelberg|NO|stars_4
+13802|Harfenwirt|Niederau|NO|stars_3
+13806|Best Western Premier Harmonie Vienna|Vienna|YES|stars_4
+13824|Hasenau|Hinterglemm|NO|stars_3.5
+13837|Haus am See|Obertraun|NO|stars_3
+13840|Haus In der Sonne|Fiss|NO|stars_3
+13887|Hunguest Heiligenblut|Heiligenblut|NO|stars_4
+13891|Heitzmann|Zell am See|NO|stars_4
+13892|Held|Fügen|NO|stars_4
+13912|Helvetia|Ischgl|NO|stars_3
+14039|Hinterronach|Saalbach|NO|stars_3
+14060|Hochland|Nauders|NO|stars_4
+14061|Hochpustertal|Sillian|NO|stars_3.5
+14067|Parkhotel am Großglockner|Bruck an der Glocknerstrasse|NO|stars_3
+14075|Hofwirt|Salzburg|YES|stars_3
+14079|Hohenfels|Obergurgl|NO|stars_3
+14167|NH Danube City|Vienna|YES|stars_4
+14172|Crowne Plaza The Pitter|Salzburg|YES|stars_4
+14338|Holiday Inn Vienna City|Vienna|YES|stars_4
+14339|Hilton Vienna Danube Waterfront|Vienna|YES|stars_4
+14360|Holzmannhof und Michis Appartementhaus|Flachau|NO|stars_3
+14445|Huber Appartementhaus|Abersee|NO|stars_3
+14448|Hubertus|Hochpillberg|NO|stars_3
+14452|Hubertushof|Kaprun|NO|stars_3
+14592|Ibis Graz|Graz|YES|stars_3
+14601|Ibis Linz City|Linz|YES|stars_3
+14617|Ibis Wien Mariahilf|Vienna|YES|stars_3
+14712|Im Palais Schwarzenberg|Vienna|YES|stars_5
+14726|Imperial|Vienna|YES|stars_5
+14826|InterContinental Vienna|Vienna|YES|stars_5
+14848|InterCityHotel Wien|Vienna|YES|stars_4
+14926|Luzenberg|Auffach|NO|stars_3
+14985|Jagdhof|St. Johann im Pongau|NO|stars_3
+15076|Sonnwirt|St. Gilgen|NO|stars_3
+15149|K+K Maria Theresia|Vienna|YES|stars_4
+15151|K+K Palais|Vienna|YES|stars_4
+15201|Kaltschmid|Seefeld|NO|stars_4
+15247|Karlwirt|Pertisau|NO|stars_3
+15254|Kasper-Melchior-Balthasar|Bodensdorf|NO|stars_3
+15266|Kaswurmhof|Flachau|NO|stars_3
+15374|Kinderbauernhof Moabauer|Flachau|NO|stars_3.5
+15401|Kirchbichlhof|Hippach|NO|stars_3
+15413|Kitzbühler Horn|Oberndorf|NO|stars_4
+15414|Seeappartement Kitzsteinhorn|Zell am See|NO|stars_3
+15416|Klara|Kappl|NO|stars_4
+15422|Kleinwalsertal|Mittelberg|NO|stars_3
+15444|König|Saalbach|NO|stars_3
+15524|Krainerhütte|Baden by Vienna|NO|stars_4
+15533|Krimmlerfälle|Krimml|NO|stars_4
+15538|Kristall|Zell am See|NO|stars_3
+15540|Kristall|Nauders|NO|stars_3
+15552|Euro Youth Hotel & Krone|Bad Gastein|NO|stars_3
+15555|Schachner Krone-Kaiserhof|Maria Taferl|NO|stars_4
+15573|Kummer|Vienna|YES|stars_4
+15845|Lärchenhof|Lermos|NO|stars_4
+15847|Lafairserhof|Pfunds|NO|stars_4
+15895|Alpenhotel  Fall in Love|Seefeld|NO|stars_4
+15907|Landhaus Foidl|St. Johann im Pongau|NO|stars_3
+16184|Lebzelter|Zell am See|NO|stars_4
+16282|Almwellness-Hotel Tuffbad Dörfl|Sankt Lorenzen im Lesachtal|NO|stars_4
+16366|Lindenhof|Leogang|NO|stars_3
+16560|Lucia|Vienna|YES|stars_3
+16654|Magdalena|Ried im Zillertal|NO|stars_4
+16768|Mannis|Mayrhofen|NO|stars_4
+16816|Marcell|Sölden|NO|stars_3
+16849|Margarete|Zell am See|NO|stars_3
+16866|Maria|Kappl|NO|stars_3
+16878|Q! Hotel Maria Theresia|Kitzbühel|YES|stars_4
+17022|Markus Sittikus|Salzburg|YES|stars_4
+17040|Marriott Vienna|Vienna|NO|stars_5
+17090|Martinspark|Dombim|YES|stars_4
+17122|Mathiasl|Bodensdorf|NO|stars_3
+17216|Mein Almhof|Nauders|NO|stars_4
+17271|Mercure Graz City|Graz|NO|stars_4
+17275|Leonardo Hotel Vienna|Vienna|YES|stars_4
+17343|Nestroy Wien|Vienna|NO|stars_4
+17358|Mercure Salzburg Central|Salzburg|YES|stars_4
+17363|Mercure Wien Zentrum|Vienna|YES|stars_4
+17560|Mittagskogel|Ledenitzen|NO|stars_3
+17562|Mitterhof|Gerlos|NO|stars_3
+17563|Mittermooshof|Walchsee|NO|stars_2.5
+17575|Moarhof|Lienz|YES|stars_4
+17584|Mölltal|Flattach|NO|stars_4
+17631|Mondial|Vienna|NO|stars_4
+17700|Montjola|St. Anton (am Arlberg)|YES|stars_4
+17760|Mozart|Salzburg|YES|stars_4
+17911|Neubergerhof|Filzmoos|NO|stars_4
+17913|Neutor|Salzburg|YES|stars_4
+17974|Niederreiter|Maria Alm|NO|stars_3.5
+18022|Norica|Bad Hofgastein|NO|stars_4
+18025|Austria Classic Wien|Vienna|NO|stars_3
+18125|Nudelbacher|Feldkirchen|NO|stars_4
+18169|Oberdanner|Hinterglemm|NO|stars_3
+18176|Oberreiter|Flachau|NO|stars_3
+18287|Regina's Apart|Sölden|NO|stars_3
+18337|Hotel Das Opernring|Vienna|NO|stars_4
+18581|Pamina|Viehhofen|NO|stars_3
+18618|Panorama|Flachau|NO|stars_3
+18628|Panorama Binter|St. Stefan|NO|0
+18645|Panther|Saalbach|NO|stars_4
+18653|Austria Classic Papageno|Vienna|YES|stars_3
+18819|Austria Trend Parkhotel Schönbrunn|Vienna|YES|stars_4
+18877|Paulina|Saalbach|NO|stars_3.5
+19073|Pillerseehof & Bräuwirt|Sankt Ulrich am Pillersee|NO|stars_3
+19103|Pinzgauerhof|Zell am See|NO|stars_3
+19267|Feriendorf Ponyhof Hollaus|Fusch an der Grossglocknerstrasse|NO|stars_3
+19346|Post|Vienna|NO|stars_3
+19350|Landhotel Post|Ebensee|NO|stars_3
+19361|Postwirt|Söll|NO|stars_4
+19391|Pramstraller|Mayrhofen|NO|stars_4
+19480|Prinz Eugen|Vienna|YES|stars_4
+19490|Marolt Strandhotel|St. Kanzian|NO|stars_3.5
+19650|Quehenberger|Maishofen|NO|stars_3
+19654|Quellenhotel Heiltherme|Bad Waltersdorf|NO|stars_4
+19800|Radisson Blu Palais|Vienna|YES|stars_5
+19936|Austria Trend Rathauspark|Vienna|YES|stars_4
+19967|Rechenau|Sölden|NO|stars_3
+20037|Regina|Vienna|YES|stars_4
+20043|Regina|Zell am Ziller|NO|stars_3
+20044|Regina|Nauders|NO|stars_4
+20073|Reisinger|Hinterglemm|NO|stars_3
+20147|Renaissance Imperial Riding School|Vienna|NO|stars_4
+20149|Wyndham Grand Salzburg Conference Centre|Salzburg|YES|stars_4
+20157|Renaissance Wien Hotel|Vienna|NO|stars_4
+20334|Rieder|Kaprun|NO|stars_3
+20335|Riedl|Kössen|NO|stars_4
+20337|Riepel am See|Walchsee|NO|stars_3
+20338|Riesen - geschlossen|Ellmau|NO|stars_2
+20340|Sport- & Familienhotel Riezlern|Riezlern|NO|stars_3
+20551|Best Western Premier Schlosshotel Römischer Kaiser|Vienna|NO|stars_4
+20585|Romantica|Kappl|NO|stars_3.5
+20591|Romantikhotel Gersbergalm|Salzburg|NO|stars_4
+20619|Rose|Mayrhofen|NO|stars_4
+20620|Rose|Prutz|NO|stars_2.5
+20629|Am Augarten|Vienna|YES|stars_3
+20631|Appartements Rosmarie / Haus Reinhard|Sölden|NO|stars_3
+20651|Royal|Vienna|YES|stars_4
+20741|Sporthotel Royer|Schladming|NO|stars_4
+20839|Sacher|Vienna|YES|stars_5
+20840|Sacher|Salzburg|YES|stars_5
+20891|Salzburg|Dienten|NO|stars_3.5
+20892|Salzburger Hof|Leogang|NO|stars_4
+20894|Salzburgerhof|Bad Hofgastein|NO|stars_3
+20895|Salzburgerhof|Dienten|NO|stars_3
+21046|Sanna|Mayrhofen|NO|stars_2
+21061|Santa Barbara|Flachau|NO|stars_4
+21209|Schabus|Velden|NO|stars_3
+21216|Scheulinghof|Mayrhofen|NO|stars_3
+21234|Family Hotel Schloss Rosenegg|Fieberbrunn|YES|stars_4
+21245|Schönachhof|Schönberg|NO|stars_3
+21247|Schönblick|Zell am See|YES|stars_3
+21257|Schüttdorf|Zell am See|NO|0
+21272|Schwarzes Rössl|Windischgarsten|NO|stars_3
+21282|AlpineResort Zell am See|Zell am See|NO|stars_4
+21288|Schweizerhof|Vienna|NO|stars_3
+21289|Schwendberger Hof|Hippach|NO|stars_4
+21352|Seebad|St. Wolfgang|NO|stars_3
+21363|Seehof|Kirchberg|NO|stars_3
+21380|Seerose|St. Wolfgang|NO|stars_3
+21388|Seetal|Kaltenbach|NO|stars_4
+21390|Seewinkel|Fuschl am See|NO|stars_4
+21495|Sheraton Salzburg|Salzburg|YES|stars_5
+21784|Am Konzerthaus - MGallery Collection|Vienna|NO|stars_4
+21925|Erlebnishotel Sonnalp|Maurach|NO|stars_4
+21926|Sonnblick|Hinterglemm|NO|stars_3.5
+21929|Sonne|Saalbach|NO|stars_4
+21934|Familotel Sonnberg Ferienanlage|Flachau|NO|stars_4
+21936|Sonnbichl|St. Martin am Tennengebirge|NO|stars_3
+21952|Sonnenhof|Walchsee|NO|stars_3
+21956|Sonnenhügel|Sattendorf|NO|stars_4
+21959|Aktiv & Spa Resort Alpenpark|Seefeld|NO|stars_4
+21964|Sonnhof|Rauris|NO|stars_3
+21966|Sonnrain|Maria Alm|NO|stars_3
+21967|Harmony Sonnschein|Niederau|NO|stars_4
+22042|Sportalm|Kirchberg|NO|stars_4
+22067|St. Florian|Kaprun|NO|stars_3
+22069|St. Georg|Zell am See|NO|stars_4
+22077|Hubertus|Rauris|NO|stars_3
+22079|St. Hubertushof|Zell am See|NO|stars_3
+22089|Leonhard|Leogang|NO|stars_4
+22144|Starlight Suiten Renngasse|Vienna|NO|stars_4
+22155|Stefanie|Vienna|YES|stars_4
+22157|Steger|Kaprun|NO|stars_3
+22160|Das Alpenhaus Kaprun|Kaprun|YES|stars_4
+22181|Steinberghof|Werfenweng|NO|stars_3
+22182|Steinbock|Seefeld|NO|stars_3
+22183|Steindl|Millstatt|NO|stars_3
+22184|Steiner|Seeboden|NO|stars_3
+22232|Stotterhof|Hermagor|NO|stars_3
+22255|Strass Fun & Spa Hotel - Sporthotel / Hotel Garni / Aparthotel / Hotel Strass / Landhaus Roscher / Villa Strass|Mayrhofen|NO|stars_4
+22259|Stubaierhof|Fulpmes|NO|stars_4
+22269|Subretta/Jäger|Kappl|NO|stars_3.5
+22363|Goldener Löwe|St. Johann|YES|stars_3
+22466|Sylvia|Flachau|NO|stars_3
+22512|Talblick|Ischgl|NO|stars_3
+22527|Appartementhaus Langenfeld|Längenfeld|NO|stars_3
+22655|Thalerhof|Maria Alm|NO|stars_4
+23122|Tulip Inn Vienna Thüringer Hof|Vienna|YES|stars_3
+23126|Tia Monte & Tia Monte Smart - Tia Monte|Feichten|NO|stars_3
+23127|Tia Monte|Nauders|NO|stars_4
+23142|Best Western Plus Das Tigra|Vienna|NO|stars_4
+23165|Tiroler Zugspitze|Ehrwald|YES|stars_4
+23166|Tirolerhof|Erpendorf|NO|stars_3
+23167|Tirolerhof|St. Johann|NO|stars_3
+23168|Tirolerhof|Fulpmes|NO|stars_4
+23251|Tourotel Breinössl|Innsbruck|YES|stars_3
+23252|Tourotel Mariahilf|Vienna|YES|stars_4
+23282|Traube|Kirchberg|NO|stars_3
+23284|Traublingerhof|Kirchberg|NO|stars_3
+23392|Truyenhof|Ried|NO|stars_4
+23425|Bergresort Seefeld|Seefeld|NO|stars_4
+23470|Tyrolerhof|Sölden|NO|stars_4
+23506|Unterdacheben|Dienten|NO|0
+23510|Unterzeiser|Rohrmoos|NO|stars_2
+23604|Veit Fiegel|Sölden|NO|stars_2
+23658|Versalerhof|Ischgl|NO|stars_3
+23692|Hilton Vienna|Vienna|YES|stars_5
+23694|Hilton Vienna Plaza|Vienna|YES|stars_5
+23703|Vier Jahreszeiten|Maurach|NO|stars_4
+23707|Vier Jahreszeiten|Kaprun|NO|stars_4
+23721|Viktoria|Maishofen|NO|stars_4
+23723|Viktoria|Ischgl|NO|stars_3
+23792|Villa Auersperg|Salzburg|YES|stars_4
+23877|Villa Flora|Velden|NO|stars_3
+24213|Spa Resort Therme Geinberg|Geinberg|YES|stars_4
+24255|Vorderriedhof|Leogang|NO|stars_3
+24256|Vorderronach|Saalbach|NO|stars_3
+24286|Sporthotel Wagrain|Wagrain|NO|stars_4
+24302|Waldesruh|Göstling/Ybbs|NO|stars_4
+24305|Waldhof|Scheffau|NO|stars_3
+24318|Wallerwirt|Pörtschach|NO|stars_4
+24325|Krone Romantikhotel|Lechaschau|NO|stars_3
+24343|Wastlhof|Niederau|NO|stars_4
+24355|Weinhof|Kirchberg|NO|0
+24364|Weisskugel|Vent|NO|stars_3
+24366|Alpenhotel Weitlanbrunn|Sillian|NO|stars_4
+24425|Wetterstein|Seefeld|NO|stars_4
+24444|Wieser|Sölden|NO|stars_3
+24447|Wiesler|Graz|YES|stars_5
+24452|Wildauerhof|Walchsee|NO|stars_4
+24458|Wildschwendt|Ellmau|NO|stars_3
+24490|Wirlerhof|Galtür|NO|stars_4
+24611|Zanker|Döbriach|NO|stars_4
+24616|Landgut Zapfenhof|Zell am Ziller|NO|stars_4
+24629|Zentral|Kirchberg|NO|stars_4
+24630|Zenzerwirt|Hippach|NO|stars_4
+24640|Zinkenbachmühle|Abersee|NO|stars_3
+24644|Zipser|Vienna|NO|stars_3
+24683|Tiroler Buam|Saalbach|NO|stars_3
+24688|Zur Burg|Kaprun|NO|stars_4
+24791|Berghof|Afritz am See|NO|stars_3
+24792|Weismayr & Appartements Europa|Bad Gastein|YES|stars_4
+24793|Familotel Sonngastein|Bad Gastein|NO|stars_4
+24796|Mozart|Bad Gastein|NO|stars_3
+24799|Kur- und Sporthotel Alpina - Hotel Alpina / Hotel Tauernblick / Villa Angelika / Villa Frohsinn|Bad Hofgastein|NO|stars_3.5
+24802|Impuls Tirol|Bad Hofgastein|YES|stars_4
+24803|Grand Park|Bad Hofgastein|NO|stars_5
+24804|Almrausch|Bad Kleinkirchheim|NO|stars_4
+24805|Sammers Nockresort - Kristall|Bad Kleinkirchheim|NO|stars_4
+24806|Trattlerhof|Bad Kleinkirchheim|NO|stars_4
+24807|Harmony's Kirchheimerhof|Bad Kleinkirchheim|NO|stars_4
+24809|Lukasmayr|Bruck an der Glocknerstrasse|NO|stars_3
+24810|Burgstaller|Döbriach|NO|stars_4
+24811|Zur Post & Appartementhaus Kern|Döbriach|NO|stars_3
+24815|Kaiserblick|Breitenbach|NO|stars_3
+24816|AktivHotel Hochfilzer / AlpenPension Claudia / Haus Garden - AktivHotel Hochfilzer|Ellmau|NO|stars_4
+24819|Alte Post|Ellmau|NO|stars_4
+24821|Der Bär|Ellmau|NO|stars_3.5
+24824|Obermair|Fieberbrunn|NO|stars_3
+24826|Alte Post|Fieberbrunn|NO|stars_3
+24827|Sporthotel Fontana|Fieberbrunn|YES|stars_4
+24828|Unterhof|Filzmoos|NO|stars_4
+24829|Jagdhof|Filzmoos|NO|stars_4
+24831|Alpenkrone|Filzmoos|NO|stars_4
+24833|Filzmooserhof|Filzmoos|NO|stars_4
+24835|Tauernhof|Flachau|NO|stars_4
+24838|Flattacher Hof|Flattach|NO|stars_4
+24839|Fraganter Wirt|Flattach|NO|stars_3
+24844|Europäischer Hof|Bad Gastein|NO|stars_4.5
+24847|Regina|Bad Gastein|NO|stars_3
+24848|Kur- & Sport-Hotel Palace|Bad Hofgastein|NO|stars_4
+24890|Gartenhotel Crystal|Fügen|NO|stars_4
+24891|Bruno|Fügen|NO|stars_4
+24892|Post|Fügen|NO|stars_3.5
+24893|Malerhaus|Fügen|NO|stars_4
+24894|Kohlerhof|Fügen|NO|stars_4
+24895|Hubertus|Fügenberg|NO|stars_3
+24897|Cristall|Fulpmes|NO|stars_4
+24898|Römerhof|Fusch an der Grossglocknerstrasse|NO|stars_3
+24899|Fluchthorn|Galtür|NO|stars_4
+24901|Tirol|Galtür|NO|stars_4
+24902|Alpenrose|Galtür|NO|stars_3
+24904|Alpina|Gerlos|YES|stars_4
+24905|Elisabeth|Gerlos|NO|stars_3
+24907|Marco Polo Alpina|Hinterthal|NO|stars_4
+24910|Blattlhof|Going|NO|stars_4
+24913|Sommerhof|Gosau|NO|stars_4
+24914|Kirchenwirt|Gosau|NO|stars_3
+24916|Post|Heiligenblut|NO|stars_4
+24919|Glocknerhof|Heiligenblut|NO|stars_4
+24964|Neue Post|Hippach|NO|stars_4
+24967|Schwarzer Adler|Hippach|NO|stars_3
+24970|Suitehotel Kleinwalsertal|Hirschegg|NO|stars_4
+24972|Frieden|Hochpillberg|NO|stars_3
+24973|Alpenfriede|Hochsölden|NO|stars_4
+24974|Hotel Schöne Aussicht|Hochsölden|NO|stars_4.5
+24975|Edelweiss|Hochsölden|NO|stars_4
+24976|Sonnenhotel-Hochsölden|Hochsölden|NO|stars_3
+24977|Weisses Kreuz|Innsbruck|NO|stars_3
+24978|Maximilian|Innsbruck|YES|stars_4
+24979|Sailer|Innsbruck|NO|stars_4
+24980|Grauer Bär|Innsbruck|YES|stars_4
+24981|Best Western Plus Goldener Adler|Innsbruck|NO|stars_4
+24982|Grand Hotel Europa|Innsbruck|YES|stars_5
+24983|Central|Innsbruck|YES|stars_4
+24984|Seiblishof|Ischgl|NO|stars_4
+24987|Birkheim|Ischgl|NO|stars_2
+24990|Lesacherhof|Kals|NO|stars_2
+24991|Post|Kaltenbach|NO|stars_4
+24992|Silvretta|Kappl|NO|stars_3
+24994|Edelweiss Schlössl|Kappl|NO|stars_3
+24995|Rudolfshof|Kaprun|NO|stars_4
+24997|Falkenstein Sporthotel|Kaprun|YES|stars_4
+24998|Antonius|Kaprun|YES|stars_4
+24999|Hotel Sonnblick|Kaprun|NO|stars_4
+25001|Sonnhof|Kaprun|NO|stars_3
+25003|Bergwelt|Längenfeld|NO|stars_4
+25007|Zur Mühle|Kaprun|NO|stars_4
+25008|Best Western Sonne|Lienz|NO|stars_4
+25012|Tauernhof|Kaprun|NO|stars_4
+25013|Kaprunerhof|Kaprun|NO|stars_4
+25014|Orgler|Kaprun|NO|stars_4
+25015|Grüner Baum|Brixen im Thale|NO|stars_4
+25020|Elisabeth|Kirchberg|YES|stars_4.5
+25022|Adler|Kirchberg|NO|stars_4
+25024|Küchl|Kirchberg|NO|stars_3
+25038|Gasthof Skirast|Kirchberg|NO|stars_3
+25041|Berghof|Kirchberg|NO|stars_3
+25043|Tyroler Hof|Kirchberg|NO|stars_4
+25045|Schweizerhof|Kitzbühel|NO|stars_4
+25046|Tiefenbrunner|Kitzbühel|NO|stars_4
+25047|Kitzbühel|Kitzbühel|NO|stars_4
+25048|Kitzhof Mountain Design Resort|Kitzbühel|NO|stars_4
+25049|Vordergrub|Kitzbühel|NO|stars_3
+25050|Kitz Garni|Kitzbühel|NO|stars_4
+25051|Gasthof Unterm Rain|Kirchberg|NO|stars_2
+25053|Reisch|Kitzbühel|NO|stars_4
+25054|Schloss Lebenberg|Kitzbühel|YES|stars_5
+25055|Zur Tenne|Kitzbühel|YES|stars_4
+25057|Post|Krimml|NO|stars_3
+25060|Edelweiß|Längenfeld|NO|stars_3
+25061|Forsthofgut|Leogang|NO|stars_4
+25062|Landhotel Rupertus|Leogang|YES|stars_4
+25063|Der Löwe|Leogang|NO|stars_4
+25066|Koidl|Maria Alm|NO|stars_3
+25088|Hinteregger|Matrei in Osttirol|NO|stars_3
+25090|Outside|Matrei in Osttirol|NO|stars_4
+25092|Panzlwirt|Matrei|NO|stars_3
+25093|Rauter|Matrei in Osttirol|NO|stars_4
+25094|Seehotel Mauracherhof|Maurach|NO|stars_3
+25095|Lärchenhof|Maurach|NO|stars_3
+25100|Garni Villa Angela|Mayrhofen|NO|stars_4
+25101|Neuhaus|Mayrhofen|YES|stars_4
+25102|Elisabeth|Mayrhofen|NO|stars_4.5
+25103|Schrofenblick|Mayrhofen|NO|stars_3.5
+25104|Edenlehen|Mayrhofen|NO|stars_4
+25105|Berghof|Mayrhofen|NO|stars_4
+25106|Hotel-Pension Strolz - Pension Strolz|Mayrhofen|NO|stars_3
+25107|Neuwirt|Schwendau|NO|stars_3
+25108|Garni Ferienhof|Mayrhofen|NO|stars_4
+25109|Anemone|Mayrhofen|NO|0
+25112|Zillertalerhof|Mayrhofen|YES|stars_4
+25113|Perauer|Mayrhofen|NO|stars_3
+25114|Brücke|Mayrhofen|NO|stars_3
+25115|St. Georg|Mayrhofen|NO|stars_4
+25119|Rauchenwalderhof|Mayrhofen|YES|stars_3
+25121|Carla|Mayrhofen|NO|stars_3
+25124|Stoanerhof|Mayrhofen|NO|stars_3
+25129|Rosenhof|Mayrhofen|NO|stars_3
+25130|Serles|Mieders|YES|stars_4
+25140|Neue Burg|Nauders|NO|stars_4
+25141|Post|Nauders|NO|stars_4
+25142|Tirolerhof|Nauders|NO|stars_4
+25143|Maultasch|Nauders|NO|stars_4
+25144|Naudererhof|Nauders|NO|stars_4
+25145|Lamm|Nauders|NO|stars_3
+25147|Unterbrunn|Neukirchen|NO|stars_4
+25148|Venedigerblick|Neukirchen|NO|stars_3
+25151|Spa Hotel Jagdhof|Neustift|NO|stars_5
+25152|Happy Stubai|Neustift|YES|stars_4
+25153|Burgstall|Neustift|NO|stars_4
+25158|Bergkönig|Neustift|YES|stars_4
+25159|Almrausch-Danler|Neustift|NO|stars_3
+25160|Helga|Seefeld|YES|stars_0
+25161|Mildererhof|Neustift|NO|stars_4
+25162|Familotel Alpenhotel Kindl|Neustift|YES|stars_4
+25163|Brennerspitz|Neustift|YES|stars_4
+25165|Cappella|Neustift|NO|stars_4
+25167|Zum Holzknecht|Neustift|NO|stars_4
+25169|Olympia|Obergurgl|NO|stars_4
+25170|Alpina deluxe & Nebenhaus Sonnberg|Obergurgl|NO|stars_4
+25172|Bellevue & Austria|Obergurgl|NO|stars_4
+25173|Hochfirst|Obergurgl|NO|stars_4.5
+25176|Bergwelt|Obergurgl|NO|stars_4
+25177|Vitalhotel Mühle|Obergurgl|NO|stars_4
+25179|Kaiserhotel Neuwirt|Oberndorf|NO|stars_3
+25181|Christina|Pertisau|NO|stars_4
+25182|Kristall|Pertisau|NO|stars_4
+25183|Rieser|Pertisau|NO|stars_4
+25185|Lavenar|Pettneu|NO|stars_3
+25188|Mooserkreuz|St. Anton (am Arlberg)|NO|stars_3
+25189|Rauriserhof|Rauris|NO|stars_4
+25190|Alpina|Rauris|NO|stars_3
+25192|Grimming|Rauris|NO|stars_3
+25193|Platzwirt|Rauris|NO|stars_3
+25194|Salzburgerhof|Rauris|NO|stars_3
+25196|Kristall|Rauris|NO|stars_4
+25197|Gasthof Pension Alpenrose|Rauris|NO|stars_2
+25201|Linde|Ried|NO|stars_4
+25203|Mozart Vital Hotel|Ried|NO|stars_4
+25206|Bellevue|Riezlern|NO|stars_3
+25225|Bergheim|Sölden|NO|stars_4
+25226|Schönblick|Sölden|NO|stars_3
+25228|Alpenruh|Sölden|NO|stars_3
+25231|Bergblick|Sölden|NO|stars_3
+25232|Franz Riml|Sölden|NO|stars_3
+25235|Liebe Sonne|Sölden|NO|stars_4
+25236|Fiegl|Sölden|NO|stars_3
+25241|Jörgele|Sölden|NO|stars_3
+25243|Alpengasthof Grüner|Sölden|YES|stars_0
+25244|Tyrol|Sölden|NO|stars_3
+25247|Arlberg|St. Anton (am Arlberg)|NO|stars_4
+25249|Post|St. Anton (am Arlberg)|NO|stars_4
+25254|Kertess|St. Anton (am Arlberg)|NO|stars_4
+25257|Renate|St. Johann|NO|0
+25258|Brückenwirt|Altenmarkt|NO|stars_3
+25259|Sonnalm|St. Michael|NO|stars_4
+25262|Romantikhotel im Weissen Rössl|St. Wolfgang|YES|stars_4
+25263|Cortisen am See|St. Wolfgang|YES|stars_4
+25264|Försterhof|St. Wolfgang|YES|stars_4
+25267|Seestrand|Thumersbach|NO|stars_3
+25269|Post|Vent|NO|stars_4
+25270|Similaun|Vent|NO|stars_4
+25271|Familienhotel Vent|Vent|NO|stars_4
+25273|Karawankenhof|Villach|NO|stars_4
+25274|Brunner|Walchsee|NO|stars_4
+25275|Hotel Schick - geschlossen|Walchsee|NO|stars_4
+25276|Warther Hof Wellnesshotel|Warth|YES|stars_4
+25277|Weererwirt|Weer|NO|stars_3
+25279|Sonnalp|Saalbach|NO|stars_4
+25280|Eva Village|Saalbach|NO|stars_4
+25281|TUI best FAMILY Gut Wenghof|Werfenweng|NO|stars_4
+25282|Bauer|Saalbach|NO|stars_4
+25287|Saalbacher Hof|Saalbach|NO|stars_4
+25288|Huttersberg|Windischgarsten|NO|stars_3
+25289|Brückenhof|Ramsau am Dachstein|NO|stars_3
+25290|Jägerhof|Zams bei Landeck|NO|stars_4
+25299|Post|Saalbach|NO|stars_4
+25300|Berger's Sporthotel|Saalbach|NO|stars_4
+25301|Kaltenegger|Saalbach|NO|stars_3
+25302|Ederbauer|Saalbach|NO|stars_2.5
+25311|Bernhofer|Zell am See|NO|stars_3
+25312|Elisabeth|Saalbach|NO|stars_3
+25313|Ellmauhof|Hinterglemm|NO|stars_4
+25314|Salzburger Hof|Zell am See|NO|stars_4.5
+25316|Seehotel Freiberg|Zell am See|NO|stars_4
+25317|Unterellmau|Hinterglemm|NO|stars_3
+25319|Talblick|Saalbach|YES|stars_3
+25321|Pinzgauerhof|Hinterglemm|NO|stars_3
+25326|Latini|Zell am See|YES|stars_4
+25329|Stadt Wien|Zell am See|NO|stars_4
+25331|Glocknerhof|Zell am See|NO|stars_4
+25332|Traube|Zell am See|NO|stars_3
+25333|Müllauer|Zell am See|NO|stars_2
+25335|Berner|Zell am See|NO|stars_4
+25336|Dörflwirt|Hainzenberg|NO|stars_4
+25338|Kristall|Saalbach|NO|stars_4
+25341|Wechselberger|Saalbach|NO|stars_3
+25342|Sonnleiten|Saalbach|NO|stars_4
+25343|Schattberg|Saalbach|NO|stars_3
+25344|GreenLine Sporthotel Matschner|Ramsau am Dachstein|NO|stars_4
+25345|Arlberghaus|Zürs|NO|stars_4
+25349|Knollhof|Ramsau am Dachstein|NO|stars_4
+25354|Seespitz-Zeit|Seefeld|NO|stars_4
+25357|Post|Ramsau am Dachstein|NO|stars_3
+25358|Hermann|Ramsau am Dachstein|NO|0
+25364|Türlwand|Ramsau am Dachstein|NO|stars_3
+25365|Sonnenhügel|Ramsau am Dachstein|NO|stars_3
+25367|Berghof|Ramsau am Dachstein|NO|stars_4
+25372|Reither Hof|Reith bei (by) Seefeld|NO|stars_3
+25375|Kaiser in Tirol|Scheffau|NO|stars_4
+25376|Ritzlerhof|Sautens|NO|stars_4
+25378|Gisela|Sautens|NO|stars_4
+25379|Daniel|Sautens|NO|stars_4
+25380|Alte Post/ Posthotel|Schladming|NO|stars_4
+25386|Jäger Gasthof|Schlitters|NO|stars_3
+25393|Bellevue|Seeboden|NO|stars_4
+25395|Mörisch|Seeboden|NO|stars_4
+25397|Clubdorf See|See|NO|stars_3
+25399|Panorama Sonnenresidenz Waldhotel|Seefeld|NO|stars_3
+25401|Veronika|Seefeld|YES|stars_4
+25403|Lärchenhof|Seefeld|NO|stars_4
+25404|Klosterbräu|Seefeld|NO|stars_5
+25405|Karwendelhof|Seefeld|YES|stars_4
+25406|Kronenhotel|Seefeld|NO|stars_4
+25407|Bär|Patsch|NO|stars_3
+25408|Schönruh|Seefeld|NO|stars_4
+25410|Seefelderhof|Seefeld|NO|stars_4
+25412|Eden|Seefeld|NO|stars_4
+25414|Solstein Hotel & Pension|Seefeld|NO|stars_4
+25415|Alpina|Seefeld|YES|stars_3
+25418|Klaus|Mösern bei Seefeld|NO|stars_3
+25423|Dolomiten Residenz Sporthotel Sillian|Sillian|NO|stars_4
+25427|Familotel St. Zeno|Serfaus|NO|stars_4
+25430|Silvretta|Serfaus|NO|stars_3
+25433|Rex|Serfaus|NO|stars_3
+25435|Grandhotel Panhans|Semmering|NO|stars_4
+25438|Alphof|Sölden|NO|stars_4
+25440|Regina|Sölden|NO|stars_4
+25441|Erhart|Sölden|NO|stars_4
+25443|Bergland|Sölden|NO|stars_4
+25445|Alpina|Sölden|NO|stars_4
+25447|Hotel Sölderhof & Residenz Tamara|Sölden|NO|stars_3
+25449|Stefan|Sölden|NO|stars_4
+25452|Bruno|Sölden|NO|stars_3
+25454|Silbertal|Sölden|NO|stars_4
+25457|Grünwald|Sölden|NO|stars_3.5
+25463|Gewürzmühle|Radstadt|NO|stars_3
+25465|Stegerbräu|Radstadt|NO|stars_3
+25466|Familotel Seitenalm|Radstadt|NO|stars_4
+25468|Schneeberghof|Puchberg|NO|stars_4
+25469|Mooshaus|Kühtai|NO|stars_4
+25471|Tannenhof|Wagrain|NO|stars_3
+25477|Patscher Hof|Patsch|NO|stars_2
+25481|Stecher|Oetz|NO|stars_2
+25485|Drei Mohren|Oetz|NO|stars_3
+25486|Linserhof|Imst|YES|stars_3
+25488|Anita|Oetz|NO|stars_4
+25492|Gasthof Piburger See|Oetz|NO|stars_3
+25493|Waldhof|Oetz|NO|stars_4
+25495|Marko|Oetz|NO|stars_3
+25499|Hotel Habicher Hof|Oetz|NO|stars_4
+25500|Alpenhotel Oetz|Oetz|NO|stars_3
+25501|Angerer Alm|Hochgurgl|NO|stars_4
+25502|Riml|Hochgurgl|YES|stars_4
+25505|Berghotel Hochfügen|Hochfügen|NO|stars_4
+25506|Das Schütz am Obertauern|Obertauern|NO|stars_4
+25508|Inntalerhof|Mösern bei Seefeld|YES|stars_4
+25510|Hotel - Restaurant Winkler|Mühldorf|NO|stars_3
+25511|Bräurup|Mittersill|NO|stars_4
+25513|Alte Krone|Mittelberg|NO|stars_3
+25514|Neue Krone|Mittelberg|NO|stars_3
+25515|IFA Alpenrose|Mittelberg|YES|stars_3
+25516|IFA Alpenhof Wildental|Mittelberg|YES|stars_4
+25517|Hoppet|Hart im Zillertal|NO|stars_4
+25527|Schwarzer Adler|Mariazell|NO|stars_4
+25531|Edelweiss|Mallnitz|NO|stars_4
+25532|Königshof|Mallnitz|NO|stars_3
+25533|Lindenhof|Eisentratten|NO|stars_3
+25534|Ferienhotels Alber Mallnitz - Alpenhotel / Tauernhof|Mallnitz|YES|stars_3.5
+25535|Alpenhof|Mariastein|NO|stars_3
+25537|Reiterklause|Leutasch|NO|stars_3
+25538|Leutascherhof|Leutasch|NO|stars_4
+25539|Kreith Alm|Leutasch|NO|stars_3
+25540|Sporthotel & Gästehaus Xander - Sporthotel Xander|Leutasch|NO|stars_4
+25543|Hubertushof|Lermos|NO|stars_3
+25545|Edelweiss|Lermos|NO|stars_4
+25553|Sonnenuhr|Kramsach|NO|stars_4
+25557|Heimathaus|Krakaudorf|NO|stars_3
+25558|Kristal|Kleinarl|NO|stars_3
+25559|Ronach Mountain Club|Wald im Pinzgau|NO|stars_4
+25562|Seiwald|Kirchdorf|NO|stars_3
+25564|Schönfeld|Innerkrems|NO|stars_3
+25567|Gruberhof|Igls|NO|stars_3
+25568|Bon Alpina|Igls|YES|stars_3
+25571|Sporthotel Igls|Igls|YES|stars_4
+25572|Unterbräu|Hopfgarten|NO|stars_3
+25574|Familotel Hopfgarten|Hopfgarten|NO|stars_4
+25575|Moscher|Hohentauern|NO|stars_4
+25576|Lanz|Hohentauern|NO|stars_3.5
+25578|Wurmkogel|Hochgurgl|NO|stars_3
+25582|Laurin|Hochgurgl|NO|stars_3
+25583|Olymp|Hochgurgl|NO|stars_4
+25586|Thaler Hotel Hinterthiersee|Hinterthiersee|NO|0
+25587|Ayurveda Resort Sonnhof|Hinterthiersee|NO|stars_4
+25591|Berghotel Schlosserwirt|Haus|NO|stars_3
+25593|Dirninger|Gröbming|NO|stars_3
+25594|Vital-Hotel Post|Großkirchenheim|NO|stars_3
+25595|Platzer|Gmünd in Kärnten|NO|stars_3
+25599|Gasthof Schöpf|Längenfeld|NO|stars_3
+25604|Posthotel Rössle|Gaschurn|NO|stars_4
+25605|Basur|Flirsch|NO|stars_3
+25606|Fliesserhof|Fliess|NO|stars_3
+25607|Wieseneck|Flachau|NO|stars_4
+25609|Römerhof|Dorfgastein|NO|stars_4
+25610|Schwaiger|Eben|NO|stars_3
+25615|Neuwirt|Ellbögen|NO|stars_2
+25618|Singer|Birgitz|NO|stars_3
+25619|Kaiserhof & Nebenhaus Thanellerhof|Berwang|NO|stars_4
+25621|Kirchner|Mühlbach im Pinzgau|NO|stars_4
+25622|Scesaplana|Brand|NO|stars_4
+25623|Krone|Au|NO|stars_4
+25624|Thaler|Bad Häring|NO|stars_3
+25625|Neuwirt C+M+B|Axams|NO|stars_3
+25629|Familotel Aschauerhof|Aschau|NO|stars_4
+25632|Aldranser Hof|Aldrans|NO|stars_3
+25635|Dachstein West Sporthotel|Annaberg|NO|stars_3
+25640|Der Abtenauer|Abtenau|NO|stars_4
+25775|Maximilian|Serfaus|NO|stars_4
+25781|Weisseespitze|Kaunertal|NO|stars_4
+25803|AlpenParks Parkhotel|Zell am See|NO|stars_3
+25820|Hotel Edelweiß|Götzens|NO|stars_3
+25822|Alpinhotel Traubenwirt|Birgitz|NO|stars_3
+25825|Bergland|Obsteig|NO|stars_4
+25827|Familien- und Landhotel Stern|Obsteig|NO|stars_3.5
+25828|Bergcristall|Neustift|NO|stars_4
+25829|Garni Sonne|Neustift|NO|stars_3
+25830|Sunny|Sölden|NO|stars_4
+25837|Elisabeth|Fügen|NO|stars_4
+25841|Vier Jahreszeiten|St. Leonhard|NO|stars_4
+25843|Pitztaler Kirchenwirt|St. Leonhard|NO|stars_4
+25844|Austria|St. Johann|NO|stars_4
+25845|Hohe Burg|Trins|NO|stars_3
+25846|Trinserhof|Trins|NO|stars_3
+25848|Steinacherhof|Steinach|NO|stars_4
+25849|Tirolerhof|Waidring|NO|stars_3
+25853|Magdalena|Mayrhofen|NO|stars_4
+25855|Schnablwirt|Going|NO|stars_4
+25856|Tyrol|Söll|NO|stars_4
+25857|Hotel & Sporthotel Mödlinger|Söll|NO|stars_3
+25860|Kitz Spitz Alpenhof|Sankt Jakob in Haus|NO|stars_4
+25863|Hotel Zum Lamm|Tarrenz|NO|stars_3
+25865|Liebes Rot-Flüh|Grän|NO|stars_5
+25869|Waldschlössl|Ischgl|NO|stars_4
+25871|Komperdell|Serfaus|NO|stars_3
+25873|Edelweiss|Nauders|NO|stars_3
+25874|Post|Prutz|NO|stars_4
+25875|Alpenhotel Auer|Feichten|NO|stars_3
+25881|Die Sonnigen|Bezau|NO|stars_4
+25882|Zamangspitze|St. Gallenkirch|NO|stars_4
+25883|Lagant|Brand|NO|stars_4
+25884|Widderstein|Schröcken|NO|stars_3
+25889|Sonnalm|Bad Kleinkirchheim|NO|stars_4
+25890|Sonnenhotel St. Urbanerhof|St. Urban|NO|stars_4
+25891|Brunner|Eisenkappel|NO|stars_4
+25892|Almdorf & Sporthotel Hochlienz|Lienz|NO|stars_3
+25893|Land-gut-Hotel Radnighof|Hermagor|NO|stars_3
+25894|Oswald|Mallnitz|NO|stars_3
+25895|Alpenhof St. Jakob|St. Jakob in Defereggen|NO|stars_4
+25898|Dax|Lofer|NO|stars_4
+25899|Hotel Alpenblick|Hinterglemm|NO|stars_3
+25902|AIGO Familien- und Sportresort|Aigen im Mühlkreis|NO|stars_4
+25903|Ebners Waldhof|Fuschl am See|NO|stars_4
+25906|Thomalwirt|Mariapfarr|NO|stars_3
+25907|Waldheimathof Almdörfl|Alpl|NO|stars_4
+25909|Alparella Vital Resort|Adnet|NO|stars_4
+25911|Alpina|Werfenweng|NO|stars_3
+25913|Pension Wieser|Filzmoos|NO|stars_3
+25919|Robinson Club Alpenrose|Zürs|NO|stars_4
+25921|Robinson Club Landskron|Landskron|NO|stars_3
+25922|Robinson Club Schlanitzen Alm|Hermagor|NO|stars_4
+25925|Robinson Club Ampflwang|Ampflwang|NO|stars_4
+25987|IFA Breitach Apartments|Mittelberg|YES|stars_3
+25989|Zum Hirschen|Imst|NO|stars_3
+25995|Zum Mohren|Reutte|NO|stars_4
+25997|Maximilian|Reutte|NO|stars_3
+25998|Aktivhotel Tyrol - geschlossen|Obsteig|NO|stars_3
+26000|Am Römerweg|Seefeld|NO|stars_3
+26001|Risserhof|Scharnitz|NO|stars_3
+26007|Central|Gerlos|NO|stars_4
+26009|Alphof|Alpbach|NO|stars_4
+26012|Weinberghof|Kirchberg|NO|stars_3.5
+26015|Jägerhof|Niederau|NO|stars_4
+26016|Panorama|Niederau|NO|stars_2
+26017|Dorfschmiede|St. Johann|NO|stars_3
+26024|Gasthof Neuhof & Gästehaus Jager-Hansl|Neukirchen|NO|stars_3
+26026|Rosengartl|Krimml|NO|stars_4
+26089|Hettlerhof|Maishofen|NO|stars_3
+26090|Austria Trend Europa|Graz|YES|stars_4
+26091|Zur Post|Maishofen|NO|stars_3
+26124|Casa Alpina|Saalbach|NO|stars_4.5
+26130|Moser|Saalbach|NO|stars_3
+26135|Isabel|Rauris|NO|stars_3
+26137|Annerlhof|Maria Alm|NO|stars_3
+26142|Kastner|Flachau|NO|0
+26148|Mondi Holiday Grundlsee|Grundlsee (Grundl Lake)|NO|stars_4
+26155|Berghof Tauplitzalm|Tauplitz|NO|stars_3
+26170|Schlank Schlemmer Hotel Kürschner|Kötschach-Mauthen|NO|stars_4
+26171|Kobenzl|Salzburg|NO|stars_5
+26172|St. Georg|Bad Hofgastein|NO|stars_4
+26173|Astoria|Bad Hofgastein|NO|stars_4
+26174|Trofana Royal|Ischgl|NO|stars_5
+26175|Bad Mitterndorf|Tauplitz|NO|0
+26177|Dorint Alpin Resort Seefeld|Seefeld|YES|stars_4
+26178|Naturerlebnisdorf Rosental|Feistritz|NO|stars_3.5
+26179|Alpenrose|Elbigenalp|NO|stars_4
+26440|Alte Post|Bad Hofgastein|NO|stars_4
+26441|Zum Stern|Bad Hofgastein|NO|stars_4
+26443|Romantikhotel Zell am See|Zell am See|NO|stars_4
+26446|Neuhaus|Saalbach|NO|stars_4
+26448|Hindenburg|Saalfelden|NO|stars_4
+26449|Der Seehof|Goldegg|YES|stars_0
+26451|Harisch Weisses Rössl & Harisch Suites|Kitzbühel|NO|stars_5
+26452|Cordial Hotel Kitzbühel|Kitzbühel|NO|stars_4
+26453|Cordial Familien & Vital Hoteldorf|Achenkirch|NO|stars_4
+26456|Alpenresort Schwarz|Mieming|NO|stars_5
+26457|Interalpen-Hotel Tyrol|Telfs|NO|stars_5
+26458|Talhof Panoramahotel|Wängle|NO|stars_4
+26459|Central Spa|Sölden|NO|stars_5
+26514|Sporthotel Fuchs Hopfgarten|Hopfgarten|NO|stars_3
+26526|Brandstetterhof|Stans|NO|stars_4
+26534|Das Moser|Bad Hofgastein|NO|stars_4
+26576|Tirolerhof|Zell am Ziller|NO|stars_4
+26577|Ramsauerhof|Ramsau|NO|stars_4
+26652|Vitalhotel Sonnblick|Egg (by Faaker Lake)|NO|stars_3
+26653|Mohrenwirt|Fuschl am See|YES|stars_4
+26655|Stefanihof|Fuschl am See|NO|stars_3
+26675|Bayrischer Hof|Wels|NO|stars_4
+26692|Dolomitenhof|Kartitssch|NO|stars_3
+26695|Obwexer|Matrei|NO|stars_3
+26698|Tirol|Prägraten|NO|stars_3
+26699|Katschberghof|Rennweg|NO|stars_4
+26701|Alpengarten|Mallnitz|NO|stars_4
+26702|Kärntnerhof|Mallnitz|NO|stars_3
+26703|Kofler|Mallnitz|NO|stars_3
+26705|Gasthof zum Richter|Mühldorf|NO|stars_2.5
+26706|Alpenhof|Obervellach|NO|stars_3
+26709|Panorama|Finkenberg|NO|stars_3
+26710|Post|Galtür|NO|stars_4
+26713|Sporthotel Tirolerhof|Itter|NO|stars_3
+26716|Geisler|Rinn|NO|stars_4
+26717|Bergland|St. Leonhard|NO|stars_3
+26719|Sportiv-Hotel Mittagskogel|St. Leonhard|NO|stars_4
+26720|Piz-Hotel|St. Leonhard|NO|stars_3
+26721|Rifflsee|St. Leonhard|NO|stars_3
+26722|Gasthof Post|Sautens|NO|stars_3
+26724|Schwarzbrunn|Stans|NO|stars_4
+26726|Hotel Oberhofer|Telfes|NO|stars_4
+26727|Tyrol|Telfes|NO|stars_3
+26728|Geisler|Tulfes|NO|stars_3
+26729|Pachmair|Uderns|NO|stars_4
+26732|Reinthaler|Eben|NO|stars_3
+26734|Wasserfall|Fusch an der Grossglocknerstrasse|NO|stars_3
+26735|Dorfschmiede|Hinterglemm|NO|stars_4
+26739|Ski & Golfresort Tauernresidence|Radstadt|NO|stars_4
+26740|Jägerwirt|Saalbach|NO|stars_3
+26742|Zum Pinzger|Stumm|NO|stars_3
+26755|Bodner|Obervellach|NO|stars_3
+26758|Senger|Heiligenblut|NO|stars_4
+26759|Marina|Heiligenblut|NO|stars_4
+26764|Stefan Klotz|Sölden|NO|stars_3
+26773|Holzmeister|Fulpmes|NO|stars_3
+26776|TirolApart am Lift|Jochberg|NO|stars_3
+26778|Kitz Aktiv|Bruck an der Glocknerstrasse|NO|stars_3
+26779|Gasthof Schütthof|Zell am See|YES|stars_3
+26788|Weissenbach|Strobl|NO|stars_3
+26789|Kielhuberhof|Ramsau am Dachstein|NO|stars_4
+26922|Olympia|Pettneu|NO|stars_3
+26924|Kröll|Wängle|NO|stars_3
+26927|Sport & Vital Seppl|St. Leonhard|NO|stars_4
+26937|Söldenkogel|Sölden|NO|stars_3
+26938|Crystal & Sportiv - Crystal|Obergurgl|NO|stars_4
+26940|Sporthotel Kühtai|Kühtai|NO|stars_4
+26942|Bergland|Seefeld|NO|stars_4
+26945|Furtners Lebensfreude|Pertisau|NO|stars_4
+26949|St. Georg|Aschau|NO|stars_3
+26950|Bräu|Zell am Ziller|NO|stars_4
+26953|Hohenhaus|Hintertux|NO|stars_4
+26954|Pirchner Hof|Reith im Alpbachtal|NO|stars_4
+26955|Iris|Kramsach|NO|stars_3
+26958|Eggerwirt|Söll|NO|stars_3
+26962|Schranzhofer|Kitzbühel|NO|stars_3
+26965|Kirchberg Parkhotel|Kirchberg|NO|stars_3
+26975|Wachter|Leogang|NO|stars_3
+26979|Klockerhaus & Gästehaus Edelweiß|Krimml|NO|stars_4
+26989|St. Georg|Kaprun|NO|stars_3
+26990|Trauner|Kaprun|NO|stars_3
+27003|Happy Filzmoos|Filzmoos|NO|stars_4
+27018|Zum Stadttor|Schladming|NO|stars_3
+27020|Apartment Hotel Waldrand|Ramsau am Dachstein|NO|stars_3
+27524|Unterwirt|Saalbach|NO|stars_3
+27526|Das Kleine Salzburger Nationalparkhotel|Uttendorf|NO|stars_4
+27527|Paletti|Uttendorf|NO|stars_3
+27868|Hochsölden|Sölden|NO|stars_3
+27880|Granat|Sölden|NO|stars_4
+27902|Warmbaderhof|Warmbad|NO|stars_5
+27914|Büntali|Galtür|NO|stars_4
+27916|Pension Krinserhof|Seefeld|NO|stars_3
+27917|Fügenerhof|Fügen|YES|stars_4
+27918|Waldfriede|Fügenberg|NO|stars_4
+27920|Neue Post|Zell am See|NO|stars_4
+27921|Holunderhof|Lienz|NO|stars_4
+27923|Sonnenresort Ossiacher See - Hotel / Appartements|Ossiach|NO|stars_3
+28098|Riederalm|Leogang|NO|stars_4
+28099|Unterberg|Maria Alm|NO|stars_3
+28102|Alpenkönigin|See|NO|stars_4
+28105|Färberwirt|Wildschönau|NO|stars_3
+28108|Kaiserhotel Kitzbühler Alpen|Oberndorf|NO|stars_4
+28199|Glocknerhof|Pörtschach|NO|stars_3
+28203|Austrialia|Seeboden|NO|stars_3
+28204|Herrenhaus|Dellach|NO|stars_4
+28206|Frühauf|Innerkrems|NO|stars_4
+28209|Kesselgrub|Altenmarkt|NO|stars_4
+28224|Central|Bruck an der Glocknerstrasse|NO|stars_4
+28236|Residenz Hochalm|Hinterglemm|NO|stars_4
+28362|Naturel Dorf Seeleitn|Faaker Lake|NO|stars_3
+28367|Kaiser Franz Josef|Millstatt|NO|stars_4
+28377|Werndl|Millstatt|NO|0
+28380|Lindenhof|Feffernitz|NO|0
+28381|Birkenhof|Afritz am See|NO|0
+28382|Grafhube|Afritz am See|NO|0
+28393|Finkensteiner Hof|Finkenstein|NO|stars_3
+28394|Dietrichsteinerhof|Faaker Lake|NO|stars_4
+28396|Josefinenhof|Faaker Lake|NO|0
+28398|Schönblick|Velden|NO|stars_4
+28399|Carinthia|Velden|NO|stars_4
+28404|Morak|Velden|NO|stars_3
+28406|Pörtschacher Hof|Pörtschach|NO|stars_3.5
+28410|Parkhotel Pörtschach|Pörtschach|NO|stars_4
+28411|Astoria Seehotel|Pörtschach|NO|stars_4
+28412|Wörthersee Ferienhotel|Pörtschach|YES|stars_4
+28414|Karawankenblick|Pörtschach|NO|0
+28416|Gaby|Reifnitz|NO|0
+28420|Rosenheim und Dependance|Krumpendorf|NO|stars_3
+28422|Rosentaler Hof|St. Jakob|NO|stars_4
+28424|Krainz See-Residenzen Klopeiner See|Unterburg|NO|stars_4
+28425|Garni Koralmblick|St. Kanzian|NO|stars_3
+28426|Amerika-Holzer|Klopeiner See (Klopsteiner Lake)|NO|stars_4
+28428|Kärntnerhof|Weissensee|NO|stars_3
+28431|Harmony's Prägant|Bad Kleinkirchheim|NO|stars_4
+28434|Nockalm|Innerkrems|NO|stars_4
+28436|Edelweisshof|Birnbaum|NO|stars_3
+28437|Paternwirt|Maria Luggau|NO|stars_3
+28440|Furian|St. Wolfgang|NO|stars_4
+28443|Föttinger|Steinbach|NO|stars_4
+28444|Schloss Mondsee|Mondsee|NO|stars_4
+28445|Traunsee|Traunkirchen|NO|stars_4
+28447|Alpenhotel|Altmünster|NO|stars_4
+28449|Agathawirt|Bad Goisern|NO|stars_3
+28454|Gasthof Alte Post|Faistenau|NO|stars_4
+28455|Guggenberger|Kleinarl|NO|stars_4
+28457|Sportalm|Zauchensee|NO|stars_4
+28459|Alpenrose Zauchensee|Altenmarkt|NO|stars_4
+28460|Magic Mountain Salzburgerhof|Zauchensee|NO|stars_4.5
+28461|Alpenhof|Zauchensee|NO|stars_4.5
+28494|Martinerhof|St. Martin bei (by) Lofer|NO|stars_3
+28495|Bruckwirt|Obermühl|NO|stars_4
+28497|Moorhof|Franking|NO|stars_4
+28499|Schlierbach|Schlierbach|NO|stars_3.5
+28502|Almfrieden|Ramsau am Dachstein|NO|stars_4
+28503|Ferienalm Schladming|Schladming|NO|stars_4
+28505|Maikircher|Scheffau|NO|stars_3
+28506|Leitenhof|Scheffau|NO|stars_4
+28516|Almdorf Wildschönau|Niederau|NO|stars_3
+28522|Garni Victoria|Gerlos|NO|stars_3.5
+28525|Galtenberg|Alpbach|NO|stars_4
+28573|Travel Charme Ifen Hotel Kleinwalsertal|Hirschegg|YES|stars_5
+28589|Toni|Kaprun|NO|stars_4
+28591|Übergossene Alm|Dienten|NO|stars_4
+28593|Hubertus|Dorfgastein|NO|0
+28617|Herlinde|Podersdorf|NO|stars_4
+28623|Austria Classic Schlosshotel Oth|Baden by Vienna|NO|stars_4
+28626|Sacher|Baden by Vienna|NO|stars_4
+28630|Steigenberger Hotel & Spa|Krems|NO|stars_4
+28642|Seehotel Rust|Rust|NO|stars_4
+28645|Hoteldorf Seepark Weiden|Weiden am See|NO|stars_4
+28659|Hotel Am Sachsengang|Groß Enzersdorf|NO|stars_4
+28680|Weisses Lamm Alpenhof|See|NO|stars_4
+28681|Apartment Brandau|Kappl|NO|stars_3
+28683|Hotel-Garni  Zangerle|Kappl|NO|0
+28684|Mallaun Sportappartements|See|NO|stars_3
+28685|Erika|Nauders|NO|stars_1
+28686|Zur Post Hotel & Gasthof|Pfunds|NO|stars_3
+28687|Am Sonnenhang|Nauders|NO|0
+28689|Hotel Jenny's Schlössl - Hotel|Serfaus|NO|stars_4
+28691|Schlosshotel|Fiss|NO|stars_4
+28747|G'sund- und Vitalhotel Zum Ritter|Tannheim|NO|stars_4
+28755|Garni Romantika|St. Leonhard|NO|stars_3
+28760|Zur Rose|Steinach|NO|stars_3
+28810|Berghof|Söll|NO|stars_3.5
+28811|Auracher Löchl|Kufstein|NO|stars_3.5
+28812|Postwirt Wohlfühl- und Vitalhotel|Ebbs|NO|stars_4
+28813|Sonneck|Kössen|NO|stars_4
+28817|Sieglhub|Flachau|NO|stars_3
+28819|Schörhof|Saalfelden|NO|stars_4
+28820|Sonnenhof|Zell am Ziller|YES|stars_4
+28822|Batzinger|Mühlbach im Pinzgau|NO|stars_3
+28824|Traube|Uderns|NO|stars_3
+28825|Hauserwirt|Münster|NO|stars_3
+28826|Ambassador|Pörtschach|YES|stars_3
+28827|Kirchenwirt|Unken|NO|stars_3
+28910|Alpha|Vienna|NO|stars_3
+28911|Hotel Mercure Bregenz City|Bregenz|YES|stars_4
+28912|Best Western Premier Hotel Weisses Kreuz|Bregenz|NO|stars_4
+28913|Steigenberger Hotel Linz|Linz|NO|stars_4
+29311|Schloss Fuschl|Hof bei (by) Salzburg|YES|stars_5
+29315|Schloss Pichlarn SPA & Golf Resort|Aigen im Ennstal|NO|stars_5
+30472|Tramserhof|Landeck|NO|stars_4
+30475|Tyrol Alpenhof Seefeld|Seefeld|NO|stars_3
+30493|Geisler|Achenkirch|NO|stars_3
+30494|Schneeberger|Niederau|NO|stars_3
+30495|Weissbacher|Wildschönau|NO|stars_3
+30497|Sonnalp|Kirchberg|NO|stars_4
+30498|Bernhard|Walchsee|NO|stars_3
+30505|Wagrainerhof|Wagrain|NO|stars_4
+30509|Hubertus|Mallnitz|NO|stars_3
+30908|Bier Peter|Bodensdorf|NO|stars_3
+30915|Alpengasthof Bacher|St. Michael|NO|stars_3
+30918|Haus am Wald|Reifnitz|NO|stars_3
+30919|Steirerhof|Reifnitz|NO|stars_3
+30920|Lorenzihof|St. Egyden|NO|stars_4
+30921|Turnersee|St. Kanzian|NO|stars_3
+30922|Seerose Appartement|Velden|NO|stars_4
+30924|Grosslehen|Fieberbrunn|NO|stars_3
+30925|Knappenstuben|Fieberbrunn|NO|stars_3
+30926|First Mountain Ötztal|Gries|NO|stars_3
+30936|Schwarzer Adler|Nauders|NO|stars_4
+30938|Enzian|Pertisau|NO|stars_2
+30943|Fuchs|Söll|NO|stars_3
+30953|Steinschalerhof & Vierkanthof|Rabenstein|NO|stars_4
+30960|Kaltenhauser|Hollersbach|NO|stars_4
+30965|Schüttalm|Kleinarl|NO|stars_3
+30969|Kristiana|Saalbach|NO|stars_4
+30970|Enzian|Wagrain|NO|stars_3
+30972|Zum Hirschen|Zell am See|NO|stars_4
+30999|Alpina|Mallnitz|NO|stars_3
+31002|Brixental|Hopfgarten|NO|stars_3
+31003|Alpina|Filzmoos|NO|stars_4
+31005|Jakobshof|Flachau|NO|stars_3
+31007|Wieslbauer|Flachau|NO|stars_3
+31009|Königshaus|St. Michael|NO|stars_3
+31010|Baumanngut|Wagrain|NO|stars_2
+31012|Landhotel Haagerhof|Aigen im Mühlkreis|NO|stars_3
+31014|Die Wasnerin|Bad Aussee|NO|stars_4
+31016|Weinebene|St. Gertraud|NO|stars_4
+31271|Am Dom|Salzburg|NO|stars_4
+31452|Berggasthof Groderhof|Prägraten|NO|stars_3
+31456|Berggasthof Alpenrose|Hochgallmigg|NO|stars_2
+31459|Gasthof Bergheimat|Längenfeld|NO|stars_3
+31460|Seethaler|Thiersee|NO|stars_3
+31461|Wiesenhof|Mieders|NO|stars_3
+31465|Pony- und Reitergasthof Urban|St. Michael|NO|stars_3
+31467|Russbach|Rußbach|NO|stars_3
+31468|Landal Rehrenberg|Viehhofen|NO|stars_3.5
+31469|Pension Pinzgauerhof|Kaprun|NO|stars_2.5
+31470|Apartmenthaus Arcadia/Arkadia|Bad Hofgastein|NO|stars_4
+31472|Freiensteinerhof|St. Peter-Freienstein|NO|stars_3
+31476|Aflenzerhof|Aflenz|NO|stars_3
+31477|Hotel Post Karlon|Aflenz|NO|stars_4
+31482|Lercher|Murau|NO|stars_4
+31483|Landgasthof Ledererwirt|St. Lambrecht|NO|stars_3
+31555|Zur Pfeffermühle|St. Anton (am Arlberg)|NO|stars_4
+31558|Chalet Paradiso|Sautens|NO|stars_3
+31560|Appartements Sportiv|Sölden|NO|stars_3
+31561|Kreuzseehof|Seefeld|NO|stars_3
+31563|Bergland Hotel-Pension|Pertisau|YES|stars_3
+31565|Appartements Kröll|Hippach|NO|stars_3
+31566|Villa Haidacher|Zell am Ziller|NO|stars_4
+31568|Schatzberg Haus|Auffach|NO|stars_3
+31569|Schwarzer Adler|Kitzbühel|NO|stars_4
+31570|Appartements Tirolerhaus|Kirchdorf|NO|stars_3
+31574|Feinschmeck|Zell am See|YES|stars_4
+31576|Prantner Appartements|Rauris|NO|stars_2
+31577|Hotel Gasthof Bräu|Rauris|NO|stars_3
+31578|Pension Christa|Rauris|NO|stars_3
+31579|Alpenblick Kur- und Sporthotel|Bad Gastein|NO|stars_3
+31580|Salzburger Hof|Bad Gastein|NO|stars_4
+31583|FIS-Ferienwohnungen im Salzkammergut|Bad Mitterndorf|NO|stars_3
+31584|Erzherzog Johann|Bad Aussee|NO|stars_4
+31586|Pichlmayrgut|Pichl|NO|stars_4
+31587|Landhaus Schlosserwirt|Haus|NO|stars_3
+31589|Alpenblick Ferienhaus|Krakauschatten|NO|stars_4
+31592|Pulverer|Bad Kleinkirchheim|NO|stars_5
+31593|Naturel Dorf Schönleitn|Oberaichwald|NO|stars_4
+31696|NH Wien Airport|Vienna|YES|stars_4
+31733|Zum Dom|Graz|NO|stars_4
+31927|Stangl|Thaur|NO|stars_3
+31933|Spes|Schlierbach|NO|stars_4
+31935|Lembacher Hof|Lembach|NO|stars_3
+32043|Klammers Kärnten|Bad Gastein|NO|stars_4
+32045|Grüner Baum|Bad Gastein|YES|stars_4
+32047|Neuhintertux|Hintertux|NO|stars_4
+32049|Elisabeth|Lech|YES|stars_4
+32050|Ronacher Thermenhotel|Bad Kleinkirchheim|NO|stars_5
+32051|Hotel St. Oswald|Bad Kleinkirchheim|NO|stars_4
+32052|Kolmhof|Bad Kleinkirchheim|NO|stars_4
+32053|Kärntnerhof|Heiligenblut|NO|stars_4
+32071|Astoria|Seefeld|YES|stars_5
+32072|Krumers Post|Seefeld|YES|stars_4
+32073|Sheraton Fuschlsee - Salzburg Jagdhof|Hof bei (by) Salzburg|YES|stars_4
+32194|Pichler|Gebotskirchen|NO|stars_4
+32195|Obermayr|Ebenau|NO|stars_3
+32203|Mitterwirt|Piesendorf|NO|stars_3
+32206|Tirolerhof|See|NO|stars_3
+32207|Arzlerhof|Arzl|NO|stars_4
+32209|Glückauf|Mayrhofen|NO|stars_3
+32211|Bergland|Oberau|NO|stars_3
+32212|Neuwirt|Kirchdorf|NO|stars_3
+32510|Rasmushof|Kitzbühel|NO|stars_4
+32518|Wildspitz Appartements|Gerlos|NO|stars_3.5
+32521|Obwiesen|Kirchberg|NO|stars_2
+32523|Tannweg|St. Johann|NO|0
+32524|Familotel Central & St. Johanner Hof|St. Johann|NO|stars_4
+32526|Metzgerwirt|St. Veit|NO|stars_4
+32715|Bad Leonfelden Kurhotel|Bad Leonfelden|NO|stars_4
+32745|Mercure Josefshof Wien|Vienna|YES|stars_4
+32746|Best Western Plus Hotel Leipziger Hof|Innsbruck|YES|stars_4
+32925|SCOL Sporthotel Großglockner - Haus Figol / Haus Jenshof|Kals|NO|stars_3
+33164|Hollweger|St. Gilgen|NO|stars_4
+33165|Kaisergasthof|Weyregg|NO|stars_3
+33299|Linde Eckwirt|St. Primus|NO|stars_2.5
+33300|Obirblick|St. Primus|NO|stars_3
+33301|Lindenhof|St. Kanzian|NO|stars_3
+33302|Breznik|St. Primus|NO|stars_3
+33304|Silberhof|Millstatt|NO|stars_3
+33305|Fasching|St. Georgen am Längsee (by Lake Läng)|NO|stars_3
+33306|Ratz|Kirschentheuer|NO|stars_3
+33307|Lifthotel|Kirchberg|NO|stars_3
+33308|Nigglgut|Rauris|NO|stars_2
+33309|Limberghof|Zell am See|NO|stars_3
+33310|Gasthof Mentenwirt|St. Michael|NO|stars_3
+33313|Bergrose|Strobl|NO|stars_4
+34252|Ferienschlössl|Haiming|NO|stars_4
+34257|Haflingerhof|Wildschönau|NO|stars_3
+34258|Posthansl Pension|Heiterwang|NO|stars_3
+34259|Parcours|Ampflwang|NO|stars_4
+34312|Arcotel Nike Linz|Linz|YES|stars_4
+34313|Spitz Hotel|Linz|NO|stars_4
+34314|Gollner|Graz|YES|stars_4
+34315|Derag Kaiser Franz Josef|Vienna|YES|stars_4
+34374|Afritzer See Ferienpark|Afritz am See|NO|stars_2.5
+34379|Campiente Feriendorf Maltschacher See|Feldkirchen|NO|stars_3
+34381|Sonnengrund|Pörtschach|NO|stars_3.5
+34385|Sonnenhotel Hafnersee|Keutschach|NO|stars_4
+34386|Wende|Neusiedel am See/Neusiedler Lake|NO|stars_4
+34387|Kogler|Bad Mitterndorf|NO|stars_4
+34388|Schwaiger|Tauplitz|NO|stars_3
+34389|Parktherme Vitalhotel|Bad Radkersburg|NO|stars_4
+34390|Appesbach Landhaus|St. Wolfgang|NO|stars_4
+34391|Leitnerbräu|Mondsee|NO|stars_4
+34397|Haus Austria|Flachau|NO|stars_3
+34398|Rieder|Filzmoos|NO|stars_3
+34403|Brückenwirt|St. Johann|NO|stars_4
+34405|Schönblick Appartements|Damüls|NO|stars_4
+34407|Aigner|Döbriach|NO|stars_3
+34409|Alpin - Apart|Flachau|NO|stars_4
+34410|Appartement Albarella|Fiss|NO|stars_4
+34418|Domig|Fontanella-Faschina|NO|stars_3.5
+34419|Mittagspitze Alpenhotel|Damüls|NO|stars_4
+34420|Linde|Sulzberg|NO|stars_4
+34633|Gasthof Hamberg|Hart im Zillertal|NO|stars_3
+34635|Ariell|Seelach|NO|stars_3
+35671|The Art Hotel Vienna|Vienna|YES|stars_3
+35672|Wilhelmshof|Vienna|NO|stars_4
+35798|Tirolerhof|Flachau|NO|stars_4
+35799|Kammerlander|Neukirchen|NO|stars_4
+35806|Jaga Alm|Zell am See|NO|stars_4
+35809|Schönblick|Mieders|NO|stars_3
+35811|Familotel Kinderhotel Sailer|Wenns|NO|stars_3
+36197|Hammerwirt Forellenhof|Untertauern|NO|stars_3
+36198|Oberwirt|Niedernsill|NO|stars_3
+36199|Salzburg|Bruck an der Glocknerstrasse|NO|0
+36202|Hotel Pension Bruderhofer|Altmünster|NO|stars_3
+36207|Berghof Predigtstuhl|Bad Goisern|NO|stars_3
+36208|Crystal|St. Johann|NO|stars_4
+36209|Almhof|Kirchberg|NO|stars_3
+36210|Höhlenstein|Tux|NO|stars_4
+36211|Jägerhof|Achenkirch|NO|stars_3
+36212|Wirtlerhaus|Bichlbach|NO|0
+36213|Terrazena|Serfaus|NO|stars_4
+36256|Agathenhof Vitalhotel|Micheldorf|NO|stars_4
+36280|Wandl|Seefeld|NO|0
+36281|Stefanie|Seefeld|YES|stars_4
+36283|Landhaus Falkner|Sölden|NO|0
+36287|Raudaschl|Längenfeld|NO|stars_3
+36288|Gasthof Neue Post|Sölden|YES|stars_3
+36290|Il Giardino|Oetz|NO|0
+36291|Schmid|Oetz|NO|0
+36295|Milders|Neustift|NO|0
+36300|Landhaus Condin|Zell am Ziller|NO|0
+36301|Sterngucker|Wald im Pinzgau|NO|stars_4
+36302|Jägerhof|St. Johann|NO|0
+36303|Laurenzhof|Lendorf|NO|stars_4
+36304|Kunzhof|Winklern bei (by)Treffen|NO|0
+36306|Mountain Resort Feuerberg|Bodensdorf|NO|stars_4
+36309|Seebungalows Excelsior|Velden|NO|stars_4
+36312|Thermenblick|Bad Kleinkirchheim|NO|stars_3
+36313|Interstar Alpin|Saalbach|YES|stars_4
+36315|Isegrim|Altenmarkt|NO|stars_4
+36318|Pehab Kirchenwirt|Ramsau am Dachstein|NO|stars_4
+36322|Sonnleitalm|Fuschl am See|NO|stars_4
+36323|Schlosshotel an der Eisenstrasse|Waidhofen an der Ybbs (Waidhofen on Ybbs)|NO|stars_4
+36324|Hotel Althof Retz|Retz|NO|stars_4
+36327|Fertinghof|Oberau|NO|stars_3
+36329|Bavariahof|Söll|NO|stars_3
+36332|Peatershof|Längenfeld|NO|0
+36333|Walcherhof|Ramsau am Dachstein|NO|stars_3
+36336|Chalets Gasteig|Kirchdorf|NO|0
+36532|Small Luxury Hotel Das Tyrol|Vienna|YES|stars_4
+36533|Austria Trend Schillerpark|Linz|YES|stars_4
+36569|Stigenwirth|Krakauebene|NO|stars_4
+36652|Capri|Vienna|YES|stars_3
+36848|Garfrescha|St. Gallenkirch|NO|stars_3
+36849|Sonne Lifestyle Resort|Mellau|NO|stars_4
+36850|Hotel Tannbergerhof|Lech|NO|stars_4
+36851|Alpenheim|Fiss|NO|stars_4
+36865|Alpen Residence|Ehrwald|NO|stars_4
+36866|St. Peter de luxe|Seefeld|NO|stars_4
+36867|Hocheder|Seefeld|YES|stars_4
+36868|Pachmairhof|Uderns|NO|stars_3
+36869|Wohlfühlhotel Schiestl|Fügenberg|NO|stars_4
+36872|Strasserwirt Reiterhof|Sankt Ulrich am Pillersee|NO|stars_3
+36875|Unterreith|Forstau|NO|stars_3
+36879|Wimmhof|St. Martin am Tennengebirge|NO|stars_3
+36880|Römerhof|Altenmarkt|NO|stars_2.5
+36881|Marten|Hinterglemm|NO|stars_4
+36882|Ferienwohnungen Wastlhof|Flachau|NO|stars_3
+36884|Stadler|Flachau|NO|stars_2
+36886|Kogler Sporthotel|Mittersill|NO|stars_4
+36889|Huberhof|Schladming|NO|stars_3
+36890|Seiterhof|Rohrmoos|NO|stars_3
+36893|Gut Enghagen|Rossleithen|NO|stars_3
+36894|Seehang|St. Wolfgang|NO|stars_3
+36895|Strandhotel Weyregg|Weyregg|NO|stars_3
+36896|Schenner|Bad Ischl|YES|stars_4
+36899|Trefflingerwirt|Seeboden|NO|stars_3
+36900|Moserhof|Seeboden|NO|stars_4
+37386|Messmer|Bregenz|YES|stars_4
+37388|Tautermann Garni|Innsbruck|NO|stars_3
+37389|Daniel|Graz|YES|stars_3
+37899|Schloss Weikersdorf|Baden by Vienna|YES|stars_4
+37900|At the Park Hotel|Baden by Vienna|YES|stars_4
+37960|Weinfurtner|Kötschach-Mauthen|NO|0
+37992|Mühlviertler Hof|Linz|NO|stars_3
+38011|Luxnachmühle|Häselgehr|NO|stars_5
+38012|Thurner's Alpenhof|Zürs|NO|stars_5
+38103|Augartenhotel art & design|Graz|NO|stars_4
+38150|Schlossberghotel|Graz|NO|stars_4
+38264|Lohmann|Obergurgl|NO|stars_3
+38336|Aldiana Hochkönig|Mühlbach|NO|stars_4
+38338|Singer Sporthotel|Berwang|NO|stars_4.5
+38339|Alpenkönig Tirol|Reith bei (by) Seefeld|YES|stars_5
+38340|Post|Steinach|NO|stars_3
+38341|Tirolerhof|Gerlos|NO|stars_3
+38343|Almerwirt|Maria Alm|NO|stars_3
+38344|Oberhof|Bruck an der Glocknerstrasse|NO|stars_4
+38345|Pichler|Maishofen|NO|stars_3
+38346|Turracherhöhe|Turracher Höhe|NO|0
+38395|La Pura - Women's Health Resort Kamptal|Gars am Kamp|NO|stars_4
+38398|Castello Falkner|Sölden|YES|stars_4
+38399|Astoria|Kühtai|NO|stars_4
+38417|Le Meridien Wien|Vienna|YES|stars_5
+38700|Feldrose|Wildschönau|NO|stars_3
+38701|Schermer Landhotel|Westendorf|NO|stars_4
+38872|Zur Post & Nebenhaus Prinz|Ossiach|NO|stars_3
+38874|Austria Trend Metropol|St. Pölten|NO|stars_4
+38965|Miraverde|Bad Hall|NO|stars_4
+38966|VILA VITA Pannonia|Pamhagen|NO|stars_4
+38973|Simmerlwirt|Niederau|NO|stars_3
+38980|Bacher Gasthof|St. Johann im Pongau|NO|stars_3
+38982|Best Western Plus Central Leonhard|Feldkirch|NO|stars_4
+38984|Bergfrieden|Laterns|NO|stars_2
+39002|Jagdhof|Obergurgl|NO|stars_4
+39007|Gasthof Andreas|Obertilliach|NO|stars_3
+39008|Sabine App.|Obertilliach|NO|stars_3.5
+39101|Rohskopf|Mallnitz|NO|stars_3
+39104|JUFA Mariazeller Land - Sigmundsberg|St. Sebastian|NO|stars_3
+39114|Walzl|Lans|NO|stars_3
+39271|Seethurn|Strobl|NO|stars_4
+39272|Hotel Gasthof Adler|St. Gallenkirch|NO|stars_4
+39288|Gasthof Lamm|Fiss|NO|stars_3
+39542|Bergfried|Hallstatt|NO|stars_2.5
+39544|Jägerwirt|Kitzbühel|YES|stars_4
+39545|Chalet Montana|Seefeld|NO|stars_3
+39546|Alpenroyal|Fiss|NO|stars_4
+39547|St. Nikolaus|Ischgl|NO|stars_3
+39738|Falkensteiner Am Schottenfeld|Vienna|NO|stars_4
+39752|Raffl's Tyrolhotel|St. Anton (am Arlberg)|NO|stars_4
+39753|Sulzer|Zell am See|NO|stars_3
+39880|Felsenhof|Lech|NO|stars_3
+39902|Wiesenhof|Pertisau|NO|stars_4
+39964|Huber Seehotel|Abersee|NO|stars_4
+39967|Hall Parkhotel|Hall by Innsbruck|NO|stars_4
+40200|Romantikhotel Post|Villach|NO|stars_4
+40201|Goldenes Schiff|Bad Ischl|YES|stars_4
+40202|Mader Landhotel|Steyr|NO|stars_4
+40204|Goldene Krone|Innsbruck|YES|stars_3
+40205|Hochhäderich Almhotel|Hittisau|NO|stars_4
+40313|Egger|Krumpendorf|NO|stars_4
+40314|Sportalm|Bad Kleinkirchheim|NO|stars_3
+40315|Schindlhaus|Söll|NO|stars_3
+40316|Hinteregger|Sankt Ulrich (Feldkirchen)|NO|stars_3
+40317|Gabriel|Keutschach|NO|stars_3
+40321|Mirnock|Afritz am See|NO|stars_3
+40326|Thurner|Zams bei Landeck|NO|stars_3
+40327|Auderer|Imst|NO|stars_3
+40328|Madlein|Ischgl|YES|stars_4
+40329|Nassereinerhof|St. Anton (am Arlberg)|NO|stars_3
+40330|Valluga|St. Anton (am Arlberg)|YES|stars_4
+40331|Stadlmühle|Bruck an der Glocknerstrasse|NO|stars_3
+40333|Weinpress|Filzmoos|NO|stars_4
+40352|Guglwald|Guglwald|NO|stars_4.5
+40442|Schlosshotel Igls|Igls|NO|stars_5
+40443|Post|Bezau|NO|stars_4
+40475|Schloss Seefels|Pörtschach|NO|stars_5
+40509|Blümchen|Lackenhof|NO|stars_3
+40535|Waidringer Hof|Waidring|NO|stars_4
+40536|Haugschlag Golfresort|Haugschlag|NO|stars_4
+40553|Löwen Hotel Montafon|Schruns|NO|stars_4
+40554|Panorama Royal|Bad Häring|NO|stars_4
+40954|Stein|Salzburg|YES|stars_4
+41106|Familotel Zauchenseehof|Zauchensee|NO|stars_4
+41172|Dallarosa - geschlossen|Oberndorf|NO|stars_3
+41174|Stacklerhof|Neustift|NO|stars_4
+41696|Haus Hirt|Bad Gastein|NO|stars_4
+41697|Grand Hotel Sauerhof|Baden by Vienna|YES|stars_4
+41698|Herzoghof|Baden by Vienna|NO|stars_4
+41705|Starlight Suiten Heumarkt|Vienna|YES|stars_4
+41709|Stroblerhof|Strobl|NO|stars_4
+41711|Seethurnhof|Strobl|NO|stars_4
+41712|Saalbach Alpenhotel|Saalbach|NO|stars_4
+41890|Schloss Leonstain|Pörtschach|NO|stars_4
+41892|Seehotel Europa|Velden|NO|stars_4
+41894|Villa Rainer|Wörthersee (Lake Wörther)|NO|stars_4
+41895|Menthof|Seefeld|NO|stars_3
+41897|Alpinpark|Innsbruck|YES|stars_4
+41899|Hilton Innsbruck|Innsbruck|YES|stars_4
+41900|Innsbruck|Innsbruck|YES|stars_4
+41901|Schwarzer Adler|Innsbruck|YES|stars_4
+41902|The Penz|Innsbruck|YES|stars_4
+41905|Elisabeth|Ischgl|NO|stars_4
+41907|Fliana Apart|Mathon|YES|stars_1.5
+41911|Tennerhof|Kitzbühel|NO|stars_5
+41912|Erika|Kitzbühel|NO|stars_4
+41913|Goldener Greif|Kitzbühel|YES|stars_4
+41914|Hahnenhof|Kitzbühel|NO|stars_4
+41917|Gästehaus Marko|Seelach|NO|stars_4
+41920|Kristiania|Lech|NO|stars_4
+41923|Haldenhof|Lech|NO|stars_4
+41926|Lech Pension Chesa Rosa|Lech|NO|stars_3
+41927|Alpenhotel Kramerwirt & Altes Forsthaus|Mayrhofen|NO|stars_4
+41929|Enzian|Obergurgl|NO|stars_4
+41933|Raffl's St. Antoner Hof|St. Anton (am Arlberg)|NO|stars_5
+41934|Grieshof|St. Anton (am Arlberg)|NO|stars_4
+41935|Best Western Alte Post|St. Anton (am Arlberg)|NO|stars_4
+41936|Karl Schranz|St. Anton (am Arlberg)|NO|stars_4
+41939|Sporthotel St. Christoph|St. Anton (am Arlberg)|NO|stars_3
+41940|Kirchplatz|St. Anton (am Arlberg)|NO|stars_3
+41941|Der Wastlwirt|St. Michael|NO|stars_4
+42274|Tirol|Ischgl|NO|stars_4
+42477|Bauernhof Mamooserhof|Hopfgarten|NO|stars_2
+46480|Gasthof Tannenhof|Piesendorf|NO|stars_3
+46482|Castellani Parkhotel Salzburg|Salzburg|YES|stars_4
+47007|Austria Trend Europa|Salzburg|YES|stars_4
+47933|Sammers Nockresort - Sporthotel Kostmann|Bad Kleinkirchheim|NO|stars_4
+48230|Wilder Mann|Steinach|NO|stars_3.5
+48457|Reiter's Allegriahotel - Spa Resort Stegersbach|Stegersbach|NO|stars_4
+48540|Lux Alpinae|St. Anton (am Arlberg)|NO|stars_4
+49899|Kaiserin Elisabeth|Vienna|YES|stars_4
+50108|Austria Trend Bosei|Vienna|YES|stars_4
+50109|Arion Cityhotel Vienna|Vienna|YES|stars_4
+50233|Seehotel Schwan|Gmunden am Traunsee (by Lake Traun)|YES|stars_4
+50234|Schwärzler|Bregenz|YES|stars_4
+50648|Bristol Salzburg|Salzburg|YES|stars_5
+50685|Goldener Brunnen|Gmunden am Traunsee (by Lake Traun)|YES|stars_2
+50724|Scalaria the Event Resort|St. Wolfgang|NO|stars_4
+50775|Ramada Graz|Unterpremstätten|NO|stars_4
+50776|Strandhotel Margaretha|St. Wolfgang|NO|stars_4
+51279|Platzlhof|Ried im Zillertal|NO|stars_4
+51280|Bichlingerhof|Westendorf|NO|stars_3
+51307|Aqua Dome|Längenfeld|YES|stars_4
+51435|Robinson Club Amade|Kleinarl|NO|stars_4
+51459|Parkhotel Matrei|Matrei|NO|stars_4
+51462|Trattnig Ferienhotel|Döbriach|NO|stars_4
+51463|Verwöhnhotel Vötters Sportkristall|Kaprun|YES|stars_4
+51464|Goisererhof|Bad Goisern|YES|stars_3
+51496|Novapark|Graz|NO|stars_3
+51507|Zillertalerhof|Ried im Zillertal|NO|stars_2
+51508|Österreichischer Hof|Bad Hofgastein|NO|stars_4
+51708|Torrenerhof|Golling an der Salzach|NO|stars_3
+51768|Hanneshof|Flachau|NO|0
+51773|Ischgl|Ischgl|NO|stars_4
+51793|Strudlhof|Vienna|NO|stars_4
+51816|Best Western Hotel Neue Post|Innsbruck|YES|stars_4
+51817|Bellevue|Vienna|YES|stars_4
+51960|Penz Hotel West|Innsbruck|YES|stars_4
+52222|Romantik Traube|Lienz|NO|stars_4
+52290|Park|St. Johann|NO|stars_4
+52291|Itterwirt|Itter|NO|stars_3
+52293|Bärenhof|Bad Gastein|NO|stars_3
+52294|Unterkrämerhof|Fusch an der Grossglocknerstrasse|NO|stars_3
+52480|Ferienpark Kreischberg|Sankt Lorenzen ob Murau|NO|stars_3
+52506|Boutiquehotel Stadthalle Wien|Vienna|YES|stars_3
+52507|Savoy|Vienna|YES|stars_3
+52567|Genuss- und Vitalhotel Moisl|Abtenau|NO|stars_4
+52571|Gasthof Cafe Zillertal|Strass|NO|stars_4
+52645|Austria|Söll|NO|stars_3
+52740|Gasthof Rose|Virgen|NO|stars_3
+52820|Reitlwirt|Brixen im Thale|NO|stars_4
+52822|Alpenhotel Fernau|Neustift|NO|stars_4
+52823|Marienhof|Fliess|NO|stars_3
+52826|Hochwimmer|Zell am See|NO|stars_3
+52963|Seewirt|Millstatt|NO|stars_3
+53035|Panorama|Jerzens|NO|stars_4
+53110|Hotel Gut Raunerhof|Schladming|NO|stars_4
+53126|Appartements Harrich|Maria Wörth|NO|stars_3
+53129|Sonnwend|Fieberbrunn|NO|stars_3
+53131|Gasthof Mösl|Hippach|NO|stars_3
+53140|Berghotel Rudolfshütte|Uttendorf|NO|stars_3
+53191|Vitalhotel Edelweiss|Neustift|NO|stars_4
+53192|ASI Lodge Tirol|Steinberg|NO|stars_4
+53193|Travel Charme Fürstenhaus am Achensee|Pertisau|YES|stars_4
+53199|Almresort Katschberg - Hinteregger/ Lärchenhof|Rennweg am Katschberg|NO|stars_4
+53200|Montanara|Flachau|NO|stars_4
+53201|Waidmannsheil|Flachau|NO|stars_4
+53203|Accord & Alpin|Flachau|NO|stars_3
+53205|Hofweyer|Ramsau am Dachstein|NO|stars_3
+53206|Familiengasthof Weiss|Neustift im Mühlkreis|NO|stars_3
+53207|Romantik Resort Bergergut|Afiesl|NO|stars_4
+53233|Mercure Wien City|Vienna|NO|stars_4
+53264|Best Western Hotel Imlauer Altstadt & Hotel Bräu IMLAUER - Best Western Hotel Imlauer Altstadt|Salzburg|NO|stars_3.5
+54718|Karwendel|Pertisau|NO|stars_4
+54869|Ad Laca|See|NO|stars_3
+55534|Inselhotel Faakersee|Faak am See|NO|stars_4
+55677|Menüwirt|St. Kanzian|NO|stars_3
+55679|Kreinerhof|Möllbrücke|NO|stars_3
+55680|Gasthof Brixnerwirt & Nebenhaus Freidhof|Brixen im Thale|NO|stars_3
+55682|Hotel Almrausch|Hinterglemm|NO|stars_4
+55691|Gamsspitzl|Obertauern|NO|stars_4
+55692|Tauernkönig|Obertauern|NO|stars_3
+55693|Schwaiger|St. Kathrein am Offenegg|NO|stars_4
+55694|Moserwirt|Bad Goisern|NO|stars_3
+55706|Rathaus Wein & Design|Vienna|NO|stars_4
+55707|Springer Schlößl|Vienna|NO|stars_3
+56632|Landhotel Reiberstorfer - geschlossen|Altmünster|NO|stars_4
+56633|AMEDIA Hotel Wels|Wels|YES|stars_4
+56635|Toni|St. Johann|NO|stars_3
+56637|Achentalerhof|Achenkirch|NO|stars_4
+56638|Schrofenstein|Landeck|NO|stars_4
+56639|Schloss Dörflinger|Bludenz-Bürserberg|NO|stars_4
+56640|Aktivhotel Kanisfluh|Mellau|NO|stars_3
+56674|Wiesenegg|Hinterglemm|NO|stars_3
+56838|Adler|Au|NO|stars_4
+57120|Hotel-Gasthof Lürzerhof|Untertauern|NO|stars_4
+57216|Gasthof Schroll|Kirchbichl|NO|stars_3
+57217|Rissbacher Hof|Stumm|NO|stars_3
+57228|Tyrol|Pfunds|NO|stars_4
+57230|Sonnenhof|Flachau|NO|stars_4
+57231|Tannenhof|Flachau|NO|stars_3
+57235|Parkhotel Zur Klause|Bad Hall|NO|stars_4
+57431|Aurach|Aurach|NO|stars_3
+57439|Wiese|St. Leonhard|NO|stars_3
+57454|Schladmingerhof|Schladming|NO|stars_3
+57797|Alpenhotel Speckbacherhof|Gnadenwald|NO|stars_4
+57799|Berghotel Holzer|Jochberg|NO|stars_4
+57800|Jägerhof|Kolsassberg|NO|stars_4
+57801|Mozart|Landeck|NO|stars_4
+57802|Neuwirt|Tulfes|NO|stars_3
+57803|Sonne|Landeck|NO|stars_3
+57841|Schipflinger|Itter|NO|stars_2.5
+57896|Bräuwirt|Kirchberg|NO|stars_4
+58020|Arcotel Moser Verdino Klagenfurt|Klagenfurt|YES|stars_4
+58021|Dermuth|Klagenfurt|NO|stars_4
+58083|Hubertus|Mellau|NO|stars_4
+58187|Landhotel Gasthof Grünberg am See|Gmunden am Traunsee (by Lake Traun)|NO|stars_3
+58230|Vitaloase zu den drei Brüdern|Unken|NO|stars_4
+58231|Alpengasthof Heutal|Unken|NO|stars_3
+58256|GesundheitsRessort Bad Tatzmannsdorf - Kur- und Thermenhotel|Bad Tatzmannsdorf|NO|stars_4
+58257|Avita Resort Hotel & Therme|Bad Tatzmannsdorf|NO|stars_4
+58273|Kristall|Obertauern|NO|stars_3
+58274|Solaria|Obertauern|NO|stars_3
+58275|Marietta|Obertauern|NO|stars_4
+58443|Loipersdorf Spa & Conference|Loipersdorf bei Fürstenfeld|NO|stars_4
+58446|Maiers Kuschelhotel|Loipersdorf bei Fürstenfeld|NO|stars_4
+58451|Beim Dresch|Erl|NO|stars_3
+58490|Gasthof Laudersbach|Altenmarkt|NO|stars_3
+58491|Das Urbisgut|Altenmarkt|NO|stars_4
+58495|Eberl|Finkenberg|NO|stars_4
+58504|Bierwirt|Innsbruck|YES|stars_4
+58534|Bergland|Hintertux|YES|stars_4
+58535|Hotel Berghof, Crystal Spa & Sports|Hintertux|NO|stars_4
+58553|Alte Post|Großarl|NO|stars_4
+58557|Kinderhotel Habachklause|Bramberg am Wildkogel|NO|stars_4
+58561|Tieflehner Hof|St. Leonhard|NO|stars_4
+58607|Sportpension Ischi|Ramsau am Dachstein|NO|stars_3
+58609|Holzleiten|Obsteig|NO|stars_4
+58611|Jagdhof|Riezlern|NO|stars_4
+58615|Fisser Hof|Fiss|NO|stars_4
+58698|Zontaja|Galtür|NO|stars_3
+58705|Landhaus Paradies|Spiss|NO|stars_3
+58706|Cervosa|Serfaus|NO|stars_5
+58709|Lärchenhof|Feichten|NO|stars_4
+58711|Venetblick|Jerzens|NO|stars_4
+58716|Josl|Obergurgl|YES|stars_4
+58718|Zum Hirschen|Längenfeld|NO|stars_3
+58719|Rotspitz|Maurach|NO|stars_3
+58724|Hochfeldhof|Zell am Ziller|NO|stars_3
+58745|Alpenhof|Gerlos|NO|stars_4
+58749|Neue Post|Mayrhofen|NO|stars_4
+58751|Hubertus|Fulpmes|NO|stars_3
+58757|Familotel Landgut Furtherwirt|Kirchdorf|NO|stars_4
+58761|Krallerhof|Leogang|NO|stars_4
+58764|Steiger|Neukirchen|NO|stars_4
+58771|Schützenhof Landhotel|Fuschl am See|NO|stars_4
+58772|Alpina|Katschberg|NO|stars_3
+58773|Defereggental Hotel & Resort|Sankt Veit in Defereggen|NO|stars_4
+58775|Seehotel Princes|Seelach|NO|stars_3
+58777|Sonne|St. Kanzian|NO|stars_4
+58779|Tennis & Yacht Hotel|Velden|NO|stars_3
+58851|Schloss Mönchstein|Salzburg|NO|stars_5
+58854|Domizil|Vienna|NO|stars_4
+58855|Suite Novotel Wien City|Vienna|NO|stars_3
+58859|Kavalier|Vienna|YES|stars_4
+58864|Hotel Vienna South|Vienna|YES|stars_4
+58865|Hadrigan|Vienna|NO|stars_3
+58868|Corvinus Pension|Vienna|NO|stars_4
+58871|Donauwalzer|Vienna|YES|stars_3
+58876|Arpi|Vienna|YES|stars_3
+58879|Baron am Schottentor|Vienna|NO|stars_3.5
+58880|Austria Trend Schloss Wilhelminenberg|Vienna|YES|stars_4
+58881|Kugel|Vienna|NO|stars_3
+58972|Salzburgerhof|Flachau|NO|stars_3
+58979|Forster|Neustift|NO|stars_4
+59904|Pfleger|Anras|NO|stars_4
+60045|Madseiterhof - geschlossen|Madseit|NO|stars_3
+60138|Kinderhotel Semi|Lutzmannsburg|NO|stars_4
+60139|Thermenhotel Vier Jahreszeiten|Lutzmannsburg|NO|stars_4
+60296|Gasthof zum Löwen|Aschau|NO|stars_3.5
+60310|Urbani Ossiacher See|Bodensdorf|NO|stars_4
+60316|Gasthof Almhof|Wildschönau|NO|stars_3
+60324|Podobnik|Eisenkappel|NO|stars_3
+60334|Pension Austria|Kaprun|NO|stars_3
+60335|Wiedersbergerhorn|Alpbach|NO|stars_4
+60350|Königsleiten|Königsleiten|NO|stars_4
+60374|Tipotsch|Stumm|NO|stars_3
+60375|Tiroler Adler|Waidring|NO|stars_3
+60376|Kongress|Leoben|NO|stars_4
+60397|Vital-Hotel Post|Dienten|NO|stars_4
+60867|Austria Trend Donauzentrum|Vienna|YES|stars_4
+60869|Westbahn Hotel|Vienna|NO|stars_4
+61021|Gästehaus Groder|Rauris|NO|stars_3
+61483|Gasthof Innertalerhof|Gerlos|NO|stars_4
+61815|Marco Polo Club|Kaprun|NO|stars_3
+61927|Joe's Aparthotel|Gerlos|NO|stars_3
+62578|Stillebacherhof|St. Leonhard|NO|stars_3
+62739|Lukashansl|Bruck an der Glocknerstrasse|YES|stars_3
+63519|Eggerbräu|Imst|NO|stars_3
+63525|Konrad|Söll|NO|stars_3
+63526|Stadt Kufstein|Kufstein|NO|0
+63527|Taxacher|Kirchberg|NO|stars_3
+63565|Austria Trend Messe Wien|Vienna|YES|stars_3
+63637|Pezina|St. Anton (am Arlberg)|NO|stars_3
+63657|Alpenhof|Aurach|NO|stars_3
+63658|Astoria|Kirchberg|NO|stars_3
+63660|Albin|Sölden|NO|stars_2.5
+63667|Stefanie|Sölden|NO|stars_3
+63668|Pension Waldesruh|Sölden|NO|stars_3
+63672|Alpenhof|Ischgl|NO|stars_4
+63674|Julia|Ischgl|NO|stars_2
+63677|Gästeheim Rätikon|Ischgl|NO|stars_3
+63685|Bellis|Neustift|NO|stars_3
+63692|Gästehaus Waltraud Rauch & Nebenhaus|Hippach|NO|stars_3
+63694|Tipotsch|Hippach|NO|stars_3
+63790|Cube Nassfeld|Nassfeld|NO|stars_3
+63791|Steffisalp Sporthotel|Warth|NO|stars_4
+63792|VAL BLU Resort SPA & Sports|Bludenz-Bürserberg|NO|stars_3
+63795|Sportalm|Gerlos|NO|stars_4
+63796|Best Western Premier Kaiserhof Kitzbühel|Kitzbühel|NO|stars_4
+63797|Landhaus Fischer|Kaprun|NO|stars_3
+63884|Ibis Styles Linz|Linz|YES|stars_3
+63930|Gundolf|St. Leonhard|NO|stars_3
+64042|Birkenhof|Döbriach|NO|stars_4
+64101|Plankenhof|Pill|NO|stars_4
+64103|Ferienanlage Central|Flachau|NO|stars_3.5
+64433|Airo Wien|Vienna|NO|stars_3
+64607|Mavida|Zell am See|NO|stars_4
+64608|Das Paradiso|Bad Schallerbach|NO|stars_4
+64609|Seefischer am Millstätter See|Döbriach|NO|stars_4
+64610|Falkensteiner Hotel & Spa Carinzia|Tröpolach|NO|stars_4
+64628|LOISIUM Wine & Spa Resort Langenlois|Langenlois|NO|stars_4
+64630|Lebensquell Bad Zell|Bad Zell|NO|stars_4
+64831|Star Inn Hotel Graz|Graz|NO|stars_4
+64834|Zillertalerhof|Achenkirch|NO|stars_4
+64835|Erika|Neustift|NO|stars_3
+65053|City|Villach|YES|stars_4
+65099|Stadt Salzburg|Bad Ischl|NO|stars_3
+66208|Prielmayerhof|Linz|NO|stars_4
+66220|Hoch Tirol|Fieberbrunn|NO|stars_3
+66221|Hoppeter|Fügen|NO|stars_3
+66222|Belmont|Imst|NO|stars_4
+66223|Naturhotel Family Alm Tirol|Biberwier|NO|stars_3
+66225|Nindler|Steindorf|NO|stars_3
+66229|Passhöhe|Hohentauern|NO|stars_3
+66283|Marienhof|Kirchbach|NO|stars_3
+66319|Sonnenhof|Abtenau|NO|stars_3
+67850|Stadthotel Deutsch-Wagram|Deutsch-Wagram|NO|stars_3
+68150|Kaunertalerhof|Kaunertal|NO|stars_3
+68151|Latschenhof|Obertauern|NO|stars_4
+68152|Tauernhaus Wisenegg|Obertauern|NO|stars_3
+68200|Landhof Ellmau|Ellmau|NO|stars_4
+68249|Oberwirt|Ebbs|NO|stars_4
+68252|Therme Laa Hotel & Spa|Laa an der Thaya|NO|stars_4
+68253|GesundheitsRessort Bad Tatzmannsdorf|Bad Tatzmannsdorf|NO|stars_4.5
+68254|Falkensteiner Balance Resort Stegersbach|Stegersbach|NO|stars_5
+68259|Red Thermenhotel|Lutzmannsburg|NO|stars_4
+68262|Thermenhotel Stoiser|Loipersdorf bei Fürstenfeld|NO|stars_4
+68264|Thermalhotel Leitner|Loipersdorf bei Fürstenfeld|NO|stars_4
+68269|Thermenhof Paierl|Bad Waltersdorf|NO|stars_4
+68271|Nova Köflach|Köflach|NO|stars_4
+68272|Falkensteiner Bleibergerhof|Bad Bleiberg|NO|stars_4
+68281|Minotel Resch|Kitzbühel|NO|stars_3
+68282|Hechenmoos|Aurach|NO|stars_2
+68283|Post am See|Pertisau|YES|stars_4
+68284|Schloss Prielau|Zell am See|NO|stars_4
+68285|Salzburger Hof|Maria Alm|NO|stars_3
+68286|Barbarahof|Kaprun|NO|stars_4
+68291|Gasthof zur Post|St. Gilgen|NO|stars_3
+68292|Landhotel Postgut|Tweng|NO|stars_4
+68522|Mercure Secession Wien|Vienna|NO|stars_4
+68523|Am Stephansplatz|Vienna|NO|stars_4
+68532|Best Western Drei Raben|Graz|NO|stars_3
+68747|Gasthof Garberwirt|Hippach|NO|stars_3
+68772|Lärchenhof|Goldegg|NO|stars_3
+68782|Christoffel|Niederau|NO|stars_3
+68787|Lindner|Oberndorf|NO|stars_4
+68796|Bacherlwirt|Velden|NO|stars_3
+68849|Pension Bischofer|Reith im Alpbachtal|NO|stars_3
+68850|Bernhard|Lech|NO|0
+68862|Hochthron|Werfenweng|NO|stars_3
+68863|First Mountain Kaprun|Kaprun|NO|stars_3
+68877|Gasthof Schwendterwirt|Schwendt|NO|stars_3
+68896|Flachauerhof|Flachau|NO|stars_4
+68897|Hotel Vitaler Landauerhof|Rohrmoos|NO|stars_4
+68898|Schwaigerhof|Schladming|NO|stars_4
+68991|Attache|Vienna|NO|stars_3
+69036|Koralpenblick|Trahütten|NO|stars_3
+69071|Sporthotel Neustift|Neustift|NO|stars_4
+69081|Berghotel Am Reisseck|Reisseck|NO|stars_3
+69082|Gartnerkofel|Hermagor|NO|stars_4
+69084|Der Klugbauer|Greisdorf|NO|stars_4
+69086|Appartements Hubertushof|Gerlos|NO|stars_3
+69087|Gasthof Dorfwirt|Reith im Alpbachtal|NO|stars_3
+69089|Valentin|Sölden|NO|stars_4
+69252|Courtyard by Marriott Vienna Schönbrunn|Vienna|YES|stars_4
+69304|Sieghard|Hippach|NO|stars_4
+69403|Park's|Velden|NO|stars_4
+69405|Hubertus|Neukirchen|NO|stars_4
+69407|Kaiserhof|Salzburg|YES|stars_3
+69408|H2O Therme Resort|Bad Waltersdorf|NO|stars_3
+69436|Falknerhof|Niederthai|NO|stars_3
+69437|Margretenhof|Fulpmes|NO|stars_3
+69438|Kristall|Finkenberg|NO|stars_4
+69439|A-ROSA Kitzbühel|Kitzbühel|NO|stars_5
+69440|Alexanderhof|Millstatt|NO|stars_4
+69441|Malteinerhof|Malta|NO|stars_4
+69442|Balance|Pörtschach|NO|stars_4
+69643|Veranstaltung - Romeo & Julia|Vienna|NO|stars_3
+69699|Goldene Ente|Salzburg|NO|stars_3
+69780|Wolf|Ischgl|NO|stars_4
+69782|Sonne|Fügen|NO|stars_3
+69787|Pension Milan|Zell am See|NO|stars_2
+69794|Grand de l'Europe|Bad Gastein|NO|stars_3
+69806|Tirolerheim Grüner|Sölden|NO|stars_2
+69811|Haus Bergfriede|Mayrhofen|NO|stars_2
+69812|Bliem|Mayrhofen|NO|stars_3
+69823|Honserhof|Mayrhofen|NO|stars_2.5
+69826|Garni Maximilian|Mayrhofen|NO|stars_3
+69835|Putzer|Mayrhofen|NO|stars_2.5
+69839|Axamer Lizum Clubhotel|Götzens|NO|stars_3
+69843|Ferienhof Oblasser|Mayrhofen|NO|stars_3
+69848|Alpenpanorama|Söll|NO|stars_4
+69850|Landhaus Strasser|Söll|NO|stars_3
+69851|Hotel Elisabeth|Sölden|NO|stars_3
+69858|Andreas|Mayrhofen|NO|stars_2.5
+69863|Zorn-Pauli|Zell am Ziller|NO|stars_3
+70369|Apartmenthaus Holzknecht|Längenfeld|NO|stars_3
+70398|Hotel Charlotte|Seefeld|NO|stars_3
+70399|Post|Radstadt|NO|stars_3
+70414|Müllnerhof|Oberndorf|NO|stars_3
+70604|Palais Porcia|Klagenfurt|NO|stars_4
+70711|Hotel Terminus|Vienna|NO|stars_2
+70881|Eder|Saalbach|NO|stars_3
+70979|Kitzbüheler Horn|Kitzbühel|NO|stars_4
+70981|Haiminger Hof|Haiming|NO|stars_3
+70982|Ideal|Serfaus|NO|stars_3
+70998|Austria Trend Salzburg West|Salzburg|YES|stars_4
+71095|Stenitzer|Bad Gleichenberg|NO|stars_4
+71260|Amadeus-Micheluzzi|Serfaus|NO|stars_4
+71327|Gasthof Post|Strass|NO|stars_3
+71328|Liesele-Sonne|St. Leonhard|NO|stars_3
+71329|Pension Laura|Bad Gastein|NO|stars_2
+71350|Delta Hotel Vienna|Vienna|YES|stars_4
+71464|Pension Alpenrose|Kaprun|NO|stars_3
+71465|Jagdhof|Kramsach|NO|stars_3
+71869|Tirolerhof|Serfaus|NO|stars_3
+71959|Seecamping Schluga|Hermagor|NO|stars_4
+72051|Andrea Cäciel|Brixen im Thale|NO|0
+72052|Kristall|Ellmau|NO|0
+72053|Knaller Möd|Techendorf|NO|stars_4
+72097|Tauernstüberl|Zell am See|NO|stars_3
+72098|Post|Velden|NO|stars_4
+72099|Samonig|Velden|YES|stars_4
+72100|Kärnten|Krumpendorf|NO|stars_3
+72101|Terrassenhotel Reichmann|St. Kanzian|NO|stars_3
+72102|Reichmann|St. Kanzian|NO|stars_3
+72103|Wellness- und Geniesserhotel Karnerhof|Egg (by Faaker Lake)|NO|stars_4
+72104|Strasserwirt|Strassen|NO|stars_4
+72106|Am Hammerrain|Flachau|NO|0
+72112|Gasthof zum Kaiserweg|Schladming|NO|stars_3
+72114|Pfeffel|Dürnstein|NO|stars_4
+72117|Schusternazl|Gruberau|NO|stars_4
+72118|Pension Drahteselböck|Rust|NO|stars_4
+72119|Seewirt & Attila|Podersdorf|NO|stars_4
+72142|Rokohof|Klagenfurt|NO|stars_4
+72143|Aragia|Klagenfurt|NO|stars_4
+72352|Sunnbichl|Weerberg|NO|stars_3
+72498|Reslwirt|Flachau|NO|stars_3.5
+72632|Zillerhof|Ramsau|NO|stars_4
+73040|Bergsee|Sölden|NO|stars_2
+73168|Schloss Haindorf|Langenlois|NO|stars_3
+73312|Christophorus|Kappl|NO|stars_4
+73313|Pass Thurn|Mittersill|NO|stars_4
+73549|Purner|Thaur|NO|stars_4
+73555|Falkensteiner Cristallo|Katschberg|NO|stars_4
+74235|Holiday Inn Salzburg City|Salzburg|NO|stars_4
+74557|Arion|Schwechat|NO|stars_3
+74586|Mitterwirt Wellnesshotel|Dienten|YES|stars_4
+74634|Alpenland|Flachau|NO|stars_3
+74635|Zistelberghof|Werfenweng|NO|stars_3
+75532|Landgasthof Dorferwirt|Wildschönau|NO|stars_3
+75690|Austria|Saalbach|NO|stars_3
+75781|Posthotel Strengen|Strengen|NO|stars_3.5
+75802|Alpenhotel Wurzer|Filzmoos|NO|stars_3
+75804|Happy Flachau|Flachau|NO|stars_4
+75812|Abendstein|Fügen|NO|stars_4
+75816|Pankraz|Fügen|NO|stars_3
+75820|Robert Fankhauser|Kaltenbach|NO|stars_3
+75823|Franz Josef|Kaltenbach|NO|stars_4
+75880|Four Points by Sheraton Panoramahaus|Dombim|YES|stars_4
+75881|Walisgaden|Damüls|NO|stars_3
+75883|Landhaus Schatz|Oetz|NO|stars_3
+75884|Congress|Innsbruck|YES|stars_4
+75886|Erzherzog Johann|Uderns|NO|stars_3
+75938|Goldene Rose|Reutte|NO|stars_3
+75939|Grüner Baum|Vils|NO|stars_3
+75940|Seppl|Mutters|NO|stars_4
+75941|Zerres|Partenen|NO|stars_3
+76015|Forer|Ladis|NO|stars_4
+76016|Q! Resort Health & Spa Kitzbühel|Kitzbühel|YES|stars_4
+76017|Familienhotel Berghof|Innerkrems|NO|stars_4
+76019|Landal Katschberg|Rennweg am Katschberg|NO|stars_3.5
+76020|Monarchia Park|Niederwölz|NO|stars_3
+76083|McTirol|Biberwier|NO|stars_3
+76084|Gasthof Ködnitzhof|Kals|NO|stars_3
+76085|Stöcklwirt|St. Johann im Pongau|NO|stars_3
+76086|Forellenhof|Flachau|NO|stars_4
+76087|Der Fichtenhof|Großarl|NO|stars_4
+76121|The Levante Laudon|Vienna|NO|stars_3
+76140|Park Inn by Radisson Uno City Vienna Hotel|Vienna|NO|stars_4
+76141|Das President|Vienna|YES|stars_3
+76198|Hotel Post|Lermos|NO|stars_4
+76263|Schloss Mühldorf|Feldkirchen an der Donau|NO|stars_4
+76381|Gasthof Bad Hochmoos|St. Martin bei (by) Lofer|NO|stars_3
+76464|Romantik Minichmayr|Steyr|NO|stars_4
+76466|Faakerseehof|Faak am See|NO|stars_3
+76507|Altwienerhof|Vienna|YES|stars_3
+76711|The Levante Parliament|Vienna|YES|stars_5
+77002|Sunshine|Berg im Drautal|NO|stars_3
+77083|AMEDIA Express Salzburg City|Salzburg|NO|stars_4
+77101|Landgasthof Pointner|Haibach ob der Donau|NO|stars_3
+77102|Zum Auerhahn|Vöcklabruck|NO|stars_3
+77104|Alpenaussicht|Obergurgl|NO|stars_4
+77149|Naturdorf Oberkühnreit|Neukirchen|NO|0
+77154|Oberreit|Bruck an der Glocknerstrasse|NO|stars_4
+77362|Gasthof Mitteregger|Kaprun|NO|stars_3
+77363|Seerose|Fuschl am See|NO|stars_4
+77364|Gasthof Brandwirt|Gosau|NO|stars_3
+77366|Landhaus Rainer|Mallnitz|NO|stars_4
+77369|Hagan Lodge|Altaussee|NO|stars_3
+77390|Caruso - geschlossen|Baden by Vienna|YES|stars_4
+77422|Jagdhaus|Berwang|NO|stars_3.5
+77500|Almhof Roswitha|Hippach|NO|stars_3
+77521|Bauernhof Haflingertränke|Ellmau|NO|stars_4
+77648|Amadeus Appartements|Wagrain|NO|stars_3
+77650|Saskia|Sölden|NO|stars_3
+77665|Gasthof Mariandl|Hippach|NO|stars_3
+77669|Posthotel Mayrhofen|Mayrhofen|NO|stars_3
+77671|Eckartauerhof|Mayrhofen|NO|stars_3
+77672|Putzer II|Mayrhofen|NO|stars_2.5
+77673|Pension Elisabeth|Mayrhofen|NO|stars_2
+77675|Landhaus Mayrhofen|Mayrhofen|NO|stars_3
+77676|Haus Waldruh|Mayrhofen|NO|stars_4
+77840|Landhotel & Aparthotel Almrösl|Hüttschlag|NO|stars_4
+77891|Brunnenhof|Rinn|NO|stars_2
+77896|Jörglerhof|Zell am Ziller|NO|stars_3
+78023|Botenwirt|Spital am Pyhrn|NO|stars_3
+78053|Central Löwen|Feldkirch|NO|stars_4
+78327|Pirkdorfer See|Pirkdorfer See|NO|stars_3
+78329|Sablatnighof Gasthof-Pension|Eberndorf-Mökriach|NO|stars_3
+78427|Exe Vienna|Vienna|YES|stars_4
+78436|Schnitzleck|Flachau|NO|stars_3
+78514|Fleming's Hotel Wien - Westbahnhof|Vienna|NO|stars_4
+78550|Ferienanlage Brunnleiten|Kleinarl|NO|stars_4
+78609|Feriendorf Koralpe|St. Stefan im Lavanttal|NO|stars_4
+78610|Löffele|Weißbriach|NO|stars_3.5
+78611|Stieglerhof|Radstadt|NO|stars_3
+78612|Gasthof Rosentalwirt|Neukirchen|NO|stars_3.5
+78614|Alpengasthof Reiter|Haus|NO|stars_3.5
+78615|Alpenhotel Erzherzog Johann|Rohrmoos|NO|stars_4
+79050|Gasthof Am See|Obersammelsdorf|NO|stars_3
+79053|Astner|Münster|NO|stars_3
+79056|Feichtnerhof|Feichten|NO|stars_4
+79057|Alpenruh|Serfaus|NO|stars_4
+79058|Schwarzer Adler|Pettneu|NO|stars_3
+79062|Haflingerhof|Golling an der Salzach|NO|stars_3
+79152|Goldener Berg|Oberlech|NO|stars_4.5
+79175|Die Forelle|Millstatt|NO|stars_4
+79188|Strasshofer|Kitzbühel|YES|stars_3
+79189|Dorfhotel Kirchenwirt|Haus|NO|stars_4
+79191|Gutjahr|Abtenau|NO|stars_4
+79519|Bären|Feldkirch|NO|stars_3
+79661|Klinglhub|Flachau|NO|stars_3
+79743|Schloss Gabelhofen|Fohnsdorf|NO|stars_4
+79744|Schlosshotel Post|Imst|NO|stars_4
+79746|Berghotel Malta|Malta|NO|stars_3
+79751|AlpenParks Maria Alm & Residence|Maria Alm|NO|stars_4
+79872|ACHAT Plaza Zum Hirschen|Salzburg|NO|stars_4
+79892|Pension Gratlspitz|Alpbach|NO|stars_3
+79893|Bergresidenz Mühle|Obergurgl|NO|stars_3
+79897|Zillertaler Weinstadl|Hippach|NO|stars_3
+79899|Maria Dornauer|Mayrhofen|NO|stars_3
+79904|Zeller Stuben|Zell am Ziller|NO|stars_3
+79905|Appart Central|Zell am Ziller|NO|stars_3
+79939|Artis Schloss Krumbach|Krumbach (Niederösterreich)|NO|stars_4
+79947|Vötterl|Grossgmain|NO|stars_3
+79948|Oberforsthof|St. Johann im Pongau|NO|stars_4
+79997|Arcotel Kaiserwasser Wien|Vienna|YES|stars_4
+79998|Radisson Blu Style|Vienna|YES|stars_5
+80152|Villa Cattina|Seeboden|NO|0
+80153|Gasthof Rosenheim - geschlossen|St. Primus|NO|0
+80154|Haus Wandaler|Sankt Georgen ob Murau|NO|0
+80155|Rapplhof|Haus|NO|stars_3
+80157|Villa Laura|Kaltenbach|NO|0
+80159|Resort Relax|Längenfeld|NO|stars_4
+80163|Bäckenhäusl - Knusperhäusl/Sonnhütte/Jägerchalet|Uttendorf|NO|0
+80230|Sandwirth|Klagenfurt|NO|stars_4
+80237|Sporthotel Silvretta Montafon-Gaschurn|Gaschurn|NO|stars_4
+80292|Bruggner Stubn|Landeck|NO|stars_3
+80403|Elisabeth|Schoppernau|NO|stars_4
+80421|Hotel Astoria & Pension Tirol|Nauders|NO|stars_4
+80466|Bärenbachhof|Saalbach|NO|stars_3
+80467|Aparthotel Alpenchalet|Neukirchen|NO|stars_4
+80469|Pension Wartenfels|Fuschl am See|NO|stars_3
+80470|Allmer|Bad Gleichenberg|NO|stars_4
+80471|Larimar|Stegersbach|NO|stars_4
+80472|Vier Jahreszeiten|Loipersdorf bei Fürstenfeld|NO|stars_4
+80473|Im Park|Bad Radkersburg|NO|stars_4
+80481|Biohotel Ramsauhof|Ramsau am Dachstein|NO|stars_4
+80486|Best Western Drei Königshof|Stockerau|NO|stars_4
+80502|Bartlwirt|Seeboden|NO|stars_3
+80503|Gasthof-Hotel zur Post|Unterbergen|NO|stars_4
+80507|Reitingblick und Nebenhaus|Gai|NO|stars_3
+80527|Alpenhotel Badmeister|Flattach|NO|stars_3
+80529|Seemüllnerhaus|Millstatt|NO|stars_3
+80530|Am Silbersee|Sankt Ulrich (Villach)|NO|stars_3
+80531|Angelika|St. Primus|NO|stars_3
+80533|Bronte House|Virgen|NO|stars_3
+80534|Holiday Appartements|Flachau|NO|stars_4
+80535|Reiter|Flachau|NO|stars_4
+80536|Oebster|Flachau|NO|stars_3
+80538|Ebner|Eben|NO|stars_3
+80539|Oberreiter|Fusch an der Grossglocknerstrasse|NO|stars_3
+80540|Bacher|Leogang|NO|stars_3
+80541|Katharina|Kaprun|NO|stars_3
+80542|Wieshof|Zell am See|NO|stars_3
+80544|Ferienhaus Schiwiese|Bad Hofgastein|NO|stars_3
+80545|Sonnhof|Gröbming|NO|stars_3
+80547|Leit'n Franz|Ramsau am Dachstein|NO|stars_3
+80549|Der Seebacherhof|Tauplitz|NO|stars_3
+80550|Ferienland Stubai|Fulpmes|NO|stars_3
+80707|Romantik Hotel Gmachl|Elixhausen|YES|stars_4
+80709|Zierlinger|Senftenberg|NO|stars_3
+80781|Gasthof Waidachhof|Piesendorf|NO|stars_3
+80782|Edelweiß|Hochfilzen|NO|stars_4
+80793|Hinteregger Familienhotel|Bad Kleinkirchheim|NO|stars_4
+80794|Haflingerhof|Kramsach|NO|stars_4
+80795|Planaihof|Schladming|NO|stars_3
+80838|Schattauer|Wagrain|NO|stars_4
+81466|Luciani Casa d'Oro|Vienna|NO|stars_4
+81500|Plainbrücke|Salzburg|NO|stars_3
+81501|Altstadthotel Kasererbraeu Salzburg|Salzburg|YES|stars_4
+81502|Stoiser's Hotel Garni|Graz|NO|stars_4
+81768|Gasthof-Pension Schöntal|Oberau|NO|stars_2
+81774|Hotel12|Bodensdorf|NO|stars_3
+81779|Zirbenhof|Hochfügen|NO|stars_3
+81969|Krone|Oberperfuss|NO|stars_3
+81978|St. Hubertus|Lofer|NO|stars_4
+82008|Moorquell|St. Georgen am Längsee (by Lake Läng)|NO|stars_4
+82009|Liebnitzmühle|Raabs an der Thaya|NO|stars_4
+82012|Filomena|Lech|NO|stars_4
+82056|Orange Wings Krems|Krems|YES|stars_3
+82068|Johann Strauss|Vienna|YES|stars_4
+82287|Thermenhotel Kurz|Lutzmannsburg|NO|stars_3
+82326|Familienhotel Bad Neunbrunnen|Maishofen|NO|stars_3
+82327|Pension Steirerhof|Kirchberg|NO|stars_3
+82328|Schilcherlandhof|Stainz|NO|stars_4
+82345|Faulenzerhotel|Friedersbach|NO|stars_4
+82579|Tyrol|Pertisau|NO|stars_3
+82580|Klingler|Maurach|NO|stars_3
+82581|Frühstückshotel Margret|Maurach|NO|stars_3
+82582|Sonnwend|Alpbach|NO|stars_3
+82583|Haus Rofan|Reith im Alpbachtal|NO|stars_3
+82584|Mauth|St. Johann|NO|stars_3
+82585|Achenwirt|St. Johann|NO|stars_2
+82587|Alpina|Ried im Zillertal|NO|stars_3
+82588|Stockinggut|Leogang|NO|stars_4
+82589|Haus Alpengruß|Lofer|NO|stars_2
+82590|Gasthof Neuwirt|Lofer|NO|stars_3
+82592|Seehof|Zell am See|NO|stars_3
+82743|Aviano|Vienna|NO|stars_4
+82745|City Central|Vienna|NO|stars_4
+82746|Pension Baronesse|Vienna|NO|stars_4
+82747|Pertschy Palais Hotel|Vienna|NO|stars_4
+82888|Brunnwirt|Weißbriach|NO|stars_3
+82895|Austria Trend Böck|Brunn am Gebirge|NO|stars_4
+83707|Das Reinisch - Hotel|Schwechat|YES|stars_4
+83780|Lasserhof|Salzburg|YES|stars_4
+83883|Tyrolis|Zirl|YES|stars_4
+85007|Feriengutshof Kampfl|Fügen|NO|stars_3
+85168|First Mountain Zillertal|Aschau|NO|stars_3
+85419|Glaserer Haus|Zell am See|NO|stars_3
+85495|Gasthof Aschenwald|Westendorf|NO|stars_3
+85617|Gasthof Zum Schweizer|Lofer|NO|stars_3
+85619|Salzburger Hof|Lofer|NO|stars_3
+85620|Edergut|Lofer|NO|stars_3
+85649|Pension Montiel|Tschagguns|NO|stars_3
+85684|Jochberger Hof|Jochberg|NO|stars_4
+85726|Hotel Mercure Salzburg City|Salzburg|YES|stars_4
+85774|Pension Schmiedhof|Stumm|NO|stars_3
+85784|Alpenhotel zum See|Leutasch|NO|stars_3
+85785|Gramaser|Ischgl|NO|stars_4
+85793|Donauhof|Emmersdorf|NO|stars_4
+85836|Ferienhof Lackner|Ried im Zillertal|NO|stars_1.5
+86085|Feriengut Buasen|Neukirchen|NO|stars_4
+86087|Klausenhof|Niederau|NO|stars_3
+86148|Praterstern|Vienna|NO|stars_1
+86316|Neuwirt|Ramsau am Dachstein|NO|stars_4
+86317|Martin|Ramsau am Dachstein|NO|stars_3.5
+86407|Pension Norika|Saalbach|NO|stars_3
+86416|Pension Költringer|Lofer|NO|0
+86436|Eschbacher|Filzmoos|NO|stars_3
+86437|Landhotel Martha|Zell am See|NO|stars_4
+86548|Allesch|Keutschach|NO|stars_3
+86554|Semriacher Hof|Semriach|NO|stars_3
+86559|Alpenwelt Alpenrose|Wald im Pinzgau|NO|stars_4
+86562|Bergland|Söll|NO|stars_4
+86563|Landgasthof Gappen|Kramsach|NO|stars_3
+86564|Pension Alpina|Reith im Alpbachtal|NO|0
+86578|Huber Hochland|Maurach|NO|stars_3
+86579|Pension Englhof|Achenkirch|NO|stars_2
+86580|Finkenberger Hof|Finkenberg|NO|stars_3
+86584|Zum Goldenen Löwen|Nauders|NO|stars_3
+86585|Schöne Aussicht|Pfunds|NO|stars_3
+86617|Mariandl|Neustift|NO|stars_3
+86635|Eschenhof|Fulpmes|NO|stars_3
+86650|Eden Hotel-Pension|Baden by Vienna|NO|stars_3.5
+86696|Donauschlinge|Schlögen|NO|stars_4
+86764|Stadthalle Johannes|Graz|NO|stars_2
+86786|Trumer Stube|Salzburg|NO|stars_3
+86803|Pension Flatscher|Niederau|NO|stars_2.5
+86994|Roomz|Vienna|YES|stars_4
+86996|Lindner Hotel Am Belvedere|Vienna|YES|stars_4
+87021|Jenbacherhof|Jenbach|NO|stars_4
+87024|Muttererhof|Mutters|NO|stars_3
+87028|Walserberg|Warth|NO|stars_4
+87030|Sonnalp|Damüls|NO|stars_3
+87037|Gasthof Post|Mörtschach|NO|stars_3
+87040|Taxenbacherhof|Taxenbach|NO|stars_3
+87042|Hotel zum Weißen Stein|St. Michael|NO|stars_3
+87051|Alpendorf Dachstein-West|Annaberg|NO|stars_3.5
+87156|Meixner/Obermoser Pension|St. Johann|NO|stars_3
+87157|Zur schönen Aussicht|St. Johann|NO|stars_3
+87164|Fischerwirt Gasthof|Achenkirch|NO|stars_3
+87322|Burgstein|Längenfeld|NO|stars_3
+87355|Falkensteiner Schlosshotel Velden|Velden|NO|stars_5
+87653|Eurohotel Vienna Airport|Fischamend|NO|stars_3
+90005|Berghotel Madlener|Damüls|NO|stars_4
+90006|Grieserhof|Lermos|NO|stars_3
+90007|Pension Trofana|Niederthai|NO|stars_3
+90008|Luchnerwirt|Kramsach|NO|stars_3
+90012|Nussbaumhof|Landeck|NO|stars_3
+90015|Sonnblick|Kartitssch|NO|stars_3
+90016|Rietzer Hof|Rietz|NO|stars_3
+90020|Aigner|Fügen|NO|stars_3
+90023|Ferienhotel Aussicht|Finkenberg|NO|stars_4
+90024|Heinrichshof|Mühlbach|NO|stars_3
+90028|Sonnwies|Hinterglemm|NO|stars_3
+90029|Bergzeit|Flachau|NO|stars_4
+90047|Pension Bergblick|Bad Goisern|NO|stars_3
+90048|Academia|Vienna|YES|stars_2
+90049|Gletscherblick|St. Leonhard|NO|stars_4
+90050|25hours Wien|Vienna|YES|stars_3
+90053|Bellaria Pension|Sölden|NO|stars_3
+90061|Stubaierhof|Neustift|YES|stars_4
+90078|Hotel Gastof Grünholz|Mühlbach|NO|stars_3
+90084|Almwelt Austria|Pichl|NO|stars_4
+90089|Kellerwirt|Oberau|NO|stars_3
+90095|The Ring|Vienna|YES|stars_5
+90159|Almdorf Reiteralm mit Almhotel Edelweiss|Pichl|NO|stars_4
+90279|Admiral|Vienna|NO|stars_3
+90303|Kirchenwirt|Münster|NO|stars_4
+90307|Helenenburg|Bad Gastein|NO|stars_3
+90309|Nefer Pension|Bad Gastein|NO|stars_2
+90323|Alpenhof St. Georg|Maurach|NO|stars_4
+90328|Sonnblick Appartement|Reith im Alpbachtal|NO|stars_2.5
+90339|Garni Martina|Ischgl|NO|stars_3
+90340|Garni Mirabell|Ischgl|NO|stars_3
+90346|Haus Fahringer|Kössen|NO|stars_2.5
+90349|Blaiken Gästehaus|Kössen|NO|stars_2
+90351|Hüttwirt Gasthof|Kössen|NO|stars_2
+90352|Post Gasthof|Kössen|NO|stars_3
+90355|Zasserl Appartement|Kössen|NO|stars_2.5
+90356|Riemenerhof Pension|Fügenberg|NO|stars_3
+90358|Dornauer Pension Gästehaus|Fügen|NO|stars_2.5
+90375|Braunegger Gästehaus|Kaltenbach|NO|stars_3
+90377|Kopp Gästehaus|Kaltenbach|NO|stars_2.5
+90398|Ferienwohnungen Kröll|Schwendau|NO|stars_3
+90405|Vierjahreszeiten Gästehaus|Mayrhofen|NO|stars_2
+90414|Brindlinger Gästehaus|Zell am Ziller|NO|stars_3
+90415|Hofer Chalet|Zell am Ziller|NO|stars_3
+90418|Haus Stock|Zell am Ziller|NO|stars_3
+90700|AVIVA Single Resort|St. Stefan am Walde|NO|stars_4
+90702|Landal Hochmontafon|Gargellen|NO|stars_3.5
+90703|Banyan|St. Anton (am Arlberg)|YES|stars_4
+90704|Sportalm|St. Leonhard|NO|stars_4
+90707|Kirchdach|Gschnitz|NO|stars_3
+90708|Hintertuxerhof|Hintertux|NO|stars_3
+90721|Feriendorf Kirchleitn - Dorf Kleinwild/ Dorf Großwild|Bad Kleinkirchheim|NO|stars_3
+90722|Landal Bad Kleinkirchheim|Bad Kleinkirchheim|NO|stars_3
+90933|Landgasthof Neuwirt|Mauterndorf|NO|stars_3
+90958|Elvira|Thiersee|NO|0
+90959|Mariasteiner Hof|Mariastein|NO|stars_4
+90965|Sonnhof|Hohentauern|NO|stars_3
+91006|Schlosswirt|Großkirchenheim|NO|stars_3
+91007|Martini|Kaprun|NO|stars_3
+91034|Köberl|Bad Mitterndorf|NO|stars_3
+91256|Das kleine Hotel Ortner|Stumm|NO|stars_2
+91319|Starlight Suiten Salzgries|Vienna|NO|stars_4
+91575|Brückenwirt|St. Johann im Pongau|NO|stars_4
+91604|Alexander Ferienanlage|Kirchberg|NO|stars_4
+91607|Tirolerhof|St. Anton (am Arlberg)|NO|stars_3
+91609|Mozart|Vienna|YES|stars_3
+91844|Landgasthof Reitherwirt & Jagdhof Hubertus|Reith|NO|stars_3
+91960|Landhof Lenzhofer|Gundersheim|NO|stars_4
+91968|Pension Sonja|Niederau|NO|stars_3
+91969|Starchenthof|Wildschönau|NO|stars_3
+91971|Pfisterhof|Zell am Ziller|NO|stars_3
+92037|NH Wien City|Vienna|YES|stars_4
+92077|Phoenix Apartments|Traunkirchen|NO|stars_3
+92084|Weisses Kreuz|Feldkirch|NO|stars_4
+92086|Sattlerwirt|Ebbs|NO|stars_4
+92097|Der Schmittenhof|Zell am See|NO|stars_4
+92100|Traunstein Gasthaus|Abtenau|NO|stars_3
+92103|Austria Trend Savoyen|Vienna|YES|stars_4
+92134|Wöscherhof|Uderns|NO|stars_4
+92202|Tasma|Kirchdorf|NO|stars_1
+92203|Franglhof|Kirchberg|NO|stars_2
+92212|Riezlerhof|Riezlern|NO|stars_4
+92256|Meininger Hotel Wien Hauptbahnhof|Vienna|YES|stars_3
+92416|Stern|Imst|NO|stars_4
+92425|Karwendel|Leutasch|NO|stars_4
+92426|Tirolerhof|Leutasch|NO|stars_3
+92427|Sporthotel Alpenhof|Ehrwald|NO|stars_4
+92468|Aubauerngut|Radstadt|NO|stars_3
+92470|Tscharnighof|Mittertrixen|NO|0
+92706|Jagdhaus am Großvenediger|Neukirchen|NO|0
+92707|Oberkühnreit Ferienhaus|Neukirchen|NO|stars_3
+92749|Gasthof Rösslwirt|Bleiburg|NO|stars_3
+92751|Naturhotel Taleu|Bürserberg|NO|stars_4
+92752|Pension Haueis|Zams bei Landeck|NO|stars_3
+92756|Alpenhotel Tirolerhof|Neustift|NO|stars_4
+92757|Alte Post|Fulpmes|YES|stars_4
+92759|Pfandler|Pertisau|NO|stars_4
+92874|Landgraf|Linz|NO|stars_4
+92896|Birkenhöhe|Hirschegg|NO|stars_4
+92900|Holiday Inn|Villach|YES|stars_4
+92991|Star Inn Hotel Salzburg Zentrum|Salzburg|NO|stars_3
+92992|Ramada Salzburg City Centre|Salzburg|YES|stars_4
+93016|Samerhof|Tröpolach|NO|stars_4
+93019|Ferienhof Rosslwirt|Straß im Attergau|NO|stars_3
+93077|Landgasthof Zur Post|Thiersee|NO|stars_3
+93088|Alpenhof|Kirchberg|NO|stars_3
+93093|Alpenrose|Au|NO|stars_4
+93102|Hinteraigengut Landhotel|Flachau|NO|stars_3
+93106|Alpenhof|Steinhaus am Semmering|NO|stars_3
+93150|Hillinger|Vienna|NO|stars_3
+93179|Erholungshotel Margarethenbad|Rangersdorf|NO|stars_4
+93192|Zur Post|Laaben|NO|stars_4
+93195|Zur Post|Riezlern|NO|stars_4
+93251|Courtyard Vienna Messe|Vienna|NO|stars_4
+93255|Hirschen|Stams|NO|stars_3
+93257|Haas|Bad Gastein|NO|stars_4
+95024|Haus Lach|Krumpendorf|NO|0
+95036|Landhaus Franzel|Ramsau|NO|0
+95038|Elisabeth Haus|Schröcken|NO|0
+95039|Haus Kelle|Fiss|NO|0
+95040|Chalet Montana|Obergurgl|NO|0
+95041|Haus Gufler|Längenfeld|NO|0
+95042|Merlenhütte|Königsleiten|NO|0
+95043|Chalet Bärlerhof|Königsleiten|NO|0
+95045|Lärchenwiese|Maurach|NO|0
+95047|Fehlehof|Aschau|NO|0
+95048|Almdorf Zillertal|Fügen|NO|0
+95154|Pension Bergheil|Kaprun|NO|stars_3
+95157|Pension Sonnhof|Lofer|NO|stars_3
+95159|Appartement Haus Renate|Rauris|NO|stars_3.5
+95183|Gasthof Hochsteg|Mayrhofen|NO|stars_3
+95480|Landhaus Legenstein|Bad Gleichenberg|NO|stars_4
+95485|Gasthof Hirschen|Silbertal|NO|stars_4
+95488|Moselebauer|Bad St. Leonhard im Lavanttal|NO|stars_4
+95492|Hasenauer|Hinterglemm|NO|stars_4
+95499|Jagdhof|Lackenhof|NO|stars_4
+95847|Fischinger|Feldkirchen|NO|stars_3
+95848|Alpenblume|Damüls|NO|stars_3
+95851|Bruckreiterhof|Pichl|NO|stars_3
+96191|Silvia|St. Kanzian|NO|stars_3
+96193|Ledererwirt Landgasthof|Geboltskirchen|NO|stars_3
+96195|Der Berghof|Hirschegg|NO|stars_3
+96409|Ottenhof Bergbauernpension|Brixen im Thale|NO|stars_3
+96441|Dunza|Bürserberg|NO|stars_3
+96442|Adler|Damüls|NO|stars_4
+96450|Tirolerhaus Appartments|Walchsee|NO|stars_3
+96506|Gasthof Sebi|Niederndorf|NO|stars_3
+96726|Alpine Palace & Haus Wolf|Hinterglemm|NO|stars_5
+96841|Kolberhof Gasthof|Alpbach|NO|stars_3
+97125|Dorfstadl|Kappl|NO|stars_4
+97333|Nussdorferhof|Bad Gastein|NO|stars_3
+97339|Neue Post|Schladming|NO|stars_3
+97342|Pension Herzog|Zell am See|NO|stars_2
+97343|Christophorus Gasthof|Söll|NO|stars_3
+97344|Pension Karlberger|Kitzbühel|NO|stars_3
+97345|Pension Sonnblick|Westendorf|NO|stars_3
+97346|Alpen Glück Hotel Kirchberger Hof|Kirchberg|NO|stars_4
+97380|Teichwirt Panoramapension|Bad Aussee|NO|stars_3
+97719|Lampenhäusl|Fusch an der Grossglocknerstrasse|NO|stars_3
+97720|Gästehaus Elisabeth|Radstadt|NO|stars_3
+97853|TOP Hotel Modul - geschlossen|Vienna|YES|stars_4
+97875|Thermenhotel Puchasplus|Stegersbach|NO|stars_4
+97902|Kärntnerhof|Bad Kleinkirchheim|NO|stars_4
+97927|Arlberger Hof Vital|Weissensee|NO|stars_3.5
+97991|Hirschen|Dombim|NO|stars_4
+98174|Huter Hotel-Pension|Söll|NO|stars_2
+98175|Fischer|St. Johann|NO|stars_3
+98179|Viktoria Garni|Hippach|NO|stars_3
+98180|Neuwirt|Finkenberg|NO|stars_3
+98187|Wolfgang|Hinterglemm|NO|stars_3
+98219|Kartause Gaming|Gaming|NO|stars_4
+98404|Monika Landhaus|Dölsach|NO|stars_3
+98405|Villa Marie|Purkersdorf|NO|stars_3
+98406|Hohe Schule|Loosdorf|NO|stars_2
+98408|Landhaus Bergkristall|Schwarzenberg im Böhmerwald (in the Bohemian nForest)|NO|stars_3
+98425|Haus Ortner|Rußbach|NO|stars_3
+98428|Das Sonneck - Appartement Hochkönig / Blaues Appartement / Sonnenwohnung|Mühlbach|NO|stars_3
+98431|Heimatsberg - geschlossen|Hüttau|NO|stars_3
+98466|Landhaus Ingrid|St. Martin am Tennengebirge|NO|stars_3
+98488|Haus Zonnen-Alp|Forstau|NO|stars_3
+98489|Pension Appartements Grillhofer|Mauterndorf|NO|stars_3
+98490|Schuastaschneida-Hof|Lintsching|NO|stars_2
+98500|Landhaus Oberegg|Wagrain|NO|stars_4
+98501|Landhaus Hühneregg|Wagrain|NO|stars_4
+98509|Haus Berlin|Wagrain|NO|stars_4
+98510|Appartementen Montana|Kleinarl|NO|stars_4
+98517|Schindlhütte|Großarl|NO|stars_4
+98521|Reithgut|St. Veit|NO|stars_3
+98524|Landhaus Höring|Goldegg|NO|stars_3.5
+98535|Appartementhaus Stefanie|Bad Hofgastein|NO|stars_3
+98538|Villa Alpen Rose|Bad Hofgastein|NO|stars_4
+98540|Chalet am Breitenberg|Bad Hofgastein|NO|stars_3
+98548|Ferienhaus Rosina|Taxenbach|NO|stars_3
+98557|Haus Helga|Rauris|NO|stars_3
+98560|Landhaus Schmidl|Bruck an der Glocknerstrasse|NO|stars_3
+98568|Landhaus Hollin|Fusch an der Grossglocknerstrasse|NO|stars_3
+98569|Chalet Grossglockner|Fusch an der Grossglocknerstrasse|NO|stars_4
+98571|Ferienhaus Rosi|Fusch an der Grossglocknerstrasse|NO|stars_3
+98575|Strubergasse|Zell am See|NO|stars_3
+98576|Junges Hotel Zell am See|Zell am See|NO|stars_2
+98585|Panorama|Kaprun|NO|stars_4
+98586|Mariandl's|Piesendorf|NO|stars_3
+98589|Haus Christine|Niedernsill|NO|stars_4
+98605|Scherer-Gütl|Neukirchen|NO|stars_3
+98610|Auhäusl|Krimml|NO|stars_4
+98611|Haus Lemmel A, B, C, D, E|Krimml|NO|stars_3
+98615|Chalet Lahntal|Maishofen|NO|stars_3
+98616|Rupertihof|Saalbach|NO|stars_3
+98617|Landhuis Bartolot|Saalbach|NO|stars_3
+98623|Hüttl Delux|Saalbach|NO|stars_3
+98624|Landhaus Gabriëlle|Saalbach|NO|stars_4
+98625|Landhaus Möschl|Leogang|NO|stars_3
+98626|Ferienhaus Kehlbach|Saalfelden|NO|stars_3
+98629|Mosshamhof|Saalfelden|NO|stars_2
+98633|Chalet Sonnberg|Maria Alm|NO|stars_4
+98634|Brandstatthof|Maria Alm|NO|stars_2
+98638|Barbara|Leogang|NO|stars_4
+98641|Landhaus Menardi|Seefeld|NO|stars_3
+98643|Appartement Kerber|Seefeld|NO|stars_3
+98644|Landhaus Schöpf|Seefeld|NO|stars_3
+98649|Landhaus Beim Bartler|Scharnitz|NO|stars_4
+98652|Landhaus Perktold|Mieders|NO|stars_3
+98658|Alfaierhof & Alfaier Bergheimt|Gschnitz|NO|stars_4
+98665|Landhaus Mair|Neustift|NO|stars_4
+98673|Scheffacheralm|Reith im Alpbachtal|NO|stars_4
+98675|Chalet Sonnwend|Reith im Alpbachtal|NO|stars_3
+98678|Schneiderhäusl|Alpbach|NO|stars_3
+98685|Landhaus Monika|Fügen|NO|stars_3
+98687|Landhaus Hauser|Fügen|NO|stars_3
+98693|Landhaus Köblhof|Fügen|NO|stars_3
+98700|Haus Tanja|Fügen|NO|stars_3
+98701|Michael Ferienhaus|Fügen|NO|stars_3
+98702|Alpenrose|Fügen|NO|stars_4
+98705|Rieser Appartement|Fügen|NO|stars_3
+98709|Rainer Ferienhaus|Fügen|NO|stars_4
+98746|Landhaus Pfister|Kaltenbach|NO|stars_4
+98757|Haus Hofer|Stumm|NO|stars_3
+98760|Landhaus Pirchach|Aschau|NO|stars_3
+98761|Adamerhof|Zell am Ziller|NO|stars_3
+98763|Landhaus Rosa|Zell am Ziller|NO|stars_3
+98765|Landhaus Egger|Zell am Ziller|NO|stars_3
+98785|Landhaus Zottl|Mayrhofen|NO|stars_4
+98789|Schwalbennest|Itter|NO|stars_3
+98807|Waldhof|Going|NO|stars_3
+98808|Gasthof Dorfwirt|Going|NO|stars_3
+98811|Hohe Salve|Hopfgarten|NO|stars_4
+98813|Haus Schneller Meyer|Hopfgarten|NO|stars_3
+98814|Landhaus Nadine|Westendorf|NO|stars_3
+98817|Seewaldhof II|Brixen im Thale|NO|stars_4
+98822|Papalapub|Brixen im Thale|NO|stars_3
+98823|Haus Katherina|Brixen im Thale|NO|stars_3
+98825|Haus Sonnberg|Brixen im Thale|NO|stars_5
+98826|Haus Simone|Brixen im Thale|NO|stars_3.5
+98828|Chalet Kirchberg|Kirchberg|NO|stars_4
+98829|Pension-Cafe Fuchs|Brixen im Thale|NO|stars_3
+98835|Huber|Waidring|NO|stars_3
+98836|Landhaus Zehentner|Fieberbrunn|NO|stars_3
+98837|Haus Michael|Fieberbrunn|NO|stars_3
+98850|Landhaus Stigger|Sankt Ulrich am Pillersee|NO|stars_3
+98865|Landhaus Knabl|Sautens|NO|stars_4
+98895|Landhaus Christian|Längenfeld|NO|stars_3
+98902|Landhaus Friedl|Längenfeld|NO|stars_3
+98904|Vier Jahreszeiten|Längenfeld|NO|stars_4
+98905|Silvana|Längenfeld|NO|stars_4
+98910|Landhaus Nadine|Sölden|NO|stars_3
+98936|Christine|Serfaus|NO|stars_4
+98938|Sport Appartementen|See|NO|stars_4
+98942|Sesselebenerhof|See|NO|stars_2.5
+98944|Alpengruß|Kappl|NO|stars_3
+98947|Arosa|Kappl|NO|stars_4
+98950|Hohspitz an der Piste|Kappl|NO|stars_3
+98951|Aurora|Kappl|NO|stars_3
+98953|Pirchheim|Kappl|NO|stars_3.5
+98956|Lastretta|Ischgl|NO|stars_3
+98959|Ingrid|Pettneu|NO|stars_3
+98965|Chalet Danninger|Ehrwald|NO|stars_5
+98966|Gerda|Biberwier|NO|stars_3.5
+98971|Ferienhaus Lumper|Holzgau|NO|stars_2
+98973|Monteschiel|Bürserberg|NO|stars_4
+98991|In der Schoß|Tschagguns|NO|stars_3
+98998|Landhaus Säly|Silbertal|NO|stars_3
+99001|Landhaus Wirnsberger|Schruns|NO|stars_3
+99002|Landhaus Eveline|Bartholomäberg|NO|stars_4
+99004|Landhaus Petra|Schruns|NO|stars_3
+99011|Chalet in Montafon|Schruns|NO|stars_4.5
+99012|Haus Buchholz|Schruns|NO|stars_3
+99014|Am Kristberg|Silbertal|NO|stars_4
+99015|Anton & Rita|Silbertal|NO|stars_3
+99017|Julia|Bartholomäberg|NO|stars_4
+99020|Herlinde|Bartholomäberg|NO|stars_4
+99033|Landhaus Simone|St. Gallenkirch|NO|stars_3
+99037|Landhaus Mimi|St. Gallenkirch|NO|stars_3
+99041|Landhaus Rudigier|St. Gallenkirch|NO|stars_4
+99045|Haus Flöry|St. Gallenkirch|NO|stars_4
+99051|Haus Waldheim|Gaschurn|NO|stars_3
+99052|Haus Rifa|Gaschurn|NO|stars_3.5
+99053|Haus Valüllablick|Gaschurn|NO|stars_2
+99055|Haus Mathies|Gaschurn|NO|stars_3
+99056|Sylvia|Gaschurn|NO|stars_3
+99063|Chalet an der Piste|Laterns|NO|stars_3
+99082|Haus am Himmel|Hirschegg|NO|stars_4
+99084|Ferienwohnung Schuster|Seewiesen|NO|stars_4
+99090|Troadkastenhaus|Sankt Lorenzen ob Murau|NO|stars_4
+99094|Troadkasten|Donnersbachwald|NO|stars_2
+99098|Landhaus Heiderand|Schladming|NO|stars_3
+99101|Knauss|Rohrmoos|NO|stars_2.5
+99105|Alter Kindergarten|Bad Mitterndorf|NO|stars_4
+99113|Landhaus Plesnik|Eberndorf-Mökriach|NO|stars_4
+99115|Landhaus Sofka|Pörtschach|NO|stars_3
+99117|Landhaus Florian|Bodensdorf|NO|stars_3
+99121|Bernhardt|Metnitz|NO|stars_3
+99123|Chalet Bauer|Bad St. Leonhard im Lavanttal|NO|stars_3
+99126|Ferienhaus Hollinger|Afritz am See|NO|stars_3
+99128|Brugger Ferienhaus|Radenthein|NO|stars_4
+99130|Haus Christine|Bad Kleinkirchheim|NO|stars_5
+99131|Landhaus Margit|Feldkirchen|NO|stars_4
+99133|Haus Anita|Ossiach|NO|stars_3
+99134|Villa Ossiachersee|Bodensdorf|NO|stars_4
+99136|Bungalow Pitzler|Förolach|NO|stars_3
+99137|Landhaus Tirol|Görtschach|NO|stars_4
+99140|Landhaus Dieter|Tröpolach|NO|stars_3
+99141|Landhaus Arbeiter|Tröpolach|NO|stars_3
+99143|Landhaus Schatzmayr|Zlan|NO|stars_3
+99144|Ferienhaus Schwarzenbacher|Gatschach|NO|stars_3
+99145|Landhaus Fuchs|Oberdrauburg|NO|stars_3
+99147|Landhaus Schmitzer|Mühldorf|NO|stars_3
+99150|Gatternighof|Obervellach|NO|stars_4
+99153|Ferienhaus Maria|Rangersdorf|NO|stars_2
+99161|Ferienhaus Aschbacher|Rennweg am Katschberg|NO|stars_3
+99165|Landhaus Schwarzbach-Brugger|Millstatt|NO|stars_3
+99167|Landhaus Steiner I|Matrei|NO|stars_4
+99168|Ferienhaus Riepler|Matrei|NO|stars_3
+99269|Maria Theresia|Gerlos|NO|stars_3
+99412|Almhüttendorf Turracher Höhe|Turracher Höhe|NO|stars_3
+99413|Edelweiss Gasthof|Kötschach-Mauthen|NO|stars_3
+99448|Tauernhof|Großarl|NO|stars_4
+99520|Lenas Donau|Vienna|NO|stars_3
+99701|JUFA Wipptal|Steinach|NO|stars_3
+99727|Neuwirt|Zell am Ziller|NO|stars_3
+99792|Flairhotel am Wörthersee|Velden|NO|stars_4
+100035|Batzenhäusl|Seefeld|NO|stars_3
+100036|Schönegg|Seefeld|NO|stars_3
+100152|Jägerklause Gasthof|Stumm|NO|stars_2
+100193|Bauernhof Kloohof|Brixen im Thale|NO|stars_3
+100338|Seehotel Dr. Jilly|Pörtschach|NO|stars_4
+100346|Pfeilerhof|Bad Gleichenberg|NO|stars_3
+100502|Vital|Bad Bleiberg|NO|stars_3
+101004|Novotel Wien City|Vienna|NO|stars_4
+101140|Gollingerhof|Hinterglemm|NO|stars_3
+101346|Almhof|Hochfügen|NO|stars_4
+102054|Matzelsdorfer Hof|Millstatt|NO|stars_3
+102427|Andreas Hofer|Kufstein|NO|stars_4
+102473|Schmiedhof|Itter|NO|stars_2.5
+102523|Rössle|Au|NO|stars_4
+102539|Falkensteiner Asia Spa Leoben|Leoben|NO|stars_4
+102609|Best Western Mondschein|Innsbruck|YES|stars_4
+102614|Ferienhotel Fernblick|Bartholomäberg|YES|stars_4
+102616|Dornauhof|Finkenberg|NO|stars_4
+102617|Alpinahotel|Fügen|NO|stars_4
+102618|Rilano Resort Steinplatte|Waidring|NO|stars_4
+102621|aqi Schladming|Schladming|NO|stars_3
+102624|Lambrechterhof Das Naturparkhotel|St. Lambrecht|YES|stars_4
+102665|Dreiländerblick|Nauders|NO|stars_3
+102671|Alpenjuwel Garni|Serfaus|NO|stars_4
+102672|Zum Gourmet Wellnesshotel|Seefeld|NO|stars_4
+102676|Hammerschmied Gasthof|Maishofen|NO|stars_3
+102748|Sporthotel Kurz|Oberpullendorf|NO|stars_3
+102818|Dolomitengolf Hotel & Spa|Lavant|NO|stars_4
+102819|CheckIN|Donnerskirchen|NO|stars_3
+102877|JUFA Schloss Röthelstein|Admont|NO|stars_3
+102879|JUFA Seckau|Seckau|NO|stars_2.5
+102906|Stolz Alpenhotel|Mieders|NO|stars_3
+102907|Alpina|Wenns|NO|stars_4
+102910|Zirmhof Familiengasthof|Malta|NO|stars_3
+102911|JUFA Veitsch|Veitsch|NO|stars_3
+103007|Kurhaus Gastein|Bad Hofgastein|NO|stars_3
+103072|Landhaus Salzburg|Maria Alm|NO|stars_2.5
+103105|Pension Eberharter|Hippach|NO|stars_2.5
+103106|Hotel Garni Nill|Hippach|NO|stars_2
+103109|Gästehaus Christoph|Kaltenbach|NO|stars_3
+103123|Eggerhof|Saalbach|NO|stars_3
+103125|Gasthof Bärnstatt|Scheffau|NO|stars_3
+103126|Jägerhof|Gerlos|NO|stars_4
+103177|Gasthof Alpina|Umhausen|NO|stars_3
+103179|Alpinhotel Berghaus|Tux|NO|stars_4
+103180|Appartementanlage Scheffauer Hof & Gasthaus|Scheffau|NO|stars_3
+103181|Sporthotel Brixen|Brixen im Thale|NO|stars_4
+103183|Urslauerhof|Maria Alm|NO|stars_4
+103186|Salzburger Dolomitenhof|Annaberg|YES|stars_3
+103187|Wanderhotel Bad Mitterndorf|Bad Mitterndorf|NO|stars_3
+103239|Kroneck|Kirchberg|NO|stars_4
+103416|Eurostars Embassy Hotel|Vienna|YES|stars_4
+103586|Alpenschlössl|Mayrhofen|NO|stars_3
+103743|Bürglstein|St. Wolfgang|NO|stars_4
+103862|Adlerhof|Salzburg|NO|stars_2
+103865|Admiral am Kurpark|Baden by Vienna|NO|stars_1.5
+103995|Amadeus|Vienna|NO|stars_4
+104114|Appartements Hartlbauer|Dorfgastein|NO|stars_3
+104243|Austria Classic Bleckmann|Vienna|NO|stars_3
+104244|Life Resort Loipersdorf|Jennersdorf|YES|stars_4
+104537|Ammerhauser|Anthering|NO|stars_4
+104797|Best Western Elefant|Salzburg|NO|stars_4
+105147|Pfeifer Kirchenwirt|Graz|NO|stars_3.5
+105427|Best Western Pension Arenberg|Vienna|NO|stars_4
+105882|City Hotel Linz|Linz|NO|stars_4
+105888|Hotel- und Gasthof Dollinger|Innsbruck|NO|stars_3
+105960|Clima Cityhotel|Vienna|YES|stars_3
+106729|DO & CO Hotel Vienna|Vienna|YES|stars_5
+106851|Ekazent Schönbrunn|Vienna|NO|stars_3
+107066|Feichtinger Graz|Graz|NO|stars_3
+107122|Hotel Scherer|Salzburg|NO|stars_4
+107209|Gasthof Post|Lech|NO|stars_5
+107375|Globo Plaza Hotel Villach|Villach|YES|stars_4
+107516|Harry's Home|Hart bei Graz|NO|stars_3
+107593|Hotel Munde|Telfs|NO|stars_3
+108147|Kaffeemuehle|Vienna|YES|stars_3
+108332|Landhaus Sonnenzauber|Wildschönau|NO|0
+108709|Living Max|Zell am See|NO|stars_4
+109090|Kirchenwirt|Schladming|NO|stars_3
+109141|Montafoner Hof|Tschagguns|NO|stars_4
+109531|Palais Coburg Residenz|Vienna|YES|stars_5
+109623|Pension Neuer Markt|Vienna|NO|stars_3
+109701|Post Ischgl|Ischgl|NO|stars_4.5
+110143|Resonanz|Vienna|NO|stars_3
+110418|Linsberg Asia Hotel & Spa|Bad Erlach|NO|stars_4
+110439|Alpeiner - Nature Resort Tirol|Neustift|NO|stars_4
+110582|Blumenhotel|St. Veit a. d. Glan|NO|stars_4
+110753|Schloss Dürnstein|Dürnstein|NO|stars_5
+110760|Schoene Aussicht|Salzburg|NO|stars_3
+110782|Seelos|Seefeld|NO|stars_4
+111001|Star Inn Hotel Salzburg Airport-Messe|Wals|NO|stars_3
+111096|Symposion City Stockerau|Stockerau|NO|stars_4
+111490|Vienna|Vienna|NO|stars_4
+111491|Vier Jahreszeiten|Salzburg|YES|stars_4
+111600|Vitalhotel Quellengarten|Lingenau|NO|stars_3
+111619|Wander-Vitalhotel Steirerhof|Pichl|NO|stars_4
+111658|Willms|Kirchberg|NO|stars_3
+111776|Amadeo Schaffenrath|Salzburg|YES|stars_4
+122280|JUFA Hotel zum Sternenturm Judenburg|Judenburg|NO|stars_3
+122284|JUFA Murau|Murau|NO|stars_2
+122285|JUFA Oberwölz|Oberwölz|NO|stars_3
+122437|Das Eisenberg|Sankt Martin an der Raab|NO|stars_4
+122455|Schönblick Mountain-Resort|Rauris|NO|stars_4
+122462|Garni Alpenstern|Ischgl|NO|stars_4
+122463|Central|Ischgl|NO|stars_3
+122470|Gratzerhof Gästehaus|Finkenberg|NO|stars_3
+122471|Eberharter Appartement|Zell am Ziller|NO|stars_2
+122472|Garni Robert|Mayrhofen|NO|stars_4
+122483|Pension Bergwald|Alpbach|NO|stars_3
+122484|Haus Margit|Kössen|NO|stars_2.5
+122487|Rottenspacher Gästehaus|Kössen|NO|stars_3
+122488|Pension Schmid|Kössen|NO|stars_2.5
+122492|Sonnenhof Appartementhaus|Schwendt|NO|stars_2.5
+122497|Hinterankerwald Appartementhaus|Walchsee|NO|stars_2.5
+122499|Pension Daxauer|Walchsee|NO|stars_2.5
+122605|Sonnleitn|Hermagor|NO|stars_3
+122733|Pension Rofangarten|Maurach|NO|stars_2
+122743|Haus Simmering|Obsteig|NO|0
+122746|Platzwirt|Fulpmes|NO|0
+122759|Chalet Hochstaffl|Königsleiten|NO|0
+122777|Hintermoos|Maria Alm|NO|stars_4
+122825|Hotel Hahn|Vienna|NO|stars_3
+122840|Tirolerhof|Zell am See|YES|stars_4
+122916|Red Eagle|Kirchberg|NO|stars_3
+124061|Academia Graz|Graz|YES|stars_2
+124101|Aparthotel Kathrin|Großarl|NO|stars_3
+125578|Hinterglemm|Hinterglemm|NO|stars_4
+125580|ACTIVE by Leitners|Kaprun|NO|stars_4
+125584|A-VITA Viktoria|Seefeld|NO|stars_4
+125585|Alte Schmiede|Seefeld|NO|stars_4
+125586|Parkhotel Seefeld|Seefeld|NO|stars_4
+125709|Ski-In-Ski-Out Hotel Berghof - Hotel Berghof|Bad Kleinkirchheim|NO|stars_3.5
+125717|Wenger Alpenhof|Werfenweng|NO|stars_3
+125902|Pension Excellence|Vienna|NO|stars_4
+125903|Mailberger Hof|Vienna|NO|stars_4
+125904|Bajazzo|Vienna|NO|stars_3
+125905|Hotel Pension Alla Lenz|Vienna|NO|stars_3
+125908|Opera Suites Vienna|Vienna|NO|stars_4
+125911|Pension Stadtpark|Vienna|NO|stars_3
+125918|Stalehner|Vienna|NO|stars_2
+125919|Riemergasse Appartements|Vienna|NO|stars_4
+125920|Pension Pharmador|Vienna|NO|stars_3
+125921|Hoffinger|Vienna|NO|stars_3
+125925|Strandhotel Alte Donau|Vienna|NO|stars_4
+125929|Romantik Parkhotel Graz|Graz|NO|stars_4
+125935|Kolpinghaus Salzburg|Salzburg|NO|stars_2
+125936|Arena City Salzburg|Salzburg|NO|stars_4
+125937|Haus Arenberg|Salzburg|NO|stars_4
+125938|Austria Classic Hölle|Salzburg|NO|stars_4
+125939|AirportSalzburg|Salzburg|YES|stars_4
+125940|Hohenstauffen|Salzburg|NO|stars_3
+125942|Frauenschuh|Salzburg|NO|stars_4
+125944|Friesacher's Aniferhof|Anif|NO|stars_3
+125945|Laschenskyhof|Wals|NO|stars_4
+125946|Altstadt Weisse Taube|Salzburg|NO|stars_4
+125947|Stadtkrug|Salzburg|NO|stars_4
+125948|Astoria Salzburg|Salzburg|NO|stars_3
+125949|Zur Post|Salzburg|NO|stars_3
+125950|Via Roma|Salzburg|NO|stars_4
+125952|Lilienhof|Salzburg|NO|stars_3
+125954|Gabi|Siezenheim|NO|stars_4
+126071|Barry-Memle|Velden|NO|stars_4
+126076|Das Landhaus Hauptmann|Pörtschach|NO|stars_4
+126077|Familien & Wohlfühlhotel Elisabeth|Pörtschach|NO|stars_4
+126085|Baby- und Kinderhotel Sonnelino|St. Kanzian|NO|stars_4
+126090|Lärchenhof|Heiligenblut|NO|stars_4
+126092|Christerbauer|St. Gilgen|NO|stars_3
+126094|Seeböckenhotel  Zum weissen Hirschen|St. Wolfgang|NO|stars_4
+126095|Weisser Bär|St. Wolfgang|NO|stars_4
+126101|Parkhotel|Bad Schallerbach|NO|stars_4
+126104|Land/Schloss-gut-Hotel Jagdhof Breitenthal|Amstetten|NO|stars_4
+126106|Aktivhotel Rohrmooserhof|Schladming|NO|stars_4
+126107|Sonneck|Rohrmoos|NO|stars_3
+126111|Verwöhnhotel Berghof|St. Johann im Pongau|NO|stars_4
+126112|Alpenland Sporthotel|St. Johann im Pongau|NO|stars_4
+126113|Alpengasthof Kirchboden|Wagrain|NO|stars_3.5
+126116|Miramonte|Bad Gastein|NO|stars_3.5
+126117|Villa Excelsior|Bad Gastein|NO|stars_3
+126118|Pension Gruber|Bad Gastein|NO|stars_3
+126119|Forsthofalm|Leogang|NO|stars_4
+126121|Feldwebel|Söll|NO|stars_3
+126127|Panorama Garni|St. Johann|YES|stars_3
+126128|Seebichl|Kitzbühel|NO|stars_3
+126129|Metzgerwirt|Kirchberg|NO|stars_3
+126130|Waldhof Ferienhotel|Fulpmes|NO|stars_4
+126131|Family Resort Stubai - Hotel Atzinger|Fulpmes|NO|stars_4
+126132|Sonnenspitze|Ehrwald|NO|stars_4
+126164|Ritzenhof|Saalfelden|NO|stars_4
+126169|Kreuz|Pfunds|NO|stars_4
+126193|Jägerhof|Oetz|NO|stars_2.5
+126205|Seestuben|Villach|NO|stars_3
+126429|Hotel Genussgasthof Sonnenburg|Riezlern|NO|stars_3.5
+126433|Kögele|Axams|NO|stars_3
+126549|Grandau|St. Gallenkirch|NO|stars_4
+126550|Erlebnishotel Kristall|Leutasch|NO|stars_4
+126552|Blue Mountain|Verditz|NO|stars_3
+126555|Gasthof Klammstein|Dorfgastein|NO|stars_3
+126556|Landhotel Hauserbauer|Dorfgastein|NO|stars_3.5
+126557|Unterbergerwirt|Dorfgastein|NO|stars_3
+126582|Bed & Breakfast Jungholz|Jungholz|NO|stars_2
+126583|Rosenhof bei Kitzbühel|Oberndorf|NO|stars_3
+126584|Heigenhauser|Waidring|NO|stars_3
+126585|Hotel-Pension Gschwentner|Waidring|NO|stars_3
+126626|Arthotel Binders|Innsbruck|YES|stars_4
+126628|Hotel Engl Garni|Innsbruck|NO|stars_3
+126629|Altpradl|Innsbruck|YES|stars_3
+126630|Kolping Linz|Linz|YES|stars_3
+126637|Zum jungen Römer|Radstadt|NO|stars_4
+126639|Schartner|Altenmarkt|NO|stars_4
+126697|Goldener Ochs|Bad Ischl|NO|stars_4
+126698|Oase|Bad Ischl|NO|stars_3
+126699|Gutenbrunn|Baden by Vienna|YES|stars_4
+126713|Schloss Moosburg|Moosburg|NO|stars_4
+126773|Germania|Bregenz|NO|stars_4
+126872|Sattlegger's Alpenhof & Feriensternwarte|Greifenburg|NO|stars_3
+126998|Gams Genießer- & Kuschelhotel|Bezau|NO|stars_4
+127024|Arte Krems|Krems|NO|stars_4
+127025|Goldener Löwe|Kufstein|NO|stars_3
+127101|Panoramahotel Gürtl|Haus|NO|stars_3.5
+127103|Momentum Hotel|Anif|NO|stars_4
+127119|Austria Classic Heiligkreuz|Hall by Innsbruck|NO|stars_4
+127215|Auwirt|Hallein|NO|stars_3
+127234|Landhaus Knura|Hermagor|NO|stars_3
+127236|Alpen Adria & Spa|Hermagor|NO|stars_3.5
+127238|Forstinger|Schärding|NO|stars_4
+127362|Rainsberghof|Reichenfels|NO|stars_3
+127450|Dachhotel Atrigon|Klagenfurt|YES|stars_4
+127451|Geyer|Klagenfurt|NO|stars_3
+127452|Rösch in Viktring|Klagenfurt|NO|stars_3
+127495|Goies|Ladis|NO|stars_4
+127501|Arlberg Stuben|Stuben|NO|stars_3
+127681|life medicine RESORT|Bad Gleichenberg|NO|stars_4
+127729|Ertl|Spittal an der Drau|NO|stars_4
+127814|Hein|Schwechat|NO|stars_4
+127903|Marc Aurel|Petronell-Carnuntum|NO|stars_3
+127908|Post Illmitz|Illmitz|NO|stars_3
+127931|Der Laternd'l Hof|Nesselwängle|YES|stars_0
+127983|Postgasthof Thaller Apfelland|Anger|NO|stars_4
+127984|Gasthof-Hotel Stockinger|Ansfelden|NO|stars_3
+127987|Das Gogers Golf & Spahotel|Burgauberg-Neudauberg|NO|stars_4
+127995|Herberts Stubn|Feldkirchen|NO|stars_3
+128000|Sallerhof|Grödig|NO|stars_4
+128002|GIP|Großpetersdorf|NO|stars_4
+128008|Mader|Katsdorf|NO|stars_3.5
+128012|Brennerei- und Wellnesshotel Lagler|Kukmirn|NO|stars_4
+128014|Hotel Liebmann|Laßnitzhöhe|NO|stars_4
+128021|Tonnerhütte|Mühlen|NO|stars_3
+128022|Gasthof Zur Traube|Neckenmarkt|NO|stars_3
+128025|Hirschen|Schwarzenberg|NO|stars_4
+128027|Revita Kocher|Sankt Agatha|NO|stars_4
+128036|Bergkristall Wildalpen|Wildalpen|NO|stars_4
+128840|Alpenrose|Millstatt|NO|stars_4
+128953|Hohe Tauern Sporthotel|Matrei|NO|0
+128974|Pension Sonnhof|Wiesing|NO|stars_3
+128995|Familiengut Ertlhof|Seeboden|NO|stars_3
+129058|Kolping Wien Zentral|Vienna|NO|stars_2
+133326|Allyouneed Salzburg|Salzburg|YES|stars_3
+133328|Austria Trend Salzburg Mitte|Salzburg|YES|stars_3
+133330|Vogelweiderhof|Salzburg|NO|stars_3
+133334|Allyouneed Vienna Two|Vienna|YES|stars_3
+133337|Allyouneed Vienna Four|Vienna|YES|stars_3
+134381|Senator|Vienna|YES|stars_3
+134385|Rainers|Vienna|YES|stars_4
+134456|Einwaller|Pertisau|NO|stars_4
+135005|Schloss Münichau|Reith|NO|stars_3.5
+135048|Zedern Klang|Hopfgarten in Defereggen|NO|stars_4
+135143|Ferienappartements Gadenstätter - Sonnberg I|Zell am See|NO|stars_3
+135147|Del Europe Appartementhaus|Bad Gastein|NO|stars_3
+135151|Café Klingler|Maurach|NO|stars_3
+135154|Pension Eppensteiner|St. Johann|NO|stars_2.5
+135156|Bellevue|Neustift|YES|stars_3
+135157|Auerhof Appartementhaus|Walchsee|NO|stars_2.5
+135161|Landhaus Zillertal|Fügen|NO|stars_3
+135165|Schneeberger Appartementhaus|Zell am Ziller|NO|stars_3
+135217|Aldiana Salzkammergut|Bad Mitterndorf|NO|stars_4
+135372|Panoramahotel Friesacherhof|Prebl|NO|stars_3
+135373|Regitnig|Weissensee|NO|stars_4
+135374|Almhotel Kopphütte|Mühlbach|NO|stars_3
+135378|Aumühle|Grein an der Donau|NO|stars_4
+135379|Holidayresort Franzlhof|Söll|NO|stars_4
+135404|Gutshof zum Schluxen|Pinswang|NO|stars_3
+135547|Zum Lebzelter Alpengasthof|Bad Goisern|NO|stars_3
+135703|A&O Wien Stadthalle|Vienna|YES|stars_2
+135724|Sun Valley|Wildschönau|NO|stars_3
+135725|JUFA Eisenerzer Ramsau Almerlebnisdorf|Eisenerz|NO|stars_2
+135733|Krakolinig|Pörtschach|NO|stars_3
+135734|Fantur|Velden|NO|stars_3
+135740|Berghof|Nesselwängle|NO|stars_3
+135750|Hubertushof|Leutasch|NO|stars_4
+135756|Landhaus Kerschdorfer|Kaltenbach|NO|stars_4
+135758|Familienhotel Finkau|Krimml|NO|stars_3
+135760|Eva Garden|Saalbach|NO|stars_4
+135761|Neuwirt|Großarl|NO|stars_4
+135762|Erzherzog Johann|Ramsau am Dachstein|NO|stars_3
+135763|Lavendel|Windischgarsten|NO|stars_4
+135764|Symposion Hotel Post|Traunkirchen|NO|stars_4
+135911|Steigenberger Hotel Herrenhof|Vienna|YES|stars_5
+136029|Kramerhof|Kirchdorf|NO|stars_4
+136048|Vital-Seminarhotel Wienerwald|Eichgraben|NO|stars_3
+136051|Kaisermann|Ellmau|NO|stars_2.5
+136052|Saladina|Gaschurn|NO|stars_3
+136053|Gasthof Rhätikon|Schruns|NO|stars_3
+136055|Castel|Serfaus|NO|stars_4
+136056|St. Georg Garni|Seefeld|NO|stars_4
+136058|||NO|0
+136059|||NO|0
+136063|||NO|0
+136064|||NO|0
+136065|||NO|0
+136067|||NO|0
+136109|||NO|0
+136137|||NO|0
+136138|||NO|0
+136140|||NO|0
+136142|||NO|0
+136172|||NO|0
+136178|||NO|0
+136180|||NO|0
+136181|||NO|0
+136182|||NO|0
+136183|||NO|0
+136184|||NO|0
+136192|||NO|0
+136240|||NO|0
+136446|||NO|0
+136457|||NO|0
+136458|||NO|0
+136459|||NO|0
+136466|||NO|0
+136501|||NO|0
+136522|||NO|0
+136532|||NO|0
+136604|||NO|0
+136611|||NO|0
+136764|||NO|0
+137730|||NO|0
+138271|||NO|0
+138409|||NO|0
+139376|||NO|0
+139388|||NO|0
+139391|||NO|0
+139406|||NO|0
+139551|||NO|0
+139599|||NO|0
+139615|||NO|0
+139616|||NO|0
+139617|||NO|0
+139618|||NO|0
+139619|||NO|0
+139620|||NO|0
+139622|||NO|0
+139624|||NO|0
+139640|||NO|0
+139645|||NO|0
+139787|||NO|0
+139927|||NO|0
+140024|||NO|0
+140125|||NO|0
+140264|||NO|0
+140322|||NO|0
+140323|||NO|0
+140327|||NO|0
+140329|||NO|0
+140374|||NO|0
+142176|||NO|0
+143428|||NO|0
+143453|||NO|0
+143454|||NO|0
+143767|||NO|0
+143768|||NO|0
+143770|||NO|0
+143789|||NO|0
+143793|||NO|0
+143794|Wagraineralm|Wagrain|NO|stars_4
+143795|Tyrol|Mösern bei Seefeld|NO|stars_3
+143851|Tirolerhof|Tux|NO|stars_4
+144221|Hubergut|Radstadt|NO|stars_3
+144767|Das Goldberg|Bad Hofgastein|NO|stars_4
+144769|Montana|Bad Mitterndorf|NO|stars_4
+144771|Walchs Camping & Landhaus|Innerbraz|NO|stars_3
+144774|Ibis Bregenz|Bregenz|NO|stars_3
+144777|Krone|Dombim|YES|stars_4
+144778|Sonne|Dombim|NO|stars_4
+144780|AktivHotel Hochfilzer / AlpenPension Claudia / Haus Garden - AlpenPension Claudia|Ellmau|NO|stars_3
+144782|Zum Schwarzen Bären|Emmersdorf|NO|stars_4
+144783|Gasthof Kreuzwirt|Engerwitzdorf|NO|stars_3
+144784|Lauriacum|Enns|NO|stars_4
+144785|Der Laerchenhof|Erpendorf|NO|stars_5
+144787|Csejtei|Feldbach|NO|stars_3
+144790|Familienhotel Herbst|Fladnitz an der Teichalm|NO|stars_3
+144791|Almwellness Pierer|Fladnitz an der Teichalm|NO|stars_4.5
+144803|Kern Buam|Graz|NO|stars_3
+144804|Comfort Appartementhaus Blümel|Graz|NO|stars_3
+144806|Landhaus St. Georg|Gröbming|NO|stars_4
+144814|Neue Post|Holzgau|NO|stars_3.5
+144817|Zillertal|Innsbruck|NO|stars_3
+144819|Kapeller|Innsbruck|NO|stars_3
+144820|Ibis Innsbruck|Innsbruck|NO|stars_3
+144821|Sporthotel Piz Buin|Ischgl|NO|stars_4
+144824|Panoramahof|Jennersdorf|NO|stars_4
+144825|Panorama Hotel Cis|Kartitssch|NO|stars_3
+144838|Seewirt|Mattsee|NO|stars_4
+144842|Pension Schlossberg|Mittersill|NO|stars_3
+144854|Werzer's Resort Pörtschach|Pörtschach|NO|stars_4
+144855|Gasthof zum Kirchenwirt|Puch bei Hallein|NO|stars_3
+144856|Am Mühlengrund|Graz|NO|stars_4
+144859|Landgasthof Lilie|Höfen|NO|stars_3
+144861|Der Kaiserhof|Ried im Innkreis|NO|stars_4
+144864|Rössle|Röthis|NO|stars_3
+144866|Ibis Salzburg Nord|Salzburg|NO|stars_3
+144869|Turnerwirt|Salzburg|NO|stars_3
+144870|Villa Ceconi|Salzburg|NO|stars_3
+144871|Snooze|Salzburg|NO|stars_3
+144872|Pension Lechner|Salzburg|NO|stars_3
+144876|Frankenhof|Scharnitz|NO|stars_3
+144879|Hotel Olympia & Herbs|Seefeld|NO|stars_3
+144880|ResidenzHochland|Seefeld|NO|stars_3
+144888|Gondelblick|Sölden|NO|stars_3
+144891|Narnhoferwirt|Sankt Jakob im Walde|NO|stars_3
+144892|Alpendorf|St. Johann|NO|stars_4
+144893|Landhotel Lerch Plankenau|St. Johann im Pongau|NO|stars_3
+144895|Landhotel Stofflerwirt|St. Michael|NO|stars_3
+144900|Gartenhotel Ochensberger|Sankt Ruprecht an der Raab|NO|stars_4
+144901|Kogler's Pfeffermühle|St. Urban|NO|stars_3
+144903|Stadthotel Styria|Steyr|NO|stars_4
+144906|ibis Woerthersee|Techelsberg|NO|stars_3
+144910|Wienerhof|Trins|NO|stars_3
+144911|Wienerwaldhof|Tullnerbach|NO|stars_4
+144912|Brugger's Genießerhotel Lanersbacher Hof|Tux- Lanersbach|NO|stars_4
+144917|Actilingua Apartment|Vienna|NO|stars_3
+144918|Amira|Voitsberg|NO|stars_3
+144919|Ramada Vienna South|Vösendorf|NO|stars_4
+144920|Edelweiss Wagrain|Wagrain|NO|stars_4
+144921|Golfresort Waidhofen|Waidhofen an der Thaya|NO|stars_4
+144922|Gasthof Spullersee|Wald am Arlberg|NO|stars_3
+144923|Familiengasthof Schranz|Wald im Pinzgau|NO|stars_3
+144924|Walserwirt|Wals|NO|stars_4
+144925|Servus Europa am Walserberg|Wals|NO|stars_3
+144926|Königgut|Wals|NO|stars_4
+144931|Alexandra|Wels|NO|stars_4
+144933|Korotan|Vienna|NO|stars_3
+144934|Appartements in der Josefstadt|Vienna|NO|stars_3.5
+144935|Pension Vera|Vienna|NO|stars_2
+144941|Bella Vienna Apartment|Vienna|NO|stars_4
+144942|Alma Boutique|Vienna|NO|stars_4
+144943|Cortina|Vienna|NO|stars_4
+144946|Pension Dormium|Vienna|NO|stars_3
+144949|Hollmann Beletage - Design & Boutique|Vienna|NO|stars_4
+144950|Gartenhotel Gabriel|Vienna|NO|stars_3
+144952|Birg - Cyrus|Vienna|NO|stars_2
+144953|Stanys - Das Apartmenthotel|Vienna|NO|stars_3
+144954|Pension Mariahilf|Vienna|NO|stars_3
+144955|Pakat Suites|Vienna|YES|stars_4
+144956|Schild|Vienna|NO|stars_4
+144957|Rothensteiner|Vienna|NO|stars_4
+144959|Drei Kronen|Vienna|NO|stars_3
+144961|Ibis Wien City|Vienna|NO|stars_3
+144994|Marc Aurel|Vienna|NO|stars_3
+145020|Gasthof Hauser|St. Johann|NO|stars_3
+145073|Pension Elisabeth|Kaprun|NO|stars_3
+145081|Pension Pepi|Zell am See|NO|stars_2
+145108|Klammer Erlebnisgasthof|Krems in Kärnten|NO|stars_3
+145109|Spertendorf|Kirchberg|NO|stars_3
+145122|Pension Larchbrunn|Niederau|NO|stars_2
+145124|Hüttl|Neukirchen|NO|stars_4
+145125|Landhaus Rohregger|Neukirchen|NO|stars_4
+145286|Bayrischer Hof|Gallspach|NO|0
+145357|Unterberger Appartements|Zell am See|NO|stars_3
+151309|Falkensteiner Hotel & Spa Bad Leonfelden|Bad Leonfelden|NO|stars_4
+151315|Norbertshöhe Alpengasthof|Nauders|NO|stars_3
+151797|Pannonia Tower|Parndorf|NO|stars_4
+151800|Sunshine|Sölden|NO|stars_3.5
+160241|Valentina|Mayrhofen|NO|stars_2.5
+161725|Hauslwirt|Golling an der Salzach|NO|stars_3
+161794|Christian|Maurach|NO|stars_2.5
+161795|Pension Rainhof|Kitzbühel|NO|stars_2
+161803|Gasthof Untermetzger|Zell am Ziller|NO|stars_3
+161833|Wolfgangstuben Gasthof|St. Wolfgang|NO|stars_2.5
+161840|Astrid|Saalbach|NO|stars_3
+161845|Birkleiten|Bramberg am Wildkogel|NO|stars_2.5
+161849|Am Bach|Gerlos|NO|0
+161851|Apartmenthaus Brixen & Haus Central|Brixen im Thale|NO|stars_2.5
+161853|Auf Bauernhöfe Appartements|Hopfgarten|NO|stars_2
+161854|Bergheim|Lech|NO|stars_3
+161859|Faistenauer Söll|Söll|NO|stars_2
+161861|Pension Gerlinde Feichter|Söll|NO|stars_3
+161862|Fleidingerhof|Westendorf|NO|stars_3
+162684|Aktiv Hotel Karnia|Hermagor|NO|stars_3
+163365|Lachtalhaus|Schönberg-Lachtal|NO|stars_3
+163389|Vienna Sporthotel|Vienna|NO|stars_4
+163392|Dom|Linz|NO|stars_4
+174973|Edelweiss|Feichten|NO|stars_3
+182153|Thermenhof Koch|Bad Gleichenberg|NO|stars_3
+182155|Alpin|Murau|NO|stars_3
+182172|Vallüla|St. Gallenkirch|NO|stars_3
+182228|Christkindlwirt|Steyr|NO|stars_4
+182285|Mountain & Soul Lifestyle|Ramsau|NO|stars_4
+182309|Pension Claus|Reith im Alpbachtal|NO|stars_2.5
+182312|Pension Luzia|Reith im Alpbachtal|NO|stars_2
+182313|Marklhof|Reith im Alpbachtal|NO|stars_3
+182314|Bauernhof Neubauhof|Reith im Alpbachtal|NO|stars_2.5
+182316|Tramberger|Reith im Alpbachtal|NO|stars_2
+182440|Gasthof Gfrerer Lipp|Feldkirchen|NO|stars_3
+182585|Apartementhaus Seiwald|Going|NO|stars_2
+182615|Heimgartl|Innsbruck|NO|stars_3
+182629|Kempinski Hotel Das Tirol|Jochberg|NO|stars_5
+182631|Austria Trend Alpine Resort Fieberbrunn|Fieberbrunn|YES|stars_4
+182635|JUFA Kaprun/Zell am See|Kaprun|NO|stars_2
+182636|JUFA Bleiburg/Pliberk Sport Resort|Bleiburg|NO|stars_3
+182637|JUFA Montafon|Bartholomäberg|NO|stars_3
+182639|Landal Brandnertal|Bürserberg|NO|stars_3.5
+182640|Mitterhofer|Schladming|NO|stars_4
+182642|Schneedorf Hochötz|Oetztal|NO|stars_3
+182643|Apartments Talblick|Ellmau|NO|stars_2
+182651|Feriengasthof Grundner|Windischgarsten|NO|stars_3
+182652|Natur & Wellnesshotel Höflehner|Haus|NO|stars_4
+182653|Activhotel Weißer Hirsch|Mariazell|NO|stars_4
+182679|Alpinara|Obertauern|NO|stars_4
+182684|Hotel s' Schlössl im Park|St. Kanzian|NO|stars_4
+182689|Römerhof|Igls|NO|stars_4
+182691|Alpenjuwel Jäger|Tux|NO|stars_4
+182770|Seminar-Park-Hotel Hirschwang|Reichenau|NO|stars_4
+182774|Park Inn Klosterneuburg|Klosterneuburg|YES|stars_4
+182780|Johann|Saalbach|NO|stars_4
+182800|Sporthotel Ellmau|Ellmau|NO|stars_4
+182854|Gasthof Friedlwirt|Unken|NO|stars_3
+182855|Dahoam Appartements|Forstau|NO|stars_4
+182856|Landhaus Emmy|Flachau|NO|stars_3.5
+182858|Pinguin Koralpe|St. Stefan im Lavanttal|NO|stars_3
+182868|Carolin Apparthaus|Westendorf|NO|stars_3
+182872|Seepark Hotel|Klagenfurt|NO|stars_4
+182873|Jäger|Tux|NO|stars_3
+182880|St. Martins Therme & Lodge|Frauenkirchen|NO|stars_4
+183005|Iris Porsche|Mondsee|NO|stars_5
+183011|Heritage Hallstatt|Hallstatt|NO|stars_4
+183013|Almdorf Seinerzeit|Patergassen|NO|stars_4
+183062|Val Sinestra|Kappl|NO|0
+183063|Haus Alpenblick|See|NO|0
+183064|Appartements Martin|Bezau|NO|0
+183065|Ladina Apparthotel|Sautens|NO|0
+183068|Tyrol Appartementhaus|Sillian|NO|stars_3
+183073|Appartements Hauser|Zell am See|NO|0
+183075|Bergresidenz|Obertauern|NO|stars_3
+183078|Chalets Steiner|Ramsau am Dachstein|NO|0
+183080|Vive Diem|Haus|NO|0
+183082|Baumgarten|Angerberg|NO|stars_3
+183146|Post|St. Johann|NO|stars_3
+183160|Torri di Seefeld|Seefeld|NO|stars_4
+183161|Wohlfühlhotel Goiserer Mühle|Bad Goisern|NO|stars_4
+183183|Nova|Gaschurn|NO|stars_3
+183281|AMEDIA Hotel Graz|Graz|YES|stars_4
+184055|Thermenlandhotel St. Magdalenahof|Sankt Magdalena am Lemberg|NO|stars_3
+184062|Ferienhof Unterhochstätt|Schwendt|NO|stars_3
+184067|Naturerlebnishotel Kehlbachwirt|Niedernsill|NO|stars_3
+184068|Hotel Gasthof Eschbacher|Piesendorf|NO|stars_3
+184069|Hotel Gasthof Kröll|Niedernsill|NO|stars_3
+184070|Seminar- Und Ferienhotel Trattnerhof|Semriach|NO|0
+184453|Hotel Haymon|Seefeld|NO|stars_3
+184457|Seehotel Schlick|Fuschl am See|NO|stars_3
+184464|Gasthof Inntalerhof|Tösens|NO|stars_3
+184484|Pfefferkorn's Hotel|Lech|NO|stars_4
+185332|Aktiv & Wellness Alpina|Wagrain|NO|stars_4
+185336|Gasthof Tannberg|Schröcken|NO|stars_3
+185381|Ballonhotel Thaller|Kaindorf|NO|stars_4
+187708|Walkner|Seeham|NO|stars_3
+187765|Pension Dr. Geissler|Vienna|NO|stars_3
+187855|Appartements Kulmhof|Tauplitz|NO|stars_3
+187856|Ferner's Rosenhof|Murau|NO|stars_4
+187863|Sporthotel & Gästehaus Xander - Gästehaus Xander|Leutasch|NO|0
+187984|Sporthotel St. Anton|St. Anton (am Arlberg)|NO|stars_4
+188155|Klausnerhof|Hintertux|NO|stars_4
+188259|Charly|Lech|NO|stars_3
+188262|Familotel Kinderhotel Stefan|Wenns|NO|stars_3
+188311|Gasthof Mitterjager|Kirchdorf|NO|stars_3
+188361|Hotel Adlon Vienna|Vienna|NO|stars_3
+188363|Aktiv Hotel-Pension Klingler|Eben|NO|0
+188364|Aldano Apartments|Vienna|NO|stars_3
+188368|Alpenappartement Europa|St. Johann|NO|stars_3
+188369|Alpen Hotel Kitzbuhel|Kitzbühel|NO|stars_3
+188373|Alpenhotel Dachstein|Bad Goisern|NO|stars_3
+188377|Alpina|St. Anton (am Arlberg)|NO|stars_3
+188383|Angerer Appartements|Reith im Alpbachtal|NO|stars_3
+188384|Ansitz Felsenheim|Lermos|NO|stars_4
+188399|Appartementhaus Sonne|Millstatt|NO|stars_3
+188403|Appartements Hermine Vienna|Vienna|NO|stars_3
+188409|Arian|Vienna|NO|stars_4
+188415|Attergauhof|St. Georgen im Attergau|NO|stars_3
+188422|Familotel Bauernhof-Hotel Oberkarteis|Hüttschlag|NO|stars_4
+188425|Belvedere Apartments Vienna|Vienna|NO|stars_4
+188435|Carina|Vienna|NO|stars_3
+188437|Chalet Kammleitn|Hermagor|NO|stars_3
+188440|City Rooms|Vienna|NO|stars_3
+188445|Crystls Aparthotel Flachau|Flachau|NO|stars_4
+188448|Das Beck|Reutte|NO|stars_3
+188453|Doktorschlössl|Salzburg|NO|stars_3
+188459|Falkensteiner Therme & Golf Hotel Bad Waltersdorf|Bad Waltersdorf|NO|stars_4.5
+188461|Familiengasthof Maier|Mautern in Steiermark|NO|stars_3
+188464|Tirolerhof|Ehrwald|NO|stars_4
+188465|Ferchergasse Vienna|Vienna|NO|stars_4
+188477|GAL Apartments|Vienna|NO|stars_3
+188478|Zimmermann|Reith|NO|stars_3
+188479|Garni Klausnerhof|Seefeld|NO|stars_3
+188489|Gasthaus Pension Marienhof|Wald im Pinzgau|NO|stars_3
+188490|Gasthof & Hotel Dorfkrug|Fulpmes|NO|stars_3
+188494|Gasthof Innbrücke|Innsbruck|NO|stars_2
+188496|Gasthof Löwen|Feldkirch|NO|stars_3
+188501|Gasthof Pension Reisenberger|Altmünster|NO|stars_3
+188502|Pension Seelos|Mieming|NO|stars_3
+188507|Künstleralm Hotel & Apartments|Kaprun|NO|stars_3.5
+188514|Golfhotel Villa Drachenwand Mondsee|Mondsee|NO|stars_4
+188515|Gourmethotel Habhof|Seefeld|NO|stars_3
+188516|Gratt Schlössl|St. Johann|NO|stars_3
+188518|Hagleitner|Zell am See|NO|stars_4
+188519|Harml's Aparthotel Flachau|Flachau|NO|0
+188521|Harry's Home Linz|Linz|NO|stars_3
+188522|Hartlwirt|Salzburg|NO|stars_3
+188524|Haus Enzianbrenner|Jenig|NO|stars_2
+188533|Heutaler Hof|Unken|NO|stars_3
+188539|Alpbacherhof|Alpbach|NO|stars_4
+188545|Hotel Auenhof|Tux|NO|stars_4
+188546|Hotel Aurelio|Lech|NO|stars_5.5
+188548|Batzenhäusl|Igls|NO|stars_4
+188549|Berghof Graml|Hallwang|NO|stars_3
+188550|Bokan Exclusiv|Graz|NO|stars_4
+188551|Caroline Vienna|Vienna|NO|stars_3
+188554|Lammertal Resort|Abtenau|NO|stars_3
+188556|Hotel am Garnmarkt|Götzis|NO|stars_4
+188557|Erla|Stubenberg|NO|stars_3
+188558|Forelle|Tux|NO|stars_4
+188561|Haus Die Barbara|Schladming|NO|stars_4
+188562|Garni Tenne|Söll|NO|stars_3
+188564|Gartenauer - geschlossen|Anif|NO|stars_4
+188582|Kristall|Gerlos|NO|stars_4
+188585|Lohningerhof|Maria Alm|NO|stars_4
+188591|Oasis|Jennersdorf|NO|stars_4
+188592|Paradies|Graz|NO|stars_4
+188595|Hotel Pension Schwaighofen|Eugendorf|NO|stars_3
+188596|Pension Schweizerhof|Leutasch|NO|stars_3
+188598|Pension Sonnleiten|Tux|NO|stars_3
+188602|Landhotel Pettneuerhof|Pettneu|NO|stars_3
+188605|Holdrichsmühle|Hinterbrühl|NO|stars_4
+188611|Rumer Hof Innsbruck|Innsbruck|NO|stars_4
+188612|Hotel Schlosspark Mauerbach|Mauerbach|NO|stars_4
+188617|Sonnbichl|St. Anton (am Arlberg)|NO|stars_3
+188618|Sonnenkönig|Bad Aussee|NO|stars_3
+188621|Sonnhof Family & Spa|St. Johann im Pongau|NO|stars_4
+188622|Sonnleitn|St. Johann|NO|stars_4
+188624|Steffner-Wallner Landgasthof|Mauterndorf|NO|stars_4
+188625|Natur Aktiv Hotel Tannenhof|Steeg|NO|stars_3
+188628|Untersberg|Sankt Leonhard|NO|stars_4
+188630|Vergeiner|Seefeld|NO|stars_3
+188638|Zur Post|Sankt Valentin|NO|stars_3
+188640|Jakober|Tux|NO|stars_4
+188647|Jordan|Kirchberg|NO|stars_2
+188648|JUFA Bad Aussee|Bad Aussee|NO|stars_2
+188654|Kolpingsfamilie Wien-Meidling Vienna|Vienna|NO|stars_2
+188660|Kunst & Kultur Seminarhotel Geras|Geras|NO|stars_4
+188661|La Scala|Vienna|NO|stars_4
+188680|Landhotel Hubengut|Radstadt|NO|stars_3
+188682|Landhotel Locker|Sankt Ruprecht an der Raab|NO|stars_4
+188688|LiV'iN Hotel & Residence Wien|Vienna|NO|stars_4
+188689|Lumes & Co. Pension|Vienna|NO|stars_4
+188690|Maiers Oststeirischer Hof|Söchau|NO|stars_4
+188693|Hotel Tuxertal|Tux|NO|stars_4
+188697|Muffin Hostel Salzburg|Salzburg|NO|stars_1
+188700|MyPlace City Centre|Vienna|NO|stars_4
+188701|MyPlace Riverside|Vienna|NO|stars_4
+188704|Natur Residenz Villgraten|Innervillgraten|NO|stars_3
+188706|Obertrauner Hof|Obertraun|NO|stars_2
+188712|Park Inn by Radisson Linz Hotel|Linz|NO|0
+188721|Pension Berghof Gerlos|Gerlos|NO|0
+188722|Pension De Lux|Vienna|NO|stars_3
+188724|Pension Elisabeth|Seeboden|NO|stars_3
+188736|Pension Liechtenstein|Vienna|NO|stars_3
+188741|Pension Residenz|Vienna|NO|stars_3
+188745|Pension Schweigerhof|Kirchberg|NO|stars_3
+188752|Pension Waldkrieber|Hermagor|NO|stars_3
+188756|Princess Bergfrieden|Seefeld|NO|stars_4
+188757|Quilters Home Vienna|Vienna|NO|stars_2
+188767|Schloss Leopoldskron|Salzburg|NO|stars_3.5
+188769|Schlosswirt zu Anif|Anif|NO|stars_4
+188770|Schluga|Steindorf|NO|stars_3
+188777|Saint Shermin|Vienna|NO|stars_4
+188778|Sporthotel Zugspitze|Lermos|NO|stars_4
+188779|Skihotel Galzig|St. Anton (am Arlberg)|NO|stars_4
+188783|Sport & Golf Hotel Kaprun|Kaprun|YES|stars_3
+188796|Sun-Matrei|Matrei in Osttirol|NO|stars_5
+188802|Towns Apartments Vienna|Vienna|NO|stars_3.5
+188806|Vienna Hietzing 4|Vienna|NO|stars_4
+188810|Viktoria|Vienna|NO|stars_3
+188811|Villa Klothilde|Zell am See|NO|stars_3
+188813|Villa Solitude|Bad Gastein|NO|stars_4
+188818|Wein Genuss Pössnitzberg Hotel Leutschach|Leutschach|NO|stars_4
+188820|Hotel Raxalpenhof|Reichenau|NO|stars_4
+188821|Wellnesshotel Kendler|Saalbach|NO|stars_4
+188827|Haus Pfaffenberger|Vienna|NO|stars_3
+189417|Golfblick Garni|Burgauberg-Neudauberg|NO|stars_3
+196056|Knappenwirt|Mariahof|NO|stars_3
+196101|Alpenhof|Fügen|NO|stars_4
+196114|Pension Marxenhof|Pertisau|NO|stars_3
+196124|Appartements Grünfelder|Oberperfuss|NO|stars_3
+196130|Gasthof Brunnerhof|Rinn|NO|stars_2
+196131|Edis Erlebniswelt Edthof|Eben|NO|stars_3
+196141|Huber's Boutique|Mayrhofen|NO|stars_4
+196178|Pension Gruberhof|Kössen|NO|stars_2.5
+196180|Pension Hinterleiten|Walchsee|NO|stars_4
+196187|Pension Kristall|Uderns|NO|stars_2.5
+196190|Pension Leo|Hippach|NO|stars_3
+196194|Pension Pfeifer|Heiligenblut|NO|stars_2.5
+196201|Pension Schusterbauer|Walchsee|NO|stars_2.5
+196343|Druschhof|Schladming|NO|0
+196344|Sonne|Wagrain|NO|stars_3
+196352|4 Sterne Nature Resort Ötztal|Oetz|NO|stars_4
+196356|Grubachhof|Gerlos|NO|stars_4
+196357|Achensee Pension|Pertisau|NO|stars_3
+196358|Achental Apartements Haus Regenbogen Pension|Pertisau|NO|stars_3
+196361|Adagio Vienna City|Vienna|YES|stars_4
+196365|Aktiv-Sporthotel Christoph Pitztal|St. Leonhard|NO|stars_3
+196368|Alpen Adria Gasthof Rausch|Ledenitzen|NO|0
+196374|Alpenherz|Gerlos|NO|stars_4
+196375|Alpenhof|St. Leonhard|NO|stars_3
+196376|Alpenhof|Filzmoos|NO|stars_4
+196377|Hotel Jacobwirt|Westendorf|NO|stars_4
+196379|Alpenhotel St.Christoph|St. Christoph|NO|stars_4
+196380|Hotel Garni Alpenrose|Pertisau|NO|stars_3
+196382|Alpen Royal|Jerzens|NO|stars_4
+196383|Alpenstern|Damüls|NO|stars_4
+196401|Andrè Arnold Pension|Sölden|NO|stars_3
+196419|Hotel Garni Fiegl Apart|Sölden|NO|stars_3
+196421|Appartements Austria|Mayrhofen|NO|stars_3
+196435|Ascherwirt Gasthof|Brandenberg|NO|stars_3
+196437|Auffacherhof|Wildschönau|NO|stars_4
+196447|Bärnthaler|Bad St. Leonhard im Lavanttal|NO|stars_3
+196450|Belvedere|Ried|NO|stars_4
+196451|Bentleys House|Zürs|NO|stars_5
+196455|Berghof|Hermagor|NO|stars_4
+196458|Bergland|Arzl|NO|stars_3
+196463|BioVital Hotel Sommerau|St Koloman|NO|stars_3
+196466|Böhmerwaldhof|Ulrichsberg|NO|stars_3
+196468|Boutique Hotel Steinerwirt|Zell am See|NO|stars_2
+196479|Boutique-Hotel & Apartments am Essigmanngut|Anif|NO|stars_3
+196483|Berghotel Tirol|Jungholz|NO|stars_4
+196484|Chalet Hilde|Lech|NO|stars_3
+196499|Döllacher Dorfwirtshaus|Großkirchenheim|NO|stars_3
+196500|Döllerer's Geniesserhotel|Golling an der Salzach|NO|stars_4
+196503|Gasthof Dorfstadl|Kössen|NO|stars_3
+196506|Eagles Astoria|Innsbruck|NO|stars_4
+196527|Karnischer Hof|St. Stefan|NO|stars_3
+196533|Hotel Brennseehof  - Alte Post|Feld am See|NO|stars_4
+196534|Fast|Wenigzell|NO|stars_4
+196537|Hotel Gasteiger Jagdschlössl|Kirchdorf|NO|stars_4
+196545|Florianerhof|St. Florian|NO|stars_4
+196569|Gästehaus Schneider|Alpbach|NO|stars_3
+196575|Hotel Gasthof Gribelehof|Lienz|NO|stars_3
+196581|Gasthof Lendwirt|Westendorf|NO|stars_3
+196593|Genusshotel Riegersburg|Riegersburg|NO|stars_4
+196597|Gesundheitsresort Bad St. Leonhard|Bad St. Leonhard im Lavanttal|NO|stars_3
+196605|Goldener Stern|Gmünd|NO|stars_4
+196611|Grand Tirolia Golf & Ski Resort|Kitzbühel|NO|stars_5
+196618|Gutshof Zillertal|Mayrhofen|NO|stars_4
+196663|Hochzeitsschloss Obermayerhofen|Sebersdorf|NO|stars_4
+196670|Holiday|See|NO|0
+196673|Hospiz Alm Residenzen|St. Christoph|NO|stars_4
+196676|Hotel Aberseehof|Abersee|NO|stars_3
+196679|Hotel am Dorfplatz|St. Anton (am Arlberg)|NO|stars_4
+196682|Hotel Christina|Seefeld|NO|stars_3
+196685|Fabrik|Vienna|NO|stars_3
+196686|Hotel Fernsicht|Lech|NO|stars_3
+196688|Gamshag|Hinterglemm|NO|stars_3
+196699|Hirschen|Bezau|NO|stars_3
+196701|Hotel Garni Laaxerhof|Obertauern|NO|stars_3
+196707|Pariente|Rohrmoos|NO|stars_3
+196709|Rita|Längenfeld|NO|stars_4
+196710|Rosengarten|Sölden|NO|stars_4
+196711|Rustika|Lermos|NO|stars_4
+196715|Hotel Sonnenburg|Lech|NO|stars_4
+196716|Sonnwendhof|Semmering|NO|stars_3
+196717|Tauernstern|Winklern|NO|stars_4
+196718|Toscanina|Bad Radkersburg|NO|stars_4
+196729|Hubertushof Landhotel|Bad Ischl|NO|stars_4
+196732|Sporthotel Ideal|Hochgurgl|NO|stars_3
+196743|JUFA Pöllau Bio-Landerlebnisdorf|Pöllau|NO|stars_2
+196759|Klimt|Vienna|NO|stars_3
+196764|Krone|Langenegg|NO|stars_4
+196772|Landgasthof Hocheck|Altmünster|NO|stars_3
+196790|Lenas Vienna|Vienna|NO|stars_3
+196797|Macher's Landhotel|St. Jakob in Defereggen|NO|stars_4
+196814|Montfort - das Hotel|Feldkirch|NO|stars_4
+196816|Moserhof|Breitenwang|NO|stars_4
+196860|Pension-Appartements Schipflinger|Going|NO|stars_3
+196868|Pfeiler´s Bürgerstüberl|Feldbach|NO|stars_4
+196870|Alpenhotel Plattner|Hermagor|NO|stars_4
+196880|Relax & Wanderhotel Poppengut|Hinterstoder|NO|stars_4
+196884|Riedl's Genießerschlössl|Stumm|NO|stars_4
+196887|Hotel Richard Löwenherz|Dürnstein|NO|stars_4
+196894|Sagritzerwirt|Großkirchenheim|NO|stars_3
+196903|Sarotla - 4 Oase der Gemütlichkeit|Brand|NO|stars_4
+196907|Alpinresort Schillerkopf|Bürserberg|NO|stars_4.5
+196912|Schlössl Hotel Kindl|Bad Gleichenberg|NO|stars_4
+196925|Schwarzer Adler|Steeg|NO|stars_3
+196937|Silvretta|St. Gallenkirch|NO|stars_4
+196942|Hotel Sonne|Wildschönau|NO|stars_3
+196948|Sporthaus Troger|St. Jakob in Defereggen|NO|stars_3
+196963|Steffelbauer Landgasthof|Gmunden am Traunsee (by Lake Traun)|NO|stars_3
+196967|Stockerwirt|Reith im Alpbachtal|NO|stars_3
+196985|Traube|Wildermieming|NO|stars_3
+196996|Verwöhnhotel Wildspitze|Mandarfen|NO|stars_4
+197001|Villa Seilern Vital Resort|Bad Ischl|NO|stars_4
+197005|Walliserhof|Brand|NO|stars_4
+197028|Winzerhotel Vöhringer|Gumpoldskirchen|NO|stars_4
+197030|Felsenhof|Bad Kleinkirchheim|NO|stars_4
+197031|Wohlfühl Hotel Eder|St. Kathrein am Offenegg|NO|stars_4
+197033|Zillergrund|Mayrhofen|NO|stars_4
+197039|Zum Lammwirt|Jerzens|NO|stars_3
+197047|Landgasthof zur Linde|Laaben|NO|stars_3
+197050|Zur Post|Hinterriss|NO|stars_3
+197057|Post|Hellmonsödt|NO|stars_3
+197058|Koreth|Innsbruck|NO|stars_3
+197061|Vitalhotel Krainz|Loipersdorf bei Fürstenfeld|NO|stars_4
+197066|Gasthof Pension Bürger|Schiefling|NO|stars_3
+197075|Tschirgantblick Hotel|Wenns|NO|stars_4
+197080|Verwöhnhotel Chesa Monte|Fiss|NO|stars_4
+197088|Goldener Engl|Hall by Innsbruck|NO|stars_4
+197092|Adlerhof am Sonnenplateau|Mieming|NO|stars_3
+197098|Alpensonne|Riezlern|NO|stars_3
+197099|Waldhotel Klopeiner See|St. Kanzian|NO|stars_3
+197101|Drauhof Landhotel|Rosegg|NO|stars_3
+197169|Hotel-Pension Strolz - Hotel Strolz|Mayrhofen|NO|stars_3
+197171|Hoferwirt|Neustift|NO|stars_3
+197174|Senningerbräu|Bramberg am Wildkogel|NO|stars_4
+197175|Tauernblick|Bramberg am Wildkogel|NO|stars_4
+197190|Zur Post|Alpbach|NO|stars_3
+197193|Family Play Resort Vulcanino|Köstendorf|NO|stars_3
+197204|Schillerhof|Bad Gastein|NO|stars_4
+197207|Seehotel am Hallstättersee|Obertraun|NO|stars_3
+197227|Appartementhaus Hubertus|Alpbach|NO|stars_2.5
+201321|Sentido Seehotel am Kaiserstrand|Lochau am Bodensee|NO|stars_4
+201483|Villa Carla|Dienten|NO|0
+201484|Haus Kesslerhof|Gröbming|NO|stars_4
+201486|Landhaus Waldeck|Traunkirchen|NO|stars_3
+201487|Haus Stocker|Schladming|NO|0
+201488|Haus Taxacher|Zell am Ziller|NO|0
+201783|Ursula|Flachau|NO|stars_3
+201784|Appartements Alpin|Söll|NO|stars_3
+201803|Garni Litzner|Ischgl|NO|stars_3
+202125|Kulmwirt Gasthof & Ferienwohnungen|Ramsau am Dachstein|NO|stars_4
+202128|AlpenParks Residence Bad Hofgastein|Bad Hofgastein|NO|stars_4
+202130|Alpenrose-Egghof|Berwang|NO|stars_3.5
+202161|Alp-Resort Tiroler Adler|Sölden|NO|stars_4
+202162|Haus Central|Mayrhofen|NO|stars_2.5
+202168|Appartement Taps|St. Anton (am Arlberg)|NO|0
+202171|Schönpflug|Kaprun|NO|stars_3
+202426|Landhotel Schloss Kammer|Maishofen|NO|stars_4
+202430|Landhaus Wieshof|Rauris|NO|stars_3
+202529|Appartements Tuxer|Gerlos|NO|stars_1
+202831|Hotel Holzer|Mittersill|NO|stars_4
+202838|Alpengasthof Enzianhof|Zell am Ziller|NO|stars_3
+202857|3* Designhotel|Vienna|YES|stars_3
+202913|Appartement Martin|Westendorf|NO|stars_2.5
+202916|Appartements Ruetz|Westendorf|NO|stars_3
+202917|Pension Gabriela|Itter|NO|stars_1
+202919|Pension Sunnhäusl|Sölden|NO|stars_3
+202923|Das Posthotel|Zell am Ziller|NO|stars_4
+202951|JUFA Waldviertel|Raabs an der Thaya|NO|stars_3
+203008|Pirawarth Kurhotel|Bad Pirawarth|NO|0
+203009|Gasthof Waldcafe|Mayrhofen|NO|stars_3
+203010|Lebens.Resort Ottenschlag|Ottenschlag|NO|0
+203299|Hauserwirt|Wörgl|NO|stars_3
+205064|Das Landhaus Prägant - Ferienappartements|Bad Kleinkirchheim|NO|stars_4
+205065|Appartements Tritscher|Rohrmoos|NO|stars_4
+205967|Das Reinisch - Bed & Breakfast Hotel|Schwechat|NO|stars_3
+209101|Andreas Hofer|St. Leonhard|NO|stars_4
+209183|Ferienhaus Sonnenhang|Matrei in Osttirol|NO|stars_4
+209212|Ferienwohnungen Buchauer - Georg Appartement|Thiersee|NO|stars_3
+209438|Haus Glanzer|Sölden|YES|0
+210333|Haus Semmering|Steinhaus am Semmering|NO|stars_3
+211521|Pension Wild|Vienna|NO|stars_2
+211962|JUFA Donnersbachwald Almerlebnisdorf|Donnersbachwald|NO|stars_3
+211963|JUFA Graz City|Graz|NO|stars_2
+211966|JUFA Salzburg City|Salzburg|NO|stars_2
+212691|Landhaus Edelweiss|Mandarfen|NO|stars_3
+212701|Landhaus St. Georg|Bad Gastein|NO|stars_3
+214969|Panoramahotel|St. Johann|NO|stars_3
+215110|Party & Eventhotel Knappenhof - geschlossen|Hinterglemm|NO|stars_3
+215226|Bergbauernhof Irxner|Mandling|NO|stars_4
+215351|Pension Stoi|Innsbruck|NO|stars_2
+215356|Pension Talblick|Wängle|NO|stars_4
+216743|Adler Relax- und Vitalhotel|St. Anton im Montafon|NO|stars_4
+217849|Hotel Schloss Fernsteinsee|Nassereith|NO|stars_4
+218199|Sonnenhof Bed & Breakfast|Igls|NO|stars_3
+218493|Stülzis|Lech|NO|stars_3
+218545|Sun, Snow & Golf apart-hotel|Kaprun|NO|stars_3
+220672|Karla Wellness- & Vitalhotel|Mauterndorf|NO|stars_3
+222406|JUFA Gnas Sport Resort|Gnas|NO|stars_2
+226481|Andrelwirt|Rauris|NO|stars_3
+226484|Seehotel Frank|Velden|NO|stars_3
+226488|Haus Taurachblick|Mauterndorf|NO|0
+226525|Pension Da Capo|Sankt Georgen ob Murau|NO|stars_3
+226553|Edelweiss|Gerlos|NO|stars_4
+226738|Adler/Rössle|Bregenz|NO|0
+226934|Auhof|Kappl|NO|stars_4
+227015|Gasteigerhof|Neustift|NO|stars_4
+227016|Pension Wasserfall|Neustift|NO|0
+227017|Standlhof|Uderns|NO|stars_3
+227054|Appartments Laura|Mayrhofen|NO|0
+227058|ViennArt|Vienna|YES|stars_4
+227076|Grünwalderhof|Patsch|NO|stars_3
+227285|Pension Angelika|Alpbach|NO|stars_3
+227286|Pension Daum|Hippach|NO|stars_2.5
+227287|Fürstenhof Pension|Alpbach|NO|stars_3
+227309|Ski-In-Ski-Out Hotel Berghof - Appartments Bergland|Bad Kleinkirchheim|NO|stars_4
+227310|Feel free Adventure Camp|Oetz|NO|stars_3
+227346|Eder|Maria Alm|NO|stars_4
+227575|Haus Andrea|Seeboden|NO|stars_3
+227577|Pension Uhl|Mallnitz|NO|stars_3
+227676|Hubertushof|Hinterglemm|NO|stars_3
+227705|Petzen|St. Michael ob Bleiburg|NO|stars_3
+227759|HB1 Design & Budgethotel Wiener Neudorf|Vienna|NO|stars_3
+227764|Tauern Spa Kaprun|Kaprun|YES|stars_4
+227765|Rosengarten|Kirchberg|NO|stars_4
+227850|Sofitel Wien Stephansdom|Vienna|NO|stars_5
+227876|Sonnenresidenz Friedheim|Weerberg|NO|stars_4
+227877|Alpenrose|Kühtai|NO|stars_4
+227878|Wahaha Paradise|Feistritz|NO|stars_4
+227958|Appartementhaus Jagdhaus|Zauchensee|NO|stars_4
+228127|Wohlfühl- & Familienhotel Johanneshof|Saalbach|NO|stars_3
+228130|AlpenParks Matrei|Matrei in Osttirol|NO|stars_2.5
+228192|Gasthof Laggner|Steindorf-Stiegl|NO|0
+228194|Hinterwies|Lech|NO|stars_4
+228196|Saliter Hof|Saalfelden|NO|stars_4
+228197|Tauplitzerhof|Tauplitz|NO|stars_3
+228232|Pension Wassererhof|Gerlos|NO|stars_2.5
+228274|Georgshof|Waldzell|NO|stars_3
+228367|Best Western Plus Amedia Art Salzburg|Salzburg|NO|stars_4
+228476|Alphotel Kuhstadl|Mittersill|NO|stars_3
+228477|Alpin Am Kreischberg|Sankt Georgen ob Murau|NO|stars_4
+228478|JUFA Semmering|Spital/Semmering|NO|stars_3
+228555|Pension Gabi|Saalbach|NO|stars_3
+228571|Eulersberg Appartements|Werfenweng|NO|stars_4
+228686|Apart Aurora|Fiss|NO|stars_4
+228687|Haus Mayer|Neustift|NO|0
+228689|Feriendorf Wildschönau|Wildschönau|NO|stars_3
+228690|Vicky Appartements|Niederau|NO|0
+228691|Almdorf Großarl|Großarl|NO|0
+228692|Landhaus Rieser|St. Martin am Tennengebirge|NO|0
+228693|Feriendorf Gröbming|Gröbming|NO|0
+228694|Ferien Idyll Alpine Spa Residence|Bad Kleinkirchheim|NO|stars_4
+228704|Appartementhaus Mühle|Kaprun|NO|stars_3
+228706|Appartementhaus Chalet Sofie|Ischgl|NO|stars_3
+228713|Adler Resort Kaprun|Kaprun|NO|stars_3
+228732|Alpenstern Heuberg|Hirschegg|NO|stars_3
+228745|Jägerhof|Ischgl|NO|stars_4
+228763|Iglu Village Kühtai|Kühtai|NO|stars_4
+228793|Lake's - my lake hotel & spa|Pörtschach|NO|stars_5
+228844|Allyouneed Klagenfurt|Klagenfurt|YES|stars_3
+229115|Wiesenhof|Neustift|NO|stars_3
+229153|Gesundheitszentrum Golfhotel am Wörthersee|Maria Wörth|NO|stars_4
+229497|Meininger Hotel Salzburg City Center|Salzburg|NO|stars_3
+229561|Sperlhof|Windischgarsten|NO|stars_3
+230247|Alpinlife Gebhard|Fiss|NO|stars_4
+230286|Der Hahnbaum|St. Johann im Pongau|NO|stars_4
+230855|Aktivhotel Eberleiten|Bruck am Ziller|NO|stars_3
+231269|Hotel 24/7|Götzis|NO|0
+231423|Gasthaus Rössl|Itter|NO|stars_2
+231714|Tannerhof|Zell am Ziller|NO|stars_3
+231716|Alpenrose Postalm|Strobl|NO|stars_3
+231889|Pension Wallnöfer|Mieming|NO|0
+231891|Kaysers Tirol Resort|Mieming|NO|stars_4
+231894|Bio-Vitalhotel Weissenseerhof|Weissensee|NO|stars_4
+231898|Fleming's Deluxe Wien-City|Vienna|NO|stars_4
+231970|Haus Patricia|Lofer|NO|stars_3
+231983|Vomperhof|Vomp|NO|stars_3
+232133|Der Rindererhof|Tux|NO|stars_4
+232161|Kaiser von Österreich|Bad Radkersburg|NO|stars_4
+232162|Alpen-Karawanserai Time Design Hotel|Hinterglemm|NO|stars_4
+232163|Artvita|Ischgl|NO|stars_4
+232281|Pension Pertisauerhof|Pertisau|NO|stars_3
+232282|Park - Area 47|Oetztal|NO|stars_4
+232373|Ramada Encore Vienna City Center|Vienna|NO|stars_3
+232416|Wiesengrund|Mayrhofen|NO|stars_2
+232425|Taferne|Mandling|NO|stars_3
+232476|Gasthof Bachschmied|Maria Alm|NO|stars_3
+232495|Biohotel Jesch|Diex|NO|stars_4
+232623|Aenea Designhotel|Reifnitz|NO|stars_5
+232625|Aparthotel Legendär|Ossiach|NO|stars_4
+232718|Vienna Urban Resort|Vienna|NO|stars_3
+232799|Gasthof Brentwirt|Leogang|NO|stars_3
+232908|JUFA Tieschen Landerlebnisdorf|Tieschen|NO|stars_3
+232909|Gasthof Neumayr|Obertrum|NO|stars_3
+232911|Gästehaus Neuried|Gerlos|NO|stars_2
+233160|Ramada Hotel & Suites|Vienna|YES|stars_4
+233173|Pension Hofer|Kaprun|NO|0
+233331|Pension Wildauer|Mayrhofen|NO|stars_2
+233400|Camping Bella Austria|St. Peter am Kammersberg|NO|stars_4
+233492|Pension Tuxerhof|Zell am Ziller|NO|stars_3
+233552|Tia Monte & Tia Monte Smart - Tia Monte Smart|Feichten|NO|stars_2.5
+233574|Sole-Felsen-Bad|Gmünd|NO|stars_4
+233575|Colora|Bad Radkersburg|NO|stars_4
+233696|Berghaus Hecher|Schwaz|NO|0
+234057|Gästehaus Weinberger|Obertauern|NO|0
+234064|Hotel Landhaus Tannenberg|Hinterglemm|NO|stars_4
+234071|Hotel Salzburg|Hinterglemm|NO|stars_4
+234575|Appartementhaus Hongmei|Zell am See|NO|stars_4
+234576|Landhaus Innrain|Flachau|NO|stars_1
+234652|Jugendpension Müllauerhof|Saalbach|NO|0
+234739|Parkhotel Igls|Igls|NO|stars_4
+234958|Cityhotel D&C|St. Pölten|NO|stars_4
+235297|Gasthof Almblick|Strallegg|NO|stars_3
+235313|Garni Maximilian|Zell am Ziller|NO|stars_3
+235314|Gailbergerhof|Oberdrauburg|NO|stars_3
+235738|Tunzendorfer Wirt|Gröbming|NO|stars_3
+235857|Zeferer|Filzmoos|NO|stars_3
+235891|Lti Alpenhotel Kaiserfels|St. Johann|NO|stars_4
+236031|Fliana|Ischgl|NO|stars_4.5
+236091|Kneipp Traditionshaus der Marienschwestern|Bad Kreuzen|NO|stars_3
+236181|Markterwirt|Altenmarkt|NO|stars_3
+236344|Tatzlwurm|Wagrain|NO|stars_3
+236676|Alp Art|Götzens|NO|stars_3
+236690|Garni Valerie|Hinterglemm|NO|stars_3
+236720|Castello Königsleiten|Königsleiten|NO|stars_4
+236921|Appartement Auszeit|Flachau|NO|stars_4
+236946|Schermer|Bad Häring|NO|stars_2.5
+236947|Pension Silian|Saalbach|NO|stars_3
+237052|Pension Edelweiß|Breitenbach|NO|stars_2
+237083|Apart Lechner|Uderns|NO|stars_3.5
+237089|Meininger Wien Downtown Sissi|Vienna|NO|stars_3
+237097|Austria Trend Park Royal Palace|Vienna|NO|stars_4
+237142|Zehenthof|Pfarrwerfen|NO|stars_3
+237170|Steindlhof|Walchsee|NO|stars_2.5
+237236|Schwarzer Adler|St. Anton (am Arlberg)|NO|stars_4
+237308|Pension Brunelle|Leutasch|NO|0
+237549|Post|Fusch an der Grossglocknerstrasse|NO|stars_3
+237603|Gasthof Werfenerhof|Werfen|NO|stars_3
+237612|Jäger|Wildermieming|NO|stars_3
+237613|Sissi|Bodensdorf|NO|stars_3
+237798|Explorer Montafon|Gaschurn|NO|stars_3
+237876|Jagdschloss Kühtai|Kühtai|NO|stars_4
+237883|Apparthotel Garni BERGLAND|Sillian|NO|stars_3
+238452|Imlauer Wien|Vienna|NO|stars_4
+238797|Maierl-Alm|Kirchberg|NO|stars_5
+238798|Gartenhotel Theresia|Saalbach|NO|stars_4
+238806|Hotel Ramada Innsbruck Tivoli|Innsbruck|NO|stars_3
+239079|Haus Ausserbach|Gaschurn|NO|0
+239206|Naturhotel Grafenast|Pill|NO|stars_3
+239271|Gasthof Schwarzenstein|Ginzling|NO|stars_3
+239274|Voglauerhof|Abtenau|NO|stars_3
+239399|Feriendorf Hohentauern|Hohentauern|NO|stars_4
+239640|Gasthof Gailberghöhe|Kötschach-Mauthen|NO|stars_3
+240256|Gasthof Johannesmesner|St. Paul im Lavanttal|NO|stars_2
+240258|Gollner|Lebring|NO|stars_3
+240259|Gasthof Hubmann|Kleinlobming|NO|stars_3
+240369|Birkenhof Hotel|Bodensdorf|NO|stars_3
+240583|Jugendferienhaus Salitererhof|Saalbach|NO|0
+240667|JUFA Grundlsee|Grundlsee (Grundl Lake)|NO|stars_3
+240751|Gästehaus Wöll|Alpbach|NO|stars_2
+240782|Briem|Westendorf|NO|stars_3
+240783|Haus am Brixenbachl|Brixen im Thale|NO|stars_2
+240909|Wiesenhof|Kaltenbach|NO|stars_3
+241037|Völserhof|Bad Gastein|NO|stars_4
+241057|INNs Holz|Ulrichsberg|NO|stars_4
+241058|Kirchenwirt|Tauplitz|NO|stars_3.5
+241064|Goldener Brunnen|Klagenfurt|NO|stars_3
+241296|Schwarzer Adler|Pfaffenhofen|NO|stars_3
+241340|Berghotel Dachstein|Ramsau am Dachstein|NO|stars_3
+242078|Sporthotel Achensee|Achenkirch|YES|stars_0
+242862|Gut Vögeihof|Forstau|NO|stars_3
+242871|Iris|Auffach|NO|stars_3
+242875|First Mountain Montafon|Gaschurn|NO|stars_3
+242876|Walserhof|Fontanella-Faschina|NO|stars_4
+242878|Am Reiterkogel|Hinterglemm|NO|stars_3
+242879|Pension Riedlsperger|Saalbach|NO|stars_3
+242880|Alta Vista|Neukirchen|NO|stars_3
+242881|Hüttenwirt|Hüttschlag|NO|stars_4
+242882|Alpen Aurora|Tauplitz|NO|stars_3
+242883|Resort Obertraun|Obertraun|NO|stars_4
+243214|Bergland|Leutasch|NO|stars_3
+243378|adeo Hotel Puch/Urstein|Salzburg|NO|stars_3
+243667|JUFA Weinviertel Landerlebnisdorf|Seefeld-Kadolz|NO|stars_3
+243668|JUFA Nockberge Almerlebnisdorf|Sirnitz|NO|stars_3
+243679|Alpenwelt|Flachau|NO|stars_3
+243728|Stockers Rohrmooser Erlebniswelt|Schladming|NO|stars_4
+243762|Gasthof Raufner|Innerkrems|NO|stars_3
+244123|LOISIUM Wine & Spa Resort Südsteiermark|Ehrenhausen|NO|stars_4
+244124|Stainzerhof|Stainz|NO|stars_4
+244125|Lindenhof Landgut|Bodensdorf|NO|stars_4
+244126|Nagglerhof am Weissensee|Weissensee|NO|stars_4
+244298|Ansitz Gasthof Burg Heimfels|Sillian-Heinfels|NO|stars_4
+244299|Gasthof Pension Kohlplatzl|Hopfgarten in Defereggen|NO|stars_3
+244869|JUFA Gitschtal Landerlebnisdorf|Weißbriach|NO|stars_3
+245012|Both|Schruns|NO|stars_3
+245384|Kufsteinerhof|Kufstein|NO|stars_3
+245623|Gasthof Reiter|Rattendorf|NO|stars_3
+245667|Daniel|Vienna|NO|stars_3.5
+245677|Appartementhaus Andrea|Uderns|NO|stars_3
+245678|Noldis|Serfaus|NO|stars_4
+245682|Hotel Garni Philipp|Serfaus|NO|stars_3
+245706|Appartementhaus Anton-Wallner Str.|Zell am See|NO|stars_2
+245707|Appartementhaus Edelweiss|Kirchberg|NO|stars_2.5
+245708|Appartementhaus Elisabeth|Reith im Alpbachtal|NO|0
+245709|Appartementhaus Kögl|Maurach|NO|0
+245710|Appartements Zillerufer|Mayrhofen|NO|0
+245756|Hubers Chalets|Mayrhofen|NO|0
+245830|Familien Resort Petschnighof|Diex|NO|stars_3
+245840|Educare|Treffen|NO|stars_4
+246119|Asten Hütten / Ast'n|Königsleiten|NO|0
+246503|Gasthof Burkert|Ochsengarten|NO|stars_3
+246830|Vital- & Familienhotel Angerwirt|Kleinarl|NO|stars_4
+246833|Rössl|Schladming|NO|stars_3
+247126|Alpenhotel Marcius|Nassfeld|NO|stars_3
+247397|AMEDIA Hotel Wien|Vienna|NO|stars_4
+247476|Kurhotel Dr. Petershofer|Wolfsegg am Hausruck|NO|stars_4
+247489|Angel's Place|Vienna|NO|stars_1
+247492|Hotel Lenas West|Vienna|NO|stars_3
+247495|Harml Aparthotel|Flachau|NO|stars_3
+247531|Feriendorf Kirchleitn - Dorf Kleinwild|Bad Kleinkirchheim|NO|stars_4
+247532|Feriendorf Kirchleitn - Dorf Großwild|Bad Kleinkirchheim|NO|stars_3
+247740|Gutwenger Ferienwohnungen & Almhütten|Innervillgraten|NO|stars_3
+247752|Moser´s Hotel|Maurach|NO|stars_3
+247761|Alpenklang|Großarl|NO|stars_4
+247763|Romantikhotel Böglerhof|Alpbach|NO|stars_4
+248394|Taxi Aschaber|Kirchberg|NO|stars_4
+248493|Ferienhotel Kreischberg|Sankt Lorenzen ob Murau|NO|stars_4
+248587|Appartements Austria|Nauders|NO|stars_3
+248969|Landhaus Savisalo|Ramsau am Dachstein|NO|stars_3
+249252|Almresort Gerlitzen Kanzelhöhe Hotel & Ferienwohnungen|Treffen|NO|stars_3
+249338|Alpenhof Grafleiten|Zell am See|NO|stars_3
+249355|Garni Dietrich|Seefeld|NO|stars_3
+249384|Alpengasthof Wolfgruber|St. Stefan im Lavanttal|NO|stars_3
+249692|Almresort Katschberg - Hinteregger|Rennweg am Katschberg|NO|stars_4
+249693|Almresort Katschberg - Lärchenhof|Rennweg am Katschberg|NO|stars_4
+249714|JUFA Wien City|Vienna|NO|stars_3
+250020|Roomz|Graz|NO|stars_4
+250041|Alpenhotel Kramerwirt & Altes Forsthaus - Kramerwirt|Mayrhofen|NO|stars_4
+250042|Alpenhotel Kramerwirt & Altes Forsthaus - Altes Forsthaus|Mayrhofen|NO|0
+250048|Wintergarten|Schladming|NO|stars_3.5
+250065|Austria Trend Doppio|Vienna|NO|stars_4
+253775|Alpen-Wellness Resort Hochfirst|Obergurgl|NO|stars_5
+253776|Haus Romana|Sölden|NO|stars_3
+253777|Edelweiss|Hinterglemm|NO|stars_4
+253786|Olivia|Leutasch|NO|stars_3
+254084|Bad & Ski Pension|Bad Kleinkirchheim|NO|stars_3
+254085|Kratzerwirt|Neustift|NO|stars_3
+254208|City Centre Anilin|Vienna|NO|stars_3
+254209|Vienna City Apart|Vienna|NO|stars_3
+254211|Central Vienna|Vienna|NO|stars_3
+254212|Hostel & Guesthouse Kaiser 23|Vienna|NO|stars_1
+254214|Vienna Garden|Vienna|NO|stars_3
+254216|Central Vienna-Living Premium Suite|Vienna|NO|stars_4
+254220|Luxury Design Home Stroheckgasse|Vienna|NO|stars_4
+254221|Pension Vienna Happymit|Vienna|NO|stars_2
+254223|EB Hotel Garni|Salzburg|NO|stars_4
+254225|Annex Der Salzburger Hof|Salzburg|NO|stars_4
+254226|Goldene Krone 1512|Salzburg|NO|stars_3
+254227|Star Inn Hotel Salzburg Gablerbräu|Salzburg|NO|stars_3
+254261|Fair-Price-Hotel|Bad Waltersdorf|NO|stars_3
+254277|Pension Rauchkuchl|St. Johann im Pongau|NO|stars_2
+254278|The Farberhaus|Lofer|NO|stars_3
+254279|Chalet Enzian|Bad Gastein|NO|stars_3
+254280|Aparthotel Lothringen|Bad Gastein|NO|stars_3
+254283|Hotel Alpenhaus Evianquelle|Bad Gastein|NO|stars_3
+254284|Chalet Embacher|Bad Gastein|NO|stars_3
+254285|Kur-Sportpension Villa Anna|Bad Gastein|NO|stars_3
+254286|Alpenhof|Bad Gastein|NO|stars_3
+254287|Chalet Charlotte|Fusch an der Grossglocknerstrasse|NO|stars_2
+254288|Sport Und Familienhotel Klausen|Kirchberg|NO|stars_4
+254289|Haus Thuss'n|Kirchberg|NO|stars_3
+254476|Hotel St. Georg zum See|Maurach|NO|stars_4
+254480|Der Waldhof|St. Anton (am Arlberg)|YES|stars_4
+254740|Tirol|Fiss|NO|stars_4
+254741|Schloss Saalhof|Maishofen|NO|stars_2
+254802|Gasthof Kreuz|Zams bei Landeck|NO|stars_2
+254811|Hotel Grossarler Hof|Großarl|NO|stars_4
+254906|Kleinmünchen Garni|Linz|NO|stars_2
+254909|Waldruhe|Kartitssch|NO|stars_3
+255876|Kerschbaumer / Zur Weinstube - Kerschbaumer|Rußbach|NO|stars_3
+255879|Hotel Angela|Lech|NO|stars_4
+255880|Omesberg|Lech|NO|stars_4
+255915|Appartements Bergsonne|Westendorf|NO|stars_3
+255916|Vital Hotel Sportalm & Schwaigeralm|Westendorf|NO|stars_3
+256047|Jerà am Furtnerteich|Mariahof|NO|stars_3
+256148|Hotel Platzl|Auffach|NO|stars_3
+256150|Appartements De Luxe Schluga|Hermagor|NO|stars_4
+256361|Gasthof Pöchhacker|Steyr|NO|stars_3
+256824|JUFA Altaussee|Altaussee|NO|stars_3
+257146|Familienhotel Krainz|Loipersdorf bei Fürstenfeld|NO|stars_3
+257849|JUFA Leibnitz Sport Resort|Leibnitz|NO|stars_3
+257991|JUFA Deutschlandsberg Sport Resort|Deutschlandsberg|NO|stars_3
+258027|Gasthof Goldener Stern|St Koloman|NO|stars_3
+258118|Landhaus Sonnblick|Wald am Arlberg|NO|stars_3
+258135|Goldener Adler Wattens|Wattens|NO|stars_3
+258182|JUFA Bruck an der Mur/Weitental|Bruck an der Mur|NO|stars_3
+258274|Sissi Park|Schönberg-Lachtal|NO|stars_4
+258289|Alpin Lodges Kühtai|Silz|NO|stars_4
+258308|JUFA Fürstenfeld Sport Resort|Fürstenfeld|NO|stars_3
+258482|Frühstückpension Feiken|Waldkirchen am Wesen|NO|stars_3
+258576|Ski Vital|St. Michael|NO|stars_3
+258578|Berau Landhotel am See|St. Wolfgang|NO|stars_3
+258579|Falkeis Gasthof-Pension|Kauns|NO|stars_3
+258581|Schachtner Hof|Wörgl|NO|stars_3
+258607|Landgasthof Bogner|Hall by Innsbruck|NO|stars_4
+258657|JUFA St. Martin am Tennengebirge|St. Martin am Tennengebirge|NO|stars_3
+258906|JUFA Erlaufsee Sport Resort|St. Sebastian|NO|stars_2
+259156|Feriendomizil Gasthof Scheer|Bad Gleichenberg|NO|stars_3
+259276|Gasthof zur Post|See /Ischgl|NO|stars_4
+259298|Wiesenegg|Aurach|NO|stars_3
+259311|Altneudörflerhof|Bad Radkersburg|NO|stars_3
+259313|Berggasthof Schwengerer|Mönichwald|NO|0
+259346|Lammerhof|Unterlamm|NO|stars_4
+259350|Reinbach Stube|St. Johann im Pongau|NO|stars_3
+259354|Strudlwirt|Fischbach|NO|stars_3
+259358|arx Genusshotel|Rohrmoos|NO|stars_4
+259360|Karlshof|Saalbach|NO|stars_3
+259444|JUFA Bregenz am Bodensee|Bregenz|NO|stars_2
+259445|Gradonna Mountain Resort - Hotel / Chalets|Kals|NO|stars_4
+259446|Landhotel Heitzmann|Mittersill|NO|stars_4
+259447|Sonnenhof|Mallnitz|NO|stars_3
+259735|Hotel Topazz|Vienna|NO|stars_4
+260043|Haus Katharina|Bad Hofgastein|NO|stars_4
+260086|Gasthof Lechner|Aggsbach|NO|stars_3
+260099|Gästehaus Lärchenheim|Mayrhofen|NO|stars_2.5
+260100|Pension Albert|Zell am See|NO|stars_2
+260103|Travel Charme Bergresort Werfenweng - Hotel / Apartments|Werfenweng|YES|stars_4
+260180|Landhotel Wolf|Leutasch|NO|stars_3
+260198|Erlebnisgasthof Moasterhaus|Hirschegg|NO|stars_3
+260201|Brunner - Reiteralm|Pichl|NO|stars_3
+260203|Gut Hanneshof|Erpendorf|NO|stars_3
+260205|Sportpension Katharinenhof|Erpendorf|NO|0
+260207|Schwarzer Adler|Golling an der Salzach|NO|stars_3
+260291|Arlmont|St. Anton (am Arlberg)|NO|stars_4
+260307|Gästeheim Prantl|Sölden|NO|stars_1
+260349|Alpenpark Turracher Höhe|Turracher Höhe|NO|stars_4
+260352|Pauli's Golf- & Familienhotel Pogöriacherhof|Faaker Lake|NO|stars_3
+260456|Hauser's Ferienhof & Landhaus Maridl|Hart im Zillertal|NO|stars_2.5
+260486|Gasthof Pension Kirchenwirt|Sankt Jakob im Walde|NO|stars_3
+260512|Lammwirt|Großarl|NO|stars_4
+260530|Alm Resort Nassfeld|Hermagor|NO|stars_3.5
+260548|Eder Michaela|Saalbach|NO|stars_3
+260558|Lindwurm|Bad Goisern|NO|stars_3
+260559|A&O Wien Hauptbahnhof|Vienna|NO|stars_2
+260568|Gradonna Mountain Resort - Hotel|Kals|NO|stars_4.5
+260569|Gradonna Mountain Resort - Châlets|Kals|NO|stars_4.5
+260570|Sporthotel & Gästehaus Xander - Sporthotel Xander / Gästehaus Xander|Leutasch|NO|stars_4
+260680|Aignerhof|Flachau|NO|stars_2.5
+260681|Apartpension Julia|Untertauern|NO|stars_4
+260682|Hotel Park|Bad Hofgastein|NO|stars_3
+260695|aDLERs Mountain View Design|Innsbruck|NO|stars_4
+260731|The Ritz-Carlton, Vienna|Vienna|NO|stars_5
+260751|Pension Bellevue|Bruck an der Glocknerstrasse|NO|stars_3
+260787|Jagdgut Wachtelhof|Maria Alm|NO|stars_5
+260986|Landal Chalet Matin|Bürserberg|NO|stars_3.5
+261004|Ransburgerhof|Flachau|NO|stars_3
+261128|Panoramahotel Burgeck|Krimml|NO|stars_3
+261160|JUFA Lungau|St. Michael|NO|stars_2.5
+261161|Grizzly Sport & Familien Resort|St. Margarethen|NO|stars_4
+261166|Sportpension Sonnhof|Taxenbach|NO|0
+261185|Berghof Schöpf|Längenfeld|NO|stars_2
+261437|Gasthof Edelweisshaus|Wald im Pinzgau|NO|stars_2
+261438|Kaiserstubn|Söll|NO|stars_2.5
+261503|Sammers Nockresort - Sporthotel Kostmann/ Kristall|Bad Kleinkirchheim|NO|stars_4
+261534|Kaiserhof & Nebenhaus Thanellerhof - Kaiserhof|Berwang|NO|stars_4
+261535|Kaiserhof & Nebenhaus Thanellerhof - Thanellerhof|Berwang|NO|stars_3
+261547|Steirisch Ursprung|Brodingberg|NO|0
+261557|Falkensteiner Hotel Schladming|Schladming|NO|stars_4
+261721|Almis Berghotel|Obernberg im Wipptal|NO|stars_3
+261944|Abelhof|Neukirchen|NO|stars_3
+264475|Derag Livinghotel City Apartments Wien|Vienna|NO|stars_3.5
+264476|Meininger Wien Downtown Franz|Vienna|NO|stars_3
+265494|Kristall|Tröpolach|NO|stars_3
+265534|A&O Graz Hauptbahnhof|Graz|NO|stars_2
+265552|Appartements Alpenmond|Leutasch|NO|0
+265559|Appartementhaus Hubertus|Kleinarl|NO|0
+265560|Haus Höllwart|Goldegg|NO|0
+265563|Villa Constanze|Altenmarkt|NO|0
+265580|Alex|St. Kanzian|NO|stars_3
+265606|Alpenhotel Ischglerhof|Ischgl|NO|stars_4
+265669|Schmiedererhof|Walchsee|NO|stars_2.5
+265680|Lamee|Vienna|NO|stars_4
+265693|Schiederhof|Großarl|NO|stars_3
+265740|Gasthof Musikantenwirt|Annaberg|NO|stars_2
+265765|Hubertushof|Hüttau|NO|stars_3
+269776|Sonnenhang|Sölden|NO|stars_2
+269777|Appartementhaus Leni|Sölden|NO|stars_3
+270609|Vienna Star Apartments Maria-Theresien-Straße 24|Vienna|NO|stars_2.5
+270612|Vienna Star Apartments Czerningasse 22|Vienna|NO|stars_2
+270613|Apartment Vienna - Ferdinandstraße|Vienna|NO|stars_3
+270614|Blue Danube Apartments|Vienna|NO|stars_4
+270615|Old Vienna Apartments|Vienna|NO|stars_3
+270616|Imperial Vienna Apartments|Vienna|NO|stars_3
+270617|Flower Apartment|Vienna|NO|stars_3
+270619|Vienna Star Apartments Praterstrasse 47|Vienna|NO|stars_2.5
+270620|Apartment Vienna - Untere Donaustraße|Vienna|NO|stars_3
+270621|Apartment Vereinsgasse 9|Vienna|NO|stars_3
+270622|Apartments Maximillian|Vienna|NO|stars_3
+270623|Hahn Apartment|Vienna|NO|stars_3
+270624|Studio Apartment Prater|Vienna|NO|stars_3
+270625|Vienna Star Apartments Nordbahnstrasse|Vienna|NO|stars_2
+270626|Apartments Heine W16|Vienna|NO|stars_3
+270627|Luxury City Center Apartment|Vienna|NO|stars_4
+270628|Adam Apartments|Vienna|NO|stars_3
+270629|Design Apartment Vienna 1 - Göllnergasse 29|Vienna|NO|stars_3
+270630|Boutique Apartments Wien|Vienna|NO|stars_3
+270631|Belvedere Apartment Wien|Vienna|NO|stars_3
+270632|Premium Apartments Am Belvedere|Vienna|NO|stars_2.5
+270633|Trend Apartment Wien|Vienna|NO|0
+270635|Vienna Star Apartments Untere Viaduktstrasse|Vienna|NO|stars_3
+270636|Vienna Star Apartments Barichgasse|Vienna|NO|stars_3
+270637|Vienna Star Apartments Ruedengasse|Vienna|NO|stars_2.5
+270638|Vienna Star Apartments Schnirchgasse|Vienna|NO|stars_2
+270639|Vienna Opera Apartment|Vienna|NO|stars_3
+270640|Margareten Apartment Wien|Vienna|NO|stars_3
+270641|City Apartment Margareten|Vienna|NO|stars_3
+270642|Vienna Star Apartments Spengergasse|Vienna|NO|stars_2
+270643|Vienna Apartment Wiedner Haupstrasse|Vienna|NO|stars_3
+270644|Vienna Star Apartments Gießaufgasse|Vienna|NO|stars_2
+270645|Vienna Star Apartments Siebenbrunnen 61|Vienna|NO|stars_2
+270647|Vienna Star Apartments Mollardgasse 31|Vienna|NO|stars_2
+270648|Pension Lehrerhaus|Vienna|NO|stars_2
+270649|Kaiser Apartments|Vienna|NO|stars_3
+270651|Star Apartments Buchengasse|Vienna|NO|stars_2.5
+270652|Cosy Apartment Wien|Vienna|NO|stars_3
+270653|Vienna Star Apartments Karmarschgasse 53|Vienna|NO|stars_2.5
+270654|Laxenburg Apartment Wien|Vienna|NO|stars_3
+270655|Apartment Strohgasse|Vienna|NO|stars_3
+270656|Favorite Apartment Wien|Vienna|NO|stars_3
+270657|Vienna Star Apartments Davidgasse|Vienna|NO|stars_2
+270658|Vienna Star Apartments Dieselgasse|Vienna|NO|stars_3
+270659|Royal Living Apartments|Vienna|NO|stars_3
+270660|Vienna Star Apartments Reumannplatz|Vienna|NO|stars_2
+270661|Vienna Star Apartments Troststrasse|Vienna|NO|stars_3
+270662|Vienna Star Apartments Quellenstrasse|Vienna|NO|stars_2.5
+270663|Vienna Star Apartments Van der Nüllgasse|Vienna|NO|stars_2
+270664|Vienna Star Apartments Simmeringer Hauptstrasse|Vienna|NO|stars_2.5
+270665|Vienna Star Apartments Albrechtsbergergasse|Vienna|NO|stars_2.5
+270666|14 Mandl Apartment Wien|Vienna|NO|stars_3
+270667|III Mandl Apartment Wien|Vienna|NO|stars_3
+270668|IV Mandl Apartment Wien|Vienna|NO|stars_3
+270669|8 Mandl Apartment Wien|Vienna|NO|stars_3
+270670|Luxury Schönbrunn Apartment|Vienna|NO|0
+270671|Apartment24 Schönbrunn|Vienna|NO|stars_3
+270672|Wilhelm Apartment Wien|Vienna|NO|stars_3
+270674|Apartment Vacha Linzerstrasse|Vienna|NO|stars_3
+270675|Apartment Vacha Vogtgasse|Vienna|NO|stars_2
+270676|Vienna Star Apartments Hütteldorferstraße 69|Vienna|NO|stars_2
+270678|Vienna Star Apartments Ölweingasse|Vienna|NO|stars_2
+270680|Vienna Star Apartments Johnstrasse 34|Vienna|NO|stars_2
+270681|Mini Apartment Wien - Karmeliterhofgasse|Vienna|NO|stars_3
+270682|Vienna Star Apartments - Haberlgasse|Vienna|NO|stars_2
+270683|Enenkelstrasse Apartment Wien|Vienna|NO|stars_3
+270684|Vienna Star Apartments Menzelgasse|Vienna|NO|stars_3
+270688|Hernals Apartment Wien|Vienna|NO|stars_3
+270689|Vienna Star Apartments Römergasse|Vienna|NO|stars_2.5
+270690|Vienna Star Apartments Sternwartestraße B|Vienna|NO|stars_3
+270691|Vienna Star Apartments Sternwartestraße A|Vienna|NO|stars_2
+270692|Isidex Apartments|Vienna|NO|0
+270693|Wienerwald Apartment Wien|Vienna|NO|stars_3
+270694|B&B Graz|Graz|NO|stars_3
+270973|Gasthof Hotel Fürberg|St. Gilgen|NO|stars_3
+270974|Familienhotel Loipenstub'n|Brixen im Thale|NO|stars_4
+270975|Hotel Alexander|Kirchberg|NO|stars_3.5
+270977|Landhaus Cornelia|Berwang|NO|stars_3
+270979|Haus Daniela|Gerlos|NO|stars_3
+270987|Das Alphotel|Hirschegg|NO|stars_3
+271387|Appartement Eggerwirt|Dorfgastein|NO|stars_3
+271388|Apartmenthaus Vergissmeinnicht|Abtenau|NO|stars_3
+271446|Seehotel Grundlsee|Grundlsee (Grundl Lake)|NO|stars_4
+271591|Hotel Montana|Telfes|NO|stars_3
+271593|Aparthotel Kristall|Altenmarkt|NO|stars_3
+272996|Villa Wellspacher|Semmering|NO|stars_3
+273596|Steinbock Appartements|Tux|NO|stars_3
+274312|Haus Gatterer|Obertilliach|NO|0
+274685|Zur Sonnen|Umhausen|NO|stars_3
+275354|Rosenberger Motor-Hotel Deutsch-Wagram|Deutsch-Wagram|NO|stars_3
+276122|Landhaus Moserhof|Gumpoldskirchen|NO|stars_4
+276354|Appartement Hofmann|Königsleiten|NO|0
+276400|Hotel Schloss Matzen|Reith im Alpbachtal|NO|stars_4
+277116|Ernberg|Breitenwang|NO|stars_3
+279303|Edelhof Apartments|Vienna|NO|stars_2
+279304|Apartment Rentals Vienna|Vienna|NO|stars_2
+284868|Ferienclub Schlösslhof|Axams|NO|stars_4
+284879|Cresta|Tschagguns|NO|stars_3
+284880|ALFA Hotel Serfaus|Serfaus|NO|stars_4
+284881|Aparthotel Dolomit Royal|Sillian|NO|stars_4
+284896|Palais Hansen Kempinski Vienna|Vienna|YES|stars_5
+286038|Appartements Buggl's|Sölden|YES|stars_0
+286067|Hotel Birgkarhaus|Mühlbach|NO|stars_3
+286132|Villa Becker|Salzburg|YES|stars_0
+286269|Apart Garni Erna|Ischgl|YES|stars_0
+286270|Chasa Valletta|Ischgl|YES|stars_0
+289421|Schloss Ernegg|Steinakirchen am Forst|NO|stars_3
+289436|Landhotel Lacknerhof|Göriach|NO|stars_3
+289774|Maiers Wellnesshotel Loipersdorf|Jennersdorf|NO|stars_4
+289870|Design Hotel Römerhof|Tulln an der Donau|NO|stars_4
+290174|Residenz Koasa Schloessl|Deutsch Schützen-Eisenberg|NO|stars_4
+290391|Antonie Sporthotel|Gries im Sellrain|NO|stars_3
+291864|Hotel Moser|Pöchlarn|NO|stars_3
+292130|St. Georg|Hippach|NO|stars_3.5
+292438|Hotel Altes Kloster|Vienna|NO|stars_4
+293654|Maiers Hotel Elisabeth|Jennersdorf|NO|stars_4
+294255|Stadthotel Waidhofen an der Thaya|Waidhofen an der Thaya|YES|stars_0
+295452|Sternenhütte|Arzl|NO|0
+295463|Hotel Planai|Schladming|NO|stars_3
+295492|Haus Mathias|Sölden|NO|0
+295510|Vienna Cityapartments|Vienna|NO|stars_4
+295639|Das Reinisch - Apartments|Schwechat|NO|stars_4
+295753|Edel:Weiss Residences Katschberg|Rennweg am Katschberg|NO|0
+295779|Gasthof Kirchenwirt|Walchsee|NO|stars_3
+295860|SIMM's Hotel|Vienna|NO|stars_4
+295880|Alpinresort Damüls|Damüls|NO|stars_4
+295884|Bad Blumauerhof|Bad Blumau|NO|stars_4
+295885|Basemontafon|St. Gallenkirch|NO|stars_3.5
+295886|Bella Vista|Sölden|NO|stars_3
+295889|Birkenhof|Bad Radkersburg|NO|stars_3
+295890|Am Breitenfelder Hof|Breitenfeld an der Rittschein|NO|stars_3
+295892|Kloepferkeller|Eibiswald|NO|0
+295895|Spengerwirt|Hirschegg|NO|stars_3
+295896|Mühlenhof|Hopfgarten in Defereggen|NO|stars_3
+295897|Golfpark Metzenhof|Kronstorf|NO|stars_1
+295898|Zum Brüdertor|Laa an der Thaya|NO|stars_4
+295899|Residenz Glöckner & Gasthof Glöckner|Mathon|NO|stars_3.5
+295900|Mönichwalderhof|Mönichwald|NO|stars_3
+295903|Flackl-Wirt|Reichenau|NO|stars_3
+295905|Appartementhaus Nassfeld|Nassfeld|NO|0
+295911|Heilmoorbad im Kloster Schwanberg|Deutschlandsberg|NO|stars_4
+295912|Camp Royal X|Seeboden|NO|stars_3
+295913|Zauberblick|Semmering|NO|stars_3
+295914|Schlosshotel Kassegg|Sankt Gallen|NO|stars_2
+295915|Vermala|St. Gallenkirch|NO|stars_3
+295917|Kirchenwirt|St. Johann am Tauern|NO|0
+295918|Gasthof Luftenstein|St. Martin bei (by) Lofer|NO|stars_3
+295920|Panorama Schlössl|Velden|NO|0
+296001|Ferienhof Lürzergut|Untertauern|NO|stars_3.5
+296312|Alpenblick|Schlitters|NO|stars_3
+296400|Venet Gipfelhütte|Zams bei Landeck|NO|stars_3
+296616|Garni Schönblick|Obergurgl|NO|stars_3
+296622|Bergsommer Wagrain & Kleinarl|Wagrain|NO|stars_4
+296760|Star Inn Wien Schönbrunn|Vienna|NO|stars_3
+296939|Schlosshotel Mailberg|Mailberg|NO|stars_4
+297031|Hotel-Pension Strolz - Hotel & Dependance|Mayrhofen|NO|stars_3
+297087|Weingartenhotel Heinz Harkamp|St. Nikolai im Sausal|NO|0
+297383|4 You(ng)|Bad Gastein|NO|stars_2.5
+297407|Gasthof Alpina|Schwendau|NO|stars_3
+297569|Replerhof|Prägraten|NO|stars_4
+297772|Thermenhotel EMMAQUELLE|Bad Gleichenberg|NO|stars_4
+297839|Ferienpark Gaal|Gaal|NO|stars_4
+297954|Gasthof Auwirt|St. Michael|NO|stars_2
+298305|Sport Girbl|Strobl|NO|0
+298495|Gasthof Lublass|Matrei in Osttirol|NO|stars_3
+298826|Hotel Sans Souci|Vienna|NO|stars_5
+298846|Panoramahotel Pawlik|Bad Gastein|NO|stars_3
+299291|Best Western Plus Hotel Arcadia|Vienna|NO|stars_3.5
+299322|Hannes|Wildschönau|NO|stars_3
+299626|Appartementhaus Caroline|See|NO|stars_2.5
+299666|Aktivhotel Fortuna|See|NO|stars_3
+299722|Zuersersee|Zürs|NO|0
+300487|Hotel-Pension Siegelerhof|Mayrhofen|NO|stars_3
+300908|Apart Garni Sonnenplateau|Serfaus|NO|0
+301159|Villa Sepp|Ramsau|NO|0
+301178|Spiess & Spiess Appartement-Pension|Vienna|NO|stars_4
+301631|Landhotel Spreitzhofer - Braunhof|St. Kathrein am Offenegg|NO|stars_4
+301905|La Prima|Vienna|NO|stars_4
+302303|Traube|Fliess|NO|stars_3
+302380|Hanneshof Resort - Hanneshof|Filzmoos|NO|stars_4
+302381|Hanneshof Resort - Bischofsmütze|Filzmoos|NO|stars_4
+302382|Hanneshof Resort - Nebenhäuser (Anneliese, Maier, Appartements Raika)|Filzmoos|NO|stars_3
+302462|Pension Gasser|Aschau|NO|stars_2
+302463|Bergkristall|Mayrhofen|NO|stars_4
+302566|Haus Zillertalblick|Zell am Ziller|NO|stars_2.5
+302567|Castel|Ischgl|NO|0
+302649|Schloss Seggau|Leibnitz|NO|stars_4
+304375|Hotel Möderle|St. Leonhard|NO|stars_3
+304377|Hotel-Pension Mittagskogel|St. Leonhard|NO|stars_3
+305179|Hotel Anemone|Lech|NO|stars_4
+309144|Resi & Obermoser|Kössen|NO|stars_3
+309192|The Hotel 1060 Vienna|Vienna|NO|stars_4
+309418|Plattenrainalm|Arzl|NO|0
+309773|Gasthof Post|Dalaas|NO|0
+310802|Gasthof Post|Bruck an der Glocknerstrasse|NO|stars_3
+310804|Landhaus Schermer|Brixen im Thale|NO|stars_3
+311053|Eisenerzer Hof|Eisenerz|NO|stars_3
+311091|Sonnenhof|Hartberg|NO|0
+311099|Gästehaus Klammerschneider|Zell am Ziller|NO|stars_2.5
+311101|Garni Jagdhof|Tux|NO|stars_3
+317363|Bauernhäusl|Sölden|NO|stars_2.5
+317368|Prantl Bernhard, Ferienhaus|Sölden|NO|stars_3
+317854|Schlossalm Appartements|Bad Hofgastein|NO|stars_3
+318137|Tirolerhof|Lermos|NO|stars_3
+318671|Garni Flori|Längenfeld|NO|stars_3
+323592|Hotel - Café - Gasthaus Hubertus|Au|NO|stars_4
+325443|Vitalhof der Veitenhof|Umhausen|NO|stars_3
+333834|Der Gannerhof|Innervillgraten|NO|stars_3
+335005|Zeitgeist|Vienna|NO|stars_4
+335021|Lesachtalerhof|Liesing Im Lesachtal|NO|stars_3
+335047|Pension Rosengarten|Tux|NO|stars_3
+335818|Seehotel Seerose|Bodensdorf|NO|stars_4
+336031|Ferienhaus Gundolf Peter|Wenns|NO|stars_4
+354420|Schloss Mittersill|Mittersill|NO|stars_4
+354422|Zhero Hotel Ischgl/Kappl|Kappl|NO|stars_5
+354444|Gut Drasing|Krumpendorf|NO|stars_3
+354491|Smiley Hotel - Kinderhotel|Trebesing|NO|0
+354494|Anthonys Life&Style|St. Anton (am Arlberg)|NO|stars_4
+359484|Falkensteiner Wien Margareten|Vienna|NO|stars_4
+359702|Berghotel der Königsleitner|Königsleiten|NO|stars_4
+359810|Strass Fun & Spa Hotel - Sporthotel|Mayrhofen|NO|stars_4
+359811|Strass Fun & Spa Hotel - Hotel Garni|Mayrhofen|NO|stars_3
+359812|Strass Fun & Spa Hotel - Aparthotel|Mayrhofen|NO|0
+359813|Strass Fun & Spa Hotel - Hotel Strass|Mayrhofen|NO|stars_4
+359857|Kur- und Sporthotel Alpina - Hotel Alpina|Bad Hofgastein|NO|stars_4
+359858|Kur- und Sporthotel Alpina - Hotel Tauernblick|Bad Hofgastein|NO|stars_3
+359860|Travel Charme Bergresort Werfenweng - Hotel|Werfenweng|NO|stars_4.5
+359861|Travel Charme Bergresort Werfenweng - Apartments|Werfenweng|NO|stars_4.5
+359864|Sonnenresort Ossiacher See - Hotel|Ossiach|NO|stars_3
+359865|Sonnenresort Ossiacher See - Appartements|Ossiach|NO|stars_3
+359900|Almresort Gerlitzen Kanzelhöhe - Hotel|Treffen|NO|stars_3
+359901|Almresort Gerlitzen Kanzelhöhe - Ferienwohnungen|Treffen|NO|stars_3.5
+359931|Appartement Alpina|Bad Hofgastein|NO|stars_3
+363265|Schatz.Kammer - Burg Kreuzen|Bad Kreuzen|NO|stars_3
+363266|Spirodom Admont|Admont|NO|stars_4
+363268|Appartment Schwarzenbacher|Kaprun|NO|stars_3
+363359|Pension Gabriele|Reifnitz|NO|0
+363466|Tia Monte & Tia Monte Smart|Feichten|NO|stars_3
+363489|Panoramapension Weisses Rössl|Reith bei (by) Seefeld|NO|0
+363495|Landhaus Alpengruß|Kössen|NO|0
+363496|Landhaus Steinberger|Fügen|NO|0
+363498|Haus Tuxerklamm|Mayrhofen|NO|0
+363501|Haus Voglreiter|Kaprun|NO|0
+363503|Alpenstern Appartements|Großarl|NO|0
+363521|Lizum 1600|Axams|NO|stars_3.5
+363587|Hotel Melanie|Wals|NO|stars_4
+363589|a&t Holiday Hostel Wien|Vienna|YES|stars_2
+363639|Alpenrose Sport Hotel|Treffen|NO|stars_3
+363646|Hotel Feichter|Söll|NO|stars_3
+363711|Hotel - Cafe Auer|Obertilliach|NO|stars_3
+363713|Pension Platzer|Fügen|NO|stars_3
+363977|Ferienanlage Färberhof|Trins|NO|stars_3
+363979|Weberhof|Trins|NO|stars_2
+364088|Steiner|Obertauern|NO|stars_4
+365067|Haus Martha|Fügen|NO|stars_3
+365068|Jagdhof|Flachau|NO|stars_3
+365074|Pension Monika|Kaprun|NO|stars_3
+365088|Resort Brixen|Brixen im Thale|NO|stars_4
+365089|Riederhof|Gerlos|NO|stars_3
+365095|Waldhof|Gerlos|NO|stars_3
+365110|Rosa Canina|St. Anton (am Arlberg)|NO|stars_3
+365147|Landhotel Häuserl im Wald|Mitterberg|NO|stars_4
+365217|Resort Tirol Am Wildenbach|Wildschönau|NO|stars_4
+365324|Herzblut|Saalbach|NO|stars_4
+365353|Gasthof Sagwirt|Krispl|NO|stars_2.5
+365371|Active Hotel Wildkogel|Wald im Pinzgau|NO|stars_3
+365409|Klausnerhof|Mittersill|NO|stars_3
+365437|HB1 Design- & Budgethotel Wien-Schönbrunn|Vienna|NO|stars_3
+365479|Bauernhof Sattlerhof|Walchsee|NO|stars_2.5
+365607|Gasthof Krisplwirt|Krispl|NO|stars_3
+366576|Melia Vienna|Vienna|YES|stars_5
+367894|Ibis Styles Wien City Hotel|Vienna|NO|stars_3
+367896|The Guesthouse Vienna|Vienna|NO|stars_5
+367927|Genusslandhotel Hochfilzer-soell Am Wild|Söll|NO|stars_3
+372423|Ferienhaus Antonia|Ehrwald|NO|0
+372525|Schlossmühle|Nauders|NO|stars_2.5
+372526|Gasthof Oberwirt|Gerlos|NO|stars_3
+372543|Hinterduxerhof|Kufstein|NO|stars_2.5
+372608|Sonne|Pfunds|NO|stars_3
+372949|Hotel Moorbad Neydharting|Bad Wimsbach-Neydharting|NO|0
+372950|Rubin|Söll|NO|stars_3
+372951|Schloss Halbturn Knappenstöckl|Halbturn|NO|stars_4
+372970|Appartement Wolfgang|Aschau|NO|stars_2.5
+374168|Latini Gaestehaus|Zell am See|NO|0
+374314|Nockresort|Bad Kleinkirchheim|NO|stars_4
+374358|Christoph|Neustift|NO|stars_3
+374682|Vienna Family Apartments|Vienna|NO|stars_4
+374689|Livingpoint Luxury Apartments|Vienna|NO|stars_3
+374694|Harry's Home Hotel Wien|Vienna|NO|stars_4
+374954|Marienschloessl Eichingerbauer|Mondsee|NO|stars_4.5
+375006|JoSchi Sporthaus|Göstling/Ybbs|NO|stars_4
+375220|Bruggerhof Pension|Mayrhofen|NO|stars_3
+375858|Jenewein|Obergurgl|NO|stars_4
+375913|Traube|Pfunds|NO|stars_4
+375916|Fuchs Pension|Pfunds|NO|stars_3
+375946|Alpenresidenz Ballunspitze|Galtür|NO|stars_4
+375955|Bergschloessl|St. Anton (am Arlberg)|NO|stars_4
+376323|Aschlandhof Pension|Obsteig|NO|stars_3
+376534|Bauernhof Gidnhof|Trins|NO|stars_2
+376541|Valavier Aktivresort|Brand|NO|stars_4
+376894|Kaiserhof Land-Pension|Reichenau|NO|stars_3
+377200|Kneipp Traditionshaus|Aspach|NO|stars_3
+380270|Pension Alt Hubertus|Lech|NO|stars_3
+380333|Landgasthof Klause|Reutte|NO|stars_3
+381365|Wulfenia|Hermagor|NO|stars_4
+382155|Cleverhotel Herzogenburg|St. Pölten|NO|stars_2
+382404|Wallner|Arnoldstein|NO|stars_3
+385082|Das Himberg|Himberg|YES|stars_3
+385098|Alpenappart Rimlhof|Längenfeld|NO|stars_4
+385409|Airport S1|Schwechat|NO|stars_3
+385984|Rutar Lido|Eberndorf-Mökriach|NO|0
+388994|Jägerhof|Feichten|NO|stars_3
+389395|Arche Biolandhaus|St. Oswald|NO|stars_3
+389529|Hochficht Gasthof|Klaffer am Hochficht|NO|stars_2
+391022|Hotel Sölderhof & Residenz Tamara - Hotel Sölderhof|Sölden|NO|stars_3
+391023|Hotel Sölderhof & Residenz Tamara - Residenz Tamara|Sölden|NO|stars_4
+391141|Bergparadies|Dorfgastein|NO|stars_4
+391228|Lün|Brand|NO|0
+391237|Alpine Palace & Haus Wolf - Alpine Palace|Hinterglemm|NO|stars_5
+391238|Alpine Palace & Haus Wolf - Haus Wolf|Hinterglemm|NO|stars_3
+391477|Grafenbergresort Wagrain|Wagrain|NO|stars_3
+391722|Apartmenthaus Brixen & Haus Central - Apartmenthaus Brixen|Brixen im Thale|NO|stars_3
+391723|Apartmenthaus Brixen & Haus Central - Haus Central|Brixen im Thale|NO|0
+391724|Park Hyatt Vienna|Vienna|NO|stars_5
+391982|Wesenauerhof|Fuschl am See|NO|stars_4
+392030|JUFA Knappenberg|Knappenberg|NO|stars_3
+392170|Panoramadorf Saualpe|Eberstein|NO|stars_3
+392181|Hotel Gurglhof|Obergurgl|NO|stars_4
+392182|Hochkogelhaus|Wiener Neustadt|NO|0
+392184|Haus Kolmblick|Gerlos|NO|stars_3
+392187|Orthofer|Sankt Jakob im Walde|NO|0
+392189|Strandpension Prinz|Ossiach|NO|stars_3
+399719|Hotel Jenny's Schlössl - Jenny's Huamatl|Serfaus|NO|0
+399720|Hotel Jenny's Schlössl - Jenny's Ferienwohnungen|Serfaus|NO|0
+399823|Landhaus Hubertus|Schladming|NO|stars_3
+399837|JUFA Neutal Landerlebnisdorf|Neutal|NO|stars_3
+401267|Windau Lodge|Westendorf|NO|0
+401402|Posthotel Pfunds|Pfunds|NO|stars_3
+401419|Hotel Sporer|Bad Radkersburg|NO|stars_4
+401438|fairhotel Hochfilzen|Hochfilzen|NO|stars_3
+402682|JUFA Altenmarkt-Zauchensee|Altenmarkt|NO|stars_3
+403012|motel22|Vienna|NO|stars_3
+403038|Hotel Alphof|Fulpmes|NO|stars_3
+403164|JUFA Almtal Hotel|Grünau im Almtal|NO|stars_3
+403226|Hotel Steirerschlössl|Zeltweg|NO|stars_5
+403283|Sport Residenz Zillertal|Uderns|NO|stars_4.5
+403314|Heilstollen Oberzeiring|Oberzeiring|NO|0
+403315|Kurhotel Salzerbad|Kleinzell|NO|0
+403316|Kurhotel St. Josef|Bad Dürrnberg|NO|stars_4
+403317|Thermalbad Weissenbach|Sankt Margarethen im Lavanttal|NO|stars_4
+403509|Auwirt Saalbach|Saalbach|NO|stars_4
+404559|Botenwirt|Kleinarl|NO|stars_3
+405184|Das Kaltenbach|Kaltenbach|NO|stars_4
+405208|Ponyhof Sulzbach|Fusch an der Grossglocknerstrasse|NO|stars_3.5
+405284|Rohrmooser Schlössl|Rohrmoos|NO|stars_3
+405296|mama thresl|Leogang|NO|stars_4
+405379|Hotel Hirschen|Bad Gastein|NO|stars_3
+405865|Grabenbauer|Flachau|NO|stars_3
+405962|Alpenblick Gasthof & Pension|Radfeld|NO|0
+406490|Alois Arnold|Sölden|NO|stars_2.5
+407941|Appartements Christine|Maishofen|NO|stars_3
+408652|Kaprun Glacier Estate|Kaprun|NO|0
+408667|Edelweiss Residences|Rennweg am Katschberg|NO|stars_4
+408881|Hotel Petersbühel|Obertauern|NO|stars_4
+409103|Pension Nagele|Annenheim|NO|stars_3
+411021|Naturparkhotel Bauernhofer|Heilbrunn|NO|stars_4
+411081|Wohlfühlappartements Der Wildbachhof|Zell am See|NO|0
+411371|Sportresort Gasthof Karlsruhe|Roppen|NO|stars_3
+411787|Gästehaus Karl August|Fohnsdorf|NO|0
+411788|Hotel Paunger|Miesenbach bei Birkfeld|NO|0
+411983|Appartements Holzbox Niederalpl|Mürzsteg|NO|stars_3
+412257|Ferienhotels Alber Mallnitz - Alpenhotel|Mallnitz|NO|stars_4
+412258|Ferienhotels Alber Mallnitz - Tauernhof|Mallnitz|NO|stars_3
+413029|Haus Goldeck|Lermos|NO|stars_4
+413449|Appartementhaus Aurora|Bad Hofgastein|NO|stars_4
+413517|Feriendorf Murau|Murau|NO|stars_3
+413518|Apparthotel Hubertus|Obertauern|NO|stars_4
+413519|L'Hotel 360° Tirol|Jerzens|NO|stars_4
+413524|Pension Schwemberger|Mayrhofen|NO|stars_2.5
+414022|AktivHotel Hochfilzer / AlpenPension Claudia / Haus Garden|Ellmau|NO|stars_4
+414109|Hotel Schütterhof|Rohrmoos|NO|stars_4
+415540|JUFA Hochkar Sport Resort|Göstling/Ybbs|NO|stars_3
+416422|Kreischberg Chalets|Sankt Lorenzen ob Murau|NO|0
+416423|Alpinhütten Turracher Höhe|Turracher Höhe|NO|0
+416427|Ferienhaus Alpenblick|Kleinarl|NO|0
+416435|Landhaus Franzel|Ramsau am Dachstein|NO|0
+416438|Wildschönauer Hof - Kellerwirt Apartments|Oberau|NO|stars_4
+417548|Frühstückspension Johanna|Hochsölden|NO|stars_3

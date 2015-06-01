@@ -107,17 +107,8 @@ $countrys =  array(
               'US' => 'United States'__________________Error
           );
 
-AR
-AU
-AT
-BG
-BR
-CA
-CH
-CN
-ES
+ES_largo
 FR_largo
 GR_largo
 GB_largo
 IT_largo
-MA

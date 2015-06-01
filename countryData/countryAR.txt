@@ -140,7 +140,7 @@
 88537|Argentino|Cordoba|NO|stars_2.5
 88543|Armonia Wellness Spa|Salta|NO|stars_3.5
 88545|Cristal|Cordoba|YES|stars_3
-88585|Howard Johnson Rio Ceballos|R?o Ceballos|YES|0
+88585|Howard Johnson Rio Ceballos|Río Ceballos|YES|stars_0
 88588|Gran Orly|Buenos Aires|YES|stars_3
 88598|Emperador|Buenos Aires|NO|stars_5
 88865|Tryp Buenos Aires|Buenos Aires|YES|stars_4
@@ -149,7 +149,7 @@
 91265|Urbana Suites|Mendoza|NO|stars_3
 91313|Mansion Dandi Royal|Buenos Aires|YES|stars_4
 91318|Broadway Hotel & Suites Buenos Aires|Buenos Aires|YES|stars_4
-91320|Iguaz? Jungle Lodge|Puerto Iguazu|NO|stars_4
+91320|Iguazú Jungle Lodge|Puerto Iguazu|NO|stars_4
 91321|Nevada|Bariloche|NO|stars_3.5
 91322|Cacique Inacayal|Bariloche|NO|stars_4
 91323|Design Suites|Bariloche|YES|stars_4
@@ -186,14 +186,14 @@
 93690|Bonarda|Mendoza|YES|stars_3
 93691|Reina Victoria Suites & Towers|Mendoza|YES|stars_3
 93692|Altezza Apart Suites|Mendoza|NO|stars_4
-93743|NH Crill?n|Buenos Aires|YES|stars_4
+93743|NH Crillón|Buenos Aires|YES|stars_4
 93744|Da Vinci|Buenos Aires|YES|stars_4
 93745|Cristoforo Colombo|Buenos Aires|YES|stars_4
 93748|America Studios|Buenos Aires|NO|stars_2
 93749|Sures Belgrano Suites|Buenos Aires|YES|stars_3
 93750|Moreno|San Telmo|YES|stars_4
 93751|Esplendor Palermo|Buenos Aires|YES|stars_4
-93985|Carlos V|San Miguel de Tucum?n|NO|stars_3
+93985|Carlos V|San Miguel de Tucumán|NO|stars_3
 94067|Wilson|Salta|YES|stars_3
 96238|Esplendor Calafate|El Calafate|YES|stars_4
 96807|Zentra|Buenos Aires|YES|stars_3
@@ -230,12 +230,12 @@
 104159|Art|Buenos Aires|NO|stars_3
 105599|Centuria|Buenos Aires|YES|stars_4
 106454|Costa Galana|Mar de Plata|YES|stars_5
-106678|Del Comahue|Neuqu?n|YES|stars_4
+106678|Del Comahue|Neuquén|YES|stars_4
 106877|Embajador|Buenos Aires|YES|stars_3
 106881|Embassy All Suites|Buenos Aires|NO|stars_3
 107067|Feirs Park|Buenos Aires|YES|stars_4
 107347|Gran Hotel Buenos Aires|Buenos Aires|YES|stars_4
-107350|Gran Iru?a|Mar de Plata|YES|stars_4
+107350|Gran Iruña|Mar de Plata|YES|stars_4
 107637|Holiday Inn Cordoba|Cordoba|YES|stars_4.5
 107777|Holiday Inn Rosario|Rosario|NO|stars_4
 107784|Holiday Inn Santa Fe|Santa Fe|NO|stars_3
@@ -245,7 +245,7 @@
 110066|Regis Orho|Buenos Aires|NO|stars_3
 110109|Globales Republica Wellness & Spa|Buenos Aires|NO|stars_4
 110300|Riviera|Mar de Plata|YES|stars_3
-110438|Los Cerros|El Chalt?n|YES|stars_4.5
+110438|Los Cerros|El Chaltén|YES|stars_4.5
 110731|Sarmiento Suites Aparthotel|Buenos Aires|YES|stars_3
 110820|Sheltown|Buenos Aires|YES|stars_4
 111661|Windsor & Tower|Cordoba|YES|stars_4
@@ -287,7 +287,7 @@
 129886|Carollo Gold|Mendoza|NO|stars_3
 129887|America|Mendoza|YES|stars_2
 129888|Provincial|Mendoza|NO|stars_3
-129889|Am?rian Executive Mendoza Hotel|Mendoza|YES|stars_4
+129889|Amérian Executive Mendoza Hotel|Mendoza|YES|stars_4
 129890|Internacional|Mendoza|NO|stars_3
 129891|Sheraton Pilar|Pilar|YES|stars_4.5
 129892|Sheraton Salta|Salta|YES|stars_5
@@ -299,9 +299,9 @@
 129899|Carlos V|Bariloche|YES|stars_3
 133109|La Perla|Buenos Aires|NO|stars_3
 133260|Mine Hotel Boutique|Buenos Aires|YES|stars_4
-133313|Swiss Metropol|San Miguel de Tucum?n|YES|stars_4
-133314|Garden Park|San Miguel de Tucum?n|NO|stars_4
-133315|Francia|San Miguel de Tucum?n|NO|stars_3
+133313|Swiss Metropol|San Miguel de Tucumán|YES|stars_4
+133314|Garden Park|San Miguel de Tucumán|NO|stars_4
+133315|Francia|San Miguel de Tucumán|NO|stars_3
 133316|Hosteria Bella Vista|Ushuaia|NO|stars_3
 133318|Las Lengas|Ushuaia|NO|stars_3
 133319|Hostal del Bosque|Ushuaia|NO|stars_3
@@ -310,7 +310,7 @@
 135275|Presidente|Mar de Plata|YES|stars_3
 135277|Vidda y Viken|Mar de Plata|NO|stars_2
 135285|Las Rocas|Mar de Plata|NO|stars_4
-135288|Espa?a|Mar de Plata|YES|stars_3
+135288|España|Mar de Plata|YES|stars_3
 135290|Valles|Mar de Plata|NO|stars_3
 135291|Dion|Mar de Plata|NO|stars_2
 135299|Gran Skorpios|Mar de Plata|YES|stars_3
@@ -333,11 +333,11 @@
 138745|Park Silver Obelisco|Buenos Aires|YES|stars_4
 138803|Cordon Del Plata|Mendoza|YES|stars_3
 138852|Del Casco|San Isidro|NO|stars_4
-138884|Estancia La Quinta|El Chalt?n|YES|stars_3
+138884|Estancia La Quinta|El Chaltén|YES|stars_3
 138996|Hosteria Los Hielos|El Calafate|NO|stars_4
 138997|Meulen|El Calafate|YES|stars_3
 138998|Hosteria RobleSur|El Calafate|NO|stars_3
-139007|Howard Johnson Plaza Jujuy|San Salvador de Jujuy|YES|0
+139007|Howard Johnson Plaza Jujuy|San Salvador de Jujuy|YES|stars_0
 139018|Imago & Spa|El Calafate|NO|stars_4
 139089|Merit Majestic Rosario|Rosario|NO|stars_3
 139180|Piccaluga|Buenos Aires|YES|stars_3.5
@@ -346,9 +346,9 @@
 139293|Rincon De Los Suenos|El Calafate|YES|stars_4
 139301|Rooneys Boutique|Buenos Aires|NO|stars_4
 139302|Ros Tower Hotel Spa & Convention Center|Rosario|NO|stars_5
-139326|San Remo Park|San Bernardo del Tuy?|NO|stars_3
+139326|San Remo Park|San Bernardo del Tuyú|NO|stars_3
 139327|San Remo Viking|Pinamar|NO|stars_3
-139329|San Remo World|San Clemente del Tuy?|NO|stars_3
+139329|San Remo World|San Clemente del Tuyú|NO|stars_3
 139363|Sol Arrayan Resort & Spa|Villa La Angostura|NO|stars_4
 139367|Solares del Sur|El Calafate|NO|stars_3
 139368|Solaz de los Andes|Mendoza|NO|stars_4
@@ -362,8 +362,8 @@
 141662|Killa Cafayate|Cafayate|YES|stars_3.5
 141663|Marilian Hotel|Salta|YES|stars_3
 141664|Hosteria del Recodo|Ushuaia|YES|stars_3
-144467|Howard Johnson Sierras & Casino|Alta Gracia|YES|0
-144469|1890 Boutique|Buenos Aires|YES|0
+144467|Howard Johnson Sierras & Casino|Alta Gracia|YES|stars_0
+144469|1890 Boutique|Buenos Aires|YES|stars_0
 144470|CasaSur Art|Buenos Aires|NO|stars_5
 144473|Callao Suites|Buenos Aires|NO|stars_2
 144474|Ulises Recoleta Suites Boutique|Buenos Aires|YES|stars_4
@@ -393,8 +393,8 @@
 144518|Argentino|Mendoza|NO|stars_3
 144520|Condor Suites|Mendoza|YES|stars_3
 144521|Sheraton Mendoza|Mendoza|YES|stars_5
-144522|Howard Johnson Resort Villa de Merlo|Merlo|YES|0
-144523|Howard Johnson Plaza Mayorazgo|Paran?|YES|0
+144522|Howard Johnson Resort Villa de Merlo|Merlo|YES|stars_0
+144523|Howard Johnson Plaza Mayorazgo|Paraná|YES|stars_0
 144525|Howard Johnson Resort Pilar|Pilar|YES|stars_3
 144526|Del Bosque|Pinamar|NO|stars_4
 144528|Carmen|Puerto Iguazu|YES|stars_3
@@ -404,7 +404,7 @@
 144535|Howard Johnson Hotel & Marinas San Pedro|San Pedro|YES|stars_3
 144536|Howard Johnson Hotel & Spa San Pedro|San Pedro|YES|stars_3
 144537|Tierra Mora|San Rafael|NO|stars_3
-144540|Villa Gesell Spa & Resort|Villa Gesell|YES|0
+144540|Villa Gesell Spa & Resort|Villa Gesell|YES|stars_0
 144541|Howard Johnson Casino Villa Maria|Villa Maria|YES|stars_3
 144992|Urbanica Suites|Buenos Aires|NO|stars_4
 157254|Baires 612|Buenos Aires|YES|stars_2.5
@@ -452,13 +452,13 @@
 188021|Howard Johnson Boutique Recoleta|Buenos Aires|YES|stars_3.5
 189405|Legado Mitico|Buenos Aires|NO|stars_4
 189406|Mansion Vitraux|Buenos Aires|YES|stars_4
-189408|Hoster?a Senderos|El Chalt?n|NO|stars_3
+189408|Hostería Senderos|El Chaltén|NO|stars_3
 195885|Azur Real Boutique|Cordoba|YES|stars_4
 202440|Grand Balbi|Mendoza|YES|stars_3
 202441|Howard Johnson Finca Maria Cristina|Brandsen|YES|stars_3.5
 202442|America del Sur Hostel Buenos Aires|Buenos Aires|YES|stars_2.5
 202443|Gran Riazor|Mar de Plata|YES|stars_2
-202444|Dazzler Maip?|Buenos Aires|YES|stars_4
+202444|Dazzler Maipú|Buenos Aires|YES|stars_4
 202447|Hosteria Las Dunas|El Calafate|YES|stars_3
 202448|Mirador de Estrellas|Cordoba|YES|0
 202450|Australis Paradise|Carilo|NO|stars_3
@@ -476,7 +476,7 @@
 205912|Be Hollywood|Buenos Aires|YES|stars_4
 206319|Bobo|Buenos Aires|NO|stars_3.5
 206682|Best Western Cabanas Villa Sofia|Bariloche|NO|stars_3
-206959|Casa Las Ca?itas|Buenos Aires|YES|0
+206959|Casa Las Cañitas|Buenos Aires|YES|stars_0
 208483|Dot Suites Mendoza|Mendoza|YES|stars_3
 208608|Duque Boutique|Buenos Aires|YES|stars_4
 208921|Espacia Suites|Buenos Aires|NO|stars_4
@@ -515,12 +515,12 @@
 230205|Hosteria El Faro|Villa La Angostura|NO|stars_4
 230207|Antuquelen|Villa La Angostura|NO|stars_4
 231725|House Of Jasmines|Salta|NO|stars_4
-231903|Villa Mar?a|Buenos Aires|NO|stars_5
+231903|Villa María|Buenos Aires|NO|stars_5
 232189|Pulitzer Buenos Aires|Buenos Aires|NO|stars_4
 232316|Ilum|Buenos Aires|YES|stars_4
 232319|Golf Tower Suites & Apartments|Buenos Aires|NO|stars_3
 232320|America del Sur Hostel Calafate|El Calafate|YES|stars_2
-232321|Rotu? Apart|San Martin de los Andes|NO|stars_3
+232321|Rotuí Apart|San Martin de los Andes|NO|stars_3
 232842|Ghala|Salta|YES|stars_3
 233045|Fazenda Carioca|Bariloche|NO|stars_3
 233047|Alma de Plata Buenos Aires|Buenos Aires|NO|stars_3
@@ -530,13 +530,13 @@
 233137|Pullman Rosario City Center|Rosario|NO|stars_5
 233141|Casa del Lago Resort|Bariloche|NO|stars_3
 233144|Casa Calma Wellness|Buenos Aires|NO|stars_4
-233147|Husa Galer?as|Buenos Aires|NO|stars_4
+233147|Husa Galerías|Buenos Aires|NO|stars_4
 233149|Novotel Buenos Aires|Buenos Aires|NO|stars_4
 233152|Scala|Buenos Aires|NO|stars_4
 233154|Terrazas de Calafate|El Calafate|NO|stars_4
 233156|El Aguamiel|Mendoza|NO|stars_4
 233157|Sol Andino|Mendoza|NO|stars_3
-233158|Casino Magic|Neuqu?n|YES|0
+233158|Casino Magic|Neuquén|YES|stars_0
 233350|Room Mate Carlos|Buenos Aires|NO|stars_4
 233615|IQ Callao by Temporary Apartments|Buenos Aires|NO|stars_4
 233616|Merit Gran Victoria|Cordoba|NO|stars_3
@@ -555,7 +555,7 @@
 234907|Mod Hotels Mendoza|Mendoza|NO|stars_4
 234908|Intercontinental Mendoza|Mendoza|NO|stars_5
 234909|Dakar Hotel & Suites|Mendoza|NO|stars_3
-234959|Caba?as Del Lenador|Puerto Iguazu|NO|stars_3
+234959|Cabañas Del Lenador|Puerto Iguazu|NO|stars_3
 235156|Condo Village|Bariloche|NO|stars_4
 235157|Catedral Village|Bariloche|NO|stars_4
 235158|Alma del Lago|Bariloche|NO|stars_5
@@ -600,7 +600,7 @@
 238860|Cauquenes de Nimez|El Calafate|NO|stars_3
 238862|Gran Miglierina|Mar de Plata|NO|stars_3
 238863|Premium Tower Suites|Mendoza|NO|stars_3.5
-238864|Herradura Suites|Neuqu?n|NO|stars_3
+238864|Herradura Suites|Neuquén|NO|stars_3
 238865|Posada Angelus|Salta|NO|stars_3
 238867|Provincial Plaza|Salta|NO|stars_4
 238868|Bonarda Boutique|Salta|NO|stars_3
@@ -660,10 +660,10 @@
 239827|The One Hostel|Cordoba|NO|stars_2
 239829|La Alondra Casa De Huespedes|Corrientes|NO|stars_4
 239830|La Rozada Suites|Corrientes|NO|stars_4
-239848|Hostel Inn Iguaz?|Puerto Iguazu|NO|stars_1.5
+239848|Hostel Inn Iguazú|Puerto Iguazu|NO|stars_1.5
 239849|Marcopolo Suites Iguazu|Puerto Iguazu|NO|stars_3
 239852|Gran Princess Gold|Mendoza|NO|stars_3
-239854|Sol San Javier Spa Eco Resort|San Miguel de Tucum?n|NO|stars_4
+239854|Sol San Javier Spa Eco Resort|San Miguel de Tucumán|NO|stars_4
 239855|Patagonia Jarke Hosteria|Ushuaia|NO|stars_3
 239999|Catedral|Mar de Plata|NO|stars_2
 240000|Dora|Mar de Plata|NO|stars_4
@@ -710,7 +710,7 @@
 249336|Rio Hermoso|San Martin de los Andes|NO|stars_4.5
 249339|Las Marias Boutique|Tilcara|NO|stars_3
 249340|Vientonorte|Tilcara|NO|stars_3
-249342|Amerian Tucum?n Apart & Suites|San Miguel de Tucum?n|NO|stars_4
+249342|Amerian Tucumán Apart & Suites|San Miguel de Tucumán|NO|stars_4
 249354|La Strada Residencial|Puerto Iguazu|NO|stars_3
 254574|Apart Abasto|Buenos Aires|NO|0
 254577|Uno Buenos Aires Suites|Buenos Aires|NO|stars_3
@@ -724,7 +724,7 @@
 254599|Poetry Building Recoleta|Buenos Aires|NO|stars_3
 254600|Leonardo Da Vinci Residence|Buenos Aires|YES|stars_3
 254601|Apart Lima 265|Buenos Aires|NO|stars_3
-254603|Vi Luz y Entr?|Buenos Aires|NO|stars_2
+254603|Vi Luz y Entré|Buenos Aires|NO|stars_2
 254604|Algodon Mansion|Buenos Aires|NO|stars_5
 254606|La Posada de la Luna|Buenos Aires|NO|stars_3
 254610|SF Suites|Buenos Aires|NO|stars_3
@@ -735,7 +735,7 @@
 254621|Lagos Del Sur Apart & Suites|Bariloche|NO|stars_3
 254623|Mirando al Sur|Bariloche|NO|stars_3
 254624|Aldea Andina|Bariloche|NO|stars_3
-254625|El Viejo Cipr?s|Bariloche|NO|stars_2
+254625|El Viejo Ciprés|Bariloche|NO|stars_2
 254627|Bungalows Limanhue|Bariloche|NO|stars_3
 254631|Hosteria Del Viejo Molino|Bariloche|NO|stars_3
 254632|Villa Panil|Bariloche|NO|stars_2
@@ -745,12 +745,12 @@
 254641|Premier|Bariloche|NO|stars_3
 254642|Lago Gutierrez Lodge|Bariloche|NO|stars_3
 254643|View Hotel|Bariloche|NO|stars_3
-254960|Kau Si Aike Hosteria|El Chalt?n|NO|stars_3
-254961|Poincenot|El Chalt?n|NO|stars_3
-254965|Destino Sur|El Chalt?n|NO|stars_4
-254970|Hoster?a Posta Sur|El Calafate|NO|stars_3
+254960|Kau Si Aike Hosteria|El Chaltén|NO|stars_3
+254961|Poincenot|El Chaltén|NO|stars_3
+254965|Destino Sur|El Chaltén|NO|stars_4
+254970|Hostería Posta Sur|El Calafate|NO|stars_3
 255751|Plaza Italia|Mendoza|NO|stars_3
-255752|Tunkel?n Apart Hotel|Mendoza|NO|stars_3
+255752|Tunkelén Apart Hotel|Mendoza|NO|stars_3
 255753|Niventus|Mendoza|NO|stars_3
 255756|Home Suites Apart Hotel Medoza|Mendoza|NO|stars_3
 255757|El Encuentro Posada Boutique|Chacras de Coria|NO|stars_3
@@ -761,7 +761,7 @@
 255764|Postales Argentina - Chacras de Coria Lodge|Mendoza|NO|stars_3.5
 255766|Posada La Sorgente|Puerto Iguazu|NO|stars_3
 255772|Residencial Guarani|Puerto Iguazu|NO|stars_2
-255773|Orquideas Palace Hotel & Caba?as|Puerto Iguazu|NO|stars_4
+255773|Orquideas Palace Hotel & Cabañas|Puerto Iguazu|NO|stars_4
 255778|Alto Andino|Ushuaia|NO|stars_3
 255787|Gran Panamericano|Mar de Plata|NO|stars_3
 256543|Hotel Aybal Boutique Hotel|Salta|NO|stars_3
@@ -780,25 +780,25 @@
 256557|Potrero de los Funes|San Luis|NO|stars_4
 256559|Munay Salta|Salta|NO|stars_2.5
 256603|La Vieja Hosteria|Pinamar|NO|stars_3
-256931|Mediterraneo|San Miguel de Tucum?n|NO|stars_3
-256933|Dallas|San Miguel de Tucum?n|NO|stars_3
-256934|Gran Hotel Premier|San Miguel de Tucum?n|YES|stars_3
-256937|Catalinas Park|San Miguel de Tucum?n|NO|stars_5
-256938|Tillka - Casas de Monta?a|Villa La Angostura|NO|stars_3
+256931|Mediterraneo|San Miguel de Tucumán|NO|stars_3
+256933|Dallas|San Miguel de Tucumán|NO|stars_3
+256934|Gran Hotel Premier|San Miguel de Tucumán|YES|stars_3
+256937|Catalinas Park|San Miguel de Tucumán|NO|stars_5
+256938|Tillka - Casas de Montaña|Villa La Angostura|NO|stars_3
 256939|Luma Casa de Montana|Villa La Angostura|NO|stars_4
 256940|Altos Los Pioneros|Villa La Angostura|NO|stars_3
 256942|Las Morillas Huemul Lodge|Villa La Angostura|NO|stars_3
 256944|Solans Presidente|Rosario|NO|stars_4
 256945|Solans Libertador|Rosario|NO|stars_4
 257078|La Mision Posadas Hotel & Spa|Posadas|NO|stars_3
-257079|Complejo Tur?stico La Aventura|Posadas|NO|stars_3
-257107|Sieteflores Hosteria de Monta?a|San Martin de los Andes|NO|stars_3
+257079|Complejo Turístico La Aventura|Posadas|NO|stars_3
+257107|Sieteflores Hosteria de Montaña|San Martin de los Andes|NO|stars_3
 257108|Complejo Patagon SMA|San Martin de los Andes|NO|stars_3
 257109|La Casa de Eugenia|San Martin de los Andes|NO|stars_3
 257120|Costa Carilo|Carilo|NO|stars_4
 257121|Posada Del Bosque Carilo|Carilo|NO|stars_3
 257136|Hotel y Spa San Carlos|San Antonio de Areco|NO|stars_3
-257137|Vi?as de Cafayate Wine Resort|Cafayate|NO|stars_3
+257137|Viñas de Cafayate Wine Resort|Cafayate|NO|stars_3
 257138|Asturias|Cafayate|NO|stars_3
 257139|Los Sauces|Cafayate|NO|stars_3
 257140|La Casa de la Bodega - Wine Boutique|Cafayate|NO|stars_4
@@ -819,7 +819,7 @@
 257878|La Casona del Rio|Trelew|NO|stars_3
 257883|Pura Vida Hosteria de Aventura|San Salvador de Jujuy|NO|stars_3
 257884|Hotel Munay de San Salvador de Jujuy|San Salvador de Jujuy|NO|stars_2.5
-257885|Hoster?a Pascana|San Salvador de Jujuy|NO|stars_3
+257885|Hostería Pascana|San Salvador de Jujuy|NO|stars_3
 257960|Del Bono Park Spa & Casino|San Juan|NO|stars_5
 257961|Del Bono Suites|San Juan|NO|stars_3.5
 258011|Lujan de Cuyo B&B|Lujan de Cuyo|NO|stars_3
@@ -845,22 +845,22 @@
 260587|Sileo|Buenos Aires|NO|stars_4
 260588|Babel Suites|San Telmo|NO|stars_4
 260603|Two|Buenos Aires|NO|stars_3
-260809|Complejo Tur?stico Americano|Puerto Iguazu|NO|stars_3
+260809|Complejo Turístico Americano|Puerto Iguazu|NO|stars_3
 260812|Cerros de Terciopelo|Rosario de Lerma|NO|stars_3.5
 260820|Patios del Mediterraneo|San Rafael|NO|stars_3
 260823|Hosteria Kaiken|Ushuaia|NO|stars_3
-260825|Bah?a Monta?a Hotel|Villa La Angostura|NO|stars_3.5
-260927|Pe?on del Lago Lodge & Resort|Bariloche|NO|stars_4
+260825|Bahía Montaña Hotel|Villa La Angostura|NO|stars_3.5
+260927|Peñon del Lago Lodge & Resort|Bariloche|NO|stars_4
 261089|Grand Hotel|Buenos Aires|NO|stars_5
 271252|Suipacha Inn|Buenos Aires|NO|stars_3
-271253|El Para?so Open Door Polo Club|Open Door|NO|0
+271253|El Paraíso Open Door Polo Club|Open Door|NO|0
 271254|Victory|Buenos Aires|NO|stars_3
 271255|Hotel Lyon|Buenos Aires|NO|stars_3
 271258|Rent In Buenos Aires|Buenos Aires|NO|stars_3
 271261|Aldeano II|Buenos Aires|NO|stars_3
 271262|Daily Rent Apartment|Buenos Aires|NO|stars_3
 271263|Hotel del Prado|Buenos Aires|NO|stars_3
-271264|Color Bot?nico|Buenos Aires|NO|stars_3
+271264|Color Botánico|Buenos Aires|NO|stars_3
 271265|Tre Design Apartments|Buenos Aires|NO|stars_3
 271266|Puerto Delta Apart Hotel|Buenos Aires|NO|stars_3
 271267|Casona del Rio|Buenos Aires|NO|stars_3
@@ -884,7 +884,7 @@
 272876|Casa Glebinias|Mendoza|NO|stars_3
 272878|Villa Victoria Lodge|Mendoza|NO|stars_3
 272880|Valle Andino|Uspallata|NO|0
-272881|Caba?as Andinas|Potrerillos|NO|0
+272881|Cabañas Andinas|Potrerillos|NO|0
 272882|Plaza Paradiso Petit Hotel|Mendoza|NO|stars_3
 272883|Gala Apart Hotel|Mendoza|NO|stars_3
 272886|My Hotel Eco Lodge|Puerto Iguazu|NO|stars_3
@@ -896,26 +896,26 @@
 274854|La Casa de Mia Mama|Salta|NO|stars_3
 274855|Palacio Escondido|Salta|NO|stars_3
 274856|Bo Hotel de Encanto|Salta|NO|stars_3.5
-275982|Lunahuana Hosteria|Taf? del Valle|NO|stars_3
+275982|Lunahuana Hosteria|Tafí del Valle|NO|stars_3
 276002|Ona Apart Hotel & Spa|Villa La Angostura|NO|stars_3
 276003|Colina del Manzano|Villa La Angostura|NO|stars_3
 276119|Alto del Molle|San Salvador de Jujuy|NO|stars_2
-276120|Caba?as Las Hortensias|San Salvador de Jujuy|NO|stars_3
+276120|Cabañas Las Hortensias|San Salvador de Jujuy|NO|stars_3
 276172|Apartamentos El Patio|San Martin de los Andes|NO|stars_3
 276174|Hostal del Esquiador|San Martin de los Andes|NO|stars_3
 276432|Donsuites Apart Hotel|Corrientes|NO|stars_3
-276780|Lo de Tomy Complejo Turistico|El Chalt?n|NO|stars_3
-276781|Hotel Lunajuim|El Chalt?n|NO|stars_3
-276793|Hotel The Place|San Bernardo del Tuy?|NO|stars_3
+276780|Lo de Tomy Complejo Turistico|El Chaltén|NO|stars_3
+276781|Hotel Lunajuim|El Chaltén|NO|stars_3
+276793|Hotel The Place|San Bernardo del Tuyú|NO|stars_3
 276853|San Pedro Palace Hotel|San Pedro|NO|stars_3
 276856|Palazzo Ariete|Villa Gesell|NO|stars_4.5
 277327|Las Nalcas Mountain Resort & Spa|El Bolson|NO|stars_3
 277329|Hotel Norte Rupestre|Tilcara|NO|stars_3
 277330|La Casona Amarilla|Tilcara|NO|stars_3
-277332|Caba?as Valle Verde|Villa San Agustin|NO|stars_3
-277401|Azahares del Ayu?|Concordia|NO|stars_3
+277332|Cabañas Valle Verde|Villa San Agustin|NO|stars_3
+277401|Azahares del Ayuí|Concordia|NO|stars_3
 277458|Farallon Hotel|Caviahue|NO|stars_3
-277459|Caba?as Huerta Grande|Huerta Grande|NO|stars_4
+277459|Cabañas Huerta Grande|Huerta Grande|NO|stars_4
 277460|Tres Pircas Hotel & Spa|Huerta Grande|NO|stars_4
 277463|Arabela Casas de Campo|Las Rosas|NO|stars_3
 277464|Super Resort Las Lenas|Malargue|NO|stars_3
@@ -927,10 +927,10 @@
 284355|Postales Boutique WIne Hotels - Valle de Uco|San Rafael|NO|stars_3
 284356|Amerian Villa Maria Park|Villa Maria|NO|stars_4
 286340|Principado Hotel|Buenos Aires|YES|stars_4
-287213|Howard Johnson Inn Mina Claver|Mina Clavero|YES|0
+287213|Howard Johnson Inn Mina Claver|Mina Clavero|YES|stars_0
 287214|Kube Apartments|Cordoba|NO|stars_3
 289754|Aparthotel La Galeria|Carilo|NO|stars_3
-289923|Howard Johnson Hotel & Casino Formosa|Formosa|YES|0
+289923|Howard Johnson Hotel & Casino Formosa|Formosa|YES|stars_0
 291852|Escorpio Hotel Valle Las Lenas|Malargue|NO|stars_3
 295456|Destino Real Hotel|Buenos Aires|NO|stars_3
 295808|Estancia La Bamba de Areco|San Antonio de Areco|NO|stars_5
@@ -957,15 +957,15 @@
 368073|Grand Hotel Bariloche|Bariloche|NO|stars_3
 368775|Amerian Carlos Paz Apart & Suites|Villa Carlos Paz|NO|stars_3
 368776|Amerian Executive Cordoba|Cordoba|NO|stars_3
-370469|Hilton Garden Inn Tucuman|San Miguel de Tucum?n|NO|stars_3.5
-370470|Hotel Republica|San Miguel de Tucum?n|YES|0
-370471|Sheraton Tucuman Hotel|San Miguel de Tucum?n|YES|stars_5
+370469|Hilton Garden Inn Tucuman|San Miguel de Tucumán|NO|stars_3.5
+370470|Hotel Republica|San Miguel de Tucumán|YES|stars_0
+370471|Sheraton Tucuman Hotel|San Miguel de Tucumán|YES|stars_5
 370474|1412 Hotel Boutique De Lujo|Rosario|YES|stars_4
 370475|1495 Apart|Rosario|NO|stars_3
-370721|Howard Johnson|Carilo|YES|0
-370723|Neuquen Tower Hotel|Neuqu?n|YES|stars_4
+370721|Howard Johnson|Carilo|YES|stars_0
+370723|Neuquen Tower Hotel|Neuquén|YES|stars_4
 372128|Amerian Hotel Casino Carlos V|Termas de Rio Hondo|NO|stars_5
-372224|Howard Johnson Trenque Lauquen|Trenque Lauquen|YES|0
+372224|Howard Johnson Trenque Lauquen|Trenque Lauquen|YES|stars_0
 401091|Dazzler Campana|Campana|NO|stars_4
 401092|Australis Campana|Campana|NO|stars_3
 401182|Howard Johnson Lujan|Lujan|YES|stars_3
@@ -980,9 +980,9 @@
 404619|Premium Tower Suites|San Luis|NO|stars_3.5
 404634|La Barraca - Hotel & Resort|Merlo|NO|stars_3
 405899|CasaSur Bellini|Buenos Aires|NO|stars_4
-408743|Grand Crucero Iguaz? Hotel|Puerto Iguazu|NO|stars_4
-408764|Howard Johnson Chilecito Hotel & Casino|Chilecito|YES|0
-408766|Howard Johnson Hotel & Convention Center Ezeiza|Buenos Aires|YES|0
+408743|Grand Crucero Iguazú Hotel|Puerto Iguazu|NO|stars_4
+408764|Howard Johnson Chilecito Hotel & Casino|Chilecito|YES|stars_0
+408766|Howard Johnson Hotel & Convention Center Ezeiza|Buenos Aires|YES|stars_0
 413237|Soft Catedral|Villa Catedral|NO|stars_3
 414451|Hotel Arakur|Ushuaia|NO|stars_5
 417636|On Aparts Hotel Design|Cordoba|NO|stars_3

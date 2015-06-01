@@ -1,0 +1,2987 @@
+7063|Accent Inn Victoria|Victoria|YES|stars_2.5
+7362|The Algonquin Resort|St Andrews|NO|stars_4
+8522|Banff Park Lodge|Banff|NO|stars_3
+8625|Bayview Wildwood Resort|Severn Bridge|NO|stars_2.5
+8892|Quality Resort Bayside|Parksville|NO|stars_3
+8904|Best Western Plus Cairn Croft|Niagara Falls|YES|stars_3.5
+8915|Best Western Charlottetown|Charlottetown|NO|stars_3
+8928|Best Western Fallsview|Niagara Falls|NO|stars_2.5
+8981|Quality Inn Merritt|Merritt|NO|stars_2
+8997|Best Western Primrose Downtown-Toronto|Toronto|YES|stars_3
+9015|Best Western Tin Wis Resort Lodge|Tofino|NO|stars_3
+9020|Best Western Plus Downtown Vancouver|Vancouver|YES|stars_3.5
+9021|Best Western Ville Marie Hotel & Suites|Montreal|YES|stars_3
+9023|Sandman Hotel Revelstoke|Revelstoke|YES|stars_2
+9312|Crowne Plaza Niagara Falls-Fallsview|Niagara Falls|YES|stars_4
+9358|Buffalo Mountain Lodge|Banff|YES|stars_4
+9484|Calgary Marriott|Calgary|YES|stars_4
+9517|Cambridge Suites|Toronto|NO|stars_4
+9748|Caribou Lodge|Banff|YES|stars_3
+10317|The Fairmont Chateau Lake Louise|Lake Louise Village|YES|stars_4.5
+10319|Fairmont Château Laurier|Ottawa|YES|stars_4
+10324|Chateau Victoria|Victoria|NO|stars_3
+10325|The Fairmont Chateau Whistler|Whistler|YES|stars_5
+10552|Coast Bastion Hotel|Nanaimo|YES|stars_3
+10553|Coast Discovery Inn|Campbell River|YES|stars_3
+10554|Coast Inn of the North|Prince George|YES|stars_3
+10555|Coast Plaza Hotel & Suites|Vancouver|YES|stars_3
+10556|Prince Rupert|Prince Rupert|NO|stars_3
+10557|Radisson Edmonton South|Edmonton|NO|stars_3
+10558|Aava Whistler|Whistler|YES|stars_3
+10621|Comfort Inn|Barrie|NO|stars_2
+10632|Comfort Inn Huntsville|Huntsville|YES|stars_2
+10638|Comfort Inn Highway 401|Kingston|NO|stars_2
+10644|Comfort Inn North Bay|North Bay|NO|stars_2
+10655|Econo Lodge & Suites|Victoria|NO|stars_2
+10930|Courtyard Toronto|Toronto|YES|stars_3
+10988|Rosewood Georgia|Vancouver|NO|stars_5
+11002|Grand Plaza Montreal Centre-Ville - geschlossen|Montreal|YES|stars_3
+11009|Intercontinental Toronto Centre|Toronto|YES|stars_4
+11170|Holiday Inn Toronto Downtown Centre|Toronto|YES|stars_3
+11183|Le Pomerol|Montreal|NO|stars_3
+11191|Days Inn & Conference Center - Owen Sound|Owen Sound|YES|stars_2
+11200|Days Inn Vancouver Downtown|Vancouver|YES|stars_3
+11278|Deer Lodge|Lake Louise Village|YES|stars_3
+11279|Deerhurst Resort|Huntsville|YES|stars_4
+11342|Delta Beausejour Hotel|Moncton|NO|stars_3
+11343|Delta Bessborough|Saskatoon|NO|stars_4
+11344|Delta Bow Valley|Calgary|YES|stars_4
+11345|Delta Brunswick|Saint John|YES|stars_4
+11347|Delta Centre-Ville - geschlossen|Montreal|YES|stars_4
+11348|Chelsea Hotel Toronto|Toronto|YES|stars_4
+11349|Delta Edmonton Centre Suite Hotel|Edmonton|YES|stars_4
+11350|Delta Lodge at Kananaskis|Kananaskis|YES|stars_4
+11351|Delta Montréal|Montreal|YES|stars_4
+11352|The National Hotel & Suites|Ottawa|YES|stars_4
+11354|Pinestone Resort|Haliburton|YES|stars_3
+11356|Delta Prince Edward|Charlottetown|NO|stars_4
+11357|Delta Regina|Regina|YES|stars_3.5
+11358|Delta St. John's Hotel & Conference Centre|St. John's|NO|stars_4
+11359|Holiday Inn Sydney - Waterfront|Sydney|NO|stars_3
+11360|Delta Vancouver Suites|Vancouver|YES|stars_4
+11362|Delta Whistler Village Suites|Whistler|YES|stars_4
+11363|Delta Winnipeg Hotel|Winnipeg|YES|stars_4
+11364|Delta Barrington|Halifax|YES|stars_4
+11365|Delta Halifax|Halifax|YES|stars_4
+11408|Le Chantecler|Sainte Adele|NO|stars_4
+11409|Gouverneur Hotel Place Dupuis|Montreal|YES|stars_4
+11410|Des Gouverneurs Trois-Revierers|Trois Rivieres|NO|stars_3
+12073|Elmhirst's Resort|Keene|NO|stars_3
+12109|Emerald Lake Lodge|Field|YES|stars_4
+12125|Empire Landmark|Vancouver|NO|stars_3
+12427|Fantasyland|Edmonton|NO|stars_4
+12912|Holiday Inn Canmore|Canmore|YES|stars_3
+12926|Four Seasons|Vancouver|YES|stars_5
+12927|Four Seasons|Toronto|YES|stars_5
+13184|Georgian Court|Vancouver|YES|stars_4
+13793|Harbour Towers|Victoria|YES|stars_3
+13815|Harrison Hot Springs Resort & Spa|Harrison Hot Springs|NO|stars_3
+13905|Helmcken Falls Lodge|Clearwater|NO|stars_3
+13962|High Country Inn|Whitehorse|YES|stars_3
+13969|Hills Health & Guest Ranch|101 Mile House|NO|stars_4
+14181|Holiday Inn Hotel & Suites Vancouver Downtown|Vancouver|YES|stars_3
+14314|Tryp by Wyndham Quebec Hotel Pur|Quebec City|YES|stars_3.5
+14317|Atlantica Halifax|Halifax|YES|stars_4
+14386|Horseshoe Resort|Barrie|YES|stars_3
+14424|Ramada Inn & Suites|Canmore|YES|stars_3
+14443|Howard Johnson Hotel Vancouver|Vancouver|YES|stars_3
+14796|Christie's Mill Inn & Spa|Port Severn|NO|stars_4
+15044|Best Western Jasper Inn & Suites|Jasper|YES|stars_3
+15045|The Fairmont Jasper Park Lodge|Jasper|YES|stars_4
+15310|Keltic Lodge|Ingonish Beach|NO|stars_4
+15368|Killarney Mountain Lodge|Killarney|NO|stars_3
+15881|Lake Louise Inn|Lake Louise Village|YES|stars_3
+15882|Lake Okanagan|Kelowna|YES|stars_3.5
+16042|Le Cantlie Suites|Montreal|YES|stars_3
+16046|Le Centre Sheraton|Montreal|YES|stars_4
+16048|Fairmont Le Château Frontenac|Quebec City|YES|stars_4.5
+16049|Fairmont Le Château Montebello|Montebello|YES|stars_4
+16393|Liscombe Lodge|Liscomb Mills|NO|stars_3
+16546|Loyalist Lakeview Resort Summerside|Summerside|NO|stars_3
+16771|Manoir Victoria|Quebec City|YES|stars_4
+17008|Maritime Inn Port Hawksbury|Port Hawksbury|NO|stars_2.5
+17009|Maritime Plaza - geschlossen|Montreal|YES|stars_4
+17054|Marriott Chateau Champlain|Montreal|YES|stars_4
+17417|DoubleTree by Hilton Hotel Toronto Downtown|Toronto|YES|stars_4
+17950|Sheraton Hotel Newfoundland|St. John's|YES|stars_4
+18100|Novotel Montreal Centre|Montreal|YES|stars_4
+18104|Novotel Ottawa|Ottawa|YES|stars_3
+18120|Novotel Toronto Centre|Toronto|YES|stars_3
+18584|Pan Pacific Vancouver|Vancouver|YES|stars_5
+18586|Pan Pacific Whistler Mountainside|Whistler|YES|stars_4
+18941|Penticton Lakeside Resort|Penticton|NO|stars_4
+19043|Pictou Lodge|Pictou|NO|stars_3
+19072|Pillar & Post|Niagara on the Lake|NO|stars_4
+19377|Pow-Wow-Point Lodge|Huntsville|NO|stars_3
+19414|Prestige Lakeside Resort Nelson|Nelson|NO|stars_4
+19573|Quality Hotel Downtown Vancouver|Vancouver|YES|stars_3
+19592|Quality Inn Downtown|Montreal|YES|stars_3
+19597|Travelodge Hope|Hope|NO|stars_2
+19638|Fairmont The Queen Elizabeth|Montreal|NO|stars_4
+19649|Queen's Landing|Niagara on the Lake|NO|stars_4
+19825|Radisson Winnipeg Downtown|Winnipeg|YES|stars_3.5
+19858|Ramada Downtown Prince George|Prince George|YES|stars_3
+19860|Ramada Downtown|Calgary|YES|stars_3
+19862|Ramada Plaza Toronto Downtown|Toronto|YES|stars_3
+19865|Ramada Inn|Kamloops|YES|stars_3
+19877|Travelodge Belleville|Belleville|YES|stars_3
+19883|Ramada Inn & Suites Downtown Vancouver|Vancouver|YES|stars_3
+19887|Ramada Hotel & Conference Centre Kelowna|Kelowna|YES|stars_3
+20051|Doubletree by Hilton Hotel & Conference Centre Regina|Regina|NO|stars_3
+20134|Four Points Niagara Falls Fallsview|Niagara Falls|YES|stars_4
+20138|New Residence Hall|Montreal|NO|stars_2
+20154|Renaissance Toronto Downtown|Toronto|YES|stars_4
+20155|Pinnacle Hotel Vancouver Harbourfront|Vancouver|YES|stars_4
+20486|Riverview|Whitehorse|YES|stars_2
+20542|Rodd Moncton Hotel|Moncton|NO|stars_3
+20737|The Fairmont Royal York|Toronto|YES|stars_4
+20838|Sacacomie|Saint-Alexis-de-Monts|NO|stars_4
+20869|Hilton Saint John|Saint John|YES|stars_4
+21031|Sandman Calgary City Centre|Calgary|YES|stars_3
+21032|Sandman West Edmonton|Edmonton|YES|stars_3
+21033|Sandman Vancouver City Centre|Vancouver|YES|stars_3
+21034|Sandman Inn Smithers|Smithers|NO|stars_2
+21035|Sandman Inn & Suites Vernon|Vernon|NO|stars_2
+21153|Days Inn Saskatoon|Saskatoon|YES|stars_0
+21512|Sheraton Centre Toronto Hotel|Toronto|YES|stars_4
+21520|Marriott Gateway on the Falls|Niagara Falls|YES|stars_4
+21524|Crowne Plaza Kitchener-Waterloo|Kitchener|YES|stars_3
+21530|Sheraton Grande Edmonton|Edmonton|NO|stars_4
+21533|Four Points by Sheraton Halifax|Halifax|YES|stars_4
+21567|Sheraton Ottawa|Ottawa|YES|stars_3.5
+21587|Sheraton Suites Calgary Eau Claire|Calgary|YES|stars_4
+21593|Sheraton Vancouver Wall Centre|Vancouver|YES|stars_4
+21599|Sherwood Inn|Muskoka|NO|stars_4
+22055|Best Western Plus Prestige Inn Radium Hot Springs|Radium Hot Springs|NO|stars_3.5
+22555|Travelodge Victoria|Victoria|YES|stars_3
+22719|The Century Plaza|Vancouver|YES|stars_3
+22751|The Fairmont Empress|Victoria|YES|stars_4
+22766|The Fairmont Vancouver Airport|Vancouver|YES|stars_5
+22776|The Grand Toronto|Toronto|NO|stars_4
+22944|The Raven|Haines Junction|NO|stars_3
+22968|Ritz-Carlton Montreal|Montreal|NO|stars_5
+23038|The Fairmont Waterfront|Vancouver|YES|stars_5
+23288|Banff Aspen Lodge|Banff|YES|stars_3
+23467|Tyax Wilderness Resort & Spa|Goldbridge|NO|stars_3
+23581|The Fairmont Vancouver|Vancouver|YES|stars_4
+24392|The Westin Bayshore|Vancouver|YES|stars_4
+24399|Westin Harbour Castle|Toronto|YES|stars_4
+24405|The Westin Nova Scotian|Halifax|YES|stars_4
+24415|Westmark Inn Dawson City|Dawson City|YES|stars_3
+24418|Westmark Whitehorse|Whitehorse|YES|stars_3
+24421|Canmore Rocky Mountain Inn|Canmore|NO|stars_3
+24427|Whistlers Inn|Jasper|NO|stars_3
+26505|Listel Whistler|Whistler|YES|stars_3
+26507|Charlton's Cedar Court|Banff|YES|stars_3
+27250|Travelodge Calgary International Airport|Calgary|YES|stars_2
+27251|The Fairmont Palliser|Calgary|YES|stars_4
+27258|Quality Inn Dorval Airport|Montreal|NO|stars_3
+27259|Travelodge Montreal Centre|Montreal|YES|stars_2.5
+27260|Radisson Parliament Hill|Ottawa|YES|stars_3
+27261|Hilton Toronto Airport|Toronto|YES|stars_4
+27262|Travelodge Vancouver Airport|Richmond|YES|stars_3
+27263|Hyatt Regency Vancouver|Vancouver|YES|stars_4
+27284|Inn at Big White|Big White|NO|stars_3
+27285|Vance Creek & Chilcoot Lodge|Silver Star|NO|stars_3
+27286|Nancy Greene's Cahilty Lodge|Sun Peaks|NO|stars_3
+27287|The Fairmont Banff Springs|Banff|YES|stars_4
+27288|The Alpenglow At Whistler|Whistler|NO|stars_3
+27289|Best Western Plus Fernie Mountain Lodge|Fernie|NO|stars_3.5
+27449|Banff Ptarmigan Inn|Banff|YES|stars_3
+27450|Hidden Ridge Resort|Banff|NO|stars_3
+27451|Mount Royal|Banff|YES|stars_3
+27452|Banff International|Banff|YES|stars_3
+27454|Best Western Plus Pocaterra Inn|Canmore|YES|stars_3.5
+27455|Crystal Lodge & Suites|Whistler|YES|stars_3.5
+27456|Summit Lodge & Spa|Whistler|YES|stars_4
+27457|Lost Lake Lodge|Whistler|NO|stars_3
+27458|Pinnacle Hotel Whistler|Whistler|YES|stars_4
+27459|Tantalus Resort Lodge|Whistler|YES|stars_3
+27460|Delta Sun Peaks Resort|Sun Peaks|YES|stars_4
+27461|Five Calgary Downtown Suites|Calgary|YES|stars_3
+27462|Days Inn Calgary Airport|Calgary|YES|stars_2.5
+27463|Clarion Hotel & Conference Centre|Calgary|YES|stars_3
+27464|Holiday Inn Montreal Midtown|Montreal|YES|stars_3
+27465|Days Inn & Conference Centre - Montreal Airport|Montreal|YES|stars_3
+27468|Holiday Inn Express Quebec City (Sainte-Foy)|Quebec City|NO|stars_3
+27469|Bond Place|Toronto|YES|stars_3
+27470|Holiday Inn Express Toronto Downtown|Toronto|YES|stars_3
+27471|Novotel Toronto Mississauga Centre|Mississauga|YES|stars_3
+27472|Comfort Inn Downtown|Vancouver|YES|stars_3
+27473|Pacific Palisades|Vancouver|YES|stars_4
+27474|Rosedale on Robson Suite|Vancouver|NO|stars_3
+27476|St. Regis|Vancouver|YES|stars_3
+27477|Holiday Inn Express Vancouver Airport|Richmond|NO|stars_3
+27478|Sandman Hotel Vancouver Airport|Richmond|NO|stars_3
+27480|Hotel Zed|Victoria|YES|stars_2
+27481|Inn at Laurel Point|Victoria|YES|stars_4
+27761|Delta Calgary Airport Hotel|Calgary|YES|stars_4
+27762|Delta Edmonton South Hotel & Conference Centre|Edmonton|YES|stars_3
+27763|The Westin Bristol Place Toronto Airport|Toronto|YES|stars_4
+27764|Delta Toronto Airport West|Mississauga|YES|stars_3
+27765|Courtyard Toronto Airport|Toronto|YES|stars_3
+27767|Pacific Gateway at Vancouver Airport|Richmond|YES|stars_4
+27769|Super 8 Vancouver Airport Inn|Vancouver|NO|stars_2
+27814|The Westin Resort & Spa|Whistler|YES|stars_4
+27815|Whistler Peak Lodge|Whistler|NO|stars_3
+27816|Lizard Creek Lodge|Fernie|NO|stars_4
+27817|White Crystal Inn|Big White|NO|stars_3.5
+27818|Panorama Mountain Village Resort|Panorama|NO|stars_3
+27819|Fairmont Tremblant|Mont Tremblant|YES|stars_4.5
+27820|Les Suites Tremblant - Westin Resort & Spa|Mont Tremblant|YES|stars_5
+27822|Residence Inn Mont Tremblant Manoir Labelle|Mont Tremblant|YES|stars_3
+29462|Best Western Gold Rush Inn|Whitehorse|NO|stars_3
+29463|Ramada Whitehorse|Whitehorse|NO|stars_3
+29464|Holiday Inn Calgary Airport|Calgary|YES|stars_3
+29466|Quality Inn Halifax Airport|Halifax|NO|stars_2.5
+29467|Travelodge Montreal Airport|Montreal|NO|stars_3
+29469|Travelodge Hotel Toronto Airport|Toronto|YES|stars_3
+29472|Accent Inn Vancouver Airport|Vancouver|YES|stars_3
+29476|The Westin Calgary|Calgary|YES|stars_4
+29477|Coast Edmonton Plaza|Edmonton|YES|stars_3
+29478|The Fairmont Hotel Macdonald|Edmonton|YES|stars_4
+29480|Ramada Harrison Hot Springs|Harrison Hot Springs|NO|stars_2.5
+29481|Coast Capri|Kelowna|YES|stars_3
+29482|Sandman Hotel & Suites Kelowna|Kelowna|YES|stars_3
+29484|Manteo Resort Waterfront Hotel & Villas|Kelowna|NO|stars_4
+29486|Days Inn Kingston|Kingston|YES|stars_3
+29487|Holiday Inn Select Montreal Centre Ville Downtown|Montreal|YES|stars_3
+29488|Auberge de La Fontaine|Montreal|NO|stars_3
+29489|Auberge du Vieux Port|Montreal|NO|stars_4
+29491|Old Stone Inn|Niagara Falls|NO|stars_3
+29492|Capital Hill Hotel & Suites|Ottawa|YES|stars_3
+29493|Lord Elgin|Ottawa|YES|stars_3
+29494|Delta Ottawa City Centre|Ottawa|YES|stars_4
+29495|Sandman Penticton|Penticton|YES|stars_3
+29497|Sandman Inn & Suites Prince George|Prince George|NO|stars_2
+29498|Best Western Plus City Centre/Centre-Ville|Quebec City|YES|stars_3.5
+29499|Chateau Laurier|Quebec City|YES|stars_4
+29500|Delta Quebec|Quebec City|YES|stars_4
+29501|Moby Dick Inn|Prince Rupert|NO|stars_2
+29502|Crest|Prince Rupert|NO|stars_4
+29503|Comfort Inn Saint John|Saint John|NO|stars_2
+29507|Inns of Banff|Banff|YES|stars_3
+29508|April Point Resort & Spa|Quadra Island|NO|stars_3
+29509|Painter's Lodge|Campbell River|NO|stars_3
+29510|Maligne Lodge|Jasper|YES|stars_2
+29512|Marina West Motel|Tofino|NO|stars_3
+29513|Wickaninnish Inn|Tofino|NO|stars_5
+29514|Aspen Village Inn|Waterton Park|NO|stars_3
+29518|Wells Gray Guest Ranch|Clearwater|NO|stars_2
+29520|Clearwater Lodge|Clearwater|NO|stars_3
+29747|Coast Vancouver Airport|Vancouver|YES|stars_3
+29815|Banff Inn|Banff|NO|stars_3
+29817|Pines Golf Resort & Spa|Digby|NO|stars_4
+29818|White Point Beach|White Point|NO|stars_3
+29821|Hudson Bay Lodge|Smithers|NO|stars_3
+29822|Tadoussac|Tadoussac|NO|stars_3
+29824|Lord Stanley Suites on the Park|Vancouver|NO|stars_3
+29826|Sandman Victoria|Victoria|YES|stars_3
+29827|Delta Victoria Ocean Pointe Resort & Spa|Victoria|YES|stars_4
+29828|West Point Lighthouse|O'Leary|NO|stars_3
+30895|Inn on The Lake/Marsh Lake|Marsh Lake|NO|stars_4
+30901|Banff Voyager Inn|Banff|YES|stars_2
+30902|Quality Resort Chateau Canmore|Canmore|YES|stars_3
+30903|The Crossing Resort|Lake Louise Village|NO|stars_2
+30905|Three Valley Lake Chateau|Revelstoke|NO|stars_3
+30909|Ocean View|Rocky Harbour|NO|stars_3
+30911|Holiday Inn Hinton|Hinton|NO|stars_3
+30912|Sawridge Inn & Conference Centre|Jasper|NO|stars_4
+30913|Tonquin Inn|Jasper|YES|stars_3
+30914|Mount Robson Inn|Jasper|NO|stars_2
+30929|Whitman Inn|Kejimkujik National P+D6967ark|NO|stars_3
+30930|Manning Park Resort|Manning Provincia Park|NO|stars_3
+30932|Rodd Royalty Inn|Charlottetown|NO|stars_3
+30933|Tsa-Kwa-Luten Lodge|Quadra Island|NO|stars_3
+30935|Mike Wiegele Resort|Blue River|NO|stars_4
+30939|Sandman Inn & Suites Kamloops|Kamloops|YES|stars_2
+30940|South Thompson Inn & Conference Centre|Kamloops|NO|stars_3
+30952|La Reata Ranch|Kyle|NO|stars_2
+30954|Quality Hotel Calgary Airport & Conference Centre|Calgary|YES|stars_3
+30955|Best Western Plus Port O'Call|Calgary|YES|stars_3.5
+30956|Mountain Gap Inn|Digby|NO|stars_2
+30957|Travelodge Edmonton West|Edmonton|YES|stars_2
+30961|Lord Nelson|Halifax|NO|stars_4
+30962|Best Western Plus Kelowna Hotel & Suites|Kelowna|NO|stars_3
+30967|Best Western Plus Highland Inn & Conference Centre|Midland|NO|stars_3.5
+30968|Le Nouvel Hotel & Spa|Montreal|YES|stars_3.5
+30971|Riôtel Percé|Perce|NO|stars_3
+30973|Quarterdeck Inn & Marina Resort|Port Hardy|NO|stars_3
+30975|Pacific Inn|Prince Rupert|NO|stars_3
+30976|Auberge Lac-a-l'Eau-Claire|Saint-Alexis-de-Monts|NO|stars_4
+30978|La Sapiniere|Val-David|NO|stars_3
+30980|Chateau Bonne Entente|Quebec City|NO|stars_4.5
+30981|Manoir des Erables|Montmagny|NO|stars_3
+30983|Auberge Des Peupliers|La Malbaie|NO|stars_3
+30986|Manoir Lafayette|Quebec City|YES|stars_3
+30987|Ramada Limited Quesnel|Quesnel|YES|stars_2
+30993|Prestige Hotel Vernon|Vernon|NO|stars_3
+30995|Hilton Toronto|Toronto|YES|stars_4
+30996|Strathcona|Toronto|YES|stars_3
+30998|Hilton Vancouver Airport|Vancouver|YES|stars_4
+31387|The Fairmont Winnipeg|Winnipeg|YES|stars_4
+31388|Edmonton House|Edmonton|NO|stars_3
+31860|Barclay|Vancouver|NO|stars_2
+32126|Brewster's Mountain Lodge|Banff|NO|stars_3
+32127|Prestige Inn Golden|Golden|NO|stars_3
+32129|Hilton Montreal Bonaventure|Montreal|YES|stars_4
+32130|Hilton Quebec City|Quebec City|YES|stars_4
+32678|Clarion Hotel & Suites Downtown|Montreal|YES|stars_4
+32679|Lord Berri|Montreal|YES|stars_3
+33107|Days Inn & Suites Yellowknife|Yellowknife|NO|stars_3
+33108|Inn on the Lake, Ascend Collection|Fall River|NO|stars_3
+33109|Hilton Suites Winnipeg Airport|Winnipeg|YES|stars_4
+33110|Sandmann Saskatoon|Saskatoon|YES|stars_3
+33112|Sir Sam's Inn|Eagle Lakes|NO|stars_3
+33113|Benmiller Inn & Spa|Goderich|NO|stars_3.5
+33115|Rocky Crest Golf Resort|Mactier|YES|stars_4
+33117|Auberge Le Saint Pierre|Quebec City|NO|stars_4
+33118|Clarendon|Quebec City|NO|stars_4
+33119|Auberge de la Pointe|Riviere Du Loup|NO|stars_3
+33120|Manoir Saint Sauveur|St. Sauveur des Monts|NO|stars_4
+33122|Harbourview Inn|Smith's Cove|NO|stars_3
+33123|The Inverary Resort|Baddack|NO|stars_3
+33124|Anchor Inn|Twillingate|NO|stars_2.5
+33125|Crowne Plaza Moncton Downtown|Moncton|NO|stars_3.5
+33126|The Hotel on Pownal|Charlottetown|NO|stars_3
+33127|Prestige Rocky Mountain Resort|Cranbrook|NO|stars_3
+34362|Seawind Landing Country Inn|Charlos Cove|NO|stars_4
+34364|St. Christopher's|Port Aux Basques|NO|stars_3.5
+34366|The Crimson Jasper|Jasper|NO|stars_2
+34367|Doubletree Resort Lodge & Spa|Niagara Falls|YES|stars_4
+34368|Long Beach Lodge|Pacific Rim National Park|NO|stars_4
+34371|Best Western Plus Travel Toronto Airport|Toronto|YES|stars_3.5
+34568|Best Western Plus Austrian Chalet|Campbell River|YES|stars_3.5
+34569|Sandman Inn Cache Creek|Cache Creek|NO|stars_2
+34572|Best Western Plus Sunrise Inn|Osoyoos|NO|stars_3.5
+34573|Comfort Inn Rimouski|Rimouski|NO|stars_2
+34574|Sandman Hotel & Suites Williams Lake|Williams Lake|NO|stars_2
+34575|Gordon's Lodge|Gore Bay|NO|stars_2
+35396|Tigh Na Mara Resort|Parksville|NO|stars_3
+35397|Talking Rock & Quaaout Resort Lodge|Chase|NO|stars_4
+35398|Algonquin Wilderness Eco - Lodge|Harcourt|NO|0
+35400|Echo Valley Ranch Resort|Jesmond|NO|stars_4.5
+35401|Accent Inn Kelowna|Kelowna|YES|stars_3
+35402|Duffin Cove Resort|Tofino|NO|stars_2.5
+35403|Hampton Inn & Suites Downtown|Vancouver|YES|stars_3
+35404|Holiday Inn Calgary Macleod Trail South|Calgary|YES|stars_3
+35405|Hidden Valley Resort, Ascend Collection|Huntsville|NO|stars_3
+35406|Delta Kingston Waterfront Hotel|Kingston|NO|stars_3
+35407|Comfort Inn Midland|Midland|NO|stars_2
+35408|The Oakes Overlooking the Falls|Niagara Falls|YES|stars_3
+35410|Radisson Hotel Kitchener Waterloo|Kitchener|NO|stars_3
+35411|Comfort Suites & Conference Centre|Sault Sainte Marie|NO|stars_3
+35412|Cartier Place Suite|Ottawa|YES|stars_3
+35413|Comfort Inn Owen Sound|Owen Sound|NO|stars_2
+35414|Hilton Niagara Falls/ Fallsview Hotel|Niagara Falls|YES|stars_4
+35415|Travelodge Lakeshore North Bay|North Bay|YES|stars_2
+35416|Travelodge Ottawa East|Ottawa|YES|stars_2
+35417|Holiday Inn Toronto International Airport|Toronto|YES|stars_3
+35418|Quality Hotel & Suites Airport East|Toronto|YES|stars_3
+35419|Quality Inn & Conference Center Downtown|Sudbury|NO|stars_2
+35420|Quality Inn & Suites Airport|Mississauga|NO|stars_2
+35422|Comfort Hotel Downtown|Toronto|YES|stars_3
+35423|L'Appartement Hôtel|Montreal|YES|stars_3
+35424|Auberge l'Abitation de Champlain|Quebec City|NO|stars_3
+35425|Gouverneur|Quebec City|YES|stars_4
+35426|Les Suites Tremblant|Mont Tremblant|YES|stars_3.5
+35427|Comfort Inn Trois-Riviéres|Trois Rivieres|NO|stars_2
+35428|Fairfield Inn & Suites Marriott|St. John's|NO|stars_3
+35429|Hampton Inn by Hilton Halifax Downtown|Halifax|YES|stars_3
+35430|Comfort Inn|Charlottetown|NO|stars_2
+35431|Comfort Inn|Dartmouth|NO|stars_2
+35432|Holiday Inn Express Saint John Harbour Side|Saint John|YES|stars_2
+35433|Comfort Inn Sydney|Sydney|NO|stars_2
+35434|Howard Johnson Hinton|Hinton|NO|stars_2
+35435|Marmot Lodge|Jasper|YES|stars_2
+35447|Delta Grand Okanagan Resort & Conference Centre|Kelowna|YES|stars_4
+36102|Best Western Plus Kitchener-Waterloo|Kitchener|NO|stars_3.5
+36107|Chateau Jasper|Jasper|YES|stars_3
+36111|108 Resort & Conference Centre|108 Mile House|NO|stars_3
+36516|Thompson Hotel & Conference Center|Kamloops|NO|stars_3
+36517|Water's Edge Resort at Pacific Rim|Ucluelet|NO|stars_3
+37854|Comfort Toronto Airport North|Toronto|YES|stars_3
+37855|Days Inn Downtown|Ottawa|YES|stars_2
+37859|Clarion Hotel & Suites Selby|Toronto|YES|stars_2
+37860|Best Western Sea to Sky|Squamish|NO|stars_2.5
+37861|Glacier Lodge|Whistler|NO|stars_3
+38148|Park Hyatt Toronto|Toronto|NO|stars_4
+38639|Hilton Garden Inn Calgary Airport|Calgary|YES|stars_3
+38641|Horstman House|Whistler|NO|stars_3
+38643|De Glace|Ste-Catherine-de-la-Jacques|NO|stars_3
+39213|Stoney Creek Northstar|Whistler|NO|stars_2.5
+39559|Ramada Inn & Suites|Penticton|YES|stars_3
+39560|Four Points by Sheraton Kingston|Kingston|YES|stars_3
+39876|Michael's Inn Fallsview Hotel|Niagara Falls|NO|stars_3
+39877|Taboo Resort|Gravenhurst|NO|stars_4
+40161|King Pacific Lodge|Princess Royal Island|NO|stars_6
+40162|Four Seasons Resort Whisler|Whistler|YES|stars_5
+40189|Sofitel Montreal Golden Mile|Montreal|YES|stars_5
+40190|Opus|Vancouver|NO|stars_4
+40455|Best Western Plus Stoneridge Inn & Conference Centre|London|NO|stars_3
+40456|Place d'Armes Hotel & Suites|Montreal|NO|stars_4
+40458|Little Shemouge Country Inn|Little Shemogue|NO|stars_4
+40460|Rossmount Inn|St Andrews|NO|stars_3
+40462|Glenghorm Beach Resort|Ingonish Beach|NO|stars_3
+40464|Sunwapta Falls Rocky Mountain Lodge|Jasper|YES|stars_2
+40706|International Suites Calgary|Calgary|YES|stars_3
+40707|The Hillcrest a Coast Resort|Revelstoke|YES|stars_3
+41217|Blomidon Inn|Wolfville|NO|stars_3
+41220|The Halliburton|Halifax|NO|stars_3.5
+41221|Chateau Versailles|Montreal|YES|stars_4
+41222|Extended Stay Canada - Ottawa|Ottawa|NO|stars_3
+41243|Best Western Plus Abercorn Inn|Richmond|NO|stars_3.5
+42309|Sun Peaks Lodge|Sun Peaks|NO|stars_3
+47967|Coast Blackcomb Suites at Whistler|Whistler|YES|stars_3
+48188|W Hotels Montreal|Montreal|YES|stars_4.5
+48420|Whistler Village Inn & Suites|Whistler|YES|stars_3
+48443|Whistler Cascade Lodge|Whistler|NO|stars_3
+51730|Holiday Inn Montreal Airport|Montreal|YES|stars_3
+51731|Le Germain|Toronto|NO|stars_4
+51732|Frances Lake Wilderness Lodge|Frances Lake|NO|stars_3
+51733|Lobstick Lodge|Jasper|YES|stars_3
+51735|Blackcomb Lodge|Whistler|NO|stars_3
+52629|Spruce Grove Inn|Banff|YES|stars_3
+52630|Coast Sundance Lodge|Sun Peaks|YES|stars_3
+53362|Riverside Resort|French Village|NO|stars_3
+53363|Bluenose Lodge|Lunenburg|NO|stars_3
+53364|Coast Penticton|Penticton|YES|stars_3
+53365|Magnolia|Victoria|YES|stars_4
+53366|Best Western Plus Montreal Downtown Europa|Montreal|YES|stars_3.5
+53367|Le Nelligan|Montreal|NO|stars_4
+53368|ARC The.Hotel|Ottawa|NO|stars_4
+53370|Edgewater|Whitehorse|NO|stars_3
+53377|Le Grand Lodge Mont-Tremblant|Mont Tremblant|NO|stars_4
+53767|The Hollis Halifax - a DoubleTree Suites by Hilton|Halifax|NO|stars_4
+53768|Holiday Inn Express-Halifax/Bedford|Halifax|NO|stars_2
+53769|Comfort Inn|Halifax|NO|stars_2
+54751|Carlingview Toronto Airport|Toronto|YES|stars_3
+54753|Best Western Plus Sands|Vancouver|NO|stars_3.5
+54754|Marriott Pinnacle Downtown Vancouver|Vancouver|YES|stars_4
+55082|Douglas Fir Resort & Chalets|Banff|NO|stars_3
+55083|High Country Inn|Banff|YES|stars_3
+55084|Rimrock Resort|Banff|YES|stars_4
+55085|Days Inn Barrie|Barrie|YES|stars_2
+55086|Howard Johnson Express Inn Barrie Ontario|Barrie|YES|stars_2
+55087|Holiday Inn Express & Suites Barrie|Barrie|NO|stars_3
+55088|Quality Inn|Barrie|NO|stars_2
+55089|Holiday Inn Barrie Hotel & Conference Centre|Barrie|NO|stars_3
+55090|Travelodge Barrie On Bayfield|Barrie|YES|stars_2
+55091|Super 8 Calgary Shawnessy Area|Calgary|YES|stars_2
+55092|Executive Royal Hotel Calgary|Calgary|YES|stars_3
+55093|Holiday Inn Express Hotel & Suites Calgary South-Macleod Trail S|Calgary|YES|stars_3
+55096|Four Points by Sheraton Calgary West|Calgary|YES|stars_3
+55098|Ramada Limited Calgary Northwest|Calgary|YES|stars_2
+55099|Howard Johnson Express Inn Calgary|Calgary|YES|stars_0
+55100|Lakeview Signature Inn Calgary Airport|Calgary|NO|stars_3
+55102|Aloft Calgary University|Calgary|YES|stars_3
+55103|Best Western Calgary Centre Inn|Calgary|NO|stars_3.5
+55104|Sandman Hotel & Suites Calgary Airport|Calgary|YES|stars_3
+55105|Sheraton Cavalier Calgary|Calgary|YES|stars_4
+55106|The Glenmore Inn & Convention Centre|Calgary|NO|stars_3
+55107|Hyatt Regency Calgary|Calgary|NO|stars_4
+55109|Best Western Plus Suites Downtown|Calgary|YES|stars_3.5
+55110|Comfort Inn & Suites South|Calgary|NO|stars_3
+55111|Econo Lodge Charlottetown|Charlottetown|NO|stars_2
+55113|Howard Johnson Hotel Charlottetown|Charlottetown|NO|stars_2
+55115|Radisson Hotel & Convention Center Edmonton|Edmonton|NO|stars_3
+55116|Wingate by Wyndham Edmonton West|Edmonton|YES|stars_3
+55117|Holiday Inn Express & Suites Edmonton - At The Mall|Edmonton|NO|stars_2
+55118|Executive Royal Inn West Edmonton|Edmonton|YES|stars_3
+55119|The Sutton Place|Edmonton|YES|stars_4
+55120|Ramada Edmonton Hotel & Conference Centre|Edmonton|YES|stars_3
+55121|Comfort Inn West|Edmonton|YES|stars_2
+55122|Days Inn and Suites Edmonton|Edmonton|YES|stars_3
+55124|Crowne Plaza Chateau Lacombe|Edmonton|NO|stars_3.5
+55125|The Westin Edmonton|Edmonton|YES|stars_4
+55126|Ramada Inn & Water Park Edmonton South|Edmonton|YES|stars_2
+55127|Days Inn Edmonton Downtown|Edmonton|YES|stars_2.5
+55130|Doubletree by Hilton West Edmonton|Edmonton|NO|stars_3
+55132|Holiday Inn Express Edmonton Downtown|Edmonton|NO|stars_3
+55133|Best Western Cedar Park Inn|Edmonton|YES|stars_3
+55134|Four Points by Sheraton Conference Centre Gatineau|Gatineau|YES|stars_3
+55136|Five 540 Forty|Kamloops|YES|stars_3
+55137|Comfort Inn & Suites|Kamloops|YES|stars_3
+55138|Holiday Inn Express Kamloops|Kamloops|NO|stars_3
+55139|Coast Kamloops Hotel & Conference Centre|Kamloops|YES|stars_3
+55140|Howard Johnson Panorama Inn Kamloops|Kamloops|NO|stars_2
+55141|Accent Inn Kamloops|Kamloops|YES|stars_2.5
+55142|Kamloops Travelodge|Kamloops|YES|stars_2
+55143|Super 8 Kelowna|Kelowna|YES|stars_2
+55144|Abbott Villa on the Lake|Kelowna|NO|stars_2
+55145|Super 8 West Kelowna|Kelowna|YES|stars_2
+55146|Holiday Inn Express Kelowna Conference Centre|Kelowna|YES|stars_2.5
+55148|Royal Anne|Kelowna|NO|stars_3
+55149|Kingston East Motel|Kingston|NO|stars_2
+55151|Holiday Inn Kingston Waterfront|Kingston|NO|stars_3
+55152|Knights Inn Kingston|Kingston|NO|stars_2
+55154|Econo Lodge Inn & Suites|Lethbridge|NO|stars_2
+55155|Ramada Lethbridge|Lethbridge|NO|stars_3
+55156|Holiday Inn Express Hotel & Suites Lethbridge|Lethbridge|NO|stars_3
+55157|Lethbridge Lodge Hotel & Conference Centre|Lethbridge|NO|stars_3
+55158|Days Inn - Lethbridge|Lethbridge|YES|stars_2
+55159|Canadas Best Value Inn & Suites - Pepper Tree Inn|Lethbridge|YES|stars_1.5
+55160|Coast Lethbridge|Lethbridge|YES|stars_3
+55162|Howard Johnson Lethbridge|Lethbridge|YES|stars_2
+55163|Sandman Lethbridge|Lethbridge|NO|stars_3
+55164|Holiday Inn Lethbridge|Lethbridge|NO|stars_3
+55165|Ramada London|London|YES|stars_3
+55166|Knights Inn London|London|YES|stars_2
+55168|Holiday Inn & Suites London|London|YES|stars_3
+55169|Courtyard London|London|NO|stars_3
+55170|Quality Suites London|London|YES|stars_2
+55171|Days Inn London|London|YES|stars_2.5
+55172|Four Points by Sheraton London|London|YES|stars_3
+55173|Delta London Armouries Hotel|London|YES|stars_3
+55174|London Executive Suites Hotel|London|NO|stars_2
+55175|TownePlace Suites by Marriott London|London|NO|stars_2
+55176|Les Suites Tremblant - Tour des Voyageurs|Mont Tremblant|YES|stars_4
+55177|Les Suites Tremblant - Lodge de la Montagne|Mont Tremblant|YES|stars_4
+55179|Omni Mont Royal|Montreal|YES|stars_4
+55180|Ruby Foos|Montreal|NO|stars_4
+55181|St. Paul|Montreal|NO|stars_4
+55182|Hotel du Fort - geschlossen|Montreal|YES|stars_4
+55183|Residence Inn Montreal Westmount|Montreal|YES|stars_4
+55184|Hotel des Arts|Montreal|YES|stars_2
+55187|Intercontinental Montreal|Montreal|YES|stars_5
+55188|Quality Midtown|Montreal|YES|stars_3
+55189|Hyatt Regency Montreal|Montreal|YES|stars_4
+55190|La Tour Centre Ville|Montreal|YES|stars_3
+55193|Residence Inn Montreal Downtown|Montreal|NO|stars_3
+55194|Champ-de-Mars|Montreal|NO|stars_2
+55196|L'Hotel|Montreal|NO|stars_3
+55197|Le Meridien Versailles|Montreal|YES|stars_4
+55201|La Chouette|Mont Tremblant|YES|stars_3
+55202|Les Suites Tremblant - Sommet des Neiges|Mont Tremblant|YES|stars_4
+55203|The Tower Hotel|Niagara Falls|NO|stars_4
+55204|BestDays Niagara Falls|Niagara Falls|NO|stars_2
+55205|The Glengate Hotel & Suites|Niagara Falls|NO|stars_2.5
+55206|Red Carpet Inn & Suites|Niagara Falls|NO|stars_2
+55207|Imperial Hotel & Suites|Niagara Falls|NO|stars_3
+55208|Hampton Inn North of the Falls|Niagara Falls|NO|stars_3
+55209|Howard Johnson Hotel by the Falls|Niagara Falls|YES|stars_2
+55211|Knights Inn by The Falls|Niagara Falls|YES|stars_2
+55213|Radisson Fallsview|Niagara Falls|YES|stars_3
+55214|Courtyard Niagara Falls|Niagara Falls|YES|stars_3
+55215|Baymont Inn & Suites Niagara Falls|Niagara Falls|NO|stars_3
+55217|Victoria Motor Inn at the Falls & Casino|Niagara Falls|NO|stars_2
+55219|Americana Resort Spa & Waterpark|Niagara Falls|NO|stars_3
+55220|Days Inn Clifton Hill Casino|Niagara Falls|YES|stars_3
+55221|Embassy Suites Niagara Falls Fallsview|Niagara Falls|YES|stars_4
+55222|Marriott Fallsview Niagara Falls|Niagara Falls|YES|stars_4
+55223|Canadas Best Value Inn|Niagara Falls|YES|stars_2
+55224|Villager Lodge Niagara Falls|Niagara Falls|NO|stars_2
+55225|Universal Inn & Suites|Niagara Falls|NO|stars_2
+55226|Ramada Plaza Niagara Falls|Niagara Falls|YES|stars_3
+55229|Thriftlodge Niagara Falls at the Falls|Niagara Falls|YES|stars_2
+55232|Rodeway Inn Fallsview|Niagara Falls|NO|stars_3
+55233|Holiday Inn Hotel & Suites Downtown|Ottawa|YES|stars_3
+55234|Best Western Plus Victoria Park Suites|Ottawa|YES|stars_3.5
+55235|Embassy Hotel & Suites|Ottawa|NO|stars_3
+55236|Brookstreet Hotel|Ottawa|NO|stars_4
+55237|Comfort Inn East|Ottawa|NO|stars_2
+55238|Quality Downtown Ottawa|Ottawa|YES|stars_3
+55240|Econo Lodge Downtown East|Ottawa|NO|stars_2
+55241|The Westin Ottawa|Ottawa|YES|stars_4
+55242|Days Inn Ottawa Airport|Ottawa|YES|stars_2
+55243|Chimo|Ottawa|YES|stars_3
+55244|Marriott Ottawa|Ottawa|YES|stars_4
+55246|Embassy West Hotel & Cenference Center|Ottawa|NO|stars_3
+55247|Loews Le Concorde|Quebec City|YES|stars_4
+55248|Quebec City Marriott Downtown|Quebec City|YES|stars_3
+55249|iHotel 67 Street|Red Deer|NO|stars_3
+55250|Ramada Red Deer Hotel & Suites|Red Deer|NO|stars_3
+55251|Travelodge Red Deer|Red Deer|YES|stars_2
+55252|Red Deer Lodge|Red Deer|NO|stars_3
+55253|Super 8 Red Deer City Centre|Red Deer|YES|stars_2
+55254|Holiday Inn Express Red Deer|Red Deer|NO|stars_3
+55255|Holiday Inn Express Suites Regina|Regina|NO|stars_3
+55256|Super 8 Regina|Regina|YES|stars_2
+55258|Travelodge Regina|Regina|YES|stars_3
+55260|Radisson Plaza Hotel Saskatchewan|Regina|NO|stars_4
+55261|Days Inn Regina|Regina|YES|stars_2
+55263|Ramada Hotel & Convention Center|Regina|YES|stars_3
+55264|Sandman Hotel & Suites Regina|Regina|YES|stars_3
+55265|Comfort Inn Vancouver Airport|Richmond|NO|stars_2
+55267|Days Inn Vancouver Airport|Richmond|YES|stars_2
+55271|Four Points by Sheraton Vancouver Airport|Richmond|YES|stars_3
+55272|Ramada Limited Vancouver Airport|Richmond|YES|stars_2
+55273|Executive Inn Express Richmond|Richmond|YES|stars_3
+55275|Vancouver Airport Marriott|Richmond|NO|stars_3.5
+55276|Holiday Inn Vancouver Airport - Richmond|Richmond|YES|stars_3
+55279|Executive Airport Plaza Hotel & Conference Centre Richmond|Richmond|YES|stars_3.5
+55282|Quality Airport South|Richmond|NO|stars_2
+55283|Radisson Vancouver Airport|Richmond|YES|stars_3.5
+55284|Residence Inn London Downtown|London|NO|stars_3
+55868|Ten-ee-ah Lodge|Lac la Hache|NO|stars_4
+55869|Westcoast Wilderness Lodge|Egmont|NO|stars_4.5
+55905|Dalton Trail Lodge|Haines Junction|NO|stars_4
+55912|Pyramid Lake Resort|Jasper|NO|stars_3
+55913|Executive Hotel Le Soleil|Vancouver|YES|stars_4
+55914|Oak Bay Beach|Victoria|YES|stars_4.5
+55915|Glen Lyon Inn|Port Hardy|NO|stars_3
+57117|Sandman Suites Vancouver - Davie Street|Vancouver|YES|stars_3
+57118|Auberge Vancouver|Vancouver|NO|stars_4
+57119|Best Western Plus Chateau Granville Hotel & Suites|Vancouver|YES|stars_3.5
+57123|Glacier House Resort|Revelstoke|YES|stars_3
+57124|Moraine Lake Lodge|Lake Louise Village|NO|stars_3.5
+57126|Rafter Six Ranch Resort|Seebe|NO|stars_3
+57172|Doubletree by Hilton Kamloops|Kamloops|NO|stars_3.5
+57173|Best Western Plus The Westerly Hotel & Convention Centre|Courtenay|NO|stars_3.5
+57174|The Hospitality Inn|Port Alberni|NO|stars_2.5
+57175|Coast Victoria Harbourside Hotel & Marina|Victoria|YES|stars_4
+57176|Holiday Inn Hotel & Suites Winnipeg Downtown|Winnipeg|YES|stars_3
+57178|Best Western North Bay Hotel & Conference Centre|North Bay|NO|stars_2
+57179|Comfort Inn|Orillia|NO|stars_2
+57180|Radisson Admiral Toronto Harbourfront|Toronto|YES|stars_4
+57181|The Omni King Edward|Toronto|YES|stars_4
+57182|Espresso Montreal Centre-Ville / Downtown|Montreal|YES|stars_3
+57185|Delta Trois Rivieres Hotel & Conference Centre|Trois Rivieres|NO|stars_4
+57194|Delta Sault Ste. Marie Waterfront Hotel|Sault Sainte Marie|NO|stars_3
+57195|Sheraton on the Falls|Niagara Falls|YES|stars_4
+57197|Le Montagnais|Chicoutimi|NO|stars_3
+57198|Rimouski|Rimouski|NO|stars_4
+57771|Muskoka Grandview Resort|Huntsville|YES|stars_3.5
+57772|Le Saint-Sulpice Hotel Montréal|Montreal|YES|stars_4
+57773|Auberge Saint Antoine|Quebec City|NO|stars_4
+57774|Rodd Crowbush Golf & Beach Resort|Morell|NO|stars_3.5
+57775|Metropolitan Vancouver|Vancouver|YES|stars_4
+57850|Holiday Inn Express Vancouver Metrotown (Burnaby)|Burnaby|NO|stars_2.5
+58549|Tropicana Motor Inn|Vancouver|NO|stars_2
+62335|The Old Schoolhouse Bed & Breakfast|Kyle|NO|stars_0
+63582|Fairfield Inn & Suites by Marriott|Toronto|NO|stars_2.5
+63845|Fairfield Inn & Suites Belleville|Belleville|NO|stars_2
+63849|WorldMark Canmore-Banff|Canmore|NO|stars_3
+63850|Courtyard Edmonton Downtown|Edmonton|YES|stars_3.5
+63851|Residence Inn Halifax Downtown|Halifax|NO|stars_3
+63852|Courtyard Hamilton|Hamilton|NO|stars_3
+63853|Trickle Creek Lodge|Kimberley|YES|stars_3
+63854|Courtyard Toronto Markham|Markham|NO|stars_3
+63855|Residence Inn Toronto Markham|Markham|NO|stars_3
+63856|Courtyard Toronto Mississauga/Meadowvale|Mississauga|NO|stars_3
+63858|Residence Inn Toronto Mississauga/Meadowvale|Mississauga|NO|stars_3
+63859|Courtyard Montreal Downtown|Montreal|YES|stars_4
+63863|Fairfield Inn Toronto Oakville|Oakville|NO|stars_2
+63864|Residence Inn Ottawa Downtown|Ottawa|YES|stars_3
+63865|Courtyard Toronto Vaughan|Toronto|NO|stars_3
+63866|Marriott Toronto Airport|Toronto|YES|stars_4
+63867|Marriott Toronto Bloor Yorkville|Toronto|YES|stars_4
+63868|Toronto Marriott Downtown Eaton Centre Hotel|Toronto|YES|stars_4
+63869|Sheraton Toronto Airport|Toronto|YES|stars_4
+63870|Residence Inn Toronto Airport|Toronto|YES|stars_3
+63871|Victoria Marriott Inner Harbour|Victoria|YES|stars_4
+63872|Residence Inn Whitby|Whitby|NO|stars_3
+64098|Hilton Whistler Resort & Spa|Whistler|YES|stars_4
+64100|Copper Horse Lodge|Kicking Horse|NO|stars_3
+64685|Holiday Inn Pointe-Claire Montreal Airport|Pointe-Claire|YES|stars_3
+64686|The Post Hotel & Spa|Lake Louise Village|NO|stars_4
+64752|Tagish Wilderness Lodge|Tagish Lake|NO|stars_3
+64973|Pan Pacific Whistler Village Center|Whistler|YES|stars_4
+65368|Hampton Inn & Suites Calgary Airport|Calgary|NO|stars_3
+65369|Hampton Inn & Suites Calgary - University Northwest|Calgary|NO|stars_3
+65606|Hilton Lac Leamy|Gatineau|YES|stars_4
+65651|Hampton Inn Kamloops|Kamloops|NO|stars_3
+65706|Hilton London Ontario|London|YES|stars_4
+65722|Hilton Garden Inn Toronto/Markham|Markham|NO|stars_3
+65723|Hilton Suites Toronto/Markham Conference Centre & Spa|Markham|NO|stars_4
+65768|Hampton Inn Toronto-Mississauga|Mississauga|NO|stars_3
+65769|Hilton Garden Inn Toronto/Mississauga|Mississauga|NO|stars_3
+65831|Clifton Victoria Inn at the Falls|Niagara Falls|YES|stars_3
+65851|Hilton Garden Inn Toronto/Oakville|Oakville|NO|stars_3
+65878|Hampton Inn Ottawa|Ottawa|NO|stars_3
+65969|Hampton Inn Vancouver Airport/Richmond|Richmond|YES|stars_3
+66131|International Plaza Hotel|Toronto|YES|stars_3
+66194|Hilton Windsor|Windsor|NO|stars_3
+66195|Humphry Inn & Suites|Winnipeg|YES|stars_3
+66399|Hampton Inn & Suites Montreal Dorval Quebec, Canada|Montreal|YES|stars_3
+66400|Hilton Montreal Laval|Montreal|NO|stars_4
+66401|Hilton Vancouver Metrotown|Burnaby|YES|stars_4
+66460|Hampton Inn & Suites Langley|Surrey|NO|stars_3
+67561|Radisson Toronto East|Toronto|NO|stars_3
+67576|Country Inn & Suites Calgary - Airport|Calgary|NO|stars_2.5
+67598|Travelodge Suites Saint John|Saint John|NO|stars_3
+67599|Country Inn & Suites By Carlson|Saskatoon|NO|stars_2.5
+67600|Radisson Saskatoon|Saskatoon|NO|stars_4
+67601|Country Inn & Suites Carlson Regina|Regina|NO|stars_2.5
+67603|Country Inn & Suites Carlson Winnipeg|Winnipeg|NO|stars_2.5
+67604|Coast Canmore Hotel & Conference Centre|Canmore|YES|stars_3
+67608|Travelodge Suites Moncton|Moncton|NO|stars_3
+67623|Riverside Inn|Windsor|NO|stars_3
+67678|Travelodge Suites Dartmouth|Dartmouth|NO|stars_3
+67721|Delta Markham|Markham|YES|stars_3
+67722|Country Inn By Carlson|Oakville|NO|stars_3
+67839|Radisson Hotel & Suites Fort McMurray|Fort McMurray|NO|stars_3
+67840|Holiday Inn Laval Montréal|Laval|YES|stars_3
+69335|Drumheller Canalta (Jurassic)|Drumheller|NO|stars_2
+69336|Hilton Garden Inn Halifax|Halifax|YES|stars_3
+69337|Bayview Pines Country Inn|Mahone Bay|NO|stars_3
+69341|Highliner Plaza|Prince Rupert|NO|stars_2
+69345|Le Voyageur|Quebec City|NO|stars_3
+69346|Les Suites Labelle|Montreal|YES|stars_3
+69350|Ramada Limited 100 Mile House|101 Mile House|YES|stars_2
+69674|Treasure Cove Casino & Hotel|Prince George|NO|stars_3
+69675|Pemberton Valley Lodge|Pemberton|YES|stars_3
+69676|Blue Mountain Inn & Village Suites|Collingwood|NO|stars_3
+69678|Pantages Suites Hotel & Spa|Toronto|YES|stars_4
+69679|Soho Metropolitan|Toronto|YES|stars_4
+69683|Fisher's Loft Inn|Port Rexton|NO|stars_4
+69684|Knight Inlet Lodge|Campbell River|NO|stars_3
+70261|Days Inn Calgary South|Calgary|YES|stars_2
+70263|Days Inn Orillia|Orillia|YES|stars_2
+70264|Holiday Inn Express Hotel & Suites|Gananoque|NO|stars_2
+70265|Quality  Harborview|St. John's|NO|stars_3
+70315|Hometel on Signal Hill|St. John's|NO|stars_2.5
+70319|Mersey River Chalets|Caledonia|NO|stars_3
+70321|Ramada Niagara Falls|Niagara Falls|YES|stars_4
+70323|Colonial Bay Motel|Huntsville|NO|stars_2
+70325|Hôtel 71|Quebec City|NO|stars_4
+70329|Overlander Mountain Lodge|Jasper|NO|stars_3
+70484|Arowhon Pines|Algonquin Provincial Park|NO|stars_4
+70931|The Sutton Place - geschlossen|Toronto|YES|stars_4
+70933|Skyline Inn Niagara Falls|Niagara Falls|YES|stars_3
+71255|Best Western Plus Carlton Plaza|Victoria|YES|stars_3.5
+71256|Rodd Mill River Resort|Mill River Provincial Park|NO|stars_3
+71340|Hyatt Regency Toronto|Toronto|YES|stars_4
+71342|Hilton Mississauga/Meadowvale|Mississauga|YES|stars_3.5
+71343|Universel Montreal|Montreal|YES|stars_4
+71344|One King West Hotel & Residence|Toronto|YES|stars_4
+71345|Le Saint-Andre|Montreal|YES|stars_2
+71379|Loews Vogue|Montreal|YES|stars_4
+72013|Murray Premises|St. John's|NO|stars_3.5
+72014|Metterra on Whyte|Edmonton|NO|stars_3
+72015|Juniper Inn|Banff|YES|stars_3
+72155|Courtyard Ottawa Downtown|Ottawa|YES|stars_3
+72156|Wedgewood|Vancouver|YES|stars_5
+72157|Chateau Bellevue|Quebec City|YES|stars_3
+72158|The Sutton Place|Vancouver|YES|stars_5
+72159|DoubleTree by Hilton Hotel Gatineau-Ottawa|Gatineau|YES|stars_3.5
+72160|Le Saint Martin|Laval|YES|stars_4
+72165|Auberge du Lac Taureau|Saint-Michel-des-Saints|NO|stars_4
+72170|Park Avenue|Montreal|YES|stars_2
+72171|De Paris|Montreal|NO|stars_2
+72172|Quality Hotel & Suites Downtown|Montreal|YES|stars_2
+72174|Holiday Inn Longueuil|Longueuil|YES|stars_3
+72175|Holiday Inn Vancouver Centre|Vancouver|YES|stars_3
+72176|Holiday Inn Toronto Airport East|Toronto|YES|stars_3
+72665|Super 8 Victoria|Victoria|YES|stars_2
+72666|Ramada Victoria|Victoria|YES|stars_3
+72667|The Listel Hotel|Vancouver|YES|stars_4
+72668|SpringHill Suites Old Montreal|Montreal|YES|stars_3
+72669|Comfort Inn South|Brossard|YES|stars_2.5
+72947|Holiday Inn Harbourview|Dartmouth|YES|stars_4
+72948|Days Inn Dalhousie|Dalhousie|NO|stars_3.5
+72949|Rodd Brudenell River|Brudenell|NO|stars_3
+72993|Clarion Quebec|Quebec City|YES|stars_3
+72994|Levesque|Riviere Du Loup|NO|stars_3
+72995|Gouverneur Rimouski|Rimouski|NO|stars_3
+72997|Auberge des Falaises|La Malbaie|NO|stars_3.5
+72998|La Roche Pleureuse|Ile-aux-Coudres|NO|stars_3
+73000|Auberge La Camarine|Beaupre|YES|stars_3
+73003|Auberge des Iles|Saint Gedeon|NO|stars_3
+73004|Du Jardin|Saint Felicien|NO|stars_3.5
+73005|Mont Gabriel|Sainte Adele|YES|stars_4
+73006|Auberge des 21|La Baie|NO|stars_4
+73007|Chateau Roberval|Roberval|NO|stars_3
+73009|Best Western Pembroke Inn & Conference Centre|Pembroke|NO|stars_3
+73011|Best Western Swan Castle Inn|Cochrane|NO|stars_2
+73018|DoubleTree by Hilton Hotel & Suites Victoria|Victoria|YES|stars_3
+73020|Sundance Guest Ranch|Ashcroft|NO|stars_3
+73370|Toronto Plaza Hotel|Toronto|YES|stars_3
+73372|Le Saint Paul|Quebec City|YES|stars_3
+73374|Les Suites Tremblant - Place Saint Bernard|Mont Tremblant|YES|stars_3.5
+73375|Quality Inn Downtown Inner Harbour|Victoria|YES|stars_3
+73376|Les Suites Tremblant - Ermitage du Lac|Mont Tremblant|YES|stars_4
+73377|Homewood Suites Mont-Tremblant Resort|Mont Tremblant|YES|stars_3
+73379|Park Inn & Suites by Radisson, Vancouver|Vancouver|YES|stars_3
+73380|Holiday Inn Express Toronto North York|Toronto|YES|stars_3
+73381|Le Jazz St. Denis|Montreal|YES|stars_2
+73382|Cosmopolitan Toronto Centre Hotel & Spa|Toronto|YES|stars_4
+73707|Holiday Inn Hotel & Suites Ottawa Kanata|Ottawa|YES|stars_3
+73716|Days Inn Vancouver Metro|Vancouver|YES|stars_2
+73861|Hampton Inn & Suites Toronto Airport|Mississauga|YES|stars_3
+73973|Waterton Lakes Lodge|Waterton Lakes|NO|stars_3
+74734|Sandman Inn Cranbrook|Cranbrook|NO|stars_3
+74735|Sandman Grande Prairie|Grand Prairie|NO|stars_3
+74737|Sandman Hotel Castlegar|Castlegar|NO|stars_3
+74765|Best Western Plus Dorchester Hotel|Nanaimo|NO|stars_3.5
+74766|Sandman Inn Blue River|Blue River|NO|stars_2
+74768|Prestige Inn Kelowna|Kelowna|NO|stars_3
+74769|Sandman Red Deer|Red Deer|NO|stars_3
+74770|Sandman Quesnel|Quesnel|NO|stars_3
+74772|Prestige Harbourfront Resort Salmon Arm|Salomon Arm|NO|stars_3
+74773|Sandman Inn McBride|McBride|NO|stars_2
+74774|Sandman Inn Terrace|Terrace|NO|stars_2
+74775|Sandman Inn Princeton|Princeton|NO|stars_2
+74806|Comfort Inn Airport|Winnipeg|YES|stars_2
+74821|Auberge Royal Versailles|Montreal|NO|stars_3
+74912|One Valhalla|Toronto|YES|stars_3
+75334|Les Suites Ottawa|Ottawa|YES|stars_3
+75552|York the Hotel|Winnipeg|YES|stars_4
+76191|Vagabond Lodge|Kicking Horse|NO|stars_3
+76532|Delta Banff Royal Canadian Lodge|Banff|YES|stars_4
+76562|Chateau Big White|Big White|YES|stars_3
+76883|Ramada Hotel & Suites Metrotown|Vancouver|YES|stars_3
+76884|Travelodge Edmonton South|Edmonton|YES|stars_2
+77063|Travelodge Calgary MacLeod Trail|Calgary|YES|stars_2
+77064|Quality Inn Airport West|Mississauga|YES|stars_3
+77484|Holiday Inn & Suites North Vancouver|North Vancouver|YES|stars_3
+77628|Rosellen Suites at Stanley Park|Vancouver|YES|stars_3
+77770|Toronto Don Valley Hotel & Suites|Toronto|YES|stars_3
+77943|Accent Inn Burnaby|Burnaby|YES|stars_3
+78155|Sandman Hotel & Suites Calgary West|Calgary|YES|stars_3
+78317|Holiday Inn Express Vancouver|Vancouver|NO|stars_3
+78347|Trophy Mountain Buffalo Ranch|Clearwater|NO|stars_2
+78349|Sepia|Quebec City|NO|stars_4
+78350|Extended Stay Canada - St. John's - Downtown|St. John's|NO|stars_2
+78352|Halifax Marriott Harbourfront Hotel|Halifax|NO|stars_4
+78354|Heritage Harbour House Inn|Charlottetown|NO|stars_3
+78429|Heather Mountain Lodge|Golden|NO|stars_3
+78430|Auberge Montebello|Montebello|NO|stars_3
+78431|Crowne Plaza Fredericton Lord Beaverbrook|Fredericton|NO|stars_3.5
+78432|The Great George|Charlottetown|NO|stars_3.5
+78433|Stanhope Beach Resort - geschlossen|Little York|NO|stars_3
+78552|Sheraton Gateway Toronto Airport|Toronto|YES|stars_4
+78793|Quality Inn Sydney|Sydney|NO|stars_2
+78794|Sandman Signature Vancouver Airport Hotel & Resort|Richmond|YES|stars_4
+78795|Residence Inn Vancouver Downtown|Vancouver|YES|stars_3
+78796|Sonora Resort|Sonora Island|NO|stars_5
+78798|Hilton Garden Inn|Niagara on the Lake|YES|stars_3
+78799|Great Wolf Lodge|Niagara Falls|YES|stars_4
+78802|Cap Tremblant Mountain Resort|Mont Tremblant|YES|stars_4
+78803|Best Western Plus Muskoka Inn|Huntsville|NO|stars_3.5
+78983|Jamies Rainforest Inn|Pacific Rim National Park|YES|stars_3
+80067|Crowne Plaza Hamilton Hotel & Conf Center|Hamilton|NO|stars_3
+80390|Blue Water Lodge|Lewisporte|NO|stars_3.5
+80713|Inn at St. Peters|St. Peters|NO|stars_4
+80718|Town Inn Suites|Toronto|YES|stars_3
+80733|Eagle Nook Wilderness Resort|Port Alberni|YES|stars_4
+81624|Kutuma|Montreal|YES|stars_4
+82019|Coast Plaza Hotel & Conference Centre|Calgary|YES|stars_3
+82036|Blue Horizon|Vancouver|NO|stars_3
+82037|Anchor Inn Campbell River|Campbell River|NO|stars_3
+82041|Holiday Inn Toronto Bloor - Yorkville|Toronto|YES|stars_3
+82042|Days Inn Lundy's Lane Resort|Niagara Falls|YES|stars_3
+82044|Gîte du Mont-Albert|Sainte-Anne-des-Monts|NO|stars_3.5
+82723|Quality Suites Toronto Airport|Toronto|YES|stars_3
+82724|Comfort Inn Kenora|Kenora|YES|stars_2
+83068|Quality Suites|Quebec City|YES|stars_2
+83077|Hilton Garden Inn Toronto City Centre|Toronto|YES|stars_3
+83088|Ramada Limited Downtown Vancouver|Vancouver|YES|stars_3
+83239|Holiday Inn Hotel & Suites St. Catharines Conference Ctr|St. Catharines|NO|stars_3
+83243|Travelodge Airlane|Thunder Bay|YES|stars_2
+83244|Thriftlodge Winnipeg|Winnipeg|YES|stars_2
+83245|Casa Alpina|Rossland|NO|stars_2
+83247|Quality Inn & Suites Trudeau Airport|Montreal|NO|stars_2.5
+83261|Econolodge Macpuffin|Port Hastings|YES|stars_2
+83290|Best Western Plus Toronto Airport|Mississauga|YES|stars_3.5
+83306|Paul's Motor Inn|Victoria|NO|stars_2
+83373|Ambassador Kingston|Kingston|NO|stars_3
+83389|Landis|Vancouver|YES|stars_3
+83392|Happy Day Inn|Vancouver|NO|stars_2
+83404|Indigo Vancouver|Vancouver|NO|stars_3
+83449|Comfort Inn|Brockville|NO|stars_2
+83451|Econo Lodge Inn & Suites University|Calgary|NO|stars_2
+83466|Red Lion & Suites Victoria|Victoria|YES|stars_3
+83480|Quality Suites Laval|Laval|NO|stars_2
+83481|Comfort Inn Laval|Laval|YES|stars_2
+83518|Gouverneur Ile Charron|Montreal|NO|stars_4
+83576|Hearthstone Inn Halifax/Dartmouth|Dartmouth|NO|stars_2
+83580|Cap-aux-Pierres|Ile-aux-Coudres|NO|stars_3
+83591|Best Western Plus Roehampton Hotel & Suites|Toronto|NO|stars_3.5
+83613|Best Western Plus Vernon Lodge & Conference Center|Vernon|NO|stars_3.5
+83615|Royal William|Quebec City|NO|stars_4
+83625|Carriage House Inn|Calgary|NO|stars_3
+83666|Holiday Inn Express Sault Ste Marie|Sault Sainte Marie|NO|stars_2
+83679|Travelodge Toronto East|Scarborough|YES|stars_3
+83691|Embassy Inn Victoria|Victoria|YES|stars_3
+83735|Radisson Suite Toronto Airport|Toronto|NO|stars_3
+83857|Niagara Inn Down Town|Niagara Falls|NO|stars_2
+83870|Royal Scot Suite Hotel|Victoria|NO|stars_3.5
+83948|Quality Inn West Harvest|Edmonton|NO|stars_3
+83991|The Plaza Hotel|Kamloops|NO|stars_3
+83992|Robson Suites|Vancouver|NO|stars_3
+83999|Canadas Best Value Inn|St. Catharines|YES|stars_2
+84000|Brentwood Bay Resort|Brentwood Bay|NO|stars_5
+84002|Val Des Neiges|Beauport|NO|stars_4
+84008|Quality Champlain Waterfront|Orillia|NO|stars_2
+84009|Chilliwack Travelodge|Chilliwack|YES|stars_2.5
+84047|Chateau Regina & Suites|Regina|NO|stars_2
+84254|Comfort Inn Welland|Welland|NO|stars_2
+84274|Albert at Bay Suite|Ottawa|NO|stars_3
+84275|Ramada Ottawa on the Rideau|Ottawa|NO|stars_3
+84375|Granville Island|Vancouver|NO|stars_3
+85029|Delta Calgary South Hotel|Calgary|YES|stars_3
+85063|Campingplatz Burnaby Cariboo RV Park|Vancouver|NO|stars_4
+86528|Champlain|Quebec City|YES|stars_3
+86854|Comfort Inn South|Winnipeg|YES|stars_2
+86855|Quality Downtown|Montreal|YES|stars_2.5
+86856|Quality Montreal East|Anjou|YES|stars_2
+87505|Banff Rocky Mountain|Banff|NO|stars_3
+87672|Novotel Toronto North York|Toronto|YES|stars_3
+87735|Four Points by Sheraton Toronto Airport|Mississauga|YES|stars_3
+87744|Comfort Inn & Suites|Edmonton|YES|stars_3
+87750|Comfort Inn Amherst|Amherst|NO|stars_2
+87752|Comfort Inn Burlington|Burlington|NO|stars_2
+87783|Tally-Ho Hotel|Victoria|NO|stars_3
+87795|Comfort Inn Truro|Truro|NO|stars_2
+87796|Comfort Inn|Fredericton|NO|stars_2
+87810|Classique|Quebec City|YES|stars_4
+87986|Holiday Inn Express Charlottetown|Charlottetown|NO|stars_3
+87987|Atlantica Hotel & Marina Oak Island|Western Shore|NO|stars_4
+87991|Courtyard Waterloo St. Jacobs|Waterloo|NO|stars_3.5
+88088|Coastal Inn Moncton/Dieppe|Dieppe|NO|stars_3.5
+88090|Coastal Inn Halifax|Halifax|NO|stars_3
+88091|Coastal Inn Digby|Digby|NO|stars_3
+88231|Best Western Plus Uptown|Vancouver|YES|stars_3.5
+88299|Niagara Falls Court Side Inn|Niagara Falls|NO|stars_2
+88536|Le Roberval|Montreal|YES|stars_3
+89085|North Vancouver|North Vancouver|YES|stars_2.5
+89432|Best Western Plus Toronto North York Hotel & Suites|Toronto|YES|stars_2.5
+89452|Comfort Inn Mississauga|Mississauga|NO|stars_2
+89501|Days Inn Fallsview Casino|Niagara Falls|YES|stars_3
+90695|Aspens on Blackcomb|Whistler|NO|stars_3
+91601|Sandman Signature Toronto Airport|Toronto|YES|stars_3
+91820|Indigo Toronto Airport|Toronto|YES|stars_3
+92930|Mountaineer Lodge|Lake Louise Village|NO|stars_2
+92931|Residence Inn Toronto Downtown/Entertainment District|Toronto|NO|stars_3
+92932|Peachtree Inn|Kingston|NO|stars_2
+92933|Indigo Ottawa Downtown City Centre|Ottawa|YES|stars_3
+92934|The Westin Trillium House|Collingwood|YES|stars_4
+92936|Courtyard Halifax Downtown|Halifax|NO|stars_3
+93108|Hastings House|Salt Spring Island|NO|stars_4
+93126|Riotel Matane & Pavillon Sur Mer - Riotel Matane Hotel|Matane|NO|stars_4
+93127|Auberge Wild Rose Inn|Moncton|NO|stars_4.5
+93258|Bow View Lodge|Banff|NO|stars_3
+93291|Coast Osoyoos Beach|Osoyoos|YES|stars_3
+93292|Comfort Inn & Suites Mont-Tremblant|Mont Tremblant|NO|stars_3
+93416|Rundlestone Lodge|Banff|YES|stars_3
+93422|Tekarra Lodge|Jasper|YES|stars_3
+93423|Bear Hill Lodge|Jasper|NO|stars_2
+93425|The Parrsboro Mansion Inn|Parrsboro|NO|stars_3
+93426|Rum Runner|Lunenburg|NO|stars_3
+93427|Hotel St - Denis|Montreal|NO|stars_3
+93428|Motel Fleur de Lys|Perce|NO|stars_3
+93430|Auberge L'Autre Jardin|Quebec City|NO|stars_3
+93431|Le Grande Allee Hotel & Suites|Quebec City|NO|stars_3
+93435|Days Inn Penticton|Penticton|YES|stars_3
+93436|Village Green Hotel & Casino|Vernon|NO|stars_3
+93703|Universel|Riviere Du Loup|YES|stars_3.5
+93704|Travelodge Downtown Windsor|Windsor|YES|stars_2
+93718|Comfort Inn Lundy's Lane|Niagara Falls|NO|stars_2
+93719|Comfort Inn Clifton Hill|Niagara Falls|NO|stars_2.5
+93728|Travelodge Hotel & Convention Center|Ottawa|YES|stars_3
+93731|The Loft|Montreal|NO|stars_3
+93732|Best Western Village Park Inn|Calgary|NO|stars_3
+93754|Stay Inn|Toronto|NO|stars_2
+93755|Days Hotel & Conference Centre - Toronto Don Valley|Toronto|YES|stars_3.5
+93971|Comfort Inn|Campbellton|NO|stars_2
+93973|Le Mirage|Perce|NO|stars_3
+93976|Quality Hotel|Burlington|NO|stars_3
+93986|Pocahontas Cabins|Jasper|NO|stars_2
+94100|Best Western St. Catharines Hotel & Conference Centre|St. Catharines|YES|stars_3
+94140|Four Points Mississauga Meadowvale|Mississauga|YES|stars_3
+94213|The Westin Grand|Vancouver|YES|stars_4
+94214|Crowne Plaza Montreal Airport|Montreal|YES|stars_4
+94234|The Westin Prince Toronto|Toronto|YES|stars_4
+94235|Delta Toronto East|Toronto|YES|stars_3
+94237|Staybridge Suites Mississauga|Toronto|NO|stars_3
+94449|Delta Fredericton|Fredericton|NO|stars_4
+94450|Delta Sherbrooke Hotel & Conference Centre|Sherbrook|YES|stars_4
+94593|Clarion Hotel & Conference Centre Fort Erie|Fort Erie|NO|stars_3
+94665|Holiday Inn Express & Suites Riverport|Richmond|NO|stars_3
+95728|Best Western Plus King George Inn & Suites|Surrey|YES|stars_3.5
+95869|Castle Rock|Ingonish Beach|NO|stars_3
+96400|Hotel Baie Saint Paul|Baie-Saint-Paul|NO|stars_3
+96437|Clearwater Lake Lodge|Kleena Kleene|NO|stars_3
+96444|Middle Beach Lodge|Tofino|NO|stars_3.5
+96445|Poets Cove Resort & Spa|South Pender|NO|stars_4
+96447|The Westin Bear Mountain Golf Resort & Spa|Victoria|YES|stars_4
+97939|Sheraton Parkway Toronto North|Toronto|YES|stars_4
+97940|Four Points by Sheraton Toronto Lakeshore - geschlosssen|Toronto|YES|stars_3
+97941|Hampton Inn Toronto-Mississauga West|Mississauga|YES|stars_3
+98112|Fox Hotel & Suites|Banff|YES|stars_3
+99218|Crowne Plaza Toronto Airport|Toronto|YES|stars_3
+99219|Quality Inn & Suites Bayer´s Lake|Halifax|YES|stars_2.5
+99743|Holiday Inn Express Montreal Centre-Ville Downtown|Montreal|YES|stars_3
+99744|Executive Inn at Whistler Village|Whistler|YES|stars_3
+99745|Best Western Premier Hotel L'Aristocrate|Quebec City|YES|stars_4
+99763|Ripley Creek Inn|Vancouver|NO|stars_2
+100294|Embassy Suites Montreal|Montreal|YES|stars_4
+100758|Intercontinental Toronto Yorkville|Toronto|YES|stars_4
+101581|Niagara Plaza By Fairbridge Hotels|Niagara Falls|YES|stars_2
+101582|Greenwood Inn & Suites Calgary|Calgary|YES|stars_3
+101583|Tunnel Mountain Resort Banff|Banff|YES|stars_3
+101584|Belleville Park Resort - Huntingdon Hotel & Suites|Victoria|YES|stars_3
+101585|Holiday Inn Conference Centre Edmonton South|Edmonton|YES|stars_3
+101586|Super 8 Downtown Toronto|Toronto|YES|stars_2
+101587|Best Western Plus Winnipeg Airport Hotel|Winnipeg|NO|stars_3
+101588|Comfort Inn & Suites North Vancouver|North Vancouver|YES|stars_2.5
+101589|The Driftwood Inn|Banff|YES|stars_2
+101590|Legends|Whistler|YES|stars_4
+102380|Monte Carlo Inn Toronto Markham Suites|Markham|YES|stars_3
+102382|Monte Carlo Inn Toronto Brampton Suites|Brampton|YES|stars_3
+102383|Monte Carlo Inn Toronto West|Mississauga|YES|stars_2
+102432|First Tracks Lodge|Whistler|YES|stars_4
+102433|TownePlace Suites Mississauga - Airport Corporate Centre|Toronto|YES|stars_3
+102640|Comfort Inn Fallsview|Niagara Falls|YES|stars_3
+102703|Holiday Inn Toronto Mississauga|Mississauga|YES|stars_3
+102705|Monte Carlo Inn - Vaughan Suites|Toronto|YES|stars_3
+102706|Monte Carlo Inn Oakville Suites|Oakville|YES|stars_3
+102707|Sheraton Vancouver Airport|Richmond|YES|stars_3
+103302|Fairfield Inn & Suites Brampton|Brampton|YES|stars_3
+103304|Tremblant Sunstar Domaine du Geant|Mont Tremblant|NO|stars_4
+103305|Windtower Lodge & Suites|Canmore|YES|stars_3
+103930|Alexandra|Toronto|NO|stars_2
+104381|Pearson Hotel & Conference Centre|Toronto|NO|stars_2.5
+104815|Best Western Plus Executive Inn|Toronto|YES|stars_3.5
+104846|Best Western Plus Fredericton Hotel & Suites|Fredericton|NO|stars_3
+105479|Bonaparte|Montreal|NO|stars_3.5
+105558|Budget Inn Patricia|Vancouver|NO|stars_2
+105607|Days Inn Miramichi|Miramichi|NO|stars_2.5
+105800|Four Points by Sheraton Edmundston|Edmundston|YES|stars_3
+105911|Quality Inn & Suites|Gatineau|NO|stars_3
+105935|Comfort Inn & Suites Thousand Islands Harbour District|Gananoque|NO|stars_2.5
+105941|Clarion Resort Pinewood Park|North Bay|NO|stars_3
+106011|Holiday Inn Express & Suites London Downtown|London|NO|stars_3
+106028|Comfort Inn & Suites|Shawinigan|NO|stars_3
+106029|Comfort Inn & Suites|Yorkton|NO|stars_2
+106031|Comfort Inn & Suites|Saint-Jérôme|NO|stars_3
+106032|Comfort Inn & Suites|Moose Jaw|NO|stars_2.5
+106033|Comfort Inn & Suites|Medicine Hat|NO|stars_2
+106035|Comfort Inn & Suites Airport|Calgary|NO|stars_2
+106041|Comfort Inn & Suites University|Calgary|NO|stars_2
+106049|Comfort Inn Aeroport|Dorval|NO|stars_2
+106051|Comfort Inn Airport|St. John's|NO|stars_2
+106052|Comfort Inn Airport|Quebec City|YES|stars_2
+106055|Comfort Inn Airport East|Ancienne Lorette|YES|stars_2
+106056|Comfort Inn Airport West|Mississauga|YES|stars_2
+106069|Comfort Inn Baie-Comeau|Baie-Comeau|NO|stars_2
+106073|Comfort Inn|Bathurst|NO|stars_2
+106079|Comfort Inn|Belleville|NO|stars_2
+106091|Comfort Inn|Brampton|NO|stars_2
+106092|Comfort Inn|Brandon|NO|stars_2
+106093|Comfort Inn|Brantford|NO|stars_2
+106095|Comfort Inn|Bridgewater|NO|stars_2
+106100|Comfort Inn|Cambridge|NO|stars_2
+106108|Comfort Inn Chatham|Chatham|NO|stars_2
+106110|Comfort Inn Chicoutimi|Chicoutimi|NO|stars_2
+106111|Comfort Inn Chilliwack|Chilliwack|NO|stars_2
+106118|Comfort Inn Cobourg|Cobourg|NO|stars_2
+106124|Comfort Inn Corner Brook|Corner Brook|NO|stars_2
+106135|Comfort Inn|Drummondville|NO|stars_2
+106136|Comfort Inn|Dryden|NO|stars_2
+106139|Comfort Inn East|Scarborough|NO|stars_2
+106140|Comfort Inn East|Moncton|NO|stars_2
+106142|Comfort Inn Edmundston|Edmundston|NO|stars_2
+106150|Comfort Inn|Fort Erie|NO|stars_2
+106154|Comfort Inn|Gatineau|NO|stars_2
+106165|Comfort Inn Guelph|Guelph|NO|stars_2
+106168|Comfort Inn Hamilton|Hamilton|NO|stars_2
+106178|Comfort Inn|Kapuskasing|NO|stars_2
+106183|Comfort Inn|Kirkland Lake|NO|stars_2
+106190|Comfort Inn|Leamington|NO|stars_2
+106193|Comfort Inn|Lethbridge|NO|stars_2
+106194|Comfort Inn Levis|Lévis|YES|stars_2
+106196|Comfort Inn London|London|YES|stars_2
+106199|Comfort Inn Magnetic Hill|Moncton|NO|stars_2
+106207|Comfort Inn Meadowvale|Mississauga|NO|stars_2.5
+106215|Comfort Inn Midtown|Kingston|NO|stars_2
+106225|Comfort Inn Montreal Aeroport|Pointe-Claire|NO|stars_2
+106229|Comfort Inn Newmarket|Newmarket|NO|stars_2
+106237|Comfort Inn Oshawa|Oshawa|NO|stars_2
+106244|Comfort Inn Parry Sound|Parry Sound|NO|stars_2
+106245|Comfort Inn Pembroke|Pembroke|NO|stars_2.5
+106247|Comfort Inn Pickering|Pickering|NO|stars_2
+106251|Comfort Inn Port Hope|Port Hope|NO|stars_2
+106253|Comfort Inn Prince Albert|Prince Albert|NO|stars_2
+106258|Comfort Inn Regina|Regina|NO|stars_2
+106263|Comfort Inn Riviere-Du-Loup|Riviere Du Loup|YES|stars_2
+106266|Comfort Inn Rock Forest|Sherbrook|NO|stars_2
+106268|Comfort Inn Rouyn-Noranda|Rouyn-Noranda|NO|stars_2
+106274|Comfort Inn Sarnia|Sarnia|NO|stars_2
+106275|Comfort Inn Saskatoon|Saskatoon|NO|stars_2
+106276|Comfort Inn Sault Sainte Marie|Sault Sainte Marie|NO|stars_2
+106278|Comfort Inn Sept-Iles|Sept Illes|NO|stars_2
+106279|Comfort Inn Simcoe|Simcoe|NO|stars_2
+106281|Comfort Inn South Shore|Boucherville|NO|stars_2
+106283|Comfort Inn Saint-Georges|Saint-Georges|NO|stars_2
+106285|Comfort Inn St. Thomas|St Thomas|NO|stars_2
+106288|Comfort Inn Swift Current|Swift Current|NO|stars_2
+106294|Comfort Inn Thunder Bay|Thunder Bay|NO|stars_2
+106295|Comfort Inn Timmins|Timmins|NO|stars_2
+106302|Comfort Inn Trenton|Trenton|NO|stars_2
+106304|Comfort Inn Val D'or|Val D'Or|NO|stars_2
+106308|Comfort Inn Waterloo|Waterloo|NO|stars_2
+106309|Comfort Inn West|Ottawa|NO|stars_2.5
+106313|Comfort Inn Windsor|Windsor|NO|stars_2
+106316|Comfort Inn Yarmouth|Yarmouth|NO|stars_2
+106369|Comfort Suites Downtown|Windsor|NO|stars_3
+106371|Quality Suites Sainte-Anne-de-Beaupré|Ste-Anne-de-Beaupré|NO|stars_2
+106589|Days Inn - Berthierville|Berthierville|YES|stars_2.5
+106590|Days Inn & Suites Brandon|Brandon|YES|stars_2
+106591|Days Inn - Brantford|Brantford|YES|stars_2
+106592|Days Inn Brockville|Brockville|YES|stars_2
+106596|Days Inn - Edmundston|Edmundston|YES|stars_2
+106597|Days Inn Guelph|Guelph|YES|stars_2
+106598|Days Inn Kenora|Kenora|YES|stars_0
+106599|Pelee Motor Inn & Conference Centre|Leamington|NO|stars_2
+106600|Days Inn Medicine Hat|Medicine Hat|YES|stars_2.5
+106603|Days Inn - Moose Jaw|Moose Jaw|YES|stars_2
+106604|Days Inn - Nanaimo|Nanaimo|YES|stars_2
+106605|Days Inn Niagara Falls Near The Falls|Niagara Falls|YES|stars_2
+106606|Days Inn Saint Catharines|Niagara Falls|YES|stars_2
+106607|Days Inn|Welland|NO|stars_2.5
+106608|Howard Johnson North Bay|North Bay|YES|stars_2
+106609|Days Inn - Ottawa West|Ottawa|YES|stars_3
+106610|Days Inn - Portage La Prairie|Portage La Prairie|YES|stars_2
+106611|Days Inn - Prince George|Prince George|NO|stars_2
+106612|Days Inn - Riviere-du-Loup|Riviere Du Loup|YES|stars_2
+106613|Days Inn - Ste-Helene-de-Bagot|Quebec City|YES|stars_2
+106615|Days Inn - Sudbury|Sudbury|YES|stars_3
+106616|Compass Point Inn - geschlossen|Surrey|NO|stars_3
+106617|Days Inn - Swift Current|Swift Current|YES|stars_2
+106618|Days Inn Sydney|Sydney|YES|stars_2
+106619|Days Inn Toronto East Beaches|Toronto|YES|stars_2
+106620|Days Inn Toronto East Lakeview|Toronto|YES|stars_2
+106621|Howard Johnson Inn Toronto Downtown West|Toronto|YES|stars_2
+106622|Days Inn Toronto West Mississauga|Mississauga|YES|stars_2
+106624|Days Inn - Trois Rivieres|Trois Rivieres|YES|stars_2
+106625|Days Inn On The Harbour|Victoria|YES|stars_2.5
+106628|Days Inn & Suites Thunder Bay|Thunder Bay|YES|stars_2.5
+106629|Days Inn & Suites  - Winkler|Winkler|YES|stars_0
+106630|Days Inn & Conference Centre Timmins|Timmins|YES|stars_2
+106636|Days Inn - Estevan|Estevan|YES|stars_0
+106638|Days Inn Hinton|Hinton|YES|stars_2
+106640|Days Inn Oromocto|Oromocto|YES|stars_3
+106641|Days Inn Red Deer|Red Deer|YES|stars_2
+106646|Days Inn Windsor Casino|Windsor|YES|stars_2
+106806|Econo Lodge & Suites|Saint John|NO|stars_2
+106808|Econo Lodge|Montreal|NO|stars_2
+106810|Econo Lodge By The Falls|Niagara Falls|NO|stars_2
+106811|Howard Johnson Cornwall|Cornwall|YES|stars_2
+106813|Econo Lodge Downtown|Ottawa|NO|stars_2
+106817|Econo Lodge|Fort Saint John|NO|stars_2
+106820|Comfort Inn Toronto Airport|Mississauga|NO|stars_2
+106821|Star Lodge|Kamloops|NO|stars_2
+106823|Econo Lodge|Lévis|NO|stars_2
+106824|Econo Lodge London|London|YES|stars_2
+106825|Econo Lodge|La Malbaie|NO|stars_2
+106826|Econo Lodge Miramichi|Miramichi|NO|stars_2
+106827|Econo Lodge Inn & Suites|Moncton|NO|stars_2
+106828|Econo Lodge Motel Village|Calgary|NO|stars_2
+106830|Econo Lodge Orillia|Orillia|NO|stars_2
+106831|Best Western Peace Arch Inn|Surrey|NO|stars_2
+106832|Grace Inn|Quesnel|NO|stars_2
+106834|Econo Lodge South|Calgary|NO|stars_2
+106835|LaLiberte|St. Liboire|NO|stars_2
+106837|Traveller's Inn|Summerside|NO|stars_2
+106838|Econo Lodge Thunder Bay|Thunder Bay|NO|stars_2
+106841|Canadas Best Value Inn & Suites|Woodstock|YES|stars_2
+106979|Executive Vintage Park|Vancouver|YES|stars_4
+107166|Fredericton Inn|Fredericton|NO|stars_3
+107483|Hampton Inn & Suites|Guelph|NO|stars_3
+107484|Hampton Inn & Suites Kitchener|Kitchener|NO|stars_3
+107485|Hampton Inn & Suites Laval Quebec|Laval|NO|stars_3
+107486|Hampton Inn & Suites Windsor|Windsor|NO|stars_3
+107488|Hampton Inn Napanee-Ontario Canada|Napanee|NO|stars_3
+107574|Hilton Garden Inn Kitchener/Cambridge|Cambridge|NO|stars_3
+107576|Hilton Garden Inn Toronto/Burlington|Burlington|NO|stars_3
+107577|Hilton Garden Inn West Edmonton|Edmonton|NO|stars_3
+107598|Holiday Inn Hotel & Suites Grande Prairie-Conference Ctr|Grand Prairie|NO|stars_3
+107599|Holiday Inn Hotel & Suites Osoyoos|Osoyoos|NO|stars_3
+107602|Holiday Inn & Suites Toronto Markham|Markham|YES|stars_3
+107622|Holiday Inn Burlington Hotel & Conference Centre|Burlington|NO|stars_3
+107626|Holiday Inn Cambridg Hespeler Galt|Cambridge|NO|stars_3
+107646|Holiday Inn Express & Suites Airdrie - Calgary North|Airdrie|NO|stars_2
+107647|Holiday Inn Express & Suites Belleville|Belleville|NO|stars_2
+107648|Holiday Inn Express & Suites Brampton|Brampton|NO|stars_2
+107650|Holiday Inn Express Collingwood-Blue Mountain|Collingwood|NO|stars_2
+107651|Holiday Inn Express & Suites Guelph|Guelph|NO|stars_2
+107652|Holiday Inn Express & Suites Langley|Langley|NO|stars_3
+107655|Holiday Inn Express & Suites Milton|Milton|NO|stars_2.5
+107657|Comfort Inn & Suites Salmon Arm|Salmon Arm|NO|stars_2
+107659|Holiday Inn Express Hotel & Suites Sherwood Park-Edmonton Area|Sherwood Park|NO|stars_3
+107660|Holiday Inn Express & Suites Surrey|Surrey|NO|stars_3
+107661|Holiday Inn Express & Suites Vaughan Southwest|Vaughan|YES|stars_3
+107662|Holiday Inn Express & Suites Vernon|Vernon|NO|stars_3
+107663|Abbotsford Hotel|Clearbrook|NO|stars_2.5
+107666|Comfort Inn|Cornwall|NO|stars_2
+107668|Holiday Inn Express Dryden|Dryden|NO|stars_2
+107669|Holiday Inn Express Edmonton-International Airport|Nisku|NO|stars_3
+107680|Holiday Inn Express Saint-Jean-sur-Richelieu|Saint-Jean-sur-Richelieu|NO|stars_2
+107684|Holiday Inn Express Toronto-Airport Area/Dixie Road|Mississauga|YES|stars_2.5
+107685|Holiday Inn Express Toronto-East Scarborough|Scarborough|NO|stars_3
+107689|Holiday Inn Express Whitby Oshawa|Whitby|NO|stars_2
+107697|Crowne Plaza Gatineau-Ottawa|Gatineau|YES|stars_4
+107700|Holiday Inn Guelph Hotel & Conference Centre|Guelph|NO|stars_3
+107721|Holiday Inn Kitchener Waterloo|Kitchener|NO|stars_3
+107751|Holiday Inn Niagara Falls - By The Falls|Niagara Falls|NO|stars_3
+107756|Holiday Inn Oakville|Oakville|NO|stars_3
+107758|Quality Hotel & Conference Centre Oshawa|Oshawa|NO|stars_3
+107765|Holiday Inn Peterborough Waterfront|Peterborough|NO|stars_3
+107780|Delta Saguenay Hotel & Conference Centre|Chicoutimi|NO|stars_3
+107787|Holiday Inn Sarnia Hotel & Conference Centre|Sarnia|NO|stars_3
+107792|Holiday Inn Hotel & Suites Mississauga|Mississauga|NO|stars_3
+107793|Holiday Inn Hotel & Suites Oakville @ Bronte|Oakville|NO|stars_3
+107794|Hotel Bramalea - geschlossen|Brampton|NO|stars_3
+107795|Holiday Inn Windsor Ambassador Bridge|Windsor|NO|stars_3
+107804|Holiday Inn St. John's|St. John's|NO|stars_3
+107805|Holiday Inn Stephenville|Stephenville|NO|stars_3
+107808|Holiday Inn Sudbury|Sudbury|NO|stars_3
+107820|Mississauga Toronto West|Mississauga|NO|stars_3
+107821|Holiday Inn Toronto Yorkdale|Toronto|NO|stars_3
+107822|Ramada Trenton|Trenton|NO|stars_3
+107831|Holiday Inn West Kelowna|Westbank|NO|stars_3
+107832|Holiday Inn Winnipeg Airport West|Winnipeg|NO|stars_3
+107833|Four Points by Sheraton Winnipeg South|Winnipeg|YES|stars_3
+107834|Holiday Inn Winnipeg South|Winnipeg|YES|stars_3
+107933|Howard Johnson Inn Woodstock NB|Woodstock|YES|stars_2
+108185|Kingsbrae Arms|St Andrews|NO|stars_4.5
+108305|La Tour Belvédère Hotel Apartments|Montreal|NO|stars_3
+108323|Lakeview Inn & Suites Fredericton|Fredericton|NO|stars_3
+108324|Lakeview Inn & Suites Miramichi/Newcastle|Miramichi|NO|stars_2
+108447|Le Square Phillips Hôtel & Suites|Montreal|NO|stars_4
+108448|Le St. James|Montreal|NO|stars_5
+108538|Londsdale Quay|Vancouver|NO|stars_3
+108649|Marriott Edmonton at River Cree Resort|Edmonton|YES|stars_4
+109356|Novotel Montreal Airport|Montreal|YES|stars_4
+109575|Park Inn & Suites on the River|Miramichi|YES|stars_3
+109764|Paradise Inn Suites Grande Prairie|Grand Prairie|NO|stars_2.5
+109765|Quality Hotel & Conference Centre|Fort McMurray|NO|stars_3
+109766|Quality Hotel & Conference Centre Royal Brock|Brockville|NO|stars_2
+109767|Quality Suites|Oakville|NO|stars_3
+109771|Quality Inn & Suites|Sherbrook|NO|stars_2
+109817|Quality Inn & Suites|Brossard|NO|stars_3
+109818|Quality Inn & Suites 1000 Islands|Gananoque|NO|stars_2
+109825|Quality Inn Bay Front|Sault Sainte Marie|NO|stars_3
+109835|Quality Inn & Suites Edmonton International Airport|Nisku|NO|stars_3
+109836|Quality Inn|Edmundston|NO|stars_2
+109838|Quality Inn Garden Of The Gulf|Summerside|NO|stars_2
+109842|Quality Inn Kamloops|Kamloops|NO|stars_2
+109844|Quality Inn & Suites|Matane|NO|stars_3
+109846|Quality Inn Northern Grand|Fort Saint John|NO|stars_2.5
+109848|Quality Inn Peterborough|Peterborough|NO|stars_2
+109854|Econo Lodge Surrey|Surrey|NO|stars_2
+109860|Quality Inn Whitecourt|Whitecourt|NO|stars_2
+109861|Quality Inn Winnipeg|Winnipeg|NO|stars_2.5
+109910|Quality Suites Downtown|Windsor|NO|stars_3
+109911|Quality Suites|Drummondville|NO|stars_3
+109914|Quality Suites Montreal Aeroport|Pointe-Claire|NO|stars_3
+109916|Quality Suites Whitby|Whitby|NO|stars_2.5
+109929|Hotel Quartier Latin|Montreal|NO|stars_2
+110013|Ramada Fredericton|Fredericton|YES|stars_3
+110311|Rodd Miramichi River - A Rodd Signature Hotel|Miramichi|NO|stars_3
+110312|Niagara Lodge & Suites|Niagara Falls|NO|stars_2
+110314|Marco Polo Inn|Niagara Falls|NO|stars_2
+110452|Adara|Whistler|NO|stars_3
+110488|Stonebridge Lodge at Big White|Big White|NO|stars_3
+110862|Sleep Inn Bracebridge|Bracebridge|NO|stars_2
+110871|Canadas Best Value Inn Langley|Langley|YES|stars_2
+110962|Southway Inn of Ottawa|Ottawa|NO|stars_3
+111004|Staybridge Suites Calgary Airport|Calgary|NO|stars_3
+111008|Staybridge Suites Toronto-Markham|Thornhill|NO|stars_3
+111082|Super 8 Campbellton|Campbellton|YES|stars_2
+111188|The Greenbrier|Vancouver|NO|stars_3
+111282|Days Inn & Suites Thompson|Thompson|YES|stars_2
+111478|Victoria|Toronto|NO|stars_3
+111639|Welcominns|Montreal|NO|stars_2.5
+111855|Comfort Inn Sudbury South End|Sudbury|NO|stars_2
+121525|Holiday Inn Hotel & Suites Regina|Regina|NO|stars_3
+121527|Sleep Inn Sault Ste Marie|Sault Sainte Marie|NO|stars_2
+121539|Robsonstrasse Hotel and Suites|Vancouver|NO|stars_2
+121548|Comfort Inn Sudbury East End|Sudbury|NO|stars_2
+122431|Temple Gardens Mineral Spa Resort|Moose Jaw|YES|stars_3
+122432|Walnut Beach Resort|Osoyoos|YES|stars_4
+122433|Queen Victoria Hotel & Suites|Victoria|YES|stars_3
+122434|Travelodge Nanaimo|Nanaimo|YES|stars_2.5
+122439|Hilton Garden Inn Toronto Vaughan|Toronto|YES|stars_3
+124159|Best Western Plus Brossard|Brossard|NO|stars_3.5
+124160|Blackfoot Inn Calgary|Calgary|YES|stars_3
+124164|Delta Guelph Hotel & Conference Centre|Guelph|YES|stars_4
+124165|Comfort Inn Markham Toronto North East|Markham|NO|stars_2.5
+124166|Monte Carlo Inn Airport Suites|Mississauga|YES|stars_3
+124168|Comfort Hotel & Suites Peterborough|Peterborough|NO|stars_3
+124169|Quality Regina|Regina|NO|stars_2.5
+124171|Comfort Inn|St. Catharines|NO|stars_2
+124173|Comfort Inn Toronto North|Toronto|NO|stars_2
+124175|Quality Hotel & Suites Woodstock|Woodstock|NO|stars_3
+128863|Comfort Inn Airport North Bay|North Bay|NO|stars_2
+129261|Arts|Calgary|NO|stars_3
+129264|Ramada Limited|Medicine Hat|YES|stars_2
+129265|Coast Surrey Guildford|Surrey|YES|stars_3
+129267|Cathedral Mountain Lodge|Field|NO|stars_4
+133790|Best Western Plus Cambridge Hotel|Cambridge|NO|stars_3.5
+133791|Mystic Springs Chalets|Canmore|NO|stars_4
+133792|Centre de Congrès & Hôtel La Saguenéenne|Chicoutimi|NO|stars_3
+133794|Dartmouth Oceanview Hotel|Dartmouth|NO|stars_2
+133796|Hilton Garden Inn Montreal Airport|Montreal|NO|stars_3
+133797|Sheraton Montreal Airport|Dorval|YES|stars_4
+133798|Executive Royal Inn Airport|Edmonton|NO|stars_3
+133799|Cambridge Suites|Halifax|NO|stars_3
+133803|Coast Hotel Medicine Hat|Medicine Hat|NO|stars_3
+133804|Sandman Montreal-Longueuil|Montreal|YES|stars_3
+133810|Super 8 Ste Foy|Quebec City|YES|stars_2
+133811|Auberge du Chateau Bromont|Bromont|YES|stars_3
+133812|La Quinta Inn Vancouver Airport|Richmond|NO|stars_3
+133813|Radisson Sudbury|Sudbury|NO|stars_3
+133814|Sheraton Guildford|Surrey|YES|stars_4
+133816|Howard Johnson Inn & Suites|Toronto|YES|stars_2
+133818|Belleville Park Resort - Gatsby Mansion|Victoria|NO|stars_3
+133819|Grand Pacific|Victoria|YES|stars_4
+134255|Delta Burnaby Hotel & Conference Centre|Burnaby|YES|stars_4
+135028|Innisfree Bed & Breakfast|New Brunswick|NO|stars_3.5
+135032|L'Hermitage|Vancouver|NO|stars_4
+135033|Abigail's|Victoria|YES|stars_3.5
+135034|Black Rock Oceanfront Resort|Ucluelet|YES|stars_4
+135035|Desolation Resort|Powell River|NO|stars_3
+135040|The Cove Lakeside Resort|Westbank|YES|stars_3.5
+135042|La Pourvoirie du Cap au Leste|Saint-Rose-du-Nord|NO|stars_3
+135114|Bayshore Inn|Waterton Lakes|NO|stars_3
+135120|Grenfell Heritage Hotel & Suites|St. Anthony|NO|stars_3
+135121|Neddies Harbour|Gros Morne National Park|NO|stars_4
+135122|Auberge Les Jardins Inn / Motel Le Brayon & Chalets|Edmundston|NO|stars_3
+135123|Kindred Spirits Country Inn|Cavendish|NO|stars_3
+135367|Aloft Montreal Airport|Montreal|YES|stars_3
+135368|Summerland Waterfront Resort|Summerland|YES|stars_4
+135638|Prestige Inn Nelson|Nelson|YES|stars_3
+136050|The Trillium Resort & Spa|Port Sydney|NO|stars_3
+136189|Best Western Plus Chemainus Inn|Chemainus|NO|stars_3.5
+136208|Alpine Meadows Resort|Clearwater|NO|stars_3
+136209|Dundee Arms Inn|Charlottetown|NO|stars_3
+136640|Quality Inn Près Du Lac|Grand Falls|NO|stars_2
+136645|Econo Lodge|Huntsville|NO|stars_2
+136646|Econo Lodge Inn & Suites|Pembroke|NO|stars_2
+136650|Econo Lodge Inn & Suites|Cranbrook|NO|stars_2
+136657|Econo Lodge Inn & Suites|Kamloops|NO|stars_2
+136658|Fairmont Le Manoir Richelieu|La Malbaie|NO|stars_5
+136661|Canadas Best Value Inn|Castlegar|NO|stars_2
+136663|Comfort Inn & Suites|Ingersoll|NO|stars_2
+136684|Quality Inn & Suites|Lethbridge|NO|stars_2
+136687|The Marquise|Whistler|YES|stars_3
+136693|Quality Inn & Suites|Brantford|NO|stars_3
+137357|Travelodge Niagara Falls at the Falls|Niagara Falls|YES|stars_3
+138302|Shangri-La Vancouver|Vancouver|YES|stars_5
+138366|White Oaks Conference Resort & Spa|Niagara on the Lake|YES|stars_4
+138698|Best Western Plus Charter House Downtown|Winnipeg|NO|stars_3.5
+138699|Best Western Plus Chocolate Lake Hotel|Halifax|YES|stars_3.5
+138709|Best Western Parkway Toronto North|Richmond Hill|NO|stars_3
+138910|Four Points by Sheraton Kamloops|Kamloops|YES|stars_3
+139001|Howard Johnson Downtown Toronto Yorkville|Toronto|YES|stars_2
+139003|Lexington Inn & Suites - Windsor ON Canada|Windsor|YES|stars_2
+139009|Howard Johnson Victoria|Victoria|YES|stars_2.5
+139071|Lake City Inn & Suites|Vancouver|NO|stars_3
+139168|Park Town|Saskatoon|YES|stars_3
+139239|Ramada Limited South Windsor|Windsor|YES|stars_2
+139331|Sandman|Langley|NO|stars_3
+139332|Sandman Hotel & Suites Winnipeg Airport|Winnipeg|NO|stars_3
+139427|Super 8 Mississauga|Toronto|YES|stars_2.5
+139438|Super 8 North Bay|North Bay|YES|stars_2
+139564|The Hazelton|Toronto|NO|stars_5
+140148|Holiday Inn Express Hotel & Suites Toronto - Markham|Richmond Hill|YES|stars_3
+140149|Stoney Nakoda Resort & Casino|Seebe|NO|stars_3
+140365|Little Atlin Lodge|Little Atlin Lake|NO|stars_2
+140467|Trout Point Lodge|Yarmouth|NO|stars_4
+140468|Kouchibouguac Resort|Saint Louis (Kouchibouguac NP)|NO|stars_3
+140469|Ramada Limited Fort Nelson|Fort Nelson|YES|stars_2.5
+140471|The Arctic Chalet|Inuvik|NO|stars_1.5
+140555|Le Westin Montréal|Montreal|YES|stars_4
+140557|Musée Premières Nations|Wendake|NO|stars_4
+140634|Howard Johnson Express Inn & Suites Toronto Brampton|Brampton|YES|stars_2
+140636|Canadian Rockies Chalets|Canmore|NO|stars_2
+140638|Best Western Plus Royal Brock Hotel & Conference Centre|Guelph|NO|stars_3.5
+140639|Days Inn Leamington|Leamington|YES|stars_2.5
+140640|Ramada Limited Surrey/Langley|Surrey|YES|stars_3
+140641|Holiday Inn Truro|Truro|NO|stars_3
+140943|Le Quintessence|Mont Tremblant|YES|stars_5
+140944|Auberge Duchesnay|Ste-Catherine-de-la-Jacques|NO|stars_3.5
+140948|Kensington Riverside Inn|Calgary|NO|stars_4
+140955|Spirit Ridge Vineyard Resort & Spa|Osoyoos|NO|stars_4
+140957|Historic Lund|Lund|NO|stars_3
+140958|Nita Lake Lodge|Whistler|YES|stars_4
+140959|Heffley Boutique Inn|Sun Peaks|NO|stars_2
+140960|Aspen Inn & Suites|Smithers|NO|stars_3.5
+140966|Hotel 10|Montreal|NO|stars_4
+140967|Le Flores Inn|Ste-Flore-de-Grand-Mere|NO|stars_3
+140971|Holiday Inn Express & Suites Halifax Airport|Halifax|NO|stars_2
+140973|Neddies Harbour Inn|Rocky Harbour|NO|stars_4
+140979|Auberge Gisele's Inn|Baddack|NO|stars_3
+141641|Days Inn Vernon|Vernon|NO|stars_2
+141643|Holiday Inn Express & Suites|Edson|NO|stars_2
+141644|Ramada Airport - geschlossen|Toronto|YES|stars_3
+142248|Celebrities|Montreal|YES|stars_2
+143431|Travelodge Courtenay|Courtenay|YES|stars_2
+143779|Harrison Beach|Harrison Hot Springs|NO|stars_3
+144293|St. Eugene Golf Resort & Casino|Cranbrook|NO|stars_4
+150051|Coast Abbotsford Hotel & Suites|Abbotsford|NO|stars_3
+150052|Best Western Bakerview Inn|Abbotsford|NO|stars_2
+150053|Super 8 Motel  Abbotsford BC|Abbotsford|YES|stars_2
+150054|Best Western Regency Inn & Conference Centre|Abbotsford|NO|stars_3
+150055|Ramada Plaza Abbotsford Hotel & Conference Centre|Abbotsford|YES|stars_3
+150057|Super 8 Motel Airdrie AB|Airdrie|YES|stars_2
+150058|Ramada Airdrie Hotel & Suites|Airdrie|YES|stars_2
+150060|Super 8 Ajax/Toronto|Ajax|YES|stars_2
+150061|Hilton Garden Inn Toronto/Ajax|Ajax|NO|stars_3
+150062|Best Western Plus Country Meadows Inn|Aldergrove|NO|stars_3.5
+150063|Eco-Lodge Algonquin|Algonquin Provincial Park|YES|stars_2
+150064|Wandlyn Amherst|Amherst|NO|stars_2
+150065|Super 8 Motel - Amherst, NS|Amherst|YES|stars_2
+150066|Super 8 Motel Athabasca|Athabasca|YES|stars_2
+150070|Red Carpet Inn|Banff|NO|stars_2
+150071|Irwins Mountain Inn|Banff|NO|stars_3
+150072|Best Western Plus Siding 29 Lodge|Banff|NO|stars_3.5
+150073|Castle Mountain Chalets|Banff|NO|stars_3
+150074|A Banff Boutique Inn|Banff|NO|stars_3
+150077|Best Western Royal Oak Inn|Barrie|NO|stars_3
+150078|Super 8 Barrie|Barrie|YES|stars_2
+150079|Knights Inn Barriere|Barriere|YES|stars_0
+150080|Lakeview Inn & Suites Bathurst|Bathurst|NO|stars_2
+150081|Auberge du Littoral|Beauport|NO|stars_3
+150084|Auberge Godefroy|Becancour|YES|stars_3.5
+150085|Manoir Becancourt|Becancour|NO|stars_3
+150086|Best Western Belleville|Belleville|NO|stars_3
+150089|Le Mirage Hotel Blainville|Blainville|NO|stars_2.5
+150092|Riotel Bonaventure|Bonaventure|NO|stars_3
+150093|Days Inn Bonnyville|Bonnyville|YES|stars_2
+150095|Howard Johnson Bowmanville|Bowmanville|NO|stars_2
+150096|Travelodge Bracebridge|Bracebridge|YES|stars_2
+150097|Knights Inn Bracebridge|Bracebridge|NO|stars_2
+150098|Touchstone on Lake Muskoka|Bracebridge|NO|stars_3
+150099|Best Western Plus Brampton|Brampton|NO|stars_3.5
+150101|Knights Inn Brandon|Brandon|YES|stars_2
+150102|Royal Oak Inn & Suites|Brandon|YES|stars_3
+150103|Victoria Inn & Conference Centre|Brandon|YES|stars_3
+150105|Super 8 Brandon MB|Brandon|YES|stars_2
+150106|Best Western Plus Brant Park Inn & Conference Centre|Brantford|NO|stars_3.5
+150108|Days Inn & Conference Center Bridgewater|Bridgewater|YES|stars_2
+150110|Travelodge Brockville|Brockville|YES|stars_2
+150111|Chateau Bromont - Resort Hotels|Bromont|YES|stars_3.5
+150112|Le St-Martin Bromont Hotel|Bromont|YES|stars_3
+150113|Travelodge Brooks|Brooks|YES|stars_2
+150114|Canalta Brooks|Brooks|NO|stars_2
+150115|Heritage Inn Hotel & Convention Centre|Brooks|YES|stars_3
+150117|Lakeview Inn & Suites Brooks|Brooks|YES|stars_3
+150118|Ramada Brooks|Brooks|YES|stars_3
+150119|Econo Lodge Brossard|Brossard|YES|stars_2
+150120|Alt Hotel - Brossard Quartier DIX30|Brossard|NO|stars_3
+150121|Homewood Suites by Hilton Burlington|Burlington|NO|stars_3
+150123|Best Western Plus Burlington Inn & Suites|Burlington|NO|stars_3.5
+150124|Waterfront Downtown Burlington|Burlington|NO|stars_3
+150125|Executive Hotel & Conference Center Burnaby|Burnaby|YES|stars_3.5
+150126|Best Western Plus Kings Inn & Conference Centre|Vancouver|NO|stars_3
+150128|Canadas Best Value Inn & Suites Desert|Cache Creek|YES|stars_2
+150129|Regency Suites|Calgary|NO|stars_2
+150130|Super 8 Calgary/Airport|Calgary|YES|stars_2
+150132|Deerfoot Inn and Casino|Calgary|NO|stars_3.5
+150133|Travelodge Calgary South|Calgary|YES|stars_2
+150134|Thriftlodge Calgary North|Calgary|NO|stars_2
+150135|Super 8 Village Calgary|Calgary|YES|stars_2
+150136|Travelodge Calgary University|Calgary|YES|stars_2
+150137|Holiday Inn Express & Suites Calgary|Calgary|NO|stars_3
+150138|ExecSuite|Calgary|NO|stars_2.5
+150140|Holiday Inn Express Hotel & Suites Airport - Calgary|Calgary|NO|stars_3
+150141|Acclaim Calgary Airport|Calgary|NO|stars_3
+150142|Best Western Airport Inn|Calgary|NO|stars_2
+150143|Travelodge Cambridge/Waterloo|Cambridge|YES|stars_2.5
+150144|Homewood Suites Cambridge-Waterloo|Cambridge|NO|stars_3
+150146|Super 8 Motel - Cambridge/Kitchener/Waterloo Area|Cambridge|YES|stars_2
+150147|Travelodge Campbell River|Campbell River|YES|stars_2
+150148|Ramada Camrose|Camrose|YES|stars_3
+150149|Super 8 Camrose|Camrose|NO|stars_2
+150150|Blackstone Mountain Lodge|Canmore|YES|stars_4
+150151|The Georgetown Inn|Canmore|NO|stars_3
+150152|Canadian Mountain Lodging: Canmore Crossing|Canmore|NO|stars_3
+150153|Banff Boundary Lodge|Harvie Heights|NO|stars_2
+150154|Falcon Crest Lodge|Canmore|NO|stars_3
+150156|Fire Mountain Lodge|Canmore|NO|stars_3
+150159|Sunset Resorts Canmore|Canmore|NO|stars_3
+150160|Lodges at Canmore|Canmore|NO|stars_3
+150161|Canmore Crossing|Canmore|NO|0
+150162|Super 8 Caraquet|Caraquet|YES|stars_3
+150164|Super 8 Castlegar BC|Castlegar|YES|stars_2
+150165|Super 8 Charlottetown PE|Charlottetown|YES|stars_2
+150167|Super 8 Chatham|Chatham|YES|stars_2
+150169|Travelodge Chatham|Chatham|YES|stars_2
+150170|Fuller Lake Chemainus Motel|Chemainus|NO|stars_2
+150173|Ramada Grande Prairie|Clairmont|YES|stars_3
+150176|The Woodlawn Inn|Cobourg|YES|stars_0
+150177|Thriftlodge Cochrane South|Cochrane|YES|stars_2
+150179|Super 8 Cochrane|Cochrane|NO|stars_2.5
+150180|Days Inn & Suites Cochrane|Cochrane|YES|stars_2
+150184|Days Inn & Suites Collingwood|Collingwood|YES|stars_2
+150185|Club Intrawest - Blue Mountain|Collingwood|NO|stars_3
+150186|Georgian Manor Resort & Country Club|Collingwood|NO|stars_3
+150189|Best Western Plus Chelsea Inn|Coquitlam|NO|stars_3.5
+150190|Ramada Inn Coquitlam Vancouver BC|Coquitlam|YES|stars_3
+150191|Best Western Plus Coquitlam Inn Convention Centre|Coquitlam|NO|stars_3.5
+150192|Executive Plaza Coquitlam|Coquitlam|NO|stars_3.5
+150195|Best Western Plus Parkway Inn & Conference Centre|Cornwall|NO|stars_3.5
+150196|Ramada Cornwall|Cornwall|YES|stars_3
+150197|Super 8 Cornwall|Cornwall|YES|stars_2
+150199|Holiday Inn Express & Suites Courtenay Comox Valley SW|Courtenay|NO|stars_2
+150200|Old House Village Hotel & Spa|Courtenay|NO|stars_4
+150201|Oceanfront Suites at Cowichan Bay|Cowichan Bay|NO|stars_3
+150202|Days Inn Cranbrook|Cranbrook|YES|stars_3
+150205|Super 8 Cranbrook|Cranbrook|YES|stars_2
+150208|Days Inn - Dartmouth|Dartmouth|NO|stars_2
+150209|Ramada Plaza Dartmouth Park Place|Dartmouth|YES|stars_3
+150210|Best Western Plus Dartmouth Hotel & Suites|Dartmouth|NO|stars_3.5
+150212|Super 8 Dauphin|Dauphin|YES|stars_0
+150213|Best Western Dawson Creek Inn|Dawson Creek|NO|stars_3
+150214|Comfort Inn|Dawson Creek|NO|stars_2
+150215|Ramada Limited Dawson Creek|Dawson Creek|YES|stars_0
+150216|Super 8 Dawson Creek|Dawson Creek|YES|stars_2
+150217|Delta Town & Country Inn|Delta|NO|stars_2
+150218|Coast Tsawwassen Inn|Delta|YES|stars_3
+150219|Holiday Inn Express & Suites Dieppe Airport|Dieppe|NO|stars_3
+150220|Super 8 Moncton/Dieppe|Dieppe|YES|stars_2
+150221|Ramada Plaza Crystal Palace|Dieppe|YES|stars_3
+150223|Best Western Plus Montreal Airport|Dorval|NO|stars_3.5
+150224|Montecassino & Suites|Downsview|NO|stars_2
+150227|Ramada Drayton Valley|Drayton Valley|NO|stars_3
+150228|Super 8 Drayton Valley|Drayton Valley|YES|stars_2
+150229|Travelodge Drumheller|Drumheller|YES|stars_0
+150230|Ramada Drumheller Hotel & Suites|Drumheller|YES|stars_2.5
+150231|Super 8 Motel - Drumheller|Drumheller|YES|stars_2
+150232|Best Western Plus Hotel Universel Drummondville|Drummondville|NO|stars_3
+150234|Travelodge Silver Bridge Inn|Duncan|YES|stars_2
+150236|Holiday Inn Express & Suites Edmonton North|Edmonton|NO|stars_2
+150240|Matrix|Edmonton|NO|stars_3
+150241|Union Bank Inn|Edmonton|NO|stars_4
+150242|Canterra Suites Hotel|Edmonton|NO|stars_3
+150243|Howard Johnson Hotel Edmonton|Edmonton|YES|stars_2
+150244|Hampton Inn & Suites Edmonton West|Edmonton|NO|stars_3
+150245|Best Western Plus Westwood Inn|Edmonton|NO|stars_3.5
+150246|Holiday Inn Hotel & Suites West Edmonton|Edmonton|NO|stars_3
+150247|West Edmonton Mall Inn|Edmonton|NO|stars_2
+150248|Super 8 Edmonton/West|Edmonton|YES|stars_2
+150249|Four Points by Sheraton Edmonton South|Edmonton|YES|stars_3
+150250|Varscona Hotel On Whyte|Edmonton|NO|stars_3
+150251|Sawridge Inn Edmonton South|Edmonton|NO|stars_3
+150252|Super 8 Edmonton South|Edmonton|YES|stars_2
+150253|Best Western Plus Edmundston|Edmundston|NO|stars_3
+150254|Comfort Inn & Suites|Edson|NO|stars_2
+150258|Super 8 Edson|Edson|YES|stars_2
+150259|The Village Inn|Elora|NO|stars_2
+150260|Howard Johnson Inn - Enderby|Enderby|YES|stars_3
+150264|Park Place Lodge|Fernie|NO|stars_3
+150265|Super 8 Fernie|Fernie|YES|stars_2
+150266|Snow Valley Motel & RV Park|Fernie|NO|stars_2
+150267|Travelodge Three Sisters|Fernie|YES|stars_2
+150268|Howard Johnson Inn Fort Erie|Fort Erie|YES|stars_2
+150269|Super 8 Fort Frances|Fort Frances|YES|stars_0
+150271|Merit Hotel & Suites|Fort McMurray|NO|stars_3
+150272|The Podollan Rez-idence|Fort McMurray|NO|stars_2.5
+150273|Sawridge Inn|Fort McMurray|NO|stars_3
+150274|Super 8 Fort McMurray|Fort McMurray|YES|stars_2
+150275|Nomad Hotel & Suites|Fort McMurray|NO|stars_3
+150276|Podollan Inn|Fort McMurray|NO|stars_3
+150277|Vantage Inns & Suites|Fort McMurray|NO|stars_3
+150279|Super 8 Motel Fort Nelson|Fort Nelson|YES|stars_2
+150280|Woodlands Inn|Fort Nelson|NO|stars_3
+150283|Super 8 Fort Saskatchewan|Fort Saskatchewan|YES|stars_0
+150285|Howard Johnson Fort Saint John|Fort Saint John|YES|stars_2
+150286|Pomeroy Hotel & Conference Centre|Fort Saint John|NO|stars_3
+150287|Super 8 Fort St. John|Fort Saint John|YES|stars_2
+150288|Amsterdam Inn & Suites Fredericton|Fredericton|NO|stars_2
+150289|Howard Johnson Plaza Hotel Fredericton|Fredericton|YES|stars_2
+150291|Howard Johnson Inn Gananoque|Gananoque|YES|stars_2
+150292|Ramada Gananoque Provincial Inn|Gananoque|YES|stars_3
+150293|Country Squire Resort|Gananoque|NO|stars_3
+150296|Garibaldi Springs Golf Resort|Squamish|YES|stars_4
+150297|Best Western Plus Gatineau Ottawa|Gatineau|NO|stars_3.5
+150300|Best Western Mountainview Inn|Golden|NO|stars_3
+150301|Super 8 Motel - Golden|Golden|YES|stars_0
+150302|Ramada Limited Golden|Golden|YES|stars_3
+150303|Econo Lodge|Golden|NO|stars_2
+150304|Palliser Lodge Resort|Golden|YES|stars_3
+150306|Best Western Plus Grand Sault|Grand Falls|NO|stars_3
+150307|Ramada Limited Grand Forks|Grand Forks|YES|stars_0
+150308|The Days Hotel & Suites Grande Cache|Grande Cache|YES|stars_0
+150309|Pomeroy Hotel & Conference Centre|Grand Prairie|NO|stars_3
+150310|Super 8 Motel - Grande Prairie|Grand Prairie|YES|stars_2
+150311|Stanford Inn - Grande Prairie|Grand Prairie|NO|stars_2.5
+150312|Stonebridge Grande Prairie|Grand Prairie|NO|stars_2
+150313|Service Plus Inn and Suites - Grande Prairie|Grand Prairie|NO|stars_2.5
+150314|Best Western Grande Prairie Hotel & Suites|Grand Prairie|NO|stars_3
+150315|Podollan Inn & Spa Grande Prairie|Grand Prairie|NO|stars_3.5
+150316|Howard Johnson Inn - Gravenhurst|Gravenhurst|YES|stars_2
+150319|Casablanca Winery Inn|Grimsby|NO|stars_3
+150320|Super 8 Grimsby|Grimsby|YES|stars_2
+150321|Fairfield Inn & Suites Guelph|Guelph|NO|stars_3
+150322|Staybridge Suites Guelph|Guelph|NO|stars_3
+150324|Super 8 Motel - Guelph Kitchener Waterloo Area|Guelph|YES|stars_2
+150325|Rockwater Secret Cove Resort|Halfmoon Bay|NO|stars_4
+150326|Waverley Inn|Halifax|NO|stars_3
+150327|Commons Inn|Halifax|NO|stars_2
+150329|Howard Johnson Bluenose Inn & Suites|Halifax|YES|stars_2
+150331|Lakeview Inn & Suites Halifax (Bayers Lake)|Halifax|YES|stars_2.5
+150332|Future Inns Halifax|Halifax|YES|stars_3
+150333|Days Inn Hamilton|Hamilton|YES|stars_2
+150334|Sheraton Hamilton|Hamilton|YES|stars_3
+150340|Lakeview Resort Hecla|Hecla|NO|stars_3
+150341|Flamingo Inn|High Level|YES|stars_0
+150342|Econo Lodge Inn & Suites|High Level|YES|stars_2
+150343|Quality Inn & Suites|High Level|YES|stars_3
+150344|Executive House Suites Hotels & Conference Centre|High Level|NO|stars_3
+150346|Super 8 Motel High Level|High Level|YES|stars_2
+150348|Ramada High River|High River|YES|stars_2.5
+150349|Super 8 High River|High River|YES|stars_2
+150352|Holiday Inn Express & Suites Hinton|Hinton|NO|stars_3
+150353|Lakeview Inn & Suites Hinton|Hinton|NO|stars_2.5
+150354|Holiday Inn Express & Suites Hinton|Hinton|YES|stars_2
+150356|Rodeway Inn King William|Huntsville|NO|stars_2
+150357|Travelodge Huntsville Ontario|Huntsville|YES|stars_2
+150358|Holiday Inn Express & Suites Huntsville|Huntsville|NO|stars_2
+150359|Elmhurst Inn|Ingersoll|NO|stars_3
+150360|Econo Lodge Inn & Suites|Innisfail|NO|stars_2
+150363|Super 8 Invermere|Invermere|YES|stars_2
+150366|Ramada Jordan/Beacon Harbourside Resort|Red Deer|NO|stars_2
+150367|Canadas Best Value Inn|Kamloops|YES|stars_2
+150368|Super 8 Kamloops BC|Kamloops|YES|stars_2
+150369|Kamloops Travelodge Mountview|Kamloops|YES|stars_2
+150370|Knights Inn Kamloops|Kamloops|YES|stars_2
+150371|Howard Johnson Downtown Kamloops|Kamloops|YES|stars_2
+150372|Skyline Motel|Kamloops|NO|stars_1
+150373|Super 8 Kamloops East|Kamloops|YES|stars_2
+150374|Hospitality Inn Kamloops|Kamloops|NO|stars_2
+150375|Country Inn & Suites Ottawa West|Ottawa|NO|stars_2.5
+150376|Bellasera Tuscan Villa & Piazza|Kelowna|YES|stars_4
+150377|Eldorado|Kelowna|NO|stars_3
+150379|Days Inn Kelowna|Kelowna|YES|stars_2
+150380|Fairfield Inn & Suites Kelowna|Kelowna|NO|stars_3
+150382|Okanagan Seasons Resort|Kelowna|NO|stars_2
+150383|Recreation Inn & Suites|Kelowna|NO|stars_2
+150385|Dilworth Inn|Kelowna|NO|stars_2
+150386|Casa Loma Lakeshore Resort|Kelowna|NO|stars_3
+150387|Travelodge Kenora|Kenora|YES|0
+150388|||NO|0
+150389|||NO|0
+150391|||NO|0
+150394|||NO|0
+150395|||NO|0
+150396|||NO|0
+150397|||NO|0
+150399|||NO|0
+150402|||NO|0
+150403|||NO|0
+150404|||NO|0
+150405|||NO|0
+150406|||NO|0
+150407|||NO|0
+150408|||NO|0
+150409|||NO|0
+150410|||NO|0
+150411|||NO|0
+150412|||NO|0
+150413|||NO|0
+150414|||NO|0
+150415|||NO|0
+150416|||NO|0
+150417|||NO|0
+150418|||NO|0
+150420|||NO|0
+150421|||NO|0
+150422|||NO|0
+150424|||NO|0
+150425|||NO|0
+150426|||NO|0
+150427|||NO|0
+150428|||NO|0
+150430|||NO|0
+150431|||NO|0
+150432|||NO|0
+150433|||NO|0
+150434|||NO|0
+150436|||NO|0
+150437|||NO|0
+150438|||NO|0
+150439|||NO|0
+150440|||NO|0
+150441|||NO|0
+150442|||NO|0
+150444|||NO|0
+150445|||NO|0
+150446|||NO|0
+150447|||NO|0
+150448|||NO|0
+150449|||NO|0
+150450|||NO|0
+150452|||NO|0
+150453|||NO|0
+150454|||NO|0
+150456|||NO|0
+150457|||NO|0
+150460|||NO|0
+150461|||NO|0
+150463|||NO|0
+150464|||NO|0
+150465|||NO|0
+150466|||NO|0
+150467|||NO|0
+150468|||NO|0
+150471|||NO|0
+150472|||NO|0
+150474|||NO|0
+150475|||NO|0
+150476|||NO|0
+150478|||NO|0
+150481|||NO|0
+150482|||NO|0
+150483|||NO|0
+150484|||NO|0
+150485|||NO|0
+150486|||NO|0
+150487|||NO|0
+150488|||NO|0
+150489|||NO|0
+150490|||NO|0
+150492|||NO|0
+150494|||NO|0
+150497|||NO|0
+150498|||NO|0
+150499|||NO|0
+150501|||NO|0
+150503|||NO|0
+150506|||NO|0
+150507|||NO|0
+150511|||NO|0
+150513|||NO|0
+150514|Hilton Garden Inn Centre-Ville|Montreal|YES|stars_3
+150515|Le Germain|Montreal|NO|stars_4
+150517|Le Crystal|Montreal|YES|stars_5
+150522|Courtyard Montreal Airport|Montreal|NO|stars_3
+150523|Residence Inn Montreal Airport|Montreal|NO|stars_3
+150524|Fairfield Inn & Suites Montreal Airport|Montreal|NO|stars_3
+150526|Super 8 Montreal|Vaudreuil|YES|stars_2
+150527|Brossard|Montreal|NO|stars_3
+150528|Blueberry Lake Resort|Mont Tremblant|NO|stars_4
+150529|Chateau Beauvallon|Mont Tremblant|NO|stars_4
+150530|Moose Jaw Travelodge|Moose Jaw|YES|stars_2
+150531|Heritage Inn Moose Jaw|Moose Jaw|YES|stars_3
+150532|Super 8 Moose Jaw SK|Moose Jaw|YES|stars_2
+150533|Super 8 Motel - Morden|Morden|YES|stars_0
+150535|Super8 Mt Hope Hamilton Intl Arpt ON|Mount Hope|YES|stars_2
+150536|Howard Johnson Hotel - Nanaimo Harbourside|Nanaimo|YES|stars_2
+150537|Ramada Nanaimo|Nanaimo|YES|stars_3
+150541|Pacific Shores Resort and Spa|Nanoose Bay|NO|stars_3
+150546|Inn At The Quay|New Westminster|YES|stars_3
+150548|Holiday Inn Express & Suites Newmarket|Newmarket|NO|stars_3
+150549|Super 8 North Of The Falls|Niagara Falls|YES|stars_2
+150551|Travelodge by the Falls|Niagara Falls|YES|stars_3
+150553|Super 8 Hotel - Niagara Falls|Niagara Falls|YES|stars_2
+150554|Ritz Inn Niagara And Wedding Chapel|Niagara Falls|NO|stars_1.5
+150555|Surfside Inn Niagara Falls|Niagara Falls|NO|stars_2
+150557|Country Inn & Suites By Carlson Niagara Falls|Niagara Falls|NO|stars_2.5
+150558|Candlelight Motor Inn|Niagara Falls|NO|stars_2
+150559|Howard Johnson Express Inn - Niagara Falls|Niagara Falls|YES|stars_2
+150560|Travelodge Niagara Falls, Bonaventure|Niagara Falls|YES|stars_2
+150561|Arkona Motor Inn|Niagara Falls|NO|stars_1.5
+150563|Advantage Inn|Niagara Falls|NO|stars_2
+150564|Best Western Colonel Butler Inn|Niagara on the Lake|NO|stars_3
+150565|Prince of Wales|Niagara on the Lake|NO|stars_4
+150566|Nisku Inn Edmonton Airport|Nisku|NO|stars_2
+150567|Super 8 Motel - North Battleford|North Battleford|YES|stars_0
+150569|Holiday Inn Express Hotel & Suites North Bay|North Bay|NO|stars_3
+150570|Travelodge Airport North Bay|North Bay|YES|stars_2
+150573|Travelodge Vancouver Lions Gate|North Vancouver|YES|stars_2
+150574|Homewood Suites Toronto-Oakville|Oakville|NO|stars_3
+150576|Staybridge Suites Oakville|Oakville|NO|stars_3
+150580|Elkhorn Resort Spa & Conference Center|Onanole|NO|stars_3
+150583|Knights Inn Orillia|Orillia|YES|stars_2
+150584|Best Western Plus Mariposa Inn & Conference Center|Orillia|NO|stars_3.5
+150585|Best Western Plus Couchiching Inn|Orillia|NO|stars_3.5
+150588|Carriage Ridge Resort at Horseshoe Valley|Oro-Medonte|NO|stars_3
+150589|Knights Inn Oshawa|Oshawa|YES|stars_0
+150590|Best Western Plus Durham Hotel & Conference Centre|Oshawa|NO|stars_3.5
+150591|Travelodge Oshawa Whitby|Oshawa|YES|stars_2
+150593|Super 8 Osoyoos|Osoyoos|YES|stars_0
+150596|Welcominns Ottawa|Ottawa|NO|stars_2
+150597|Byward Blue Inn|Ottawa|NO|stars_3
+150598|Minto Suite|Ottawa|NO|stars_4
+150599|Holiday Inn Express Hotel & Suites Ottawa Airport|Ottawa|NO|stars_3
+150600|Hilton Garden Inn Ottawa Airport|Ottawa|NO|stars_3
+150601|The Business Inn|Ottawa|NO|stars_2.5
+150604|Travelodge Owen Sound ON|Owen Sound|YES|stars_2
+150605|Knights Inn Owen Sound|Owen Sound|YES|stars_2.5
+150606|Oyen Canalta|Oyen|NO|stars_2
+150607|Parksville Travelodge|Parksville|YES|stars_2
+150608|Sunrise Ridge Resort|Parksville|NO|stars_3
+150609|The Beach Club Resort|Parksville|NO|stars_4
+150610|Quality Inn & Conference Centre|Parry Sound|NO|stars_2
+150612|Travelodge Pembroke|Pembroke|YES|stars_3
+150614|Super 8 Motel - Penticton|Penticton|YES|stars_2.5
+150618|Colonial House Motor Inn|Perth|NO|stars_2
+150619|Best Western Plus Otonabee Inn|Peterborough|NO|stars_3.5
+150620|Super 8 Peterborough|Peterborough|NO|stars_2
+150622|Braeside Country Inn|Pictou|NO|stars_2.5
+150624|St-Sauveur|Piedmont|NO|stars_3
+150625|Ramada Pincher Creek|Pincher Creek|YES|stars_3
+150626|Super 8 Motel Pincher Creek AB|Pincher Creek|YES|stars_2
+150627|Ramada Inn Pitt Meadows|Pitt Meadows|YES|stars_3
+150629|Best Western Plus Barclay|Port Alberni|NO|stars_3.5
+150630|Poco Inn and Suites Hotel & Conference Centre|Port Coquitlam|NO|stars_3
+150631|Super 8 Motel - Port Elgin|Port Elgin|YES|stars_2
+150633|Super 8 Motel Portage La Prairie MB|Portage La Prairie|YES|stars_2
+150635|Ramada Prince Albert|Prince Albert|NO|stars_3
+150636|Travelodge Prince Albert|Prince Albert|YES|stars_2
+150637|Holiday Inn Express Hotel & Suites Prince Albert|Prince Albert|NO|stars_2
+150638|Super 8 Motel - Prince Albert|Prince Albert|YES|stars_2
+150640|Days Inn - Prince Albert|Prince Albert|YES|stars_2
+150642|Four Points by Sheraton Prince George|Prince George|YES|stars_0
+150643|Travelodge Prince George Goldcap BC|Prince George|YES|stars_2
+150644|Economy Inn|Prince George|NO|stars_2
+150648|Canadas Best Value Inn & Suites|Princeton|YES|stars_2
+150650|Ambassadeur|Quebec City|YES|stars_3
+150652|Hotel Le Priori|Quebec City|NO|stars_3
+150653|Le Port Royale & Suites|Quebec City|NO|stars_4
+150654|Le Dauphin Québec|Quebec City|NO|stars_3
+150655|Auberge du Quartier|Quebec City|NO|stars_3
+150657|Capitole|Quebec City|NO|stars_3
+150665|Acadia|Quebec City|NO|stars_3
+150667|Grand Times Hotel Quebec City Airport|Quebec City|NO|stars_4
+150668|Normandin|Quebec City|NO|stars_3
+150669|St Christophe & Spa, Ascend Collection|Granby|NO|stars_3
+150670|Grand Times|Quebec City|NO|stars_4
+150671|Four Points by Sheraton Quebec|Quebec City|YES|stars_3
+150672|Le Germain-Dominion|Quebec City|NO|stars_3.5
+150673|Quartier|Quebec City|NO|stars_4
+150674|ALT Quebec City|Quebec City|NO|stars_3
+150676|Château Repotel Duplessis|Quebec City|NO|stars_2
+150677|Travelodge Quesnel BC|Quesnel|YES|stars_2
+150679|Super 8 Quesnel|Quesnel|YES|stars_2
+150681|Bighorn Meadows Resort Condos|Revelstoke|NO|stars_3
+150682|Econo Lodge Inn & Suites|Red Deer|NO|stars_2
+150683|Howard Johnson Inn Red Deer|Red Deer|YES|stars_2
+150687|Quality Inn North Hill|Red Deer|NO|stars_2
+150688|Sheraton Red Deer|Red Deer|YES|stars_3
+150689|Comfort Inn & Suites|Red Deer|NO|stars_2.5
+150690|Black Knight Inn|Red Deer|NO|stars_3
+150692|Wingate by Wyndham Regina|Regina|YES|stars_3
+150693|Best Western Seven Oaks Inn|Regina|YES|stars_3
+150694|Executive Royal Hotel Regina|Regina|NO|stars_3
+150696|Best Western Plus Revelstoke|Revelstoke|NO|stars_3.5
+150698|Days Inn And Suites Revelstoke|Revelstoke|NO|stars_2
+150699|Super 8 Revelstoke BC|Revelstoke|YES|stars_2
+150700|Woodbine Hotel and Suites|Toronto|NO|stars_2.5
+150701|River Rock Casino Resort Suites|Richmond|NO|stars_4
+150702|Travelodge Richmond Hill|Richmond Hill|YES|stars_2
+150703|Canadas Best Value Inn Richmond Hill / Toronto North|Richmond Hill|YES|stars_2
+150704|Howard Johnson Inn Rigaud QU|Rigaud|YES|stars_2
+150705|Canalta Rimbey|Rimbey|NO|stars_2
+150707|Quality Inn Riviere-Du-Loup|Riviere Du Loup|YES|stars_2
+150709|Rocky Mountain House Canalta|Rocky Mountain House|NO|stars_2
+150710|Prestige Mountain Resort Rossland|Rossland|YES|stars_3
+150712|Gouverneur Le Noranda|Rouyn-Noranda|NO|stars_3.5
+150715|Gouverneur Relais|Saint-Jean-sur-Richelieu|NO|stars_3
+150716|Best Western Plus St. Jerome|Saint-Jérôme|NO|stars_3.5
+150717|Hampton Inn & Suites Saint John|Saint John|YES|stars_3
+150718|Best Western Plus Saint John Hotel & Suites|Saint John|YES|stars_3.5
+150720|Le Chateau Sainte Adele|Sainte Adele|NO|stars_3
+150721|Auberge-Spa Watel|Sainte-Agathe-des-Monts|NO|stars_4
+150722|Hotel Super 8 Sainte Agathe Des Monts|Sainte-Agathe-des-Monts|YES|stars_2
+150725|Super 8 Motel - Salmon Arm|Salomon Arm|YES|stars_2
+150726|Podollan Inn Salmon Arm|Salomon Arm|NO|stars_3
+150727|Travelodge Salmon Arm BC|Salomon Arm|YES|stars_2
+150728|Drawbridge Plaza Inn and Suites|Sarnia|NO|stars_2.5
+150729|Super 8 Motel - Sarnia|Sarnia|YES|stars_2
+150730|Best Western Plus Guildwood Inn|Sarnia|NO|stars_3.5
+150731|Chipican Motel Sarnia|Sarnia|NO|stars_2
+150732|Quality Inn Sarnia|Sarnia|NO|stars_3
+150733|Sheraton Cavalier Saskatoon Hotel|Saskatoon|YES|stars_3
+150734|Super 8 Motel - Saskatoon|Saskatoon|YES|stars_2
+150735|Hilton Garden Inn Saskatoon Downtown|Saskatoon|NO|stars_3
+150736|Ramada Hotel & Golf Dome - Saskatoon|Saskatoon|YES|stars_3
+150737|Best Western Royal|Saskatoon|NO|stars_3
+150738|Saskatoon Thriftlodge|Saskatoon|YES|stars_2
+150739|Travelodge Hotel Saskatoon|Saskatoon|YES|stars_3
+150740|Heritage Inn Hotel & Convention Centre|Saskatoon|YES|stars_2
+150741|Days Inn & Suites Sault Ste. Marie|Sault Sainte Marie|YES|stars_2
+150742|Howard Johnson Inn Sault Ste Marie ON|Sault Sainte Marie|YES|stars_2
+150743|Algomas Water Tower Inn|Sault Sainte Marie|NO|stars_3
+150745|Super 8 Motel - Sault Ste. Marie, On|Sault Sainte Marie|YES|stars_2
+150746|Gouverneur Sept-Iles|Sept-Iles|NO|stars_3
+150747|Gouverneur Auberge Shawinigan|Shawinigan|NO|stars_3
+150748|Ramada Limited Edmonton East/Sherwood Park|Sherwood Park|YES|stars_2
+150750|Holiday Inn Sherwood|Sherwood Park|NO|stars_3
+150752|Super 8 Motel - Sicamous|Sicamous|YES|stars_2
+150753|Travelodge Victoria Airport/Sidney|Sidney|YES|stars_2
+150754|Best Western Plus Emerald Isle Motor Inn|Sidney|NO|stars_3.5
+150759|Travelodge Simcoe|Simcoe|YES|stars_2
+150761|Super 8 Motel - Slave Lake|Slave Lake|YES|stars_2
+150762|Slave Lake Inn & Conference Center|Slave Lake|NO|stars_3
+150766|Econo Lodge|Smiths Falls|NO|stars_2
+150768|Sooke Harbour House|Sooke|NO|stars_4
+150771|Best Western Mountain Retreat|Squamish|NO|stars_3
+150774|Gower House Downtown|St. John's|NO|stars_3
+150775|Cabot House - 26 Monkstown|St. John's|NO|stars_3
+150776|Ramada St. John's|St. John's|YES|stars_3
+150777|Courtyard St. John's Newfoundland|St. John's|NO|stars_3
+150778|Super 8 Motel - ST Paul AB|St Paul|YES|stars_2
+150781|Super 8 St. John's|St. John's|YES|stars_2
+150789|The Westover Inn|St. Marys|YES|stars_3.5
+150791|Holiday Inn Express Stellarton-New Glasgow|Stellarton|NO|stars_3
+150792|Stettler Canalta|Stettler|NO|stars_2
+150793|Super 8 Motel - Stettler|Stettler|YES|stars_2
+150794|Ramada Stettler|Stettler|YES|stars_2.5
+150795|Les Trois Tilleuls & Spa|Saint-Marc-sur-Richelieu|NO|stars_3.5
+150796|Manoir du Lac Delage|Stoneham|YES|stars_3
+150798|Ramada Inn Stony Plain|Stony Plain|YES|stars_3
+150799|Travelodge Stony Plain|Stony Plain|YES|stars_2
+150801|The Albert St. Inn|Stratford|NO|stars_2
+150802|Days Inn And Suites Strathmore|Strathmore|NO|stars_2
+150803|Super 8 Motel - Strathmore|Strathmore|YES|stars_2
+150804|Best Western Strathmore Inn|Strathmore|NO|stars_2
+150805|Travelodge Strathmore|Strathmore|YES|stars_2
+150806|Comfort Inn Sturgeon Falls|Sturgeon Falls|NO|stars_2
+150807|Fairfield Inn & Suites Sudbury|Sudbury|NO|stars_2
+150808|Hampton Inn Sudbury|Sudbury|NO|stars_3
+150809|Sudbury Inn|Sudbury|NO|stars_2
+150810|Homewood Suites Sudbury|Sudbury|NO|stars_3
+150811|Best Western Downtown Sudbury Centreville|Sudbury|NO|stars_2
+150812|Howard Johnson Plaza Sudbury|Sudbury|YES|stars_2
+150813|Travelodge Hotel Sudbury|Sudbury|YES|stars_2
+150814|Super 8 Sudbury|Sudbury|YES|stars_2
+150815|Slemon Park Hotel & Conference Centre|Summerside|NO|stars_2.5
+150816|Sandman Suites Surrey-Guildford|Surrey|NO|stars_3
+150818|Comfort Inn Surrey|Surrey|NO|stars_2
+150819|Amsterdam Inn & Suites Sussex|Sussex|NO|stars_3
+150820|Super 8 Motel|Swan River|YES|stars_0
+150821|Best Western Plus Inn|Swift Current|NO|stars_3.5
+150822|Holiday Inn Express Swift Current|Swift Current|NO|stars_3
+150823|Swift Current Thriftlodge|Swift Current|YES|stars_2
+150824|Howard Johnson Inn - Swift Current|Swift Current|YES|stars_2
+150825|Super 8 Swift Current|Swift Current|YES|stars_2
+150826|Cambridge Suites Sydney|Sydney|NO|stars_3
+150828|Super 8 Motel - Taber|Taber|YES|stars_0
+150832|Super 8 Lachenaie/Terrebonne|Terrebonne|YES|stars_2
+150833|Super 8 Motel - The Pas|The Pas|YES|stars_0
+150834|The Burntwood|Thompson|NO|stars_3
+150835|Four Points by Sheraton St. Catharines Niagara Suites|Thorold|YES|stars_3
+150837|Super 8 Motel Three Hills AB|Three Hills|YES|stars_2
+150839|Days Inn Thunder Bay North|Thunder Bay|YES|stars_0
+150840|Super 8 Motel - Thunder Bay|Thunder Bay|YES|stars_2
+150841|Victoria Inn Thunder Bay|Thunder Bay|NO|stars_3
+150843|Howard Johnson Tillsonburg|Tillsonburg|YES|stars_2
+150844|Super 8 Timmins|Timmins|YES|stars_2
+150845|Timmins Inn|Timmins|YES|stars_2
+150846|Travelodge Timmins|Timmins|YES|stars_2
+150847|Pacific Sands Beach Resort|Tofino|YES|stars_3
+150848|Super 8 Toronto North Vaughan|Toronto|YES|stars_2
+150849|Super 8 Motel Toronto East|Scarborough|YES|stars_2
+150850|Isabella Hotel & Suites|Toronto|NO|stars_2
+150852|Knights Inn Toronto|Toronto|YES|stars_1.5
+150854|Econo Lodge Inn & Suites Downtown|Toronto|NO|stars_2
+150856|Madison Manor Boutique|Toronto|NO|stars_3
+150860|Windsor Arms|Toronto|NO|stars_5
+150862|Hilton Garden Inn Toronto Downtown|Toronto|YES|stars_3
+150864|Canadas Best Value Inn|Toronto|YES|stars_2
+150865|The Old Mill Toronto|Toronto|NO|stars_4
+150867|Courtyard Toronto Brampton|Toronto|NO|stars_3
+150868|Best Western Plus Columbia River Hotel|Trail|NO|stars_3.5
+150869|Canadas Best Value Inn|Trenton|YES|stars_2
+150870|Travelodge Trenton|Trenton|YES|stars_2
+150871|Super 8 Trois-Rivieres|Trois Rivieres|YES|stars_2.5
+150872|Super 8 Motel - Truro, Ns|Truro|YES|stars_2
+150874|Premier Mountain Lodge & Suites|Valemount|NO|stars_2
+150877|Moda|Vancouver|NO|stars_3
+150878|Sunset Inn & Suites|Vancouver|NO|stars_2.5
+150880|Carmana Plaza|Vancouver|NO|stars_3
+150881|Loden|Vancouver|NO|stars_4
+150882|The Sylvia|Vancouver|NO|stars_3
+150883|Club Intrawest Vancouver|Vancouver|NO|stars_4
+150885|La Grande Residence|Vancouver|NO|stars_4.5
+150886|Chateau Vaudreuil|Vaudreuil|NO|stars_4
+150887|Novotel Toronto Vaughan Centre|Vaughan|NO|stars_3
+150888|Residence Inn Toronto Vaughan|Vaughan|NO|stars_3
+150889|Extended Stay Canada - Toronto - Vaughan|Vaughan|NO|stars_3
+150890|Super 8 Motel - Vermilion|Vermilion|YES|stars_0
+150892|The Outback Resort|Vernon|NO|stars_4
+150893|Strand Lakeside Resort|Vernon|YES|stars_4
+150895|Super 8 Motel - Vernon, BC|Vernon|YES|stars_2
+150896|Super 8 Motel - Saanichton Victoria Airport|Victoria|YES|stars_2
+150899|Island Travel Inn|Victoria|NO|stars_2.5
+150900|Capital City Center|Victoria|NO|stars_3
+150902|The Arbutus Inn|Victoria|NO|stars_2
+150904|Comfort Hotel & Conference Centre|Victoria|NO|stars_3
+150905|A Haterleigh Heritage Inn|Victoria|NO|stars_3
+150906|Helm's Inn|Victoria|NO|stars_2
+150907|The Oswego|Victoria|NO|stars_4
+150908|Bedford Regency Hotel|Victoria|NO|stars_2.5
+150909|Union Club of British Columbia|Victoria|NO|stars_3
+150911|Victoria Regent|Victoria|NO|stars_3
+150912|Howard Johnson Victoria Elk Lake|Victoria|YES|stars_3
+150915|Four Points by Sheraton Victoria Gateway|Victoria|YES|stars_3
+150918|Days Inn Wallaceburg|Wallaceburg|YES|stars_2
+150920|Four Points by Sheraton Waterloo-Kitchener|Waterloo|YES|stars_3
+150921|Best Western Plus Rose City Suites|Welland|NO|stars_3.5
+150923|Ramada Westlock|Westlock|YES|stars_2.5
+150925|Super 8 Motel - Wetaskiwin|Wetaskiwin|YES|stars_2
+150926|Travelodge Weyburn|Weyburn|YES|stars_0
+150927|Ramada Weyburn|Weyburn|YES|stars_3
+150928|Mountainside Lodge Whistler|Whistler|NO|stars_3
+150930|Tyndall Stone Lodge|Whistler|NO|stars_3
+150931|ResortQuest by Town Plaza - Deer Lodge / Bear Lodge / Eagle Lodge|Whistler|NO|stars_3
+150932|Sundial Boutique Hotel|Whistler|NO|stars_4
+150936|Whiski Jack at Ironwood|Whistler|NO|stars_3
+150937|Whistler Places - Valhalla|Whistler|NO|stars_3
+150938|Powder's Edge|Whistler|NO|stars_3
+150939|Snowbird|Whistler|NO|stars_3
+150941|Village Gate House|Whistler|NO|stars_3
+150942|Whiski Jack at Creekside|Whistler|NO|stars_3
+150944|Whiski Jack at Village Centre|Whistler|NO|stars_3
+150945|Whiski Jack at Whistlerview|Whistler|NO|stars_3
+150953|Pacific Inn|White Rock|NO|stars_2.5
+150954|Ocean Promenade|White Rock|NO|stars_2.5
+150956|Super 8 Motel Whitecourt|Whitecourt|YES|stars_2
+150957|Ramada Williams Lake|Williams Lake|YES|stars_3
+150958|Super 8 Motel - Williams Lake|Williams Lake|YES|stars_0
+150959|Coast Fraser Inn|Williams Lake|NO|stars_3
+150960|Super 8 Windsor|Windsor|YES|stars_3
+150961|Holiday Inn Windsor Downtown|Windsor|NO|stars_3
+150962|Super 8 Windsor|Windsor|YES|stars_2
+150963|Comfort Inn & Suites Ambassador Bridge|Windsor|NO|stars_2
+150965|Caesars Windsor|Windsor|NO|stars_4
+150967|Club Regent Casino Hotel by Canad Inns|Winnipeg|NO|stars_3
+150968|Norwood|Winnipeg|NO|stars_3
+150969|Travelodge Winnipeg East|Winnipeg|YES|stars_2
+150970|The Marlborough|Winnipeg|NO|stars_2.5
+150971|The Fort Garry|Winnipeg|NO|stars_3
+150972|Place Louis Riel Suite|Winnipeg|NO|stars_3
+150975|Inn At The Forks|Winnipeg|YES|stars_4
+150976|Canad Inns Polo Park|Winnipeg|NO|stars_3
+150977|Holiday Inn Winnipeg Airport - Polo Park|Winnipeg|NO|stars_3
+150979|Four Points by Sheraton Winnipeg Airport|Winnipeg|YES|stars_3
+150980|Victoria Inn and Conference Center|Winnipeg|YES|stars_3
+150981|Viscount Gort|Winnipeg|NO|stars_3
+150982|Howard Johnson Express Inn - Winnipeg West|Winnipeg|YES|stars_2
+150985|Canad Inns Fort Garry|Winnipeg|NO|stars_3
+150986|Holiday Inn Express Hotel & Suites Woodstock|Woodstock|NO|stars_2
+150991|Rodd Grand Yarmouth|Yarmouth|NO|stars_3
+150992|Coast Fraser Tower|Yellowknife|YES|stars_3
+150993|The Yellowknife Inn|Yellowknife|YES|stars_3
+150994|Super 8 Motel - Yellowknife|Yellowknife|YES|stars_2
+150995|Capital Suites Yellowknife|Yellowknife|NO|stars_2.5
+150996|Ramada Yorkton|Yorkton|NO|stars_3
+150997|Howard Johnson Inn Yorkton|Yorkton|YES|stars_2
+151000|Rundle Manor Apartment - geschlossen|Banff|NO|stars_2.5
+151001|Senator|Saskatoon|NO|stars_3
+151002|Microtel Inn & Suites Parry Sound|Parry Sound|YES|stars_0
+151004|Americas Best Value Inn Gardens Inn|Niagara Falls|NO|stars_2
+151005|Super 8 St-Jerome|Saint-Jérôme|YES|stars_2
+158176|Cambridge Hotel & Conference Centre|Cambridge|NO|stars_3
+163446|CopperStone Resort|Canmore|YES|stars_3.5
+163448|Hearthstone Lodge at Sun Peaks Resort|Sun Peaks|YES|stars_3
+182179|Monte Carlo Inn - Barrie Suites|Barrie|YES|stars_3
+183176|Snow Creek Lodge|Fernie|NO|stars_3
+183177|The Sutton Place - Revelstoke Mountain Resort|Revelstoke|YES|stars_4
+183324|L'Oiseliere Montmagny|Montmagny|NO|stars_3
+183325|Holloway Inn & Suites|Grand Prairie|NO|stars_3
+183327|Econo Lodge Canmore|Canmore|NO|stars_2
+183329|Universel|Quebec City|NO|stars_3
+183332|Best Western Plus Wine Country Hotel & Suites|Kelowna|NO|stars_3.5
+183333|Chieftain Hotel|Squamish|NO|stars_3
+183335|Quality Fallsview Cascade Inn|Niagara Falls|NO|stars_2.5
+183336|Imperial Inn 1000 Islands|Gananoque|NO|stars_3
+183337|Lincoln Motor Inn Fallsview|Niagara Falls|NO|stars_2
+183338|Howard Johnson Quebec Hall|Quebec City|YES|stars_3
+183339|Travelodge  Slave Lake|Slave Lake|NO|stars_2
+183340|Argyll Plaza|Edmonton|NO|stars_3
+187398|Europeenne|Montreal|NO|stars_2
+187400|Auberge Place d'Armes|Quebec City|NO|stars_3
+187401|Des Coutellier|Quebec City|NO|stars_3
+187403|Cassandra Hotel|Vancouver|YES|stars_2
+187404|Luxury Residences on Georgia|Vancouver|NO|stars_3
+187410|Admiral Inn Niagara Falls|Niagara Falls|NO|stars_2
+187411|Americas Best Value Inn & Suites Chalet Inn|Niagara Falls|YES|stars_2
+187414|Motel 6 Saskatoon|Saskatoon|YES|stars_0
+187418|Holiday Inn Express Grande Prairie|Grand Prairie|NO|stars_2
+187419|Motel 6 Medicine Hat|Medicine Hat|YES|stars_2
+187420|Best Western Plus Red Deer Inn & Suites|Red Deer|NO|stars_3.5
+187421|Motel 6 Red Deer|Red Deer|YES|stars_2
+187423|Travelodge Gananoque|Gananoque|NO|stars_2
+187447|Motel 6 Huntsville|Huntsville|YES|stars_2
+187486|Motel 6 London|London|YES|stars_2
+187514|Motel 6 Toronto - Mississauga|Mississauga|NO|stars_2
+187527|Motel 6 Toronto - Brampton|Brampton|YES|stars_2
+187546|Rodd Charlottetown|Charlottetown|NO|stars_4.5
+187563|Motel 6 Peterborough|Peterborough|YES|stars_1
+187565|Best Western Capilano Inn & Suites|North Vancouver|NO|stars_2
+187567|Wescana Inn|The Pas|NO|stars_3
+187580|Motel 6 Stony Plain|Stony Plain|YES|stars_2
+187744|Mohawk Inn and Conference Centre|Campbellville|NO|stars_2
+187771|Ranchland Motel|Kamloops|NO|stars_2
+188848|2400 Motel Vancouver|Vancouver|NO|stars_1.5
+188854|Abri du Voyageur|Montreal|NO|stars_2
+188858|Alberta Place Suite Edmonton geschlossen|Edmonton|NO|stars_2
+188860|Algonquin Residence Ottawa|Ottawa|NO|stars_2
+188863|Ambassador Sudbury|Sudbury|NO|stars_3
+188866|Amethyst Inn At Regents Park Victoria|Victoria|NO|stars_3
+188869|Anne Ma Soeur Anne|Montreal|NO|stars_3
+188876|Au Bois Jolit|Mont Tremblant|NO|stars_3
+188877|Hébergement Mont-Sainte-Anne Le Massif - Au Pied du Mont / Village Touristique|Beaupre|NO|stars_3
+188878|Auberge Aux deux Lions|Quebec City|NO|stars_3
+188884|Auberge du Carre St Louis|Montreal|NO|stars_3
+188886|Auberge du Mange Grenouille|Le Bic|NO|stars_3
+188887|Auberge du Trappeur|Wentworth|NO|stars_3
+188889|Auberge Handfield & Spa Saint Marc sur Richelieu|Saint-Marc-sur-Richelieu|NO|stars_3
+188891|Auberge Kan-A-Mouche|Saint-Michel-des-Saints|NO|stars_2.5
+188898|Auberge Madeli|Cap-aux-Meules|NO|stars_3
+188899|Auberge Manoir Ville Marie Montreal|Montreal|NO|stars_2
+188900|Villégiature Matawinie|Saint-Michel-des-Saints|NO|stars_3
+188901|Auberge Michel Doyon Quebec City|Quebec City|NO|stars_2
+188909|Baker Creek Chalets Lake Louise|Lake Louise Village|NO|stars_3
+188925|Econo Lodge & Suites Hinton|Hinton|NO|stars_2
+188928|Bon Accueil Montreal|Montreal|NO|stars_2
+188939|Campus Tower|Edmonton|YES|stars_3
+188940|Canad Inns Garden City Winnipeg|Winnipeg|NO|stars_3
+188941|Canadas Best Value Inn Calgary|Calgary|YES|stars_2
+188942|Canadas Best Value Inn Prince George|Prince George|YES|stars_2
+188943|Canadian Inn Surrey|Surrey|NO|stars_1
+188949|Casa De Mateo|Montreal|NO|stars_2
+188952|Days Inn Calgary Northwest|Calgary|NO|stars_2.5
+188954|Causeway Bay Linkletter Hotel Summerside|Summerside|NO|stars_2
+188957|Cedarwood Inn & Suites Sidney|Sidney|NO|stars_2.5
+188958|Centennial College Residence Toronto|Toronto|NO|stars_2
+188965|Chateau Louis Edmonton|Edmonton|YES|stars_0
+188966|Château Madelinot|Cap-aux-Meules|NO|stars_3
+188967|Chateau Repotel Henri IV|Quebec City|NO|stars_2.5
+188969|Cheribourg Convention & Spa Orford|Orford|NO|stars_4
+188970|Chez Marineau - Hôtel des 10|Shawinigan|NO|stars_2
+188973|Chinook & Oasis Motel|Kelowna|NO|stars_2.5
+188977|Club Intrawest Hotel Whistler|Whistler|NO|stars_3
+188978|Coast Coal Harbour Vancouver|Vancouver|YES|stars_4
+188982|Colonial Resort|Gananoque|NO|stars_3
+188986|Côté Nord Tremblant|Mont Tremblant|NO|stars_4
+188990|Cox Bay Beach Resort Tofino|Tofino|NO|stars_3.5
+188991|Cranberry Resort Collingwood|Collingwood|NO|stars_3
+188993|Crystal Star Inn LeDuc|Leduc|NO|stars_2
+188994|Crystals View Bed and Breakfast North Vancouver|North Vancouver|NO|stars_4
+188996|Days Inn Athabasca|Athabasca|NO|stars_2
+188999|De L'Institut Montreal|Montreal|NO|stars_4
+189006|Diplomat Inn Niagara Falls|Niagara Falls|NO|stars_2
+189014|Durham College/UOIT Residence - South Village|Oshawa|NO|stars_2
+189016|Econo Lodge City Centre Kingston|Kingston|NO|stars_2
+189025|Estrimont Suites & Spa|Orford|NO|stars_3.5
+189028|Executive Express LeDuc|Leduc|NO|stars_3
+189031|Sunchaser Vacation Villas at Fairmont|Fairmont Hot Springs|NO|stars_3
+189036|Fiddler Lake Resort Mille Isles|Mille-Isles|NO|stars_3.5
+189037|Fireside Lodge Sun Peaks|Sun Peaks|NO|stars_3
+189039|Fitzsimmons|Whistler|NO|stars_2.5
+189041|Four Points by Sheraton Airport Toronto West Mississauga|Mississauga|YES|stars_3
+189043|Gananoque Inn & Spa|Gananoque|NO|stars_3
+189050|Glacier Mountaineer Lodge|Golden|YES|stars_3
+189052|Gladstone Toronto|Toronto|NO|stars_3
+189057|Howard Johnson Port Alberni|Port Alberni|YES|stars_2
+189059|Haida Harbourside Inn Campbell River|Campbell River|NO|stars_2
+189060|Hampton Inn & Suites Barrie|Barrie|NO|stars_3
+189061|Hampton Inn & Suites Halifax Dartmouth|Dartmouth|NO|stars_3
+189062|Harbour House Niagara-on-the-Lake|Niagara on the Lake|NO|stars_4
+189064|Harrison Village Motel Harrison Hot Springs|Harrison Hot Springs|NO|stars_1.5
+189075|Holiday Inn Express Hotel & Suites Brockville|Brockville|NO|stars_3
+189076|Holiday Inn Express Kingston|Kingston|NO|stars_2
+189081|Chateau Joliette|Quebec City|YES|stars_3
+189082|Chicoutimi|Chicoutimi|NO|stars_3
+189085|Du Nord|Quebec City|NO|stars_2
+189086|Le Manoir Baie Comeau|Baie-Comeau|NO|stars_3
+189088|Stastny Plaza|Saint-Nicolas|NO|stars_3
+189089|Ste-Catherine|Montreal|NO|stars_1
+189092|Howard Johnson Ridgetown|Ridgetown|YES|stars_2
+189093|Northwoods Inn & Suites|Saskatoon|NO|stars_2.5
+189094|Knights Inn Toronto Scarborough|Toronto|NO|stars_2
+189101|Imperia Hotel & Suites|Saint-Eustache|NO|stars_3.5
+189102|Inn at Clifftop Lane Whistler|Whistler|NO|stars_3
+189106|Jardins de Ville Hotellerie|Sherbrook|NO|stars_3
+189114|Kings Inn Midland|Midland|NO|stars_2
+189115|Knights Inn Fredericton|Fredericton|NO|stars_2
+189119|Estérel Suites, Spa & Lake|Estérel|NO|stars_4
+189123|La Residence du Voyageur|Montreal|NO|stars_2
+189126|Lakeside Country Inn Savona|Savona|NO|stars_2
+189127|Laurie's Motor Inn Cheticamp|Cheticamp|NO|stars_3
+189131|Le Chamois Whistler|Whistler|NO|stars_3
+189132|Le Chateauguay|Beauport|NO|stars_2
+189133|Le Comte|Baie-Comeau|YES|stars_3
+189134|Le Dauphin|Drummondville|NO|stars_3
+189141|Le Petit Manoir Du Casino La Malbaie|La Malbaie|NO|stars_3
+189144|Le Saint Malo|Montreal|NO|stars_2
+189149|Les Studios Hotel Montreal|Montreal|NO|stars_1.5
+189150|Lido Motel & Suites|Laval|NO|stars_2
+189151|Howard Johnson Montreal|Montreal|YES|stars_2
+189152|Lindbergh|Quebec City|NO|stars_3
+189153|Loft Jacques-Cartier|Montreal|NO|stars_3.5
+189158|Mamateek Inn Corner Brook|Corner Brook|NO|stars_2
+189160|Manoir Ambrose Montreal|Montreal|NO|stars_2
+189161|Manoir d'Youville|Montreal|NO|stars_2
+189165|Manoir Des Sables Golf & Hotel Magog|Magog|NO|stars_3.5
+189174|The Met New Westminister|New Westminster|NO|stars_2
+189175|Best Western Plus Woodstock Inn & Suites|Woodstock|NO|stars_3
+189176|Millcroft Inn & Spa|Alton|NO|stars_4
+189177|Miraloma on the Cove|Sidney|YES|stars_4
+189179|Mohawk Residence|Hamilton|NO|stars_2
+189189|Motel des Pays d'En Haut|Val-David|NO|stars_2
+189193|Kelowna Inn & Suites|Kelowna|NO|stars_2
+189194|Mountain Springs Resort Collingwood|Collingwood|NO|stars_3
+189198|Niagara College Residence NOTL Campus|Niagara on the Lake|NO|stars_2
+189199|Niagara College Residence Welland Campus|Welland|NO|stars_2
+189201|Northstar Mountain Village|Kimberley|NO|stars_3
+189202|Notre Hotel|Alma|NO|stars_3
+189203|Nuvo Hotel & Suites|Calgary|NO|stars_3
+189204|Oakville Inn|Oakville|NO|stars_2
+189207|Oban Inn & Spa Niagara-on-the-Lake|Niagara on the Lake|NO|stars_4
+189209|Oceanside|Vancouver|NO|stars_2
+189211|L'Express|Longueuil|NO|stars_2
+189213|Inn on the Twenty|Jordan|NO|stars_3
+189214|Petawawa River Inn & Suites|Petawawa|NO|stars_2
+189219|Painted Boat Resort Madeira Park|Madeira Park|NO|stars_4
+189220|Palace Royal Quebec City|Quebec City|NO|stars_4
+189221|Paradise Lodge and Bungalows Lake Louise|Lake Louise Village|NO|stars_3
+189222|Parc Suites Montreal|Montreal|NO|stars_3
+189223|The Parkside Hotel & Spa|Victoria|NO|stars_4
+189227|The Peninsula Inn & Resort|Niagara Falls|NO|stars_3
+189229|Motel Pignons Rouges|Montreal|NO|stars_2
+189236|Polar Peak Townhome Lodges Fernie|Fernie|NO|stars_3.5
+189237|Polaris Lodge|Kimberley|NO|stars_3
+189238|Pomeroy Inn & Suites Chetwynd|Chetwynd|NO|stars_3
+189239|Pomeroy Inn & Suites Dawson Creek|Dawson Creek|NO|stars_3
+189244|Premier Suites And Inn Lethbridge|Lethbridge|NO|stars_2
+189245|President Motor Inn Niagara Falls|Niagara Falls|NO|stars_1
+189255|Red Pine Inn Alliston|Alliston|NO|stars_3
+189257|Regent Inn Revelstoke|Revelstoke|NO|stars_3
+189259|Residence Inn Gravenhurst Muskoka Wharf|Gravenhurst|NO|stars_3
+189260|Residences Universitaires UQAM East|Montreal|NO|stars_2
+189261|Residences Universitaires UQAM West|Montreal|NO|stars_1.5
+189262|Glacier's Reach|Whistler|NO|stars_3
+189263|ResortQuest Marketplace Lodge|Whistler|NO|stars_2.5
+189271|Riverland Inn & Suites|Kamloops|NO|stars_3
+189273|Rivera Hotel On Robson|Vancouver|NO|stars_2
+189293|Seneca Residence & Conference Centre Toronto|Toronto|NO|stars_1.5
+189295|Shaw Club|Niagara on the Lake|YES|stars_4
+189296|Sheridan College Residence - Davis Campus|Brampton|NO|stars_1.5
+189297|Sheridan College Residence - Trafalgar Campus|Oakville|NO|stars_1.5
+189299|Silver Creek Lodge Canmore|Canmore|NO|stars_3
+189300|Silver Dart Lodge Baddeck|Baddack|NO|stars_3
+189303|Skky Whitehorse|Whitehorse|NO|stars_3
+189309|St Lawrence Residences & Suites Toronto|Toronto|NO|stars_1.5
+189310|St. Clair College Residence|Windsor|NO|stars_2
+189314|Stanford Inn Fernie|Fernie|NO|0
+189315|Stanley Bridge Country Resort Kensington|Kensington|NO|stars_3
+189316|Stay Mont Royal Montreal|Montreal|NO|stars_2
+189317|Sterling Inn & Spa|Niagara Falls|NO|stars_4
+189318|Stone Willow Inn Saint Marys|St. Marys|NO|stars_3
+189323|Peterborough Inn & Suites Hotel|Peterborough|NO|stars_2.5
+189329|Sunset Inn Niagara Falls|Niagara Falls|NO|stars_1.5
+189333|Super 8 Valemount|Valemount|YES|stars_2
+189334|Swans Suites Hotel|Victoria|NO|stars_3.5
+189340|The Lake Placid Condominiums Whistler|Whistler|NO|stars_2.5
+189344|Thompson Rivers University Residence Kamloops|Kamloops|NO|stars_2
+189348|Royal Napanee Inn|Napanee|NO|stars_2
+189352|Timberline Lodges Fernie|Fernie|NO|stars_3
+189356|Traveller's Inn Westerner Alberton|Alberton|NO|stars_2
+189357|Fireside Inn Hotel & Conference Centre|Castlegar|NO|stars_2
+189364|Travelodge Thunder Bay|Thunder Bay|YES|stars_2
+189369|Twin Peaks Hotel Whistler|Whistler|NO|0
+189371|Hôtel Universel|Alma|NO|stars_4
+189373|Victorian Hotel Vancouver|Vancouver|NO|stars_2
+189374|Victoria's Mansion Guest House Toronto|Toronto|NO|stars_2.5
+189377|Village Touristique Beaupre|Beaupre|NO|stars_4
+189379|Manoir St-Castin Villegia|Beauport|NO|stars_3
+189385|Wellesley Manor Boutique Toronto - geschlossen|Toronto|YES|stars_2
+189392|Wildwood Lodge by Peak to Green Accommodations|Whistler|NO|stars_3
+189398|YWCA Hotel Vancouver|Vancouver|NO|stars_2.5
+201329|Fairmont Pacific Rim|Vancouver|YES|stars_5
+201330|A. MacDonald Country Inn|St. Peter|NO|stars_3
+201348|Westin Wall Centre Vancouver Airport|Richmond|YES|stars_4
+201355|Victoria Rose Inn|Gananoque|NO|stars_3
+201359|Mariner King Inn|Lunenburg|NO|stars_4
+201360|Orient B&B|Victoria-by-the-Sea|NO|stars_4
+201965|Tidal Watch Inn|St.Martins|NO|stars_3
+201966|Windigo Village|Ferme-Neuve|NO|stars_3
+202494|Hilton Garden Inn Toronto Airport|Mississauga|YES|stars_3
+203151|Mountain Spirit Resort & Spa|Kimberley|YES|stars_4
+203241|Bella Coola's Coast Mountain Lodge|Bella Coola|NO|stars_4
+203896|Admiral Inn|Victoria|NO|stars_2
+205495|Auberge Fleurs de Lune|La Malbaie|NO|stars_3
+205955|Beausejour Apartments|Dorval|YES|stars_3
+206802|Canada Suites Yorkville|Toronto|NO|stars_3
+207283|Chateau Mont-Sainte-Anne|Beaupre|YES|stars_4
+207623|Comfort Suites Kelowna|Kelowna|NO|stars_3
+208826|Ellis House Bed & Breakfast|Niagara Falls|NO|stars_2
+209092|Falcon Inn|Niagara Falls|NO|stars_2
+211898|James Bay Hotel & Suites|Victoria|NO|stars_2
+212917|Le Granbyen|Granby|NO|stars_2.5
+212949|Le Louisbourg|Quebec City|NO|stars_3
+213407|Fallsview Lodge|Niagara Falls|NO|stars_2
+214279|Motel 6 Toronto East - Whitby|Whitby|YES|stars_2
+214280|Motel 6 Toronto West - Burlington/Hamilton|Burlington|NO|stars_2
+215552|Pinnacle Hotel at the Pier|North Vancouver|NO|stars_4
+218045|Siesta Inn|Kelowna|NO|stars_2
+218371|Stardust Inn Motel|Niagara Falls|NO|stars_2
+221233|Auberge des Gallant|Rigaud|NO|stars_4
+221235|Auberge du Draveur|Maniwaki|NO|stars_3
+221451|Capri Inn|St. Catharines|NO|stars_2
+226546|Grande Rockies Resort|Canmore|YES|stars_4
+227111|Hampton Inn by Hilton Toronto Airport Corporate Centre|Toronto|YES|stars_3
+227429|Hilton Garden Inn Toronto Airport West Mississauga|Mississauga|YES|stars_3
+227432|Thompson Toronto|Toronto|NO|stars_4
+228172|The Ritz-Carlton Toronto|Toronto|NO|stars_5
+228179|FireLight Lodge|Silver Star|NO|stars_4
+228181|Sundance Resort|Big White|NO|stars_4
+228220|Evolution|Whistler|NO|stars_4
+228389|Bull River Guest Ranch|Cranbrook|NO|stars_3
+228501|Sunshine Mountain Lodge|Banff|NO|stars_3
+228974|Watermark Beach Resort|Osoyoos|YES|stars_4
+229443|Motel 6 Niagara Falls|Niagara Falls|YES|stars_2
+230272|Homewood Suites Toronto Airport Corporate Centre|Toronto|NO|stars_3
+232057|Ocean Resort|Campbell River|NO|stars_2
+232058|Coast Chilliwack|Chilliwack|YES|stars_3.5
+232081|Clode Sound Motel|Charlottetown|NO|stars_2
+232148|Boardwalk|Canmore|NO|stars_4
+232154|Solara Resort & Spa|Canmore|NO|stars_4
+232155|Residence Inn Kingston Water's Edge|Kingston|NO|stars_3
+232164|Smuggler's Cove Inn|Lunenburg|NO|stars_3
+232165|Ripplecove Lakefront Hotel|Sherbrook|NO|stars_4
+232360|The Aspens at Kicking Horse|Golden|NO|stars_3.5
+232361|Whispering Pines|Golden|NO|stars_3
+232822|Le Germain Calgary|Calgary|NO|stars_4
+232858|Canadas Best Value Inn & Suites Charlottetown|Charlottetown|YES|stars_2
+232860|Econo Lodge|Kelowna|NO|stars_2
+233222|King Edward|Banff|NO|stars_2
+233223|Service Plus Inns and Suites|Calgary|NO|stars_3
+233224|Superlodge Lethbridge|Lethbridge|NO|stars_2
+233225|Grouse Inn|North Vancouver|NO|stars_2.5
+234091|Americas Best Inn and Suites|Niagara Falls|NO|stars_2
+234094|Courtyard Edmonton West|Edmonton|NO|stars_3
+234095|Fairfield Inn & Suites Sault Ste. Marie|Sault Sainte Marie|NO|stars_2
+234096|Hampton Inn & Suites by Hilton Lethbridge|Lethbridge|NO|stars_2.5
+234097|Holiday Inn Express Hotel & Suites Saint - Hyacinthe|Saint Hyacinthe|NO|stars_3
+234098|Motel 6 Grande Prairie|Grand Prairie|YES|stars_2
+234099|Motel 6 Moncton|Moncton|NO|stars_2
+234100|Pacific Host Inn & Suites|Kamloops|NO|stars_3
+234540|Snowbird Lodge at Silver Star|Silver Star|NO|stars_3
+235329|Sandman Hotel & Suites Calgary South|Calgary|NO|stars_3
+235330|Sandman Signature Hotel & Resorts Edmonton South|Edmonton|NO|stars_3.5
+235331|Sandman Signature Hotel & Resorts Prince George|Prince George|NO|stars_3.5
+235576|Best Western Premier Freeport Inn & Suites|Calgary|NO|stars_4
+235970|Best Western Plus South Edmonton Inn & Suites|Edmonton|NO|stars_3.5
+236073|Best Western Plus Liverpool Hotel & Conference Centre|Liverpool|NO|stars_3.5
+236718|Complexe Hotelier Pelchat Chaine|Les Escoumins|NO|stars_3
+236743|Auberge Du Fort Prevel|Saint-Georges-de-Malbaie|NO|stars_3
+236969|Trump International Hotel & Tower Toronto|Toronto|NO|stars_5
+238513|Howard Johnson Kelowna|Kelowna|YES|stars_2
+238763|Providence Place Inn|Port Hardy|NO|stars_2
+239264|Days Inn Grande Prairie|Grand Prairie|YES|stars_3
+239265|Hampton Inn By Hilton North Bay|North Bay|NO|stars_3
+239267|Hampton Inn Suites By Hilton Hamilton/Brantford|Brantford|NO|stars_3
+239272|Holiday Inn Red Deer South|Red Deer|NO|stars_3
+239276|Howard Johnson North Ridge Inn|Edson|YES|stars_2
+239278|Towneplace Suites Sudbury|Sudbury|NO|stars_3
+239863|Sandman Abbotsford|Abbotsford|NO|stars_3
+241241|Sweet Dreams Luxury Inn|Abbotsford|NO|stars_3.5
+241243|Comfort Inn & Suites Airdrie|Airdrie|NO|stars_2.5
+241245|Monte Cristo Hotel & Suites|Ancienne Lorette|NO|stars_2
+241256|Auberge A L'Ancrage|Baie-Saint-Paul|NO|stars_3
+241258|Auberge La Muse|Baie-Saint-Paul|NO|stars_3
+241267|L'Estampilles|Baie-Saint-Paul|NO|stars_3
+241271|Banff Y Mountain Lodge|Banff|NO|stars_2
+241272|Bumpers Inn|Banff|NO|stars_2
+241274|Homestead Inn Banff|Banff|NO|stars_2
+241288|Cape View Motel|Mavillette|NO|stars_2
+241289|Econo Lodge St. Apollinaire|St. Apollinaire|NO|stars_2
+241293|Horseshoe Bay Motel|Vancouver|NO|stars_2
+241294|Knights Inn Kemptville|Ottawa|YES|stars_2
+241295|Le Victorin|Victoriaville|NO|stars_3
+241304|Pomeroy Inn & Suites Grimshaw|Grimshaw|NO|stars_2
+241307|Super 8 Duncan|Duncan|YES|stars_2
+241315|Holiday Inn Express Hotel & Suites Clarington Bowmanville|Bowmanville|NO|stars_2
+241316|Days Inn Brampton|Brampton|NO|stars_2
+241317|Canadas Best Value Inn Burlington|Burlington|YES|stars_2
+241318|401 Inn|Burnaby|NO|stars_2
+241320|Alma|Calgary|NO|stars_3
+241321|Centro Motel|Calgary|NO|stars_2
+241323|Four Points by Sheraton Calgary Airport|Calgary|YES|stars_3
+241325|The Opal|Calgary|NO|stars_3
+241327|The Ovation|Calgary|NO|stars_3.5
+241328|Four Points by Sheraton Cambridge Kitchener|Cambridge|YES|stars_3
+241332|Rocky Mountain Ski Lodge|Canmore|NO|stars_2
+241333|Stoneridge Mountain Resort|Canmore|NO|stars_4
+241341|Canadas Best Value Inn & Suites Summerside|Summerside|YES|stars_2
+241342|Holiday Inn Express & Suites Chatham South|Chatham|NO|stars_2
+241352|Royal|Chilliwack|NO|stars_3
+241353|Vedder River Inn|Chilliwack|YES|stars_2
+241360|Lake City Motel|Dartmouth|NO|stars_2
+241366|Marriott Montreal Airport|Dorval|NO|stars_4
+241367|Motel Drummond|Drummondville|NO|stars_2.5
+241370|Days Inn Edmonton South|Edmonton|YES|stars_2
+241371|Hampton Inn By Hilton Edmonton South|Edmonton|NO|stars_2.5
+241372|Holiday Inn Express & Suites Edmonton South|Edmonton|NO|stars_3
+241374|Travelodge Edmonton East|Edmonton|YES|stars_2
+241375|Yellowhead Motor Inn|Edmonton|NO|stars_2
+241376|Econo Lodge Edson|Edson|NO|stars_2
+241379|Clearwater Suite Hotel|Fort McMurray|NO|stars_3
+241380|Franklin Suite Hotel|Fort McMurray|NO|stars_2
+241382|Stonebridge Fort St John|Fort Saint John|NO|stars_3
+241386|Les Suites Victoria|Gatineau|NO|stars_2.5
+241387|Motel Du Chevalier|Gatineau|NO|stars_2
+241388|Days Inn Golden|Golden|NO|stars_3
+241395|Howard Johnson Hamilton|Hamilton|YES|stars_2
+241396|Howard Johnson Inn Hearst|Hearst|YES|stars_2
+241397|Best Western Plus Mirage Hotel & Resort|High Level|NO|stars_3.5
+241405|Astoria|Jasper|NO|stars_2
+241406|Glacier View Inn|Jasper|NO|stars_3
+241407|Acadian Motor Inn|Kamloops|NO|stars_2
+241408|Alpine Motel|Kamloops|NO|stars_2
+241409|Country View Motor Inn|Kamloops|NO|stars_2
+241410|Dream Lodge Kamloops|Kamloops|NO|stars_3
+241413|Holiday Inn & Suites Kamloops|Kamloops|NO|stars_3
+241416|Maverick Motor Inn|Kamloops|NO|stars_2
+241418|Scott's Inn|Kamloops|NO|stars_3
+241419|Trans Canada Motel|Kamloops|NO|stars_2
+241420|Super 8 Kapuskasing|Kapuskasing|NO|stars_2
+241423|Mission Park Inn|Kelowna|NO|stars_2
+241424|Playa Del Sol Resort|Kelowna|NO|stars_4
+241425|Ubc Okanagan Campus|Kelowna|NO|stars_1.5
+241426|Holiday Inn Express & Suites Kincardine Downtown|Kincardine|NO|stars_3
+241428|Courtyard Kingston Highway 401 Division Street|Kingston|NO|stars_3
+241430|Motel 6 Kingston|Kingston|YES|stars_2
+241431|Conestoga Residence & Conference Centre|Kitchener|NO|stars_2
+241433|Ramada Lac La Biche|Lac La Biche|YES|stars_2
+241434|Quality Hotel & Suites|Langley|NO|stars_2
+241435|Travelodge Lethbridge|Lethbridge|NO|stars_2
+241438|Kennedy|Lévis|NO|stars_2
+241439|Econo Lodge Lloydminster|Lloydminster (Saskatchewan)|NO|stars_2
+241440|Super 8 London|London|YES|stars_2
+241441|Metro|London|NO|stars_3.5
+241443|Chateau Logue Golf & Resort|Maniwaki|NO|stars_3
+241446|Monte Carlo Inn & Suites Downtown Markham|Markham|YES|stars_3
+241447|Knights Inn Merritt|Merritt|NO|stars_2
+241449|Casino New Brunswick|Moncton|YES|stars_3
+241451|Midtown Motel & Suites|Moncton|NO|stars_2
+241452|L'Hotel St James|Moncton|NO|stars_3
+241472|Chez Swann|Montreal|NO|stars_3.5
+241480|Le Petit|Montreal|NO|stars_3
+241482|Le St Martin Particulier Centre-ville|Montreal|NO|stars_4
+241483|Le Majestic|Montreal|NO|stars_3.5
+241486|Quartier Des Spectacles|Montreal|NO|stars_2
+241487|Stay Centre Ville|Montreal|NO|stars_2
+241492|University Bed and Breakfast|Montreal|NO|stars_2
+241493|Auberge Le Lupin|Mont Tremblant|NO|stars_3
+241494|Auberge Le Voyageur|Mont Tremblant|NO|stars_3
+241496|Au Petit Marigot|Mont Tremblant|NO|stars_3
+241497|Gite La Tremblante|Mont Tremblant|NO|stars_3
+241498|Gite Le Roupillon|Mont Tremblant|NO|stars_3
+241499|Le Pimbina|Mont Tremblant|NO|stars_3
+241500|Les Dames Du Lac|Mont Tremblant|NO|stars_3
+241503|Maple View|Nanaimo|NO|stars_3
+241504|Holiday Inn Express Ottawa West - Nepean|Ottawa|NO|stars_3
+241505|Corporate Inn|New Westminster|NO|stars_2.5
+241565|A Night To Remember|Niagara Falls|NO|stars_3
+241574|Aston Villa Motel|Niagara Falls|NO|stars_2
+241578|Blue Moon Motel|Niagara Falls|NO|stars_2
+241580|Crystal Inn|Niagara Falls|NO|stars_2
+241581|Empress Inn & Suites|Niagara Falls|NO|stars_2
+241597|Chateau Saint John, Ascend Collection|Saint John|NO|stars_3
+241598|Hampton Inn & Suites by Hilton Red Deer|Red Deer|NO|stars_2.5
+241609|Niagara Parkway Court Motel|Niagara Falls|NO|stars_2
+241615|Weatherpine Inn|Niagara on the Lake|NO|stars_3
+241616|Villa Alexandrea|Niagara Falls|NO|stars_3
+241617|Two Rivers Bed And Breakfast|Niagara Falls|NO|stars_3
+241618|Tropicana Inn|Niagara Falls|NO|stars_2
+241619|Three Diamond Inn|Niagara Falls|NO|stars_2
+241621|Susan's Villa|Niagara Falls|NO|stars_4
+241625|Riverbend Inn & Vineyard|Niagara on the Lake|NO|stars_3
+241630|6 Oak Haven|Niagara on the Lake|NO|stars_3
+241633|Ramada Olds|Olds|NO|stars_2.5
+241661|Cornerstone Lodge at Fernie Alpine Resort|Fernie|NO|stars_3
+242622|The Queen Anne Inn|Annapolis Royal|NO|stars_4
+242651|Sparkling Hill Resort|Vernon|NO|stars_4
+243521|Days Inn Dawson Creek|Dawson Creek|YES|stars_2
+243523|Howard Johnson Inn Sarnia|Sarnia|YES|stars_2
+243524|The Gables Inn|Sarnia|NO|stars_2
+243525|Holiday Inn & Suites Surrey East - Cloverdale|Surrey|NO|stars_3
+243526|Ramada Wainwright|Wainwright|YES|stars_2
+243614|Tweedsmuir Park Lodge|Bella Coola|NO|stars_3.5
+243631|Killarney Lodge|Algonquin Provincial Park|NO|stars_3
+243808|Algonquin Moon Bed & Breakfast|Huntsville|NO|stars_3
+243810|The Meldrum Bay Inn|Manitoulin Island|NO|0
+243816|Dalvay by the Sea|Little York|NO|stars_4
+243823|Hunter House Inn|Alberton|NO|stars_3.5
+243845|Louisbourg Harbour Inn Bed & Beakfast|Louisbourg|NO|stars_4
+244742|Knights Inn|Midland|NO|stars_2
+246028|Holiday Inn Hotel & Suites Saskatoon Downtown|Saskatoon|NO|stars_3
+246309|Holiday Inn Express Deer Lake|Deer Lake|NO|stars_2
+246820|Holiday Inn Express & Suites Dawson Creek|Dawson Creek|NO|stars_2
+247472|Fairfield Inn & Suites Winnipeg|Winnipeg|NO|stars_3
+247628|Best Western Rimstone Ridge Hotel|Rimbey|NO|stars_3
+247629|Best Western Premier Prestige Oceanfront Resort|Sooke|NO|stars_3
+249471|Comfort Inn & Suites Barrie / Essa Road|Barrie|NO|stars_2
+249474|Hampton Inn by Hilton Fort Saskatchewan|Fort Saskatchewan|NO|stars_2.5
+249477|Comfort Hotel Bayer's Lake|Halifax|NO|stars_3
+249485|Quality Inn & Convention Centre|Medicine Hat|NO|stars_3
+249486|Econo Lodge Montmagny|Montmagny|NO|stars_2
+249504|MainStay Suites East Edmonton/Sherwood Park|Sherwood Park|NO|stars_3
+249505|Sandman Hotel & Suites Squamish|Squamish|NO|stars_3
+249506|MainStay Suites Winnipeg|Winnipeg|NO|stars_2.5
+249703|Residence Inn Calgary Airport|Calgary|NO|stars_3
+250159|Econo Lodge|Woodstock|NO|stars_2
+253323|Admiral Digby Inn|Digby|NO|stars_3
+253324|Ascendence Harbourside Mansion B&B|Halifax|NO|stars_4
+254459|Alan Gardens Bed and Breakfast|Toronto|NO|stars_2
+254460|The Ivy at Verity|Toronto|NO|stars_4
+254462|Studio 6 Toronto Downtown|Toronto|YES|stars_1.5
+254465|Albert Pimblett's Downtown Toronto Bed/Breakfast|Toronto|NO|stars_2
+254467|A Suite Dreams Toronto B&B|Toronto|NO|stars_3
+254469|Canada Suites on Bay|Toronto|NO|stars_3.5
+254470|Le Germain Maple Leaf Square|Toronto|NO|stars_4
+254804|Whistler Town Plaza by Latour Hotels|Whistler|NO|stars_3
+254806|Whistler Luxury Condos|Whistler|NO|stars_4
+254808|Our Whistler Retreat - Montebello|Whistler|NO|stars_3.5
+254809|Whiski Jack at Woodrun|Whistler|NO|stars_3
+254810|Golden Dreams B&B|Whistler|NO|stars_2
+254812|Courtyard Calgary Airport|Calgary|NO|stars_3
+254813|Wingate by Wyndham - Calgary|Calgary|YES|stars_3
+254816|Chateau St-Marc|Montreal|NO|stars_3.5
+254818|La Renaissance Dorchester|Montreal|NO|stars_2
+254819|Montreal Luxury Appartment|Montreal|NO|stars_3
+254820|Gingerbread Manor|Montreal|NO|stars_2
+254822|Days Inn - Montreal Downtown|Montreal|YES|stars_3
+254823|Auberge Maison Roy|Quebec City|NO|stars_2
+254824|Château des Tourelles|Quebec City|NO|stars_3
+254825|Residences Universite Laval|Quebec City|NO|stars_2
+254826|L'Auberge Le Vincent|Quebec City|NO|stars_3.5
+254828|Bonaparte|Quebec City|NO|stars_2.5
+254830|Residence de la Cite|Quebec City|NO|stars_2
+254831|Douceurs Belges Inn|Quebec City|NO|stars_3
+254833|L'Ermitage|Quebec City|NO|stars_2
+254835|Gîte le 812|Quebec City|NO|stars_1
+254836|Sunnyside Bed and Breakfast|Ottawa|NO|stars_2
+254837|Courtyard Ottawa East|Ottawa|NO|stars_3
+254838|Saint Paul University Residence & Conference Centre|Ottawa|NO|stars_2
+254839|Downtown Bed & Breakfast & Spa|Ottawa|NO|stars_2
+254840|Quality Inn Orleans|Ottawa|NO|stars_2
+254841|The Burrard|Vancouver|NO|stars_3
+254843|AAA Catherine's Bed and Breakfast|Vancouver|NO|stars_2
+254844|Kingston Hotel Bed And Breakfast|Vancouver|NO|stars_2
+255068|Walper|Kitchener|NO|stars_3
+255070|Bluecrest Bed and Breakfast|Niagara Falls|NO|stars_3
+255071|Days Inn Niagara Falls Centre Street by the Falls|Niagara Falls|YES|stars_2
+255072|Redwood Bed and Breakfast|Niagara Falls|NO|stars_3
+255075|Knights Inn Niagara Falls Lundys Lane|Niagara Falls|NO|stars_2
+255076|Howard Johnson Fort Howe Plaza|Saint John|YES|stars_3
+255077|Hillside Motel|Saint John|NO|stars_1
+255078|Hillcrest Motel|Saint John|NO|stars_2
+255079|Colonial Inn Saint John|Saint John|NO|stars_2
+255080|Chipman Hill Suites|Saint John|NO|stars_3
+255081|Homeport Historic Bed & Breakfast/Inn c 1858|Saint John|NO|stars_3
+255083|Whiskey Point Resort|Campbell River|NO|stars_2
+255085|Super 8 100 Mile House Bc|101 Mile House|YES|stars_2
+255088|Tiki Shores|Penticton|NO|stars_2
+255090|Prince Motel|Prince George|NO|stars_2
+255091|Tall Trees Bed & Breakfast|Prince Rupert|NO|stars_3
+255092|The Inn on College|Saskatoon|NO|stars_2
+255093|Four Points by Sheraton Saskatoon|Saskatoon|YES|stars_3
+255094|Super 8 Saskatoon West|Saskatoon|NO|stars_2.5
+255095|Saskatoon Inn|Saskatoon|NO|stars_3
+255096|Homesuites by d3h|Regina|YES|stars_2
+255097|Days Inn - Regina Airport West|Regina|NO|stars_2
+255099|Eagle Nook Resort & Spa|Ucluelet|NO|stars_3.5
+255100|The He-Tin-Kis Lodge|Ucluelet|NO|stars_3
+255101|Hemingway's By the Sea|Victoria|NO|stars_3
+255102|Spinnakers Brew Pub & Guest Houses|Victoria|NO|stars_3
+255103|Fisher House Bed & Breakfast|Victoria|NO|stars_3
+255104|Royal Pacific Charters & Suites|Victoria|NO|stars_2
+255106|Prior House B&B Inn|Victoria|NO|stars_3
+255107|Hotel Rialto|Victoria|NO|stars_3.5
+255109|Humboldt House B&B|Victoria|NO|stars_3
+255111|Sherwood Inn and Motel|Charlottetown|NO|stars_2
+255114|Rundle Cliffs Lodge|Canmore|NO|stars_3
+255115|The Drake Inn|Canmore|NO|stars_2.5
+255116|Platinum Suites|Canmore|NO|stars_3.5
+255130|Howard Johnson Inn Vernon|Vernon|YES|stars_2
+255131|Road Runner Motel|Merritt|NO|stars_2
+255132|Waterfront Suites and Marina|Nanaimo|NO|stars_2
+255133|Oceanside Village Resort|Parksville|NO|stars_3
+255135|Chateau Moncton, Ascend Collection|Moncton|NO|stars_3
+255136|Howard Johnson Inn Moncton|Moncton|YES|stars_2
+255137|Dolan's Inn & Suites|Pictou|NO|stars_3
+255138|The Lionstone Inn|Pictou|NO|stars_2
+255141|Le Boisé du Lac|Mont Tremblant|NO|stars_2
+255142|Escale du Nord|Mont Tremblant|NO|stars_4
+255144|Vacances Tremblant|Mont Tremblant|NO|stars_3
+255145|Les Falaises Ski-in Ski-out Condo|Mont Tremblant|NO|stars_3
+255146|L'Urbania|Trois Rivieres|YES|stars_3
+255147|Le Deauville|Trois Rivieres|NO|stars_2
+255150|Mid-Town Hotel|Parry Sound|NO|stars_2
+255152|Canadas Best Value Inn Belleville|Belleville|YES|stars_2
+255156|Imperial Fireside Inn|Sudbury|NO|stars_2
+255158|Belmont Inn|Sudbury|NO|stars_2
+255159|Moonlight Inn & Suites|Sudbury|NO|stars_2
+255161|Valley Inn Motel Hotel|Sudbury|NO|stars_2
+255346|Imperial Inn|Medicine Hat|NO|stars_2
+255348|Kingfisher Oceanside Resort and Spa|Courtenay|NO|stars_3
+255349|Kootenay Country Inn|Cranbrook|NO|stars_2
+255350|Sportsman Lodge|Golden|NO|stars_2.5
+255351|Winston Lodge|Golden|NO|stars_3
+255352|Rondo Motel|Golden|NO|stars_2
+255353|Riverside Motel|Port Alberni|NO|stars_2
+255354|Somass Motel|Port Alberni|NO|stars_2
+255355|Delta Residences at Sun Peaks|Sun Peaks|YES|stars_4
+255356|Kookaburra Lodge|Sun Peaks|NO|stars_3
+255357|Trails Edge|Sun Peaks|NO|stars_3
+255358|Stones Throw|Sun Peaks|NO|stars_3
+255359|Crystal Forest|Sun Peaks|NO|stars_3
+255362|Airport Inn|Fredericton|NO|stars_2
+255363|The Franklin Hotel|St. John's|NO|stars_3
+255364|Little Lake Inn|Midland|NO|stars_3
+255366|Le Saint-Germain|Rimouski|NO|stars_2
+255367|Motel Au Vieux Piloteux|Riviere Du Loup|NO|stars_2
+255368|Grand Times|Sherbrook|NO|stars_4
+255369|Wishing Well Historic Cottage|Niagara on the Lake|NO|stars_3
+255370|Silver Maple Bed & Breakfast|Niagara on the Lake|NO|stars_3
+255371|Cloudside Inn|Nelson|NO|stars_2
+255907|Red Tree Lodge|Fernie|NO|stars_3
+255908|Powder Mountain Lodge|Fernie|NO|stars_2
+255909|Pine Inn at Panorama Mountain Village|Panorama|NO|stars_1
+255935|Chalet Continental|Valemount|NO|stars_2
+255936|Alpine Inn|Valemount|NO|stars_2
+255937|Ramada Valemount|Valemount|NO|stars_2
+255952|Gros Morne Suites|Gros Morne National Park|NO|stars_3
+255953|Bell Mountain Motel Mcbride|McBride|NO|stars_2
+255954|Hotel Motel Panorama de Perce|Perce|NO|stars_2
+255955|Hôtel Le Florimay|Montmagny|NO|stars_2
+255956|L'Auberge Au Petit Berger|La Malbaie|NO|stars_3
+256099|Le Versailles|St. Sauveur des Monts|NO|stars_3.5
+256100|Le Relais St-Denis|St. Sauveur des Monts|NO|stars_3
+256101|Auberge Sous L'Édredon|St. Sauveur des Monts|NO|stars_3
+256151|Bel-air Motel|Sault Sainte Marie|NO|stars_2
+256152|The Algonquin|Sault Sainte Marie|NO|stars_2
+256153|Echo Valley Ranch And Spa|Jesmond|NO|stars_4
+256157|Auberge du Saumonier Lodge|Gaspe|NO|stars_3
+256369|Brigantine Inn & Suites|Lunenburg|NO|stars_3
+256432|The Hotel at River Rock|Richmond|NO|stars_4
+256477|Sullivan Stone Lodge|Kimberley|NO|stars_3
+256478|Rocky Condos|Kimberley|NO|stars_3
+256479|Trickle Creek Condos|Kimberley|NO|stars_3
+256533|Bayview inn|Orillia|NO|stars_1.5
+256606|Osler House|Hamilton|NO|stars_4
+256607|Glenerin Inn|Mississauga|NO|stars_3
+256608|Fairfield Inn & Suites Toronto Mississauga|Mississauga|NO|stars_3
+256668|Au Domaine des Neiges|Beaupre|NO|stars_3
+256669|Club Vacances Toutes Saisons|Beaupre|NO|stars_3
+256679|Hilton Garden Inn Toronto/Brampton|Brampton|NO|stars_3
+256764|Musgrave Agencies Hospitality Inns and Suites|Fort Saskatchewan|NO|stars_3
+256790|Royal Inn and Suites|Guelph|NO|stars_2
+257150|North Adventure Inn|Cochrane|NO|stars_3
+257289|Travelodge Kapuskasing|Kapuskasing|NO|stars_2
+257290|Tropical Inn Hotel & Convention Center|Lloydminster (Saskatchewan)|NO|stars_3
+257291|Knights Inn Moose Jaw|Moose Jaw|NO|stars_2
+257292|Wakamow Heights Bed & Breakfast|Moose Jaw|NO|stars_3
+257293|Thriftlodge Moose Jaw|Moose Jaw|YES|stars_2
+257371|Saxony Motel|Chatham|NO|stars_2
+257372|Sandman Signature|Langley|NO|stars_3
+257373|Hotel L'Oiseliere Levis|Lévis|NO|stars_3
+257374|Auberge Reve Blanc|Mont-Laurier|NO|stars_3
+257376|Quality Inn Rouyn-Noranda|Rouyn-Noranda|NO|stars_3
+257377|Deville Centre Hotelier|Rouyn-Noranda|NO|stars_3
+257380|Super 8 Sherwood Park/Edmonton Area|Sherwood Park|NO|stars_2
+257381|SpringHill Suites Toronto Vaughan|Vaughan|NO|stars_3
+257382|Homewood Suites Toronto Vaughan|Vaughan|NO|stars_3.5
+257383|Motel & Chalet Waterloo|Shefford|NO|stars_2
+257454|Markham House|Sooke|NO|stars_4
+257456|Sooke Harbour Resort & Marina|Sooke|NO|stars_3
+257457|Ocean Wilderness Inn|Sooke|NO|stars_3
+257507|Bras d'Or Lakes Inn|St. Peter|NO|stars_3
+257547|White Sea Resort|Manitoulin Island|NO|stars_2
+257569|Bonnyville Neighbourhood Inn|Bonnyville|NO|stars_3
+257571|Howard Johnson Kincardine|Kincardine|YES|stars_0
+257572|Hilton Garden Inn Edmonton International Airport|Leduc|NO|stars_3
+257573|Beacon Inn at Sidney B&B|Sidney|NO|stars_3
+257670|Ramada Plaza Le Manoir du Casino|Gatineau|YES|stars_3
+257708|Quality Inn & Suites|Victoriaville|NO|stars_2
+257709|Comfort Inn & Suites|Sylvan Lake|NO|stars_2
+257719|Springs Motor Inn|Wainwright|NO|stars_2
+257745|The Dragonfly Inn|Annapolis Royal|NO|stars_2
+257746|Annapolis Royal Inn|Annapolis Royal|NO|stars_2
+257830|Riverside Resort Motel & Campground|Qualicum Beach|NO|stars_2
+257831|Howard Johnson Plaza Hotel Windsor|Windsor|YES|stars_2
+257832|Towne and Country Motel|Windsor|NO|stars_2
+257834|Nakoda On the Lake Spa Lodge and Conference Centre|Seebe|NO|stars_3
+257867|Hebert Hotel|Becancour|NO|stars_2.5
+257869|Econo Lodge Inn & Suites|Drumheller|NO|stars_2
+257870|Super 8 Estevan, SK|Estevan|NO|stars_2
+257899|Tropical Inn|North Battleford|NO|stars_3
+257900|Travelodge North Battleford|North Battleford|NO|stars_2
+257901|Quality Hotel & Suites|Prince Albert|NO|stars_3
+257906|Auberge Escapade Inn|Shawinigan|NO|stars_3
+257915|Copper Point Resort|Invermere|NO|stars_4
+257978|Hotel & Spa Etoile-sur-le-Lac|Magog|NO|stars_3
+257979|Auberge Manoir Le Tricorne|North Hatley|NO|stars_3
+257992|Calabogie Peaks Resort|Calabogie|NO|stars_3
+257995|Auberge du Lac Morency|Saint Hippolyte|NO|stars_3
+258010|Days Inn High Prairie|High Prairie|NO|stars_3
+258054|The Waring House|Picton|NO|stars_3
+258194|Redwood Inn & Suites|Clairmont|NO|stars_2
+258195|Ramada Cold Lake|Cold Lake|NO|stars_2
+258206|Service Plus Inns & Suites Drayton Valley|Drayton Valley|NO|stars_3
+258246|Hotel Dauphin Saint Hyacinthe|Saint Hyacinthe|NO|stars_3
+258328|Seacliffe Inn|Leamington|NO|stars_2
+258329|Newmarket Inn|Newmarket|NO|stars_2
+258410|Lake Country Inn|Lake Country|NO|stars_2
+258411|Riverview Bed & Breakfast|Okotoks|NO|stars_3
+258412|Super 8 Ponoka AB|Ponoka|NO|stars_2
+258415|Stoneham Condos & Hôtel|Stoneham|YES|stars_2
+258416|Moulin Rouge Motel|Sturgeon Falls|NO|stars_2
+258417|Glenwood Motel|Trail|NO|stars_2
+258488|Quality Inn & Suites Petawawa|Petawawa|NO|stars_3
+258489|L'Oiseliere St-Nicolas|Saint-Nicolas|NO|stars_3
+258544|Rundle Ridge Chalets|Harvie Heights|NO|stars_2
+260187|Wyndham Garden Niagara Falls Fallsview Hotel|Niagara Falls|NO|stars_3
+261718|Shearwater Resort & Marina|Denny Island|NO|stars_2.5
+261722|Predator Ridge Resort|Vernon|YES|stars_3.5
+261725|Manitoulin Island Hotel & Conference Centre|Manitoulin Island|NO|stars_3
+261727|Shangri-La Hotel Toronto|Toronto|NO|stars_5
+261728|Aloft Vaughan Mills|Vaughan|YES|stars_3
+261729|Chic-Chocs Montagne Lodge|Cap-Chat|NO|stars_4
+264691|Scottish Inn & Suites Falls Way|Niagara Falls|YES|stars_2
+265699|Best Western Plus Ottawa/Kanata Hotel & Conference Centre|Ottawa|NO|stars_3
+265701|Best Western Williams Lake Hotel|Williams Lake|NO|stars_3
+271405|L'Intendant|Quebec City|NO|stars_3
+271406|Couette et Cafe Champlain|Quebec City|NO|stars_2
+272239|Heritage River Inn|Campbell River|NO|stars_2
+272259|Owen Sound Inn|Owen Sound|NO|stars_2
+276242|The Maple Inn|Parrsboro|NO|stars_3
+276250|The Kingswood B&B|St Andrews|NO|stars_3
+276491|Auberge La Rocaille|Shawinigan|NO|stars_2
+276492|Motel Des Deux Lacs Inc|Shefford|NO|stars_2
+277104|Le Manoir Lac-Etchemin|Lac-Etchemin|NO|stars_3
+277105|Bernieres|Saint-Nicolas|NO|stars_3
+279354|Toronto Furnished Apartments|Toronto|NO|stars_3
+279355|Making Waves Boatel|Toronto|NO|stars_3
+279480|Mountain Side Hotel Whistler by Executive|Whistler|NO|stars_3
+279481|Four Points by Sheraton Edmonton Gateway|Edmonton|YES|stars_3
+279482|Sands Hotel|Edmonton|NO|stars_3
+279484|N Hôtel Quebec|Quebec City|NO|stars_2
+279621|The James Hotel|Saskatoon|YES|stars_3
+279622|Super 8 Winnipeg East, MB|Winnipeg|YES|stars_2
+279624|Econo Lodge Vernon|Vernon|NO|stars_2
+279625|The Refuge Bed and Breakfast|Mont Tremblant|NO|stars_3
+279626|Excelsior Hotel Spa Villegiature|Sainte Adele|NO|stars_3
+279627|Cambrian Residence & Conference Centre|Sudbury|NO|stars_2
+279779|Quality Inn Quesnel|Quesnel|NO|stars_2
+279780|The Pinnacle Lodge|Sun Peaks|NO|stars_3
+279781|Valhalla Inn Thunder Bay|Thunder Bay|YES|stars_3
+279783|Le President|Sherbrook|NO|stars_4
+280762|Auberge du Vieux Foyer|Val-David|NO|stars_3
+282157|Staybridge Suites Hamilton - Downtown|Hamilton|NO|stars_3
+282158|ALT Hotel Toronto Pearson|Mississauga|NO|stars_3
+282340|Quality Inn & Suites Thompson|Thompson|NO|stars_2.5
+282677|Microtel Inn and Suites Estevan|Estevan|NO|stars_2
+282706|Comfort Inn & Suites|Fort Saskatchewan|NO|stars_2.5
+283553|Micro Boutique Living|Antigonish|NO|stars_3
+284361|Holiday Inn Express Hotel & Suites Bonnyville|Bonnyville|NO|stars_2
+284362|Days Inn Chetwynd|Chetwynd|NO|stars_2
+284363|Imperia Hotel & Suites Terrebonne|Terrebonne|NO|stars_3
+284866|MacKenzie|Inuvik|NO|stars_2.5
+284867|Parkside Inn|Haines Junction|NO|stars_3
+286262|Maryam Hotel North York|Toronto|NO|stars_2.5
+286264|Templar Hotel|Toronto|NO|stars_3.5
+286265|Urban Living Suites|Toronto|NO|stars_2
+286452|Clock Tower Resort|Whistler|NO|stars_4
+286493|Auberge de la Place Royale|Montreal|NO|stars_2.5
+286496|Motel Capri|Montreal|NO|stars_2
+286696|Pomeroy Inn & Suites Fort St John|Fort Saint John|NO|stars_3
+286697|Canadas Best Value Inn|Kelowna|YES|stars_2
+286700|Esther's Inn|Prince George|NO|stars_3
+286701|West Coast Mtl on the Harbour|Tofino|NO|stars_2
+286702|Whales Tail Guest Suites|Tofino|NO|stars_2
+286703|Econo Lodge Winnipeg|Winnipeg|NO|stars_2
+286704|Canadas Best Value Inn Downtown|Dawson City|YES|stars_2
+286705|The Holman Grand Hotel|Charlottetown|NO|stars_3
+286729|Hotel Mont Tremblant|Mont Tremblant|NO|stars_3
+286731|Auberge a la Croisee des Chemins|Mont Tremblant|NO|stars_3
+286732|Motel Ours Bleu|Lac-Saguay|NO|stars_2
+286733|Travelway Inn Sudbury|Sudbury|YES|stars_0
+286734|Lakeshore Suites|North Bay|NO|stars_2
+286890|Motel 6 Brandon|Brandon|YES|stars_2
+286891|Wakefield Mill Hotel & Spa|Gatineau|NO|stars_4
+286892|Motel 6 Swift Current SK|Swift Current|YES|stars_2
+287452|Motel & Restaurant de La Plage|Montmagny|NO|stars_2.5
+287470|Canadas Best Value Inn|Huntsville|YES|stars_2
+287471|Motel Bavaria|Radium Hot Springs|NO|stars_2
+287472|Piccadilly Motel Golf Suites|Radium Hot Springs|NO|stars_2.5
+287607|Discovery Inn|Yellowknife|NO|stars_3.5
+288051|Seelys Motel|Shediac|NO|stars_2
+288314|Stone Gate Inn|Orillia|NO|stars_3
+288994|Intercity Motel|Burnaby|NO|stars_2
+289089|Auberge La Grande Maison|Baie-Saint-Paul|NO|stars_3
+289111|Econo Lodge Brooks|Brooks|NO|stars_2
+289183|Motel 6 Claresholm Ab|Claresholm|YES|stars_2
+289202|Beach Grove Motel|Delta|NO|stars_2
+289251|Motel 6 Estevan Sk|Estevan|YES|stars_2
+289252|Suburban Extended Stay Hotel Estevan|Estevan|NO|stars_2
+289484|Red Mountain Resort Lodging|Rossland|NO|stars_4
+289492|Quality Inn And Suites Val Dor|Val D'Or|NO|stars_3
+289925|Nova Inn Slave Lake|Slave Lake|NO|stars_3
+289926|Mystic Isle Motel|Wawa|NO|stars_2
+289927|Travelodge Meadow Lake|Meadow Lake|NO|stars_2
+290910|Norsemen Inn|Camrose|YES|stars_3
+290914|Gite La Marmotte|Magog|NO|stars_4
+290915|Spa Eastman|Magog|NO|stars_3.5
+291517|The Tundra Inn|Churchill|NO|stars_2
+291748|Esquire Motel|Bedford|NO|stars_2
+291917|Hotel DeOro|Lillooet|NO|stars_2
+291918|Margaree Riverview Inn|Margaree Forks|NO|stars_2
+291919|Westway Inn Motel|Neepawa|NO|stars_2
+291920|Refuge du Faubourg|Saint Ferreol les Neiges|NO|stars_3
+292491|Pomeroy Inn And Suites|Edmonton|NO|stars_3
+293452|Christina Lake Village Resort|Grand Forks|NO|stars_2
+293773|Super 8 Red Lake|Red Lake|NO|stars_2
+294841|Canadas Best Value Inn|Lillooet|YES|stars_2
+294929|Motel 6 Moosomin SK|Moosomin|YES|stars_0
+295528|Knights Inn Angus|Angus|NO|stars_2
+295531|Huff Estates|Picton|NO|stars_3
+295533|Timber House Country Inn Resort|Brighton|YES|stars_3
+295535|Ramada Carlyle SK|Carlyle|NO|stars_3
+295538|Kokanee Springs Resort|Crawford Bay|NO|stars_3
+295539|Ramada Creston|Creston|NO|stars_3
+295541|Elkwater Lake Lodge and Resort|Elkwater|NO|stars_3
+295543|A Seafaring Maiden|Granville Ferry|NO|stars_3
+295546|Motel 6 Headingley|Winnipeg|YES|stars_2
+295547|Surfside Inn|Queensland|NO|stars_3
+295653|Ramada Cochrane|Cochrane|YES|stars_2
+295654|Four Points by Sheraton Levis Convention Centre|Lévis|NO|stars_3.5
+295696|Georgina Resort and Conference Centre|Georgina|NO|stars_3
+295698|Jordan House|Jordan|NO|stars_3
+295699|Residence & Conference Centre - King City|Richmond Hill|NO|stars_2
+295702|Hill Island Resort|Lansdowne|NO|stars_2
+295703|Howard Johnson Lindsay|Kawartha Lakes|YES|stars_2
+295705|Howard Johnson Melville|Melville|YES|stars_3
+295706|Hampton Inn by Hilton Sydney|Sydney|NO|stars_3
+295709|Canadas Best Value Inn Port Colborne|Port Colborne|YES|stars_2
+295710|LakeBreeze Niagara Bed & Breakfast|Port Colborne|NO|stars_3
+295711|A1-Lakeview B&B|Porters Lake|NO|stars_3
+295712|Le Finlandais Spa & Hôtel|Rosemere|NO|stars_3
+295714|Evergreen Gate Bed and Breakfast|Selkirk|NO|stars_3
+295715|Dragonfly Dock Bed and Breakfast|Shawnigan Lake|NO|stars_3
+295717|Hi Valley Motor Inn|Valleyview|NO|stars_1.5
+295718|Fox Harbor Golf Resort And Spa|Wallace|NO|stars_4
+295720|Riverview Lodge|Wasaga Beach|NO|stars_2
+295721|Donato House|Wasaga Beach|NO|stars_2
+295723|Windermere House|Windermere|NO|stars_4
+295724|Viamede Resort|Woodview|NO|stars_3
+295788|Tod Mountain Ranch|Kamloops|NO|stars_3
+295836|Auberge La Goeliche|Ile D'Orleans|NO|stars_3
+295977|Chalets & Spa Lac Saint-Jean|Chambord|NO|stars_3
+295978|Auberge Couleurs de France|Duhamel|NO|stars_3
+296229|Holiday Inn Express Waterloo - St. Jacobs Area|Waterloo|NO|stars_2
+296478|Les Suites Tremblant - Le Kandahar|Mont Tremblant|YES|stars_4
+296826|Elk Ridge Resort|Waskesiu Lake|NO|stars_4
+296827|Maison Tait House|Shediac|NO|stars_3
+296905|Motel Vue Belvedere|Saint-Siméon|NO|stars_2
+298948|Heron's Landing Hotel|Campbell River|NO|stars_2
+298972|Maison de Vebron|L'Anse-Saint-Jean|NO|stars_3
+299071|Manor Guest House|Vancouver|NO|stars_3
+299072|Camilla House Bed & Breakfast|Vancouver|NO|stars_2
+301191|La Ferme|Baie-Saint-Paul|NO|stars_4
+301280|Shediac|Shediac|YES|stars_3
+319765|Beacon Hill Motel|Ottawa|NO|stars_2
+320581|Rainbow Bed And Breakfast|Niagara Falls|NO|stars_3
+320635|Bow Valley Motel|Canmore|NO|stars_2
+321160|Golden Village Inn|Golden|YES|stars_0
+324971|Parkway Motel|London|NO|stars_2
+363263|Alt Hotel Halifax Stanfield Airport|Enfield|NO|stars_3
+365366|Element Vaughan Southwest|Vaughan|YES|stars_3
+365369|Four Points by Sheraton Edmonton International Airport|Nisku|YES|stars_3
+365370|Four Points by Sheraton Kelowna Airport|Kelowna|YES|stars_3
+366595|Days Inn & Suites|Yorkton|NO|stars_2
+368153|Hampton Calgary Airport North|Calgary|NO|stars_2
+368154|Elan|Calgary|NO|stars_4
+368155|Radisson Hotel Conference Ct|Calgary|NO|stars_3
+368157|Renaissance Edmonton Airport|Edmonton|NO|stars_4
+368158|Travelodge Spruce Grove|Edmonton|NO|stars_2
+368164|Courtyard Downtown Marriott|Montreal|NO|stars_3
+368172|Residence Inn Airport Marriott|Ottawa|NO|stars_3
+368173|English Bay Inn|Vancouver|NO|stars_4
+368383|Bayside Inn And Waterfront Suites|Kingston|NO|stars_2
+368395|Colonial Square Inn And Suites|Saskatoon|YES|stars_2
+368397|Bw Plus Winnipeg West|Winnipeg|NO|stars_3
+368398|Canad Inns Health Sciences Centre|Winnipeg|NO|stars_3
+368399|Days Inn And Suites Winnipeg|Winnipeg|NO|stars_2
+368400|Hampton Inn By Hilton Winnipeg Airport|Winnipeg|NO|stars_2.5
+368409|Fairfield Inn & Suites Vernon|Vernon|NO|stars_3
+368411|Fairfield Inn & Suites Moncton|Moncton|NO|stars_3
+368414|Hotel Montfort Nicolet|Trois Rivieres|NO|stars_3
+368415|Canadas Best Value Inn & Suites - Parry Sound|Parry Sound|YES|stars_2
+368566|Home Inn And Suites - Swift Current|Swift Current|YES|stars_2
+368575|Hume Hotel|Nelson|NO|stars_4
+370177|Hampton Inn by Hilton Toronto/Brampton|Brampton|NO|stars_3
+370225|Hampton By Hilton Chilliwack Bc|Chilliwack|NO|stars_2.5
+370266|Quality Hotel Drumheller|Drumheller|NO|stars_2
+370298|Holiday Inn Express & Suites Fort Saskatchewan|Fort Saskatchewan|NO|stars_2
+370368|Holiday Inn Express & Suites Timmins|Timmins|NO|stars_3
+370369|Microtel Inn & Suites By Wyndh|Timmins|NO|stars_2
+370486|Holiday Inn Express Pembroke|Pembroke|NO|stars_2
+370488|Hôtel Forestel|Val D'Or|NO|stars_3.5
+370797|The Waddell|Port Hope|YES|stars_0
+370857|Super 8 Peace River Ab|Peace River|NO|stars_2
+370977|Robins Inn-waasis|Oromocto|NO|stars_2
+370978|La Quinta Inn Ste Oshawa|Oshawa|NO|stars_2.5
+370981|Howard Johnson Strathmore|Strathmore|YES|stars_2
+370984|Days Inn & Suites Whitecourt|Whitecourt|NO|stars_2
+370985|Quality Inn Winkler|Winkler|NO|stars_2
+371464|Parkway Motel|Pincher Creek|NO|stars_2
+371584|Olds Pomeroy Inn And Suites|Olds|NO|stars_2
+371880|Knights Inn Lindsay|Lindsay|NO|stars_1
+372256|Ramada Conklin|Conklin|NO|stars_2
+372259|Comfort Inn And Suites Fox Creek|Fox Creek|NO|stars_2
+372267|Quality Inn Siuthhampton|Southampton|NO|stars_2
+372470|Sandman Signature|Kamloops|NO|stars_3.5
+372491|Northern Lights Resort & Spa|Whitehorse|NO|stars_3
+384022|Lion Motel|Cornwall|NO|stars_2
+391662|Microtel Inn & Suites Weyburn|Weyburn|NO|stars_2
+391663|Microtel Inn & Suites Blackfalds/Red Deer|Blackfalds|NO|stars_2
+391943|Fernie Slopeside Lodge|Fernie|NO|stars_2
+399645|Homewood Suites by Hilton Calgary-Airport|Calgary|NO|stars_3
+399646|Homewood Suites by Hilton Winnipeg Airport-Polo Park|Winnipeg|NO|stars_3
+399648|Hampton Inn & Suites by Hilton St. John's Airport|St. John's|NO|stars_2
+399710|Hotel-Motel La Vigie|Matane|NO|stars_2
+399711|Motel La Marina|Matane|NO|stars_2
+399725|Delta Waterloo|Waterloo|NO|stars_4
+399728|Homewood Suites by Hilton Hamilton Ontario|Hamilton|NO|stars_3.5
+399739|Homewood Suites by Hilton Ajax|Ajax|NO|stars_3
+400895|Le Chabrol Hotel & Suites|Montreal|NO|stars_3
+400896|Podollan Rezi-dence Grande Prairie|Grand Prairie|NO|stars_3
+401169|Home Inn & Suites Yorkton|Yorkton|YES|stars_3
+401545|Holiday Inn Express & Suites Calgary NW - University Area|Calgary|NO|stars_2
+401550|TownePlace Suites Thunder Bay|Thunder Bay|NO|stars_2
+401583|Homewood Suites by Hilton Waterloo/St. Jacobs|Waterloo|NO|stars_3
+401707|The Beverley|Toronto|YES|stars_3
+401737|Comfort Suites Saskatoon|Saskatoon|NO|stars_2
+401738|Sleep Inn|Regina|NO|stars_2
+401742|Mere|Winnipeg|NO|stars_3
+401743|Banff Gate Mountain Resort|Dead Man's Flats|NO|stars_2
+401749|Holiday Inn Express Golden-Kicking Horse|Golden|NO|stars_2
+401754|Panorama Vacation Retreat at Horsethief Lodge|Panorama|NO|stars_3
+401756|Hinton Lodge|Hinton|NO|stars_2
+401846|Holiday Inn Express Yorkton East|Yorkton|NO|stars_3
+401893|Econo Lodge|Taber|NO|stars_2
+404555|Home2 Suites by Hilton West Edmonton|Edmonton|NO|stars_3
+405176|Mystery Lake|Thompson|YES|stars_0
+406015|Hotel De La Borealie|Saint Felicien|NO|stars_2
+406016|Wya Point Resort|Ucluelet|NO|stars_3
+407305|Delta Toronto|Toronto|NO|stars_4
+408650|ALT Hotel Montreal Griffintown|Montreal|NO|stars_3
+408806|Super 8 Brockville|Brockville|NO|stars_2
+408810|Staybridge Suites West Edmonton|Edmonton|NO|stars_3
+408811|Ramada Emerald Park/Regina East|Regina|NO|stars_2.5
+408815|The Terrace View B & B|Lansdowne|NO|stars_3
+408816|Super 8 Lloydminster|Lloydminster (Saskatchewan)|NO|stars_2
+408820|BLU Vancouver|Vancouver|NO|stars_4
+408821|Courtyard Winnipeg Airport|Winnipeg|NO|stars_4
+411082|Super 8 Red Deer|Red Deer|YES|stars_2
+411958|Hampton Inn & Suites by Hilton Regina East Gate|Regina|NO|stars_3
+411976|Hampton Inn & Suites by Hilton Toronto Markham|Markham|NO|stars_3
+412981|TownePlace Suites Red Deer|Red Deer|NO|stars_2
+412983|TownePlace Suites Toronto Northeast/Markham|Markham|NO|stars_3
+413131|Ridgeback Lodge|Kingston|NO|stars_3
+413453|Griz Inn|Fernie|NO|stars_3
+413878|Skwachays Lodge|Vancouver|NO|stars_2
+414427|Le Cantilie Suites|Montreal|NO|stars_4

@@ -1,0 +1,1385 @@
+7072|Acimo & Topas - Acimo|Saas-Fee|NO|stars_2.5
+7401|Allalin|Saas-Fee|NO|stars_4
+7404|Allegra|Pontresina|NO|stars_3
+7463|Alpenrose|Wilderswil|NO|stars_2
+7481|Alpine Lodge|Gstaad|NO|stars_3
+7925|Sheraton Neues Schloss|Zurich|YES|stars_4
+8035|Art Deco Montana|Lucerne|YES|stars_4
+8658|Beau Rivage|Geneva|YES|stars_5
+8660|Beau Site|Adelboden|NO|stars_3.5
+8752|Bellevue|Seelisberg|NO|stars_3
+8773|Belvedere|Bad Scuol / Scuol/ Schuls|NO|stars_4
+9271|Brienz|Brienz|NO|stars_3
+9293|Best Western Bristol|Bern|NO|stars_4
+9295|Bristol|Geneva|YES|stars_4
+9428|Cadro Panoramica|Lugano|NO|stars_4
+9683|Capitole|Geneva|YES|stars_3
+10736|Continental Parkhotel|Lugano|NO|stars_3
+10959|Cresta|Savognin|NO|stars_3.5
+10970|Cristallo|Arosa|NO|stars_4
+11224|De la Paix|Lugano|YES|stars_4
+11398|Best Western des Balances|Lucerne|NO|stars_4
+11400|Four Seasons Des Bergues|Geneva|NO|stars_5
+11588|Dolder Grand|Zurich|YES|stars_5
+11854|Edelweiss|Bellwald|NO|stars_3
+11858|Edelweiss|Geneva|YES|stars_3
+12278|Etoile|Saas-Fee|NO|stars_3
+12324|Pullman Basel Europe|Basel|YES|stars_4
+12824|Flora Alpina|Vitznau|NO|stars_3
+13124|Garni Alba|Locarno|NO|stars_3
+13172|Novotel Geneve Centre|Geneva|NO|stars_4
+13875|Hecht|Appenzell|NO|stars_3
+13884|Heiden|Heiden|NO|stars_4
+13906|Helmhaus Swiss Quality Zürich|Zurich|YES|stars_4
+13935|Hermitage Seehotel|Lucerne|NO|stars_4
+14050|Hirschen|Interlaken|NO|stars_3
+14051|Hirschen|Wildhaus|NO|stars_3
+14083|Holiday|Zermatt|NO|stars_3
+14618|Ibis Zürich City West|Zurich|YES|stars_2
+15057|Jeanne D'Arc|Crans Montana|NO|0
+15539|Haus Kristall Appartements|Saas-Almagell|NO|stars_2.5
+15554|Krone Unterstrass|Zurich|YES|stars_4
+15831|Laaxerhof|Laax|NO|stars_4
+16020|Laudinella|St. Moritz|NO|stars_3
+16120|Le Mont Paisible|Crans Montana|NO|stars_3
+16223|Leoneck|Zurich|NO|stars_3
+16373|Heliopark Hotels & Alpentherme Leukerbad|Leukerbad|YES|stars_4
+16569|Swiss Quality Lugano Dante Center|Lugano|YES|stars_4
+17399|Metropol Swiss Quality|Basel|YES|stars_4
+17433|Michelangelo - geschlossen|Ascona|YES|stars_4
+17496|AlaGare|Lausanne|YES|stars_3
+17497|Crystal|Lausanne|YES|stars_3
+17668|Monte Rosa Aparthotel|Täsch|YES|stars_4
+17836|Hotel Les Nations|Geneva|YES|stars_3
+18483|Palace Luzern|Lucerne|YES|stars_5
+18733|Parco Paradiso|Lugano|NO|stars_4
+19793|Radisson Blu Basel|Basel|YES|stars_4
+20196|Residence Edelweiss|Saas-Balen|NO|stars_3
+20217|Residence Marigny Club|Crans Montana|NO|stars_2.5
+20300|Sorell Rex|Zurich|YES|stars_3
+20343|Leonardo Rigihof Zürich|Zurich|YES|stars_4
+20635|Best Western Rothaus|Lucerne|YES|stars_3
+20644|Parkhotel Rovio|Rovio|NO|stars_3
+20694|Manotel Royal|Geneva|YES|stars_4
+20847|Säntis Unterwasser|Unterwasser|NO|stars_4
+21154|Sasso Boretto|Ascona|NO|stars_4
+21178|Savoy|Bern|NO|stars_4
+21215|Scheuble|Zurich|YES|stars_3
+21368|Seehotel Waldstätterhof Swiss Quality|Brunnen|YES|stars_4
+21668|Silvretta Park-Hotel|Klosters|NO|stars_4
+21786|Continental Zurich|Zurich|YES|stars_4
+22036|Sport|Saas-Fee|NO|stars_3
+22162|Steigenberger Bellerive au Lac|Zurich|YES|stars_4
+22225|Mercure Stoller|Zurich|NO|stars_4
+22390|Sunstar Alpine Hotel Davos|Davos-Platz|NO|stars_4
+22391|Sunstar Alpine Hotel Arosa|Arosa|NO|stars_4
+22392|Sunstar Alpine Hotel Lenzerheide|Lenzerheide|NO|stars_4
+22440|Swiss Holiday Park|Morschach|NO|stars_4
+23094|Thermalp - Les Bains d'Ovronnaz|Ovronnaz|NO|stars_3
+23206|Sorell Ador|Bern|YES|stars_3
+23207|Swiss Quality Cascada|Lucerne|YES|stars_4
+23208|Münchnerhof Swiss Quality Basel|Basel|YES|stars_3
+23216|Torgon|Torgon|NO|stars_2.5
+23570|Valsana Sporthotel Arosa|Arosa|NO|stars_4
+23677|Victoria|Basel|YES|stars_4
+24039|Villa Toscane|Montreux|YES|stars_4
+24267|Vulpera|Vulpera|NO|stars_3
+24681|Storchen Zürich|Zurich|NO|stars_4
+24906|Perren|Zermatt|YES|stars_3
+24909|Alpenroyal Swiss Quality Zermatt|Zermatt|NO|stars_3
+24911|Arc en Ciel|Gstaad|NO|stars_4
+24912|Grand Hotel Park|Gstaad|NO|stars_5
+24915|Grand Bellevue|Gstaad|NO|stars_5
+24917|Swiss Quality Gstaaderhof|Gstaad|YES|stars_4
+24920|Solsana|Gstaad|NO|stars_3
+24921|Steigenberger Alpenhotel & Spa|Gstaad|NO|stars_4
+24924|Ferienanlage Hotel Sport|Klosters|NO|stars_3
+24926|Guarda Val|Lenzerheide|NO|stars_4
+24927|Alpin Sherpa|Meiringen|NO|stars_3
+24929|Sherlock Holmes|Meiringen|NO|stars_3
+24930|Zum Alpbach|Meiringen|NO|stars_4
+24931|The Dom|Saas-Fee|NO|stars_4
+24932|Alphubel|Saas-Fee|NO|stars_3
+24934|Schweizerhof|Saas-Fee|YES|stars_4
+24936|Eden|Saas-Grund|NO|stars_3
+24938|Residence Atlantic|Saas-Fee|NO|stars_3
+24939|Jägerhof|Saas-Fee|NO|stars_3
+24941|Europa|Saas-Fee|NO|stars_3
+24942|Saaser Hof|Saas-Fee|NO|stars_4
+24943|Artemis|Saas-Fee|NO|stars_3
+24948|Moulin|Saas-Grund|NO|stars_3
+24950|Europa St. Moritz|St. Moritz|NO|stars_4
+24951|Albana - geschlossen|St. Moritz|NO|stars_4
+24952|Post Haus|St. Moritz|YES|stars_4
+24953|Crystal|St. Moritz|YES|stars_4
+24954|Täscherhof|Täsch|NO|stars_3
+24955|Hotel City & Gästehaus St. Martin|Täsch|NO|stars_3
+24957|Alpenblick|Wilderswil|NO|stars_3
+24961|Ambassador|Zermatt|YES|stars_4
+24963|Nicoletta|Zermatt|YES|stars_4
+25350|Magrappe|Veysonnaz|NO|stars_3
+25363|Hohenfels|Arosa|NO|stars_3
+25384|Das Hotel Panorama|Hasliberg|NO|stars_3
+25391|Derby|Crans Montana|NO|stars_3
+25394|National|Davos-Platz|NO|stars_4
+25398|Kristall-Saphir|Saas-Almagell|NO|stars_3
+25420|Le Bristol|Villars / Ollon|NO|stars_4
+25422|Regina|Wengen|NO|stars_4
+25424|Bernerhof & Residence Hotels|Wengen|NO|stars_2.5
+25426|Belvedere|Wengen|NO|stars_3
+25428|Club-Hotel|Davos-Platz|NO|stars_3
+25429|Central|Engelberg|NO|stars_3
+25434|Ramada Regina Titlis Engelberg|Engelberg|YES|stars_4
+25436|Kristall|Fiesch|NO|stars_3
+25437|Sunstar Alpine|Flims|NO|stars_4
+25439|Alpenhotel Flims|Flims|NO|stars_3
+25442|Surpunt|Flims|NO|stars_3
+25444|Alpine|Grindelwald|YES|stars_4
+25446|Derby|Grindelwald|NO|stars_3
+25448|Residence|Grindelwald|NO|stars_3
+25455|Waldhotel Doldenhorn & Landgasthof Ruedihus|Kandersteg|NO|stars_4.5
+25458|Alfa-Soleil|Kandersteg|NO|stars_3
+25462|Silberhorn|Lauterbrunnen|NO|stars_3
+25464|Hôtel Le Relais Alpin|Les Mosses|NO|stars_3
+25789|Swissotel Zürich|Zurich|YES|stars_4
+25927|Terrace|Engelberg|YES|stars_3
+25930|Central Wolter|Grindelwald|YES|stars_3
+25931|Jungfrau Lodge|Grindelwald|NO|stars_3
+25933|Swiss Quality Steinmattli Adelboden|Adelboden|YES|stars_4
+25936|Best Western Alpen Resort|Zermatt|NO|stars_4
+25941|Hostellerie Am Schwarzsee|Bad Schwarzsee|NO|stars_4
+25942|Walliserhof Swiss Quality|Zermatt|YES|stars_4
+25943|Berghotel Trübsee|Engelberg|NO|stars_3
+25944|Castell|Zuos|NO|stars_4
+25945|Meierhof|Davos-Platz|NO|stars_4
+25960|Robinson Club Arosa|Arosa|NO|stars_4
+25964|Piz Buin Swiss Quality Hotel|Klosters|NO|stars_4
+25970|Robinson Club Schweizerhof|Vulpera|NO|stars_4
+26253|TREFF HOTEL Sonnwendhof Engelberg|Engelberg|NO|stars_3
+26255|Engelberg|Engelberg|NO|stars_3
+26256|Edelweiss|Engelberg|YES|stars_3
+26258|Hotel Silberhorn|Wengen|NO|stars_4
+26272|Alpha|Saas-Grund|NO|stars_3
+26276|Parkhotel Quellenhof|Leukerbad|NO|stars_3
+26279|De La Foret|Crans Montana|NO|stars_3
+26282|Mayens de l'Ours Residences|Veysonnaz|NO|stars_4
+26325|Wengener Hof|Wengen|NO|stars_4
+26477|Seehof Davos|Davos-Platz|NO|stars_4
+26479|Chalet Royal|Veysonnaz|NO|stars_3
+26480|Ferienart Resort & Spa|Saas-Fee|NO|stars_5
+26481|Mont Cervin Palace|Zermatt|YES|stars_5
+26485|Grand Regina|Grindelwald|YES|stars_5
+26486|Simmenhof|Lenk|NO|stars_4
+26629|Strela|Davos-Platz|NO|stars_3
+26657|The Cambrian Hotel & SPA Adelboden|Adelboden|NO|stars_4
+26659|Brienzerburli|Brienz|NO|stars_3
+26819|Alpenhof|Saas-Almagell|NO|stars_3
+26820|Christiania|Zermatt|YES|stars_4
+26823|Kreuz|Lenk|NO|stars_3
+26824|Bristol|Adelboden|NO|stars_3
+26826|Posthotel Holiday Villa Arosa|Arosa|NO|stars_3
+26829|Cresta|Davos-Platz|NO|stars_3
+26830|Kongress|Davos-Platz|NO|stars_4
+26831|Cresta Sun|Davos-Platz|NO|stars_4
+26832|Cucagna Hotel|Disentis|NO|stars_3
+27033|Sunstar Alpine Wengen|Wengen|NO|stars_4
+27035|Eiger|Grindelwald|NO|stars_4
+27039|Swiss Quality Bernerhof|Kandersteg|NO|stars_3
+27048|La Prairie|Crans Montana|NO|stars_3
+27052|Turm Grächerhof|Grächen|YES|stars_3.5
+27053|Schweizerhof|Zermatt|YES|stars_4
+27054|Mirabeau|Zermatt|YES|stars_4
+27057|Dom|Saas-Grund|NO|stars_3
+27060|Alpenblick|Fieschertal|NO|stars_3
+27063|Schweizerhof|Engelberg|NO|stars_3
+27067|Sheraton Davos Waldhuus|Davos-Platz|YES|stars_4
+27069|Monopol|St. Moritz|NO|stars_4
+27072|Seehof|Arosa|NO|stars_3
+27530|Victoria|Meiringen|NO|stars_3
+27532|Eden|Grächen|NO|stars_3
+27533|Matterhorn Valley Hannigalp|Grächen|NO|stars_3
+27534|Matterhorn Valley La Collina|Grächen|NO|stars_3
+27535|Komplex Bergheimat & Moonlight|Saas-Grund|NO|stars_2
+27536|Bärgsunnu|Saas-Grund|NO|stars_2
+27537|Monte Rosa - geschlossen|Saas-Grund|NO|stars_3
+27539|Krone|Kerns|NO|stars_3
+27897|Schloß Ragaz|Bad Ragaz|NO|stars_3
+27898|Sandi|Bad Ragaz|YES|stars_3
+27930|Churfirsten|Walenstadt|NO|stars_3
+28545|Lago di Lugano|Bissone|NO|stars_4
+28547|Piccolo|Muralto-Lacarno|NO|stars_3
+28549|Idyllhotel Appenzellerhof|Speicher|NO|stars_3
+28553|Zum Hirschen|Küssnacht|NO|stars_3
+28560|Alpha|Thun|NO|stars_3
+28561|Bellevue Au Lac|Hilterfingen|NO|stars_3
+28577|Graziella|Weggis|NO|stars_4
+28828|Eden Palace au Lac|Montreux|YES|stars_4
+28830|Parkhotel Delta|Ascona|YES|stars_4
+28831|Grand Eden|Lugano|NO|stars_5
+28832|Misani|St. Moritz|NO|stars_3
+28836|Rössli|Weggis|NO|stars_4
+28839|Vitznauerhof|Vitznau|NO|stars_4.5
+28842|Seehotel Du Lac|Merligen|NO|stars_3
+28844|Mercure Plaza Biel|Biel|NO|stars_4
+28846|Eurotel Montreux|Montreux|NO|stars_4
+28847|Masson|Montreux|NO|stars_3
+28848|Olympia|Saas-Almagell|NO|stars_3
+28851|La Perla & Dependancen Ascona|Ascona|NO|stars_3
+28852|Ascona|Ascona|YES|stars_4
+28853|Tamaro und Dependance Villa Olevano|Ascona|NO|stars_3
+28854|Ramada Arcadia Locarno|Locarno|YES|stars_4
+28857|Albergo I Grappoli|Sessa|NO|stars_3
+28858|Delfino|Lugano|NO|stars_3
+28859|Calipso / Calipso Park|Lugano|NO|stars_2
+28914|Monopol|Lucerne|YES|stars_4
+28915|Central|Lucerne|YES|stars_4
+28948|Mövenpick Lausanne|Lausanne|YES|stars_4
+29327|Esplanade Resort & Spa Locarno|Minusio|NO|stars_4
+30448|Alfa|Birsfelden|NO|stars_3
+30451|Continental|Bern|NO|stars_2.5
+30453|Eden|Geneva|YES|stars_3
+30454|Agora Swiss Night|Lausanne|YES|stars_4
+30455|Swiss Wine Hotel & Bar|Lausanne|YES|stars_3
+30984|Central-Residence|Leysin|NO|stars_3
+30988|Matterhorn Valley Alpina|Grächen|NO|stars_3
+30994|Rigi Kaltbad|Rigi-Kaltbad-First|NO|stars_3
+31485|Eigerblick|Grindelwald|NO|stars_3
+31487|Castel Club Leysin Parc Resort|Leysin|NO|stars_3
+31488|Imseng|Saas-Fee|NO|stars_3
+31489|Römerhof|Leukerbad|NO|stars_3
+31595|Berghof Amaranth|Wilderswil|NO|stars_3
+31597|Dorint Blüemlisalp Beatenberg-Interlaken - Hotel / Ferienwohnungen|Beatenberg|NO|stars_4
+31599|Eurotel Victoria|Les Diablerets|NO|stars_4
+31603|Helvetia Intergolf - Aparthotel|Crans Montana|NO|stars_4
+31606|Patricia Residence Zermatt|Zermatt|NO|stars_3
+31609|Feriendorf Tschuggen|Blatten|NO|stars_3
+31616|La Margna Swiss Quality|St. Moritz|YES|stars_4
+31697|NH Zürich Airport|Glattbrugg|YES|stars_4
+32054|Kirchbühl|Grindelwald|NO|stars_4
+32056|Excelsior|Arosa|NO|stars_4
+32057|Waldhaus Flims Mountain Resort & Spa - Villa Silvana|Flims|NO|stars_5
+32063|Victoria-Jungfrau Grand Hotel & Spa|Interlaken|NO|stars_5
+32074|Riders Palace|Laax|NO|stars_3
+32542|Victoria Turmhotel|Davos-Platz|NO|stars_4
+32543|Sternen|Unterwasser|NO|stars_3
+32633|Europe|Zurich|YES|stars_4
+32739|Dorint An der Messe|Basel|NO|stars_3
+32740|Drake Longchamp Swiss Quality|Geneva|YES|stars_3
+32742|Villa Sassa Residence & Spa|Lugano|YES|stars_4
+33167|Privilège Villa Caesar|Brissago|NO|stars_4
+33168|Castello Seeschloss|Ascona|NO|stars_4
+34311|Intercontinental Geneve|Geneva|YES|stars_5
+34421|Principe Leopoldo|Lugano|YES|stars_5
+34422|Maroggia Ferienwohnungen|Maroggia|NO|stars_3
+34424|Riviera|Melide|NO|stars_3
+34425|Belvedere|Locarno|NO|stars_4
+34427|Schmid und Alfa|Brunnen|NO|stars_3
+34892|Alexander & Gerbi|Weggis|NO|stars_4
+34923|Adula Flims|Flims|YES|stars_4
+36214|City|Brunnen|NO|stars_4
+36380|Des Masques|Anzére|NO|stars_3
+36418|Lindner Grand Hotel Beau Rivage|Interlaken|YES|stars_5
+36526|St. Gotthard Basel|Basel|YES|stars_4
+36527|Swissotel Le Plaza|Basel|YES|stars_5
+36528|Balegra|Basel|YES|stars_3
+36529|Mandarin Oriental Geneva|Geneva|YES|stars_5
+36530|Swissotel Metropole|Geneva|YES|stars_5
+36531|Victoria|Lausanne|YES|stars_4
+36832|Neuhaus|Interlaken|NO|stars_3
+36833|Alpenrose|Wengen|NO|stars_3
+36840|Krone|Thun|NO|stars_4
+36841|Carlton-Europe|Interlaken|NO|stars_3
+36842|Rene Capt Golf|Montreux|NO|stars_4
+36843|Admiral Lugano|Lugano|NO|stars_4
+37390|Swiss Quality Goldey|Interlaken|YES|stars_3
+37391|Harder-Minerva|Interlaken|NO|stars_3
+37392|Plattenhof|Zurich|YES|stars_3
+37393|Novotel Zürich City-West|Zurich|YES|stars_4
+37395|De la Paix|Lausanne|NO|stars_4
+37397|Fairmont Le Montreux Palace|Montreux|YES|stars_5
+37948|Schweizerhof|Lucerne|YES|stars_5
+38014|Le Mirador Kempinski Lake Geneva|Mont Pelerin|YES|stars_5
+38015|Badrutt's Palace|St. Moritz|NO|stars_5
+38019|Kempinski Grand Hotel des Bains|St. Moritz|YES|stars_5
+38020|Carlton St. Moritz|St. Moritz|YES|stars_5
+38069|Weggis Parkhotel|Weggis|NO|stars_5
+38070|Ermitage|Gstaad|NO|stars_5
+38071|Lenkerhof Alpine Resort|Lenk|NO|stars_5
+38268|Spinne|Grindelwald|NO|stars_4
+38347|Primavera|Zermatt|NO|stars_2
+38383|Du Theatre|Zurich|NO|stars_3
+38401|Chalet Schönegg|Zermatt|YES|stars_4.5
+38704|Marmotte|Saas-Fee|NO|stars_3
+38706|Rosatsch|Pontresina|NO|stars_4
+38707|Hôtel des Alpes|Flims|NO|stars_3
+38709|Sorell Tamina|Bad Ragaz|YES|stars_4
+38710|Club Med St. Moritz Roi Soleil|St. Moritz|NO|stars_4
+39038|Club Med Villars-sur-Ollon|Villars / Ollon|NO|stars_3.5
+39039|Club Med Wengen Palace|Wengen|NO|stars_3
+39289|Steffani|St. Moritz|NO|stars_4
+39290|Schweizerhof|Pontresina|NO|stars_3
+39291|Jungfrau|Mürren|NO|stars_3
+39293|Elite|Zermatt|NO|stars_3
+39550|De Famille|Vevey|YES|stars_3
+39736|Best Western Bären|Bern|NO|stars_4
+39737|Seehof|Zurich|NO|stars_3
+39761|Royal Plaza|Montreux|YES|stars_5
+39968|Swiss Diamond Lugano|Vico Morcote|NO|stars_5
+40018|Ramada Encore Genf|Geneva|YES|stars_3
+40206|Campione|Lugano|NO|stars_3
+40207|Paxmontana Jugendstil-Hotel|Flüeli-Ranft|NO|stars_3
+40208|Sorell Seidenhof|Zurich|YES|stars_3
+40511|Solaria|Bivio|NO|stars_3
+41118|Du Nord|Interlaken|NO|stars_4
+41120|Landhaus|Giswil|NO|stars_3
+42165|Ramada Plaza Basel Conference Center|Basel|YES|stars_4
+46507|Crowne Plaza Geneva|Geneva|YES|stars_4
+46508|Ramada La Palma au Lac Locarno|Muralto-Lacarno|YES|stars_4
+47297|Palace Lausanne|Lausanne|YES|stars_5
+47298|Continental Lausanne|Lausanne|YES|stars_4
+47587|St. Gotthard|Zurich|YES|stars_4
+47588|Schweizerhof|Zurich|NO|stars_4.5
+47590|Renaissance|Zurich|YES|stars_5
+47591|Marriott|Zurich|YES|stars_5
+47592|Eden Au Lac|Zurich|NO|stars_5
+47593|Baur Au Lac|Zurich|NO|stars_5
+47594|Simi|Zermatt|YES|stars_4
+47596|National|Zermatt|YES|stars_4
+47598|Albana Real|Zermatt|YES|stars_4
+47599|Zermatterhof Grand|Zermatt|YES|stars_5
+47600|Kulm|St. Moritz|YES|stars_5
+47602|Schweizerhof|St. Moritz|YES|stars_4
+47603|Hauser|St. Moritz|NO|stars_3
+47604|Suisse Majestic Grand|Montreux|YES|stars_4
+47605|Grand National|Lucerne|YES|stars_5
+47606|The Hotel|Lucerne|YES|stars_5
+47607|Ameron Hotel Flora|Lucerne|YES|stars_4
+47609|Grandhotel Villa Castagnola au Lac|Lugano|NO|stars_5
+47610|Beau-Rivage Palace|Lausanne|YES|stars_5
+47611|Angleterre & Residence|Lausanne|NO|stars_4
+47613|Grand Hotel du Golf & Palace|Crans Montana|NO|stars_5
+47614|Crans Ambassador|Crans Montana|NO|stars_5
+47616|Royal Park|Kandersteg|NO|stars_5
+47617|Interlaken|Interlaken|YES|stars_4
+47619|Royal St.Georges Interlaken|Interlaken|YES|stars_4
+47620|City Oberland Swiss Quality|Interlaken|NO|stars_3
+47621|Warwick|Geneva|YES|stars_4
+47624|Grand Kempinski Geneva|Geneva|NO|stars_5
+47625|Le Richemond|Geneva|NO|stars_5
+47626|De la Paix|Geneva|NO|stars_5
+47627|D'Angleterre|Geneva|YES|stars_5
+47628|Starling Geneva|Geneva|NO|stars_4
+47629|Steigenberger Grandhotel Belvédère|Davos-Platz|NO|stars_5
+47630|Europe|Davos-Platz|NO|stars_4
+47631|Palace Gstaad|Gstaad|NO|stars_5
+47632|Bernerhof|Gstaad|NO|stars_4
+47633|Belvedere Grindelwald|Grindelwald|YES|stars_4.5
+47634|Kreuz & Post|Grindelwald|YES|stars_4
+47635|Schweizerhof|Grindelwald|NO|stars_4.5
+47640|Des Trois Couronnes|Vevey|YES|stars_5
+47641|Bellevue Palace|Bern|YES|stars_5
+47642|Schweizerhof|Bern|NO|stars_5
+47643|Allegro Bern|Bern|YES|stars_4
+47644|Ambassador & SPA|Bern|YES|stars_4
+47645|Best Western Bern|Bern|YES|stars_4
+48254|Bänklialp|Engelberg|NO|stars_3
+48255|San Gian|St. Moritz|NO|stars_4
+48368|Park Hyatt Zürich|Zurich|NO|stars_5
+48458|Grand Hotel des Bains|Yverdon-les-Bains|YES|stars_4
+49903|Nash Ville|Geneva|YES|stars_4
+49904|Manotel N'vY|Geneva|YES|stars_4
+49905|D'Auteuil Manotel|Geneva|YES|stars_4
+49906|Cristal|Geneva|YES|stars_3
+49907|Mövenpick Genf|Geneva|NO|stars_5
+49908|Rotary Geneva - MGallery Collection|Geneva|YES|stars_4
+49909|NH Geneva Airport|Geneva|YES|stars_4
+49910|Cornavin|Geneva|YES|stars_4
+49911|Suisse Geneve|Geneva|YES|stars_3
+49912|Crystal Interlaken|Interlaken|NO|stars_3
+49913|Merkur|Interlaken|NO|stars_3
+49914|Alpha-Palmiers|Lausanne|YES|stars_4
+49915|Astoria|Lucerne|YES|stars_4
+49916|Luzernerhof|Lucerne|YES|stars_4
+49917|Drei Könige|Lucerne|YES|stars_3
+49918|De la Paix|Lucerne|NO|stars_3
+49919|Renaissance|Lucerne|NO|stars_4
+49920|La Perla|Lugano|YES|stars_4
+49921|Swiss Quality Acquarello|Lugano|YES|stars_3
+49922|Piz|St. Moritz|YES|stars_3
+49923|Hilton Zürich Airport|Opfikon|YES|stars_4
+49924|Best Western Premier Glockenhof|Zurich|YES|stars_4
+49925|Comfort Royal Zurich|Zurich|YES|stars_3
+50178|Mattenhof Resort|Matten bei Interlaken|YES|stars_3
+50179|Tulip Inn Lausanne Beaulieu|Lausanne|YES|stars_3
+50180|Ibis Styles Luzern City Hotel|Lucerne|YES|stars_3
+50181|Waldstaetterhof Swiss Quality|Lucerne|YES|stars_3
+50182|The Guests' House|Zurich|YES|stars_3
+50183|Park Inn by Radisson Zürich Airport Hotel|Zurich|YES|stars_4
+50671|Waldegg|Engelberg|YES|stars_4
+50672|Falken|Wengen|NO|stars_3
+50737|Helvetie|Montreux|YES|stars_3
+50738|Bon Accueil|Montreux|NO|stars_3
+50739|Schlosshotel Zermatt|Zermatt|YES|stars_4
+50763|Chalet Swiss|Interlaken|YES|stars_3
+50788|Grand Europe|Lucerne|YES|stars_4
+50789|Alex|Zermatt|YES|stars_4
+51287|Rebstock|Meiringen|NO|stars_3
+51291|Salina Maris|Breiten bie Mörel|NO|stars_4
+51294|Solaria|Davos-Platz|NO|stars_3
+51295|Oberalp|Sedrun|NO|stars_3
+51417|Grand Kronenhof|Pontresina|NO|stars_5
+51466|Mountain Lodge|Gstaad|NO|stars_2
+51517|Bünda|Davos-Platz|NO|stars_3
+51665|Astor|Zurich|YES|stars_3
+51666|Hotel Senator|Zurich|NO|stars_4
+51697|Eiger|Mürren|YES|stars_4
+51757|Radisson Blu St. Gallen|St. Gallen|NO|stars_4
+51819|Best Western Bernerhof|Interlaken|NO|stars_3
+51820|National|Interlaken|NO|stars_4
+51821|Continental Park|Lucerne|YES|stars_4
+51822|Montana Hotel Zürich|Zurich|YES|stars_3
+51865|Weisses Kreuz|Interlaken|YES|stars_3
+51866|Eiger|Wengen|NO|stars_3
+52010|ibis Styles Genf Bahnhof|Geneva|YES|stars_3
+52315|Victoria Ritter|Kandersteg|NO|stars_3
+52573|Chur|Chur|NO|stars_3
+52788|Novotel Bern Expo|Bern|NO|stars_4
+52800|Parkhotel|Bad Ragaz|NO|stars_2
+53133|Carioca|Lugano|NO|stars_3
+53135|Park|Oberhofen|NO|stars_4
+53136|Walzenhausen|Walzenhausen|YES|stars_4
+53137|Sport|Saas-Almagell|NO|stars_3
+53212|Albergo Gardenia|Caslano|NO|stars_4
+53213|Casa Sant Agnese|Locarno|NO|stars_3
+53250|Primavera|Saas-Grund|NO|stars_3
+53794|Hotel President Wilson Genf|Geneva|YES|stars_5
+53797|Holiday Inn Express Airport|Geneva|YES|stars_3
+55072|Mövenpick Zürich-Regensdorf|Zurich|NO|stars_4
+55676|Europäischer Hof - Europe|Engelberg|NO|stars_3
+56056|X-Tra|Zurich|YES|stars_3
+56124|Bristol|Zurich|YES|stars_3
+56131|Euler|Basel|YES|stars_4
+56146|Zic Zac Rock|Zurich|YES|stars_1
+56147|Rössli|Zurich|YES|stars_3
+56148|Commerce|Basel|YES|stars_3
+56172|Engimatt|Zurich|YES|stars_4
+56266|Park Inn by Radisson Lully|Lully|YES|stars_4
+56375|Admiral|Geneva|YES|stars_3
+56378|Goldenes Schwert|Zurich|YES|stars_3
+56393|Wellenberg Swiss Quality|Zurich|YES|stars_4
+56473|Basel|Basel|YES|stars_4
+56574|Coronado|Zurich|YES|stars_3
+56575|International & Terminus|Geneva|YES|stars_3
+56576|Steinenschanze|Basel|YES|stars_3
+56644|Art Furrer Resort|Riederalp|NO|stars_4
+56646|Alpenrose Wellness Resort & Casa Arturo|Riederalp|NO|stars_4
+56650|Sorell Rüden|Schaffhausen|YES|stars_3
+56809|Alexander|Basel|YES|stars_3
+56818|NH Fribourg|Fribourg|YES|stars_4
+56938|Best Western Strasbourg|Geneva|YES|stars_3
+56940|Hotel 33|Cointrin|NO|stars_3
+57481|Manotel Jade|Geneva|YES|stars_3
+57482|Manotel Kipling|Geneva|YES|stars_3
+57816|Grand Resort Bad Ragaz|Bad Ragaz|NO|stars_5
+57819|Beatus Merligen|Merlingen|NO|stars_5
+57821|La Reserve Geneve|Geneva|NO|stars_5
+57822|Splendide Royal|Lugano|NO|stars_5
+57891|Mercure Classic|Leysin|NO|stars_4
+57893|Parkhotel Waldau - geschlossen|Rorschacherberg|NO|stars_4
+58602|Victoria Lauberhorn|Wengen|YES|stars_3
+58604|Saratz|Pontresina|NO|stars_4
+58782|La Ginabelle|Zermatt|NO|stars_4
+58784|Alpenhof|Zermatt|NO|stars_4
+58785|Danilo|Savognin|NO|stars_3
+58786|Signina Sporthotel|Laax|NO|stars_4
+58787|Lindenhof|Brienz|NO|stars_3
+58848|Ascot|Zurich|NO|stars_4
+59617|Colorado|Lugano|NO|stars_3
+59936|Panorama Resort & Spa|Feusisberg|NO|stars_4
+60086|Central|Agarn|NO|stars_2
+60383|Hôtel Vatel|Martigny|NO|stars_4
+60384|Hotel dell'Angelo|Locarno|YES|stars_3
+60499|Hilton Basel|Basel|YES|stars_5
+60911|Novotel Lugano Paradiso|Lugano|NO|stars_4
+61100|Sorell Arabelle|Bern|YES|stars_3
+61101|Sorell Seefeld|Zurich|YES|stars_3
+61102|Sorell Zürichberg|Zurich|YES|stars_4
+61821|Les Naturelles Résidence|Leukerbad|NO|stars_3.5
+62757|Bellary|Grindelwald|YES|stars_2
+62759|Steinbock|Grindelwald|YES|stars_3
+62761|Chateau D'ouchy|Lausanne|YES|stars_4
+62835|Sternen-Oerlikon|Zurich|YES|stars_3
+63799|Blümlisalp|Kandersteg|NO|stars_3
+63800|Meisser|Guarda|NO|stars_3
+63898|Basilisk|Basel|YES|stars_3
+63899|Drachen|Basel|YES|stars_4
+63940|Sorell Rütli|Zurich|YES|stars_3
+64867|NH Rex|Geneva|YES|stars_4
+65027|Antares|Zermatt|YES|stars_4
+66211|Aeschi Park|Spiez|NO|stars_4
+66216|Garni Belmont|Engelberg|NO|stars_3
+66218|Parsenn|Davos-Dorf|NO|stars_3
+66372|Waldhotel National|Arosa|NO|stars_4
+66377|Streiff|Arosa|NO|stars_3
+68190|Cube Savognin|Savognin|NO|stars_3
+68521|Tiffany|Geneva|YES|stars_4
+68868|Mercure Bristol|Leukerbad|NO|stars_4
+68990|Meierhof|Zurich|YES|stars_4
+69090|Altein|Arosa|YES|stars_3
+69091|Mirador Golf Hotel|Ascona|NO|stars_3
+69092|Valaisia|Crans Montana|YES|stars_3
+69413|Obersee|Arosa|NO|stars_3
+69416|Altana|Bad Scuol / Scuol/ Schuls|NO|stars_3
+69883|Rosablanche|Siviez|NO|stars_2.5
+70370|Serpiano|Serpiano|NO|stars_3
+70371|Garni Jägerhof Hubertus|Faulensee|NO|stars_3
+70372|Paradies|Ftan|NO|stars_5
+70373|Parkhotel Waldheim am Sarnersee|Sarnen|NO|stars_3
+70374|Ambassador|Lucerne|NO|stars_3
+70400|Matterhorn Valley Des Alpes|Grächen|NO|stars_3.5
+70849|Best Western Merian Am Rhein|Basel|YES|stars_4
+71258|Montana|Disentis|NO|stars_3
+72059|Villa Le Pergole|Lugano|NO|0
+72178|Aristella|Zermatt|YES|stars_4
+72179|Gornergrat Dorf|Zermatt|YES|stars_3
+72383|Du Glacier|Saas-Fee|NO|stars_4
+72927|Schiff am Rhein|Rheinfelden|YES|stars_3
+73364|Best Western Airport Zürich|Glattbrugg|NO|stars_3.5
+73365|Allegra|Zurich|NO|stars_4
+73366|Novotel Zurich Airport Messe|Zurich|NO|stars_4
+73418|Best Western Bristol|Montreux|YES|stars_4
+74230|Radisson Blu|Lucerne|YES|stars_4
+74398|Kreuz|Bern|NO|stars_3
+74558|Grand Hotel des Rasses|Ste Croix|NO|stars_3
+75327|Eden|Saas-Fee|NO|stars_3
+75398|Surses Alpin|Savognin|NO|stars_4
+75942|Parkhotel Du Sauvage|Meiringen|NO|stars_4
+75943|Randolins|St. Moritz|NO|stars_3
+75944|Montana|Davos-Dorf|NO|stars_3
+76028|Albana|Silvaplana|NO|stars_4
+76118|Edelweiss Swiss Quality|Sils-Maria|NO|stars_4
+76120|City am Bahnhof|Bern|NO|stars_3
+76513|Nash Carlton|Lausanne|YES|stars_4
+76551|Sorell Asora|Arosa|YES|stars_3
+76552|Grischuna|Bivio|NO|stars_3.5
+77016|La Pinte du Vieux Manoir|Murten|NO|stars_4.5
+78296|Arosa Kulm|Arosa|YES|stars_5
+78608|Ramada Solothurn|Solothurn|YES|stars_4
+79052|Ochsen|Davos-Platz|NO|stars_2
+79076|Mövenpick Egerkingen|Egerkingen|YES|stars_4
+79184|Alpenhotel Täsch|Täsch|NO|stars_3
+79467|Mittenza|Basel|YES|stars_3
+79512|Romantik Seehotel Sonne|Küsnacht|NO|stars_4
+79513|Giardino|Ascona|NO|stars_5
+79673|Panoramahotel Davos|Davos|NO|stars_3
+79678|Joseph's House|Davos-Platz|NO|stars_3
+79754|Freienhof Swiss Quality|Thun|YES|stars_4
+79755|Einstein|St. Gallen|NO|stars_4
+79906|Résidence Le Pracondu|Haut - Nendaz|NO|stars_3
+80165|Sur Baselgia|Cunter|NO|0
+80227|Courtyard Zürich Nord|Zurich|NO|stars_4
+80242|Piz Mitgel|Savognin|NO|stars_3
+80487|International au Lac|Lugano|NO|stars_3
+80488|Wellnesshotel Stoos|Stoos|NO|stars_4
+80489|Kreuz Sachseln|Sachseln|NO|stars_4
+80797|Eden Swiss Quality|Spiez|YES|stars_4
+82061|Windsor|Geneva|YES|stars_3
+82241|Des Alpes|Lucerne|NO|stars_3
+82242|Baslertor|Lucerne|NO|stars_3
+82243|Seeburg|Lucerne|NO|stars_3
+82258|Adler|Zurich|NO|stars_3
+82259|Walhalla|Zurich|NO|stars_2.5
+83411|Engel|Basel|NO|stars_4
+83414|Swiss Quality Metropole|Interlaken|YES|stars_4
+83415|Stella Swiss Quality Hotel|Interlaken|YES|stars_4
+83416|Small Luxury Hotel Ambassador a L'Opera|Zurich|YES|stars_4
+83417|Aarau-West Swiss Quality|Oberentfelden|YES|stars_3
+83419|Swiss Quality Elite Art Deco Biel|Biel|YES|stars_4
+83420|Swiss Quality Bernina|Geneva|YES|stars_3
+83421|Swiss Quality Mon-Repos|Geneva|YES|stars_3
+83422|Swiss Quality Sagitta|Geneva|YES|stars_3
+83423|Athmos|La Chaux-de-Fonds|YES|stars_4
+83425|Swiss Quality Congress Olten|Olten|NO|stars_3
+83428|Swiss Quality Chesa Rosatsch|Celerina|YES|stars_4
+83433|Globales Conti|Dietikon|YES|stars_4
+83664|Best Western Chavannes De Bogis|Chavannes-de-Bogis|YES|stars_3
+83778|Sorell Hotel Aarauerhof|Aarau|YES|stars_3
+83785|Dolder Waldhaus|Zurich|NO|stars_4
+83802|Swiss Quality Grichting-Badnerhof|Leukerbad|YES|stars_4
+83809|Zur Therme|Bad Zurzach|YES|stars_4
+83810|Tenedo Swiss Quality Hotel|Bad Zurzach|YES|stars_3
+84433|City Zürich|Zurich|NO|stars_3
+84496|Les Armures|Geneva|NO|stars_5
+85662|Du Boulevard|Lausanne|YES|stars_3
+85663|ABC Chur|Chur|YES|stars_4
+85664|Saint-Gervais|Geneva|YES|stars_1
+85908|An der Aare Swiss Quality Solothurn|Solothurn|YES|stars_3
+86441|Traube|Bad Scuol / Scuol/ Schuls|NO|stars_3
+86442|Belvair|Bad Scuol / Scuol/ Schuls|NO|stars_3
+86443|Silvretta|Samnaun|NO|stars_4
+86446|Albergo Losone|Losone|NO|stars_4
+86449|Geranio au Lac|Locarno|NO|stars_2
+86450|Garni Muralto|Locarno|NO|stars_3
+86454|Garni Montaldi|Locarno|NO|stars_2.5
+86456|Tresa Bay|Ponte Tresa|NO|stars_3
+86457|Besso|Lugano|NO|stars_2
+86458|Federale|Lugano|NO|stars_3
+86461|Victoria|Brig|NO|stars_3
+86463|Tenne|Saas-Fee|NO|stars_3
+86466|Alpenhotel Fleurs de Zermatt|Zermatt|NO|stars_4
+86467|Sarazena|Zermatt|NO|stars_3
+86469|Bristol|Zermatt|NO|stars_3
+86470|Best Western Butterfly|Zermatt|NO|stars_3
+86471|Sunstar Style|Zermatt|NO|stars_4
+86472|Pollux|Zermatt|NO|stars_4
+86474|Blume|Interlaken|NO|stars_2
+86476|Caprice|Wengen|NO|stars_4
+86477|Bel-Air Eden|Grindelwald|NO|stars_2
+86478|Alpenruh|Mürren|NO|stars_3
+86481|Waldhaus-Huldi|Adelboden|NO|stars_3
+86482|Wildstrubel|Lenk|NO|stars_3
+86488|Le Sapin|Charmey|NO|stars_3
+86493|Welcome Inn|Zurich|NO|stars_3
+86495|Zum Weissen Kreuz|Lucerne|NO|stars_3
+86503|Freieck|Chur|NO|stars_3
+86504|Grischa|Davos-Platz|NO|stars_4
+86505|Drei Könige|Chur|NO|stars_2
+86506|Romantik Hotel Stern|Chur|NO|stars_3
+86507|Soldanella|St. Moritz|NO|stars_3
+86509|Bären|St. Moritz|NO|stars_4
+86514|Le Montbrillant|Geneva|NO|stars_4
+86520|Touring au Lac|Neuchâtel|NO|stars_3
+86521|Des Arts|Neuchâtel|NO|stars_3
+86522|Metropol|Biel|NO|stars_3
+86643|Schlosshotel Art Furrer|Brig|NO|stars_3
+86655|Alpina|Arosa|NO|stars_3
+86737|Touring|Brig|NO|stars_3
+86857|Moderne|Geneva|YES|stars_3
+87018|Landal Vierwaldstättersee|Morschach|NO|stars_4
+87102|Airport Basel|Basel|YES|stars_3
+87238|Chalets Les Fontannets|Veysonnaz|NO|0
+87239|Balcons du Soleil|Veysonnaz|NO|stars_4
+87253|Residenz Montfort|Siviez|NO|0
+87354|Tschuggen Grand Arosa|Arosa|NO|stars_5
+87740|Central Sporthotel Davos - Sporthotel|Davos-Platz|YES|stars_4
+87741|Swiss Night am Kunsthaus|Zurich|YES|stars_3
+87873|Bären|Wilderswil|NO|stars_3
+87877|Swiss Quality Seehotel Kastanienbaum|Lucerne|YES|stars_4
+87970|Ibis Styles Bern City|Bern|NO|stars_3
+89232|Grand Lac Excelsior|Montreux|YES|stars_4
+89233|Swiss Quality Hostellerie Geroldswill|Geroldswil|YES|stars_3
+89234|Park Swiss Quality|Winterthur|NO|stars_4
+89498|Strandhotel|Iseltwald|NO|stars_3
+90031|Schatzalp Snow & Mountain Resort|Davos-Platz|NO|stars_3.5
+90051|Four Points by Sheraton Sihlcity Zürich|Zurich|YES|stars_4
+90727|Christiania|Saas-Almagell|NO|stars_3
+90729|Post Design & Lifestyle Hotel|Zermatt|NO|stars_4
+90730|GreenLine Rischli|Sörenberg|NO|stars_3
+90999|Disentiserhof|Disentis|NO|stars_3
+91000|All In One Hotel Inn Lodge|Celerina|NO|stars_2
+91425|Les Trois Rois|Basel|NO|stars_5
+91427|Grand Hotel du Lac|Vevey|NO|stars_5
+91606|Chalet Cunters|Savognin|NO|stars_3
+91770|Metropole|Bern|YES|stars_3
+91865|Mövenpick Zürich Airport|Zurich|YES|stars_5
+92012|Della Valle|Brione|NO|stars_3
+92050|Alpenland|Lauenen|NO|stars_3
+92442|Morosani Posthotel|Davos-Platz|NO|stars_4
+92443|Sunstar Boutique Hotel Albeina Klosters|Klosters|NO|stars_4
+92444|Tschugge|Zermatt|NO|stars_4
+92445|Alpenblick|Zermatt|NO|stars_3
+92714|Pirmin Zurbriggen|Saas-Almagell|NO|stars_4
+92717|Au Chalet Cairn|Saas-Fee|NO|stars_3.5
+92719|Arcade Ferienwohnungen|Saas-Fee|NO|stars_4
+92721|Eden|Zermatt|NO|stars_4
+92728|Tsamandon Chaletsiedlung|Haut - Nendaz|NO|stars_3
+92729|Eurotel Victoria|Villars / Ollon|NO|stars_4
+92739|Julier P(a)lace|Silvaplana|NO|stars_3
+92743|Panoramahotel Valbella|Valbella|NO|stars_3
+92744|La Cruna|Sedrun|NO|stars_3
+92950|Etoile|Saas-Grund|NO|stars_3
+93196|Beausite|Interlaken|NO|stars_3
+93604|Swiss Quality Kemmeriboden-Bad|Schangnau|YES|stars_3
+93771|Bellevue|Interlaken|NO|stars_4
+93773|Toscana|Interlaken|NO|stars_3
+94242|Crowne Plaza Zurich|Zurich|YES|stars_4
+95087|Fleming's|Zurich|NO|stars_3
+95506|Park-Hotel Inseli|Romanshorn|NO|stars_4
+95513|Schweizerhof|Basel|NO|stars_3
+95533|Alexander|Zurich|NO|stars_3
+96203|Cathrin|Engelberg|NO|stars_3
+96454|Du Lac|Interlaken|NO|stars_4
+96534|Swiss Heidi|Maienfeld|NO|stars_3
+97903|Seehotel Sternen|Beckenried|NO|stars_3
+98358|Wilerbad Seehotel|Sarnen|NO|stars_4
+99747|Eastwest|Geneva|YES|stars_4
+99812|Kurhaus Cademario|Cademario|NO|stars_4
+100022|La Campagnola|Vairano|NO|stars_3
+100023|Mulino|Ascona|NO|stars_3
+100024|Pergola|Ascona|NO|stars_3
+100025|Camelia - geschlossen|Muralto-Lacarno|NO|stars_3
+100027|Sunstar Alpine Familienhotel Davos|Davos-Platz|NO|stars_3
+100194|Schweizerhof|Lenzerheide|NO|stars_4
+100195|Eden Roc|Ascona|NO|stars_5
+100254|Allalin|Zermatt|NO|stars_4
+100263|Monopol-Metropol|Andermatt|NO|stars_3
+100554|GD Bella Tola & St-Luc|St. Luc|NO|stars_4
+100558|Giessbach Grandhotel|Brienz|NO|stars_4
+100559|Congress Hotel Seepark|Thun|YES|stars_4
+100819|Des Horlogers|Geneva|YES|stars_3
+102630|Bijou|Zermatt|NO|stars_3
+102631|Landal Resort Walensee|Unterterzen|NO|stars_4
+102632|Rocksresort|Laax|NO|stars_4
+102905|Bad Serneus|Klosters|NO|stars_3
+103188|Saanewald Lodge|Saanenmöser|NO|stars_3
+103189|Suisse|Champery|NO|stars_3
+103867|Adonis|Zermatt|NO|stars_3
+103915|Albergo Garni Remorino|Locarno Brione s.Minusio|NO|stars_4
+103924|Alden Luxury Suite Hotel Zürich|Zurich|NO|stars_5
+103970|Alpenhof|Grindelwald|NO|stars_3
+103976|Alphorn|Gstaad|NO|stars_3
+104013|Ambiance|Zermatt|NO|stars_3
+104045|Nash Airport|Geneva|YES|stars_3
+104154|Arlette Am Hauptbahnhof|Zurich|NO|stars_2
+104162|Arte|Olten|NO|stars_4
+104165|Artos|Interlaken|NO|stars_3
+104190|Astoria|Zermatt|NO|stars_4
+104196|Astra Hotel Vevey|Vevey|YES|stars_4
+104275|Best Western Bahnhof|Schaffhausen|NO|stars_4
+104313|Swiss Quality Baslertor|Basel|YES|stars_3
+104341|Beausite|Beatenberg|NO|stars_2
+104342|Beausite Park|Wengen|NO|stars_4
+104387|Belle Epoque|Bern|NO|stars_4
+104388|Bellerive|Zermatt|NO|stars_3
+104390|Bellevue|Lucerne|NO|stars_3
+104396|Belvoir Swiss Quality Zürich|Rüschlikon|YES|stars_4
+104402|Berghaus Bort|Grindelwald|NO|stars_3
+104558|Hotel Astoria|Geneva|YES|stars_3
+104604|Best Western Bellevue Au Lac|Lugano|NO|stars_4
+104607|Bernina 1865|Samedan|NO|stars_4
+104671|Best Western Century|Geneva|NO|stars_4
+104770|Best Western Diplomate|Geneva|NO|stars_4
+104784|Du Parc|Baden|NO|stars_4
+104786|Hotel du Rhone|Sion|NO|stars_3
+104964|Best Western Krone|Lucerne|NO|stars_3
+105277|Best Western Plus Speer|Rapperswil|NO|stars_4
+105452|Bildungszentrum 21|Basel|NO|stars_3
+105470|Blümental|Mürren|NO|stars_3
+105475|Bodmi|Grindelwald|NO|stars_3
+105562|Burchnerhof|Bürchen|NO|stars_3
+105679|Casino|Siders|NO|stars_3
+105715|Central Continental|Interlaken|NO|stars_3
+105738|Chalet Adler|Kandersteg|NO|stars_3
+105820|Chesa Valese|Zermatt|NO|stars_4
+105850|Chlosterhof Stein am Rhein|Stein am Rhein|NO|stars_4
+105892|City Partner Thessoni classic Zürich|Regensdorf|YES|stars_4
+105896|Sonnental City- und Wellness Swiss Quality Hotel|Dübendorf|YES|stars_3
+106467|Engiadina|Zuos|NO|stars_4
+106472|La Couronne|Zermatt|NO|stars_3
+106559|Dala|Leukerbad|NO|stars_3
+106573|Daniela|Zermatt|NO|stars_4
+106584|DasBreiteHotel|Basel|NO|stars_3
+106658|De la Nouvelle Couronne|Morges|NO|stars_3
+106705|Matterhorn Valley Desirée|Grächen|NO|stars_3
+106736|Domaine de Chateauvieux|Satigny|NO|stars_4
+106794|E&G Alpenblick|Heiligenschwendi|NO|stars_3
+106871|Elite Lausanne|Lausanne|NO|stars_3
+106876|EMA House Zurich Suite|Zurich|NO|stars_3
+106904|Swiss Quality Esplanade|Davos-Dorf|YES|stars_3
+106927|Europe|Zermatt|NO|stars_4
+106928|Europe|Brig|NO|stars_3
+106959|Glärnischhof|Zurich|NO|stars_4
+107018|Holiday Inn Express Luzern - Neuenkirch|Rothenburg|NO|stars_3
+107054|Falken|Lucerne|NO|stars_2.5
+107136|Rixos Flüela Davos|Davos-Dorf|YES|stars_5
+107138|Fly Away|Kloten|NO|stars_3
+107141|Fontana|Twann|NO|stars_3
+107201|Derby|Interlaken|NO|stars_3
+107202|Garni Slalom|Bettmeralp|NO|stars_3
+107252|Gletschergarten Chalet-Hotel|Grindelwald|NO|stars_3
+107442|Greulich|Zurich|NO|stars_4
+107878|Hostellerie Du Pas De L Ours|Crans Montana|NO|stars_4
+107884|Hostellerie Les Chevreuils|Lausanne|NO|stars_3
+108040|Innere Enge|Bern|NO|stars_4
+108138|Romantik Hotel Julen|Zermatt|NO|stars_4
+108212|Krebs|Interlaken|NO|stars_4
+108218|Krone|Lenk|NO|stars_3
+108219|Krone|Sarnen|NO|stars_4
+108226|Volksheilbad Kur- und Ferienhaus|Leukerbad|NO|stars_3
+108262|La Cour Des Augustins|Geneva|YES|stars_4
+108329|Landgasthof Hirschen|Ramsen SH|NO|stars_3
+108334|Landhotel Golf|Interlaken|NO|stars_3
+108339|Languard|St. Moritz|NO|stars_3
+108375|Le Cedre|Bex|NO|stars_4
+108389|Le Grenil|Geneva|NO|stars_3
+108462|Lenzerhorn Spa & Wellness|Lenzerheide|NO|stars_4
+108477|Les Sources des Alpes|Leukerbad|NO|stars_5
+108504|Lindner Golf & Ski Rhodania - vorübergehend geschlossen|Crans Montana|NO|stars_4
+108551|Lotschberg|Interlaken|NO|stars_3
+108573|Magic|Lucerne|NO|stars_3
+109062|A la Chotte|Lausanne|NO|stars_3
+109064|Al Giardinetto|Biasca|NO|stars_3
+109066|Alpfrieden|Bettmeralp|NO|stars_3
+109067|Alpstubli|Stoos|NO|stars_2
+109069|Bären|Suhr|NO|stars_3
+109070|Bärgsunne|Hondrich|NO|stars_3
+109071|Beau-Sejour|Leukerbad|NO|stars_3
+109072|Beau-Séjour|Champery|NO|stars_3
+109074|Bellevue|San Bernardino|NO|stars_2
+109075|Bellevue|Wengen|NO|stars_3
+109077|Kernen|Schönried|NO|stars_3
+109082|De l'Aigle|Couvet|NO|stars_3
+109088|Minotel Forni|Airolo|NO|stars_3
+109089|Glacier|Champex|NO|stars_3
+109095|Hilton Garden Inn Davos|Davos-Dorf|NO|stars_4
+109096|Madrisajoch|St. Antönien|NO|stars_2
+109097|Metropol & Spa|Zermatt|NO|stars_4
+109098|Minusio|Minusio|NO|stars_3
+109169|Morosani Schweizerhof|Davos-Platz|NO|stars_4
+109179|Mountain Hostel|Grindelwald|NO|stars_2
+109181|Albergo Carcani|Ascona|NO|stars_3
+109334|Novotel Lausanne Bussigny|Bussigny|NO|stars_4
+109550|Garni Paradis|Leukerbad|NO|stars_2
+109645|Phoenix|Geneva|NO|stars_2.5
+109763|Quadratscha Swiss Quality|St. Moritz|YES|stars_4
+109810|Design F6|Geneva|NO|stars_3
+109993|Radisson Blu Zürich Airport|Zurich|NO|stars_4
+110135|Résidence Studio Genève Centre|Geneva|NO|stars_1.5
+110155|Rhodania|Albinen|NO|stars_2
+110158|Rex|Zermatt|NO|stars_4
+110325|Romantica|Zermatt|NO|stars_3
+110656|Rustica|Frutigen|NO|stars_3
+110662|Hotel Säntispark|Abtwil|NO|stars_4
+110738|Savoy Baur en Ville|Zurich|YES|stars_0
+110754|Parkhotel Schloss Hünigen Swiss Quality|Konolfingen|YES|stars_4
+110758|Schloss-Hotel Swiss-Chalet|Lucerne|NO|stars_3.5
+110780|Seedamm Plaza|Pfäffikon ZH|YES|stars_4
+110783|Pilatus|Hergiswil|NO|stars_4
+110951|Sonne|St. Moritz|NO|stars_3
+110955|Krone|Winterthur|YES|stars_3
+110967|Spalentor|Basel|NO|stars_4
+110980|Vista Resort Hotel|Zweisimmen|NO|stars_3
+110983|Comfort Egerkingen|Egerkingen|NO|stars_3
+111035|Suite Novotel Geneve|Geneva|NO|stars_3
+111305|Tivoli|Schlieren|NO|stars_3
+111449|Untertor|Altstätten|NO|stars_3
+111597|Visperhof|Visp|NO|stars_3
+111608|Waldhaus|Sils-Maria|NO|stars_5
+111616|Walliserhof|Leukerbad|NO|stars_3
+111618|Walther|Pontresina|NO|stars_4
+111641|Welschen|Zermatt|NO|stars_3
+111654|Widder|Zurich|NO|stars_5
+111756|Residence|Zweisimmen|NO|stars_3
+111763|Beaulac|Neuchâtel|NO|stars_4
+111786|Bellerive|Lausanne|NO|stars_3
+111821|Best Western de la Rose|Fribourg|NO|stars_3
+111823|de Geneve|Geneva|NO|stars_2
+111846|Palafitte Chateaux & De France|Neuchâtel|NO|stars_5
+122300|Parkhotel Bellevue|Lenk|NO|stars_3
+124176|Lido|Geneva|YES|stars_2
+124177|Alpina|Lucerne|NO|stars_3
+124178|Aparthotel|Opfikon|YES|stars_3
+125583|Alpensonne|Arosa|NO|stars_3
+125958|Lady's First|Zurich|NO|stars_3
+125960|Basilea Swiss Quality Zürich|Zurich|YES|stars_3
+127550|Donatz|Samedan|NO|stars_3
+127596|Sorell Hotel Argovia|Aarau|YES|stars_3
+127617|Villa Carona|Carona|NO|stars_3
+127620|Club|La Chaux-de-Fonds|NO|stars_3
+127936|Budget Motel|Regensdorf|NO|stars_3
+128042|La Clef Des Champs|Vue-des-Alpes|NO|stars_2.5
+133827|Hirschen|Grindelwald|NO|stars_3
+133828|Bernerhof|Grindelwald|NO|stars_3
+133830|Rössli|Interlaken|NO|stars_2
+133833|Le Chamois Swiss Quality|Les Diablerets|NO|stars_3
+133837|Elite|Täsch|NO|stars_3
+133838|Welcome|Täsch|NO|stars_3
+133839|Testa Grigia|Zermatt|NO|stars_3
+134239|Schweizerhof|Weggis|NO|stars_3
+134789|Best Western Metropol Grand|Saas-Fee|NO|stars_4
+134843|Berghof Garni|Saas-Fee|NO|stars_3
+134995|Activ Kronen Hotel - geschlossen|Andermatt|NO|stars_3
+134996|Sporthotel Pontresina|Pontresina|YES|stars_3.5
+134997|Grüsch|Grüsch|NO|stars_3
+135221|Chalet Fougères|Nendaz|NO|0
+135768|Schweizerhof|Sils-Maria|YES|stars_3
+136391|Sempachersee Swiss Quality|Nottwil|YES|stars_3
+136745|Adagio Basel City|Basel|NO|stars_3
+136845|Coronado|Mendrisio|YES|stars_4
+137731|Sonne Interlaken|Interlaken|NO|stars_3
+139114|Mirafiori Swiss Quality|Orselina|NO|stars_3
+139555|Ceresio|Lugano|NO|stars_3
+139625|Eden Montana|Ilanz|NO|stars_4
+139853|Crestas|Brigels|NO|stars_3
+140643|Casa Berno|Ascona|NO|stars_4
+140645|Bellevue Terminus|Engelberg|NO|stars_3
+140649|Aux Mille Etoiles|Les Marécottes|NO|stars_3
+143769|Chesa Pool|Sils-Maria|NO|stars_3
+143788|Davoserhof|Davos-Platz|NO|stars_3
+151011|Le Rivage|Lutry|NO|stars_3
+151012|La Barcarolle|Prangins|NO|stars_4
+151017|Parc des Eaux-Vives|Geneva|NO|stars_4
+151019|Ibis Genève Aéroport|Cointrin|NO|stars_2
+151022|Beau Rivage|Nyon|NO|stars_4
+151028|La Prairie Philippe Guignard|Yverdon-les-Bains|NO|stars_4
+151030|St. Louis Bateau Fribourg|Delley-Portalban|NO|0
+151037|Ibis Fribourg|Granges-Paccot|NO|stars_2
+151039|De la Vieille Tour|La Tour-de-Peilz|NO|stars_3
+151041|Tralala|Montreux|NO|stars_3
+151046|Chalet Royalp Hotel & Spa|Villars / Ollon|NO|stars_5
+151050|Ibis Sion Est|Sion|NO|stars_2
+151061|Goldener Schlüssel|Bern|NO|stars_3
+151062|Alpenblick|Bern|NO|stars_3
+151063|Ibis Bern Expo|Bern|NO|stars_2
+151064|Holiday Inn Bern Westside|Bern|NO|stars_4
+151066|Sternen Muri|Muri bei Bern|NO|stars_4
+151067|Murtenhof & Krone|Murten|NO|stars_3
+151068|SeePark Hotel|Murten|NO|stars_4
+151074|Parkhotel Bellevue|Adelboden|NO|stars_4
+151087|Aspen|Grindelwald|NO|stars_4
+151088|Parkhotel Schoenegg|Grindelwald|NO|stars_3
+151089|Tschuggen|Grindelwald|NO|stars_2
+151096|Alex|Naters|NO|stars_4
+151097|Bristol|Saas-Fee|NO|stars_3
+151098|Walser|Saas-Fee|NO|stars_3
+151103|Admiral|Zermatt|NO|stars_3
+151104|Bella Vista|Zermatt|NO|stars_3
+151111|Art de Vivre|Crans Montana|NO|stars_4
+151112|Alpina & Savoy|Crans Montana|NO|stars_4
+151113|Olympic|Crans Montana|NO|stars_3
+151119|Teufelhof|Basel|NO|stars_3
+151124|Im Schlosspark|Binningen|NO|stars_4
+151126|Seminarhotel Schützen|Rheinfelden|NO|stars_3
+151127|Roter Turm|Solothurn|NO|stars_3
+151141|Rösli Guest House|Lucerne|NO|stars_3
+151143|Tourist Hotel|Lucerne|NO|stars_1.5
+151145|Rebstock|Lucerne|NO|stars_4
+151146|Ibis Kriens|Lucerne|NO|stars_3
+151150|Rössli|Alpnachstad|NO|stars_3
+151153|Vogelsang|Eich|NO|stars_4
+151157|SeminarHotel am Ägerisee|Unterägeri|YES|stars_4
+151159|Ibis Baar Zug|Baar|NO|stars_2.5
+151161|Post Weggis|Weggis|NO|stars_4
+151175|Alexandra|Muralto-Lacarno|NO|stars_3
+151176|Garni Nessi|Locarno|NO|stars_3
+151178|Fondazione Monte Verità|Ascona|NO|stars_3
+151179|Collinetta|Ascona|NO|stars_3
+151184|Frutt Lodge & Spa|Melchsee-Frutt|NO|stars_4
+151185|Albergo Pestalozzi|Lugano|NO|stars_2
+151189|Best Western Sommerau|Chur|NO|stars_3
+151191|Ibis Chur|Chur|NO|stars_3
+151193|Cresta|Flims|NO|stars_3
+151194|Bellaval|Laax|NO|stars_3
+151196|Hemmi|Churwalden|NO|stars_3
+151198|Krüzli|Sedrun|NO|stars_3
+151201|Landgasthof Sommerfeld|Jenaz|NO|stars_3
+151204|Alpina|Davos-Platz|NO|stars_2
+151205|Garni Torkelbündte|Bad Ragaz|NO|stars_3
+151208|Albula & Julier|Tiefencastel|NO|stars_3
+151211|Nolda|St. Moritz|NO|stars_3
+151212|Chesa Spuondas|St. Moritz|NO|stars_3
+151217|Station|Pontresina|NO|stars_3
+151218|Albris|Pontresina|NO|stars_3
+151219|Bernina|Pontresina|NO|stars_3
+151223|Schweizerhaus Swiss Quality Hotel|Maloja|NO|stars_4
+151226|Crusch Alba|Zernez|NO|stars_3
+151228|Münsterhof|Müstair|NO|stars_3
+151231|Romantik Boutique-Hotel GuardaVal|Bad Scuol / Scuol/ Schuls|NO|stars_4
+151253|Kronenhof|Schaffhausen|YES|stars_3
+151257|Die Krone|Gottlieben|NO|stars_3
+151258|Plaza|Kreuzlingen|NO|stars_4
+151260|Ibis Winterthur City|Winterthur|NO|stars_3
+151267|Illuster Hotel|Uster|NO|stars_3
+151275|Sedartis|Thalwil|NO|stars_4
+151276|Alexander am See|Thalwil|NO|stars_3
+151278|Linde|Einsiedeln|NO|stars_3
+151279|Swiss Quality Sommerau-Ticino|Dietikon|YES|stars_3
+151280|Sorell Arte|Spreitenbach|YES|stars_3
+151283|Sorell City Weissenstein|St. Gallen|YES|stars_3
+151286|Sporting|St. Gallen|NO|stars_2
+151289|Romantikhotel Säntis|Appenzell|NO|stars_4
+151291|Frohe Aussicht|Weissbad|NO|stars_2
+151292|Uzwil|Uzwil|NO|stars_4
+151293|Metropol|Arbon|NO|stars_4
+151294|Bad Horn|Horn|NO|stars_4
+151296|Rebstock|Rorschacherberg|NO|stars_3
+151301|Alvier|Wartau|NO|stars_3
+151302|Münchwilen|Münchwilen|NO|stars_4
+151306|Wellness-Chasa Montana|Samnaun|NO|stars_4
+182329|Garni Bernerhof|Walzenhausen|NO|stars_3
+182633|Mountain Paradise|Zermatt|NO|stars_3
+182638|Sternen|Nesslau|NO|stars_3
+182654|Muntanella|Ardez|NO|stars_3
+182655|Bellaval|Bad Scuol / Scuol/ Schuls|NO|stars_3
+182683|Cervus|St. Moritz|NO|stars_4
+182722|Holiday Inn Zürich Messe|Zurich|NO|stars_4
+183087|Landhaus|Gstaad Saanen|NO|stars_3
+184181|Parkhotel Brenscino|Brissago|NO|stars_3.5
+184192|Hotel Du Lac|Wädenswil|NO|0
+184200|Bad Eptingen|Eptingen|NO|stars_3
+184202|Wasserwendi|Hasliberg|NO|stars_1.5
+184211|Hotel Post|Bivio|NO|stars_3
+184214|Silvapina|Klosters|NO|stars_2
+184229|Landhaus|Münster VS|NO|0
+184231|Bellwald|Bellwald|NO|stars_3
+184346|Seehotel Riviera|Gersau|NO|stars_3
+184349|Landgasthof Rösslipost|Unteriberg|NO|stars_3
+184362|Le Grand Chalet|Leysin|NO|stars_3
+184375|Alpenhof|Oberwald|NO|stars_3
+185543|Swiss Die Krone|Kreuzlingen|NO|stars_4
+187549|Hotel de l'Ecluse|Neuchâtel|NO|stars_3
+187741|Weisses Rössli|Staad SG|NO|stars_3
+189436|Albatros|Zermatt|NO|stars_4
+189447|Alpe Fleurie|Villars / Ollon|NO|stars_3
+189453|Alpenruhe Kulm|Wengen|NO|stars_3
+189454|Alpina Klosters|Klosters|NO|stars_4.5
+189464|America|Locarno|NO|stars_3
+189472|Apartments Swiss Star Zürich-Aussersihl|Zurich|NO|stars_2
+189476|Apartments Morgartenstrasse|Zurich|NO|stars_3
+189477|Apartments Zürich-Oberstrass Universitätsstrasse|Zurich|NO|stars_3
+189480|Apartments Zürich-Wiedikon Zelgstrasse|Zurich|NO|stars_3
+189481|Arabella Sheraton Atlantis - geschlossen|Zurich|YES|stars_5
+189489|Astoria|Leukerbad|NO|stars_3
+189492|Au Bivouac de Napoléon|Bourg-Saint-Pierre|NO|stars_3
+189499|Auberg'inn|Neuchâtel|NO|stars_2
+189507|Balade Basel|Basel|NO|stars_3
+189514|Beau Rivage|Zermatt|NO|stars_4
+189522|Bellevue|Spiez|NO|stars_2
+189534|Best Western Stuecki Basel|Basel|NO|stars_3
+189543|Britannia|Saas-Fee|NO|stars_2
+189547|California House Zurich|Zurich|NO|stars_3
+189551|Carpe Diem|Saas-Fee|NO|stars_3
+189553|Casa Della Luce|Zermatt|NO|stars_4
+189556|B&B Casa Romantica|Arlesheim|NO|stars_3
+189561|Central Am See Weggis|Weggis|NO|stars_3
+189567|Chalet dei Fiori B & B Ronco|Bedretto|NO|stars_3
+189574|Chesa Surlej Hotel Silvaplana|Silvaplana|NO|stars_3
+189585|Corvatsch|St. Moritz|NO|stars_3
+189587|Cresta Palace|St. Moritz|NO|stars_4
+189600|De la Paix|Interlaken|NO|stars_3
+189603|De La Tour|La Tour-de-Trême|NO|stars_3
+189607|De l'Etrier|Crans Montana|NO|stars_4
+189625|Des Trois Rois Le Locle|Le Locle|NO|stars_3
+189653|Edelweiss|Wengen|NO|stars_2
+189655|Eden|St. Moritz|NO|stars_3
+189668|Firefly Zermatt|Zermatt|NO|stars_4
+189685|Garni Artemis|Zermatt|NO|stars_3
+189689|Millennium|Locarno|NO|stars_3
+189704|Gasthof Schönegg|Goldswil bei Interlaken|NO|stars_3
+189707|Genève Cottage|Versoix|NO|stars_3
+189712|Les Hauts de Gstaad Golfhotel|Saanenmöser|NO|stars_4
+189713|Gottardo Garni Locarno|Locarno|NO|stars_2
+189718|Waldhaus Flims Mountain Resort & Spa - Chalet Belmont|Flims|NO|stars_4
+189720|Grand Hotel Les Endroits La Chaux-de-Fonds|La Chaux-de-Fonds|NO|stars_4
+189724|Grindelwalderhof|Grindelwald|NO|stars_3
+189734|Hemizeus Apparthotel Zermatt|Zermatt|NO|stars_3
+189735|Himmelrich Kriens|Kriens|NO|stars_3
+189740|Hofgarten|Lucerne|NO|stars_4
+189744|Die Perle|Perlen|NO|stars_3
+189748|Ibis Basel Bahnhof|Basel|NO|stars_2
+189749|Ibis Locarno|Locarno|NO|stars_2.5
+189754|Internazionale|Bellinzona|YES|stars_3
+189758|Jägerhof|Zermatt|NO|stars_3
+189771|Kessler's Kulm|Davos|NO|stars_3
+189772|Alpina|Lenzerheide|NO|stars_3
+189775|La Colombière|Le Grand-Saconnex|YES|stars_3
+189780|La Longeraie|Morges|NO|stars_3
+189784|La Perle|Zermatt|NO|stars_4
+189804|Le Bourg 7|Lutry|NO|stars_4
+189808|Le Grand Chalet|Gstaad|NO|stars_4
+189818|LeCrans Hotel & Spa|Crans Montana|NO|stars_5
+189835|Limmathof Baden Hotel & Novum Spa|Baden|NO|stars_4
+189846|Maloja Palace|Maloja|NO|stars_4
+189851|Mattmarkblick|Saas-Almagell|NO|stars_3
+189853|Milano Mendrisio|Mendrisio|NO|stars_3
+189867|Monte-Moro Saas-Almagell|Saas-Almagell|NO|stars_3
+189869|Morgana Mendrisio|Mendrisio|NO|stars_3
+189875|Oberland|Lauterbrunnen|NO|stars_2
+189885|Baur|Disentis|NO|stars_3
+189896|Phoenix|Zermatt|NO|stars_3
+189902|Post Hardermannli|Interlaken|NO|stars_2
+189914|Maraini Resort|Lugano|NO|stars_3
+189917|Résidence du Chamossaire Leysin|Leysin|NO|stars_3
+189920|Residence St James|Geneva|NO|stars_3
+189931|Jardin|Bern|NO|stars_3
+189936|Resslirytti|Basel|NO|stars_3
+189938|Rössli|Bad Ragaz|NO|stars_3
+189948|Sunstar|Saas-Fee|NO|stars_4
+189949|Villa Orselina|Orselina|NO|stars_5
+189986|Seestrasse Apartments Drei Könige Zurich|Zurich|NO|stars_3
+189994|Smart Hotel Samnaun|Samnaun|NO|stars_3
+189999|Sorell Aparthotel Rigiblick|Zurich|YES|stars_3
+190005|Kurhaus|Klosters|NO|stars_3
+190006|Sporthotel Samedan|Samedan|NO|stars_3
+190007|Hotel St. Georg|Einsiedeln|NO|stars_3
+190009|Statt Zurich|Zurich|NO|stars_1
+190010|Hotel & Backpackers ZAK|Schaffhausen|NO|stars_1
+190024|Thorenberg|Lucerne|NO|stars_3
+190026|Toggenburg Wildhaus|Wildhaus|NO|stars_3
+190027|Tor Geneva|Geneva|NO|stars_3
+190032|Union Lausanne|Lausanne|NO|stars_3
+190054|Walter Au Lac Lugano|Lugano|NO|stars_3
+190060|Zunfthaus zu Wirthen Hotel Solothurn|Solothurn|NO|stars_3
+196205|Alpes et Lac|Neuchâtel|NO|stars_3
+196210|Blume|Baden|YES|stars_0
+196212|Auberge de la Gare|Grandvaux|NO|stars_3
+196213|Bon Port|Montreux|NO|stars_3
+196216|Cervo|Zermatt|NO|stars_5
+196219|Chalet des Alpes|Lens VS|NO|stars_4
+196220|Stella Alpina Chalet|Bedretto|NO|stars_3
+196225|Forum|Widnau|NO|stars_2
+196232|Hostellerie Le Petit Manoir|Morges|NO|stars_4
+196237|Hôtel des Vignes|Sion|NO|stars_4
+196241|Helvetia|Zurich|NO|stars_3
+196243|Hubertus|Obergesteln|NO|stars_3
+196245|Matterhorn Focus|Zermatt|NO|stars_4
+196254|Steinbock|Pontresina|NO|stars_3
+196255|Twannberg|Twann|NO|stars_3
+196256|Valbella Inn Resort|Valbella|NO|stars_4
+196257|Viktoria Eden|Adelboden|NO|stars_3
+196258|Villa Maria|Vulpera|NO|stars_3
+196265|Jenatsch Apartments|Zurich|NO|stars_4
+196278|Post|Sils-Maria|NO|stars_4
+196286|Schwan und Taverne|Horgen|NO|stars_3
+196290|Spannort|Engelberg|NO|stars_3
+196291|Mulin Berglodge Brigels|Brigels|NO|stars_3
+196298|VitalSamnaunerhof|Samnaun|NO|stars_3
+196300|Walliser Sonne|Gluringen|NO|stars_2
+197178|Favini|Magadino|NO|stars_2.5
+197179|Sardona|Elm|NO|stars_3
+201513|Romantik Schweizerhof|Flims|NO|stars_4
+201778|Centrum|Saas-Fee|NO|stars_2
+201780|Alpenhof-Post Melchtal|Melchsee-Frutt|NO|stars_2
+203521|Courtyard Basel|Pratteln|NO|stars_4
+204669|Antika|Zermatt|NO|stars_3
+206054|Bellerive Gstaad|Gstaad|NO|stars_3
+206594|Büel|St. Antönien|NO|stars_3
+208674|Edelweiss|Davos-Platz|NO|stars_2
+209522|Garni Annita|Locarno|NO|stars_2
+209525|Garni Chesa Mulin|Pontresina|NO|stars_3
+211085|Cristal|Grimentz|NO|stars_3
+211366|Pax|Geneva|NO|stars_2
+211627|Ibis Lausanne Centre|Lausanne|NO|stars_2
+212578|La Val|Brigels|NO|stars_4
+215347|Fontana Passugg|Passugg|NO|stars_2
+215563|Pizzo Vogorno|Vogorno|NO|stars_2
+217182|Rheinfelderhof|Basel|NO|stars_2
+218285|Sport-Lodge Klosters|Klosters|NO|stars_3
+218382|Station Zug|Zug|YES|stars_3
+220521|Villette|Zurich|NO|stars_2
+221604|Conca Bella|Vacallo|NO|stars_3
+221691|de la Lande|Le Chenit|NO|stars_3
+222005|Gasthof Kreuz|Welschenrohr|NO|0
+222762|Matterhorn Golf|Randa|NO|stars_2
+226497|Romantik Wilden Mann|Lucerne|NO|stars_4
+226551|Seiler Monte Rosa|Zermatt|NO|stars_4
+226552|Basic Arosa|Arosa|NO|stars_2
+227350|Alte Post|Davos-Platz|NO|stars_2
+227677|Matterhorn Resort|Täsch|NO|stars_3
+227761|Walserhof|Medels|NO|stars_2
+227762|Crusch Alva|Zuos|NO|stars_3
+228225|Cucagna Hostel|Disentis|NO|stars_2
+228407|Ramada Feusisberg-Einsiedeln|Feusisberg|NO|stars_4
+228580|Ochsen 2|Davos-Platz|NO|stars_3
+231905|Nira Alpina|Silvaplana|NO|stars_4
+232617|Wellnesshotel Golfpanorama|Lipperswil|NO|stars_4
+232629|The Lodge|Verbier|NO|stars_6
+232915|Matthiol|Zermatt|NO|stars_4
+232932|Chalet La Pentiere|Veysonnaz|NO|0
+232933|Chalet Krystyna|Veysonnaz|NO|0
+233917|Ramada Zürich City|Zurich|YES|stars_4
+235617|Feriendorf Rustici della Verzasca|Vogorno|NO|stars_3
+236971|Minotel de Ville|L'Abbaye|NO|stars_3
+237145|City Inn Basel|Basel|NO|stars_3
+237609|Rancho Laax|Laax|NO|stars_3
+238213|Renaissance Zürich Tower|Zurich|NO|stars_5
+238692|Burgener|Saas-Fee|NO|stars_2
+238800|Mountain Exposure Zermatt|Zermatt|NO|stars_3.5
+238801|Mountain Exposure|Saas-Fee|NO|stars_5
+239296|Holiday Inn Express Zürich Airport|Zurich|NO|stars_3
+239398|Iglu-Dorf Davos|Davos|NO|stars_3
+242873|Matterhorn Valley Walliserhof|Grächen|NO|stars_3
+243527|Starling Lausanne|Saint-Sulpice|NO|stars_4
+243529|Residence Loren|Zurich|NO|stars_3.5
+247179|Giardino Mountain|St. Moritz|NO|stars_5
+249611|Le Forum|Martigny|NO|stars_3
+249612|Minotel Chez Chibrac|Mont Pelerin|NO|stars_3
+249949|Hotel Kapplerhof|Ebnat-Kappel|NO|stars_3
+250094|Giardino Lago|Minusio|NO|stars_5
+259314|Mira Tödi|Feldis|NO|0
+259329|Frisal|Brigels|NO|0
+259349|Lötschberg|Kippel|NO|stars_2
+259351|Krone|Brülisau|NO|0
+259485|25hours Zürich West|Zurich|NO|stars_3
+260199|Alpadze Lou Kra|Champoussin|NO|0
+260550|Zum Ochsen|Arlesheim|NO|stars_4
+261552|Backstage|Zermatt|NO|stars_4
+261750|Oberwaid Kurhaus & Medical Center|St. Gallen|NO|stars_4
+269772|Popcorn|Saas-Fee|NO|stars_3
+269838|Arosa Vetter Hotel|Arosa|NO|stars_3
+269839|Hof Maran Golf & Sporthotel|Arosa|NO|stars_4
+270695|Citystudios|Zurich|NO|stars_3
+270696|Platzhirsch Hotel & Bar|Zurich|NO|stars_2.5
+270697|Guesthouse Gertrudstraße|Zurich|NO|stars_3
+270699|Guesthouse Brauerstraße|Zurich|NO|stars_2
+270700|Guesthouse Dienerstrasse|Zurich|NO|stars_3
+270701|Letzigrund Apartments|Zurich|NO|stars_4
+270956|Al Faro|Ascona|NO|stars_3
+270959|Boutique Hotel La Rinascente|Locarno|NO|stars_3
+270961|Jungfrau|Wilderswil|NO|stars_3
+270963|Reine Victoria|St. Moritz|NO|stars_4
+270965|Pension Heino|Saas-Grund|NO|stars_2
+270966|Roby|Saas-Grund|NO|stars_2
+270968|Chalet Kisseye|Zermatt|NO|stars_5
+270969|Haus Sonnheim|Zermatt|NO|stars_3
+270971|Casa della Vita|Zermatt|NO|stars_5
+271326|Schloss Hotel Wellness & Family|Pontresina|NO|stars_4
+271327|Trübsee Alpine Lodge|Engelberg|NO|stars_3
+271330|Residence Brunner|Wengen|NO|stars_2.5
+271333|Hôtel des Alpes by Bruno Kernen|Gstaad Saanen|NO|stars_4
+271334|Fiescherhof|Fiesch|NO|stars_3
+271358|Apartments Justingerweg|Bern|NO|stars_4
+271359|Le Stelle|Lucerne|NO|stars_3
+271360|Hotel D|Basel|NO|stars_4
+271361|B&B Auf dem Wolf - St. Jakob|Basel|NO|stars_4
+271810|Wannenhorn|Bellwald|NO|stars_3
+272203|Alpina Pension|Tschappina|NO|stars_2
+274849|Apart Hotel Garni Chasa Alvetern|Samnaun|NO|stars_3
+274850|Waldpark|Samnaun|NO|stars_4
+274972|Haus Bergdohle|Randa|NO|stars_3
+274975|Alpadze Lou Kra|Val d'Illiez|NO|0
+274976|Thermes Parc les Bains du Val d'Illiez|Val d'Illiez|NO|stars_3
+274977|Hôtel de l'Etable|Val d'Illiez|NO|stars_3
+274978|Du Port|Villeneuve|NO|stars_3
+275263|Krone|Buochs|NO|stars_3
+275899|Bären|Solothurn|NO|stars_3
+275957|Paxmontana Gasthaus|Flüeli-Ranft|NO|stars_3
+276071|Rovere|Losone|NO|stars_3
+276085|Alpine Comfort|Nendaz|NO|stars_4
+276086|Alpvision Résidences Nendaz|Nendaz|NO|stars_3
+276197|Fünf Dörfer Sportcenter|Zizers|NO|stars_3
+276259|Ziil|Kreuzlingen|NO|stars_3
+276866|Sonne Balance Swiss Q Hotel|Eich|NO|stars_3
+277062|Morosani Fiftyone|Davos|NO|stars_4
+277063|Ducan|Davos|NO|stars_3
+277108|Rischli|Flühli|NO|stars_3
+277396|Villa Post Swiss Q Vulpera Hotel|Tarasp|NO|stars_3
+281212|Ibis Bulle La Gruyere|Bulle|NO|stars_2
+284616|ibis Delemont Delsberg|Delemont|NO|stars_3
+286370|The Alpina Gstaad|Gstaad Saanen|NO|stars_5
+286380|Coop Bildungszentrum|Basel|YES|stars_3
+287332|Motel de Rennaz|Yverdon-les-Bains|YES|stars_0
+287897|Le Castel Hostellerie|Le Pâquier|NO|stars_2
+289721|Ronco|Ronco sopra Ascona|NO|stars_3
+290024|Urs & Viktor|Grenchen|NO|stars_3
+290733|Albergo Svizzero|Capolago|NO|stars_2
+291343|Chalet Aneto|Bagnes|NO|stars_3
+291366|Astoria|Ulrichen|NO|stars_3
+291767|Crans Luxury Lodges|Randogne|NO|stars_4
+291924|Hotel Schweizerhaus|Bregaglia|NO|stars_4
+291926|Hotel Zappa|Brusino Arsizio|NO|stars_2
+291929|Royal|Crans Montana|NO|stars_5
+291930|Grotto Flora|Collina d'Oro|NO|stars_3
+291931|Hotel Villa Honegg|Ennetbürgen|NO|stars_5
+291932|Hacienda Hôtel|Givisiez|NO|stars_3
+291933|Oasis|Moutier|NO|stars_3
+291934|Zak|Neuhausen am Rheinfall|NO|stars_2
+291935|Hotel Rheinfall|Neuhausen am Rheinfall|NO|stars_3
+291936|Victoria|Paradiso|NO|stars_3
+291937|De la Poste|Riddes|NO|stars_2
+291938|Aparthotel Rotkreuz|Rotkreuz|NO|stars_4
+291941|Surselva|Surcuolm|NO|stars_3
+291942|Linde|Teufen|NO|stars_3
+291943|Rêves Gourmands|Vernayaz|NO|stars_3
+291944|Bleichibeiz|Wald|NO|stars_3
+295881|Waldhaus Flims Mountain Resort & Spa - Grand Hotel Waldhaus|Flims|NO|stars_5
+295882|Silvana|Zermatt|NO|stars_3
+295921|Edi|Samnaun|NO|stars_3
+295922|Emmental|Thun|NO|stars_3
+295923|Alpine Village Lauchernalp|Wiler-Lötschen|NO|0
+296558|Hotel Bellevue & Hotel Pilatus-Kulm|Kriens|NO|stars_3
+297006|Albergo Croce Bianca|Poschiavo|NO|stars_3
+297332|Alpha Premiers|Lausanne|NO|stars_4
+297945|City West|Chur|NO|stars_3.5
+299261|Alpendörfli Wildi - Alpenperle|Saas-Fee|NO|stars_3
+299837|Le Green|Crans Montana|NO|stars_3
+300685|Clarion Collection Lavaux|Cully|NO|stars_3
+300853|Appartments Terra Alpinea|Samnaun|NO|stars_4
+301419|Adagio Geneve Mont Blanc|Geneva|NO|stars_4
+301420|Ibis Lugano Paradiso|Lugano|NO|stars_2.5
+302688|Swiss Luxury Appartments|Geneva|NO|stars_4.5
+302694|Derby|Saas-Fee|NO|stars_3
+302707|La Collina|Saas-Fee|NO|stars_3
+303226|Komplex Bergheimat & Moonlight - Bergheimat|Saas-Grund|NO|stars_2
+303230|Alpenlodge|Zermatt|NO|stars_3
+303254|City|Zermatt|NO|stars_3
+303269|Welcome, Hotel Bed & Breakfast|Zermatt|NO|stars_4
+303279|Bella Lui|Crans Montana|NO|stars_3
+304674|Quelle|Bad Ragaz|NO|stars_3
+305170|Hôtel de la Paix|Champery|NO|stars_3
+307188|Lodge Alpes et caetera|Vercorin|NO|stars_5
+308124|Waldhaus am See|Valbella|NO|stars_3
+308595|Hotel Post|Sargans|NO|stars_3
+308631|Bestzeit Hotel und Sport|Parpan|NO|stars_4
+309113|Eremitage|Arlesheim|NO|stars_3
+309214|Ibis Genève Centre Nations|Geneva|YES|stars_2
+309707|Du Léman|Jongny|YES|stars_0
+309718|Bad Balgach|Rorschach|NO|stars_3
+309758|Aux Remparts|Fribourg|NO|stars_4
+309777|Camona & Walserhof|Samnaun|NO|stars_3
+309783|Ferienresidenz Soliva|Samnaun|NO|stars_3
+309846|Seeburg|Ringgenberg|NO|stars_2
+310119|La Barca Blu|Orselina|NO|stars_3
+310352|Römerhof|Arbon|NO|stars_3
+310803|Crystal|Davos-Platz|NO|stars_3
+310963|Dépendance dell'Angelo|Locarno|YES|stars_3
+310970|Priva Alpine Logde Lenzerheide|Lenzerheide|NO|stars_4
+314335|Chalet Mittelegi|Grindelwald|NO|stars_4
+333027|Hotel Freihof|Unterägeri|YES|stars_3
+335004|InterContinental Davos|Davos-Dorf|NO|stars_5
+352157|Bed & Breakfast Chalet Suisse|Morgins|NO|stars_3
+352578|Venus, Haus|Zermatt|NO|stars_3.5
+352825|Arcade|Saas-Fee|NO|stars_3
+353307|The Lodge|Champery|NO|stars_4
+354403|Alexander & Gerbi - Alexander|Weggis|NO|stars_4
+354404|Alexander & Gerbi - Gerbi|Weggis|NO|stars_4
+359433|Paxmontana Jugendstil-Hotel & Gasthaus|Flüeli-Ranft|NO|0
+359437|Iglu-Dorf - Zermatt|Zermatt|NO|stars_3
+359473|The Chedi Andermatt|Andermatt|NO|stars_5
+359868|Dorint Blüemlisalp Beatenberg-Interlaken - Hotel|Beatenberg|NO|stars_4
+359869|Dorint Blüemlisalp Beatenberg-Interlaken - Ferienwohnungen|Beatenberg|NO|stars_4
+363686|Casa Heinrich|Zurich|NO|stars_3
+363689|Jolimont Ferienwohnungen|Zermatt|NO|stars_4
+365077|W Verbier|Verbier|YES|stars_5
+365387|Sheraton Zürich|Zurich|YES|stars_4
+365412|Ferienanlage Hof Arosa|Arosa|NO|stars_3
+365470|Central Sporthotel Davos - Appartmenthaus|Davos-Platz|NO|stars_4
+367899|Apartments Swiss Star Aemtlerstrasse|Zurich|NO|stars_3
+371588|SwissEver Hotel Zug|Cham|NO|stars_3
+371590|Aquafit|Sursee|NO|stars_4
+382898|Waldhotel Hohberg Business- Seminar|Schaffhausen|NO|stars_3
+388748|Hotel Swiss Star|Wetzikon|NO|stars_4
+391139|Coronado|Lugano|NO|stars_4
+391574|Dorint Airport-Hotel Zürich|Glattbrugg|NO|stars_4
+391732|Villmergen Swiss Quality|Villmergen|NO|stars_3
+391878|Cervo Sils|Sils-Maria|NO|0
+392031|La Rösa - Statione della Posta|La Rösa|NO|0
+392299|Sokrates|Güttingen|NO|0
+399718|Brienzerburli & Weisses Kreuz|Brienz|NO|stars_3
+399801|Waldhotel Doldenhorn & Landgasthof Ruedihus - Waldhotel Doldenhorn|Kandersteg|NO|stars_4
+401356|Resort Collina d'Oro|Collina d'Oro|NO|stars_5
+403595|The Flag Zuerich|Zurich|NO|stars_3
+403613|Parkhotel Beau Site|Zermatt|YES|stars_4
+403768|Frohburg|Weggis|NO|stars_3
+403993|Nendaz 4 Vallees|Nendaz|NO|stars_4
+407249|wellnessHostel4000|Saas-Fee|NO|stars_2.5
+407879|arcona LIVING Schaffhausen|Schaffhausen|NO|stars_4
+411573|Alpendörfli Wildi - Les Chalets des Alpes|Saas-Fee|NO|stars_3
+411710|Titlis Resort|Engelberg|NO|stars_4
+412327|Waldhaus Flims Mountain Resort & Spa|Flims|NO|stars_4
+413026|Andermatt Swiss Alps Resort|Andermatt|NO|stars_5
+413238|Kameha Grand Zürich|Zurich|NO|stars_5
+413262|Plein Ciel|Veysonnaz|NO|stars_4
+413729|Calipso / Calipso Park - Calipso|Lugano|NO|stars_3
+413730|Calipso / Calipso Park - Calipso Park|Lugano|NO|0
+417647|Sax|Disentis|NO|stars_3

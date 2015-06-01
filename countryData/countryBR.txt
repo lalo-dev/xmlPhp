@@ -1,0 +1,2036 @@
+165|Sol Belo Horizonte|Belo Horizonte|NO|stars_4
+166|Rio Buzios Beach|Buzios|NO|stars_3.5
+169|Catussaba Resort|Salvador da Bahia|YES|stars_4
+170|Maceió Atlantic Suites|Maceio|YES|stars_5
+174|Tivoli Ecoresort Praia do Forte|Praia do Forte|YES|stars_5
+175|Atlante Plaza|Boa Viagem|YES|stars_4.5
+177|Best Western Manibu Recife|Recife|YES|stars_3
+178|Golden Tulip Recife Palace|Boa Viagem|YES|stars_4
+179|Atlantico Copacabana|Rio de Janeiro|YES|stars_4
+180|Golden Tulip Regente|Rio de Janeiro|YES|stars_4
+181|Merlin Copacabana|Rio de Janeiro|YES|stars_4
+182|Pestana Rio Atlantica|Rio de Janeiro|YES|stars_4.5
+183|Bahiamar|Salvador da Bahia|YES|stars_4
+185|Deville Salvador|Salvador da Bahia|YES|stars_5
+187|Sol Victoria Marina|Salvador da Bahia|YES|stars_4
+189|Tsue Bienal Flat|Sao Paulo|YES|stars_3
+192|Mercure São Paulo Pamplona|Sao Paulo|YES|stars_3
+8521|Bandeirantes|Rio de Janeiro|NO|stars_3
+9134|Vila Galé Eco Resort do Cabo|Cabo de Santo Agostinho|YES|stars_4.5
+9249|Brasil Tropical Hotel - Residence|Fortaleza|YES|stars_3
+10100|Casas Brancas|Buzios|YES|stars_4
+10746|Copacabana Palace|Rio de Janeiro|YES|stars_5
+11140|Belmond Hotel das Cataratas|Foz do Iguaçu|YES|stars_5
+12366|Windsor Excelsior|Rio de Janeiro|YES|stars_4
+13524|Grande da Barra|Salvador da Bahia|NO|stars_4
+14882|International Palace|Boa Viagem|YES|stars_4
+15049|Jatiuca Resort - Hotel & Suites|Maceio|NO|stars_4
+15562|Kubitschek Plaza|Brasilia|NO|stars_4.5
+16081|Windsor Atlântica|Rio de Janeiro|YES|stars_5
+16762|Manhattan Plaza|Brasilia|NO|stars_4
+16786|Mar|Recife|YES|stars_4
+17036|Costa do Sauipe Golf & Spa|Costa do Sauipe|YES|stars_4
+17548|Mirasol Copacabana|Rio de Janeiro|YES|stars_4
+17666|Monte Pascoal Praia|Salvador da Bahia|NO|stars_4
+18194|Ocean Palace Beach Resort & Bungalows|Natal|YES|stars_5
+18209|Oceano Copacabana|Rio de Janeiro|YES|stars_3
+18301|Mareiro|Fortaleza|YES|stars_4
+18406|Othon Palace|Belo Horizonte|YES|stars_4
+19192|Windsor Plaza|Rio de Janeiro|YES|stars_4
+19264|Pontal de Ocapora|Porto das Galinhas|YES|stars_4
+19317|Portobello Resort & Safari|Mangaratiba|NO|stars_4.5
+19367|Byblos Pousada|Buzios|YES|stars_3
+19373|Porto da Lua|Praia do Forte|NO|stars_3
+19376|Sauipe Resort - Sauipe Pousadas|Costa do Sauipe|YES|stars_3
+20033|Regente|Belem|NO|stars_3
+20371|Rio Othon Palace|Rio de Janeiro|YES|stars_5
+20740|Royalty Copacabana|Rio de Janeiro|YES|stars_4
+20978|San Martin|Foz do Iguaçu|YES|stars_4
+20995|San Raphael|Sao Paulo|NO|stars_4
+21556|Tivoli São Paulo Mofarrej|Sao Paulo|YES|stars_5
+21576|Sheraton Rio|Rio de Janeiro|YES|stars_5
+21799|Sauipe Resort - Sauipe Park|Costa do Sauipe|YES|stars_4.5
+21819|Sofitel Rio de Janeiro Copacabana|Rio de Janeiro|YES|stars_5
+21833|Sol Bahia|Salvador da Bahia|YES|stars_4
+21993|South American Copacabana|Rio de Janeiro|YES|stars_4
+22281|Suica|Foz do Iguaçu|NO|stars_4
+22407|Sauipe Resort - Sauípe Club|Costa do Sauipe|YES|stars_4.5
+23373|Sheraton da Bahia|Salvador da Bahia|YES|stars_4.5
+23374|Tropical Manaus|Manaus|YES|stars_4
+23728|Vila Boa Vida|Buzios|YES|stars_3
+24480|Windsor Palace|Rio de Janeiro|NO|stars_4
+24908|Navegantes Praia|Boa Viagem|YES|stars_2
+26354|Vilangelim Eco Pousada|Imbassai|NO|stars_3
+26355|Summerville Beach Resort|Porto das Galinhas|NO|stars_4.5
+26356|Armação de Porto|Porto das Galinhas|YES|stars_4
+26358|Pizzato Praia|Natal|NO|stars_4
+26359|Visual Praia|Natal|NO|stars_4
+26360|Manary Praia|Natal|YES|stars_4
+26361|Rifoles Praia|Natal|YES|stars_4
+26363|Golden Tulip Ipanema Plaza|Rio de Janeiro|YES|stars_4
+26402|Transamérica Ilha de Comandatuba|Ilha de Comandatuba|YES|stars_5
+26404|Pousada do Amparo|Recife|NO|stars_3
+26495|Marazul|Salvador da Bahia|YES|stars_4
+27005|Olinda Rio|Rio de Janeiro|YES|stars_3.5
+27210|Bourbon Curitiba Convention|Curitiba|YES|stars_4.5
+27211|Imperial Othon|Fortaleza|NO|stars_4.5
+27212|Solar do Rosário|Ouro Preto|NO|stars_3.5
+27215|Golden Tulip Continental|Rio de Janeiro|YES|stars_4
+27216|Savoy Othon Travel|Rio de Janeiro|YES|stars_3
+27217|Bahia Othon Palace|Salvador da Bahia|YES|stars_4.5
+27218|Club Med Rio das Pedras|Rio de Janeiro|NO|stars_4
+27219|Club Med Itaparica|Itaparica|NO|stars_3
+31802|Pantanal Araras Eco Lodge|Poconé|NO|stars_3
+31806|Pestana Natal Beach Resort|Natal|YES|stars_5
+31807|Pestana São Paulo|Sao Paulo|YES|stars_4
+31808|Pestana Bahia|Salvador da Bahia|YES|stars_5
+32661|Ibis Porto das Dunas|Praia de Porto das Dunas|YES|stars_3.5
+32662|Vila Gale Fortaleza|Fortaleza|YES|stars_4.5
+32663|Eco Paradise Cumbuco|Cumbuco|NO|stars_3
+34088|Carlton|Brasilia|NO|stars_4
+38543|Pousada dos Gravatas|Buzios|NO|stars_3
+38956|Marriott Sao Paulo Airport|Sao Paulo|YES|stars_4.5
+38957|Best Western Solar Porto De Galinhas|Porto das Galinhas|YES|stars_4
+38958|Othon Palace Fortaleza|Fortaleza|YES|stars_4
+47432|Miramar Hotel by Windsor|Rio de Janeiro|YES|stars_4.5
+47433|Tulip Inn Copacabana|Rio de Janeiro|YES|stars_3
+47434|JW Marriott|Rio de Janeiro|YES|stars_5
+47436|Mabu Thermas|Foz do Iguaçu|YES|stars_4.5
+47438|Iguassu Resort|Foz do Iguaçu|YES|stars_4
+47442|Do Frade Golf & Resort|Angra dos Reis|NO|stars_4.5
+47444|Portogalo Suite|Angra dos Reis|NO|stars_3
+47446|Melia Brasil 21|Brasilia|YES|stars_4
+47984|Pousada Porto Zarpa|Praia do Forte|NO|stars_3
+47985|Luzeiros|Fortaleza|YES|stars_4
+47986|Lisboa Praia|Fortaleza|NO|stars_4
+48004|Golden Tulip Iate Plaza|Fortaleza|YES|stars_4
+48014|Hotel 7 Colinas|Olinda|NO|stars_3
+48016|Villa Mayor|Fortaleza|NO|stars_3
+48195|Grand Hyatt|Sao Paulo|YES|stars_5
+51392|Pousada Porto Imperial|Paraty|NO|stars_3
+51393|Golden Tulip Rio Vermelho|Salvador da Bahia|YES|stars_4
+52646|Vila Galé Eco Resort de Angra|Angra dos Reis|YES|stars_4.5
+52647|Colonna Park|Buzios|YES|stars_4
+52649|Royal Tulip Rio de Janeiro|Rio de Janeiro|YES|stars_5
+52650|Marina Park|Fortaleza|YES|stars_5
+52651|Seara Praia|Fortaleza|YES|stars_4.5
+52652|Quality Inn Fortaleza|Fortaleza|YES|stars_3
+52774|Recanto Cataratas Thermas Resort & Convention|Foz do Iguaçu|NO|stars_4
+52775|Mar Palace|Rio de Janeiro|YES|stars_4
+52776|Natal Mar|Natal|NO|stars_4
+52777|MyBlue Hotel|Jericoacoara|NO|stars_4
+54214|Hotel Iracema Flat|Fortaleza|YES|stars_4
+54215|Holiday Inn Fortaleza|Fortaleza|YES|stars_4
+54217|Comfort Fortaleza|Fortaleza|YES|stars_3
+54662|Max Savassi|Belo Horizonte|NO|stars_3.5
+54663|Quality Alfonso Pena|Belo Horizonte|YES|stars_4
+54664|Liberty Palace|Belo Horizonte|NO|stars_4
+54666|Radisson Barra|Rio de Janeiro|YES|stars_5
+54667|Rio Design|Rio de Janeiro|YES|stars_4
+54668|Everest Rio|Rio de Janeiro|YES|stars_4
+54669|Center|Rio de Janeiro|YES|stars_3
+54671|Caesar Park Rio de Janeiro Ipanema Managed by Sofitel|Rio de Janeiro|YES|stars_5
+54672|Regina|Rio de Janeiro|YES|stars_3
+54673|Promenade Barra First|Rio de Janeiro|YES|stars_4
+54674|Premier Copacabana|Rio de Janeiro|YES|stars_3.5
+54675|Orla Copacabana|Rio de Janeiro|YES|stars_4
+54676|Ibiza Copacabana|Rio de Janeiro|YES|stars_3
+54677|Ducasse Rio|Rio de Janeiro|NO|stars_3
+54679|Sia Park|Brasilia|NO|stars_3
+54680|Comfort Suites Brasilia|Brasilia|YES|stars_3
+54681|Altareggia Plaza|Curitiba|NO|stars_4
+54682|Four Points Curitiba|Curitiba|YES|stars_4.5
+54683|Holiday Inn Porto Alegre|Porto Alegre|NO|stars_3
+54684|Radisson Hotel Porto Alegre|Porto Alegre|YES|stars_4
+54686|Sheraton Porto Alegre|Porto Alegre|YES|stars_5
+54687|Duque Center|Porto Alegre|NO|stars_3
+54688|Ritter|Porto Alegre|NO|stars_3
+54965|Estanplaza International|Sao Paulo|YES|stars_4
+54967|Estanplaza Berrini|Sao Paulo|YES|stars_4
+54968|Century Paulista|Sao Paulo|NO|stars_3.5
+54969|Sheraton WTC|Sao Paulo|YES|stars_4.5
+54971|Quality Suites Bela Cintra|Sao Paulo|YES|stars_3.5
+54972|Massis Five Stars|Sao Paulo|NO|stars_4
+54973|HB Sequoia|Barueri|NO|stars_3.5
+54974|Clarion Faria Lima|Sao Paulo|YES|stars_3.5
+54975|Plaza Inn American Loft|Sao Paulo|YES|stars_4
+54977|Gran Estanplaza|Sao Paulo|YES|stars_5
+54980|Comfort Ibirapuera|Sao Paulo|YES|stars_3
+54981|Transamérica São Paulo|Sao Paulo|YES|stars_4.5
+54982|Prodigy Grand Hotel & Suites Berrini|Sao Paulo|YES|stars_4
+54983|InterCity Premium Berrini|Sao Paulo|YES|stars_3.5
+54985|Estanplaza Funchal-Faria Lima|Sao Paulo|YES|stars_4
+54986|Holiday Inn Parque Anhembi|Sao Paulo|YES|stars_4
+54987|Blue Tree Premium Paulista|Sao Paulo|YES|stars_4
+54988|Quality Faria Lima|Sao Paulo|YES|stars_3.5
+57672|Hilton Sao Paulo Morumbi|Sao Paulo|YES|stars_5
+57673|La Chimère Pousada|Buzios|YES|stars_3
+57675|Royal Tulip Brasilia Alvorada|Brasilia|YES|stars_5
+57676|The Time Othon Suites|Sao Paulo|YES|stars_3
+57677|Pestana Angra|Angra dos Reis|YES|stars_4.5
+57678|Renaissance Sao Paulo|Sao Paulo|YES|stars_5
+57679|Othon Classic|Sao Paulo|YES|stars_4
+57680|Nannai Beach Resort|Porto das Galinhas|YES|stars_5
+57681|Bristol Merit|Belo Horizonte|YES|stars_4
+57682|Pousada Vila d'Este|Buzios|YES|stars_4
+58250|Pousada Caminho do Mar|Imbassai|NO|stars_3
+59204|Komplex Oasis Atlantico Fortaleza / Oasis Atlantico Imperial|Fortaleza|NO|stars_3
+59849|Blue Tree Premium Morumbi|Sao Paulo|YES|stars_4
+59851|Ibis Salvador Rio Vermelho|Salvador da Bahia|NO|stars_3
+59854|Acapulco Copacabana|Rio de Janeiro|YES|stars_4
+59858|California Othon Classic|Rio de Janeiro|YES|stars_3
+59859|Marante Plaza|Boa Viagem|NO|stars_4
+61177|A Casa das Portas Velhas|Salvador da Bahia|YES|stars_3.5
+61178|Via dos Corais|Praia do Forte|YES|stars_4
+61179|Dorisol Recife Grand|Recife|YES|stars_4
+61180|Pousada Toca da Coruja|Tibau do Sul|NO|stars_4
+62775|Isca Do Sol|Pecem|NO|stars_2.5
+62894|Boa Viagem Praia|Boa Viagem|NO|stars_3.5
+62895|Vila Rica|Boa Viagem|NO|stars_4
+62898|Prodigy Hotel Recife|Recife|YES|stars_4
+62908|Maceio Mar|Maceio|NO|stars_4
+62909|Le Palmier|Buzios|NO|stars_2.5
+62913|Pedra da Laguna|Buzios|YES|stars_4
+62915|Caminho do Sol|Arraial do Cabo|NO|stars_2
+62916|Debret|Rio de Janeiro|NO|stars_3
+63175|Porto Seguro Praia|Porto Seguro|NO|stars_4
+63889|Vela Branca|Porto Seguro|NO|stars_4
+63891|Brisa da Praia|Porto Seguro|NO|stars_4
+63908|Iberostar Bahia|Praia do Forte|YES|stars_5
+63910|Vila Galé Mares|Camaçari|YES|stars_4.5
+64477|Porto Bay Rio Internacional|Rio de Janeiro|YES|stars_4
+64478|Beach Class Suites|Boa Viagem|YES|stars_4
+64509|Vila Galé Salvador|Salvador da Bahia|YES|stars_4.5
+64573|Pousada Eco Atlantico|Praia do Forte|YES|stars_3
+64577|Solar do Carmo|Salvador da Bahia|NO|stars_3
+64578|Abracadabra Pousada|Buzios|NO|stars_4
+64579|Marina All Suites|Rio de Janeiro|YES|stars_4.5
+64580|Marina Palace|Rio de Janeiro|YES|stars_4
+65305|Hilton Belem|Belem|NO|stars_4.5
+66239|Bourbon Cataratas Resort & Convention|Foz do Iguaçu|YES|stars_4.5
+66242|Best Western Falls Galli|Foz do Iguaçu|NO|stars_4
+66249|Convento do Carmo|Salvador da Bahia|YES|stars_5
+66253|Vela e Mar|Fortaleza|YES|stars_3
+66342|Club Med Trancoso|Trancoso|NO|stars_4
+67460|Radisson Sao Paulo Faria Lima|Sao Paulo|YES|stars_4
+68177|La Torre|Porto Seguro|YES|stars_4
+68577|Tryp Campinas|Campinas|YES|stars_4
+68584|Quality Porto Alegre|Porto Alegre|NO|stars_3
+68585|Tryp Brasil 21 Suites|Brasilia|YES|stars_4
+68587|Bristol Jangada Fortaleza|Fortaleza|YES|stars_3.5
+68602|Quality Berrini|Sao Paulo|YES|stars_3.5
+68603|Tryp Tatuape|Sao Paulo|YES|stars_4
+68604|Tryp Paulista|Sao Paulo|YES|stars_4
+68606|Tryp Naçoes Unidas|Sao Paulo|YES|stars_4
+68607|Tryp Jesuino Arruda|Sao Paulo|YES|stars_4
+68608|Slaviero Executive Jardins|Sao Paulo|NO|stars_4
+68609|Tryp Itaim|Sao Paulo|YES|stars_4
+68610|Tryp Iguatemi|Sao Paulo|YES|stars_4
+68611|Slaviero Executive Guarulhos|Sao Paulo|YES|stars_4
+68612|Tryp Berrini|Sao Paulo|YES|stars_4
+68614|Melia Jardim Europa|Sao Paulo|YES|stars_4.5
+68628|Melia Angra Marina|Angra dos Reis|YES|stars_4.5
+68631|Parkhotel|Boa Viagem|NO|stars_3
+68804|Parque da Costeira|Ponta Negra|NO|stars_4
+68805|Marsol|Natal|NO|stars_4
+68806|Porto do Mar|Natal|NO|stars_4
+68807|Imira Plaza|Ponta Negra|NO|stars_4
+68808|Esmeralda|Ponta Negra|NO|stars_4
+69369|Pousada Gabriela|Costa do Sauipe|YES|stars_2.5
+69421|Costao do Santinho|Florianopolis|YES|stars_4.5
+69422|Ponta Mar|Fortaleza|YES|stars_4
+69423|Hampton Park|Sao Paulo|YES|stars_3
+69424|Plaza Praia Suites|Fortaleza|YES|stars_4
+70914|Maredomus|Fortaleza|YES|stars_3
+70915|Tulip Inn Saint Martin|Fortaleza|YES|stars_3
+70916|Recanto das Aguas|Balneário Camboriú|YES|stars_4
+70917|Clarion Lourdes|Belo Horizonte|YES|stars_3.5
+71022|Transamérica Executive Congonhas|Sao Paulo|YES|stars_3.5
+71023|Transamérica Executive Faria Lima|Sao Paulo|YES|stars_4
+71024|Transamérica Executive Perdizes|Sao Paulo|YES|stars_3.5
+71025|Transamérica Executive The Advance|Sao Paulo|YES|stars_4
+71026|Transamérica Executive The Special|Sao Paulo|YES|stars_3
+71027|Transamérica Executive 21st Century|Sao Paulo|YES|stars_4
+71028|Transamérica Prime Paradise Garden|Sao Paulo|YES|stars_3
+71029|Transamérica Prime International Plaza|Sao Paulo|YES|stars_4
+71030|Transamérica Executive Chácara Santo Antônio|Sao Paulo|YES|stars_4
+71031|Tulip Inn Interactive Jardins|Sao Paulo|YES|stars_3
+71032|Recife Flat Service|Recife|YES|stars_3
+71033|Transamerica Classic La Residence|Sao Paulo|YES|stars_4
+71034|Grand Plaza|Sao Paulo|YES|stars_4
+71035|Tulip Inn Paulista Convention Flat|Sao Paulo|YES|stars_3
+71036|Radisson Sao Paulo Vila Olimpia|Sao Paulo|YES|stars_4
+71037|Comfort Downtown|Sao Paulo|YES|stars_3
+71038|Quality Moema|Sao Paulo|YES|stars_3.5
+71039|Quality Jardins|Sao Paulo|YES|stars_3.5
+71040|Quality Suites Imperial Hall|Sao Paulo|YES|stars_4
+71042|Blue Tree Premium Congonhas|Sao Paulo|YES|stars_4
+71043|Comfort Nova Paulista|Sao Paulo|YES|stars_3
+71044|Quality Suites Vila Olimpia|Sao Paulo|YES|stars_3
+71045|Comfort Suites Oscar Freire|Sao Paulo|YES|stars_3.5
+71046|Fasano|Sao Paulo|YES|stars_5
+71047|Estanplaza Nacoes Unidas|Sao Paulo|YES|stars_4
+71048|Estanplaza Ibirapuera|Sao Paulo|YES|stars_4
+71049|Estanplaza Paulista|Sao Paulo|YES|stars_4
+71050|Golden Tulip Paulista Plaza|Sao Paulo|YES|stars_4
+71051|Golden Tulip Park Plaza|Sao Paulo|YES|stars_4
+71052|Marriott Executive Apartaments|Sao Paulo|YES|stars_4.5
+71053|Potengi Flat|Natal|YES|stars_3
+71054|Morumbi Business|Sao Paulo|YES|stars_3
+71065|Travel Inn Pituba|Salvador da Bahia|YES|stars_3
+71066|Sauipe Resort - Sauípe Premium|Costa do Sauipe|YES|stars_5
+71075|Marupiara|Porto das Galinhas|YES|stars_4
+71077|Muro Alto Marupiara Suites|Porto das Galinhas|YES|stars_4
+71078|Village Porto de Galinhas|Porto das Galinhas|YES|stars_3
+71079|LG Inn Recife|Boa Viagem|YES|stars_4
+71159|Comfort Inn Porto Alegre|Porto Alegre|YES|stars_3
+71199|Quality Hotel & Suites Natal|Natal|YES|stars_4
+71281|D'Anatureza Resort|Maceio|YES|stars_3.5
+71282|Ritz Lagoa da Anta|Maceio|YES|stars_5
+71283|Blue Tree Premium Fortaleza|Fortaleza|YES|stars_4
+71284|Residenza Casa del Sole|Maceio|YES|stars_3
+71285|Costamar|Maceio|YES|stars_3
+71286|Salinas do Maragogi Resort|Maragogi|YES|stars_4.5
+71287|Transamerica Prime Batel|Curitiba|YES|stars_3.5
+71288|Vilamar Suites|Praia de Porto das Dunas|YES|stars_2
+71289|Gran Marquise|Fortaleza|YES|stars_5
+71290|Village Barra|Barra de São Miguel|YES|stars_3
+71294|Praia Mansa Suíte|Fortaleza|YES|stars_3
+71295|Chambertin Classic|Fortaleza|YES|stars_3
+71296|Ponta Verde Maceio|Maceio|YES|stars_4
+71298|Nobile Lakeside Convention & Resort|Brasilia|YES|stars_4
+71330|Carmel Express|Fortaleza|YES|stars_3
+71331|Magna Praia|Fortaleza|YES|stars_3
+71332|Beira Mar|Fortaleza|YES|stars_4
+71333|Sonata de Iracema|Fortaleza|YES|stars_3
+71334|Golden Beach|Fortaleza|YES|stars_3
+71335|Praiano|Fortaleza|YES|stars_4
+71336|Spazzio Residence|Fortaleza|YES|stars_3.5
+71337|Aquaville Resort|Praia de Porto das Dunas|YES|stars_3.5
+71338|Beach Park Resorts - Acqua Beach Park Resort / Suites Beach Park Resort / Wellness Beach Park Resort / Oceani Beach Park Resort|Praia de Porto das Dunas|YES|stars_4
+71653|Serhs Natal Grand|Natal|YES|stars_5
+72151|Quality Curitiba|Curitiba|YES|stars_3.5
+72153|Suarez Campo Bom|Novo Hamburgo|YES|stars_3
+72154|Sambura Praia|Fortaleza|YES|stars_3
+72775|Super Economico|Sao Paulo|YES|stars_2
+72776|Iracema Travel|Fortaleza|YES|stars_3
+72777|Class Suites London Flat|Sao Paulo|YES|stars_3
+72778|Le Premier Suites|Sao Paulo|YES|stars_3
+72779|Arena Copacabana|Rio de Janeiro|YES|stars_4
+72780|Lancaster Othon Travel|Rio de Janeiro|YES|stars_3
+72781|Windsor Leme|Rio de Janeiro|YES|stars_4
+72782|Fiesta Bahia|Salvador da Bahia|YES|stars_5
+72783|Deville Express Curitiba|Curitiba|YES|stars_3
+72784|Praia Ipanema|Rio de Janeiro|YES|stars_4
+72785|Deville Porto Alegre Aeroporto|Porto Alegre|YES|stars_4.5
+72786|Deville Curitiba|Curitiba|YES|stars_4
+72787|Ouro Minas Palace|Belo Horizonte|YES|stars_5
+72788|Majestic Palace|Florianopolis|YES|stars_4
+72790|Novotel Manaus|Manaus|YES|stars_4
+72792|Golden Park Viracopos|Campinas|YES|stars_3.5
+72793|Matiz Guarulhos|Guarulhos|YES|stars_3
+72794|Matiz Manhattan|Sao Paulo|YES|stars_3
+72795|Universe Flat|Sao Paulo|YES|stars_3
+72796|Comfort Inn Taguatinga|Taguatinga|YES|stars_3
+72797|Days Inn|Taguatinga|YES|stars_3
+72798|Comfort Uberlandia|Uberlândia|YES|stars_3
+72799|Quality Aracaju|Aracaju|YES|stars_3.5
+72800|Gandini|Itu|YES|stars_3
+72802|Comfort Vitoria Praia|Vitória|YES|stars_3
+72803|Blue Tree Park Lins|Lins|YES|stars_4
+72804|Comfort Suites Flamboyant|Goiânia|YES|stars_3
+72805|Grand Mercure Sao Paulo Ibirapuera|Sao Paulo|YES|stars_5
+72806|Aparthotel Adagio Curitiba Parque Barigui|Curitiba|YES|stars_3
+72807|Mercure Leblon|Rio de Janeiro|YES|stars_3
+72809|Travel Inn The World|Sao Paulo|YES|stars_3
+72811|Mercure Sao Paulo Itaim Bibi|Sao Paulo|YES|stars_3
+72812|Mercure The Privilege|Sao Paulo|YES|stars_3
+72815|Mercure Sao Paulo Pinheiros|Sao Paulo|YES|stars_3
+72819|Parthenon Saint Joseph|São José dos Pinhais|YES|stars_3
+72820|Mercure Sao Paulo Alamedas Hotel|Sao Paulo|YES|stars_3
+72821|Aparthotel Adagio Sao Paulo Berrini|Sao Paulo|YES|stars_3
+72822|Quarto Rodas Olinda|Olinda|YES|stars_3
+72823|Mercure Sao Paulo Nortel|Sao Paulo|YES|stars_3
+72825|Blue Tree Premium My Place Savasi|Belo Horizonte|NO|stars_3.5
+72826|Novotel São Paulo Jaragua Convention|Sao Paulo|YES|stars_4
+72827|Mercure São José dos Campos|São José dos Campos|YES|stars_3
+72828|Mercure São Caetano do Sul|São Caetano do Sul|YES|stars_3
+72833|Marulhos Suites|Muro Alto|YES|stars_4
+72835|Mercure Florianopolis Centro Hotel|Florianopolis|YES|stars_3
+72838|Apartotel Adagio Porto Alegre Moinhos de Vento|Porto Alegre|YES|stars_3.5
+72839|Parthenon Guaratingueta|Guaratinguetá|YES|stars_3
+72841|Mercure Florianopolis Convention|Florianopolis|YES|stars_3.5
+72844|Mercure Central Towers Hotel|Sao Paulo|YES|stars_3
+72847|Mercure Rio de Janeiro Botafogo|Rio de Janeiro|YES|stars_3
+72852|Slaviero Suites Curitiba Batel|Curitiba|YES|stars_3
+72855|Mercure Batel|Curitiba|YES|stars_3
+72856|Novotel São José dos Campos|São José dos Campos|YES|stars_3.5
+72857|Comfort Franca|Franca|YES|stars_3
+72858|Blue Tree Towers Santo Andre|Santo André|YES|stars_4
+72859|Comfort Suites Londrina|Londrina|YES|stars_3
+72860|Comfort Ribeirão Preto|Ribeirão Preto|YES|stars_3
+72861|Quality Suites Vila Velha|Vila Velha|YES|stars_3
+72862|Comfort Suites Campinas|Campinas|YES|stars_3
+72863|Comfort Suites Alphaville|Barueri|YES|stars_3.5
+72865|Sleep Inn Ribeirao Preto|Ribeirão Preto|YES|stars_3
+72866|Quality Suites Garden|Bauru|YES|stars_3
+72867|Quality Suites Alphaville|Barueri|YES|stars_3
+72868|Quality Inn Saint Paul|São José do Rio Preto|YES|stars_3.5
+72870|Novotel Center Norte|Sao Paulo|NO|stars_4
+72871|Belmar|Salvador da Bahia|YES|stars_2.5
+72872|Tulip Inn Centro de Convencoes|Salvador da Bahia|YES|stars_3
+72873|Rafain Palace & Convention Center|Foz do Iguaçu|YES|stars_4
+72874|Mabu Curitiba Business|Curitiba|NO|stars_4
+72875|Mabu Curitiba Convention|Curitiba|YES|stars_4
+72878|Mercure Brasilia Lider Hotel|Brasilia|YES|stars_3
+72879|Mercure Joinville Prinz Hotel|Joinville|YES|stars_3.5
+72880|Mercure Mogi das Cruzes|Mogi das Cruzes|YES|stars_3
+72881|Ibis Vitoria Praia do Canto|Vitória|NO|stars_3
+72882|Ibis Teresina|Teresina|NO|stars_3
+72883|Ibis Sao Paulo Expo Barra Funda|Sao Paulo|NO|stars_2
+72884|Ibis Porto Alegre Aeroporto|Porto Alegre|YES|stars_2.5
+72885|Ibis Piracicaba|Piracicaba|NO|stars_2
+72886|Ibis Maceio Pajuciara|Maceio|NO|stars_2
+72887|Ibis Macae|Macaé|NO|stars_2
+72888|Ibis Fortaleza|Fortaleza|NO|stars_2
+72889|Ibis Campinas|Campinas|NO|stars_2
+72890|Ibis Blumenau|Blumenau|NO|stars_2
+72891|Ibis Betim|Betim|NO|stars_3
+72892|Ibis budget Sao Paulo Paraiso|Sao Paulo|NO|stars_2
+72893|Pestana Curitiba|Curitiba|YES|stars_4
+72894|Harbor Saint Michel|Curitiba|YES|stars_3.5
+72896|InterCity Premium Nacoes Unidas|Sao Paulo|YES|stars_4
+72897|Blue Tree Towers Millenium Porto Alegre|Porto Alegre|YES|stars_4
+72898|Blue Tree Towers Joinville|Joinville|YES|stars_4
+72900|Blue Tree Towers Florianopolis|Florianopolis|YES|stars_4
+72901|Blue Tree Premium Faria Lima|Sao Paulo|YES|stars_4
+72902|Monthez|Brusque|YES|stars_4
+72903|Paradise Golf & Lake Resort|Mogi das Cruzes|YES|stars_3.5
+72904|Piramide Natal Resort|Natal|YES|stars_4.5
+72905|Blue Tree Towers Anália Franco|Sao Paulo|YES|stars_3.5
+72906|Monreale Classic|Campinas|YES|stars_4
+72907|Blue Tree Towers Caxias do Sul|Caxias do Sul|YES|stars_4
+72908|Mercure Sao Paulo Paulista|Sao Paulo|YES|stars_3
+72909|Mercure Santo Andre|Santo André|YES|stars_4
+72910|Mercure Salvador Rio Vermelho|Salvador da Bahia|YES|stars_4
+72911|Mercure São Paulo Jardins|Sao Paulo|YES|stars_3.5
+72912|Siena Laghetto|Gramado|YES|stars_3.5
+72913|Mercure Campinas|Campinas|YES|stars_3
+72914|Bristol International Airport|Sao Paulo|NO|stars_4
+72915|Mercure Curitiba Centro Hotel|Curitiba|YES|stars_4
+72916|Mercure Brasilia Eixo Hotel|Brasilia|YES|stars_3
+72917|Mercure Lourdes|Belo Horizonte|YES|stars_3.5
+72918|Pullman Ibirapuera|Sao Paulo|YES|stars_4
+72919|Four Towers|Vitória|NO|stars_3.5
+72920|Novotel São Paulo Morumbi|Sao Paulo|YES|stars_4
+72921|Mercure Sao Paulo Ibirapuera|Sao Paulo|YES|stars_4
+72922|Novotel São Bento do Sul|São Bento do Sul|YES|stars_4
+72923|Mon Jardin|Rondonópolis|YES|stars_4
+72924|Novotel Natal Ladeira do Sol|Natal|YES|stars_4
+72925|Novotel Campo Grande|Campo Grande|YES|stars_4
+72926|Lider Palace|Foz do Iguaçu|YES|stars_3
+72928|Deville Maringa|Maringá|YES|stars_4
+73384|Caesar Business Belo Horizonte Belvedere Managed by Mercure|Belo Horizonte|YES|stars_4
+73385|Villa Real|São Francisco do Sul|YES|stars_4
+73387|Bristol Saint Emilion|Curitiba|YES|stars_3
+73388|Edifico QI Intelligent Flat|Sao Paulo|YES|stars_4
+73389|Turrance Green|Foz do Iguaçu|YES|stars_3
+73390|Lang Palace|Chapecó|YES|stars_4
+73391|Sobrado da Vila|Praia do Forte|YES|stars_3
+73392|Atlantic Towers|Salvador da Bahia|YES|stars_4
+73395|Radisson Curitiba|Curitiba|YES|stars_4
+73396|Golden Tulip Belas Artes|Sao Paulo|YES|stars_4
+73397|Bristol Multy Exceler Plaza|Campo Grande|YES|stars_3.5
+73399|Sol Inn Barão Geraldo|Campinas|YES|stars_3
+73400|Hotel Matiz Jaguariúna|Jaguariúna|YES|stars_3
+73401|Fildi Hotel & Eventos|Sumaré|YES|stars_3
+73402|Parthenon Uberlandia Ilha Bela|Uberlândia|YES|stars_3
+73404|Mercure Ipanema|Rio de Janeiro|YES|stars_3
+73405|Transamérica Classic Pasárgada|Vila Velha|YES|stars_4
+73406|Parthenon Giardino Jardim Botanico|Rio de Janeiro|YES|stars_3
+73407|Novotel Porto Alegre Tres Figueiras|Porto Alegre|YES|stars_4
+73408|Sleep Inn Galleria|Campinas|YES|stars_3
+73409|Sleep Inn Varginha|Varginha|NO|stars_3
+73410|Comfort Saint Peter|São José do Rio Preto|YES|stars_3
+73411|Transamérica Classic Opera|Sao Paulo|YES|stars_4
+73412|Transamerica Classic Victória Place|Sao Paulo|YES|stars_4
+73413|Bourbon Convention Ibirapuera|Sao Paulo|YES|stars_4
+73414|Provence Via Venetto|Fortaleza|YES|stars_2
+73415|Golden Tulip Golden Beach|Recife|YES|stars_3.5
+73416|Luz Plaza|Sao Paulo|YES|stars_4
+73417|Transamérica Executive The First|Sao Paulo|YES|stars_4
+74861|Windsor Martinique|Rio de Janeiro|NO|stars_3
+74862|Royal Rio Palace|Rio de Janeiro|NO|stars_4
+74870|Augustos Copacabana|Rio de Janeiro|YES|stars_3.5
+74971|Sol Barra|Salvador da Bahia|YES|stars_3
+75072|Bristol Costa Victoria|Vitória|YES|stars_2.5
+75073|Bristol Ocean Flat|Vila Velha|YES|stars_3.5
+75328|Plaza Blumenau|Blumenau|YES|stars_4
+75329|Plaza Sao Rafael|Porto Alegre|YES|stars_4
+75330|Canarius Palace|Boa Viagem|YES|stars_3.5
+75333|Plaza Porto Alegre|Porto Alegre|YES|stars_4
+75458|Tropical Oceano Praia|Porto Seguro|YES|stars_4
+75459|Bourbon São Paulo Business|Sao Paulo|YES|stars_4
+75460|Actuall|Belo Horizonte|YES|stars_4
+75461|Alpenhaus Gramado|Gramado|YES|stars_3.5
+75462|InterCity Premium Caxias do Sul|Caxias do Sul|YES|stars_4
+75463|InterCity Premium Florianopolis|Florianopolis|YES|stars_4
+75464|InterCity Premium Porto Alegre|Porto Alegre|YES|stars_4
+75467|Comfort Hotel & Suites Osasco|Osasco|YES|stars_3.5
+75550|Amazon Jungle Palace|Manaus|YES|stars_4
+75551|Tiwa Amazonas Eco Resort|Manaus|YES|stars_4
+75598|Parque das Fontes|Beberibe|NO|stars_3.5
+75736|Pousada Praia das Ondas|Praia de Itacimirim|NO|stars_3
+75749|Xurupita Holiday Resort|Porto Seguro|YES|stars_4
+75766|Rio Aeroporto Hotel|Rio de Janeiro|YES|stars_4
+76142|Pousada Jambo|Praia de Itacimirim|NO|stars_3
+76143|Serrambi Resort|Ipojuca|YES|stars_4
+76144|Pullman SP International Airport|Guarulhos|NO|stars_4.5
+76269|Pelourinho|Salvador da Bahia|YES|stars_3
+76272|InterContinental São Paulo|Sao Paulo|YES|stars_5
+76283|Adrianopolis Apart Service|Manaus|YES|stars_4
+76287|Saint Paul Apart Service|Manaus|YES|stars_3
+76330|Pousada Corsario|Buzios|NO|stars_3
+76408|Perola de Buzios|Buzios|YES|stars_4
+76409|Ponta do Madeiro|Tibau do Sul|NO|stars_4
+76533|Transamérica Prime Barra|Rio de Janeiro|YES|stars_4
+76591|Colonial Chile|Salvador da Bahia|NO|stars_3
+76594|Refugio da Vila Pousada|Praia do Forte|NO|stars_3
+76596|Pousada da Espera|Praia de Itacimirim|NO|stars_2.5
+76601|Patachocas Eco Resort|Morro de São Paulo|NO|stars_5
+77062|Diogo|Fortaleza|YES|stars_3
+77105|Aubergue de la Langouste|Buzios|YES|stars_3
+77106|Pousada Dos Reis|Buzios|YES|stars_3
+77107|Joao Fernandes Pousada|Buzios|YES|stars_3
+77108|Bourbon Londrina Business|Londrina|YES|stars_4
+77961|Ilha Branca|Buzios|YES|stars_3
+77964|Piazza Navona Flat|Porto Alegre|YES|stars_3.5
+77965|InterCity Express Porto Alegre|Porto Alegre|YES|stars_4
+77966|Bristol Centro Cívico|Curitiba|YES|stars_3
+77967|Bristol Brasil 500|Curitiba|YES|stars_3.5
+77968|Carima Resort & Convention|Foz do Iguaçu|YES|stars_4
+77969|Bristol Metrópole|Maringá|YES|stars_4
+77970|Riverside Park|Petrópolis|YES|stars_3
+77977|Tropical Tambau|João Pessoa|YES|stars_4
+77979|Bourbon Joinville Business|Joinville|YES|stars_3.5
+77982|Marathi Park|Rondonópolis|YES|stars_3
+77983|Deville|Cuiabá|YES|stars_4
+77984|InterCity Premium Cuiaba|Cuiabá|YES|stars_4
+77985|Villaggio Arcobaleno|Porto Seguro|YES|stars_4.5
+77986|Pousada Lestada|Buzios|YES|stars_3
+77987|San Francisco Flat Service|Belo Horizonte|YES|stars_3.5
+77988|Comfort Suites Macae|Macaé|YES|stars_3
+77989|Brisol Upper Residence|Curitiba|YES|stars_3
+77990|Slaviero Suites Curitiba Soho|Curitiba|YES|stars_4
+77991|Bristol Londrina|Londrina|YES|stars_4
+77992|Castelmar Hotel|Florianopolis|YES|stars_3
+77994|Golden Tulip Internacional Foz|Foz do Iguaçu|YES|stars_4
+77995|Pousada do Sandi|Paraty|YES|stars_3.5
+77996|Beach Class Resort Muro Alto|Muro Alto|YES|stars_4
+77997|Aeroporto Othon Travel|Rio de Janeiro|YES|stars_3
+77998|Othon Pousada Villa del Sol|Paraty|YES|stars_3
+77999|Atlantico Praia Hotel|João Pessoa|YES|stars_3
+78000|San Rafael|Foz do Iguaçu|YES|stars_3
+78001|Plaza Baía Norte|Florianopolis|YES|stars_3.5
+78002|Marrua|Bonito|YES|stars_3
+78004|San Marino Suite|Maceio|YES|stars_4
+78005|Wetiga|Bonito|YES|stars_4
+78369|Himmelblau Palace|Blumenau|YES|stars_3
+78370|Buzios Guest House|Buzios|YES|stars_3
+78371|Enseada dos Corais|Cabo de Santo Agostinho|YES|stars_3
+78372|Canarius D'Gaibu|Cabo de Santo Agostinho|YES|stars_4
+78373|Pousada Corais & Conchas|Buzios|YES|stars_3
+78374|Girassol|Porto Seguro|YES|stars_3
+78375|Solar do Imperador|Porto Seguro|YES|stars_4
+78378|Reynolds International|Rondonópolis|YES|stars_4
+78380|Pousada Carnaval|Costa do Sauipe|YES|stars_2
+78381|Pousada Torre|Costa do Sauipe|YES|stars_2
+78382|Blue Tree Premium Verbo Divino|Sao Paulo|YES|stars_4
+78383|Victoria Villa|Curitiba|YES|stars_4
+78385|Tryp Higienopolis|Sao Paulo|YES|stars_4
+78386|InterCity Express Jundiai|Jundiaí|YES|stars_3
+78387|Executive Inn|Uberlândia|YES|stars_3
+78524|Melia Paulista|Sao Paulo|YES|stars_4
+78525|Caesar Business Sao Paulo Faria Lima & Pullman Sao Paulo Vila Olimpia|Sao Paulo|YES|stars_4
+78526|Mercure Belo Horizonte Lagoa dos Ingleses|Nova Lima|YES|stars_4
+78527|Nacional Inn São José dos Campos|São José dos Campos|YES|stars_4
+78733|Best Western Plus Sol Ipanema|Rio de Janeiro|YES|stars_4
+79161|Bavaria|Gramado|YES|stars_4
+79900|Best Western Augusto's Rio Copa|Rio de Janeiro|YES|stars_3.5
+81734|Continental Business|Porto Alegre|NO|stars_3
+81740|Juma Amazon Lodge|Autazes|NO|0
+81748|Txai Resort|Itacaré|NO|stars_5
+81755|Pousada Tabapitanga|Porto das Galinhas|NO|stars_3
+81756|Long Beach|Canoa Quebrada|NO|stars_4
+81957|Pousada Surfing Jeri|Jericoacoara|NO|stars_3
+81958|Pousada Blue Jeri|Jericoacoara|NO|stars_3
+82057|Sofitel Florianopolis|Florianopolis|YES|stars_5
+82058|Mercure Botafogo Mourisco|Rio de Janeiro|YES|stars_4
+82385|Nobile Suites Ponta Negra|Natal|YES|stars_3.5
+82386|Praia da Sereia|Salvador da Bahia|YES|stars_3
+82387|Atlantico Buzios Convention & Resort|Buzios|YES|stars_4
+82389|Don Quijote|Buzios|YES|stars_3
+82390|Ariau Amazon Towers|Manaus|YES|stars_3.5
+82392|Harbor Hotel Colonial|Foz do Iguaçu|YES|stars_3
+82395|Harbor Hotel Regent Suítes|Porto Alegre|NO|stars_3.5
+82396|Harbor Self Graciosa|Quatro Barras|YES|stars_3
+82714|Swan Tower Caxias|Caxias do Sul|YES|stars_3.5
+82715|San Marino Hotel e Suítes|Salvador da Bahia|YES|stars_3
+82716|ibis Styles Joinville|Joinville|YES|stars_3
+82717|Estanconfor Moema|Sao Paulo|YES|stars_4
+82718|Emiliano|Sao Paulo|YES|stars_5
+82719|Faial|Florianopolis|YES|stars_4
+82720|Harbor Hotel Batel|Curitiba|YES|stars_3.5
+82721|Zagaia Eco Resort|Bonito|YES|stars_4.5
+83267|Caravelle Palace|Curitiba|NO|stars_4
+83276|Jatoba Praia|Aracaju|NO|stars_3
+83301|Apa|Rio de Janeiro|YES|stars_3
+83315|Mercure Golden|Curitiba|YES|stars_3.5
+83316|Mercure Sete de Setembro|Curitiba|YES|stars_3
+83317|Mercure Vila da Serra|Belo Horizonte|NO|stars_3
+83318|Mercure Sao Paulo Funchal|Sao Paulo|YES|stars_3
+83326|Mercure Recife Metrópolis|Recife|YES|stars_3
+83327|Del Rey|Curitiba|NO|stars_4
+83328|Real Castilha|Sao Paulo|NO|stars_3
+83329|Slaviero Slim Centro|Curitiba|NO|stars_3
+83330|Slaviero Palace|Curitiba|NO|stars_4
+83331|Transamérica Classic Jundiaí|Jundiaí|YES|stars_3
+83338|Transamérica Classic Higienópolis|Sao Paulo|NO|stars_4
+83339|San Juan Royal Curitiba|Curitiba|NO|stars_4
+83343|San Juan Eco|Foz do Iguaçu|NO|stars_4
+83344|Plaza Inn Executive|Goiânia|NO|stars_4
+83347|Bristol Diamond Suites|Vitória|NO|stars_3
+83348|Bristol La Residence Victoria|Vitória|NO|stars_4
+83351|Howard Johnson Sao Jose dos Pinhais|São José dos Pinhais|NO|stars_3
+83353|Mar Ipanema|Rio de Janeiro|YES|stars_3
+83354|Aparthotel Adagio Belo Horizonte Minascentro|Belo Horizonte|YES|stars_3
+83402|Slaviero Rockefeller|Curitiba|NO|stars_4
+83403|Slaviero Slim Alto da XV|Curitiba|NO|stars_3
+83410|Slaviero Full Jazz|Curitiba|NO|stars_4
+83650|Slaviero Executive Pinhais|Curitiba|NO|stars_3.5
+83651|Slaviero Executive Batel|Curitiba|NO|stars_3
+83791|Astron Saint Moritz|São Bernardo do Campo|YES|stars_3
+83792|Travel Inn Space Valley|São José dos Campos|YES|stars_3
+83793|Twin Towers Flat|São Bernardo do Campo|YES|stars_4
+83794|Mercure Apartaments Blumenau|Blumenau|YES|stars_3
+83797|Mercure Beverly Hills|Porto Alegre|YES|stars_3
+83799|Mercure Times Square|Sao Paulo|YES|stars_3.5
+83821|InterCity Golden Fortaleza Flat|Fortaleza|YES|stars_3.5
+83823|Mercure Apartaments Fortaleza Meireles|Fortaleza|YES|stars_3.5
+83824|Mercure Mont Blanc|São Luís|YES|stars_3.5
+83841|Mercure Lifecenter|Belo Horizonte|YES|stars_3
+83914|Lira|Curitiba|NO|stars_3
+83986|Copacabana Rio|Rio de Janeiro|YES|stars_3
+83996|Niagara Flat|Belo Horizonte|NO|stars_3
+84012|Mercure São Paulo Moema|Sao Paulo|YES|stars_3
+84022|Mercure São Paulo Paraiso|Sao Paulo|YES|stars_3
+84049|Mercure São Paulo Nações Unidas|Sao Paulo|YES|stars_3
+84094|Tulip Inn Bellagio|São Luís|YES|stars_0
+84096|Howard Johnson São Paulo|Sao Paulo|YES|stars_3
+84151|Foz Presidente I|Foz do Iguaçu|NO|stars_3
+84154|Foz Presidente II|Foz do Iguaçu|NO|stars_3.5
+84169|Luz|Foz do Iguaçu|NO|stars_3
+84208|Promenade Palladium|Rio de Janeiro|YES|stars_4
+84209|Promenade Visconti|Rio de Janeiro|NO|stars_3.5
+84211|Promenade Princess|Rio de Janeiro|YES|stars_4
+84212|Promenade Paradiso|Rio de Janeiro|YES|stars_4
+84213|Promenade Champagnat|Belo Horizonte|YES|stars_3.5
+84226|Mc Flats The Claridge|Rio de Janeiro|NO|stars_3
+84227|Promenade Casa del Mar|Rio de Janeiro|NO|stars_4
+84229|Promenade Volpi|Belo Horizonte|YES|stars_3
+84240|Benidorm Palace|Rio de Janeiro|YES|stars_4
+84476|Atlantis Copacabana|Rio de Janeiro|YES|stars_3
+85188|Amazon Plaza|Cuiabá|NO|stars_2.5
+85193|Pousada do Pilar|Salvador da Bahia|NO|stars_2
+85194|Solar dos Deuses Pousada|Salvador da Bahia|NO|stars_3.5
+85209|Pousada Rancho do Peixe|Praia do Preá|NO|stars_3
+85404|Copacabana Praia|Rio de Janeiro|NO|stars_4
+85469|Porto Farol|Salvador da Bahia|NO|stars_3
+85659|Portal Recanto do Sol|Porto Seguro|YES|stars_3
+85660|Coral Tower Trade Center|Porto Alegre|YES|stars_4
+85838|Jurere Beach Village|Florianopolis|NO|stars_4
+86345|Vila do Mar|Natal|YES|stars_4
+86346|Atelier Molinaro Boutique|Rio de Janeiro|NO|stars_4
+87041|Pousada do Rio Mutum|Cuiabá|NO|stars_3.5
+87406|Pousada Barroco na Bahia|Salvador da Bahia|NO|stars_3
+87407|Gran Hotel Stella Maris Resort & Convention|Salvador da Bahia|YES|stars_4.5
+87409|Copa Sul|Rio de Janeiro|YES|stars_3
+87410|Lord Manaus|Manaus|NO|stars_4
+87679|Bella Italia|Foz do Iguaçu|NO|stars_4
+87681|Columbia|Sao Paulo|NO|stars_3
+87703|Golden Park|Rio de Janeiro|NO|stars_3
+87711|San Juan Tour|Foz do Iguaçu|NO|stars_3
+87712|Plaza Inn Nacional|São José do Rio Preto|NO|stars_4
+87713|Plaza Inn Sao Conrado|Goiânia|NO|stars_3
+87714|Plaza Inn Flat Araxa|Araxa|NO|stars_3.5
+87715|Plaza Inn Master|Ribeirão Preto|NO|stars_4
+87717|Bristol Metropolitan|Belo Horizonte|YES|stars_3
+87719|Bristol La Place Apart|Belo Horizonte|YES|stars_3.5
+87721|InterCity Premium Gravatai|Gravataí|NO|stars_3.5
+87753|Boulevard Express|Belo Horizonte|NO|stars_3
+87754|Bristol Golden Plaza|Belo Horizonte|NO|stars_3
+87755|Feller Avenida Paulista|Sao Paulo|NO|stars_4
+87760|Novo Vernon|Curitiba|NO|stars_3
+87767|Lhirondelle Apart|Campinas|NO|stars_3
+87770|San Diego Belo Horizonte|Belo Horizonte|NO|stars_4
+87788|Pisa Plaza|Salvador da Bahia|YES|stars_3
+87790|Yak|Natal|NO|stars_3
+87799|San Juan Business Sao Paulo|Sao Paulo|NO|stars_4
+87807|Areia de Ouro Suite|Natal|NO|stars_3
+87815|Windsor Guanabara|Rio de Janeiro|YES|stars_4
+87883|Travel Inn Guaratingueta|Guaratinguetá|NO|stars_3
+87945|San Diego Ipatinga|Ipatinga|NO|stars_4
+87946|San Diego Suites Uberlandia|Uberlândia|NO|stars_4
+87968|Cassino|Foz do Iguaçu|NO|stars_3
+87975|Everest Park|Rio de Janeiro|YES|stars_3
+88175|InterCity Premium Ibirapuera|Sao Paulo|YES|stars_4
+88242|Bristol Metropolitan|Curitiba|YES|stars_3.5
+88251|Bourbon Dom Ricardo Aeroporto Curitiba Business|São José dos Pinhais|YES|stars_3
+88426|Green Place Flat Service & Residence|Sao Paulo|NO|stars_4
+88433|HB Hotels Ninety|Sao Paulo|NO|stars_4
+88435|Plaza|Sao Paulo|NO|stars_2
+88508|The Capital|Sao Paulo|NO|stars_4
+88548|Mercure São Paulo Stella Vega|Sao Paulo|YES|stars_3
+88555|Riema Austria Flat Service|Americana|NO|stars_3
+88558|Riema Saint Charbel|Sao Paulo|NO|stars_4
+88559|Riema Paulista Classic Flat|Sao Paulo|NO|stars_4
+88610|Comfort Inn Joinville|Joinville|NO|stars_3
+88635|Nobile Inn Thermas Place|Caldas Novas|NO|stars_3
+88662|Rios Presidente|Rio de Janeiro|YES|stars_3
+88663|Rios Nice|Rio de Janeiro|NO|stars_3
+88665|Natur Campeche Hotel & Pousada|Florianopolis|NO|stars_3
+88715|Oasis Plaza|Ribeirão Preto|NO|stars_4
+88716|Intervale Othon Travel|São José dos Campos|NO|stars_3
+88749|Deville Express Florianopolis - geschlossen|Florianopolis|NO|stars_3
+88753|Bourbon Batel Express|Curitiba|YES|stars_3
+88754|Bourbon Atibaia Convention & Spa Resort|Atibaia|NO|stars_4.5
+88755|Bourbon Cascavel|Cascavel|NO|stars_3
+88811|Mercure Rio de Janeiro Appoador|Rio de Janeiro|YES|stars_3
+88976|Everest Porto Alegre|Porto Alegre|NO|stars_4
+88987|Monsieur Le Blond Apart|Rio de Janeiro|YES|stars_4
+88994|Real Residence|Rio de Janeiro|YES|stars_3.5
+88995|Majestic Rio Palace|Rio de Janeiro|YES|stars_3
+89025|Real Palace|Rio de Janeiro|NO|stars_4
+89037|Windsor Barra|Rio de Janeiro|YES|stars_5
+89046|Windsor Florida|Rio de Janeiro|YES|stars_3.5
+89051|Oceanico Ondina|Salvador da Bahia|NO|stars_3
+89052|Oceanico Armação|Salvador da Bahia|NO|stars_3
+89063|Pipa Ocean View|Natal|NO|stars_4
+89064|Perola do Morro Pousada|Morro de São Paulo|NO|stars_3
+89101|O Casarao Pousada|Morro de São Paulo|NO|stars_3
+90754|Casa do Amarelindo|Salvador da Bahia|NO|stars_4
+90797|Enotel Porto de Galinhas Resort & Spa|Porto das Galinhas|NO|stars_4.5
+90798|Porto Bay|Buzios|YES|stars_4
+91223|Normandie Design|Sao Paulo|YES|stars_3
+91225|L'Hotel Porto Bay Sao Paulo|Sao Paulo|YES|stars_5
+91231|Pousada Arco Mundial|Taiba|NO|stars_2.5
+91232|Continental Inn|Foz do Iguaçu|YES|stars_4
+91236|De Lencois|Lençóis|NO|stars_3
+91237|Canto das Aguas|Lençóis|NO|stars_4
+91239|Catavento Praia|Morro de São Paulo|NO|stars_3
+91240|Natureza Pousada|Morro de São Paulo|NO|stars_3
+91243|Aldeia da Mata Eco Lodge|Serra Grande|NO|stars_4
+91244|Pousada dos Quatro Cantos|Olinda|NO|stars_3
+91247|Marinas Tibau do Sul|Tibau do Sul|NO|stars_3
+91248|Pousada Vila Kalango|Jericoacoara|NO|stars_4
+91254|Pestana Sao Luis Resort|São Luís|YES|stars_5
+91394|Villa dos Corais Pousada|Morro de São Paulo|NO|stars_4
+91482|Fasano|Rio de Janeiro|NO|stars_5
+91534|Ferradura Resort|Buzios|NO|stars_4
+91535|Portobello Ondina Praia|Salvador da Bahia|NO|stars_4
+91559|Pousada Solar das Flecheiras|Flecheiras|NO|stars_3
+91670|Astoria Palace|Rio de Janeiro|YES|stars_4
+91900|Anavilhanas Jungle Lodge|Manaus|NO|stars_3.5
+91904|Colonna Galápagos Garden|Buzios|NO|stars_4
+91905|Estrela d'Agua|Trancoso|NO|stars_5
+92217|Crowne Plaza Belem|Belem|NO|stars_4
+92218|Castro's Park|Goiânia|YES|stars_5
+92233|Pousada Ilha do Papagaio|Palhoça|NO|stars_3
+92236|La Pedrera Pousada|Buzios|NO|stars_4.5
+92239|Jardim Atlantico|Ilheus|NO|stars_3
+92241|Pousada Etnia|Trancoso|NO|stars_4
+92244|Arraial d'Ajuda Eco Resort|Arraial d'Ajuda|NO|stars_4
+92245|Maitei Pousada|Arraial d'Ajuda|NO|stars_5
+92246|Cocoon Hotel & Lounge|Salvador da Bahia|NO|stars_4
+92248|La Villa Bahia|Salvador da Bahia|NO|stars_4
+92250|Kiaroa Eco Luxury Resort|Peninsula de Maraú|NO|stars_5
+92255|Village Pratagy Resort|Riacho Doce|NO|stars_4
+92258|D Beach Resort|Natal|YES|stars_4
+92261|Orixas Art|Flecheiras|NO|stars_4
+92262|Pousada California|Canoa Quebrada|NO|stars_3
+92430|Fazenda Vila Guaiamu|Morro de São Paulo|NO|stars_3
+93203|Ponta dos Ganchos|Governador Celso Ramos|NO|stars_5
+93277|Aconchego do Porto|Porto das Galinhas|NO|stars_3
+93278|Aconchego Recife|Boa Viagem|NO|stars_3
+93457|Astoria Copacabana|Rio de Janeiro|YES|stars_3
+93459|Zank Boutique|Salvador da Bahia|YES|stars_5
+93462|Braston São Paulo|Sao Paulo|NO|stars_4
+93606|Nacional Inn Ribeirão Preto|Ribeirão Preto|NO|stars_3
+93607|Dan Inn Ribeirão Preto|Ribeirão Preto|NO|stars_4
+93608|Village Inn Ribeirão Preto|Ribeirão Preto|NO|stars_3
+93609|Plaza|Ribeirão Preto|NO|stars_3
+93610|Best Western Caiçara|João Pessoa|NO|stars_3
+93611|Plaza Itapema Resort|Itapema|NO|stars_4.5
+93612|Plaza Camboriu|Balneário Camboriú|NO|stars_4
+93618|Bristol Quartier Latin|Vitória|NO|stars_3
+93619|Bristol Praia do Canto|Vitória|NO|stars_4
+93621|Bristol Evidence Apart|Goiânia|NO|stars_4
+93623|Vila Rica Campinas|Campinas|NO|stars_3
+93624|Royal Palm Residence|Campinas|NO|stars_4
+93625|Royal Palm Plaza / The Palms|Campinas|NO|stars_5
+93626|Nacional Inn Campinas|Campinas|NO|stars_4
+93794|Mercure Manaus|Manaus|NO|stars_3
+93796|Ingleses Praia|Florianopolis|YES|stars_4
+93797|Plaza Caldas da Imperatriz|Florianopolis|NO|stars_4.5
+93798|Vila Rica Belem|Belem|NO|stars_3
+93926|Maksoud Plaza|Sao Paulo|NO|stars_5
+93927|Panamby|Guarulhos|YES|stars_3.5
+93929|São Paulo Inn|Sao Paulo|NO|stars_3
+93933|Dan Inn Planalto|Sao Paulo|NO|stars_3
+93935|Sol Plaza Sleep|Salvador da Bahia|YES|stars_3
+93937|Rondonia Palace|Rio de Janeiro|NO|stars_3
+93938|Arcos Rio Palace|Rio de Janeiro|YES|stars_3
+93939|Ok|Rio de Janeiro|YES|stars_4
+93940|Monte Alegre|Rio de Janeiro|NO|stars_3
+93941|Novo Mundo LTDA|Rio de Janeiro|YES|stars_3
+93944|Nacional Inn Recife|Recife|NO|stars_3
+93945|Recife Monte|Boa Viagem|NO|stars_4
+93947|Bristol Pampulha Lieu|Belo Horizonte|YES|stars_3
+93948|Nacional Inn|Belo Horizonte|NO|stars_3.5
+93966|Vila Rica|Porto Velho|NO|stars_5
+94035|Blue Tree Towers Macae|Macaé|NO|stars_4
+94038|Nacional Inn Limeira|Limeira|NO|stars_3
+94040|Dan Inn Sorocaba|Sorocaba|NO|stars_4
+94041|Dan Inn Franca|Franca|NO|stars_4
+94042|Dan Inn Uberaba|Uberaba|NO|stars_3.5
+94066|Golden Blue Express|Londrina|NO|stars_3
+94069|Golden Tulip Porto Bali|Angra dos Reis|YES|stars_4
+94070|Village Inn|Poços de Caldas|NO|stars_4
+94072|Nacional Inn Piracicaba|Piracicaba|NO|stars_3
+94084|Slaviero Executive Ponta Grossa|Ponta Grossa|NO|stars_3
+94264|Tulip Inn Santa Felicidade|Curitiba|YES|stars_3
+94266|Tulip Inn Batel|Curitiba|YES|stars_3
+99221|RH Serena Boutique Resort|Buzios|YES|stars_4
+99696|Hotel Casa Blanca Business & Spa|Paulista|NO|stars_4
+100256|Ancorar Porto de Galinhas Flat Resort|Porto das Galinhas|NO|stars_4
+100434|Pousada das Canoas|Pipa Beach|NO|stars_3
+100448|Venezia|Ponta Negra|NO|stars_3
+100947|Miramar Maragogi Resort|Maragogi|NO|stars_5
+101013|Santa Fe|Cumbuco|NO|stars_3
+102629|Loi Suites Belgrano|Sao Paulo|YES|stars_3
+102691|Iberostar Praia do Forte|Praia do Forte|YES|stars_5
+103261|Amoaras Resort|Paulista|NO|stars_4
+104568|Augusta Park|Sao Paulo|NO|stars_2.5
+105459|Black Stream|Ribeirão Preto|NO|stars_3
+105503|Brava|Buzios|NO|stars_3
+105535|Duomo Park|Curitiba|NO|stars_3.5
+105710|Celi|Aracaju|NO|stars_4
+105900|Matiz Square Belo Horizonte|Belo Horizonte|NO|stars_3
+106793|Rosa dos Ventos|Teresópolis|NO|stars_3.5
+107131|Floph Hotel|Florianopolis|YES|stars_4
+107227|George V Alto De Pinheiros|Sao Paulo|NO|stars_4
+107269|Golden Park|Salvador da Bahia|NO|stars_3.5
+107300|Golden Tulip Interatlantico|Natal|YES|stars_4
+107409|Atlantico Praia|Rio de Janeiro|NO|stars_3
+107561|Hibiscus Beach Pousada|Buzios|NO|stars_3
+107667|Tulip Inn São José dos Pinhais|São José dos Pinhais|YES|stars_3
+107681|Holiday Inn Express Sumare Ave. / Sao Paulo|Sao Paulo|NO|stars_3
+108065|Ipanema Inn|Rio de Janeiro|NO|stars_3
+108328|Lancaster|Curitiba|NO|stars_4
+108704|Matsubara|Maceio|YES|stars_4
+108744|Mendes Plaza|Santos|NO|stars_5
+108767|Mercure Jaragua do Sul|Jaraguá do Sul|NO|stars_4
+108768|Mercure Manhattan|Porto Alegre|YES|stars_3
+108769|Mercure Recife Navegantes|Boa Viagem|YES|stars_3
+108771|Mercure Vitoria|Vitória|YES|stars_4
+109042|Plaza Inn Michelangelo|São José do Rio Preto|NO|stars_4.5
+109111|Mirador Rio|Rio de Janeiro|YES|stars_4
+109505|Pousada Corsario|Paraty|NO|stars_3
+109593|Parque Balneario|Santos|NO|stars_5
+109595|Parthenon Campinas Arcadas|Campinas|YES|stars_3
+109596|Cosmopolitan Praia Flat|Santos|NO|stars_4
+109600|Laghetto Toscana|Gramado|NO|stars_3
+109603|Paulista Wall Street Suites|Sao Paulo|NO|stars_4
+109634|Pergamon|Sao Paulo|NO|stars_4
+109995|Rafain Centro|Foz do Iguaçu|NO|stars_3
+110379|Pousada Santo Antonio|Salvador da Bahia|NO|stars_3.5
+110564|Sagu Mini Resort|Costa Verde|NO|stars_3
+111007|Staybridge Suites Sao Paulo|Sao Paulo|NO|stars_3
+111025|Stream Palace|Ribeirão Preto|NO|stars_4
+111106|Taj Mahal Continental|Manaus|NO|stars_5
+111444|Unique|Sao Paulo|NO|stars_5
+111780|Colinas Residencia|Rio de Janeiro|NO|stars_2
+122417|Royalty Barra|Rio de Janeiro|YES|stars_4
+122418|Bello Mare|Natal|YES|stars_3
+124151|Panorama & Acquamania Resort|Foz do Iguaçu|NO|stars_4
+125023|Atol Das Rocas|Natal|NO|stars_3
+125024|Araca Praia Flat|Natal|NO|stars_4
+127637|Pousada Girassois|Tibau do Sul|NO|stars_4
+127638|Varandas|Pipa Beach|NO|stars_3
+129257|Pousada Chez Pitu|Buzios|NO|stars_3
+129258|Augustos Paysandu|Rio de Janeiro|NO|stars_3
+133739|Aquarios Praia|Aracaju|NO|stars_4
+133746|Promenade Ianelli Residence|Belo Horizonte|YES|stars_3
+133747|Promenade Pancetti|Belo Horizonte|YES|stars_3.5
+133748|Promenade Guignard Residence|Belo Horizonte|YES|stars_3
+133750|Allia Gran Brasília Suites|Brasilia|NO|stars_4
+133751|Armação dos Búzios Pousada Design|Buzios|NO|stars_4
+133758|Roochelle Corporate|Curitiba|NO|stars_4
+133759|Deville Rayon|Curitiba|NO|stars_4.5
+133760|Praia Centro|Fortaleza|NO|stars_4
+133762|Cana Brava Resort|Ilheus|NO|stars_4
+133763|Ouro Branco Praia|João Pessoa|NO|stars_4
+133764|Four Points|Macaé|YES|stars_0
+133766|7 Coqueiros|Maceio|NO|stars_3
+133769|Villas Da Pipa|Pipa Beach|NO|stars_3
+133771|Praiamar Natal Hotel & Convention|Ponta Negra|YES|stars_4
+133773|Pousada Do Arcanjo|Ouro Preto|NO|stars_4
+133774|Costa Brasilis|Porto Seguro|NO|stars_4
+133776|Bahia Plaza Resort|Camaçari|YES|stars_4.5
+133780|Brisamar|São Luís|NO|stars_4
+133782|Excelsior Ipiranga|Sao Paulo|NO|stars_4
+133783|Meliá Ibirapuera|Sao Paulo|YES|stars_4
+133785|Matsubara|Sao Paulo|NO|stars_4
+133786|Nobilis Express|Sao Paulo|NO|stars_3
+134458|Paraiso Do Sol|Parajuru|NO|stars_3
+135788|Casa Grande|Guarujá|NO|stars_5
+135789|UeSo Pousadas Cerrado & Pantanal|Pantanal|NO|0
+135794|Pousada Zé Maria|Fernando de Noronha Island|NO|stars_3
+136373|Windsor Asturias|Rio de Janeiro|YES|stars_3
+136615|Pousada Vida Sol e Mar|Praia do Rosa|NO|stars_4
+136618|Aram Yami|Salvador da Bahia|NO|stars_4
+136628|Sombra e Agua Fresca|Pipa Beach|NO|stars_4
+137559|Monte Pascoal Praia|Porto Seguro|NO|stars_4
+138553|Blue Tree Towers Goiania|Goiânia|NO|stars_4
+138558|Plaza Inn Economic|São José do Rio Preto|NO|stars_3
+138583|Golden Tulip Address|Goiânia|YES|stars_0
+138587|Aguas do Iguacu|Foz do Iguaçu|NO|stars_3
+138589|Airam Brasilia|Brasilia|NO|stars_3.5
+138651|Arituba Park|Natal|NO|stars_3
+138662|Augusta Boulevard|Sao Paulo|NO|stars_4
+138668|Bahamas Apart|Campo Grande|NO|stars_4
+138679|Bay Park Resort|Brasilia|NO|stars_3.5
+138717|Best Western Tamandare Plaza|Goiânia|NO|stars_3.5
+138724|Blue Tree Premium Londrina|Londrina|NO|stars_4
+138725|Blue Tree Towers São José dos Campos|São José do Rio Preto|YES|stars_4
+138732|CWB Express|Curitiba|NO|stars_3
+138735|Brasil Palace|Belo Horizonte|NO|stars_2
+138737|Brasilia Palace|Brasilia|NO|stars_4
+138769|Charm Iguassu Suites|Foz do Iguaçu|NO|stars_2
+138790|Comfort Manaus|Manaus|NO|stars_3
+138805|Costa Norte Inglesses|Florianopolis|YES|stars_4
+138806|Costa Norte Ponta Das Canas|Florianopolis|YES|stars_4
+138853|Del Rey|Foz do Iguaçu|NO|stars_3
+138891|Tulip Inn Batista Campos|Belem|YES|stars_3
+138925|Gloria|Blumenau|NO|stars_3
+138927|Gold Mar|Belem|NO|stars_3
+138928|Golden Star|Curitiba|NO|stars_3
+138933|Gran Roca|Atibaia|NO|stars_3
+138950|Master Express Grande Hotel|Porto Alegre|NO|stars_3
+138965|Harbor Querência Hotel|Cascavel|NO|stars_4
+139022|InterCity Premium Natal|Natal|YES|stars_4
+139029|Itapetinga Plaza|Atibaia|NO|stars_3
+139083|Litoraneo|Salvador da Bahia|NO|stars_3
+139090|Maraba|Sao Paulo|NO|stars_4
+139093|Marina Travel Praia|Natal|YES|stars_3
+139101|Master Express|Porto Alegre|NO|stars_3
+139102|Master Express Perimetral|Porto Alegre|NO|stars_3
+139103|Master Palace|Porto Alegre|NO|stars_3
+139109|Metropolitan|Teresina|NO|stars_5
+139125|Netuanah Praia|João Pessoa|NO|stars_3
+139142|Oitis|Goiânia|NO|stars_3
+139153|Ouro Branco Maceio|Maceio|NO|stars_3
+139164|Park e Pousada Villabella Villaggio|Florianopolis|NO|stars_3
+139182|Planalto Bittar|Brasilia|NO|stars_4
+139188|Plaza Inn Augustus|Goiânia|NO|stars_3
+139189|Condominio Week Inn|Campos do Jordão|NO|stars_3
+139193|Pontal da Ferradura|Buzios|NO|stars_3
+139194|Porto D' Aldeia Resort|Fortaleza|NO|stars_4
+139197|Unidade II - Caju Economic|João Pessoa|NO|stars_2
+139198|Unidade III - Caju Flat|João Pessoa|NO|stars_3
+139202|Caju Praia Azul|Maragogi|NO|stars_3.5
+139205|Praiatur|Florianopolis|NO|stars_4
+139211|Privillage Praia Pousada de Charme|Arraial d'Ajuda|NO|stars_3
+139308|Royal Palace Brazil|Porto Alegre|NO|stars_3
+139319|Pietro Angelo|Foz do Iguaçu|NO|stars_3
+139324|Hotel San Marino|Goiânia|NO|stars_3
+139325|San Michel|Sao Paulo|NO|stars_3
+139409|St. Paul Plaza|Brasilia|NO|stars_3
+139446|Taiyo Thermas|Caldas Novas|NO|stars_3.5
+139450|Best Western Tarobá|Foz do Iguaçu|YES|stars_3
+139469|Timbiras Palace|Sao Paulo|NO|stars_3
+139477|Mocambique Praia|Canasvieiras|NO|stars_3
+139478|Brisol Hotel|João Pessoa|NO|stars_3
+139490|Valerim Center|Florianopolis|NO|stars_2
+140561|Promenade Platinum|Belo Horizonte|YES|stars_4
+140562|Royal Center|Belo Horizonte|NO|stars_4
+140563|Royal Savassi|Belo Horizonte|NO|stars_4
+140564|Toronto Tower Residence|Belo Horizonte|NO|stars_3
+140567|Le Relais La Borie|Buzios|NO|stars_4.5
+140569|Pousada Barla Inn|Buzios|YES|stars_3
+140570|Pousada Barlavento|Buzios|NO|stars_3
+140572|Azeda Boutique|Buzios|NO|stars_4
+140575|Pousada Ville La Plage|Buzios|NO|stars_2.5
+140578|Rieger|Balneário Camboriú|NO|stars_4
+140580|Porto Ingleses|Florianopolis|NO|stars_4
+140581|Torres Da Cachoeira|Florianopolis|NO|stars_4
+140582|Cocal|Fortaleza|NO|stars_3
+140583|Dom Pedro I Palace|Foz do Iguaçu|NO|stars_3
+140584|Foz Plaza|Foz do Iguaçu|NO|stars_3
+140587|Igatu Praia|João Pessoa|NO|stars_3
+140588|Littoral|João Pessoa|NO|stars_4
+140589|Littoral Express|João Pessoa|NO|stars_3
+140590|Littoral Tambaú Flat|João Pessoa|NO|stars_3
+140591|Ritz Plazamar|Maceio|YES|stars_3
+140592|Ritz Praia|Maceio|YES|stars_3
+140595|Monaco|Manaus|NO|stars_3
+140598|Ponta Negra Flat|Natal|NO|stars_3
+140600|Pousada Bromélias|Paraty|NO|stars_4
+140603|Pousada Villa Harmonia|Paraty|NO|stars_3
+140605|Estalagem|Porto Seguro|NO|stars_3
+140606|Porto Calem Praia|Porto Seguro|NO|stars_3
+140608|Fazenda Amaragi|Recife|NO|stars_3
+140611|Copacabana Sol|Rio de Janeiro|NO|stars_3
+140612|Ingles|Rio de Janeiro|NO|stars_2
+140619|Scorial Rio|Rio de Janeiro|NO|stars_3.5
+140622|Rio Poty|São Luís|NO|stars_3.5
+140623|Braston Augusta|Sao Paulo|YES|stars_3
+140962|Tauá Grande|Araxa|NO|stars_4.5
+140963|Beira Rio|Belem|NO|stars_3
+141667|Barra da Lagoa|Buzios|YES|stars_3
+144051|Intercity Píer Vitória|Vitória|NO|stars_3
+144053|El Cazar|Buzios|NO|stars_3.5
+144054|George V Casa Branca|Sao Paulo|NO|stars_4.5
+144055|Bourbon Alphaville Business|Alphaville|YES|stars_4
+144057|Radisson Alphaville|Barueri|YES|stars_4
+144059|Brisa Tower|Maceio|NO|stars_4
+144060|Mercure Camboriu|Balneário Camboriú|NO|stars_4
+144062|Praia Bonita|Maceio|NO|stars_2
+144069|Pousada das Canoas|Paraty|NO|stars_3
+144073|Vila Tamarindo Ecolodge|Florianopolis|NO|stars_3.5
+144074|Parnaso|Balneário Camboriú|NO|stars_4
+144075|Holiday Inn Express Natal Ponta Negra|Ponta Negra|NO|stars_3
+144077|The Falls|Guarujá|NO|stars_4
+144079|Itapemar|Ilhabela|NO|stars_4
+144083|Da Costa|Aracaju|NO|stars_3
+144084|Crillon Palace|Londrina|NO|stars_3
+144085|Sheraton Vitoria|Vitória|YES|stars_5
+144089|Mercure Macae|Macaé|NO|stars_3
+144091|Ibis Aracatuba|Araçatuba|NO|stars_3
+144092|Sao Sebastiao da Praia|Florianopolis|NO|stars_3
+144095|Bristol Century Plaza|Vitória|NO|stars_3.5
+144099|Ibis Manaus|Manaus|NO|stars_3
+144100|Kalamari|Aquiraz|NO|stars_3
+144107|Sleep Inn Manaus|Manaus|NO|stars_3
+144109|Quality Anaca|São Carlos|NO|stars_3
+144111|Ibis Vitoria Aeroporto|Serra|NO|stars_2.5
+144112|Tulip Inn Campo Largo|Campo Largo|YES|stars_3
+144113|Aquabarra Guest House|Buzios|NO|stars_4
+144118|George V Etoile Jardins|Sao Paulo|NO|stars_4.5
+144123|George V Etoile Itaim|Sao Paulo|NO|stars_3
+144125|Xales de Maracaipe|Porto das Galinhas|NO|stars_2
+144126|Pousada Sitio Phoenix|Jericoacoara|NO|stars_3.5
+144129|Pousada Aguas de Paratii|Paraty|NO|stars_3
+144132|Ibis Guarulhos|Guarulhos|NO|stars_3
+144133|Ilha de Toque Toque Boutique|São Sebastião|NO|stars_3
+144134|Hotel & Spa do Vinho, Autograph Collection|Bento Gonçalves|NO|stars_4.5
+144136|Hotel Porto Real|Mangaratiba|NO|stars_4
+144143|Quality Niteroi|Niteroi|NO|stars_3
+144145|Address Faria Lima|Sao Paulo|NO|stars_4
+144146|Maison Joly|Ilhabela|NO|stars_3
+144147|Pousada Coqueiro Verde|Itacaré|NO|stars_2.5
+144148|The Royal Palm Tower|Campinas|NO|stars_4
+144152|Pontal Mar Praia|Ponta Negra|NO|stars_4
+144153|Bristol Dobly Oceania Park|Florianopolis|NO|stars_4
+144154|Nauticomar All Inclusive Hotel & Beach Club|Porto Seguro|NO|stars_4
+144159|Villa Di Capri|Ubatuba|NO|stars_2
+144160|Arpoador Inn|Rio de Janeiro|NO|stars_3
+144162|Pousada Joao De Barro|Rio Negrinho|NO|stars_3
+144163|Antibes Residence|Natal|NO|stars_3
+144168|Premium Norte|Campinas|NO|stars_4
+144169|Regent Park Suite|Sao Paulo|YES|stars_3.5
+144171|Mercure Sao Paulo Vila Olimpia|Sao Paulo|YES|stars_3
+144172|Vitoria Newport Residence|Campinas|NO|stars_3
+144174|Ibis Rio de Janeiro Centro|Rio de Janeiro|NO|0
+144176|Best Western Dubai Macae|Macaé|NO|stars_3
+144198|Deauville Pousada|Buzios|NO|stars_3
+163445|Meu Sonho|Buzios|NO|stars_2
+182532|L'Authentique Cristal|São Luís|NO|stars_4
+182820|Insólito Boutique & Spa|Buzios|YES|stars_4.5
+183117|Villa da Praia|Salvador da Bahia|NO|stars_3.5
+183300|Pajucara Praia|Maceio|NO|stars_3.5
+183304|Grande Canada|Rio de Janeiro|YES|stars_3
+183306|Bristol Viale Cataratas|Foz do Iguaçu|YES|stars_4
+183309|Pousada Blauset|São Gonçalo do Amarante|YES|stars_3
+183311|Ritz Coralli Boutique|Maceio|NO|stars_3
+183313|Costa do Atlantico|Natal|NO|stars_3
+183314|Soleil Suite|Natal|NO|stars_3.5
+183316|Real Classic|Aracaju|NO|stars_3.5
+184020|Itacimirim Eco Resort|Praia de Itacimirim|NO|stars_3.5
+185361|Pousada Jeriba|Jericoacoara|NO|stars_5
+185362|Pousada Vila Bacana|São Miguel do Gostoso|NO|stars_2
+187348|Plaza|Manaus|NO|stars_3
+189402|Pousada des Arts|Salvador da Bahia|NO|stars_3
+189403|Duro Beach|Cumbuco|NO|stars_4
+195893|Cores do Mar|Porto das Galinhas|YES|stars_3
+201308|Grand Palladium Imbassai Resort & Spa|Imbassai|YES|stars_5
+201870|Pousada do Principe|Rio de Janeiro|NO|stars_3
+202432|Kariri Beach|Cumbuco|NO|stars_4
+202484|Vistamar|Maceio|YES|stars_3
+203133|Victoria Palace|Florianopolis|YES|stars_3
+203134|Luisa Palace|Florianopolis|YES|stars_3
+203135|Mar del Plata|Florianopolis|YES|stars_3
+203136|Mar de Canasvieiras|Florianopolis|YES|stars_3
+204694|Apart Primo|Natal|NO|stars_3
+205745|Bahia Sol e Mar|Salvador da Bahia|NO|stars_3
+205746|Bahiacafé|Salvador da Bahia|NO|stars_3
+206205|Biarritz|Rio de Janeiro|NO|stars_2.5
+206455|Brasília Imperial|Brasilia|NO|stars_4
+206830|Capitania de Porto Seguro|Porto Seguro|NO|stars_3
+207156|Central Park Jardins|Sao Paulo|NO|stars_4
+207863|Cristal Palace|Rio de Janeiro|NO|stars_3
+207966|Dan Inn|Sao Paulo|NO|stars_3
+208368|Divi-Divi Praia|Natal|NO|stars_3
+208967|Euro Suit|Campinas|NO|stars_4
+209293|Travel Inn Saint Charles|Jundiaí|NO|stars_3
+209465|Galeão|Porto Seguro|NO|stars_3
+209867|Golden Tower São Paulo|Sao Paulo|NO|stars_4
+209872|Golden Tulip Brasília Alvorada|Brasilia|NO|stars_4
+209932|Granada|Rio de Janeiro|NO|stars_3
+210202|Hamburgo Palace|Balneário Camboriú|NO|stars_3
+210258|Harbor Self Buriti Suítes|Campo Grande|NO|stars_3
+210873|Hostel Jucati|Rio de Janeiro|NO|stars_2
+210983|Bahia do Sol|Salvador da Bahia|NO|stars_3
+211083|Continental Porto Alegre|Porto Alegre|NO|stars_4
+211374|Praia Mar|Fortaleza|NO|stars_3
+213754|Mar Brasil|Salvador da Bahia|NO|stars_3
+213757|Marambaia Aparthotel|Natal|NO|stars_3
+213997|Mengo Palace|Rio de Janeiro|NO|stars_3
+214128|Mirador Praia|Natal|NO|stars_4
+214199|Moncloa|Sao Paulo|NO|stars_3
+214228|Monte Castelo|Rio de Janeiro|NO|stars_2
+214417|Nautilus Apart|Natal|NO|stars_3
+214514|Nikko|Curitiba|NO|stars_3
+214995|Paradise Flat|Natal|NO|stars_4
+215666|Porto Verano Residence|Porto Seguro|NO|stars_3
+215698|Alvorada do Farol Pousada|Salvador da Bahia|NO|stars_3
+215699|Pousada Aroma Do Mar|Buzios|NO|stars_4
+215700|Pousada Beija Flor|Salvador da Bahia|NO|stars_3
+215707|Pousada do Baluarte|Salvador da Bahia|NO|stars_3
+215709|Encanto de Itapoan Pousada|Salvador da Bahia|NO|stars_2.5
+215710|Estrela do Mar Pousada|Salvador da Bahia|NO|stars_3
+215712|Pousada Janellas do Mar|Buzios|NO|stars_3
+215713|Pousada Laguna|Cabo Frio|NO|stars_2.5
+216548|RAH Classic|Fortaleza|NO|stars_3
+216549|RAH Ocean View|Fortaleza|NO|stars_3
+216550|RAH Porto Jangada Flat|Fortaleza|NO|stars_3
+217299|Rio 180° Suites & Cuisine|Rio de Janeiro|NO|stars_4
+217613|Safari|Natal|NO|stars_3
+217719|San Michel|Taubate|NO|stars_4
+218101|Slaviero Executive Florianópolis|Florianopolis|NO|stars_4
+218103|Slaviero Slim Alice Vitoria|Vitória|NO|stars_3
+218483|Studio do Carmo|Salvador da Bahia|NO|stars_4
+218537|Dan Inn|Foz do Iguaçu|NO|stars_3
+218652|Tamboleiro Hospedaria|Salvador da Bahia|NO|stars_2
+218735|Terrazzo da Bahia Flats|Salvador da Bahia|NO|stars_3
+219763|Travel Inn Conde Luciano|Sao Paulo|NO|stars_3
+219766|Travel Inn Moema|Sao Paulo|NO|stars_3
+219829|Trópico de Capricórnio|Buzios|NO|stars_4
+220012|Varanda das Bromélias Boutique|Gramado|NO|stars_4
+220140|Vila Velha|Salvador da Bahia|NO|stars_3
+220396|Villa Rasa Marina|Buzios|NO|stars_4.5
+220401|Villa Rica|Rio de Janeiro|NO|stars_2
+220447|Villa Terra Viva|Jericoacoara|NO|stars_4
+220639|Web Salvador|Salvador da Bahia|YES|stars_3
+222530|Lago das Pedras|Arapongas|NO|stars_3.5
+222716|Macaé Othon Suítes|Macaé|NO|stars_3.5
+222741|Maratea Mare|Florianopolis|NO|stars_3
+222848|Mykonos Residência|Rio de Janeiro|NO|stars_2
+223100|Pousada O Forte|Aracaju|NO|stars_3
+223139|Quinta das Videiras|Florianopolis|NO|stars_4
+223600|Tibau Lagoa|Tibau do Sul|NO|stars_4
+226544|Atoba Praia|Balneário Camboriú|NO|stars_4
+226545|Pires|Balneário Camboriú|NO|stars_3
+226781|Pousada Santorini|Buzios|YES|stars_2.5
+226782|Leblon Flat Service|Rio de Janeiro|YES|stars_4
+226784|D'Sintra|Balneário Camboriú|NO|stars_4
+227107|Salinas de Maceio Beach Resort|Maceio|YES|stars_4
+227110|Spotlight Pinheiros|Sao Paulo|NO|stars_3
+227306|Holiday Inn Manaus|Manaus|NO|stars_3
+227317|Eurosol Tibau Resort|Tibau do Sul|NO|stars_4
+227402|Radisson Maceio|Maceio|YES|stars_4.5
+227405|Pousada Casa do Catavento|Buzios|YES|stars_3
+227427|Suites Villa Del Sol|Rio de Janeiro|YES|stars_4
+227627|Bourbon Barra Premium Residence|Rio de Janeiro|YES|stars_4
+227773|Cumbuco Pousada Praia|Cumbuco|NO|stars_3
+228246|Pousada do Frances|Fernando de Noronha Island|NO|stars_3
+228248|Eco Resort Cajú|Praia de Itacimirim|NO|stars_5
+228249|Vila Galé Cumbuco|Cumbuco|NO|stars_5
+228381|Ramada Lagoa Santa International Airport|Belo Horizonte|NO|stars_4
+228907|Dom Pedro Laguna Hotel|Aquiraz|YES|stars_5
+229410|Angra Fashion Resort|Angra dos Reis|NO|stars_3
+229416|Coimbra Residence Flat|Fortaleza|NO|stars_3
+229417|Costa do Mar|Fortaleza|NO|stars_4
+229418|Sables|Guarulhos|NO|stars_3
+229423|Harbor Inn Londrina|Londrina|NO|stars_3
+229427|Vip Praia|Natal|NO|stars_4
+229428|Boulevard da Praia Apart|Porto Seguro|NO|stars_3
+229431|Atlantico Sul|Rio de Janeiro|NO|stars_3
+229433|Gávea Tropical|Rio de Janeiro|NO|stars_4
+229434|Pousada O Ninho|Salvador da Bahia|NO|stars_3
+229439|Intercity Campobelo - Congonhas|Sao Paulo|NO|stars_3
+229915|Park Suites Manaus|Manaus|NO|stars_4
+229917|The Chili Beach|Jericoacoara|NO|stars_4
+230270|Caesar Business Manaus|Manaus|NO|stars_4
+232354|Serantes|Ponta Negra|NO|stars_3
+232355|Aquarela Do Brasil|Salvador da Bahia|NO|stars_3
+232356|Canto Da Ilha|Florianopolis|NO|stars_3
+232357|Nikkey Palace|Sao Paulo|NO|stars_4
+232358|Verde Mar|Maceio|NO|stars_3
+232852|Blue Tree Premium Manaus|Manaus|YES|stars_4
+233099|Travel Inn Arembepe Beach|Arembepe|NO|stars_3
+233100|Capcana Hotel|Sao Paulo|NO|stars_4
+233101|Pousada do Capitao|Ilhabela|NO|stars_3
+233191|Travel Inn Porto Pero|Cabo Frio|NO|stars_3
+233192|Pousada Kopenhagen Beach|Cabo Frio|NO|stars_3
+233195|Lizon Curitiba|Curitiba|NO|stars_4
+233196|Mabu Capivari Eco Resort|Curitiba|NO|stars_4
+233197|Il Campanario Villaggio Resort|Florianopolis|NO|stars_5
+233198|Lexus Beiramar|Florianopolis|NO|stars_3
+233199|Lexus International|Florianopolis|NO|stars_3
+233203|La Residence|Goiânia|NO|stars_3
+233204|Papillon|Goiânia|NO|stars_4
+233208|Delphia Marsallis Residence Flat|Natal|NO|stars_3
+233209|Delphia Terrazo Ponta Negra Flat|Natal|NO|stars_3
+233210|Littoral Maximum Flat|Natal|NO|stars_3
+233212|Ponta do Sol Praia|Natal|NO|stars_4
+233215|Rua da Praia|Porto Alegre|NO|stars_3
+233216|Flamingo Beach|Porto Seguro|NO|stars_3
+233218|Travel Inn Quari Quara|Rio das Ostras|NO|stars_3
+233219|America Towers|Salvador da Bahia|NO|stars_4
+233711|Delphia Praia de Iracema|Fortaleza|NO|stars_2.5
+233712|Cult|Boa Viagem|NO|stars_3
+233933|Marambaia Casino & Convention|Balneário Camboriú|NO|stars_4
+233934|Ferradura Private|Buzios|NO|stars_5
+234087|Mercure Aracaju Del Mar|Aracaju|NO|stars_4
+234088|Quality Hotel Joao Pessoa|João Pessoa|NO|stars_3
+234331|JP|Ribeirão Preto|NO|stars_5
+234473|Kiteworldwide Pousada|Tatajuba|NO|stars_3.5
+235033|Pousadas Unicornio|Buzios|NO|stars_4
+235173|Meridional|Fortaleza|NO|stars_3
+235175|Tropico Praia|Maceio|NO|stars_3
+235476|Blue Mountain Hotel & Spa|Campos do Jordão|NO|stars_5
+235613|Coronado Beach|Buzios|YES|stars_3
+236071|Express Salvador|Salvador da Bahia|NO|stars_2.5
+236271|Metropolitan Flat Brasilia|Brasilia|YES|stars_4
+236339|Patamares Praia|Salvador da Bahia|NO|stars_3
+236498|Travel Inn Apa Pau Brasil|Buzios|NO|stars_3
+236500|Pousada Aquarium|Buzios|NO|stars_3
+236686|Nacional Inn Previdência|Araxa|NO|stars_3
+236691|Granville Park|Curitiba|NO|stars_3
+236693|Laguna Blu|Aquiraz|NO|stars_3
+236694|Marbello Ariau|Fortaleza|NO|stars_3
+236695|Royal Iguassu|Foz do Iguaçu|NO|stars_3
+236696|Dan Inn Mar|Boa Viagem|NO|stars_3.5
+236697|Intercity Premium Joao Pessoa|João Pessoa|NO|stars_4
+236698|Borekoko|Porto das Galinhas|NO|stars_3
+236699|Sunshine Praia|Porto Seguro|NO|stars_4
+236700|Transoceanico Praia|Porto Seguro|NO|stars_4
+236701|Pituba Plaza|Salvador da Bahia|NO|stars_4
+236702|Dan Inn São José Dos Campos|São José dos Campos|NO|stars_3
+236703|Linson Augusta|Sao Paulo|NO|stars_3.5
+236704|Nacional Inn Sorocaba|Sorocaba|NO|stars_3
+238500|Ponta Negra|Ponta Negra|NO|stars_3
+238533|Porto da Ilha|Florianopolis|NO|stars_3.5
+238534|Plaza Inn Paineiras|Goiânia|NO|stars_3
+238535|Mirante|Foz do Iguaçu|NO|stars_2.5
+238537|Praia Bonita Resort & Conventions|Natal|NO|stars_4
+238539|Guara Pousada|Guarapari|NO|stars_2.5
+238542|Atlântico Business Centro|Rio de Janeiro|NO|stars_4
+238579|Estação Porto Praia|Porto das Galinhas|NO|stars_3
+238580|Mercure Salvador Pituba|Salvador da Bahia|NO|stars_4
+238770|Pousada Tamanduá|Pipa Beach|NO|stars_3
+239250|Miratlantico|Buzios|NO|stars_3
+239255|Holiday Inn Sao Luis|São Luís|NO|stars_4
+239256|Brasil Tropical Village|Pipa Beach|NO|stars_4
+239323|Leao da Montanha|Campos do Jordão|NO|stars_3.5
+239356|Golden Tulip Pantanal|Cuiabá|YES|stars_4
+239857|Sauipe Resort - Sauipe Class|Costa do Sauipe|YES|stars_5
+239858|Umbu|Porto Alegre|NO|stars_3
+239859|Tulip Inn Praiabella|São Luís|YES|stars_3
+239860|Golden Tulip Porto Vitoria|Vitória|YES|stars_4
+240018|Aram Praia|Ponta Negra|NO|stars_3
+240023|Aquaria Natal|Ponta Negra|NO|stars_4
+240073|Tulip Inn Centro Histórico|Porto Alegre|YES|stars_3
+241562|Go Inn Manaus|Manaus|NO|stars_3
+241600|Slaviero Suites Foz do Iguaçu|Foz do Iguaçu|NO|stars_3.5
+241762|Mussulo Resort By Mantra|João Pessoa|NO|stars_4
+241763|Flat Mar do Cabo Branco|João Pessoa|NO|stars_2.5
+241765|Quality Manaus|Manaus|NO|stars_4
+241766|Paradies|Jarinu|NO|stars_4
+241767|Comfort Inn & Suites|Ribeirão Preto|NO|stars_3
+241768|Comfort Sao Jose dos Campos|São José dos Campos|NO|stars_3
+243123|Hotel & Flat Caju Intermares|João Pessoa|NO|stars_4
+243128|Slaviero Executive Viacatarina|Palhoça|NO|stars_3
+243130|Natal Dunnas|Ponta Negra|NO|stars_3
+243161|Unidade I - Caju City|João Pessoa|NO|stars_2.5
+243509|Novotel Rio De Janeiro Santos Dumont|Rio de Janeiro|NO|stars_4
+243510|Nadai Confort|Foz do Iguaçu|NO|stars_3.5
+243513|Vila Dos Orixas Boutique|Morro de São Paulo|NO|stars_4
+243515|Girassois Lagoa Resort|Tibau do Sul|NO|stars_3.5
+243517|Holiday Inn Express Cuiaba|Cuiabá|NO|stars_3
+243518|Nobile Hotel Royal João Pessoa|João Pessoa|NO|stars_3
+246216|Pousada Aguazul|Buzios|NO|stars_4
+246217|Pousada dos Tangaras|Buzios|NO|stars_3
+246218|Carmel Charme Resort|Aquiraz|NO|stars_4.5
+246417|Iguassu Express|Foz do Iguaçu|NO|stars_3
+246846|Al Mare|Florianopolis|NO|stars_3
+246850|DPNY Beach|Ilhabela|NO|stars_5
+246855|Royal Jardins|Sao Paulo|NO|stars_4
+247996|Royal Golden|Belo Horizonte|NO|stars_4
+247997|Latitud Buzios|Buzios|NO|stars_3
+247998|Raio de Sol Praia|Fortaleza|NO|stars_2
+247999|Oasis Tower|Ribeirão Preto|NO|stars_4
+248000|Refugio Cheiro de Mato|Mairiporã|NO|stars_4
+248001|Pousada Manga Rosa|Ilhabela|NO|stars_3
+248002|Ambassador Flat|João Pessoa|NO|stars_3
+248003|Hardman Praia|João Pessoa|NO|stars_4
+248004|Pipas Bay|Pipa Beach|NO|stars_4
+248005|King's Flat Natal|Ponta Negra|NO|stars_3.5
+248007|Vivence Suites|Goiânia|NO|stars_4
+248008|Magic Palace|Rio de Janeiro|NO|stars_3
+248009|Acrópolis Marina|Angra dos Reis|NO|stars_3
+248010|Terra Nobre Plaza|Sao Paulo|NO|stars_3
+248011|Du Lac|Macaé|NO|stars_3.5
+248012|Serrano Resort Gramado|Gramado|NO|stars_4.5
+248014|Laje de Pedra Hotel & Resort|Canela|NO|stars_3.5
+248271|Sauipe Resort - Sauipe Fun|Costa do Sauipe|YES|stars_4.5
+248272|Sauipe Resort - Premium / Club / Park / Class / Fun / Pousadas|Costa do Sauipe|NO|stars_4
+249234|Monte Rei|Salvador da Bahia|NO|stars_3
+249238|Nacional Inn Curitiba|Curitiba|NO|stars_4
+249239|Atlántico|Salvador da Bahia|NO|stars_3
+249358|Itapoã Praia|Salvador da Bahia|NO|stars_2.5
+249359|Praia Mole Eco Village|Florianopolis|NO|stars_3
+249360|Palmleaf Premium|Sao Paulo|NO|stars_3
+249365|Pousada Beco da Lua|Olimpia Sao Paulo|NO|stars_3
+249366|Gelps|Rio Verde|NO|stars_4
+249368|Coqueiral Praia|Vitória|NO|stars_3
+249370|Pousada Italia|Natal|NO|stars_3
+249451|Grand São Luis|São Luís|NO|stars_4
+249454|Slaviero Slim Joinville|Joinville|NO|stars_3
+249456|City|Porto Alegre|NO|stars_4
+249461|Best Western Premier Majestic Ponta Negra Beach|Natal|NO|stars_5
+249462|Nobile Porto Firme|Porto Seguro|NO|stars_3
+249467|Higienopolis Hotel & Suítes|Sao Paulo|NO|stars_4
+249469|Bahia Park|Salvador da Bahia|NO|stars_3
+249473|Condor|Curitiba|NO|stars_3
+249478|Nord Blue Sunset|João Pessoa|NO|stars_4
+249487|Planalto Ponta Grossa|Ponta Grossa|NO|stars_3
+249488|Nord Imperial Hotel|João Pessoa|NO|stars_4
+249495|Boulevard Park|Belo Horizonte|NO|stars_3
+249496|Boulevard Plaza|Belo Horizonte|NO|stars_4
+249500|Absolutte|Salvador da Bahia|NO|stars_3
+249516|Nobile Suites Monumental|Brasilia|NO|stars_4
+249520|Gran Rio|São José do Rio Preto|NO|stars_3.5
+249522|Amazônia Golf Resort - By Nobile|Manaus|NO|stars_5
+249532|The Palace Flat|Sao Paulo|NO|stars_3.5
+249538|Matiz Salvador|Salvador da Bahia|NO|stars_4
+249540|Village Eldorado|Atibaia|NO|stars_4
+249544|Littoral Varandas de Ponta Negra|Ponta Negra|NO|stars_3
+249547|Nord Green Sunset|João Pessoa|NO|stars_3
+249551|Quintas Private Residences by Nobile|Costa do Sauipe|NO|stars_5
+249560|Arraial Bangalô|Arraial d'Ajuda|NO|stars_4
+249561|Sueds Mairypora Hotel|Porto Seguro|NO|stars_3
+249562|Bristol|Brasilia|NO|stars_4
+249584|Nord Ondas Do Atlantico|João Pessoa|NO|stars_4
+249586|Pousada Do Tesouro|Paraty|NO|stars_3
+249587|Collins Trade Hotel|Porto Alegre|NO|stars_3
+249589|Arambare|Buzios|NO|stars_3
+249592|Aldeia do Mar|Itacaré|NO|stars_3
+249601|Palmleaf Grand Premium|São Bernardo do Campo|NO|stars_4
+249604|Brisa Tropical de Macae|Macaé|NO|stars_4
+249607|Slaviero Slim Congonhas|Sao Paulo|NO|stars_3
+249608|Palmleaf Residence|Sao Paulo|NO|stars_3
+249739|Cores do Mar|Salvador da Bahia|NO|stars_3
+250151|Comfort Araraquara|Araraquara|NO|stars_3
+250152|Tulip Inn Nazare|Belem|YES|stars_3
+250153|Golden Tulip Belém|Belem|YES|stars_4
+250154|Sleep Inn Goiania|Goiânia|NO|stars_2.5
+250155|Quality Resort & Convention Center Itupeva|Itupeva|NO|stars_3
+252719|Asalem|Angra dos Reis|NO|stars_3
+252720|Engenho do Bracuhy|Angra dos Reis|NO|stars_4
+252722|Pampulha Flat|Belo Horizonte|NO|stars_3
+252723|Via Contorno|Belo Horizonte|NO|stars_3
+252726|Ambassy Hotel|Belo Horizonte|NO|stars_3
+252727|Serrana Palace|Belo Horizonte|NO|stars_3
+252728|Hotel Rio Jordao|Belo Horizonte|NO|stars_3
+252729|Cheverny Apart|Belo Horizonte|NO|stars_3
+252730|Belo Horizonte Plaza|Belo Horizonte|NO|stars_4
+252731|Pousada Solar de Buzios|Buzios|NO|stars_3
+252733|Pousada Baia Bonita|Buzios|NO|stars_3
+252734|Pousada A Casa do Torrely|Buzios|NO|stars_2.5
+252735|Pousada Afrika|Buzios|NO|stars_3
+252736|Luar de Buzios|Buzios|NO|stars_3
+252737|Buzios Internacional Apart Hotel|Buzios|NO|stars_3
+252738|Blue Tree Park Buzios|Buzios|NO|stars_4.5
+252739|Rio Buzios Boutique|Buzios|NO|stars_4
+252741|Costa do Sol Boutique|Buzios|NO|stars_3.5
+252742|Casagrande Boutique|Buzios|NO|stars_4
+252743|Pousada dos Buzios|Buzios|NO|stars_3
+252744|Pousada Paraju|Buzios|NO|stars_2
+252745|Pousada Marbella|Buzios|NO|stars_3
+252746|Mar e Terra Pousada|Buzios|NO|stars_3
+252747|Che Lagarto Hostel Buzios|Buzios|NO|stars_2
+252748|Baía do João Pousada|Buzios|NO|stars_3
+252749|Pousada Praia Bella|Buzios|NO|stars_3
+252750|El Misti Buzios Hostel & Pousada|Buzios|NO|stars_2
+252753|Pousada Calmaria|Buzios|NO|stars_3
+252755|Palmanova|Maceio|NO|stars_3
+252756|Mercure Maceio Pajucara|Maceio|NO|stars_3.5
+252757|Tropicalis|Maceio|NO|stars_4
+252758|Marinas Maceió|Maceio|NO|stars_3
+252759|Pousada Pura Vida|Maceio|NO|stars_2
+252760|Porto Suítes Natal & Porto Mirim|Natal|NO|stars_3
+252764|Morro do Careca|Natal|NO|stars_3
+252769|Bruma|Natal|NO|stars_2
+252772|Caju Montebello|Pipa Beach|NO|stars_3
+252773|Alimar|Natal|NO|stars_3
+252774|Bela Silvia Flat|Natal|NO|stars_3
+252775|Condominio Pipa Park|Pipa Beach|NO|stars_3.5
+252776|Pousada Mirante de Pipa|Pipa Beach|NO|stars_3
+252780|Praia Azul Mar|Natal|NO|stars_3
+252781|Jardim Oceano|Natal|NO|stars_3
+252783|Tubarao|Natal|NO|stars_3
+252785|TooCool na Bahia|Praia do Forte|NO|stars_3
+252787|Cosmopolitan Hostel|Boa Viagem|NO|stars_2
+252789|Entremares|Rio de Janeiro|NO|stars_3
+252791|Ipanema Vieira Souto 500 Residence Service|Rio de Janeiro|NO|stars_3
+252792|Ipanema Vieira Souto 510 Residence Service|Rio de Janeiro|NO|stars_3
+252796|Quinta da Paz Resort|Petrópolis|NO|stars_4
+252797|Le Relais de Marambaia|Rio de Janeiro|NO|stars_4
+252798|Clarion Itaipava|Petrópolis|NO|stars_4.5
+252800|Quinta Azul Boutique Pousada|Rio de Janeiro|NO|stars_3
+252801|Santa Teresa|Rio de Janeiro|YES|stars_5
+252804|Casa Áurea|Rio de Janeiro|NO|stars_2
+252805|Copacabana Suites|Rio de Janeiro|NO|stars_3
+252806|Ipanema Copa Posto 6|Rio de Janeiro|NO|stars_3
+252808|Pouso Real|Rio de Janeiro|NO|stars_3
+252809|Casa 579|Rio de Janeiro|NO|stars_3
+252812|Rio Hostel Santa Teresa|Rio de Janeiro|NO|stars_2
+252814|Americano|Rio de Janeiro|NO|stars_1
+252815|Vina del Mar|Rio de Janeiro|NO|stars_2.5
+252817|Villa Laurinda|Rio de Janeiro|NO|stars_3
+252826|Hostel Villa Santana|Rio de Janeiro|NO|stars_1.5
+252829|Angrense Hotel|Rio de Janeiro|NO|stars_2
+252832|Village Novo Beach Suites|Salvador da Bahia|NO|stars_3
+252833|Villetta Dunas|Salvador da Bahia|NO|stars_3
+252834|Alah Mar|Salvador da Bahia|NO|stars_3
+252836|B Hotel|Salvador da Bahia|NO|stars_3
+252837|Flat Jardim de Alah|Salvador da Bahia|NO|stars_3
+252840|Villetta Safira|Salvador da Bahia|NO|stars_3
+252842|Pousada Cancun|Salvador da Bahia|NO|stars_2
+252843|Pousada Corais da Barra|Salvador da Bahia|NO|stars_2
+252844|Andarilho Hostel Pousada|Salvador da Bahia|NO|stars_3
+252845|Hostel Porto Salvador|Salvador da Bahia|NO|stars_3
+252847|Pousada Manga Rosa|Salvador da Bahia|NO|stars_3
+252848|Pousada Poesia|Salvador da Bahia|NO|stars_3
+252849|Solar das Artes Pousada Boutique|Salvador da Bahia|NO|stars_3
+252853|Pousada Casa Vila Bela|Salvador da Bahia|NO|stars_3
+252858|Laranjeiras|Salvador da Bahia|NO|stars_2
+252859|Solar dos Romanos Hostel|Salvador da Bahia|NO|stars_2
+252864|Don Juan|Salvador da Bahia|NO|stars_3
+252866|Trianon Paulista|Sao Paulo|NO|stars_4
+252867|WZ Jardins|Sao Paulo|NO|stars_3.5
+252869|Republica Park|Sao Paulo|NO|stars_3
+252870|Go Inn Jaguare|Sao Paulo|YES|stars_3
+252872|Rojas All Suites|Sao Paulo|NO|stars_3
+252874|Monaco Convention & Hotel|Guarulhos|NO|stars_4
+252875|Mercure Guarulhos Aeroporto|Guarulhos|YES|stars_3
+252876|Carillon Plaza|Sao Paulo|NO|stars_3
+252878|Bella Augusta Residence|Sao Paulo|NO|stars_3
+252879|Pan Americano|Sao Paulo|NO|stars_3
+252884|155 Hotel|Sao Paulo|NO|stars_3
+252885|Amaralina|Sao Paulo|NO|stars_2
+252886|La Guardia Hotel|Sao Paulo|NO|stars_3
+253562|Opaba Praia|Ilheus|NO|stars_3
+253563|Terra Nossa Resort|Ilheus|NO|stars_3
+253585|Barrudada Palace|Fortaleza|NO|stars_3
+253587|Rah Vila Costeira|Fortaleza|NO|stars_3
+253588|Seamar|Fortaleza|NO|stars_3
+253589|Aldeota Praia|Fortaleza|NO|stars_3
+253590|Portal da Praia|Fortaleza|NO|stars_3
+253591|Eldorado Cafe|Fortaleza|NO|stars_2
+253594|Navegantes Praia|Fortaleza|NO|stars_3
+253597|Pau Brasil Praia|Porto Seguro|NO|stars_3.5
+253598|Portal do Mundai Praia|Porto Seguro|NO|stars_3.5
+253599|Beach Hills|Porto Seguro|NO|stars_3
+253607|Vilage Capoeira|Porto Seguro|NO|stars_3
+253609|Residence Karimbo Amazonia|Belem|NO|stars_3
+253610|Ecopousada Miriti|Belem|NO|stars_3
+253612|Esplanada Brasilia Hotel|Brasilia|NO|stars_4
+253613|Flat Petras|Curitiba|NO|stars_4
+253616|Estancia Santa Cruz|Curitiba|NO|stars_3
+253617|Dan Inn Curitiba|Curitiba|NO|stars_3.5
+253619|Garden Curitiba|Curitiba|NO|stars_3
+253620|San Martin|Curitiba|NO|stars_3
+253621|Oscar|Florianopolis|NO|stars_3
+253625|Porto Sol Quality|Florianopolis|NO|stars_4
+253626|Maria Do Mar|Florianopolis|NO|stars_3
+253627|Pousada Verdes Mares|Florianopolis|NO|stars_3
+253628|Vila das Palmeiras|Florianopolis|NO|stars_2.5
+253629|Farol da Ilha|Florianopolis|NO|stars_3
+253630|Hola|Florianopolis|NO|stars_3
+253632|Varadero Palace|Florianopolis|NO|stars_3
+253633|Valerim Plaza|Florianopolis|NO|stars_3
+253634|Pousada dos Chás|Florianopolis|NO|stars_3
+253635|Sete Ilhas|Florianopolis|NO|stars_3
+253641|Geranius|Florianopolis|NO|stars_3
+253644|Samuka|Florianopolis|NO|stars_3
+253645|Millennium|Manaus|YES|stars_4
+253647|Lider Manaus|Manaus|NO|stars_3
+253649|Casa Teatro Boutique|Manaus|NO|stars_3
+253650|Krystal Hotel Manaus|Manaus|NO|stars_3
+253651|Ideal|Manaus|NO|stars_3
+253654|Minas Gerais Pousada|Ouro Preto|NO|stars_3
+253655|Eko Residence|Porto Alegre|NO|stars_4
+253657|Coral Tower Express|Porto Alegre|NO|stars_3
+253660|Ornatus Palace|Porto Alegre|NO|stars_3
+253772|Che Lagarto Hostel Ilha Grande|Costa Verde|NO|stars_2
+253773|Pousada Casablanca|Costa Verde|NO|stars_2.5
+254801|Pousada Baobá|Olinda|NO|stars_3
+256071|Pousada Vila Coqueiros|Cumbuco|NO|stars_3
+256072|Pousada Beleza das Ondas|Caucaia|NO|stars_3
+256436|Pousada Omnimare|Ubatuba|NO|stars_2
+256437|Pousada Ilha de Itaka|Ubatuba|NO|stars_2
+256629|Pousada Vila dos Pássaros|Itacaré|NO|stars_3
+256639|Pousada Jardim de Trancoso|Trancoso|NO|stars_3
+256641|Trancoso Residence|Trancoso|NO|stars_3
+256643|Etnia Clube de Mar|Trancoso|NO|stars_4.5
+256644|Aldeia do Sol|Trancoso|NO|stars_3
+256645|Pousada O Jardim das Margaridas|Trancoso|NO|stars_3
+256646|Pousada Quarto Crescente|Trancoso|NO|stars_3
+256652|Radisson Aracaju|Aracaju|NO|stars_4
+256653|Aruana Eco Praia|Aracaju|NO|stars_4
+256687|Casa Dois Gatos|Cabo Frio|NO|stars_3
+256695|Dan Inn Anhanguera|Campinas|NO|stars_3
+256765|Iguassu Holiday|Foz do Iguaçu|NO|stars_3
+256767|Baviera Iguassu|Foz do Iguaçu|NO|stars_3
+256768|Villa Canoas|Foz do Iguaçu|NO|stars_2
+256769|Florença Iguaçu|Foz do Iguaçu|NO|stars_4
+256770|Canzi Cataratas|Foz do Iguaçu|NO|stars_3
+256772|El Shaddai Hostel Pousada|Foz do Iguaçu|NO|stars_2
+256773|Marica|Foz do Iguaçu|NO|stars_2
+256775|Pousada Sonho Meu|Foz do Iguaçu|NO|stars_3
+256776|Iguassu Guest House|Foz do Iguaçu|NO|stars_2
+256782|Biss Inn|Goiânia|NO|stars_3
+256787|Casa da Montanha|Gramado|NO|stars_4.5
+256788|Petit Casa da Montanha|Gramado|NO|stars_3
+256789|Alpestre|Gramado|NO|stars_4
+256825|Pousada Rancho Fundo|Camaçari|NO|stars_3
+256836|América Palace|Uberlândia|NO|stars_3
+256837|Presidente|Uberlândia|NO|stars_3
+256841|Luzeiros|São Luís|YES|stars_4.5
+256843|Pousada Ceu De Estrelas|Bonito|NO|stars_3
+256845|Internacional|Maringá|NO|stars_3
+256917|Solar das Artes Pousada Boutique|Morro de São Paulo|NO|stars_3.5
+256918|Pousada Tia Glória|Morro de São Paulo|NO|stars_3
+256920|Pousada Mar e Flores|Morro de São Paulo|NO|stars_3
+256921|Tatiba Beach|Morro de São Paulo|NO|stars_3
+256922|Karapitangui|Morro de São Paulo|NO|stars_4
+256924|Pousada Fazenda Caeira|Morro de São Paulo|NO|stars_3
+256925|Pousada Chez Max|Morro de São Paulo|NO|stars_3
+256928|Pousada Iguana|Canoa Quebrada|NO|stars_2.5
+256948|Pousada Mache|Arraial d'Ajuda|NO|stars_3
+256949|Villa 2 Santos|Arraial d'Ajuda|NO|stars_3
+256950|Casa Grande São Vicente|Arraial d'Ajuda|NO|stars_4
+256951|Saint Tropez Praia|Arraial d'Ajuda|NO|stars_4
+256952|Atmosphera Pousada|Arraial d'Ajuda|NO|stars_3
+256953|Tauá|Atibaia|NO|stars_4.5
+256954|Sandri City|Balneário Camboriú|NO|stars_3
+256956|Unidade V - Caju Premium|João Pessoa|NO|stars_3
+256958|Beach Jacumã|João Pessoa|NO|stars_3
+256959|Lagoa Park|João Pessoa|NO|stars_2.5
+256960|Unidade IV - Caju Executive|João Pessoa|NO|stars_2
+256961|Quality Jundiai|Jundiaí|NO|stars_3
+256964|Pousada Cabana|Jericoacoara|NO|stars_3
+256967|Pousada Naquela|Jericoacoara|NO|stars_3
+256968|Vila Bela Vista|Jericoacoara|NO|stars_3
+256970|Estrela d'Alva Pousada|Jericoacoara|NO|stars_3
+257077|Cipó Veraneio Hotel|Jaboticatubas|NO|stars_3
+257084|Casa dos Patos|Flecheiras|NO|stars_3
+257122|Peroba Villa|Maragogi|NO|stars_3
+257125|Kilombo Villas & Spa|Pipa Beach|NO|stars_5
+257126|Pipa Atlântico|Pipa Beach|NO|stars_4
+257127|Pousada da Ladeira|Pipa Beach|NO|stars_3
+257128|Pousada Oka da Mata|Pipa Beach|NO|stars_4
+257129|Solar Pipa|Pipa Beach|NO|stars_4
+257130|Thalassa|Pipa Beach|NO|stars_3
+257131|CostaSol Pipa|Pipa Beach|NO|stars_4
+257132|Morada dos Ventos|Pipa Beach|NO|stars_3
+257133|Pousada Catavento Praia da Pipa|Pipa Beach|NO|stars_3
+257134|Pipa Panorama|Pipa Beach|NO|stars_3
+257151|Hotel Maranata|Governador Celso Ramos|NO|stars_2
+257358|Pousada La Toscana|Campos do Jordão|NO|stars_3
+257359|Pousada Villa de Campos|Campos do Jordão|NO|stars_3
+257360|Toriba|Campos do Jordão|NO|stars_4.5
+257365|Pousada das Hortênsias|Campos do Jordão|NO|stars_3
+257366|Pousada Recanto Almeida|Campos do Jordão|NO|stars_3
+257369|Matsubara|Campos do Jordão|NO|stars_3
+257505|Parajuru Praia|Parajuru|NO|stars_3
+257549|Pousada Casa Rosa|Canela|NO|stars_3
+257550|Pousada Casa de Pedra|Ilhabela|NO|stars_3
+257552|Pousada Praia do Portinho|Ilhabela|NO|stars_3
+257553|Pousada Villa da Prainha|Ilhabela|NO|stars_2.5
+257554|Caravela Pousada|Ilhabela|NO|stars_3
+257555|Refúgio da Harmonia Pousada|Ilhabela|NO|stars_3
+257781|Pousada Cabore|Paraty|NO|stars_3
+257784|Geko Hostel Paraty|Paraty|NO|stars_2
+257785|Pousada Mar Azul|Paraty|NO|stars_2
+257787|Laguna Blue Pousada|Paraty|NO|stars_3
+257788|Rumo dos Ventos Pousada|Paraty|NO|stars_3
+257789|Pousada Abayomi|Paraty|NO|stars_3
+257790|Refugio Tropical|Paraty|NO|stars_3
+257792|Pousada do Careca|Paraty|NO|stars_3
+257793|Pousada Rio Paraty|Paraty|NO|stars_3
+257794|Pousada da Terra Paraty|Paraty|NO|stars_3
+257796|Pousada Paisagem|Paraty|NO|stars_3
+257797|Velejador|Paraty|NO|stars_3
+257800|Pousada do Ouro|Paraty|NO|stars_3
+257801|Pousada Bambu Bamboo|Paraty|NO|stars_3
+257806|Pousada Doce Paraty|Paraty|NO|stars_3
+257807|Misti Chill Hostel & Pousada|Paraty|NO|stars_2
+257808|Paraty Bay Flats|Paraty|NO|stars_2
+257809|Eliconial Paraty Pousada|Paraty|NO|stars_3
+257810|Pousada Aurora|Paraty|NO|stars_3
+257815|Villa Araca|Lauro de Freitas|NO|stars_3
+257816|Villa Flamboyan|Lauro de Freitas|NO|stars_3
+257871|Sofitel Jequitimar Guaruja|Guarujá|NO|stars_5
+257872|Palmar|Guarujá|NO|stars_3
+257873|Ilhas do Caribe|Guarujá|NO|stars_3
+257879|Laghetto Viverone|Bento Gonçalves|NO|stars_3.5
+257880|Pousada Bem te vi|João Pessoa|NO|stars_3
+257938|Encantes do Nordeste|Barreirinhas|NO|stars_2.5
+257952|Mercure Niteroi Orizzonte|Niteroi|NO|stars_3
+257953|Pousada The Goldeneye|Porto Belo|NO|stars_3
+257955|Villa Bebek|São Sebastião|NO|stars_3.5
+258106|Mercure Santos|Santos|NO|stars_3.5
+258231|Locanda|Novo Hamburgo|NO|stars_3
+258240|Ecos Classic|Porto Velho|NO|stars_3
+258244|D'Luz|Itapema|NO|stars_3
+258325|Mahon Mar Pousada|Marechal Deodoro|NO|stars_3
+258327|Alpina Teresopolis|Teresópolis|NO|stars_3
+258379|Dubai Bungalows Bombinhas|Bombinhas|NO|stars_3
+258380|Pousada Dom Capudi|Bombinhas|NO|stars_3
+258381|Pousada Palmeiras|Bombinhas|NO|stars_4
+258389|Sandri Palace|Itajai|NO|stars_4
+258390|Golden Executive|Sao Jose|NO|stars_4
+259177|Canoa Quebrada Hotel Pousada|Canoa Quebrada|NO|stars_3.5
+259178|Il Nuraghe|Canoa Quebrada|NO|stars_4
+259398|Sant'Anna|Amparo|NO|stars_4.5
+260317|Soft Inn Batista Campos|Belem|NO|stars_2
+260397|Comfort Sertãozinho|Ribeirão Preto|NO|stars_3
+260828|Via Mar Praia|Aracaju|NO|stars_3
+260831|Sibara Flat Hotel & Convenções|Balneário Camboriú|NO|stars_4
+260833|Pousada Solar das Bougainvilleas|Florianopolis|NO|0
+260843|Coronado Inn|Buzios|NO|stars_3
+260851|Pousada Nova Villa Tortuga|Buzios|NO|stars_3
+260855|Pousada Praia e Conforto|Buzios|NO|stars_2
+260865|Gran Odara|Cuiabá|NO|stars_5
+260869|Aguas Claras|Gramado|NO|stars_4
+260870|Estrelas da Serra|Gramado|NO|stars_3
+260871|Laghetto|Gramado|NO|stars_3.5
+260872|Laghetto Premium|Gramado|NO|stars_3
+260878|Pousada Ald Mama|Gramado|NO|stars_3
+260879|Monreale|Guarulhos|YES|stars_3
+260890|Brisa Mar|Maceio|NO|stars_4
+260892|Villa Park Hotel|Natal|NO|stars_3
+260894|Best Western Plus Viva Porto de Galinhas|Porto das Galinhas|NO|stars_4
+260895|Pousada Porto Tropical|Porto das Galinhas|NO|stars_2
+260896|Hotel da Praia Bahia|Porto Seguro|NO|stars_3
+260897|Portobello Park|Porto Seguro|NO|stars_3
+260898|Sarana Praia|Porto Seguro|NO|stars_3.5
+260899|Shangrilá|Porto Seguro|NO|stars_3
+260909|Nacional Inn|Salvador da Bahia|NO|stars_3
+260915|Veleiros Mar Hotel|São Luís|NO|stars_3
+261289|Flat Bassano Vaccarini|Ribeirão Preto|NO|stars_3.5
+262041|Gaivota|Rio de Janeiro|NO|stars_3
+262042|Ipanema Tower Residence|Rio de Janeiro|NO|stars_3
+262046|||NO|0
+265797|||NO|0
+265799|||NO|0
+265803|||NO|0
+265804|||NO|0
+265806|||NO|0
+265807|||NO|0
+265809|||NO|0
+265811|||NO|0
+265813|||NO|0
+265814|||NO|0
+265815|||NO|0
+265816|||NO|0
+265817|||NO|0
+265819|||NO|0
+265832|||NO|0
+265833|||NO|0
+265837|||NO|0
+265838|||NO|0
+265842|||NO|0
+265844|||NO|0
+265845|||NO|0
+265848|||NO|0
+265850|||NO|0
+265853|||NO|0
+265858|||NO|0
+265861|||NO|0
+265862|||NO|0
+265863|||NO|0
+265865|||NO|0
+269138|||NO|0
+269139|||NO|0
+269140|||NO|0
+269142|||NO|0
+269143|||NO|0
+269145|||NO|0
+269149|||NO|0
+269150|||NO|0
+269152|||NO|0
+269153|||NO|0
+269154|||NO|0
+269155|||NO|0
+269156|||NO|0
+269157|||NO|0
+269158|||NO|0
+269159|||NO|0
+269160|||NO|0
+269162|||NO|0
+269163|||NO|0
+269164|||NO|0
+269169|||NO|0
+269170|||NO|0
+269171|||NO|0
+269771|||NO|0
+274679|||NO|0
+274681|||NO|0
+274682|||NO|0
+275267|||NO|0
+275268|||NO|0
+275269|||NO|0
+275315|||NO|0
+275316|||NO|0
+275381|||NO|0
+275492|||NO|0
+275493|||NO|0
+275664|||NO|0
+275665|||NO|0
+275666|||NO|0
+275667|||NO|0
+275669|||NO|0
+275674|||NO|0
+275680|||NO|0
+275788|||NO|0
+275789|||NO|0
+275976|||NO|0
+275977|||NO|0
+276004|||NO|0
+276007|||NO|0
+276008|||NO|0
+276009|||NO|0
+276010|||NO|0
+276011|||NO|0
+276013|||NO|0
+276014|||NO|0
+276015|||NO|0
+276111|||NO|0
+276112|||NO|0
+276199|||NO|0
+276200|||NO|0
+276244|||NO|0
+276460|||NO|0
+276482|||NO|0
+276487|||NO|0
+276488|||NO|0
+276489|Urikana Boutique Hotel|Teresópolis|NO|stars_3
+276840|Marina Barro Preto|Aquiraz|NO|stars_3
+276841|Barra do Piuva Porto|Ilhabela|NO|stars_3.5
+276843|Pousada Recanto da Villa|Ilhabela|NO|stars_3
+276845|Marambaia Cabeçudas|Itajai|NO|stars_3
+276846|Icaraí Praia Hotel|Niteroi|NO|stars_3
+276847|Pousada Porto Mare|São Sebastião|NO|stars_3
+276848|Pousada das Cachoeiras|Ubatuba|NO|stars_3
+276851|Coquille|Ubatuba|NO|stars_3
+277333|Bristol Guarapari Residence|Guarapari|NO|stars_3
+277497|Pousada Aquavilla|Prado|NO|stars_3
+277498|Buzios San Francisco|Buzios|NO|stars_3
+277499|Ferradura Parque Pousada|Buzios|NO|stars_2
+278503|Novotel Porto Alegre Aeroporto|Porto Alegre|NO|stars_4
+282709|Muffato Plaza|Foz do Iguaçu|NO|stars_3
+282710|Maria Ricca Palace|Foz do Iguaçu|NO|stars_3
+282723|Mercure Goiania|Goiânia|NO|stars_4
+282855|Blue Tree Towers Rio Poty|Teresina|NO|stars_4
+283566|Holiday Inn Express Maceio Ponta Verde|Maceio|NO|stars_3
+284825|Lake Villas Charm|Amparo|NO|stars_5
+284944|San Diego Suites Pampulha|Belo Horizonte|NO|stars_4
+284946|Castelar da Alvorada|Belo Horizonte|NO|0
+284947|Estalagem do Porto|Arraial do Cabo|NO|stars_3
+284948|Da Canoa|Arraial do Cabo|NO|stars_3
+284958|Guaratiba Parque|Rio de Janeiro|NO|stars_3
+284964|Portal Rio Una|Salvador da Bahia|NO|stars_4
+284970|Pousada Martin de S?|Sao Paulo|NO|stars_2
+284972|Vila Olaria Hotel|Sao Paulo|NO|stars_3
+284976|Palais|São Vicente|NO|stars_3
+284977|Cinelandia Hotel|Sao Paulo|NO|stars_3
+285775|Benkos Praia|Porto Seguro|NO|stars_2.5
+285777|Pousada Sao Luiz|Porto Seguro|NO|stars_2
+285780|Radisson Maiorana Belem|Belem|NO|stars_4.5
+285781|Tulip Inn Hangar|Belem|YES|stars_0
+285785|Windsor Plaza Brasília|Brasilia|NO|stars_5
+285786|Saint Moritz|Brasilia|NO|stars_4
+285789|Bristol Multy Portal Do Iguacu|Curitiba|NO|stars_4
+285790|Ibis Curitiba Shopping|Curitiba|NO|stars_2.5
+285791|Master Express Curitiba|Curitiba|NO|stars_3
+285794|Slaviero Slim Balneário Camboriú|Balneário Camboriú|NO|stars_3
+285798|Express Aeroporto|Porto Alegre|NO|stars_3
+285800|Expressinho|Porto Alegre|NO|stars_3
+285803|Royal Palace Airport|Porto Alegre|NO|stars_3
+285886|Pousada Tropicalia|Itaparica|NO|stars_3
+285899|Real Pousada|Porto das Galinhas|NO|stars_2.5
+286035|Pousada Pedras Secas|Fernando de Noronha Island|NO|stars_2
+286037|Pousada Solar Dos Ventos|Fernando de Noronha Island|NO|stars_3
+288205|Don Juan Pousada E Spa|Paraty|NO|stars_2.5
+288638|Pousada Pedra Torta|Itacaré|NO|stars_3
+288639|Pousada Terra Boa|Itacaré|NO|stars_3.5
+289067|Del Canto|Aracaju|NO|stars_4
+289068|Riverside Farol|Aracaju|NO|stars_3
+289069|Pousada Do Sol|Aracaju|NO|stars_3
+289070|Sandrin Praia|Aracaju|NO|stars_3
+289071|Gran Hotel Morada do Sol|Araraquara|NO|stars_3.5
+289123|Dan Inn Cambui|Campinas|NO|stars_3
+289281|Gramado Master Palace|Gramado|NO|stars_4
+289282|Villa Bella Gramado|Gramado|NO|stars_4
+289288|Iracemar Boutique|Guarujá|NO|stars_3
+289289|Delphin|Guarujá|NO|stars_3.5
+289290|Il Faro|Guarujá|NO|stars_3
+289296|Faro|São José dos Campos|NO|stars_3
+289308|Kenoa Resort|Barra de São Miguel|NO|stars_5
+289346|Express Executive Hotel|Novo Hamburgo|NO|stars_3
+289347|Suarez Internacional|Novo Hamburgo|NO|stars_4
+289358|Ibis Vitoria Praia De Camburi|Vitória|NO|stars_3
+289359|Quality Hotel Aeroporto Vitoria|Vitória|NO|stars_3.5
+289363|Cedro|Londrina|NO|stars_3
+289366|LondriStar|Londrina|NO|stars_3
+289368|Sumatra Hotel & Centro de Convencoes|Londrina|NO|stars_3
+289470|Ryan|Balneário Camboriú|NO|stars_3
+289471|Sanfelice|Balneário Camboriú|NO|stars_4
+289472|San Marino Cassino|Balneário Camboriú|NO|stars_4
+289473|Infinity Blue Spa & Resort|Balneário Camboriú|NO|stars_5
+289479|Taiwan|Ribeirão Preto|NO|stars_3.5
+289730|Riviera Araçatuba|Araçatuba|NO|stars_3
+289745|Holiday House|Caldas Novas|NO|stars_3
+289762|Pousada Pérolas do Mar|Riacho Doce|NO|stars_3
+289763|Tambaqui Praia|Riacho Doce|NO|stars_3
+290018|Grande Campos do Jordão|Campos do Jordão|NO|stars_4
+290019|Saha Campos|Campos do Jordão|NO|stars_3
+290766|Marlin|Bombinhas|NO|stars_4
+290854|Hotel Continental Canela|Canela|NO|stars_5
+290857|Klein Ville|Canela|NO|stars_4
+290860|Vitoria Hotel Indaiatuba|Indaiatuba|NO|stars_4
+291679|Pousada Vila Solaris|Nova Lima|NO|stars_3
+291683|Laje de Itaúna Hotel & Spa|Saquarema|NO|stars_3
+291684|Casarao da Amazonia|Soure|NO|stars_3
+291685|Paracauary Eco Pousada|Soure|NO|stars_3
+291844|Express Canoas|Canoas|NO|stars_3
+291845|Metropolitan|Canoas|NO|stars_4
+291883|Pousada Residenza Canoa|Aracati|NO|stars_3
+291884|Pousada Aruana|Aracati|NO|stars_3
+291885|Pousada La Dolce Vita|Aracati|NO|stars_3
+291886|Pousada Latitude|Aracati|NO|stars_2
+291887|Pousada Lua Cheia|Baia da Traicao|NO|stars_3
+291888|Vila Alaide Praia|Barra Velha|NO|stars_3
+291897|Garopaba Mar|Garopaba|NO|stars_3
+291899|Fazenda Monte Castelo|Gravatá|NO|stars_3.5
+291900|Harbor Baroni Guarapuava|Guarapuava|NO|stars_4
+291902|Pousada Suruby|Mangue Seco|NO|stars_3
+291904|Harbor Inn Medianeira|Medianeira|NO|stars_3
+291905|Cabeça de Boi|Monte Verde|NO|stars_3
+291906|Bonjuá Fazenda|Montes Claros|NO|stars_3
+291907|Villaoeste|Mossoró|NO|stars_4
+291910|Praia Sol|Santa Terezinha de Itaipu|NO|stars_3
+291911|Odara Sorriso|Mato Grosso|NO|stars_4
+291912|Baviera Park Hotel|Teutônia|NO|stars_3
+291913|São Paulo|Torres|NO|stars_3
+292146|Hotel Gran Minas|Belo Horizonte|NO|stars_3
+292147|San Diego  Expresso Vespasiano|Belo Horizonte|NO|stars_3
+292149|Comfort Campos dos Goytacazes|Campos dos Goytacazes|NO|stars_4
+292151|Mercure Rio de Janeiro Nova Iguacu Hotel|Nova Iguaçu|NO|stars_3.5
+292154|Villa di Mantova Resort|Águas de Lindóia|NO|stars_4
+292155|Grande Hotel São Pedro - Hotel Escola Senac|Sao Paulo|NO|stars_5
+292330|Express Confort|São Leopoldo|NO|stars_3
+292331|Express São Leopoldo|São Leopoldo|NO|stars_2.5
+292332|Suarez|São Leopoldo|NO|stars_4
+293438|Bristol Zaniboni|Campinas|NO|stars_3
+293551|Ipe Park|São José do Rio Preto|NO|stars_3
+293658|Fasano Boa Vista|Sorocaba|NO|stars_5
+294840|Mangabeiras|Cuiabá|NO|stars_3
+294897|Barrudada|Boa Vista|NO|stars_3
+294911|San Diego Suites Rio Grande Passos|Passos|NO|stars_3
+294916|Quality Hotel & Convention Center|Marilia|NO|stars_3.5
+295460|Pousada Des Basques|Maceio|NO|stars_2
+295518|Port Louis Pousada|Caraguatatuba|NO|stars_3
+295520|Confraria Colonial|Mairinque|NO|stars_5
+295522|Villa Passaredo|Tijucas do Sul|NO|0
+295821|Pousada Naturalia|Ilha Grande|NO|stars_3
+295822|Solar Do Imperio|Petrópolis|NO|stars_3
+296364|The Sun|Brasilia|NO|stars_3
+296373|Pousada Blue Marlin|Buzios|NO|stars_3
+296376|Marlim|Porto Seguro|NO|stars_3
+296949|Marambaia do Porto|Ipojuca|NO|stars_2.5
+297894|Pousada Doce Cabana|Ipojuca|NO|stars_2
+298291|Daher Center|Sao Paulo|NO|stars_3
+300669|Pousada Evelina|Foz do Iguaçu|NO|stars_2
+300670|Residence Praia|Natal|NO|stars_3
+301407|Mercure Salvador Boulevard|Salvador da Bahia|NO|stars_4
+310964|Komplex Oasis Atlantico Fortaleza / Oasis Atlantico Imperial  - Oasis Atlantico Fortaleza|Fortaleza|NO|stars_3.5
+310965|Komplex Oasis Atlantico Fortaleza / Oasis Atlantico Imperial - Oasis Atlantico Imperial|Fortaleza|NO|stars_4
+311061|Meridiano|Maceio|NO|stars_4.5
+311062|Praia Hotel Enseada|Maceio|NO|stars_3
+311064|Neo Maceió|Maceio|NO|stars_3
+311066|Água de Coco Hotel-Pousada|Maceio|NO|stars_3
+311071|Express Vieiralves|Manaus|NO|stars_2.5
+311072|InterCity Premium Manaus|Manaus|NO|stars_4
+311073|Pousada Stella Tropical|Salvador da Bahia|NO|stars_2
+311074|Sotero|Salvador da Bahia|NO|stars_4
+311075|Pousada Villas do Atlântico|Camaçari|NO|stars_2
+311106|Abrolhos Praia|Porto Seguro|NO|stars_2.5
+311107|Andimar|Porto Seguro|NO|stars_3
+311108|Bahiabacana|Porto Seguro|NO|stars_3
+311110|Terra Brasil|Porto Seguro|NO|stars_3
+311111|Malibu Porto|Porto Seguro|NO|stars_3
+311112|Portobacana|Porto Seguro|NO|stars_3
+311113|Pousada Aldeia Portuguesa|Santa Cruz Cabrália|NO|stars_3
+311116|Pousada Village Arraial|Arraial d'Ajuda|NO|stars_3
+311155|Scala Residenza|Fortaleza|NO|stars_3
+311165|Lord Palace|Goiânia|NO|stars_2
+311168|Tulip Inn Saint Louis|São Luís|YES|stars_3
+311169|Bristol Jaraguá|Belo Horizonte|NO|stars_3
+311175|Nascentes da Serra|Poços de Caldas|NO|stars_3
+311177|Uberaba|Uberaba|NO|stars_3
+311179|Druds Três Lagoas|Três Lagoas|NO|stars_3
+311180|Odara Lucas|Lucas do Rio Verde|YES|stars_3.5
+311219|D'Luca|Cuiabá|NO|stars_3
+311221|Serras|Cuiabá|NO|stars_4
+311227|Harbor Inn Rondonópolis|Rondonópolis|NO|stars_3
+311228|Smart|João Pessoa|NO|stars_3
+311230|Nobile Beach Class Executive|Boa Viagem|NO|stars_4
+311243|Pousada Radiante|Porto das Galinhas|NO|stars_2
+311248|Golden Park Curitiba|Curitiba|NO|stars_3
+314215|Ramada Riocentro|Rio de Janeiro|NO|stars_3.5
+314216|Angra dos Reis Boutique|Angra dos Reis|NO|stars_3
+314244|Itatiaia Premium|Passo Fundo|NO|stars_3
+314248|Miramar Hotel|Balneário Camboriú|NO|stars_3
+314251|HM Plaza|Balneário Camboriú|NO|stars_3
+314277|Pousada Olá|Aracaju|NO|stars_2
+314279|Prodigy Beach Resort & Conventions|Aracaju|NO|stars_4
+314300|Travel Inn Boulevard Riviera|Bertioga|NO|stars_3
+314301|Pousada Aroeira|Juquehy|NO|stars_2
+314302|Pousada Bico Verde|Juquehy|NO|stars_3
+314303|Pousada Moryba|Juquehy|NO|stars_2.5
+314304|Pousada Tupinambá|Juquehy|NO|stars_2.5
+314309|Nacional Inn Campos do Jordão|Campos do Jordão|NO|stars_4
+314311|Park Tower Hotel|Campinas|NO|stars_3
+314316|Pirassununga Othon Suítes|Pirassununga|NO|stars_3
+314317|Panorama Hotel & Spa|Águas de Lindóia|NO|stars_3
+314402|Barracuda Resort|Buzios|NO|stars_3.5
+314406|Pousada Azzurra|Natal|NO|stars_2
+314415|Elegance Hotel|Rio de Janeiro|NO|stars_3
+314422|Ipanema Beach House|Rio de Janeiro|NO|stars_2
+325017|Ville Atlântico Hotel|Santos|NO|stars_3
+327978|Pousada Ecovila Spa da Alma|Tibau do Sul|NO|stars_3
+328207|Senac Ilha do Boi|Vitória|NO|stars_5
+328213|Araucária|Maringá|NO|stars_3
+363674|Recife Plaza|Recife|NO|stars_3
+363679|Pousada das Pedras|Paraty|NO|stars_2
+363680|Golden Park Uberaba|Uberaba|NO|stars_3.5
+363705|Canasvieiras Internacional|Florianopolis|NO|stars_3
+366794|ibis Belo Horizonte Afonso Pena|Belo Horizonte|NO|stars_3
+366804|Hotel Panamby Sao Paulo|Sao Paulo|YES|stars_4
+366805|Merak Hotel|Sao Paulo|NO|stars_3
+367611|Holiday Inn Exp Belem Ananinde|Belem|NO|stars_3
+367612|Hotel Metropolitan|Campo Grande|NO|stars_3
+370306|Hotel Rio Vermelho|Goiânia|NO|stars_2.5
+370312|Saint Andrews Gramado|Gramado|NO|stars_5
+370441|Ancora Pantanal|Cuiabá|NO|stars_2.5
+370468|Holiday Inn Express Porto Velho|Porto Velho|NO|stars_2.5
+370730|Limeira Othon Suites|Limeira|NO|stars_4
+372099|Blue Tree Towers Rio Verde|Rio Verde|NO|stars_4
+372131|Ibis Mossoro|Mossoró|NO|stars_3
+372139|Quality Hotel Petrolina|Petrolina|NO|stars_3
+391664|Village Mutá|Porto Seguro|NO|stars_3
+399770|Ponta Verde Praia do Francês|Marechal Deodoro|NO|stars_4
+399772|Pousada República do Sol|Marechal Deodoro|NO|stars_2
+399774|Arraial d?Ajuda Gold Hotel|Porto Seguro|NO|stars_3
+399775|Harbor Self Salvador|Salvador da Bahia|YES|stars_3
+399777|Praia Mar Hotel|Porto Seguro|NO|stars_3
+399825|Days Inn|Linhares|NO|stars_3.5
+400779|Santíssimo Resort|Tiradentes|NO|stars_4
+400784|Delcas Hotel|Cuiabá|NO|stars_3
+400785|Roari Hotel|Cuiabá|NO|stars_3.5
+400786|Skala Traveling Hotel|Cuiabá|NO|stars_3
+400889|Araraquara Othon Suítes|Araraquara|NO|stars_4
+400891|Nau Royal|Caraguatatuba|NO|stars_4.5
+400892|Linx Hotel International Airport Galeão|Rio de Janeiro|NO|stars_3
+400893|Plaza Florianopolis|Florianopolis|NO|stars_3
+400904|Pousada Ares de Noronha|Fernando de Noronha Island|NO|stars_2
+401166|Harbor Self Cidade Verde|Maringá|NO|stars_3
+401311|Ecoresort Serra Imperial|Macaé|NO|stars_3
+401317|Experience João Fernandes|Buzios|NO|stars_3
+401329|Pousada La Foret|Buzios|NO|stars_3
+401335|Blue Marlin Apartments|Natal|NO|stars_3
+401339|Açores Premium Hotel|Porto Alegre|NO|stars_3
+401340|Dall´Onder Grande Hotel|Bento Gonçalves|NO|stars_4
+401341|Dall'Onder Vittória|Bento Gonçalves|NO|stars_3
+401493|Bello Mar Praia|Aracaju|NO|stars_2.5
+401496|Le Renard|Campos do Jordão|NO|stars_3.5
+401500|Vivendas do Sol e Mar|Caraguatatuba|NO|stars_3
+401506|Slaviero Executive|São Carlos|NO|stars_3
+401681|Vila Gale Rio de Janeiro|Rio de Janeiro|NO|stars_4
+404319|Zoghbi Apart Hotel|Belem|NO|stars_3
+404324|Quality Hotel Pampulha|Belo Horizonte|NO|stars_4
+404351|Bessa Beach Hotel|João Pessoa|NO|stars_4
+404357|Pousada Vila dos Corais|Paripueira|NO|0
+404369|Quinta do Sol|Porto Seguro|NO|stars_3
+404371|Pousada da Bica|Porto Seguro|NO|stars_3
+405170|Sheraton Reserva do Paiva Hotel & Convention Center|Cabo de Santo Agostinho|YES|stars_4.5
+405171|Tulip Inn Savassi|Belo Horizonte|YES|stars_0
+405172|Tulip Inn Sobral|Sobral|YES|stars_0
+405907|Promenade Prime Residence Service|Itaboraí|NO|stars_3
+406608|Novotel Salvador Hangar Aeroporto|Salvador da Bahia|NO|stars_4
+407173|Mabu Iloa Resort|Barra de São Miguel|NO|stars_3.5
+407190|Florida Inn Ocean|Porto Seguro|NO|stars_3
+407200|Pousada Ogum Marinho|Praia do Forte|NO|stars_3
+407201|Kembali|Porto das Galinhas|NO|stars_4
+407202|Pousada Praia dos Carneiros|Tamandare|NO|stars_2
+407220|Quality Hotel & Suites Brasilia|Brasilia|NO|stars_3
+407222|Bristol Alameda Vitória|Vitória|NO|stars_3.5
+407259|Comfort Hotel Confins|Belo Horizonte|NO|stars_3
+407261|Getúllio Hotel by Nobile|Cuiabá|NO|stars_3
+407265|Dublê Hotel|Recife|NO|stars_3
+407276|Pousada Vila do Galo|Ipojuca|NO|stars_2
+407334|Hotel La Plage|Cabo Frio|NO|stars_3
+407722|Aeroporto Express Hotel|Aracaju|NO|stars_3
+407726|Golden Park Ribeirão Preto|Ribeirão Preto|NO|stars_3
+407728|Pousada Magic City|Mogi das Cruzes|NO|stars_3
+407754|Viale Tower Hotel|Foz do Iguaçu|NO|stars_3
+407756|Pier Beach Hotel|Cabo Frio|NO|stars_3
+407757|Pousada Tankamana|Petrópolis|NO|stars_3
+407792|Holiday Inn Belo Horizonte Savassi|Belo Horizonte|NO|stars_3
+407799|Blue Residence|Jericoacoara|NO|stars_4.5
+407801|Pestana Bahia Lodge|Salvador da Bahia|NO|stars_4.5
+408788|Eurostars Brisas Do Lago|Brasilia|NO|stars_5
+409041|Campo Bahia|Santo André|NO|stars_5
+409173|Jatiuca Resort - Hotel|Maceio|NO|stars_5
+409174|Jatiuca Resort - Suites|Maceio|NO|stars_4.5
+412369|Beach Park Resorts - Acqua Beach Park Resort|Praia de Porto das Dunas|NO|stars_5
+412371|Beach Park Resorts - Wellness Beach Park Resort|Praia de Porto das Dunas|NO|0
+413243|Mountain Village|Canela|NO|stars_4
+414681|Natur Campeche Hotel & Pousada - Natur Campeche Hotel|Florianopolis|NO|stars_3
+414683|Natur Campeche Hotel & Pousada - Natur Campeche Pousada|Florianopolis|NO|stars_3
